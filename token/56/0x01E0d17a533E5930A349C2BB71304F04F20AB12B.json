@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x01E0d17a533E5930A349C2BB71304F04F20AB12B",
+	"symbol": "Revolve Games",
+	"name": "Revolve Games",
+	"coingecko": "revolve-games",
+	"sources": [
+		"coingecko"
+	]
+}

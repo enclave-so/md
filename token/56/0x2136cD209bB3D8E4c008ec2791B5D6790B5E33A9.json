@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x2136cD209bB3D8E4c008ec2791B5D6790B5E33A9",
+	"symbol": "Able Finance",
+	"name": "Able Finance",
+	"coingecko": "able-finance",
+	"sources": [
+		"coingecko"
+	]
+}

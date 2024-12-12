@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xefa4Cda666c6A1c03A38E4885266b019dEc57662",
+	"symbol": "Orbital7",
+	"name": "Orbital7",
+	"coingecko": "orbital7",
+	"sources": [
+		"coingecko"
+	]
+}

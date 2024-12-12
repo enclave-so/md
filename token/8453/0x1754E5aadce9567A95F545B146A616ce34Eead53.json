@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x1754E5aadce9567A95F545B146A616ce34Eead53",
+	"symbol": "Bonke (Base)",
+	"name": "Bonke (Base)",
+	"coingecko": "bonke-base",
+	"sources": [
+		"coingecko"
+	]
+}

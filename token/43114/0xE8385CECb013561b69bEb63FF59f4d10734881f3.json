@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0xE8385CECb013561b69bEb63FF59f4d10734881f3",
+	"symbol": "Gecko Inu",
+	"name": "Gecko Inu",
+	"coingecko": "gecko-inu",
+	"sources": [
+		"coingecko"
+	]
+}

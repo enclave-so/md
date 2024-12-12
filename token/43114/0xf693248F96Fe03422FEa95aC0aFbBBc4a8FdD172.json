@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0xf693248F96Fe03422FEa95aC0aFbBBc4a8FdD172",
+	"symbol": "Treasure Under Sea",
+	"name": "Treasure Under Sea",
+	"coingecko": "treasure-under-sea",
+	"sources": [
+		"coingecko"
+	]
+}

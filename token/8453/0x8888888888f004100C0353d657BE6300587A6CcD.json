@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x8888888888f004100C0353d657BE6300587A6CcD",
+	"symbol": "ACryptoS",
+	"name": "ACryptoS",
+	"coingecko": "acryptos-2",
+	"sources": [
+		"coingecko"
+	]
+}

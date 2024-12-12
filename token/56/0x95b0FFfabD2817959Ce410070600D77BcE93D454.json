@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x95b0FFfabD2817959Ce410070600D77BcE93D454",
+	"symbol": "Shockwaves",
+	"name": "Shockwaves",
+	"coingecko": "shockwaves",
+	"sources": [
+		"coingecko"
+	]
+}

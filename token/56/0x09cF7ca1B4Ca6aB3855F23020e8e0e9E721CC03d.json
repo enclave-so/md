@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x09cF7ca1B4Ca6aB3855F23020e8e0e9E721CC03d",
+	"symbol": "Layerium",
+	"name": "Layerium",
+	"coingecko": "layerium",
+	"sources": [
+		"coingecko"
+	]
+}

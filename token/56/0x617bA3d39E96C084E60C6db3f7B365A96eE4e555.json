@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x617bA3d39E96C084E60C6db3f7B365A96eE4e555",
+	"symbol": "Interstellar Domain Order",
+	"name": "Interstellar Domain Order",
+	"coingecko": "interstellar-domain-order",
+	"sources": [
+		"coingecko"
+	]
+}

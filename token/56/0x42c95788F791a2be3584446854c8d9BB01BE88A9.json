@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x42c95788F791a2be3584446854c8d9BB01BE88A9",
+	"symbol": "Harbor",
+	"name": "Harbor",
+	"coingecko": "harbor-3",
+	"sources": [
+		"coingecko"
+	]
+}

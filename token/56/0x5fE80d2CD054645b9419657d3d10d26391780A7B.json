@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x5fE80d2CD054645b9419657d3d10d26391780A7B",
+	"symbol": "MUX Protocol",
+	"name": "MUX Protocol",
+	"coingecko": "mcdex",
+	"sources": [
+		"coingecko"
+	]
+}

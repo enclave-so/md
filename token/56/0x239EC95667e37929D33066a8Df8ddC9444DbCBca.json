@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x239EC95667e37929D33066a8Df8ddC9444DbCBca",
+	"symbol": "DfiStarter",
+	"name": "DfiStarter",
+	"coingecko": "defistarter",
+	"sources": [
+		"coingecko"
+	]
+}

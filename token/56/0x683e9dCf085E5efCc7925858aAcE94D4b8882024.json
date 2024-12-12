@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x683e9dCf085E5efCc7925858aAcE94D4b8882024",
+	"symbol": "TangYuan",
+	"name": "TangYuan",
+	"coingecko": "tangyuan",
+	"sources": [
+		"coingecko"
+	]
+}

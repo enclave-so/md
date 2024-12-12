@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x7Db21353A0c4659B6A9a0519066aa8D52639Dfa5",
+	"symbol": "Joltify",
+	"name": "Joltify",
+	"coingecko": "joltify",
+	"sources": [
+		"coingecko"
+	]
+}

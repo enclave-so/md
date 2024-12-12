@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x39dF92f325938c610f4e4a04F7b756145eBe8804",
+	"symbol": "DexNet",
+	"name": "DexNet",
+	"coingecko": "dexnet",
+	"sources": [
+		"coingecko"
+	]
+}

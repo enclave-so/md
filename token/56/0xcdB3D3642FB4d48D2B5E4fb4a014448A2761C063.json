@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xcdB3D3642FB4d48D2B5E4fb4a014448A2761C063",
+	"symbol": "Justus",
+	"name": "Justus",
+	"coingecko": "justus",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x89414F992d4F24fC1bdE61EB5C7A74Ca83Fbe13B",
+	"symbol": "Rublex",
+	"name": "Rublex",
+	"coingecko": "rublex",
+	"sources": [
+		"coingecko"
+	]
+}

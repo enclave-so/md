@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xe8E55A847Bb446d967ef92F4580162fb8f2d3F38",
+	"symbol": "Broge",
+	"name": "Broge",
+	"coingecko": "broge",
+	"sources": [
+		"coingecko"
+	]
+}

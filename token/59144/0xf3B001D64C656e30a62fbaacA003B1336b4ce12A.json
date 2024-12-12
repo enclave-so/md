@@ -1,0 +1,10 @@
+{
+	"chain": 59144,
+	"address": "0xf3B001D64C656e30a62fbaacA003B1336b4ce12A",
+	"symbol": "MAI (Linea)",
+	"name": "MAI (Linea)",
+	"coingecko": "mai-linea",
+	"sources": [
+		"coingecko"
+	]
+}

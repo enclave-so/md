@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xDC46c1e93B71fF9209A0F8076a9951569DC35855",
+	"symbol": "MYSTCL",
+	"name": "MYSTCL",
+	"coingecko": "mystcl",
+	"sources": [
+		"coingecko"
+	]
+}

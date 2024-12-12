@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0xB1f19E492401545C1B060C4B18688F9178325b4D",
+	"symbol": "Flux Point Studios SHARDS",
+	"name": "Flux Point Studios SHARDS",
+	"coingecko": "flux-point-studios-shards",
+	"sources": [
+		"coingecko"
+	]
+}

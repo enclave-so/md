@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x5Ca4e7294B14EA5745EE2A688990e0cb68503219",
+	"symbol": "Green Beli",
+	"name": "Green Beli",
+	"coingecko": "green-beli",
+	"sources": [
+		"coingecko"
+	]
+}

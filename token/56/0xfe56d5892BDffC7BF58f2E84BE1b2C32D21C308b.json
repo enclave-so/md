@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xfe56d5892BDffC7BF58f2E84BE1b2C32D21C308b",
+	"symbol": "Kyber Network Crystal",
+	"name": "Kyber Network Crystal",
+	"coingecko": "kyber-network-crystal",
+	"sources": [
+		"coingecko"
+	]
+}

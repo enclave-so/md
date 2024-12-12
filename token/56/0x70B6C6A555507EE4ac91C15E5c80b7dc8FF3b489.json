@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x70B6C6A555507EE4ac91C15E5c80b7dc8FF3b489",
+	"symbol": "XTblock",
+	"name": "XTblock",
+	"coingecko": "xtblock-token",
+	"sources": [
+		"coingecko"
+	]
+}

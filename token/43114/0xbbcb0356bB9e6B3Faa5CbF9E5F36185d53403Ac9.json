@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0xbbcb0356bB9e6B3Faa5CbF9E5F36185d53403Ac9",
+	"symbol": "Backed Coinbase Global",
+	"name": "Backed Coinbase Global",
+	"coingecko": "backed-coinbase-global",
+	"sources": [
+		"coingecko"
+	]
+}

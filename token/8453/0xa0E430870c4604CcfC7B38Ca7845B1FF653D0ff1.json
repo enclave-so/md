@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xa0E430870c4604CcfC7B38Ca7845B1FF653D0ff1",
+	"symbol": "Moonwell Flagship ETH (Morpho Vault)",
+	"name": "Moonwell Flagship ETH (Morpho Vault)",
+	"coingecko": "moonwell-flagship-eth-morpho-vault",
+	"sources": [
+		"coingecko"
+	]
+}

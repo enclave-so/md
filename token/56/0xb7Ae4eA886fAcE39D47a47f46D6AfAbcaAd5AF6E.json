@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xb7Ae4eA886fAcE39D47a47f46D6AfAbcaAd5AF6E",
+	"symbol": "8Bit Chain",
+	"name": "8Bit Chain",
+	"coingecko": "8bit-chain",
+	"sources": [
+		"coingecko"
+	]
+}

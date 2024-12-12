@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xE9D7023f2132D55cbd4Ee1f78273CB7a3e74F10A",
+	"symbol": "Dark Energy Crystals",
+	"name": "Dark Energy Crystals",
+	"coingecko": "dark-energy-crystals",
+	"sources": [
+		"coingecko"
+	]
+}

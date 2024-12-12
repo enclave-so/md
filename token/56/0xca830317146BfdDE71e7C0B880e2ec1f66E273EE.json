@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xca830317146BfdDE71e7C0B880e2ec1f66E273EE",
+	"symbol": "PolyGod",
+	"name": "PolyGod",
+	"coingecko": "polygod",
+	"sources": [
+		"coingecko"
+	]
+}

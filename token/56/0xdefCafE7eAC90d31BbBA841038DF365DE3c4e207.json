@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xdefCafE7eAC90d31BbBA841038DF365DE3c4e207",
+	"symbol": "0xDEFCAFE",
+	"name": "0xDEFCAFE",
+	"coingecko": "0xdefcafe",
+	"sources": [
+		"coingecko"
+	]
+}

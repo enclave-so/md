@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xBE58fdA3Bcf03B6bbc821D1f0E6b764C86709227",
+	"symbol": "Vabble",
+	"name": "Vabble",
+	"coingecko": "vabble-2",
+	"sources": [
+		"coingecko"
+	]
+}

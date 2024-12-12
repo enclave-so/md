@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x99C486b908434Ae4adF567e9990A929854d0c955",
+	"symbol": "Nimbus Platform GNIMB",
+	"name": "Nimbus Platform GNIMB",
+	"coingecko": "nimbus-platform-gnimb",
+	"sources": [
+		"coingecko"
+	]
+}

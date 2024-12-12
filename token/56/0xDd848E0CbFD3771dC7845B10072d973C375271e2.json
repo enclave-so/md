@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xDd848E0CbFD3771dC7845B10072d973C375271e2",
+	"symbol": "Lanceria",
+	"name": "Lanceria",
+	"coingecko": "lanceria",
+	"sources": [
+		"coingecko"
+	]
+}

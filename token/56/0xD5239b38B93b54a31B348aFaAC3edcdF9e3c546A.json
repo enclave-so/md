@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xD5239b38B93b54a31B348aFaAC3edcdF9e3c546A",
+	"symbol": "HashBit [OLD]",
+	"name": "HashBit [OLD]",
+	"coingecko": "hashbit",
+	"sources": [
+		"coingecko"
+	]
+}

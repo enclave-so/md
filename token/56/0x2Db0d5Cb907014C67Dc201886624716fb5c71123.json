@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x2Db0d5Cb907014C67Dc201886624716fb5c71123",
+	"symbol": "Ainu",
+	"name": "Ainu",
+	"coingecko": "ainu-token",
+	"sources": [
+		"coingecko"
+	]
+}

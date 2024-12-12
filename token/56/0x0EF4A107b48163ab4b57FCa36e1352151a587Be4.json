@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x0EF4A107b48163ab4b57FCa36e1352151a587Be4",
+	"symbol": "ICHI",
+	"name": "ICHI",
+	"coingecko": "ichi-farm",
+	"sources": [
+		"coingecko"
+	]
+}

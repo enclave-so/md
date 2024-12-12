@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xEd66eC1acb7Dbd0C01cCCfF33E3fF1F423057C21",
+	"symbol": "Virtual Tourist",
+	"name": "Virtual Tourist",
+	"coingecko": "virtual-tourist",
+	"sources": [
+		"coingecko"
+	]
+}

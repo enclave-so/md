@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xb68a20b9e9B06fDE873897e12Ab3372ce48F1A8A",
+	"symbol": "Playdoge",
+	"name": "Playdoge",
+	"coingecko": "playdoge",
+	"sources": [
+		"coingecko"
+	]
+}

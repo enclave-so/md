@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x43a0C5EB1763A211Aa3c05849A617f2eE0452767",
+	"symbol": "PokeDX",
+	"name": "PokeDX",
+	"coingecko": "pokedx",
+	"sources": [
+		"coingecko"
+	]
+}

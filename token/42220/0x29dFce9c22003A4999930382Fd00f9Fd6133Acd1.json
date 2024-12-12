@@ -1,0 +1,11 @@
+{
+	"chain": 42220,
+	"address": "0x29dFce9c22003A4999930382Fd00f9Fd6133Acd1",
+	"symbol": "SUSHI",
+	"name": "Optics SushiToken v2",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/celo/assets/0x29dFce9c22003A4999930382Fd00f9Fd6133Acd1/logo.png",
+	"sources": [
+		"sushiswap"
+	]
+}

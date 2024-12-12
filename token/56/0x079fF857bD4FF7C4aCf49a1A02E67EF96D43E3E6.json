@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x079fF857bD4FF7C4aCf49a1A02E67EF96D43E3E6",
+	"symbol": "MeAI",
+	"name": "MeAI",
+	"coingecko": "meai",
+	"sources": [
+		"coingecko"
+	]
+}

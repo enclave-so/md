@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x20D39a5130F799b95B55a930E5b7eBC589eA9Ed8",
+	"symbol": "Heroes \u0026 Empires",
+	"name": "Heroes \u0026 Empires",
+	"coingecko": "heroes-empires",
+	"sources": [
+		"coingecko"
+	]
+}

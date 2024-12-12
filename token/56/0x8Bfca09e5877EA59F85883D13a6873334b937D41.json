@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x8Bfca09e5877EA59F85883D13a6873334b937D41",
+	"symbol": "Mad Pepe",
+	"name": "Mad Pepe",
+	"coingecko": "mad-pepe",
+	"sources": [
+		"coingecko"
+	]
+}

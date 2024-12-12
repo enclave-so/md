@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xE75F36244902c1A2913623FcE22B1E58fFE47192",
+	"symbol": "Bitcoin AI",
+	"name": "Bitcoin AI",
+	"coingecko": "bitcoin-ai",
+	"sources": [
+		"coingecko"
+	]
+}

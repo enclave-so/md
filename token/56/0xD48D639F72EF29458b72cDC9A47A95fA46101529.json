@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xD48D639F72EF29458b72cDC9A47A95fA46101529",
+	"symbol": "HelpKidz Coin",
+	"name": "HelpKidz Coin",
+	"coingecko": "helpkidz-coin",
+	"sources": [
+		"coingecko"
+	]
+}

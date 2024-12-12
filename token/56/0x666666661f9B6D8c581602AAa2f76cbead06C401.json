@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x666666661f9B6D8c581602AAa2f76cbead06C401",
+	"symbol": "XY Finance",
+	"name": "XY Finance",
+	"coingecko": "xy-finance",
+	"sources": [
+		"coingecko"
+	]
+}

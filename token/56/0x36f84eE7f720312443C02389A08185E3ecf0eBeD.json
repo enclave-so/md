@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x36f84eE7f720312443C02389A08185E3ecf0eBeD",
+	"symbol": "Meta Launcher",
+	"name": "Meta Launcher",
+	"coingecko": "meta-launcher",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x4a68C250486a116DC8D6A0C5B0677dE07cc09C5D",
+	"symbol": "Poodl",
+	"name": "Poodl",
+	"coingecko": "poodle",
+	"sources": [
+		"coingecko"
+	]
+}

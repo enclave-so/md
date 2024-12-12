@@ -1,0 +1,10 @@
+{
+	"chain": 5545,
+	"address": "0x7F9308E8d724e724EC31395f3af52e0593BB2e3f",
+	"symbol": "Wrapped TON",
+	"name": "Wrapped TON",
+	"coingecko": "wrapped-ton",
+	"sources": [
+		"coingecko"
+	]
+}

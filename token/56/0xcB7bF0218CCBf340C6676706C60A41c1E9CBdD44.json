@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xcB7bF0218CCBf340C6676706C60A41c1E9CBdD44",
+	"symbol": "Apollo Caps",
+	"name": "Apollo Caps",
+	"coingecko": "apollo-caps",
+	"sources": [
+		"coingecko"
+	]
+}

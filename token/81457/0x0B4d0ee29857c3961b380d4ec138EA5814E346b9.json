@@ -1,0 +1,11 @@
+{
+	"chain": 81457,
+	"address": "0x0B4d0ee29857c3961b380d4ec138EA5814E346b9",
+	"symbol": "$PACM",
+	"name": "P@cman Blastoff",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/blast/0x0B4d0ee29857c3961b380d4ec138EA5814E346b9.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

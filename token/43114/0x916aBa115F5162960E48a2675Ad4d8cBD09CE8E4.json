@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x916aBa115F5162960E48a2675Ad4d8cBD09CE8E4",
+	"symbol": "MCVERSE",
+	"name": "MCVERSE",
+	"coingecko": "mcverse",
+	"sources": [
+		"coingecko"
+	]
+}

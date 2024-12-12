@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xaA3ecAd0Cb644C0DE72110A905a57667C1a1cA96",
+	"symbol": "Weirdo [OLD]",
+	"name": "Weirdo [OLD]",
+	"coingecko": "weirdo",
+	"sources": [
+		"coingecko"
+	]
+}

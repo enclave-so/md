@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xe6F786f4A2A82CAB3fdeF8D6A45A6c6eE90322cF",
+	"symbol": "CZPOW",
+	"name": "CZPOW",
+	"coingecko": "czpow",
+	"sources": [
+		"coingecko"
+	]
+}

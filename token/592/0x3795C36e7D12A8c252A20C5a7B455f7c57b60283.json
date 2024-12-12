@@ -1,0 +1,10 @@
+{
+	"chain": 592,
+	"address": "0x3795C36e7D12A8c252A20C5a7B455f7c57b60283",
+	"symbol": "Celer Bridged USDT (Astar)",
+	"name": "Celer Bridged USDT (Astar)",
+	"coingecko": "celer-bridged-usdt-astar",
+	"sources": [
+		"coingecko"
+	]
+}

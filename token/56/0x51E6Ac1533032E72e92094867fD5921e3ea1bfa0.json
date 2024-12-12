@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x51E6Ac1533032E72e92094867fD5921e3ea1bfa0",
+	"symbol": "LUCA",
+	"name": "LUCA",
+	"coingecko": "luca",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xBE3A6594FDe8a93dd2fa40Bc0b52a899F3F91671",
+	"symbol": "Mini GOUT",
+	"name": "Mini GOUT",
+	"coingecko": "mini-gout",
+	"sources": [
+		"coingecko"
+	]
+}

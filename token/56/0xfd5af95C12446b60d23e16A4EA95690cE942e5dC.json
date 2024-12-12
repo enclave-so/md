@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xfd5af95C12446b60d23e16A4EA95690cE942e5dC",
+	"symbol": "Freela",
+	"name": "Freela",
+	"coingecko": "freela",
+	"sources": [
+		"coingecko"
+	]
+}

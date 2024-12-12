@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x697F883b7E84ea84E0880ABC80b6a5bdF7DaA5e0",
+	"symbol": "UbitEX Platform",
+	"name": "UbitEX Platform",
+	"coingecko": "ubitex-platform",
+	"sources": [
+		"coingecko"
+	]
+}

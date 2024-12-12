@@ -1,0 +1,10 @@
+{
+	"chain": 96,
+	"address": "0x95013Dcb6A561e6C003AED9C43Fb8B64008aA361",
+	"symbol": "LUMI",
+	"name": "LUMI",
+	"coingecko": "lumi",
+	"sources": [
+		"coingecko"
+	]
+}

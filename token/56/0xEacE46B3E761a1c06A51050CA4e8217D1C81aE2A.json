@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xEacE46B3E761a1c06A51050CA4e8217D1C81aE2A",
+	"symbol": "Lufina",
+	"name": "Lufina",
+	"coingecko": "lufina",
+	"sources": [
+		"coingecko"
+	]
+}

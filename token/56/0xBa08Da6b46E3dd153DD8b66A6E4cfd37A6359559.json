@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xBa08Da6b46E3dd153DD8b66A6E4cfd37A6359559",
+	"symbol": "CUSTODIY",
+	"name": "CUSTODIY",
+	"coingecko": "custodiy",
+	"sources": [
+		"coingecko"
+	]
+}

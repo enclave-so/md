@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x8Ea2f890CB86DFb0E376137451c6fD982AFefc15",
+	"symbol": "AutoCrypto",
+	"name": "AutoCrypto",
+	"coingecko": "autocrypto",
+	"sources": [
+		"coingecko"
+	]
+}

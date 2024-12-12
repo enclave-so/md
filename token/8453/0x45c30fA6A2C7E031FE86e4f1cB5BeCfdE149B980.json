@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x45c30fA6A2C7E031FE86e4f1cB5BeCfdE149B980",
+	"symbol": "Frens Club",
+	"name": "Frens Club",
+	"coingecko": "frens-club",
+	"sources": [
+		"coingecko"
+	]
+}

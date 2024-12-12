@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x4A5a34212404f30C5aB7eB61b078fA4A55AdC5a5",
+	"symbol": "Spaceswap MILK2",
+	"name": "Spaceswap MILK2",
+	"coingecko": "spaceswap-milk2",
+	"sources": [
+		"coingecko"
+	]
+}

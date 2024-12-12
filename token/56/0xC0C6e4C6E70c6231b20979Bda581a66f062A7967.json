@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xC0C6e4C6E70c6231b20979Bda581a66f062A7967",
+	"symbol": "Atari",
+	"name": "Atari",
+	"coingecko": "atari",
+	"sources": [
+		"coingecko"
+	]
+}

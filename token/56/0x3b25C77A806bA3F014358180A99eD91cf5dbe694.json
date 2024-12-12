@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x3b25C77A806bA3F014358180A99eD91cf5dbe694",
+	"symbol": "SocialPal",
+	"name": "SocialPal",
+	"coingecko": "socialpal",
+	"sources": [
+		"coingecko"
+	]
+}

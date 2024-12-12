@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xb2343143f814639c9b1f42961C698247171dF34a",
+	"symbol": "CORE MultiChain",
+	"name": "CORE MultiChain",
+	"coingecko": "core",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"chain": 56,
+	"address": "0x66eFF5221ca926636224650Fd3B9c497FF828F7D",
+	"symbol": "sSPELL",
+	"name": "Staked Spell",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/binance/0x66eFF5221ca926636224650Fd3B9c497FF828F7D.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

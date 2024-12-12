@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x3054E8F8fBA3055a42e5F5228A2A4e2AB1326933",
+	"symbol": "zuzalu",
+	"name": "zuzalu",
+	"coingecko": "zuzalu",
+	"sources": [
+		"coingecko"
+	]
+}

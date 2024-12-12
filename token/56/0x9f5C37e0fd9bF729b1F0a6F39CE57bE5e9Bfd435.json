@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x9f5C37e0fd9bF729b1F0a6F39CE57bE5e9Bfd435",
+	"symbol": "Bitcoin Pay",
+	"name": "Bitcoin Pay",
+	"coingecko": "bitcoin-pay",
+	"sources": [
+		"coingecko"
+	]
+}

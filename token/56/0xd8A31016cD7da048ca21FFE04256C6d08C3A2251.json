@@ -1,0 +1,11 @@
+{
+	"chain": 56,
+	"address": "0xd8A31016cD7da048ca21FFE04256C6d08C3A2251",
+	"symbol": "WENLAMBO",
+	"name": "WenLambo",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/15626/small/wenlambo.jpg?1621351104",
+	"sources": [
+		"sushiswap"
+	]
+}

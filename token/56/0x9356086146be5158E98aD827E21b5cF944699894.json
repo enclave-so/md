@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x9356086146be5158E98aD827E21b5cF944699894",
+	"symbol": "USDa",
+	"name": "USDa",
+	"coingecko": "usda-2",
+	"sources": [
+		"coingecko"
+	]
+}

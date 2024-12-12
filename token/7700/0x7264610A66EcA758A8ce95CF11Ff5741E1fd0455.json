@@ -1,0 +1,10 @@
+{
+	"chain": 7700,
+	"address": "0x7264610A66EcA758A8ce95CF11Ff5741E1fd0455",
+	"symbol": "Canto Inu",
+	"name": "Canto Inu",
+	"coingecko": "canto-inu",
+	"sources": [
+		"coingecko"
+	]
+}

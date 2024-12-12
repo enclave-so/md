@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xDf061250302E5cCae091B18CA2B45914D785F214",
+	"symbol": "Pop Token",
+	"name": "Pop Token",
+	"coingecko": "pop-token",
+	"sources": [
+		"coingecko"
+	]
+}

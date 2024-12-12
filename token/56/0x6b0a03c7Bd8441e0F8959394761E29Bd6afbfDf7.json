@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x6b0a03c7Bd8441e0F8959394761E29Bd6afbfDf7",
+	"symbol": "One Token",
+	"name": "One Token",
+	"coingecko": "onetokenburn",
+	"sources": [
+		"coingecko"
+	]
+}

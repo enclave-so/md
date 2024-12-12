@@ -1,0 +1,32 @@
+[
+	{
+		"chain": 16507,
+		"address": "0xb4A3F9D3cEce2c298e9b73113f7B6C2B9f9d61fF",
+		"symbol": "BlueLotusDAO",
+		"name": "BlueLotusDAO",
+		"coingecko": "bluelotusdao",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 16507,
+		"address": "0xF8213760f3A91C8092bc9D6c877b5623610f2913",
+		"symbol": "Shitcats",
+		"name": "Shitcats",
+		"coingecko": "shitcats",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 16507,
+		"address": "0xAa7aE83eb30DDdd14A017D4222121776317EA8Ba",
+		"symbol": "Wrapped GSYS (BlueLotusDAO)",
+		"name": "Wrapped GSYS (BlueLotusDAO)",
+		"coingecko": "wrapped-gsys-bluelotusdao",
+		"sources": [
+			"coingecko"
+		]
+	}
+]

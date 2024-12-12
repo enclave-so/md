@@ -1,0 +1,10 @@
+{
+	"chain": 592,
+	"address": "0xc4335B1b76fA6d52877b3046ECA68F6E708a27dd",
+	"symbol": "Starlay Finance",
+	"name": "Starlay Finance",
+	"coingecko": "starlay-finance",
+	"sources": [
+		"coingecko"
+	]
+}

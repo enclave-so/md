@@ -1,0 +1,10 @@
+{
+	"chain": 5000,
+	"address": "0xdEAddEaDdeadDEadDEADDEAddEADDEAddead1111",
+	"symbol": "Wrapped Ether (Mantle Bridge)",
+	"name": "Wrapped Ether (Mantle Bridge)",
+	"coingecko": "wrapped-ether-mantle-bridge",
+	"sources": [
+		"coingecko"
+	]
+}

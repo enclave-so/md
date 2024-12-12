@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x39132dAa2082e12Ac33a08478A74362E3c394357",
+	"symbol": "CakeBot",
+	"name": "CakeBot",
+	"coingecko": "cakebot-2",
+	"sources": [
+		"coingecko"
+	]
+}

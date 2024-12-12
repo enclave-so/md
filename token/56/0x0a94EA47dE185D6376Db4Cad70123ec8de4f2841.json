@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x0a94EA47dE185D6376Db4Cad70123ec8de4f2841",
+	"symbol": "Synaptic AI",
+	"name": "Synaptic AI",
+	"coingecko": "synaptic-ai",
+	"sources": [
+		"coingecko"
+	]
+}

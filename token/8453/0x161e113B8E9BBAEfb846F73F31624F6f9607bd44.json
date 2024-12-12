@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x161e113B8E9BBAEfb846F73F31624F6f9607bd44",
+	"symbol": "Simmi Token",
+	"name": "Simmi Token",
+	"coingecko": "simmi-token",
+	"sources": [
+		"coingecko"
+	]
+}

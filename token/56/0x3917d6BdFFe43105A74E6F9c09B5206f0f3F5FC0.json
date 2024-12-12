@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x3917d6BdFFe43105A74E6F9c09B5206f0f3F5FC0",
+	"symbol": "Lion Cat",
+	"name": "Lion Cat",
+	"coingecko": "lion-cat",
+	"sources": [
+		"coingecko"
+	]
+}

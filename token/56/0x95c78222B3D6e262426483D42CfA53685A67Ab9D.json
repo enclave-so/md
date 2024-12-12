@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x95c78222B3D6e262426483D42CfA53685A67Ab9D",
+	"symbol": "Venus BUSD",
+	"name": "Venus BUSD",
+	"coingecko": "venus-busd",
+	"sources": [
+		"coingecko"
+	]
+}

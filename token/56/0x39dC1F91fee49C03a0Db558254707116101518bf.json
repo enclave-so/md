@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x39dC1F91fee49C03a0Db558254707116101518bf",
+	"symbol": "Fantaverse",
+	"name": "Fantaverse",
+	"coingecko": "fantaverse",
+	"sources": [
+		"coingecko"
+	]
+}

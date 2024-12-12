@@ -1,0 +1,10 @@
+{
+	"chain": 9001,
+	"address": "0xd8176865DD0D672c6Ab4A427572f80A72b4B4A9C",
+	"symbol": "Frax Share",
+	"name": "Frax Share",
+	"coingecko": "frax-share",
+	"sources": [
+		"coingecko"
+	]
+}

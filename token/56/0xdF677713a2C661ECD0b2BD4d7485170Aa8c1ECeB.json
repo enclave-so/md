@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xdF677713a2C661ECD0b2BD4d7485170Aa8c1ECeB",
+	"symbol": "Metacraft",
+	"name": "Metacraft",
+	"coingecko": "metacraft",
+	"sources": [
+		"coingecko"
+	]
+}

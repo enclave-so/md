@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x15De59489de5e7F240D72F787dC4a292b8199339",
+	"symbol": "Robots.Farm",
+	"name": "Robots.Farm",
+	"coingecko": "robots-farm",
+	"sources": [
+		"coingecko"
+	]
+}

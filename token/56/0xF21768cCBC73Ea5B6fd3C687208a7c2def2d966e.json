@@ -1,0 +1,13 @@
+{
+	"chain": 56,
+	"address": "0xF21768cCBC73Ea5B6fd3C687208a7c2def2d966e",
+	"symbol": "REEF",
+	"name": "Reef",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/13504/small/Group_10572.png?1610534130",
+	"coingecko": "reef",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

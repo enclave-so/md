@@ -1,0 +1,10 @@
+{
+	"chain": 592,
+	"address": "0xE511ED88575C57767BAfb72BfD10775413E3F2b0",
+	"symbol": "Liquid ASTR",
+	"name": "Liquid ASTR",
+	"coingecko": "liquid-astr",
+	"sources": [
+		"coingecko"
+	]
+}

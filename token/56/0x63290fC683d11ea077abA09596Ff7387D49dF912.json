@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x63290fC683d11ea077abA09596Ff7387D49dF912",
+	"symbol": "Ramifi Protocol",
+	"name": "Ramifi Protocol",
+	"coingecko": "ramifi",
+	"sources": [
+		"coingecko"
+	]
+}

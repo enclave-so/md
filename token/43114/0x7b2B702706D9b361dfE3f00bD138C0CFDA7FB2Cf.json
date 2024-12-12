@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x7b2B702706D9b361dfE3f00bD138C0CFDA7FB2Cf",
+	"symbol": "Pollen",
+	"name": "Pollen",
+	"coingecko": "pollen",
+	"sources": [
+		"coingecko"
+	]
+}

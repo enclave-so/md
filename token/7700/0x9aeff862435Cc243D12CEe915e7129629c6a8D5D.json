@@ -1,0 +1,10 @@
+{
+	"chain": 7700,
+	"address": "0x9aeff862435Cc243D12CEe915e7129629c6a8D5D",
+	"symbol": "LeetSwap (Canto)",
+	"name": "LeetSwap (Canto)",
+	"coingecko": "leetswap-canto",
+	"sources": [
+		"coingecko"
+	]
+}

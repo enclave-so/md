@@ -1,0 +1,10 @@
+{
+	"chain": 9001,
+	"address": "0xc8B4d3e67238e38B20d38908646fF6F4F48De5EC",
+	"symbol": "Stride Staked Atom",
+	"name": "Stride Staked Atom",
+	"coingecko": "stride-staked-atom",
+	"sources": [
+		"coingecko"
+	]
+}

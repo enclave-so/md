@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xc8cc4bBD33264dB465E4c9ea011F895D02505959",
+	"symbol": "Sorcery Finance",
+	"name": "Sorcery Finance",
+	"coingecko": "sorcery-finance",
+	"sources": [
+		"coingecko"
+	]
+}

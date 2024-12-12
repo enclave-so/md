@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x6797B6244fA75F2e78cDFfC3a4eb169332b730cc",
+	"symbol": "Eagle AI",
+	"name": "Eagle AI",
+	"coingecko": "eagle-ai",
+	"sources": [
+		"coingecko"
+	]
+}

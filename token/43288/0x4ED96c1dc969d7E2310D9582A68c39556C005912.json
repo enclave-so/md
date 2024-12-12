@@ -1,0 +1,11 @@
+{
+	"chain": 43288,
+	"address": "0x4ED96c1dc969d7E2310D9582A68c39556C005912",
+	"symbol": "USDT.e",
+	"name": "Tether USD",
+	"decimals": 6,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/boba-avax/0x4ED96c1dc969d7E2310D9582A68c39556C005912.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

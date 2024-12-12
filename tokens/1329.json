@@ -1,0 +1,182 @@
+[
+	{
+		"chain": 1329,
+		"address": "0x95597EB8D227a7c4B4f5E807a815C5178eE6dBE1",
+		"symbol": "MILLI",
+		"name": "MILLI",
+		"coingecko": "milli-coin",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1329,
+		"address": "0x37a4dD9CED2b19Cfe8FAC251cd727b5787E45269",
+		"symbol": "Sei fastUSD",
+		"name": "Sei fastUSD",
+		"coingecko": "sei-fastusd",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1329,
+		"address": "0x5f0E07dFeE5832Faa00c63F2D33A0D79150E8598",
+		"symbol": "SEIYAN",
+		"name": "SEIYAN",
+		"coingecko": "seiyan",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1329,
+		"address": "0xbB5850008495B4D7e4C242e30fFC5B6A0f7E916E",
+		"symbol": "syUSD",
+		"name": "syUSD",
+		"coingecko": "syusd",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1329,
+		"address": "0xE30feDd158A2e3b13e9badaeABaFc5516e95e8C7",
+		"symbol": "Wrapped SEI",
+		"name": "Wrapped SEI",
+		"coingecko": "wrapped-sei",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1329,
+		"address": "0x69e48cE9CF965aCc1DE2aD5ad2FdbC3Bdb51509b",
+		"symbol": "Cook",
+		"name": "Cook",
+		"coingecko": "cook-3",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1329,
+		"address": "0xDD7d5e4Ea2125d43C16eEd8f1FFeFffa2F4b4aF6",
+		"symbol": "Jellyverse",
+		"name": "Jellyverse",
+		"coingecko": "jellyverse",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1329,
+		"address": "0x5Cf6826140C1C56Ff49C808A1A75407Cd1DF9423",
+		"symbol": "Silo Staked SEI",
+		"name": "Silo Staked SEI",
+		"coingecko": "silo-staked-sei",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1329,
+		"address": "0xA8A3A5013104e093245164eA56588DBE10a3Eb48",
+		"symbol": "Super Seyian ETH",
+		"name": "Super Seyian ETH",
+		"coingecko": "super-seyian-eth",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1329,
+		"address": "0xe85dC0CCECa105755753Fef452C091dEF5324138",
+		"symbol": "Sake Inu",
+		"name": "Sake Inu",
+		"coingecko": "sake-inu",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1329,
+		"address": "0x3A0A7a3cA25C17D15E8d51332fb25BFEA274d107",
+		"symbol": "Seipex Credits",
+		"name": "Seipex Credits",
+		"coingecko": "seipex-credits",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1329,
+		"address": "0x67DA7010C6c231AD620E3940e707adB6c1a08f23",
+		"symbol": "SeiWhale",
+		"name": "SeiWhale",
+		"coingecko": "seiwhale",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1329,
+		"address": "0xBd82f3bfE1dF0c84faEC88a22EbC34C9A86595dc",
+		"symbol": "Chips",
+		"name": "Chips",
+		"coingecko": "chips-2",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1329,
+		"address": "0x3894085Ef7Ff0f0aeDf52E2A2704928d1Ec074F1",
+		"symbol": "IBC Bridged USDC",
+		"name": "IBC Bridged USDC",
+		"coingecko": "ibc-bridged-usdc",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1329,
+		"address": "0xB75D0B03c06A926e488e2659DF1A861F860bD3d1",
+		"symbol": "IBC Bridged USDT",
+		"name": "IBC Bridged USDT",
+		"coingecko": "ibc-bridged-usdt",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1329,
+		"address": "0x89aeC21572F6637cCbd0d66861AAAC46Dd775ed1",
+		"symbol": "Kryptonite",
+		"name": "Kryptonite",
+		"coingecko": "kryptonite",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1329,
+		"address": "0xe5085112160fF75ee89a540Cdba570eAFdAF7f57",
+		"symbol": "Kryptonite Staked SEI",
+		"name": "Kryptonite Staked SEI",
+		"coingecko": "kryptonite-staked-sei",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1329,
+		"address": "0xC18b6a15FB0ceaf5eb18696EeFCb5bc7b9107149",
+		"symbol": "Popo The Cat",
+		"name": "Popo The Cat",
+		"coingecko": "popo-the-cat",
+		"sources": [
+			"coingecko"
+		]
+	}
+]

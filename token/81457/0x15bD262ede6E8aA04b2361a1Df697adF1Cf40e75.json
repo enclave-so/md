@@ -1,0 +1,10 @@
+{
+	"chain": 81457,
+	"address": "0x15bD262ede6E8aA04b2361a1Df697adF1Cf40e75",
+	"symbol": "Petoshi",
+	"name": "Petoshi",
+	"coingecko": "petoshi",
+	"sources": [
+		"coingecko"
+	]
+}

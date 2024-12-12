@@ -1,0 +1,388 @@
+[
+	{
+		"chain": 2222,
+		"address": "0xB44a9B6905aF7c801311e8F4E76932ee959c663C",
+		"symbol": "anyUSDT",
+		"name": "Tether USD",
+		"decimals": 6,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdt.jpg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 2222,
+		"address": "0x15932E26f5BD4923d46a2b205191C4b5d5f43FE3",
+		"symbol": "Cosmos Hub",
+		"name": "Cosmos Hub",
+		"coingecko": "cosmos",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 2222,
+		"address": "0x332c72dd7E77070740F01d2d35851c461585D5d0",
+		"symbol": "LiquidDriver",
+		"name": "LiquidDriver",
+		"coingecko": "liquiddriver",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 2222,
+		"address": "0x1a35EE4640b0A3B87705B0A4B45D227Ba60Ca2ad",
+		"symbol": "axlWBTC",
+		"name": "Axeler Wrapped WBTC",
+		"decimals": 8,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/kava/0x1a35EE4640b0A3B87705B0A4B45D227Ba60Ca2ad.jpg",
+		"coingecko": "axlwbtc",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 2222,
+		"address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
+		"symbol": "axlUSDC",
+		"name": "Axelar Wrapped USDC",
+		"decimals": 6,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/kava/0xEB466342C4d449BC9f53A865D5Cb90586f405215.jpg",
+		"coingecko": "axlusdc",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 2222,
+		"address": "0x8888888888f004100C0353d657BE6300587A6CcD",
+		"symbol": "ACryptoS",
+		"name": "ACryptoS",
+		"coingecko": "acryptos-2",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 2222,
+		"address": "0x52369B1539EA8F4e1eadEEF18D85462Dcf9a3658",
+		"symbol": "Kinetix Finance Token",
+		"name": "Kinetix Finance Token",
+		"coingecko": "kinetixfi",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 2222,
+		"address": "0x0018D96C579121a94307249d47F053E2D687b5e7",
+		"symbol": "Metavault Trade",
+		"name": "Metavault Trade",
+		"coingecko": "metavault-trade",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 2222,
+		"address": "0xDb0E1e86B01c4ad25241b1843E407Efc4D615248",
+		"symbol": "dForce USD",
+		"name": "dForce USD",
+		"coingecko": "token-dforce-usd",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 2222,
+		"address": "0x5C7e299CF531eb66f2A1dF637d37AbB78e6200C7",
+		"symbol": "axlDAI",
+		"name": "Axler Wrapped DAI",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/kava/0x5C7e299CF531eb66f2A1dF637d37AbB78e6200C7.jpg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 2222,
+		"address": "0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D",
+		"symbol": "anyWETH",
+		"name": "Wrapped Ethereum",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/eth.jpg",
+		"coingecko": "multichain-bridged-weth-kava",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 2222,
+		"address": "0x2DfD4dE5AE386Cd3f4fC8e2cb39240852E47F5E8",
+		"symbol": "WETH",
+		"name": "Wrapped Ether",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/kava/0x2DfD4dE5AE386Cd3f4fC8e2cb39240852E47F5E8.jpg",
+		"coingecko": "bridged-wrapped-ether-stargate",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 2222,
+		"address": "0x0b93109d05Ef330acD2c75148891cc61D20C3EF1",
+		"symbol": "Obyte",
+		"name": "Obyte",
+		"coingecko": "byteball",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 2222,
+		"address": "0xbd10F04B8b5027761fCAAd42421aD5d0787211Ee",
+		"symbol": "Truefeedback",
+		"name": "Truefeedback",
+		"coingecko": "truefeedbackchain",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 2222,
+		"address": "0x471F79616569343e8e84a66F342B7B433b958154",
+		"symbol": "Tiger Scrub Money",
+		"name": "Tiger Scrub Money",
+		"coingecko": "tiger-scrub-money-2",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 2222,
+		"address": "0x765277EebeCA2e31912C9946eAe1021199B39C61",
+		"symbol": "anyDAI",
+		"name": "Dai Stablecoin",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/dai.jpg",
+		"coingecko": "multichain-bridged-dai-kava",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 2222,
+		"address": "0x919C1c267BC06a7039e03fcc2eF738525769109c",
+		"symbol": "USDt",
+		"name": "TetherUSDt",
+		"decimals": 6,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/kava/0x919C1c267BC06a7039e03fcc2eF738525769109c.jpg",
+		"coingecko": "tether",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 2222,
+		"address": "0x38481Fdc1aF61E6E72E0Ff46F069315A59779C65",
+		"symbol": "Bear Scrub Money",
+		"name": "Bear Scrub Money",
+		"coingecko": "bear-scrub-money",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 2222,
+		"address": "0xb51eFaF2f7aFb8a2F5Be0b730281E414FB487636",
+		"symbol": "hKAVA",
+		"name": "hKAVA",
+		"coingecko": "hkava",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 2222,
+		"address": "0xCe82db637A2D750380ef27063518eAa263fbe10E",
+		"symbol": "Hover",
+		"name": "Hover",
+		"coingecko": "hover",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 2222,
+		"address": "0x2E4c7bf66d0484E44FeA0eC273b85A00Af92B2e3",
+		"symbol": "Tarot",
+		"name": "Tarot",
+		"coingecko": "tarot-2",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 2222,
+		"address": "0xfA9343C3897324496A05fC75abeD6bAC29f8A40f",
+		"symbol": "anyUSDC",
+		"name": "USD Coin",
+		"decimals": 6,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdc.jpg",
+		"coingecko": "multichain-bridged-usdc-kava",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 2222,
+		"address": "0xb84Df10966a5D7e1ab46D9276F55d57bD336AFC7",
+		"symbol": "MAI (Kava)",
+		"name": "MAI (Kava)",
+		"coingecko": "mai-kava",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 2222,
+		"address": "0xd86C8d4279CCaFbec840c782BcC50D201f277419",
+		"symbol": "Mare Finance",
+		"name": "Mare Finance",
+		"coingecko": "mare-finance",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 2222,
+		"address": "0xE5274E38E91b615D8822e8512a29A16FF1B9C4Af",
+		"symbol": "Pinjam.Kava",
+		"name": "Pinjam.Kava",
+		"coingecko": "pinjam-kava",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 2222,
+		"address": "0x2d519B9308AEb0C57921030dD5DE4E88c44ceC7c",
+		"symbol": "Pozo Coin",
+		"name": "Pozo Coin",
+		"coingecko": "pozo-coin",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 2222,
+		"address": "0xaf20f5f19698f1D19351028cd7103B63D30DE7d7",
+		"symbol": "Wagmi",
+		"name": "Wagmi",
+		"coingecko": "wagmi-2",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 2222,
+		"address": "0xb829b68f57CC546dA7E5806A929e53bE32a4625D",
+		"symbol": "axlETH",
+		"name": "Axelar Wrapped ETH",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/kava/0xb829b68f57CC546dA7E5806A929e53bE32a4625D.jpg",
+		"coingecko": "axlweth",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 2222,
+		"address": "0x7f5373AE26c3E8FfC4c77b7255DF7eC1A9aF52a6",
+		"symbol": "axlUSDT",
+		"name": "Axelar Wrapped USDT",
+		"decimals": 6,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/kava/0x7f5373AE26c3E8FfC4c77b7255DF7eC1A9aF52a6.jpg",
+		"coingecko": "axelar-usdt",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 2222,
+		"address": "0x7C598c96D02398d89FbCb9d41Eab3DF0C16F227D",
+		"symbol": "anySUSHI",
+		"name": "SushiToken",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/kava/0x7C598c96D02398d89FbCb9d41Eab3DF0C16F227D.jpg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 2222,
+		"address": "0x818ec0A7Fe18Ff94269904fCED6AE3DaE6d6dC0b",
+		"symbol": "anyWBTC",
+		"name": "Wrapped Bitcoin",
+		"decimals": 8,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/btc.jpg",
+		"coingecko": "multichain-bridged-wbtc-kava",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 2222,
+		"address": "0xc86c7C0eFbd6A49B35E8714C5f59D99De09A225b",
+		"symbol": "WKAVA",
+		"name": "Wrapped Kava",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/native-currency-logos/kava.svg",
+		"coingecko": "wrapped-kava",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 2222,
+		"address": "0xE1da44C0dA55B075aE8E2e4b6986AdC76Ac77d73",
+		"symbol": "Equilibre",
+		"name": "Equilibre",
+		"coingecko": "equilibre",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 2222,
+		"address": "0x990e157fC8a492c28F5B50022F000183131b9026",
+		"symbol": "Lion Scrub Money",
+		"name": "Lion Scrub Money",
+		"coingecko": "lion-scrub-money-2",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 2222,
+		"address": "0x0000000000000000000000000000000000000000",
+		"symbol": "Merlin's Seal BTC",
+		"name": "Merlin's Seal BTC",
+		"coingecko": "merlin-s-seal-btc",
+		"sources": [
+			"coingecko"
+		]
+	}
+]

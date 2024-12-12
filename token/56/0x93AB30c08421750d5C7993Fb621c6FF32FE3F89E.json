@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x93AB30c08421750d5C7993Fb621c6FF32FE3F89E",
+	"symbol": "FrogeX",
+	"name": "FrogeX",
+	"coingecko": "froge-finance",
+	"sources": [
+		"coingecko"
+	]
+}

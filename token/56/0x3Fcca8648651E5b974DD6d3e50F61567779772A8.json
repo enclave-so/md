@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x3Fcca8648651E5b974DD6d3e50F61567779772A8",
+	"symbol": "Moonpot",
+	"name": "Moonpot",
+	"coingecko": "moonpot",
+	"sources": [
+		"coingecko"
+	]
+}

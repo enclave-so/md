@@ -1,0 +1,81 @@
+[
+	{
+		"chain": 314,
+		"address": "0x97AAe66a1D2a41eAC573397B7a5656a9cF3E5616",
+		"symbol": "rSPD",
+		"name": "rSPD Token",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/filecoin/0x97AAe66a1D2a41eAC573397B7a5656a9cF3E5616.jpg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 314,
+		"address": "0x60E1773636CF5E4A227d9AC24F20fEca034ee25A",
+		"symbol": "WFIL",
+		"name": "Wrapped Filecoin",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/filecoin/0x60E1773636CF5E4A227d9AC24F20fEca034ee25A.jpg",
+		"coingecko": "wrapped-fil",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 314,
+		"address": "0xb829b68f57CC546dA7E5806A929e53bE32a4625D",
+		"symbol": "Axelar Wrapped Ether",
+		"name": "Axelar Wrapped Ether",
+		"coingecko": "axlweth",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 314,
+		"address": "0x57E3BB9F790185Cfe70Cc2C15Ed5d6B84dCf4aDb",
+		"symbol": "Wrapped pFIL",
+		"name": "Wrapped pFIL",
+		"coingecko": "wrapped-pfil",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 314,
+		"address": "0x5C7e299CF531eb66f2A1dF637d37AbB78e6200C7",
+		"symbol": "axlDAI",
+		"name": "Axelar Wrapped DAI",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/filecoin/0x5C7e299CF531eb66f2A1dF637d37AbB78e6200C7.jpg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 314,
+		"address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
+		"symbol": "axlUSDC",
+		"name": "Axelar Wrapped USDC",
+		"decimals": 6,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/filecoin/0xEB466342C4d449BC9f53A865D5Cb90586f405215.jpg",
+		"coingecko": "axlusdc",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 314,
+		"address": "0x422849B355039bC58F2780cc4854919fC9cfaF94",
+		"symbol": "ceUSDT",
+		"name": "Celer Wrapped USDT",
+		"decimals": 6,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/filecoin/0x422849B355039bC58F2780cc4854919fC9cfaF94.jpg",
+		"sources": [
+			"sushiswap"
+		]
+	}
+]

@@ -1,0 +1,10 @@
+{
+	"chain": 81457,
+	"address": "0xbb4e01B8940E8E2b3a95cED7941969D033786FF7",
+	"symbol": "Affine ultraETHs 2.0",
+	"name": "Affine ultraETHs 2.0",
+	"coingecko": "affine-ultraeths-2-0",
+	"sources": [
+		"coingecko"
+	]
+}

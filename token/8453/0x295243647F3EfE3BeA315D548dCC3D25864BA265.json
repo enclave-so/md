@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x295243647F3EfE3BeA315D548dCC3D25864BA265",
+	"symbol": "Tochi Base",
+	"name": "Tochi Base",
+	"coingecko": "tochi-base",
+	"sources": [
+		"coingecko"
+	]
+}

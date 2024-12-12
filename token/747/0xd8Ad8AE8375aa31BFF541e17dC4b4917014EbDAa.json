@@ -1,0 +1,10 @@
+{
+	"chain": 747,
+	"address": "0xd8Ad8AE8375aa31BFF541e17dC4b4917014EbDAa",
+	"symbol": "BETA",
+	"name": "BETA",
+	"coingecko": "beta",
+	"sources": [
+		"coingecko"
+	]
+}

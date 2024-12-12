@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x1446f3CEdf4d86a9399E49f7937766E6De2A3AAB",
+	"symbol": "KROWN",
+	"name": "KROWN",
+	"coingecko": "krown",
+	"sources": [
+		"coingecko"
+	]
+}

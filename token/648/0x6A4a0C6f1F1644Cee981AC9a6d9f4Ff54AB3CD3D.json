@@ -1,0 +1,10 @@
+{
+	"chain": 648,
+	"address": "0x6A4a0C6f1F1644Cee981AC9a6d9f4Ff54AB3CD3D",
+	"symbol": "PrimeACE",
+	"name": "PrimeACE",
+	"coingecko": "primeace",
+	"sources": [
+		"coingecko"
+	]
+}

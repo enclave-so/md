@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xD20ab1015f6a2De4a6FdDEbAB270113F689c2F7c",
+	"symbol": "DeHub",
+	"name": "DeHub",
+	"coingecko": "dehub",
+	"sources": [
+		"coingecko"
+	]
+}

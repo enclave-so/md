@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xb626213cb1D52Caa1eD71e2a0e62c0113eD8d642",
+	"symbol": "HUGHUG",
+	"name": "HUGHUG",
+	"coingecko": "hughug-coin",
+	"sources": [
+		"coingecko"
+	]
+}

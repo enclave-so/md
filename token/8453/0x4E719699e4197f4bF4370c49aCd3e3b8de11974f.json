@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x4E719699e4197f4bF4370c49aCd3e3b8de11974f",
+	"symbol": "Lovely Inu Finance",
+	"name": "Lovely Inu Finance",
+	"coingecko": "lovely-inu-finance",
+	"sources": [
+		"coingecko"
+	]
+}

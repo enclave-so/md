@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x31913aa5DE81Ff679C603053c3554AB90d5dbAf8",
+	"symbol": "CentBit",
+	"name": "CentBit",
+	"coingecko": "centbit",
+	"sources": [
+		"coingecko"
+	]
+}

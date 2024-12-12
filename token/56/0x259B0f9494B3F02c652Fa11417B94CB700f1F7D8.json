@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x259B0f9494B3F02c652Fa11417B94CB700f1F7D8",
+	"symbol": "CV Pad",
+	"name": "CV Pad",
+	"coingecko": "cv-pad",
+	"sources": [
+		"coingecko"
+	]
+}

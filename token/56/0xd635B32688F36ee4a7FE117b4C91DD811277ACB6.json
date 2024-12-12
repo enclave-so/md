@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xd635B32688F36ee4a7FE117b4C91DD811277ACB6",
+	"symbol": "Copycat Finance",
+	"name": "Copycat Finance",
+	"coingecko": "copycat-finance",
+	"sources": [
+		"coingecko"
+	]
+}

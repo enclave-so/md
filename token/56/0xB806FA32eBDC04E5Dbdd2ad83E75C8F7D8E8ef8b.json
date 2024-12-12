@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xB806FA32eBDC04E5Dbdd2ad83E75C8F7D8E8ef8b",
+	"symbol": "Web3Camp [OLD]",
+	"name": "Web3Camp [OLD]",
+	"coingecko": "web3camp",
+	"sources": [
+		"coingecko"
+	]
+}

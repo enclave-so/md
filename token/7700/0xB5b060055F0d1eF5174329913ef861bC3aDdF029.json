@@ -1,0 +1,10 @@
+{
+	"chain": 7700,
+	"address": "0xB5b060055F0d1eF5174329913ef861bC3aDdF029",
+	"symbol": "Velocimeter FLOW",
+	"name": "Velocimeter FLOW",
+	"coingecko": "velocimeter-flow",
+	"sources": [
+		"coingecko"
+	]
+}

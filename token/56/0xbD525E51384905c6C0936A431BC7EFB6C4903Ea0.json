@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xbD525E51384905c6C0936A431BC7EFB6C4903Ea0",
+	"symbol": "Bistroo",
+	"name": "Bistroo",
+	"coingecko": "bistroo",
+	"sources": [
+		"coingecko"
+	]
+}

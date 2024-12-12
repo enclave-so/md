@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xB60501346240FCdE1615de56eA9FFf1AC1da5673",
+	"symbol": "BSClaunch",
+	"name": "BSClaunch",
+	"coingecko": "bsclaunch",
+	"sources": [
+		"coingecko"
+	]
+}

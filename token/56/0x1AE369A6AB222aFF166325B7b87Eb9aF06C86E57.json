@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x1AE369A6AB222aFF166325B7b87Eb9aF06C86E57",
+	"symbol": "Tenset",
+	"name": "Tenset",
+	"coingecko": "tenset",
+	"sources": [
+		"coingecko"
+	]
+}

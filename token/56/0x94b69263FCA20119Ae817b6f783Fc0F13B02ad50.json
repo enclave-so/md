@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x94b69263FCA20119Ae817b6f783Fc0F13B02ad50",
+	"symbol": "League of Ancients",
+	"name": "League of Ancients",
+	"coingecko": "league-of-ancients",
+	"sources": [
+		"coingecko"
+	]
+}

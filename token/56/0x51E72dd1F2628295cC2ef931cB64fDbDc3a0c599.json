@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x51E72dd1F2628295cC2ef931cB64fDbDc3a0c599",
+	"symbol": "Wrapped Kaspa",
+	"name": "Wrapped Kaspa",
+	"coingecko": "wrapped-kaspa",
+	"sources": [
+		"coingecko"
+	]
+}

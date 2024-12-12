@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x38e382F74dfb84608F3C1F10187f6bEf5951DE93",
+	"symbol": "Multibit",
+	"name": "Multibit",
+	"coingecko": "multibit",
+	"sources": [
+		"coingecko"
+	]
+}

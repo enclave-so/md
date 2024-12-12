@@ -1,0 +1,10 @@
+{
+	"chain": 534352,
+	"address": "0x690F1D2DA47D9A759A93Dd2B0ACe3c1627f216BA",
+	"symbol": "Venium",
+	"name": "Venium",
+	"coingecko": "venium",
+	"sources": [
+		"coingecko"
+	]
+}

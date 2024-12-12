@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xEa51801b8F5B88543DdaD3D1727400c15b209D8f",
+	"symbol": "Inuko Finance",
+	"name": "Inuko Finance",
+	"coingecko": "inuko-finance",
+	"sources": [
+		"coingecko"
+	]
+}

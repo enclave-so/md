@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x9bB28Ee1a5E4A9f5A34A151ADF7A0ACF34560Ec8",
+	"symbol": "Refluid",
+	"name": "Refluid",
+	"coingecko": "refluid",
+	"sources": [
+		"coingecko"
+	]
+}

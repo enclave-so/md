@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x6a27CD26a373530835B9fE7aC472B3e080070F64",
+	"symbol": "BlockAI",
+	"name": "BlockAI",
+	"coingecko": "blockai",
+	"sources": [
+		"coingecko"
+	]
+}

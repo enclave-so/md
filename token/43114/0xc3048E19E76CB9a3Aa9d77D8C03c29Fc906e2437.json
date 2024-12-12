@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0xc3048E19E76CB9a3Aa9d77D8C03c29Fc906e2437",
+	"symbol": "Compound",
+	"name": "Compound",
+	"coingecko": "compound-governance-token",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x5E7fC3844463745FcA858f85D6b90D9a03fCBe93",
+	"symbol": "Safe Nebula",
+	"name": "Safe Nebula",
+	"coingecko": "safe-nebula",
+	"sources": [
+		"coingecko"
+	]
+}

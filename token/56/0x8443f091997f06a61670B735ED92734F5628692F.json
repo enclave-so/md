@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x8443f091997f06a61670B735ED92734F5628692F",
+	"symbol": "Bella Protocol",
+	"name": "Bella Protocol",
+	"coingecko": "bella-protocol",
+	"sources": [
+		"coingecko"
+	]
+}

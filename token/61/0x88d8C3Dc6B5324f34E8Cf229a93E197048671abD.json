@@ -1,0 +1,10 @@
+{
+	"chain": 61,
+	"address": "0x88d8C3Dc6B5324f34E8Cf229a93E197048671abD",
+	"symbol": "HebeBlock",
+	"name": "HebeBlock",
+	"coingecko": "hebeblock",
+	"sources": [
+		"coingecko"
+	]
+}

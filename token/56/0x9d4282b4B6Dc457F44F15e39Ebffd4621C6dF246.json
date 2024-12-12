@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x9d4282b4B6Dc457F44F15e39Ebffd4621C6dF246",
+	"symbol": "Eloin",
+	"name": "Eloin",
+	"coingecko": "eloin",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x474021845C4643113458ea4414bdb7fB74A01A77",
+	"symbol": "Uno Re",
+	"name": "Uno Re",
+	"coingecko": "uno-re",
+	"sources": [
+		"coingecko"
+	]
+}

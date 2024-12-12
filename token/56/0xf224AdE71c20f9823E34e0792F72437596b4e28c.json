@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xf224AdE71c20f9823E34e0792F72437596b4e28c",
+	"symbol": "ShibonkBSC",
+	"name": "ShibonkBSC",
+	"coingecko": "shibonk",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"chain": 43288,
+	"address": "0x69B7d24f0E03Ff21949081C95dA7288fEa5C844D",
+	"symbol": "DAI.e",
+	"name": "Dai Stablecoin",
+	"decimals": 6,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/boba-avax/0x69B7d24f0E03Ff21949081C95dA7288fEa5C844D.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

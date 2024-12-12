@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x755f34709E369D37C6Fa52808aE84A32007d1155",
+	"symbol": "Nabox",
+	"name": "Nabox",
+	"coingecko": "nabox",
+	"sources": [
+		"coingecko"
+	]
+}

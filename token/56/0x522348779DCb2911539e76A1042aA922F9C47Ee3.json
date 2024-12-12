@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x522348779DCb2911539e76A1042aA922F9C47Ee3",
+	"symbol": "Bomb Money",
+	"name": "Bomb Money",
+	"coingecko": "bomb-money",
+	"sources": [
+		"coingecko"
+	]
+}

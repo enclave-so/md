@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xA1b9d812926a529D8B002E69FCd070c8275eC73c",
+	"symbol": "Jelli",
+	"name": "Jelli",
+	"coingecko": "jelli",
+	"sources": [
+		"coingecko"
+	]
+}

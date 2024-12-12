@@ -1,0 +1,10 @@
+{
+	"chain": 8217,
+	"address": "0x7eeE60a000986E9efE7F5C90340738558c24317B",
+	"symbol": "PER Project",
+	"name": "PER Project",
+	"coingecko": "per-project",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xea395DFaFEd39924988b475f2Ca7f4C72655203A",
+	"symbol": "Cryptopolis",
+	"name": "Cryptopolis",
+	"coingecko": "cryptopolis",
+	"sources": [
+		"coingecko"
+	]
+}

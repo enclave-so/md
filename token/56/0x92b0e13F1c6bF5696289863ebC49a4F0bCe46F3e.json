@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x92b0e13F1c6bF5696289863ebC49a4F0bCe46F3e",
+	"symbol": "CreBit",
+	"name": "CreBit",
+	"coingecko": "crebit-2",
+	"sources": [
+		"coingecko"
+	]
+}

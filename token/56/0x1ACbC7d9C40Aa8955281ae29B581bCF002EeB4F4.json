@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x1ACbC7d9C40Aa8955281ae29B581bCF002EeB4F4",
+	"symbol": "ccFound",
+	"name": "ccFound",
+	"coingecko": "ccfound-2",
+	"sources": [
+		"coingecko"
+	]
+}

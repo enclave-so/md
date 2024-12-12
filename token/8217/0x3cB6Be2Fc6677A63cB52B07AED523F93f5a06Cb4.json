@@ -1,0 +1,10 @@
+{
+	"chain": 8217,
+	"address": "0x3cB6Be2Fc6677A63cB52B07AED523F93f5a06Cb4",
+	"symbol": "Observer",
+	"name": "Observer",
+	"coingecko": "observer-coin",
+	"sources": [
+		"coingecko"
+	]
+}

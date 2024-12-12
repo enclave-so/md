@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x73cb8eA6d2331eb9892583e6F7A6AC733B932550",
+	"symbol": "VEVE",
+	"name": "VEVE",
+	"coingecko": "veve",
+	"sources": [
+		"coingecko"
+	]
+}

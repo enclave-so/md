@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x87837B7b4850687e200254f78c0AF0A34329a491",
+	"symbol": "Lucretius",
+	"name": "Lucretius",
+	"coingecko": "lucretius",
+	"sources": [
+		"coingecko"
+	]
+}

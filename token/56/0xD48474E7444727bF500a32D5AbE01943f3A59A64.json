@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xD48474E7444727bF500a32D5AbE01943f3A59A64",
+	"symbol": "BitBook",
+	"name": "BitBook",
+	"coingecko": "bitbook-token",
+	"sources": [
+		"coingecko"
+	]
+}

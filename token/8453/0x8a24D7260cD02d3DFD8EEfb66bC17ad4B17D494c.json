@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x8a24D7260cD02d3DFD8EEfb66bC17ad4B17D494c",
+	"symbol": "Based Street Bets",
+	"name": "Based Street Bets",
+	"coingecko": "based-street-bets",
+	"sources": [
+		"coingecko"
+	]
+}

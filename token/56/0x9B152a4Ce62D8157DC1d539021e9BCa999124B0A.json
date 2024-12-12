@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x9B152a4Ce62D8157DC1d539021e9BCa999124B0A",
+	"symbol": "Baby Myro",
+	"name": "Baby Myro",
+	"coingecko": "baby-myro",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xbE4Cb2C354480042A39350A0c6c26bf54786539F",
+	"symbol": "DeFinity",
+	"name": "DeFinity",
+	"coingecko": "definity",
+	"sources": [
+		"coingecko"
+	]
+}

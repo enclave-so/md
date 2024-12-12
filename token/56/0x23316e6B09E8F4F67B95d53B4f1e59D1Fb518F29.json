@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x23316e6B09E8F4F67B95d53B4f1e59D1Fb518F29",
+	"symbol": "MedicalVeda",
+	"name": "MedicalVeda",
+	"coingecko": "medicalveda",
+	"sources": [
+		"coingecko"
+	]
+}

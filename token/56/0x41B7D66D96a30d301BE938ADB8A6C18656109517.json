@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x41B7D66D96a30d301BE938ADB8A6C18656109517",
+	"symbol": "BitBoost",
+	"name": "BitBoost",
+	"coingecko": "podfast",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x2FA5dAF6Fe0708fBD63b1A7D1592577284f52256",
+	"symbol": "Unmarshal",
+	"name": "Unmarshal",
+	"coingecko": "unmarshal",
+	"sources": [
+		"coingecko"
+	]
+}

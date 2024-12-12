@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xf3bE1A4a47576208C1592Cc027087CE154B00672",
+	"symbol": "Xillion",
+	"name": "Xillion",
+	"coingecko": "projectx",
+	"sources": [
+		"coingecko"
+	]
+}

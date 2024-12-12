@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x9c3254bb4F7f6A05A4Aaf2Cadce592C848d043c1",
+	"symbol": "Alpha Shares V2",
+	"name": "Alpha Shares V2",
+	"coingecko": "alpha-shares-v2",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 59144,
+	"address": "0x5cc5E64AB764A0f1E97F23984E20fD4528356a6a",
+	"symbol": "XRGB",
+	"name": "XRGB",
+	"coingecko": "xrgb",
+	"sources": [
+		"coingecko"
+	]
+}

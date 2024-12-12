@@ -1,0 +1,11 @@
+{
+	"chain": 56,
+	"address": "0x3c037C4c2296f280bB318D725D0b454B76c199b9",
+	"symbol": "JNTR/b",
+	"name": "JNTR/b",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/12830/small/jntr_logo.jpg?1602837322",
+	"sources": [
+		"sushiswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x39Ae8EEFB05138f418Bb27659c21632Dc1DDAb10",
+	"symbol": "KardiaChain",
+	"name": "KardiaChain",
+	"coingecko": "kardiachain",
+	"sources": [
+		"coingecko"
+	]
+}

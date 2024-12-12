@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x7565ab68D3F9DaDff127F864103C8c706Cf28235",
+	"symbol": "TrustFi Network",
+	"name": "TrustFi Network",
+	"coingecko": "trustfi-network-token",
+	"sources": [
+		"coingecko"
+	]
+}

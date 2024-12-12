@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xE4fCf2D991505089bBb36275570757c1f9800cB0",
+	"symbol": "Purrcoin",
+	"name": "Purrcoin",
+	"coingecko": "purrcoin",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xb6090a50f66046E3c6aFB9311846a6432E45060A",
+	"symbol": "PinkMoon",
+	"name": "PinkMoon",
+	"coingecko": "pinkmoon",
+	"sources": [
+		"coingecko"
+	]
+}

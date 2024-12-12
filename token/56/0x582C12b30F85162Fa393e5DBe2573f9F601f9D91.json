@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x582C12b30F85162Fa393e5DBe2573f9F601f9D91",
+	"symbol": "MetalSwap",
+	"name": "MetalSwap",
+	"coingecko": "metalswap",
+	"sources": [
+		"coingecko"
+	]
+}

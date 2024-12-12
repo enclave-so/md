@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x3c4b6Cd7874eDc945797123fcE2d9a871818524b",
+	"symbol": "PARADOX",
+	"name": "PARADOX",
+	"coingecko": "paradox-3",
+	"sources": [
+		"coingecko"
+	]
+}

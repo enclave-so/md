@@ -1,0 +1,10 @@
+{
+	"chain": 59144,
+	"address": "0x265B25e22bcd7f10a5bD6E6410F10537Cc7567e8",
+	"symbol": "Wrapped POL",
+	"name": "Wrapped POL",
+	"coingecko": "wmatic",
+	"sources": [
+		"coingecko"
+	]
+}

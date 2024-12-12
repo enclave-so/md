@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x92d28e49A4FFd443c1e2a907dcC07D2a41E67F4d",
+	"symbol": "Minelab",
+	"name": "Minelab",
+	"coingecko": "minelab",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x351dA1E7500aBA1d168b9435DCE73415718d212F",
+	"symbol": "web3war",
+	"name": "web3war",
+	"coingecko": "web3war",
+	"sources": [
+		"coingecko"
+	]
+}

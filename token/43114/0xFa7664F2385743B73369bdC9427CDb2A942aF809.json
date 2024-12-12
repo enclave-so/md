@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0xFa7664F2385743B73369bdC9427CDb2A942aF809",
+	"symbol": "Arcade",
+	"name": "Arcade",
+	"coingecko": "arcade-2",
+	"sources": [
+		"coingecko"
+	]
+}

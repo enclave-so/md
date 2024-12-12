@@ -1,0 +1,11 @@
+{
+	"chain": 81457,
+	"address": "0x84fC0e1Dca50cF341B497A56f843d4dD7d818B84",
+	"symbol": "Dyor",
+	"name": "Dyor",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/blast/0x84fC0e1Dca50cF341B497A56f843d4dD7d818B84.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x347862372f7C8f83D69025234367Ac11c5241Db3",
+	"symbol": "Kiirocoin",
+	"name": "Kiirocoin",
+	"coingecko": "kiirocoin",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xbBdac6cA30Ba9189c7bf67a1f7160379f7e25835",
+	"symbol": "ViteX Coin",
+	"name": "ViteX Coin",
+	"coingecko": "vitex",
+	"sources": [
+		"coingecko"
+	]
+}

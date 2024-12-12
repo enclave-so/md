@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x8e3bFf1Abf376f7a5D036cC3D85766394744dd04",
+	"symbol": "Podflow AI by Virtuals",
+	"name": "Podflow AI by Virtuals",
+	"coingecko": "podflow-ai-by-virtuals",
+	"sources": [
+		"coingecko"
+	]
+}

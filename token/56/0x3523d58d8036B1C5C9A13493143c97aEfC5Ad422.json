@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x3523d58d8036B1C5C9A13493143c97aEfC5Ad422",
+	"symbol": "The Killbox Game",
+	"name": "The Killbox Game",
+	"coingecko": "the-killbox-game",
+	"sources": [
+		"coingecko"
+	]
+}

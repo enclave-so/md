@@ -1,0 +1,10 @@
+{
+	"chain": 81457,
+	"address": "0xD1FedD031b92f50a50c05E2C45aF1aDb4CEa82f4",
+	"symbol": "BladeSwap",
+	"name": "BladeSwap",
+	"coingecko": "bladeswap",
+	"sources": [
+		"coingecko"
+	]
+}

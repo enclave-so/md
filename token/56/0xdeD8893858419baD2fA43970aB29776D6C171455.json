@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xdeD8893858419baD2fA43970aB29776D6C171455",
+	"symbol": "Grok Elo",
+	"name": "Grok Elo",
+	"coingecko": "grok-elo",
+	"sources": [
+		"coingecko"
+	]
+}

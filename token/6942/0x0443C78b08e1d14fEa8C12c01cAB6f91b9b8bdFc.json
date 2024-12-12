@@ -1,0 +1,10 @@
+{
+	"chain": 6942,
+	"address": "0x0443C78b08e1d14fEa8C12c01cAB6f91b9b8bdFc",
+	"symbol": "Laika Bridged WDOGE (Laika)",
+	"name": "Laika Bridged WDOGE (Laika)",
+	"coingecko": "laika-bridged-wdoge-laika",
+	"sources": [
+		"coingecko"
+	]
+}

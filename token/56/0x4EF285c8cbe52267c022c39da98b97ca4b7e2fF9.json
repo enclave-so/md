@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x4EF285c8cbe52267c022c39da98b97ca4b7e2fF9",
+	"symbol": "ORE Network",
+	"name": "ORE Network",
+	"coingecko": "ptokens-ore",
+	"sources": [
+		"coingecko"
+	]
+}

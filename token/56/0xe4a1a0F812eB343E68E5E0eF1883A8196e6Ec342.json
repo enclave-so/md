@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xe4a1a0F812eB343E68E5E0eF1883A8196e6Ec342",
+	"symbol": "Cicca Network",
+	"name": "Cicca Network",
+	"coingecko": "cicca-network",
+	"sources": [
+		"coingecko"
+	]
+}

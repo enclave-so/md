@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xa1bF915363b533f5991DBaDa8C6C42fa0cE58fb8",
+	"symbol": "Syn Dog",
+	"name": "Syn Dog",
+	"coingecko": "syn-dog",
+	"sources": [
+		"coingecko"
+	]
+}

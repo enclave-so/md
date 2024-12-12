@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xDd041E030AdE3DB3B2221CE681b65f9650F250d7",
+	"symbol": "Biblecoin",
+	"name": "Biblecoin",
+	"coingecko": "biblecoin",
+	"sources": [
+		"coingecko"
+	]
+}

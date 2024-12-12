@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x758d08864fB6cCE3062667225ca10b8F00496cc2",
+	"symbol": "NAOS Finance",
+	"name": "NAOS Finance",
+	"coingecko": "naos-finance",
+	"sources": [
+		"coingecko"
+	]
+}

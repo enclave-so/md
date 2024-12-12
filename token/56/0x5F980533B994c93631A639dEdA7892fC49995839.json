@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x5F980533B994c93631A639dEdA7892fC49995839",
+	"symbol": "Cosanta",
+	"name": "Cosanta",
+	"coingecko": "cosanta",
+	"sources": [
+		"coingecko"
+	]
+}

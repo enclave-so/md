@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x320d6FaDc3c39263c25Cbfaa01d02971C64ac623",
+	"symbol": "KARASOU",
+	"name": "KARASOU",
+	"coingecko": "karasou",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x0D07873cAcD5f40f47Fb19b2C1115b7e1a9DB4BF",
+	"symbol": "21Million",
+	"name": "21Million",
+	"coingecko": "21million",
+	"sources": [
+		"coingecko"
+	]
+}

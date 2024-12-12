@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xCa0C1c12466A57b26850b05a0BA2Fb39F9763A0c",
+	"symbol": "Ezillion",
+	"name": "Ezillion",
+	"coingecko": "ezillion",
+	"sources": [
+		"coingecko"
+	]
+}

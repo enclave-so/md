@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xe11F1D5EEE6BE945BeE3fa20dBF46FeBBC9F4A19",
+	"symbol": "NUSA",
+	"name": "NUSA",
+	"coingecko": "nusa-finance",
+	"sources": [
+		"coingecko"
+	]
+}

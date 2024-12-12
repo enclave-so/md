@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x546d499689e0D4101c7EA774A61e312D1Ad72352",
+	"symbol": "Baby Cat",
+	"name": "Baby Cat",
+	"coingecko": "baby-cat",
+	"sources": [
+		"coingecko"
+	]
+}

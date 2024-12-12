@@ -1,0 +1,10 @@
+{
+	"chain": 4689,
+	"address": "0x3EA683354bf8d359cd9EC6E08B5AEC291D71d880",
+	"symbol": "IoTexShiba",
+	"name": "IoTexShiba",
+	"coingecko": "iotexshiba",
+	"sources": [
+		"coingecko"
+	]
+}

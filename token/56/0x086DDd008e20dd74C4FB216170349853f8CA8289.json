@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x086DDd008e20dd74C4FB216170349853f8CA8289",
+	"symbol": "MxmBoxcEus Token",
+	"name": "MxmBoxcEus Token",
+	"coingecko": "mxmboxceus-token",
+	"sources": [
+		"coingecko"
+	]
+}

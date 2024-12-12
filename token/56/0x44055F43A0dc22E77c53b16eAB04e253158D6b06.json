@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x44055F43A0dc22E77c53b16eAB04e253158D6b06",
+	"symbol": "AI Protocol",
+	"name": "AI Protocol",
+	"coingecko": "ai-protocol",
+	"sources": [
+		"coingecko"
+	]
+}

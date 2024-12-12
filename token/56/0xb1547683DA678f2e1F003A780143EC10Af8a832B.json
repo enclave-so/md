@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xb1547683DA678f2e1F003A780143EC10Af8a832B",
+	"symbol": "Shiba Inu (Wormhole)",
+	"name": "Shiba Inu (Wormhole)",
+	"coingecko": "shiba-inu-wormhole",
+	"sources": [
+		"coingecko"
+	]
+}

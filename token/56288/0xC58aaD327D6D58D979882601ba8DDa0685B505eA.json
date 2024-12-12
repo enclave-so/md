@@ -1,0 +1,11 @@
+{
+	"chain": 56288,
+	"address": "0xC58aaD327D6D58D979882601ba8DDa0685B505eA",
+	"symbol": "WBOBA9",
+	"name": "Wrapped Boba",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/boba.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

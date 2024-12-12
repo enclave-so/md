@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xb020805e0Bc7F0e353D1343d67A239F417D57Bbf",
+	"symbol": "Krypton DAO",
+	"name": "Krypton DAO",
+	"coingecko": "krypton-dao",
+	"sources": [
+		"coingecko"
+	]
+}

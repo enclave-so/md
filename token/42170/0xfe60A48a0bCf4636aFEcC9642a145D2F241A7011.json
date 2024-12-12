@@ -1,0 +1,11 @@
+{
+	"chain": 42170,
+	"address": "0xfe60A48a0bCf4636aFEcC9642a145D2F241A7011",
+	"symbol": "SUSHI",
+	"name": "SushiToken",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum-nova/0xfe60A48a0bCf4636aFEcC9642a145D2F241A7011.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

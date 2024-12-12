@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xdEbd6e2da378784A69Dc6Ec99Fe254223b312287",
+	"symbol": "EXIT Designer Token",
+	"name": "EXIT Designer Token",
+	"coingecko": "exit-designer-token",
+	"sources": [
+		"coingecko"
+	]
+}

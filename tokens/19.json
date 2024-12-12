@@ -1,0 +1,82 @@
+[
+	{
+		"chain": 19,
+		"address": "0x4A771Cc1a39FDd8AA08B8EA51F7Fd412e73B3d2B",
+		"symbol": "Hex Trust USD",
+		"name": "Hex Trust USD",
+		"coingecko": "hex-trust-usdx",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 19,
+		"address": "0xD7565b16b65376e2Ddb6c71E7971c7185A7Ff3Ff",
+		"symbol": "OracleSwap",
+		"name": "OracleSwap",
+		"coingecko": "oracleswap",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 19,
+		"address": "0xb2987753D1561570f726Aa373F48E77e27aa5FF4",
+		"symbol": "Pangolin Songbird",
+		"name": "Pangolin Songbird",
+		"coingecko": "pangolin-songbird",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 19,
+		"address": "0xf810576A68C3731875BDe07404BE815b16fC0B4e",
+		"symbol": "Prophet",
+		"name": "Prophet",
+		"coingecko": "prophet",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 19,
+		"address": "0x9E2E6c16803878C18E54Ed74F05AeafCCe464626",
+		"symbol": "sFortuna Token",
+		"name": "sFortuna Token",
+		"coingecko": "sfortuna-token",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 19,
+		"address": "0x0D94e59332732D18CF3a3D457A8886A2AE29eA1B",
+		"symbol": "Songbird Finance",
+		"name": "Songbird Finance",
+		"coingecko": "songbird-finance",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 19,
+		"address": "0x02f0826ef6aD107Cfc861152B32B52fD11BaB9ED",
+		"symbol": "Wrapped Songbird",
+		"name": "Wrapped Songbird",
+		"coingecko": "wrapped-songbird",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 19,
+		"address": "0xC348F894d0E939FE72c467156E6d7DcbD6f16e21",
+		"symbol": "Flare Finance",
+		"name": "Flare Finance",
+		"coingecko": "flare-finance",
+		"sources": [
+			"coingecko"
+		]
+	}
+]

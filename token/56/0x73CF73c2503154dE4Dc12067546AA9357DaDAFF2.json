@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x73CF73c2503154dE4Dc12067546AA9357DaDAFF2",
+	"symbol": "42-coin",
+	"name": "42-coin",
+	"coingecko": "42-coin",
+	"sources": [
+		"coingecko"
+	]
+}

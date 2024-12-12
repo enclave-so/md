@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xDC49A53E1f15fd7FD522E0691CB570F442e9ca6C",
+	"symbol": "Quorium",
+	"name": "Quorium",
+	"coingecko": "quorium",
+	"sources": [
+		"coingecko"
+	]
+}

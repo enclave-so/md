@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x13Ef69f64dE07d14517b667728db8b9f23856A38",
+	"symbol": "Planq",
+	"name": "Planq",
+	"coingecko": "planq",
+	"sources": [
+		"coingecko"
+	]
+}

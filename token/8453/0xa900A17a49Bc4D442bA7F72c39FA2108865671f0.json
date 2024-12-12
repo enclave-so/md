@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xa900A17a49Bc4D442bA7F72c39FA2108865671f0",
+	"symbol": "Ionic USD Coin",
+	"name": "Ionic USD Coin",
+	"coingecko": "ionic-usd-coin",
+	"sources": [
+		"coingecko"
+	]
+}

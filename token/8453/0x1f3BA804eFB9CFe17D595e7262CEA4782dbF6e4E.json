@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x1f3BA804eFB9CFe17D595e7262CEA4782dbF6e4E",
+	"symbol": "Happy Puppy Club",
+	"name": "Happy Puppy Club",
+	"coingecko": "happy-puppy-club",
+	"sources": [
+		"coingecko"
+	]
+}

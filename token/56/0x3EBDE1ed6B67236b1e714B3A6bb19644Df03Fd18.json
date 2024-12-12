@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x3EBDE1ed6B67236b1e714B3A6bb19644Df03Fd18",
+	"symbol": "NULL MATRIX",
+	"name": "NULL MATRIX",
+	"coingecko": "null-matrix",
+	"sources": [
+		"coingecko"
+	]
+}

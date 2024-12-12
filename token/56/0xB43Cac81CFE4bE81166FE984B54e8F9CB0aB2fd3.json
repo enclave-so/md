@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xB43Cac81CFE4bE81166FE984B54e8F9CB0aB2fd3",
+	"symbol": "ITRONIX",
+	"name": "ITRONIX",
+	"coingecko": "itronix",
+	"sources": [
+		"coingecko"
+	]
+}

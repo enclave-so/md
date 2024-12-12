@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x30B5E345C79255101B8af22a19805A6fb96DdEBb",
+	"symbol": "REV3AL",
+	"name": "REV3AL",
+	"coingecko": "rev3al",
+	"sources": [
+		"coingecko"
+	]
+}

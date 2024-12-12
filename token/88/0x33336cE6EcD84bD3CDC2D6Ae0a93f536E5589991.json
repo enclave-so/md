@@ -1,0 +1,10 @@
+{
+	"chain": 88,
+	"address": "0x33336cE6EcD84bD3CDC2D6Ae0a93f536E5589991",
+	"symbol": "Vicpool Staked VIC",
+	"name": "Vicpool Staked VIC",
+	"coingecko": "vicpool-staked-vic",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xbeB0fd48C2BA0F1AacaD2814605f09e08A96B94E",
+	"symbol": "GME (Base)",
+	"name": "GME (Base)",
+	"coingecko": "gamestop-2",
+	"sources": [
+		"coingecko"
+	]
+}

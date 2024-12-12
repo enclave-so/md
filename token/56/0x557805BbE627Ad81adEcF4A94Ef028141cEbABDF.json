@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x557805BbE627Ad81adEcF4A94Ef028141cEbABDF",
+	"symbol": "Cryptopia",
+	"name": "Cryptopia",
+	"coingecko": "cryptopia-world",
+	"sources": [
+		"coingecko"
+	]
+}

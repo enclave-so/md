@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x612E1726435fE38dD49A0B35b4065B56f49c8F11",
+	"symbol": "CryptoCart V2",
+	"name": "CryptoCart V2",
+	"coingecko": "cryptocart",
+	"sources": [
+		"coingecko"
+	]
+}

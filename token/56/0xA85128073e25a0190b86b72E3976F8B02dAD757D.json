@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xA85128073e25a0190b86b72E3976F8B02dAD757D",
+	"symbol": "B2B Token",
+	"name": "B2B Token",
+	"coingecko": "b2b-token",
+	"sources": [
+		"coingecko"
+	]
+}

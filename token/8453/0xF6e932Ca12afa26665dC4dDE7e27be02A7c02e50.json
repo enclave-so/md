@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xF6e932Ca12afa26665dC4dDE7e27be02A7c02e50",
+	"symbol": "Mochi",
+	"name": "Mochi",
+	"coingecko": "mochi-thecatcoin",
+	"sources": [
+		"coingecko"
+	]
+}

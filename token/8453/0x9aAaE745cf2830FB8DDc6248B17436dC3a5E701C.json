@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x9aAaE745cf2830FB8DDc6248B17436dC3a5E701C",
+	"symbol": "Gochujangcoin",
+	"name": "Gochujangcoin",
+	"coingecko": "gochujangcoin",
+	"sources": [
+		"coingecko"
+	]
+}

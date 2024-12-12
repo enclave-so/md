@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x47c3118Ad183712Acd42648e9E522e13690f29a0",
+	"symbol": "Meat",
+	"name": "Meat",
+	"coingecko": "sausagers-meat",
+	"sources": [
+		"coingecko"
+	]
+}

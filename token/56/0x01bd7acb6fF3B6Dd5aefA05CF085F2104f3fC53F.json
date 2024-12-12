@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x01bd7acb6fF3B6Dd5aefA05CF085F2104f3fC53F",
+	"symbol": "TreatDAO",
+	"name": "TreatDAO",
+	"coingecko": "treatdao-v2",
+	"sources": [
+		"coingecko"
+	]
+}

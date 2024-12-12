@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x78Ea3fef1c1f07348199Bf44f45b803b9B0Dbe28",
+	"symbol": "Hoppers Game",
+	"name": "Hoppers Game",
+	"coingecko": "hoppers-game",
+	"sources": [
+		"coingecko"
+	]
+}

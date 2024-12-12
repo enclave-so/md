@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xd5046B976188EB40f6DE40fB527F89c05b323385",
+	"symbol": "BaseX",
+	"name": "BaseX",
+	"coingecko": "basex",
+	"sources": [
+		"coingecko"
+	]
+}

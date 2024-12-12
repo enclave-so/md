@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x6C46422A0f7dbbAD9BEC3BbBC1189bfAf9794B05",
+	"symbol": "Little Rabbit V2",
+	"name": "Little Rabbit V2",
+	"coingecko": "little-rabbit-v2",
+	"sources": [
+		"coingecko"
+	]
+}

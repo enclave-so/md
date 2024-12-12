@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x1287A235474E0331C0975e373bdD066444d1Bd35",
+	"symbol": "TAIKAI",
+	"name": "TAIKAI",
+	"coingecko": "taikai",
+	"sources": [
+		"coingecko"
+	]
+}

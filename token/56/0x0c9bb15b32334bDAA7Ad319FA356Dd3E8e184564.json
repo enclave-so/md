@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x0c9bb15b32334bDAA7Ad319FA356Dd3E8e184564",
+	"symbol": "Marine Moguls",
+	"name": "Marine Moguls",
+	"coingecko": "marine-moguls",
+	"sources": [
+		"coingecko"
+	]
+}

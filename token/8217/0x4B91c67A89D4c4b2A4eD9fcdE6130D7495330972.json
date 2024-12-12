@@ -1,0 +1,10 @@
+{
+	"chain": 8217,
+	"address": "0x4B91c67A89D4c4b2A4eD9fcdE6130D7495330972",
+	"symbol": "Treecle",
+	"name": "Treecle",
+	"coingecko": "treecle",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,92 @@
+[
+	{
+		"chain": 20,
+		"address": "0x9f1d0Ed4E041C503BD487E5dc9FC935Ab57F9a57",
+		"symbol": "Bridged BUSD",
+		"name": "Bridged BUSD",
+		"coingecko": "bridged-busd",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 20,
+		"address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
+		"symbol": "Elk Finance",
+		"name": "Elk Finance",
+		"coingecko": "elk-finance",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 20,
+		"address": "0xeceefC50f9aAcF0795586Ed90a8b9E24f55Ce3F3",
+		"symbol": "Huobi",
+		"name": "Huobi",
+		"coingecko": "huobi-token",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 20,
+		"address": "0xF9Ca2eA3b1024c0DB31adB224B407441bECC18BB",
+		"symbol": "HUSD",
+		"name": "HUSD",
+		"coingecko": "husd",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 20,
+		"address": "0x802c3e839E4fDb10aF583E3E759239ec7703501e",
+		"symbol": "ShadowTokens Bridged WETH (Elastos Smart Chain)",
+		"name": "ShadowTokens Bridged WETH (Elastos Smart Chain)",
+		"coingecko": "shadowtokens-bridged-weth-elastos-smart-chain",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 20,
+		"address": "0x51B85F3889c7EA8f6d5EdEBFBadaDA0fDcE236c9",
+		"symbol": "Wrapped BNB",
+		"name": "Wrapped BNB",
+		"coingecko": "wbnb",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 20,
+		"address": "0xd39eC832FF1CaaFAb2729c76dDeac967ABcA8F27",
+		"symbol": "Glide Finance",
+		"name": "Glide Finance",
+		"coingecko": "glide-finance",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 20,
+		"address": "0xA06be0F5950781cE28D965E5EFc6996e88a8C141",
+		"symbol": "ShadowTokens Bridged USDC (Elastos)",
+		"name": "ShadowTokens Bridged USDC (Elastos)",
+		"coingecko": "shadowtokens-bridged-usdc-elastos",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 20,
+		"address": "0x517E9e5d46C1EA8aB6f78677d6114Ef47F71f6c4",
+		"symbol": "Wrapped Elastos",
+		"name": "Wrapped Elastos",
+		"coingecko": "wrapped-elastos",
+		"sources": [
+			"coingecko"
+		]
+	}
+]

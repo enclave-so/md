@@ -1,0 +1,10 @@
+{
+	"chain": 5000,
+	"address": "0x7f4dB37D7bEb31F445307782Bc3Da0F18dF13696",
+	"symbol": "Yield Yak",
+	"name": "Yield Yak",
+	"coingecko": "yield-yak",
+	"sources": [
+		"coingecko"
+	]
+}

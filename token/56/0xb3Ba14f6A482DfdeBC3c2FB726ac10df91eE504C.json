@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xb3Ba14f6A482DfdeBC3c2FB726ac10df91eE504C",
+	"symbol": "City Tycoon Games",
+	"name": "City Tycoon Games",
+	"coingecko": "city-tycoon-games",
+	"sources": [
+		"coingecko"
+	]
+}

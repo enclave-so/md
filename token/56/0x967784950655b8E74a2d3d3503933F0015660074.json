@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x967784950655b8E74a2d3d3503933F0015660074",
+	"symbol": "AliF Coin",
+	"name": "AliF Coin",
+	"coingecko": "alif-coin",
+	"sources": [
+		"coingecko"
+	]
+}

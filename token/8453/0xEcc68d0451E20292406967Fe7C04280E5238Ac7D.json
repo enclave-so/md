@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xEcc68d0451E20292406967Fe7C04280E5238Ac7D",
+	"symbol": "Axelar Bridged Frax Ether",
+	"name": "Axelar Bridged Frax Ether",
+	"coingecko": "axelar-bridged-frax-ether",
+	"sources": [
+		"coingecko"
+	]
+}

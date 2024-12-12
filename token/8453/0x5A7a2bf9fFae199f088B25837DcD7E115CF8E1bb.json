@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x5A7a2bf9fFae199f088B25837DcD7E115CF8E1bb",
+	"symbol": "IMO",
+	"name": "IMO",
+	"coingecko": "imo",
+	"sources": [
+		"coingecko"
+	]
+}

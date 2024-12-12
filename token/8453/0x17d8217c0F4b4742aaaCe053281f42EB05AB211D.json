@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x17d8217c0F4b4742aaaCe053281f42EB05AB211D",
+	"symbol": "CloudBase",
+	"name": "CloudBase",
+	"coingecko": "cloudbase",
+	"sources": [
+		"coingecko"
+	]
+}

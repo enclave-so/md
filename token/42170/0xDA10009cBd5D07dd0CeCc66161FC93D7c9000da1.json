@@ -1,0 +1,13 @@
+{
+	"chain": 42170,
+	"address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
+	"symbol": "DAI",
+	"name": "Dai Stablecoin",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/dai.jpg",
+	"coingecko": "makerdao-arbitrum-nova-dai-bridge-arbitrum-nova",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

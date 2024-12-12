@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x3496212eC43Cc49F5151ec4405efD4975e036f89",
+	"symbol": "LiveGreen Coin",
+	"name": "LiveGreen Coin",
+	"coingecko": "livegreen-coin",
+	"sources": [
+		"coingecko"
+	]
+}

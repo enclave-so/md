@@ -1,0 +1,10 @@
+{
+	"chain": 42220,
+	"address": "0xE685d21b7B0FC7A248a6A8E03b8Db22d013Aa2eE",
+	"symbol": "ImmortalDAO",
+	"name": "ImmortalDAO",
+	"coingecko": "immortaldao",
+	"sources": [
+		"coingecko"
+	]
+}

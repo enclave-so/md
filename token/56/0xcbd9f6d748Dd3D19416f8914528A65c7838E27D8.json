@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xcbd9f6d748Dd3D19416f8914528A65c7838E27D8",
+	"symbol": "R Games",
+	"name": "R Games",
+	"coingecko": "r-games",
+	"sources": [
+		"coingecko"
+	]
+}

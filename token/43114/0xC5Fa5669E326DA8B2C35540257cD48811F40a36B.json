@@ -1,0 +1,11 @@
+{
+	"chain": 43114,
+	"address": "0xC5Fa5669E326DA8B2C35540257cD48811F40a36B",
+	"symbol": "axlDAI",
+	"name": "Axelar Wrapped DAI",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0xC5Fa5669E326DA8B2C35540257cD48811F40a36B.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

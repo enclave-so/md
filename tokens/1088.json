@@ -1,0 +1,466 @@
+[
+	{
+		"chain": 1088,
+		"address": "0x8C5f5fAc50A0A952b2fC084780fc04abC8201f0b",
+		"symbol": "WMONKEX",
+		"name": "Wrapped Monkex",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/metis/0x8C5f5fAc50A0A952b2fC084780fc04abC8201f0b.jpg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 1088,
+		"address": "0xb0cf600A62C94451b844B5161A57F7ceC4Cef9ae",
+		"symbol": "Cerus",
+		"name": "Cerus",
+		"coingecko": "cerus",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1088,
+		"address": "0x90fE084F877C65e1b577c7b2eA64B8D8dd1AB278",
+		"symbol": "Netswap",
+		"name": "Netswap",
+		"coingecko": "netswap",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1088,
+		"address": "0xaf20f5f19698f1D19351028cd7103B63D30DE7d7",
+		"symbol": "Wagmi",
+		"name": "Wagmi",
+		"coingecko": "wagmi-2",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1088,
+		"address": "0x186573b175aDF5801cF95Fb06b232ccAB123c6F4",
+		"symbol": "MONKEX",
+		"name": "Monkex",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/metis/0x186573b175aDF5801cF95Fb06b232ccAB123c6F4.jpg",
+		"coingecko": "monkex",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 1088,
+		"address": "0x6F05709bc91Bad933346F9E159f0D3FdBc2c9DCE",
+		"symbol": "Hera Finance",
+		"name": "Hera Finance",
+		"coingecko": "hera-finance",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1088,
+		"address": "0xfe282Af5f9eB59C30A3f78789EEfFA704188bdD4",
+		"symbol": "Relay Chain",
+		"name": "Relay Chain",
+		"coingecko": "relay-token",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1088,
+		"address": "0x80137510979822322193FC997d400D5A6C747bf7",
+		"symbol": "StakeStone ETH",
+		"name": "StakeStone ETH",
+		"coingecko": "stakestone-ether",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1088,
+		"address": "0x69fdb77064ec5c84FA2F21072973eB28441F43F3",
+		"symbol": "Tethys Finance",
+		"name": "Tethys Finance",
+		"coingecko": "tethys-finance",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1088,
+		"address": "0xa11DD414Ad9b68cc1fe4d0a256f0F4413169Dd5E",
+		"symbol": "TitanBorn",
+		"name": "TitanBorn",
+		"coingecko": "titanborn",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1088,
+		"address": "0x66673f0a3b5d99524bA76A558B93A9ca1386f4Cd",
+		"symbol": "XCAD Network",
+		"name": "XCAD Network",
+		"coingecko": "xcad-network",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1088,
+		"address": "0xEA32A96608495e54156Ae48931A7c20f0dcc1a21",
+		"symbol": "USDC",
+		"name": "USD Coin",
+		"decimals": 6,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdc.jpg",
+		"coingecko": "bridged-usdc",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 1088,
+		"address": "0x85ABAdDcae06efee2CB5F75f33b6471759eFDE24",
+		"symbol": "Aave v3 DAI",
+		"name": "Aave v3 DAI",
+		"coingecko": "aave-v3-dai",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1088,
+		"address": "0x721532bC0dA5ffaeB0a6A45fB24271E8098629A7",
+		"symbol": "BinaryDAO",
+		"name": "BinaryDAO",
+		"coingecko": "binarydao",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1088,
+		"address": "0x4aAC94985cD83be30164DfE7e9AF7C054D7d2121",
+		"symbol": "Hummus",
+		"name": "Hummus",
+		"coingecko": "hummus",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1088,
+		"address": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000",
+		"symbol": "Metis",
+		"name": "Metis",
+		"coingecko": "metis-token",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1088,
+		"address": "0x096A84536ab84E68ee210561FFD3A038E79736F1",
+		"symbol": "ENKI Protocol",
+		"name": "ENKI Protocol",
+		"coingecko": "enki-protocol",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1088,
+		"address": "0x2136d8017ac5f4Db99A7F9E23f15116b9c98Be4E",
+		"symbol": "VEGA",
+		"name": "VEGA",
+		"coingecko": "vega-2",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1088,
+		"address": "0xC029adf62Cf8F91985c49e1FDe6900affcBa0424",
+		"symbol": "BlockChat",
+		"name": "BlockChat",
+		"coingecko": "blockchat",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1088,
+		"address": "0x4651B38e7ec14BB3db731369BFE5B08F2466Bd0A",
+		"symbol": "Elevate Bridged DAI (Metis Andromeda)",
+		"name": "Elevate Bridged DAI (Metis Andromeda)",
+		"coingecko": "elevate-bridged-dai-metis-andromeda",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1088,
+		"address": "0xb27BbeaACA2C00d6258C3118BAB6b5B6975161c8",
+		"symbol": "Hermes Protocol",
+		"name": "Hermes Protocol",
+		"coingecko": "hermes-protocol",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1088,
+		"address": "0x17Ee7E4dA37B01FC1bcc908fA63DF343F23B4B7C",
+		"symbol": "m.SUSHI",
+		"name": "SushiToken",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/metis/0x17Ee7E4dA37B01FC1bcc908fA63DF343F23B4B7C.jpg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 1088,
+		"address": "0x420000000000000000000000000000000000000A",
+		"symbol": "WETH",
+		"name": "Wrapped Ethereum",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/eth.jpg",
+		"coingecko": "metis-bridged-weth-metis-andromeda",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 1088,
+		"address": "0x75cb093E4D61d2A2e65D8e0BBb01DE8d89b53481",
+		"symbol": "WMETIS",
+		"name": "Wrapped Metis",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/metis.svg",
+		"coingecko": "wmetis",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 1088,
+		"address": "0x1581929770bE3275a82068c1135b6dD59c5334Ed",
+		"symbol": "Alium Finance",
+		"name": "Alium Finance",
+		"coingecko": "alium-finance",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1088,
+		"address": "0xA4eE142e34d0676Edc2b760DD0016003D99a4ceC",
+		"symbol": "Athena Finance",
+		"name": "Athena Finance",
+		"coingecko": "athena-finance",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1088,
+		"address": "0x72c232D56542Ba082592DEE7C77b1C6CFA758BCD",
+		"symbol": "Maia",
+		"name": "Maia",
+		"coingecko": "maia",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1088,
+		"address": "0x966B25D174bE6Ba703E0fF80c68BB6e167236BA2",
+		"symbol": "Revenant",
+		"name": "Revenant",
+		"coingecko": "revenant",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1088,
+		"address": "0x2583A2538272f31e9A15dD12A432B8C96Ab4821d",
+		"symbol": "Staked Metis Token",
+		"name": "Staked Metis Token",
+		"coingecko": "staked-metis-token",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1088,
+		"address": "0x3dbb8D7B18b83B6109829b018875fCD192D2F3Ff",
+		"symbol": "CRONUS",
+		"name": "CRONUS",
+		"coingecko": "cronus",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1088,
+		"address": "0x17C09cfC96C865CF546d73365Cedb6dC66986963",
+		"symbol": "DeFi Kingdoms",
+		"name": "DeFi Kingdoms",
+		"coingecko": "defi-kingdoms",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1088,
+		"address": "0xbB1676046C36BCd2F6fD08d8f60672c7087d9aDF",
+		"symbol": "Hercules Token",
+		"name": "Hercules Token",
+		"coingecko": "hercules-token",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1088,
+		"address": "0x4c078361FC9BbB78DF910800A991C7c3DD2F6ce0",
+		"symbol": "DAI",
+		"name": "Dai Stablecoin",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/dai.jpg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 1088,
+		"address": "0xbB06DCA3AE6887fAbF931640f67cab3e3a16F4dC",
+		"symbol": "USDT",
+		"name": "Tether USD",
+		"decimals": 6,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdt.jpg",
+		"coingecko": "bridged-usdt",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 1088,
+		"address": "0xa5B55ab1dAF0F8e1EFc0eB1931a957fd89B918f4",
+		"symbol": "WBTC",
+		"name": "Wrapped BTC",
+		"decimals": 8,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/metis/0xa5B55ab1dAF0F8e1EFc0eB1931a957fd89B918f4.jpg",
+		"coingecko": "metis-bridged-wbtc-metis-andromeda",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 1088,
+		"address": "0x885C8AEC5867571582545F894A5906971dB9bf27",
+		"symbol": "Aave v3 USDC",
+		"name": "Aave v3 USDC",
+		"coingecko": "aave-v3-usdc",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1088,
+		"address": "0x85b70D7e56BC8C4dDD7a5BB30E59b223DA383E34",
+		"symbol": "AraFi",
+		"name": "AraFi",
+		"coingecko": "arafi",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1088,
+		"address": "0xdFA46478F9e5EA86d57387849598dbFB2e964b02",
+		"symbol": "MAI",
+		"name": "Mai Stablecoin",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xa3Fa99A148fA48D14Ed51d610c367C61876997F1/logo.png",
+		"coingecko": "mimatic",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 1088,
+		"address": "0x5CE34d9abe4bF239cbc08B89287c87f4CD6d80B7",
+		"symbol": "WOWswap",
+		"name": "WOWswap",
+		"coingecko": "wowswap",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1088,
+		"address": "0xdf020cBd1897133978C7FcDF04B07E69d8934Efc",
+		"symbol": "zkEra Finance",
+		"name": "zkEra Finance",
+		"coingecko": "zkera-finance",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1088,
+		"address": "0x7314Ef2CA509490f65F52CC8FC9E0675C66390b8",
+		"symbol": "Aave v3 Metis",
+		"name": "Aave v3 Metis",
+		"coingecko": "aave-v3-metis",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1088,
+		"address": "0x8acAe35059C9aE27709028fF6689386a44c09f3a",
+		"symbol": "Aave v3 WETH",
+		"name": "Aave v3 WETH",
+		"coingecko": "aave-v3-weth",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1088,
+		"address": "0xfBae1EAb52af0Ea3d35cB12F1221cE32D377D08E",
+		"symbol": "CACA",
+		"name": "CACA",
+		"coingecko": "caca",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1088,
+		"address": "0x1affBc17938a25d245e1B7eC6f2fc949df8E9760",
+		"symbol": "Paper",
+		"name": "Paper",
+		"coingecko": "paper-fantom",
+		"sources": [
+			"coingecko"
+		]
+	}
+]

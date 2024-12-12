@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x0910320181889feFDE0BB1Ca63962b0A8882e413",
+	"symbol": "CAMLY COIN",
+	"name": "CAMLY COIN",
+	"coingecko": "camly-coin",
+	"sources": [
+		"coingecko"
+	]
+}

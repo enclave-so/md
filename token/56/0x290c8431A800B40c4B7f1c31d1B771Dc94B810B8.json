@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x290c8431A800B40c4B7f1c31d1B771Dc94B810B8",
+	"symbol": "SYBARITE",
+	"name": "SYBARITE",
+	"coingecko": "sybarite",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xcbB7C0000aB88B473b1f5aFd9ef808440eed33Bf",
+	"symbol": "Coinbase Wrapped BTC",
+	"name": "Coinbase Wrapped BTC",
+	"coingecko": "coinbase-wrapped-btc",
+	"sources": [
+		"coingecko"
+	]
+}

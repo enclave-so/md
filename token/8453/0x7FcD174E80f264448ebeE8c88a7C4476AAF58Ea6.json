@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x7FcD174E80f264448ebeE8c88a7C4476AAF58Ea6",
+	"symbol": "Wrapped Super OETH",
+	"name": "Wrapped Super OETH",
+	"coingecko": "wrapped-super-oeth",
+	"sources": [
+		"coingecko"
+	]
+}

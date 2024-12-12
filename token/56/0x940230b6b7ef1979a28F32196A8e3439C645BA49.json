@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x940230b6b7ef1979a28F32196A8e3439C645BA49",
+	"symbol": "Shib Army",
+	"name": "Shib Army",
+	"coingecko": "shib-army",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x9f95e17b2668AFE01F8fbD157068b0a4405Cc08D",
+	"symbol": "Bullieverse",
+	"name": "Bullieverse",
+	"coingecko": "bullieverse",
+	"sources": [
+		"coingecko"
+	]
+}

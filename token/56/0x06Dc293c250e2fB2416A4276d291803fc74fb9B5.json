@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x06Dc293c250e2fB2416A4276d291803fc74fb9B5",
+	"symbol": "The Kingdom Coin",
+	"name": "The Kingdom Coin",
+	"coingecko": "the-kingdom-coin",
+	"sources": [
+		"coingecko"
+	]
+}

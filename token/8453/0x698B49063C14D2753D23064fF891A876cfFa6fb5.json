@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x698B49063C14D2753D23064fF891A876cfFa6fb5",
+	"symbol": "NIKITA by Virtuals",
+	"name": "NIKITA by Virtuals",
+	"coingecko": "nikita-by-virtuals",
+	"sources": [
+		"coingecko"
+	]
+}

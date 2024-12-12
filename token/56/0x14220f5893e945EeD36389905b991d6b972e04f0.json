@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x14220f5893e945EeD36389905b991d6b972e04f0",
+	"symbol": "STACKS",
+	"name": "STACKS",
+	"coingecko": "stacks",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 50,
+	"address": "0x678adF7955d8f6dCaa9e2fcC1C5BA70bCcC464E6",
+	"symbol": "GAMA Coin",
+	"name": "GAMA Coin",
+	"coingecko": "gama-coin",
+	"sources": [
+		"coingecko"
+	]
+}

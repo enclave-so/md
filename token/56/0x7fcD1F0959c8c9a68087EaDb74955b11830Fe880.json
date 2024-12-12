@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x7fcD1F0959c8c9a68087EaDb74955b11830Fe880",
+	"symbol": "BurnKing",
+	"name": "BurnKing",
+	"coingecko": "burnking",
+	"sources": [
+		"coingecko"
+	]
+}

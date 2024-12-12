@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x0F237Db17AA4E6dE062e6f052bD9C805789b01C3",
+	"symbol": "Covesting",
+	"name": "Covesting",
+	"coingecko": "covesting",
+	"sources": [
+		"coingecko"
+	]
+}

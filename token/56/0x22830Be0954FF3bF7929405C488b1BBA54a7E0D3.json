@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x22830Be0954FF3bF7929405C488b1BBA54a7E0D3",
+	"symbol": "BRCStarter",
+	"name": "BRCStarter",
+	"coingecko": "brcstarter",
+	"sources": [
+		"coingecko"
+	]
+}

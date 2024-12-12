@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x214dD1B5cBE543D4189Ab39832F1BC1eEDEBb1d3",
+	"symbol": "Junior",
+	"name": "Junior",
+	"coingecko": "junior",
+	"sources": [
+		"coingecko"
+	]
+}

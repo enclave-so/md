@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x6421531AF54C7B14Ea805719035EBf1e3661c44A",
+	"symbol": "BEP20 LEO",
+	"name": "BEP20 LEO",
+	"coingecko": "bep20-leo",
+	"sources": [
+		"coingecko"
+	]
+}

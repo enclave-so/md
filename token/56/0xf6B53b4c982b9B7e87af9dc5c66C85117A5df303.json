@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xf6B53b4c982b9B7e87af9dc5c66C85117A5df303",
+	"symbol": "Denarius",
+	"name": "Denarius",
+	"coingecko": "denarius",
+	"sources": [
+		"coingecko"
+	]
+}

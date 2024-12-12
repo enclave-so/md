@@ -1,0 +1,10 @@
+{
+	"chain": 59144,
+	"address": "0xe4D584ae9b753e549cAE66200A6475d2f00705f7",
+	"symbol": "Merlin's Seal BTC",
+	"name": "Merlin's Seal BTC",
+	"coingecko": "merlin-s-seal-btc",
+	"sources": [
+		"coingecko"
+	]
+}

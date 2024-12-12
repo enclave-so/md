@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x681fd3e49a6188Fc526784eE70AA1C269ee2B887",
+	"symbol": "Franklin",
+	"name": "Franklin",
+	"coingecko": "franklin",
+	"sources": [
+		"coingecko"
+	]
+}

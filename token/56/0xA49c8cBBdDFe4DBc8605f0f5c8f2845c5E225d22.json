@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xA49c8cBBdDFe4DBc8605f0f5c8f2845c5E225d22",
+	"symbol": "Apidae",
+	"name": "Apidae",
+	"coingecko": "apidae",
+	"sources": [
+		"coingecko"
+	]
+}

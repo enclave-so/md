@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xEF7d50069406A2F5A53806f7250A6c0f17AD9dCD",
+	"symbol": "beFITTER",
+	"name": "beFITTER",
+	"coingecko": "befitter",
+	"sources": [
+		"coingecko"
+	]
+}

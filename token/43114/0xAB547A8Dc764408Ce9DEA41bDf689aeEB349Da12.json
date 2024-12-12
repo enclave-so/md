@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0xAB547A8Dc764408Ce9DEA41bDf689aeEB349Da12",
+	"symbol": "Owloper Owl",
+	"name": "Owloper Owl",
+	"coingecko": "owloper",
+	"sources": [
+		"coingecko"
+	]
+}

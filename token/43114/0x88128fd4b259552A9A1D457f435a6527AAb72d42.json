@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x88128fd4b259552A9A1D457f435a6527AAb72d42",
+	"symbol": "Maker",
+	"name": "Maker",
+	"coingecko": "maker",
+	"sources": [
+		"coingecko"
+	]
+}

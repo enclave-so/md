@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x1986Cc18D8eC757447254310D2604f85741aA732",
+	"symbol": "Rewardable",
+	"name": "Rewardable",
+	"coingecko": "rewardable",
+	"sources": [
+		"coingecko"
+	]
+}

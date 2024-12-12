@@ -1,0 +1,62 @@
+[
+	{
+		"chain": 1996,
+		"address": "0x3C84f959f4b8ca0c39847d02f936e13Fa8fC4Eb9",
+		"symbol": "Beat The Allegations",
+		"name": "Beat The Allegations",
+		"coingecko": "beat-the-allegations",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1996,
+		"address": "0x13D675BC5e659b11CFA331594cF35A20815dCF02",
+		"symbol": "Sanko Bridged USDC (Sanko)",
+		"name": "Sanko Bridged USDC (Sanko)",
+		"coingecko": "sanko-bridged-usdc-sanko",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1996,
+		"address": "0xE01e3b20C5819cf919F7f1a2b4C18bBfd222F376",
+		"symbol": "Sanko Bridged WETH (Sanko)",
+		"name": "Sanko Bridged WETH (Sanko)",
+		"coingecko": "sanko-bridged-weth-sanko",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1996,
+		"address": "0xe78A3857593083dD6e1F7859e1B711401FC6f2cc",
+		"symbol": "Smoke The Ticker",
+		"name": "Smoke The Ticker",
+		"coingecko": "smoke-the-ticker",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1996,
+		"address": "0x3f710cBd0F4268719C6c2E5E078a4CAfAeED7d45",
+		"symbol": "Smoovie Phone",
+		"name": "Smoovie Phone",
+		"coingecko": "smoovie-phone",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1996,
+		"address": "0x754cDAd6f5821077d6915004Be2cE05f93d176f8",
+		"symbol": "Wrapped DMT",
+		"name": "Wrapped DMT",
+		"coingecko": "wrapped-dmt",
+		"sources": [
+			"coingecko"
+		]
+	}
+]

@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x8b52F46A52D86C131222EE14167Da6a847bdB84a",
+	"symbol": "Etho Protocol",
+	"name": "Etho Protocol",
+	"coingecko": "ether-1",
+	"sources": [
+		"coingecko"
+	]
+}

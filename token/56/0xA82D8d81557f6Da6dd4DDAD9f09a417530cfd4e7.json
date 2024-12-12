@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xA82D8d81557f6Da6dd4DDAD9f09a417530cfd4e7",
+	"symbol": "Blombard",
+	"name": "Blombard",
+	"coingecko": "blombard",
+	"sources": [
+		"coingecko"
+	]
+}

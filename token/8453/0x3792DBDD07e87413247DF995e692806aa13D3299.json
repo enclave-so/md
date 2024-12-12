@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x3792DBDD07e87413247DF995e692806aa13D3299",
+	"symbol": "ECOMI",
+	"name": "ECOMI",
+	"coingecko": "ecomi",
+	"sources": [
+		"coingecko"
+	]
+}

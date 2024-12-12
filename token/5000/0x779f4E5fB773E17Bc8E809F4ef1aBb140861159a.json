@@ -1,0 +1,10 @@
+{
+	"chain": 5000,
+	"address": "0x779f4E5fB773E17Bc8E809F4ef1aBb140861159a",
+	"symbol": "KTX.Finance",
+	"name": "KTX.Finance",
+	"coingecko": "ktx-finance",
+	"sources": [
+		"coingecko"
+	]
+}

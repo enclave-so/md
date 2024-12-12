@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xb1efa16818dA8432aDd0Cb0A82cc7Fab98C78893",
+	"symbol": "Kibho Coin",
+	"name": "Kibho Coin",
+	"coingecko": "kibho-coin",
+	"sources": [
+		"coingecko"
+	]
+}

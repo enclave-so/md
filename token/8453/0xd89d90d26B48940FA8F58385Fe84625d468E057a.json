@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xd89d90d26B48940FA8F58385Fe84625d468E057a",
+	"symbol": "Avail",
+	"name": "Avail",
+	"coingecko": "avail",
+	"sources": [
+		"coingecko"
+	]
+}

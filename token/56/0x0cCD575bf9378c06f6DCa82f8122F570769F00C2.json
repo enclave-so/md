@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x0cCD575bf9378c06f6DCa82f8122F570769F00C2",
+	"symbol": "CryptoBlades Kingdoms",
+	"name": "CryptoBlades Kingdoms",
+	"coingecko": "cryptoblades-kingdoms",
+	"sources": [
+		"coingecko"
+	]
+}

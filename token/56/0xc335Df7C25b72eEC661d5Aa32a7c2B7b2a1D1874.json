@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xc335Df7C25b72eEC661d5Aa32a7c2B7b2a1D1874",
+	"symbol": "Ice Open Network",
+	"name": "Ice Open Network",
+	"coingecko": "ice",
+	"sources": [
+		"coingecko"
+	]
+}

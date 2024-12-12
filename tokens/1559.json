@@ -1,0 +1,12 @@
+[
+	{
+		"chain": 1559,
+		"address": "0x22001C881848B523dbB66Df0832f1835CF2C4298",
+		"symbol": "TenX",
+		"name": "TenX",
+		"coingecko": "tenx-2",
+		"sources": [
+			"coingecko"
+		]
+	}
+]

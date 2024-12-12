@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x4A3A6Dd60A34bB2Aba60D73B4C88315E9CeB6A3D",
+	"symbol": "Magic Internet Money (Base)",
+	"name": "Magic Internet Money (Base)",
+	"coingecko": "magic-internet-money-base",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x117A123dEd97CD125837d9AC19592b77d806fa88",
+	"symbol": "Bull Run Bets",
+	"name": "Bull Run Bets",
+	"coingecko": "bull-run-bets",
+	"sources": [
+		"coingecko"
+	]
+}

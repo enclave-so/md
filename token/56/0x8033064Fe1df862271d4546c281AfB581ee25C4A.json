@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x8033064Fe1df862271d4546c281AfB581ee25C4A",
+	"symbol": "Sparklife",
+	"name": "Sparklife",
+	"coingecko": "sparklife",
+	"sources": [
+		"coingecko"
+	]
+}

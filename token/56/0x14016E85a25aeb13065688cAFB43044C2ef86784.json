@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x14016E85a25aeb13065688cAFB43044C2ef86784",
+	"symbol": "Bridged TrueUSD",
+	"name": "Bridged TrueUSD",
+	"coingecko": "bridged-trueusd",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x6Fa9C0EE8a1F237466bB9CAc8466bFA2aA63A978",
+	"symbol": "BiCity AI Projects",
+	"name": "BiCity AI Projects",
+	"coingecko": "bicity-ai-projects",
+	"sources": [
+		"coingecko"
+	]
+}

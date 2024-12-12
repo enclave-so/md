@@ -1,0 +1,10 @@
+{
+	"chain": 5000,
+	"address": "0x25356aeca4210eF7553140edb9b8026089E49396",
+	"symbol": "Lendle",
+	"name": "Lendle",
+	"coingecko": "lendle",
+	"sources": [
+		"coingecko"
+	]
+}

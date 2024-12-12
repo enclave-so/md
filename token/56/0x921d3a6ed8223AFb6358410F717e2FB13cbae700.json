@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x921d3a6ed8223AFb6358410F717e2FB13cbae700",
+	"symbol": "Qrkita",
+	"name": "Qrkita",
+	"coingecko": "qrkita-token",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xf395680803b269b62702554723E05b373171b07b",
+	"symbol": "Son of Brett",
+	"name": "Son of Brett",
+	"coingecko": "son-of-brett",
+	"sources": [
+		"coingecko"
+	]
+}

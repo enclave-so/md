@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xF9d906a8dD25c4A4966bC075cdc946702219E62C",
+	"symbol": "Yield Protocol",
+	"name": "Yield Protocol",
+	"coingecko": "yield-protocol",
+	"sources": [
+		"coingecko"
+	]
+}

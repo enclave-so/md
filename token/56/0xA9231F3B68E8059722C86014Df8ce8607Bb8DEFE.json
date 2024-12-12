@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xA9231F3B68E8059722C86014Df8ce8607Bb8DEFE",
+	"symbol": "BlastFi Ecosystem Token",
+	"name": "BlastFi Ecosystem Token",
+	"coingecko": "blastfi-ecosystem-token",
+	"sources": [
+		"coingecko"
+	]
+}

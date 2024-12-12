@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xbaC405E6B93846Cdc809db7af3380746efA2C06F",
+	"symbol": "ChainGPU",
+	"name": "ChainGPU",
+	"coingecko": "chaingpu",
+	"sources": [
+		"coingecko"
+	]
+}

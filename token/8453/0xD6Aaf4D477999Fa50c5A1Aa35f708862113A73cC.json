@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xD6Aaf4D477999Fa50c5A1Aa35f708862113A73cC",
+	"symbol": "Propbase",
+	"name": "Propbase",
+	"coingecko": "propbase",
+	"sources": [
+		"coingecko"
+	]
+}

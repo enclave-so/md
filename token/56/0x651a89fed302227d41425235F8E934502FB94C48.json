@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x651a89fed302227d41425235F8E934502FB94C48",
+	"symbol": "ADAcash",
+	"name": "ADAcash",
+	"coingecko": "adacash",
+	"sources": [
+		"coingecko"
+	]
+}

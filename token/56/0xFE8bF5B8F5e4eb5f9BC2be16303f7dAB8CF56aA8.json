@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xFE8bF5B8F5e4eb5f9BC2be16303f7dAB8CF56aA8",
+	"symbol": "BIBI",
+	"name": "BIBI",
+	"coingecko": "bibi",
+	"sources": [
+		"coingecko"
+	]
+}

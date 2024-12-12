@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0xfDA866CFEcE71F4C17b4a5e5f9A00ac08C72Eadc",
+	"symbol": "Pera Finance",
+	"name": "Pera Finance",
+	"coingecko": "pera-finance",
+	"sources": [
+		"coingecko"
+	]
+}

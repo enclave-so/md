@@ -1,0 +1,11 @@
+{
+	"chain": 66,
+	"address": "0xd1351Ec15E8511658C2Ba1e1e81e1E60aA39c9Cd",
+	"symbol": "NVT",
+	"name": "NerveNetwork",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/11873/small/NerveNetwork.png?1595541544",
+	"sources": [
+		"sushiswap"
+	]
+}

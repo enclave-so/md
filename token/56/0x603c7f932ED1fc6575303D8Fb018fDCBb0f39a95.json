@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x603c7f932ED1fc6575303D8Fb018fDCBb0f39a95",
+	"symbol": "ApeSwap",
+	"name": "ApeSwap",
+	"coingecko": "apeswap-finance",
+	"sources": [
+		"coingecko"
+	]
+}

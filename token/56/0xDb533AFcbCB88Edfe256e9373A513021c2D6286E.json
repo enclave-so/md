@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xDb533AFcbCB88Edfe256e9373A513021c2D6286E",
+	"symbol": "GoNFTY",
+	"name": "GoNFTY",
+	"coingecko": "gonfty",
+	"sources": [
+		"coingecko"
+	]
+}

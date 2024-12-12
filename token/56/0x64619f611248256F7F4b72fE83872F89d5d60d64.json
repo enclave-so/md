@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x64619f611248256F7F4b72fE83872F89d5d60d64",
+	"symbol": "Quint",
+	"name": "Quint",
+	"coingecko": "quint",
+	"sources": [
+		"coingecko"
+	]
+}

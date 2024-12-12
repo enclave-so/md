@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x95E376390F472fcaA21995169E11D523954b3bbb",
+	"symbol": "LiraT",
+	"name": "LiraT",
+	"coingecko": "lirat",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x1592c5704F9e8c20BF7707C5d42626CecDA912c0",
+	"symbol": "ToDing Protocol",
+	"name": "ToDing Protocol",
+	"coingecko": "toding-protocol",
+	"sources": [
+		"coingecko"
+	]
+}

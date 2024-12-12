@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x469FdA1FB46Fcb4BeFc0D8B994B516bD28c87003",
+	"symbol": "Dino Poker",
+	"name": "Dino Poker",
+	"coingecko": "dino-poker",
+	"sources": [
+		"coingecko"
+	]
+}

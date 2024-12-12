@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x95430905F4B0dA123d41BA96600427d2C92B188a",
+	"symbol": "Cross Chain Degen DAO",
+	"name": "Cross Chain Degen DAO",
+	"coingecko": "cross-chain-degen-dao",
+	"sources": [
+		"coingecko"
+	]
+}

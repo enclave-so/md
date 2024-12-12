@@ -1,0 +1,13 @@
+{
+	"chain": 43114,
+	"address": "0x152b9d0FdC40C096757F570A51E494bd4b943E50",
+	"symbol": "BTC.b",
+	"name": "Bitcoin",
+	"decimals": 8,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0x152b9d0FdC40C096757F570A51E494bd4b943E50.jpg",
+	"coingecko": "bitcoin-avalanche-bridged-btc-b",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

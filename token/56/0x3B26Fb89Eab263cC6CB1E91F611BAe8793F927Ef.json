@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x3B26Fb89Eab263cC6CB1E91F611BAe8793F927Ef",
+	"symbol": "VNST Stablecoin",
+	"name": "VNST Stablecoin",
+	"coingecko": "vnst-stablecoin",
+	"sources": [
+		"coingecko"
+	]
+}

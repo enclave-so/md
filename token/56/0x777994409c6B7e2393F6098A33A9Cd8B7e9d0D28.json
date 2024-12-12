@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x777994409c6B7e2393F6098A33A9Cd8B7e9d0D28",
+	"symbol": "Cryptotem",
+	"name": "Cryptotem",
+	"coingecko": "cryptotem",
+	"sources": [
+		"coingecko"
+	]
+}

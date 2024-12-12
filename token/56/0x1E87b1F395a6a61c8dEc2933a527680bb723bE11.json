@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x1E87b1F395a6a61c8dEc2933a527680bb723bE11",
+	"symbol": "when",
+	"name": "when",
+	"coingecko": "when",
+	"sources": [
+		"coingecko"
+	]
+}

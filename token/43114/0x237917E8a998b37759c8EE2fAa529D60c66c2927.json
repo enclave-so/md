@@ -1,0 +1,11 @@
+{
+	"chain": 43114,
+	"address": "0x237917E8a998b37759c8EE2fAa529D60c66c2927",
+	"symbol": "sifu",
+	"name": "Sifu",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0x237917E8a998b37759c8EE2fAa529D60c66c2927.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

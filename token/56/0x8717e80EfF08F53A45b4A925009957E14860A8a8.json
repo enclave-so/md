@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x8717e80EfF08F53A45b4A925009957E14860A8a8",
+	"symbol": "BHO Network",
+	"name": "BHO Network",
+	"coingecko": "bho-network",
+	"sources": [
+		"coingecko"
+	]
+}

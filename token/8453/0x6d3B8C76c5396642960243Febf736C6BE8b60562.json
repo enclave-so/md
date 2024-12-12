@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x6d3B8C76c5396642960243Febf736C6BE8b60562",
+	"symbol": "Skull of Pepe Token",
+	"name": "Skull of Pepe Token",
+	"coingecko": "skull-of-pepe-token",
+	"sources": [
+		"coingecko"
+	]
+}

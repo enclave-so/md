@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x55A6f6CB50DB03259f6Ab17979a4891313Be2f45",
+	"symbol": "Diligent Pepe",
+	"name": "Diligent Pepe",
+	"coingecko": "diligent-pepe",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x7777Ca3b39f446d4b3472d6ea5080682686a7777",
+	"symbol": "GameFi X",
+	"name": "GameFi X",
+	"coingecko": "gamefi-x",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xBD6ceeEf56985B608252C3651dd903a3fCc34910",
+	"symbol": "Twelve Zodiac",
+	"name": "Twelve Zodiac",
+	"coingecko": "twelve-zodiac",
+	"sources": [
+		"coingecko"
+	]
+}

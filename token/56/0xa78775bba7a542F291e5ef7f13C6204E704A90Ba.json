@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xa78775bba7a542F291e5ef7f13C6204E704A90Ba",
+	"symbol": "Metafluence",
+	"name": "Metafluence",
+	"coingecko": "metafluence",
+	"sources": [
+		"coingecko"
+	]
+}

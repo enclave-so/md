@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x1209810df5370F68B28E6832dC4aC80072E2d0B8",
+	"symbol": "Avalox",
+	"name": "Avalox",
+	"coingecko": "avalox",
+	"sources": [
+		"coingecko"
+	]
+}

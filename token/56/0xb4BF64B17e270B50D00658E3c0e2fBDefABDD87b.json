@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xb4BF64B17e270B50D00658E3c0e2fBDefABDD87b",
+	"symbol": "Cheese Swap",
+	"name": "Cheese Swap",
+	"coingecko": "cheese-swap",
+	"sources": [
+		"coingecko"
+	]
+}

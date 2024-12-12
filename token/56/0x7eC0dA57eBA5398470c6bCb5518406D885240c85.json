@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x7eC0dA57eBA5398470c6bCb5518406D885240c85",
+	"symbol": "DIGIVERSE",
+	"name": "DIGIVERSE",
+	"coingecko": "digiverse-2",
+	"sources": [
+		"coingecko"
+	]
+}

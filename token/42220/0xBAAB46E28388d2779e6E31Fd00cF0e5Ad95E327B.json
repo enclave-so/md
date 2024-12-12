@@ -1,0 +1,11 @@
+{
+	"chain": 42220,
+	"address": "0xBAAB46E28388d2779e6E31Fd00cF0e5Ad95E327B",
+	"symbol": "WBTC",
+	"name": "Optics WBTC v2",
+	"decimals": 8,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/celo/assets/0xBAAB46E28388d2779e6E31Fd00cF0e5Ad95E327B/logo.png",
+	"sources": [
+		"sushiswap"
+	]
+}

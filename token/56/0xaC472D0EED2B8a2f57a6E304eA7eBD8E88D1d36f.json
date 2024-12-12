@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xaC472D0EED2B8a2f57a6E304eA7eBD8E88D1d36f",
+	"symbol": "Anime",
+	"name": "Anime",
+	"coingecko": "anime-token",
+	"sources": [
+		"coingecko"
+	]
+}

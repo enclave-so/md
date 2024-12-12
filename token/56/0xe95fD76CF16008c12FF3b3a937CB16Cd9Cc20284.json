@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xe95fD76CF16008c12FF3b3a937CB16Cd9Cc20284",
+	"symbol": "Sensitrust",
+	"name": "Sensitrust",
+	"coingecko": "sensitrust",
+	"sources": [
+		"coingecko"
+	]
+}

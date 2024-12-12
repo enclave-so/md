@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xCBa6fAbF7dF8aDa1995d1F57aCAf520198289CA9",
+	"symbol": "BeromesButt",
+	"name": "BeromesButt",
+	"coingecko": "beromesbutt",
+	"sources": [
+		"coingecko"
+	]
+}

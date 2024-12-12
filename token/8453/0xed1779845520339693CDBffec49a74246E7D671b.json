@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xed1779845520339693CDBffec49a74246E7D671b",
+	"symbol": "Samurai Starter",
+	"name": "Samurai Starter",
+	"coingecko": "samurai-starter",
+	"sources": [
+		"coingecko"
+	]
+}

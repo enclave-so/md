@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x48c9473E28d0d76E9691149c9C0816E6B030AC62",
+	"symbol": "NAGAYA",
+	"name": "NAGAYA",
+	"coingecko": "nagaya",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x9C65AB58d8d978DB963e63f2bfB7121627e3a739",
+	"symbol": "Mdex (BSC)",
+	"name": "Mdex (BSC)",
+	"coingecko": "mdex-bsc",
+	"sources": [
+		"coingecko"
+	]
+}

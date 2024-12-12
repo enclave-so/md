@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x0B842c7b18bef85DAeA11F23E1daBe0d6671c19a",
+	"symbol": "Shido [OLD]",
+	"name": "Shido [OLD]",
+	"coingecko": "shido",
+	"sources": [
+		"coingecko"
+	]
+}

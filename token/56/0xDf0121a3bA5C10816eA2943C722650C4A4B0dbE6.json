@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xDf0121a3bA5C10816eA2943C722650C4A4B0dbE6",
+	"symbol": "Octopus Protocol",
+	"name": "Octopus Protocol",
+	"coingecko": "octopus-protocol",
+	"sources": [
+		"coingecko"
+	]
+}

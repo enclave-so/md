@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x1865dc79a9e4B5751531099057D7Ee801033d268",
+	"symbol": "Laika AI",
+	"name": "Laika AI",
+	"coingecko": "laika-ai",
+	"sources": [
+		"coingecko"
+	]
+}

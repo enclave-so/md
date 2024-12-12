@@ -1,0 +1,922 @@
+[
+	{
+		"chain": 369,
+		"address": "0xa712329708AF665991C3Fcff43BC5734924f7b9A",
+		"symbol": "VEMP",
+		"name": "VEMP",
+		"coingecko": "vempire-ddao",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 369,
+		"address": "0x3ca80d83277e721171284667829c686527B8b3c5",
+		"symbol": "9inch",
+		"name": "9inch",
+		"coingecko": "9inch",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 369,
+		"address": "0x207e6b4529840A4fd518f73c68bc9c19B2A15944",
+		"symbol": "Mintra",
+		"name": "Mintra",
+		"coingecko": "mintra",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 369,
+		"address": "0xC52F739f544d20725BA7aD47Bb42299034F06f4F",
+		"symbol": "PulsePot",
+		"name": "PulsePot",
+		"coingecko": "pulsepot",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 369,
+		"address": "0x8Da17Db850315A34532108f0f5458fc0401525f6",
+		"symbol": "Solid X",
+		"name": "Solid X",
+		"coingecko": "solid-x",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 369,
+		"address": "0xAeC4C07537B03E3E62fc066EC62401Aed5Fdd361",
+		"symbol": "TETRA",
+		"name": "TETRA",
+		"coingecko": "tetra",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 369,
+		"address": "0xb6B57227150a7097723e0C013752001AaD01248F",
+		"symbol": "PulseReflections",
+		"name": "PulseReflections",
+		"coingecko": "pulsereflections",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 369,
+		"address": "0x22b2f187E6EE1f9Bc8f7Fc38bB0D9357462800e4",
+		"symbol": "SUN Minimeal",
+		"name": "SUN Minimeal",
+		"coingecko": "sun-minimeal",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 369,
+		"address": "0xd6c31bA0754C4383A41c0e9DF042C62b5e918f6d",
+		"symbol": "TEDDY BEAR",
+		"name": "TEDDY BEAR",
+		"coingecko": "teddy-bear",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 369,
+		"address": "0xE846884430D527168B4EAaC80Af9268515D2f0CC",
+		"symbol": "Atropine",
+		"name": "Atropine",
+		"coingecko": "atropine",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 369,
+		"address": "0x9F8182aD65c53Fd78bd07648a1b3DDcB675c6772",
+		"symbol": "Daytona Finance",
+		"name": "Daytona Finance",
+		"coingecko": "daytona-finance",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 369,
+		"address": "0x0A0F70B227f782f2CeAD75554781AF45a620A296",
+		"symbol": "PIKA to PIKO ピカとピコ",
+		"name": "PIKA to PIKO ピカとピコ",
+		"coingecko": "pika-to-piko",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 369,
+		"address": "0xeB6b7932Da20c6D7B3a899D5887d86dfB09A6408",
+		"symbol": "PXDC",
+		"name": "PXDC",
+		"coingecko": "powercity-pxdc",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 369,
+		"address": "0x5EE84583f67D5EcEa5420dBb42b462896E7f8D06",
+		"symbol": "PulseBitcoin (PulseChain)",
+		"name": "PulseBitcoin (PulseChain)",
+		"coingecko": "pulsebitcoin-pulsechain",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 369,
+		"address": "0x456548A9B56eFBbD89Ca0309edd17a9E20b04018",
+		"symbol": "UFO Token",
+		"name": "UFO Token",
+		"coingecko": "ufo-token",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 369,
+		"address": "0xeDA0073B4Aa1b1B6f9c718c3036551ab46E5Ec32",
+		"symbol": "BEETroot",
+		"name": "BEETroot",
+		"coingecko": "beetroot",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 369,
+		"address": "0x7901a3569679AEc3501dbeC59399F327854a70fe",
+		"symbol": "Hex Orange Address",
+		"name": "Hex Orange Address",
+		"coingecko": "hex-orange-address",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 369,
+		"address": "0x96E035ae0905EFaC8F733f133462f971Cfa45dB1",
+		"symbol": "Phiat Protocol",
+		"name": "Phiat Protocol",
+		"coingecko": "phiat-protocol",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 369,
+		"address": "0xa685C45fd071DF23278069Db9137e124564897D0",
+		"symbol": "PulseLN",
+		"name": "PulseLN",
+		"coingecko": "pulseln",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 369,
+		"address": "0x880Dd541e00B966d829968c3198F11C8ca38A877",
+		"symbol": "PulseTrailerPark",
+		"name": "PulseTrailerPark",
+		"coingecko": "pulsetrailerpark",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 369,
+		"address": "0xCA35638A3fdDD02fEC597D8c1681198C06b23F58",
+		"symbol": "T.I.M.E. Dividend",
+		"name": "T.I.M.E. Dividend",
+		"coingecko": "t-i-m-e-dividend",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 369,
+		"address": "0x02Dff78fDeDaF86D9dfbe9B3132aA3Ea72Ed1680",
+		"symbol": "Cola Token",
+		"name": "Cola Token",
+		"coingecko": "cola-token-2",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 369,
+		"address": "0xd22E78C22D7E77229d60cc9fC57b0E294F54488E",
+		"symbol": "Hocus Pocus Finance",
+		"name": "Hocus Pocus Finance",
+		"coingecko": "hocus-pocus-finance",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 369,
+		"address": "0x828F3c8E22cB8Ccfe5ff2De59680096959a2571C",
+		"symbol": "Kindness For The Soul ALI",
+		"name": "Kindness For The Soul ALI",
+		"coingecko": "kindness-for-the-soul-ali",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 369,
+		"address": "0x0dEEd1486bc52aA0d3E6f8849cEC5adD6598A162",
+		"symbol": "Liquid Loans USDL",
+		"name": "Liquid Loans USDL",
+		"coingecko": "liquid-loans-usdl",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 369,
+		"address": "0x95B303987A60C71504D99Aa1b13B4DA07b0790ab",
+		"symbol": "PulseX",
+		"name": "PulseX",
+		"coingecko": "pulsex",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 369,
+		"address": "0x6386704cD6f7A584EA9D23cccA66aF7EBA5a727e",
+		"symbol": "Sparkswap",
+		"name": "Sparkswap",
+		"coingecko": "sparkswap",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 369,
+		"address": "0xBb101431d43b0E1fc31f000bf96826794806e0b4",
+		"symbol": "Apin Pulse",
+		"name": "Apin Pulse",
+		"coingecko": "apin-pulse",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 369,
+		"address": "0x9c6fA17D92898B684676993828143596894AA2A6",
+		"symbol": "FLEX",
+		"name": "FLEX",
+		"coingecko": "flex",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 369,
+		"address": "0x616cb6a245Ed4c11216Ec58D10B6A2E87271845d",
+		"symbol": "Gelato",
+		"name": "Gelato",
+		"coingecko": "gelato-2",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 369,
+		"address": "0x97f7259931f98CC64EbCd993fdE03d71716f3E07",
+		"symbol": "Nuts",
+		"name": "Nuts",
+		"coingecko": "nuts",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 369,
+		"address": "0xeB2CEed77147893Ba8B250c796c2d4EF02a72B68",
+		"symbol": "Pulse Drip",
+		"name": "Pulse Drip",
+		"coingecko": "pulse-drip",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 369,
+		"address": "0xe101c848620E762ecB942356962dd415342B4fEB",
+		"symbol": "PulseLaunch",
+		"name": "PulseLaunch",
+		"coingecko": "pulselaunch",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 369,
+		"address": "0x43eaba2E2d2F32f1207A11a18679287Dc7700015",
+		"symbol": "Real BIG Coin",
+		"name": "Real BIG Coin",
+		"coingecko": "real-big-coin",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 369,
+		"address": "0x13Dd594e6a0E3E3f1c154D27233952068b02AD01",
+		"symbol": "Sac Daddy",
+		"name": "Sac Daddy",
+		"coingecko": "sac-daddy",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 369,
+		"address": "0x9CC7437978255e2c38B0d3D4671fb9AC411a68aC",
+		"symbol": "Doge on Pulsechain",
+		"name": "Doge on Pulsechain",
+		"coingecko": "doge-on-pulsechain",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 369,
+		"address": "0x1FE0319440A672526916C232EAEe4808254Bdb00",
+		"symbol": "HEX Dollar Coin",
+		"name": "HEX Dollar Coin",
+		"coingecko": "hex-dollar-coin",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 369,
+		"address": "0x8854bC985fB5725F872c8856bEA11B917cAEb2fE",
+		"symbol": "PHAME",
+		"name": "PHAME",
+		"coingecko": "phame",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 369,
+		"address": "0xDfdc2836FD2E63Bba9f0eE07901aD465Bff4DE71",
+		"symbol": "POWERCITY WATT",
+		"name": "POWERCITY WATT",
+		"coingecko": "powercity-watt",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 369,
+		"address": "0xa12E2661ec6603CBbB891072b2Ad5b3d5edb48bd",
+		"symbol": "Pulse Inu",
+		"name": "Pulse Inu",
+		"coingecko": "pulse-inu-2",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 369,
+		"address": "0xcFCFfE432A48dB53F59c301422d2EdD77B2A88d7",
+		"symbol": "Texan",
+		"name": "Texan",
+		"coingecko": "texan",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 369,
+		"address": "0x303f764A9c9511c12837cD2D1ECF13d4a6F99E17",
+		"symbol": "Atrofarm",
+		"name": "Atrofarm",
+		"coingecko": "atrofarm",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 369,
+		"address": "0x6B0956258fF7bd7645aa35369B55B61b8e6d6140",
+		"symbol": "Maximus LUCKY",
+		"name": "Maximus LUCKY",
+		"coingecko": "maximus-lucky",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 369,
+		"address": "0x39b9D781dAD0810D07E24426c876217218Ad353D",
+		"symbol": "Pulsechain FLOW",
+		"name": "Pulsechain FLOW",
+		"coingecko": "pulsechain-flow",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 369,
+		"address": "0x94534EeEe131840b1c0F61847c572228bdfDDE93",
+		"symbol": "The Grays Currency",
+		"name": "The Grays Currency",
+		"coingecko": "the-grays-currency",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 369,
+		"address": "0x15D38573d2feeb82e7ad5187aB8c1D52810B1f07",
+		"symbol": "Bridged USD Coin (PulseChain)",
+		"name": "Bridged USD Coin (PulseChain)",
+		"coingecko": "usd-coin-pulsechain",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 369,
+		"address": "0x9663c2d75ffd5F4017310405fCe61720aF45B829",
+		"symbol": "PHUX Governance Token",
+		"name": "PHUX Governance Token",
+		"coingecko": "phux-governance-token",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 369,
+		"address": "0x23B608675a2B2fB1890d3ABBd85c5775c51691d5",
+		"symbol": "Unisocks",
+		"name": "Unisocks",
+		"coingecko": "unisocks",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 369,
+		"address": "0xA1077a294dDE1B09bB078844df40758a5D0f9a27",
+		"symbol": "Wrapped Pulse",
+		"name": "Wrapped Pulse",
+		"coingecko": "wrapped-pulse-wpls",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 369,
+		"address": "0x1B7B541BeA3aF39292FCe08649e4C4e1BEE408a1",
+		"symbol": "Alien",
+		"name": "Alien",
+		"coingecko": "alien",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 369,
+		"address": "0x600136dA8cc6D1Ea07449514604dc4ab7098dB82",
+		"symbol": "Coast CST",
+		"name": "Coast CST",
+		"coingecko": "coast-cst",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 369,
+		"address": "0xf8AB3393b1f5CD6184Fb6800A1fC802043C4063e",
+		"symbol": "Monat Money",
+		"name": "Monat Money",
+		"coingecko": "monat-money",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 369,
+		"address": "0x02DcdD04e3F455D838cd1249292C58f3B79e3C3C",
+		"symbol": "Pulsechain Bridged WETH (Pulsechain)",
+		"name": "Pulsechain Bridged WETH (Pulsechain)",
+		"coingecko": "pulsechain-bridged-weth-pulsechain",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 369,
+		"address": "0x2fa878Ab3F87CC1C9737Fc071108F904c0B0C95d",
+		"symbol": "PulseX Incentive Token",
+		"name": "PulseX Incentive Token",
+		"coingecko": "pulsex-incentive-token",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 369,
+		"address": "0x655cdd69442912076A05975C26eA59BAd179244d",
+		"symbol": "Pulse Inu",
+		"name": "Pulse Inu",
+		"coingecko": "pulse-inu",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 369,
+		"address": "0xdb4a3a4f8d8EEDA3114183DC1dE09Da87B8e2858",
+		"symbol": "RubyPulse",
+		"name": "RubyPulse",
+		"coingecko": "rubypulse",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 369,
+		"address": "0xDe0220b69CE3e855a0124433A8E8D093f53A6bE4",
+		"symbol": "Where Did The ETH Go? (Pulsechain)",
+		"name": "Where Did The ETH Go? (Pulsechain)",
+		"coingecko": "where-did-the-eth-go-pulsechain",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 369,
+		"address": "0x8BDB63033b02C15f113De51EA1C3a96Af9e8ecb5",
+		"symbol": "AXiS ALiVE",
+		"name": "AXiS ALiVE",
+		"coingecko": "axis-alive",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 369,
+		"address": "0x6a44bE19d96f087494Bafa66EE5DF1bf7AAF220f",
+		"symbol": "Blastar",
+		"name": "Blastar",
+		"coingecko": "blastar",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 369,
+		"address": "0xf330cb1d41052dbC74D3325376Cb82E99454e501",
+		"symbol": "HEXFIRE",
+		"name": "HEXFIRE",
+		"coingecko": "hexfire",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 369,
+		"address": "0x4581AF35199BBde87a89941220e04E27ce4b0099",
+		"symbol": "Maximus Pool Party",
+		"name": "Maximus Pool Party",
+		"coingecko": "maximus-pool-party",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 369,
+		"address": "0xF55cD1e399e1cc3D95303048897a680be3313308",
+		"symbol": "Maximus TRIO",
+		"name": "Maximus TRIO",
+		"coingecko": "maximus-trio",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 369,
+		"address": "0x8a7FDcA264e87b6da72D000f22186B4403081A2a",
+		"symbol": "XEN Crypto (PulseChain)",
+		"name": "XEN Crypto (PulseChain)",
+		"coingecko": "xen-crypto-pulsechain",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 369,
+		"address": "0x664E58570e5835B99d281f12dD14d350315D7E2a",
+		"symbol": "uPX",
+		"name": "uPX",
+		"coingecko": "upx",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 369,
+		"address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+		"symbol": "DAI on PulseChain",
+		"name": "DAI on PulseChain",
+		"coingecko": "dai-on-pulsechain",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 369,
+		"address": "0xefD766cCb38EaF1dfd701853BFCe31359239F305",
+		"symbol": "Bridged DAI (PulseChain)",
+		"name": "Bridged DAI (PulseChain)",
+		"coingecko": "dai-pulsechain",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 369,
+		"address": "0x6cF99BAA0a4d079F960216d08cf9a1Bc7e4dd37C",
+		"symbol": "EazySwap Token",
+		"name": "EazySwap Token",
+		"coingecko": "eazyswap-token",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 369,
+		"address": "0x9234914C23E012D4679581a9dd59fC72Ba296926",
+		"symbol": "Magma",
+		"name": "Magma",
+		"coingecko": "magma",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 369,
+		"address": "0x2A06a971fE6ffa002fd242d437E3db2b5cC5B433",
+		"symbol": "Piteas",
+		"name": "Piteas",
+		"coingecko": "piteas",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 369,
+		"address": "0x00fEBF86E8F0673F0FeADAc14b5Ea1a05e744CB7",
+		"symbol": "GrowthDefi GBTC",
+		"name": "GrowthDefi GBTC",
+		"coingecko": "growthdefi-gbtc",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 369,
+		"address": "0x9159f1D2a9f51998Fc9Ab03fbd8f265ab14A1b3B",
+		"symbol": "Liquid Loans",
+		"name": "Liquid Loans",
+		"coingecko": "liquid-loans",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 369,
+		"address": "0x791367770E068208104fc1B5C1E15F3F5f4d143d",
+		"symbol": "Skol",
+		"name": "Skol",
+		"coingecko": "skol",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 369,
+		"address": "0x09e64c2B61a5f1690Ee6fbeD9baf5D6990F8dFd0",
+		"symbol": "Growth",
+		"name": "Growth",
+		"coingecko": "growth",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 369,
+		"address": "0xc42945a98Eaaae8FaFBc76baCE473C90D8100967",
+		"symbol": "Magic Carpet Ride",
+		"name": "Magic Carpet Ride",
+		"coingecko": "magic-carpet-ride",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 369,
+		"address": "0xb513038BbFdF9D40B676F41606f4F61D4b02c4A2",
+		"symbol": "POWERCITY Earn Protocol",
+		"name": "POWERCITY Earn Protocol",
+		"coingecko": "powercity-earn-protocol",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 369,
+		"address": "0x0Cb6F5a34ad42ec934882A05265A7d5F59b51A2f",
+		"symbol": "Bridged Tether (PulseChain)",
+		"name": "Bridged Tether (PulseChain)",
+		"coingecko": "tether-pulsechain",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 369,
+		"address": "0x6e86e2b8be6228d1c12aA9d82f5Ec3F27A88Ecce",
+		"symbol": "GIFFORDwear",
+		"name": "GIFFORDwear",
+		"coingecko": "giffordwear",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 369,
+		"address": "0xfc4913214444aF5c715cc9F7b52655e788A569ed",
+		"symbol": "Icosa",
+		"name": "Icosa",
+		"coingecko": "icosa",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 369,
+		"address": "0xb55EE890426341FE45EE6dc788D2D93d25B59063",
+		"symbol": "Love.io",
+		"name": "Love.io",
+		"coingecko": "love-io",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 369,
+		"address": "0x8fC70fd5F10Cd5494EB369b0737CefD22eB33F17",
+		"symbol": "PermaGIFF",
+		"name": "PermaGIFF",
+		"coingecko": "permagiff",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 369,
+		"address": "0x4C8218Dc22e478963c02748857245FAD79AAd0c6",
+		"symbol": "PulseCoin",
+		"name": "PulseCoin",
+		"coingecko": "pulsecoin",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 369,
+		"address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+		"symbol": "Wrapped Bitcoin (PulseChain)",
+		"name": "Wrapped Bitcoin (PulseChain)",
+		"coingecko": "wrapped-bitcoin-pulsechain",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 369,
+		"address": "0x8BF45680485b2aC15E452a9599E87b94c5A07792",
+		"symbol": "4-Way Mirror Money",
+		"name": "4-Way Mirror Money",
+		"coingecko": "4-way-mirror-money",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 369,
+		"address": "0x8b4cfb020aF9AcAd95AD80020cE8f67FBB2C700E",
+		"symbol": "Big Bonus Coin",
+		"name": "Big Bonus Coin",
+		"coingecko": "big-bonus-coin",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 369,
+		"address": "0x17637e738D095f4E480CabBF55038E4E9e2B235E",
+		"symbol": "DAI Reflections",
+		"name": "DAI Reflections",
+		"coingecko": "dai-reflections",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 369,
+		"address": "0x2b591e99afE9f32eAA6214f7B7629768c40Eeb39",
+		"symbol": "HEX (PulseChain)",
+		"name": "HEX (PulseChain)",
+		"coingecko": "hex-pulsechain",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 369,
+		"address": "0x5f63BC3d5bd234946f18d24e98C324f629D9d60e",
+		"symbol": "IMPLS Finance",
+		"name": "IMPLS Finance",
+		"coingecko": "impls-finance",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 369,
+		"address": "0xB971a3429c04d96F8a75EDaC7bc79e7C4672b4E6",
+		"symbol": "XenBitcoin",
+		"name": "XenBitcoin",
+		"coingecko": "xenbitcoin",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 369,
+		"address": "0xfd3A511CB1c435D6a6e471392902Bf4A83773d9c",
+		"symbol": "DinoLFG",
+		"name": "DinoLFG",
+		"coingecko": "dinolfg",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 369,
+		"address": "0x0bC1e003e2A3CE1428Ec1c3B846E99EbC246BAa7",
+		"symbol": "Enki",
+		"name": "Enki",
+		"coingecko": "enki-2",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 369,
+		"address": "0xe9f84d418B008888A992Ff8c6D22389C2C3504e0",
+		"symbol": "Maximus BASE",
+		"name": "Maximus BASE",
+		"coingecko": "maximus-base",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 369,
+		"address": "0x57fde0a71132198BBeC939B98976993d8D89D225",
+		"symbol": "Pulsechain Bridged HEX (Pulsechain)",
+		"name": "Pulsechain Bridged HEX (Pulsechain)",
+		"coingecko": "pulsechain-bridged-hex-pulsechain",
+		"sources": [
+			"coingecko"
+		]
+	}
+]

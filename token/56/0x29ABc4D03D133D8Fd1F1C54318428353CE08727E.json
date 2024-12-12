@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x29ABc4D03D133D8Fd1F1C54318428353CE08727E",
+	"symbol": "KyotoSwap",
+	"name": "KyotoSwap",
+	"coingecko": "kyotoswap",
+	"sources": [
+		"coingecko"
+	]
+}

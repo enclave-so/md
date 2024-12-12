@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x20d704099B62aDa091028bcFc44445041eD16f09",
+	"symbol": "Chaos",
+	"name": "Chaos",
+	"coingecko": "chaos-2",
+	"sources": [
+		"coingecko"
+	]
+}

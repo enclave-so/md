@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x84CFc0427147026368C2aaC4f502d98aaC47eB48",
+	"symbol": "Shanum",
+	"name": "Shanum",
+	"coingecko": "shanum",
+	"sources": [
+		"coingecko"
+	]
+}

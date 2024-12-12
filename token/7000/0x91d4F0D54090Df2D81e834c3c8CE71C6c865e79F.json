@@ -1,0 +1,13 @@
+{
+	"chain": 7000,
+	"address": "0x91d4F0D54090Df2D81e834c3c8CE71C6c865e79F",
+	"symbol": "USDT.BSC",
+	"name": "ZetaChain ZRC20 USDT on BSC",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/zetachain/0x91d4F0D54090Df2D81e834c3c8CE71C6c865e79F.jpg",
+	"coingecko": "zetachain-bridged-usdt-bsc-zetachain",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

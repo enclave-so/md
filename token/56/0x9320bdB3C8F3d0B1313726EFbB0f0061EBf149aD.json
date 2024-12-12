@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x9320bdB3C8F3d0B1313726EFbB0f0061EBf149aD",
+	"symbol": "SAFEONE CHAIN",
+	"name": "SAFEONE CHAIN",
+	"coingecko": "neorbit",
+	"sources": [
+		"coingecko"
+	]
+}

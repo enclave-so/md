@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0xBd3d46B98B2f6aDa480D6bd53d11cF4553c18F41",
+	"symbol": "Gemach",
+	"name": "Gemach",
+	"coingecko": "gemach",
+	"sources": [
+		"coingecko"
+	]
+}

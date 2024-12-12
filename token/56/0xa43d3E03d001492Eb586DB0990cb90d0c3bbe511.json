@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xa43d3E03d001492Eb586DB0990cb90d0c3bbe511",
+	"symbol": "Coinlocally",
+	"name": "Coinlocally",
+	"coingecko": "coinlocally",
+	"sources": [
+		"coingecko"
+	]
+}

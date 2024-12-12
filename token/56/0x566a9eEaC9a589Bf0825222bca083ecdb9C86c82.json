@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x566a9eEaC9a589Bf0825222bca083ecdb9C86c82",
+	"symbol": "Libra Protocol",
+	"name": "Libra Protocol",
+	"coingecko": "libra-protocol",
+	"sources": [
+		"coingecko"
+	]
+}

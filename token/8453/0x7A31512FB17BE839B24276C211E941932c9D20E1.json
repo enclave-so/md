@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x7A31512FB17BE839B24276C211E941932c9D20E1",
+	"symbol": "Cat On Catnip",
+	"name": "Cat On Catnip",
+	"coingecko": "cat-on-catnip",
+	"sources": [
+		"coingecko"
+	]
+}

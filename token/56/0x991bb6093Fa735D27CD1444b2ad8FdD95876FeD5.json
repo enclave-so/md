@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x991bb6093Fa735D27CD1444b2ad8FdD95876FeD5",
+	"symbol": "La Peseta",
+	"name": "La Peseta",
+	"coingecko": "la-peseta-2",
+	"sources": [
+		"coingecko"
+	]
+}

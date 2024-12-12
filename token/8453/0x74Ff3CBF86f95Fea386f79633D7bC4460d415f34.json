@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x74Ff3CBF86f95Fea386f79633D7bC4460d415f34",
+	"symbol": "BabyCrash",
+	"name": "BabyCrash",
+	"coingecko": "babycrash",
+	"sources": [
+		"coingecko"
+	]
+}

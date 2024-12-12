@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x76e112203eF59D445452ef7556386dD2DF3Ed914",
+	"symbol": "Canadian Inuit Dog",
+	"name": "Canadian Inuit Dog",
+	"coingecko": "canadian-inuit-dog-2",
+	"sources": [
+		"coingecko"
+	]
+}

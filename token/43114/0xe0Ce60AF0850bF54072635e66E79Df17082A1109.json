@@ -1,0 +1,11 @@
+{
+	"chain": 43114,
+	"address": "0xe0Ce60AF0850bF54072635e66E79Df17082A1109",
+	"symbol": "ICE",
+	"name": "Ice Token",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0x4e1581f01046eFDd7a1a2CDB0F82cdd7F71F2E59.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

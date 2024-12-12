@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x854A63B35B70A7becbED508ff0b6Ff5038D0C917",
+	"symbol": "Minato",
+	"name": "Minato",
+	"coingecko": "minato",
+	"sources": [
+		"coingecko"
+	]
+}

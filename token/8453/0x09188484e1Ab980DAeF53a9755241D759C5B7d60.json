@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x09188484e1Ab980DAeF53a9755241D759C5B7d60",
+	"symbol": "RigoBlock",
+	"name": "RigoBlock",
+	"coingecko": "rigoblock",
+	"sources": [
+		"coingecko"
+	]
+}

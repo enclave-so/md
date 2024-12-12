@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xaDAaE082237cB1772c9e079dB95c117E6Dd0C5aF",
+	"symbol": "VizslaSwap",
+	"name": "VizslaSwap",
+	"coingecko": "vizslaswap",
+	"sources": [
+		"coingecko"
+	]
+}

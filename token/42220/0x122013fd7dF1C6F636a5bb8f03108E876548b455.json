@@ -1,0 +1,11 @@
+{
+	"chain": 42220,
+	"address": "0x122013fd7dF1C6F636a5bb8f03108E876548b455",
+	"symbol": "WETH",
+	"name": "Wrapped Ether",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/celo/0x122013fd7dF1C6F636a5bb8f03108E876548b455.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

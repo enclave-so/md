@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x738EA75B01D8db931B4374c6EBd3DE82d7d3A272",
+	"symbol": "DUSD",
+	"name": "DUSD",
+	"coingecko": "dusd",
+	"sources": [
+		"coingecko"
+	]
+}

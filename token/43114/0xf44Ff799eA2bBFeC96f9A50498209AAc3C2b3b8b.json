@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0xf44Ff799eA2bBFeC96f9A50498209AAc3C2b3b8b",
+	"symbol": "Router Protocol [OLD]",
+	"name": "Router Protocol [OLD]",
+	"coingecko": "route",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x8bF75bc68FD337dfd8186d731Df8b3C2CB14B9E6",
+	"symbol": "Stable",
+	"name": "Stable",
+	"coingecko": "usdfi-stable",
+	"sources": [
+		"coingecko"
+	]
+}

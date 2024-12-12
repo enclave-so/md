@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x62D0A8458eD7719FDAF978fe5929C6D342B0bFcE",
+	"symbol": "Beam",
+	"name": "Beam",
+	"coingecko": "beam-2",
+	"sources": [
+		"coingecko"
+	]
+}

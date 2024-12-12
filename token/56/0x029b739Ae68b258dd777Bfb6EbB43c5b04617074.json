@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x029b739Ae68b258dd777Bfb6EbB43c5b04617074",
+	"symbol": "Unlighted",
+	"name": "Unlighted",
+	"coingecko": "unlighted",
+	"sources": [
+		"coingecko"
+	]
+}

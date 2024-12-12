@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x58cd93C4A91C3940109fA27D700f5013B18B5dC2",
+	"symbol": "MAGA VP",
+	"name": "MAGA VP",
+	"coingecko": "maga-vp",
+	"sources": [
+		"coingecko"
+	]
+}

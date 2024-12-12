@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x3203856eaC03d343f9d5245BA2F39861838A7B36",
+	"symbol": "Aviator",
+	"name": "Aviator",
+	"coingecko": "aviator",
+	"sources": [
+		"coingecko"
+	]
+}

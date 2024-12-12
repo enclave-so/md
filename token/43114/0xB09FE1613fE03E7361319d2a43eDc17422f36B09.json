@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0xB09FE1613fE03E7361319d2a43eDc17422f36B09",
+	"symbol": "Bogged Finance",
+	"name": "Bogged Finance",
+	"coingecko": "bogged-finance",
+	"sources": [
+		"coingecko"
+	]
+}

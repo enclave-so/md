@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x912EF48F4da0C68D6c7C6D0b35d4e62E71771F33",
+	"symbol": "Banque Universal",
+	"name": "Banque Universal",
+	"coingecko": "banque-universal",
+	"sources": [
+		"coingecko"
+	]
+}

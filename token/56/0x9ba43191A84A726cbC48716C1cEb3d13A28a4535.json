@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x9ba43191A84A726cbC48716C1cEb3d13A28a4535",
+	"symbol": "IXIR",
+	"name": "IXIR",
+	"coingecko": "ixirswap",
+	"sources": [
+		"coingecko"
+	]
+}

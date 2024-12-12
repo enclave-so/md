@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xeFb5dF8eB84055026018030E71bC2cdFA2F138B9",
+	"symbol": "Carbon",
+	"name": "Carbon",
+	"coingecko": "carbon",
+	"sources": [
+		"coingecko"
+	]
+}

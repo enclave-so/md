@@ -1,0 +1,10 @@
+{
+	"chain": 4689,
+	"address": "0x3B2bf2b523f54C4E454F08Aa286D03115aFF326c",
+	"symbol": "Bridged USD Coin (IoTeX)",
+	"name": "Bridged USD Coin (IoTeX)",
+	"coingecko": "iousdc",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"chain": 42220,
+	"address": "0xD90BBdf5904cb7d275c41f897495109B9A5adA58",
+	"symbol": "cDOGE",
+	"name": "CeloDoge",
+	"decimals": 9,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/cdoge.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

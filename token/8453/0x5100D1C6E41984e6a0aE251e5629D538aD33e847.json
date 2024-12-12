@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x5100D1C6E41984e6a0aE251e5629D538aD33e847",
+	"symbol": "MEWNB",
+	"name": "MEWNB",
+	"coingecko": "mewnb",
+	"sources": [
+		"coingecko"
+	]
+}

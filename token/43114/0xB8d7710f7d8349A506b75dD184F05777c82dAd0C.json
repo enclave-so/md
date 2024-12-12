@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0xB8d7710f7d8349A506b75dD184F05777c82dAd0C",
+	"symbol": "The Arena",
+	"name": "The Arena",
+	"coingecko": "the-arena",
+	"sources": [
+		"coingecko"
+	]
+}

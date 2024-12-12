@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x465707181ACba42Ed01268A33f0507e320a154bD",
+	"symbol": "Step",
+	"name": "Step",
+	"coingecko": "step",
+	"sources": [
+		"coingecko"
+	]
+}

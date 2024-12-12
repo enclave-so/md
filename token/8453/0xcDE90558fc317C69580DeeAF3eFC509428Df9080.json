@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xcDE90558fc317C69580DeeAF3eFC509428Df9080",
+	"symbol": "Normilio",
+	"name": "Normilio",
+	"coingecko": "normilio",
+	"sources": [
+		"coingecko"
+	]
+}

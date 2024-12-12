@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xaC6ec101DDcB953774d103bA4A82fA257138459f",
+	"symbol": "Metarun",
+	"name": "Metarun",
+	"coingecko": "metarun",
+	"sources": [
+		"coingecko"
+	]
+}

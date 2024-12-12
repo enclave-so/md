@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x6Ad0F087501Eee603AeDa0407c52864bc7f83322",
+	"symbol": "Metaverse Face",
+	"name": "Metaverse Face",
+	"coingecko": "metaverse-face",
+	"sources": [
+		"coingecko"
+	]
+}

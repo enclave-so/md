@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x3606F220daeaEb3d47aC1923A8Ce2A61205C88cD",
+	"symbol": "Race Kingdom",
+	"name": "Race Kingdom",
+	"coingecko": "race-kingdom",
+	"sources": [
+		"coingecko"
+	]
+}

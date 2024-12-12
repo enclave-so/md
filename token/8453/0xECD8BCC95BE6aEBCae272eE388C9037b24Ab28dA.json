@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xECD8BCC95BE6aEBCae272eE388C9037b24Ab28dA",
+	"symbol": "Green Life Energy",
+	"name": "Green Life Energy",
+	"coingecko": "green-life-energy",
+	"sources": [
+		"coingecko"
+	]
+}

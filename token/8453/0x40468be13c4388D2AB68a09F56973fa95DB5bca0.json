@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x40468be13c4388D2AB68a09F56973fa95DB5bca0",
+	"symbol": "Pizzaverse",
+	"name": "Pizzaverse",
+	"coingecko": "pizzaverse",
+	"sources": [
+		"coingecko"
+	]
+}

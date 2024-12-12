@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x79CDc9cA057E16dFfd45BD803491f328f49e1762",
+	"symbol": "bitFloki",
+	"name": "bitFloki",
+	"coingecko": "bitfloki",
+	"sources": [
+		"coingecko"
+	]
+}

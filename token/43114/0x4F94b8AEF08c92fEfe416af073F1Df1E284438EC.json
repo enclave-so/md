@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x4F94b8AEF08c92fEfe416af073F1Df1E284438EC",
+	"symbol": "Landwolf on AVAX",
+	"name": "Landwolf on AVAX",
+	"coingecko": "landwolf-on-avax",
+	"sources": [
+		"coingecko"
+	]
+}

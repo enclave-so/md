@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xd68e5C52F7563486CC1A15D00eFA12C8644a907e",
+	"symbol": "Egoras Credit",
+	"name": "Egoras Credit",
+	"coingecko": "egoras-credit",
+	"sources": [
+		"coingecko"
+	]
+}

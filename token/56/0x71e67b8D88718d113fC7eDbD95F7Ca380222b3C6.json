@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x71e67b8D88718d113fC7eDbD95F7Ca380222b3C6",
+	"symbol": "Humanize",
+	"name": "Humanize",
+	"coingecko": "humanize",
+	"sources": [
+		"coingecko"
+	]
+}

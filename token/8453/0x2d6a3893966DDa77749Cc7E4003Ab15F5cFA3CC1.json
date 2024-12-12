@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x2d6a3893966DDa77749Cc7E4003Ab15F5cFA3CC1",
+	"symbol": "SPIKE",
+	"name": "SPIKE",
+	"coingecko": "spike-but-based",
+	"sources": [
+		"coingecko"
+	]
+}

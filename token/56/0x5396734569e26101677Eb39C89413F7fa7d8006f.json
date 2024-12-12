@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x5396734569e26101677Eb39C89413F7fa7d8006f",
+	"symbol": "Silver Stonks",
+	"name": "Silver Stonks",
+	"coingecko": "silverstonks",
+	"sources": [
+		"coingecko"
+	]
+}

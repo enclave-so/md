@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x297c6470cc7A3fe5cF8E5D977c33A2d4b4d9b126",
+	"symbol": "ONFA",
+	"name": "ONFA",
+	"coingecko": "onfa",
+	"sources": [
+		"coingecko"
+	]
+}

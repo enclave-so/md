@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x1F56eFffEe38EEeAE36cD38225b66c56E4D095a7",
+	"symbol": "GPTVerse",
+	"name": "GPTVerse",
+	"coingecko": "gptverse",
+	"sources": [
+		"coingecko"
+	]
+}

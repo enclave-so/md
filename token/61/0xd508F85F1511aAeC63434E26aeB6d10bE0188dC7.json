@@ -1,0 +1,10 @@
+{
+	"chain": 61,
+	"address": "0xd508F85F1511aAeC63434E26aeB6d10bE0188dC7",
+	"symbol": "Morpho-Aave Wrapped BTC",
+	"name": "Morpho-Aave Wrapped BTC",
+	"coingecko": "morpho-aave-wrapped-btc",
+	"sources": [
+		"coingecko"
+	]
+}

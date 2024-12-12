@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x54016a4848a38f257B6E96331F7404073Fd9c32C",
+	"symbol": "Equalizer (BASE)",
+	"name": "Equalizer (BASE)",
+	"coingecko": "equalizer-base",
+	"sources": [
+		"coingecko"
+	]
+}

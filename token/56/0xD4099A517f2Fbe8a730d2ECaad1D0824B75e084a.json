@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xD4099A517f2Fbe8a730d2ECaad1D0824B75e084a",
+	"symbol": "The Monopolist",
+	"name": "The Monopolist",
+	"coingecko": "the-monopolist",
+	"sources": [
+		"coingecko"
+	]
+}

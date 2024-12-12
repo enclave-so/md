@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x9df4Ac62F9E435DbCD85E06c990a7f0ea32739a9",
+	"symbol": "Granary",
+	"name": "Granary",
+	"coingecko": "granary",
+	"sources": [
+		"coingecko"
+	]
+}

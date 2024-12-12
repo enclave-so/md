@@ -1,0 +1,11 @@
+{
+	"chain": 42170,
+	"address": "0x80A16016cC4A2E6a2CACA8a4a498b1699fF0f844",
+	"symbol": "TMAP",
+	"name": "TreasureMaps",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum-nova/0x80A16016cC4A2E6a2CACA8a4a498b1699fF0f844.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

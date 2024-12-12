@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x6Bfd4cA8eC078d613eD6a5248Eb2c7a0d5c38b7b",
+	"symbol": "Ecochain Finance",
+	"name": "Ecochain Finance",
+	"coingecko": "ecochain-token",
+	"sources": [
+		"coingecko"
+	]
+}

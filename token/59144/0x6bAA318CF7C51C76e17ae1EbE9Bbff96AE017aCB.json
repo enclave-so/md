@@ -1,0 +1,10 @@
+{
+	"chain": 59144,
+	"address": "0x6bAA318CF7C51C76e17ae1EbE9Bbff96AE017aCB",
+	"symbol": "Linea Bridged APE (Linea)",
+	"name": "Linea Bridged APE (Linea)",
+	"coingecko": "linea-bridged-ape-linea",
+	"sources": [
+		"coingecko"
+	]
+}

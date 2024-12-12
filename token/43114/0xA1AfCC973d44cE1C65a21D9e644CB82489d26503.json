@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0xA1AfCC973d44cE1C65a21D9e644CB82489d26503",
+	"symbol": "RunBlox",
+	"name": "RunBlox",
+	"coingecko": "runblox",
+	"sources": [
+		"coingecko"
+	]
+}

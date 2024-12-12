@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x945cA41D03ec19B6a6EBf2eF0F4D0A50B23E4f2c",
+	"symbol": "GRELF",
+	"name": "GRELF",
+	"coingecko": "grelf",
+	"sources": [
+		"coingecko"
+	]
+}

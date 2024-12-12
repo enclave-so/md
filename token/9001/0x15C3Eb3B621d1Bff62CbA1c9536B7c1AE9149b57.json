@@ -1,0 +1,10 @@
+{
+	"chain": 9001,
+	"address": "0x15C3Eb3B621d1Bff62CbA1c9536B7c1AE9149b57",
+	"symbol": "Axelar Bridged USDC",
+	"name": "Axelar Bridged USDC",
+	"coingecko": "axlusdc",
+	"sources": [
+		"coingecko"
+	]
+}

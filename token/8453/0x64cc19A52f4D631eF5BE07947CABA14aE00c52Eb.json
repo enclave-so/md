@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x64cc19A52f4D631eF5BE07947CABA14aE00c52Eb",
+	"symbol": "Kibble",
+	"name": "Kibble",
+	"coingecko": "kibble",
+	"sources": [
+		"coingecko"
+	]
+}

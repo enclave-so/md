@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x347E430b7Cd1235E216be58ffA13394e5009E6e2",
+	"symbol": "Gaia Everworld",
+	"name": "Gaia Everworld",
+	"coingecko": "gaia-everworld",
+	"sources": [
+		"coingecko"
+	]
+}

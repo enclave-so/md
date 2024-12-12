@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x8F47416CaE600bccF9530E9F3aeaA06bdD1Caa79",
+	"symbol": "ThorFi",
+	"name": "ThorFi",
+	"coingecko": "thor",
+	"sources": [
+		"coingecko"
+	]
+}

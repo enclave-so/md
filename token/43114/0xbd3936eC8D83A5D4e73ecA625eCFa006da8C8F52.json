@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0xbd3936eC8D83A5D4e73ecA625eCFa006da8C8F52",
+	"symbol": "UREEQA",
+	"name": "UREEQA",
+	"coingecko": "ureeqa",
+	"sources": [
+		"coingecko"
+	]
+}

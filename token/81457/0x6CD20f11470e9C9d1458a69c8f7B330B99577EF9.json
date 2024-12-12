@@ -1,0 +1,10 @@
+{
+	"chain": 81457,
+	"address": "0x6CD20f11470e9C9d1458a69c8f7B330B99577EF9",
+	"symbol": "Vertex",
+	"name": "Vertex",
+	"coingecko": "vertex-protocol",
+	"sources": [
+		"coingecko"
+	]
+}

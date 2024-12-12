@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x71F99BDbE8e6b958016Ea399E3DbA0790f82cA88",
+	"symbol": "AB Group",
+	"name": "AB Group",
+	"coingecko": "ab-group",
+	"sources": [
+		"coingecko"
+	]
+}

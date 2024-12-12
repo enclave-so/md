@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0xC7f4debC8072e23fe9259A5C0398326d8EfB7f5c",
+	"symbol": "HeroesChained",
+	"name": "HeroesChained",
+	"coingecko": "heroeschained",
+	"sources": [
+		"coingecko"
+	]
+}

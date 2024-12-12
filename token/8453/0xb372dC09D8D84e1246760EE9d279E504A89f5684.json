@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xb372dC09D8D84e1246760EE9d279E504A89f5684",
+	"symbol": "MetaFight Token",
+	"name": "MetaFight Token",
+	"coingecko": "metafight-token",
+	"sources": [
+		"coingecko"
+	]
+}

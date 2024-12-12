@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x6aB39CD7FF157caEECB97f69A54f8C0e67861Feb",
+	"symbol": "NyanDOGE International",
+	"name": "NyanDOGE International",
+	"coingecko": "nyandoge-international",
+	"sources": [
+		"coingecko"
+	]
+}

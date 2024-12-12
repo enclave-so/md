@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x0158d3817c1391B4736BE724b1e8e8553d615C57",
+	"symbol": "Gay Pepe",
+	"name": "Gay Pepe",
+	"coingecko": "gay-pepe",
+	"sources": [
+		"coingecko"
+	]
+}

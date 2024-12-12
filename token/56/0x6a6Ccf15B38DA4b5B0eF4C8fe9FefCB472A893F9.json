@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x6a6Ccf15B38DA4b5B0eF4C8fe9FefCB472A893F9",
+	"symbol": "MoonStarter",
+	"name": "MoonStarter",
+	"coingecko": "moonstarter",
+	"sources": [
+		"coingecko"
+	]
+}

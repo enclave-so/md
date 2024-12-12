@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x6B2504A03ca4D43d0D73776F6aD46dAb2F2a4cFD",
+	"symbol": "Unit 00 - Rei",
+	"name": "Unit 00 - Rei",
+	"coingecko": "unit-00-rei",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x0C5142BC58f9A61AB8C3D2085DD2F4e550c5cE0B",
+	"symbol": "RUSSELL",
+	"name": "RUSSELL",
+	"coingecko": "russell",
+	"sources": [
+		"coingecko"
+	]
+}

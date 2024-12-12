@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x6Ae0A238a6f51Df8eEe084B1756A54dD8a8E85d3",
+	"symbol": "AutoMiningToken",
+	"name": "AutoMiningToken",
+	"coingecko": "autominingtoken",
+	"sources": [
+		"coingecko"
+	]
+}

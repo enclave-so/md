@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x256D1fCE1b1221e8398f65F9B36033CE50B2D497",
+	"symbol": "Alvey Chain",
+	"name": "Alvey Chain",
+	"coingecko": "alvey-chain",
+	"sources": [
+		"coingecko"
+	]
+}

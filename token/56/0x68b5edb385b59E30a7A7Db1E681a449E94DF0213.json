@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x68b5edb385b59E30a7A7Db1E681a449E94DF0213",
+	"symbol": "Silva",
+	"name": "Silva",
+	"coingecko": "silva-token",
+	"sources": [
+		"coingecko"
+	]
+}

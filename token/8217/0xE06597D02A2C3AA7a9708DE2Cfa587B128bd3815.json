@@ -1,0 +1,10 @@
+{
+	"chain": 8217,
+	"address": "0xE06597D02A2C3AA7a9708DE2Cfa587B128bd3815",
+	"symbol": "Neopin",
+	"name": "Neopin",
+	"coingecko": "neopin",
+	"sources": [
+		"coingecko"
+	]
+}

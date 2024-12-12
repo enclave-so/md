@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x4A506181f07Da5ddFDA4ca4c2Fa4c67001dB94B4",
+	"symbol": "Dyl",
+	"name": "Dyl",
+	"coingecko": "dyl",
+	"sources": [
+		"coingecko"
+	]
+}

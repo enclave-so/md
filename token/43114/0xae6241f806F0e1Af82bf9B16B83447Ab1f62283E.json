@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0xae6241f806F0e1Af82bf9B16B83447Ab1f62283E",
+	"symbol": "Solar Dex",
+	"name": "Solar Dex",
+	"coingecko": "solar-dex",
+	"sources": [
+		"coingecko"
+	]
+}

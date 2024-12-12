@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xba1e2321e340740f9C3685dC09De5E0326bC1799",
+	"symbol": "SNAP",
+	"name": "SNAP",
+	"coingecko": "snap-2",
+	"sources": [
+		"coingecko"
+	]
+}

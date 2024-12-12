@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x4823A096382f4Fa583b55d563afb9F9a58C72FC0",
+	"symbol": "Arabic",
+	"name": "Arabic",
+	"coingecko": "arabic",
+	"sources": [
+		"coingecko"
+	]
+}

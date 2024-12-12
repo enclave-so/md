@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x330F4fe5ef44B4d0742fE8BED8ca5E29359870DF",
+	"symbol": "Jade Currency",
+	"name": "Jade Currency",
+	"coingecko": "jade-currency",
+	"sources": [
+		"coingecko"
+	]
+}

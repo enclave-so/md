@@ -1,0 +1,11 @@
+{
+	"chain": 43114,
+	"address": "0x63682bDC5f875e9bF69E201550658492C9763F89",
+	"symbol": "BSGG",
+	"name": "Betswap.gg",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x69570f3E84f51Ea70b7B68055c8d667e77735a25.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

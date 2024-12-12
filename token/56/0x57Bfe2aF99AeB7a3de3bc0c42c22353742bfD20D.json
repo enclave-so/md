@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x57Bfe2aF99AeB7a3de3bc0c42c22353742bfD20D",
+	"symbol": "Water Rabbit",
+	"name": "Water Rabbit",
+	"coingecko": "water-rabbit",
+	"sources": [
+		"coingecko"
+	]
+}

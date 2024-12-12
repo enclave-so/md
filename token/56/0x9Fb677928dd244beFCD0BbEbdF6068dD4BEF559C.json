@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x9Fb677928dd244beFCD0BbEbdF6068dD4BEF559C",
+	"symbol": "Bela Aqua",
+	"name": "Bela Aqua",
+	"coingecko": "bela",
+	"sources": [
+		"coingecko"
+	]
+}

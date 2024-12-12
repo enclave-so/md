@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xda31D0d1Bc934fC34F7189E38A413ca0A5e8b44F",
+	"symbol": "BitStable Finance",
+	"name": "BitStable Finance",
+	"coingecko": "bitstable-finance",
+	"sources": [
+		"coingecko"
+	]
+}

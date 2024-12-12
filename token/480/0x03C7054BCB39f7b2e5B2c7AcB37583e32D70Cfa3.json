@@ -1,0 +1,10 @@
+{
+	"chain": 480,
+	"address": "0x03C7054BCB39f7b2e5B2c7AcB37583e32D70Cfa3",
+	"symbol": "Bridged Wrapped Bitcoin (Worldchain)",
+	"name": "Bridged Wrapped Bitcoin (Worldchain)",
+	"coingecko": "bridged-wrapped-bitcoin-worldchain",
+	"sources": [
+		"coingecko"
+	]
+}

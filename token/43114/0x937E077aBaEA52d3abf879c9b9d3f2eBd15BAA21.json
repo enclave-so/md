@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x937E077aBaEA52d3abf879c9b9d3f2eBd15BAA21",
+	"symbol": "Oh! Finance",
+	"name": "Oh! Finance",
+	"coingecko": "oh-finance",
+	"sources": [
+		"coingecko"
+	]
+}

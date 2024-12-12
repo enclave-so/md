@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x67d66e8Ec1Fd25d98B3Ccd3B19B7dc4b4b7fC493",
+	"symbol": "Feeder Finance",
+	"name": "Feeder Finance",
+	"coingecko": "feeder-finance",
+	"sources": [
+		"coingecko"
+	]
+}

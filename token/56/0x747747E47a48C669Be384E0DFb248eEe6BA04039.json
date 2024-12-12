@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x747747E47a48C669Be384E0DFb248eEe6BA04039",
+	"symbol": "XHYPE",
+	"name": "XHYPE",
+	"coingecko": "xhype",
+	"sources": [
+		"coingecko"
+	]
+}

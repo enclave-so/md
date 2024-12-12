@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x3C2e501B08CF5C16061468c96b19b32bae451dA3",
+	"symbol": "EverReflect",
+	"name": "EverReflect",
+	"coingecko": "everreflect",
+	"sources": [
+		"coingecko"
+	]
+}

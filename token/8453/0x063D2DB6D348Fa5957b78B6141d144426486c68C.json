@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x063D2DB6D348Fa5957b78B6141d144426486c68C",
+	"symbol": "SocioCat",
+	"name": "SocioCat",
+	"coingecko": "sociocat",
+	"sources": [
+		"coingecko"
+	]
+}

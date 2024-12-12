@@ -1,0 +1,11 @@
+{
+	"chain": 56,
+	"address": "0x1203355742e76875154C0D13eB81DCD7711dC7d9",
+	"symbol": "USDX",
+	"name": "USDX",
+	"decimals": 6,
+	"logo": "https://assets.coingecko.com/coins/images/13056/small/USDX_coin.png?1604734048",
+	"sources": [
+		"sushiswap"
+	]
+}

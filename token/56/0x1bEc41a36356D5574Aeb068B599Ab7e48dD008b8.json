@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x1bEc41a36356D5574Aeb068B599Ab7e48dD008b8",
+	"symbol": "DogeFood",
+	"name": "DogeFood",
+	"coingecko": "dogefood",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x83d8Ea5A4650B68Cd2b57846783d86DF940F7458",
+	"symbol": "Hudi",
+	"name": "Hudi",
+	"coingecko": "hudi",
+	"sources": [
+		"coingecko"
+	]
+}

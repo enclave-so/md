@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x57AC045f3553882E0E1e4cb44faffdc1bDFEE249",
+	"symbol": "Compound Meta",
+	"name": "Compound Meta",
+	"coingecko": "compound-meta",
+	"sources": [
+		"coingecko"
+	]
+}

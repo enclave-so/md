@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x864f20C06FFf47E3130de2e1269D6067B67AA69d",
+	"symbol": "ShibCEO",
+	"name": "ShibCEO",
+	"coingecko": "shibceo",
+	"sources": [
+		"coingecko"
+	]
+}

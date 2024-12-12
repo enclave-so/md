@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x46A8615b7B75579504f465712913C190cE7BD12c",
+	"symbol": "birdón",
+	"name": "birdón",
+	"coingecko": "birdon",
+	"sources": [
+		"coingecko"
+	]
+}

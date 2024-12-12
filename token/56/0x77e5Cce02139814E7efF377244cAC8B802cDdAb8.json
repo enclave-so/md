@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x77e5Cce02139814E7efF377244cAC8B802cDdAb8",
+	"symbol": "ZeLoop Eco Reward",
+	"name": "ZeLoop Eco Reward",
+	"coingecko": "zeloop-eco-reward",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x72499bdDb67F4CA150E1f522Ca82c87bc9fB18c8",
+	"symbol": "Bonk On Base",
+	"name": "Bonk On Base",
+	"coingecko": "bonk-on-base",
+	"sources": [
+		"coingecko"
+	]
+}

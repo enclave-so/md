@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x95a1199EBA84ac5f19546519e287d43D2F0E1b41",
+	"symbol": "Rabbit Finance",
+	"name": "Rabbit Finance",
+	"coingecko": "rabbit-finance",
+	"sources": [
+		"coingecko"
+	]
+}

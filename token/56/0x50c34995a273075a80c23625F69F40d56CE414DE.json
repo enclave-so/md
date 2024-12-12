@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x50c34995a273075a80c23625F69F40d56CE414DE",
+	"symbol": "SELFCrypto",
+	"name": "SELFCrypto",
+	"coingecko": "selfcrypto",
+	"sources": [
+		"coingecko"
+	]
+}

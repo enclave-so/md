@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xa8C2E771288585229eEa8DBe072EDfA7bcB388bb",
+	"symbol": "Apollo Name Service",
+	"name": "Apollo Name Service",
+	"coingecko": "apollo-name-service",
+	"sources": [
+		"coingecko"
+	]
+}

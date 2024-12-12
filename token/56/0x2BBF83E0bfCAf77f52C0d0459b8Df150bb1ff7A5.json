@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x2BBF83E0bfCAf77f52C0d0459b8Df150bb1ff7A5",
+	"symbol": "BATcoin",
+	"name": "BATcoin",
+	"coingecko": "batcoin-2",
+	"sources": [
+		"coingecko"
+	]
+}

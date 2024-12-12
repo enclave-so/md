@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x39541a42B5085F3cf69b2258EAEb5bB3Ee8C823c",
+	"symbol": "Bull Star Finance",
+	"name": "Bull Star Finance",
+	"coingecko": "bull-star-finance",
+	"sources": [
+		"coingecko"
+	]
+}

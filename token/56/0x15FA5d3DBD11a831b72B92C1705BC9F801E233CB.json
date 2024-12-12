@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x15FA5d3DBD11a831b72B92C1705BC9F801E233CB",
+	"symbol": "PointPay",
+	"name": "PointPay",
+	"coingecko": "pointpay-2",
+	"sources": [
+		"coingecko"
+	]
+}

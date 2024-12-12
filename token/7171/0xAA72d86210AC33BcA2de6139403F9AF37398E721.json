@@ -1,0 +1,10 @@
+{
+	"chain": 7171,
+	"address": "0xAA72d86210AC33BcA2de6139403F9AF37398E721",
+	"symbol": "Milestone Millions",
+	"name": "Milestone Millions",
+	"coingecko": "milestone-millions",
+	"sources": [
+		"coingecko"
+	]
+}

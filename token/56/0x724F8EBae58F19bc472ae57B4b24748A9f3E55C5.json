@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x724F8EBae58F19bc472ae57B4b24748A9f3E55C5",
+	"symbol": "Husky.AI",
+	"name": "Husky.AI",
+	"coingecko": "husky-ai",
+	"sources": [
+		"coingecko"
+	]
+}

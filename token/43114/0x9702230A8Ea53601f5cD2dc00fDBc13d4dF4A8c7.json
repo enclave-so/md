@@ -1,0 +1,13 @@
+{
+	"chain": 43114,
+	"address": "0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7",
+	"symbol": "USDT",
+	"name": "Tether USD",
+	"decimals": 6,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdt.jpg",
+	"coingecko": "tether",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

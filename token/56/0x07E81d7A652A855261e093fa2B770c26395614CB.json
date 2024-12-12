@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x07E81d7A652A855261e093fa2B770c26395614CB",
+	"symbol": "BabyX Swap",
+	"name": "BabyX Swap",
+	"coingecko": "babyx-swap",
+	"sources": [
+		"coingecko"
+	]
+}

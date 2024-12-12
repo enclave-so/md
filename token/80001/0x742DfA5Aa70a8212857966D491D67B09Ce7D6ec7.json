@@ -1,0 +1,11 @@
+{
+	"chain": 80001,
+	"address": "0x742DfA5Aa70a8212857966D491D67B09Ce7D6ec7",
+	"symbol": "USDC",
+	"name": "USD Coin",
+	"decimals": 6,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdc.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

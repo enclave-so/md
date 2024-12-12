@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x2F123cF3F37CE3328CC9B5b8415f9EC5109b45e7",
+	"symbol": "Backed GOVIES 0-6 months EURO",
+	"name": "Backed GOVIES 0-6 months EURO",
+	"coingecko": "backed-govies-0-6-months-euro",
+	"sources": [
+		"coingecko"
+	]
+}

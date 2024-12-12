@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x46E83FbcC5623172EE61935C96B7276Ab92562De",
+	"symbol": "KStarNFT",
+	"name": "KStarNFT",
+	"coingecko": "kstarnft",
+	"sources": [
+		"coingecko"
+	]
+}

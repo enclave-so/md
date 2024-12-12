@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x82e7Eb8f4c307F2dcf522fDCA7b7038296584f29",
+	"symbol": "SWTCoin",
+	"name": "SWTCoin",
+	"coingecko": "swtcoin",
+	"sources": [
+		"coingecko"
+	]
+}

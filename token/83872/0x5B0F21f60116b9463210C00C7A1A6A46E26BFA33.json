@@ -1,0 +1,10 @@
+{
+	"chain": 83872,
+	"address": "0x5B0F21f60116b9463210C00C7A1A6A46E26BFA33",
+	"symbol": "ZedDex",
+	"name": "ZedDex",
+	"coingecko": "zeddex",
+	"sources": [
+		"coingecko"
+	]
+}

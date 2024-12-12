@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xA20d4d64db3be56D3a02F11C407a403164ee3456",
+	"symbol": "Baby Maga",
+	"name": "Baby Maga",
+	"coingecko": "baby-maga",
+	"sources": [
+		"coingecko"
+	]
+}

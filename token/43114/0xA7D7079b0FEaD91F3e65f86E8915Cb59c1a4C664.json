@@ -1,0 +1,13 @@
+{
+	"chain": 43114,
+	"address": "0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664",
+	"symbol": "USDC.e",
+	"name": "USD Coin",
+	"decimals": 6,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdc.jpg",
+	"coingecko": "usd-coin-avalanche-bridged-usdc-e",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

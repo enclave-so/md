@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x8C1851488F2DAceae46d815DD204d5f6D946666a",
+	"symbol": "Besa Gaming Company",
+	"name": "Besa Gaming Company",
+	"coingecko": "besa-gaming-company",
+	"sources": [
+		"coingecko"
+	]
+}

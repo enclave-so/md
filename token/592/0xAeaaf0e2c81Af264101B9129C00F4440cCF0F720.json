@@ -1,0 +1,10 @@
+{
+	"chain": 592,
+	"address": "0xAeaaf0e2c81Af264101B9129C00F4440cCF0F720",
+	"symbol": "Wrapped ASTR",
+	"name": "Wrapped ASTR",
+	"coingecko": "wrapped-astar",
+	"sources": [
+		"coingecko"
+	]
+}

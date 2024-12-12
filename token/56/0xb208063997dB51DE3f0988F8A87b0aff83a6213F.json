@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xb208063997dB51DE3f0988F8A87b0aff83a6213F",
+	"symbol": "BabyBoomToken",
+	"name": "BabyBoomToken",
+	"coingecko": "babyboomtoken",
+	"sources": [
+		"coingecko"
+	]
+}

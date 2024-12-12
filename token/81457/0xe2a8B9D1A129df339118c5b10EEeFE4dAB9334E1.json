@@ -1,0 +1,10 @@
+{
+	"chain": 81457,
+	"address": "0xe2a8B9D1A129df339118c5b10EEeFE4dAB9334E1",
+	"symbol": "Dinari GME",
+	"name": "Dinari GME",
+	"coingecko": "dinari-gme",
+	"sources": [
+		"coingecko"
+	]
+}

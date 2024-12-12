@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x5FB60A9e69B53EDbC95a5a2D9DD4ABD8C16c4233",
+	"symbol": "Dinosaur Inu",
+	"name": "Dinosaur Inu",
+	"coingecko": "dinosaur-inu",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 4689,
+	"address": "0x62a9D987Cbf4C45a550DEEd5B57b200d7a319632",
+	"symbol": "Matic DAI Stablecoin",
+	"name": "Matic DAI Stablecoin",
+	"coingecko": "matic-dai-stablecoin",
+	"sources": [
+		"coingecko"
+	]
+}

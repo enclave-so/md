@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x3dbf8bAbF260Be2A6221dc6Fb1c4074a44B58562",
+	"symbol": "Starlink Program",
+	"name": "Starlink Program",
+	"coingecko": "starlink-program",
+	"sources": [
+		"coingecko"
+	]
+}

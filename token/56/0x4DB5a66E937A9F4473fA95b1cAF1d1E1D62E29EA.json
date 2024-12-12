@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x4DB5a66E937A9F4473fA95b1cAF1d1E1D62E29EA",
+	"symbol": "Ethereum (Wormhole)",
+	"name": "Ethereum (Wormhole)",
+	"coingecko": "ethereum-wormhole",
+	"sources": [
+		"coingecko"
+	]
+}

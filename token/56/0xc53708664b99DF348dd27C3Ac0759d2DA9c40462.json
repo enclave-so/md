@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xc53708664b99DF348dd27C3Ac0759d2DA9c40462",
+	"symbol": "Gourmet Galaxy",
+	"name": "Gourmet Galaxy",
+	"coingecko": "gourmetgalaxy",
+	"sources": [
+		"coingecko"
+	]
+}

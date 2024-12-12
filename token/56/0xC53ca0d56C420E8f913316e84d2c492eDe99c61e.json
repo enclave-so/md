@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xC53ca0d56C420E8f913316e84d2c492eDe99c61e",
+	"symbol": "GROK",
+	"name": "GROK",
+	"coingecko": "grok-4",
+	"sources": [
+		"coingecko"
+	]
+}

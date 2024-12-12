@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x99945f484EBc48F5307cC00cF8dCF8d6D3d4B017",
+	"symbol": "SwiftCash",
+	"name": "SwiftCash",
+	"coingecko": "swiftcash",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x21b9D428EB20FA075A29d51813E57BAb85406620",
+	"symbol": "Sypher",
+	"name": "Sypher",
+	"coingecko": "sypher",
+	"sources": [
+		"coingecko"
+	]
+}

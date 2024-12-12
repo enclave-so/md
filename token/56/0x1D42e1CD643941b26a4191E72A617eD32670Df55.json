@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x1D42e1CD643941b26a4191E72A617eD32670Df55",
+	"symbol": "MBP Coin",
+	"name": "MBP Coin",
+	"coingecko": "mbp-coin",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x6067490d05F3cF2fdFFC0e353b1f5Fd6E5CCDF70",
+	"symbol": "Market Making Pro",
+	"name": "Market Making Pro",
+	"coingecko": "market-making-pro",
+	"sources": [
+		"coingecko"
+	]
+}

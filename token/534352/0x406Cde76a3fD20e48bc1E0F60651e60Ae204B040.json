@@ -1,0 +1,11 @@
+{
+	"chain": 534352,
+	"address": "0x406Cde76a3fD20e48bc1E0F60651e60Ae204B040",
+	"symbol": "axlFRAX",
+	"name": "Axelar Wrapped FRAX",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/scroll/0x406Cde76a3fD20e48bc1E0F60651e60Ae204B040.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

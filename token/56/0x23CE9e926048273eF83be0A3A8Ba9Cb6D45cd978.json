@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x23CE9e926048273eF83be0A3A8Ba9Cb6D45cd978",
+	"symbol": "Mines of Dalarnia",
+	"name": "Mines of Dalarnia",
+	"coingecko": "mines-of-dalarnia",
+	"sources": [
+		"coingecko"
+	]
+}

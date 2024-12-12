@@ -1,0 +1,10 @@
+{
+	"chain": 42262,
+	"address": "0xd17dDAC91670274F7ba1590a06EcA0f2FD2b12bc",
+	"symbol": "SOL (Wormhole)",
+	"name": "SOL (Wormhole)",
+	"coingecko": "sol-wormhole",
+	"sources": [
+		"coingecko"
+	]
+}

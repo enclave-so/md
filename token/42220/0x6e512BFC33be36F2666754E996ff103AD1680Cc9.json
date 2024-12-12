@@ -1,0 +1,10 @@
+{
+	"chain": 42220,
+	"address": "0x6e512BFC33be36F2666754E996ff103AD1680Cc9",
+	"symbol": "Allbridge",
+	"name": "Allbridge",
+	"coingecko": "allbridge",
+	"sources": [
+		"coingecko"
+	]
+}

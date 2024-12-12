@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x9720CA160Bbd4E7f3dD4bb3f8BD4227ca0342e63",
+	"symbol": "GamesPad",
+	"name": "GamesPad",
+	"coingecko": "gamespad",
+	"sources": [
+		"coingecko"
+	]
+}

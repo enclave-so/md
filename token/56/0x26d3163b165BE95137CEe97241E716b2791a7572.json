@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x26d3163b165BE95137CEe97241E716b2791a7572",
+	"symbol": "Dibs Share",
+	"name": "Dibs Share",
+	"coingecko": "dibs-share",
+	"sources": [
+		"coingecko"
+	]
+}

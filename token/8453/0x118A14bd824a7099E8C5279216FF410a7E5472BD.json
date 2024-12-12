@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x118A14bd824a7099E8C5279216FF410a7E5472BD",
+	"symbol": "Opulous",
+	"name": "Opulous",
+	"coingecko": "opulous",
+	"sources": [
+		"coingecko"
+	]
+}

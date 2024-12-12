@@ -1,0 +1,10 @@
+{
+	"chain": 5000,
+	"address": "0xab575258d37EaA5C8956EfABe71F4eE8F6397cF3",
+	"symbol": "Mantle USD",
+	"name": "Mantle USD",
+	"coingecko": "mantle-usd",
+	"sources": [
+		"coingecko"
+	]
+}

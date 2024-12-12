@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x0c4ac8952c28e2e7fe22033C8D2F1263372d301d",
+	"symbol": "Apraemio",
+	"name": "Apraemio",
+	"coingecko": "apraemio",
+	"sources": [
+		"coingecko"
+	]
+}

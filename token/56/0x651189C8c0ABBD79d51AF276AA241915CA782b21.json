@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x651189C8c0ABBD79d51AF276AA241915CA782b21",
+	"symbol": "Pong Heroes",
+	"name": "Pong Heroes",
+	"coingecko": "pong-heroes",
+	"sources": [
+		"coingecko"
+	]
+}

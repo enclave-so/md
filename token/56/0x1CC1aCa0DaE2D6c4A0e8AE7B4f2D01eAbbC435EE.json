@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x1CC1aCa0DaE2D6c4A0e8AE7B4f2D01eAbbC435EE",
+	"symbol": "StrongHands Finance",
+	"name": "StrongHands Finance",
+	"coingecko": "stronghands-finance",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x8dAA7c321F7A7fE921f51d0457ec7F149e8bE926",
+	"symbol": "Coinmart Finance",
+	"name": "Coinmart Finance",
+	"coingecko": "coinmart-finance",
+	"sources": [
+		"coingecko"
+	]
+}

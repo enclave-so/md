@@ -1,0 +1,13 @@
+{
+	"chain": 56,
+	"address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+	"symbol": "WBNB",
+	"name": "Wrapped BNB",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c.jpg",
+	"coingecko": "wbnb",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

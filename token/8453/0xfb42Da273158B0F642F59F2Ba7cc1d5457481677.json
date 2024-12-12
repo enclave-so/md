@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xfb42Da273158B0F642F59F2Ba7cc1d5457481677",
+	"symbol": "Lingo",
+	"name": "Lingo",
+	"coingecko": "lingo",
+	"sources": [
+		"coingecko"
+	]
+}

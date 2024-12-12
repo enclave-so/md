@@ -1,0 +1,42 @@
+[
+	{
+		"chain": 336,
+		"address": "0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB",
+		"symbol": "JPY Coin",
+		"name": "JPY Coin",
+		"coingecko": "jpy-coin",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 336,
+		"address": "0x332730a4F6E03D9C55829435f10360E13cfA41Ff",
+		"symbol": "Wrapped BNB",
+		"name": "Wrapped BNB",
+		"coingecko": "wbnb",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 336,
+		"address": "0x0f933Dc137D21cA519ae4C7E93f87a4C8EF365Ef",
+		"symbol": "Wrapped Shiden Network",
+		"name": "Wrapped Shiden Network",
+		"coingecko": "wrapped-shiden-network",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 336,
+		"address": "0x735aBE48e8782948a37C7765ECb76b98CdE97B0F",
+		"symbol": "JPY Coin v1",
+		"name": "JPY Coin v1",
+		"coingecko": "jpyc",
+		"sources": [
+			"coingecko"
+		]
+	}
+]

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x2fF0B946A6782190C4Fe5D4971CFE79F0b6E4df2",
+	"symbol": "Mysterium",
+	"name": "Mysterium",
+	"coingecko": "mysterium",
+	"sources": [
+		"coingecko"
+	]
+}

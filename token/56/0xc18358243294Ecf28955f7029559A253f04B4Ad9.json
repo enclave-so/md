@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xc18358243294Ecf28955f7029559A253f04B4Ad9",
+	"symbol": "Mobster",
+	"name": "Mobster",
+	"coingecko": "mobster",
+	"sources": [
+		"coingecko"
+	]
+}

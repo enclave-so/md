@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x4c8A3a1025AB87Ef184cb7F0691a5a371FE783A6",
+	"symbol": "Rake.in",
+	"name": "Rake.in",
+	"coingecko": "rake-in",
+	"sources": [
+		"coingecko"
+	]
+}

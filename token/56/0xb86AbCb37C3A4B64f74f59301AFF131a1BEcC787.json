@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xb86AbCb37C3A4B64f74f59301AFF131a1BEcC787",
+	"symbol": "Zilliqa",
+	"name": "Zilliqa",
+	"coingecko": "zilliqa",
+	"sources": [
+		"coingecko"
+	]
+}

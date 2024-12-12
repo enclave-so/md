@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xb1ce906C610004E27e74415Aa9BCC90E46366F90",
+	"symbol": "Dynamite",
+	"name": "Dynamite",
+	"coingecko": "dynamite-token",
+	"sources": [
+		"coingecko"
+	]
+}

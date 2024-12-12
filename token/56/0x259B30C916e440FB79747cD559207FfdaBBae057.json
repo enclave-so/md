@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x259B30C916e440FB79747cD559207FfdaBBae057",
+	"symbol": "Overnight Finance",
+	"name": "Overnight Finance",
+	"coingecko": "overnight-finance",
+	"sources": [
+		"coingecko"
+	]
+}

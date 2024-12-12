@@ -1,0 +1,72 @@
+[
+	{
+		"chain": 3776,
+		"address": "0xA8CE8aee21bC2A48a5EF670afCc9274C7bbbC035",
+		"symbol": "Astar zkEVM Bridged USDC (Astar zkEVM)",
+		"name": "Astar zkEVM Bridged USDC (Astar zkEVM)",
+		"coingecko": "lxly-bridged-usdc-astar-zkevm",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 3776,
+		"address": "0x1E4a5963aBFD975d8c9021ce480b42188849D41d",
+		"symbol": "LxLy Bridged USDT (Astar zkEVM)",
+		"name": "LxLy Bridged USDT (Astar zkEVM)",
+		"coingecko": "lxly-bridged-usdt-astar-zkevm",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 3776,
+		"address": "0xA84DBE4602cBAcfe8Cd858Fe910b88ba0e8b8B18",
+		"symbol": "Mother of Memes",
+		"name": "Mother of Memes",
+		"coingecko": "mother-of-memes-2",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 3776,
+		"address": "0x80137510979822322193FC997d400D5A6C747bf7",
+		"symbol": "StakeStone ETH",
+		"name": "StakeStone ETH",
+		"coingecko": "stakestone-ether",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 3776,
+		"address": "0xdf41220C7e322bFEF933D85D01821ad277f90172",
+		"symbol": "Stargate Bridged ASTR (Astar zkEVM)",
+		"name": "Stargate Bridged ASTR (Astar zkEVM)",
+		"coingecko": "stargate-bridged-astr-astar-zkevm",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 3776,
+		"address": "0xE9CC37904875B459Fa5D0FE37680d36F1ED55e38",
+		"symbol": "Astar zkEVM Bridged WETH (Astar zkEVM)",
+		"name": "Astar zkEVM Bridged WETH (Astar zkEVM)",
+		"coingecko": "astar-zkevm-bridged-weth-astar-zkevm",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 3776,
+		"address": "0x90E3F8e749dBD40286AB29AecD1E8487Db4a8785",
+		"symbol": "Bonsai Coin",
+		"name": "Bonsai Coin",
+		"coingecko": "bonsai-coin",
+		"sources": [
+			"coingecko"
+		]
+	}
+]

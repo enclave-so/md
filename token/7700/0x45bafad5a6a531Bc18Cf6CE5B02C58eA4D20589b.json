@@ -1,0 +1,10 @@
+{
+	"chain": 7700,
+	"address": "0x45bafad5a6a531Bc18Cf6CE5B02C58eA4D20589b",
+	"symbol": "Fortunafi Tokenized Short-term U.S. Treasury Bills for Non US Residents",
+	"name": "Fortunafi Tokenized Short-term U.S. Treasury Bills for Non US Residents",
+	"coingecko": "fortunafi-tokenized-short-term-u-s-treasury-bills-for-non-us-residents",
+	"sources": [
+		"coingecko"
+	]
+}

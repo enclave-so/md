@@ -1,0 +1,10 @@
+{
+	"chain": 4689,
+	"address": "0x5d0f4cA481FD725c9BC6b415c0Ce5B3c3bD726CF",
+	"symbol": "GameFantasyStar",
+	"name": "GameFantasyStar",
+	"coingecko": "gamefantasystar",
+	"sources": [
+		"coingecko"
+	]
+}

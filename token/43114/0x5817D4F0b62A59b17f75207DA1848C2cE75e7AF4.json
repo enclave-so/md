@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x5817D4F0b62A59b17f75207DA1848C2cE75e7AF4",
+	"symbol": "Vector Finance",
+	"name": "Vector Finance",
+	"coingecko": "vector-finance",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x4a1AD6a5aEE1915c5BC0104bD7E2671Ed37AAF0E",
+	"symbol": "GreenDex",
+	"name": "GreenDex",
+	"coingecko": "greendex",
+	"sources": [
+		"coingecko"
+	]
+}

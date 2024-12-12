@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x84Fd7CC4Cd689fC021eE3D00759B6D255269D538",
+	"symbol": "panKUKU",
+	"name": "panKUKU",
+	"coingecko": "pankuku",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xcE76fA691ffcE00E6ce9BB788E9CbdFb52933F7a",
+	"symbol": "Keke Inu",
+	"name": "Keke Inu",
+	"coingecko": "keke-inu",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,12 @@
+[
+	{
+		"chain": 660279,
+		"address": "0xF1aF2d49a08e661E71a987aB94839F7B720764E2",
+		"symbol": "Europe Fantasy League",
+		"name": "Europe Fantasy League",
+		"coingecko": "europe-fantasy-league",
+		"sources": [
+			"coingecko"
+		]
+	}
+]

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x780207B8C0Fdc32cF60E957415bFa1f2d4d9718c",
+	"symbol": "Cashaa",
+	"name": "Cashaa",
+	"coingecko": "cashaa",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xF3c7CECF8cBC3066F9a87b310cEBE198d00479aC",
+	"symbol": "FEED EVERY GORILLA",
+	"name": "FEED EVERY GORILLA",
+	"coingecko": "feg-token-2",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xaeb63742F2C7dD1538bBE2285B6789017a06B58B",
+	"symbol": "Colle AI",
+	"name": "Colle AI",
+	"coingecko": "colle-ai",
+	"sources": [
+		"coingecko"
+	]
+}

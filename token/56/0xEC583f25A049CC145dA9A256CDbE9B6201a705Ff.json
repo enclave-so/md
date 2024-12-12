@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xEC583f25A049CC145dA9A256CDbE9B6201a705Ff",
+	"symbol": "Drep",
+	"name": "Drep",
+	"coingecko": "drep-new",
+	"sources": [
+		"coingecko"
+	]
+}

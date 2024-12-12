@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xc734635CD30E882037C3f3De1EbCCF9fA9D27D9F",
+	"symbol": "Lyvely",
+	"name": "Lyvely",
+	"coingecko": "lyvely",
+	"sources": [
+		"coingecko"
+	]
+}

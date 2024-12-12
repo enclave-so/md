@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x4acC81dc9c03e5329a2c19763A1D10ba9308339F",
+	"symbol": "Base Baboon",
+	"name": "Base Baboon",
+	"coingecko": "base-baboon",
+	"sources": [
+		"coingecko"
+	]
+}

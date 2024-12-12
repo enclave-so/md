@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xb1528a7BE5A96B77de5337988Ba69029cA6E2c7A",
+	"symbol": "Barking",
+	"name": "Barking",
+	"coingecko": "barking",
+	"sources": [
+		"coingecko"
+	]
+}

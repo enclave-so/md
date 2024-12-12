@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x9d6DF568D4D3E619B99a5f988ac7b2bCc3408753",
+	"symbol": "Lumishare",
+	"name": "Lumishare",
+	"coingecko": "lumishare",
+	"sources": [
+		"coingecko"
+	]
+}

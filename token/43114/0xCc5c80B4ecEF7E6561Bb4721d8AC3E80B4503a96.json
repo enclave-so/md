@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0xCc5c80B4ecEF7E6561Bb4721d8AC3E80B4503a96",
+	"symbol": "RoboKiden",
+	"name": "RoboKiden",
+	"coingecko": "robokiden",
+	"sources": [
+		"coingecko"
+	]
+}

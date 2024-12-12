@@ -1,0 +1,10 @@
+{
+	"chain": 8217,
+	"address": "0x34d21b1e550D73cee41151c77F3c73359527a396",
+	"symbol": "Orbit Bridge Klaytn Ethereum",
+	"name": "Orbit Bridge Klaytn Ethereum",
+	"coingecko": "orbit-bridge-klaytn-ethereum",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x6bA5657BBFf83cb579503847C6bAa47295Ef79a8",
+	"symbol": "Nuritopia",
+	"name": "Nuritopia",
+	"coingecko": "nuritopia",
+	"sources": [
+		"coingecko"
+	]
+}

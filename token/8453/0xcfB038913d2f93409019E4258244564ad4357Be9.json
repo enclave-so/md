@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xcfB038913d2f93409019E4258244564ad4357Be9",
+	"symbol": "Ghozali 404",
+	"name": "Ghozali 404",
+	"coingecko": "ghozali-404",
+	"sources": [
+		"coingecko"
+	]
+}

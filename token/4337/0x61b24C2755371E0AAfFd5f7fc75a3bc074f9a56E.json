@@ -1,0 +1,10 @@
+{
+	"chain": 4337,
+	"address": "0x61b24C2755371E0AAfFd5f7fc75a3bc074f9a56E",
+	"symbol": "BEAMCAT",
+	"name": "BEAMCAT",
+	"coingecko": "beamcat",
+	"sources": [
+		"coingecko"
+	]
+}

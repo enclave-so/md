@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x00Db8321C431B62A6d42979Ed4A5D0f3661c959e",
+	"symbol": "Bnacoin",
+	"name": "Bnacoin",
+	"coingecko": "bnacoin",
+	"sources": [
+		"coingecko"
+	]
+}

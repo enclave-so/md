@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x26a1BdFa3bb86b2744c4A42EBfDd205761d13a8a",
+	"symbol": "KAKA NFT World",
+	"name": "KAKA NFT World",
+	"coingecko": "kaka-nft-world",
+	"sources": [
+		"coingecko"
+	]
+}

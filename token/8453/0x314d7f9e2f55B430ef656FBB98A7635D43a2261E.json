@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x314d7f9e2f55B430ef656FBB98A7635D43a2261E",
+	"symbol": "Naym",
+	"name": "Naym",
+	"coingecko": "naym",
+	"sources": [
+		"coingecko"
+	]
+}

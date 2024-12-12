@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x9fd83625b3a70F95557a117Dbbfb67a0d3406d3e",
+	"symbol": "Truth Pay",
+	"name": "Truth Pay",
+	"coingecko": "truth-pay",
+	"sources": [
+		"coingecko"
+	]
+}

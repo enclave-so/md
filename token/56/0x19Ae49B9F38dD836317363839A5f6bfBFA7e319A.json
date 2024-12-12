@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x19Ae49B9F38dD836317363839A5f6bfBFA7e319A",
+	"symbol": "SaitaChain Coin",
+	"name": "SaitaChain Coin",
+	"coingecko": "saitachain-coin-2",
+	"sources": [
+		"coingecko"
+	]
+}

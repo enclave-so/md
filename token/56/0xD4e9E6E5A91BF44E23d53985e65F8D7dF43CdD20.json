@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xD4e9E6E5A91BF44E23d53985e65F8D7dF43CdD20",
+	"symbol": "Crypto Clubs App [OLD]",
+	"name": "Crypto Clubs App [OLD]",
+	"coingecko": "crypto-clubs-app",
+	"sources": [
+		"coingecko"
+	]
+}

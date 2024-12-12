@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x4861bA0CE919FeE66B41c85a08A7476557914275",
+	"symbol": "Continuum Finance",
+	"name": "Continuum Finance",
+	"coingecko": "continuum-finance",
+	"sources": [
+		"coingecko"
+	]
+}

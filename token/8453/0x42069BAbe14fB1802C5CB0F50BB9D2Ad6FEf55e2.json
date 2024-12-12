@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x42069BAbe14fB1802C5CB0F50BB9D2Ad6FEf55e2",
+	"symbol": "Frok.ai",
+	"name": "Frok.ai",
+	"coingecko": "frok-ai",
+	"sources": [
+		"coingecko"
+	]
+}

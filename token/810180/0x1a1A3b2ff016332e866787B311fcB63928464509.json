@@ -1,0 +1,10 @@
+{
+	"chain": 810180,
+	"address": "0x1a1A3b2ff016332e866787B311fcB63928464509",
+	"symbol": "Nova Merged USDC (zkLink)",
+	"name": "Nova Merged USDC (zkLink)",
+	"coingecko": "nova-usdc",
+	"sources": [
+		"coingecko"
+	]
+}

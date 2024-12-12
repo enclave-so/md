@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xaC394dD65E1Bb24b3191d3863D3F5c170B4f733D",
+	"symbol": "MILLE CHAIN",
+	"name": "MILLE CHAIN",
+	"coingecko": "mille-chain",
+	"sources": [
+		"coingecko"
+	]
+}

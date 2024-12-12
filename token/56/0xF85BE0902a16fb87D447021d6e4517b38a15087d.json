@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xF85BE0902a16fb87D447021d6e4517b38a15087d",
+	"symbol": "PalmPay",
+	"name": "PalmPay",
+	"coingecko": "palmpay",
+	"sources": [
+		"coingecko"
+	]
+}

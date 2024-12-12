@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x7597Bdccf10e41bCCC374A6a0104cF430C420884",
+	"symbol": "GulfCoin",
+	"name": "GulfCoin",
+	"coingecko": "gulfcoin-2",
+	"sources": [
+		"coingecko"
+	]
+}

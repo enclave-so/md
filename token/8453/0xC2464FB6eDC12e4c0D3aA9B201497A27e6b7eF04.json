@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xC2464FB6eDC12e4c0D3aA9B201497A27e6b7eF04",
+	"symbol": "BaseAI",
+	"name": "BaseAI",
+	"coingecko": "baseai",
+	"sources": [
+		"coingecko"
+	]
+}

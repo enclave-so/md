@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x29132062319AA375e764Ef8ef756F2B28c77a9C9",
+	"symbol": "BlokPad",
+	"name": "BlokPad",
+	"coingecko": "blokpad",
+	"sources": [
+		"coingecko"
+	]
+}

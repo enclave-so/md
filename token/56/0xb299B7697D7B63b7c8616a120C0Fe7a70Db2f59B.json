@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xb299B7697D7B63b7c8616a120C0Fe7a70Db2f59B",
+	"symbol": "Poor Doge",
+	"name": "Poor Doge",
+	"coingecko": "poor-doge",
+	"sources": [
+		"coingecko"
+	]
+}

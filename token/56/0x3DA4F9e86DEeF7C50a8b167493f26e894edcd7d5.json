@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x3DA4F9e86DEeF7C50a8b167493f26e894edcd7d5",
+	"symbol": "TriipMiles",
+	"name": "TriipMiles",
+	"coingecko": "triipmiles",
+	"sources": [
+		"coingecko"
+	]
+}

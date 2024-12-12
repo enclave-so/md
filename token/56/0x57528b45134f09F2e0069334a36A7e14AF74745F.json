@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x57528b45134f09F2e0069334a36A7e14AF74745F",
+	"symbol": "SugarYield",
+	"name": "SugarYield",
+	"coingecko": "sugaryield",
+	"sources": [
+		"coingecko"
+	]
+}

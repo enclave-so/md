@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xbb819D845b573B5D7C538F5b85057160cfb5f313",
+	"symbol": "Morpho eUSD",
+	"name": "Morpho eUSD",
+	"coingecko": "morpho-eusd",
+	"sources": [
+		"coingecko"
+	]
+}

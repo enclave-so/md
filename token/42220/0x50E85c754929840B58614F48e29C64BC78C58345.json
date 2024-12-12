@@ -1,0 +1,10 @@
+{
+	"chain": 42220,
+	"address": "0x50E85c754929840B58614F48e29C64BC78C58345",
+	"symbol": "Biochar",
+	"name": "Biochar",
+	"coingecko": "biochar",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x4c48cca6153Db911002F965D22fdeFcD95f33BE9",
+	"symbol": "The Essential Coin",
+	"name": "The Essential Coin",
+	"coingecko": "the-essential-coin",
+	"sources": [
+		"coingecko"
+	]
+}

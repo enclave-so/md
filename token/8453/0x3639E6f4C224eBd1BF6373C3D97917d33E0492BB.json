@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x3639E6f4C224eBd1BF6373C3D97917d33E0492BB",
+	"symbol": "Paca AI",
+	"name": "Paca AI",
+	"coingecko": "paca-ai",
+	"sources": [
+		"coingecko"
+	]
+}

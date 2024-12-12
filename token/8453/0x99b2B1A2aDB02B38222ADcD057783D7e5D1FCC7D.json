@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x99b2B1A2aDB02B38222ADcD057783D7e5D1FCC7D",
+	"symbol": "Common Wealth",
+	"name": "Common Wealth",
+	"coingecko": "common-wealth",
+	"sources": [
+		"coingecko"
+	]
+}

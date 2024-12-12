@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xa94fb437B8BacB591c6b828BeF5A837AFe542100",
+	"symbol": "NETZERO",
+	"name": "NETZERO",
+	"coingecko": "netzero",
+	"sources": [
+		"coingecko"
+	]
+}

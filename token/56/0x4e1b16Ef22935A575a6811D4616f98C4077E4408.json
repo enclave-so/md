@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x4e1b16Ef22935A575a6811D4616f98C4077E4408",
+	"symbol": "KelVPN",
+	"name": "KelVPN",
+	"coingecko": "kelvpn",
+	"sources": [
+		"coingecko"
+	]
+}

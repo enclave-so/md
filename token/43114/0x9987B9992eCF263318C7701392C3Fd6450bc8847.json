@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x9987B9992eCF263318C7701392C3Fd6450bc8847",
+	"symbol": "CLECOIN",
+	"name": "CLECOIN",
+	"coingecko": "clecoin",
+	"sources": [
+		"coingecko"
+	]
+}

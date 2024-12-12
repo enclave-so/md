@@ -1,0 +1,92 @@
+[
+	{
+		"chain": 61,
+		"address": "0xDE093684c796204224BC081f937aa059D903c52a",
+		"symbol": "Classic USD",
+		"name": "Classic USD",
+		"coingecko": "classic-usd",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 61,
+		"address": "0xd508F85F1511aAeC63434E26aeB6d10bE0188dC7",
+		"symbol": "Morpho-Aave Wrapped BTC",
+		"name": "Morpho-Aave Wrapped BTC",
+		"coingecko": "morpho-aave-wrapped-btc",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 61,
+		"address": "0x1953cab0E5bFa6D4a9BaD6E05fD46C1CC6527a5a",
+		"symbol": "Wrapped ETC",
+		"name": "Wrapped ETC",
+		"coingecko": "wrapped-ether",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 61,
+		"address": "0xb67219f9e79112fdf4672574eA72aaD3cB86E8e7",
+		"symbol": "Dogelon Classic",
+		"name": "Dogelon Classic",
+		"coingecko": "dogelon-classic",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 61,
+		"address": "0x6c3B413C461c42a88160Ed1B1B31d6f7b02a1C83",
+		"symbol": "ETCPOW",
+		"name": "ETCPOW",
+		"coingecko": "etcpow",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 61,
+		"address": "0x88d8C3Dc6B5324f34E8Cf229a93E197048671abD",
+		"symbol": "HebeBlock",
+		"name": "HebeBlock",
+		"coingecko": "hebeblock",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 61,
+		"address": "0xEce01807F7d9B93529174533E997e5DE168B0b39",
+		"symbol": "SafeClassic",
+		"name": "SafeClassic",
+		"coingecko": "safeclassic",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 61,
+		"address": "0x1FDc495289B590e78d455cf7faa6cd804de5Cbc1",
+		"symbol": "Shiba Classic",
+		"name": "Shiba Classic",
+		"coingecko": "shiba-classic",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 61,
+		"address": "0x82A618305706B14e7bcf2592D4B9324A366b6dAd",
+		"symbol": "Wrapped ETC",
+		"name": "Wrapped ETC",
+		"coingecko": "wetc-hebeswap",
+		"sources": [
+			"coingecko"
+		]
+	}
+]

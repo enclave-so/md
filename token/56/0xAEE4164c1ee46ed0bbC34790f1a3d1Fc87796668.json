@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xAEE4164c1ee46ed0bbC34790f1a3d1Fc87796668",
+	"symbol": "Poly-Peg Mdex",
+	"name": "Poly-Peg Mdex",
+	"coingecko": "poly-peg-mdex",
+	"sources": [
+		"coingecko"
+	]
+}

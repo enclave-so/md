@@ -1,0 +1,13 @@
+{
+	"chain": 56,
+	"address": "0xa1faa113cbE53436Df28FF0aEe54275c13B40975",
+	"symbol": "ALPHA",
+	"name": "AlphaToken",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/alpha.jpg",
+	"coingecko": "alpha-finance",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

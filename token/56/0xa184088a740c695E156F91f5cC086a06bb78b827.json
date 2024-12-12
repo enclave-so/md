@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xa184088a740c695E156F91f5cC086a06bb78b827",
+	"symbol": "Auto",
+	"name": "Auto",
+	"coingecko": "auto",
+	"sources": [
+		"coingecko"
+	]
+}

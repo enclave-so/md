@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x8eBAf22B6F053dFFeaf46f4Dd9eFA95D89ba8580",
+	"symbol": "Uniswap",
+	"name": "Uniswap",
+	"coingecko": "uniswap",
+	"sources": [
+		"coingecko"
+	]
+}

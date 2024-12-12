@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x1EaFFd6b9ef0f45d663F3FbF402226C98609600e",
+	"symbol": "Storepay",
+	"name": "Storepay",
+	"coingecko": "storepay",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xe64017bDAcbe7dfc84886C3704a26d566e7550de",
+	"symbol": "Kingdom Karnage",
+	"name": "Kingdom Karnage",
+	"coingecko": "kingdom-karnage",
+	"sources": [
+		"coingecko"
+	]
+}

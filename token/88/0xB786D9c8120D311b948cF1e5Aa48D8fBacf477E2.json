@@ -1,0 +1,10 @@
+{
+	"chain": 88,
+	"address": "0xB786D9c8120D311b948cF1e5Aa48D8fBacf477E2",
+	"symbol": "Saros",
+	"name": "Saros",
+	"coingecko": "saros-finance",
+	"sources": [
+		"coingecko"
+	]
+}

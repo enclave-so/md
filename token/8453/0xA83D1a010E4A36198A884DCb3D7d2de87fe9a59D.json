@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xA83D1a010E4A36198A884DCb3D7d2de87fe9a59D",
+	"symbol": "Lanify",
+	"name": "Lanify",
+	"coingecko": "lanify",
+	"sources": [
+		"coingecko"
+	]
+}

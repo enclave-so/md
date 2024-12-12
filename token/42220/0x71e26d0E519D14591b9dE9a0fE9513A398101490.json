@@ -1,0 +1,10 @@
+{
+	"chain": 42220,
+	"address": "0x71e26d0E519D14591b9dE9a0fE9513A398101490",
+	"symbol": "Ubeswap",
+	"name": "Ubeswap",
+	"coingecko": "ubeswap-2",
+	"sources": [
+		"coingecko"
+	]
+}

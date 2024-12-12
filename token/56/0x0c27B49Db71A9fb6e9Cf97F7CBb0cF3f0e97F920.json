@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x0c27B49Db71A9fb6e9Cf97F7CBb0cF3f0e97F920",
+	"symbol": "Nyantereum International",
+	"name": "Nyantereum International",
+	"coingecko": "nyantereum",
+	"sources": [
+		"coingecko"
+	]
+}

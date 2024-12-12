@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x9096B4309224d751FCB43d7eB178dcFFc122aD15",
+	"symbol": "Legion Network",
+	"name": "Legion Network",
+	"coingecko": "legion-network",
+	"sources": [
+		"coingecko"
+	]
+}

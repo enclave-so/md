@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x872952d3c1Caf944852c5ADDa65633F1Ef218A26",
+	"symbol": "Reddex",
+	"name": "Reddex",
+	"coingecko": "liquid-crypto",
+	"sources": [
+		"coingecko"
+	]
+}

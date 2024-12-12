@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x42F6f551ae042cBe50C739158b4f0CAC0Edb9096",
+	"symbol": "Nerve Finance",
+	"name": "Nerve Finance",
+	"coingecko": "nerve-finance",
+	"sources": [
+		"coingecko"
+	]
+}

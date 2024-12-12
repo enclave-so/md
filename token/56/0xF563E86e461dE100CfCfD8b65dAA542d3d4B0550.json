@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xF563E86e461dE100CfCfD8b65dAA542d3d4B0550",
+	"symbol": "COCO COIN",
+	"name": "COCO COIN",
+	"coingecko": "coco-coin",
+	"sources": [
+		"coingecko"
+	]
+}

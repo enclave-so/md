@@ -1,0 +1,132 @@
+[
+	{
+		"chain": 1030,
+		"address": "0x6963EfED0aB40F6C3d7BdA44A05dcf1437C44372",
+		"symbol": "Celer Bridged USDC (Conflux)",
+		"name": "Celer Bridged USDC (Conflux)",
+		"coingecko": "celer-bridged-usdc-conflux",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1030,
+		"address": "0xa47f43DE2f9623aCb395CA4905746496D2014d57",
+		"symbol": "Celer Bridged WETH (Conflux)",
+		"name": "Celer Bridged WETH (Conflux)",
+		"coingecko": "celer-bridged-weth-conflux",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1030,
+		"address": "0x19AAe9E4269AB47FF291125b5C0c2f7296A635AB",
+		"symbol": "Goledo",
+		"name": "Goledo",
+		"coingecko": "goledo-2",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1030,
+		"address": "0x1858a8d367e69cd9E23d0Da4169885a47F05f1bE",
+		"symbol": "SHUI CFX",
+		"name": "SHUI CFX",
+		"coingecko": "shui-cfx",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1030,
+		"address": "0x22F41aBf77905f50dF398f21213290597e7414Dd",
+		"symbol": "Swappi",
+		"name": "Swappi",
+		"coingecko": "swappi",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1030,
+		"address": "0x94bd7A37d2cE24cC597E158fACaa8d601083ffeC",
+		"symbol": "Wrapped BNB",
+		"name": "Wrapped BNB",
+		"coingecko": "wbnb",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1030,
+		"address": "0x905f2202003453006EAF975699545F2e909079B8",
+		"symbol": "ABC PoS Pool",
+		"name": "ABC PoS Pool",
+		"coingecko": "abc-pos-pool",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1030,
+		"address": "0x1F545487c62e5ACfEa45dcAdd9c627361d1616D8",
+		"symbol": "Celer Bridged WBTC (Conflux)",
+		"name": "Celer Bridged WBTC (Conflux)",
+		"coingecko": "celer-bridged-wbtc-conflux",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1030,
+		"address": "0xFE197E7968807B311D476915DB585831B43A7E3b",
+		"symbol": "Nucleon",
+		"name": "Nucleon",
+		"coingecko": "nucleon-space",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1030,
+		"address": "0x889138644274a7Dc602f25A7e7D53fF40E6d0091",
+		"symbol": "Nucleon xCFX",
+		"name": "Nucleon xCFX",
+		"coingecko": "nucleon-xcfx",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1030,
+		"address": "0xF1F6e3Aa98Bac6C13230051e452065DF299a78A7",
+		"symbol": "SHUI",
+		"name": "SHUI",
+		"coingecko": "shui",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1030,
+		"address": "0x14b2D3bC65e74DAE1030EAFd8ac30c533c976A9b",
+		"symbol": "Wrapped Conflux",
+		"name": "Wrapped Conflux",
+		"coingecko": "wrapped-conflux",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1030,
+		"address": "0xfe97E85d13ABD9c1c33384E796F10B73905637cE",
+		"symbol": "Celer Bridged USDT (Conflux)",
+		"name": "Celer Bridged USDT (Conflux)",
+		"coingecko": "celer-bridged-usdt-conflux",
+		"sources": [
+			"coingecko"
+		]
+	}
+]

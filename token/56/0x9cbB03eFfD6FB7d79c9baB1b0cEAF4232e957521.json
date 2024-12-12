@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x9cbB03eFfD6FB7d79c9baB1b0cEAF4232e957521",
+	"symbol": "Doge CEO",
+	"name": "Doge CEO",
+	"coingecko": "doge-ceo",
+	"sources": [
+		"coingecko"
+	]
+}

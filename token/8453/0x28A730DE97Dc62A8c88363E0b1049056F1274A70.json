@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x28A730DE97Dc62A8c88363E0b1049056F1274A70",
+	"symbol": "Chinese Toshi",
+	"name": "Chinese Toshi",
+	"coingecko": "chinese-toshi",
+	"sources": [
+		"coingecko"
+	]
+}

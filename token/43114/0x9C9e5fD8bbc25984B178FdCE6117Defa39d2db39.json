@@ -1,0 +1,13 @@
+{
+	"chain": 43114,
+	"address": "0x9C9e5fD8bbc25984B178FdCE6117Defa39d2db39",
+	"symbol": "BUSD",
+	"name": "BUSD Token",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0x9C9e5fD8bbc25984B178FdCE6117Defa39d2db39.jpg",
+	"coingecko": "binance-peg-busd",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

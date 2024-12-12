@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x59a32D4b86fFcCE0a7f388D6d858c6A0371915ab",
+	"symbol": "MammothAI",
+	"name": "MammothAI",
+	"coingecko": "mammothai",
+	"sources": [
+		"coingecko"
+	]
+}

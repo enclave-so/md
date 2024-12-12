@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x5a7A15f8d5DaEAE4e5bA880451CDDF64FA2fAe6D",
+	"symbol": "Promise",
+	"name": "Promise",
+	"coingecko": "promise",
+	"sources": [
+		"coingecko"
+	]
+}

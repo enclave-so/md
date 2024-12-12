@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xE703BcD08AF361b3de09a617fb74F98520954FcA",
+	"symbol": "MOST Global",
+	"name": "MOST Global",
+	"coingecko": "most-global",
+	"sources": [
+		"coingecko"
+	]
+}

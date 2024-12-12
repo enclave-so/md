@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x13A08A0D90b84A099A7914012Aa8628da696769A",
+	"symbol": "UMAREUM",
+	"name": "UMAREUM",
+	"coingecko": "umareum",
+	"sources": [
+		"coingecko"
+	]
+}

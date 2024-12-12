@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xdB238123939637D65a03E4b2b485650B4f9D91CB",
+	"symbol": "TasteNFT",
+	"name": "TasteNFT",
+	"coingecko": "tastenft",
+	"sources": [
+		"coingecko"
+	]
+}

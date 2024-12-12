@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xAcB5b33ce55ba7729E38b2b59677E71c0112f0D9",
+	"symbol": "OpenSocial",
+	"name": "OpenSocial",
+	"coingecko": "qrolli",
+	"sources": [
+		"coingecko"
+	]
+}

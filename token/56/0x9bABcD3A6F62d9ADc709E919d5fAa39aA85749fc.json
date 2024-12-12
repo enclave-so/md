@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x9bABcD3A6F62d9ADc709E919d5fAa39aA85749fc",
+	"symbol": "Indian Shiba Inu",
+	"name": "Indian Shiba Inu",
+	"coingecko": "indian-shiba-inu",
+	"sources": [
+		"coingecko"
+	]
+}

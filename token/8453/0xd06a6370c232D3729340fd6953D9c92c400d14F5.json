@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xd06a6370c232D3729340fd6953D9c92c400d14F5",
+	"symbol": "Onchain Finance and Culture",
+	"name": "Onchain Finance and Culture",
+	"coingecko": "onchain-finance-and-culture",
+	"sources": [
+		"coingecko"
+	]
+}

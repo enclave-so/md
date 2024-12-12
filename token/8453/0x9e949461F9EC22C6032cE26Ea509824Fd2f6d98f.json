@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x9e949461F9EC22C6032cE26Ea509824Fd2f6d98f",
+	"symbol": "Kabosu",
+	"name": "Kabosu",
+	"coingecko": "kabosu-heroglyphs",
+	"sources": [
+		"coingecko"
+	]
+}

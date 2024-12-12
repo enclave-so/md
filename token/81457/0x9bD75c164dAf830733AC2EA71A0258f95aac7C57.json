@@ -1,0 +1,13 @@
+{
+	"chain": 81457,
+	"address": "0x9bD75c164dAf830733AC2EA71A0258f95aac7C57",
+	"symbol": "BCat",
+	"name": "BlastCat",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/blast/0x9bD75c164dAf830733AC2EA71A0258f95aac7C57.jpg",
+	"coingecko": "blastcat",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

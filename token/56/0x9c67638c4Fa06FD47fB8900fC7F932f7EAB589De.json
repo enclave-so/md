@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x9c67638c4Fa06FD47fB8900fC7F932f7EAB589De",
+	"symbol": "Arker",
+	"name": "Arker",
+	"coingecko": "arker-2",
+	"sources": [
+		"coingecko"
+	]
+}

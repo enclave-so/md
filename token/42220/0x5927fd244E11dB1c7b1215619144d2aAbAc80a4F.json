@@ -1,0 +1,11 @@
+{
+	"chain": 42220,
+	"address": "0x5927fd244E11dB1c7b1215619144d2aAbAc80a4F",
+	"symbol": "CLA",
+	"name": "CeloLaunch",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/celo/assets/0x5927fd244E11dB1c7b1215619144d2aAbAc80a4F/logo.png",
+	"sources": [
+		"sushiswap"
+	]
+}

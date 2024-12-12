@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x066aeE69D93dEe28b32A57fEbd1878a2D94F6b0c",
+	"symbol": "GOLD8",
+	"name": "GOLD8",
+	"coingecko": "gold8",
+	"sources": [
+		"coingecko"
+	]
+}

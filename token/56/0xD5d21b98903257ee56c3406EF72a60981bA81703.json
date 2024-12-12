@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xD5d21b98903257ee56c3406EF72a60981bA81703",
+	"symbol": "Book of Baby Memes",
+	"name": "Book of Baby Memes",
+	"coingecko": "book-of-baby-memes",
+	"sources": [
+		"coingecko"
+	]
+}

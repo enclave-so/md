@@ -1,0 +1,10 @@
+{
+	"chain": 42220,
+	"address": "0x66803FB87aBd4aaC3cbB3fAd7C3aa01f6F3FB207",
+	"symbol": "Wormhole Bridged WETH (Celo)",
+	"name": "Wormhole Bridged WETH (Celo)",
+	"coingecko": "wormhole-bridged-weth-celo",
+	"sources": [
+		"coingecko"
+	]
+}

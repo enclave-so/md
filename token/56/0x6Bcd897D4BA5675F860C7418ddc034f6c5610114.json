@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x6Bcd897D4BA5675F860C7418ddc034f6c5610114",
+	"symbol": "Rainmaker Games",
+	"name": "Rainmaker Games",
+	"coingecko": "rainmaker-games",
+	"sources": [
+		"coingecko"
+	]
+}

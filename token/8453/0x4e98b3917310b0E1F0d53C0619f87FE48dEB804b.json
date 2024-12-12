@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x4e98b3917310b0E1F0d53C0619f87FE48dEB804b",
+	"symbol": "LOBO",
+	"name": "LOBO",
+	"coingecko": "lobo",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x404f83279c36e3E0e2771B7ae9f9B0B2B50EE27C",
+	"symbol": "Agro Global Token",
+	"name": "Agro Global Token",
+	"coingecko": "agro-global",
+	"sources": [
+		"coingecko"
+	]
+}

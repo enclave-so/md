@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xC5d27F27F08D1FD1E3EbBAa50b3442e6c0D50439",
+	"symbol": "RWAX",
+	"name": "RWAX",
+	"coingecko": "moon-app",
+	"sources": [
+		"coingecko"
+	]
+}

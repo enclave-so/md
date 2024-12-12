@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xd15C444F1199Ae72795eba15E8C1db44E47abF62",
+	"symbol": "TEN",
+	"name": "TEN",
+	"coingecko": "ten",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xe7498f332C35a346b486F3f6a68F05934E92A228",
+	"symbol": "NevaCoin",
+	"name": "NevaCoin",
+	"coingecko": "nevacoin",
+	"sources": [
+		"coingecko"
+	]
+}

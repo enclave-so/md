@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xA7380F5A0897820b7A385f27FE72E5469BAcC8d6",
+	"symbol": "Sora Doge",
+	"name": "Sora Doge",
+	"coingecko": "sora-doge",
+	"sources": [
+		"coingecko"
+	]
+}

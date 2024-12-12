@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xa67Ed14c65e7b717674F0d66570c13e77583a68f",
+	"symbol": "NexusMind",
+	"name": "NexusMind",
+	"coingecko": "nexusmind",
+	"sources": [
+		"coingecko"
+	]
+}

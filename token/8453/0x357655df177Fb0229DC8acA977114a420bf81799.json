@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x357655df177Fb0229DC8acA977114a420bf81799",
+	"symbol": "Royal Finance Coin",
+	"name": "Royal Finance Coin",
+	"coingecko": "royal-finance-coin",
+	"sources": [
+		"coingecko"
+	]
+}

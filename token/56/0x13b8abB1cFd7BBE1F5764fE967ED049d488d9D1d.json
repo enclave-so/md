@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x13b8abB1cFd7BBE1F5764fE967ED049d488d9D1d",
+	"symbol": "Joe-Yo Coin",
+	"name": "Joe-Yo Coin",
+	"coingecko": "joe-yo-coin",
+	"sources": [
+		"coingecko"
+	]
+}

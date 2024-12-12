@@ -1,0 +1,13 @@
+{
+	"chain": 56,
+	"address": "0x9e20461bc2c4c980f62f1B279D71734207a6A356",
+	"symbol": "OMNI",
+	"name": "OmniCat",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0x9e20461bc2c4c980f62f1B279D71734207a6A356.jpg",
+	"coingecko": "omnicat",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

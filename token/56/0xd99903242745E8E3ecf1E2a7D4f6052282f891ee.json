@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xd99903242745E8E3ecf1E2a7D4f6052282f891ee",
+	"symbol": "4D Twin Maps",
+	"name": "4D Twin Maps",
+	"coingecko": "4d-twin-maps-2",
+	"sources": [
+		"coingecko"
+	]
+}

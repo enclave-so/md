@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x1Dedb41feB0E12637a820C22c1B739ca2e75B48C",
+	"symbol": "BASE BOOK",
+	"name": "BASE BOOK",
+	"coingecko": "base-book",
+	"sources": [
+		"coingecko"
+	]
+}

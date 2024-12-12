@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x84aFB95ca5589674e02d227Bdd6DA7E7DCf31A3E",
+	"symbol": "Perpetuum Coin",
+	"name": "Perpetuum Coin",
+	"coingecko": "perpetuum-coin",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x5A76A56ad937335168b30dF3AA1327277421C6Ae",
+	"symbol": "Vela Token",
+	"name": "Vela Token",
+	"coingecko": "vela-token",
+	"sources": [
+		"coingecko"
+	]
+}

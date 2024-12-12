@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xEf80422317dfE797ef7cf51B043226987877D34a",
+	"symbol": "BicOnBase",
+	"name": "BicOnBase",
+	"coingecko": "biconbase",
+	"sources": [
+		"coingecko"
+	]
+}

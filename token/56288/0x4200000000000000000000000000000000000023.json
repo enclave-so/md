@@ -1,0 +1,11 @@
+{
+	"chain": 56288,
+	"address": "0x4200000000000000000000000000000000000023",
+	"symbol": "BNB",
+	"name": "Binance Coin",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/bnb.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

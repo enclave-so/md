@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xd39ba5680E5A59ED032054485A0a8D2D5a6A2366",
+	"symbol": "MCOIN",
+	"name": "MCOIN",
+	"coingecko": "mcoin-2",
+	"sources": [
+		"coingecko"
+	]
+}

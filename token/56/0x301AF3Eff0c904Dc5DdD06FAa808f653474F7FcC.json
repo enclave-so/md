@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x301AF3Eff0c904Dc5DdD06FAa808f653474F7FcC",
+	"symbol": "Unbound Finance",
+	"name": "Unbound Finance",
+	"coingecko": "unbound-finance",
+	"sources": [
+		"coingecko"
+	]
+}

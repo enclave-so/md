@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x52de0096836BadA37c83d6648E0615c40f2D9e51",
+	"symbol": "Baby Brett",
+	"name": "Baby Brett",
+	"coingecko": "baby-brett",
+	"sources": [
+		"coingecko"
+	]
+}

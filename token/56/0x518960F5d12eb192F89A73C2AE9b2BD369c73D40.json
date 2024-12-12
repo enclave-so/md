@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x518960F5d12eb192F89A73C2AE9b2BD369c73D40",
+	"symbol": "Kryptonite",
+	"name": "Kryptonite",
+	"coingecko": "kryptonite",
+	"sources": [
+		"coingecko"
+	]
+}

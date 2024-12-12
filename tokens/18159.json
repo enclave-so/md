@@ -1,0 +1,32 @@
+[
+	{
+		"chain": 18159,
+		"address": "0x90242D0A1BC0aaCE16585848e3a032949539bbcc",
+		"symbol": "AstroSpaces.io",
+		"name": "AstroSpaces.io",
+		"coingecko": "astrospaces-io",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 18159,
+		"address": "0x52b0B655fA096d6876A98DA8B55257bdF37BB386",
+		"symbol": "Proof Of Gorila",
+		"name": "Proof Of Gorila",
+		"coingecko": "proof-of-gorila",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 18159,
+		"address": "0xCfB1b493C954578E4230895CB693cAab6A12cd60",
+		"symbol": "Wizard Token",
+		"name": "Wizard Token",
+		"coingecko": "wizard-token-8fc587d7-4b79-4f5a-89c9-475f528c6d47",
+		"sources": [
+			"coingecko"
+		]
+	}
+]

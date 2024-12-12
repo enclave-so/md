@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0xF44Fb887334Fa17d2c5c0F970B5D320ab53eD557",
+	"symbol": "Starter.xyz",
+	"name": "Starter.xyz",
+	"coingecko": "bscstarter",
+	"sources": [
+		"coingecko"
+	]
+}

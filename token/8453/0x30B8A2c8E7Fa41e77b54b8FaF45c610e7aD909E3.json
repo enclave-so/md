@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x30B8A2c8E7Fa41e77b54b8FaF45c610e7aD909E3",
+	"symbol": "Morpho MAI",
+	"name": "Morpho MAI",
+	"coingecko": "morpho-mai",
+	"sources": [
+		"coingecko"
+	]
+}

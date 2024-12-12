@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xCEbEf3DF1F3C5Bfd90FDE603E71F31a53B11944D",
+	"symbol": "LitLab Games",
+	"name": "LitLab Games",
+	"coingecko": "litlab-games",
+	"sources": [
+		"coingecko"
+	]
+}

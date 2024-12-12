@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x09E889BB4D5b474f561db0491C38702F367A4e4d",
+	"symbol": "Clover Finance",
+	"name": "Clover Finance",
+	"coingecko": "clover-finance",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x1610bc33319e9398de5f57B33a5b184c806aD217",
+	"symbol": "Venus DOT",
+	"name": "Venus DOT",
+	"coingecko": "venus-dot",
+	"sources": [
+		"coingecko"
+	]
+}

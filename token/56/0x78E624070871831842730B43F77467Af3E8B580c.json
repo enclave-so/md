@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x78E624070871831842730B43F77467Af3E8B580c",
+	"symbol": "ALINK AI",
+	"name": "ALINK AI",
+	"coingecko": "alink-ai",
+	"sources": [
+		"coingecko"
+	]
+}

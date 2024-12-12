@@ -1,0 +1,13 @@
+{
+	"chain": 81457,
+	"address": "0xA4C7aA67189EC5623121c6C94Ec757DfeD932D4B",
+	"symbol": "MIA",
+	"name": "Mia",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/blast/0xA4C7aA67189EC5623121c6C94Ec757DfeD932D4B.jpg",
+	"coingecko": "mia",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

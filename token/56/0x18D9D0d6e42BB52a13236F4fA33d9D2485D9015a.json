@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x18D9D0d6e42BB52a13236F4fA33d9D2485D9015a",
+	"symbol": "Shira Cat",
+	"name": "Shira Cat",
+	"coingecko": "shira-cat",
+	"sources": [
+		"coingecko"
+	]
+}

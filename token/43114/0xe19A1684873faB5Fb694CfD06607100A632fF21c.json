@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0xe19A1684873faB5Fb694CfD06607100A632fF21c",
+	"symbol": "Baklava",
+	"name": "Baklava",
+	"coingecko": "baklava",
+	"sources": [
+		"coingecko"
+	]
+}

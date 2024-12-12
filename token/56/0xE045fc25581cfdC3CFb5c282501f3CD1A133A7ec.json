@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xE045fc25581cfdC3CFb5c282501f3CD1A133A7ec",
+	"symbol": "MatrixGPT",
+	"name": "MatrixGPT",
+	"coingecko": "matrixgpt",
+	"sources": [
+		"coingecko"
+	]
+}

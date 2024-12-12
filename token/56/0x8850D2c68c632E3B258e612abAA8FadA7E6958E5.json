@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x8850D2c68c632E3B258e612abAA8FadA7E6958E5",
+	"symbol": "Pig Finance",
+	"name": "Pig Finance",
+	"coingecko": "pig-finance",
+	"sources": [
+		"coingecko"
+	]
+}

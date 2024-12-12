@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xe6D6928E5Ce18aA1A6b3653993678f291CbE2b0a",
+	"symbol": "PoolUp",
+	"name": "PoolUp",
+	"coingecko": "poolup",
+	"sources": [
+		"coingecko"
+	]
+}

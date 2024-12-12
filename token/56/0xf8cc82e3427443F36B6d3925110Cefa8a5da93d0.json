@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xf8cc82e3427443F36B6d3925110Cefa8a5da93d0",
+	"symbol": "Rosa Inu",
+	"name": "Rosa Inu",
+	"coingecko": "rosa-inu",
+	"sources": [
+		"coingecko"
+	]
+}

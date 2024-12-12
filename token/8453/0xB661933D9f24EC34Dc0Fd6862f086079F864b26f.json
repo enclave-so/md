@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xB661933D9f24EC34Dc0Fd6862f086079F864b26f",
+	"symbol": "Base Street",
+	"name": "Base Street",
+	"coingecko": "base-street",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x73fBD93bFDa83B111DdC092aa3a4ca77fD30d380",
+	"symbol": "SophiaVerse",
+	"name": "SophiaVerse",
+	"coingecko": "sophiaverse",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x959229D94c9060552daea25AC17193bcA65D7884",
+	"symbol": "IOI Token",
+	"name": "IOI Token",
+	"coingecko": "ioi-token",
+	"sources": [
+		"coingecko"
+	]
+}

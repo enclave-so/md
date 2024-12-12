@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x7C3b00CB3B40Cc77d88329A58574E29cFA3cb9E2",
+	"symbol": "MintStakeShare",
+	"name": "MintStakeShare",
+	"coingecko": "mintstakeshare",
+	"sources": [
+		"coingecko"
+	]
+}

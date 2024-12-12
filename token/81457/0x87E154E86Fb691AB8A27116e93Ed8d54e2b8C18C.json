@@ -1,0 +1,10 @@
+{
+	"chain": 81457,
+	"address": "0x87E154E86Fb691AB8A27116e93Ed8d54e2b8C18C",
+	"symbol": "Titan Trading Token",
+	"name": "Titan Trading Token",
+	"coingecko": "titan-trading-token",
+	"sources": [
+		"coingecko"
+	]
+}

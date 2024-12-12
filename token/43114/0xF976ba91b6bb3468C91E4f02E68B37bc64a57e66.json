@@ -1,0 +1,11 @@
+{
+	"chain": 43114,
+	"address": "0xF976ba91b6bb3468C91E4f02E68B37bc64a57e66",
+	"symbol": "axlUSDT",
+	"name": "Axelar Wrapped USDT",
+	"decimals": 6,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0xF976ba91b6bb3468C91E4f02E68B37bc64a57e66.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

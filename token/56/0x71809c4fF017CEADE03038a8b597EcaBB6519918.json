@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x71809c4fF017CEADE03038a8b597EcaBB6519918",
+	"symbol": "Cockapoo",
+	"name": "Cockapoo",
+	"coingecko": "cockapoo",
+	"sources": [
+		"coingecko"
+	]
+}

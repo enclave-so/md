@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x8C80c06c6F8c00d2d6f3CFd6333ebB3759d66868",
+	"symbol": "SingSing",
+	"name": "SingSing",
+	"coingecko": "singsing",
+	"sources": [
+		"coingecko"
+	]
+}

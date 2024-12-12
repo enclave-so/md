@@ -1,0 +1,10 @@
+{
+	"chain": 5000,
+	"address": "0x8FE7176F0BF63358ad9490fd24Ac0bdB4Dac33a8",
+	"symbol": "Stable USDLR",
+	"name": "Stable USDLR",
+	"coingecko": "stable-usdlr",
+	"sources": [
+		"coingecko"
+	]
+}

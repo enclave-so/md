@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x735D8f3B6A5d2c96D0405230c50Eaf96794FbB88",
+	"symbol": "XPowermine.com XPOW",
+	"name": "XPowermine.com XPOW",
+	"coingecko": "xpowermine-com-xpow",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xd91d07e4949A858D29005D339610DB2402EF5b73",
+	"symbol": "DataGold",
+	"name": "DataGold",
+	"coingecko": "datagold",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xDe6E12BDB2062Dc48B409f0086219464a0C317a0",
+	"symbol": "NIAO",
+	"name": "NIAO",
+	"coingecko": "niao",
+	"sources": [
+		"coingecko"
+	]
+}

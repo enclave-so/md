@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x75aFA9915B2210Cd6329E820af0365e932bC1dd5",
+	"symbol": "SmurfsINU",
+	"name": "SmurfsINU",
+	"coingecko": "smurfsinu",
+	"sources": [
+		"coingecko"
+	]
+}

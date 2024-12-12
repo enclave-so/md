@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x132BBda4a40D4D6288be49B637EC2C113B5d7600",
+	"symbol": "DeFido",
+	"name": "DeFido",
+	"coingecko": "defino-base",
+	"sources": [
+		"coingecko"
+	]
+}

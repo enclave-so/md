@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xF4435cC8b478d54313F04c956882BE3D9aCf9F6F",
+	"symbol": "Lucha",
+	"name": "Lucha",
+	"coingecko": "lucha",
+	"sources": [
+		"coingecko"
+	]
+}

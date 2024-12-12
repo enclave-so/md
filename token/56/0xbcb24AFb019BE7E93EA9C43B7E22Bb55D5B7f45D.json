@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xbcb24AFb019BE7E93EA9C43B7E22Bb55D5B7f45D",
+	"symbol": "BSCS",
+	"name": "BSCS",
+	"coingecko": "bsc-station",
+	"sources": [
+		"coingecko"
+	]
+}

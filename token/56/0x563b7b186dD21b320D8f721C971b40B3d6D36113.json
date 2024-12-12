@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x563b7b186dD21b320D8f721C971b40B3d6D36113",
+	"symbol": "NFT Combining",
+	"name": "NFT Combining",
+	"coingecko": "nft-combining",
+	"sources": [
+		"coingecko"
+	]
+}

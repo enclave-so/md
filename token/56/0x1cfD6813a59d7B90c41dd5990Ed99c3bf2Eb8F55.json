@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x1cfD6813a59d7B90c41dd5990Ed99c3bf2Eb8F55",
+	"symbol": "The Corgi of PolkaBridge",
+	"name": "The Corgi of PolkaBridge",
+	"coingecko": "the-corgi-of-polkabridge",
+	"sources": [
+		"coingecko"
+	]
+}

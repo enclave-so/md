@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xCa72827a3D211CfD8F6b00Ac98824872b72CAb49",
+	"symbol": "Cygnus Finance Global USD",
+	"name": "Cygnus Finance Global USD",
+	"coingecko": "cygnus-finance-global-usd",
+	"sources": [
+		"coingecko"
+	]
+}

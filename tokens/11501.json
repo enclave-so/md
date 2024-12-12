@@ -1,0 +1,42 @@
+[
+	{
+		"chain": 11501,
+		"address": "0xd88C987cCd9e1BC1a6Cb36F8e24DA7fE3222aD90",
+		"symbol": "General-Layer BTC",
+		"name": "General-Layer BTC",
+		"coingecko": "general-layer-btc",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 11501,
+		"address": "0xF2692468666E459D87052f68aE474E36C1a34fbB",
+		"symbol": "Satoshi Stablecoin",
+		"name": "Satoshi Stablecoin",
+		"coingecko": "satoshi-stablecoin",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 11501,
+		"address": "0x26bda683F874e7AE3e3A5d3fad44Bcb82a7c107C",
+		"symbol": "Bido Staked Bitcoin",
+		"name": "Bido Staked Bitcoin",
+		"coingecko": "bido-staked-bitcoin",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 11501,
+		"address": "0xB5136FEba197f5fF4B765E5b50c74db717796dcD",
+		"symbol": "Bridged Wrapped BTC (BEVM)",
+		"name": "Bridged Wrapped BTC (BEVM)",
+		"coingecko": "bridged-wrapped-btc-bevm",
+		"sources": [
+			"coingecko"
+		]
+	}
+]

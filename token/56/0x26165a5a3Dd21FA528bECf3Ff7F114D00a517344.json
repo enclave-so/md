@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x26165a5a3Dd21FA528bECf3Ff7F114D00a517344",
+	"symbol": "Meta BSC",
+	"name": "Meta BSC",
+	"coingecko": "meta-bsc",
+	"sources": [
+		"coingecko"
+	]
+}

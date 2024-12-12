@@ -1,0 +1,13 @@
+{
+	"chain": 56,
+	"address": "0x16939ef78684453bfDFb47825F8a5F714f12623a",
+	"symbol": "XTZ",
+	"name": "Tezos Token",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/xtz.jpg",
+	"coingecko": "binance-peg-tezos-token",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

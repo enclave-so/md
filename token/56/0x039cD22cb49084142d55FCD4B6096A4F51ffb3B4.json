@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x039cD22cb49084142d55FCD4B6096A4F51ffb3B4",
+	"symbol": "MoveZ",
+	"name": "MoveZ",
+	"coingecko": "movez",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 82,
+	"address": "0x8Df95e66Cb0eF38F91D2776DA3c921768982fBa0",
+	"symbol": "VoltSwap",
+	"name": "VoltSwap",
+	"coingecko": "voltswap",
+	"sources": [
+		"coingecko"
+	]
+}

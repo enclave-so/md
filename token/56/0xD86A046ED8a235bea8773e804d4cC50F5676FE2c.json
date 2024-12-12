@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xD86A046ED8a235bea8773e804d4cC50F5676FE2c",
+	"symbol": "MultiMoney.Global",
+	"name": "MultiMoney.Global",
+	"coingecko": "multimoney-global",
+	"sources": [
+		"coingecko"
+	]
+}

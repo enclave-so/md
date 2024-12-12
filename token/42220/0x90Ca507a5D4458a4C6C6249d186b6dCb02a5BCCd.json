@@ -1,0 +1,11 @@
+{
+	"chain": 42220,
+	"address": "0x90Ca507a5D4458a4C6C6249d186b6dCb02a5BCCd",
+	"symbol": "DAI",
+	"name": "Optics Dai v2",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/celo/assets/0x90Ca507a5D4458a4C6C6249d186b6dCb02a5BCCd/logo.png",
+	"sources": [
+		"sushiswap"
+	]
+}

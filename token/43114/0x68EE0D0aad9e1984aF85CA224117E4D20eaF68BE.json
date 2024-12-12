@@ -1,0 +1,13 @@
+{
+	"chain": 43114,
+	"address": "0x68EE0D0aad9e1984aF85CA224117E4D20eaF68BE",
+	"symbol": "ROY",
+	"name": "Royale",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0x68EE0D0aad9e1984aF85CA224117E4D20eaF68BE.jpg",
+	"coingecko": "crypto-royale",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x3e098C23DCFBbE0A3f468A6bEd1cf1a59DC1770D",
+	"symbol": "BountyKinds YU",
+	"name": "BountyKinds YU",
+	"coingecko": "bountykinds-yu",
+	"sources": [
+		"coingecko"
+	]
+}

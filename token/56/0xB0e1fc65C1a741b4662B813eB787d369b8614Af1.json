@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xB0e1fc65C1a741b4662B813eB787d369b8614Af1",
+	"symbol": "Impossible Finance",
+	"name": "Impossible Finance",
+	"coingecko": "impossible-finance",
+	"sources": [
+		"coingecko"
+	]
+}

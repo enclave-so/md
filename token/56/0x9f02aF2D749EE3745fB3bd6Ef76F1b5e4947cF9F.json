@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x9f02aF2D749EE3745fB3bd6Ef76F1b5e4947cF9F",
+	"symbol": "Pepe Prophet",
+	"name": "Pepe Prophet",
+	"coingecko": "pepe-prophet",
+	"sources": [
+		"coingecko"
+	]
+}

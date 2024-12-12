@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x9c2B1B3780A8B36B695f0b2781668664aC1Bf25A",
+	"symbol": "SpookyShiba",
+	"name": "SpookyShiba",
+	"coingecko": "spookyshiba-2",
+	"sources": [
+		"coingecko"
+	]
+}

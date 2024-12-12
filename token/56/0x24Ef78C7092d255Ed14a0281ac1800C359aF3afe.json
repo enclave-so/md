@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x24Ef78C7092d255Ed14a0281ac1800C359aF3afe",
+	"symbol": "Rabbit Wallet",
+	"name": "Rabbit Wallet",
+	"coingecko": "rabbit-wallet",
+	"sources": [
+		"coingecko"
+	]
+}

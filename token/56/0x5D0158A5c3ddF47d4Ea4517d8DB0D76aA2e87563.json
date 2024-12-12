@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x5D0158A5c3ddF47d4Ea4517d8DB0D76aA2e87563",
+	"symbol": "Forj",
+	"name": "Forj",
+	"coingecko": "bondly",
+	"sources": [
+		"coingecko"
+	]
+}

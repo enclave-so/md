@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xB003C68917BaB76812797d1b8056822f48E2e4fe",
+	"symbol": "Yummy",
+	"name": "Yummy",
+	"coingecko": "yummy",
+	"sources": [
+		"coingecko"
+	]
+}

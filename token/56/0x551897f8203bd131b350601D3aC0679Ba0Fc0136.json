@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x551897f8203bd131b350601D3aC0679Ba0Fc0136",
+	"symbol": "NFPrompt",
+	"name": "NFPrompt",
+	"coingecko": "nfprompt-token",
+	"sources": [
+		"coingecko"
+	]
+}

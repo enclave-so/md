@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x57f2bE3E97E7653A2e6d6BdddA40160D202D5305",
+	"symbol": "KARAT Galaxy",
+	"name": "KARAT Galaxy",
+	"coingecko": "karat-galaxy",
+	"sources": [
+		"coingecko"
+	]
+}

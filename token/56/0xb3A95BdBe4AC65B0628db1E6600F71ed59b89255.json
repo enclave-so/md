@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xb3A95BdBe4AC65B0628db1E6600F71ed59b89255",
+	"symbol": "Unityventures",
+	"name": "Unityventures",
+	"coingecko": "unityventures",
+	"sources": [
+		"coingecko"
+	]
+}

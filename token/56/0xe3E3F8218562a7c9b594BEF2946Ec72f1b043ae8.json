@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xe3E3F8218562a7c9b594BEF2946Ec72f1b043ae8",
+	"symbol": "Kyberdyne",
+	"name": "Kyberdyne",
+	"coingecko": "kyberdyne",
+	"sources": [
+		"coingecko"
+	]
+}

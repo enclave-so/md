@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x99298C6bE0e8ec9E56B7A2bE5850aBE1Fc109D94",
+	"symbol": "Degen Capital by Virtuals",
+	"name": "Degen Capital by Virtuals",
+	"coingecko": "degen-capital-by-virtuals",
+	"sources": [
+		"coingecko"
+	]
+}

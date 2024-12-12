@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xe8993eA85B9AA3E864fEf4F7685966c485546161",
+	"symbol": "Baby Squid Game",
+	"name": "Baby Squid Game",
+	"coingecko": "baby-squid-game",
+	"sources": [
+		"coingecko"
+	]
+}

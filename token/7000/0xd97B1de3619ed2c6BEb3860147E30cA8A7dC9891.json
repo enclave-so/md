@@ -1,0 +1,13 @@
+{
+	"chain": 7000,
+	"address": "0xd97B1de3619ed2c6BEb3860147E30cA8A7dC9891",
+	"symbol": "ETH.ETH",
+	"name": "ZetaChain ZRC20 ETH-eth_mainnet",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/zetachain/0xd97b1de3619ed2c6beb3860147e30ca8a7dc9891.jpg",
+	"coingecko": "zetachain-eth-eth",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

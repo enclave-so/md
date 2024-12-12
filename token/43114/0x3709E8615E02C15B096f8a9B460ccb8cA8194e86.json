@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x3709E8615E02C15B096f8a9B460ccb8cA8194e86",
+	"symbol": "Vee Finance",
+	"name": "Vee Finance",
+	"coingecko": "vee-finance",
+	"sources": [
+		"coingecko"
+	]
+}

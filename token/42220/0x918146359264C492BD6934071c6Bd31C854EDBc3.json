@@ -1,0 +1,10 @@
+{
+	"chain": 42220,
+	"address": "0x918146359264C492BD6934071c6Bd31C854EDBc3",
+	"symbol": "Moola Celo Dollars",
+	"name": "Moola Celo Dollars",
+	"coingecko": "moola-celo-dollars",
+	"sources": [
+		"coingecko"
+	]
+}

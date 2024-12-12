@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x304B5845b9114182ECb4495Be4C91a273b74B509",
+	"symbol": "YieldNest Restaked BNB",
+	"name": "YieldNest Restaked BNB",
+	"coingecko": "yieldnest-restaked-bnb",
+	"sources": [
+		"coingecko"
+	]
+}

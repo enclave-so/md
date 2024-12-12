@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x3347453Ced85bd288D783d85cDEC9b01Ab90f9D8",
+	"symbol": "FriendTech33",
+	"name": "FriendTech33",
+	"coingecko": "friendtech33",
+	"sources": [
+		"coingecko"
+	]
+}

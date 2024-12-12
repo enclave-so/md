@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xF086206423f9E9686192beE98C042131D7BC1336",
+	"symbol": "Dognus",
+	"name": "Dognus",
+	"coingecko": "dognus",
+	"sources": [
+		"coingecko"
+	]
+}

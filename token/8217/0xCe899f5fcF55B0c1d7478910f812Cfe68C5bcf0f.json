@@ -1,0 +1,10 @@
+{
+	"chain": 8217,
+	"address": "0xCe899f5fcF55B0c1d7478910f812Cfe68C5bcf0f",
+	"symbol": "Angry Bulls Club",
+	"name": "Angry Bulls Club",
+	"coingecko": "angry-bulls-club",
+	"sources": [
+		"coingecko"
+	]
+}

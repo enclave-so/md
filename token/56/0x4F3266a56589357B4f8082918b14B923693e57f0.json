@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x4F3266a56589357B4f8082918b14B923693e57f0",
+	"symbol": "Liquid Collectibles",
+	"name": "Liquid Collectibles",
+	"coingecko": "liquid-collectibles",
+	"sources": [
+		"coingecko"
+	]
+}

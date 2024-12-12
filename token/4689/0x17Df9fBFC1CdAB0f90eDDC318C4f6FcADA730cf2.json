@@ -1,0 +1,10 @@
+{
+	"chain": 4689,
+	"address": "0x17Df9fBFC1CdAB0f90eDDC318C4f6FcADA730cf2",
+	"symbol": "Game Fantasy",
+	"name": "Game Fantasy",
+	"coingecko": "game-fantasy-token",
+	"sources": [
+		"coingecko"
+	]
+}

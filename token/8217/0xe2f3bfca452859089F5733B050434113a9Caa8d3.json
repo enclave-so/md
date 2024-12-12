@@ -1,0 +1,10 @@
+{
+	"chain": 8217,
+	"address": "0xe2f3bfca452859089F5733B050434113a9Caa8d3",
+	"symbol": "Klaytu",
+	"name": "Klaytu",
+	"coingecko": "klaytu",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x62760e76DCe6b500349EC5F6119228d047913350",
+	"symbol": "Tomwifhat",
+	"name": "Tomwifhat",
+	"coingecko": "tomwifhat",
+	"sources": [
+		"coingecko"
+	]
+}

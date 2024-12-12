@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x0DFCb45EAE071B3b846E220560Bbcdd958414d78",
+	"symbol": "Libero Financial",
+	"name": "Libero Financial",
+	"coingecko": "libero-financial",
+	"sources": [
+		"coingecko"
+	]
+}

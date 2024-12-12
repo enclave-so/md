@@ -1,0 +1,10 @@
+{
+	"chain": 8217,
+	"address": "0x42952B873ed6f7f0A7E4992E2a9818E3A9001995",
+	"symbol": "Lair Staked KAIA",
+	"name": "Lair Staked KAIA",
+	"coingecko": "lair-staked-kaia",
+	"sources": [
+		"coingecko"
+	]
+}

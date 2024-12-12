@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x22DC834C3Ff3e45f484bF24B9B07b851B981900f",
+	"symbol": "Smudge Cat",
+	"name": "Smudge Cat",
+	"coingecko": "smudge-cat",
+	"sources": [
+		"coingecko"
+	]
+}

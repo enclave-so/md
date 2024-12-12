@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xC227717ef4Ae4D982E14789eB33bA942243c3FEe",
+	"symbol": "Mozaic",
+	"name": "Mozaic",
+	"coingecko": "mozaic",
+	"sources": [
+		"coingecko"
+	]
+}

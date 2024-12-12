@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x9ef1139e6B420cc929Dd912a5a7Adeced6f12e91",
+	"symbol": "Force",
+	"name": "Force",
+	"coingecko": "force-3",
+	"sources": [
+		"coingecko"
+	]
+}

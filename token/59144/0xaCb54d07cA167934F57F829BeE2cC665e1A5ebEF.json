@@ -1,0 +1,10 @@
+{
+	"chain": 59144,
+	"address": "0xaCb54d07cA167934F57F829BeE2cC665e1A5ebEF",
+	"symbol": "Croak",
+	"name": "Croak",
+	"coingecko": "croak_on_linea",
+	"sources": [
+		"coingecko"
+	]
+}

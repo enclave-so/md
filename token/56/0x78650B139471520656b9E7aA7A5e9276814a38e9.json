@@ -1,0 +1,13 @@
+{
+	"chain": 56,
+	"address": "0x78650B139471520656b9E7aA7A5e9276814a38e9",
+	"symbol": "BTCST",
+	"name": "Standard BTC Hashrate Token",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/13636/small/btcst-coin.png?1610501705",
+	"coingecko": "btc-standard-hashrate-token",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

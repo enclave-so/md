@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xE997017e0Cb0CEB503565F181e9ea922CD979c35",
+	"symbol": "LimeWire",
+	"name": "LimeWire",
+	"coingecko": "limewire-token",
+	"sources": [
+		"coingecko"
+	]
+}

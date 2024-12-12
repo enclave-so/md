@@ -1,0 +1,10 @@
+{
+	"chain": 810180,
+	"address": "0x000000000000000000000000000000000000800A",
+	"symbol": "Nova Merged ETH (zkLink)",
+	"name": "Nova Merged ETH (zkLink)",
+	"coingecko": "nova-eth",
+	"sources": [
+		"coingecko"
+	]
+}

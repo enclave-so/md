@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x1bA8D3C4c219B124d351F603060663BD1bcd9bbF",
+	"symbol": "Tornado Cash",
+	"name": "Tornado Cash",
+	"coingecko": "tornado-cash",
+	"sources": [
+		"coingecko"
+	]
+}

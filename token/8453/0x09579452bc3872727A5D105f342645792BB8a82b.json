@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x09579452bc3872727A5D105f342645792BB8a82b",
+	"symbol": "Aardvark",
+	"name": "Aardvark",
+	"coingecko": "aardvark-2",
+	"sources": [
+		"coingecko"
+	]
+}

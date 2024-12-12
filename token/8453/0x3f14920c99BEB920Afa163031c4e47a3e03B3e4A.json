@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x3f14920c99BEB920Afa163031c4e47a3e03B3e4A",
+	"symbol": "/send",
+	"name": "/send",
+	"coingecko": "send-token",
+	"sources": [
+		"coingecko"
+	]
+}

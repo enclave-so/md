@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x15aC90165f8B45A80534228BdCB124A011F62Fee",
+	"symbol": "MOEW",
+	"name": "MOEW",
+	"coingecko": "moew",
+	"sources": [
+		"coingecko"
+	]
+}

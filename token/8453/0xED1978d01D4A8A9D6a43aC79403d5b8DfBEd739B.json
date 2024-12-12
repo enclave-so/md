@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xED1978d01D4A8A9D6a43aC79403d5b8DfBEd739B",
+	"symbol": "Sandwich Cat",
+	"name": "Sandwich Cat",
+	"coingecko": "sandwich-cat",
+	"sources": [
+		"coingecko"
+	]
+}

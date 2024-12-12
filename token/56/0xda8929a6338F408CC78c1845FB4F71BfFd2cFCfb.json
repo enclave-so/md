@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xda8929a6338F408CC78c1845FB4F71BfFd2cFCfb",
+	"symbol": "Hillstone Finance",
+	"name": "Hillstone Finance",
+	"coingecko": "hillstone",
+	"sources": [
+		"coingecko"
+	]
+}

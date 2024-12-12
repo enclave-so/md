@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x7c6a937943F135283A2561938DE2200994a8f7a7",
+	"symbol": "Republic Note",
+	"name": "Republic Note",
+	"coingecko": "republic-note",
+	"sources": [
+		"coingecko"
+	]
+}

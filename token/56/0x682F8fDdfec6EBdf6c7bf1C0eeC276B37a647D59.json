@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x682F8fDdfec6EBdf6c7bf1C0eeC276B37a647D59",
+	"symbol": "GigaChadGPT",
+	"name": "GigaChadGPT",
+	"coingecko": "gigachadgpt",
+	"sources": [
+		"coingecko"
+	]
+}

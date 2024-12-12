@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x4ad006e61d77453ce99F6e24ba45d59E1C194644",
+	"symbol": "EstateX",
+	"name": "EstateX",
+	"coingecko": "estatex",
+	"sources": [
+		"coingecko"
+	]
+}

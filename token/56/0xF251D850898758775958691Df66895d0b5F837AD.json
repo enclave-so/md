@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xF251D850898758775958691Df66895d0b5F837AD",
+	"symbol": "Satoshi Panda",
+	"name": "Satoshi Panda",
+	"coingecko": "satoshi-panda",
+	"sources": [
+		"coingecko"
+	]
+}

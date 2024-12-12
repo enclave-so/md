@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x0465aad9da170798433F4aB7fa7Ec8b9b9bf0Bb1",
+	"symbol": "mPendle",
+	"name": "mPendle",
+	"coingecko": "mpendle",
+	"sources": [
+		"coingecko"
+	]
+}

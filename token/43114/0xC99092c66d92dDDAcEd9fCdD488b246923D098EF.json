@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0xC99092c66d92dDDAcEd9fCdD488b246923D098EF",
+	"symbol": "CROW",
+	"name": "CROW",
+	"coingecko": "night-crows",
+	"sources": [
+		"coingecko"
+	]
+}

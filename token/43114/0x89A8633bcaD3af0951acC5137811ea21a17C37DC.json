@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x89A8633bcaD3af0951acC5137811ea21a17C37DC",
+	"symbol": "Lama",
+	"name": "Lama",
+	"coingecko": "avaxlama",
+	"sources": [
+		"coingecko"
+	]
+}

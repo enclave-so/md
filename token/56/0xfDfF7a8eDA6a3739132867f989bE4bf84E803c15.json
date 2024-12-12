@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xfDfF7a8eDA6a3739132867f989bE4bf84E803c15",
+	"symbol": "New Year",
+	"name": "New Year",
+	"coingecko": "new-year-token",
+	"sources": [
+		"coingecko"
+	]
+}

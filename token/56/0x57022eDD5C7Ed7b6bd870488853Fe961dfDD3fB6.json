@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x57022eDD5C7Ed7b6bd870488853Fe961dfDD3fB6",
+	"symbol": "Octaplex Network",
+	"name": "Octaplex Network",
+	"coingecko": "octaplex-network",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x02806435d4B7c1dF6FC2df629488a1623b589396",
+	"symbol": "Iotec Finance",
+	"name": "Iotec Finance",
+	"coingecko": "iotec-finance",
+	"sources": [
+		"coingecko"
+	]
+}

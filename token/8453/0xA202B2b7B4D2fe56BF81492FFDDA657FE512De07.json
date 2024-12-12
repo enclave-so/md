@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xA202B2b7B4D2fe56BF81492FFDDA657FE512De07",
+	"symbol": "Baby Miggles",
+	"name": "Baby Miggles",
+	"coingecko": "baby-miggles",
+	"sources": [
+		"coingecko"
+	]
+}

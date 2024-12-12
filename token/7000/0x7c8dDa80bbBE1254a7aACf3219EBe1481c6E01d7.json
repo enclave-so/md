@@ -1,0 +1,13 @@
+{
+	"chain": 7000,
+	"address": "0x7c8dDa80bbBE1254a7aACf3219EBe1481c6E01d7",
+	"symbol": "USDT.ETH",
+	"name": "ZetaChain ZRC20 USDT on ETH",
+	"decimals": 6,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/zetachain/0x7c8dDa80bbBE1254a7aACf3219EBe1481c6E01d7.jpg",
+	"coingecko": "zetachain-bridged-usdt-eth-zetachain",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"chain": 42220,
+	"address": "0xcebA9300f2b948710d2653dD7B07f33A8B32118C",
+	"symbol": "USDC",
+	"name": "USD Coin",
+	"decimals": 6,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/celo/0xcebA9300f2b948710d2653dD7B07f33A8B32118C.jpg",
+	"coingecko": "usd-coin",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

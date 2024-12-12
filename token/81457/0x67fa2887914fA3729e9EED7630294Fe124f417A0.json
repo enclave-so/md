@@ -1,0 +1,10 @@
+{
+	"chain": 81457,
+	"address": "0x67fa2887914fA3729e9EED7630294Fe124f417A0",
+	"symbol": "Crypto Valleys YIELD Token",
+	"name": "Crypto Valleys YIELD Token",
+	"coingecko": "crypto-valleys-yield-token",
+	"sources": [
+		"coingecko"
+	]
+}

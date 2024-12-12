@@ -1,0 +1,10 @@
+{
+	"chain": 59144,
+	"address": "0x1bE3735Dd0C0Eb229fB11094B6c277192349EBbf",
+	"symbol": "LUBE",
+	"name": "LUBE",
+	"coingecko": "lube",
+	"sources": [
+		"coingecko"
+	]
+}

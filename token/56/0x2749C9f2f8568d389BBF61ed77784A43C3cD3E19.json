@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x2749C9f2f8568d389BBF61ed77784A43C3cD3E19",
+	"symbol": "Liquidus",
+	"name": "Liquidus",
+	"coingecko": "liquidus-2",
+	"sources": [
+		"coingecko"
+	]
+}

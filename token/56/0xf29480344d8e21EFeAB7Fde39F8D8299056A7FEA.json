@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xf29480344d8e21EFeAB7Fde39F8D8299056A7FEA",
+	"symbol": "TBCC",
+	"name": "TBCC",
+	"coingecko": "tbcc",
+	"sources": [
+		"coingecko"
+	]
+}

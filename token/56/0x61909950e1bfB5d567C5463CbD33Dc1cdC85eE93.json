@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x61909950e1bfB5d567C5463CbD33Dc1cdC85eE93",
+	"symbol": "Lithosphere",
+	"name": "Lithosphere",
+	"coingecko": "lithosphere",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xCE7de646e7208a4Ef112cb6ed5038FA6cC6b12e3",
+	"symbol": "TRON (BSC)",
+	"name": "TRON (BSC)",
+	"coingecko": "tron-bsc",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x420697291F6cE9Fbb34E9fedDD61868cA2F81F5C",
+	"symbol": "MONEYBEE",
+	"name": "MONEYBEE",
+	"coingecko": "moneybee",
+	"sources": [
+		"coingecko"
+	]
+}

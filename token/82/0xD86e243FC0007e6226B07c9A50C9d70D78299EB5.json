@@ -1,0 +1,10 @@
+{
+	"chain": 82,
+	"address": "0xD86e243FC0007e6226B07c9A50C9d70D78299EB5",
+	"symbol": "Meter Passport Bridged USDC (Meter)",
+	"name": "Meter Passport Bridged USDC (Meter)",
+	"coingecko": "meter-passport-bridged-usdc-meter",
+	"sources": [
+		"coingecko"
+	]
+}

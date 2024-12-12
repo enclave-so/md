@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x8761155c814c807cD3CcD15B256D69D3C10f198C",
+	"symbol": "Joystream",
+	"name": "Joystream",
+	"coingecko": "joystream",
+	"sources": [
+		"coingecko"
+	]
+}

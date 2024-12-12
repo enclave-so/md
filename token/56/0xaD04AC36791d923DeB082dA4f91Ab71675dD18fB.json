@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xaD04AC36791d923DeB082dA4f91Ab71675dD18fB",
+	"symbol": "Meli Games",
+	"name": "Meli Games",
+	"coingecko": "meli-games",
+	"sources": [
+		"coingecko"
+	]
+}

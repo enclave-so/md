@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xde301D6a2569aEfcFe271B9d98f318BAee1D30a4",
+	"symbol": "Luna Rush",
+	"name": "Luna Rush",
+	"coingecko": "luna-rush",
+	"sources": [
+		"coingecko"
+	]
+}

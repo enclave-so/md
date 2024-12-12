@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x1a43287cBfCc5f35082e6E2Aa98e5B474FE7Bd4e",
+	"symbol": "Athena by Virtuals",
+	"name": "Athena by Virtuals",
+	"coingecko": "athena-by-virtuals",
+	"sources": [
+		"coingecko"
+	]
+}

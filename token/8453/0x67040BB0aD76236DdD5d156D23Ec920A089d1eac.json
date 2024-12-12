@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x67040BB0aD76236DdD5d156D23Ec920A089d1eac",
+	"symbol": "lower",
+	"name": "lower",
+	"coingecko": "lower",
+	"sources": [
+		"coingecko"
+	]
+}

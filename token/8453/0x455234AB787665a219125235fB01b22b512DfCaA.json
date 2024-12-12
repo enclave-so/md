@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x455234AB787665a219125235fB01b22b512DfCaA",
+	"symbol": "DOSE",
+	"name": "DOSE",
+	"coingecko": "dose-token",
+	"sources": [
+		"coingecko"
+	]
+}

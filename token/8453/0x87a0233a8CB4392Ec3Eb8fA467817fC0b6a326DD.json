@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x87a0233a8CB4392Ec3Eb8fA467817fC0b6a326DD",
+	"symbol": "Cats Do Something",
+	"name": "Cats Do Something",
+	"coingecko": "cats-do-something",
+	"sources": [
+		"coingecko"
+	]
+}

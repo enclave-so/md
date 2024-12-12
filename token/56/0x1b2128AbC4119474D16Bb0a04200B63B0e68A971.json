@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x1b2128AbC4119474D16Bb0a04200B63B0e68A971",
+	"symbol": "Connex",
+	"name": "Connex",
+	"coingecko": "connex",
+	"sources": [
+		"coingecko"
+	]
+}

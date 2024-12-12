@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xdDaE5F343b7768eAdaAD88A7f520fFf54F198211",
+	"symbol": "Bitcoiva",
+	"name": "Bitcoiva",
+	"coingecko": "bitcoiva",
+	"sources": [
+		"coingecko"
+	]
+}

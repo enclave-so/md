@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xA0d96fD642156FC7E964949642257b3572f10cD6",
+	"symbol": "Bloktopia",
+	"name": "Bloktopia",
+	"coingecko": "bloktopia",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"chain": 42220,
+	"address": "0x00Be915B9dCf56a3CBE739D9B9c202ca692409EC",
+	"symbol": "UBE",
+	"name": "Ubeswap",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/ube.jpg",
+	"coingecko": "ubeswap",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

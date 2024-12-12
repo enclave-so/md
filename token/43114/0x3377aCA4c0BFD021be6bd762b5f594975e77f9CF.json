@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x3377aCA4c0BFD021be6bd762b5f594975e77f9CF",
+	"symbol": "Cat Wif Hands",
+	"name": "Cat Wif Hands",
+	"coingecko": "cat-wif-hands",
+	"sources": [
+		"coingecko"
+	]
+}

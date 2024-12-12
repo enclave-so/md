@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x09F29E2acDB76a831668B03Ce2e3ad7bb41AaA5c",
+	"symbol": "Baseape",
+	"name": "Baseape",
+	"coingecko": "baseape",
+	"sources": [
+		"coingecko"
+	]
+}

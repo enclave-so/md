@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xF3708859C178709d5319ad5405Bc81511B72b9e9",
+	"symbol": "Aethernet",
+	"name": "Aethernet",
+	"coingecko": "aethernet",
+	"sources": [
+		"coingecko"
+	]
+}

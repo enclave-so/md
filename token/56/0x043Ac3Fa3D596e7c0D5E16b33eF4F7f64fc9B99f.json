@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x043Ac3Fa3D596e7c0D5E16b33eF4F7f64fc9B99f",
+	"symbol": "Meta Bitcoin Super",
+	"name": "Meta Bitcoin Super",
+	"coingecko": "meta-bitcoin-super",
+	"sources": [
+		"coingecko"
+	]
+}

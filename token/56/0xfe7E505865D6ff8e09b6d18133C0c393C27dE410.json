@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xfe7E505865D6ff8e09b6d18133C0c393C27dE410",
+	"symbol": "Honorarium",
+	"name": "Honorarium",
+	"coingecko": "honorarium",
+	"sources": [
+		"coingecko"
+	]
+}

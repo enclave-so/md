@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xe9507980A8Bd4451aC0e7F6Fcd3eC98b9Ac83b52",
+	"symbol": "WAIFU",
+	"name": "WAIFU",
+	"coingecko": "waifu-2",
+	"sources": [
+		"coingecko"
+	]
+}

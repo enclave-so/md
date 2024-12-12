@@ -1,0 +1,10 @@
+{
+	"chain": 81457,
+	"address": "0x51707DC661630F8FD624b985FA6eF4f1d4D919Db",
+	"symbol": "Unvest",
+	"name": "Unvest",
+	"coingecko": "unvest",
+	"sources": [
+		"coingecko"
+	]
+}

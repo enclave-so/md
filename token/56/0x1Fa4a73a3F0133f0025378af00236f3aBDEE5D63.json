@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x1Fa4a73a3F0133f0025378af00236f3aBDEE5D63",
+	"symbol": "Binance-Peg NEAR Protocol",
+	"name": "Binance-Peg NEAR Protocol",
+	"coingecko": "binance-peg-near-protocol",
+	"sources": [
+		"coingecko"
+	]
+}

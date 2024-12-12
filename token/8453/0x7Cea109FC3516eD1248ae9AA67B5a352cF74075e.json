@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x7Cea109FC3516eD1248ae9AA67B5a352cF74075e",
+	"symbol": "Nova DAO",
+	"name": "Nova DAO",
+	"coingecko": "nova-dao",
+	"sources": [
+		"coingecko"
+	]
+}

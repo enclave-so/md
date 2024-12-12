@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x6746E37A756DA9E34f0BBF1C0495784Ba33b79B4",
+	"symbol": "EFUN",
+	"name": "EFUN",
+	"coingecko": "efun",
+	"sources": [
+		"coingecko"
+	]
+}

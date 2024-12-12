@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xD98832e8a59156AcBEe4744B9A94A9989a728f36",
+	"symbol": "AgentAIgo",
+	"name": "AgentAIgo",
+	"coingecko": "agentaigo",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x7c63F96fEAFACD84e75a594C00faC3693386FBf0",
+	"symbol": "Australian Safe Shepherd",
+	"name": "Australian Safe Shepherd",
+	"coingecko": "australian-safe-shepherd",
+	"sources": [
+		"coingecko"
+	]
+}

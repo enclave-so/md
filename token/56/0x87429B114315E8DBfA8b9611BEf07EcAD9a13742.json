@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x87429B114315E8DBfA8b9611BEf07EcAD9a13742",
+	"symbol": "Gokuswap",
+	"name": "Gokuswap",
+	"coingecko": "gokuswap",
+	"sources": [
+		"coingecko"
+	]
+}

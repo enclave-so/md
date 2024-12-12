@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x548f93779fBC992010C07467cBaf329DD5F059B7",
+	"symbol": "BMX",
+	"name": "BMX",
+	"coingecko": "bmx",
+	"sources": [
+		"coingecko"
+	]
+}

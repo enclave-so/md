@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xf26d362a14399ADabD5d2dFbbB876039529165d8",
+	"symbol": "fool",
+	"name": "fool",
+	"coingecko": "fool",
+	"sources": [
+		"coingecko"
+	]
+}

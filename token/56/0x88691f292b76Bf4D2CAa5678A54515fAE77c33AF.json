@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x88691f292b76Bf4D2CAa5678A54515fAE77c33AF",
+	"symbol": "Xpense",
+	"name": "Xpense",
+	"coingecko": "xpense-2",
+	"sources": [
+		"coingecko"
+	]
+}

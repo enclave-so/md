@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x105DD4727C09feAcE2158Ed125Fa45382058df6C",
+	"symbol": "CATA BSC",
+	"name": "CATA BSC",
+	"coingecko": "cata-bsc",
+	"sources": [
+		"coingecko"
+	]
+}

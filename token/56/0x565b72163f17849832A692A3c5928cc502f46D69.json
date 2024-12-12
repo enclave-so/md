@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x565b72163f17849832A692A3c5928cc502f46D69",
+	"symbol": "Hunny Finance",
+	"name": "Hunny Finance",
+	"coingecko": "pancake-hunny",
+	"sources": [
+		"coingecko"
+	]
+}

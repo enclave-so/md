@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x5Ac04b69bDE6f67C0bd5D6bA6fD5D816548b066a",
+	"symbol": "NumberGoUpTech",
+	"name": "NumberGoUpTech",
+	"coingecko": "tech",
+	"sources": [
+		"coingecko"
+	]
+}

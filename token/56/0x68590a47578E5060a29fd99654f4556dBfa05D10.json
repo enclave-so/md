@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x68590a47578E5060a29fd99654f4556dBfa05D10",
+	"symbol": "Secured MoonRat",
+	"name": "Secured MoonRat",
+	"coingecko": "secured-moonrat-token",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x83F35BE304902571235C590b7564D9c495491456",
+	"symbol": "DecentraCloud",
+	"name": "DecentraCloud",
+	"coingecko": "decentracloud",
+	"sources": [
+		"coingecko"
+	]
+}

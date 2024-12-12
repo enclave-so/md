@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x22a2488fE295047Ba13BD8cCCdBC8361DBD8cf7c",
+	"symbol": "Sonne Finance",
+	"name": "Sonne Finance",
+	"coingecko": "sonne-finance",
+	"sources": [
+		"coingecko"
+	]
+}

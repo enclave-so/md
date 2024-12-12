@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x506BEb7965FC7053059006c7ab4C62c02C2D989F",
+	"symbol": "Brain Worms",
+	"name": "Brain Worms",
+	"coingecko": "brain-worms",
+	"sources": [
+		"coingecko"
+	]
+}

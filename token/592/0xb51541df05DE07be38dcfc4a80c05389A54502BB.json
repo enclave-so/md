@@ -1,0 +1,10 @@
+{
+	"chain": 592,
+	"address": "0xb51541df05DE07be38dcfc4a80c05389A54502BB",
+	"symbol": "Demeter",
+	"name": "Demeter",
+	"coingecko": "demeter",
+	"sources": [
+		"coingecko"
+	]
+}

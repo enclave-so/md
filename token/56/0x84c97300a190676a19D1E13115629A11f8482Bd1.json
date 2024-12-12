@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x84c97300a190676a19D1E13115629A11f8482Bd1",
+	"symbol": "Dot Dot Finance",
+	"name": "Dot Dot Finance",
+	"coingecko": "dot-dot-finance",
+	"sources": [
+		"coingecko"
+	]
+}

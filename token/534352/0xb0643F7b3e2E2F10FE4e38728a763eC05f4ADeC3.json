@@ -1,0 +1,10 @@
+{
+	"chain": 534352,
+	"address": "0xb0643F7b3e2E2F10FE4e38728a763eC05f4ADeC3",
+	"symbol": "Pencils Protocol",
+	"name": "Pencils Protocol",
+	"coingecko": "penpad-token",
+	"sources": [
+		"coingecko"
+	]
+}

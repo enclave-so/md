@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0xfc90518D5136585ba45e34ED5E1D108BD3950CFa",
+	"symbol": "Dinari USD+",
+	"name": "Dinari USD+",
+	"coingecko": "dinari-usd",
+	"sources": [
+		"coingecko"
+	]
+}

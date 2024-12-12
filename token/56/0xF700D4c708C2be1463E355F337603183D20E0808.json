@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xF700D4c708C2be1463E355F337603183D20E0808",
+	"symbol": "Blink Galaxy",
+	"name": "Blink Galaxy",
+	"coingecko": "outer-ring",
+	"sources": [
+		"coingecko"
+	]
+}

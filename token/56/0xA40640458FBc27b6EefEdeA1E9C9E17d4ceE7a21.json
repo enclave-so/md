@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xA40640458FBc27b6EefEdeA1E9C9E17d4ceE7a21",
+	"symbol": "Anchored Coins AEUR",
+	"name": "Anchored Coins AEUR",
+	"coingecko": "anchored-coins-eur",
+	"sources": [
+		"coingecko"
+	]
+}

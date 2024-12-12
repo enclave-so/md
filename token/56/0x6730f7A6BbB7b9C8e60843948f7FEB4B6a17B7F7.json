@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x6730f7A6BbB7b9C8e60843948f7FEB4B6a17B7F7",
+	"symbol": "Seed.Photo",
+	"name": "Seed.Photo",
+	"coingecko": "seed-photo",
+	"sources": [
+		"coingecko"
+	]
+}

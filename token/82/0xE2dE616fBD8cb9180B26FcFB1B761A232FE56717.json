@@ -1,0 +1,10 @@
+{
+	"chain": 82,
+	"address": "0xE2dE616fBD8cb9180B26FcFB1B761A232FE56717",
+	"symbol": "Meter.io Wrapped stMTRG",
+	"name": "Meter.io Wrapped stMTRG",
+	"coingecko": "meter-io-wrapped-stmtrg",
+	"sources": [
+		"coingecko"
+	]
+}

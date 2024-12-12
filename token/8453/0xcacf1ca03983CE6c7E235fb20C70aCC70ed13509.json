@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xcacf1ca03983CE6c7E235fb20C70aCC70ed13509",
+	"symbol": "AstroPepeX",
+	"name": "AstroPepeX",
+	"coingecko": "astropepex",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xb4e017223Fd3D639d0264DE4Da1b9E080325Cb5E",
+	"symbol": "SyncVault",
+	"name": "SyncVault",
+	"coingecko": "syncvault",
+	"sources": [
+		"coingecko"
+	]
+}

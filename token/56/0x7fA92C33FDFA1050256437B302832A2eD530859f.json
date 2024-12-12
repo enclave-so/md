@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x7fA92C33FDFA1050256437B302832A2eD530859f",
+	"symbol": "BergerDoge",
+	"name": "BergerDoge",
+	"coingecko": "bergerdoge",
+	"sources": [
+		"coingecko"
+	]
+}

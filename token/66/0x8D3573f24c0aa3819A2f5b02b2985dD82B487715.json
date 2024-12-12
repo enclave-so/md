@@ -1,0 +1,11 @@
+{
+	"chain": 66,
+	"address": "0x8D3573f24c0aa3819A2f5b02b2985dD82B487715",
+	"symbol": "FIN",
+	"name": "DeFiner",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/12780/small/PdaW8Lb.png?1602500407",
+	"sources": [
+		"sushiswap"
+	]
+}

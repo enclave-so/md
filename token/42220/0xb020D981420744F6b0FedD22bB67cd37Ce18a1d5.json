@@ -1,0 +1,11 @@
+{
+	"chain": 42220,
+	"address": "0xb020D981420744F6b0FedD22bB67cd37Ce18a1d5",
+	"symbol": "USDTv1",
+	"name": "Optics USDT v1",
+	"decimals": 6,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdt.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xb148DF3C114B1233b206160A0f2A74999Bb2FBf3",
+	"symbol": "DeHealth",
+	"name": "DeHealth",
+	"coingecko": "dehealth",
+	"sources": [
+		"coingecko"
+	]
+}

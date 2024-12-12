@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x19706c142D33376240E418d6385F05691a5Fa8E2",
+	"symbol": "Pepe Inscriptions",
+	"name": "Pepe Inscriptions",
+	"coingecko": "pepe-inscriptions",
+	"sources": [
+		"coingecko"
+	]
+}

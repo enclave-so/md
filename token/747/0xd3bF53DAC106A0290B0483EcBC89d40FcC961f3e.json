@@ -1,0 +1,10 @@
+{
+	"chain": 747,
+	"address": "0xd3bF53DAC106A0290B0483EcBC89d40FcC961f3e",
+	"symbol": "Wrapped Flow",
+	"name": "Wrapped Flow",
+	"coingecko": "wrapped-flow",
+	"sources": [
+		"coingecko"
+	]
+}

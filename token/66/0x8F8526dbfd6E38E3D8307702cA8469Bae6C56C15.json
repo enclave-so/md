@@ -1,0 +1,11 @@
+{
+	"chain": 66,
+	"address": "0x8F8526dbfd6E38E3D8307702cA8469Bae6C56C15",
+	"symbol": "WOKT",
+	"name": "Wrapped OKExChain",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/okt.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

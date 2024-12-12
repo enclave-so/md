@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x958Cc5ac2eFa569CD9ad9B9B88245E1F038b02bE",
+	"symbol": "Smart World Union",
+	"name": "Smart World Union",
+	"coingecko": "smart-world-union",
+	"sources": [
+		"coingecko"
+	]
+}

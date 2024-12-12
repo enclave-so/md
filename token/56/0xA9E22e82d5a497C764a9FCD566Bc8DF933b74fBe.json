@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xA9E22e82d5a497C764a9FCD566Bc8DF933b74fBe",
+	"symbol": "Agritech",
+	"name": "Agritech",
+	"coingecko": "agritech",
+	"sources": [
+		"coingecko"
+	]
+}

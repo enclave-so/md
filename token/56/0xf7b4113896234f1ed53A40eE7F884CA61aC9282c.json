@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xf7b4113896234f1ed53A40eE7F884CA61aC9282c",
+	"symbol": "CPI Token",
+	"name": "CPI Token",
+	"coingecko": "cpi-token",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xecd042fe089473194dCe264A4686298003fC173e",
+	"symbol": "OptimusElonAI",
+	"name": "OptimusElonAI",
+	"coingecko": "optimuselonai",
+	"sources": [
+		"coingecko"
+	]
+}

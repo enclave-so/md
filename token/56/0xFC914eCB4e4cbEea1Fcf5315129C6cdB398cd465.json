@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xFC914eCB4e4cbEea1Fcf5315129C6cdB398cd465",
+	"symbol": "PawStars",
+	"name": "PawStars",
+	"coingecko": "pawstars",
+	"sources": [
+		"coingecko"
+	]
+}

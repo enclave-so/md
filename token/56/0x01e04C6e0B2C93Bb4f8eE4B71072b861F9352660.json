@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x01e04C6e0B2C93Bb4f8eE4B71072b861F9352660",
+	"symbol": "American Shiba",
+	"name": "American Shiba",
+	"coingecko": "american-shiba",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x624b9B1aC0Fb350aed8389a51b26E36147E158c3",
+	"symbol": "Nero Token",
+	"name": "Nero Token",
+	"coingecko": "nero-token",
+	"sources": [
+		"coingecko"
+	]
+}

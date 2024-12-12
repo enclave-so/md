@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x00a8bc9887D40FF12575f6814E98D479afAdABE6",
+	"symbol": "Baby Goat",
+	"name": "Baby Goat",
+	"coingecko": "baby-goat",
+	"sources": [
+		"coingecko"
+	]
+}

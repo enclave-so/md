@@ -1,0 +1,11 @@
+{
+	"chain": 56288,
+	"address": "0x4a2c2838c3907D024916c3f4Fe07832745Ae4bec",
+	"symbol": "BUSD",
+	"name": "Binance USD",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/busd.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

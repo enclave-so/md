@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x6cF8e39252Bee00D168Bd25BDf5834347D78e346",
+	"symbol": "Choise.ai",
+	"name": "Choise.ai",
+	"coingecko": "choise",
+	"sources": [
+		"coingecko"
+	]
+}

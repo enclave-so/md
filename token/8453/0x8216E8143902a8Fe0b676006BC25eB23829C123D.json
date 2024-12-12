@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x8216E8143902a8Fe0b676006BC25eB23829C123D",
+	"symbol": "Wow",
+	"name": "Wow",
+	"coingecko": "wow-2",
+	"sources": [
+		"coingecko"
+	]
+}

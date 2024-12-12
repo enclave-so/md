@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xED6AF21Df463c7f116A6d7d687A4c190c4cf7586",
+	"symbol": "FU",
+	"name": "FU",
+	"coingecko": "fu",
+	"sources": [
+		"coingecko"
+	]
+}

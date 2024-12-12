@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xe4e8e6878718bfe533702D4a6571Eb74D79b0915",
+	"symbol": "LunaChow",
+	"name": "LunaChow",
+	"coingecko": "lunachow",
+	"sources": [
+		"coingecko"
+	]
+}

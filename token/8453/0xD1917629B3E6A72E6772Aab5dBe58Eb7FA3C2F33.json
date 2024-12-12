@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xD1917629B3E6A72E6772Aab5dBe58Eb7FA3C2F33",
+	"symbol": "Settled EthXY Token",
+	"name": "Settled EthXY Token",
+	"coingecko": "settled-ethxy-token",
+	"sources": [
+		"coingecko"
+	]
+}

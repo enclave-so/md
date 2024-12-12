@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xD6eF2222Cc850fDc7Ee30F2B2D5384e0167700A3",
+	"symbol": "RetroCraft",
+	"name": "RetroCraft",
+	"coingecko": "retrocraft",
+	"sources": [
+		"coingecko"
+	]
+}

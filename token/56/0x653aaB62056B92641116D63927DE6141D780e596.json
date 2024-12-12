@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x653aaB62056B92641116D63927DE6141D780e596",
+	"symbol": "Anchored Coins ACHF",
+	"name": "Anchored Coins ACHF",
+	"coingecko": "anchored-coins-chf",
+	"sources": [
+		"coingecko"
+	]
+}

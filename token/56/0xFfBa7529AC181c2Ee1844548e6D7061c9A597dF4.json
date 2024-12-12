@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xFfBa7529AC181c2Ee1844548e6D7061c9A597dF4",
+	"symbol": "Ternoa",
+	"name": "Ternoa",
+	"coingecko": "coin-capsule",
+	"sources": [
+		"coingecko"
+	]
+}

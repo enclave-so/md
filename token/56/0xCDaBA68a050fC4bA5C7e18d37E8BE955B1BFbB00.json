@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xCDaBA68a050fC4bA5C7e18d37E8BE955B1BFbB00",
+	"symbol": "Swiss Cash Coin [OLD]",
+	"name": "Swiss Cash Coin [OLD]",
+	"coingecko": "swiss-cash-coin",
+	"sources": [
+		"coingecko"
+	]
+}

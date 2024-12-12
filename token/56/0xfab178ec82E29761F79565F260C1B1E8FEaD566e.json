@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xfab178ec82E29761F79565F260C1B1E8FEaD566e",
+	"symbol": "Sword and Magic World",
+	"name": "Sword and Magic World",
+	"coingecko": "sword-and-magic-world",
+	"sources": [
+		"coingecko"
+	]
+}

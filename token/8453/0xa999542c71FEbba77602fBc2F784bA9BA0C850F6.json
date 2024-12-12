@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xa999542c71FEbba77602fBc2F784bA9BA0C850F6",
+	"symbol": "Meh",
+	"name": "Meh",
+	"coingecko": "meh-2",
+	"sources": [
+		"coingecko"
+	]
+}

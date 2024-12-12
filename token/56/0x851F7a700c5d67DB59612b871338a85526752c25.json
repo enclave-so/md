@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x851F7a700c5d67DB59612b871338a85526752c25",
+	"symbol": "Argon",
+	"name": "Argon",
+	"coingecko": "argon",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 81457,
+	"address": "0xA5de16db7c14Cd87fb35042Ed8E7A6f4f00b7f26",
+	"symbol": "Dinari RIOT",
+	"name": "Dinari RIOT",
+	"coingecko": "dinari-riot",
+	"sources": [
+		"coingecko"
+	]
+}

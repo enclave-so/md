@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x688eC465111ed639267cB17C47E790c9cc7279c1",
+	"symbol": "BB Gaming",
+	"name": "BB Gaming",
+	"coingecko": "bb-gaming",
+	"sources": [
+		"coingecko"
+	]
+}

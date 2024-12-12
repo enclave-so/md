@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x9C846D808A41328A209e235B5e3c4E626DAb169E",
+	"symbol": "Chikn Fert",
+	"name": "Chikn Fert",
+	"coingecko": "chikn-fert",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,92 @@
+[
+	{
+		"chain": 1234,
+		"address": "0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D",
+		"symbol": "Bridged USDC",
+		"name": "Bridged USDC",
+		"coingecko": "bridged-usdc",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1234,
+		"address": "0xd6070ae98b8069de6B494332d1A1a81B6179D960",
+		"symbol": "Wrapped AVAX",
+		"name": "Wrapped AVAX",
+		"coingecko": "wrapped-avax",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1234,
+		"address": "0xb58A9d5920AF6aC1a9522B0B10F55dF16686D1b6",
+		"symbol": "Step App",
+		"name": "Step App",
+		"coingecko": "step-app-fitfi",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1234,
+		"address": "0xB44a9B6905aF7c801311e8F4E76932ee959c663C",
+		"symbol": "Step Bridged WBTC (Step Network)",
+		"name": "Step Bridged WBTC (Step Network)",
+		"coingecko": "step-bridged-wbtc-step-network",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1234,
+		"address": "0xf390830DF829cf22c53c8840554B98eafC5dCBc2",
+		"symbol": "XANA",
+		"name": "XANA",
+		"coingecko": "xana",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1234,
+		"address": "0xe6801928061CDbE32AC5AD0634427E140EFd05F9",
+		"symbol": "XCAD Network",
+		"name": "XCAD Network",
+		"coingecko": "xcad-network",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1234,
+		"address": "0xD67de0e0a0Fd7b15dC8348Bb9BE742F3c5850454",
+		"symbol": "DAO Maker",
+		"name": "DAO Maker",
+		"coingecko": "dao-maker",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1234,
+		"address": "0x68b2DFC494362AAE300F2C401019205d8960226b",
+		"symbol": "KCAL",
+		"name": "KCAL",
+		"coingecko": "kcal",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1234,
+		"address": "0x0bbe45a033Aab7A90006C05aa648efD3d2993F9E",
+		"symbol": "PRIMAL",
+		"name": "PRIMAL",
+		"coingecko": "primal-b3099cd0-995a-4311-80d5-9c133153b38e",
+		"sources": [
+			"coingecko"
+		]
+	}
+]

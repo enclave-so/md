@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xe8670901E86818745b28C8b30B17986958fCe8Cc",
+	"symbol": "Citadel.one",
+	"name": "Citadel.one",
+	"coingecko": "citadel-one",
+	"sources": [
+		"coingecko"
+	]
+}

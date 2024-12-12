@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xCc7FF230365bD730eE4B352cC2492CEdAC49383e",
+	"symbol": "High Yield USD (Base)",
+	"name": "High Yield USD (Base)",
+	"coingecko": "high-yield-usd-base",
+	"sources": [
+		"coingecko"
+	]
+}

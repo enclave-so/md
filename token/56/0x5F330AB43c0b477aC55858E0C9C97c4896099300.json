@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x5F330AB43c0b477aC55858E0C9C97c4896099300",
+	"symbol": "Meme ETF",
+	"name": "Meme ETF",
+	"coingecko": "meme-etf",
+	"sources": [
+		"coingecko"
+	]
+}

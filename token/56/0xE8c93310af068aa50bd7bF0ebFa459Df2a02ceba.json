@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xE8c93310af068aa50bd7bF0ebFa459Df2a02ceba",
+	"symbol": "HoneyMOON",
+	"name": "HoneyMOON",
+	"coingecko": "honeymoon-token",
+	"sources": [
+		"coingecko"
+	]
+}

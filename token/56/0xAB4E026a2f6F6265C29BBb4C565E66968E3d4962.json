@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xAB4E026a2f6F6265C29BBb4C565E66968E3d4962",
+	"symbol": "ScapesMania",
+	"name": "ScapesMania",
+	"coingecko": "scapesmania",
+	"sources": [
+		"coingecko"
+	]
+}

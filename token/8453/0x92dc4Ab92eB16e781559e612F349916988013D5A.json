@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x92dc4Ab92eB16e781559e612F349916988013D5A",
+	"symbol": "Agent Zero",
+	"name": "Agent Zero",
+	"coingecko": "agent-zero",
+	"sources": [
+		"coingecko"
+	]
+}

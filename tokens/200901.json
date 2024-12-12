@@ -1,0 +1,42 @@
+[
+	{
+		"chain": 200901,
+		"address": "0x93919784C523f39CACaa98Ee0a9d96c3F32b593e",
+		"symbol": "Universal BTC",
+		"name": "Universal BTC",
+		"coingecko": "universal-btc",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 200901,
+		"address": "0xdfd0660032c2D0D38a9092a43d1669D6568cAF71",
+		"symbol": "XLink Bridged BTC",
+		"name": "XLink Bridged BTC",
+		"coingecko": "xlink-bridged-btc-stacks",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 200901,
+		"address": "0x2729868df87d062020e4a4867fF507Fb52ee697C",
+		"symbol": "Cat Driving Bitcoin",
+		"name": "Cat Driving Bitcoin",
+		"coingecko": "cat-driving-bitcoin",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 200901,
+		"address": "0xD68458f51cE9fEb238cdcf4CbcDdF010EEad01b4",
+		"symbol": "Pika Protocol",
+		"name": "Pika Protocol",
+		"coingecko": "pika-protocol-2",
+		"sources": [
+			"coingecko"
+		]
+	}
+]

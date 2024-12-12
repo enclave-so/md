@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x4E22aB2BBcB3E7F74249C87F62BB35ef92C3d964",
+	"symbol": "Black Phoenix",
+	"name": "Black Phoenix",
+	"coingecko": "black-phoenix",
+	"sources": [
+		"coingecko"
+	]
+}

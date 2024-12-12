@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x39BfF8613deFD221b0410eD3D4E5C07512d55F2d",
+	"symbol": "Cubiex Power",
+	"name": "Cubiex Power",
+	"coingecko": "cubiex-power",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x879D239BCC0356Cf9df8c90442488bCe99554c66",
+	"symbol": "Metan Evolutions",
+	"name": "Metan Evolutions",
+	"coingecko": "metan-evolutions",
+	"sources": [
+		"coingecko"
+	]
+}

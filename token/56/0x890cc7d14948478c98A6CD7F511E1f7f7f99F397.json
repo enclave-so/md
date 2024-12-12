@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x890cc7d14948478c98A6CD7F511E1f7f7f99F397",
+	"symbol": "StaySAFU",
+	"name": "StaySAFU",
+	"coingecko": "staysafu",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 5165,
+	"address": "0x4084aB20f8ffcA76C19AAF854Fb5fe9DE6217fBB",
+	"symbol": "Wrapped FTN",
+	"name": "Wrapped FTN",
+	"coingecko": "wrapped-ftn",
+	"sources": [
+		"coingecko"
+	]
+}

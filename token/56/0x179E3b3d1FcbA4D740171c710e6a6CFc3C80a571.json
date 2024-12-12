@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x179E3b3d1FcbA4D740171c710e6a6CFc3C80a571",
+	"symbol": "Blockchain Island",
+	"name": "Blockchain Island",
+	"coingecko": "blockchain-island",
+	"sources": [
+		"coingecko"
+	]
+}

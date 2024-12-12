@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x5921DEE8556c4593EeFCFad3CA5e2f618606483b",
+	"symbol": "Mettalex",
+	"name": "Mettalex",
+	"coingecko": "mettalex",
+	"sources": [
+		"coingecko"
+	]
+}

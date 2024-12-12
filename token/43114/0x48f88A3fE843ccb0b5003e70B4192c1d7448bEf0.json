@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x48f88A3fE843ccb0b5003e70B4192c1d7448bEf0",
+	"symbol": "Colony Avalanche Index",
+	"name": "Colony Avalanche Index",
+	"coingecko": "colony-avalanche-index",
+	"sources": [
+		"coingecko"
+	]
+}

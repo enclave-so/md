@@ -1,0 +1,10 @@
+{
+	"chain": 42220,
+	"address": "0xae978582DE8cA83A53Eb1d8f879Ba854895f96b1",
+	"symbol": "Tegisto",
+	"name": "Tegisto",
+	"coingecko": "tegisto",
+	"sources": [
+		"coingecko"
+	]
+}

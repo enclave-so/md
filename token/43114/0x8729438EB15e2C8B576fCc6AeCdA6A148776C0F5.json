@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x8729438EB15e2C8B576fCc6AeCdA6A148776C0F5",
+	"symbol": "BENQI",
+	"name": "BENQI",
+	"coingecko": "benqi",
+	"sources": [
+		"coingecko"
+	]
+}

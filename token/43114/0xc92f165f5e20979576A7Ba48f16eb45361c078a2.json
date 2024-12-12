@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0xc92f165f5e20979576A7Ba48f16eb45361c078a2",
+	"symbol": "EminGunSirer",
+	"name": "EminGunSirer",
+	"coingecko": "emingunsirer",
+	"sources": [
+		"coingecko"
+	]
+}

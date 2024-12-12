@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x5477E4e18B54Cf1380242CB3d0eDB03C79C242b9",
+	"symbol": "Yeti",
+	"name": "Yeti",
+	"coingecko": "yeti",
+	"sources": [
+		"coingecko"
+	]
+}

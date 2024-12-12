@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x511ef9Ad5E645E533D15DF605B4628e3D0d0Ff53",
+	"symbol": "Velvet Unicorn by Virtuals",
+	"name": "Velvet Unicorn by Virtuals",
+	"coingecko": "velvet-unicorn-by-virtuals",
+	"sources": [
+		"coingecko"
+	]
+}

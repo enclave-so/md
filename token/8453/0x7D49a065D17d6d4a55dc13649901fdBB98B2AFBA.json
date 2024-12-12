@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x7D49a065D17d6d4a55dc13649901fdBB98B2AFBA",
+	"symbol": "Sushi",
+	"name": "Sushi",
+	"coingecko": "sushi",
+	"sources": [
+		"coingecko"
+	]
+}

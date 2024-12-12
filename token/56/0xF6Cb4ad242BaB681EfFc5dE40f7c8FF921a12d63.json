@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xF6Cb4ad242BaB681EfFc5dE40f7c8FF921a12d63",
+	"symbol": "Centric Swap",
+	"name": "Centric Swap",
+	"coingecko": "centric-cash",
+	"sources": [
+		"coingecko"
+	]
+}

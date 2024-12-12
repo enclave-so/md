@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x7588880d9c78E81FAde7b7e8DC0781E95995a792",
+	"symbol": "Satoshi AI agent by Virtuals",
+	"name": "Satoshi AI agent by Virtuals",
+	"coingecko": "satoshi-ai-agent-by-virtuals",
+	"sources": [
+		"coingecko"
+	]
+}

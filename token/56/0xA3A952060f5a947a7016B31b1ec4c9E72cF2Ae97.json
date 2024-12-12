@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xA3A952060f5a947a7016B31b1ec4c9E72cF2Ae97",
+	"symbol": "MYROWIF",
+	"name": "MYROWIF",
+	"coingecko": "myrowif",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x571183a3bE52bA7f1b57dbE9A3E057C09f9DA8bC",
+	"symbol": "CryptoDeliveryCoin",
+	"name": "CryptoDeliveryCoin",
+	"coingecko": "cryptodeliverycoin",
+	"sources": [
+		"coingecko"
+	]
+}

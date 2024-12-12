@@ -1,0 +1,10 @@
+{
+	"chain": 8217,
+	"address": "0x6CEF6Dd9a3C4ad226b8B66EffEEa2c125dF194F1",
+	"symbol": "azit",
+	"name": "azit",
+	"coingecko": "azit",
+	"sources": [
+		"coingecko"
+	]
+}

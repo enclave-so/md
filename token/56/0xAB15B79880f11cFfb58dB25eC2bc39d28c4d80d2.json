@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xAB15B79880f11cFfb58dB25eC2bc39d28c4d80d2",
+	"symbol": "StarMon",
+	"name": "StarMon",
+	"coingecko": "starmon-token",
+	"sources": [
+		"coingecko"
+	]
+}

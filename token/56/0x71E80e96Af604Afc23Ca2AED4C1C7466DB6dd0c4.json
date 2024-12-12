@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x71E80e96Af604Afc23Ca2AED4C1C7466DB6dd0c4",
+	"symbol": "Baby Floki",
+	"name": "Baby Floki",
+	"coingecko": "baby-floki",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x0bb536B81aA213B4fb1ed53765d105887E8D9160",
+	"symbol": "ZIGAP",
+	"name": "ZIGAP",
+	"coingecko": "zigap",
+	"sources": [
+		"coingecko"
+	]
+}

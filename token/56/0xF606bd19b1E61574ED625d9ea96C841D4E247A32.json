@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xF606bd19b1E61574ED625d9ea96C841D4E247A32",
+	"symbol": "Guardian GUARD",
+	"name": "Guardian GUARD",
+	"coingecko": "guardian-token",
+	"sources": [
+		"coingecko"
+	]
+}

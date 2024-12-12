@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x6Bd30f2D5849A3C24042a5F012af753486ac8054",
+	"symbol": "PokerFi",
+	"name": "PokerFi",
+	"coingecko": "pokerfi",
+	"sources": [
+		"coingecko"
+	]
+}

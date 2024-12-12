@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x31c994AC062C1970C086260Bc61babB708643fAc",
+	"symbol": "XANA",
+	"name": "XANA",
+	"coingecko": "xana",
+	"sources": [
+		"coingecko"
+	]
+}

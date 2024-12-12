@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x8bFAc1b375bf2894D6F12fb2Eb48B1C1a7916789",
+	"symbol": "Mey Network",
+	"name": "Mey Network",
+	"coingecko": "mey-network",
+	"sources": [
+		"coingecko"
+	]
+}

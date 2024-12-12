@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x9467f15f44A8641389556387b43d9ED3f6981818",
+	"symbol": "Wrapped USDR",
+	"name": "Wrapped USDR",
+	"coingecko": "wrapped-usdr",
+	"sources": [
+		"coingecko"
+	]
+}

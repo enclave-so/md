@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x3CB20d96E866D128BC469a6e66505d46D7F9BaBa",
+	"symbol": "BIB",
+	"name": "BIB",
+	"coingecko": "bib",
+	"sources": [
+		"coingecko"
+	]
+}

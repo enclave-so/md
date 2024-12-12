@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xe6DF05CE8C8301223373CF5B969AFCb1498c5528",
+	"symbol": "KOGE",
+	"name": "KOGE",
+	"coingecko": "bnb48-club-token",
+	"sources": [
+		"coingecko"
+	]
+}

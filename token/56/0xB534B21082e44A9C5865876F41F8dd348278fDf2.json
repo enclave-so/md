@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xB534B21082e44A9C5865876F41F8dd348278fDf2",
+	"symbol": "Homie Wars",
+	"name": "Homie Wars",
+	"coingecko": "homie-wars",
+	"sources": [
+		"coingecko"
+	]
+}

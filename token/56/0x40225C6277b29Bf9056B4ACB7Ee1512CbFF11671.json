@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x40225C6277b29Bf9056B4ACB7Ee1512CbFF11671",
+	"symbol": "Buying.com",
+	"name": "Buying.com",
+	"coingecko": "buying",
+	"sources": [
+		"coingecko"
+	]
+}

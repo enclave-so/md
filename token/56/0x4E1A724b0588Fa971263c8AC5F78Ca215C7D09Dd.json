@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x4E1A724b0588Fa971263c8AC5F78Ca215C7D09Dd",
+	"symbol": "Moonft",
+	"name": "Moonft",
+	"coingecko": "moonft",
+	"sources": [
+		"coingecko"
+	]
+}

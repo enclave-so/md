@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x6dc3d0D6EC970BF5522611D8eFF127145D02b675",
+	"symbol": "Revolotto",
+	"name": "Revolotto",
+	"coingecko": "revolotto",
+	"sources": [
+		"coingecko"
+	]
+}

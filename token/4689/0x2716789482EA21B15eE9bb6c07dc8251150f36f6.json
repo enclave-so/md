@@ -1,0 +1,10 @@
+{
+	"chain": 4689,
+	"address": "0x2716789482EA21B15eE9bb6c07dc8251150f36f6",
+	"symbol": "DePINs",
+	"name": "DePINs",
+	"coingecko": "depins",
+	"sources": [
+		"coingecko"
+	]
+}

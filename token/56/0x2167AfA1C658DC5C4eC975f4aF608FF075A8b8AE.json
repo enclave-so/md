@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x2167AfA1C658DC5C4eC975f4aF608FF075A8b8AE",
+	"symbol": "Evai",
+	"name": "Evai",
+	"coingecko": "evai-2",
+	"sources": [
+		"coingecko"
+	]
+}

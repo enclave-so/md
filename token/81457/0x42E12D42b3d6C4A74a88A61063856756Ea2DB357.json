@@ -1,0 +1,13 @@
+{
+	"chain": 81457,
+	"address": "0x42E12D42b3d6C4A74a88A61063856756Ea2DB357",
+	"symbol": "ORBIT",
+	"name": "Orbit Protocol",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/blast/0x42E12D42b3d6C4A74a88A61063856756Ea2DB357.jpg",
+	"coingecko": "orbit-protocol",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

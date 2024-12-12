@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x1DC84Fc11E48aE640D48044F22A603BBE914A612",
+	"symbol": "LocalTrade",
+	"name": "LocalTrade",
+	"coingecko": "localtrade",
+	"sources": [
+		"coingecko"
+	]
+}

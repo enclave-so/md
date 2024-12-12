@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x0EF27Ddc8F89D4886E89d630De089962FfC12E43",
+	"symbol": "Pegaxy",
+	"name": "Pegaxy",
+	"coingecko": "pegaxy-stone",
+	"sources": [
+		"coingecko"
+	]
+}

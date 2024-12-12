@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x51363F073b1E4920fdA7AA9E9d84BA97EdE1560e",
+	"symbol": "Build On BNB",
+	"name": "Build On BNB",
+	"coingecko": "build-on-bnb",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 59144,
+	"address": "0x4186BFC76E2E237523CBC30FD220FE055156b41F",
+	"symbol": "KelpDAO Bridged rsETH (Linea)",
+	"name": "KelpDAO Bridged rsETH (Linea)",
+	"coingecko": "layerzero-bridged-rseth-linea",
+	"sources": [
+		"coingecko"
+	]
+}

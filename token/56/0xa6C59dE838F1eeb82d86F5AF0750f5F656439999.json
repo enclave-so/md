@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xa6C59dE838F1eeb82d86F5AF0750f5F656439999",
+	"symbol": "ShopNext Loyalty Token",
+	"name": "ShopNext Loyalty Token",
+	"coingecko": "shopnext-loyalty-token",
+	"sources": [
+		"coingecko"
+	]
+}

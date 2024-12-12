@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x7F05a7A9AF2f5a07D1e64877C8dC37a64a22508E",
+	"symbol": "Ajna Protocol",
+	"name": "Ajna Protocol",
+	"coingecko": "ajna-protocol",
+	"sources": [
+		"coingecko"
+	]
+}

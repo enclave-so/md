@@ -1,0 +1,10 @@
+{
+	"chain": 4337,
+	"address": "0xD51BFa777609213A653a2CD067c9A0132a2D316A",
+	"symbol": "Wrapped BEAM",
+	"name": "Wrapped BEAM",
+	"coingecko": "wrapped-merit-circle",
+	"sources": [
+		"coingecko"
+	]
+}

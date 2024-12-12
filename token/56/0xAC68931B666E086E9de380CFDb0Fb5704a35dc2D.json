@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xAC68931B666E086E9de380CFDb0Fb5704a35dc2D",
+	"symbol": "BNB Tiger Inu",
+	"name": "BNB Tiger Inu",
+	"coingecko": "bnbtiger",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x679d2C23497d4431311aC001618cd0B8789Ac29C",
+	"symbol": "LINKFI",
+	"name": "LINKFI",
+	"coingecko": "linkfi",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 42220,
+	"address": "0xe8537a3d056DA446677B9E9d6c5dB704EaAb4787",
+	"symbol": "Celo Real (cREAL)",
+	"name": "Celo Real (cREAL)",
+	"coingecko": "celo-real-creal",
+	"sources": [
+		"coingecko"
+	]
+}

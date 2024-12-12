@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x12ef97ebE8a51BB7Cff3E1799C8F7936Db9D13d3",
+	"symbol": "Onigiri Kitty",
+	"name": "Onigiri Kitty",
+	"coingecko": "onigiri-kitty",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xF585B5b4f22816BAf7629AEA55B701662630397b",
+	"symbol": "Vow",
+	"name": "Vow",
+	"coingecko": "vow",
+	"sources": [
+		"coingecko"
+	]
+}

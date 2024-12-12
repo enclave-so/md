@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x776F9987D9DEED90eeD791cbD824D971FD5CCF09",
+	"symbol": "LayerAI",
+	"name": "LayerAI",
+	"coingecko": "cryptogpt-token",
+	"sources": [
+		"coingecko"
+	]
+}

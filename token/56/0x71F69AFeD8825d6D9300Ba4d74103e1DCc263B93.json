@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x71F69AFeD8825d6D9300Ba4d74103e1DCc263B93",
+	"symbol": "Simpli Finance",
+	"name": "Simpli Finance",
+	"coingecko": "simpli-finance",
+	"sources": [
+		"coingecko"
+	]
+}

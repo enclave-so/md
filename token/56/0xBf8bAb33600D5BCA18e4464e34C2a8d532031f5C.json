@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xBf8bAb33600D5BCA18e4464e34C2a8d532031f5C",
+	"symbol": "Ozone Metaverse",
+	"name": "Ozone Metaverse",
+	"coingecko": "ozone-metaverse",
+	"sources": [
+		"coingecko"
+	]
+}

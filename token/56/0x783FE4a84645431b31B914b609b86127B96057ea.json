@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x783FE4a84645431b31B914b609b86127B96057ea",
+	"symbol": "SpaceGoat",
+	"name": "SpaceGoat",
+	"coingecko": "spacegoat-token",
+	"sources": [
+		"coingecko"
+	]
+}

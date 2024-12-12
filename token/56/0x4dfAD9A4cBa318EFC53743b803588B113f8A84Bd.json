@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x4dfAD9A4cBa318EFC53743b803588B113f8A84Bd",
+	"symbol": "Chihuahua",
+	"name": "Chihuahua",
+	"coingecko": "chihuahua",
+	"sources": [
+		"coingecko"
+	]
+}

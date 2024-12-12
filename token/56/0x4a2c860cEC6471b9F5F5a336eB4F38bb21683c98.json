@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x4a2c860cEC6471b9F5F5a336eB4F38bb21683c98",
+	"symbol": "STEPN Green Satoshi Token on BSC",
+	"name": "STEPN Green Satoshi Token on BSC",
+	"coingecko": "green-satoshi-token-bsc",
+	"sources": [
+		"coingecko"
+	]
+}

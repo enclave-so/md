@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x16f9cc3c6F8d8006cfc0ee693CeF9D76b0d44C36",
+	"symbol": "Baby Bali",
+	"name": "Baby Bali",
+	"coingecko": "baby-bali",
+	"sources": [
+		"coingecko"
+	]
+}

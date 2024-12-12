@@ -1,0 +1,10 @@
+{
+	"chain": 9001,
+	"address": "0x5db67696C3c088DfBf588d3dd849f44266ff0ffa",
+	"symbol": "e-Money EUR",
+	"name": "e-Money EUR",
+	"coingecko": "e-money-eur",
+	"sources": [
+		"coingecko"
+	]
+}

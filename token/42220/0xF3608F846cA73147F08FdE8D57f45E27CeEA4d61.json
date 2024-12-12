@@ -1,0 +1,11 @@
+{
+	"chain": 42220,
+	"address": "0xF3608F846cA73147F08FdE8D57f45E27CeEA4d61",
+	"symbol": "cMeta",
+	"name": "MetaCelo",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/celo/assets/0xF3608F846cA73147F08FdE8D57f45E27CeEA4d61/logo.png",
+	"sources": [
+		"sushiswap"
+	]
+}

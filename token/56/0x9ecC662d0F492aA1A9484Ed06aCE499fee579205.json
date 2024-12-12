@@ -1,0 +1,11 @@
+{
+	"chain": 56,
+	"address": "0x9ecC662d0F492aA1A9484Ed06aCE499fee579205",
+	"symbol": "NSFW",
+	"name": "Pleasure Coin",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0x9ecC662d0F492aA1A9484Ed06aCE499fee579205.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

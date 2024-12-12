@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xa00432be5D9883A5c85f6f716410c23410453836",
+	"symbol": "Baby Pnut",
+	"name": "Baby Pnut",
+	"coingecko": "baby-pnut-2",
+	"sources": [
+		"coingecko"
+	]
+}

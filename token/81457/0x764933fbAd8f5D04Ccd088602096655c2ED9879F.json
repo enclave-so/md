@@ -1,0 +1,10 @@
+{
+	"chain": 81457,
+	"address": "0x764933fbAd8f5D04Ccd088602096655c2ED9879F",
+	"symbol": "Any Inu",
+	"name": "Any Inu",
+	"coingecko": "any-inu",
+	"sources": [
+		"coingecko"
+	]
+}

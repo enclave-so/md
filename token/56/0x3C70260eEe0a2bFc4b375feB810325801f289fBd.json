@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x3C70260eEe0a2bFc4b375feB810325801f289fBd",
+	"symbol": "Omni Consumer Protocol",
+	"name": "Omni Consumer Protocol",
+	"coingecko": "omni-consumer-protocol",
+	"sources": [
+		"coingecko"
+	]
+}

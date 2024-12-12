@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xEbA6a22bA57994b6600671EC9EC8389272CBE71d",
+	"symbol": "SmileAI",
+	"name": "SmileAI",
+	"coingecko": "smileai",
+	"sources": [
+		"coingecko"
+	]
+}

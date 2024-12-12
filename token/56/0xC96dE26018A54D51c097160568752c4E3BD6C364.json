@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xC96dE26018A54D51c097160568752c4E3BD6C364",
+	"symbol": "Ignition FBTC",
+	"name": "Ignition FBTC",
+	"coingecko": "ignition-fbtc",
+	"sources": [
+		"coingecko"
+	]
+}

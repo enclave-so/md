@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0xBeC243C995409E6520D7C41E404da5dEba4b209B",
+	"symbol": "Synthetix Network",
+	"name": "Synthetix Network",
+	"coingecko": "havven",
+	"sources": [
+		"coingecko"
+	]
+}

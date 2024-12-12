@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x8005D97E993668a528008d16338B42f9e976ED0F",
+	"symbol": "EGold Project (OLD)",
+	"name": "EGold Project (OLD)",
+	"coingecko": "egold-project",
+	"sources": [
+		"coingecko"
+	]
+}

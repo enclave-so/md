@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x56083560594E314b5cDd1680eC6a493bb851BBd8",
+	"symbol": "Transhuman Coin",
+	"name": "Transhuman Coin",
+	"coingecko": "transhuman-coin",
+	"sources": [
+		"coingecko"
+	]
+}

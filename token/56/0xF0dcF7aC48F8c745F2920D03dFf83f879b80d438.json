@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xF0dcF7aC48F8c745F2920D03dFf83f879b80d438",
+	"symbol": "Gami",
+	"name": "Gami",
+	"coingecko": "gami",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x51e7B598C9155b9DCcB04Eb42519F6EeC9C841e9",
+	"symbol": "Bitlocus",
+	"name": "Bitlocus",
+	"coingecko": "bitlocus",
+	"sources": [
+		"coingecko"
+	]
+}

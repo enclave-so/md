@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x486f4cF924bf8D45e955d16316F247F3d6070256",
+	"symbol": "BorderCollieBSC",
+	"name": "BorderCollieBSC",
+	"coingecko": "bordercolliebsc",
+	"sources": [
+		"coingecko"
+	]
+}

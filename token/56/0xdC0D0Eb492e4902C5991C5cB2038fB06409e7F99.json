@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xdC0D0Eb492e4902C5991C5cB2038fB06409e7F99",
+	"symbol": "Megalink",
+	"name": "Megalink",
+	"coingecko": "megalink",
+	"sources": [
+		"coingecko"
+	]
+}

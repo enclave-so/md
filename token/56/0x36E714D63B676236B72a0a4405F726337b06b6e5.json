@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x36E714D63B676236B72a0a4405F726337b06b6e5",
+	"symbol": "Genesis Universe",
+	"name": "Genesis Universe",
+	"coingecko": "genesis-universe",
+	"sources": [
+		"coingecko"
+	]
+}

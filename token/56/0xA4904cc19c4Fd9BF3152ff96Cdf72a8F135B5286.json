@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xA4904cc19c4Fd9BF3152ff96Cdf72a8F135B5286",
+	"symbol": "Cloud Pet",
+	"name": "Cloud Pet",
+	"coingecko": "cloud-pet",
+	"sources": [
+		"coingecko"
+	]
+}

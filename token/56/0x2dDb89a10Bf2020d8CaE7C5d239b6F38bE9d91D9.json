@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x2dDb89a10Bf2020d8CaE7C5d239b6F38bE9d91D9",
+	"symbol": "Shoki",
+	"name": "Shoki",
+	"coingecko": "shoki",
+	"sources": [
+		"coingecko"
+	]
+}

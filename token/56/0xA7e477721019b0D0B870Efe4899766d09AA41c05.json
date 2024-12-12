@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xA7e477721019b0D0B870Efe4899766d09AA41c05",
+	"symbol": "Pankito",
+	"name": "Pankito",
+	"coingecko": "pankito",
+	"sources": [
+		"coingecko"
+	]
+}

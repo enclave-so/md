@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x5085434227aB73151fAd2DE546210Cbc8663dF96",
+	"symbol": "Metaderby",
+	"name": "Metaderby",
+	"coingecko": "metaderby",
+	"sources": [
+		"coingecko"
+	]
+}

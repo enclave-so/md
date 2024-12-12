@@ -1,0 +1,10 @@
+{
+	"chain": 59144,
+	"address": "0x43E8809ea748EFf3204ee01F08872F063e44065f",
+	"symbol": "Mendi Finance",
+	"name": "Mendi Finance",
+	"coingecko": "mendi-finance",
+	"sources": [
+		"coingecko"
+	]
+}

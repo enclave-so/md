@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x58Dd173F30EcfFdfEbCd242C71241fB2f179e9B9",
+	"symbol": "Toupée Tech",
+	"name": "Toupée Tech",
+	"coingecko": "toupee-tech",
+	"sources": [
+		"coingecko"
+	]
+}

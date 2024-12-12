@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x23AE4fd8E7844cdBc97775496eBd0E8248656028",
+	"symbol": "Matrixdock Gold",
+	"name": "Matrixdock Gold",
+	"coingecko": "matrixdock-gold",
+	"sources": [
+		"coingecko"
+	]
+}

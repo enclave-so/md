@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x3d2C6366226e044374C5F72Ff9fBd470c395E6E8",
+	"symbol": "GrokTether",
+	"name": "GrokTether",
+	"coingecko": "groktether",
+	"sources": [
+		"coingecko"
+	]
+}

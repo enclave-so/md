@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x7E8BAE727abC245181F7ABaD0A4445114c0ca987",
+	"symbol": "Lucky7",
+	"name": "Lucky7",
+	"coingecko": "lucky7",
+	"sources": [
+		"coingecko"
+	]
+}

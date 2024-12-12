@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xdE009cB3371825bAfb80A01004C58f8166EE13D5",
+	"symbol": "Little Ugly Duck",
+	"name": "Little Ugly Duck",
+	"coingecko": "little-ugly-duck",
+	"sources": [
+		"coingecko"
+	]
+}

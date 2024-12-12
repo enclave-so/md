@@ -1,0 +1,62 @@
+[
+	{
+		"chain": 666666666,
+		"address": "0xEb54dACB4C2ccb64F8074eceEa33b5eBb38E5387",
+		"symbol": "Wrapped DEGEN",
+		"name": "Wrapped DEGEN",
+		"coingecko": "wrapped-degen",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 666666666,
+		"address": "0xeB1C32Ea4E392346795aED3607f37646E2a9c13F",
+		"symbol": "All Time High",
+		"name": "All Time High",
+		"coingecko": "all-time-high-degen",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 666666666,
+		"address": "0xcf79Da9C663D446c6e0Da7e3B18Ce77Ff26da26a",
+		"symbol": "Degen Cet",
+		"name": "Degen Cet",
+		"coingecko": "degen-cet",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 666666666,
+		"address": "0x0c3544B0b78a0eeA3Bb4ca3774b72055a66e4ee5",
+		"symbol": "DegenSwap",
+		"name": "DegenSwap",
+		"coingecko": "degenswap",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 666666666,
+		"address": "0x4c9436d7AaC04A40aca30ab101107081223D6e92",
+		"symbol": "DINU",
+		"name": "DINU",
+		"coingecko": "dinu",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 666666666,
+		"address": "0x54f667dB585b7B10347429C72c36c8B59aB441cb",
+		"symbol": "Good Old Fashioned Un Registered Security",
+		"name": "Good Old Fashioned Un Registered Security",
+		"coingecko": "good-old-fashioned-un-registered-security",
+		"sources": [
+			"coingecko"
+		]
+	}
+]

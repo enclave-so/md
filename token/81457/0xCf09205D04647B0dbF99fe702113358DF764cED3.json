@@ -1,0 +1,10 @@
+{
+	"chain": 81457,
+	"address": "0xCf09205D04647B0dbF99fe702113358DF764cED3",
+	"symbol": "yETH",
+	"name": "yETH",
+	"coingecko": "yeth",
+	"sources": [
+		"coingecko"
+	]
+}

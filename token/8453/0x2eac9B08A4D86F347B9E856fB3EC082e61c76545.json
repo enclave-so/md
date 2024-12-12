@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x2eac9B08A4D86F347B9E856fB3EC082e61c76545",
+	"symbol": "AIRENE by Virtuals",
+	"name": "AIRENE by Virtuals",
+	"coingecko": "airene",
+	"sources": [
+		"coingecko"
+	]
+}

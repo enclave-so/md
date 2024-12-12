@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xA78628eCba2BF5fedf3fE27A7CEdaa363b46708f",
+	"symbol": "Little Bunny Rocket",
+	"name": "Little Bunny Rocket",
+	"coingecko": "little-bunny-rocket",
+	"sources": [
+		"coingecko"
+	]
+}

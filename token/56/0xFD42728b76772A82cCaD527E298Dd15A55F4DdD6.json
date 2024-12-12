@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xFD42728b76772A82cCaD527E298Dd15A55F4DdD6",
+	"symbol": "KarenCoin",
+	"name": "KarenCoin",
+	"coingecko": "karencoin",
+	"sources": [
+		"coingecko"
+	]
+}

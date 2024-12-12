@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x8c18ffD66d943C9B0AD3DC40E2D64638F1e6e1ab",
+	"symbol": "Herity Network",
+	"name": "Herity Network",
+	"coingecko": "herity-network",
+	"sources": [
+		"coingecko"
+	]
+}

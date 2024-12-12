@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xFc60AA1fFCA50Ce08b3cDeC9626c0Bb9E9b09BeC",
+	"symbol": "Envision Labs",
+	"name": "Envision Labs",
+	"coingecko": "envision-2",
+	"sources": [
+		"coingecko"
+	]
+}

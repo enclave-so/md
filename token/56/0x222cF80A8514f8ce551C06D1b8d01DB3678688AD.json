@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x222cF80A8514f8ce551C06D1b8d01DB3678688AD",
+	"symbol": "SpaceDawgs",
+	"name": "SpaceDawgs",
+	"coingecko": "spacedawgs",
+	"sources": [
+		"coingecko"
+	]
+}

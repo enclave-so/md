@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0xE46b44179DB3AF934da552B35FF8869E98DC6Af5",
+	"symbol": "predict",
+	"name": "predict",
+	"coingecko": "predict-2",
+	"sources": [
+		"coingecko"
+	]
+}

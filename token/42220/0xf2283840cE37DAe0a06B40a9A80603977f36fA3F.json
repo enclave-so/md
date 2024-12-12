@@ -1,0 +1,11 @@
+{
+	"chain": 42220,
+	"address": "0xf2283840cE37DAe0a06B40a9A80603977f36fA3F",
+	"symbol": "G$",
+	"name": "GoodDollar",
+	"decimals": 2,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/celo/0xf2283840cE37DAe0a06B40a9A80603977f36fA3F.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xBA26397cdFF25F0D26E815d218Ef3C77609ae7f1",
+	"symbol": "Lyptus",
+	"name": "Lyptus",
+	"coingecko": "lyptus-token",
+	"sources": [
+		"coingecko"
+	]
+}

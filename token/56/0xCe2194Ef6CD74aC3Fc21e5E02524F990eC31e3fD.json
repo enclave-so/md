@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xCe2194Ef6CD74aC3Fc21e5E02524F990eC31e3fD",
+	"symbol": "TheDonato Token",
+	"name": "TheDonato Token",
+	"coingecko": "thedonato-token",
+	"sources": [
+		"coingecko"
+	]
+}

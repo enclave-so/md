@@ -1,0 +1,13 @@
+{
+	"chain": 42170,
+	"address": "0x0057Ac2d777797d31CD3f8f13bF5e927571D6Ad0",
+	"symbol": "MOON",
+	"name": "Moons",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum-nova/0x0057Ac2d777797d31CD3f8f13bF5e927571D6Ad0.jpg",
+	"coingecko": "moon",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

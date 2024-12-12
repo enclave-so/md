@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x1236ea13c7339287Cd00AB196aAA8217006b04dc",
+	"symbol": "Epic League",
+	"name": "Epic League",
+	"coingecko": "epic-league",
+	"sources": [
+		"coingecko"
+	]
+}

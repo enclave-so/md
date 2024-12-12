@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x5335E87930b410b8C5BB4D43c3360ACa15ec0C8C",
+	"symbol": "Overnight.fi USDT+",
+	"name": "Overnight.fi USDT+",
+	"coingecko": "usdtplus",
+	"sources": [
+		"coingecko"
+	]
+}

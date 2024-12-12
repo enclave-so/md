@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xF04D220b8136E2d3d4BE08081Dbb565c3c302FfD",
+	"symbol": "Freya by Virtuals",
+	"name": "Freya by Virtuals",
+	"coingecko": "freya-by-virtuals",
+	"sources": [
+		"coingecko"
+	]
+}

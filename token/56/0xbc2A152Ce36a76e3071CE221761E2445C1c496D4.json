@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xbc2A152Ce36a76e3071CE221761E2445C1c496D4",
+	"symbol": "XSPACE",
+	"name": "XSPACE",
+	"coingecko": "xspace",
+	"sources": [
+		"coingecko"
+	]
+}

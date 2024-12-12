@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xfaE89a7966d13195960459E6b483caCB9fE9cFCf",
+	"symbol": "B Money AKA Brett",
+	"name": "B Money AKA Brett",
+	"coingecko": "b-money-aka-brett",
+	"sources": [
+		"coingecko"
+	]
+}

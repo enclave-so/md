@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x77491cDcbB8320FEEabf21BAC19A00e2e3143708",
+	"symbol": "BRC20X",
+	"name": "BRC20X",
+	"coingecko": "brc20x",
+	"sources": [
+		"coingecko"
+	]
+}

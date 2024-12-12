@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x9810512Be701801954449408966c630595D0cD51",
+	"symbol": "HYDT",
+	"name": "HYDT",
+	"coingecko": "hydt-protocol-hydt",
+	"sources": [
+		"coingecko"
+	]
+}

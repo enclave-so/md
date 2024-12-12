@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xe0023E73aab4fE9a22f059a9d27E857E027eE3dc",
+	"symbol": "RWAX",
+	"name": "RWAX",
+	"coingecko": "rwax",
+	"sources": [
+		"coingecko"
+	]
+}

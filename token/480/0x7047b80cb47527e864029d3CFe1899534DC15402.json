@@ -1,0 +1,10 @@
+{
+	"chain": 480,
+	"address": "0x7047b80cb47527e864029d3CFe1899534DC15402",
+	"symbol": "Bowser",
+	"name": "Bowser",
+	"coingecko": "bowser",
+	"sources": [
+		"coingecko"
+	]
+}

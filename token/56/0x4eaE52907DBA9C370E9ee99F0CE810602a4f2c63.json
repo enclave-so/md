@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x4eaE52907DBA9C370E9ee99F0CE810602a4f2c63",
+	"symbol": "KaBoSu",
+	"name": "KaBoSu",
+	"coingecko": "kabosu-2",
+	"sources": [
+		"coingecko"
+	]
+}

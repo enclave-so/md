@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x8853F0c059C27527d33D02378E5E4F6d5afB574a",
+	"symbol": "AI INU",
+	"name": "AI INU",
+	"coingecko": "ai-inu",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x0B1d4c430dE9fC309e38826729aC9cfF7070d0A5",
+	"symbol": "Wat BNB",
+	"name": "Wat BNB",
+	"coingecko": "wat-bnb",
+	"sources": [
+		"coingecko"
+	]
+}

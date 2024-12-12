@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xd386a121991E51Eab5e3433Bf5B1cF4C8884b47a",
+	"symbol": "Base Velocimeter",
+	"name": "Base Velocimeter",
+	"coingecko": "base-velocimeter",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x1991501f1398663F69dD7391C055bb0DF6514F76",
+	"symbol": "HotDoge [OLD]",
+	"name": "HotDoge [OLD]",
+	"coingecko": "hot-doge",
+	"sources": [
+		"coingecko"
+	]
+}

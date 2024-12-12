@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x405e7454E71AEfe8897438ADc08E3f3e6d49Dfc1",
+	"symbol": "SuperCells",
+	"name": "SuperCells",
+	"coingecko": "supercells",
+	"sources": [
+		"coingecko"
+	]
+}

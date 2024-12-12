@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x8eCA5C1B51A801A822912167153041ed0B92a397",
+	"symbol": "Fame Reward Plus",
+	"name": "Fame Reward Plus",
+	"coingecko": "fame-reward-plus",
+	"sources": [
+		"coingecko"
+	]
+}

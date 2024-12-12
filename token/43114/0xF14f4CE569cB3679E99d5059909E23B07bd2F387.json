@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0xF14f4CE569cB3679E99d5059909E23B07bd2F387",
+	"symbol": "NXUSD",
+	"name": "NXUSD",
+	"coingecko": "nxusd",
+	"sources": [
+		"coingecko"
+	]
+}

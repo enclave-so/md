@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x6A1225c87F15Da91e2fA5ee7b2075E2e3a9dBc39",
+	"symbol": "Soroosh Smart Ecosystem",
+	"name": "Soroosh Smart Ecosystem",
+	"coingecko": "soroosh-smart-ecosystem",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 8822,
+	"address": "0x892aD291737249abe79C657C4A5a57e11C174566",
+	"symbol": "Iota Velocimeter",
+	"name": "Iota Velocimeter",
+	"coingecko": "iota-velocimeter",
+	"sources": [
+		"coingecko"
+	]
+}

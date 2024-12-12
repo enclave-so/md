@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x2859e4544C4bB03966803b044A93563Bd2D0DD4D",
+	"symbol": "Binance-Peg SHIB",
+	"name": "Binance-Peg SHIB",
+	"coingecko": "binance-peg-shib",
+	"sources": [
+		"coingecko"
+	]
+}

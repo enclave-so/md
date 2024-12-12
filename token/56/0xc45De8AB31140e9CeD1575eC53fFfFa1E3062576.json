@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xc45De8AB31140e9CeD1575eC53fFfFa1E3062576",
+	"symbol": "Mad Viking Games Token",
+	"name": "Mad Viking Games Token",
+	"coingecko": "mad-viking-games-token",
+	"sources": [
+		"coingecko"
+	]
+}

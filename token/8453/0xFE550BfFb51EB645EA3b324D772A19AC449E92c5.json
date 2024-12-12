@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xFE550BfFb51EB645EA3b324D772A19AC449E92c5",
+	"symbol": "IX Swap",
+	"name": "IX Swap",
+	"coingecko": "ix-swap",
+	"sources": [
+		"coingecko"
+	]
+}

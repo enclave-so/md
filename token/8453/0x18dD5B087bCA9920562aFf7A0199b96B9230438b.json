@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x18dD5B087bCA9920562aFf7A0199b96B9230438b",
+	"symbol": "Propy",
+	"name": "Propy",
+	"coingecko": "propy",
+	"sources": [
+		"coingecko"
+	]
+}

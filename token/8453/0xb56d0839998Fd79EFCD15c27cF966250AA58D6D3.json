@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xb56d0839998Fd79EFCD15c27cF966250AA58D6D3",
+	"symbol": "Based USA",
+	"name": "Based USA",
+	"coingecko": "based-usa",
+	"sources": [
+		"coingecko"
+	]
+}

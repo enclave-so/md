@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xb8D98a102b0079B69FFbc760C8d857A31653e56e",
+	"symbol": "Toby ToadGod",
+	"name": "Toby ToadGod",
+	"coingecko": "toby-toadgod",
+	"sources": [
+		"coingecko"
+	]
+}

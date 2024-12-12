@@ -1,0 +1,10 @@
+{
+	"chain": 59144,
+	"address": "0x1a51b19CE03dbE0Cb44C1528E34a7EDD7771E9Af",
+	"symbol": "Lynex",
+	"name": "Lynex",
+	"coingecko": "lynex",
+	"sources": [
+		"coingecko"
+	]
+}

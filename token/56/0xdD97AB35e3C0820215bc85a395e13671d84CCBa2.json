@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xdD97AB35e3C0820215bc85a395e13671d84CCBa2",
+	"symbol": "AutoShark",
+	"name": "AutoShark",
+	"coingecko": "autoshark",
+	"sources": [
+		"coingecko"
+	]
+}

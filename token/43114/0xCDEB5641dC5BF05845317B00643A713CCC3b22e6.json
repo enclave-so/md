@@ -1,0 +1,11 @@
+{
+	"chain": 43114,
+	"address": "0xCDEB5641dC5BF05845317B00643A713CCC3b22e6",
+	"symbol": "HT",
+	"name": "Huobi",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/ht.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

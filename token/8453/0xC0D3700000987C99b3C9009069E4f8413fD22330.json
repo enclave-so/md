@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xC0D3700000987C99b3C9009069E4f8413fD22330",
+	"symbol": "Cod3x USD",
+	"name": "Cod3x USD",
+	"coingecko": "cod3x-usd",
+	"sources": [
+		"coingecko"
+	]
+}

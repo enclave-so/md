@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x50A53Ad44590DF1D6c9fCf257d6416e937e5ED4f",
+	"symbol": "Betterment Digital",
+	"name": "Betterment Digital",
+	"coingecko": "betterment-digital",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"chain": 66,
+	"address": "0x3212606F74Cc59656E1EC6f587FCA61bA3B85eb0",
+	"symbol": "SFG",
+	"name": "SFG",
+	"decimals": 18,
+	"logo": "https://static.bafang.com/cdn/explorer/okexchain/exchain_sfgk.png",
+	"sources": [
+		"sushiswap"
+	]
+}

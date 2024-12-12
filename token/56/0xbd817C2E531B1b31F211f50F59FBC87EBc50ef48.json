@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xbd817C2E531B1b31F211f50F59FBC87EBc50ef48",
+	"symbol": "Quick Transfer Coin Plus",
+	"name": "Quick Transfer Coin Plus",
+	"coingecko": "quick-transfer-coin-plus",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x924157B5dbB387A823719916B25256410a4Ad470",
+	"symbol": "Snowtomb LOT",
+	"name": "Snowtomb LOT",
+	"coingecko": "snowtomb-lot",
+	"sources": [
+		"coingecko"
+	]
+}

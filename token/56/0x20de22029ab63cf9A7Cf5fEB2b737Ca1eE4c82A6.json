@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x20de22029ab63cf9A7Cf5fEB2b737Ca1eE4c82A6",
+	"symbol": "Tranchess",
+	"name": "Tranchess",
+	"coingecko": "tranchess",
+	"sources": [
+		"coingecko"
+	]
+}

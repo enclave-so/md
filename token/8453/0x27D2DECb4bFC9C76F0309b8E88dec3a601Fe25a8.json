@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x27D2DECb4bFC9C76F0309b8E88dec3a601Fe25a8",
+	"symbol": "Bald",
+	"name": "Bald",
+	"coingecko": "bald",
+	"sources": [
+		"coingecko"
+	]
+}

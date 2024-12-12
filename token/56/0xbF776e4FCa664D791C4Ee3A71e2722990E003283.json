@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xbF776e4FCa664D791C4Ee3A71e2722990E003283",
+	"symbol": "Smoothy",
+	"name": "Smoothy",
+	"coingecko": "smoothy",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x762539b45A1dCcE3D36d080F74d1AED37844b878",
+	"symbol": "Linear",
+	"name": "Linear",
+	"coingecko": "linear",
+	"sources": [
+		"coingecko"
+	]
+}

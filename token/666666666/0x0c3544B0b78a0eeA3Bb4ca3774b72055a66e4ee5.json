@@ -1,0 +1,10 @@
+{
+	"chain": 666666666,
+	"address": "0x0c3544B0b78a0eeA3Bb4ca3774b72055a66e4ee5",
+	"symbol": "DegenSwap",
+	"name": "DegenSwap",
+	"coingecko": "degenswap",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x2A17Dc11a1828725cdB318E0036ACF12727d27a2",
+	"symbol": "ArenaSwap",
+	"name": "ArenaSwap",
+	"coingecko": "arena-token",
+	"sources": [
+		"coingecko"
+	]
+}

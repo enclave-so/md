@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x653A143B8d15C565C6623D1F168cFbeC1056D872",
+	"symbol": "kurbi",
+	"name": "kurbi",
+	"coingecko": "kurbi",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x77d547256A2cD95F32F67aE0313E450Ac200648d",
+	"symbol": "Lazio Fan Token",
+	"name": "Lazio Fan Token",
+	"coingecko": "lazio-fan-token",
+	"sources": [
+		"coingecko"
+	]
+}

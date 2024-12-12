@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xFD09F108D1728E6B6eD241ccd254775e322f1ed6",
+	"symbol": "BeeBase",
+	"name": "BeeBase",
+	"coingecko": "beebase",
+	"sources": [
+		"coingecko"
+	]
+}

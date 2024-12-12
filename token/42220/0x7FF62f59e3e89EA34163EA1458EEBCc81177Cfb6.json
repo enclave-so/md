@@ -1,0 +1,10 @@
+{
+	"chain": 42220,
+	"address": "0x7FF62f59e3e89EA34163EA1458EEBCc81177Cfb6",
+	"symbol": "MENTO",
+	"name": "MENTO",
+	"coingecko": "mento",
+	"sources": [
+		"coingecko"
+	]
+}

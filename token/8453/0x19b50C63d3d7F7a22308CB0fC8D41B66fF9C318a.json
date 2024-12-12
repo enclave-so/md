@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x19b50C63d3d7F7a22308CB0fC8D41B66fF9C318a",
+	"symbol": "GrabPenny",
+	"name": "GrabPenny",
+	"coingecko": "grabpenny",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0xbBAAA0420D474B34Be197f95A323C2fF3829E811",
+	"symbol": "LOD3 Token",
+	"name": "LOD3 Token",
+	"coingecko": "lode-token",
+	"sources": [
+		"coingecko"
+	]
+}

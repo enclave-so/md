@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x07e551E31A793E20dc18494ff6b03095A8F8Ee36",
+	"symbol": "Qmall",
+	"name": "Qmall",
+	"coingecko": "qmall",
+	"sources": [
+		"coingecko"
+	]
+}

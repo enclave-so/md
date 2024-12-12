@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0xaE55ab6A966863cb4c774Ba8E6C0A37CFBeA01f9",
+	"symbol": "Gram Gold",
+	"name": "Gram Gold",
+	"coingecko": "gram-gold",
+	"sources": [
+		"coingecko"
+	]
+}

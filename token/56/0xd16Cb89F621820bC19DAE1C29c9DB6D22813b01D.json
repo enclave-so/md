@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xd16Cb89F621820bC19DAE1C29c9DB6D22813b01D",
+	"symbol": "Coinbidex",
+	"name": "Coinbidex",
+	"coingecko": "coinbidex",
+	"sources": [
+		"coingecko"
+	]
+}

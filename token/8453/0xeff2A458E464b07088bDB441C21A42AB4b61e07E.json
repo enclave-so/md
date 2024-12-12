@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xeff2A458E464b07088bDB441C21A42AB4b61e07E",
+	"symbol": "ParagonsDAO",
+	"name": "ParagonsDAO",
+	"coingecko": "paragonsdao",
+	"sources": [
+		"coingecko"
+	]
+}

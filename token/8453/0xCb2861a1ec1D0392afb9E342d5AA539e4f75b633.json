@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xCb2861a1ec1D0392afb9E342d5AA539e4f75b633",
+	"symbol": "Distracted Dudes",
+	"name": "Distracted Dudes",
+	"coingecko": "distracted-dudes",
+	"sources": [
+		"coingecko"
+	]
+}

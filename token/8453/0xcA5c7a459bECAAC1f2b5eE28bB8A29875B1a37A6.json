@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xcA5c7a459bECAAC1f2b5eE28bB8A29875B1a37A6",
+	"symbol": "Birb",
+	"name": "Birb",
+	"coingecko": "birb-2",
+	"sources": [
+		"coingecko"
+	]
+}

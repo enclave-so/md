@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xe2eFe9D38e21293347018914EE1D23913EcB811c",
+	"symbol": "Intelly",
+	"name": "Intelly",
+	"coingecko": "intelly",
+	"sources": [
+		"coingecko"
+	]
+}

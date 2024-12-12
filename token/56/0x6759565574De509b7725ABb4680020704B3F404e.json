@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x6759565574De509b7725ABb4680020704B3F404e",
+	"symbol": "VIP",
+	"name": "VIP",
+	"coingecko": "vip-token",
+	"sources": [
+		"coingecko"
+	]
+}

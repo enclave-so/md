@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x82190d28E710ea9C029D009FaD951c6F1d803BB3",
+	"symbol": "Life Crypto",
+	"name": "Life Crypto",
+	"coingecko": "life-crypto",
+	"sources": [
+		"coingecko"
+	]
+}

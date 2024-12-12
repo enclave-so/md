@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x6F3AAf802F57D045efDD2AC9c06d8879305542aF",
+	"symbol": "Sirius Chain",
+	"name": "Sirius Chain",
+	"coingecko": "proximax",
+	"sources": [
+		"coingecko"
+	]
+}

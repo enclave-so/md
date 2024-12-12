@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xdAcA7C8e16DDfA5d5B266380228Ca9e2288F3931",
+	"symbol": "DYZilla",
+	"name": "DYZilla",
+	"coingecko": "dyzilla",
+	"sources": [
+		"coingecko"
+	]
+}

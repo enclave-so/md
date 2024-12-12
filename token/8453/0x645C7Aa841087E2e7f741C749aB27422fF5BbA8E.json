@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x645C7Aa841087E2e7f741C749aB27422fF5BbA8E",
+	"symbol": "Iona by Virtuals",
+	"name": "Iona by Virtuals",
+	"coingecko": "iona-by-virtuals",
+	"sources": [
+		"coingecko"
+	]
+}

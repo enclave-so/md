@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xFC646D0B564bf191B3d3adF2B620a792E485e6Da",
+	"symbol": "Half Pizza",
+	"name": "Half Pizza",
+	"coingecko": "halfpizza",
+	"sources": [
+		"coingecko"
+	]
+}

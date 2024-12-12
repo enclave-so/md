@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x478e03D45716dDa94F6DbC15A633B0D90c237E2F",
+	"symbol": "Shaka",
+	"name": "Shaka",
+	"coingecko": "sharetheshaka",
+	"sources": [
+		"coingecko"
+	]
+}

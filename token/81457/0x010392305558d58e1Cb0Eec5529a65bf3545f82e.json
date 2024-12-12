@@ -1,0 +1,10 @@
+{
+	"chain": 81457,
+	"address": "0x010392305558d58e1Cb0Eec5529a65bf3545f82e",
+	"symbol": "MACHI",
+	"name": "MACHI",
+	"coingecko": "machi",
+	"sources": [
+		"coingecko"
+	]
+}

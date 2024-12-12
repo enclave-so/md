@@ -1,0 +1,22 @@
+[
+	{
+		"chain": 16718,
+		"address": "0x2b2d892C3fe2b4113dd7aC0D2c1882AF202FB28F",
+		"symbol": "Synthetic Amber",
+		"name": "Synthetic Amber",
+		"coingecko": "synthetic-amber",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 16718,
+		"address": "0xFF9F502976E7bD2b4901aD7Dd1131Bb81E5567de",
+		"symbol": "AirDAO bridged USDC (AirDAO)",
+		"name": "AirDAO bridged USDC (AirDAO)",
+		"coingecko": "airdao-bridged-usdc-airdao",
+		"sources": [
+			"coingecko"
+		]
+	}
+]

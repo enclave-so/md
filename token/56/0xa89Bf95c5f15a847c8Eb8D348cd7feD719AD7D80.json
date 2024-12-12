@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xa89Bf95c5f15a847c8Eb8D348cd7feD719AD7D80",
+	"symbol": "Chat AI",
+	"name": "Chat AI",
+	"coingecko": "chat-ai",
+	"sources": [
+		"coingecko"
+	]
+}

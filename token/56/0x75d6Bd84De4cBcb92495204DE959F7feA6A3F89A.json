@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x75d6Bd84De4cBcb92495204DE959F7feA6A3F89A",
+	"symbol": "Mind Matrix",
+	"name": "Mind Matrix",
+	"coingecko": "mind-matrix",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xC409eC8a33f31437Ed753C82EEd3c5F16d6D7e22",
+	"symbol": "Tokyo AU",
+	"name": "Tokyo AU",
+	"coingecko": "tokyo-au",
+	"sources": [
+		"coingecko"
+	]
+}

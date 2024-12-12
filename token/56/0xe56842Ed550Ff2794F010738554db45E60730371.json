@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xe56842Ed550Ff2794F010738554db45E60730371",
+	"symbol": "Binemon",
+	"name": "Binemon",
+	"coingecko": "binemon",
+	"sources": [
+		"coingecko"
+	]
+}

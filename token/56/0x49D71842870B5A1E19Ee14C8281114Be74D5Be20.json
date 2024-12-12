@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x49D71842870B5A1E19Ee14C8281114Be74D5Be20",
+	"symbol": "TERATTO",
+	"name": "TERATTO",
+	"coingecko": "teratto",
+	"sources": [
+		"coingecko"
+	]
+}

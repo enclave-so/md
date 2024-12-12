@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x003d87d02A2A01E9E8a20f507C83E15DD83A33d1",
+	"symbol": "GT Protocol",
+	"name": "GT Protocol",
+	"coingecko": "gt-protocol",
+	"sources": [
+		"coingecko"
+	]
+}

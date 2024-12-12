@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xb18940bBEf83B687B292Ab03523c89F80717c5BC",
+	"symbol": "BullishMarketCap",
+	"name": "BullishMarketCap",
+	"coingecko": "bullishmarketcap",
+	"sources": [
+		"coingecko"
+	]
+}

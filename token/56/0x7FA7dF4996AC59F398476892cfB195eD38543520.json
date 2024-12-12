@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x7FA7dF4996AC59F398476892cfB195eD38543520",
+	"symbol": "WagyuSwap",
+	"name": "WagyuSwap",
+	"coingecko": "wagyuswap",
+	"sources": [
+		"coingecko"
+	]
+}

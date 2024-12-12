@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x8b67f2E56139cA052a7EC49cBCd1aA9c83F2752a",
+	"symbol": "MUTATIO",
+	"name": "MUTATIO",
+	"coingecko": "mutatio-flies",
+	"sources": [
+		"coingecko"
+	]
+}

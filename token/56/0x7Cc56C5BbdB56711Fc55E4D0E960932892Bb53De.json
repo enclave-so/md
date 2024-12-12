@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x7Cc56C5BbdB56711Fc55E4D0E960932892Bb53De",
+	"symbol": "LULU",
+	"name": "LULU",
+	"coingecko": "lulu",
+	"sources": [
+		"coingecko"
+	]
+}

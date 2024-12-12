@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x0288D3E353fE2299F11eA2c2e1696b4A648eCC07",
+	"symbol": "ZCore Finance",
+	"name": "ZCore Finance",
+	"coingecko": "zcore-finance",
+	"sources": [
+		"coingecko"
+	]
+}

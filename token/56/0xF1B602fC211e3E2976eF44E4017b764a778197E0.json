@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xF1B602fC211e3E2976eF44E4017b764a778197E0",
+	"symbol": "MTG Token",
+	"name": "MTG Token",
+	"coingecko": "mtg-token",
+	"sources": [
+		"coingecko"
+	]
+}

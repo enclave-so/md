@@ -1,0 +1,10 @@
+{
+	"chain": 42220,
+	"address": "0x456a3D042C0DbD3db53D5489e98dFb038553B0d0",
+	"symbol": "Celo Kenyan Shilling",
+	"name": "Celo Kenyan Shilling",
+	"coingecko": "celo-kenyan-shilling",
+	"sources": [
+		"coingecko"
+	]
+}

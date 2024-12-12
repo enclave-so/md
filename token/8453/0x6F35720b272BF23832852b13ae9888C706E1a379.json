@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x6F35720b272BF23832852b13ae9888C706E1a379",
+	"symbol": "Based Apu",
+	"name": "Based Apu",
+	"coingecko": "based-apu",
+	"sources": [
+		"coingecko"
+	]
+}

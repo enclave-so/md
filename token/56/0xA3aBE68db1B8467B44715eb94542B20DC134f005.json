@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xA3aBE68db1B8467B44715eb94542B20DC134f005",
+	"symbol": "Fluffy Coin",
+	"name": "Fluffy Coin",
+	"coingecko": "fluffy-coin",
+	"sources": [
+		"coingecko"
+	]
+}

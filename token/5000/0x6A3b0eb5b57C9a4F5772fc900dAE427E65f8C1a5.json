@@ -1,0 +1,10 @@
+{
+	"chain": 5000,
+	"address": "0x6A3b0eb5b57C9a4F5772fc900dAE427E65f8C1a5",
+	"symbol": "Cashtree Token",
+	"name": "Cashtree Token",
+	"coingecko": "cashtree-token",
+	"sources": [
+		"coingecko"
+	]
+}

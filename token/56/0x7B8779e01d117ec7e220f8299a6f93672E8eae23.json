@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x7B8779e01d117ec7e220f8299a6f93672E8eae23",
+	"symbol": "IMOV",
+	"name": "IMOV",
+	"coingecko": "imov",
+	"sources": [
+		"coingecko"
+	]
+}

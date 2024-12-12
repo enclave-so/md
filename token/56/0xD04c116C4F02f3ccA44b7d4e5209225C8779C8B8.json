@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xD04c116C4F02f3ccA44b7d4e5209225C8779C8B8",
+	"symbol": "BunnyPark Game",
+	"name": "BunnyPark Game",
+	"coingecko": "bunnypark-game",
+	"sources": [
+		"coingecko"
+	]
+}

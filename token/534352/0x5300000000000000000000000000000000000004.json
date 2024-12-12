@@ -1,0 +1,13 @@
+{
+	"chain": 534352,
+	"address": "0x5300000000000000000000000000000000000004",
+	"symbol": "WETH",
+	"name": "Wrapped Ether",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/scroll/0x5300000000000000000000000000000000000004.jpg",
+	"coingecko": "bridged-wrapped-ether-scroll",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

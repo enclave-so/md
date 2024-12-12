@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x25E0A7767d03461EaF88b47cd9853722Fe05DFD3",
+	"symbol": "PoSciDonDAO Token",
+	"name": "PoSciDonDAO Token",
+	"coingecko": "poscidondao-token",
+	"sources": [
+		"coingecko"
+	]
+}

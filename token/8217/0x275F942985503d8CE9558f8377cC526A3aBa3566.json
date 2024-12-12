@@ -1,0 +1,10 @@
+{
+	"chain": 8217,
+	"address": "0x275F942985503d8CE9558f8377cC526A3aBa3566",
+	"symbol": "Project WITH",
+	"name": "Project WITH",
+	"coingecko": "project-with",
+	"sources": [
+		"coingecko"
+	]
+}

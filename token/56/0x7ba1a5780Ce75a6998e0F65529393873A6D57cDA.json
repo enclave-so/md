@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x7ba1a5780Ce75a6998e0F65529393873A6D57cDA",
+	"symbol": "LUNCARMY",
+	"name": "LUNCARMY",
+	"coingecko": "luncarmy",
+	"sources": [
+		"coingecko"
+	]
+}

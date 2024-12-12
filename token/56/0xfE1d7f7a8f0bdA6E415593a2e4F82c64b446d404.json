@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xfE1d7f7a8f0bdA6E415593a2e4F82c64b446d404",
+	"symbol": "BullPerks",
+	"name": "BullPerks",
+	"coingecko": "bullperks",
+	"sources": [
+		"coingecko"
+	]
+}

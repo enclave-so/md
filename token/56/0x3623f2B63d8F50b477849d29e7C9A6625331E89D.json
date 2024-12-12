@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x3623f2B63d8F50b477849d29e7C9A6625331E89D",
+	"symbol": "Whole Earth Coin",
+	"name": "Whole Earth Coin",
+	"coingecko": "whole-earth-coin",
+	"sources": [
+		"coingecko"
+	]
+}

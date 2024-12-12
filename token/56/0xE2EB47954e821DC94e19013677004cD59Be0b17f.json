@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xE2EB47954e821DC94e19013677004cD59Be0b17f",
+	"symbol": "Triall",
+	"name": "Triall",
+	"coingecko": "triall",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x3816dD4bd44c8830c2FA020A5605bAC72FA3De7A",
+	"symbol": "Presearch",
+	"name": "Presearch",
+	"coingecko": "presearch",
+	"sources": [
+		"coingecko"
+	]
+}

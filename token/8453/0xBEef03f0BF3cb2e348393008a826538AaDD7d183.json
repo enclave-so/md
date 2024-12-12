@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xBEef03f0BF3cb2e348393008a826538AaDD7d183",
+	"symbol": "Steakhouse USDM (Base) Morpho Vault",
+	"name": "Steakhouse USDM (Base) Morpho Vault",
+	"coingecko": "steakhouse-usdm-base-morpho-vault",
+	"sources": [
+		"coingecko"
+	]
+}

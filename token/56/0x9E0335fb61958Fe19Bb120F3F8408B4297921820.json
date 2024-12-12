@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x9E0335fb61958Fe19Bb120F3F8408B4297921820",
+	"symbol": "Forbidden Fruit Energy",
+	"name": "Forbidden Fruit Energy",
+	"coingecko": "forbidden-fruit-energy",
+	"sources": [
+		"coingecko"
+	]
+}

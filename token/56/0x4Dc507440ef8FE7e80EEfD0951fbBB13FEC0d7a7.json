@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x4Dc507440ef8FE7e80EEfD0951fbBB13FEC0d7a7",
+	"symbol": "Popo The Frog",
+	"name": "Popo The Frog",
+	"coingecko": "popo-the-frog",
+	"sources": [
+		"coingecko"
+	]
+}

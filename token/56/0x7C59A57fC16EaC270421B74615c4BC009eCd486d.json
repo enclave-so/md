@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x7C59A57fC16EaC270421B74615c4BC009eCd486d",
+	"symbol": "RXCGames",
+	"name": "RXCGames",
+	"coingecko": "rxcgames",
+	"sources": [
+		"coingecko"
+	]
+}

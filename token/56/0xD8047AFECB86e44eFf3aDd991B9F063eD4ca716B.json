@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xD8047AFECB86e44eFf3aDd991B9F063eD4ca716B",
+	"symbol": "Good Games Guild",
+	"name": "Good Games Guild",
+	"coingecko": "good-games-guild",
+	"sources": [
+		"coingecko"
+	]
+}

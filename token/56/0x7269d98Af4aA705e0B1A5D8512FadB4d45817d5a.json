@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x7269d98Af4aA705e0B1A5D8512FadB4d45817d5a",
+	"symbol": "Shirtum",
+	"name": "Shirtum",
+	"coingecko": "shirtum",
+	"sources": [
+		"coingecko"
+	]
+}

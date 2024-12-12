@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x872D068c25511be88C1f5990c53eEFFCDf46c9B4",
+	"symbol": "Vent Finance",
+	"name": "Vent Finance",
+	"coingecko": "vent-finance",
+	"sources": [
+		"coingecko"
+	]
+}

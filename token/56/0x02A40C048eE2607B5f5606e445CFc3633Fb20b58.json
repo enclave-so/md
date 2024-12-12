@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x02A40C048eE2607B5f5606e445CFc3633Fb20b58",
+	"symbol": "Kaby Arena",
+	"name": "Kaby Arena",
+	"coingecko": "kaby-arena",
+	"sources": [
+		"coingecko"
+	]
+}

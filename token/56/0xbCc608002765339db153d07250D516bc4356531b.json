@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xbCc608002765339db153d07250D516bc4356531b",
+	"symbol": "Leonidasbilic",
+	"name": "Leonidasbilic",
+	"coingecko": "leonidasbilic",
+	"sources": [
+		"coingecko"
+	]
+}

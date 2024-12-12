@@ -1,0 +1,10 @@
+{
+	"chain": 534352,
+	"address": "0x330c43d22bD65a60FfeA93a197f04e87FaA27b70",
+	"symbol": "abcNURI",
+	"name": "abcNURI",
+	"coingecko": "abcnuri",
+	"sources": [
+		"coingecko"
+	]
+}

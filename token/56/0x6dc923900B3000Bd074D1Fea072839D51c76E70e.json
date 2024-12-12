@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x6dc923900B3000Bd074D1Fea072839D51c76E70e",
+	"symbol": "RIFI United",
+	"name": "RIFI United",
+	"coingecko": "rifi-united",
+	"sources": [
+		"coingecko"
+	]
+}

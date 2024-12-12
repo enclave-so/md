@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xF9569cFb8FD265e91aa478d86ae8c78b8AF55Df4",
+	"symbol": "AUKI",
+	"name": "AUKI",
+	"coingecko": "auki-labs",
+	"sources": [
+		"coingecko"
+	]
+}

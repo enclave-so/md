@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x4D1E90aB966ae26c778b2f9f365aA40abB13f53C",
+	"symbol": "STA",
+	"name": "STA",
+	"coingecko": "sta-token",
+	"sources": [
+		"coingecko"
+	]
+}

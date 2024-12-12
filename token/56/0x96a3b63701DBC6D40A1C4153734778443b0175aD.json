@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x96a3b63701DBC6D40A1C4153734778443b0175aD",
+	"symbol": "Cakedog",
+	"name": "Cakedog",
+	"coingecko": "cakedog",
+	"sources": [
+		"coingecko"
+	]
+}

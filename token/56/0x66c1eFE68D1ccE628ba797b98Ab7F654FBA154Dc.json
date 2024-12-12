@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x66c1eFE68D1ccE628ba797b98Ab7F654FBA154Dc",
+	"symbol": "MetaLabz",
+	"name": "MetaLabz",
+	"coingecko": "metabusdcoin",
+	"sources": [
+		"coingecko"
+	]
+}

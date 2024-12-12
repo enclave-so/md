@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xB0458283033e5A3f7867F409477f53754b667DCC",
+	"symbol": "Blurt",
+	"name": "Blurt",
+	"coingecko": "blurt",
+	"sources": [
+		"coingecko"
+	]
+}

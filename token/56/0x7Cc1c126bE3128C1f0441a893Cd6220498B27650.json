@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x7Cc1c126bE3128C1f0441a893Cd6220498B27650",
+	"symbol": "XROW",
+	"name": "XROW",
+	"coingecko": "xrow",
+	"sources": [
+		"coingecko"
+	]
+}

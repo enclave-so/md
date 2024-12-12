@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x9baE1A6BD435CD0DEB62E7517Ea948B5eb6EB497",
+	"symbol": "GoWrap",
+	"name": "GoWrap",
+	"coingecko": "gowrap",
+	"sources": [
+		"coingecko"
+	]
+}

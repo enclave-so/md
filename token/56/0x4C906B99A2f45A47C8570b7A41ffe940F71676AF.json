@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x4C906B99A2f45A47C8570b7A41ffe940F71676AF",
+	"symbol": "OpiPets",
+	"name": "OpiPets",
+	"coingecko": "opipets",
+	"sources": [
+		"coingecko"
+	]
+}

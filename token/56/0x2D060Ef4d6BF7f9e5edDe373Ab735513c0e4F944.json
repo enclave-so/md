@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x2D060Ef4d6BF7f9e5edDe373Ab735513c0e4F944",
+	"symbol": "Solidus Ai Tech",
+	"name": "Solidus Ai Tech",
+	"coingecko": "solidus-aitech",
+	"sources": [
+		"coingecko"
+	]
+}

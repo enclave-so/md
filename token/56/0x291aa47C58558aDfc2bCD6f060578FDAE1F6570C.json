@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x291aa47C58558aDfc2bCD6f060578FDAE1F6570C",
+	"symbol": "Minebase",
+	"name": "Minebase",
+	"coingecko": "minebase",
+	"sources": [
+		"coingecko"
+	]
+}

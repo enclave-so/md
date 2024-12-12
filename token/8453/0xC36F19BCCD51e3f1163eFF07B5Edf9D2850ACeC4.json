@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xC36F19BCCD51e3f1163eFF07B5Edf9D2850ACeC4",
+	"symbol": "Brett's Dog",
+	"name": "Brett's Dog",
+	"coingecko": "brett-s-dog",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xE3B53AF74a4BF62Ae5511055290838050bf764Df",
+	"symbol": "Stargate Finance",
+	"name": "Stargate Finance",
+	"coingecko": "stargate-finance",
+	"sources": [
+		"coingecko"
+	]
+}

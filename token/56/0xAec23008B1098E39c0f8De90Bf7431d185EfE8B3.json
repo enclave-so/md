@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xAec23008B1098E39c0f8De90Bf7431d185EfE8B3",
+	"symbol": "Crazy Bunny Equity",
+	"name": "Crazy Bunny Equity",
+	"coingecko": "crazy-bunny-equity-token",
+	"sources": [
+		"coingecko"
+	]
+}

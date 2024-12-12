@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xBd15d0c77133d3200756dC4D7a4F577Dbb2cf6A3",
+	"symbol": "BaseSafe",
+	"name": "BaseSafe",
+	"coingecko": "basesafe",
+	"sources": [
+		"coingecko"
+	]
+}

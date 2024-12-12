@@ -1,0 +1,10 @@
+{
+	"chain": 8217,
+	"address": "0x754288077D0fF82AF7a5317C7CB8c444D421d103",
+	"symbol": "Bridged USD Coin (Orbit Bridge)",
+	"name": "Bridged USD Coin (Orbit Bridge)",
+	"coingecko": "orbit-bridge-klaytn-usdc",
+	"sources": [
+		"coingecko"
+	]
+}

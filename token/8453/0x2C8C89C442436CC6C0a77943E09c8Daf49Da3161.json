@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x2C8C89C442436CC6C0a77943E09c8Daf49Da3161",
+	"symbol": "Zeebu",
+	"name": "Zeebu",
+	"coingecko": "zeebu",
+	"sources": [
+		"coingecko"
+	]
+}

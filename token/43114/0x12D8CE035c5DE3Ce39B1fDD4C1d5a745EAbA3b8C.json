@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x12D8CE035c5DE3Ce39B1fDD4C1d5a745EAbA3b8C",
+	"symbol": "Ankr Staked ETH",
+	"name": "Ankr Staked ETH",
+	"coingecko": "ankreth",
+	"sources": [
+		"coingecko"
+	]
+}

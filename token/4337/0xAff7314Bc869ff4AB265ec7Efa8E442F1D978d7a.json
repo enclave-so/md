@@ -1,0 +1,10 @@
+{
+	"chain": 4337,
+	"address": "0xAff7314Bc869ff4AB265ec7Efa8E442F1D978d7a",
+	"symbol": "Forgotten Playland",
+	"name": "Forgotten Playland",
+	"coingecko": "forgotten-playland",
+	"sources": [
+		"coingecko"
+	]
+}

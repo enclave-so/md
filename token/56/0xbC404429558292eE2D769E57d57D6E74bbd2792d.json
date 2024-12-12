@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xbC404429558292eE2D769E57d57D6E74bbd2792d",
+	"symbol": "Savings USX",
+	"name": "Savings USX",
+	"coingecko": "savings-usx",
+	"sources": [
+		"coingecko"
+	]
+}

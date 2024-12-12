@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xD3741ac9B3f280B0819191E4b30be4ECd990771e",
+	"symbol": "DOOMER",
+	"name": "DOOMER",
+	"coingecko": "doomer-on-base-cto",
+	"sources": [
+		"coingecko"
+	]
+}

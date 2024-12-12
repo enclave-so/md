@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0xEbB5d4959B2FbA6318FbDa7d03cd44aE771fc999",
+	"symbol": "KONG",
+	"name": "KONG",
+	"coingecko": "kong",
+	"sources": [
+		"coingecko"
+	]
+}

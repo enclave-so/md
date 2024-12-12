@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x85c6C4E3ff977Ce05de71103fb74ad4467CaC5Ef",
+	"symbol": "STO Cash",
+	"name": "STO Cash",
+	"coingecko": "sto-cash",
+	"sources": [
+		"coingecko"
+	]
+}

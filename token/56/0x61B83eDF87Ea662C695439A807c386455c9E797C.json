@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x61B83eDF87Ea662C695439A807c386455c9E797C",
+	"symbol": "Ignore Fud",
+	"name": "Ignore Fud",
+	"coingecko": "ignore-fud",
+	"sources": [
+		"coingecko"
+	]
+}

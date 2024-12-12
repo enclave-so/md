@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x13B1f0579bc895B2ffb835F295FD9b63fEF36dA0",
+	"symbol": "Be For FWX",
+	"name": "Be For FWX",
+	"coingecko": "be-for-fwx",
+	"sources": [
+		"coingecko"
+	]
+}

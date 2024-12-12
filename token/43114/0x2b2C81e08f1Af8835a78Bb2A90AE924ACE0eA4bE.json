@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x2b2C81e08f1Af8835a78Bb2A90AE924ACE0eA4bE",
+	"symbol": "BENQI Liquid Staked AVAX",
+	"name": "BENQI Liquid Staked AVAX",
+	"coingecko": "benqi-liquid-staked-avax",
+	"sources": [
+		"coingecko"
+	]
+}

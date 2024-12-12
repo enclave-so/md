@@ -1,0 +1,11 @@
+{
+	"chain": 42220,
+	"address": "0x2879BFD5e7c4EF331384E908aaA3Bd3014b703fA",
+	"symbol": "sCELO",
+	"name": "Savings CELO",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/scelo.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

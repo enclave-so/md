@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x5bc4E94CE63c5470515Cbddc903F813580A2A08d",
+	"symbol": "ENTER",
+	"name": "ENTER",
+	"coingecko": "enter",
+	"sources": [
+		"coingecko"
+	]
+}

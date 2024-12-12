@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0xde8232cf3CcA014554e3B607e0fd554FBFdb20c6",
+	"symbol": "BEE Launchpad",
+	"name": "BEE Launchpad",
+	"coingecko": "bee-launchpad",
+	"sources": [
+		"coingecko"
+	]
+}

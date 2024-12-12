@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x1f3Af095CDa17d63cad238358837321e95FC5915",
+	"symbol": "Mint Club",
+	"name": "Mint Club",
+	"coingecko": "mint-club",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x935a544Bf5816E3A7C13DB2EFe3009Ffda0aCdA2",
+	"symbol": "Bluzelle",
+	"name": "Bluzelle",
+	"coingecko": "bluzelle",
+	"sources": [
+		"coingecko"
+	]
+}

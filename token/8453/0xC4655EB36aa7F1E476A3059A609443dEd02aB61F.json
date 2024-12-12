@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xC4655EB36aa7F1E476A3059A609443dEd02aB61F",
+	"symbol": "Particles Money xETH",
+	"name": "Particles Money xETH",
+	"coingecko": "particles-money-xeth",
+	"sources": [
+		"coingecko"
+	]
+}

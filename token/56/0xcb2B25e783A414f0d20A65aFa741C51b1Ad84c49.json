@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xcb2B25e783A414f0d20A65aFa741C51b1Ad84c49",
+	"symbol": "Starpad",
+	"name": "Starpad",
+	"coingecko": "starpad",
+	"sources": [
+		"coingecko"
+	]
+}

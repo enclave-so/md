@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x38076962036D65A40dc6d0C9256D19bb020F8dDc",
+	"symbol": "impactMarket [OLD]",
+	"name": "impactMarket [OLD]",
+	"coingecko": "impactmarket",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x9000Cac49C3841926Baac5b2E13c87D43e51B6a4",
+	"symbol": "Portuma",
+	"name": "Portuma",
+	"coingecko": "portuma",
+	"sources": [
+		"coingecko"
+	]
+}

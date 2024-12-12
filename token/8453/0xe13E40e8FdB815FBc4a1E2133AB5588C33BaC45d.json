@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xe13E40e8FdB815FBc4a1E2133AB5588C33BaC45d",
+	"symbol": "TRIBAL",
+	"name": "TRIBAL",
+	"coingecko": "tribal-triballygames",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xF1B6460e7fA76E7aFDDfe20740C260b0Ec6807a8",
+	"symbol": "Speciex",
+	"name": "Speciex",
+	"coingecko": "speciex",
+	"sources": [
+		"coingecko"
+	]
+}

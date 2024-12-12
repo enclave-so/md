@@ -1,0 +1,10 @@
+{
+	"chain": 59144,
+	"address": "0x796000FAd0d00B003B9dd8e531BA90cff39E01E0",
+	"symbol": "Yellow Duckies",
+	"name": "Yellow Duckies",
+	"coingecko": "duckies",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"chain": 56,
+	"address": "0x25E9d05365c867E59C1904E7463Af9F312296f9E",
+	"symbol": "ATM",
+	"name": "Atletico de Madrid",
+	"decimals": 2,
+	"logo": "https://assets.coingecko.com/coins/images/11689/small/Atletico-10.png?1604941960",
+	"sources": [
+		"sushiswap"
+	]
+}

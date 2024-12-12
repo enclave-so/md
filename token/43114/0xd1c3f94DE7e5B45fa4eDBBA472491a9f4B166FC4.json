@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0xd1c3f94DE7e5B45fa4eDBBA472491a9f4B166FC4",
+	"symbol": "Avalaunch",
+	"name": "Avalaunch",
+	"coingecko": "avalaunch",
+	"sources": [
+		"coingecko"
+	]
+}

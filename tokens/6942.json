@@ -1,0 +1,42 @@
+[
+	{
+		"chain": 6942,
+		"address": "0xE3C3b8Dad83B296699419dF2F814574CDE70aa89",
+		"symbol": "Laika Bridged ETH (Laika)",
+		"name": "Laika Bridged ETH (Laika)",
+		"coingecko": "laika-bridged-eth-laika",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 6942,
+		"address": "0x47600d6c8cf25E7D21aF4A2C799C52fC2345b011",
+		"symbol": "Laika Bridged USDC (Laika)",
+		"name": "Laika Bridged USDC (Laika)",
+		"coingecko": "laika-bridged-usdc-laika",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 6942,
+		"address": "0x0443C78b08e1d14fEa8C12c01cAB6f91b9b8bdFc",
+		"symbol": "Laika Bridged WDOGE (Laika)",
+		"name": "Laika Bridged WDOGE (Laika)",
+		"coingecko": "laika-bridged-wdoge-laika",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 6942,
+		"address": "0x4200000000000000000000000000000000000000",
+		"symbol": "Laïka",
+		"name": "Laïka",
+		"coingecko": "laikachain",
+		"sources": [
+			"coingecko"
+		]
+	}
+]

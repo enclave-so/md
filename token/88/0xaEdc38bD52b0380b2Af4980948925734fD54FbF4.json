@@ -1,0 +1,10 @@
+{
+	"chain": 88,
+	"address": "0xaEdc38bD52b0380b2Af4980948925734fD54FbF4",
+	"symbol": "DackieSwap",
+	"name": "DackieSwap",
+	"coingecko": "dackieswap",
+	"sources": [
+		"coingecko"
+	]
+}

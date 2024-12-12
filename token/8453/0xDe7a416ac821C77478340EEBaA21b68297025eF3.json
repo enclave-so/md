@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xDe7a416ac821C77478340EEBaA21b68297025eF3",
+	"symbol": "Beni",
+	"name": "Beni",
+	"coingecko": "beni",
+	"sources": [
+		"coingecko"
+	]
+}

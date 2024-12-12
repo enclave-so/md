@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xBf4Db8b7A679F89Ef38125d5F84dd1446AF2ea3B",
+	"symbol": "Le Bleu Elefant",
+	"name": "Le Bleu Elefant",
+	"coingecko": "le-bleu-elefant",
+	"sources": [
+		"coingecko"
+	]
+}

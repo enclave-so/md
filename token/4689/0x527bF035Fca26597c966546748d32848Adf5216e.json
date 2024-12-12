@@ -1,0 +1,10 @@
+{
+	"chain": 4689,
+	"address": "0x527bF035Fca26597c966546748d32848Adf5216e",
+	"symbol": "ioTube Bridged WNT (IoTeX)",
+	"name": "ioTube Bridged WNT (IoTeX)",
+	"coingecko": "iotube-bridged-wnt-iotex",
+	"sources": [
+		"coingecko"
+	]
+}

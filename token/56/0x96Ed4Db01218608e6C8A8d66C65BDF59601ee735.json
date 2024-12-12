@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x96Ed4Db01218608e6C8A8d66C65BDF59601ee735",
+	"symbol": "Fuzzy Lucky",
+	"name": "Fuzzy Lucky",
+	"coingecko": "bscm",
+	"sources": [
+		"coingecko"
+	]
+}

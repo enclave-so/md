@@ -1,0 +1,10 @@
+{
+	"chain": 48900,
+	"address": "0x46dDa6a5a559d861c06EC9a95Fb395f5C3Db0742",
+	"symbol": "Zircuit Bridged USDT (Zircuit)",
+	"name": "Zircuit Bridged USDT (Zircuit)",
+	"coingecko": "zircuit-bridged-usdt-zircuit",
+	"sources": [
+		"coingecko"
+	]
+}

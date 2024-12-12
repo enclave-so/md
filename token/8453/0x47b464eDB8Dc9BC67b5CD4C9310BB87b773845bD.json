@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x47b464eDB8Dc9BC67b5CD4C9310BB87b773845bD",
+	"symbol": "NORMIE",
+	"name": "NORMIE",
+	"coingecko": "normie-2",
+	"sources": [
+		"coingecko"
+	]
+}

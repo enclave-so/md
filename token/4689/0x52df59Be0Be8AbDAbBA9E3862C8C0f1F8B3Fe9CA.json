@@ -1,0 +1,10 @@
+{
+	"chain": 4689,
+	"address": "0x52df59Be0Be8AbDAbBA9E3862C8C0f1F8B3Fe9CA",
+	"symbol": "ioTube Bridged XNET (IoTeX)",
+	"name": "ioTube Bridged XNET (IoTeX)",
+	"coingecko": "iotube-bridged-xnet-iotex",
+	"sources": [
+		"coingecko"
+	]
+}

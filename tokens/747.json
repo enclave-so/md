@@ -1,0 +1,52 @@
+[
+	{
+		"chain": 747,
+		"address": "0xd8Ad8AE8375aa31BFF541e17dC4b4917014EbDAa",
+		"symbol": "BETA",
+		"name": "BETA",
+		"coingecko": "beta",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 747,
+		"address": "0x7f27352D5F83Db87a5A3E00f4B07Cc2138D8ee52",
+		"symbol": "Celer Bridged USDC (Flow EVM)",
+		"name": "Celer Bridged USDC (Flow EVM)",
+		"coingecko": "celer-bridged-usdc-flow-evm",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 747,
+		"address": "0xB73BF8e6A4477a952E0338e6CC00cC0ce5AD04bA",
+		"symbol": "Froth",
+		"name": "Froth",
+		"coingecko": "froth",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 747,
+		"address": "0xd3bF53DAC106A0290B0483EcBC89d40FcC961f3e",
+		"symbol": "Wrapped Flow",
+		"name": "Wrapped Flow",
+		"coingecko": "wrapped-flow",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 747,
+		"address": "0x1b97100eA1D7126C4d60027e231EA4CB25314bdb",
+		"symbol": "Ankr Staked FLOW",
+		"name": "Ankr Staked FLOW",
+		"coingecko": "ankr-staked-flow",
+		"sources": [
+			"coingecko"
+		]
+	}
+]

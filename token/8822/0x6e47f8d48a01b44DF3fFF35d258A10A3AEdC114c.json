@@ -1,0 +1,10 @@
+{
+	"chain": 8822,
+	"address": "0x6e47f8d48a01b44DF3fFF35d258A10A3AEdC114c",
+	"symbol": "Wrapped IOTA",
+	"name": "Wrapped IOTA",
+	"coingecko": "wrapped-iota",
+	"sources": [
+		"coingecko"
+	]
+}

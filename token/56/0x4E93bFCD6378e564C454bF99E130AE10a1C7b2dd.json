@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x4E93bFCD6378e564C454bF99E130AE10a1C7b2dd",
+	"symbol": "AirBTC",
+	"name": "AirBTC",
+	"coingecko": "airbtc",
+	"sources": [
+		"coingecko"
+	]
+}

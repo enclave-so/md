@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xe700BA35998faD8e669e3CCa7b3A350F1FDcACF8",
+	"symbol": "Purchasa",
+	"name": "Purchasa",
+	"coingecko": "purchasa",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x59769630b236398c2471EB26e6a529448030D94F",
+	"symbol": "NKYC Token",
+	"name": "NKYC Token",
+	"coingecko": "nkyc-token",
+	"sources": [
+		"coingecko"
+	]
+}

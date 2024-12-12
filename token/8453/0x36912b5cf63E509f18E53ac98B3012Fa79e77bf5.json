@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x36912b5cf63E509f18E53ac98B3012Fa79e77bf5",
+	"symbol": "FUEGO",
+	"name": "FUEGO",
+	"coingecko": "fuego",
+	"sources": [
+		"coingecko"
+	]
+}

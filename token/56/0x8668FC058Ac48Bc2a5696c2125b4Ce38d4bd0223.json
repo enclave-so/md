@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x8668FC058Ac48Bc2a5696c2125b4Ce38d4bd0223",
+	"symbol": "Alpha Rabbit",
+	"name": "Alpha Rabbit",
+	"coingecko": "alpha-rabbit",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xed4Bb33F20F32E989AF975196E86019773A7CFf0",
+	"symbol": "UTU Coin",
+	"name": "UTU Coin",
+	"coingecko": "utu-coin",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x545f90dC35CA1e6129f1fEd354b3e2DF12034261",
+	"symbol": "NewB.Farm",
+	"name": "NewB.Farm",
+	"coingecko": "newb-farm",
+	"sources": [
+		"coingecko"
+	]
+}

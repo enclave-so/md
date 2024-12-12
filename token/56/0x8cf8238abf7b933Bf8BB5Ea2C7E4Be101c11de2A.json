@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x8cf8238abf7b933Bf8BB5Ea2C7E4Be101c11de2A",
+	"symbol": "XP Network",
+	"name": "XP Network",
+	"coingecko": "xp-network",
+	"sources": [
+		"coingecko"
+	]
+}

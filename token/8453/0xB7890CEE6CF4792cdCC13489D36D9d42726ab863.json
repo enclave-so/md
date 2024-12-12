@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xB7890CEE6CF4792cdCC13489D36D9d42726ab863",
+	"symbol": "Universal USDC",
+	"name": "Universal USDC",
+	"coingecko": "universal-usdc",
+	"sources": [
+		"coingecko"
+	]
+}

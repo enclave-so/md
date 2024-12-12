@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x1CCb4B14a11E0f2994A7EcbBD4Cc69632F4C7c76",
+	"symbol": "Cute Cat Candle",
+	"name": "Cute Cat Candle",
+	"coingecko": "cute-cat-token",
+	"sources": [
+		"coingecko"
+	]
+}

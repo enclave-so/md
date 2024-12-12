@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x44C99Ca267C2b2646cEEc72e898273085aB87ca5",
+	"symbol": "Raptor Finance",
+	"name": "Raptor Finance",
+	"coingecko": "raptor-finance-2",
+	"sources": [
+		"coingecko"
+	]
+}

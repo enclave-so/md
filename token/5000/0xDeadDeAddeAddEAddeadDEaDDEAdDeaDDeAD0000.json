@@ -1,0 +1,10 @@
+{
+	"chain": 5000,
+	"address": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000",
+	"symbol": "Mantle",
+	"name": "Mantle",
+	"coingecko": "mantle",
+	"sources": [
+		"coingecko"
+	]
+}

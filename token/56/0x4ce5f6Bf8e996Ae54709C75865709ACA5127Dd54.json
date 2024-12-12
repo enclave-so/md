@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x4ce5f6Bf8e996Ae54709C75865709ACA5127Dd54",
+	"symbol": "Amateras",
+	"name": "Amateras",
+	"coingecko": "amateras",
+	"sources": [
+		"coingecko"
+	]
+}

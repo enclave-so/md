@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xFE1d8816A1c4431F14CdF1D20e3E0c3812dCE3e0",
+	"symbol": "PEPEBNBS",
+	"name": "PEPEBNBS",
+	"coingecko": "pepebnbs",
+	"sources": [
+		"coingecko"
+	]
+}

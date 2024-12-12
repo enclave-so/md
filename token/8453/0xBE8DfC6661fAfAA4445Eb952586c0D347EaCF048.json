@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xBE8DfC6661fAfAA4445Eb952586c0D347EaCF048",
+	"symbol": "Monk.gg",
+	"name": "Monk.gg",
+	"coingecko": "monk-gg",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 81457,
+	"address": "0xf53C57338A304558709EF69fe53b518C5f62733E",
+	"symbol": "Dackie USD",
+	"name": "Dackie USD",
+	"coingecko": "dackie-usd",
+	"sources": [
+		"coingecko"
+	]
+}

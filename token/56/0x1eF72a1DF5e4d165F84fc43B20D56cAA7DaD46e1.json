@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x1eF72a1DF5e4d165F84fc43B20D56cAA7DaD46e1",
+	"symbol": "AMMYI Coin",
+	"name": "AMMYI Coin",
+	"coingecko": "ammyi-coin",
+	"sources": [
+		"coingecko"
+	]
+}

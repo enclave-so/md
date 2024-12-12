@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x33a64943a0eaeCC2b06B10F89686B797bA75FFAD",
+	"symbol": "PrivateAI",
+	"name": "PrivateAI",
+	"coingecko": "privateai",
+	"sources": [
+		"coingecko"
+	]
+}

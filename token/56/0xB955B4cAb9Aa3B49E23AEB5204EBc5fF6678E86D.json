@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xB955B4cAb9Aa3B49E23AEB5204EBc5fF6678E86D",
+	"symbol": "Asian Fintech",
+	"name": "Asian Fintech",
+	"coingecko": "afin-coin",
+	"sources": [
+		"coingecko"
+	]
+}

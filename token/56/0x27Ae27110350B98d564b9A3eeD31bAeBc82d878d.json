@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x27Ae27110350B98d564b9A3eeD31bAeBc82d878d",
+	"symbol": "CumRocket",
+	"name": "CumRocket",
+	"coingecko": "cumrocket",
+	"sources": [
+		"coingecko"
+	]
+}

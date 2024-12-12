@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xc7Edf7B7b3667a06992508e7B156eff794a9e1c8",
+	"symbol": "Persistence One",
+	"name": "Persistence One",
+	"coingecko": "persistence",
+	"sources": [
+		"coingecko"
+	]
+}

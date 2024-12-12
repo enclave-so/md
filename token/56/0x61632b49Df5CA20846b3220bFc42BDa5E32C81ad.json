@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x61632b49Df5CA20846b3220bFc42BDa5E32C81ad",
+	"symbol": "Curio Gas Token",
+	"name": "Curio Gas Token",
+	"coingecko": "curio-gas-token",
+	"sources": [
+		"coingecko"
+	]
+}

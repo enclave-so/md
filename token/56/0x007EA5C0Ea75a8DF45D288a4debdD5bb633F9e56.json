@@ -1,0 +1,11 @@
+{
+	"chain": 56,
+	"address": "0x007EA5C0Ea75a8DF45D288a4debdD5bb633F9e56",
+	"symbol": "CAN",
+	"name": "CanYaCoin",
+	"decimals": 18,
+	"logo": "https://bscscan.com/token/images/canya_32.png",
+	"sources": [
+		"sushiswap"
+	]
+}

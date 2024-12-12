@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x8689DeA88EC1E2638250Eef702E722C6dACFF70E",
+	"symbol": "BNB Whales",
+	"name": "BNB Whales",
+	"coingecko": "bnb-whales",
+	"sources": [
+		"coingecko"
+	]
+}

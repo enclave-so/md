@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x2d35C695BE9080D27ef5c6eFE80BeefcfAAB8573",
+	"symbol": "Echo Of The Horizon",
+	"name": "Echo Of The Horizon",
+	"coingecko": "echo-of-the-horizon",
+	"sources": [
+		"coingecko"
+	]
+}

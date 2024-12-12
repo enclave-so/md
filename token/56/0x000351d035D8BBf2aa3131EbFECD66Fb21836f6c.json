@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x000351d035D8BBf2aa3131EbFECD66Fb21836f6c",
+	"symbol": "Scotty Beam",
+	"name": "Scotty Beam",
+	"coingecko": "scotty-beam",
+	"sources": [
+		"coingecko"
+	]
+}

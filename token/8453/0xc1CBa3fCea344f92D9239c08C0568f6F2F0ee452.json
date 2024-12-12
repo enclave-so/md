@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xc1CBa3fCea344f92D9239c08C0568f6F2F0ee452",
+	"symbol": "Wrapped stETH",
+	"name": "Wrapped stETH",
+	"coingecko": "wrapped-steth",
+	"sources": [
+		"coingecko"
+	]
+}

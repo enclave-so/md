@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x7881cD2B5724431372F57C50E91611352557A606",
+	"symbol": "HyperCycle",
+	"name": "HyperCycle",
+	"coingecko": "hypercycle",
+	"sources": [
+		"coingecko"
+	]
+}

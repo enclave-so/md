@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x46B9144771Cb3195D66e4EDA643a7493fADCAF9D",
+	"symbol": "BloodLoop",
+	"name": "BloodLoop",
+	"coingecko": "bloodloop",
+	"sources": [
+		"coingecko"
+	]
+}

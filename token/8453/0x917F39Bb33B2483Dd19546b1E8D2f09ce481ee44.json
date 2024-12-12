@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x917F39Bb33B2483Dd19546b1E8D2f09ce481ee44",
+	"symbol": "PKT",
+	"name": "PKT",
+	"coingecko": "pkt",
+	"sources": [
+		"coingecko"
+	]
+}

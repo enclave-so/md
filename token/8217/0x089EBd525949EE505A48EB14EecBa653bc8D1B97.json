@@ -1,0 +1,10 @@
+{
+	"chain": 8217,
+	"address": "0x089EBd525949EE505A48EB14EecBa653bc8D1B97",
+	"symbol": "Klaydice",
+	"name": "Klaydice",
+	"coingecko": "klaydice",
+	"sources": [
+		"coingecko"
+	]
+}

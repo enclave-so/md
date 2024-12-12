@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x4b61E2f1BBDEe6D746209a693156952936F1702C",
+	"symbol": "Based Lambow",
+	"name": "Based Lambow",
+	"coingecko": "based-lambow",
+	"sources": [
+		"coingecko"
+	]
+}

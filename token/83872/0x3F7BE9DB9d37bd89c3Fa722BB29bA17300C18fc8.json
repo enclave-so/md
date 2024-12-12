@@ -1,0 +1,10 @@
+{
+	"chain": 83872,
+	"address": "0x3F7BE9DB9d37bd89c3Fa722BB29bA17300C18fc8",
+	"symbol": "Wrapped Zedxion",
+	"name": "Wrapped Zedxion",
+	"coingecko": "wrapped-zedxion",
+	"sources": [
+		"coingecko"
+	]
+}

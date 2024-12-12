@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xBfBe5fdA3483F6bcd1b3e6FB0647C00667e05D54",
+	"symbol": "OPENWORLDNFT",
+	"name": "OPENWORLDNFT",
+	"coingecko": "openworldnft",
+	"sources": [
+		"coingecko"
+	]
+}

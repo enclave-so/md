@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x1E30bBEE322b3B11C60cb434a47F1605C2a99483",
+	"symbol": "AIEarn",
+	"name": "AIEarn",
+	"coingecko": "aiearn",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xA1EBB0922a7F43DF50B34ad9Bf2F602F88aaB869",
+	"symbol": "Tickle",
+	"name": "Tickle",
+	"coingecko": "tickle",
+	"sources": [
+		"coingecko"
+	]
+}

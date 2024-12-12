@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xCEe4E6F4d8e634e329c457a4F98c090aFAfB1C4b",
+	"symbol": "2024PUMP",
+	"name": "2024PUMP",
+	"coingecko": "2024pump",
+	"sources": [
+		"coingecko"
+	]
+}

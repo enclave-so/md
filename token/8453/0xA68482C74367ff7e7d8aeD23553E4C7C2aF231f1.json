@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xA68482C74367ff7e7d8aeD23553E4C7C2aF231f1",
+	"symbol": "NOJEET",
+	"name": "NOJEET",
+	"coingecko": "nojeet",
+	"sources": [
+		"coingecko"
+	]
+}

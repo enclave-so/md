@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x0bB0E29458714C4961e5198aB3bC808F628dd6c7",
+	"symbol": "Solvex Network",
+	"name": "Solvex Network",
+	"coingecko": "solvex-network",
+	"sources": [
+		"coingecko"
+	]
+}

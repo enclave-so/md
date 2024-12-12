@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x079c6Dc6b3B627E8eB07fa2e391B27d59Eb4000B",
+	"symbol": "Baby Rats",
+	"name": "Baby Rats",
+	"coingecko": "baby-rats",
+	"sources": [
+		"coingecko"
+	]
+}

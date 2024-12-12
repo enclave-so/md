@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x4550003152F12014558e5CE025707E4DD841100F",
+	"symbol": "Kaizen.Finance",
+	"name": "Kaizen.Finance",
+	"coingecko": "kaizen",
+	"sources": [
+		"coingecko"
+	]
+}

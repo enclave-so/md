@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x0afCAE1208Ac99aDdc6983A06735A199f190de09",
+	"symbol": "Froggy Friends",
+	"name": "Froggy Friends",
+	"coingecko": "froggy-friends",
+	"sources": [
+		"coingecko"
+	]
+}

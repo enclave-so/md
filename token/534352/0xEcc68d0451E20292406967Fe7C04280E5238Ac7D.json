@@ -1,0 +1,13 @@
+{
+	"chain": 534352,
+	"address": "0xEcc68d0451E20292406967Fe7C04280E5238Ac7D",
+	"symbol": "frxETH",
+	"name": "Frax Ether",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/scroll/0xEcc68d0451E20292406967Fe7C04280E5238Ac7D.jpg",
+	"coingecko": "axelar-bridged-frax-ether",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

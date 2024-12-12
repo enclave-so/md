@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x4803Ac6b79F9582F69c4fa23c72cb76dD1E46d8d",
+	"symbol": "TopManager",
+	"name": "TopManager",
+	"coingecko": "topmanager",
+	"sources": [
+		"coingecko"
+	]
+}

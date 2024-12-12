@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xB166E8B140D35D9D8226E40C09f757BAC5A4d87d",
+	"symbol": "Non-Playable Coin",
+	"name": "Non-Playable Coin",
+	"coingecko": "non-playable-coin",
+	"sources": [
+		"coingecko"
+	]
+}

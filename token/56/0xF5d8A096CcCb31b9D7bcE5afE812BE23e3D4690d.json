@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xF5d8A096CcCb31b9D7bcE5afE812BE23e3D4690d",
+	"symbol": "HappyFans",
+	"name": "HappyFans",
+	"coingecko": "happyfans",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xaf6162DC717CFC8818eFC8d6f46a41Cf7042fCBA",
+	"symbol": "Atlas USV",
+	"name": "Atlas USV",
+	"coingecko": "atlas-usv",
+	"sources": [
+		"coingecko"
+	]
+}

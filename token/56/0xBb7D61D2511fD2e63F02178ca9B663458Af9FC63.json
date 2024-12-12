@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xBb7D61D2511fD2e63F02178ca9B663458Af9FC63",
+	"symbol": "Exverse",
+	"name": "Exverse",
+	"coingecko": "exverse",
+	"sources": [
+		"coingecko"
+	]
+}

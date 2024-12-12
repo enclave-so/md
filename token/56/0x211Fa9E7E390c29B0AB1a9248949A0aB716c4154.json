@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x211Fa9E7E390c29B0AB1a9248949A0aB716c4154",
+	"symbol": "Mother of Memes",
+	"name": "Mother of Memes",
+	"coingecko": "mother-of-memes",
+	"sources": [
+		"coingecko"
+	]
+}

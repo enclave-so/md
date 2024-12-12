@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xF54b110B84aB2033330eD64C645A136Ef0dDe683",
+	"symbol": "Plena",
+	"name": "Plena",
+	"coingecko": "plena",
+	"sources": [
+		"coingecko"
+	]
+}

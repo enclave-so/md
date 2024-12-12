@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x14Eb40fb7900185C01ADC6a5b8ac506d8a600e3c",
+	"symbol": "Token Teknoloji A.Ş. EURO",
+	"name": "Token Teknoloji A.Ş. EURO",
+	"coingecko": "token-teknoloji-a-s-euro",
+	"sources": [
+		"coingecko"
+	]
+}

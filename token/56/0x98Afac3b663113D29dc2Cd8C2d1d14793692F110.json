@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x98Afac3b663113D29dc2Cd8C2d1d14793692F110",
+	"symbol": "MVS Multiverse",
+	"name": "MVS Multiverse",
+	"coingecko": "mvs-multiverse",
+	"sources": [
+		"coingecko"
+	]
+}

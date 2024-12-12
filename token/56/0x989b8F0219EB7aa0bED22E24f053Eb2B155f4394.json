@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x989b8F0219EB7aa0bED22E24f053Eb2B155f4394",
+	"symbol": "Mommy Doge",
+	"name": "Mommy Doge",
+	"coingecko": "mommy-doge",
+	"sources": [
+		"coingecko"
+	]
+}

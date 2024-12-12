@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x991b4ce57864060115700D6FC05c7780346a15Ac",
+	"symbol": "Y8U",
+	"name": "Y8U",
+	"coingecko": "y8u",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x9b208b117B2C4F76C1534B6f006b033220a681A4",
+	"symbol": "Dingocoin",
+	"name": "Dingocoin",
+	"coingecko": "dingocoin",
+	"sources": [
+		"coingecko"
+	]
+}

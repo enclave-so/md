@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x7480527815ccAE421400Da01E052b120Cc4255E9",
+	"symbol": "Workie",
+	"name": "Workie",
+	"coingecko": "workie",
+	"sources": [
+		"coingecko"
+	]
+}

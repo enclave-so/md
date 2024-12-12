@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0xd9D90f882CDdD6063959A9d837B05Cb748718A05",
+	"symbol": "Moremoney Finance",
+	"name": "Moremoney Finance",
+	"coingecko": "more-token",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x43B35e89d15B91162Dea1C51133C4c93bdd1C4aF",
+	"symbol": "Sakai Vault",
+	"name": "Sakai Vault",
+	"coingecko": "sakai-vault",
+	"sources": [
+		"coingecko"
+	]
+}

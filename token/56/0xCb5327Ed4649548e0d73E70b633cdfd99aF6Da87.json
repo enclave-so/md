@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xCb5327Ed4649548e0d73E70b633cdfd99aF6Da87",
+	"symbol": "PRIMAL",
+	"name": "PRIMAL",
+	"coingecko": "primal-b3099cd0-995a-4311-80d5-9c133153b38e",
+	"sources": [
+		"coingecko"
+	]
+}

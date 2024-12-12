@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x2f86508f41310D8D974B76deb3D246c0caa71cf5",
+	"symbol": "Hot Cross",
+	"name": "Hot Cross",
+	"coingecko": "hot-cross",
+	"sources": [
+		"coingecko"
+	]
+}

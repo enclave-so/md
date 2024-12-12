@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x7062f2e2b917ED14B2B0833e9e0278CB4Bc62C69",
+	"symbol": "Antofy",
+	"name": "Antofy",
+	"coingecko": "antofy",
+	"sources": [
+		"coingecko"
+	]
+}

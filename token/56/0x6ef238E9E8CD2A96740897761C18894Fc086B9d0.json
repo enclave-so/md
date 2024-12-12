@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x6ef238E9E8CD2A96740897761C18894Fc086B9d0",
+	"symbol": "Mytheria",
+	"name": "Mytheria",
+	"coingecko": "mytheria",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x4229c271c19CA5F319fb67b4BC8A40761A6d6299",
+	"symbol": "Neged",
+	"name": "Neged",
+	"coingecko": "neged",
+	"sources": [
+		"coingecko"
+	]
+}

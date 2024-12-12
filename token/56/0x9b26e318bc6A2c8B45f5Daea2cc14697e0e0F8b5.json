@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x9b26e318bc6A2c8B45f5Daea2cc14697e0e0F8b5",
+	"symbol": "Ta-da",
+	"name": "Ta-da",
+	"coingecko": "ta-da",
+	"sources": [
+		"coingecko"
+	]
+}

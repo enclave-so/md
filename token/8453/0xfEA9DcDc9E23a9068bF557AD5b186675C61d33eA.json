@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xfEA9DcDc9E23a9068bF557AD5b186675C61d33eA",
+	"symbol": "Based Shiba Inu",
+	"name": "Based Shiba Inu",
+	"coingecko": "based-shiba-inu",
+	"sources": [
+		"coingecko"
+	]
+}

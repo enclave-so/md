@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xB248a295732e0225acd3337607cc01068e3b9c10",
+	"symbol": "Venus XRP",
+	"name": "Venus XRP",
+	"coingecko": "venus-xrp",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xE3B933caed104dB24542249c7331584d5a05972F",
+	"symbol": "JOOPS",
+	"name": "JOOPS",
+	"coingecko": "joops",
+	"sources": [
+		"coingecko"
+	]
+}

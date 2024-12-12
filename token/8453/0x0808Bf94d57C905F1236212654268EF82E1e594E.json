@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x0808Bf94d57C905F1236212654268EF82E1e594E",
+	"symbol": "ritestream",
+	"name": "ritestream",
+	"coingecko": "ritestream",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xeD236c32f695c83Efde232c288701d6f9C23E60E",
+	"symbol": "Vertek",
+	"name": "Vertek",
+	"coingecko": "vertek",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x029C58A909fBe3d4BE85a24f414DDa923A3Fde0F",
+	"symbol": "Defi-Ira",
+	"name": "Defi-Ira",
+	"coingecko": "defi-ira",
+	"sources": [
+		"coingecko"
+	]
+}

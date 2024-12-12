@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x6e37C95b43566E538D8C278eb69B00FC717a001b",
+	"symbol": "Re7 RWA",
+	"name": "Re7 RWA",
+	"coingecko": "re7-rwa",
+	"sources": [
+		"coingecko"
+	]
+}

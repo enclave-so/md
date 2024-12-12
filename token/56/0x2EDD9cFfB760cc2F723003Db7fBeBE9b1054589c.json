@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x2EDD9cFfB760cc2F723003Db7fBeBE9b1054589c",
+	"symbol": "UPUP TOKEN",
+	"name": "UPUP TOKEN",
+	"coingecko": "upup-token",
+	"sources": [
+		"coingecko"
+	]
+}

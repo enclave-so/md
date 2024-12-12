@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x5CDABC6Bc3b14a77a502cCe5eA05D04a0cf52557",
+	"symbol": "SafeMoo",
+	"name": "SafeMoo",
+	"coingecko": "safemoo",
+	"sources": [
+		"coingecko"
+	]
+}

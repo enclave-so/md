@@ -1,0 +1,11 @@
+{
+	"chain": 43114,
+	"address": "0x80B4eBfb0BbFF93E769c8f66c17767d59eB456e8",
+	"symbol": "NUSHITS",
+	"name": "NUSHITS",
+	"decimals": 8,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0x80B4eBfb0BbFF93E769c8f66c17767d59eB456e8.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

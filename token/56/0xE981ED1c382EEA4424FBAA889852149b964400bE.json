@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xE981ED1c382EEA4424FBAA889852149b964400bE",
+	"symbol": "Tiperian",
+	"name": "Tiperian",
+	"coingecko": "tiperian",
+	"sources": [
+		"coingecko"
+	]
+}

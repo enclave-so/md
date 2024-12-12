@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x2C002ffEC41568d138Acc36f5894d6156398D539",
+	"symbol": "Lucky Dog",
+	"name": "Lucky Dog",
+	"coingecko": "lucky-dog",
+	"sources": [
+		"coingecko"
+	]
+}

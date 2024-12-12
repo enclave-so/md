@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xa236fd48f30Ad4dee145652A71912189855dd575",
+	"symbol": "Crypto Hunters Coin",
+	"name": "Crypto Hunters Coin",
+	"coingecko": "crypto-hunters-coin",
+	"sources": [
+		"coingecko"
+	]
+}

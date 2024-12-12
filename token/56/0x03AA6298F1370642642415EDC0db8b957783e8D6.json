@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x03AA6298F1370642642415EDC0db8b957783e8D6",
+	"symbol": "NetMind Token",
+	"name": "NetMind Token",
+	"coingecko": "netmind-token",
+	"sources": [
+		"coingecko"
+	]
+}

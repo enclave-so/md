@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xeF433eBb8bA7a486ce21B854f093b9A3f4e696bc",
+	"symbol": "eTukTuk",
+	"name": "eTukTuk",
+	"coingecko": "etuktuk",
+	"sources": [
+		"coingecko"
+	]
+}

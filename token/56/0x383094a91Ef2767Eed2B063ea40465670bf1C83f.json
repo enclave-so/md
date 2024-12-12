@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x383094a91Ef2767Eed2B063ea40465670bf1C83f",
+	"symbol": "Limocoin Swap",
+	"name": "Limocoin Swap",
+	"coingecko": "limocoin-swap",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0xcF8419A615c57511807236751c0AF38Db4ba3351",
+	"symbol": "Axial Token",
+	"name": "Axial Token",
+	"coingecko": "axial-token",
+	"sources": [
+		"coingecko"
+	]
+}

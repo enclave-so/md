@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x8931eE05EC111325c1700b68E5ef7B887e00661d",
+	"symbol": "The Big Guy",
+	"name": "The Big Guy",
+	"coingecko": "the-big-guy",
+	"sources": [
+		"coingecko"
+	]
+}

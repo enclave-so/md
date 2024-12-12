@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x111111267109489dc6f350608d5113B10c0C5cd7",
+	"symbol": "Counterfire Economic Coin",
+	"name": "Counterfire Economic Coin",
+	"coingecko": "counterfire-economic-coin",
+	"sources": [
+		"coingecko"
+	]
+}

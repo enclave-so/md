@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x02fF5065692783374947393723dbA9599e59F591",
+	"symbol": "YooShi",
+	"name": "YooShi",
+	"coingecko": "yooshi",
+	"sources": [
+		"coingecko"
+	]
+}

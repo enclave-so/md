@@ -1,0 +1,11 @@
+{
+	"chain": 42220,
+	"address": "0x7037F7296B2fc7908de7b57a89efaa8319f0C500",
+	"symbol": "mCELO",
+	"name": "Moola CELO",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/mcelo.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

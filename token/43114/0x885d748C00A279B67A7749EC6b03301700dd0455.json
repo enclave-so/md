@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x885d748C00A279B67A7749EC6b03301700dd0455",
+	"symbol": "Maximus",
+	"name": "Maximus",
+	"coingecko": "maximus",
+	"sources": [
+		"coingecko"
+	]
+}

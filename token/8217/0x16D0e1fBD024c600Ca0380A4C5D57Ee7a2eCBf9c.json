@@ -1,0 +1,10 @@
+{
+	"chain": 8217,
+	"address": "0x16D0e1fBD024c600Ca0380A4C5D57Ee7a2eCBf9c",
+	"symbol": "Orbit Bridge Klaytn Wrapped BTC",
+	"name": "Orbit Bridge Klaytn Wrapped BTC",
+	"coingecko": "orbit-bridge-klaytn-wrapped-btc",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x1185cB5122Edad199BdBC0cbd7a0457E448f23c7",
+	"symbol": "sekoia by Virtuals",
+	"name": "sekoia by Virtuals",
+	"coingecko": "sekoia-by-virtuals",
+	"sources": [
+		"coingecko"
+	]
+}

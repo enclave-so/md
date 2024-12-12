@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xf8d44b7C801BB3E323752419FF8285B80fCfBf20",
+	"symbol": "Domus AI",
+	"name": "Domus AI",
+	"coingecko": "domus-ai",
+	"sources": [
+		"coingecko"
+	]
+}

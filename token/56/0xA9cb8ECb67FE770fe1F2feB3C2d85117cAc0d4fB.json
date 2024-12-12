@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xA9cb8ECb67FE770fe1F2feB3C2d85117cAc0d4fB",
+	"symbol": "SQRBIT",
+	"name": "SQRBIT",
+	"coingecko": "sqrbit",
+	"sources": [
+		"coingecko"
+	]
+}

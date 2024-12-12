@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x0A074378461FB7ed3300eA638c6Cc38246db4434",
+	"symbol": "El Dorado Exchange (Base)",
+	"name": "El Dorado Exchange (Base)",
+	"coingecko": "el-dorado-exchange-base",
+	"sources": [
+		"coingecko"
+	]
+}

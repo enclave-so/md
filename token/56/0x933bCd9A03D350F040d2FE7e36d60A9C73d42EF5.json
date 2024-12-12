@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x933bCd9A03D350F040d2FE7e36d60A9C73d42EF5",
+	"symbol": "Snaps",
+	"name": "Snaps",
+	"coingecko": "snaps",
+	"sources": [
+		"coingecko"
+	]
+}

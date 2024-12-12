@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x6D4e8507084C7B58D33B3b88915591670F959B2f",
+	"symbol": "Miner Arena",
+	"name": "Miner Arena",
+	"coingecko": "miner-arena",
+	"sources": [
+		"coingecko"
+	]
+}

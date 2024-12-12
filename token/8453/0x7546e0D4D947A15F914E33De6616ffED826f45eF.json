@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x7546e0D4D947A15F914E33De6616ffED826f45eF",
+	"symbol": "Blunny",
+	"name": "Blunny",
+	"coingecko": "blunny",
+	"sources": [
+		"coingecko"
+	]
+}

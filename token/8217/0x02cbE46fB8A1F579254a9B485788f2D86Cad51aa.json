@@ -1,0 +1,10 @@
+{
+	"chain": 8217,
+	"address": "0x02cbE46fB8A1F579254a9B485788f2D86Cad51aa",
+	"symbol": "BORA",
+	"name": "BORA",
+	"coingecko": "bora",
+	"sources": [
+		"coingecko"
+	]
+}

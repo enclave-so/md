@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xD1412D909F67B8Db7505DdFCF26CF2303f4B1bB4",
+	"symbol": "RIKU",
+	"name": "RIKU",
+	"coingecko": "riku",
+	"sources": [
+		"coingecko"
+	]
+}

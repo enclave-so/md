@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xec15a508a187e8DDfe572A5423Faa82Bbdd65120",
+	"symbol": "Babylons",
+	"name": "Babylons",
+	"coingecko": "babylons",
+	"sources": [
+		"coingecko"
+	]
+}

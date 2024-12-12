@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x874966221020D6aC1AeD0E2cfAd9cBfEe0bA713B",
+	"symbol": "bHBD",
+	"name": "bHBD",
+	"coingecko": "bhbd",
+	"sources": [
+		"coingecko"
+	]
+}

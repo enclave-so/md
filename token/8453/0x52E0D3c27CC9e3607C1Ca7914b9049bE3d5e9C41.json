@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x52E0D3c27CC9e3607C1Ca7914b9049bE3d5e9C41",
+	"symbol": "Blu",
+	"name": "Blu",
+	"coingecko": "blu-2",
+	"sources": [
+		"coingecko"
+	]
+}

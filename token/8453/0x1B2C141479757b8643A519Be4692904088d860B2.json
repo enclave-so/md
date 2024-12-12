@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x1B2C141479757b8643A519Be4692904088d860B2",
+	"symbol": "BADCAT",
+	"name": "BADCAT",
+	"coingecko": "badcat",
+	"sources": [
+		"coingecko"
+	]
+}

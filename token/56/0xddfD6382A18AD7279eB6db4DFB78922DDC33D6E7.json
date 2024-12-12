@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xddfD6382A18AD7279eB6db4DFB78922DDC33D6E7",
+	"symbol": "ShredN",
+	"name": "ShredN",
+	"coingecko": "shredn",
+	"sources": [
+		"coingecko"
+	]
+}

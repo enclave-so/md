@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xDAe6c2A48BFAA66b43815c5548b10800919c993E",
+	"symbol": "Kattana",
+	"name": "Kattana",
+	"coingecko": "kattana",
+	"sources": [
+		"coingecko"
+	]
+}

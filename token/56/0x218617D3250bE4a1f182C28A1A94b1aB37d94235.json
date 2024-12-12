@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x218617D3250bE4a1f182C28A1A94b1aB37d94235",
+	"symbol": "Lumox Studio",
+	"name": "Lumox Studio",
+	"coingecko": "lumox-studio",
+	"sources": [
+		"coingecko"
+	]
+}

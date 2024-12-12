@@ -1,0 +1,10 @@
+{
+	"chain": 888,
+	"address": "0xf665E0e3E75D16466345E1129530ec28839EfaEa",
+	"symbol": "wanXRP",
+	"name": "wanXRP",
+	"coingecko": "wanxrp",
+	"sources": [
+		"coingecko"
+	]
+}

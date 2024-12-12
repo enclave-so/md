@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x146171eB1c1E32faEfCFdABC3c470b83197AdB60",
+	"symbol": "ITC",
+	"name": "ITC",
+	"coingecko": "itc",
+	"sources": [
+		"coingecko"
+	]
+}

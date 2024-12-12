@@ -1,0 +1,371 @@
+[
+	{
+		"chain": 1101,
+		"address": "0x83b874c1e09D316059d929da402dcB1A98e92082",
+		"symbol": "stMATIC",
+		"name": "Staked MATIC",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/polygon-zkevm/0x83b874c1e09D316059d929da402dcB1A98e92082.jpg",
+		"coingecko": "lido-staked-matic",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 1101,
+		"address": "0x40DF0C3BBAAE5Ea3A509d8F2aa9E086776C98E6c",
+		"symbol": "Antfarm Token",
+		"name": "Antfarm Token",
+		"coingecko": "antfarm-token",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1101,
+		"address": "0x4B16e4752711A7ABEc32799C976F3CeFc0111f2B",
+		"symbol": "LINK",
+		"name": "Chain Link",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/polygon-zkevm/0x4B16e4752711A7ABEc32799C976F3CeFc0111f2B.jpg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 1101,
+		"address": "0x3d5320821BfCa19fb0B5428F2c79d63bd5246f89",
+		"symbol": "CRV",
+		"name": "Curve DAO Token",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/polygon-zkevm/0x3d5320821BfCa19fb0B5428F2c79d63bd5246f89.jpg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 1101,
+		"address": "0xa2036f0538221a77A3937F1379699f44945018d0",
+		"symbol": "MATIC",
+		"name": "MATIC Token",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/polygon-zkevm/0xa2036f0538221a77A3937F1379699f44945018d0.jpg",
+		"coingecko": "wmatic",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 1101,
+		"address": "0xddAFB91475bBf6210a151FA911AC8fdA7dE46Ec2",
+		"symbol": "Giveth",
+		"name": "Giveth",
+		"coingecko": "giveth",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1101,
+		"address": "0x2548C94A3092494dB3aF864cc2cF781a72f55678",
+		"symbol": "UNI",
+		"name": "Uniswap",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/polygon-zkevm/0x2548C94A3092494dB3aF864cc2cF781a72f55678.jpg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 1101,
+		"address": "0xD507361174a0fdE521bf8c097ef19dd31FFca710",
+		"symbol": "Amulet Protocol",
+		"name": "Amulet Protocol",
+		"coingecko": "amulet-protocol",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1101,
+		"address": "0x12D8CE035c5DE3Ce39B1fDD4C1d5a745EAbA3b8C",
+		"symbol": "Ankr Staked ETH",
+		"name": "Ankr Staked ETH",
+		"coingecko": "ankreth",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1101,
+		"address": "0x7320B543A4ce46A691A2CF317f1157A0b5059d43",
+		"symbol": "BlockChainCoinX",
+		"name": "BlockChainCoinX",
+		"coingecko": "blockchaincoinx",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1101,
+		"address": "0x4F9A0e7FD2Bf6067db6994CF12E4495Df938E6e9",
+		"symbol": "WETH",
+		"name": "Wrapped Ether",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/polygon-zkevm/0x4F9A0e7FD2Bf6067db6994CF12E4495Df938E6e9.jpg",
+		"coingecko": "polygon-hermez-bridged-weth-polygon-zkevm",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 1101,
+		"address": "0xEA034fb02eB1808C2cc3adbC15f447B93CbE08e1",
+		"symbol": "WBTC",
+		"name": "Wrapped Bitcoin",
+		"decimals": 8,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/polygon-zkevm/0xEA034fb02eB1808C2cc3adbC15f447B93CbE08e1.jpg",
+		"coingecko": "polygon-zkevm-bridged-wbtc-polygon-zkevm",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 1101,
+		"address": "0x7e2feEa957b7D1606335e339754F4e52b452B792",
+		"symbol": "LDO",
+		"name": "Lido DAO",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/polygon-zkevm/0x7e2feEa957b7D1606335e339754F4e52b452B792.jpg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 1101,
+		"address": "0xCf7eceE185f19e2E970a301eE37F93536ed66179",
+		"symbol": "frxETH",
+		"name": "Frax Ether",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/polygon-zkevm/0xCf7eceE185f19e2E970a301eE37F93536ed66179.jpg",
+		"coingecko": "frax-ether",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 1101,
+		"address": "0x7c2aF1Fb79D0b1c67d4eb802d44C673D0A1D2C04",
+		"symbol": "sfrxETH",
+		"name": "Staked Frax Ether",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/polygon-zkevm/0x7c2aF1Fb79D0b1c67d4eb802d44C673D0A1D2C04.jpg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 1101,
+		"address": "0xD4e38Eb4a9581E05dE8AEB5F895916647b5933f1",
+		"symbol": "Forwards Rec BH-2024",
+		"name": "Forwards Rec BH-2024",
+		"coingecko": "forwards-rec-bh-2024",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1101,
+		"address": "0x3B6564b5DA73A41d3A66e6558a98FD0e9E1e77ad",
+		"symbol": "Unitus",
+		"name": "Unitus",
+		"coingecko": "unitus-2",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1101,
+		"address": "0xC5015b9d9161Dca7e18e32f6f25C4aD850731Fd4",
+		"symbol": "DAI",
+		"name": "Dai Stablecoin",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/polygon-zkevm/0xC5015b9d9161Dca7e18e32f6f25C4aD850731Fd4.jpg",
+		"coingecko": "polygon-zkevm-bridged-dai-polygon-zkevm",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 1101,
+		"address": "0xFf8544feD5379D9ffa8D47a74cE6b91e632AC44D",
+		"symbol": "FRAX",
+		"name": "Frax",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/polygon-zkevm/0xFf8544feD5379D9ffa8D47a74cE6b91e632AC44D.jpg",
+		"coingecko": "frax",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 1101,
+		"address": "0x68791CFE079814c46e0E25C19Bcc5BFC71A744f7",
+		"symbol": "AAVE",
+		"name": "AAVE",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/polygon-zkevm/0x68791CFE079814c46e0E25C19Bcc5BFC71A744f7.jpg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 1101,
+		"address": "0xCA5d8F8a8d49439357d3CF46Ca2e720702F132b8",
+		"symbol": "Gyroscope GYD",
+		"name": "Gyroscope GYD",
+		"coingecko": "gyroscope-gyd",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1101,
+		"address": "0x1E4a5963aBFD975d8c9021ce480b42188849D41d",
+		"symbol": "USDT",
+		"name": "Tether USD",
+		"decimals": 6,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/polygon-zkevm/0x1E4a5963aBFD975d8c9021ce480b42188849D41d.jpg",
+		"coingecko": "polygon-hermez-bridged-usdt-polygon-zkevm",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 1101,
+		"address": "0x120eF59b80774F02211563834d8E3b72cb1649d6",
+		"symbol": "BAL",
+		"name": "Balancer",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/polygon-zkevm/0x120eF59b80774F02211563834d8E3b72cb1649d6.jpg",
+		"coingecko": "balancer",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 1101,
+		"address": "0x2b1D36f5B61AdDAf7DA7ebbd11B35FD8cfb0DE31",
+		"symbol": "Interport Token",
+		"name": "Interport Token",
+		"coingecko": "interport-token",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1101,
+		"address": "0x6A80A465409ce8D36C513129C0FEEa61BEd579ba",
+		"symbol": "Kyber Network Crystal",
+		"name": "Kyber Network Crystal",
+		"coingecko": "kyber-network-crystal",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1101,
+		"address": "0x0D1E753a25eBda689453309112904807625bEFBe",
+		"symbol": "PancakeSwap",
+		"name": "PancakeSwap",
+		"coingecko": "pancakeswap-token",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1101,
+		"address": "0xA8CE8aee21bC2A48a5EF670afCc9274C7bbbC035",
+		"symbol": "USDC",
+		"name": "USD Coin",
+		"decimals": 6,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/polygon-zkevm/0xA8CE8aee21bC2A48a5EF670afCc9274C7bbbC035.jpg",
+		"coingecko": "polygon-hermez-bridged-usdc-polygon-zkevm",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 1101,
+		"address": "0x819d1Daa794c1c46B841981b61cC978d95A17b8e",
+		"symbol": "Davos.xyz USD",
+		"name": "Davos.xyz USD",
+		"coingecko": "davos-protocol",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1101,
+		"address": "0x696c0bA235444607A1c4b93E6b34Ba14928c1B60",
+		"symbol": "DoveSwap",
+		"name": "DoveSwap",
+		"coingecko": "doveswap",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1101,
+		"address": "0x68286607A1d43602d880D349187c3c48c0fD05E6",
+		"symbol": "Quickswap",
+		"name": "Quickswap",
+		"coingecko": "quickswap",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1101,
+		"address": "0x6b856a14CeA1d7dCfaF80fA6936c0b75972cCacE",
+		"symbol": "FXS",
+		"name": "Frax Share",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/polygon-zkevm/0x6b856a14CeA1d7dCfaF80fA6936c0b75972cCacE.jpg",
+		"coingecko": "frax-share",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 1101,
+		"address": "0x0709E962221dd8AC9eC5c56f85ef789D3C1b9776",
+		"symbol": "SOBAX",
+		"name": "SOBAX",
+		"coingecko": "sobax",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1101,
+		"address": "0xDF474B7109b73b7D57926d43598D5934131136b2",
+		"symbol": "Ankr Network",
+		"name": "Ankr Network",
+		"coingecko": "ankr",
+		"sources": [
+			"coingecko"
+		]
+	}
+]

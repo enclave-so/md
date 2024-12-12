@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xc1CbFB96A1D5361590b8DF04EF78DE2fa3178390",
+	"symbol": "Peachfolio",
+	"name": "Peachfolio",
+	"coingecko": "peachfolio",
+	"sources": [
+		"coingecko"
+	]
+}

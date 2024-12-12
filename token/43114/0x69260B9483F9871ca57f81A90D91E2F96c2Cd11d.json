@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x69260B9483F9871ca57f81A90D91E2F96c2Cd11d",
+	"symbol": "GoGoPool",
+	"name": "GoGoPool",
+	"coingecko": "gogopool",
+	"sources": [
+		"coingecko"
+	]
+}

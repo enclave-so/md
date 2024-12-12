@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x6B82297c6F1f9C3b1f501450d2eE7C37667AB70D",
+	"symbol": "goatwifhat",
+	"name": "goatwifhat",
+	"coingecko": "goatwifhat",
+	"sources": [
+		"coingecko"
+	]
+}

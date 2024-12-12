@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0xd60efFED653f3f1B69047F2D2dC4E808A548767b",
+	"symbol": "UniFarm",
+	"name": "UniFarm",
+	"coingecko": "unifarm",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xb6deA09415611C6f0425f3437C43De966Aa7a1e9",
+	"symbol": "Rong",
+	"name": "Rong",
+	"coingecko": "rong",
+	"sources": [
+		"coingecko"
+	]
+}

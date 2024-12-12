@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x23125108bc4c63E4677b2E253Fa498cCb4B3298b",
+	"symbol": "Buff Doge Coin",
+	"name": "Buff Doge Coin",
+	"coingecko": "buff-doge-coin",
+	"sources": [
+		"coingecko"
+	]
+}

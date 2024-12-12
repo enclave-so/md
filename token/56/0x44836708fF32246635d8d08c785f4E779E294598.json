@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x44836708fF32246635d8d08c785f4E779E294598",
+	"symbol": "Space Guild Diamond Token",
+	"name": "Space Guild Diamond Token",
+	"coingecko": "space-guild-diamond-token",
+	"sources": [
+		"coingecko"
+	]
+}

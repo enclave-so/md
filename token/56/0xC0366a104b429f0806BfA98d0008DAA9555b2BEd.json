@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xC0366a104b429f0806BfA98d0008DAA9555b2BEd",
+	"symbol": "Safemars Protocol",
+	"name": "Safemars Protocol",
+	"coingecko": "safemars-protocol",
+	"sources": [
+		"coingecko"
+	]
+}

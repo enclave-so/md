@@ -1,0 +1,10 @@
+{
+	"chain": 59144,
+	"address": "0x60892e742d91d16Be2cB0ffE847e85445989e30B",
+	"symbol": "Wefi",
+	"name": "Wefi",
+	"coingecko": "wefi-finance",
+	"sources": [
+		"coingecko"
+	]
+}

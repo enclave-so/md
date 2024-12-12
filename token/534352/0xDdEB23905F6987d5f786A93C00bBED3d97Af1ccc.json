@@ -1,0 +1,10 @@
+{
+	"chain": 534352,
+	"address": "0xDdEB23905F6987d5f786A93C00bBED3d97Af1ccc",
+	"symbol": "PunkSwap",
+	"name": "PunkSwap",
+	"coingecko": "punkswap",
+	"sources": [
+		"coingecko"
+	]
+}

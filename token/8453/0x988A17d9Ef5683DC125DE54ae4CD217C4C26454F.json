@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x988A17d9Ef5683DC125DE54ae4CD217C4C26454F",
+	"symbol": "Aped",
+	"name": "Aped",
+	"coingecko": "aped-3",
+	"sources": [
+		"coingecko"
+	]
+}

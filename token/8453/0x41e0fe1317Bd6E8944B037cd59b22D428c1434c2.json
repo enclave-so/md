@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x41e0fe1317Bd6E8944B037cd59b22D428c1434c2",
+	"symbol": "Virtu by Virtuals",
+	"name": "Virtu by Virtuals",
+	"coingecko": "virtu",
+	"sources": [
+		"coingecko"
+	]
+}

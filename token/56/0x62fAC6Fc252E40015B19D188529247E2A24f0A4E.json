@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x62fAC6Fc252E40015B19D188529247E2A24f0A4E",
+	"symbol": "STAYNEX",
+	"name": "STAYNEX",
+	"coingecko": "staynex",
+	"sources": [
+		"coingecko"
+	]
+}

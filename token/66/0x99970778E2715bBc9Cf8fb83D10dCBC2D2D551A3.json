@@ -1,0 +1,11 @@
+{
+	"chain": 66,
+	"address": "0x99970778E2715bBc9Cf8fb83D10dCBC2D2D551A3",
+	"symbol": "ETC",
+	"name": "ETC",
+	"decimals": 18,
+	"logo": "https://static.coinall.ltd/cdn/explorer/okexchain/exchain_etck.png",
+	"sources": [
+		"sushiswap"
+	]
+}

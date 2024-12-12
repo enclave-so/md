@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xAf1736800D805723b9FC6A176bADc1D189467Bc8",
+	"symbol": "Dracoo Point",
+	"name": "Dracoo Point",
+	"coingecko": "dracoo-point",
+	"sources": [
+		"coingecko"
+	]
+}

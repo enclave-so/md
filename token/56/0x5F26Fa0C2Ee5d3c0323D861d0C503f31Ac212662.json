@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x5F26Fa0C2Ee5d3c0323D861d0C503f31Ac212662",
+	"symbol": "Chronicle",
+	"name": "Chronicle",
+	"coingecko": "chronicle",
+	"sources": [
+		"coingecko"
+	]
+}

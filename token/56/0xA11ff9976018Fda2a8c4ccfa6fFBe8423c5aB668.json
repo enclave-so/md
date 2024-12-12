@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xA11ff9976018Fda2a8c4ccfa6fFBe8423c5aB668",
+	"symbol": "Floki Cash",
+	"name": "Floki Cash",
+	"coingecko": "floki-cash",
+	"sources": [
+		"coingecko"
+	]
+}

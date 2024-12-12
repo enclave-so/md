@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0xA9ef87EB3FDc2F08EF5Ee401326F7331d4d312cf",
+	"symbol": "Index Avalanche DeFi",
+	"name": "Index Avalanche DeFi",
+	"coingecko": "index-avalanche-defi",
+	"sources": [
+		"coingecko"
+	]
+}

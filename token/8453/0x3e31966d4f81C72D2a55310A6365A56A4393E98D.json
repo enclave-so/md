@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x3e31966d4f81C72D2a55310A6365A56A4393E98D",
+	"symbol": "World Mobile Token",
+	"name": "World Mobile Token",
+	"coingecko": "world-mobile-token",
+	"sources": [
+		"coingecko"
+	]
+}

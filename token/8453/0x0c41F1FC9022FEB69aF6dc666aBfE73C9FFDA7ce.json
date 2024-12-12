@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x0c41F1FC9022FEB69aF6dc666aBfE73C9FFDA7ce",
+	"symbol": "Bitcoin on Base",
+	"name": "Bitcoin on Base",
+	"coingecko": "bitcoin-on-base",
+	"sources": [
+		"coingecko"
+	]
+}

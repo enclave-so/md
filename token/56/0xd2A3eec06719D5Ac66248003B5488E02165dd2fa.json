@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xd2A3eec06719D5Ac66248003B5488E02165dd2fa",
+	"symbol": "Paxe",
+	"name": "Paxe",
+	"coingecko": "paxe",
+	"sources": [
+		"coingecko"
+	]
+}

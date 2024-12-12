@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x1cC73D96Ff2Cb0D7BEc74eaF4c81f27C9132ee86",
+	"symbol": "EFLANCER",
+	"name": "EFLANCER",
+	"coingecko": "eflancer",
+	"sources": [
+		"coingecko"
+	]
+}

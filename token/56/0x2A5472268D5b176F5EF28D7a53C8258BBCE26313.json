@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x2A5472268D5b176F5EF28D7a53C8258BBCE26313",
+	"symbol": "PEPECASH",
+	"name": "PEPECASH",
+	"coingecko": "pepecash-bsc",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x42006Ab57701251B580bDFc24778C43c9ff589A1",
+	"symbol": "EvoVerses",
+	"name": "EvoVerses",
+	"coingecko": "evoverses",
+	"sources": [
+		"coingecko"
+	]
+}

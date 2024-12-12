@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xeA136Fc555E695Ba96d22e10B7E2151c4C6B2A20",
+	"symbol": "ReSource Protocol",
+	"name": "ReSource Protocol",
+	"coingecko": "resource-protocol",
+	"sources": [
+		"coingecko"
+	]
+}

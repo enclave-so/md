@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xf3527ef8dE265eAa3716FB312c12847bFBA66Cef",
+	"symbol": "usdx.money USDX",
+	"name": "usdx.money USDX",
+	"coingecko": "usdx-money-usdx",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x09d975C3351DBdED28617517FC6982284a787f03",
+	"symbol": "Crypto Island",
+	"name": "Crypto Island",
+	"coingecko": "crypto-island",
+	"sources": [
+		"coingecko"
+	]
+}

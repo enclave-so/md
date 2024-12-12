@@ -1,0 +1,10 @@
+{
+	"chain": 592,
+	"address": "0x998082C488e548820F970Df5173bD2061Ce90635",
+	"symbol": "Zenlink Network",
+	"name": "Zenlink Network",
+	"coingecko": "zenlink-network-token",
+	"sources": [
+		"coingecko"
+	]
+}

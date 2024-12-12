@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xa66cD1C4d890Faa7C1a09A54a254d33d809ba3b5",
+	"symbol": "Kitty Run",
+	"name": "Kitty Run",
+	"coingecko": "kitty-run",
+	"sources": [
+		"coingecko"
+	]
+}

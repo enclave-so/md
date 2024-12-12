@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x28a5e71BFc02723eAC17E39c84c5190415C0de9F",
+	"symbol": "PEPi",
+	"name": "PEPi",
+	"coingecko": "pepi-2",
+	"sources": [
+		"coingecko"
+	]
+}

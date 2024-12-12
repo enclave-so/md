@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xbf27da33A58de2Bc6Eb1C7daB6CF2e84e825D7dc",
+	"symbol": "ZambesiGold",
+	"name": "ZambesiGold",
+	"coingecko": "zambesigold",
+	"sources": [
+		"coingecko"
+	]
+}

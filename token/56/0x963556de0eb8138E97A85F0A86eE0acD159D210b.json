@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x963556de0eb8138E97A85F0A86eE0acD159D210b",
+	"symbol": "Melega",
+	"name": "Melega",
+	"coingecko": "melega",
+	"sources": [
+		"coingecko"
+	]
+}

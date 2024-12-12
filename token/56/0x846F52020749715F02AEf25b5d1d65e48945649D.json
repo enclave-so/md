@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x846F52020749715F02AEf25b5d1d65e48945649D",
+	"symbol": "Umbrella Network",
+	"name": "Umbrella Network",
+	"coingecko": "umbrella-network",
+	"sources": [
+		"coingecko"
+	]
+}

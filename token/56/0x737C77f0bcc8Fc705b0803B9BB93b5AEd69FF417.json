@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x737C77f0bcc8Fc705b0803B9BB93b5AEd69FF417",
+	"symbol": "GAG Token",
+	"name": "GAG Token",
+	"coingecko": "gag-token",
+	"sources": [
+		"coingecko"
+	]
+}

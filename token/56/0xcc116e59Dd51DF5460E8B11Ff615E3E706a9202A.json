@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xcc116e59Dd51DF5460E8B11Ff615E3E706a9202A",
+	"symbol": "Rise of the Warbots MMAC",
+	"name": "Rise of the Warbots MMAC",
+	"coingecko": "rise-of-the-warbots-mmac",
+	"sources": [
+		"coingecko"
+	]
+}

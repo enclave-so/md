@@ -1,0 +1,10 @@
+{
+	"chain": 61,
+	"address": "0x82A618305706B14e7bcf2592D4B9324A366b6dAd",
+	"symbol": "Wrapped ETC",
+	"name": "Wrapped ETC",
+	"coingecko": "wetc-hebeswap",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x8013d731f429b3AD418f5467F9F68285eFd67ca7",
+	"symbol": "KRYZA Network",
+	"name": "KRYZA Network",
+	"coingecko": "kryza-network",
+	"sources": [
+		"coingecko"
+	]
+}

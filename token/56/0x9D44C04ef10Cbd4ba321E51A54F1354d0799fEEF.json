@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x9D44C04ef10Cbd4ba321E51A54F1354d0799fEEF",
+	"symbol": "MAR3 AI",
+	"name": "MAR3 AI",
+	"coingecko": "mar3-ai",
+	"sources": [
+		"coingecko"
+	]
+}

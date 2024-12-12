@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xe6DF015f66653EcE085A5FBBa8d42C356114ce4F",
+	"symbol": "Pyrrho",
+	"name": "Pyrrho",
+	"coingecko": "pyrrho-defi",
+	"sources": [
+		"coingecko"
+	]
+}

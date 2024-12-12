@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xA5Ff48e326958E0CE6FdF9518de561F2B5f57dA3",
+	"symbol": "Lokr",
+	"name": "Lokr",
+	"coingecko": "lokr",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 592,
+	"address": "0xFFfFfFffFFfffFFfFFfFFFFFffFFFffffFfFFFfF",
+	"symbol": "WDOT",
+	"name": "WDOT",
+	"coingecko": "wdot",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x4498cd8Ba045E00673402353f5a4347562707e7D",
+	"symbol": "r/DataDAO",
+	"name": "r/DataDAO",
+	"coingecko": "r-datadao",
+	"sources": [
+		"coingecko"
+	]
+}

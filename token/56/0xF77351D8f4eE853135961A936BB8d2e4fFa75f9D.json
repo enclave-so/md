@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xF77351D8f4eE853135961A936BB8d2e4fFa75f9D",
+	"symbol": "Roobee",
+	"name": "Roobee",
+	"coingecko": "roobee",
+	"sources": [
+		"coingecko"
+	]
+}

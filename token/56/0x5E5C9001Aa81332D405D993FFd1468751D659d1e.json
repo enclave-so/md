@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x5E5C9001Aa81332D405D993FFd1468751D659d1e",
+	"symbol": "Baby Doge Inu",
+	"name": "Baby Doge Inu",
+	"coingecko": "baby-doge-inu",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x9240c44eE90D058b0b17AbABE0f74Ab1A205ae04",
+	"symbol": "Ents",
+	"name": "Ents",
+	"coingecko": "ents",
+	"sources": [
+		"coingecko"
+	]
+}

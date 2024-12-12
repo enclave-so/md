@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xFc76ba9157Ee5D079De8c1e969ee54096Aaa6C9c",
+	"symbol": "CRED COIN PAY",
+	"name": "CRED COIN PAY",
+	"coingecko": "cred-coin-pay",
+	"sources": [
+		"coingecko"
+	]
+}

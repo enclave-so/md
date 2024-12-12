@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x1c796C140de269E255372ea687EF7644BAb87935",
+	"symbol": "Demole",
+	"name": "Demole",
+	"coingecko": "demole",
+	"sources": [
+		"coingecko"
+	]
+}

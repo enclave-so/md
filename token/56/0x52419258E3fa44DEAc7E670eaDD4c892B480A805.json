@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x52419258E3fa44DEAc7E670eaDD4c892B480A805",
+	"symbol": "StarShip",
+	"name": "StarShip",
+	"coingecko": "starship",
+	"sources": [
+		"coingecko"
+	]
+}

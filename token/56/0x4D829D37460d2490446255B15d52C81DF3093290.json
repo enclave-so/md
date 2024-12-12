@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x4D829D37460d2490446255B15d52C81DF3093290",
+	"symbol": "Daily Finance",
+	"name": "Daily Finance",
+	"coingecko": "daily-finance",
+	"sources": [
+		"coingecko"
+	]
+}

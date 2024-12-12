@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x9A5350EDf28c1f93bb36D6E94B5c425fDE8e222d",
+	"symbol": "Vyvo US Dollar",
+	"name": "Vyvo US Dollar",
+	"coingecko": "vyvo-us-dollar",
+	"sources": [
+		"coingecko"
+	]
+}

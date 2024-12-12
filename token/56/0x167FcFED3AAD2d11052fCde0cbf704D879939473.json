@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x167FcFED3AAD2d11052fCde0cbf704D879939473",
+	"symbol": "Triathon",
+	"name": "Triathon",
+	"coingecko": "dungeon-token",
+	"sources": [
+		"coingecko"
+	]
+}

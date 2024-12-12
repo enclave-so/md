@@ -1,0 +1,10 @@
+{
+	"chain": 4337,
+	"address": "0x989e7863f15C548ACCF7b62aD432DeFbbA2677bE",
+	"symbol": "Beam Bridged WETH (Beam)",
+	"name": "Beam Bridged WETH (Beam)",
+	"coingecko": "beam-bridged-weth-beam",
+	"sources": [
+		"coingecko"
+	]
+}

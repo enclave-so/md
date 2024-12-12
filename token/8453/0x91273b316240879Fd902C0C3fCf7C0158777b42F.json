@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x91273b316240879Fd902C0C3fCf7C0158777b42F",
+	"symbol": "Olyn by Virtuals",
+	"name": "Olyn by Virtuals",
+	"coingecko": "olyn-by-virtuals",
+	"sources": [
+		"coingecko"
+	]
+}

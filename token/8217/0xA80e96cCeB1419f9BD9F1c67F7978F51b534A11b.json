@@ -1,0 +1,10 @@
+{
+	"chain": 8217,
+	"address": "0xA80e96cCeB1419f9BD9F1c67F7978F51b534A11b",
+	"symbol": "Galaxia",
+	"name": "Galaxia",
+	"coingecko": "galaxia",
+	"sources": [
+		"coingecko"
+	]
+}

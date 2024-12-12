@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x6112b8714221bBd96AE0A0032A683E38B475d06C",
+	"symbol": "WAI Combinator by Virtuals",
+	"name": "WAI Combinator by Virtuals",
+	"coingecko": "wai-combinator-by-virtuals",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 81457,
+	"address": "0x548A6fE792015DD2A7827659D3Feb8Cf88cf1C79",
+	"symbol": "Blast Hoge",
+	"name": "Blast Hoge",
+	"coingecko": "blast-hoge",
+	"sources": [
+		"coingecko"
+	]
+}

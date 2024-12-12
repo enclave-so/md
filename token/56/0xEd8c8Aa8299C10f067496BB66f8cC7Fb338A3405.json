@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xEd8c8Aa8299C10f067496BB66f8cC7Fb338A3405",
+	"symbol": "Prosper",
+	"name": "Prosper",
+	"coingecko": "prosper",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x04f388E30BfD03f357AE061ec5680c7e4ac4cF09",
+	"symbol": "LeoAVAX",
+	"name": "LeoAVAX",
+	"coingecko": "leoavax",
+	"sources": [
+		"coingecko"
+	]
+}

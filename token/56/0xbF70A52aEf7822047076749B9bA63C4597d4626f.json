@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xbF70A52aEf7822047076749B9bA63C4597d4626f",
+	"symbol": "AIHub",
+	"name": "AIHub",
+	"coingecko": "aihub",
+	"sources": [
+		"coingecko"
+	]
+}

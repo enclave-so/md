@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x37e5da11b6A4DC6d2f7Abe232cDd30B0B8Fc63B1",
+	"symbol": "Bull BTC Club",
+	"name": "Bull BTC Club",
+	"coingecko": "bull-btc-club",
+	"sources": [
+		"coingecko"
+	]
+}

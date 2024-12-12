@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x315B8c9A1123c10228d469551033440441b41F0b",
+	"symbol": "BEATS on BASE",
+	"name": "BEATS on BASE",
+	"coingecko": "beats-on-base",
+	"sources": [
+		"coingecko"
+	]
+}

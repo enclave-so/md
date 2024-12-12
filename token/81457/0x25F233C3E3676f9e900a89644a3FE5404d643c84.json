@@ -1,0 +1,10 @@
+{
+	"chain": 81457,
+	"address": "0x25F233C3E3676f9e900a89644a3FE5404d643c84",
+	"symbol": "Ring Protocol",
+	"name": "Ring Protocol",
+	"coingecko": "ring-protocol",
+	"sources": [
+		"coingecko"
+	]
+}

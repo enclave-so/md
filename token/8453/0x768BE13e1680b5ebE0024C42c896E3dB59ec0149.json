@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x768BE13e1680b5ebE0024C42c896E3dB59ec0149",
+	"symbol": "Ski Mask Dog",
+	"name": "Ski Mask Dog",
+	"coingecko": "ski-mask-dog",
+	"sources": [
+		"coingecko"
+	]
+}

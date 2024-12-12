@@ -1,0 +1,32 @@
+[
+	{
+		"chain": 16116,
+		"address": "0x5a89E11Cb554E00c2f51C4bb7F05bc7Ab0Fa6351",
+		"symbol": "Wrapped OAS (DeFiVerse)",
+		"name": "Wrapped OAS (DeFiVerse)",
+		"coingecko": "wrapped-oas-defiverse",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 16116,
+		"address": "0x4362Be024eFbb8C6fBcF19675224b58dFd2493Ef",
+		"symbol": "Beta Chain Colosseum Phoenix",
+		"name": "Beta Chain Colosseum Phoenix",
+		"coingecko": "beta-chain-ccolosseum-phoenix",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 16116,
+		"address": "0x1Bd5Fc212cC1c881C67076694C134aE8cAEce3bd",
+		"symbol": "Chain Colosseum Phoenix",
+		"name": "Chain Colosseum Phoenix",
+		"coingecko": "chainccolosseumphoenix",
+		"sources": [
+			"coingecko"
+		]
+	}
+]

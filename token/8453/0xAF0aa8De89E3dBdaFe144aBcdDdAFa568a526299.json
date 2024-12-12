@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xAF0aa8De89E3dBdaFe144aBcdDdAFa568a526299",
+	"symbol": "HadesAI by Virtuals",
+	"name": "HadesAI by Virtuals",
+	"coingecko": "hadesai-by-virtuals",
+	"sources": [
+		"coingecko"
+	]
+}

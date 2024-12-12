@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xC9ac219C6A3eB0E0AcBb5911099c6a79D29F585d",
+	"symbol": "CATEX",
+	"name": "CATEX",
+	"coingecko": "catex",
+	"sources": [
+		"coingecko"
+	]
+}

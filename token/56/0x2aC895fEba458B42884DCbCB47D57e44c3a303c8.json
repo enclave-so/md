@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x2aC895fEba458B42884DCbCB47D57e44c3a303c8",
+	"symbol": "HOLD",
+	"name": "HOLD",
+	"coingecko": "hold-2",
+	"sources": [
+		"coingecko"
+	]
+}

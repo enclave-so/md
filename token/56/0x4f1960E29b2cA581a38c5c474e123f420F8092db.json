@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x4f1960E29b2cA581a38c5c474e123f420F8092db",
+	"symbol": "UBXS",
+	"name": "UBXS",
+	"coingecko": "ubxs-token",
+	"sources": [
+		"coingecko"
+	]
+}

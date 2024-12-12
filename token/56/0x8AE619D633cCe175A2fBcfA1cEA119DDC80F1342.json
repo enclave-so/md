@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x8AE619D633cCe175A2fBcfA1cEA119DDC80F1342",
+	"symbol": "PolyPad",
+	"name": "PolyPad",
+	"coingecko": "polypad",
+	"sources": [
+		"coingecko"
+	]
+}

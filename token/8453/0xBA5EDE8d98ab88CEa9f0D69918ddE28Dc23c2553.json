@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xBA5EDE8d98ab88CEa9f0D69918ddE28Dc23c2553",
+	"symbol": "Normus",
+	"name": "Normus",
+	"coingecko": "normus",
+	"sources": [
+		"coingecko"
+	]
+}

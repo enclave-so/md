@@ -1,0 +1,13 @@
+{
+	"chain": 56,
+	"address": "0xE02dF9e3e622DeBdD69fb838bB799E3F168902c5",
+	"symbol": "BAKE",
+	"name": "Bakery Token",
+	"decimals": 18,
+	"logo": "https://bscscan.com/token/images/bakeryswap_32.png",
+	"coingecko": "bakerytoken",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

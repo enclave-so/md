@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x3Ec451733496B0eE147926cadf2Fc58a2947300a",
+	"symbol": "OneCoinBuy",
+	"name": "OneCoinBuy",
+	"coingecko": "onecoinbuy",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xb9efd0936E4D4EfF2C1e3b50629A3348a9a86942",
+	"symbol": "Santa Grok",
+	"name": "Santa Grok",
+	"coingecko": "santa-grok",
+	"sources": [
+		"coingecko"
+	]
+}

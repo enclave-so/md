@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xD74b782E05AA25c50e7330Af541d46E18f36661C",
+	"symbol": "Rich Quack",
+	"name": "Rich Quack",
+	"coingecko": "richquack",
+	"sources": [
+		"coingecko"
+	]
+}

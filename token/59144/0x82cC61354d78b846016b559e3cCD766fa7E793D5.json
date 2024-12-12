@@ -1,0 +1,10 @@
+{
+	"chain": 59144,
+	"address": "0x82cC61354d78b846016b559e3cCD766fa7E793D5",
+	"symbol": "Linda",
+	"name": "Linda",
+	"coingecko": "linda-2",
+	"sources": [
+		"coingecko"
+	]
+}

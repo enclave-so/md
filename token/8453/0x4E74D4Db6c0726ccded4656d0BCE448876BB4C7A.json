@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x4E74D4Db6c0726ccded4656d0BCE448876BB4C7A",
+	"symbol": "Wrapped BMX Liquidity Token",
+	"name": "Wrapped BMX Liquidity Token",
+	"coingecko": "wrapped-bmx-liquidity-token",
+	"sources": [
+		"coingecko"
+	]
+}

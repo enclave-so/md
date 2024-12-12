@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x011734f6Ed20E8D011d85Cf7894814B897420acf",
+	"symbol": "BallSwap",
+	"name": "BallSwap",
+	"coingecko": "ballswap",
+	"sources": [
+		"coingecko"
+	]
+}

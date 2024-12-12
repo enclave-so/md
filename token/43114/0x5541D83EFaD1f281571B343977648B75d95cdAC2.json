@@ -1,0 +1,13 @@
+{
+	"chain": 43114,
+	"address": "0x5541D83EFaD1f281571B343977648B75d95cdAC2",
+	"symbol": "GRAPE",
+	"name": "Grape Finance",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0x5541D83EFaD1f281571B343977648B75d95cdAC2.jpg",
+	"coingecko": "grape-finance",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

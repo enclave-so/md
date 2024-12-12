@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xFad8CB754230dbFd249Db0E8ECCb5142DD675a0d",
+	"symbol": "AEROBUD",
+	"name": "AEROBUD",
+	"coingecko": "aerobud",
+	"sources": [
+		"coingecko"
+	]
+}

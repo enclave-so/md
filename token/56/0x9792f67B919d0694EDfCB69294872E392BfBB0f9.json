@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x9792f67B919d0694EDfCB69294872E392BfBB0f9",
+	"symbol": "Botccoin Chain",
+	"name": "Botccoin Chain",
+	"coingecko": "botccoin-chain",
+	"sources": [
+		"coingecko"
+	]
+}

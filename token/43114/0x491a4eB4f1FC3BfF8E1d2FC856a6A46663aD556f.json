@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x491a4eB4f1FC3BfF8E1d2FC856a6A46663aD556f",
+	"symbol": "Brazilian Digital",
+	"name": "Brazilian Digital",
+	"coingecko": "brz",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x90a7253B4DC957257A363B9960cA383d241Bd01f",
+	"symbol": "Give Back Token",
+	"name": "Give Back Token",
+	"coingecko": "give-back-token",
+	"sources": [
+		"coingecko"
+	]
+}

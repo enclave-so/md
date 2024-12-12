@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xfde4C96c8593536E31F229EA8f37b2ADa2699bb2",
+	"symbol": "L2 Standard Bridged USDT (Base)",
+	"name": "L2 Standard Bridged USDT (Base)",
+	"coingecko": "l2-standard-bridged-usdt-base",
+	"sources": [
+		"coingecko"
+	]
+}

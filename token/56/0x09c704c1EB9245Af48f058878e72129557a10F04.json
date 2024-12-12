@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x09c704c1EB9245Af48f058878e72129557a10F04",
+	"symbol": "Sweep Token",
+	"name": "Sweep Token",
+	"coingecko": "sweep-token",
+	"sources": [
+		"coingecko"
+	]
+}

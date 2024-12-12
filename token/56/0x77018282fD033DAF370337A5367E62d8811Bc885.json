@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x77018282fD033DAF370337A5367E62d8811Bc885",
+	"symbol": "Poolz Finance [OLD]",
+	"name": "Poolz Finance [OLD]",
+	"coingecko": "poolz-finance",
+	"sources": [
+		"coingecko"
+	]
+}

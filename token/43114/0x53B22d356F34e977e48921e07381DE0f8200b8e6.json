@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x53B22d356F34e977e48921e07381DE0f8200b8e6",
+	"symbol": "Monsterra MAG",
+	"name": "Monsterra MAG",
+	"coingecko": "monsterra-mag",
+	"sources": [
+		"coingecko"
+	]
+}

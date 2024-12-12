@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xB4d5841Cb352be4b743283dd58B61ecd86655510",
+	"symbol": "ATB",
+	"name": "ATB",
+	"coingecko": "atb",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x2466858ab5edAd0BB597FE9f008F568B00d25Fe3",
+	"symbol": "MicroPets",
+	"name": "MicroPets",
+	"coingecko": "micropets-2",
+	"sources": [
+		"coingecko"
+	]
+}

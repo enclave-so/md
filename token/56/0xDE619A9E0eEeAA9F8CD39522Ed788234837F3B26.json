@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xDE619A9E0eEeAA9F8CD39522Ed788234837F3B26",
+	"symbol": "Hungarian Vizsla Inu",
+	"name": "Hungarian Vizsla Inu",
+	"coingecko": "hungarian-vizsla-inu",
+	"sources": [
+		"coingecko"
+	]
+}

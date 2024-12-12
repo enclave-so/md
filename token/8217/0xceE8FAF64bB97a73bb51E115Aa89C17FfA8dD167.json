@@ -1,0 +1,10 @@
+{
+	"chain": 8217,
+	"address": "0xceE8FAF64bB97a73bb51E115Aa89C17FfA8dD167",
+	"symbol": "Bridged Tether (Orbit Bridge)",
+	"name": "Bridged Tether (Orbit Bridge)",
+	"coingecko": "orbit-bridge-klaytn-usd-tether",
+	"sources": [
+		"coingecko"
+	]
+}

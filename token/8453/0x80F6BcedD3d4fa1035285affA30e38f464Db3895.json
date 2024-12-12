@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x80F6BcedD3d4fa1035285affA30e38f464Db3895",
+	"symbol": "BetBase",
+	"name": "BetBase",
+	"coingecko": "betbase",
+	"sources": [
+		"coingecko"
+	]
+}

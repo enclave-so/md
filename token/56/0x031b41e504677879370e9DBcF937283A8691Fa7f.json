@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x031b41e504677879370e9DBcF937283A8691Fa7f",
+	"symbol": "Artificial Superintelligence Alliance",
+	"name": "Artificial Superintelligence Alliance",
+	"coingecko": "fetch-ai",
+	"sources": [
+		"coingecko"
+	]
+}

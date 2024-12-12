@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xd7b675CD5c84A13d1d0f84509345530f6421b57C",
+	"symbol": "Corridor Finance",
+	"name": "Corridor Finance",
+	"coingecko": "corridor-finance",
+	"sources": [
+		"coingecko"
+	]
+}

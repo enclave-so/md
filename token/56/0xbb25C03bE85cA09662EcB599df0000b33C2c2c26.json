@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xbb25C03bE85cA09662EcB599df0000b33C2c2c26",
+	"symbol": "Tradeleaf",
+	"name": "Tradeleaf",
+	"coingecko": "trade-leaf",
+	"sources": [
+		"coingecko"
+	]
+}

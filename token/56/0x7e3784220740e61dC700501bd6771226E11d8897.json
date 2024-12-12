@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x7e3784220740e61dC700501bd6771226E11d8897",
+	"symbol": "Cyber Arena",
+	"name": "Cyber Arena",
+	"coingecko": "cyber-arena",
+	"sources": [
+		"coingecko"
+	]
+}

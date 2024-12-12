@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xF1e083A825db31C844b8b6BE0b16a43Fd523Ca9c",
+	"symbol": "AvaCoach",
+	"name": "AvaCoach",
+	"coingecko": "avacoach",
+	"sources": [
+		"coingecko"
+	]
+}

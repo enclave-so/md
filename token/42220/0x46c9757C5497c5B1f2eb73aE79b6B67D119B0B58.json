@@ -1,0 +1,13 @@
+{
+	"chain": 42220,
+	"address": "0x46c9757C5497c5B1f2eb73aE79b6B67D119B0B58",
+	"symbol": "PACT",
+	"name": "impactMarket",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/celo/assets/0x46c9757C5497c5B1f2eb73aE79b6B67D119B0B58/logo.png",
+	"coingecko": "impactmarket",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

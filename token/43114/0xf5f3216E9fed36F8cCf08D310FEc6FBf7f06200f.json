@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0xf5f3216E9fed36F8cCf08D310FEc6FBf7f06200f",
+	"symbol": "BOBS",
+	"name": "BOBS",
+	"coingecko": "bobs",
+	"sources": [
+		"coingecko"
+	]
+}

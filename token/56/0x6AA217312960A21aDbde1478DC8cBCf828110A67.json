@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x6AA217312960A21aDbde1478DC8cBCf828110A67",
+	"symbol": "Spintop",
+	"name": "Spintop",
+	"coingecko": "spintop",
+	"sources": [
+		"coingecko"
+	]
+}

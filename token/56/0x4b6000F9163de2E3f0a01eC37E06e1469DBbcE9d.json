@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x4b6000F9163de2E3f0a01eC37E06e1469DBbcE9d",
+	"symbol": "KeyFi",
+	"name": "KeyFi",
+	"coingecko": "keyfi",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x8BF591Eae535f93a242D5A954d3Cde648b48A5A8",
+	"symbol": "Sumer.Money suUSD",
+	"name": "Sumer.Money suUSD",
+	"coingecko": "sumer-money-suusd",
+	"sources": [
+		"coingecko"
+	]
+}

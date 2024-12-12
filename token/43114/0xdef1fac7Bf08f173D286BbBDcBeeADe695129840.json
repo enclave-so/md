@@ -1,0 +1,11 @@
+{
+	"chain": 43114,
+	"address": "0xdef1fac7Bf08f173D286BbBDcBeeADe695129840",
+	"symbol": "CERBY",
+	"name": "Cerby Token",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xdef1fac7Bf08f173D286BbBDcBeeADe695129840/logo.png",
+	"sources": [
+		"sushiswap"
+	]
+}

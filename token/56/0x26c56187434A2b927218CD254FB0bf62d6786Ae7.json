@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x26c56187434A2b927218CD254FB0bf62d6786Ae7",
+	"symbol": "WOLF INU",
+	"name": "WOLF INU",
+	"coingecko": "wolf-inu",
+	"sources": [
+		"coingecko"
+	]
+}

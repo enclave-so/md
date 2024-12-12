@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x628c5Ba9B775DACEcd14E237130c537f497d1CC7",
+	"symbol": "Jaderoll",
+	"name": "Jaderoll",
+	"coingecko": "jaderoll",
+	"sources": [
+		"coingecko"
+	]
+}

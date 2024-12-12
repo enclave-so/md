@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xCa4569949699D56E1834EFe9f58747Ca0f151B01",
+	"symbol": "Token Metrics AI",
+	"name": "Token Metrics AI",
+	"coingecko": "token-metrics-ai",
+	"sources": [
+		"coingecko"
+	]
+}

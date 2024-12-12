@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x546D239032b24eCEEE0cb05c92FC39090846adc7",
+	"symbol": "SEED",
+	"name": "SEED",
+	"coingecko": "seed-2",
+	"sources": [
+		"coingecko"
+	]
+}

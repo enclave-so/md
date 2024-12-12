@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x52C2b317eb0bb61e650683D2f287f56C413E4CF6",
+	"symbol": "Tree",
+	"name": "Tree",
+	"coingecko": "tree-capital",
+	"sources": [
+		"coingecko"
+	]
+}

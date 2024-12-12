@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x314bc6c98A28Bd0580651233c351F2994Cc12645",
+	"symbol": "ShibaKeanu",
+	"name": "ShibaKeanu",
+	"coingecko": "shibakeanu",
+	"sources": [
+		"coingecko"
+	]
+}

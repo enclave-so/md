@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x12E96C2BFEA6E835CF8Dd38a5834fa61Cf723736",
+	"symbol": "Wrapped DOGE (Universal)",
+	"name": "Wrapped DOGE (Universal)",
+	"coingecko": "wrapped-doge-universal",
+	"sources": [
+		"coingecko"
+	]
+}

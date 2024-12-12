@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xc2FD585D2e6A33fe48A0fFc65072216B0E3B2E07",
+	"symbol": "ReBaseChain",
+	"name": "ReBaseChain",
+	"coingecko": "rebasechain",
+	"sources": [
+		"coingecko"
+	]
+}

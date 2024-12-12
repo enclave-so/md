@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xFC5462143A3178CF044E97C491F6bCb5e38f173E",
+	"symbol": "BERF",
+	"name": "BERF",
+	"coingecko": "berf",
+	"sources": [
+		"coingecko"
+	]
+}

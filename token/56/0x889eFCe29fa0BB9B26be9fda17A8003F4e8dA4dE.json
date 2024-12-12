@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x889eFCe29fa0BB9B26be9fda17A8003F4e8dA4dE",
+	"symbol": "Waves Ducks",
+	"name": "Waves Ducks",
+	"coingecko": "waves-ducks",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 8217,
+	"address": "0x5c74070FDeA071359b86082bd9f9b3dEaafbe32b",
+	"symbol": "Klaytn Dai",
+	"name": "Klaytn Dai",
+	"coingecko": "klaytn-dai",
+	"sources": [
+		"coingecko"
+	]
+}

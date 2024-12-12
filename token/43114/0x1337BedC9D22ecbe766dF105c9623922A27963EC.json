@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x1337BedC9D22ecbe766dF105c9623922A27963EC",
+	"symbol": "LP 3pool Curve",
+	"name": "LP 3pool Curve",
+	"coingecko": "lp-3pool-curve",
+	"sources": [
+		"coingecko"
+	]
+}

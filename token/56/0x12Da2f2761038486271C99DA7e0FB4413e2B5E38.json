@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x12Da2f2761038486271C99DA7e0FB4413e2B5E38",
+	"symbol": "NFTBlackmarket",
+	"name": "NFTBlackmarket",
+	"coingecko": "nftblackmarket",
+	"sources": [
+		"coingecko"
+	]
+}

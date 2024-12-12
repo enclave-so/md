@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x9025DaA1FE2D27700187e0EAc670818945F94c2E",
+	"symbol": "Stage",
+	"name": "Stage",
+	"coingecko": "stage",
+	"sources": [
+		"coingecko"
+	]
+}

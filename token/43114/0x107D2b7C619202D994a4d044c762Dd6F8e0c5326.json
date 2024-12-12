@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x107D2b7C619202D994a4d044c762Dd6F8e0c5326",
+	"symbol": "Flair Dex",
+	"name": "Flair Dex",
+	"coingecko": "flair-dex",
+	"sources": [
+		"coingecko"
+	]
+}

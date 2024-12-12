@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x9001fD53504F7Bf253296cfFAdF5b6030CD61abb",
+	"symbol": "CyberFM",
+	"name": "CyberFM",
+	"coingecko": "cyberfm",
+	"sources": [
+		"coingecko"
+	]
+}

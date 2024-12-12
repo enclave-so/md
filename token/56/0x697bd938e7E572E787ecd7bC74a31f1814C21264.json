@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x697bd938e7E572E787ecd7bC74a31f1814C21264",
+	"symbol": "Digital Financial Exchange",
+	"name": "Digital Financial Exchange",
+	"coingecko": "digital-financial-exchange",
+	"sources": [
+		"coingecko"
+	]
+}

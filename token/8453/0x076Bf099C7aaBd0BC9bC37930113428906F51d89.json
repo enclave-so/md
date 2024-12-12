@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x076Bf099C7aaBd0BC9bC37930113428906F51d89",
+	"symbol": "DEFLI",
+	"name": "DEFLI",
+	"coingecko": "defli",
+	"sources": [
+		"coingecko"
+	]
+}

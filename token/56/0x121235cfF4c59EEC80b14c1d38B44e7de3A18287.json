@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x121235cfF4c59EEC80b14c1d38B44e7de3A18287",
+	"symbol": "DarkShield",
+	"name": "DarkShield",
+	"coingecko": "darkshield",
+	"sources": [
+		"coingecko"
+	]
+}

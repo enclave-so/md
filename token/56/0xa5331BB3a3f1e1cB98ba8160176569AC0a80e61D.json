@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xa5331BB3a3f1e1cB98ba8160176569AC0a80e61D",
+	"symbol": "Cats Coin (BSC)",
+	"name": "Cats Coin (BSC)",
+	"coingecko": "cats-coin-1722f9f2-68f8-4ad8-a123-2835ea18abc5",
+	"sources": [
+		"coingecko"
+	]
+}

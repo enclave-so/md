@@ -1,0 +1,10 @@
+{
+	"chain": 96,
+	"address": "0x6527d3D38a7Ff4E62f98fE27dd9242a36227FE23",
+	"symbol": "Tao Meme",
+	"name": "Tao Meme",
+	"coingecko": "tao-meme",
+	"sources": [
+		"coingecko"
+	]
+}

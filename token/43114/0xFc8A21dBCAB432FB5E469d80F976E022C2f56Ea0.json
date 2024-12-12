@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0xFc8A21dBCAB432FB5E469d80F976E022C2f56Ea0",
+	"symbol": "MetaMUI",
+	"name": "MetaMUI",
+	"coingecko": "metamui",
+	"sources": [
+		"coingecko"
+	]
+}

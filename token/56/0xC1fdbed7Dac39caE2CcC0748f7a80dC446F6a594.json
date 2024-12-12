@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xC1fdbed7Dac39caE2CcC0748f7a80dC446F6a594",
+	"symbol": "BiLira",
+	"name": "BiLira",
+	"coingecko": "bilira",
+	"sources": [
+		"coingecko"
+	]
+}

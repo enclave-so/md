@@ -1,0 +1,13 @@
+{
+	"chain": 56,
+	"address": "0x8fF795a6F4D97E7887C79beA79aba5cc76444aDf",
+	"symbol": "BCH",
+	"name": "Bitcoin Cash Token",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/bch.jpg",
+	"coingecko": "binance-peg-bitcoin-cash",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

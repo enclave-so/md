@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x4418260a42145Eeb873eAfc48D8618d8261dFde7",
+	"symbol": "CGTcoin",
+	"name": "CGTcoin",
+	"coingecko": "cgtcoin",
+	"sources": [
+		"coingecko"
+	]
+}

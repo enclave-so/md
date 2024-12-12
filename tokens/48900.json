@@ -1,0 +1,42 @@
+[
+	{
+		"chain": 48900,
+		"address": "0x80137510979822322193FC997d400D5A6C747bf7",
+		"symbol": "StakeStone ETH",
+		"name": "StakeStone ETH",
+		"coingecko": "stakestone-ether",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 48900,
+		"address": "0xfd418e42783382E86Ae91e445406600Ba144D162",
+		"symbol": "Zircuit",
+		"name": "Zircuit",
+		"coingecko": "zircuit",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 48900,
+		"address": "0x46dDa6a5a559d861c06EC9a95Fb395f5C3Db0742",
+		"symbol": "Zircuit Bridged USDT (Zircuit)",
+		"name": "Zircuit Bridged USDT (Zircuit)",
+		"coingecko": "zircuit-bridged-usdt-zircuit",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 48900,
+		"address": "0x4200000000000000000000000000000000000006",
+		"symbol": "Zircuit Bridged WETH (Zircuit)",
+		"name": "Zircuit Bridged WETH (Zircuit)",
+		"coingecko": "zircuit-bridged-weth-zircuit",
+		"sources": [
+			"coingecko"
+		]
+	}
+]

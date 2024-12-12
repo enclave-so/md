@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x2dAD3a13ef0C6366220f989157009e501e7938F8",
+	"symbol": "Extra Finance",
+	"name": "Extra Finance",
+	"coingecko": "extra-finance",
+	"sources": [
+		"coingecko"
+	]
+}

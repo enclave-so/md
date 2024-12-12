@@ -1,0 +1,10 @@
+{
+	"chain": 59144,
+	"address": "0x5B16228B94b68C7cE33AF2ACc5663eBdE4dCFA2d",
+	"symbol": "Linea Bridged LINK (Linea)",
+	"name": "Linea Bridged LINK (Linea)",
+	"coingecko": "linea-bridged-link-linea",
+	"sources": [
+		"coingecko"
+	]
+}

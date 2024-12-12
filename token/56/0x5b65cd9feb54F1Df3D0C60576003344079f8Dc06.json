@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x5b65cd9feb54F1Df3D0C60576003344079f8Dc06",
+	"symbol": "Uniwhale",
+	"name": "Uniwhale",
+	"coingecko": "uniwhale",
+	"sources": [
+		"coingecko"
+	]
+}

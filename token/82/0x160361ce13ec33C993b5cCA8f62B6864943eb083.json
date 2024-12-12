@@ -1,0 +1,10 @@
+{
+	"chain": 82,
+	"address": "0x160361ce13ec33C993b5cCA8f62B6864943eb083",
+	"symbol": "Meter Stable",
+	"name": "Meter Stable",
+	"coingecko": "meter-stable",
+	"sources": [
+		"coingecko"
+	]
+}

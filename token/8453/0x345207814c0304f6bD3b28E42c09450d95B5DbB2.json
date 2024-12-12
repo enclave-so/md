@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x345207814c0304f6bD3b28E42c09450d95B5DbB2",
+	"symbol": "stickbug",
+	"name": "stickbug",
+	"coingecko": "stickbug",
+	"sources": [
+		"coingecko"
+	]
+}

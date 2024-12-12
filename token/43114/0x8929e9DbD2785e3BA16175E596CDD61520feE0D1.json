@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x8929e9DbD2785e3BA16175E596CDD61520feE0D1",
+	"symbol": "Altitude",
+	"name": "Altitude",
+	"coingecko": "altitude",
+	"sources": [
+		"coingecko"
+	]
+}

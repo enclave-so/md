@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x6169b3b23e57dE79a6146A2170980cEb1F83b9e0",
+	"symbol": "Vetter",
+	"name": "Vetter",
+	"coingecko": "vetter-token",
+	"sources": [
+		"coingecko"
+	]
+}

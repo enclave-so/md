@@ -1,0 +1,10 @@
+{
+	"chain": 50,
+	"address": "0x0000000000000000000000000000000000000000",
+	"symbol": "Circularity Finance",
+	"name": "Circularity Finance",
+	"coingecko": "circularity-finance",
+	"sources": [
+		"coingecko"
+	]
+}

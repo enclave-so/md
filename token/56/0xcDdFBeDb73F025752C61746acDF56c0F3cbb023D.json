@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xcDdFBeDb73F025752C61746acDF56c0F3cbb023D",
+	"symbol": "Pickvibe",
+	"name": "Pickvibe",
+	"coingecko": "pickvibe",
+	"sources": [
+		"coingecko"
+	]
+}

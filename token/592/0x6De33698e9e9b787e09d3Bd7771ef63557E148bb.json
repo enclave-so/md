@@ -1,0 +1,10 @@
+{
+	"chain": 592,
+	"address": "0x6De33698e9e9b787e09d3Bd7771ef63557E148bb",
+	"symbol": "Celer Bridged DAI (Astar)",
+	"name": "Celer Bridged DAI (Astar)",
+	"coingecko": "celer-bridged-dai-astar",
+	"sources": [
+		"coingecko"
+	]
+}

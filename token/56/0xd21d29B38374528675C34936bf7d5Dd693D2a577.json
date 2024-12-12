@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xd21d29B38374528675C34936bf7d5Dd693D2a577",
+	"symbol": "PARSIQ",
+	"name": "PARSIQ",
+	"coingecko": "parsiq",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xF8a99F2bF2ce5bb6cE4aafcf070D8723bc904Aa2",
+	"symbol": "Chinese Brett",
+	"name": "Chinese Brett",
+	"coingecko": "chinese-brett",
+	"sources": [
+		"coingecko"
+	]
+}

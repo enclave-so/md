@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0xC0C5AA69Dbe4d6DDdfBc89c0957686ec60F24389",
+	"symbol": "XEN Crypto",
+	"name": "XEN Crypto",
+	"coingecko": "xen-crypto",
+	"sources": [
+		"coingecko"
+	]
+}

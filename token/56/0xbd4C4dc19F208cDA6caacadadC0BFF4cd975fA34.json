@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xbd4C4dc19F208cDA6caacadadC0BFF4cd975fA34",
+	"symbol": "Dogs Rock",
+	"name": "Dogs Rock",
+	"coingecko": "dogs-rock",
+	"sources": [
+		"coingecko"
+	]
+}

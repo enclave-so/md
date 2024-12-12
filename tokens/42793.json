@@ -1,0 +1,42 @@
+[
+	{
+		"chain": 42793,
+		"address": "0xfc24f770F94edBca6D6f885E12d4317320BcB401",
+		"symbol": "Bridged WETH",
+		"name": "Bridged WETH",
+		"coingecko": "bridged-weth",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42793,
+		"address": "0x796Ea11Fa2dD751eD01b53C372fFDB4AAa8f00F9",
+		"symbol": "LayerZero Bridged USDC (Etherlink)",
+		"name": "LayerZero Bridged USDC (Etherlink)",
+		"coingecko": "layerzero-bridged-usdc-etherlink",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42793,
+		"address": "0x2C03058C8AFC06713be23e58D2febC8337dbfE6A",
+		"symbol": "LayerZero Bridged USDT (Etherlink)",
+		"name": "LayerZero Bridged USDT (Etherlink)",
+		"coingecko": "layerzero-bridged-usdt-etherlink",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42793,
+		"address": "0xc9B53AB2679f573e480d01e0f49e2B5CFB7a3EAb",
+		"symbol": "Wrapped XTZ",
+		"name": "Wrapped XTZ",
+		"coingecko": "wrapped-xtz",
+		"sources": [
+			"coingecko"
+		]
+	}
+]

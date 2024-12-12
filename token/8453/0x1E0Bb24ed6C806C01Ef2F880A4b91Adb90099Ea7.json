@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x1E0Bb24ed6C806C01Ef2F880A4b91Adb90099Ea7",
+	"symbol": "BUCCI",
+	"name": "BUCCI",
+	"coingecko": "bucci",
+	"sources": [
+		"coingecko"
+	]
+}

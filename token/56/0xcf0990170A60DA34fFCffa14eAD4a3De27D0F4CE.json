@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xcf0990170A60DA34fFCffa14eAD4a3De27D0F4CE",
+	"symbol": "BitcoinBam",
+	"name": "BitcoinBam",
+	"coingecko": "bitcoinbam",
+	"sources": [
+		"coingecko"
+	]
+}

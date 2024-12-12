@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xAaaAfDC2E08371B956Be515B3f3Ff735AB9c9D74",
+	"symbol": "Azbit",
+	"name": "Azbit",
+	"coingecko": "azbit",
+	"sources": [
+		"coingecko"
+	]
+}

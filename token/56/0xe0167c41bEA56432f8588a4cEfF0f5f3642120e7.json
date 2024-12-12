@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xe0167c41bEA56432f8588a4cEfF0f5f3642120e7",
+	"symbol": "Viking Elon",
+	"name": "Viking Elon",
+	"coingecko": "viking-elon",
+	"sources": [
+		"coingecko"
+	]
+}

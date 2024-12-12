@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x449674B82F05d498E126Dd6615a1057A9c088f2C",
+	"symbol": "Lost World",
+	"name": "Lost World",
+	"coingecko": "lost-world",
+	"sources": [
+		"coingecko"
+	]
+}

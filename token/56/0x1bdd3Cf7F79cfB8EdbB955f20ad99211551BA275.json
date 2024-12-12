@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x1bdd3Cf7F79cfB8EdbB955f20ad99211551BA275",
+	"symbol": "Stader BNBx",
+	"name": "Stader BNBx",
+	"coingecko": "stader-bnbx",
+	"sources": [
+		"coingecko"
+	]
+}

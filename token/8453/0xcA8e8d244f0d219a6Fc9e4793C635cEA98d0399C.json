@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xcA8e8d244f0d219a6Fc9e4793C635cEA98d0399C",
+	"symbol": "Catson",
+	"name": "Catson",
+	"coingecko": "catson",
+	"sources": [
+		"coingecko"
+	]
+}

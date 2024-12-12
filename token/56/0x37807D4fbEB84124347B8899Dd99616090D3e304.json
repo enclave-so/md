@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x37807D4fbEB84124347B8899Dd99616090D3e304",
+	"symbol": "LunarCrush",
+	"name": "LunarCrush",
+	"coingecko": "lunr-token",
+	"sources": [
+		"coingecko"
+	]
+}

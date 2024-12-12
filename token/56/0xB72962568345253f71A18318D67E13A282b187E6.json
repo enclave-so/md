@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xB72962568345253f71A18318D67E13A282b187E6",
+	"symbol": "ETH Fan Token Ecosystem",
+	"name": "ETH Fan Token Ecosystem",
+	"coingecko": "eth-fan-token",
+	"sources": [
+		"coingecko"
+	]
+}

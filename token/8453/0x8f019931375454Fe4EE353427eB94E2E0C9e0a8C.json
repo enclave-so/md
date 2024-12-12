@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x8f019931375454Fe4EE353427eB94E2E0C9e0a8C",
+	"symbol": "KOMPETE",
+	"name": "KOMPETE",
+	"coingecko": "kompete",
+	"sources": [
+		"coingecko"
+	]
+}

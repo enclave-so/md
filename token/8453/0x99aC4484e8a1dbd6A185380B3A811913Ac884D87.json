@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x99aC4484e8a1dbd6A185380B3A811913Ac884D87",
+	"symbol": "Savings Dai",
+	"name": "Savings Dai",
+	"coingecko": "savings-dai",
+	"sources": [
+		"coingecko"
+	]
+}

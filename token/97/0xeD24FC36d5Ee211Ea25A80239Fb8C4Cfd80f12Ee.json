@@ -1,0 +1,11 @@
+{
+	"chain": 97,
+	"address": "0xeD24FC36d5Ee211Ea25A80239Fb8C4Cfd80f12Ee",
+	"symbol": "BUSD",
+	"name": "BUSD Token",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/assets/BUSD-BD1/logo.png",
+	"sources": [
+		"sushiswap"
+	]
+}

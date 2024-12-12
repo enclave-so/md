@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x719323e2f539D35fd7e549DDcCB43E6bDBA08E17",
+	"symbol": "UpBots Token",
+	"name": "UpBots Token",
+	"coingecko": "upbots",
+	"sources": [
+		"coingecko"
+	]
+}

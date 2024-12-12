@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x3636a7734b669Ce352e97780Df361ce1f809c58C",
+	"symbol": "ROCKY",
+	"name": "ROCKY",
+	"coingecko": "rocky-on-base",
+	"sources": [
+		"coingecko"
+	]
+}

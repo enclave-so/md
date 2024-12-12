@@ -1,0 +1,10 @@
+{
+	"chain": 61,
+	"address": "0xDE093684c796204224BC081f937aa059D903c52a",
+	"symbol": "Classic USD",
+	"name": "Classic USD",
+	"coingecko": "classic-usd",
+	"sources": [
+		"coingecko"
+	]
+}

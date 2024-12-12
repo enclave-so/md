@@ -1,0 +1,10 @@
+{
+	"chain": 48900,
+	"address": "0x4200000000000000000000000000000000000006",
+	"symbol": "Zircuit Bridged WETH (Zircuit)",
+	"name": "Zircuit Bridged WETH (Zircuit)",
+	"coingecko": "zircuit-bridged-weth-zircuit",
+	"sources": [
+		"coingecko"
+	]
+}

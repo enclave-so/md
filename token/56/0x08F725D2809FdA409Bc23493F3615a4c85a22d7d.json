@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x08F725D2809FdA409Bc23493F3615a4c85a22d7d",
+	"symbol": "TrustNFT",
+	"name": "TrustNFT",
+	"coingecko": "trustnft",
+	"sources": [
+		"coingecko"
+	]
+}

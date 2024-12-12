@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x2C717059b366714d267039aF8F59125CAdce6D8c",
+	"symbol": "MetaShooter",
+	"name": "MetaShooter",
+	"coingecko": "metashooter",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x2456493e757fDeedF569781F053998A72adfad03",
+	"symbol": "Definder Network",
+	"name": "Definder Network",
+	"coingecko": "smartlands",
+	"sources": [
+		"coingecko"
+	]
+}

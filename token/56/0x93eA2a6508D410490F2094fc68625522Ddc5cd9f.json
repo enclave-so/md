@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x93eA2a6508D410490F2094fc68625522Ddc5cd9f",
+	"symbol": "Energy Token",
+	"name": "Energy Token",
+	"coingecko": "energy-token",
+	"sources": [
+		"coingecko"
+	]
+}

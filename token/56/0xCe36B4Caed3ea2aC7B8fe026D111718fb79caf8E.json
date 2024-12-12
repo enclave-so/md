@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xCe36B4Caed3ea2aC7B8fe026D111718fb79caf8E",
+	"symbol": "LOVECHAIN",
+	"name": "LOVECHAIN",
+	"coingecko": "lovechain-2",
+	"sources": [
+		"coingecko"
+	]
+}

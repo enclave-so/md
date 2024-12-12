@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x5e7f472B9481C80101b22D0bA4ef4253Aa61daBc",
+	"symbol": "Hero Blaze: Three Kingdoms",
+	"name": "Hero Blaze: Three Kingdoms",
+	"coingecko": "hero-blaze-three-kingdoms",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x2aaF50869739e317AB80A57Bf87cAA35F5b60598",
+	"symbol": "Crosschain IOTX",
+	"name": "Crosschain IOTX",
+	"coingecko": "crosschain-iotx",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xb6ADB74efb5801160Ff749b1985Fd3bD5000e938",
+	"symbol": "GameZone",
+	"name": "GameZone",
+	"coingecko": "gamezone",
+	"sources": [
+		"coingecko"
+	]
+}

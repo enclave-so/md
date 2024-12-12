@@ -1,0 +1,11 @@
+{
+	"chain": 42170,
+	"address": "0x52484E1ab2e2B22420a25c20FA49E173a26202Cd",
+	"symbol": "USDT",
+	"name": "Tether USD",
+	"decimals": 6,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum-nova/0x52484E1ab2e2B22420a25c20FA49E173a26202Cd.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

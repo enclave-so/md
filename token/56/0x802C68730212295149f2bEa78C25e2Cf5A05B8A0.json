@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x802C68730212295149f2bEa78C25e2Cf5A05B8A0",
+	"symbol": "Corgidoge",
+	"name": "Corgidoge",
+	"coingecko": "corgidoge",
+	"sources": [
+		"coingecko"
+	]
+}

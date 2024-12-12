@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x19A4866a85c652EB4a2ED44c42e4CB2863a62D51",
+	"symbol": "HoDooi.com",
+	"name": "HoDooi.com",
+	"coingecko": "hodooi-com",
+	"sources": [
+		"coingecko"
+	]
+}

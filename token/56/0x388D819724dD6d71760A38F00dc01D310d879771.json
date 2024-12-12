@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x388D819724dD6d71760A38F00dc01D310d879771",
+	"symbol": "JustMoney",
+	"name": "JustMoney",
+	"coingecko": "justmoney-2",
+	"sources": [
+		"coingecko"
+	]
+}

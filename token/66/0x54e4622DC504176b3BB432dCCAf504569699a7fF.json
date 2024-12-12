@@ -1,0 +1,13 @@
+{
+	"chain": 66,
+	"address": "0x54e4622DC504176b3BB432dCCAf504569699a7fF",
+	"symbol": "BTC",
+	"name": "BTC",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/btc.jpg",
+	"coingecko": "oec-btc",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

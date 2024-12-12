@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x8A638Ea79f71f3B91bDC96BbdF9fb27C93013D60",
+	"symbol": "Baby Tiger",
+	"name": "Baby Tiger",
+	"coingecko": "baby-tiger",
+	"sources": [
+		"coingecko"
+	]
+}

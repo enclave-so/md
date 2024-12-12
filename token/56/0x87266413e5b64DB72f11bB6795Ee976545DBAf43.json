@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x87266413e5b64DB72f11bB6795Ee976545DBAf43",
+	"symbol": "Shibabitcoin",
+	"name": "Shibabitcoin",
+	"coingecko": "shibabitcoin-2",
+	"sources": [
+		"coingecko"
+	]
+}

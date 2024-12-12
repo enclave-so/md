@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xAd0926eCf31719263DC86426024794332d9dD9A3",
+	"symbol": "Arcas",
+	"name": "Arcas",
+	"coingecko": "block-ape-scissors",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x9F235D23354857EfE6c541dB92a9eF1877689BCB",
+	"symbol": "Goodle",
+	"name": "Goodle",
+	"coingecko": "goodle",
+	"sources": [
+		"coingecko"
+	]
+}

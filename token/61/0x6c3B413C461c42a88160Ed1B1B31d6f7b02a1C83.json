@@ -1,0 +1,10 @@
+{
+	"chain": 61,
+	"address": "0x6c3B413C461c42a88160Ed1B1B31d6f7b02a1C83",
+	"symbol": "ETCPOW",
+	"name": "ETCPOW",
+	"coingecko": "etcpow",
+	"sources": [
+		"coingecko"
+	]
+}

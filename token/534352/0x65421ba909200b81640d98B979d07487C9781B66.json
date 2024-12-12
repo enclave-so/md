@@ -1,0 +1,10 @@
+{
+	"chain": 534352,
+	"address": "0x65421ba909200b81640d98B979d07487C9781B66",
+	"symbol": "KelpDAO Bridged rsETH (Scroll)",
+	"name": "KelpDAO Bridged rsETH (Scroll)",
+	"coingecko": "kelpdao-bridged-rseth-scroll",
+	"sources": [
+		"coingecko"
+	]
+}

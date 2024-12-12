@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xA0CF89eE581313D84d28409Eb6BB1D1F9B55d410",
+	"symbol": "UNICE",
+	"name": "UNICE",
+	"coingecko": "unice",
+	"sources": [
+		"coingecko"
+	]
+}

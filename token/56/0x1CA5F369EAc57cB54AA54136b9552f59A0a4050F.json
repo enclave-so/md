@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x1CA5F369EAc57cB54AA54136b9552f59A0a4050F",
+	"symbol": "CHAD CAT",
+	"name": "CHAD CAT",
+	"coingecko": "chad-cat",
+	"sources": [
+		"coingecko"
+	]
+}

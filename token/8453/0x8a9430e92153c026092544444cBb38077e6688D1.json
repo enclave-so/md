@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x8a9430e92153c026092544444cBb38077e6688D1",
+	"symbol": "KeptChain",
+	"name": "KeptChain",
+	"coingecko": "keptchain",
+	"sources": [
+		"coingecko"
+	]
+}

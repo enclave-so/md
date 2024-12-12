@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x405BE90996e7F995A08C2FBD8d8822EF5b03466C",
+	"symbol": "Jetset",
+	"name": "Jetset",
+	"coingecko": "jetset",
+	"sources": [
+		"coingecko"
+	]
+}

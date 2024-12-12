@@ -1,0 +1,10 @@
+{
+	"chain": 81457,
+	"address": "0xe7903B1F75C534Dd8159b313d92cDCfbC62cB3Cd",
+	"symbol": "Wrapped rsETH",
+	"name": "Wrapped rsETH",
+	"coingecko": "wrapped-rseth",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x4c61D70c0089D708040919aaC7BDd600Da72BC81",
+	"symbol": "HYME",
+	"name": "HYME",
+	"coingecko": "hyme",
+	"sources": [
+		"coingecko"
+	]
+}

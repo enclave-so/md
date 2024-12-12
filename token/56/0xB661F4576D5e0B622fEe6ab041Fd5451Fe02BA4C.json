@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xB661F4576D5e0B622fEe6ab041Fd5451Fe02BA4C",
+	"symbol": "Defigram",
+	"name": "Defigram",
+	"coingecko": "defigram",
+	"sources": [
+		"coingecko"
+	]
+}

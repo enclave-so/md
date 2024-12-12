@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x3aD9594151886Ce8538C1ff615EFa2385a8C3A88",
+	"symbol": "Safemars",
+	"name": "Safemars",
+	"coingecko": "safemars",
+	"sources": [
+		"coingecko"
+	]
+}

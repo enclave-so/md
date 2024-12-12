@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x08F87E970e2e1234a974d090074fa40a2524CF67",
+	"symbol": "Xensei",
+	"name": "Xensei",
+	"coingecko": "xensei",
+	"sources": [
+		"coingecko"
+	]
+}

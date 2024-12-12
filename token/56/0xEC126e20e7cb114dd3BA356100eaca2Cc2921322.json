@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xEC126e20e7cb114dd3BA356100eaca2Cc2921322",
+	"symbol": "Solar Energy",
+	"name": "Solar Energy",
+	"coingecko": "solar-energy",
+	"sources": [
+		"coingecko"
+	]
+}

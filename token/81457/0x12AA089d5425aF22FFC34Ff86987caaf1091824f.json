@@ -1,0 +1,10 @@
+{
+	"chain": 81457,
+	"address": "0x12AA089d5425aF22FFC34Ff86987caaf1091824f",
+	"symbol": "Blastardio",
+	"name": "Blastardio",
+	"coingecko": "blastardio",
+	"sources": [
+		"coingecko"
+	]
+}

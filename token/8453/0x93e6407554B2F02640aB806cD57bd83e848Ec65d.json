@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x93e6407554B2F02640aB806cD57bd83e848Ec65d",
+	"symbol": "FarLaunch",
+	"name": "FarLaunch",
+	"coingecko": "farlaunch",
+	"sources": [
+		"coingecko"
+	]
+}

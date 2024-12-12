@@ -1,0 +1,10 @@
+{
+	"chain": 8217,
+	"address": "0xCD6f29dC9Ca217d0973d3D21bF58eDd3CA871a86",
+	"symbol": "Synapse Bridged WETH (Klaytn)",
+	"name": "Synapse Bridged WETH (Klaytn)",
+	"coingecko": "synapse-bridged-weth-klaytn",
+	"sources": [
+		"coingecko"
+	]
+}

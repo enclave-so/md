@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x0cF453DC7EA21ef8FdfFC1B14Cb848E1e3884Be5",
+	"symbol": "SportPoint",
+	"name": "SportPoint",
+	"coingecko": "sportpoint",
+	"sources": [
+		"coingecko"
+	]
+}

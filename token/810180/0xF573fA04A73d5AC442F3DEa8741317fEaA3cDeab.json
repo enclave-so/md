@@ -1,0 +1,10 @@
+{
+	"chain": 810180,
+	"address": "0xF573fA04A73d5AC442F3DEa8741317fEaA3cDeab",
+	"symbol": "Nova Merged DAI (zkLink)",
+	"name": "Nova Merged DAI (zkLink)",
+	"coingecko": "nova-dai",
+	"sources": [
+		"coingecko"
+	]
+}

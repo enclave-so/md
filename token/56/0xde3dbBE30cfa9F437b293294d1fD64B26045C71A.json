@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xde3dbBE30cfa9F437b293294d1fD64B26045C71A",
+	"symbol": "NFTb",
+	"name": "NFTb",
+	"coingecko": "nftb",
+	"sources": [
+		"coingecko"
+	]
+}

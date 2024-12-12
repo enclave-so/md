@@ -1,0 +1,13 @@
+{
+	"chain": 56,
+	"address": "0xAe9269f27437f0fcBC232d39Ec814844a51d6b8f",
+	"symbol": "BURGER",
+	"name": "Burger Swap",
+	"decimals": 18,
+	"logo": "https://bscscan.com/token/images/burgerswap_32.png",
+	"coingecko": "burger-swap",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xF3ED4770E6eFe9168c3f2F50A6D9d0F97a550DF1",
+	"symbol": "DKEY Bank",
+	"name": "DKEY Bank",
+	"coingecko": "dkey-bank",
+	"sources": [
+		"coingecko"
+	]
+}

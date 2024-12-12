@@ -1,0 +1,52 @@
+[
+	{
+		"chain": 23294,
+		"address": "0xEd57966f1566dE1a90042d07403021Ea52ad4724",
+		"symbol": "Accumulated Finance Staked ROSE",
+		"name": "Accumulated Finance Staked ROSE",
+		"coingecko": "accumulated-finance-staked-rose",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 23294,
+		"address": "0xd7f2507CAFe0F04f5C1939999e9bE4E1B36dC219",
+		"symbol": "Private Wrapped IX",
+		"name": "Private Wrapped IX",
+		"coingecko": "private-wrapped-ix",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 23294,
+		"address": "0x1Ffd8A218FDc5B38210D64CBB45F40DC55A4e019",
+		"symbol": "Private Wrapped wROSE",
+		"name": "Private Wrapped wROSE",
+		"coingecko": "private-wrapped-wrose",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 23294,
+		"address": "0x6665a6Cae3F52959f0f653E3D04270D54e6f13d8",
+		"symbol": "Rosy",
+		"name": "Rosy",
+		"coingecko": "rosy",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 23294,
+		"address": "0x8Bc2B030b299964eEfb5e1e0b36991352E56D2D3",
+		"symbol": "Wrapped ROSE",
+		"name": "Wrapped ROSE",
+		"coingecko": "wrapped-rose",
+		"sources": [
+			"coingecko"
+		]
+	}
+]

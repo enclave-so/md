@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0xC38f41A296A4493Ff429F1238e030924A1542e50",
+	"symbol": "Snowball",
+	"name": "Snowball",
+	"coingecko": "snowball-token",
+	"sources": [
+		"coingecko"
+	]
+}

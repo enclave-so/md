@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x2615a94df961278DcbC41Fb0a54fEc5f10a693aE",
+	"symbol": "Wrapped XRP (Universal)",
+	"name": "Wrapped XRP (Universal)",
+	"coingecko": "wrapped-xrp-universal",
+	"sources": [
+		"coingecko"
+	]
+}

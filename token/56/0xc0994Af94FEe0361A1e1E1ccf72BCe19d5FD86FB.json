@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xc0994Af94FEe0361A1e1E1ccf72BCe19d5FD86FB",
+	"symbol": "RichCity",
+	"name": "RichCity",
+	"coingecko": "richcity",
+	"sources": [
+		"coingecko"
+	]
+}

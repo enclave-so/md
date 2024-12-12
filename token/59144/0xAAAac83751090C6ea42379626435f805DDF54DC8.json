@@ -1,0 +1,10 @@
+{
+	"chain": 59144,
+	"address": "0xAAAac83751090C6ea42379626435f805DDF54DC8",
+	"symbol": "Nile",
+	"name": "Nile",
+	"coingecko": "nile",
+	"sources": [
+		"coingecko"
+	]
+}

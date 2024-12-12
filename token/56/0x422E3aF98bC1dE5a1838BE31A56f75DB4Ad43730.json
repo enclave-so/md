@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x422E3aF98bC1dE5a1838BE31A56f75DB4Ad43730",
+	"symbol": "CoinWind",
+	"name": "CoinWind",
+	"coingecko": "coinwind",
+	"sources": [
+		"coingecko"
+	]
+}

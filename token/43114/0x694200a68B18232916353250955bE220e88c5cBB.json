@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x694200a68B18232916353250955bE220e88c5cBB",
+	"symbol": "Kovin Segnocchi",
+	"name": "Kovin Segnocchi",
+	"coingecko": "kovin-segnocchi",
+	"sources": [
+		"coingecko"
+	]
+}

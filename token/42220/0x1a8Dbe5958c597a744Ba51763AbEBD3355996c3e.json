@@ -1,0 +1,11 @@
+{
+	"chain": 42220,
+	"address": "0x1a8Dbe5958c597a744Ba51763AbEBD3355996c3e",
+	"symbol": "rCELO",
+	"name": "Rewards CELO",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/rcelo.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

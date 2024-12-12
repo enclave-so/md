@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xd25Db5c22a62041376f6F79372C8e204c7BE7bdb",
+	"symbol": "TurboX",
+	"name": "TurboX",
+	"coingecko": "turbox",
+	"sources": [
+		"coingecko"
+	]
+}

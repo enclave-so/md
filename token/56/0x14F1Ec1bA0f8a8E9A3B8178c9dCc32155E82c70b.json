@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x14F1Ec1bA0f8a8E9A3B8178c9dCc32155E82c70b",
+	"symbol": "KAIF",
+	"name": "KAIF",
+	"coingecko": "kaif",
+	"sources": [
+		"coingecko"
+	]
+}

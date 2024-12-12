@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x7c56D81EcB5E1d287a1E22B89b01348f07bE3541",
+	"symbol": "1Move Token",
+	"name": "1Move Token",
+	"coingecko": "1move token",
+	"sources": [
+		"coingecko"
+	]
+}

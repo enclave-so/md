@@ -1,0 +1,10 @@
+{
+	"chain": 8822,
+	"address": "0x34a85ddc4E30818e44e6f4A8ee39d8CBA9A60fB3",
+	"symbol": "ShimmerSea Lum",
+	"name": "ShimmerSea Lum",
+	"coingecko": "shimmersea-lum",
+	"sources": [
+		"coingecko"
+	]
+}

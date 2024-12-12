@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xDdC0dBd7dC799ae53A98a60b54999cb6eBb3Abf0",
+	"symbol": "SafeBlast",
+	"name": "SafeBlast",
+	"coingecko": "safeblast",
+	"sources": [
+		"coingecko"
+	]
+}

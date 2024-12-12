@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x6c14c1898C843FF66cA51e87244690bBc28DF215",
+	"symbol": "ORANGE",
+	"name": "ORANGE",
+	"coingecko": "orange-2",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x9e57E83Ad79Ac5312Ba82940bA037ED30600e167",
+	"symbol": "Friend3",
+	"name": "Friend3",
+	"coingecko": "friend3",
+	"sources": [
+		"coingecko"
+	]
+}

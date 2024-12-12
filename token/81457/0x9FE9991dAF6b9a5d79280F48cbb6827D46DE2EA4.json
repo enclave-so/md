@@ -1,0 +1,10 @@
+{
+	"chain": 81457,
+	"address": "0x9FE9991dAF6b9a5d79280F48cbb6827D46DE2EA4",
+	"symbol": "HyperBlast",
+	"name": "HyperBlast",
+	"coingecko": "hyperblast",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x668048E70284107A6aFab1711f28D88dF3E72948",
+	"symbol": "Coldstack",
+	"name": "Coldstack",
+	"coingecko": "coldstack",
+	"sources": [
+		"coingecko"
+	]
+}

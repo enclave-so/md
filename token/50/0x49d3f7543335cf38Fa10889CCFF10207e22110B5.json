@@ -1,0 +1,10 @@
+{
+	"chain": 50,
+	"address": "0x49d3f7543335cf38Fa10889CCFF10207e22110B5",
+	"symbol": "Fathom Dollar",
+	"name": "Fathom Dollar",
+	"coingecko": "fathom-dollar",
+	"sources": [
+		"coingecko"
+	]
+}

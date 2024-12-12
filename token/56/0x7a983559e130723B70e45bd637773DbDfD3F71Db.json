@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x7a983559e130723B70e45bd637773DbDfD3F71Db",
+	"symbol": "Diamond Boyz Coin",
+	"name": "Diamond Boyz Coin",
+	"coingecko": "diamond-boyz-coin",
+	"sources": [
+		"coingecko"
+	]
+}

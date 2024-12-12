@@ -1,0 +1,10 @@
+{
+	"chain": 5000,
+	"address": "0xE6829d9a7eE3040e1276Fa75293Bde931859e8fA",
+	"symbol": "Mantle Restaked ETH",
+	"name": "Mantle Restaked ETH",
+	"coingecko": "mantle-restaked-eth",
+	"sources": [
+		"coingecko"
+	]
+}

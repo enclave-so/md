@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x000000000000a59351f61B598E8DA953b9e041Ec",
+	"symbol": "Gun Game",
+	"name": "Gun Game",
+	"coingecko": "gun-game",
+	"sources": [
+		"coingecko"
+	]
+}

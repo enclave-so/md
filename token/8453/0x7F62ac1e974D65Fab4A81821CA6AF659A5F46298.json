@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x7F62ac1e974D65Fab4A81821CA6AF659A5F46298",
+	"symbol": "Ethlas",
+	"name": "Ethlas",
+	"coingecko": "ethlas",
+	"sources": [
+		"coingecko"
+	]
+}

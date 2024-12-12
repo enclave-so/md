@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x33b7F6225B4CBe5D368b7Bb4807d6375b18B8C2B",
+	"symbol": "Candy",
+	"name": "Candy",
+	"coingecko": "candy-on-base",
+	"sources": [
+		"coingecko"
+	]
+}

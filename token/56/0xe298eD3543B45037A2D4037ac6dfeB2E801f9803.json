@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xe298eD3543B45037A2D4037ac6dfeB2E801f9803",
+	"symbol": "DU Coin",
+	"name": "DU Coin",
+	"coingecko": "du-coin",
+	"sources": [
+		"coingecko"
+	]
+}

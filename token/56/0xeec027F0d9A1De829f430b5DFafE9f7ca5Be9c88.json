@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xeec027F0d9A1De829f430b5DFafE9f7ca5Be9c88",
+	"symbol": "BCREPE",
+	"name": "BCREPE",
+	"coingecko": "bcrepe",
+	"sources": [
+		"coingecko"
+	]
+}

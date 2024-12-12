@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x0e4B5Ea0259eB3D66E6FCB7Cc8785817F8490a53",
+	"symbol": "SokuSwap",
+	"name": "SokuSwap",
+	"coingecko": "sokuswap",
+	"sources": [
+		"coingecko"
+	]
+}

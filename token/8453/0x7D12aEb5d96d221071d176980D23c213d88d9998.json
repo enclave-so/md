@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x7D12aEb5d96d221071d176980D23c213d88d9998",
+	"symbol": "Fried Chicken",
+	"name": "Fried Chicken",
+	"coingecko": "fried-chicken",
+	"sources": [
+		"coingecko"
+	]
+}

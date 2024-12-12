@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0xd5d0A9b3f2C264b955Ae7161cfA6D38A7aEa60a7",
+	"symbol": "abcPHAR",
+	"name": "abcPHAR",
+	"coingecko": "abcphar",
+	"sources": [
+		"coingecko"
+	]
+}

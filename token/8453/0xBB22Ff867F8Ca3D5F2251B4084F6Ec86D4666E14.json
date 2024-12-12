@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xBB22Ff867F8Ca3D5F2251B4084F6Ec86D4666E14",
+	"symbol": "Cryptex Finance",
+	"name": "Cryptex Finance",
+	"coingecko": "cryptex-finance",
+	"sources": [
+		"coingecko"
+	]
+}

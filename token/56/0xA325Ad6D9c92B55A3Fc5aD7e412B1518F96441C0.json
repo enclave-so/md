@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xA325Ad6D9c92B55A3Fc5aD7e412B1518F96441C0",
+	"symbol": "Oraichain",
+	"name": "Oraichain",
+	"coingecko": "oraichain-token",
+	"sources": [
+		"coingecko"
+	]
+}

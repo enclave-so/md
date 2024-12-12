@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xDfd7b0dD7Bf1012DfDf3307a964c36b972300Ac8",
+	"symbol": "Wonderman Nation",
+	"name": "Wonderman Nation",
+	"coingecko": "wonderman-nation",
+	"sources": [
+		"coingecko"
+	]
+}

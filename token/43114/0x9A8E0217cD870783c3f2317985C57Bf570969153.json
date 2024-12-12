@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x9A8E0217cD870783c3f2317985C57Bf570969153",
+	"symbol": "Cosmic Universe Magick",
+	"name": "Cosmic Universe Magick",
+	"coingecko": "cosmic-universe-magic-token",
+	"sources": [
+		"coingecko"
+	]
+}

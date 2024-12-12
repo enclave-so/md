@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x8F1408171EAe06AEC4549fD0a5808A42cee6DD84",
+	"symbol": "Galactic Arena: The NFTverse",
+	"name": "Galactic Arena: The NFTverse",
+	"coingecko": "galactic-arena-the-nftverse",
+	"sources": [
+		"coingecko"
+	]
+}

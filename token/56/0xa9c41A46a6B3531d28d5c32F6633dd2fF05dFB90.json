@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xa9c41A46a6B3531d28d5c32F6633dd2fF05dFB90",
+	"symbol": "WaultSwap",
+	"name": "WaultSwap",
+	"coingecko": "waultswap",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x5f39DD1bB6Db20F3e792c4489F514794caC6392c",
+	"symbol": "PlayNity",
+	"name": "PlayNity",
+	"coingecko": "playnity",
+	"sources": [
+		"coingecko"
+	]
+}

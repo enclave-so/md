@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x2F4e9c97aAFFD67D98A640062d90e355B4a1C539",
+	"symbol": "Afrostar",
+	"name": "Afrostar",
+	"coingecko": "afrostar",
+	"sources": [
+		"coingecko"
+	]
+}

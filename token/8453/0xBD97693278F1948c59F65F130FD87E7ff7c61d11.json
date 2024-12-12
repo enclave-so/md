@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xBD97693278F1948c59F65F130FD87E7ff7c61d11",
+	"symbol": "Nogwai",
+	"name": "Nogwai",
+	"coingecko": "nogwai",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xDcb624C870d73CDD0B3345762977CB14dE598cd0",
+	"symbol": "H2Finance",
+	"name": "H2Finance",
+	"coingecko": "h2finance",
+	"sources": [
+		"coingecko"
+	]
+}

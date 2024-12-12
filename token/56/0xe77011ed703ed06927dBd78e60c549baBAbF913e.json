@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xe77011ed703ed06927dBd78e60c549baBAbF913e",
+	"symbol": "Micro Bitcoin Finance",
+	"name": "Micro Bitcoin Finance",
+	"coingecko": "micro-bitcoin-finance",
+	"sources": [
+		"coingecko"
+	]
+}

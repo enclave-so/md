@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x0FaBfEAcedf47e890c50C8120177fff69C6a1d9B",
+	"symbol": "Pyth USDC",
+	"name": "Pyth USDC",
+	"coingecko": "pyth-usdc",
+	"sources": [
+		"coingecko"
+	]
+}

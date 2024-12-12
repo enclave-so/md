@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xc6F509274FcC1F485644167CB911fd0C61545E6c",
+	"symbol": "Obsidium",
+	"name": "Obsidium",
+	"coingecko": "obsidium",
+	"sources": [
+		"coingecko"
+	]
+}

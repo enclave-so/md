@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xfb288d60D3b66F9c3e231a9a39Ed3f158a4269aA",
+	"symbol": "Plasma Finance",
+	"name": "Plasma Finance",
+	"coingecko": "plasma-finance",
+	"sources": [
+		"coingecko"
+	]
+}

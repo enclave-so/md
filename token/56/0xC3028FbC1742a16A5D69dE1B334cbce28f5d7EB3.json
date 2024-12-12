@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xC3028FbC1742a16A5D69dE1B334cbce28f5d7EB3",
+	"symbol": "StarSharks",
+	"name": "StarSharks",
+	"coingecko": "starsharks",
+	"sources": [
+		"coingecko"
+	]
+}

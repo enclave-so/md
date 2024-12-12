@@ -1,0 +1,11 @@
+{
+	"chain": 43114,
+	"address": "0x42A62eb3Fd2a05eD499117F128de8a3192B49EBB",
+	"symbol": "axlETH",
+	"name": "Axelar Wrapped ETH",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0x42A62eb3Fd2a05eD499117F128de8a3192B49EBB.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x23CcF3C12A7EfF7fe09Fa52c716ea9f200B87363",
+	"symbol": "Metaverse VR",
+	"name": "Metaverse VR",
+	"coingecko": "metaverse-vr",
+	"sources": [
+		"coingecko"
+	]
+}

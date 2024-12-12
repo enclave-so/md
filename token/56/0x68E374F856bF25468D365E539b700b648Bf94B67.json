@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x68E374F856bF25468D365E539b700b648Bf94B67",
+	"symbol": "Mist",
+	"name": "Mist",
+	"coingecko": "mist",
+	"sources": [
+		"coingecko"
+	]
+}

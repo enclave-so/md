@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x426C1C971fb00CAaf1883bd801323a8bEcb0C919",
+	"symbol": "Alaska Gold Rush",
+	"name": "Alaska Gold Rush",
+	"coingecko": "alaska-gold-rush",
+	"sources": [
+		"coingecko"
+	]
+}

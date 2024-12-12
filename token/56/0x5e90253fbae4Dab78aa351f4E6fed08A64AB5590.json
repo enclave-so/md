@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x5e90253fbae4Dab78aa351f4E6fed08A64AB5590",
+	"symbol": "Bonfire",
+	"name": "Bonfire",
+	"coingecko": "bonfire",
+	"sources": [
+		"coingecko"
+	]
+}

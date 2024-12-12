@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x5b1f874d0b0C5ee17a495CbB70AB8bf64107A3BD",
+	"symbol": "BinaryX",
+	"name": "BinaryX",
+	"coingecko": "binaryx-2",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x24EA2693E6AF2E732154Fc8C8E3e8aCa23a4eF22",
+	"symbol": "Starmine",
+	"name": "Starmine",
+	"coingecko": "starmine",
+	"sources": [
+		"coingecko"
+	]
+}

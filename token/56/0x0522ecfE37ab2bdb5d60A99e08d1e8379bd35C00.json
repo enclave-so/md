@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x0522ecfE37ab2bdb5d60A99e08d1e8379bd35C00",
+	"symbol": "KaraStar UMY",
+	"name": "KaraStar UMY",
+	"coingecko": "karastar-umy",
+	"sources": [
+		"coingecko"
+	]
+}

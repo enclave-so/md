@@ -1,0 +1,32 @@
+[
+	{
+		"chain": 2525,
+		"address": "0x2243EEf144c3914642eeE7694c5A0A2C9126a893",
+		"symbol": "DackieSwap",
+		"name": "DackieSwap",
+		"coingecko": "dackieswap",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 2525,
+		"address": "0x5c326deB503aEAc224bE79E9eADad3BEcCC514B6",
+		"symbol": "Dackie USD",
+		"name": "Dackie USD",
+		"coingecko": "dackie-usd",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 2525,
+		"address": "0x9790713770039CeFcf4FAaf076E2846c9B7a4630",
+		"symbol": "Quack Token",
+		"name": "Quack Token",
+		"coingecko": "quack-token",
+		"sources": [
+			"coingecko"
+		]
+	}
+]

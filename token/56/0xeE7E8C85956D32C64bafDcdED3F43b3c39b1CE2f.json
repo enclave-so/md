@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xeE7E8C85956D32C64bafDcdED3F43b3c39b1CE2f",
+	"symbol": "WEB4 AI",
+	"name": "WEB4 AI",
+	"coingecko": "web4-ai",
+	"sources": [
+		"coingecko"
+	]
+}

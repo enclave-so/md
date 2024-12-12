@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x63dc3cA01ff09E714C8108Ffd6F8A3E0b8CD13e4",
+	"symbol": "ZUM",
+	"name": "ZUM",
+	"coingecko": "zum-token",
+	"sources": [
+		"coingecko"
+	]
+}

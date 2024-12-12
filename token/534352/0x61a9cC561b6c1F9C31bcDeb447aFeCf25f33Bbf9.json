@@ -1,0 +1,10 @@
+{
+	"chain": 534352,
+	"address": "0x61a9cC561b6c1F9C31bcDeb447aFeCf25f33Bbf9",
+	"symbol": "Pandacoin Inu",
+	"name": "Pandacoin Inu",
+	"coingecko": "pandacoin-inu",
+	"sources": [
+		"coingecko"
+	]
+}

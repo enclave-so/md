@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xac5D23cE5e4a5eB11A5407a5FBeE201a75E8C8aD",
+	"symbol": "Internet Money (BSC)",
+	"name": "Internet Money (BSC)",
+	"coingecko": "internet-money-bsc",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x598487dC1F4E129b3499B6231dd18642E5315608",
+	"symbol": "Logarithm games",
+	"name": "Logarithm games",
+	"coingecko": "logarithm-games",
+	"sources": [
+		"coingecko"
+	]
+}

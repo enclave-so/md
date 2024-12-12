@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x91d6d6aF7635B7b23A8CED9508117965180e2362",
+	"symbol": "unshETHing_Token",
+	"name": "unshETHing_Token",
+	"coingecko": "unsheth",
+	"sources": [
+		"coingecko"
+	]
+}

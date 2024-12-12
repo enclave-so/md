@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x57F5C1A40F1E847e50eBDd29cb3dbFef777D2d3E",
+	"symbol": "ConsciousDao",
+	"name": "ConsciousDao",
+	"coingecko": "consciousdao",
+	"sources": [
+		"coingecko"
+	]
+}

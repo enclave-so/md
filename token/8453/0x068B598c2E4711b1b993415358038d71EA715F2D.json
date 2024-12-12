@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x068B598c2E4711b1b993415358038d71EA715F2D",
+	"symbol": "Dinari UBER",
+	"name": "Dinari UBER",
+	"coingecko": "dinari-uber",
+	"sources": [
+		"coingecko"
+	]
+}

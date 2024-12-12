@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x072b4E4209DF4e418BaE0A490DcD8c8B75d1D7C7",
+	"symbol": "KUNKUN Coin",
+	"name": "KUNKUN Coin",
+	"coingecko": "kunkun-coin",
+	"sources": [
+		"coingecko"
+	]
+}

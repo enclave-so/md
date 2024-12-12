@@ -1,0 +1,10 @@
+{
+	"chain": 8217,
+	"address": "0xCF87f94fD8F6B6f0b479771F10dF672f99eADa63",
+	"symbol": "ClaimSwap",
+	"name": "ClaimSwap",
+	"coingecko": "claimswap",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x08d58F06DDfA9b99AE651f68232014BE3914C5cd",
+	"symbol": "Ethos Reserve Note",
+	"name": "Ethos Reserve Note",
+	"coingecko": "ethos-reserve-note",
+	"sources": [
+		"coingecko"
+	]
+}

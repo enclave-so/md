@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x5de3939b2F811A61d830E6F52d13B066881412ab",
+	"symbol": "XPR Network",
+	"name": "XPR Network",
+	"coingecko": "proton",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x7F14ce2A5df31Ad0D2BF658d3840b1F7559d3EE0",
+	"symbol": "NFsTay",
+	"name": "NFsTay",
+	"coingecko": "nfstay",
+	"sources": [
+		"coingecko"
+	]
+}

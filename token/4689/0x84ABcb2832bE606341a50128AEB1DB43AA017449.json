@@ -1,0 +1,10 @@
+{
+	"chain": 4689,
+	"address": "0x84ABcb2832bE606341a50128AEB1DB43AA017449",
+	"symbol": "IoTeX Bridged BUSD (IoTeX)",
+	"name": "IoTeX Bridged BUSD (IoTeX)",
+	"coingecko": "iotex-bridged-busd-iotex",
+	"sources": [
+		"coingecko"
+	]
+}

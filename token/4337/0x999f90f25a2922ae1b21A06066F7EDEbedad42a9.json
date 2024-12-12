@@ -1,0 +1,10 @@
+{
+	"chain": 4337,
+	"address": "0x999f90f25a2922ae1b21A06066F7EDEbedad42a9",
+	"symbol": "Beam Bridged USDT (Beam)",
+	"name": "Beam Bridged USDT (Beam)",
+	"coingecko": "beam-bridged-usdt-beam",
+	"sources": [
+		"coingecko"
+	]
+}

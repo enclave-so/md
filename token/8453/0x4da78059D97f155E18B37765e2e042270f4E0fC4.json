@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x4da78059D97f155E18B37765e2e042270f4E0fC4",
+	"symbol": "WUFFI",
+	"name": "WUFFI",
+	"coingecko": "wuffi",
+	"sources": [
+		"coingecko"
+	]
+}

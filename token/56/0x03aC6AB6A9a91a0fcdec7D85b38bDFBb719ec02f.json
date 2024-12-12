@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x03aC6AB6A9a91a0fcdec7D85b38bDFBb719ec02f",
+	"symbol": "Metagame Arena",
+	"name": "Metagame Arena",
+	"coingecko": "metagame-arena",
+	"sources": [
+		"coingecko"
+	]
+}

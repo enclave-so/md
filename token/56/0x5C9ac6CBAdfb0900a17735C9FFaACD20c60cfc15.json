@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x5C9ac6CBAdfb0900a17735C9FFaACD20c60cfc15",
+	"symbol": "DeMi",
+	"name": "DeMi",
+	"coingecko": "demi",
+	"sources": [
+		"coingecko"
+	]
+}

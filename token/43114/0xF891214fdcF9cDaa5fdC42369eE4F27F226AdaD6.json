@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0xF891214fdcF9cDaa5fdC42369eE4F27F226AdaD6",
+	"symbol": "Imperium Empires",
+	"name": "Imperium Empires",
+	"coingecko": "imperium-empires",
+	"sources": [
+		"coingecko"
+	]
+}

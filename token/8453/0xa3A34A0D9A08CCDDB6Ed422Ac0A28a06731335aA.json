@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xa3A34A0D9A08CCDDB6Ed422Ac0A28a06731335aA",
+	"symbol": "Wrapped ADA (Universal)",
+	"name": "Wrapped ADA (Universal)",
+	"coingecko": "wrapped-ada-universal",
+	"sources": [
+		"coingecko"
+	]
+}

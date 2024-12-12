@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x0C067fC190cDe145B0c537765A78d4E19873a5Cc",
+	"symbol": "Albert The Alien",
+	"name": "Albert The Alien",
+	"coingecko": "albert-alien",
+	"sources": [
+		"coingecko"
+	]
+}

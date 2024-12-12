@@ -1,0 +1,62 @@
+[
+	{
+		"chain": 810180,
+		"address": "0x1a1A3b2ff016332e866787B311fcB63928464509",
+		"symbol": "Nova Merged USDC (zkLink)",
+		"name": "Nova Merged USDC (zkLink)",
+		"coingecko": "nova-usdc",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 810180,
+		"address": "0xbEAf16cFD8eFe0FC97C2a07E349B9411F5dC272C",
+		"symbol": "Solv Protocol SolvBTC",
+		"name": "Solv Protocol SolvBTC",
+		"coingecko": "solv-btc",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 810180,
+		"address": "0xC967dabf591B1f4B86CFc74996EAD065867aF19E",
+		"symbol": "zkLink",
+		"name": "zkLink",
+		"coingecko": "zklink",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 810180,
+		"address": "0xF573fA04A73d5AC442F3DEa8741317fEaA3cDeab",
+		"symbol": "Nova Merged DAI (zkLink)",
+		"name": "Nova Merged DAI (zkLink)",
+		"coingecko": "nova-dai",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 810180,
+		"address": "0x000000000000000000000000000000000000800A",
+		"symbol": "Nova Merged ETH (zkLink)",
+		"name": "Nova Merged ETH (zkLink)",
+		"coingecko": "nova-eth",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 810180,
+		"address": "0x2F8A25ac62179B31D62D7F80884AE57464699059",
+		"symbol": "Nova Merged USDT (zkLink)",
+		"name": "Nova Merged USDT (zkLink)",
+		"coingecko": "nova-tether-usd",
+		"sources": [
+			"coingecko"
+		]
+	}
+]

@@ -1,0 +1,10 @@
+{
+	"chain": 4689,
+	"address": "0x8E33229206f726993E4A7bF7dA2347F3743Bf8b4",
+	"symbol": "ioTube Bridged GEOD (IoTeX)",
+	"name": "ioTube Bridged GEOD (IoTeX)",
+	"coingecko": "iotube-bridged-geod-iotex",
+	"sources": [
+		"coingecko"
+	]
+}

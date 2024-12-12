@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x1294f4183763743c7c9519Bec51773fb3aCD78FD",
+	"symbol": "Fideum",
+	"name": "Fideum",
+	"coingecko": "fideum",
+	"sources": [
+		"coingecko"
+	]
+}

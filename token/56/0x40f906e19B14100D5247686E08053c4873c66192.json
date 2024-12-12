@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x40f906e19B14100D5247686E08053c4873c66192",
+	"symbol": "SugarBlock",
+	"name": "SugarBlock",
+	"coingecko": "sugarbounce",
+	"sources": [
+		"coingecko"
+	]
+}

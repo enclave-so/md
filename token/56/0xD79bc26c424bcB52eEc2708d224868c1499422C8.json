@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xD79bc26c424bcB52eEc2708d224868c1499422C8",
+	"symbol": "TOKUDA",
+	"name": "TOKUDA",
+	"coingecko": "tokuda",
+	"sources": [
+		"coingecko"
+	]
+}

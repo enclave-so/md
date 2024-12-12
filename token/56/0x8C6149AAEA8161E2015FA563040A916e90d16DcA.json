@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x8C6149AAEA8161E2015FA563040A916e90d16DcA",
+	"symbol": "Snapmuse.io",
+	"name": "Snapmuse.io",
+	"coingecko": "snapmuse-io",
+	"sources": [
+		"coingecko"
+	]
+}

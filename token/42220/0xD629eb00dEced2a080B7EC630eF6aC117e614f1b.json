@@ -1,0 +1,13 @@
+{
+	"chain": 42220,
+	"address": "0xD629eb00dEced2a080B7EC630eF6aC117e614f1b",
+	"symbol": "cBTC",
+	"name": "wrapped.com Bitcoin",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/wbtc.jpg",
+	"coingecko": "bridged-wbtc",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

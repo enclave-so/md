@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x0e37d70b51ffA2B98b4D34a5712C5291115464e3",
+	"symbol": "IQ",
+	"name": "IQ",
+	"coingecko": "everipedia",
+	"sources": [
+		"coingecko"
+	]
+}

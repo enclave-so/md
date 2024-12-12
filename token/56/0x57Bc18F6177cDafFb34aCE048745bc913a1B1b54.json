@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x57Bc18F6177cDafFb34aCE048745bc913a1B1b54",
+	"symbol": "Bit Hotel",
+	"name": "Bit Hotel",
+	"coingecko": "bit-hotel",
+	"sources": [
+		"coingecko"
+	]
+}

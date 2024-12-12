@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xC98A06E7362789F57C8861E8F33f2Ebe3d32EED1",
+	"symbol": "Pitquidity Capital",
+	"name": "Pitquidity Capital",
+	"coingecko": "pitquidity-capital",
+	"sources": [
+		"coingecko"
+	]
+}

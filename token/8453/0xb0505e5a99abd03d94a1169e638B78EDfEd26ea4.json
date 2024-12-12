@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xb0505e5a99abd03d94a1169e638B78EDfEd26ea4",
+	"symbol": "Wrapped SUI (Universal)",
+	"name": "Wrapped SUI (Universal)",
+	"coingecko": "wrapped-sui-universal",
+	"sources": [
+		"coingecko"
+	]
+}

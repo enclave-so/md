@@ -1,0 +1,10 @@
+{
+	"chain": 666666666,
+	"address": "0x54f667dB585b7B10347429C72c36c8B59aB441cb",
+	"symbol": "Good Old Fashioned Un Registered Security",
+	"name": "Good Old Fashioned Un Registered Security",
+	"coingecko": "good-old-fashioned-un-registered-security",
+	"sources": [
+		"coingecko"
+	]
+}

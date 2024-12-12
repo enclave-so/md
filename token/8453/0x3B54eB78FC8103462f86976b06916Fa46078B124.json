@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x3B54eB78FC8103462f86976b06916Fa46078B124",
+	"symbol": "MaxxChain",
+	"name": "MaxxChain",
+	"coingecko": "power",
+	"sources": [
+		"coingecko"
+	]
+}

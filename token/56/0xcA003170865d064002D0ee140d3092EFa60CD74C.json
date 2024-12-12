@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xcA003170865d064002D0ee140d3092EFa60CD74C",
+	"symbol": "Skyhash",
+	"name": "Skyhash",
+	"coingecko": "skyhash",
+	"sources": [
+		"coingecko"
+	]
+}

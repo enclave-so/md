@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x1Bc71130A0e39942a7658878169764Bbd8A45993",
+	"symbol": "KelpDAO Bridged rsETH (Base)",
+	"name": "KelpDAO Bridged rsETH (Base)",
+	"coingecko": "kelpdao-bridged-rseth-base",
+	"sources": [
+		"coingecko"
+	]
+}

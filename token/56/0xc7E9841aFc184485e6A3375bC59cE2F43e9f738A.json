@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xc7E9841aFc184485e6A3375bC59cE2F43e9f738A",
+	"symbol": "Onmax",
+	"name": "Onmax",
+	"coingecko": "onmax-2",
+	"sources": [
+		"coingecko"
+	]
+}

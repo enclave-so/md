@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x0645bC5cDff2376089323Ac20Df4119e48e4BCc4",
+	"symbol": "JOJO",
+	"name": "JOJO",
+	"coingecko": "jojo-2",
+	"sources": [
+		"coingecko"
+	]
+}

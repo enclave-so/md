@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xC632F90affeC7121120275610BF17Df9963F181c",
+	"symbol": "The Debt Box",
+	"name": "The Debt Box",
+	"coingecko": "the-debt-box",
+	"sources": [
+		"coingecko"
+	]
+}

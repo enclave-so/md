@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x4a0A3902e091cdb3AEc4279a6BFAC50297F0A79e",
+	"symbol": "Vera",
+	"name": "Vera",
+	"coingecko": "vera",
+	"sources": [
+		"coingecko"
+	]
+}

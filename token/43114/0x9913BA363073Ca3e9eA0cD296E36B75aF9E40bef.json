@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x9913BA363073Ca3e9eA0cD296E36B75aF9E40bef",
+	"symbol": "NFTREASURE",
+	"name": "NFTREASURE",
+	"coingecko": "nftreasure",
+	"sources": [
+		"coingecko"
+	]
+}

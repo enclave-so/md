@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xD77B2D571256ce5fB3365bfff3C5859D1Ef40f0a",
+	"symbol": "EasyCake",
+	"name": "EasyCake",
+	"coingecko": "easycake",
+	"sources": [
+		"coingecko"
+	]
+}

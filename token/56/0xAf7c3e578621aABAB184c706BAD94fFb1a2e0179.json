@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xAf7c3e578621aABAB184c706BAD94fFb1a2e0179",
+	"symbol": "Dao Space",
+	"name": "Dao Space",
+	"coingecko": "dao-space",
+	"sources": [
+		"coingecko"
+	]
+}

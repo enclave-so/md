@@ -1,0 +1,11 @@
+{
+	"chain": 43288,
+	"address": "0x12bb1A120dcF8Cb7152eDAC9f04d176DD7f41F7e",
+	"symbol": "USDC",
+	"name": "USD Coin",
+	"decimals": 6,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/boba-avax/0x12bb1A120dcF8Cb7152eDAC9f04d176DD7f41F7e.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

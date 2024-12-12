@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xC01444175FF3C39047F1548507CDf2183dC55E06",
+	"symbol": "Web3Frontier",
+	"name": "Web3Frontier",
+	"coingecko": "web3frontier",
+	"sources": [
+		"coingecko"
+	]
+}

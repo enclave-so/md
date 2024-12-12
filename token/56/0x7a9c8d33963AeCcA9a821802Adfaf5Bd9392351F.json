@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x7a9c8d33963AeCcA9a821802Adfaf5Bd9392351F",
+	"symbol": "Duckie Land Multi Metaverse",
+	"name": "Duckie Land Multi Metaverse",
+	"coingecko": "duckie-land-multi-metaverse",
+	"sources": [
+		"coingecko"
+	]
+}

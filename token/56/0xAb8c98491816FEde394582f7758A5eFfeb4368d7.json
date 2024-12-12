@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xAb8c98491816FEde394582f7758A5eFfeb4368d7",
+	"symbol": "TrumpCoin",
+	"name": "TrumpCoin",
+	"coingecko": "trumpcoin-709b1637-4ceb-4e9e-878d-2b137bee017d",
+	"sources": [
+		"coingecko"
+	]
+}

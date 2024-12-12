@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x09f423aC3C9baBBfF6F94D372b16E4206e71439f",
+	"symbol": "Enjinstarter",
+	"name": "Enjinstarter",
+	"coingecko": "enjinstarter",
+	"sources": [
+		"coingecko"
+	]
+}

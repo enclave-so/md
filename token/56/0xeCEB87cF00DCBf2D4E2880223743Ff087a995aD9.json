@@ -1,0 +1,13 @@
+{
+	"chain": 56,
+	"address": "0xeCEB87cF00DCBf2D4E2880223743Ff087a995aD9",
+	"symbol": "NUM",
+	"name": "NUM Token [via ChainPort.io]",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0xeCEB87cF00DCBf2D4E2880223743Ff087a995aD9.jpg",
+	"coingecko": "numbers-protocol",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

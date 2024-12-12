@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x0F6D3353914caafE18AB0c835a789aFC886e7039",
+	"symbol": "Umi's Friends Unity",
+	"name": "Umi's Friends Unity",
+	"coingecko": "umi-s-friends-unity",
+	"sources": [
+		"coingecko"
+	]
+}

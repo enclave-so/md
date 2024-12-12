@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x8beAbaa4f025D00B4699d56a683758d692d17F20",
+	"symbol": "BabyXrp",
+	"name": "BabyXrp",
+	"coingecko": "babyxrp",
+	"sources": [
+		"coingecko"
+	]
+}

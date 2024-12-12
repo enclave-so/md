@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xF7b6d7E3434cB9441982F9534E6998C43eEF144a",
+	"symbol": "Asva Labs",
+	"name": "Asva Labs",
+	"coingecko": "asva",
+	"sources": [
+		"coingecko"
+	]
+}

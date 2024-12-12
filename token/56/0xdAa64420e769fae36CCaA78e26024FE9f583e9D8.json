@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xdAa64420e769fae36CCaA78e26024FE9f583e9D8",
+	"symbol": "HowInu",
+	"name": "HowInu",
+	"coingecko": "howinu",
+	"sources": [
+		"coingecko"
+	]
+}

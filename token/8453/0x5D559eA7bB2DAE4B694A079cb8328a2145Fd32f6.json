@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x5D559eA7bB2DAE4B694A079cb8328a2145Fd32f6",
+	"symbol": "SoMon",
+	"name": "SoMon",
+	"coingecko": "somon",
+	"sources": [
+		"coingecko"
+	]
+}

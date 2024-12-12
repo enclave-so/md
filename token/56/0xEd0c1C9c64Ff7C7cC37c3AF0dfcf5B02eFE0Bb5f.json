@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xEd0c1C9c64Ff7C7cC37c3AF0dfcf5B02eFE0Bb5f",
+	"symbol": "BitOrbit",
+	"name": "BitOrbit",
+	"coingecko": "bitorbit",
+	"sources": [
+		"coingecko"
+	]
+}

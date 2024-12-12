@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x7d1b04f97dda1FDDF0AD9ef5A606E4a956261AC8",
+	"symbol": "Based Money Finance",
+	"name": "Based Money Finance",
+	"coingecko": "based-money-finance",
+	"sources": [
+		"coingecko"
+	]
+}

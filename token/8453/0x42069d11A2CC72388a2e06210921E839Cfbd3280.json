@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x42069d11A2CC72388a2e06210921E839Cfbd3280",
+	"symbol": "GnomeLand",
+	"name": "GnomeLand",
+	"coingecko": "gnomeland",
+	"sources": [
+		"coingecko"
+	]
+}

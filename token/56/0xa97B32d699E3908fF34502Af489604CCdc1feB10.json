@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xa97B32d699E3908fF34502Af489604CCdc1feB10",
+	"symbol": "Solmoon BSC",
+	"name": "Solmoon BSC",
+	"coingecko": "solmoon-bsc",
+	"sources": [
+		"coingecko"
+	]
+}

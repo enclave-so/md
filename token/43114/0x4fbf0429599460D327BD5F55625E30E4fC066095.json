@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x4fbf0429599460D327BD5F55625E30E4fC066095",
+	"symbol": "Teddy Dollar",
+	"name": "Teddy Dollar",
+	"coingecko": "teddy-dollar",
+	"sources": [
+		"coingecko"
+	]
+}

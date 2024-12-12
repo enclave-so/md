@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xA7266989B0DF675cC8257d53B6bc1358fAF6626a",
+	"symbol": "Infinity PAD",
+	"name": "Infinity PAD",
+	"coingecko": "infinity-pad-2",
+	"sources": [
+		"coingecko"
+	]
+}

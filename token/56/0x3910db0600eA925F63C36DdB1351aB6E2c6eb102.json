@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x3910db0600eA925F63C36DdB1351aB6E2c6eb102",
+	"symbol": "Spartan Protocol",
+	"name": "Spartan Protocol",
+	"coingecko": "spartan-protocol-token",
+	"sources": [
+		"coingecko"
+	]
+}

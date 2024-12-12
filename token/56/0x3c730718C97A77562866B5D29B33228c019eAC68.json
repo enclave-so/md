@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x3c730718C97A77562866B5D29B33228c019eAC68",
+	"symbol": "BNB Diamond",
+	"name": "BNB Diamond",
+	"coingecko": "bnb-diamond",
+	"sources": [
+		"coingecko"
+	]
+}

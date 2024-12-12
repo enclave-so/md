@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x642e993Fa91FFE9FB24d39a8eB0e0663145f8e92",
+	"symbol": "BASED RABBIT",
+	"name": "BASED RABBIT",
+	"coingecko": "based-rabbit",
+	"sources": [
+		"coingecko"
+	]
+}

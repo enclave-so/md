@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x10C9524DBF934B3B625Dce3bDC0efdc367F4E84b",
+	"symbol": "Mavaverse",
+	"name": "Mavaverse",
+	"coingecko": "mavaverse-token",
+	"sources": [
+		"coingecko"
+	]
+}

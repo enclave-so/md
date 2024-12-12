@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x939Dd9E433552e325D78C33a16EF4cD8004D2F9C",
+	"symbol": "SpaceN",
+	"name": "SpaceN",
+	"coingecko": "spacen",
+	"sources": [
+		"coingecko"
+	]
+}

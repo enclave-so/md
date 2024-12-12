@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x92fb1b7D9730B2f1BD4E2e91368C1eb6FDD2a009",
+	"symbol": "Jogeco Dog",
+	"name": "Jogeco Dog",
+	"coingecko": "jogeco-dog",
+	"sources": [
+		"coingecko"
+	]
+}

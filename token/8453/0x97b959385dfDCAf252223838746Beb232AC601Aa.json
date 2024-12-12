@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x97b959385dfDCAf252223838746Beb232AC601Aa",
+	"symbol": "AI Market Compass",
+	"name": "AI Market Compass",
+	"coingecko": "ai-market-compass",
+	"sources": [
+		"coingecko"
+	]
+}

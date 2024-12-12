@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x928f64d31186A0a341B38624177E911D746dC6B6",
+	"symbol": "Evoload",
+	"name": "Evoload",
+	"coingecko": "evoload",
+	"sources": [
+		"coingecko"
+	]
+}

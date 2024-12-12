@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x55533Be59DE022d585a57E29539452d708D4A410",
+	"symbol": "Zenc Coin",
+	"name": "Zenc Coin",
+	"coingecko": "zenc-coin",
+	"sources": [
+		"coingecko"
+	]
+}

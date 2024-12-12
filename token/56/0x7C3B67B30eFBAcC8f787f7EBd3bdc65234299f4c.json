@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x7C3B67B30eFBAcC8f787f7EBd3bdc65234299f4c",
+	"symbol": "ClinTex CTi",
+	"name": "ClinTex CTi",
+	"coingecko": "clintex-cti",
+	"sources": [
+		"coingecko"
+	]
+}

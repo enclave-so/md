@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x7849ed1447250d0B896f89b58f3075B127ca29B3",
+	"symbol": "TOKPIE",
+	"name": "TOKPIE",
+	"coingecko": "tokpie",
+	"sources": [
+		"coingecko"
+	]
+}

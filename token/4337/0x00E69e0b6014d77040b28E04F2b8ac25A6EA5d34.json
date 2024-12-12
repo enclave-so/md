@@ -1,0 +1,10 @@
+{
+	"chain": 4337,
+	"address": "0x00E69e0b6014d77040b28E04F2b8ac25A6EA5d34",
+	"symbol": "Beam Bridged AVAX (Beam)",
+	"name": "Beam Bridged AVAX (Beam)",
+	"coingecko": "beam-bridged-avax-beam",
+	"sources": [
+		"coingecko"
+	]
+}

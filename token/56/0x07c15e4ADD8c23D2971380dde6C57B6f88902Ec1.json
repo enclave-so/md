@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x07c15e4ADD8c23D2971380dde6C57B6f88902Ec1",
+	"symbol": "Metamars",
+	"name": "Metamars",
+	"coingecko": "metamars-2",
+	"sources": [
+		"coingecko"
+	]
+}

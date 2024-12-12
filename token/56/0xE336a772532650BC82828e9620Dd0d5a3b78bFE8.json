@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xE336a772532650BC82828e9620Dd0d5a3b78bFE8",
+	"symbol": "DigiMetaverse",
+	"name": "DigiMetaverse",
+	"coingecko": "digimetaverse",
+	"sources": [
+		"coingecko"
+	]
+}

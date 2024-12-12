@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x66D79B8f60ec93Bfce0b56F5Ac14A2714E509a99",
+	"symbol": "MAP Protocol",
+	"name": "MAP Protocol",
+	"coingecko": "marcopolo",
+	"sources": [
+		"coingecko"
+	]
+}

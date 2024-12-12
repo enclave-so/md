@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xcAfE001067cDEF266AfB7Eb5A286dCFD277f3dE5",
+	"symbol": "ParaSwap",
+	"name": "ParaSwap",
+	"coingecko": "paraswap",
+	"sources": [
+		"coingecko"
+	]
+}

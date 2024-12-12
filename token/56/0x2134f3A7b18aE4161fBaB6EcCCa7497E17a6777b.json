@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x2134f3A7b18aE4161fBaB6EcCCa7497E17a6777b",
+	"symbol": "Mir Token",
+	"name": "Mir Token",
+	"coingecko": "mir-token",
+	"sources": [
+		"coingecko"
+	]
+}

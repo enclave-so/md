@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x5525821d99d3c3892F7C9Aa3fa752D48C8764668",
+	"symbol": "ALITA GOLD",
+	"name": "ALITA GOLD",
+	"coingecko": "alita-gold",
+	"sources": [
+		"coingecko"
+	]
+}

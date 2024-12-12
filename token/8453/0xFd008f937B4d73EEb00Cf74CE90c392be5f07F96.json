@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xFd008f937B4d73EEb00Cf74CE90c392be5f07F96",
+	"symbol": "MOON INU",
+	"name": "MOON INU",
+	"coingecko": "moon-inu",
+	"sources": [
+		"coingecko"
+	]
+}

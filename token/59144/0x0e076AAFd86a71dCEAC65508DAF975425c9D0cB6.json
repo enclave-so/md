@@ -1,0 +1,10 @@
+{
+	"chain": 59144,
+	"address": "0x0e076AAFd86a71dCEAC65508DAF975425c9D0cB6",
+	"symbol": "Linea Bridged LDO (Linea)",
+	"name": "Linea Bridged LDO (Linea)",
+	"coingecko": "linea-bridged-ldo-linea",
+	"sources": [
+		"coingecko"
+	]
+}

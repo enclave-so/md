@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x29A75Ec2d2B8a57fDc45094dC51feFD147c908d8",
+	"symbol": "Turex",
+	"name": "Turex",
+	"coingecko": "turex",
+	"sources": [
+		"coingecko"
+	]
+}

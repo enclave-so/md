@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x76Baa16FF15D61d32E6B3576c3a8C83A25C2F180",
+	"symbol": "Pleb",
+	"name": "Pleb",
+	"coingecko": "pleb",
+	"sources": [
+		"coingecko"
+	]
+}

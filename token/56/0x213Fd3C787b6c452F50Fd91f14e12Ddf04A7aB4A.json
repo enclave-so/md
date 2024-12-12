@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x213Fd3C787b6c452F50Fd91f14e12Ddf04A7aB4A",
+	"symbol": "ZodiacsV2",
+	"name": "ZodiacsV2",
+	"coingecko": "zodiacsv2",
+	"sources": [
+		"coingecko"
+	]
+}

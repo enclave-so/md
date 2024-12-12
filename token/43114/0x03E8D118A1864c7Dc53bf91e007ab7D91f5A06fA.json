@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x03E8D118A1864c7Dc53bf91e007ab7D91f5A06fA",
+	"symbol": "Domani Protocol",
+	"name": "Domani Protocol",
+	"coingecko": "dextf",
+	"sources": [
+		"coingecko"
+	]
+}

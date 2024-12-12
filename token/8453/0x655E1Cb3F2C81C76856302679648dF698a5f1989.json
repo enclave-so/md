@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x655E1Cb3F2C81C76856302679648dF698a5f1989",
+	"symbol": "GLI",
+	"name": "GLI",
+	"coingecko": "gli",
+	"sources": [
+		"coingecko"
+	]
+}

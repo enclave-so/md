@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x6679eB24F59dFe111864AEc72B443d1Da666B360",
+	"symbol": "Ariva",
+	"name": "Ariva",
+	"coingecko": "ariva",
+	"sources": [
+		"coingecko"
+	]
+}

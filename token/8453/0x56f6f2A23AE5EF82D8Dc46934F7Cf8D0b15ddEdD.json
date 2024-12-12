@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x56f6f2A23AE5EF82D8Dc46934F7Cf8D0b15ddEdD",
+	"symbol": "Croginal Cats",
+	"name": "Croginal Cats",
+	"coingecko": "croginal-cats",
+	"sources": [
+		"coingecko"
+	]
+}

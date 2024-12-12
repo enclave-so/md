@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x87E2414093632a3b9A1AFea7083E5Dab59B5dC4F",
+	"symbol": "FalconsInu",
+	"name": "FalconsInu",
+	"coingecko": "falconsinu",
+	"sources": [
+		"coingecko"
+	]
+}

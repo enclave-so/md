@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x55Bde08Af72cd693d1284b531F3F97dc81ecC334",
+	"symbol": "capybara",
+	"name": "capybara",
+	"coingecko": "capybara-2",
+	"sources": [
+		"coingecko"
+	]
+}

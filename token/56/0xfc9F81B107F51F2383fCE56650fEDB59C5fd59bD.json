@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xfc9F81B107F51F2383fCE56650fEDB59C5fd59bD",
+	"symbol": "Bikerush",
+	"name": "Bikerush",
+	"coingecko": "bikerush",
+	"sources": [
+		"coingecko"
+	]
+}

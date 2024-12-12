@@ -1,0 +1,8437 @@
+[
+	{
+		"chain": 42161,
+		"address": "0x371c7ec6D8039ff7933a2AA28EB827Ffe1F52f07",
+		"symbol": "JOE",
+		"name": "JOE",
+		"coingecko": "joe",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x56b251d4b493ee3956E3f899D36b7290902D2326",
+		"symbol": "MMFinance (Arbitrum)",
+		"name": "MMFinance (Arbitrum)",
+		"coingecko": "mmfinance-arbitrum",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x1dB06f39c14d813d7b1CCB275A93f5b052DE1cac",
+		"symbol": "Xave",
+		"name": "Xave",
+		"coingecko": "xave-token",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x040d1EdC9569d4Bab2D15287Dc5A4F10F56a56B8",
+		"symbol": "BAL",
+		"name": "Balancer",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/bal.jpg",
+		"coingecko": "balancer",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xF8388c2B6Edf00E2E27eEF5200B1beFB24cE141d",
+		"symbol": "NOLA",
+		"name": "Nola",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xF8388c2B6Edf00E2E27eEF5200B1beFB24cE141d.jpg",
+		"coingecko": "nola",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x6985884C4392D348587B19cb9eAAf157F13271cd",
+		"symbol": "ZRO",
+		"name": "LayerZero",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x6985884C4392D348587B19cb9eAAf157F13271cd.jpg",
+		"coingecko": "layerzero",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x9d5A383581882750Ce27F84c72f017B378eDb736",
+		"symbol": "Dexalot",
+		"name": "Dexalot",
+		"coingecko": "dexalot",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x69420f9E38a4e60a62224C489be4BF7a94402496",
+		"symbol": "Defi.money",
+		"name": "Defi.money",
+		"coingecko": "defi-money",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x939727d85D99d0aC339bF1B76DfE30Ca27C19067",
+		"symbol": "SIZE",
+		"name": "SIZE",
+		"coingecko": "size-2",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xB5a628803ee72D82098D4bcaF29a42e63531B441",
+		"symbol": "Unstoppable DeFi",
+		"name": "Unstoppable DeFi",
+		"coingecko": "unstoppable-defi",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x439C0cF1038F8002A4CAD489b427e217BA4B42AD",
+		"symbol": "GNB",
+		"name": "GNB",
+		"coingecko": "gnb",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xD77B108d4f6cefaa0Cae9506A934e825BEccA46E",
+		"symbol": "WINR Protocol",
+		"name": "WINR Protocol",
+		"coingecko": "winr-protocol",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x2f2a2543B76A4166549F7aaB2e75Bef0aefC5B0f",
+		"symbol": "WBTC",
+		"name": "Wrapped BTC",
+		"decimals": 8,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/btc.jpg",
+		"coingecko": "arbitrum-bridged-wbtc-arbitrum-one",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x6c511dc18572d31C2c3f7b1505cB2BBC08282FcC",
+		"symbol": "Aipocalypto",
+		"name": "Aipocalypto",
+		"coingecko": "aipocalypto",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x14A5f2872396802C3Cc8942A39Ab3E4118EE5038",
+		"symbol": "Backed Tesla",
+		"name": "Backed Tesla",
+		"coingecko": "backed-tesla",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xA5312C3E42A82D459162B2a3bD7FfC4F9099b911",
+		"symbol": "GALAXIS Token",
+		"name": "GALAXIS Token",
+		"coingecko": "galaxis-token",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x0A3BB08b3a15A19b4De82F8AcFc862606FB69A2D",
+		"symbol": "iZUMi Bond USD",
+		"name": "iZUMi Bond USD",
+		"coingecko": "izumi-bond-usd",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xeE0b14e8fC86691Cf6eE42B9954985B4cF968534",
+		"symbol": "ZenPandaCoin",
+		"name": "ZenPandaCoin",
+		"coingecko": "zenpandacoin",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x3B475F6f2f41853706afc9Fa6a6b8C5dF1a2724c",
+		"symbol": "Zyberswap",
+		"name": "Zyberswap",
+		"coingecko": "zyberswap",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x11cDb42B0EB46D95f990BeDD4695A6e3fA034978",
+		"symbol": "CRV",
+		"name": "Curve DAO Token",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/crv.jpg",
+		"coingecko": "curve-dao-token",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xAeEBa475eDC438f8Eeb6BFBc3164c1C7716Fb304",
+		"symbol": "DICE",
+		"name": "Party Dice",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xAeEBa475eDC438f8Eeb6BFBc3164c1C7716Fb304.jpg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xBDeF0E9ef12E689F366fe494A7A7D0dad25D9286",
+		"symbol": "FUSE",
+		"name": "Fuse Token",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/fuse.jpg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xb0eCc6ac0073c063DCFC026cCdC9039Cae2998E1",
+		"symbol": "A3S",
+		"name": "A3S",
+		"coingecko": "a3s",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xe20B9e246db5a0d21BF9209E4858Bc9A3ff7A034",
+		"symbol": "Wrapped Banano",
+		"name": "Wrapped Banano",
+		"coingecko": "wrapped-banano",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x955b9fe60a5b5093df9Dc4B1B18ec8e934e77162",
+		"symbol": "SWPR",
+		"name": "Swapr",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/swpr.jpg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xA586B3B80D7e3e8d439e25fBC16Bc5bcEE3E2c85",
+		"symbol": "Codyfight",
+		"name": "Codyfight",
+		"coingecko": "codyfight",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x3b60FF35D3f7F62d636b067dD0dC0dFdAd670E4E",
+		"symbol": "Milady Meme Coin",
+		"name": "Milady Meme Coin",
+		"coingecko": "milady-meme-coin",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x1A0EeAa7BF60E01646eff96BfCAaDa850eD250aE",
+		"symbol": "Redux Vault",
+		"name": "Redux Vault",
+		"coingecko": "redux-vault",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x92a212d9F5eEf0b262aC7D84AEA64a0d0758B94f",
+		"symbol": "DexFi Governance",
+		"name": "DexFi Governance",
+		"coingecko": "dexfi-governance",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xa2F9ECf83a48b86265ff5fD36cDBAAa1F349916C",
+		"symbol": "Goons of Balatroon",
+		"name": "Goons of Balatroon",
+		"coingecko": "goons-of-balatroon",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xc3aBC47863524ced8DAf3ef98d74dd881E131C38",
+		"symbol": "Lumi Finance",
+		"name": "Lumi Finance",
+		"coingecko": "lumi-finance",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xf061956612b3dc79Fd285D3D51Bc128F2ea87740",
+		"symbol": "YfDAI.finance",
+		"name": "YfDAI.finance",
+		"coingecko": "yfdai-finance",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x4568Ca00299819998501914690d6010ae48a59bA",
+		"symbol": "Army of Fortune Metaverse",
+		"name": "Army of Fortune Metaverse",
+		"coingecko": "army-of-fortune-metaverse",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xe5ccA68b9E1D5575B7e3062fA34B0C725B003a69",
+		"symbol": "ColossusXT",
+		"name": "ColossusXT",
+		"coingecko": "colossuscoinxt",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xcb8b5CD20BdCaea9a010aC1F8d835824F5C87A04",
+		"symbol": "CoW Protocol",
+		"name": "CoW Protocol",
+		"coingecko": "cow-protocol",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x7f90122BF0700F9E7e1F688fe926940E8839F353",
+		"symbol": "Curve.fi USDC/USDT",
+		"name": "Curve.fi USDC/USDT",
+		"coingecko": "curve-fi-usdc-usdt",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xa4f63404b58C3efD9Db6D53352BD386fFa174e5A",
+		"symbol": "Miracle Play",
+		"name": "Miracle Play",
+		"coingecko": "miracle-play",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x27D8De4c30ffDE34e982482AE504fC7F23061f61",
+		"symbol": "My MetaTrader",
+		"name": "My MetaTrader",
+		"coingecko": "my-metatrader",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xdE70AeD3d14d39b4955147EfcF272334bdB75AB5",
+		"symbol": "YachtingVerse",
+		"name": "YachtingVerse",
+		"coingecko": "yachtingverse-old",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x346E74Dc9935a9b02Eb34fB84658a66010fA056D",
+		"symbol": "Zunami Governance Token",
+		"name": "Zunami Governance Token",
+		"coingecko": "zunami-governance-token",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x3F56e0c36d275367b8C502090EDF38289b3dEa0d",
+		"symbol": "MAI",
+		"name": "Mai Stablecoin",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xa3Fa99A148fA48D14Ed51d610c367C61876997F1/logo.png",
+		"coingecko": "mai-arbitrum",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x0D81E50bC677fa67341c44D7eaA9228DEE64A4e1",
+		"symbol": "BarnBridge",
+		"name": "BarnBridge",
+		"coingecko": "barnbridge",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x3c9f23dB4DDC5655f7be636358D319A3De1Ff0c4",
+		"symbol": "Dinari DIS",
+		"name": "Dinari DIS",
+		"coingecko": "dinari-dis-dshares",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x889CF9B647039C4D06754896BfcAb0E21d28FB75",
+		"symbol": "Gambit Capital",
+		"name": "Gambit Capital",
+		"coingecko": "gambit-capital",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x130096aF9163B185cae4a833f856760199Fc6cEB",
+		"symbol": "FU Money",
+		"name": "FU Money",
+		"coingecko": "fu-money",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xc11158c5dA9db1D553ED28f0C2BA1CbEDD42CFcb",
+		"symbol": "PAW",
+		"name": "PAW",
+		"coingecko": "pawswap",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xc4CBd54ffA7A6a142fd73554cC6C23DD95CD8E01",
+		"symbol": "$GAME Token",
+		"name": "$GAME Token",
+		"coingecko": "sportsology-game",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x4Cb9a7AE498CEDcBb5EAe9f25736aE7d428C9D66",
+		"symbol": "Xai",
+		"name": "Xai",
+		"coingecko": "xai-blockchain",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x4425742F1EC8D98779690b5A3A6276Db85Ddc01A",
+		"symbol": "DOG",
+		"name": "The Doge NFT",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xBAac2B4491727D78D2b78815144570b9f2Fe8899/logo.png",
+		"coingecko": "the-doge-nft",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x5375616bB6c52A90439fF96882a986d8FCdCe421",
+		"symbol": "jgOHM",
+		"name": "Jones gOHM",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x5375616bB6c52A90439fF96882a986d8FCdCe421.jpg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x5979D7b546E38E414F7E9822514be443A4800529",
+		"symbol": "wstETH",
+		"name": "Wrapped liquid staked Ether 2.0",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x5979D7b546E38E414F7E9822514be443A4800529.jpg",
+		"coingecko": "wrapped-steth",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x33C88D4caC6aC34F77020915a2a88cd0417dC069",
+		"symbol": "Autonomous Secure Dollar",
+		"name": "Autonomous Secure Dollar",
+		"coingecko": "autonomous-secure-dollar",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x4d010DBE0C6CdC0571BBa026D6dFAbBf40C9af28",
+		"symbol": "GemDrop",
+		"name": "GemDrop",
+		"coingecko": "gemdrop",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x8b5e4C9a188b1A187f2D1E80b1c2fB17fA2922e1",
+		"symbol": "GoldenBoys",
+		"name": "GoldenBoys",
+		"coingecko": "goldenboys",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xf6dAE0D2be4993b00a2673360820AF6BAfD53887",
+		"symbol": "Launchpool",
+		"name": "Launchpool",
+		"coingecko": "launchpool",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xB299751B088336E165dA313c33e3195B8c6663A6",
+		"symbol": "StarHeroes",
+		"name": "StarHeroes",
+		"coingecko": "starheroes",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x6c84a8f1c29108F47a79964b5Fe888D4f4D0dE40",
+		"symbol": "tBTC",
+		"name": "Arbitrum tBTC v2",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x6c84a8f1c29108F47a79964b5Fe888D4f4D0dE40.jpg",
+		"coingecko": "tbtc",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x284592A004D945F98De5b040808578c61A4bB39a",
+		"symbol": "AIR",
+		"name": "AIR",
+		"coingecko": "air",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x1B8d516E2146D7a32Aca0FcBf9482db85fD42c3a",
+		"symbol": "AlphaScan AI",
+		"name": "AlphaScan AI",
+		"coingecko": "alphascan",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xB5B5b428e4DE365F809CeD8271D202449e5c2F72",
+		"symbol": "BRUH",
+		"name": "BRUH",
+		"coingecko": "bruh",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x3A33473d7990a605a88ac72A78aD4EFC40a54ADB",
+		"symbol": "Tigris",
+		"name": "Tigris",
+		"coingecko": "tigris",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x1bc8Bf18256d8b45d8367Aac50fe2e24fc6AA8CA",
+		"symbol": "Vestate",
+		"name": "Vestate",
+		"coingecko": "vestate",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xdc1Bb8018E711F71293a6EDfb5c148187008Ebdc",
+		"symbol": "WALC",
+		"name": "WALC",
+		"coingecko": "walc",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x43c25F828390DE5a3648864eb485CC523E039e67",
+		"symbol": "Hello Pets",
+		"name": "Hello Pets",
+		"coingecko": "battle-pets",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x16f1967565aaD72DD77588a332CE445e7cEF752b",
+		"symbol": "crow with knife",
+		"name": "crow with knife",
+		"coingecko": "crow-with-knife",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xcBe94D75ec713B7ead84f55620dc3174beEb1CFe",
+		"symbol": "FORE Protocol",
+		"name": "FORE Protocol",
+		"coingecko": "fore-protocol",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xd58D345Fd9c82262E087d2D0607624B410D88242",
+		"symbol": "Tellor Tributes",
+		"name": "Tellor Tributes",
+		"coingecko": "tellor",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x123389C2f0e9194d9bA98c21E63c375B67614108",
+		"symbol": "EMAX",
+		"name": "EthereumMax",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x123389C2f0e9194d9bA98c21E63c375B67614108.jpg",
+		"coingecko": "ethereummax",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xDEE46BE9D0b207e5d88D2Efd84a045E725A242F7",
+		"symbol": "PEPE",
+		"name": "Pepe",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xDEE46BE9D0b207e5d88D2Efd84a045E725A242F7.jpg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x11Bf4f05EB28b802ED3aB672594DEcB20ffe2313",
+		"symbol": "Aurory",
+		"name": "Aurory",
+		"coingecko": "aurory",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x5117f4Ad0bc70Dbb3B05bF39A1EC1Ee40DD67654",
+		"symbol": "Avive",
+		"name": "Avive",
+		"coingecko": "avive",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xef261714F7E5ba6b86F4780eb6e3bf26B10729CF",
+		"symbol": "White Lotus",
+		"name": "White Lotus",
+		"coingecko": "white-lotus",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x949185D3BE66775Ea648F4a306740EA9eFF9C567",
+		"symbol": "Yel.Finance",
+		"name": "Yel.Finance",
+		"coingecko": "yel-finance",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xB0fFa8000886e57F86dd5264b9582b2Ad87b2b91",
+		"symbol": "Wormhole",
+		"name": "Wormhole",
+		"coingecko": "wormhole",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x27f485b62C4A7E635F561A87560Adf5090239E93",
+		"symbol": "DFX Finance",
+		"name": "DFX Finance",
+		"coingecko": "dfx-finance",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x66E535e8D2ebf13F49F3D49e5c50395a97C137b1",
+		"symbol": "Molten",
+		"name": "Molten",
+		"coingecko": "molten-2",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x753D224bCf9AAFaCD81558c32341416df61D3DAC",
+		"symbol": "Perpetual Protocol",
+		"name": "Perpetual Protocol",
+		"coingecko": "perpetual-protocol",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x11BbF12363dC8375b78D2719395d505f52a02F68",
+		"symbol": "Router Protocol [OLD]",
+		"name": "Router Protocol [OLD]",
+		"coingecko": "route",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x38F9bf9dCe51833Ec7f03C9dC218197999999999",
+		"symbol": "Nya",
+		"name": "Nya",
+		"coingecko": "nya",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x95aB45875cFFdba1E5f451B950bC2E42c0053f39",
+		"symbol": "Staked Frax Ether",
+		"name": "Staked Frax Ether",
+		"coingecko": "staked-frax-ether",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x9b06F3C5de42D4623D7A2Bd940EC735103c68A76",
+		"symbol": "Volta Club",
+		"name": "Volta Club",
+		"coingecko": "volta-club",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xBfEB8B6813491bb4fB823b8f451b62eF535420D1",
+		"symbol": "Zunami USD",
+		"name": "Zunami USD",
+		"coingecko": "zunami-usd",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x1C7F32699Ff9163f928089C0a4D6EE5Ad5885C6f",
+		"symbol": "AGS",
+		"name": "Gambler Shiba",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x1C7F32699Ff9163f928089C0a4D6EE5Ad5885C6f.jpg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x6C2C06790b3E3E3c38e12Ee22F8183b37a13EE55",
+		"symbol": "DPX",
+		"name": "Dopex Governance Token",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/arbitrum/assets/0x6C2C06790b3E3E3c38e12Ee22F8183b37a13EE55/logo.png",
+		"coingecko": "dopex",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xB3F13B0C61d65D67D7D6215d70C89533ee567A91",
+		"symbol": "A51 Finance",
+		"name": "A51 Finance",
+		"coingecko": "a51-finance",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xe1d3495717f9534Db67A6A8d4940Dd17435b6A9E",
+		"symbol": "Locus Finance",
+		"name": "Locus Finance",
+		"coingecko": "locus-finance",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x32dF62dc3aEd2cD6224193052Ce665DC18165841",
+		"symbol": "Balancer 80 RDNT 20 WETH",
+		"name": "Balancer 80 RDNT 20 WETH",
+		"coingecko": "balancer-80-rdnt-20-weth",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xD56734d7f9979dD94FAE3d67C7e928234e71cD4C",
+		"symbol": "Bridged TIA (Hyperlane)",
+		"name": "Bridged TIA (Hyperlane)",
+		"coingecko": "bridged-tia-hyperlane",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x8240aFFe697CdE618AD05c3c8963f5Bfe152650b",
+		"symbol": "Dinari AMZN",
+		"name": "Dinari AMZN",
+		"coingecko": "dinari-amzn-dshares",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xE9A5aF50874c0ef2748b5DB70104B5ccb5557f6d",
+		"symbol": "GMBL COMPUTER CHiP",
+		"name": "GMBL COMPUTER CHiP",
+		"coingecko": "gmbl-computer-chip",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x3647c54c4c2C65bC7a2D63c0Da2809B399DBBDC0",
+		"symbol": "SolvBTC",
+		"name": "Solv BTC",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x3647c54c4c2C65bC7a2D63c0Da2809B399DBBDC0.jpg",
+		"coingecko": "solv-btc",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x078f358208685046a11C85e8ad32895DED33A249",
+		"symbol": "Aave v3 WBTC",
+		"name": "Aave v3 WBTC",
+		"coingecko": "aave-v3-wbtc",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x498C620C7C91C6eba2E3Cd5485383f41613b7EB6",
+		"symbol": "Alongside Crypto Market Index",
+		"name": "Alongside Crypto Market Index",
+		"coingecko": "alongside-crypto-market-index",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xEbee37Aaf2905b7BdA7E3b928043862e982E8F32",
+		"symbol": "Backed Alphabet Class A",
+		"name": "Backed Alphabet Class A",
+		"coingecko": "backed-alphabet-class-a",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x569deb225441FD18BdE18aED53E2EC7Eb4e10D93",
+		"symbol": "Your Futures Exchange",
+		"name": "Your Futures Exchange",
+		"coingecko": "yfx",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x7F4638A58C0615037deCc86f1daE60E55fE92874",
+		"symbol": "RigoBlock",
+		"name": "RigoBlock",
+		"coingecko": "rigoblock",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x57F5E098CaD7A3D1Eed53991D4d66C45C9AF7812",
+		"symbol": "Wrapped USDM",
+		"name": "Wrapped USDM",
+		"coingecko": "wrapped-usdm",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x9d0c0675a995d5F12b03E880763F639d0628b5C6",
+		"symbol": "SuperWalk WALK",
+		"name": "SuperWalk WALK",
+		"coingecko": "superwalk-walk",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x23A941036Ae778Ac51Ab04CEa08Ed6e2FE103614",
+		"symbol": "GRT",
+		"name": "Graph Token",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/grt.jpg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xB827710314A05BCBeE9180E11c2abE5823289422",
+		"symbol": "Abachi",
+		"name": "Abachi",
+		"coingecko": "abachi-2",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xA06D505EC28FD9756a200D2B503A66103dB98d09",
+		"symbol": "KEI Finance",
+		"name": "KEI Finance",
+		"coingecko": "kei-finance",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x033f193b3Fceb22a440e89A2867E8FEE181594D9",
+		"symbol": "Rodeo Finance",
+		"name": "Rodeo Finance",
+		"coingecko": "rodeo-finance",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x47C337Bd5b9344a6F3D6f58C474D9D8cd419D8cA",
+		"symbol": "DackieSwap",
+		"name": "DackieSwap",
+		"coingecko": "dackieswap",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xfc90518D5136585ba45e34ED5E1D108BD3950CFa",
+		"symbol": "Dinari USD+",
+		"name": "Dinari USD+",
+		"coingecko": "dinari-usd",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xe10D4a4255D2D35c9e23E2C4790E073046FbaF5c",
+		"symbol": "LandX Governance Token",
+		"name": "LandX Governance Token",
+		"coingecko": "landx-governance-token",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x092bAaDB7DEf4C3981454dD9c0A0D7FF07bCFc86",
+		"symbol": "MorpheusAI",
+		"name": "MorpheusAI",
+		"coingecko": "morpheusai",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x53691596d1BCe8CEa565b84d4915e69e03d9C99d",
+		"symbol": "ACX",
+		"name": "Across Protocol Token",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x53691596d1BCe8CEa565b84d4915e69e03d9C99d.jpg",
+		"coingecko": "across-protocol",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
+		"symbol": "DAI",
+		"name": "DAI Stablecoin",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/dai.jpg",
+		"coingecko": "makerdao-arbitrum-bridged-dai-arbitrum-one",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x1C986661170c1834db49C3830130D4038eEeb866",
+		"symbol": "Aperture Finance",
+		"name": "Aperture Finance",
+		"coingecko": "aperture-finance",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xc08Cd26474722cE93F4D0c34D16201461c10AA8C",
+		"symbol": "CARV",
+		"name": "CARV",
+		"coingecko": "carv",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xFB853ACEa0E76f73F8274B521FE1611C888670Cc",
+		"symbol": "PLEXUS",
+		"name": "PLEXUS",
+		"coingecko": "plexus-app",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x68D6d2545f14751baF36c417c2CC7cdf8dA8a15b",
+		"symbol": "Plutus SYK",
+		"name": "Plutus SYK",
+		"coingecko": "plutus-syk",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x88a269Df8fe7F53E590c561954C52FCCC8EC0cFB",
+		"symbol": "Ninja Squad Token",
+		"name": "Ninja Squad Token",
+		"coingecko": "ninja-squad",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x1824a51C106EFC27d35A74efB56d9BF54dDb22d4",
+		"symbol": "Perpy Finance",
+		"name": "Perpy Finance",
+		"coingecko": "perpy-finance",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x4D840b741bc05FDE325D4Ec0B4CFCD0CeA237e4E",
+		"symbol": "Quantlytica",
+		"name": "Quantlytica",
+		"coingecko": "quantlytica",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x7CE746B45eaBD0C4321538DeC1B849c79A9A8476",
+		"symbol": "DSLA Protocol",
+		"name": "DSLA Protocol",
+		"coingecko": "stacktical",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xeE9857dE0e55d4A54D36a5A5a73A15e57435FdCA",
+		"symbol": "AsgardX",
+		"name": "AsgardX",
+		"coingecko": "asgardx",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x8A66794E1aaEBC7018A7B75F61f384e30ae3b159",
+		"symbol": "BlueSale",
+		"name": "BlueSale",
+		"coingecko": "bluesale",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x51C601dC278EB2CFea8e52c4caA35B3d6a9A2c26",
+		"symbol": "Chainge",
+		"name": "Chainge",
+		"coingecko": "chainge-finance",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x3405E88af759992937b84E58F2Fe691EF0EeA320",
+		"symbol": "Frax Price Index Share",
+		"name": "Frax Price Index Share",
+		"coingecko": "frax-price-index-share",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x666966Ef3925B1c92fa355FDA9722899f3e73451",
+		"symbol": "Stable",
+		"name": "Stable",
+		"coingecko": "usdfi-stable",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xcF985abA4647a432E60efcEeB8054BBd64244305",
+		"symbol": "EUROe",
+		"name": "EUROe Stablecoin",
+		"decimals": 6,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xcF985abA4647a432E60efcEeB8054BBd64244305.jpg",
+		"coingecko": "euroe-stablecoin",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x28514Bd097d5F9EceA778cC7a4cA4bac5feDB0B6",
+		"symbol": "BOO",
+		"name": "BOO",
+		"coingecko": "boo-2",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x1D1498166DDCEeE616a6d99868e1E0677300056f",
+		"symbol": "Space Token",
+		"name": "Space Token",
+		"coingecko": "space-token-bsc",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x802124EB78E43FD8d3d4E6DAAAa4Be28Dc7993dc",
+		"symbol": "Spinaq",
+		"name": "Spinaq",
+		"coingecko": "spinaq",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x46d0cE7de6247b0A95f67b43B589b4041BaE7fbE",
+		"symbol": "Loopring",
+		"name": "Loopring",
+		"coingecko": "loopring",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x5326E71Ff593Ecc2CF7AcaE5Fe57582D6e74CFF1",
+		"symbol": "plvGLP",
+		"name": "plvGLP",
+		"coingecko": "plvglp",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x6B5B5eAc259e883B484ED879d43DD4d616A90E65",
+		"symbol": "The Knowers",
+		"name": "The Knowers",
+		"coingecko": "the-knowers",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x4b019AAa21e98E212D31e54C843E73ff34d25717",
+		"symbol": "TUX Project",
+		"name": "TUX Project",
+		"coingecko": "tux-project",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x02150e97271fDC0D6E3A16d9094A0948266F07dD",
+		"symbol": "HAMI",
+		"name": "Hamachi",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x02150e97271fDC0D6E3A16d9094A0948266F07dD.jpg",
+		"coingecko": "hamachi-finance",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xCB8FA9a76b8e203D8C3797bF438d8FB81Ea3326A",
+		"symbol": "Alchemix USD",
+		"name": "Alchemix USD",
+		"coingecko": "alchemix-usd",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xFb930D1A28990820C98144201637C99beA8cB91c",
+		"symbol": "Bumper",
+		"name": "Bumper",
+		"coingecko": "bumper",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x53bCF6698C911b2A7409a740EACDDB901fC2a2C6",
+		"symbol": "Kabosu (Arbitrum)",
+		"name": "Kabosu (Arbitrum)",
+		"coingecko": "kabosu-arbitrum",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xfd2fb8DE10eC41DdD898A8c7FA70D8Fc100834C4",
+		"symbol": "Bitci DOGE",
+		"name": "Bitci DOGE",
+		"coingecko": "bitci-doge",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xb415998A7bb6F11dC589e0eb20adf586BA32f12a",
+		"symbol": "Dinari GME",
+		"name": "Dinari GME",
+		"coingecko": "dinari-gme",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x935a33E05ecbD424C1691623C99e501Ae22400E6",
+		"symbol": "Liquidify",
+		"name": "Liquidify",
+		"coingecko": "liquidify-077fd783-dead-4809-b5a9-0d9876f6ea5c",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x35e050d3C0eC2d29D269a8EcEa763a183bDF9A9D",
+		"symbol": "Ondo US Dollar Yield",
+		"name": "Ondo US Dollar Yield",
+		"coingecko": "ondo-us-dollar-yield",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x9ed7E4B1BFF939ad473dA5E7a218C771D1569456",
+		"symbol": "Reunit Wallet",
+		"name": "Reunit Wallet",
+		"coingecko": "reunit-wallet",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xF80D589b3Dbe130c270a69F1a69D050f268786Df",
+		"symbol": "FLUX",
+		"name": "Flux",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xF80D589b3Dbe130c270a69F1a69D050f268786Df.jpg",
+		"coingecko": "flux",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xFEa7a6a0B346362BF88A9e4A88416B77a57D6c2A",
+		"symbol": "MIM",
+		"name": "Magic Internet Money",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xFEa7a6a0B346362BF88A9e4A88416B77a57D6c2A.jpg",
+		"coingecko": "magic-internet-money-arbitrum",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xd978F8489e1245568704407a479a71FcCe2aFE8F",
+		"symbol": "ApeSwap",
+		"name": "ApeSwap",
+		"coingecko": "apeswap-finance",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xBfbCFe8873fE28Dfa25f1099282b088D52bbAD9C",
+		"symbol": "Equilibria Finance",
+		"name": "Equilibria Finance",
+		"coingecko": "equilibria-finance",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x7241bC8035b65865156DDb5EdEf3eB32874a3AF6",
+		"symbol": "Jones GLP",
+		"name": "Jones GLP",
+		"coingecko": "jones-glp",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x1DD6b5F9281c6B4f043c02A83a46c2772024636c",
+		"symbol": "Lumi Finance LUAUSD",
+		"name": "Lumi Finance LUAUSD",
+		"coingecko": "lumi-finance-luausd",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x8697841B82C71fcbd9E58C15F6dE68CD1C63Fd02",
+		"symbol": "NutCoin",
+		"name": "NutCoin",
+		"coingecko": "nutcoin-meme",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xf3C091ed43de9c270593445163a41A876A0bb3dd",
+		"symbol": "Orbs",
+		"name": "Orbs",
+		"coingecko": "orbs",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x625E7708f30cA75bfd92586e17077590C60eb4cD",
+		"symbol": "Aave v3 USDC.e",
+		"name": "Aave v3 USDC.e",
+		"coingecko": "aave-v3-usdc-e",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x5f006745a9A192a7cD1236089F704f9B35D3b9Cd",
+		"symbol": "Arable Protocol",
+		"name": "Arable Protocol",
+		"coingecko": "arable-protocol",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xEcc68d0451E20292406967Fe7C04280E5238Ac7D",
+		"symbol": "Axelar Bridged Frax Ether",
+		"name": "Axelar Bridged Frax Ether",
+		"coingecko": "axelar-bridged-frax-ether",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xf18C263EC50CC211EF3F172228549B6618F10613",
+		"symbol": "Collab.Land",
+		"name": "Collab.Land",
+		"coingecko": "collab-land",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xc1Eb7689147C81aC840d4FF0D298489fc7986d52",
+		"symbol": "Venus",
+		"name": "Venus",
+		"coingecko": "venus",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xbAD58ed9b5f26A002ea250D7A60dC6729a4a2403",
+		"symbol": "Paribus",
+		"name": "Paribus",
+		"coingecko": "paribus",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x99F40b01BA9C469193B360f72740E416B17Ac332",
+		"symbol": "MATH",
+		"name": "MATH Token",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/math.jpg",
+		"coingecko": "math",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x513c7E3a9c69cA3e22550eF58AC1C0088e918FFf",
+		"symbol": "Aave v3 wstETH",
+		"name": "Aave v3 wstETH",
+		"coingecko": "aave-v3-wsteth",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x619C82392cb6E41778b7d088860Fea8447941f4c",
+		"symbol": "Army of Fortune Gem",
+		"name": "Army of Fortune Gem",
+		"coingecko": "army-of-fortune-gem",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x9cf7EeBB75B751Dc8fDD2268AE8c9b570B4C97B9",
+		"symbol": "NULL MATRIX",
+		"name": "NULL MATRIX",
+		"coingecko": "null-matrix",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x2c852D3334188BE136bFC540EF2bB8C37b590BAD",
+		"symbol": "MagicLand",
+		"name": "MagicLand",
+		"coingecko": "magic-token",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x319e222De462ac959BAf2aEc848697AeC2bbD770",
+		"symbol": "OreoSwap",
+		"name": "OreoSwap",
+		"coingecko": "oreoswap",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xea986d33eF8a20A96120ecc44dBdD49830192043",
+		"symbol": "Auctus",
+		"name": "Auctus",
+		"coingecko": "auctus",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x13Ad51ed4F1B7e9Dc168d8a00cB3f4dDD85EfA60",
+		"symbol": "Lido DAO",
+		"name": "Lido DAO",
+		"coingecko": "lido-dao",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x24404DC041d74cd03cFE28855F555559390C931b",
+		"symbol": "r/CryptoCurrency Moons",
+		"name": "r/CryptoCurrency Moons",
+		"coingecko": "moon",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xaf20f5f19698f1D19351028cd7103B63D30DE7d7",
+		"symbol": "Wagmi",
+		"name": "Wagmi",
+		"coingecko": "wagmi-2",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xF42e2B8bc2aF8B110b65be98dB1321B1ab8D44f5",
+		"symbol": "DONUT",
+		"name": "Donut",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xF42e2B8bc2aF8B110b65be98dB1321B1ab8D44f5.jpg",
+		"coingecko": "donut",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x07E49d5dE43DDA6162Fa28D24d5935C151875283",
+		"symbol": "GOVI",
+		"name": "GOVI",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x07E49d5dE43DDA6162Fa28D24d5935C151875283.jpg",
+		"coingecko": "govi",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x7bA4a00d54A07461D9DB2aEF539e91409943AdC9",
+		"symbol": "SDT",
+		"name": "Stake DAO Token",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/sdt.jpg",
+		"coingecko": "stake-dao",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x836975C507bfF631FCD7FBa875e9127C8A50dBa6",
+		"symbol": "Arbinauts",
+		"name": "Arbinauts",
+		"coingecko": "arbinauts",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xC72633F995e98Ac3BB8a89e6a9C4Af335C3D6E44",
+		"symbol": "Omnisea",
+		"name": "Omnisea",
+		"coingecko": "omnisea",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x539bdE0d7Dbd336b79148AA742883198BBF60342",
+		"symbol": "MAGIC",
+		"name": "MAGIC",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x539bdE0d7Dbd336b79148AA742883198BBF60342.jpg",
+		"coingecko": "magic",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xAeAeeD23478c3a4b798e4ed40D8B7F41366Ae861",
+		"symbol": "Ankr Network",
+		"name": "Ankr Network",
+		"coingecko": "ankr",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x67C31056358b8977Ea95a3a899dD380D4BceD706",
+		"symbol": "ETHforestAI",
+		"name": "ETHforestAI",
+		"coingecko": "ethforestai",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x15a808ed3846D25e88AE868DE79F1bcB1Ac382B5",
+		"symbol": "Metavault DAO",
+		"name": "Metavault DAO",
+		"coingecko": "metavault-dao",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x431402e8b9dE9aa016C743880e04E517074D8cEC",
+		"symbol": "Hegic",
+		"name": "Hegic",
+		"coingecko": "hegic",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x2b1D36f5B61AdDAf7DA7ebbd11B35FD8cfb0DE31",
+		"symbol": "Interport Token",
+		"name": "Interport Token",
+		"coingecko": "interport-token",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x655a6BeEBF2361A19549a99486FF65f709BD2646",
+		"symbol": "LilAI",
+		"name": "LilAI",
+		"coingecko": "lilai",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xA23e44aEa714fbBc08ef28340D78067B9A8Cad73",
+		"symbol": "Lybra",
+		"name": "Lybra",
+		"coingecko": "lybra-finance",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x2598c30330D5771AE9F983979209486aE26dE875",
+		"symbol": "Any Inu",
+		"name": "Any Inu",
+		"coingecko": "any-inu",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xaC28C9178ACc8BA4A11A29E013a3A2627086e422",
+		"symbol": "Backed MicroStrategy",
+		"name": "Backed MicroStrategy",
+		"coingecko": "backed-microstrategy",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xBfa641051Ba0a0Ad1b0AcF549a89536A0D76472E",
+		"symbol": "Badger",
+		"name": "Badger",
+		"coingecko": "badger-dao",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xB9e4765BCE2609bC1949592059B17Ea72fEe6C6A",
+		"symbol": "Franklin OnChain U.S. Government Money Fund",
+		"name": "Franklin OnChain U.S. Government Money Fund",
+		"coingecko": "franklin-onchain-u-s-government-money-fund",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xd3Ac016b1B8C80EeAdDe4D186A9138C9324e4189",
+		"symbol": "Okcash",
+		"name": "Okcash",
+		"coingecko": "okcash",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x6a9896837021EA3eD83F623F655C119c54abE02c",
+		"symbol": "ChainBounty",
+		"name": "ChainBounty",
+		"coingecko": "sentinel-protocol",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x680447595e8b7b3Aa1B43beB9f6098C79ac2Ab3f",
+		"symbol": "USDD",
+		"name": "USDD",
+		"coingecko": "usdd",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x1f6Fa7A58701b3773b08a1a16D06b656B0eCcb23",
+		"symbol": "jrDPX",
+		"name": "Jones rDPX",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x1f6Fa7A58701b3773b08a1a16D06b656B0eCcb23.jpg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x5C816d4582c857dcadb1bB1F62Ad6c9DEde4576a",
+		"symbol": "TURBO",
+		"name": "Turbo",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/arbitrum/assets/0x5C816d4582c857dcadb1bB1F62Ad6c9DEde4576a/logo.png",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x5a691001Bf7065A17E150681f5BfBD7BC45A668e",
+		"symbol": "Davos Protocol Staked DUSD",
+		"name": "Davos Protocol Staked DUSD",
+		"coingecko": "davos-protocol-staked-dusd",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xF1f18F765F118c3598cC54dCaC1D0e12066263Fe",
+		"symbol": "Dinari PFE",
+		"name": "Dinari PFE",
+		"coingecko": "dinari-pfe-dshares",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xbCF339DF10d78f2b44AA760EAd0F715A7A7d7269",
+		"symbol": "Guardian GUARD",
+		"name": "Guardian GUARD",
+		"coingecko": "guardian-token",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xC96dE26018A54D51c097160568752c4E3BD6C364",
+		"symbol": "Ignition FBTC",
+		"name": "Ignition FBTC",
+		"coingecko": "ignition-fbtc",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xEd5740209FcF6974d6f3a5F11e295b5E468aC27c",
+		"symbol": "KEWL EXCHANGE",
+		"name": "KEWL EXCHANGE",
+		"coingecko": "kewl-exchange",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xDCbf4CB83d27C408B30dD7F39bfcabD7176B1Ba3",
+		"symbol": "OpenOcean",
+		"name": "OpenOcean",
+		"coingecko": "openocean",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x8D9bA570D6cb60C7e3e0F31343Efe75AB8E65FB1",
+		"symbol": "gOHM",
+		"name": "Governance OHM",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/arbitrum/assets/0x8D9bA570D6cb60C7e3e0F31343Efe75AB8E65FB1/logo.png",
+		"coingecko": "governance-ohm",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x910d3c72c5177c3f1bfb0863b793ec23Fa7f6990",
+		"symbol": "NISHIB",
+		"name": "NitroShiba",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x910d3c72c5177c3f1bfb0863b793ec23Fa7f6990.jpg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x61A1ff55C5216b636a294A07D77C6F4Df10d3B56",
+		"symbol": "ApeX",
+		"name": "ApeX",
+		"coingecko": "apex-token-2",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x93D504070AB0eede5449C89C5eA0F5e34D8103f8",
+		"symbol": "Archi Token",
+		"name": "Archi Token",
+		"coingecko": "archi-token",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x643b34980E635719C15a2D4ce69571a258F940E9",
+		"symbol": "The Standard EURO",
+		"name": "The Standard EURO",
+		"coingecko": "the-standard-euro",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x4CFA50B7Ce747e2D61724fcAc57f24B748FF2b2A",
+		"symbol": "fUSDC",
+		"name": "Fluid USDC",
+		"decimals": 6,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x4CFA50B7Ce747e2D61724fcAc57f24B748FF2b2A.jpg",
+		"coingecko": "fluid-usdc",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xB0B195aEFA3650A6908f15CdaC7D92F8a5791B0B",
+		"symbol": "BOB",
+		"name": "BOB",
+		"coingecko": "bob",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x58b9cB810A68a7f3e1E4f8Cb45D1B9B3c79705E8",
+		"symbol": "Everclear",
+		"name": "Everclear",
+		"coingecko": "connext",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xfFA188493C15DfAf2C206c97D8633377847b6a52",
+		"symbol": "Wefi",
+		"name": "Wefi",
+		"coingecko": "wefi-finance",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x1c22531AA9747d76fFF8F0A43b37954ca67d28e0",
+		"symbol": "Sumer.Money suETH",
+		"name": "Sumer.Money suETH",
+		"coingecko": "sumer-money-sueth",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x16A500Aec6c37F84447ef04E66c57cfC6254cF92",
+		"symbol": "Umoja",
+		"name": "Umoja",
+		"coingecko": "umoja",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x6604b5Da093F3F35066C6C79E51d581A44C35288",
+		"symbol": "Uranium3o8",
+		"name": "Uranium3o8",
+		"coingecko": "uranium3o8",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xA54B8e178A49F8e5405A4d44Bb31F496e5564A05",
+		"symbol": "PEPE",
+		"name": "Pepe",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xA54B8e178A49F8e5405A4d44Bb31F496e5564A05.jpg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x59A729658e9245B0cF1f8Cb9fb37945D2B06ea27",
+		"symbol": "GenomesDAO GENE",
+		"name": "GenomesDAO GENE",
+		"coingecko": "genomesdao",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x8f5c1A99b1df736Ad685006Cb6ADCA7B7Ae4b514",
+		"symbol": "Enzyme",
+		"name": "Enzyme",
+		"coingecko": "melon",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xE22c452bd2AdE15DfC8ad98286bc6bDF0c9219b7",
+		"symbol": "Polytrade",
+		"name": "Polytrade",
+		"coingecko": "polytrade",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x7cb16cb78ea464aD35c8a50ABF95dff3c9e09d5d",
+		"symbol": "0xBitcoin",
+		"name": "0xBitcoin",
+		"coingecko": "oxbitcoin",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x3E6648C5a70A150A88bCE65F4aD4d506Fe15d2AF",
+		"symbol": "SPELL",
+		"name": "Spell Token",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x3E6648C5a70A150A88bCE65F4aD4d506Fe15d2AF.jpg",
+		"coingecko": "spell-token",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x4E51aC49bC5e2d87e0EF713E9e5AB2D71EF4F336",
+		"symbol": "Celo (Wormhole)",
+		"name": "Celo (Wormhole)",
+		"coingecko": "celo-wormhole",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xd6cF874E24A9F5f43075142101A6b13735CDD424",
+		"symbol": "CoinbarPay",
+		"name": "CoinbarPay",
+		"coingecko": "coinbarpay",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x711B771C7C443EbB695e4b3495c337fDAF37Be11",
+		"symbol": "Dackie USD",
+		"name": "Dackie USD",
+		"coingecko": "dackie-usd",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x58CB98A966F62aA6F2190eB3AA03132A0c3de3D5",
+		"symbol": "OPEN",
+		"name": "OpenWorld",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x58CB98A966F62aA6F2190eB3AA03132A0c3de3D5.jpg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xd7a892f28dEdC74E6b7b33F93BE08abfC394a360",
+		"symbol": "Crypto Index Pool",
+		"name": "Crypto Index Pool",
+		"coingecko": "crypto-index-pool",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x1b896893dfc86bb67Cf57767298b9073D2c1bA2c",
+		"symbol": "PancakeSwap",
+		"name": "PancakeSwap",
+		"coingecko": "pancakeswap-token",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x700e4edb5c7D8f53CCb0cf212b81A121728e1D5b",
+		"symbol": "LOPO",
+		"name": "LOPO",
+		"coingecko": "lopo",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xF0B5cEeFc89684889e5F7e0A7775Bd100FcD3709",
+		"symbol": "DUSD",
+		"name": "DigitalDollar",
+		"decimals": 6,
+		"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xF0B5cEeFc89684889e5F7e0A7775Bd100FcD3709/logo.png",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xD4d026322C88C2d49942A75DfF920FCfbC5614C1",
+		"symbol": "OLE",
+		"name": "OpenLeverage",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xD4d026322C88C2d49942A75DfF920FCfbC5614C1.jpg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xF65247B6ED3E7FDbAC313959B3f62475FBB5F8E4",
+		"symbol": "Brightpool Finance BRIX",
+		"name": "Brightpool Finance BRIX",
+		"coingecko": "brightpool-finance-brix",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x6bB7A17AcC227fd1F6781D1EEDEAE01B42047eE0",
+		"symbol": "LEXER Markets",
+		"name": "LEXER Markets",
+		"coingecko": "lexer-markets",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xaaE0c3856e665ff9b3E2872B6D75939D810b7E40",
+		"symbol": "YieldFarming Index",
+		"name": "YieldFarming Index",
+		"coingecko": "yieldfarming-index",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x06D65eC13465Ac5A4376dc101e1141252c4adDf8",
+		"symbol": "Zunami ETH",
+		"name": "Zunami ETH",
+		"coingecko": "zunami-eth-2",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x8CF7e3aa6fAf6Ae180E5eC3f0fb95081C2086eBe",
+		"symbol": "SX",
+		"name": "SX Network",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x8CF7e3aa6fAf6Ae180E5eC3f0fb95081C2086eBe.jpg",
+		"coingecko": "sx-network-2",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xcbB7C0000aB88B473b1f5aFd9ef808440eed33Bf",
+		"symbol": "Coinbase Wrapped BTC",
+		"name": "Coinbase Wrapped BTC",
+		"coingecko": "coinbase-wrapped-btc",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x06e90A57D1ECe8752d6CE92D1aD348EaD5Eae4f4",
+		"symbol": "Real Smurf Cat",
+		"name": "Real Smurf Cat",
+		"coingecko": "real-smurf-cat",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x1426CF37CAA89628C4DA2864e40cF75E6d66Ac6b",
+		"symbol": "Relay Chain",
+		"name": "Relay Chain",
+		"coingecko": "relay-token",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xba0Dda8762C24dA9487f5FA026a9B64b695A07Ea",
+		"symbol": "OX Coin",
+		"name": "OX Coin",
+		"coingecko": "ox-fun",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x764A726d9ceD0433A8D7643335919dEb03a9a935",
+		"symbol": "Pocket Network",
+		"name": "Pocket Network",
+		"coingecko": "pocket-network",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x17A8541B82BF67e10B0874284b4Ae66858cb1fd5",
+		"symbol": "Possum",
+		"name": "Possum",
+		"coingecko": "possum",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xCa5Ca9083702c56b481D1eec86F1776FDbd2e594",
+		"symbol": "Reserve Rights",
+		"name": "Reserve Rights",
+		"coingecko": "reserve-rights-token",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x088cd8f5eF3652623c22D48b1605DCfE860Cd704",
+		"symbol": "VELA",
+		"name": "Vela Exchange",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/vela.jpg",
+		"coingecko": "vela-token",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x00000000ea00F3F4000e7Ed5Ed91965b19f1009B",
+		"symbol": "Maia",
+		"name": "Maia",
+		"coingecko": "maia",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xdA0a57B710768ae17941a9Fa33f8B720c8bD9ddD",
+		"symbol": "Marlin",
+		"name": "Marlin",
+		"coingecko": "marlin",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x88266f9eb705F5282a2507A9c418821a2AC9f8BD",
+		"symbol": "Nutcash",
+		"name": "Nutcash",
+		"coingecko": "nutcash",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xeA50f402653c41cAdbaFD1f788341dB7B7F37816",
+		"symbol": "sGYD",
+		"name": "sGYD",
+		"coingecko": "sgyd",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xd45e486A90eBb84E9336d371A35dCb021424B96C",
+		"symbol": "Superpower Squad",
+		"name": "Superpower Squad",
+		"coingecko": "squad",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xAAA6C1E32C55A7Bfa8066A6FAE9b42650F262418",
+		"symbol": "Ramses Exchange",
+		"name": "Ramses Exchange",
+		"coingecko": "ramses-exchange",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xE656165d39419C03D588515c835d109E19221e1E",
+		"symbol": "pAMZN",
+		"name": "Poison.Finance Amazon Potion",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xE656165d39419C03D588515c835d109E19221e1E.jpg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x5441695f4445E40900b4c4B0Fb3eD2B9E51601A6",
+		"symbol": "ARTH",
+		"name": "ARTH",
+		"coingecko": "arth",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x635d0e13f98e107Cf6C5cDFbF52C19843F87e76a",
+		"symbol": "Dominator Domains",
+		"name": "Dominator Domains",
+		"coingecko": "dominator-domains",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xdA661fa59320B808c5a6d23579fCfEdf1FD3cf36",
+		"symbol": "Mobox",
+		"name": "Mobox",
+		"coingecko": "mobox",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x346c574C56e1A4aAa8dc88Cda8F7EB12b39947aB",
+		"symbol": "SolvBTC.BBN",
+		"name": "SolvBTC Babylon",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x346c574C56e1A4aAa8dc88Cda8F7EB12b39947aB.jpg",
+		"coingecko": "solv-protocol-solvbtc-bbn",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x0cBD6fAdcF8096cC9A43d90B45F65826102e3eCE",
+		"symbol": "CheckDot",
+		"name": "CheckDot",
+		"coingecko": "checkdot",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xa9011Ee5796BE43123651181dc75c0e72Bb1191c",
+		"symbol": "NeuroPulse AI",
+		"name": "NeuroPulse AI",
+		"coingecko": "neuropulse-ai",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x158bd2D5238700a332Fdc0CDf97e5Fe13F8ED0DE",
+		"symbol": "Revolon",
+		"name": "Revolon",
+		"coingecko": "revolon",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xd8F728AdB72a46Ae2c92234AE8870D04907786C5",
+		"symbol": "Dinari AMD",
+		"name": "Dinari AMD",
+		"coingecko": "dinari-amd",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xd79Bb960Dc8a206806c3a428b31bCA49934d18D7",
+		"symbol": "Rosnet",
+		"name": "Rosnet",
+		"coingecko": "rosnet",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xD44257ddE89ca53F1471582f718632e690e46Dc2",
+		"symbol": "S",
+		"name": "S",
+		"coingecko": "s",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x1B7AD346b6Ff2D196DaA8E78AEd86Baa6D7e3B02",
+		"symbol": "VitAI",
+		"name": "VitAI",
+		"coingecko": "vitai",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x2416092f143378750bb29b79eD961ab195CcEea5",
+		"symbol": "ezETH",
+		"name": "Renzo Restaked ETH",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x2416092f143378750bb29b79eD961ab195CcEea5.jpg",
+		"coingecko": "renzo-restaked-eth",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xd8B95B1987741849cA7e71e976aEB535fd2e55a2",
+		"symbol": "Backed Swiss Domestic Government Bond 0-3",
+		"name": "Backed Swiss Domestic Government Bond 0-3",
+		"coingecko": "backed-swiss-domestic-government-bond-0-3",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x847503FbF003cE8B005546Aa3c03B80b7C2F9771",
+		"symbol": "Byte",
+		"name": "Byte",
+		"coingecko": "byte",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x13461c85887e85fDc942ac94c4d2699995aD1960",
+		"symbol": "Cradles",
+		"name": "Cradles",
+		"coingecko": "crds",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xF0A5717Ec0883eE56438932b0fe4A20822735fBa",
+		"symbol": "xToken",
+		"name": "xToken",
+		"coingecko": "xtoken",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x9b3fa2A7C3EB36d048A5d38d81E7fAFC6bc47B25",
+		"symbol": "Aluna",
+		"name": "Aluna",
+		"coingecko": "aluna",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x193f4A4a6ea24102F49b931DEeeb931f6E32405d",
+		"symbol": "Telos",
+		"name": "Telos",
+		"coingecko": "telos",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x2338a5d62E9A766289934e8d2e83a443e8065b83",
+		"symbol": "FLUX",
+		"name": "Flux Protocol",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x2338a5d62E9A766289934e8d2e83a443e8065b83.jpg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xfc5A1A6EB076a2C7aD06eD22C90d7E710E35ad0a",
+		"symbol": "GMX",
+		"name": "GMX",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xfc5A1A6EB076a2C7aD06eD22C90d7E710E35ad0a.jpg",
+		"coingecko": "gmx",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xa0b862F60edEf4452F25B4160F177db44DeB6Cf1",
+		"symbol": "GNO",
+		"name": "Gnosis Token",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/gno.jpg",
+		"coingecko": "gnosis",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x9483ab65847A447e36d21af1CaB8C87e9712ff93",
+		"symbol": "Wrapped USDR",
+		"name": "Wrapped USDR",
+		"coingecko": "wrapped-usdr",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x3AD63B3C0eA6d7A093ff98fdE040baddc389EcDc",
+		"symbol": "Dinari NFLX",
+		"name": "Dinari NFLX",
+		"coingecko": "dinari-nflx-dshares",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x6bcc14B02CD624EbE1a8A665Cb6d4067Aa097230",
+		"symbol": "Foxify",
+		"name": "Foxify",
+		"coingecko": "foxify",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xA170Eaa9a74ab4b3218C736210b0421aF35C3c00",
+		"symbol": "Molandak",
+		"name": "Molandak",
+		"coingecko": "molandak",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x763a716dD74a79d037E57f993fe3047271879bc1",
+		"symbol": "QODA",
+		"name": "QODA",
+		"coingecko": "qoda",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x031d35296154279DC1984dCD93E392b1f946737b",
+		"symbol": "CAP",
+		"name": "Cap",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/cap.jpg",
+		"coingecko": "cap",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xF602A45812040D90B202355bdc05438918CD3FE3",
+		"symbol": "pGOLD",
+		"name": "Poison.Finance Gold Potion",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xF602A45812040D90B202355bdc05438918CD3FE3.jpg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x8ffDf2DE812095b1D19CB146E4c004587C0A0692",
+		"symbol": "Aave v3 LUSD",
+		"name": "Aave v3 LUSD",
+		"coingecko": "aave-v3-lusd",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xf50874f8246776CA4B89eEF471E718F70f38458F",
+		"symbol": "Arbswap",
+		"name": "Arbswap",
+		"coingecko": "arbswap",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x968bE3F7bfeF0F8eDc3c1aD90232EbB0DA0867aA",
+		"symbol": "Seedworld",
+		"name": "Seedworld",
+		"coingecko": "seedworld",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x6694340fc020c5E6B96567843da2df01b2CE1eb6",
+		"symbol": "STG",
+		"name": "StargateToken",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x6694340fc020c5E6B96567843da2df01b2CE1eb6.jpg",
+		"coingecko": "stargate-finance",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xe50fA9b3c56FfB159cB0FCA61F5c9D750e8128c8",
+		"symbol": "Aave v3 WETH",
+		"name": "Aave v3 WETH",
+		"coingecko": "aave-v3-weth",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x326c33FD1113c1F29B35B4407F3d6312a8518431",
+		"symbol": "STRP",
+		"name": "Strips Token",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/arbitrum/assets/0x326c33FD1113c1F29B35B4407F3d6312a8518431/logo.png",
+		"coingecko": "strips-finance",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x178412e79c25968a32e89b11f63B33F733770c2A",
+		"symbol": "Frax Ether",
+		"name": "Frax Ether",
+		"coingecko": "frax-ether",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x1A5B0aaF478bf1FDA7b934c76E7692D722982a6D",
+		"symbol": "Buffer Token",
+		"name": "Buffer Token",
+		"coingecko": "ibuffer-token",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x3A18dcC9745eDcD1Ef33ecB93b0b6eBA5671e7Ca",
+		"symbol": "Kujira",
+		"name": "Kujira",
+		"coingecko": "kujira",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x0002BcDaf53f4889BF2f43A3252d7c03Fe1b80bc",
+		"symbol": "GorplesCoin",
+		"name": "GorplesCoin",
+		"coingecko": "borpatoken",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x9Fb9a33956351cf4fa040f65A13b835A3C8764E3",
+		"symbol": "Multichain",
+		"name": "Multichain",
+		"coingecko": "multichain",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x6cc5B1fB8C2fD7AF1d2858f916F274B8faAC82E1",
+		"symbol": "Ojamu",
+		"name": "Ojamu",
+		"coingecko": "ojamu",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x5429706887FCb58a595677B73E9B0441C25d993D",
+		"symbol": "UniDex",
+		"name": "UniDex",
+		"coingecko": "unidex",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xC29b9C4f45fD4f07768cF913ACDe0C7772b47124",
+		"symbol": "Post.Tech",
+		"name": "Post.Tech",
+		"coingecko": "post-tech",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xbC4c97Fb9befaa8B41448e1dFcC5236dA543217F",
+		"symbol": "SpaceCatch",
+		"name": "SpaceCatch",
+		"coingecko": "spacecatch",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x319f865b287fCC10b30d8cE6144e8b6D1b476999",
+		"symbol": "Cartesi",
+		"name": "Cartesi",
+		"coingecko": "cartesi",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xd07d35368e04a839deE335e213302b21ef14Bb4a",
+		"symbol": "Crystal",
+		"name": "Crystal",
+		"coingecko": "crystal-erc404",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xF34450d1f23902657cffb2636153677be7D38750",
+		"symbol": "Equinox Ecosystem",
+		"name": "Equinox Ecosystem",
+		"coingecko": "equinox-ecosystem",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x1310952Bc5594852459Ee45bfD0df70b34Ac5509",
+		"symbol": "Parifi",
+		"name": "Parifi",
+		"coingecko": "parifi",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x09E18590E8f76b6Cf471b3cd75fE1A1a9D2B2c2b",
+		"symbol": "ArbDoge AI",
+		"name": "ArbDoge AI",
+		"coingecko": "arbdoge-ai",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x6f9590958ce2beaf9c92a3a8Fca6D1dDF310e052",
+		"symbol": "Gas Turbo",
+		"name": "Gas Turbo",
+		"coingecko": "gas-turbo",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x0534D7272a8E4F24D269b56605F2BF6cf3271891",
+		"symbol": "U Coin",
+		"name": "U Coin",
+		"coingecko": "u-coin",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x969131D8ddC06C2Be11a13e6E7fACF22CF57d95e",
+		"symbol": "EUX",
+		"name": "dForce EUR",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/eux.jpg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x9d2F299715D94d8A7E6F5eaa8E654E8c74a988A7",
+		"symbol": "FXS",
+		"name": "Frax Share",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/fxs.jpg",
+		"coingecko": "frax-share",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x2e516BA5Bf3b7eE47fb99B09eaDb60BDE80a82e0",
+		"symbol": "aEGGS",
+		"name": "aEGGS",
+		"coingecko": "aeggs",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x4ac623237DE0Aa622b4fDF4Da63cf97216371Acf",
+		"symbol": "alXAI",
+		"name": "alXAI",
+		"coingecko": "alxai",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x46b979440AC257151EE5a5bC9597B76386907FA1",
+		"symbol": "Dinari COIN",
+		"name": "Dinari COIN",
+		"coingecko": "dinari-coin",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x43dF266501dFf4773F8F33179e3b96aB94dbC28d",
+		"symbol": "GLend",
+		"name": "GLend",
+		"coingecko": "glend",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xb4bbfE92702730ef7F1d28e4b9E42381182F48a5",
+		"symbol": "Hold VIP",
+		"name": "Hold VIP",
+		"coingecko": "hold-vip",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x2CaB3abfC1670D1a452dF502e216a66883cDf079",
+		"symbol": "Layer2DAO",
+		"name": "Layer2DAO",
+		"coingecko": "layer2dao",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x1a7BD9EDC36Fb2b3c0852bcD7438c2A957Fd7Ad5",
+		"symbol": "aMoon",
+		"name": "ArbiMoon",
+		"decimals": 9,
+		"logo": "https://raw.githubusercontent.com/ArbiMoonXyz/MyFiles/main/arbimoon.jpg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xCa4e51F6AD4AFd9d1068E5899De9dd7d73F3463D",
+		"symbol": "Aark Digital",
+		"name": "Aark Digital",
+		"coingecko": "aark-digital",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x09199d9A5F4448D0848e4395D065e1ad9c4a1F74",
+		"symbol": "Bonk",
+		"name": "Bonk",
+		"coingecko": "bonk",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x9e523234D36973f9e38642886197D023C88e307e",
+		"symbol": "Darwinia Network",
+		"name": "Darwinia Network",
+		"coingecko": "darwinia-network-native-token",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xA6Ef0ad746d1c35D6ff4d66Ceeae0e596d742924",
+		"symbol": "LumiTerra Totem 404",
+		"name": "LumiTerra Totem 404",
+		"coingecko": "lumiterra-totem-404",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x80137510979822322193FC997d400D5A6C747bf7",
+		"symbol": "StakeStone ETH",
+		"name": "StakeStone ETH",
+		"coingecko": "stakestone-ether",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x00CBcF7B3d37844e44b888Bc747bDd75FCf4E555",
+		"symbol": "xPet.tech",
+		"name": "xPet.tech",
+		"coingecko": "xpet-tech",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xdE903E2712288A1dA82942DDdF2c20529565aC30",
+		"symbol": "Swapr",
+		"name": "Swapr",
+		"coingecko": "swapr",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xFA296FcA3c7DBa4a92A42Ec0B5E2138DA3b29050",
+		"symbol": "AiShiba",
+		"name": "AiShiba",
+		"coingecko": "aishiba",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x86f65121804D2Cdbef79F9f072D4e0c2eEbABC08",
+		"symbol": "Garden",
+		"name": "Garden",
+		"coingecko": "garden-2",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xa61F74247455A40b01b0559ff6274441FAfa22A3",
+		"symbol": "Magpie",
+		"name": "Magpie",
+		"coingecko": "magpie",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xd26B0c6Ef8581E921AE41C66e508C62a581B709D",
+		"symbol": "Sexone",
+		"name": "Sexone",
+		"coingecko": "sexone",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x17afc249db786fC300f2d26381Fec5CF0C3913Fb",
+		"symbol": "Shiba Cartel",
+		"name": "Shiba Cartel",
+		"coingecko": "shiba-cartel",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x3642c0680329ae3e103E2B5AB29DDfed4d43CBE5",
+		"symbol": "PL2",
+		"name": "Plenny",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/pl2.jpg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x872bAD41CFc8BA731f811fEa8B2d0b9fd6369585",
+		"symbol": "BattleFly",
+		"name": "BattleFly",
+		"coingecko": "battlefly",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x8EC1877698ACF262Fe8Ad8a295ad94D6ea258988",
+		"symbol": "Davos.xyz USD",
+		"name": "Davos.xyz USD",
+		"coingecko": "davos-protocol",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x97Ec5DAdA8262BD922BfFd54a93F5A11EfE0B136",
+		"symbol": "Dinari RDDT",
+		"name": "Dinari RDDT",
+		"coingecko": "dinari-rddt",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xEC70Dcb4A1EFa46b8F2D97C310C9c4790ba5ffA8",
+		"symbol": "Rocket Pool ETH",
+		"name": "Rocket Pool ETH",
+		"coingecko": "rocket-pool-eth",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xf929de51D91C77E42f5090069E0AD7A09e513c73",
+		"symbol": "ShapeShift FOX",
+		"name": "ShapeShift FOX",
+		"coingecko": "shapeshift-fox-token",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xa68Ec98D7ca870cF1Dd0b00EBbb7c4bF60A8e74d",
+		"symbol": "Biconomy",
+		"name": "Biconomy",
+		"coingecko": "biconomy",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x221c5799209132766a01C4CBED0D28600D282b41",
+		"symbol": "Bitrium",
+		"name": "Bitrium",
+		"coingecko": "bitrium",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x4F604735c1cF31399C6E711D5962b2B3E0225AD3",
+		"symbol": "Glo Dollar",
+		"name": "Glo Dollar",
+		"coingecko": "glo-dollar",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xeDd6cA8A4202d4a36611e2fff109648c4863ae19",
+		"symbol": "Maha",
+		"name": "Maha",
+		"coingecko": "mahadao",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x12275DCB9048680c4Be40942eA4D92c74C63b844",
+		"symbol": "Electronic USD",
+		"name": "Electronic USD",
+		"coingecko": "electronic-usd",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x02cea97794D2cFB5f560e1fF4e9C59D1BEC75969",
+		"symbol": "VNX Swiss Franc",
+		"name": "VNX Swiss Franc",
+		"coingecko": "vnx-swiss-franc",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x2FAc624899a844E0628BfDCC70eFCd25F6E90B95",
+		"symbol": "Youwho",
+		"name": "Youwho",
+		"coingecko": "youwho",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
+		"symbol": "axlUSDC",
+		"name": "Axelar Wrapped USDC",
+		"decimals": 6,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xEB466342C4d449BC9f53A865D5Cb90586f405215.jpg",
+		"coingecko": "axlusdc",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x51B902f19a56F0c8E409a34a215AD2673EDF3284",
+		"symbol": "NFTE",
+		"name": "NFTEarthOFT",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x51B902f19a56F0c8E409a34a215AD2673EDF3284.jpg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xf8f636BB3Be1fEEB979E1ea281389b49CF3a6853",
+		"symbol": "pAAPL",
+		"name": "Poison.Finance Apple Potion",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xf8f636BB3Be1fEEB979E1ea281389b49CF3a6853.jpg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xA71E2738704e367798bAa2755aF5A10499634953",
+		"symbol": "Avarik Saga",
+		"name": "Avarik Saga",
+		"coingecko": "avarik-saga",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x2B089381f53525451Fe5115f23e9d2cc92d7Ff1d",
+		"symbol": "Digital Reserve Currency",
+		"name": "Digital Reserve Currency",
+		"coingecko": "digital-reserve-currency",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x6Db8b088c4d41d622B44CD81B900bA690f2d496C",
+		"symbol": "Impossible Finance Launchpad",
+		"name": "Impossible Finance Launchpad",
+		"coingecko": "idia",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xfbbb21d8e7A461f06e5E27efD69703aCB5C732A8",
+		"symbol": "Kunji Finance",
+		"name": "Kunji Finance",
+		"coingecko": "kunji-finance",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xe4DDDfe67E7164b0FE14E218d80dC4C08eDC01cB",
+		"symbol": "Kyber Network Crystal",
+		"name": "Kyber Network Crystal",
+		"coingecko": "kyber-network-crystal",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xcCd05A0fcfc1380e9Da27862Adb2198E58e0D66f",
+		"symbol": "ANIMA",
+		"name": "Anima",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xcCd05A0fcfc1380e9Da27862Adb2198E58e0D66f.jpg",
+		"coingecko": "anima",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x0341C0C0ec423328621788d4854119B97f44E391",
+		"symbol": "Silo",
+		"name": "Silo Governance Token",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x0341C0C0ec423328621788d4854119B97f44E391.jpg",
+		"coingecko": "silo-finance",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xF7428FFCb2581A2804998eFbB036A43255c8A8D3",
+		"symbol": "sSPELL",
+		"name": "Staked Spell Token",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xF7428FFCb2581A2804998eFbB036A43255c8A8D3.jpg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xa3210cd727fE6DAf8386af5623ba51A367E46263",
+		"symbol": "Basket",
+		"name": "Basket",
+		"coingecko": "basket",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x59D9356E565Ab3A36dD77763Fc0d87fEaf85508C",
+		"symbol": "Mountain Protocol USD",
+		"name": "Mountain Protocol USD",
+		"coingecko": "mountain-protocol-usdm",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x4E200fE2f3eFb977d5fd9c430A41531FB04d97B8",
+		"symbol": "Orderly Network",
+		"name": "Orderly Network",
+		"coingecko": "orderly-network",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x1A6B3A62391ECcaaa992ade44cd4AFe6bEC8CfF1",
+		"symbol": "UXLINK",
+		"name": "UXLINK",
+		"coingecko": "uxlink",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x35f1C5cB7Fb977E669fD244C567Da99d8a3a6850",
+		"symbol": "Usual USD",
+		"name": "Usual USD",
+		"coingecko": "usual-usd",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x4883C8f0529F37e40eBeA870F3C13cDfAD5d01f8",
+		"symbol": "VNX EURO",
+		"name": "VNX EURO",
+		"coingecko": "vnx-euro",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x60D01EC2D5E98Ac51C8B4cF84DfCCE98D527c747",
+		"symbol": "iZUMi Finance",
+		"name": "iZUMi Finance",
+		"coingecko": "izumi-finance",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xf0cb2dc0db5e6c66B9a70Ac27B06b878da017028",
+		"symbol": "Olympus",
+		"name": "Olympus",
+		"coingecko": "olympus",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x500756c7D239AeE30f52C7e52AF4F4F008d1A98f",
+		"symbol": "Petroleum OIL",
+		"name": "Petroleum OIL",
+		"coingecko": "petroleum-oil",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x8347Dff20De05b11c0781AAEa90d5bee46c30252",
+		"symbol": "Playahh App",
+		"name": "Playahh App",
+		"coingecko": "playahh-app",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xb4357054c3dA8D46eD642383F03139aC7f090343",
+		"symbol": "Port3 Network",
+		"name": "Port3 Network",
+		"coingecko": "port3-network",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x004626A008B1aCdC4c74ab51644093b155e59A23",
+		"symbol": "Angle Staked EURA",
+		"name": "Angle Staked EURA",
+		"coingecko": "staked-ageur",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x76CE14237110C865F431e18F91fC1B225fb6fE99",
+		"symbol": "TraderDAO Proof Of Trade",
+		"name": "TraderDAO Proof Of Trade",
+		"coingecko": "traderdao-proof-of-trade",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x876Ec6bE52486Eeec06bc06434f3E629D695c6bA",
+		"symbol": "FLUID",
+		"name": "FluidFi",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x876Ec6bE52486Eeec06bc06434f3E629D695c6bA/logo.png",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xd3443ee1e91aF28e5FB858Fbd0D72A63bA8046E0",
+		"symbol": "Gains Network USDC",
+		"name": "Gains Network USDC",
+		"coingecko": "gains-network-usdc",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xeb8E93A0c7504Bffd8A8fFa56CD754c63aAeBFe8",
+		"symbol": "Overnight.fi DAI+",
+		"name": "Overnight.fi DAI+",
+		"coingecko": "overnight-dai",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x903CA00944D0b51e50D9F4fC96167c89F211542A",
+		"symbol": "Poolshark",
+		"name": "Poolshark",
+		"coingecko": "poolshark",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xa6099B214E8D069911702BC92Ef274f63C476c5a",
+		"symbol": "Zenland",
+		"name": "Zenland",
+		"coingecko": "zenland",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xF236ea74B515eF96a9898F5a4ed4Aa591f253Ce1",
+		"symbol": "plsDPX",
+		"name": "Plutus DPX",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xF236ea74B515eF96a9898F5a4ed4Aa591f253Ce1.jpg",
+		"coingecko": "plutus-dpx",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
+		"symbol": "USDT",
+		"name": "Tether USD",
+		"decimals": 6,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdt.jpg",
+		"coingecko": "arbitrum-bridged-usdt-arbitrum",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x83d6c8C06ac276465e4C92E7aC8C23740F435140",
+		"symbol": "HMX",
+		"name": "HMX",
+		"coingecko": "hmx",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x56659245931CB6920e39C189D2a0e7DD0dA2d57b",
+		"symbol": "Impermax",
+		"name": "Impermax",
+		"coingecko": "impermax-2",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x55fF62567f09906A85183b866dF84bf599a4bf70",
+		"symbol": "Kromatika",
+		"name": "Kromatika",
+		"coingecko": "kromatika",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xF0DFAD1817b5ba73726B02Ab34dd4B4B00bcD392",
+		"symbol": "Minato",
+		"name": "Minato",
+		"coingecko": "minato",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x965772e0E9c84b6f359c8597C891108DcF1c5B1A",
+		"symbol": "Pickle Finance",
+		"name": "Pickle Finance",
+		"coingecko": "pickle-finance",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x5B6424769823e82A1829B0A8bcAf501bFFD90d25",
+		"symbol": "Dinari PYPL",
+		"name": "Dinari PYPL",
+		"coingecko": "dinari-pypl-dshares",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xF4BD09B048248876E39Fcf2e0CDF1aee1240a9D2",
+		"symbol": "Dinari SPY",
+		"name": "Dinari SPY",
+		"coingecko": "dinari-spy-dshares",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xD4939D69B31fbE981ed6904A3aF43Ee1dc777Aab",
+		"symbol": "Ethereum+ (Overnight)",
+		"name": "Ethereum+ (Overnight)",
+		"coingecko": "ethereum-overnight",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xeCA66820ed807c096e1Bd7a1A091cD3D3152cC79",
+		"symbol": "Ghast",
+		"name": "Ghast",
+		"coingecko": "ghast",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x85667409a723684Fe1e57Dd1ABDe8D88C2f54214",
+		"symbol": "MagicGLP",
+		"name": "MagicGLP",
+		"coingecko": "magicglp",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xB688BA096b7Bb75d7841e47163Cd12D18B36A5bF",
+		"symbol": "mPendle",
+		"name": "mPendle",
+		"coingecko": "mpendle",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x7788A3538C5fc7F9c7C8A74EAC4c898fC8d87d92",
+		"symbol": "usdx.money Staked USDX",
+		"name": "usdx.money Staked USDX",
+		"coingecko": "usdx-money-staked-usdx",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xB6093B61544572Ab42A0E43AF08aBaFD41bf25A6",
+		"symbol": "WeatherXM",
+		"name": "WeatherXM",
+		"coingecko": "weatherxm-network",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x3a8B787f78D775AECFEEa15706D4221B40F345AB",
+		"symbol": "CELR",
+		"name": "CelerToken",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/celr.jpg",
+		"coingecko": "celer-network",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xaFAfd68AFe3fe65d376eEC9Eab1802616cFacCb8",
+		"symbol": "SolvBTC.ENA",
+		"name": "SolvBTC Ethena",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xaFAfd68AFe3fe65d376eEC9Eab1802616cFacCb8.jpg",
+		"coingecko": "solv-protocol-solvbtc-ena",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x9578A9937dFf45b4E29e49120AB83cb806f1aa4F",
+		"symbol": "AITom",
+		"name": "AITom",
+		"coingecko": "aitom",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xe4177C1400A8Eee1799835DcDe2489c6f0D5d616",
+		"symbol": "CrazyRabbit",
+		"name": "CrazyRabbit",
+		"coingecko": "crazyrabbit",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xD8724322f44E5c58D7A815F542036fb17DbbF839",
+		"symbol": "Wrapped OETH",
+		"name": "Wrapped OETH",
+		"coingecko": "wrapped-oeth",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x4A7779AbeD707A9C7DEadbBef5c15f3e52370A99",
+		"symbol": "Flame",
+		"name": "Flame",
+		"coingecko": "flame-2",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x6dbF2155B0636cb3fD5359FCcEFB8a2c02B6cb51",
+		"symbol": "Plutus RDNT",
+		"name": "Plutus RDNT",
+		"coingecko": "plutus-rdnt",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xBcc9C1763d54427bDF5EfB6e9EB9494E5a1fbAbf",
+		"symbol": "HWT",
+		"name": "Honor World Token",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xBcc9C1763d54427bDF5EfB6e9EB9494E5a1fbAbf.jpg",
+		"coingecko": "honor-world-token",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xf329e36C7bF6E5E86ce2150875a84Ce77f477375",
+		"symbol": "Aave v3 AAVE",
+		"name": "Aave v3 AAVE",
+		"coingecko": "aave-v3-aave",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xafA5676a6EF790F08290dd4a45e0ec2a5cC5cdaB",
+		"symbol": "Cat \u0026 Mouse",
+		"name": "Cat \u0026 Mouse",
+		"coingecko": "cat-mouse",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xD6b3d81868770083307840F513A3491960b95cb6",
+		"symbol": "Credbull",
+		"name": "Credbull",
+		"coingecko": "credbull",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xECA14F81085e5B8d1c9D32Dcb596681574723561",
+		"symbol": "Spool",
+		"name": "Spool",
+		"coingecko": "spool-dao-token",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xab5c23bdbE99d75A7Ae4756e7cCEfd0A97B37E78",
+		"symbol": "stXAI",
+		"name": "stXAI",
+		"coingecko": "stxai",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x51A80238B5738725128d3a3e06Ab41c1d4C05C74",
+		"symbol": "unshETHing_Token",
+		"name": "unshETHing_Token",
+		"coingecko": "unsheth",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x7A2C1b8e26c48a5b73816B7EC826Fd4053F5F34b",
+		"symbol": "GoSleep ZZZ",
+		"name": "GoSleep ZZZ",
+		"coingecko": "zzz",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xA72159FC390f0E3C6D415e658264c7c4051E9b87",
+		"symbol": "TCR",
+		"name": "Tracer",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/arbitrum/assets/0xA72159FC390f0E3C6D415e658264c7c4051E9b87/logo.png",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x8626264B6a1B4e920905Efd381002abA52EA0Eea",
+		"symbol": "BlackHat Coin",
+		"name": "BlackHat Coin",
+		"coingecko": "blackhat-coin",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xA34C5e0AbE843E10461E2C9586Ea03E55Dbcc495",
+		"symbol": "Backed NVIDIA",
+		"name": "Backed NVIDIA",
+		"coingecko": "bndva-backed-nvidia",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x6609BE1547166D1C4605F3A243FDCFf467e600C3",
+		"symbol": "Neutra Finance",
+		"name": "Neutra Finance",
+		"coingecko": "neutra-finance",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x36d37B6cbCA364Cf1D843efF8C2f6824491bcF81",
+		"symbol": "Dinari TSLA",
+		"name": "Dinari TSLA",
+		"coingecko": "dinari-tsla-dshares",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x6b021b3f68491974bE6D4009fEe61a4e3C708fD6",
+		"symbol": "Fuse",
+		"name": "Fuse",
+		"coingecko": "fuse-network-token",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xfb9E5D956D889D91a82737B9bFCDaC1DCE3e1449",
+		"symbol": "Liquity",
+		"name": "Liquity",
+		"coingecko": "liquity",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x10aAeD289a7b1B0155bF4b86c862f297E84465e0",
+		"symbol": "Rubic",
+		"name": "Rubic",
+		"coingecko": "rubic",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x41b94c5867f7F6217C9a30520Cb3e793B1ee1b97",
+		"symbol": "axlTIA",
+		"name": "Axelar Wrapped TIA",
+		"decimals": 6,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x41b94c5867f7F6217C9a30520Cb3e793B1ee1b97.jpg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x8933fEDD98Cbb482e27C41e1bD7216a4e42eBd39",
+		"symbol": "PGS",
+		"name": "PegasusBot",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x8933fEDD98Cbb482e27C41e1bD7216a4e42eBd39.jpg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x43aB8f7d2A8Dd4102cCEA6b438F6d747b1B9F034",
+		"symbol": "SVY",
+		"name": "Savvy",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x43aB8f7d2A8Dd4102cCEA6b438F6d747b1B9F034.jpg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xB98058640970d8Aa7BbcE3B067B2D63C14143786",
+		"symbol": "Baby Arbitrum",
+		"name": "Baby Arbitrum",
+		"coingecko": "baby-arbitrum",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xF763fa322Dc58dEe588252fAFee5f448e863b633",
+		"symbol": "Carbon Protocol",
+		"name": "Carbon Protocol",
+		"coingecko": "switcheo",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x95146881b86B3ee99e63705eC87AfE29Fcc044D9",
+		"symbol": "Vertex",
+		"name": "Vertex",
+		"coingecko": "vertex-protocol",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x9f6AbbF0Ba6B5bfa27f4deb6597CC6Ec20573FDA",
+		"symbol": "FRM",
+		"name": "Ferrum Network Token",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x9f6AbbF0Ba6B5bfa27f4deb6597CC6Ec20573FDA.jpg",
+		"coingecko": "ferrum-network",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x69b2cd28B205B47C8ba427e111dD486f9C461B57",
+		"symbol": "PHAT",
+		"name": "Partyhat",
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x69b2cd28B205B47C8ba427e111dD486f9C461B57.jpg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xFB9fbcB328317123f5275CDA30b6589d5841216B",
+		"symbol": "Antfarm Token",
+		"name": "Antfarm Token",
+		"coingecko": "antfarm-token",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x1D987200dF3B744CFa9C14f713F5334CB4Bc4D5D",
+		"symbol": "REKT",
+		"name": "REKT",
+		"coingecko": "rekt-04bbe51a-e290-450a-afb5-b2b43b80b20e",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xd3188e0df68559c0B63361f6160c57Ad88B239D8",
+		"symbol": "Astra DAO",
+		"name": "Astra DAO",
+		"coingecko": "astra-dao-2",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xD74f5255D557944cf7Dd0E45FF521520002D5748",
+		"symbol": "Sperax USD",
+		"name": "Sperax USD",
+		"coingecko": "sperax-usd",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x67BaD479F77488f0f427584e267e66086a7Da43A",
+		"symbol": "Dinari ARM",
+		"name": "Dinari ARM",
+		"coingecko": "dinari-arm",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x7Be5Dd337CC6cE3e474F64E2A92A566445290864",
+		"symbol": "OpenLeverage",
+		"name": "OpenLeverage",
+		"coingecko": "openleverage",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x83E60B9F7f4DB5cDb0877659b1740E73c662c55B",
+		"symbol": "Pingu Exchange",
+		"name": "Pingu Exchange",
+		"coingecko": "pingu-exchange",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x13278cD824D33A7aDB9f0a9A84ACA7C0D2DEEBf7",
+		"symbol": "Tarot",
+		"name": "Tarot",
+		"coingecko": "tarot-2",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x64081252c497FCfeC247a664e9D10Ca8eD71b276",
+		"symbol": "ArbiFLUX",
+		"name": "ArbiFLUX",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x64081252c497FCfeC247a664e9D10Ca8eD71b276.jpg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x848e0BA28B637e8490D88BaE51fA99C87116409B",
+		"symbol": "Agave",
+		"name": "Agave",
+		"coingecko": "agave-token",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xb9600c807f069D27f92a2a65b48F12Eeef7e2007",
+		"symbol": "Altranium",
+		"name": "Altranium",
+		"coingecko": "altranium",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x23ee2343B892b1BB63503a4FAbc840E0e2C6810f",
+		"symbol": "Axelar",
+		"name": "Axelar",
+		"coingecko": "axelar",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x4117EC0A779448872d3820f37bA2060Ae0B7C34B",
+		"symbol": "USDEX+",
+		"name": "USDEX+",
+		"coingecko": "usdex-8136b88a-eceb-4eaf-b910-9578cbc70136",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x7C8a1A80FDd00C9Cccd6EbD573E9EcB49BFa2a59",
+		"symbol": "AI CODE",
+		"name": "AI CODE",
+		"coingecko": "ai-code",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x3088E120b220E67a2e092F5dA8cdf02ea0170F6A",
+		"symbol": "Finanx AI",
+		"name": "Finanx AI",
+		"coingecko": "finanx-ai",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x7e325091e5525D3ea4D54A1488eCcA8d1Df732F3",
+		"symbol": "Pacman Native Token",
+		"name": "Pacman Native Token",
+		"coingecko": "pacman-native-token",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xC19669A405067927865B40Ea045a2baabbbe57f5",
+		"symbol": "Star",
+		"name": "Star",
+		"coingecko": "preon-star",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x155f0DD04424939368972f4e1838687d6a831151",
+		"symbol": "ADoge",
+		"name": "ArbiDoge",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/doge.jpg",
+		"coingecko": "arbidoge",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xA6219B4Bf4B861A2b1C02da43b2aF266186eDC04",
+		"symbol": "ARVAULT",
+		"name": "ArVault",
+		"decimals": 9,
+		"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/arbitrum/assets/0xA6219B4Bf4B861A2b1C02da43b2aF266186eDC04/logo.png",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xeD3fB761414DA74b74F33e5c5a1f78104b188DfC",
+		"symbol": "NYAN",
+		"name": "ArbiNYAN",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/nyan.jpg",
+		"coingecko": "arbinyan",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xef888bcA6AB6B1d26dbeC977C455388ecd794794",
+		"symbol": "RGT",
+		"name": "Rari Governance Token",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/rgt.jpg",
+		"coingecko": "rari-governance-token",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x7712da72127d5dD213B621497D6E4899d5989e5C",
+		"symbol": "Ryze",
+		"name": "Ryze",
+		"coingecko": "ryze",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xDb40357fBC1eb1038C5dF94c1cD7B7Fd3F434480",
+		"symbol": "SpunkySDX",
+		"name": "SpunkySDX",
+		"coingecko": "spunkysdx",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x429fEd88f10285E61b12BDF00848315fbDfCC341",
+		"symbol": "THORWallet DEX",
+		"name": "THORWallet DEX",
+		"coingecko": "thorwallet",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xCA30c93B02514f86d5C86a6e375E3A330B435Fb5",
+		"symbol": "Backed IB01 $ Treasury Bond 0-1yr",
+		"name": "Backed IB01 $ Treasury Bond 0-1yr",
+		"coingecko": "backed-ib01-treasury-bond-0-1yr",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xC760F9782F8ceA5B06D862574464729537159966",
+		"symbol": "Contango",
+		"name": "Contango",
+		"coingecko": "contango",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x2C7941a0fE9C52223B229747322aF16160161C98",
+		"symbol": "Jarvis",
+		"name": "Jarvis",
+		"coingecko": "jarvis-2",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x982239D38Af50B0168dA33346d85Fb12929c4c07",
+		"symbol": "Arbitrove Governance Token",
+		"name": "Arbitrove Governance Token",
+		"coingecko": "nitro-cartel",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xeB4d25dB65dCeF52380C99bA7e1344c820eCb1fc",
+		"symbol": "X World Games",
+		"name": "X World Games",
+		"coingecko": "x-world-games",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x6A7661795C374c0bFC635934efAddFf3A7Ee23b6",
+		"symbol": "DOLA",
+		"name": "DOLA",
+		"coingecko": "dola-usd",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x8b5D1d8B3466eC21f8eE33cE63F319642c026142",
+		"symbol": "High Yield ETH Index",
+		"name": "High Yield ETH Index",
+		"coingecko": "high-yield-eth-index",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xd08C3F25862077056cb1b710937576Af899a4959",
+		"symbol": "Inception stETH",
+		"name": "Inception stETH",
+		"coingecko": "inception-restaked-steth",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xc8CCBd97b96834b976C995a67BF46e5754e2C48E",
+		"symbol": "Parallax",
+		"name": "Parallax",
+		"coingecko": "parallax",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x3BD2dFd03BC7c3011ed7fb8c4d0949B382726cee",
+		"symbol": "Roobee",
+		"name": "Roobee",
+		"coingecko": "roobee",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xbC404429558292eE2D769E57d57D6E74bbd2792d",
+		"symbol": "Savings USX",
+		"name": "Savings USX",
+		"coingecko": "savings-usx",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xd1E094CabC5aCB9D3b0599C3F76f2D01fF8d3563",
+		"symbol": "VirtuSwap",
+		"name": "VirtuSwap",
+		"coingecko": "virtuswap",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xC84FaE1141B92Fa5Bf847276828f69cAF651Cb7F",
+		"symbol": "XNF",
+		"name": "XNF",
+		"coingecko": "xnf",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x1DEBd73E752bEaF79865Fd6446b0c970EaE7732f",
+		"symbol": "cbETH",
+		"name": "Coinbase Wrapped Staked ETH",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x1DEBd73E752bEaF79865Fd6446b0c970EaE7732f.jpg",
+		"coingecko": "coinbase-wrapped-staked-eth",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xB261104A83887aE92392Fb5CE5899fCFe5481456",
+		"symbol": "NFTE",
+		"name": "NFTEarth",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xB261104A83887aE92392Fb5CE5899fCFe5481456.jpg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x4E0dA40b9063dC48364C1C0fFB4AE9d091fc2270",
+		"symbol": "Edgeware",
+		"name": "Edgeware",
+		"coingecko": "edgeware",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xF19547f9ED24aA66b03c3a552D181Ae334FBb8DB",
+		"symbol": "Lodestar",
+		"name": "Lodestar",
+		"coingecko": "lodestar",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xe018c227bC84e44c96391d3067FAb5A9A46b7E62",
+		"symbol": "Chromium Dollar",
+		"name": "Chromium Dollar",
+		"coingecko": "chromium-dollar",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x6612CE012ba5574A2ECEa3a825c1ddf641F78623",
+		"symbol": "Dorado Finance",
+		"name": "Dorado Finance",
+		"coingecko": "dorado-finance",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xF29Fdf6B7BdFFb025D7e6dfdF344992D2D16E249",
+		"symbol": "Genius X",
+		"name": "Genius X",
+		"coingecko": "genius-x",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x965d00aA7ABC62CA10132e641D08593435aC811d",
+		"symbol": "KAP Games",
+		"name": "KAP Games",
+		"coingecko": "kapital-dao",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xCB58418Aa51Ba525aEF0FE474109C0354d844b7c",
+		"symbol": "ICE",
+		"name": "Ice Token",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xCB58418Aa51Ba525aEF0FE474109C0354d844b7c.jpg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xEe9801669C6138E84bD50dEB500827b776777d28",
+		"symbol": "O3",
+		"name": "O3 Swap Token",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xEe9801669C6138E84bD50dEB500827b776777d28.jpg",
+		"coingecko": "o3-swap",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x2C650dAb03A59332e2E0C0C4A7F726913e5028C1",
+		"symbol": "TAP",
+		"name": "TapToken",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x2C650dAb03A59332e2E0C0C4A7F726913e5028C1.jpg",
+		"coingecko": "tapioca-dao-token",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xa992b7Dde2eD1632D0B66C56744e914eD673A37f",
+		"symbol": "Agio",
+		"name": "Agio",
+		"coingecko": "agio",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x93FA0B88C0C78e45980Fa74cdd87469311b7B3E4",
+		"symbol": "XBorg",
+		"name": "XBorg",
+		"coingecko": "xborg",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x71eebA415A523F5C952Cc2f06361D5443545Ad28",
+		"symbol": "XDAO",
+		"name": "XDAO",
+		"coingecko": "xdao",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x0BBF664D46becc28593368c97236FAa0fb397595",
+		"symbol": "KNOX Dollar",
+		"name": "KNOX Dollar",
+		"coingecko": "knox-dollar",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xB5C457dDB4cE3312a6C5a2b056a1652bd542a208",
+		"symbol": "OMNI404",
+		"name": "OMNI404",
+		"coingecko": "omni404",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x31C91D8Fb96BfF40955DD2dbc909B36E8b104Dde",
+		"symbol": "Poison Finance",
+		"name": "Poison Finance",
+		"coingecko": "poison-finance",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x9E64D3b9e8eC387a9a58CED80b71Ed815f8D82B5",
+		"symbol": "Smolcoin",
+		"name": "Smolcoin",
+		"coingecko": "smolcoin",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xe3b3FE7bcA19cA77Ad877A5Bebab186bEcfAD906",
+		"symbol": "Staked FRAX",
+		"name": "Staked FRAX",
+		"coingecko": "staked-frax",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x3b58a4C865B568a2F6a957C264F6b50CbA35D8CE",
+		"symbol": "SuperWalk GRND",
+		"name": "SuperWalk GRND",
+		"coingecko": "superwalk",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x51F6EE60108CBCB3b613093BD3F224cB49Aa1610",
+		"symbol": "Brightpool",
+		"name": "Brightpool",
+		"coingecko": "brightpool",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x77308F8B63A99b24b262D930E0218ED2f49F8475",
+		"symbol": "Dinari MSFT",
+		"name": "Dinari MSFT",
+		"coingecko": "dinari-msft-dshares",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x87AAfFdF26c6885f6010219208D5B161ec7609c0",
+		"symbol": "Equation",
+		"name": "Equation",
+		"coingecko": "equation",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xDc8B6B6bEab4d5034aE91B7A1cf7D05A41f0d239",
+		"symbol": "Gemach",
+		"name": "Gemach",
+		"coingecko": "gemach",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x7ae9AB13fC8945323b778b3F8678145E80Ec2Efb",
+		"symbol": "WorldBrain Coin",
+		"name": "WorldBrain Coin",
+		"coingecko": "worldbrain-coin",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x9e20461bc2c4c980f62f1B279D71734207a6A356",
+		"symbol": "OMNI",
+		"name": "OmniCat",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x9e20461bc2c4c980f62f1B279D71734207a6A356.jpg",
+		"coingecko": "omnicat",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x995C235521820f2637303Ca1970c7c044583df44",
+		"symbol": "VISR",
+		"name": "VISOR",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/visr.jpg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x0000206329b97DB379d5E1Bf586BbDB969C63274",
+		"symbol": "USDA",
+		"name": "USDA",
+		"coingecko": "angle-usd",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x80bB30D62a16e1F2084dEAE84dc293531c3AC3A1",
+		"symbol": "Granary",
+		"name": "Granary",
+		"coingecko": "granary",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xb52BD62eE0Cf462Fa9CCbDA4bf27Fe84D9ab6Cf7",
+		"symbol": "SAIL",
+		"name": "SAIL Token",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xb52BD62eE0Cf462Fa9CCbDA4bf27Fe84D9ab6Cf7.jpg",
+		"coingecko": "sail-2",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x641441c631e2F909700d2f41FD87F0aA6A6b4EDb",
+		"symbol": "USX",
+		"name": "dForce USD",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x641441c631e2F909700d2f41FD87F0aA6A6b4EDb.jpg",
+		"coingecko": "token-dforce-usd",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x26D3C0D9F4cc4c130097b6aFdebe4F5e497E6Bdf",
+		"symbol": "Mynth",
+		"name": "Mynth",
+		"coingecko": "mynth",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xB59c8912c83157a955f9D715E556257F432C35D7",
+		"symbol": "Truflation",
+		"name": "Truflation",
+		"coingecko": "truflation",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xf4D48Ce3ee1Ac3651998971541bAdbb9A14D7234",
+		"symbol": "CREAM",
+		"name": "Cream",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/cream.jpg",
+		"coingecko": "cream-2",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x73700aeCfC4621E112304B6eDC5BA9e36D7743D3",
+		"symbol": "lqETH",
+		"name": "liquid ETH",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x73700aeCfC4621E112304B6eDC5BA9e36D7743D3.jpg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xfb9Fed8cB962548A11fE7F6F282949061395c7F5",
+		"symbol": "NUON",
+		"name": "NUON",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xfb9Fed8cB962548A11fE7F6F282949061395c7F5.jpg",
+		"coingecko": "nuon",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x369eB8197062093a20402935D3a707b4aE414E9D",
+		"symbol": "PANA",
+		"name": "Pana DAO",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x369eB8197062093a20402935D3a707b4aE414E9D.jpg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x30dcBa0405004cF124045793E1933C798Af9E66a",
+		"symbol": "Yieldification",
+		"name": "Yieldification",
+		"coingecko": "yieldification",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xbFd5206962267c7b4b4A8B3D76AC2E1b2A5c4d5e",
+		"symbol": "OSAK",
+		"name": "Osaka Protocol",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xbFd5206962267c7b4b4A8B3D76AC2E1b2A5c4d5e.jpg",
+		"coingecko": "osaka-protocol",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x4939ac5C1855302891c5888634b2f65Cc30B9155",
+		"symbol": "Epoch Island",
+		"name": "Epoch Island",
+		"coingecko": "epoch-island",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xaDD5620057336f868EAe78A451C503Ae7b576BAD",
+		"symbol": "enqAI",
+		"name": "enqAI",
+		"coingecko": "noisegpt",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x13A7DeDb7169a17bE92B0E3C7C2315B46f4772B3",
+		"symbol": "Boop",
+		"name": "Boop",
+		"coingecko": "boop-2",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xB1bC21f748AE2bE95674876710bc6D78235480e0",
+		"symbol": "Hord",
+		"name": "Hord",
+		"coingecko": "hord",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x9dCA587dc65AC0a043828B0acd946d71eb8D46c1",
+		"symbol": "iFARM",
+		"name": "iFARM",
+		"coingecko": "ifarm",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x289ba1701C2F088cf0faf8B3705246331cB8A839",
+		"symbol": "Livepeer",
+		"name": "Livepeer",
+		"coingecko": "livepeer",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x86A1012d437BBFf84fbDF62569D12d4FD3396F8c",
+		"symbol": "ARBYS",
+		"name": "Arbys",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/arbitrum/assets/0x86A1012d437BBFf84fbDF62569D12d4FD3396F8c/logo.png",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x51fC0f6660482Ea73330E414eFd7808811a57Fa2",
+		"symbol": "PREMIA",
+		"name": "Premia",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/premia.jpg",
+		"coingecko": "premia",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x6d80113e533a2C0fe82EaBD35f1875DcEA89Ea97",
+		"symbol": "Aave v3 EURS",
+		"name": "Aave v3 EURS",
+		"coingecko": "aave-v3-eurs",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x8888888888f004100C0353d657BE6300587A6CcD",
+		"symbol": "ACryptoS",
+		"name": "ACryptoS",
+		"coingecko": "acryptos-2",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x6fD58f5a2F3468e35fEb098b5F59F04157002407",
+		"symbol": "POGAI",
+		"name": "POGAI",
+		"coingecko": "pogai",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xe8876189A80B2079D8C0a7867e46c50361D972c1",
+		"symbol": "Archly Finance",
+		"name": "Archly Finance",
+		"coingecko": "archly-finance",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x93ca0d85837FF83158Cd14D65B169CdB223b1921",
+		"symbol": "Eclipse Fi",
+		"name": "Eclipse Fi",
+		"coingecko": "eclipse-fi",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x35cA1E5A9B1c09Fa542Fa18D1Ba4D61c8eDfF852",
+		"symbol": "Schrodi",
+		"name": "Schrodi",
+		"coingecko": "schrodi",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xadf5DD3E51bF28aB4F07e684eCF5d00691818790",
+		"symbol": "ICHI",
+		"name": "ICHI",
+		"coingecko": "ichi-farm",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xCb55d61E6299597C39FEeC3D4036E727aFBe11bE",
+		"symbol": "Lumi Finance Governance Token",
+		"name": "Lumi Finance Governance Token",
+		"coingecko": "lumi-finance-governance-token",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x96a993f06951B01430523D0D5590192d650EBf3e",
+		"symbol": "Revenue Generating USD",
+		"name": "Revenue Generating USD",
+		"coingecko": "revenue-generating-usd",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xAFccb724e3aec1657fC9514E3e53A0E71e80622D",
+		"symbol": "Vaultka",
+		"name": "Vaultka",
+		"coingecko": "vaultka",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xF018865b26fFAb9cd1735DCca549D95b0CB9Ea19",
+		"symbol": "jDPX",
+		"name": "Jones DPX",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xF018865b26fFAb9cd1735DCca549D95b0CB9Ea19.jpg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+		"symbol": "USDC",
+		"name": "USD Coin (Native)",
+		"decimals": 6,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdc.jpg",
+		"coingecko": "usd-coin",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x2f11EeeE0bf21E7661A22dbBbb9068F4ad191b86",
+		"symbol": "Backed NIU Technologies",
+		"name": "Backed NIU Technologies",
+		"coingecko": "backed-niu-technologies",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x7dfF72693f6A4149b17e7C6314655f6A9F7c8B33",
+		"symbol": "GHO",
+		"name": "GHO",
+		"coingecko": "gho",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xEC13336bbd50790a00CDc0fEddF11287eaF92529",
+		"symbol": "gmUSD",
+		"name": "gmUSD",
+		"coingecko": "gmusd",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x4186BFC76E2E237523CBC30FD220FE055156b41F",
+		"symbol": "KelpDAO Bridged rsETH (Arbitrum)",
+		"name": "KelpDAO Bridged rsETH (Arbitrum)",
+		"coingecko": "kelpdao-bridged-rseth-arbitrum",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x5F320aae9B786A9F329a39e41a74E88E14783067",
+		"symbol": "PEPEX",
+		"name": "PEPEX",
+		"coingecko": "pepex",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xECf2ADafF1De8A512f6e8bfe67a2C836EDb25Da3",
+		"symbol": "Wonderful Memories",
+		"name": "Wonderful Memories",
+		"coingecko": "wrapped-memory",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xFa7F8980b0f1E64A2062791cc3b0871572f1F7f0",
+		"symbol": "UNI",
+		"name": "Uniswap",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/uni.jpg",
+		"coingecko": "uniswap",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x3eD03E95DD894235090B3d4A49E0C3239EDcE59e",
+		"symbol": "Blox MYRC",
+		"name": "Blox MYRC",
+		"coingecko": "blox-myrc",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x259B0f9494B3F02c652Fa11417B94CB700f1F7D8",
+		"symbol": "CV Pad",
+		"name": "CV Pad",
+		"coingecko": "cv-pad",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x21E60EE73F17AC0A411ae5D690f908c3ED66Fe12",
+		"symbol": "Deri Protocol",
+		"name": "Deri Protocol",
+		"coingecko": "deri-protocol",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xAFD871f684F21Ab9D7137608C71808f83D75e6fc",
+		"symbol": "BUCK",
+		"name": "Arbucks",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/arbitrum/assets/0xAFD871f684F21Ab9D7137608C71808f83D75e6fc/logo.png",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xE0Ee18EacAfDDAeb38f8907C74347C44385578aB",
+		"symbol": "AxonDAO Governance Token",
+		"name": "AxonDAO Governance Token",
+		"coingecko": "axondao-governance-token",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x8E50D11a54CFF859b202b7Fe5225353bE0646410",
+		"symbol": "Dinari GOOGL",
+		"name": "Dinari GOOGL",
+		"coingecko": "dinari-googl-dshares",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x7FB7EDe54259Cb3D4E1EaF230C7e2b1FfC951E9A",
+		"symbol": "Numa",
+		"name": "Numa",
+		"coingecko": "numa",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x816E21c33fa5F8440EBcDF6e01D39314541BEA72",
+		"symbol": "LiquidDriver",
+		"name": "LiquidDriver",
+		"coingecko": "liquiddriver",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x463913D3a3D3D291667D53B8325c598Eb88D3B0e",
+		"symbol": "SolidLizard",
+		"name": "SolidLizard",
+		"coingecko": "solidlizard",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x5575552988A3A80504bBaeB1311674fCFd40aD4B",
+		"symbol": "Sperax",
+		"name": "Sperax",
+		"coingecko": "sperax",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xb2F30A7C980f052f02563fb518dcc39e6bf38175",
+		"symbol": "Synthetix USDx",
+		"name": "Synthetix USDx",
+		"coingecko": "synthetix-usdx",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xDFB8BE6F8c87f74295A87de951974362CedCFA30",
+		"symbol": "EMC",
+		"name": "EdgeMatrix Computing network",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xDFB8BE6F8c87f74295A87de951974362CedCFA30.jpg",
+		"coingecko": "edge-matrix-computing",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x662d0f9Ff837A51cF89A1FE7E0882a906dAC08a3",
+		"symbol": "jETH",
+		"name": "Jones ETH",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x662d0f9Ff837A51cF89A1FE7E0882a906dAC08a3.jpg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x7E7a7C916c19a45769f6BDAF91087f93c6C12F78",
+		"symbol": "Eigenpie",
+		"name": "Eigenpie",
+		"coingecko": "eigenpie",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xf525E73bdeB4ac1b0e741aF3Ed8a8CBB43ab0756",
+		"symbol": "KiboShib",
+		"name": "KiboShib",
+		"coingecko": "kiboshib",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x8c6Bd546fB8B53fE371654a0E54D7a5bD484b319",
+		"symbol": "Goat Protocol",
+		"name": "Goat Protocol",
+		"coingecko": "goat-protocol",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xc5102fE9359FD9a28f877a67E36B0F050d81a3CC",
+		"symbol": "Hop Protocol",
+		"name": "Hop Protocol",
+		"coingecko": "hop-protocol",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xE4421566a501045Ae4285996577a36F6cF074190",
+		"symbol": "Ice",
+		"name": "Ice",
+		"coingecko": "ice-2",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x9E758B8a98a42d612b3D38B66a22074DC03D7370",
+		"symbol": "Symbiosis",
+		"name": "Symbiosis",
+		"coingecko": "symbiosis-finance",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xB41bd4C99dA73510d9e081C5FADBE7A27Ac1F814",
+		"symbol": "IMO",
+		"name": "Ideamarket",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/arbitrum/assets/0xB41bd4C99dA73510d9e081C5FADBE7A27Ac1F814/logo.png",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x32Eb7902D4134bf98A28b963D26de779AF92A212",
+		"symbol": "RDPX",
+		"name": "Dopex Rebate Token",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x32Eb7902D4134bf98A28b963D26de779AF92A212.jpg",
+		"coingecko": "dopex-rebate-token",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x9F07F8A82cB1af1466252e505b7b7ddee103bC91",
+		"symbol": "Degen (Base)",
+		"name": "Degen (Base)",
+		"coingecko": "degen-base",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x3269a3C00AB86c753856fD135d97b87FACB0d848",
+		"symbol": "Florence Finance Medici",
+		"name": "Florence Finance Medici",
+		"coingecko": "florence-finance-medici",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xBBEa044f9e7c0520195e49Ad1e561572E7E1B948",
+		"symbol": "Mizar",
+		"name": "Mizar",
+		"coingecko": "mizar",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x18C14C2D707b2212e17d1579789Fc06010cfca23",
+		"symbol": "ETHPlus",
+		"name": "ETHPlus",
+		"coingecko": "reserve-protocol-eth-plus",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x842216E0aa2ae608699F7b1063F26ce6b30c5311",
+		"symbol": "UrDEX Finance",
+		"name": "UrDEX Finance",
+		"coingecko": "urdex-finance",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x724dc807b04555b71ed48a6896b6F41593b8C637",
+		"symbol": "Aave v3 USDC",
+		"name": "Aave v3 USDC",
+		"coingecko": "aave-v3-usdc",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x519062155B0591627C8A0C0958110A8C5639DcA6",
+		"symbol": "Dinari META",
+		"name": "Dinari META",
+		"coingecko": "dinari-meta-dshare",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x039D2E8f097331278BD6c1415D839310E0D5Ece4",
+		"symbol": "Linda",
+		"name": "Linda",
+		"coingecko": "linda-2",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x0ae1BB2BC04308765a6B1215236Cea8cfEE8Cab9",
+		"symbol": "TDEX Token",
+		"name": "TDEX Token",
+		"coingecko": "metatdex",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x4e352cF164E64ADCBad318C3a1e222E9EBa4Ce42",
+		"symbol": "MCB",
+		"name": "MCDEX Token",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/mcb.jpg",
+		"coingecko": "mcdex",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x8DCD3393a6e48E898A60e05baeC0d568df128F89",
+		"symbol": "pTSLA",
+		"name": "Poison.Finance Tesla Potion",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x8DCD3393a6e48E898A60e05baeC0d568df128F89.jpg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xD67A097dCE9d4474737e6871684aE3c05460F571",
+		"symbol": "GND Protocol",
+		"name": "GND Protocol",
+		"coingecko": "gnd-protocol",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x8BF591Eae535f93a242D5A954d3Cde648b48A5A8",
+		"symbol": "Sumer.Money suUSD",
+		"name": "Sumer.Money suUSD",
+		"coingecko": "sumer-money-suusd",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xE85B662Fe97e8562f4099d8A1d5A92D4B453bF30",
+		"symbol": "Thales",
+		"name": "Thales",
+		"coingecko": "thales",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x3B6564b5DA73A41d3A66e6558a98FD0e9E1e77ad",
+		"symbol": "Unitus",
+		"name": "Unitus",
+		"coingecko": "unitus-2",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xa684cd057951541187f288294a1e1C2646aA2d24",
+		"symbol": "Vesta Finance",
+		"name": "Vesta Finance",
+		"coingecko": "vesta-finance",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xA970AF1a584579B618be4d69aD6F73459D112F95",
+		"symbol": "sUSD",
+		"name": "Synth sUSD",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/susd.jpg",
+		"coingecko": "nusd",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x45D9831d8751B2325f3DBf48db748723726e1C8c",
+		"symbol": "EverValue Coin",
+		"name": "EverValue Coin",
+		"coingecko": "evervalue-coin",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xE11508d3e0cf09e6FD6E94fDF41E83836D83CE50",
+		"symbol": "Parifi USDC",
+		"name": "Parifi USDC",
+		"coingecko": "parifi-usdc",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x0D5105ec5bBbF17DBa7a87E1aED2C2C15394a9E2",
+		"symbol": "RCGE",
+		"name": "RCGE",
+		"coingecko": "rcge",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x68eAd55C258d6fa5e46D67fc90f53211Eab885BE",
+		"symbol": "Popcorn",
+		"name": "Popcorn",
+		"coingecko": "popcorn",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x24Ef78C7092d255Ed14a0281ac1800C359aF3afe",
+		"symbol": "Rabbit Wallet",
+		"name": "Rabbit Wallet",
+		"coingecko": "rabbit-wallet",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xc701F86E6D242b97D3035F6c2cecaF8E7087E898",
+		"symbol": "RunBlox (Arbitrum)",
+		"name": "RunBlox (Arbitrum)",
+		"coingecko": "runblox-arbitrum",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x1F2b426417663Ac76eB92149a037753a45969F31",
+		"symbol": "RWA Finance",
+		"name": "RWA Finance",
+		"coingecko": "rwa-finance",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x772598E9e62155D7fDFe65FdF01EB5a53a8465BE",
+		"symbol": "Empyreal",
+		"name": "Empyreal",
+		"coingecko": "empyreal",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x7189fb5B6504bbfF6a852B13B7B82a3c118fDc27",
+		"symbol": "Ether.fi",
+		"name": "Ether.fi",
+		"coingecko": "ether-fi",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x45940000009600102A1c002F0097C4A500fa00AB",
+		"symbol": "Hermes Protocol",
+		"name": "Hermes Protocol",
+		"coingecko": "hermes-protocol",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xEF00278d7eAdf3b2c05267A2f185E468ad7eab7d",
+		"symbol": "PepePAD",
+		"name": "PepePAD",
+		"coingecko": "pepepad",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x249c48e22E95514Ca975De31f473F30c2f3C0916",
+		"symbol": "USDFI",
+		"name": "USDFI",
+		"coingecko": "usdfi",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x38d693cE1dF5AaDF7bC62595A37D667aD57922e5",
+		"symbol": "Aave v3 FRAX",
+		"name": "Aave v3 FRAX",
+		"coingecko": "aave-v3-frax",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x344C796cc2474e4b779D0e81765AFB91D7741a42",
+		"symbol": "Garffeldo",
+		"name": "Garffeldo",
+		"coingecko": "garffeldo",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xe66998533a1992ecE9eA99cDf47686F4fc8458E0",
+		"symbol": "Jones USDC",
+		"name": "Jones USDC",
+		"coingecko": "jones-usdc",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xA58663FAEF461761e44066ea26c1FCddF2927B80",
+		"symbol": "Kommunitas",
+		"name": "Kommunitas",
+		"coingecko": "kommunitas",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x57f12FE6A4e5fe819eec699FAdf9Db2D06606bB4",
+		"symbol": "NPM",
+		"name": "Neptune Mutual",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x57f12FE6A4e5fe819eec699FAdf9Db2D06606bB4.jpg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x1aAE7De64D9ae1487e95858bbf98185F21e926fd",
+		"symbol": "AICORE",
+		"name": "AICORE",
+		"coingecko": "aicore",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x3419875B4D3Bca7F3FddA2dB7a476A79fD31B4fE",
+		"symbol": "DizzyHavoc",
+		"name": "DizzyHavoc",
+		"coingecko": "dizzyhavoc",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x2389f6A46562AE5f1557Db8562c39Ef553f3832B",
+		"symbol": "KERC",
+		"name": "KERC",
+		"coingecko": "kerc",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x6F5401c53e2769c858665621d22DDBF53D8d27c5",
+		"symbol": "Connect Financial",
+		"name": "Connect Financial",
+		"coingecko": "connect-financial",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x89C49A3fA372920aC23ce757A029e6936c0b8e02",
+		"symbol": "Crypto Unicorns",
+		"name": "Crypto Unicorns",
+		"coingecko": "crypto-unicorns",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x6Aa395F06986ea4eFe0a4630C7865C1eB08D5e7e",
+		"symbol": "Jarvis Reward",
+		"name": "Jarvis Reward",
+		"coingecko": "jarvis-reward-token",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xCF934E2402A5e072928a39a956964eb8F2B5B79C",
+		"symbol": "PoolTogether",
+		"name": "PoolTogether",
+		"coingecko": "pooltogether",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xF9CA0EC182a94f6231Df9b14BD147eF7Fb9FA17C",
+		"symbol": "BONER",
+		"name": "BONER",
+		"coingecko": "boner",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x4D15a3A2286D883AF0AA1B3f21367843FAc63E07",
+		"symbol": "Bridged TrueUSD",
+		"name": "Bridged TrueUSD",
+		"coingecko": "bridged-trueusd",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x6dD963C510c2D2f09d5eDdB48Ede45FeD063Eb36",
+		"symbol": "Factor",
+		"name": "Factor",
+		"coingecko": "factor",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x255f1B39172f65dC6406b8bEE8b08155C45Fe1b6",
+		"symbol": "HarambeCoin",
+		"name": "HarambeCoin",
+		"coingecko": "harambecoin",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x3096e7BFd0878Cc65be71f8899Bc4CFB57187Ba3",
+		"symbol": "Xend Finance",
+		"name": "Xend Finance",
+		"coingecko": "xend-finance",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x3124678D62D2aa1f615B54525310fbfDa6DcF7AE",
+		"symbol": "SNSY",
+		"name": "Sensay",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x3124678D62D2aa1f615B54525310fbfDa6DcF7AE.jpg",
+		"coingecko": "sensay",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x999FAF0AF2fF109938eeFE6A7BF91CA56f0D07e1",
+		"symbol": "Ledgity Token",
+		"name": "Ledgity Token",
+		"coingecko": "ledgity-token",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x76BC2e765414E6C8b596c0f52c4240f80268f41D",
+		"symbol": "Unibit",
+		"name": "Unibit",
+		"coingecko": "unibit",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x2B65F9d2e4B84a2dF6ff0525741b75d1276a9C2F",
+		"symbol": "Staked USD0",
+		"name": "Staked USD0",
+		"coingecko": "usd0-liquid-bond",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x10010078a54396F62c96dF8532dc2B4847d47ED3",
+		"symbol": "HND",
+		"name": "Hundred Finance",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/arbitrum/assets/0x10010078a54396F62c96dF8532dc2B4847d47ED3/logo.png",
+		"coingecko": "hundred-finance",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x35751007a407ca6FEFfE80b3cB397736D2cf4dbe",
+		"symbol": "weETH",
+		"name": "Wrapped eETH",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x35751007a407ca6FEFfE80b3cB397736D2cf4dbe.jpg",
+		"coingecko": "wrapped-eeth",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x82E64f49Ed5EC1bC6e43DAD4FC8Af9bb3A2312EE",
+		"symbol": "Aave v3 DAI",
+		"name": "Aave v3 DAI",
+		"coingecko": "aave-v3-dai",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x7E40b3e0Fd0473E0240288d2b7618AC6f0c17e1b",
+		"symbol": "Stable USDLR",
+		"name": "Stable USDLR",
+		"coingecko": "stable-usdlr",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x292975973200064B1C6453505AeAC5be697F5233",
+		"symbol": "Lumi to da moon",
+		"name": "Lumi to da moon",
+		"coingecko": "lumi-to-da-moon",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xe80772Eaf6e2E18B651F160Bc9158b2A5caFCA65",
+		"symbol": "Overnight.fi USD+ (Arbitrum One)",
+		"name": "Overnight.fi USD+ (Arbitrum One)",
+		"coingecko": "overnight-fi-usd-arbitrum-one",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x6dAF586B7370B14163171544fca24AbcC0862ac5",
+		"symbol": "xPet.tech BPET",
+		"name": "xPet.tech BPET",
+		"coingecko": "xpet-tech-bpet",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xc136E6B376a9946B156db1ED3A34b08AFdAeD76d",
+		"symbol": "CREDA",
+		"name": "CreDA Protocol Token",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/arbitrum/assets/0xc136E6B376a9946B156db1ED3A34b08AFdAeD76d/logo.png",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x1622bF67e6e5747b81866fE0b85178a93C7F86e3",
+		"symbol": "UMAMI",
+		"name": "Umami",
+		"decimals": 9,
+		"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/arbitrum/assets/0x1622bF67e6e5747b81866fE0b85178a93C7F86e3/logo.png",
+		"coingecko": "umami-finance",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xf7693c6fD9a7172D537FA75D133D309501Cbd657",
+		"symbol": "W3N",
+		"name": "Web3 No Value",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xf7693c6fD9a7172D537FA75D133D309501Cbd657.jpg",
+		"coingecko": "web3-no-value",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x4DaFFfDDEa93DdF1e0e7B61E844331455053Ce5c",
+		"symbol": "Dinari NVDA",
+		"name": "Dinari NVDA",
+		"coingecko": "dinari-nvda-dshares",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x0c5fa0E07949F941A6c2C29a008252db1527d6EE",
+		"symbol": "Opulous",
+		"name": "Opulous",
+		"coingecko": "opulous",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xA7Aa2921618e3D63dA433829d448b58C9445A4c3",
+		"symbol": "DVF",
+		"name": "DeversiFi Token",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xDDdddd4301A082e62E84e43F474f044423921918/logo.png",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x07DD5BEAffb65B8fF2e575d500BDf324a05295DC",
+		"symbol": "ArbiPad",
+		"name": "ArbiPad",
+		"coingecko": "arbipad",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xD5954c3084a1cCd70B4dA011E67760B8e78aeE84",
+		"symbol": "Arbidex",
+		"name": "Arbidex",
+		"coingecko": "arbitrum-exchange",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x374A457967Ba24FD3Ae66294cAb08244185574b0",
+		"symbol": "Backed Microsoft",
+		"name": "Backed Microsoft",
+		"coingecko": "backed-microsoft",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xDDf7d080C82b8048BAAe54e376a3406572429b4e",
+		"symbol": "GODDOG",
+		"name": "GODDOG",
+		"coingecko": "goddog",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x11e969e9B3f89cB16D686a03Cd8508C9fC0361AF",
+		"symbol": "Lava Network",
+		"name": "Lava Network",
+		"coingecko": "lava-network",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x7F850b0aB1988Dd17B69aC564c1E2857949e4dEe",
+		"symbol": "Lift Dollar",
+		"name": "Lift Dollar",
+		"coingecko": "lift-dollar",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xB01CF1bE9568f09449382a47Cd5bF58e2A9D5922",
+		"symbol": "Lightspeed",
+		"name": "Lightspeed",
+		"coingecko": "lightspeed",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x0000000000000000000000000000000000000000",
+		"symbol": "ETH",
+		"name": "Ethereum",
+		"decimals": 18,
+		"logo": "https://token-icons.s3.amazonaws.com/eth.png",
+		"coingecko": "ethereum"
+	},
+	{
+		"chain": 42161,
+		"address": "0x05eaeA39f69b24F8F2DA13af2d8Ee0853889f2a8",
+		"symbol": "CygnusDAO",
+		"name": "CygnusDAO",
+		"coingecko": "cygnusdao",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x74ccbe53F77b08632ce0CB91D3A545bF6B8E0979",
+		"symbol": "Fantom Bomb",
+		"name": "Fantom Bomb",
+		"coingecko": "fbomb",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xd41F1f0cf89fD239ca4c1F8E8ADA46345c86b0a4",
+		"symbol": "Fiat24 CHF",
+		"name": "Fiat24 CHF",
+		"coingecko": "fiat24-chf",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xB4B07b60455a2F38cBA98A8f3Dd161f7cA396a9c",
+		"symbol": "Onchain Trade Protocol",
+		"name": "Onchain Trade Protocol",
+		"coingecko": "onchain-trade-protocol",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x59DEBED8D46a0cB823D8BE8b957adD987eAd39aa",
+		"symbol": "Quack Token",
+		"name": "Quack Token",
+		"coingecko": "quack-token",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x4D01397994aA636bDCC65c9e8024bC497498c3bb",
+		"symbol": "Mchain Network",
+		"name": "Mchain Network",
+		"coingecko": "mchain-network",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x739ca6D71365a08f584c8FC4e1029045Fa8ABC4B",
+		"symbol": "wsOHM",
+		"name": "Wrapped sOHM",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/arbitrum/assets/0x739ca6D71365a08f584c8FC4e1029045Fa8ABC4B/logo.png",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x000F1720A263f96532D1ac2bb9CDC12b72C6f386",
+		"symbol": "Fluidity",
+		"name": "Fluidity",
+		"coingecko": "fluidity",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xCA5d8F8a8d49439357d3CF46Ca2e720702F132b8",
+		"symbol": "Gyroscope GYD",
+		"name": "Gyroscope GYD",
+		"coingecko": "gyroscope-gyd",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xB965029343D55189c25a7f3e0c9394DC0F5D41b1",
+		"symbol": "Indexed Finance",
+		"name": "Indexed Finance",
+		"coingecko": "indexed-finance",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x20547341E58fB558637FA15379C92e11F7b7F710",
+		"symbol": "Mozaic",
+		"name": "Mozaic",
+		"coingecko": "mozaic",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xB00eaEDB98F1e30ad545703d8Ff14b24D109514f",
+		"symbol": "Yaku",
+		"name": "Yaku",
+		"coingecko": "yaku",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x10393c20975cF177a3513071bC110f7962CD67da",
+		"symbol": "JONES",
+		"name": "Jones DAO",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x10393c20975cF177a3513071bC110f7962CD67da.jpg",
+		"coingecko": "jones-dao",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x79EaD7a012D97eD8DeEcE279f9bC39e264d7Eef9",
+		"symbol": "Bonsai",
+		"name": "Bonsai",
+		"coingecko": "bonsai",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x488cc08935458403a0458e45E20c0159c8AB2c92",
+		"symbol": "Futureswap",
+		"name": "Futureswap",
+		"coingecko": "futureswap",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x59062301Fb510F4ea2417B67404CB16D31E604BA",
+		"symbol": "LogX Network",
+		"name": "LogX Network",
+		"coingecko": "logx-2",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x000000000026839b3f4181f2cF69336af6153b99",
+		"symbol": "Reboot",
+		"name": "Reboot",
+		"coingecko": "reboot",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xFA5Ed56A203466CbBC2430a43c66b9D8723528E7",
+		"symbol": "agEUR",
+		"name": "agEUR",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xFA5Ed56A203466CbBC2430a43c66b9D8723528E7.jpg",
+		"coingecko": "ageur",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x9cfB13E6c11054ac9fcB92BA89644F30775436e4",
+		"symbol": "Bridged Wrapped stETH (Axelar)",
+		"name": "Bridged Wrapped stETH (Axelar)",
+		"coingecko": "bridged-wrapped-steth-axelar",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xd7b675CD5c84A13d1d0f84509345530f6421b57C",
+		"symbol": "Corridor Finance",
+		"name": "Corridor Finance",
+		"coingecko": "corridor-finance",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xCe38e140fC3982a6bCEbc37b040913EF2Cd6C5a7",
+		"symbol": "Dinari AAPL",
+		"name": "Dinari AAPL",
+		"coingecko": "dinari-aapl-dshares",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xf5A27E55C748bCDdBfeA5477CB9Ae924f0f7fd2e",
+		"symbol": "TheStandard Token",
+		"name": "TheStandard Token",
+		"coingecko": "standard-token",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x11920f139a3121c2836E01551D43F95B3c31159c",
+		"symbol": "YieldBricks",
+		"name": "YieldBricks",
+		"coingecko": "yieldbricks",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x17FC002b466eEc40DaE837Fc4bE5c67993ddBd6F",
+		"symbol": "FRAX",
+		"name": "Frax",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/frax.jpg",
+		"coingecko": "frax",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x1FAe2A29940015632f2a6CE006dFA7E3225515A7",
+		"symbol": "NIFLOKI",
+		"name": "Nitro Floki",
+		"decimals": 9,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x1FAe2A29940015632f2a6CE006dFA7E3225515A7.jpg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34",
+		"symbol": "USDe",
+		"name": "USDe",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34.jpg",
+		"coingecko": "bridged-usde",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x1FC01117E196800f416A577350CB1938d10501C2",
+		"symbol": "Lumin",
+		"name": "Lumin",
+		"coingecko": "lumin",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xBE5ACfd64358805616b5cbD5277B9A85011d7Cf1",
+		"symbol": "Pichi Finance",
+		"name": "Pichi Finance",
+		"coingecko": "pichi-finance",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xabD587f2607542723b17f14d00d99b987C29b074",
+		"symbol": "SmarDex",
+		"name": "SmarDex",
+		"coingecko": "smardex",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x386601d1E55C48E759Bbf57c56015aAd0D7f1b56",
+		"symbol": "Worldwide USD",
+		"name": "Worldwide USD",
+		"coingecko": "worldwide-usd",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x7f5373AE26c3E8FfC4c77b7255DF7eC1A9aF52a6",
+		"symbol": "Bridged Tether (Axelar)",
+		"name": "Bridged Tether (Axelar)",
+		"coingecko": "axelar-usdt",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x7f7d7806F4EB90D63B0b278DAf32a2dB2C2001bD",
+		"symbol": "BonusBlock",
+		"name": "BonusBlock",
+		"coingecko": "bonusblock",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x0B5ac0d7DCf6964609a12aF4f6c6f3C257070193",
+		"symbol": "Dinari RIOT",
+		"name": "Dinari RIOT",
+		"coingecko": "dinari-riot",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xe934AB7e98d81E39477b1E47B961876c2d902598",
+		"symbol": "Nola",
+		"name": "Nola",
+		"coingecko": "nola-2",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xdDd6eBD74684318fa912084a41a01f11B6C277f7",
+		"symbol": "WorkoutApp",
+		"name": "WorkoutApp",
+		"coingecko": "workoutapp",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x3509f19581aFEDEff07c53592bc0Ca84e4855475",
+		"symbol": "xDollar Stablecoin",
+		"name": "xDollar Stablecoin",
+		"coingecko": "xdollar-stablecoin",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xdb96f8efd6865644993505318cc08FF9C42fb9aC",
+		"symbol": "Z2O",
+		"name": "ZeroTwOhm",
+		"decimals": 9,
+		"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/arbitrum/assets/0xdb96f8efd6865644993505318cc08FF9C42fb9aC/logo.png",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x191c10Aa4AF7C30e871E70C95dB0E4eb77237530",
+		"symbol": "Aave v3 LINK",
+		"name": "Aave v3 LINK",
+		"coingecko": "aave-v3-link",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x0f76D32CDccDcbd602A55Af23EAF58FD1eE17245",
+		"symbol": "Backed ERNA $ Bond",
+		"name": "Backed ERNA $ Bond",
+		"coingecko": "backed-erna-bond",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x2b41806CBf1FFB3D9e31A9ECE6B738Bf9D6f645F",
+		"symbol": "ENO",
+		"name": "ENO",
+		"coingecko": "eno",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x188fb5f5Ae5BBE4154d5778F2bbb2Fb985c94d25",
+		"symbol": "OpenBlox",
+		"name": "OpenBlox",
+		"coingecko": "openblox",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x0B63C61bba4a876a6eB8b5e596800F7649A9B71E",
+		"symbol": "Sector",
+		"name": "Sector",
+		"coingecko": "sector",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x417a1aFD44250314BffB11ff68E989775e990ab6",
+		"symbol": "Volta Protocol",
+		"name": "Volta Protocol",
+		"coingecko": "volta-protocol",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x0C4681e6C0235179ec3D4F4fc4DF3d14FDD96017",
+		"symbol": "RDNT",
+		"name": "Radiant",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x0C4681e6C0235179ec3D4F4fc4DF3d14FDD96017.jpg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x3082CC23568eA640225c2467653dB90e9250AaA0",
+		"symbol": "RDNT",
+		"name": "Radiant",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x3082CC23568eA640225c2467653dB90e9250AaA0.jpg",
+		"coingecko": "radiant-capital",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xd4d42F0b6DEF4CE0383636770eF773390d85c61A",
+		"symbol": "SUSHI",
+		"name": "SushiToken",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/sushi.jpg",
+		"coingecko": "sushi",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x057153eb8ad87BD483Ff9EC4E411B8C3BcE90FF0",
+		"symbol": "Octopus Coin",
+		"name": "Octopus Coin",
+		"coingecko": "octopus-coin",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xcAFcD85D8ca7Ad1e1C6F82F651fA15E33AEfD07b",
+		"symbol": "WOO",
+		"name": "Wootrade Network",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/woo.jpg",
+		"coingecko": "woo-network",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x352F4bF396a7353A0877f99e99757E5d294Df374",
+		"symbol": "Sundae the Dog",
+		"name": "Sundae the Dog",
+		"coingecko": "sundae-the-dog",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x0CAAdd427A6Feb5B5Fc1137eB05aA7Ddd9c08ce9",
+		"symbol": "VEE",
+		"name": "VEE",
+		"coingecko": "vee",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xDBB5Cf12408a3Ac17d668037Ce289f9eA75439D7",
+		"symbol": "World Mobile Token",
+		"name": "World Mobile Token",
+		"coingecko": "world-mobile-token",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xf1264873436A0771E440E2b28072FAfcC5EEBd01",
+		"symbol": "Kenshi",
+		"name": "Kenshi",
+		"coingecko": "kenshi-2",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x4C4b907bD5C38D14a084AAC4F511A9B46F7EC429",
+		"symbol": "RB Share",
+		"name": "RB Share",
+		"coingecko": "rb-share",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x299142a6370e1912156E53fBD4f25D7ba49DdcC5",
+		"symbol": "AI Meta Club",
+		"name": "AI Meta Club",
+		"coingecko": "ai-meta-club",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xBEA0005B8599265D41256905A9B3073D397812E4",
+		"symbol": "Bean",
+		"name": "Bean",
+		"coingecko": "bean",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x8038F3C971414FD1FC220bA727F2D4A0fC98cb65",
+		"symbol": "dHEDGE DAO",
+		"name": "dHEDGE DAO",
+		"coingecko": "dhedge-dao",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xDb298285FE4C5410B05390cA80e8Fbe9DE1F259B",
+		"symbol": "handle.fi",
+		"name": "handle.fi",
+		"coingecko": "handle-fi",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x34229B3f16fBCDfA8d8d9d17C0852F9496f4C7BB",
+		"symbol": "IPOR",
+		"name": "IPOR",
+		"coingecko": "ipor",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x75eC618A817EB0A4a7E44aC3dFc64c963DAf921A",
+		"symbol": "Token7007",
+		"name": "Token7007",
+		"coingecko": "token7007",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x354A6dA3fcde098F8389cad84b0182725c6C91dE",
+		"symbol": "COMP",
+		"name": "Compound",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/comp.jpg",
+		"coingecko": "compound-governance-token",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x82e3A8F066a6989666b031d916c43672085b1582",
+		"symbol": "YFI",
+		"name": "yearn.finance",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/yfi.jpg",
+		"coingecko": "yearn-finance",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x7F465507f058e17Ad21623927a120ac05CA32741",
+		"symbol": "Arcadeum",
+		"name": "Arcadeum",
+		"coingecko": "arcadeum",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xa0eEfBBa9c18925FB6bAB26281806772398CcA1f",
+		"symbol": "Dinari UBER",
+		"name": "Dinari UBER",
+		"coingecko": "dinari-uber",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x13654df31871b5d01E5FBa8E6C21A5d0344820f5",
+		"symbol": "Cane Corso",
+		"name": "Cane Corso",
+		"coingecko": "cane-corso",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x6688b00f0c23a4a546BEaAE51a7c90C439895D48",
+		"symbol": "Tarot V1",
+		"name": "Tarot V1",
+		"coingecko": "tarot",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x64343594Ab9b56e99087BfA6F2335Db24c2d1F17",
+		"symbol": "Vesta Stable",
+		"name": "Vesta Stable",
+		"coingecko": "vesta-stable",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x180F7cF38805d1be95C7632F653E26B0838e2969",
+		"symbol": "XDEFI",
+		"name": "XDEFI",
+		"coingecko": "xdefi",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x080F6AEd32Fc474DD5717105Dba5ea57268F46eb",
+		"symbol": "Synapse",
+		"name": "Synapse",
+		"coingecko": "synapse-2",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x17176a9868F321411B15CCb9b934Cf95597E89c4",
+		"symbol": "Good Entry",
+		"name": "Good Entry",
+		"coingecko": "good-entry",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x4Fb21b1dBD1Da7616003Ff3A8EB57AEab3D241f0",
+		"symbol": "impactMarket [OLD]",
+		"name": "impactMarket [OLD]",
+		"coingecko": "impactmarket",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x221A0f68770658C15B525d0F89F5da2baAB5f321",
+		"symbol": "Open Dollar",
+		"name": "Open Dollar",
+		"coingecko": "open-dollar",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x13a78809528b02ad5e7C42F39232D332761DFb1d",
+		"symbol": "Parifi WETH",
+		"name": "Parifi WETH",
+		"coingecko": "parifi-weth",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xafE8107123EeFd62469474DEC9680860B890e5B6",
+		"symbol": "Oil Token",
+		"name": "Oil Token",
+		"coingecko": "oil-token",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xDC8184ba488e949815d4AAfb35B3c56ad03B4179",
+		"symbol": "Roseon",
+		"name": "Roseon",
+		"coingecko": "roseon",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x560363BdA52BC6A44CA6C8c9B4a5FadbDa32fa60",
+		"symbol": "Seedify.fund",
+		"name": "Seedify.fund",
+		"coingecko": "seedify-fund",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x046029F68B0E00eBec2e394D17F70ec848fcf1d2",
+		"symbol": "Stable.com USD3",
+		"name": "Stable.com USD3",
+		"coingecko": "stable-com-usd3",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x09ad12552ec45f82bE90B38dFE7b06332A680864",
+		"symbol": "ARBY",
+		"name": "Adamant Token",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/arbitrum/assets/0x09ad12552ec45f82bE90B38dFE7b06332A680864/logo.png",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x4a24B101728e07A52053c13FB4dB2BcF490CAbc3",
+		"symbol": "Arbius",
+		"name": "Arbius",
+		"coingecko": "arbius",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x0A84edf70F30325151631CE7A61307D1f4D619a3",
+		"symbol": "BonzAI DePIN",
+		"name": "BonzAI DePIN",
+		"coingecko": "bonzai-depin",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xb08D8BeCAB1bf76A9Ce3d2d5fa946F65EC1d3e83",
+		"symbol": "GammaSwap",
+		"name": "GammaSwap",
+		"coingecko": "gammaswap",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x2Ea0bE86990E8Dac0D09e4316Bb92086F304622d",
+		"symbol": "TheStandard USD",
+		"name": "TheStandard USD",
+		"coingecko": "thestandard-usd",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x9F41b34f42058a7b74672055a5fae22c4b113Fd1",
+		"symbol": "Yum",
+		"name": "Yum",
+		"coingecko": "yum",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xbcd4D5AC29E06e4973a1dDcd782cd035d04BC0b7",
+		"symbol": "Quick Intel",
+		"name": "Quick Intel",
+		"coingecko": "quick-intel",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x7f4dB37D7bEb31F445307782Bc3Da0F18dF13696",
+		"symbol": "Yield Yak",
+		"name": "Yield Yak",
+		"coingecko": "yield-yak",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x47dE40eC7AA115FbC1f7b99CA4eFfc46A113De9B",
+		"symbol": "ZAI Stablecoin",
+		"name": "ZAI Stablecoin",
+		"coingecko": "zai-stablecoin",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x78055dAA07035Aa5EBC3e5139C281Ce6312E1b22",
+		"symbol": "PPEGG",
+		"name": "Parrot Egg",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/arbitrum/assets/0x78055dAA07035Aa5EBC3e5139C281Ce6312E1b22/logo.png",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x1C43D05be7E5b54D506e3DdB6f0305e8A66CD04e",
+		"symbol": "ZTX",
+		"name": "ZTX",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x1C43D05be7E5b54D506e3DdB6f0305e8A66CD04e.jpg",
+		"coingecko": "ztx",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x27Bc2757fAb0b8aB406016D1f71d8123452095d3",
+		"symbol": "Landshare",
+		"name": "Landshare",
+		"coingecko": "landshare",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x3212dc0F8c834e4DE893532d27CC9B6001684DB0",
+		"symbol": "Pear Protocol",
+		"name": "Pear Protocol",
+		"coingecko": "pear-protocol",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x306fD3e7b169Aa4ee19412323e1a5995B8c1a1f4",
+		"symbol": "Black Agnus",
+		"name": "Black Agnus",
+		"coingecko": "black-agnus",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x2c5d06f591D0d8cd43Ac232c2B654475a142c7DA",
+		"symbol": "Fiat24 EUR",
+		"name": "Fiat24 EUR",
+		"coingecko": "fiat24-eur",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xEf04804E1e474D3F9B73184D7ef5D786F3Fce930",
+		"symbol": "Wall Street Games",
+		"name": "Wall Street Games",
+		"coingecko": "wall-street-games-2",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xFA58c669B855b29f99374d0F160dB286849D139B",
+		"symbol": "MKC",
+		"name": "MonkeyCoin",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xFA58c669B855b29f99374d0F160dB286849D139B.jpg",
+		"coingecko": "monkeycoin",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xA3d1a8DEB97B111454B294E2324EfAD13a9d8396",
+		"symbol": "OVN",
+		"name": "Overnight Finance",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xA3d1a8DEB97B111454B294E2324EfAD13a9d8396.jpg",
+		"coingecko": "overnight-finance",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xb816688E4B70C9076BD87d45b5309F205ec2cf5f",
+		"symbol": "pOIL",
+		"name": "Poison.Finance Oil Potion",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xb816688E4B70C9076BD87d45b5309F205ec2cf5f.jpg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x6ab707Aca953eDAeFBc4fD23bA73294241490620",
+		"symbol": "Aave v3 USDT",
+		"name": "Aave v3 USDT",
+		"coingecko": "aave-v3-usdt",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xbc011A12Da28e8F0f528d9eE5E7039E22F91cf18",
+		"symbol": "Swell Ethereum",
+		"name": "Swell Ethereum",
+		"coingecko": "sweth",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x60bf4E7cF16Ff34513514b968483B54Beff42a81",
+		"symbol": "ViciCoin",
+		"name": "ViciCoin",
+		"coingecko": "vicicoin",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x8eD4191F81F1e1D24a8a1195267D024d9358c9d7",
+		"symbol": "MAGNET",
+		"name": "Magnethereum",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/Magnethereum/MyFiles/main/magnethereum.jpg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x15b2fb8f08E4Ac1Ce019EADAe02eE92AeDF06851",
+		"symbol": "Chronos Finance",
+		"name": "Chronos Finance",
+		"coingecko": "chronos-finance",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x0c880f6761F1af8d9Aa9C466984b80DAb9a8c9e8",
+		"symbol": "Pendle",
+		"name": "Pendle",
+		"coingecko": "pendle",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xACC51FFDeF63fB0c014c882267C3A17261A5eD50",
+		"symbol": "Stryke",
+		"name": "Stryke",
+		"coingecko": "stryke",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xdadeca1167fe47499e53Eb50F261103630974905",
+		"symbol": "Neuron",
+		"name": "Neuron",
+		"coingecko": "neuron",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x1bD013bD089C2B6b2D30a0e0B545810a5844E761",
+		"symbol": "OtterHome",
+		"name": "OtterHome",
+		"coingecko": "otterhome",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xB766039cc6DB368759C1E56B79AFfE831d0Cc507",
+		"symbol": "Rocket Pool",
+		"name": "Rocket Pool",
+		"coingecko": "rocket-pool",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x9623063377AD1B27544C965cCd7342f7EA7e88C7",
+		"symbol": "The Graph",
+		"name": "The Graph",
+		"coingecko": "the-graph",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xe7f6C3c1F0018E4C08aCC52965e5cbfF99e34A44",
+		"symbol": "plsJONES",
+		"name": "Plutus JONES",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xe7f6C3c1F0018E4C08aCC52965e5cbfF99e34A44.jpg",
+		"coingecko": "plsjones",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x94025780a1aB58868D9B2dBBB775f44b32e8E6e5",
+		"symbol": "BetSwirl",
+		"name": "BetSwirl",
+		"coingecko": "betswirl",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x4D22e37Eb4d71D1acc5f4889a65936D2a44A2f15",
+		"symbol": "Hat",
+		"name": "Hat",
+		"coingecko": "hat",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xa0995d43901551601060447f9aBf93ebc277cEC2",
+		"symbol": "HIPPOP",
+		"name": "HIPPOP",
+		"coingecko": "hippop",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xbE00f3db78688d9704BCb4e0a827aea3a9Cc0D62",
+		"symbol": "Fiat24 USD",
+		"name": "Fiat24 USD",
+		"coingecko": "fiat24-usd",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xc24A365A870821EB83Fd216c9596eDD89479d8d7",
+		"symbol": "GAM3S.GG",
+		"name": "GAM3S.GG",
+		"coingecko": "gam3s-gg",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x580E933D90091b9cE380740E3a4A39c67eB85B4c",
+		"symbol": "GameSwift",
+		"name": "GameSwift",
+		"coingecko": "gameswift",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xC3Ae0333F0F34aa734D5493276223d95B8F9Cb37",
+		"symbol": "DXD",
+		"name": "DXdao",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/dxd.jpg",
+		"coingecko": "dxdao",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x0a1694716DE67c98f61942b2cAB7Df7FE659c87A",
+		"symbol": "Crescentswap Moonlight",
+		"name": "Crescentswap Moonlight",
+		"coingecko": "crescentswap-moonlight",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x28bF1c9Ee2eB746a2d61a0bEc97A344028171d6C",
+		"symbol": "Dinari AMC",
+		"name": "Dinari AMC",
+		"coingecko": "dinari-amc",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x9dA913f4DCa9B210a232d588113047685a4ed4B1",
+		"symbol": "Dinari BRK.A",
+		"name": "Dinari BRK.A",
+		"coingecko": "dinari-brk-a-d",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xe05A08226c49b636ACf99c40Da8DC6aF83CE5bB3",
+		"symbol": "Ankr Staked ETH",
+		"name": "Ankr Staked ETH",
+		"coingecko": "ankreth",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x8B0E6f19Ee57089F7649A455D89D7bC6314D04e8",
+		"symbol": "Dream Machine Token",
+		"name": "Dream Machine Token",
+		"coingecko": "dream-machine-token",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xd4519f4A905c4B6794a146A3852e4f74ceb66f17",
+		"symbol": "LUA Balancing Token",
+		"name": "LUA Balancing Token",
+		"coingecko": "lua-balancing-token",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x00e1724885473B63bCE08a9f0a52F35b0979e35A",
+		"symbol": "OATH",
+		"name": "OATH",
+		"coingecko": "oath",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x21CCbc5e7f353EC43b2F5b1Fb12c3E9D89D30Dca",
+		"symbol": "BlackDragon",
+		"name": "BlackDragon",
+		"coingecko": "blackdragon-token",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x4dEbFb9Ed639144CF1e401674Af361FFFfcefb58",
+		"symbol": "CADAI",
+		"name": "CADAI",
+		"coingecko": "cadai",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xEE0a242F28034fce0BDfAc33c0aD2A58ec35Fd38",
+		"symbol": "Rosa Inu",
+		"name": "Rosa Inu",
+		"coingecko": "rosa-inu",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xF93fc7d6508ae2faF8Fc5675e896Bc38d6e7212C",
+		"symbol": "U Protocol",
+		"name": "U Protocol",
+		"coingecko": "u-protocol",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xf97f4df75117a78c1A5a0DBb814Af92458539FB4",
+		"symbol": "LINK",
+		"name": "ChainLink Token",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/link.jpg",
+		"coingecko": "chainlink",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x55678cd083fcDC2947a0Df635c93C838C89454A3",
+		"symbol": "LON",
+		"name": "Tokenlon",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x55678cd083fcDC2947a0Df635c93C838C89454A3.jpg",
+		"coingecko": "tokenlon",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xc87B37a581ec3257B734886d9d3a581F5A9d056c",
+		"symbol": "Aethir",
+		"name": "Aethir",
+		"coingecko": "aethir",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x5d4974F8543Bc78D43Fd1044ECFdB9D85482aA21",
+		"symbol": "Bitbama",
+		"name": "Bitbama",
+		"coingecko": "bitbama",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x94fCD9c18f99538C0f7C61c5500cA79F0D5C4dab",
+		"symbol": "Kima Network",
+		"name": "Kima Network",
+		"coingecko": "kima",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x0Ae38f7E10A43B5b2fB064B42a2f4514cbA909ef",
+		"symbol": "unshETH Ether",
+		"name": "unshETH Ether",
+		"coingecko": "unsheth-unsheth",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xf3527ef8dE265eAa3716FB312c12847bFBA66Cef",
+		"symbol": "usdx.money USDX",
+		"name": "usdx.money USDX",
+		"coingecko": "usdx-money-usdx",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x3d9907F9a368ad0a51Be60f7Da3b97cf940982D8",
+		"symbol": "Camelot Token",
+		"name": "Camelot Token",
+		"coingecko": "camelot-token",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xed7f000eE335B8199b004cCA1c6f36d188CF6cb8",
+		"symbol": "D2 Finance",
+		"name": "D2 Finance",
+		"coingecko": "d2-token",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x330bD769382cFc6d50175903434CCC8D206DCAE5",
+		"symbol": "Kleros",
+		"name": "Kleros",
+		"coingecko": "kleros",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xF84D28A8D28292842dD73D1c5F99476A80b6666A",
+		"symbol": "OpenEden TBILL",
+		"name": "OpenEden TBILL",
+		"coingecko": "openeden-tbill",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x1B01514A2B3CdEf16fD3c680a818A0Ab97Da8a09",
+		"symbol": "Frax Price Index",
+		"name": "Frax Price Index",
+		"coingecko": "frax-price-index",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x18c11FD286C5EC11c3b683Caa813B77f5163A122",
+		"symbol": "Gains Network",
+		"name": "Gains Network",
+		"coingecko": "gains-network",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x0B5C6ac0E1082F2d81e829B8C2957886e6bb3994",
+		"symbol": "Prism",
+		"name": "Prism",
+		"coingecko": "prism-2",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x65CD2E7d7BAcDaC3AA9dAe68fb5d548dfE1fEFB5",
+		"symbol": "slUSDT",
+		"name": "Shared-liquidity USDT",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x65CD2E7d7BAcDaC3AA9dAe68fb5d548dfE1fEFB5.jpg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xC9C4fd7579133701FA2769b6955e7E56bb386DB1",
+		"symbol": "Bridge Oracle",
+		"name": "Bridge Oracle",
+		"coingecko": "bridge-oracle",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x498Bf2B1e120FeD3ad3D42EA2165E9b73f99C1e5",
+		"symbol": "crvUSD",
+		"name": "crvUSD",
+		"coingecko": "crvusd",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x9C46e1B70d447B770Dbfc8D450543a431aF6DF3A",
+		"symbol": "Dinari USFR",
+		"name": "Dinari USFR",
+		"coingecko": "dinari-usfr-dshares",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x2680E82fB8beb5a153A67Fe687FFa67ABb6b9013",
+		"symbol": "Swarm Markets",
+		"name": "Swarm Markets",
+		"coingecko": "swarm-markets",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x6B2a01A5f79dEb4c2f3c0eDa7b01DF456FbD726a",
+		"symbol": "Universal BTC",
+		"name": "Universal BTC",
+		"coingecko": "universal-btc",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x3d15fD46CE9e551498328B1C83071D9509E2C3a0",
+		"symbol": "Universal ETH",
+		"name": "Universal ETH",
+		"coingecko": "universal-eth",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x99C409E5f62E4bd2AC142f17caFb6810B8F0BAAE",
+		"symbol": "BIFI",
+		"name": "Beefy Finance",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/arbitrum/assets/0x99C409E5f62E4bd2AC142f17caFb6810B8F0BAAE/logo.png",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x867B1Cd06039Eb70385788a048B57F6d4fDC5Dbb",
+		"symbol": "pSLVR",
+		"name": "Poison.Finance Silver Potion",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x867B1Cd06039Eb70385788a048B57F6d4fDC5Dbb.jpg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x6533afac2E7BCCB20dca161449A13A32D391fb00",
+		"symbol": "Aave v3 ARB",
+		"name": "Aave v3 ARB",
+		"coingecko": "aave-v3-arb",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x5A7a183B6B44Dc4EC2E3d2eF43F98C5152b1d76d",
+		"symbol": "Inception Restaked ETH",
+		"name": "Inception Restaked ETH",
+		"coingecko": "genesislrt-restaked-eth",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x2172fAD929E857dDfD7dDC31E24904438434cB0B",
+		"symbol": "Babypie Wrapped BTC",
+		"name": "Babypie Wrapped BTC",
+		"coingecko": "babypie-wrapped-btc",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xd4848211B699503C772aA1Bc7D33b433C4242Ac3",
+		"symbol": "Equilibria Finance ePENDLE",
+		"name": "Equilibria Finance ePENDLE",
+		"coingecko": "equilibria-finance-ependle",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x7a5D193fE4ED9098F7EAdC99797087C96b002907",
+		"symbol": "Plutus ARB",
+		"name": "Plutus ARB",
+		"coingecko": "plutus-arb",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x36295E7De7024362aD95bb8Be93d6D6d21D7F6C1",
+		"symbol": "XGPU AI",
+		"name": "XGPU AI",
+		"coingecko": "xgpu-ai",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x93C15cd7DE26f07265f0272E0b831C5D7fAb174f",
+		"symbol": "LIQD",
+		"name": "Liquid",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x93C15cd7DE26f07265f0272E0b831C5D7fAb174f.jpg",
+		"coingecko": "liquid-finance",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
+		"symbol": "USDC.e",
+		"name": "Bridged USDC",
+		"decimals": 6,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdc.jpg",
+		"coingecko": "usd-coin-ethereum-bridged",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x6099F4CFeAcb9be8d5c3435Da0Ba2853Cd5188E4",
+		"symbol": "Aryze's Digital Gold",
+		"name": "Aryze's Digital Gold",
+		"coingecko": "aryze-s-digital-gold",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x2297aEbD383787A160DD0d9F71508148769342E3",
+		"symbol": "Avalanche Bridged BTC (Arbitrum One)",
+		"name": "Avalanche Bridged BTC (Arbitrum One)",
+		"coingecko": "avalanche-bridged-btc-arbitrum-one",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x34173f9cfb5e8c91a31F5428a588160353F0946C",
+		"symbol": "Eywa",
+		"name": "Eywa",
+		"coingecko": "eywa",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x42069d11A2CC72388a2e06210921E839Cfbd3280",
+		"symbol": "GnomeLand",
+		"name": "GnomeLand",
+		"coingecko": "gnomeland",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x894134a25a5faC1c2C26F1d8fBf05111a3CB9487",
+		"symbol": "Grai",
+		"name": "Grai",
+		"coingecko": "grai",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x589d35656641d6aB57A545F08cf473eCD9B6D5F7",
+		"symbol": "GYEN",
+		"name": "GYEN",
+		"coingecko": "gyen",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x0e15258734300290a651FdBAe8dEb039a8E7a2FA",
+		"symbol": "ALCH",
+		"name": "Alchemy",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/alch.jpg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x69Eb4FA4a2fbd498C257C57Ea8b7655a2559A581",
+		"symbol": "DODO",
+		"name": "DODO bird",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/dodo.jpg",
+		"coingecko": "dodo",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x98A5F77d1feC5D68c9a6DEcB715F11beaBa84F38",
+		"symbol": "NSFW",
+		"name": "Pleasure Coin",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x98A5F77d1feC5D68c9a6DEcB715F11beaBa84F38.jpg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x10663b695b8f75647bD3FF0ff609e16D35BbD1eC",
+		"symbol": "AmpliFi DAO",
+		"name": "AmpliFi DAO",
+		"coingecko": "amplifi-dao",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x25d887Ce7a35172C62FeBFD67a1856F20FaEbB00",
+		"symbol": "Pepe",
+		"name": "Pepe",
+		"coingecko": "pepe",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x80DD74145B8bb10Cef01BF914f796BD8B54d7809",
+		"symbol": "Hepton",
+		"name": "Hepton",
+		"coingecko": "hepton",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xAD4b9c1FbF4923061814dD9d5732EB703FaA53D4",
+		"symbol": "Wicrypt",
+		"name": "Wicrypt",
+		"coingecko": "wicrypt",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x3106E2e148525b3DB36795b04691D444c24972fB",
+		"symbol": "Wrapped Staked LINK",
+		"name": "Wrapped Staked LINK",
+		"coingecko": "wrapped-staked-link",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x8096aD3107715747361acefE685943bFB427C722",
+		"symbol": "CVOL",
+		"name": "Crypto Volatility Token",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x8096aD3107715747361acefE685943bFB427C722.jpg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x8929e9DbD2785e3BA16175E596CDD61520feE0D1",
+		"symbol": "Altitude",
+		"name": "Altitude",
+		"coingecko": "altitude",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x118346C2bb9d24412ed58C53bF9BB6f61A20d7Ec",
+		"symbol": "Dinari PLD",
+		"name": "Dinari PLD",
+		"coingecko": "dinari-pld",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xdce765f021410B3266aA0053c93Cb4535F1e12e0",
+		"symbol": "peg-eUSD",
+		"name": "peg-eUSD",
+		"coingecko": "peg-eusd",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x2C110867CA90e43D372C1C2E92990B00EA32818b",
+		"symbol": "Stabilize",
+		"name": "Stabilize",
+		"coingecko": "stabilize",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x602Eb0D99A5e3e76D1510372C4d2020e12EaEa8a",
+		"symbol": "TridentDAO",
+		"name": "TridentDAO",
+		"coingecko": "tridentdao",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x65c936f008BC34fE819bce9Fa5afD9dc2d49977f",
+		"symbol": "Y2K",
+		"name": "Y2K",
+		"coingecko": "y2k",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x8Eb270e296023E9D92081fdF967dDd7878724424",
+		"symbol": "Aave v3 rETH",
+		"name": "Aave v3 rETH",
+		"coingecko": "aave-v3-reth",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xB6212B633C941E9Be168C4b9C2d9E785F1cD42fb",
+		"symbol": "Bitoro",
+		"name": "Bitoro",
+		"coingecko": "bitoro-network",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xaE6aab43C4f3E0cea4Ab83752C278f8dEbabA689",
+		"symbol": "dForce",
+		"name": "dForce",
+		"coingecko": "dforce-token",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x050C24dBf1eEc17babE5fc585F06116A259CC77A",
+		"symbol": "iBTC",
+		"name": "iBTC",
+		"coingecko": "dlc-link-dlcbtc",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xB64E280e9D1B5DbEc4AcceDb2257A87b400DB149",
+		"symbol": "Level",
+		"name": "Level",
+		"coingecko": "level",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xFdad8EDC724277e975F4955d288C6EB5b20A3146",
+		"symbol": "Nulswap",
+		"name": "Nulswap",
+		"coingecko": "nulswap",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x3De81CE90f5A27C5E6A5aDb04b54ABA488a6d14E",
+		"symbol": "DeltaPrime",
+		"name": "DeltaPrime",
+		"coingecko": "prime-2",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xb1084db8D3C05CEbd5FA9335dF95EE4b8a0edc30",
+		"symbol": "Overnight.fi USDT+",
+		"name": "Overnight.fi USDT+",
+		"coingecko": "usdtplus",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x51318B7D00db7ACc4026C88c3952B66278B6A67F",
+		"symbol": "PLS",
+		"name": "Plutus",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x51318B7D00db7ACc4026C88c3952B66278B6A67F.jpg",
+		"coingecko": "plutusdao",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xb829b68f57CC546dA7E5806A929e53bE32a4625D",
+		"symbol": "Axelar Wrapped Ether",
+		"name": "Axelar Wrapped Ether",
+		"coingecko": "axlweth",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xcaA38bcc8Fb3077975BBE217aCFaA449e6596a84",
+		"symbol": "DAO Maker",
+		"name": "DAO Maker",
+		"coingecko": "dao-maker",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x3404149e9EE6f17Fb41DB1Ce593ee48FBDcD9506",
+		"symbol": "Hydranet",
+		"name": "Hydranet",
+		"coingecko": "hydranet",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x50E401255275dc405A99d3281f396cCa681eEa9d",
+		"symbol": "Kortana",
+		"name": "Kortana",
+		"coingecko": "kortana",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x4DD40ec670722067241b4396dBD253c38dd820b5",
+		"symbol": "MTMS Network",
+		"name": "MTMS Network",
+		"coingecko": "mtms-network",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x000D636bD52BFc1B3a699165Ef5aa340BEA8939c",
+		"symbol": "Open Dollar Governance",
+		"name": "Open Dollar Governance",
+		"coingecko": "open-dollar-governance",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x9500Ba777560daf9d3AB148ea1cf1ED39Df9eBDb",
+		"symbol": "STYLE Token",
+		"name": "STYLE Token",
+		"coingecko": "style-protocol-2",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x4810E5A7741ea5fdbb658eDA632ddfAc3b19e3c6",
+		"symbol": "Arbitrum Ecosystem Index",
+		"name": "Arbitrum Ecosystem Index",
+		"coingecko": "arbitrum-ecosystem-index",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x9DCE8e754913d928eB39Bc4fC3CF047e364f7f2C",
+		"symbol": "Bloktopia",
+		"name": "Bloktopia",
+		"coingecko": "bloktopia",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x894A3abB764A0EF5Da69C62336aC3c15B88bf106",
+		"symbol": "Chunks",
+		"name": "Chunks",
+		"coingecko": "chunks",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xa334884bF6b0A066d553D19e507315E839409e62",
+		"symbol": "Ethos Reserve Note",
+		"name": "Ethos Reserve Note",
+		"coingecko": "ethos-reserve-note",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xE82335d58abb1cd44Cd5F47cF7f5b378E4c32F05",
+		"symbol": "SuperCells",
+		"name": "SuperCells",
+		"coingecko": "supercells-2",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x51707DC661630F8FD624b985FA6eF4f1d4D919Db",
+		"symbol": "Unvest",
+		"name": "Unvest",
+		"coingecko": "unvest",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xf7A0dd3317535eC4f4d29ADF9d620B3d8D5D5069",
+		"symbol": "Staked Ethos Reserve Note",
+		"name": "Staked Ethos Reserve Note",
+		"coingecko": "staked-ethos-reserve-note",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x7B5EB3940021Ec0e8e463D5dBB4B7B09a89DDF96",
+		"symbol": "Wombat Exchange",
+		"name": "Wombat Exchange",
+		"coingecko": "wombat-exchange",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x32e4d98d3010AC12d75019C484cAA78665B03986",
+		"symbol": "GBOT",
+		"name": "GBOT",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x32e4d98d3010AC12d75019C484cAA78665B03986.jpg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x323665443CEf804A3b5206103304BD4872EA4253",
+		"symbol": "USDV",
+		"name": "USDV",
+		"decimals": 6,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x323665443CEf804A3b5206103304BD4872EA4253.jpg",
+		"coingecko": "verified-usd-foundation-usdv",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xEEac5E75216571773C0064b3B591A86253791DB6",
+		"symbol": "ELLERIUM",
+		"name": "ELLERIUM",
+		"coingecko": "ellerium",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x93b346b6BC2548dA6A1E7d98E9a421B42541425b",
+		"symbol": "Liquity USD",
+		"name": "Liquity USD",
+		"coingecko": "liquity-usd",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xfc675adFDd721064ba923D07A8A238A9e52D8aCE",
+		"symbol": "escrowed PRF",
+		"name": "escrowed PRF",
+		"coingecko": "escrowed-prf",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x577Fd586c9E6BA7f2E85E025D5824DBE19896656",
+		"symbol": "Synonym Finance",
+		"name": "Synonym Finance",
+		"coingecko": "synonym-finance",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+		"symbol": "WETH",
+		"name": "Wrapped Ether",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/eth.jpg",
+		"coingecko": "arbitrum-bridged-weth-arbitrum-one",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xba5DdD1f9d7F570dc94a51479a000E3BCE967196",
+		"symbol": "Aave",
+		"name": "Aave",
+		"coingecko": "aave",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x493070ef5280E7A275A106A30b0414dbDb21fEbd",
+		"symbol": "AI Supreme",
+		"name": "AI Supreme",
+		"coingecko": "ai-supreme",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x9cCe9aE579142e372a8959285e3a5a2e211904F7",
+		"symbol": "DGWToken",
+		"name": "DGWToken",
+		"coingecko": "dgwtoken",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x079504b86d38119F859c4194765029F692b7B7aa",
+		"symbol": "Lyra Finance",
+		"name": "Lyra Finance",
+		"coingecko": "lyra-finance",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x2Ac2B254Bc18cD4999f64773a966E4f4869c34Ee",
+		"symbol": "Penpie",
+		"name": "Penpie",
+		"coingecko": "penpie",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x39A49bc5017Fc668299Cd32e734C9269aCc35295",
+		"symbol": "Phonon DAO",
+		"name": "Phonon DAO",
+		"coingecko": "phonon-dao",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x54BDBF3cE36f451Ec61493236b8E6213ac87c0f6",
+		"symbol": "Radpie",
+		"name": "Radpie",
+		"coingecko": "radpie",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x912CE59144191C1204E64559FE8253a0e49E6548",
+		"symbol": "ARB",
+		"name": "Arbitrum",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network-logos/arbitrum.jpg",
+		"coingecko": "arbitrum",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x9f20de1fc9b161b34089cbEAE888168B44b03461",
+		"symbol": "ARBIS",
+		"name": "Arbis",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/arbitrum/assets/0x9f20de1fc9b161b34089cbEAE888168B44b03461/logo.png",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0xB9AF4762c039D63e30039F1712dfaB77026408c7",
+		"symbol": "BullBear AI",
+		"name": "BullBear AI",
+		"coingecko": "bullbear-ai",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42161,
+		"address": "0x4727a7D2022e99eE5c298513b730307F458f9B40",
+		"symbol": "Guberto",
+		"name": "Guberto",
+		"coingecko": "guberto",
+		"sources": [
+			"coingecko"
+		]
+	}
+]

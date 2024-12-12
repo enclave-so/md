@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x75D8BB7fBd4782a134211dc350Ba5c715197B81d",
+	"symbol": "Alltoscan",
+	"name": "Alltoscan",
+	"coingecko": "alltoscan",
+	"sources": [
+		"coingecko"
+	]
+}

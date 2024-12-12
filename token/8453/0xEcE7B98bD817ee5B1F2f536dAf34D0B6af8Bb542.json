@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xEcE7B98bD817ee5B1F2f536dAf34D0B6af8Bb542",
+	"symbol": "Just a Black Rock on Base",
+	"name": "Just a Black Rock on Base",
+	"coingecko": "just-a-black-rock-on-base",
+	"sources": [
+		"coingecko"
+	]
+}

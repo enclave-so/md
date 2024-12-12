@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x726a54E04f394b6e44e58a2D7CB0fEc61361D10E",
+	"symbol": "NAWS.AI",
+	"name": "NAWS.AI",
+	"coingecko": "naws-ai",
+	"sources": [
+		"coingecko"
+	]
+}

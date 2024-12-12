@@ -1,0 +1,10 @@
+{
+	"chain": 8822,
+	"address": "0xBc51E6807F31C3E4E21Df7fB8e4F94a500D27E8b",
+	"symbol": "Cyberperp",
+	"name": "Cyberperp",
+	"coingecko": "cyberperp",
+	"sources": [
+		"coingecko"
+	]
+}

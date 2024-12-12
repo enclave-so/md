@@ -1,0 +1,10 @@
+{
+	"chain": 42220,
+	"address": "0x7D00cd74FF385c955EA3d79e47BF06bD7386387D",
+	"symbol": "mCELO",
+	"name": "mCELO",
+	"coingecko": "mcelo",
+	"sources": [
+		"coingecko"
+	]
+}

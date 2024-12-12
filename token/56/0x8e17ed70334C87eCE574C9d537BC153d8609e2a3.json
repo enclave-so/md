@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x8e17ed70334C87eCE574C9d537BC153d8609e2a3",
+	"symbol": "WazirX",
+	"name": "WazirX",
+	"coingecko": "wazirx",
+	"sources": [
+		"coingecko"
+	]
+}

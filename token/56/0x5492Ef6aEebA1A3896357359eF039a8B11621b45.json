@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x5492Ef6aEebA1A3896357359eF039a8B11621b45",
+	"symbol": "Chumbi Valley",
+	"name": "Chumbi Valley",
+	"coingecko": "chumbai-valley",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xc2CB89bBB5BBA6E21db1dFe13493Dfd7dCBabD68",
+	"symbol": "Manga",
+	"name": "Manga",
+	"coingecko": "manga-token",
+	"sources": [
+		"coingecko"
+	]
+}

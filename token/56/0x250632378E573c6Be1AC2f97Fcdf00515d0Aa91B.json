@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x250632378E573c6Be1AC2f97Fcdf00515d0Aa91B",
+	"symbol": "Binance ETH staking",
+	"name": "Binance ETH staking",
+	"coingecko": "binance-eth",
+	"sources": [
+		"coingecko"
+	]
+}

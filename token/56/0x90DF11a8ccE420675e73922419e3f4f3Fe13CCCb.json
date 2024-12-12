@@ -1,0 +1,11 @@
+{
+	"chain": 56,
+	"address": "0x90DF11a8ccE420675e73922419e3f4f3Fe13CCCb",
+	"symbol": "STM",
+	"name": "Streamity",
+	"decimals": 18,
+	"logo": "https://bscscan.com/token/images/streamity_32.png",
+	"sources": [
+		"sushiswap"
+	]
+}

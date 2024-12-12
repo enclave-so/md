@@ -1,0 +1,10 @@
+{
+	"chain": 42220,
+	"address": "0x17700282592D6917F6A73D0bF8AcCf4D578c131e",
+	"symbol": "Moola Market",
+	"name": "Moola Market",
+	"coingecko": "moola-market",
+	"sources": [
+		"coingecko"
+	]
+}

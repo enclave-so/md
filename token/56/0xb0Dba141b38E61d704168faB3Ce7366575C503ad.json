@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xb0Dba141b38E61d704168faB3Ce7366575C503ad",
+	"symbol": "Orenium Protocol",
+	"name": "Orenium Protocol",
+	"coingecko": "orenium-protocol",
+	"sources": [
+		"coingecko"
+	]
+}

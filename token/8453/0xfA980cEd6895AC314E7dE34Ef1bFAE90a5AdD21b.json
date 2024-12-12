@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xfA980cEd6895AC314E7dE34Ef1bFAE90a5AdD21b",
+	"symbol": "Echelon Prime",
+	"name": "Echelon Prime",
+	"coingecko": "echelon-prime",
+	"sources": [
+		"coingecko"
+	]
+}

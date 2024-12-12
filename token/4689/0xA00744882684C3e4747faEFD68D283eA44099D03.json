@@ -1,0 +1,10 @@
+{
+	"chain": 4689,
+	"address": "0xA00744882684C3e4747faEFD68D283eA44099D03",
+	"symbol": "Wrapped IoTex",
+	"name": "Wrapped IoTex",
+	"coingecko": "wrapped-iotex",
+	"sources": [
+		"coingecko"
+	]
+}

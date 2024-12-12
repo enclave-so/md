@@ -1,0 +1,10 @@
+{
+	"chain": 7225878,
+	"address": "0x557a526472372f1F222EcC6af8818C1e6e78A85f",
+	"symbol": "Wrapped Oasys",
+	"name": "Wrapped Oasys",
+	"coingecko": "wrapped-oasys",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x6921B130D297cc43754afba22e5EAc0FBf8Db75b",
+	"symbol": "doginme",
+	"name": "doginme",
+	"coingecko": "doginme",
+	"sources": [
+		"coingecko"
+	]
+}

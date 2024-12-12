@@ -1,0 +1,10 @@
+{
+	"chain": 8217,
+	"address": "0xd85EFF20288ca72eA9eEcFFb428F89EE5066CA5C",
+	"symbol": "ISKRA Token",
+	"name": "ISKRA Token",
+	"coingecko": "iskra-token",
+	"sources": [
+		"coingecko"
+	]
+}

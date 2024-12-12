@@ -1,0 +1,52 @@
+[
+	{
+		"chain": 32520,
+		"address": "0xcf2DF9377A4e3C10e9EA29fDB8879d74C27FCDE7",
+		"symbol": "Bridged USDC",
+		"name": "Bridged USDC",
+		"coingecko": "bridged-usdc",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 32520,
+		"address": "0xDe14b85cf78F2ADd2E867FEE40575437D5f10c06",
+		"symbol": "Bridged USDT",
+		"name": "Bridged USDT",
+		"coingecko": "bridged-usdt",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 32520,
+		"address": "0xB999Ea90607a826A3E6E6646B404c3C7d11fa39D",
+		"symbol": "IceCreamSwap",
+		"name": "IceCreamSwap",
+		"coingecko": "icecream",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 32520,
+		"address": "0xc3b730dD10A7e9A69204bDf6cb5A426e4f1F09E3",
+		"symbol": "LunaGens",
+		"name": "LunaGens",
+		"coingecko": "lunagens",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 32520,
+		"address": "0x3f3d3A2A698AF53676CeF6ACA6Bfe6a0cE913C0C",
+		"symbol": "Sphynx Labs",
+		"name": "Sphynx Labs",
+		"coingecko": "sphynx-labs-bae5b42e-5e37-4607-8691-b56d3a5f344c",
+		"sources": [
+			"coingecko"
+		]
+	}
+]

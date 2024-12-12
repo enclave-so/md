@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x9B700B043e9587ddE9a0c29A9483e2F8FA450d54",
+	"symbol": "AxonDAO Governance Token",
+	"name": "AxonDAO Governance Token",
+	"coingecko": "axondao-governance-token",
+	"sources": [
+		"coingecko"
+	]
+}

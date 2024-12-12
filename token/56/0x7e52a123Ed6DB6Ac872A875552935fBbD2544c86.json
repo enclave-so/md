@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x7e52a123Ed6DB6Ac872A875552935fBbD2544c86",
+	"symbol": "myDid",
+	"name": "myDid",
+	"coingecko": "xsl-labs",
+	"sources": [
+		"coingecko"
+	]
+}

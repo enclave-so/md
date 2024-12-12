@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x9Fb9a33956351cf4fa040f65A13b835A3C8764E3",
+	"symbol": "Multichain (BSC)",
+	"name": "Multichain (BSC)",
+	"coingecko": "multichain-bsc",
+	"sources": [
+		"coingecko"
+	]
+}

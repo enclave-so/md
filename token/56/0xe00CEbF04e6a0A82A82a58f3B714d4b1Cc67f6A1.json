@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xe00CEbF04e6a0A82A82a58f3B714d4b1Cc67f6A1",
+	"symbol": "BTRIPS",
+	"name": "BTRIPS",
+	"coingecko": "btrips",
+	"sources": [
+		"coingecko"
+	]
+}

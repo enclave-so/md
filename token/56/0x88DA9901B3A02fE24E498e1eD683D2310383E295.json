@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x88DA9901B3A02fE24E498e1eD683D2310383E295",
+	"symbol": "Baby Grok",
+	"name": "Baby Grok",
+	"coingecko": "baby-grok",
+	"sources": [
+		"coingecko"
+	]
+}

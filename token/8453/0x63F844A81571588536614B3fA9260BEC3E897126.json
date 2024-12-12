@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x63F844A81571588536614B3fA9260BEC3E897126",
+	"symbol": "BREX",
+	"name": "BREX",
+	"coingecko": "brex",
+	"sources": [
+		"coingecko"
+	]
+}

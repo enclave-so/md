@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x708739980021A0b0B2E555383fE1283697e140e9",
+	"symbol": "Metacourt",
+	"name": "Metacourt",
+	"coingecko": "blocsport-one",
+	"sources": [
+		"coingecko"
+	]
+}

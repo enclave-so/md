@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xde73e4852f8f7B07aA044190787F33750Df04f56",
+	"symbol": "Lemonschain",
+	"name": "Lemonschain",
+	"coingecko": "lemonschain",
+	"sources": [
+		"coingecko"
+	]
+}

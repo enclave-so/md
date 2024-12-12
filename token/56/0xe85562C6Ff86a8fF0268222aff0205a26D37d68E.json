@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xe85562C6Ff86a8fF0268222aff0205a26D37d68E",
+	"symbol": "TOP PROTOCOL",
+	"name": "TOP PROTOCOL",
+	"coingecko": "top-protocol",
+	"sources": [
+		"coingecko"
+	]
+}

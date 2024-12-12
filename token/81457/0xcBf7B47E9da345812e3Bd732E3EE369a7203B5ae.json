@@ -1,0 +1,10 @@
+{
+	"chain": 81457,
+	"address": "0xcBf7B47E9da345812e3Bd732E3EE369a7203B5ae",
+	"symbol": "pSTAKE Finance",
+	"name": "pSTAKE Finance",
+	"coingecko": "pstake-finance",
+	"sources": [
+		"coingecko"
+	]
+}

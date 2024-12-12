@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xe388A9a5bFD958106ADeB79df10084a8b1D9a5aB",
+	"symbol": "Lordy",
+	"name": "Lordy",
+	"coingecko": "base-lord",
+	"sources": [
+		"coingecko"
+	]
+}

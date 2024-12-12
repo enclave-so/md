@@ -1,0 +1,10 @@
+{
+	"chain": 8217,
+	"address": "0x9eaeFb09fe4aABFbE6b1ca316a3c36aFC83A393F",
+	"symbol": "Orbit Bridge Klaytn Ripple",
+	"name": "Orbit Bridge Klaytn Ripple",
+	"coingecko": "orbit-bridge-klaytn-ripple",
+	"sources": [
+		"coingecko"
+	]
+}

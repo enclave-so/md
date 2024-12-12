@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xa835f70dd5f8B4F0023509f8f36C155785758dB0",
+	"symbol": "Cheeky Dawg",
+	"name": "Cheeky Dawg",
+	"coingecko": "cheeky-dawg",
+	"sources": [
+		"coingecko"
+	]
+}

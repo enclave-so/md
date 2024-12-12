@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xC79d1fD14F514cD713b5cA43D288a782Ae53eAb2",
+	"symbol": "Xcel Defi",
+	"name": "Xcel Defi",
+	"coingecko": "xcel-swap",
+	"sources": [
+		"coingecko"
+	]
+}

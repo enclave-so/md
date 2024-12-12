@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x88e4adC30B5DD08122d55B0CEf013062A94986Da",
+	"symbol": "CRT AI Network",
+	"name": "CRT AI Network",
+	"coingecko": "crt-ai-network",
+	"sources": [
+		"coingecko"
+	]
+}

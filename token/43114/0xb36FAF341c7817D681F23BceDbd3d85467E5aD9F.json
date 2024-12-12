@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0xb36FAF341c7817D681F23BceDbd3d85467E5aD9F",
+	"symbol": "Red Pepe",
+	"name": "Red Pepe",
+	"coingecko": "red-pepe-2",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x004aA1586011F3454f487Eac8d0D5c647D646C69",
+	"symbol": "DogeVerse",
+	"name": "DogeVerse",
+	"coingecko": "dogeverse",
+	"sources": [
+		"coingecko"
+	]
+}

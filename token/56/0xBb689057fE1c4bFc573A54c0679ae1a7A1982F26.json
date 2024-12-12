@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xBb689057fE1c4bFc573A54c0679ae1a7A1982F26",
+	"symbol": "Shelling",
+	"name": "Shelling",
+	"coingecko": "shelling",
+	"sources": [
+		"coingecko"
+	]
+}

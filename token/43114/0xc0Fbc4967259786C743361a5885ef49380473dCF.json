@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0xc0Fbc4967259786C743361a5885ef49380473dCF",
+	"symbol": "Aleph.im",
+	"name": "Aleph.im",
+	"coingecko": "aleph",
+	"sources": [
+		"coingecko"
+	]
+}

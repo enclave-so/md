@@ -1,0 +1,11 @@
+{
+	"chain": 43288,
+	"address": "0x4200000000000000000000000000000000000023",
+	"symbol": "AVAX",
+	"name": "Avax",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/avax.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

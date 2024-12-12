@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xF0902eB0049A4003793BAb33F3566A22D2834442",
+	"symbol": "Glitch Protocol",
+	"name": "Glitch Protocol",
+	"coingecko": "glitch-protocol",
+	"sources": [
+		"coingecko"
+	]
+}

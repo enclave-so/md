@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xaF2F53cc6cc0384aba52275b0f715851Fb5AFf94",
+	"symbol": "Mobipad",
+	"name": "Mobipad",
+	"coingecko": "mobipad",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xA1A0C7849e6916945a78F8AF843738c051ab15F3",
+	"symbol": "MetaMoon",
+	"name": "MetaMoon",
+	"coingecko": "metamoon",
+	"sources": [
+		"coingecko"
+	]
+}

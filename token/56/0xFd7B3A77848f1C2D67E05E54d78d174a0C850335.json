@@ -1,0 +1,13 @@
+{
+	"chain": 56,
+	"address": "0xFd7B3A77848f1C2D67E05E54d78d174a0C850335",
+	"symbol": "ONT",
+	"name": "Ontology Token",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/ont.jpg",
+	"coingecko": "binance-peg-ontology",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

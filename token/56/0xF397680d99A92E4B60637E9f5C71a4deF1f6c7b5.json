@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xF397680d99A92E4B60637E9f5C71a4deF1f6c7b5",
+	"symbol": "FlightClupcoin",
+	"name": "FlightClupcoin",
+	"coingecko": "flightclupcoin",
+	"sources": [
+		"coingecko"
+	]
+}

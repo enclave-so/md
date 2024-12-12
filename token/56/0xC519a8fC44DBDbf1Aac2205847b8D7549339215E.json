@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xC519a8fC44DBDbf1Aac2205847b8D7549339215E",
+	"symbol": "Anagata",
+	"name": "Anagata",
+	"coingecko": "anagata",
+	"sources": [
+		"coingecko"
+	]
+}

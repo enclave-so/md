@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x6888c2409D48222E2CB738eB5a805A522a96CE80",
+	"symbol": "/treeplanting",
+	"name": "/treeplanting",
+	"coingecko": "treeplanting",
+	"sources": [
+		"coingecko"
+	]
+}

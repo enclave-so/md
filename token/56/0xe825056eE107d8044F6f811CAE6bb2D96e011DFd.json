@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xe825056eE107d8044F6f811CAE6bb2D96e011DFd",
+	"symbol": "PBIE",
+	"name": "PBIE",
+	"coingecko": "pbie",
+	"sources": [
+		"coingecko"
+	]
+}

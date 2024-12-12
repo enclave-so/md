@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x2Da56AcB9Ea78330f947bD57C54119Debda7AF71",
+	"symbol": "Mog Coin",
+	"name": "Mog Coin",
+	"coingecko": "mog-coin",
+	"sources": [
+		"coingecko"
+	]
+}

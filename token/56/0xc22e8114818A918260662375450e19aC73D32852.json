@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xc22e8114818A918260662375450e19aC73D32852",
+	"symbol": "KittyCake",
+	"name": "KittyCake",
+	"coingecko": "kittycake",
+	"sources": [
+		"coingecko"
+	]
+}

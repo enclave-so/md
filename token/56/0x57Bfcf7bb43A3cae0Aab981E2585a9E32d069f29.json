@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x57Bfcf7bb43A3cae0Aab981E2585a9E32d069f29",
+	"symbol": "Real World Assets",
+	"name": "Real World Assets",
+	"coingecko": "real-world-assets",
+	"sources": [
+		"coingecko"
+	]
+}

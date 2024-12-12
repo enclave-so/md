@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xC1d5892e28ea1C5eCd9fAc7771b9D06802F321e0",
+	"symbol": "Funded",
+	"name": "Funded",
+	"coingecko": "funded-2",
+	"sources": [
+		"coingecko"
+	]
+}

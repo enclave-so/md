@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xfa2E4eC5a818C2D2C352f4b152C06338D476b646",
+	"symbol": "XPX",
+	"name": "XPX",
+	"coingecko": "xpx",
+	"sources": [
+		"coingecko"
+	]
+}

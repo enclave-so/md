@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xdf1f7AdF59a178BA83f6140a4930cf3BEB7b73BF",
+	"symbol": "Denarius MXD",
+	"name": "Denarius MXD",
+	"coingecko": "denarius-mxd",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x9678E42ceBEb63F23197D726B29b1CB20d0064E5",
+	"symbol": "Binance-Peg IoTeX",
+	"name": "Binance-Peg IoTeX",
+	"coingecko": "binance-peg-iotex",
+	"sources": [
+		"coingecko"
+	]
+}

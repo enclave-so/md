@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x80dbA9C32b7aB5445e482387A5522e24C0Ba4C24",
+	"symbol": "extraDNA",
+	"name": "extraDNA",
+	"coingecko": "extradna",
+	"sources": [
+		"coingecko"
+	]
+}

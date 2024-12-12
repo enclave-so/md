@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x9F6651f7147C4ec16357D0a56122e52C3c804b50",
+	"symbol": "CODAI",
+	"name": "CODAI",
+	"coingecko": "codai",
+	"sources": [
+		"coingecko"
+	]
+}

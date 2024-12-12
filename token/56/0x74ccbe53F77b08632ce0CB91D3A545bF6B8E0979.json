@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x74ccbe53F77b08632ce0CB91D3A545bF6B8E0979",
+	"symbol": "Fantom Bomb",
+	"name": "Fantom Bomb",
+	"coingecko": "fbomb",
+	"sources": [
+		"coingecko"
+	]
+}

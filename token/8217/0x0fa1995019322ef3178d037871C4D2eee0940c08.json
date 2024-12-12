@@ -1,0 +1,10 @@
+{
+	"chain": 8217,
+	"address": "0x0fa1995019322ef3178d037871C4D2eee0940c08",
+	"symbol": "Tari World",
+	"name": "Tari World",
+	"coingecko": "tari-world",
+	"sources": [
+		"coingecko"
+	]
+}

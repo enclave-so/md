@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xb972C4027818223BB7b9399b3cA3cA58186e1590",
+	"symbol": "Supe Infinity",
+	"name": "Supe Infinity",
+	"coingecko": "supe-infinity",
+	"sources": [
+		"coingecko"
+	]
+}

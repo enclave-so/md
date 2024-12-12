@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x7B9F36a2F331EcE03a7483D2713Cfd806f9bEef2",
+	"symbol": "Iris Ecosystem",
+	"name": "Iris Ecosystem",
+	"coingecko": "iris-ecosystem",
+	"sources": [
+		"coingecko"
+	]
+}

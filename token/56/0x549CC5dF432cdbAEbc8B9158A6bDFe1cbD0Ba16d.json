@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x549CC5dF432cdbAEbc8B9158A6bDFe1cbD0Ba16d",
+	"symbol": "Howl City",
+	"name": "Howl City",
+	"coingecko": "howl-city",
+	"sources": [
+		"coingecko"
+	]
+}

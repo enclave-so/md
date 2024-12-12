@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x633237C6FA30FAe46Cc5bB22014DA30e50a718cC",
+	"symbol": "Defi Warrior",
+	"name": "Defi Warrior",
+	"coingecko": "defi-warrior",
+	"sources": [
+		"coingecko"
+	]
+}

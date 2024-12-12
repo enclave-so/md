@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xB1A1D06d42A43a8FCfDC7FDcd744f7eF03e8ad1a",
+	"symbol": "HongKongDAO",
+	"name": "HongKongDAO",
+	"coingecko": "hongkongdao",
+	"sources": [
+		"coingecko"
+	]
+}

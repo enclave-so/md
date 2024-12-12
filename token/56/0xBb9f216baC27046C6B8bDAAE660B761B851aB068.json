@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xBb9f216baC27046C6B8bDAAE660B761B851aB068",
+	"symbol": "Foho Coin",
+	"name": "Foho Coin",
+	"coingecko": "foho-coin",
+	"sources": [
+		"coingecko"
+	]
+}

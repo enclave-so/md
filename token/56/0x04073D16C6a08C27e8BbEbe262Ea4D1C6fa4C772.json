@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x04073D16C6a08C27e8BbEbe262Ea4D1C6fa4C772",
+	"symbol": "Metaverse Miner",
+	"name": "Metaverse Miner",
+	"coingecko": "metaverse-miner",
+	"sources": [
+		"coingecko"
+	]
+}

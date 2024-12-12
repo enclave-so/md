@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x8578Eb576e126f67913a8bC0622e0A22EBa0989A",
+	"symbol": "HashPanda",
+	"name": "HashPanda",
+	"coingecko": "hashpanda",
+	"sources": [
+		"coingecko"
+	]
+}

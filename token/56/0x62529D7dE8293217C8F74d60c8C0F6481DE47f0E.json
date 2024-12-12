@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x62529D7dE8293217C8F74d60c8C0F6481DE47f0E",
+	"symbol": "Daylight Protocol",
+	"name": "Daylight Protocol",
+	"coingecko": "daylight-protocol",
+	"sources": [
+		"coingecko"
+	]
+}

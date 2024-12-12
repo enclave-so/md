@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xf1e5bbd997501a8439619266A09a54b2b499eAA3",
+	"symbol": "Archethic",
+	"name": "Archethic",
+	"coingecko": "archethic",
+	"sources": [
+		"coingecko"
+	]
+}

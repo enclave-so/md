@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x766e09665a8128D9F7Fd9d90BCD3d9cdc50b067F",
+	"symbol": "Love Moli",
+	"name": "Love Moli",
+	"coingecko": "love-moli",
+	"sources": [
+		"coingecko"
+	]
+}

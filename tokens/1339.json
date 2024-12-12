@@ -1,0 +1,12 @@
+[
+	{
+		"chain": 1339,
+		"address": "0xc6E4564f2B74Ef481D40329cD6c0f1C0e830A347",
+		"symbol": "WRYON",
+		"name": "WRYON",
+		"coingecko": "wryon",
+		"sources": [
+			"coingecko"
+		]
+	}
+]

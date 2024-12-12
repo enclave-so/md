@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x0A232cb2005Bda62D3DE7Ab5DEb3ffe4c456165a",
+	"symbol": "Finance Vote",
+	"name": "Finance Vote",
+	"coingecko": "finance-vote",
+	"sources": [
+		"coingecko"
+	]
+}

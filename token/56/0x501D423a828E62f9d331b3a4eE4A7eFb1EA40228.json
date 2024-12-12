@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x501D423a828E62f9d331b3a4eE4A7eFb1EA40228",
+	"symbol": "Chonk The Cat",
+	"name": "Chonk The Cat",
+	"coingecko": "chonk-the-cat",
+	"sources": [
+		"coingecko"
+	]
+}

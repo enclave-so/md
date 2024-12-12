@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x19c018e13CFf682e729CC7b5Fb68c8A641bf98A4",
+	"symbol": "BurnedFi",
+	"name": "BurnedFi",
+	"coingecko": "burnedfi",
+	"sources": [
+		"coingecko"
+	]
+}

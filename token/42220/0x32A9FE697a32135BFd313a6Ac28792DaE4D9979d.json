@@ -1,0 +1,11 @@
+{
+	"chain": 42220,
+	"address": "0x32A9FE697a32135BFd313a6Ac28792DaE4D9979d",
+	"symbol": "cMCO2",
+	"name": "Celo Moss Carbon Credit",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/cmco2.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

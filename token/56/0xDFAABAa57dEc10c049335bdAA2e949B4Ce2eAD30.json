@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xDFAABAa57dEc10c049335bdAA2e949B4Ce2eAD30",
+	"symbol": "Catbonk",
+	"name": "Catbonk",
+	"coingecko": "catbonk",
+	"sources": [
+		"coingecko"
+	]
+}

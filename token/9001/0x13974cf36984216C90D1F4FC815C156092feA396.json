@@ -1,0 +1,10 @@
+{
+	"chain": 9001,
+	"address": "0x13974cf36984216C90D1F4FC815C156092feA396",
+	"symbol": "USK",
+	"name": "USK",
+	"coingecko": "usk",
+	"sources": [
+		"coingecko"
+	]
+}

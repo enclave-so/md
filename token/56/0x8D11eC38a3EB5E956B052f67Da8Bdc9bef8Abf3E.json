@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x8D11eC38a3EB5E956B052f67Da8Bdc9bef8Abf3E",
+	"symbol": "KIRA Network",
+	"name": "KIRA Network",
+	"coingecko": "kira-network",
+	"sources": [
+		"coingecko"
+	]
+}

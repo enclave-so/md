@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x20DD04c17AFD5c9a8b3f2cdacaa8Ee7907385BEF",
+	"symbol": "Native",
+	"name": "Native",
+	"coingecko": "native-2",
+	"sources": [
+		"coingecko"
+	]
+}

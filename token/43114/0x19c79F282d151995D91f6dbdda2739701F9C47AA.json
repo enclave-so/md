@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x19c79F282d151995D91f6dbdda2739701F9C47AA",
+	"symbol": "Bear",
+	"name": "Bear",
+	"coingecko": "bear-2",
+	"sources": [
+		"coingecko"
+	]
+}

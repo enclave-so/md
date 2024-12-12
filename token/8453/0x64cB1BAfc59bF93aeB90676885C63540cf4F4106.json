@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x64cB1BAfc59bF93aeB90676885C63540cf4F4106",
+	"symbol": "Coin6900",
+	"name": "Coin6900",
+	"coingecko": "coin6900",
+	"sources": [
+		"coingecko"
+	]
+}

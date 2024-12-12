@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xF3F3d7F713DF0447E9595d9B830a5f00297070e4",
+	"symbol": "Mother Earth",
+	"name": "Mother Earth",
+	"coingecko": "mother-earth",
+	"sources": [
+		"coingecko"
+	]
+}

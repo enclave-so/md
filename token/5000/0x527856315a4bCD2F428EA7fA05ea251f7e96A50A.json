@@ -1,0 +1,10 @@
+{
+	"chain": 5000,
+	"address": "0x527856315a4bCD2F428EA7fA05ea251f7e96A50A",
+	"symbol": "CeDeFiAi",
+	"name": "CeDeFiAi",
+	"coingecko": "cedefiai",
+	"sources": [
+		"coingecko"
+	]
+}

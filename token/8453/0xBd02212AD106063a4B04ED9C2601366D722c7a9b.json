@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xBd02212AD106063a4B04ED9C2601366D722c7a9b",
+	"symbol": "Kiverse Token",
+	"name": "Kiverse Token",
+	"coingecko": "kiverse-token",
+	"sources": [
+		"coingecko"
+	]
+}

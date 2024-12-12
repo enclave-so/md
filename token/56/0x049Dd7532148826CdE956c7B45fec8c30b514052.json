@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x049Dd7532148826CdE956c7B45fec8c30b514052",
+	"symbol": "IoTeXPad",
+	"name": "IoTeXPad",
+	"coingecko": "iotexpad",
+	"sources": [
+		"coingecko"
+	]
+}

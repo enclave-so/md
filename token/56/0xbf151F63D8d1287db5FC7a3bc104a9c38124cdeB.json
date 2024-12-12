@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xbf151F63D8d1287db5FC7a3bc104a9c38124cdeB",
+	"symbol": "AVNRich",
+	"name": "AVNRich",
+	"coingecko": "avnrich",
+	"sources": [
+		"coingecko"
+	]
+}

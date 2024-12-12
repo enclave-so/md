@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xfA139CC2F5C5b8C72309BE8E63C3024D03B7E63C",
+	"symbol": "Genie Protocol",
+	"name": "Genie Protocol",
+	"coingecko": "genie-protocol",
+	"sources": [
+		"coingecko"
+	]
+}

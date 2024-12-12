@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x1591E923e0836a3949b59637FBE8959F000894B9",
+	"symbol": "Multi AI",
+	"name": "Multi AI",
+	"coingecko": "multi-ai",
+	"sources": [
+		"coingecko"
+	]
+}

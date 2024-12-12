@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0xB44B645b5058F7e393F3AE6Af58A4CEf67006196",
+	"symbol": "Stick",
+	"name": "Stick",
+	"coingecko": "stick",
+	"sources": [
+		"coingecko"
+	]
+}

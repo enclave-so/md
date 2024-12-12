@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x340724464cf51a551106cC6657606Ee7d87B28b9",
+	"symbol": "Satoshi Island",
+	"name": "Satoshi Island",
+	"coingecko": "satoshi-island",
+	"sources": [
+		"coingecko"
+	]
+}

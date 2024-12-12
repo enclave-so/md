@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xdB90A4e973B7663ce0Ccc32B6FbD37ffb19BfA83",
+	"symbol": "Degen USDC",
+	"name": "Degen USDC",
+	"coingecko": "degen-usdc",
+	"sources": [
+		"coingecko"
+	]
+}

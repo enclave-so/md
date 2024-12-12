@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x6E93DEDe32b00fC0B993CEE3be8727089fdd013b",
+	"symbol": "POON Coin",
+	"name": "POON Coin",
+	"coingecko": "poon-coin",
+	"sources": [
+		"coingecko"
+	]
+}

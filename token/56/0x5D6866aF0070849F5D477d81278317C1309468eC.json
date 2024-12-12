@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x5D6866aF0070849F5D477d81278317C1309468eC",
+	"symbol": "Myro Floki CEO",
+	"name": "Myro Floki CEO",
+	"coingecko": "myro-floki-ceo",
+	"sources": [
+		"coingecko"
+	]
+}

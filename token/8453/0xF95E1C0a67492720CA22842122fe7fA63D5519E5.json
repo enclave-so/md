@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xF95E1C0a67492720CA22842122fe7fA63D5519E5",
+	"symbol": "Lunarlens",
+	"name": "Lunarlens",
+	"coingecko": "lunarlens",
+	"sources": [
+		"coingecko"
+	]
+}

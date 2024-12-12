@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x655A51e6803faF50D4acE80fa501af2F29C856cF",
+	"symbol": "PAID",
+	"name": "PAID",
+	"coingecko": "paid-network",
+	"sources": [
+		"coingecko"
+	]
+}

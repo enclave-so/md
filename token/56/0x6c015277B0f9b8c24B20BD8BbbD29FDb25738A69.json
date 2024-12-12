@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x6c015277B0f9b8c24B20BD8BbbD29FDb25738A69",
+	"symbol": "Wrapped NewYorkCoin",
+	"name": "Wrapped NewYorkCoin",
+	"coingecko": "wrapped-newyorkcoin",
+	"sources": [
+		"coingecko"
+	]
+}

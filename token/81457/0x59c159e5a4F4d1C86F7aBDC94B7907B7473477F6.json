@@ -1,0 +1,10 @@
+{
+	"chain": 81457,
+	"address": "0x59c159e5a4F4d1C86F7aBDC94B7907B7473477F6",
+	"symbol": "BlastUP",
+	"name": "BlastUP",
+	"coingecko": "blastup",
+	"sources": [
+		"coingecko"
+	]
+}

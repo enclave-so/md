@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x4A5Bb433132B7E7F75D6A9a3e4136bB85CE6E4d5",
+	"symbol": "Booty",
+	"name": "Booty",
+	"coingecko": "booty-2",
+	"sources": [
+		"coingecko"
+	]
+}

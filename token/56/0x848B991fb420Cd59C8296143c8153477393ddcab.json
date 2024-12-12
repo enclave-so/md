@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x848B991fb420Cd59C8296143c8153477393ddcab",
+	"symbol": "Kylacoin",
+	"name": "Kylacoin",
+	"coingecko": "kylacoin",
+	"sources": [
+		"coingecko"
+	]
+}

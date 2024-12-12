@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x0Cd741F007b417088ca7F4392E8D6B49B4F7A975",
+	"symbol": "Kingshit",
+	"name": "Kingshit",
+	"coingecko": "kingshit",
+	"sources": [
+		"coingecko"
+	]
+}

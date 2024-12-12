@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xdb5642fC3Ffd7a8BdC2C837197736c54B120872d",
+	"symbol": "Payslink Token",
+	"name": "Payslink Token",
+	"coingecko": "payslink-token",
+	"sources": [
+		"coingecko"
+	]
+}

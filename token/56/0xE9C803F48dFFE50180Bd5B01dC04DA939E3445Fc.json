@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xE9C803F48dFFE50180Bd5B01dC04DA939E3445Fc",
+	"symbol": "Velas",
+	"name": "Velas",
+	"coingecko": "velas",
+	"sources": [
+		"coingecko"
+	]
+}

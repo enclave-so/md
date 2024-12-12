@@ -1,0 +1,11 @@
+{
+	"chain": 56,
+	"address": "0x393B312C01048b3ed2720bF1B090084C09e408A1",
+	"symbol": "FRIES",
+	"name": "fry.world",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/12741/small/fries_logo.png?1602147631",
+	"sources": [
+		"sushiswap"
+	]
+}

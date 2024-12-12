@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x29CABF2a1E5De6f0ebC39ca6Fe83c687FE90fB6c",
+	"symbol": "Fish Crypto",
+	"name": "Fish Crypto",
+	"coingecko": "fish-crypto",
+	"sources": [
+		"coingecko"
+	]
+}

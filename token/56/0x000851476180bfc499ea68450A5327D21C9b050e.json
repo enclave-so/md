@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x000851476180bfc499ea68450A5327D21C9b050e",
+	"symbol": "Slam",
+	"name": "Slam",
+	"coingecko": "slam-token",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x84affEEf925Cdce87f8A99B7b2E540dA5140Fc09",
+	"symbol": "Serenity",
+	"name": "Serenity",
+	"coingecko": "serenity-shield",
+	"sources": [
+		"coingecko"
+	]
+}

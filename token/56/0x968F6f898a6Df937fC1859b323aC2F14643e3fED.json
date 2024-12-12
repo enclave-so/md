@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x968F6f898a6Df937fC1859b323aC2F14643e3fED",
+	"symbol": "Numerico",
+	"name": "Numerico",
+	"coingecko": "newscrypto-coin",
+	"sources": [
+		"coingecko"
+	]
+}

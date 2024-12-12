@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xA91c7bc1e07996a188C1A5b1CfDFF450389D8ACf",
+	"symbol": "SolChicks",
+	"name": "SolChicks",
+	"coingecko": "solchicks-token",
+	"sources": [
+		"coingecko"
+	]
+}

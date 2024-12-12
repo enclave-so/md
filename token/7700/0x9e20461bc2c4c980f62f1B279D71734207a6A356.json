@@ -1,0 +1,10 @@
+{
+	"chain": 7700,
+	"address": "0x9e20461bc2c4c980f62f1B279D71734207a6A356",
+	"symbol": "OmniCat",
+	"name": "OmniCat",
+	"coingecko": "omnicat",
+	"sources": [
+		"coingecko"
+	]
+}

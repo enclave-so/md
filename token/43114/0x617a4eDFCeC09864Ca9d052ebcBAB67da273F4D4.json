@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x617a4eDFCeC09864Ca9d052ebcBAB67da273F4D4",
+	"symbol": "CHECK",
+	"name": "CHECK",
+	"coingecko": "check",
+	"sources": [
+		"coingecko"
+	]
+}

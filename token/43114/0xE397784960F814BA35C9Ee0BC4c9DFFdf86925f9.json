@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0xE397784960F814BA35C9Ee0BC4c9DFFdf86925f9",
+	"symbol": "Monsterra",
+	"name": "Monsterra",
+	"coingecko": "monsterra",
+	"sources": [
+		"coingecko"
+	]
+}

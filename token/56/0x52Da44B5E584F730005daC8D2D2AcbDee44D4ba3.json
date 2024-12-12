@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x52Da44B5E584F730005daC8D2D2AcbDee44D4ba3",
+	"symbol": "KingdomX",
+	"name": "KingdomX",
+	"coingecko": "kingdomx",
+	"sources": [
+		"coingecko"
+	]
+}

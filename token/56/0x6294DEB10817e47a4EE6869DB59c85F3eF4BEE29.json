@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x6294DEB10817e47a4EE6869DB59c85F3eF4BEE29",
+	"symbol": "GROK CEO",
+	"name": "GROK CEO",
+	"coingecko": "grok-ceo",
+	"sources": [
+		"coingecko"
+	]
+}

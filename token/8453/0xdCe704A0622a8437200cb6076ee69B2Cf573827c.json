@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xdCe704A0622a8437200cb6076ee69B2Cf573827c",
+	"symbol": "Speculate",
+	"name": "Speculate",
+	"coingecko": "speculate",
+	"sources": [
+		"coingecko"
+	]
+}

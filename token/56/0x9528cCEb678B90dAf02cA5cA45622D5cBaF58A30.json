@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x9528cCEb678B90dAf02cA5cA45622D5cBaF58A30",
+	"symbol": "GoCryptoMe",
+	"name": "GoCryptoMe",
+	"coingecko": "gocryptome",
+	"sources": [
+		"coingecko"
+	]
+}

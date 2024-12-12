@@ -1,0 +1,10 @@
+{
+	"chain": 5000,
+	"address": "0xabBeED1d173541e0546B38b1C0394975be200000",
+	"symbol": "Slash Vision Labs",
+	"name": "Slash Vision Labs",
+	"coingecko": "slash-vision-labs",
+	"sources": [
+		"coingecko"
+	]
+}

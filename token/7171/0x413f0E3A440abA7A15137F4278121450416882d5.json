@@ -1,0 +1,10 @@
+{
+	"chain": 7171,
+	"address": "0x413f0E3A440abA7A15137F4278121450416882d5",
+	"symbol": "Wrapped Bitrock",
+	"name": "Wrapped Bitrock",
+	"coingecko": "wrapped-bitrock",
+	"sources": [
+		"coingecko"
+	]
+}

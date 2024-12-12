@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xB3a7713521007d79E757f83CE763DEd56bB0f6b3",
+	"symbol": "chabit",
+	"name": "chabit",
+	"coingecko": "chabit",
+	"sources": [
+		"coingecko"
+	]
+}

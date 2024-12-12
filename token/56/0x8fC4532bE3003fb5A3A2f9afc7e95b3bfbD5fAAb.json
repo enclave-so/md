@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x8fC4532bE3003fb5A3A2f9afc7e95b3bfbD5fAAb",
+	"symbol": "Arcona",
+	"name": "Arcona",
+	"coingecko": "arcona",
+	"sources": [
+		"coingecko"
+	]
+}

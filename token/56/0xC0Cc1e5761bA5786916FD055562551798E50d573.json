@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xC0Cc1e5761bA5786916FD055562551798E50d573",
+	"symbol": "ASYAGRO",
+	"name": "ASYAGRO",
+	"coingecko": "asyagro",
+	"sources": [
+		"coingecko"
+	]
+}

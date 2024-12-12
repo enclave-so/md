@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x23A96680Ccde03Bd4Bdd9a3e9a0Cb56A5D27F7c9",
+	"symbol": "Henlo",
+	"name": "Henlo",
+	"coingecko": "henlo-2",
+	"sources": [
+		"coingecko"
+	]
+}

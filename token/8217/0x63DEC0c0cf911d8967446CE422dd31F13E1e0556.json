@@ -1,0 +1,10 @@
+{
+	"chain": 8217,
+	"address": "0x63DEC0c0cf911d8967446CE422dd31F13E1e0556",
+	"symbol": "SOMESING",
+	"name": "SOMESING",
+	"coingecko": "somesing",
+	"sources": [
+		"coingecko"
+	]
+}

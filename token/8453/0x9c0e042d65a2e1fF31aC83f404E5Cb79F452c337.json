@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x9c0e042d65a2e1fF31aC83f404E5Cb79F452c337",
+	"symbol": "Wrapped Aptos (Universal)",
+	"name": "Wrapped Aptos (Universal)",
+	"coingecko": "wrapped-aptos-universal",
+	"sources": [
+		"coingecko"
+	]
+}

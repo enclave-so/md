@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xfA1f6e048e66AC240A4bB7eab7Ee888E76081A6c",
+	"symbol": "Drone",
+	"name": "Drone",
+	"coingecko": "drone",
+	"sources": [
+		"coingecko"
+	]
+}

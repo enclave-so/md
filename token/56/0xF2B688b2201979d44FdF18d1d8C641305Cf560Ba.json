@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xF2B688b2201979d44FdF18d1d8C641305Cf560Ba",
+	"symbol": "Devomon",
+	"name": "Devomon",
+	"coingecko": "devomon",
+	"sources": [
+		"coingecko"
+	]
+}

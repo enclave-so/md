@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x684eAfeb7E5be043842D892980695C68e15152b7",
+	"symbol": "Flappybee",
+	"name": "Flappybee",
+	"coingecko": "flappybee",
+	"sources": [
+		"coingecko"
+	]
+}

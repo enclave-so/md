@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x53c2A6CC05f9647D59201B19cb5f5E42cc6dC524",
+	"symbol": "Shakita Inu",
+	"name": "Shakita Inu",
+	"coingecko": "shakita-inu",
+	"sources": [
+		"coingecko"
+	]
+}

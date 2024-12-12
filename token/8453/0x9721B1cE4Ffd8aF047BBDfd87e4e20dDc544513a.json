@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x9721B1cE4Ffd8aF047BBDfd87e4e20dDc544513a",
+	"symbol": "BaseBros",
+	"name": "BaseBros",
+	"coingecko": "basebros",
+	"sources": [
+		"coingecko"
+	]
+}

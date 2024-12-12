@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x04c6F12E06FFe8A79935acCf3D3068A4581a7e95",
+	"symbol": "Baby PeiPei",
+	"name": "Baby PeiPei",
+	"coingecko": "baby-peipei",
+	"sources": [
+		"coingecko"
+	]
+}

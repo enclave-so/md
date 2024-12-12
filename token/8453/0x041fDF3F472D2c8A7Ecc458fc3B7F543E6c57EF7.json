@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x041fDF3F472D2c8A7Ecc458fc3B7F543E6c57EF7",
+	"symbol": "Shiba Armstrong",
+	"name": "Shiba Armstrong",
+	"coingecko": "shiba-armstrong",
+	"sources": [
+		"coingecko"
+	]
+}

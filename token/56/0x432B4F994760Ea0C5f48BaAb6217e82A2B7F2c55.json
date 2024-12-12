@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x432B4F994760Ea0C5f48BaAb6217e82A2B7F2c55",
+	"symbol": "FirstHare",
+	"name": "FirstHare",
+	"coingecko": "firsthare",
+	"sources": [
+		"coingecko"
+	]
+}

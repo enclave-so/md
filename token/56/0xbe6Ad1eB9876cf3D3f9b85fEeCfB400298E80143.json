@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xbe6Ad1eB9876cf3D3f9b85fEeCfB400298E80143",
+	"symbol": "AI Companions",
+	"name": "AI Companions",
+	"coingecko": "ai-companions",
+	"sources": [
+		"coingecko"
+	]
+}

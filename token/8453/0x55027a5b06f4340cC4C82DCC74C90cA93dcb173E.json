@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x55027a5b06f4340cC4C82DCC74C90cA93dcb173E",
+	"symbol": "Tadpole",
+	"name": "Tadpole",
+	"coingecko": "tadpole",
+	"sources": [
+		"coingecko"
+	]
+}

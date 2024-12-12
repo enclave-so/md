@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x99e6ca7E6c5c5aEa22b4a992Eb6895bC6D433298",
+	"symbol": "ALVA",
+	"name": "ALVA",
+	"coingecko": "alva",
+	"sources": [
+		"coingecko"
+	]
+}

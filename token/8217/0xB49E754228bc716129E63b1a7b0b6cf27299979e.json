@@ -1,0 +1,10 @@
+{
+	"chain": 8217,
+	"address": "0xB49E754228bc716129E63b1a7b0b6cf27299979e",
+	"symbol": "PANGEA GOVERNANCE TOKEN",
+	"name": "PANGEA GOVERNANCE TOKEN",
+	"coingecko": "pangea-governance-token",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xE2B1dc2D4A3b4E59FDF0c47B71A7A86391a8B35a",
+	"symbol": "RWA Inc.",
+	"name": "RWA Inc.",
+	"coingecko": "rwa-inc",
+	"sources": [
+		"coingecko"
+	]
+}

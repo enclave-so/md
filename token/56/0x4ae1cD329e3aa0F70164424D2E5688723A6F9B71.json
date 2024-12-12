@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x4ae1cD329e3aa0F70164424D2E5688723A6F9B71",
+	"symbol": "Wrapped XFI",
+	"name": "Wrapped XFI",
+	"coingecko": "wrapped-xfi",
+	"sources": [
+		"coingecko"
+	]
+}

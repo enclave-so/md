@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xDe51D1599339809CaFB8194189cE67d5BdcA9E9E",
+	"symbol": "Cowrie",
+	"name": "Cowrie",
+	"coingecko": "cowrie",
+	"sources": [
+		"coingecko"
+	]
+}

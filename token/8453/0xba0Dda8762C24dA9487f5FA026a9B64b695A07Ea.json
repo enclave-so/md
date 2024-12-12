@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xba0Dda8762C24dA9487f5FA026a9B64b695A07Ea",
+	"symbol": "OX Coin",
+	"name": "OX Coin",
+	"coingecko": "ox-fun",
+	"sources": [
+		"coingecko"
+	]
+}

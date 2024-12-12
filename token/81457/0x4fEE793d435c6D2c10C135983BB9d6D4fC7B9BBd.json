@@ -1,0 +1,10 @@
+{
+	"chain": 81457,
+	"address": "0x4fEE793d435c6D2c10C135983BB9d6D4fC7B9BBd",
+	"symbol": "Overnight.fi USD+ (Blast)",
+	"name": "Overnight.fi USD+ (Blast)",
+	"coingecko": "overnight-fi-usd-blast",
+	"sources": [
+		"coingecko"
+	]
+}

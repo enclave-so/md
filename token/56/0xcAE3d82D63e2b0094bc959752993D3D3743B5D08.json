@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xcAE3d82D63e2b0094bc959752993D3D3743B5D08",
+	"symbol": "BTAF token",
+	"name": "BTAF token",
+	"coingecko": "btaf-token",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x5A29c96fA93FFA8845fb7F8616a03Aa85fCc11d6",
+	"symbol": "FRANCE REV FINANCE",
+	"name": "FRANCE REV FINANCE",
+	"coingecko": "france-rev-finance",
+	"sources": [
+		"coingecko"
+	]
+}

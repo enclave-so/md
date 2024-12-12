@@ -1,0 +1,10 @@
+{
+	"chain": 59144,
+	"address": "0xe516a5CFf996cc399EFBb48355FD5Ab83438E7a9",
+	"symbol": "Linea Bridged GNO (Linea)",
+	"name": "Linea Bridged GNO (Linea)",
+	"coingecko": "linea-bridged-gno-linea",
+	"sources": [
+		"coingecko"
+	]
+}

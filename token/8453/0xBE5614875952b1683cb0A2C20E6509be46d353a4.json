@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xBE5614875952b1683cb0A2C20E6509be46d353a4",
+	"symbol": "Baby Brett on Base",
+	"name": "Baby Brett on Base",
+	"coingecko": "baby-brett-on-base",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x1a3264F2e7b1CFC6220ec9348d33cCF02Af7aaa4",
+	"symbol": "Dypius",
+	"name": "Dypius",
+	"coingecko": "dypius",
+	"sources": [
+		"coingecko"
+	]
+}

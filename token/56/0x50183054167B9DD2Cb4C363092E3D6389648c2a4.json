@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x50183054167B9DD2Cb4C363092E3D6389648c2a4",
+	"symbol": "Unique Utility",
+	"name": "Unique Utility",
+	"coingecko": "unique-utility-token",
+	"sources": [
+		"coingecko"
+	]
+}

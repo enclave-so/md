@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xD979d11c03cc7a66028755846f77ffF0A270F753",
+	"symbol": "Land Of Heroes",
+	"name": "Land Of Heroes",
+	"coingecko": "land-of-heroes-2",
+	"sources": [
+		"coingecko"
+	]
+}

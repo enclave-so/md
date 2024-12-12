@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x71Cb7EF7980C44dFbbE5744973C0587764116d26",
+	"symbol": "Welle",
+	"name": "Welle",
+	"coingecko": "riverex-welle",
+	"sources": [
+		"coingecko"
+	]
+}

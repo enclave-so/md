@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xB2192A2829A5220Bafd5B0a67f3328e209887bee",
+	"symbol": "Getaverse",
+	"name": "Getaverse",
+	"coingecko": "getaverse",
+	"sources": [
+		"coingecko"
+	]
+}

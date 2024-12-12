@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x3405ff989F8bb8Efd6C85Ad6B29219D3383A5FB0",
+	"symbol": "Metaverse Kombat",
+	"name": "Metaverse Kombat",
+	"coingecko": "metaverse-kombat",
+	"sources": [
+		"coingecko"
+	]
+}

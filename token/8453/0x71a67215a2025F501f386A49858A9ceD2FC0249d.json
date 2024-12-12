@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x71a67215a2025F501f386A49858A9ceD2FC0249d",
+	"symbol": "Wrapped SEI (Universal)",
+	"name": "Wrapped SEI (Universal)",
+	"coingecko": "wrapped-sei-universal",
+	"sources": [
+		"coingecko"
+	]
+}

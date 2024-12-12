@@ -1,0 +1,13 @@
+{
+	"chain": 66,
+	"address": "0xd0C6821aba4FCC65e8f1542589e64BAe9dE11228",
+	"symbol": "FLUX",
+	"name": "FLUXK",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/15002/small/logo.dabc411c.png?1619402947",
+	"coingecko": "flux-protocol",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

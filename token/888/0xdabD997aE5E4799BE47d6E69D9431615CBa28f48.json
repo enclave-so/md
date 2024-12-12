@@ -1,0 +1,10 @@
+{
+	"chain": 888,
+	"address": "0xdabD997aE5E4799BE47d6E69D9431615CBa28f48",
+	"symbol": "Wrapped Wan",
+	"name": "Wrapped Wan",
+	"coingecko": "wrapped-wan",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"chain": 43288,
+	"address": "0xc8849f32138de93F6097199C5721a9EfD91ceE01",
+	"symbol": "EVO",
+	"name": "EVO",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/boba-avax/0xc8849f32138de93F6097199C5721a9EfD91ceE01.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

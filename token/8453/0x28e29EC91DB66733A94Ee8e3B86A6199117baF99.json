@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x28e29EC91DB66733A94Ee8e3B86A6199117baF99",
+	"symbol": "Basedmilio",
+	"name": "Basedmilio",
+	"coingecko": "basedmilio",
+	"sources": [
+		"coingecko"
+	]
+}

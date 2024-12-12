@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x4586AF10ecceeD4E383e3f2Ec93b6C61e26500b5",
+	"symbol": "HUNDRED",
+	"name": "HUNDRED",
+	"coingecko": "hundred",
+	"sources": [
+		"coingecko"
+	]
+}

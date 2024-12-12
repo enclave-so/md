@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xef9481115ff33E94d3E28A52D3A8F642bf3521e5",
+	"symbol": "CasperPad",
+	"name": "CasperPad",
+	"coingecko": "casperpad",
+	"sources": [
+		"coingecko"
+	]
+}

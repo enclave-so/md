@@ -1,0 +1,10 @@
+{
+	"chain": 810180,
+	"address": "0x2F8A25ac62179B31D62D7F80884AE57464699059",
+	"symbol": "Nova Merged USDT (zkLink)",
+	"name": "Nova Merged USDT (zkLink)",
+	"coingecko": "nova-tether-usd",
+	"sources": [
+		"coingecko"
+	]
+}

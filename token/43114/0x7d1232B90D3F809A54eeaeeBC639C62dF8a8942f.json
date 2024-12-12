@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x7d1232B90D3F809A54eeaeeBC639C62dF8a8942f",
+	"symbol": "Snowbank",
+	"name": "Snowbank",
+	"coingecko": "snowbank",
+	"sources": [
+		"coingecko"
+	]
+}

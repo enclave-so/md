@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x41eD891897117450adBd710006855B12F98cb86b",
+	"symbol": "LazyCat",
+	"name": "LazyCat",
+	"coingecko": "lazycat",
+	"sources": [
+		"coingecko"
+	]
+}

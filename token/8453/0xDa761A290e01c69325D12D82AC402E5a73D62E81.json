@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xDa761A290e01c69325D12D82AC402E5a73D62E81",
+	"symbol": "Base Pro Shops",
+	"name": "Base Pro Shops",
+	"coingecko": "base-pro-shops",
+	"sources": [
+		"coingecko"
+	]
+}

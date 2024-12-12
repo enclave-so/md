@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x7d9CE55D54FF3FEddb611fC63fF63ec01F26D15F",
+	"symbol": "Fungi",
+	"name": "Fungi",
+	"coingecko": "fungi",
+	"sources": [
+		"coingecko"
+	]
+}

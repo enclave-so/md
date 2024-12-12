@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x450593Bf7f2d7E559E38496CfB06bDCE5E963795",
+	"symbol": "BlackCardCoin",
+	"name": "BlackCardCoin",
+	"coingecko": "blackcardcoin",
+	"sources": [
+		"coingecko"
+	]
+}

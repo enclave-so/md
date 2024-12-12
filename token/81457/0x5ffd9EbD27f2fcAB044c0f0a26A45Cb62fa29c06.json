@@ -1,0 +1,10 @@
+{
+	"chain": 81457,
+	"address": "0x5ffd9EbD27f2fcAB044c0f0a26A45Cb62fa29c06",
+	"symbol": "PacMoon",
+	"name": "PacMoon",
+	"coingecko": "pacmoon",
+	"sources": [
+		"coingecko"
+	]
+}

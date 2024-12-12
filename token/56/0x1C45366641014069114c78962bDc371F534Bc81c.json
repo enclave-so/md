@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x1C45366641014069114c78962bDc371F534Bc81c",
+	"symbol": "binancedog",
+	"name": "binancedog",
+	"coingecko": "binancedog-2",
+	"sources": [
+		"coingecko"
+	]
+}

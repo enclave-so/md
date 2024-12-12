@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x6D22D3ED82c947bE8860A86a69C4B0cB0f65589e",
+	"symbol": "Chonk",
+	"name": "Chonk",
+	"coingecko": "chonk-on-base",
+	"sources": [
+		"coingecko"
+	]
+}

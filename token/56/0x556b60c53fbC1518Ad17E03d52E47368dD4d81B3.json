@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x556b60c53fbC1518Ad17E03d52E47368dD4d81B3",
+	"symbol": "Axie Infinity Shard (Wormhole)",
+	"name": "Axie Infinity Shard (Wormhole)",
+	"coingecko": "axie-infinity-shard-wormhole",
+	"sources": [
+		"coingecko"
+	]
+}

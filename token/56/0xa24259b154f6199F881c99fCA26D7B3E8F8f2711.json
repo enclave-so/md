@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xa24259b154f6199F881c99fCA26D7B3E8F8f2711",
+	"symbol": "Going To The Moon",
+	"name": "Going To The Moon",
+	"coingecko": "going-to-the-moon",
+	"sources": [
+		"coingecko"
+	]
+}

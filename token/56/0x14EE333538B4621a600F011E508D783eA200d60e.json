@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x14EE333538B4621a600F011E508D783eA200d60e",
+	"symbol": "AVOCADO BG",
+	"name": "AVOCADO BG",
+	"coingecko": "avocado-bg",
+	"sources": [
+		"coingecko"
+	]
+}

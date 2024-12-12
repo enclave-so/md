@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x7E35D0e9180bF3A1fc47b0d110bE7a21A10B41Fe",
+	"symbol": "Ovr",
+	"name": "Ovr",
+	"coingecko": "ovr",
+	"sources": [
+		"coingecko"
+	]
+}

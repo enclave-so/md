@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x166DfE78311914cf046ece73AB8667f5ee8FBAEf",
+	"symbol": "LCOM",
+	"name": "LCOM",
+	"coingecko": "linkcom",
+	"sources": [
+		"coingecko"
+	]
+}

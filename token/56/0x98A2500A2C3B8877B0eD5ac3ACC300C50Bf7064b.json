@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x98A2500A2C3B8877B0eD5ac3ACC300C50Bf7064b",
+	"symbol": "NOOT",
+	"name": "NOOT",
+	"coingecko": "noot",
+	"sources": [
+		"coingecko"
+	]
+}

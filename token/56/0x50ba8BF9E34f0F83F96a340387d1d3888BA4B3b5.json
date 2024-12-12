@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x50ba8BF9E34f0F83F96a340387d1d3888BA4B3b5",
+	"symbol": "RugZombie",
+	"name": "RugZombie",
+	"coingecko": "rugzombie",
+	"sources": [
+		"coingecko"
+	]
+}

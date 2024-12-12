@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x0711eD8B4D1EB1a935cdcc376a205C7dCA584457",
+	"symbol": "Diecast Racer",
+	"name": "Diecast Racer",
+	"coingecko": "diecast-racer",
+	"sources": [
+		"coingecko"
+	]
+}

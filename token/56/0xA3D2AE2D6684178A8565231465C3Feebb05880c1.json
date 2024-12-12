@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xA3D2AE2D6684178A8565231465C3Feebb05880c1",
+	"symbol": "CANNFINITY",
+	"name": "CANNFINITY",
+	"coingecko": "cannfinity",
+	"sources": [
+		"coingecko"
+	]
+}

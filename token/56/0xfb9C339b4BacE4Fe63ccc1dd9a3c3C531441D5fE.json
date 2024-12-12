@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xfb9C339b4BacE4Fe63ccc1dd9a3c3C531441D5fE",
+	"symbol": "SHILL Token",
+	"name": "SHILL Token",
+	"coingecko": "shill-token",
+	"sources": [
+		"coingecko"
+	]
+}

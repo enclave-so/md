@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x368ce786Ea190f32439074e8d22e12ecb718B44c",
+	"symbol": "Epik Prime",
+	"name": "Epik Prime",
+	"coingecko": "epik-prime",
+	"sources": [
+		"coingecko"
+	]
+}

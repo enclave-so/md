@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x7E2cfE1D55dFa63c8a1Bf989C5335419D912e37A",
+	"symbol": "AGE OF APES",
+	"name": "AGE OF APES",
+	"coingecko": "age-of-apes",
+	"sources": [
+		"coingecko"
+	]
+}

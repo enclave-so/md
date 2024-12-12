@@ -1,0 +1,10 @@
+{
+	"chain": 534352,
+	"address": "0x2147a89fb4608752807216D5070471c09A0DcE32",
+	"symbol": "Z Protocol",
+	"name": "Z Protocol",
+	"coingecko": "z-protocol",
+	"sources": [
+		"coingecko"
+	]
+}

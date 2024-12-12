@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xF106f153bd77bE6d5191a07159C99c4219a1cec4",
+	"symbol": "DCNTRL Network",
+	"name": "DCNTRL Network",
+	"coingecko": "dcntrl-network",
+	"sources": [
+		"coingecko"
+	]
+}

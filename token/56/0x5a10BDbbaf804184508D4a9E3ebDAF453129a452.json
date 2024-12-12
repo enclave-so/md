@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x5a10BDbbaf804184508D4a9E3ebDAF453129a452",
+	"symbol": "Nexus Pro Token",
+	"name": "Nexus Pro Token",
+	"coingecko": "nexus-pro-token",
+	"sources": [
+		"coingecko"
+	]
+}

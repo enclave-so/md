@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x252D223D0550BC6c137B003D90bc74F5341A2818",
+	"symbol": "Bitbot",
+	"name": "Bitbot",
+	"coingecko": "bitbot",
+	"sources": [
+		"coingecko"
+	]
+}

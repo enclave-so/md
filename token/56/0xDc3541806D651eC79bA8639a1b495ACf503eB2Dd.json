@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xDc3541806D651eC79bA8639a1b495ACf503eB2Dd",
+	"symbol": "Metoshi",
+	"name": "Metoshi",
+	"coingecko": "metoshi",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xB71D6D378176842dfE778D9509D7d3852806Cd7a",
+	"symbol": "BIOPOP",
+	"name": "BIOPOP",
+	"coingecko": "biopop",
+	"sources": [
+		"coingecko"
+	]
+}

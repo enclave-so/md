@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x2676E4e0E2eB58D9Bdb5078358ff8A3a964CEdf5",
+	"symbol": "Polytrader by Virtuals",
+	"name": "Polytrader by Virtuals",
+	"coingecko": "polytrader-by-virtuals",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x513c7E3a9c69cA3e22550eF58AC1C0088e918FFf",
+	"symbol": "Aave v3 sAVAX",
+	"name": "Aave v3 sAVAX",
+	"coingecko": "aave-v3-savax",
+	"sources": [
+		"coingecko"
+	]
+}

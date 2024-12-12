@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xeF0b2Ccb53A683fA48799245f376D6a60929f003",
+	"symbol": "MoonBase",
+	"name": "MoonBase",
+	"coingecko": "moonbase-2",
+	"sources": [
+		"coingecko"
+	]
+}

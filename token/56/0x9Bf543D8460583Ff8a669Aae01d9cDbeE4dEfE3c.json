@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x9Bf543D8460583Ff8a669Aae01d9cDbeE4dEfE3c",
+	"symbol": "Sugar Kingdom Odyssey",
+	"name": "Sugar Kingdom Odyssey",
+	"coingecko": "sugar-kingdom-odyssey",
+	"sources": [
+		"coingecko"
+	]
+}

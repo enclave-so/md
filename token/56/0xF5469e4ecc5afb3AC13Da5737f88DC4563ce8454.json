@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xF5469e4ecc5afb3AC13Da5737f88DC4563ce8454",
+	"symbol": "LAN Network",
+	"name": "LAN Network",
+	"coingecko": "lan-network",
+	"sources": [
+		"coingecko"
+	]
+}

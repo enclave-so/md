@@ -1,0 +1,10 @@
+{
+	"chain": 8217,
+	"address": "0x6a6184283AF9f62DA739F8B309C5fCa61e2f1400",
+	"symbol": "CRYPTOKKI",
+	"name": "CRYPTOKKI",
+	"coingecko": "cryptokki",
+	"sources": [
+		"coingecko"
+	]
+}

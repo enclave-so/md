@@ -1,0 +1,10 @@
+{
+	"chain": 59144,
+	"address": "0x3d4b2132eD4eA0aa93903713a4dE9F98e625a5c7",
+	"symbol": "3A",
+	"name": "3A",
+	"coingecko": "3a-lending-protocol",
+	"sources": [
+		"coingecko"
+	]
+}

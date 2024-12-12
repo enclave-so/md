@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xEc1Df7EdFcdC2e2042c63252c1cEF480f64F9189",
+	"symbol": "BOO",
+	"name": "BOO",
+	"coingecko": "boo-2",
+	"sources": [
+		"coingecko"
+	]
+}

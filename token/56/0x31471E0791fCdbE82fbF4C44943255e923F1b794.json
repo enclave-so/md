@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x31471E0791fCdbE82fbF4C44943255e923F1b794",
+	"symbol": "Plant vs Undead",
+	"name": "Plant vs Undead",
+	"coingecko": "plant-vs-undead-token",
+	"sources": [
+		"coingecko"
+	]
+}

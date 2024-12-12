@@ -1,0 +1,11 @@
+{
+	"chain": 56,
+	"address": "0x8506560320826e459F356CB56cCF721Da8875414",
+	"symbol": "nICE",
+	"name": "NICE",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/binance/0x8506560320826e459F356CB56cCF721Da8875414.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

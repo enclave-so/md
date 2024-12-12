@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xc48823EC67720a04A9DFD8c7d109b2C3D6622094",
+	"symbol": "Metacade",
+	"name": "Metacade",
+	"coingecko": "metacade",
+	"sources": [
+		"coingecko"
+	]
+}

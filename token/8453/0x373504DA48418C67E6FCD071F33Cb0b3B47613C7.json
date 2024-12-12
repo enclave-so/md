@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x373504DA48418C67E6FCD071F33Cb0b3B47613C7",
+	"symbol": "Wrapped BaseDOGE",
+	"name": "Wrapped BaseDOGE",
+	"coingecko": "wrapped-basedoge",
+	"sources": [
+		"coingecko"
+	]
+}

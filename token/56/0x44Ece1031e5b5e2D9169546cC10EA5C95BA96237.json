@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x44Ece1031e5b5e2D9169546cC10EA5C95BA96237",
+	"symbol": "AmazingTeamDAO",
+	"name": "AmazingTeamDAO",
+	"coingecko": "amazingteamdao",
+	"sources": [
+		"coingecko"
+	]
+}

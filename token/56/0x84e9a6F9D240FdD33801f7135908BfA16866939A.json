@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x84e9a6F9D240FdD33801f7135908BfA16866939A",
+	"symbol": "GAMEE",
+	"name": "GAMEE",
+	"coingecko": "gamee",
+	"sources": [
+		"coingecko"
+	]
+}

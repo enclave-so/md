@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x00e1656e45f18ec6747F5a8496Fd39B50b38396D",
+	"symbol": "Bomb Crypto (BNB)",
+	"name": "Bomb Crypto (BNB)",
+	"coingecko": "bomber-coin",
+	"sources": [
+		"coingecko"
+	]
+}

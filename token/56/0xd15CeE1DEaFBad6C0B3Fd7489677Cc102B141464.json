@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xd15CeE1DEaFBad6C0B3Fd7489677Cc102B141464",
+	"symbol": "Circuits of Value",
+	"name": "Circuits of Value",
+	"coingecko": "circuits-of-value",
+	"sources": [
+		"coingecko"
+	]
+}

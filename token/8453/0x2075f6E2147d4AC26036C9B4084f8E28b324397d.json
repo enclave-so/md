@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x2075f6E2147d4AC26036C9B4084f8E28b324397d",
+	"symbol": "BaseCTO",
+	"name": "BaseCTO",
+	"coingecko": "basecto",
+	"sources": [
+		"coingecko"
+	]
+}

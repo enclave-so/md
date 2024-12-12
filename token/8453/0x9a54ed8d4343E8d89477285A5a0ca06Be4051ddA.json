@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x9a54ed8d4343E8d89477285A5a0ca06Be4051ddA",
+	"symbol": "Quadency Token",
+	"name": "Quadency Token",
+	"coingecko": "quadency",
+	"sources": [
+		"coingecko"
+	]
+}

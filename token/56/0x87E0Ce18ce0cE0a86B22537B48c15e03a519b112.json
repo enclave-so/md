@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x87E0Ce18ce0cE0a86B22537B48c15e03a519b112",
+	"symbol": "Shinjiru Inu",
+	"name": "Shinjiru Inu",
+	"coingecko": "shinjiru-inu",
+	"sources": [
+		"coingecko"
+	]
+}

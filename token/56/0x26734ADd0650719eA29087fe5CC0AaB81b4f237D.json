@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x26734ADd0650719eA29087fe5CC0AaB81b4f237D",
+	"symbol": "STEMX",
+	"name": "STEMX",
+	"coingecko": "stemx",
+	"sources": [
+		"coingecko"
+	]
+}

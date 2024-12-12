@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x54b659832f59c24ceC0E4A2Cd193377F1BCEfc3c",
+	"symbol": "Akashalife",
+	"name": "Akashalife",
+	"coingecko": "akashalife",
+	"sources": [
+		"coingecko"
+	]
+}

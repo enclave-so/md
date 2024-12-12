@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x4e53522932608E61b6bD8D50cF15a5501054DB4E",
+	"symbol": "Aboat Token",
+	"name": "Aboat Token",
+	"coingecko": "aboat-token-2",
+	"sources": [
+		"coingecko"
+	]
+}

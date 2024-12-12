@@ -1,0 +1,10 @@
+{
+	"chain": 42170,
+	"address": "0x223fB0CeB2C6e5310264EFe38151d7D083db91f1",
+	"symbol": "Superpower Squad",
+	"name": "Superpower Squad",
+	"coingecko": "squad",
+	"sources": [
+		"coingecko"
+	]
+}

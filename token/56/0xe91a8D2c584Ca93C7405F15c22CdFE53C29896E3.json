@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xe91a8D2c584Ca93C7405F15c22CdFE53C29896E3",
+	"symbol": "DexTools",
+	"name": "DexTools",
+	"coingecko": "dextools",
+	"sources": [
+		"coingecko"
+	]
+}

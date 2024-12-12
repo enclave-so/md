@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x8626264B6a1B4e920905Efd381002abA52EA0Eea",
+	"symbol": "BlackHat Coin",
+	"name": "BlackHat Coin",
+	"coingecko": "blackhat-coin",
+	"sources": [
+		"coingecko"
+	]
+}

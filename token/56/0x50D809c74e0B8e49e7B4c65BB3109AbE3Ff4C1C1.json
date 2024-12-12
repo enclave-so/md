@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x50D809c74e0B8e49e7B4c65BB3109AbE3Ff4C1C1",
+	"symbol": "Cub Finance",
+	"name": "Cub Finance",
+	"coingecko": "cub-finance",
+	"sources": [
+		"coingecko"
+	]
+}

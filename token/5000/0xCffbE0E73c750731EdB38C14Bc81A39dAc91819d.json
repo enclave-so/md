@@ -1,0 +1,10 @@
+{
+	"chain": 5000,
+	"address": "0xCffbE0E73c750731EdB38C14Bc81A39dAc91819d",
+	"symbol": "abcCLEO",
+	"name": "abcCLEO",
+	"coingecko": "abccleo",
+	"sources": [
+		"coingecko"
+	]
+}

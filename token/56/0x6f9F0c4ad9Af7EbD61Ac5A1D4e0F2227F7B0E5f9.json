@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x6f9F0c4ad9Af7EbD61Ac5A1D4e0F2227F7B0E5f9",
+	"symbol": "Era7",
+	"name": "Era7",
+	"coingecko": "era7",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xDBFeFD2e8460a6Ee4955A68582F85708BAEA60A3",
+	"symbol": "Super OETH",
+	"name": "Super OETH",
+	"coingecko": "super-oeth",
+	"sources": [
+		"coingecko"
+	]
+}

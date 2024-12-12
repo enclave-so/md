@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x91656750Bc364ff38AdB51157AcBb76F9f5eC2FE",
+	"symbol": "Safemoon Zilla",
+	"name": "Safemoon Zilla",
+	"coingecko": "safemoon-zilla",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xc6c58f600917De512CD02D2B6ED595Ab54B4c30F",
+	"symbol": "DogeVerse",
+	"name": "DogeVerse",
+	"coingecko": "dogeverse",
+	"sources": [
+		"coingecko"
+	]
+}

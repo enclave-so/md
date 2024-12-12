@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x41a22eb30df65D6Ab0CE0B4cfE8F4e0Eb306D471",
+	"symbol": "BaseBearCute",
+	"name": "BaseBearCute",
+	"coingecko": "basebearcute",
+	"sources": [
+		"coingecko"
+	]
+}

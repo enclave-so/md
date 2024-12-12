@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x5D6812722C3693078E4a0dBe3e9aFfC27A0B2768",
+	"symbol": "All Cat No Brakes",
+	"name": "All Cat No Brakes",
+	"coingecko": "all-cat-no-brakes",
+	"sources": [
+		"coingecko"
+	]
+}

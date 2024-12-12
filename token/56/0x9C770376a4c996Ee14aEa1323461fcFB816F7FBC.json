@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x9C770376a4c996Ee14aEa1323461fcFB816F7FBC",
+	"symbol": "Decentralized Finance",
+	"name": "Decentralized Finance",
+	"coingecko": "decentralized-finance",
+	"sources": [
+		"coingecko"
+	]
+}

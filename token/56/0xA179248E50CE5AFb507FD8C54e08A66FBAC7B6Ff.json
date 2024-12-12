@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xA179248E50CE5AFb507FD8C54e08A66FBAC7B6Ff",
+	"symbol": "Freedom. Jobs. Business",
+	"name": "Freedom. Jobs. Business",
+	"coingecko": "freedom-jobs-business",
+	"sources": [
+		"coingecko"
+	]
+}

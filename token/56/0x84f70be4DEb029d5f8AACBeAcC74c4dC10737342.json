@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x84f70be4DEb029d5f8AACBeAcC74c4dC10737342",
+	"symbol": "Global Commercial Business",
+	"name": "Global Commercial Business",
+	"coingecko": "global-commercial-business",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x1D229B958D5DDFca92146585a8711aECbE56F095",
+	"symbol": "ZOO Crypto World",
+	"name": "ZOO Crypto World",
+	"coingecko": "zoo-crypto-world",
+	"sources": [
+		"coingecko"
+	]
+}

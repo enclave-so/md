@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x8B6fbA73454101D537d51d5b12614A01067cD168",
+	"symbol": "Gold",
+	"name": "Gold",
+	"coingecko": "gold-4",
+	"sources": [
+		"coingecko"
+	]
+}

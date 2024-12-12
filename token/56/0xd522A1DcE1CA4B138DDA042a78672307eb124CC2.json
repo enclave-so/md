@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xd522A1DcE1CA4B138DDA042a78672307eb124CC2",
+	"symbol": "SWAPZ.app",
+	"name": "SWAPZ.app",
+	"coingecko": "swapz-app",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xd58B8747307936D1324bf8c40F45687c7Bacc6B9",
+	"symbol": "MHCASH",
+	"name": "MHCASH",
+	"coingecko": "mhcash",
+	"sources": [
+		"coingecko"
+	]
+}

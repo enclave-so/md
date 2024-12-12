@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xCfA784a3E9e7E9C88a845Ab9AFA8f3B95fCDF5d0",
+	"symbol": "SHREE",
+	"name": "SHREE",
+	"coingecko": "shree",
+	"sources": [
+		"coingecko"
+	]
+}

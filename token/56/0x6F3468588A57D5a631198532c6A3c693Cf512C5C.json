@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x6F3468588A57D5a631198532c6A3c693Cf512C5C",
+	"symbol": "Grok Moon",
+	"name": "Grok Moon",
+	"coingecko": "grok-moon",
+	"sources": [
+		"coingecko"
+	]
+}

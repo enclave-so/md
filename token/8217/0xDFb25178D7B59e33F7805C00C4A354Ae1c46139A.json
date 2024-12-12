@@ -1,0 +1,10 @@
+{
+	"chain": 8217,
+	"address": "0xDFb25178D7B59e33F7805C00C4A354Ae1c46139A",
+	"symbol": "Cloudbric",
+	"name": "Cloudbric",
+	"coingecko": "cloudbric",
+	"sources": [
+		"coingecko"
+	]
+}

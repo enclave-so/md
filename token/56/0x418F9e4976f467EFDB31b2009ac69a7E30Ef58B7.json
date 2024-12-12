@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x418F9e4976f467EFDB31b2009ac69a7E30Ef58B7",
+	"symbol": "enfineo",
+	"name": "enfineo",
+	"coingecko": "enfineo",
+	"sources": [
+		"coingecko"
+	]
+}

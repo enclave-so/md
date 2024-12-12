@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xFd54E565e6de7509B07CDBa5769178045F212530",
+	"symbol": "Mao",
+	"name": "Mao",
+	"coingecko": "mao-2",
+	"sources": [
+		"coingecko"
+	]
+}

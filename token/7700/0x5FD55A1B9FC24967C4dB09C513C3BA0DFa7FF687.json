@@ -1,0 +1,10 @@
+{
+	"chain": 7700,
+	"address": "0x5FD55A1B9FC24967C4dB09C513C3BA0DFa7FF687",
+	"symbol": "Gravity Bridged WETH (Canto)",
+	"name": "Gravity Bridged WETH (Canto)",
+	"coingecko": "gravity-bridged-weth-canto",
+	"sources": [
+		"coingecko"
+	]
+}

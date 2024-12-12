@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x450dCf93160A30BE156A4600802c91BF64dFFD2E",
+	"symbol": "CorgiCoin",
+	"name": "CorgiCoin",
+	"coingecko": "corgicoin",
+	"sources": [
+		"coingecko"
+	]
+}

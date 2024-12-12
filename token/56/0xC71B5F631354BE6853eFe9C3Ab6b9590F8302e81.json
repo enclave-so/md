@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xC71B5F631354BE6853eFe9C3Ab6b9590F8302e81",
+	"symbol": "Polyhedra Network",
+	"name": "Polyhedra Network",
+	"coingecko": "polyhedra-network",
+	"sources": [
+		"coingecko"
+	]
+}

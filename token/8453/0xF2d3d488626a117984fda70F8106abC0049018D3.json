@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xF2d3d488626a117984fda70F8106abC0049018D3",
+	"symbol": "Miracle Play",
+	"name": "Miracle Play",
+	"coingecko": "miracle-play",
+	"sources": [
+		"coingecko"
+	]
+}

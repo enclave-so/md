@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x8a99feeFC8857e65bE8f098F22765b99113d43Ef",
+	"symbol": "Googly Cat",
+	"name": "Googly Cat",
+	"coingecko": "googly-cat",
+	"sources": [
+		"coingecko"
+	]
+}

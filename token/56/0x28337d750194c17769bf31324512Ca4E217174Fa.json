@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x28337d750194c17769bf31324512Ca4E217174Fa",
+	"symbol": "DTNG",
+	"name": "DTNG",
+	"coingecko": "dtng",
+	"sources": [
+		"coingecko"
+	]
+}

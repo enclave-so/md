@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xf03A2dC374d494fbE894563Fe22eE544d826aa50",
+	"symbol": "Radar",
+	"name": "Radar",
+	"coingecko": "radar",
+	"sources": [
+		"coingecko"
+	]
+}

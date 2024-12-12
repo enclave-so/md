@@ -1,0 +1,10 @@
+{
+	"chain": 7777777,
+	"address": "0x4200000000000000000000000000000000000006",
+	"symbol": "Zora Bridged WETH (Zora Network)",
+	"name": "Zora Bridged WETH (Zora Network)",
+	"coingecko": "zora-bridged-weth-zora-network",
+	"sources": [
+		"coingecko"
+	]
+}

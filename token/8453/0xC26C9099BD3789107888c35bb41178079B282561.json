@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xC26C9099BD3789107888c35bb41178079B282561",
+	"symbol": "Solv Protocol SolvBTC.BBN",
+	"name": "Solv Protocol SolvBTC.BBN",
+	"coingecko": "solv-protocol-solvbtc-bbn",
+	"sources": [
+		"coingecko"
+	]
+}

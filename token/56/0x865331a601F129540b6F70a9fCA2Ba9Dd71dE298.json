@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x865331a601F129540b6F70a9fCA2Ba9Dd71dE298",
+	"symbol": "PonkeFork",
+	"name": "PonkeFork",
+	"coingecko": "ponkefork",
+	"sources": [
+		"coingecko"
+	]
+}

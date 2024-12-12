@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x8DE4228d54FC86D4607c8425e8bECEfB93888fe4",
+	"symbol": "GreenWAVES [OLD]",
+	"name": "GreenWAVES [OLD]",
+	"coingecko": "greenwaves",
+	"sources": [
+		"coingecko"
+	]
+}

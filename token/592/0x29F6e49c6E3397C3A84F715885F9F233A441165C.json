@@ -1,0 +1,10 @@
+{
+	"chain": 592,
+	"address": "0x29F6e49c6E3397C3A84F715885F9F233A441165C",
+	"symbol": "Origin Dollar",
+	"name": "Origin Dollar",
+	"coingecko": "origin-dollar",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xE283D0e3B8c102BAdF5E8166B73E02D96d92F688",
+	"symbol": "Elephant Money",
+	"name": "Elephant Money",
+	"coingecko": "elephant-money",
+	"sources": [
+		"coingecko"
+	]
+}

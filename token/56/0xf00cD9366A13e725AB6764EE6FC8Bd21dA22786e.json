@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xf00cD9366A13e725AB6764EE6FC8Bd21dA22786e",
+	"symbol": "THE WORD",
+	"name": "THE WORD",
+	"coingecko": "the-word",
+	"sources": [
+		"coingecko"
+	]
+}

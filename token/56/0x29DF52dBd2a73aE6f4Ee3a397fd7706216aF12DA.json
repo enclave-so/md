@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x29DF52dBd2a73aE6f4Ee3a397fd7706216aF12DA",
+	"symbol": "ZilPepe",
+	"name": "ZilPepe",
+	"coingecko": "zilpepe",
+	"sources": [
+		"coingecko"
+	]
+}

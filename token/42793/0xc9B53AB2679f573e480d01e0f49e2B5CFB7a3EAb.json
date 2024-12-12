@@ -1,0 +1,10 @@
+{
+	"chain": 42793,
+	"address": "0xc9B53AB2679f573e480d01e0f49e2B5CFB7a3EAb",
+	"symbol": "Wrapped XTZ",
+	"name": "Wrapped XTZ",
+	"coingecko": "wrapped-xtz",
+	"sources": [
+		"coingecko"
+	]
+}

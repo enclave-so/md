@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xd473475958d4C1538418224a52E5c0a6c997835A",
+	"symbol": "Based Brians",
+	"name": "Based Brians",
+	"coingecko": "based-brians",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x4B5C23cac08a567ecf0c1fFcA8372A45a5D33743",
+	"symbol": "Harvest Finance",
+	"name": "Harvest Finance",
+	"coingecko": "harvest-finance",
+	"sources": [
+		"coingecko"
+	]
+}

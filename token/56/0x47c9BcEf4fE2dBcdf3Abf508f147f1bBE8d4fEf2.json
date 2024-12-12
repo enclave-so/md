@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x47c9BcEf4fE2dBcdf3Abf508f147f1bBE8d4fEf2",
+	"symbol": "Flurry Finance",
+	"name": "Flurry Finance",
+	"coingecko": "flurry",
+	"sources": [
+		"coingecko"
+	]
+}

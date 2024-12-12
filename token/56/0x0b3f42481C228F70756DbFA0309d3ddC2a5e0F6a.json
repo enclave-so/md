@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x0b3f42481C228F70756DbFA0309d3ddC2a5e0F6a",
+	"symbol": "UltraSafe",
+	"name": "UltraSafe",
+	"coingecko": "ultrasafe",
+	"sources": [
+		"coingecko"
+	]
+}

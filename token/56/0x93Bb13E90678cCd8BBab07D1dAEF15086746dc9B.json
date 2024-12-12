@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x93Bb13E90678cCd8BBab07D1dAEF15086746dc9B",
+	"symbol": "PlayPad",
+	"name": "PlayPad",
+	"coingecko": "playpad",
+	"sources": [
+		"coingecko"
+	]
+}

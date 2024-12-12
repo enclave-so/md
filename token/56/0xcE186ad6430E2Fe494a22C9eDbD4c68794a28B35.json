@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xcE186ad6430E2Fe494a22C9eDbD4c68794a28B35",
+	"symbol": "LoopNetwork",
+	"name": "LoopNetwork",
+	"coingecko": "loopnetwork",
+	"sources": [
+		"coingecko"
+	]
+}

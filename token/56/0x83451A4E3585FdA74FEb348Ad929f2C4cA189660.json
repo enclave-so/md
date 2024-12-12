@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x83451A4E3585FdA74FEb348Ad929f2C4cA189660",
+	"symbol": "Hunter Token",
+	"name": "Hunter Token",
+	"coingecko": "hunter",
+	"sources": [
+		"coingecko"
+	]
+}

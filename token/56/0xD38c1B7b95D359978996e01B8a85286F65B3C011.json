@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xD38c1B7b95D359978996e01B8a85286F65B3C011",
+	"symbol": "Rage.Fan",
+	"name": "Rage.Fan",
+	"coingecko": "rage-fan",
+	"sources": [
+		"coingecko"
+	]
+}

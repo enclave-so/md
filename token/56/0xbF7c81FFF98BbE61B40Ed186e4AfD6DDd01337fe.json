@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xbF7c81FFF98BbE61B40Ed186e4AfD6DDd01337fe",
+	"symbol": "Wrapped EGLD",
+	"name": "Wrapped EGLD",
+	"coingecko": "wrapped-elrond",
+	"sources": [
+		"coingecko"
+	]
+}

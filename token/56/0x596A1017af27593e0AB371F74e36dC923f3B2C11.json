@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x596A1017af27593e0AB371F74e36dC923f3B2C11",
+	"symbol": "NinjaPepe",
+	"name": "NinjaPepe",
+	"coingecko": "ninjapepe",
+	"sources": [
+		"coingecko"
+	]
+}

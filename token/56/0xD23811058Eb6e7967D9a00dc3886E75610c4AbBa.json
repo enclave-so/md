@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xD23811058Eb6e7967D9a00dc3886E75610c4AbBa",
+	"symbol": "KnightSwap",
+	"name": "KnightSwap",
+	"coingecko": "knightswap",
+	"sources": [
+		"coingecko"
+	]
+}

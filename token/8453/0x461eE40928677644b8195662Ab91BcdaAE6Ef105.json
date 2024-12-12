@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x461eE40928677644b8195662Ab91BcdaAE6Ef105",
+	"symbol": "Dook",
+	"name": "Dook",
+	"coingecko": "dook",
+	"sources": [
+		"coingecko"
+	]
+}

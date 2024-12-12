@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x85645b86243886b7c7c1DA6288571F8bEa6fC035",
+	"symbol": "Tyler",
+	"name": "Tyler",
+	"coingecko": "tyler-2",
+	"sources": [
+		"coingecko"
+	]
+}

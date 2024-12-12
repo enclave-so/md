@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x1a35EE4640b0A3B87705B0A4B45D227Ba60Ca2ad",
+	"symbol": "axlWBTC",
+	"name": "axlWBTC",
+	"coingecko": "axlwbtc",
+	"sources": [
+		"coingecko"
+	]
+}

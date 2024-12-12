@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x7324c7C0d95CEBC73eEa7E85CbAac0dBdf88a05b",
+	"symbol": "Onyxcoin",
+	"name": "Onyxcoin",
+	"coingecko": "chain-2",
+	"sources": [
+		"coingecko"
+	]
+}

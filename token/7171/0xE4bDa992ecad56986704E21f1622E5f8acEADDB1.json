@@ -1,0 +1,10 @@
+{
+	"chain": 7171,
+	"address": "0xE4bDa992ecad56986704E21f1622E5f8acEADDB1",
+	"symbol": "Rockstar",
+	"name": "Rockstar",
+	"coingecko": "rockstar",
+	"sources": [
+		"coingecko"
+	]
+}

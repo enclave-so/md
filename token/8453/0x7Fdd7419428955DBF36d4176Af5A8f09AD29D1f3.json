@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x7Fdd7419428955DBF36d4176Af5A8f09AD29D1f3",
+	"symbol": "Based Boshi",
+	"name": "Based Boshi",
+	"coingecko": "based-boshi",
+	"sources": [
+		"coingecko"
+	]
+}

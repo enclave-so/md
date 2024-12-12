@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x6a4F69Da1E2fb2a9b11D1AAD60d03163fE567732",
+	"symbol": "SHOG",
+	"name": "SHOG",
+	"coingecko": "shog",
+	"sources": [
+		"coingecko"
+	]
+}

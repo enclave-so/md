@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x2cb63fCD1380a8aD0Ff5bA16DdCBDF4935154Da8",
+	"symbol": "TopTrade",
+	"name": "TopTrade",
+	"coingecko": "toptrade",
+	"sources": [
+		"coingecko"
+	]
+}

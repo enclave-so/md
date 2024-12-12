@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xCfA3Ef56d303AE4fAabA0592388F19d7C3399FB4",
+	"symbol": "Electronic USD",
+	"name": "Electronic USD",
+	"coingecko": "electronic-usd",
+	"sources": [
+		"coingecko"
+	]
+}

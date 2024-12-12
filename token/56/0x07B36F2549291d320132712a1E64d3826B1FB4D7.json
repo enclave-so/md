@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x07B36F2549291d320132712a1E64d3826B1FB4D7",
+	"symbol": "Wifedoge",
+	"name": "Wifedoge",
+	"coingecko": "wifedoge",
+	"sources": [
+		"coingecko"
+	]
+}

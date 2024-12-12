@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x0255af6c9f86F6B0543357baCefA262A2664f80F",
+	"symbol": "Immutable",
+	"name": "Immutable",
+	"coingecko": "immutable",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x80d04E44955AA9c3F24041B2A824A20A88E735a8",
+	"symbol": "Multiverse Capital",
+	"name": "Multiverse Capital",
+	"coingecko": "multiverse-capital",
+	"sources": [
+		"coingecko"
+	]
+}

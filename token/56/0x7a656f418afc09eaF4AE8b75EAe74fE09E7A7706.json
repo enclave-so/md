@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x7a656f418afc09eaF4AE8b75EAe74fE09E7A7706",
+	"symbol": "OPYx",
+	"name": "OPYx",
+	"coingecko": "opportunity",
+	"sources": [
+		"coingecko"
+	]
+}

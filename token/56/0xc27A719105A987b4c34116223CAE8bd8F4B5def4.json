@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xc27A719105A987b4c34116223CAE8bd8F4B5def4",
+	"symbol": "Fusionist",
+	"name": "Fusionist",
+	"coingecko": "endurance",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xc003F5193CABE3a6cbB56948dFeaAE2276a6AA5E",
+	"symbol": "TruBadger",
+	"name": "TruBadger",
+	"coingecko": "trubadger",
+	"sources": [
+		"coingecko"
+	]
+}

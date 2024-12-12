@@ -1,0 +1,11 @@
+{
+	"chain": 43114,
+	"address": "0xa6220B4209353dFeF03B6cE410c8F01105515f94",
+	"symbol": "axlWBTC",
+	"name": "Axelar Wrapped WBTC",
+	"decimals": 8,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0xa6220B4209353dFeF03B6cE410c8F01105515f94.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x308FC5CdD559Be5cB62B08A26a4699bBef4a888f",
+	"symbol": "Decentralized Community Investment Protocol",
+	"name": "Decentralized Community Investment Protocol",
+	"coingecko": "decentralized-community-investment-protocol",
+	"sources": [
+		"coingecko"
+	]
+}

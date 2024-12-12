@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x5F320C3b8f82AcFe8f2Bb1C85D63aA66A7FF524f",
+	"symbol": "Nelore Coin",
+	"name": "Nelore Coin",
+	"coingecko": "nelore-coin",
+	"sources": [
+		"coingecko"
+	]
+}

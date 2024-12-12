@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x922722E9Ef614EC9A3E94b78496e92AbFBb5A624",
+	"symbol": "ILCAPO",
+	"name": "ILCAPO",
+	"coingecko": "ilcapo",
+	"sources": [
+		"coingecko"
+	]
+}

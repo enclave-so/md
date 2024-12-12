@@ -1,0 +1,10 @@
+{
+	"chain": 480,
+	"address": "0x2cFc85d8E48F8EAB294be644d9E25C3030863003",
+	"symbol": "Worldcoin",
+	"name": "Worldcoin",
+	"coingecko": "worldcoin-wld",
+	"sources": [
+		"coingecko"
+	]
+}

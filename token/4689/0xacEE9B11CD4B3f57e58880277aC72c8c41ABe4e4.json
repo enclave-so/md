@@ -1,0 +1,10 @@
+{
+	"chain": 4689,
+	"address": "0xacEE9B11CD4B3f57e58880277aC72c8c41ABe4e4",
+	"symbol": "ioBUSD",
+	"name": "ioBUSD",
+	"coingecko": "iobusd",
+	"sources": [
+		"coingecko"
+	]
+}

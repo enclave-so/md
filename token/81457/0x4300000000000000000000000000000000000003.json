@@ -1,0 +1,13 @@
+{
+	"chain": 81457,
+	"address": "0x4300000000000000000000000000000000000003",
+	"symbol": "USDB",
+	"name": "USD Blast",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/blast/0x4300000000000000000000000000000000000003.jpg",
+	"coingecko": "usdb",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

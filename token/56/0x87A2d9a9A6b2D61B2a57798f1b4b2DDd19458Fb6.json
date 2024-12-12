@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x87A2d9a9A6b2D61B2a57798f1b4b2DDd19458Fb6",
+	"symbol": "KingdomStarter",
+	"name": "KingdomStarter",
+	"coingecko": "kingdom-game-4-0",
+	"sources": [
+		"coingecko"
+	]
+}

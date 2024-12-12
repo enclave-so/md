@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x56f46bD073E9978Eb6984C0c3e5c661407c3A447",
+	"symbol": "decapitaltoken",
+	"name": "decapitaltoken",
+	"coingecko": "decapitaltoken",
+	"sources": [
+		"coingecko"
+	]
+}

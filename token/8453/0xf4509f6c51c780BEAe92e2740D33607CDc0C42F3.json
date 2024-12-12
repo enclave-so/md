@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xf4509f6c51c780BEAe92e2740D33607CDc0C42F3",
+	"symbol": "Chooky Records",
+	"name": "Chooky Records",
+	"coingecko": "chooky-records",
+	"sources": [
+		"coingecko"
+	]
+}

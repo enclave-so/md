@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x518445F0dB93863E5e93A7F70617c05AFa8048f1",
+	"symbol": "BITT",
+	"name": "BITT",
+	"coingecko": "bittoken",
+	"sources": [
+		"coingecko"
+	]
+}

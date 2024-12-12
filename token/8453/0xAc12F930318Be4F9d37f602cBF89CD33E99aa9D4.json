@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xAc12F930318Be4F9d37f602cBF89CD33E99aa9D4",
+	"symbol": "Wexo",
+	"name": "Wexo",
+	"coingecko": "wexo",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x4b87F578d6FaBf381f43bd2197fBB2A877da6ef8",
+	"symbol": "The Big Five",
+	"name": "The Big Five",
+	"coingecko": "the-big-five",
+	"sources": [
+		"coingecko"
+	]
+}

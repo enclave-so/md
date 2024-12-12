@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xb95fB324b8A2fAF8ec4f76e3dF46C718402736e2",
+	"symbol": "Flat Money",
+	"name": "Flat Money",
+	"coingecko": "flat-money",
+	"sources": [
+		"coingecko"
+	]
+}

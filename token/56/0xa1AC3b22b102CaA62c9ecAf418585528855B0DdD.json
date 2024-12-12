@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xa1AC3b22b102CaA62c9ecAf418585528855B0DdD",
+	"symbol": "Stripto",
+	"name": "Stripto",
+	"coingecko": "stripto",
+	"sources": [
+		"coingecko"
+	]
+}

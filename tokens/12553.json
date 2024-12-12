@@ -1,0 +1,42 @@
+[
+	{
+		"chain": 12553,
+		"address": "0x4200000000000000000000000000000000000042",
+		"symbol": "RSS3",
+		"name": "RSS3",
+		"coingecko": "rss3",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 12553,
+		"address": "0xb62F35B9546A908d11c5803ecBBA735AbC3E3eaE",
+		"symbol": "RSS3 Bridged USDC (RSS3)",
+		"name": "RSS3 Bridged USDC (RSS3)",
+		"coingecko": "rss3-bridged-usdc-rss3",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 12553,
+		"address": "0xE27D019909738D98Ab7F850C05eE07806c30c71D",
+		"symbol": "Wrapped RSS3",
+		"name": "Wrapped RSS3",
+		"coingecko": "wrapped-rss3",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 12553,
+		"address": "0xE06Af68F0c9e819513a6CD083EF6848E76C28CD8",
+		"symbol": "POWER",
+		"name": "POWER",
+		"coingecko": "power-2",
+		"sources": [
+			"coingecko"
+		]
+	}
+]

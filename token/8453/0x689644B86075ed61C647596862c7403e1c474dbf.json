@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x689644B86075ed61C647596862c7403e1c474dbf",
+	"symbol": "Bamboo on Base",
+	"name": "Bamboo on Base",
+	"coingecko": "bamboo-on-base",
+	"sources": [
+		"coingecko"
+	]
+}

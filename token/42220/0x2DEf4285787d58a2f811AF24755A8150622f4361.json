@@ -1,0 +1,13 @@
+{
+	"chain": 42220,
+	"address": "0x2DEf4285787d58a2f811AF24755A8150622f4361",
+	"symbol": "cETH",
+	"name": "wrapped.com Ethereum",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/weth.jpg",
+	"coingecko": "wrapped-ceth",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

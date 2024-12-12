@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x606379220AB266bBE4b0FeF8469e6E602f295a84",
+	"symbol": "Glow Token",
+	"name": "Glow Token",
+	"coingecko": "glow-token-8fba1e9e-5643-47b4-8fef-d0eef67af854",
+	"sources": [
+		"coingecko"
+	]
+}

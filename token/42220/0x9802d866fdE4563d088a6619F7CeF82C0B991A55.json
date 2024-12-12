@@ -1,0 +1,10 @@
+{
+	"chain": 42220,
+	"address": "0x9802d866fdE4563d088a6619F7CeF82C0B991A55",
+	"symbol": "Moola interest bearing CREAL",
+	"name": "Moola interest bearing CREAL",
+	"coingecko": "moola-interest-bearing-creal",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xD585F9C5953CA97DA3551f20725a274c9e442ff3",
+	"symbol": "Pegazus Finance",
+	"name": "Pegazus Finance",
+	"coingecko": "pegazus-finance",
+	"sources": [
+		"coingecko"
+	]
+}

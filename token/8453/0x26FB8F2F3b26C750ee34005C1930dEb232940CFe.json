@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x26FB8F2F3b26C750ee34005C1930dEb232940CFe",
+	"symbol": "Refund (Base)",
+	"name": "Refund (Base)",
+	"coingecko": "refund-base",
+	"sources": [
+		"coingecko"
+	]
+}

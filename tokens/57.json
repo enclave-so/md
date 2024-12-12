@@ -1,0 +1,82 @@
+[
+	{
+		"chain": 57,
+		"address": "0xc9BAA8cfdDe8E328787E29b4B078abf2DaDc2055",
+		"symbol": "Multichain Bridged WBTC (Syscoin NEVM)",
+		"name": "Multichain Bridged WBTC (Syscoin NEVM)",
+		"coingecko": "multichain-bridged-wbtc-syscoin-nevm",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 57,
+		"address": "0x7C598c96D02398d89FbCb9d41Eab3DF0C16F227D",
+		"symbol": "Multichain Bridged WETH (Syscoin NEVM)",
+		"name": "Multichain Bridged WETH (Syscoin NEVM)",
+		"coingecko": "multichain-bridged-weth-syscoin-nevm",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 57,
+		"address": "0xE18c200A70908c89fFA18C628fE1B83aC0065EA4",
+		"symbol": "Pegasys (Syscoin NEVM)",
+		"name": "Pegasys (Syscoin NEVM)",
+		"coingecko": "pegasys",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 57,
+		"address": "0x9Ce31FF4c2ccFcc2aE8708C0178fC021a86Ac18e",
+		"symbol": "SuperDapp",
+		"name": "SuperDapp",
+		"coingecko": "superdapp",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 57,
+		"address": "0xd3e822f3ef011Ca5f17D82C956D952D8d7C3A1BB",
+		"symbol": "Wrapped Syscoin",
+		"name": "Wrapped Syscoin",
+		"coingecko": "wrapped-syscoin",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 57,
+		"address": "0x58950D6897BB85b42fe619Cb59F25566070A409A",
+		"symbol": "Luxy",
+		"name": "Luxy",
+		"coingecko": "luxy",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 57,
+		"address": "0x2611FA1cae2a3E20Ed47fB1b293437c14f41B00f",
+		"symbol": "MAI",
+		"name": "MAI",
+		"coingecko": "mimatic",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 57,
+		"address": "0xeFAeeE334F0Fd1712f9a8cc375f427D9Cdd40d73",
+		"symbol": "Multichain Bridged DAI (Syscoin NEVM)",
+		"name": "Multichain Bridged DAI (Syscoin NEVM)",
+		"coingecko": "multichain-bridged-dai-syscoin-nevm",
+		"sources": [
+			"coingecko"
+		]
+	}
+]

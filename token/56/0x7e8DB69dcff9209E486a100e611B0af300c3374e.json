@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x7e8DB69dcff9209E486a100e611B0af300c3374e",
+	"symbol": "Traders Coin",
+	"name": "Traders Coin",
+	"coingecko": "traders-coin",
+	"sources": [
+		"coingecko"
+	]
+}

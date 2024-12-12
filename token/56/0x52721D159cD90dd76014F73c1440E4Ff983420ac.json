@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x52721D159cD90dd76014F73c1440E4Ff983420ac",
+	"symbol": "Troll Face",
+	"name": "Troll Face",
+	"coingecko": "troll-face",
+	"sources": [
+		"coingecko"
+	]
+}

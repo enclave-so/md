@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xc41689A727469C1573009757200371edf36D540e",
+	"symbol": "Dynamix",
+	"name": "Dynamix",
+	"coingecko": "dynamix",
+	"sources": [
+		"coingecko"
+	]
+}

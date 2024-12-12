@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x8Eb270e296023E9D92081fdF967dDd7878724424",
+	"symbol": "Aave v3 MAI",
+	"name": "Aave v3 MAI",
+	"coingecko": "aave-v3-mai",
+	"sources": [
+		"coingecko"
+	]
+}

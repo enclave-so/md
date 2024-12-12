@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xBB1861068Fca591bD3009a1d3B7f985f3a6400f8",
+	"symbol": "Realvirm",
+	"name": "Realvirm",
+	"coingecko": "realvirm",
+	"sources": [
+		"coingecko"
+	]
+}

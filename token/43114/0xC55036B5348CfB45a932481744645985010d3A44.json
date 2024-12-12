@@ -1,0 +1,13 @@
+{
+	"chain": 43114,
+	"address": "0xC55036B5348CfB45a932481744645985010d3A44",
+	"symbol": "WINE",
+	"name": "Wine Shares",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xC55036B5348CfB45a932481744645985010d3A44/logo.png",
+	"coingecko": "wine-shares",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x1B391f9d0FfFa86A6088a73ac4AC28d12c9ccFbd",
+	"symbol": "Sustainable Energy",
+	"name": "Sustainable Energy",
+	"coingecko": "sustainable-energy-token",
+	"sources": [
+		"coingecko"
+	]
+}

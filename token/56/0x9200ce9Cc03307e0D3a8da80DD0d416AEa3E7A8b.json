@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x9200ce9Cc03307e0D3a8da80DD0d416AEa3E7A8b",
+	"symbol": "BitMinerX",
+	"name": "BitMinerX",
+	"coingecko": "bitminerx",
+	"sources": [
+		"coingecko"
+	]
+}

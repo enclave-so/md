@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xC9882dEF23bc42D53895b8361D0b1EDC7570Bc6A",
+	"symbol": "Fistbump",
+	"name": "Fistbump",
+	"coingecko": "fistbump",
+	"sources": [
+		"coingecko"
+	]
+}

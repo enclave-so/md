@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xCE6bD1833BD077f62B2c1F9a777bB829801d6811",
+	"symbol": "Bobcoin",
+	"name": "Bobcoin",
+	"coingecko": "bobcoin",
+	"sources": [
+		"coingecko"
+	]
+}

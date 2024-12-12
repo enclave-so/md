@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x0864c156b3C5F69824564dEC60c629aE6401bf2a",
+	"symbol": "Streamr",
+	"name": "Streamr",
+	"coingecko": "streamr",
+	"sources": [
+		"coingecko"
+	]
+}

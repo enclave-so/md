@@ -1,0 +1,10 @@
+{
+	"chain": 81457,
+	"address": "0x236bb48fcF61ce996B2C8C196a9258c176100c7d",
+	"symbol": "RabbitX",
+	"name": "RabbitX",
+	"coingecko": "rabbitx",
+	"sources": [
+		"coingecko"
+	]
+}

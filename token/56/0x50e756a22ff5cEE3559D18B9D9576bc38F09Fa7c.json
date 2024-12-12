@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x50e756a22ff5cEE3559D18B9D9576bc38F09Fa7c",
+	"symbol": "MetaWars",
+	"name": "MetaWars",
+	"coingecko": "metawars",
+	"sources": [
+		"coingecko"
+	]
+}

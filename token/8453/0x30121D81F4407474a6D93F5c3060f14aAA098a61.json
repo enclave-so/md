@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x30121D81F4407474a6D93F5c3060f14aAA098a61",
+	"symbol": "Insane Labz (Base)",
+	"name": "Insane Labz (Base)",
+	"coingecko": "insane-labz-base",
+	"sources": [
+		"coingecko"
+	]
+}

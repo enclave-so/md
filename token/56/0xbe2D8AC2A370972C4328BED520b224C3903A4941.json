@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xbe2D8AC2A370972C4328BED520b224C3903A4941",
+	"symbol": "Novem Pro",
+	"name": "Novem Pro",
+	"coingecko": "novem-pro",
+	"sources": [
+		"coingecko"
+	]
+}

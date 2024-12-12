@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xBB02E0DC6Ca8c838DAA2f73F045f831bA3Dcd4A2",
+	"symbol": "MB COIN",
+	"name": "MB COIN",
+	"coingecko": "mb-coin",
+	"sources": [
+		"coingecko"
+	]
+}

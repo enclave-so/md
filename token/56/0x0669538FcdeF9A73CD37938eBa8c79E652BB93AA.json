@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x0669538FcdeF9A73CD37938eBa8c79E652BB93AA",
+	"symbol": "Script Network",
+	"name": "Script Network",
+	"coingecko": "script-network",
+	"sources": [
+		"coingecko"
+	]
+}

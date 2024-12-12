@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x0b3e328455c4059EEb9e3f84b5543F74E24e7E1b",
+	"symbol": "Virtuals Protocol",
+	"name": "Virtuals Protocol",
+	"coingecko": "virtual-protocol",
+	"sources": [
+		"coingecko"
+	]
+}

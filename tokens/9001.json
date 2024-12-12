@@ -1,0 +1,172 @@
+[
+	{
+		"chain": 9001,
+		"address": "0xE03494D0033687543a80c9B1ca7D6237F2EA8BD8",
+		"symbol": "Frax",
+		"name": "Frax",
+		"coingecko": "frax",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 9001,
+		"address": "0x80b5a32E4F032B2a058b4F29EC95EEfEEB87aDcd",
+		"symbol": "Graviton",
+		"name": "Graviton",
+		"coingecko": "graviton",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 9001,
+		"address": "0x0CE35b0D42608Ca54Eb7bcc8044f7087C18E7717",
+		"symbol": "Regen",
+		"name": "Regen",
+		"coingecko": "regen",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 9001,
+		"address": "0x153A59d48AcEAbedbDCf7a13F67Ae52b434B810B",
+		"symbol": "Wrapped Ether - Celer",
+		"name": "Wrapped Ether - Celer",
+		"coingecko": "wrapped-ether-celer",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 9001,
+		"address": "0x5db67696C3c088DfBf588d3dd849f44266ff0ffa",
+		"symbol": "e-Money EUR",
+		"name": "e-Money EUR",
+		"coingecko": "e-money-eur",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 9001,
+		"address": "0xd8176865DD0D672c6Ab4A427572f80A72b4B4A9C",
+		"symbol": "Frax Share",
+		"name": "Frax Share",
+		"coingecko": "frax-share",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 9001,
+		"address": "0xFA3C22C069B9556A4B2f7EcE1Ee3B467909f4864",
+		"symbol": "Osmosis",
+		"name": "Osmosis",
+		"coingecko": "osmosis",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 9001,
+		"address": "0xc8B4d3e67238e38B20d38908646fF6F4F48De5EC",
+		"symbol": "Stride Staked Atom",
+		"name": "Stride Staked Atom",
+		"coingecko": "stride-staked-atom",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 9001,
+		"address": "0x15C3Eb3B621d1Bff62CbA1c9536B7c1AE9149b57",
+		"symbol": "Axelar Bridged USDC",
+		"name": "Axelar Bridged USDC",
+		"coingecko": "axlusdc",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 9001,
+		"address": "0x50dE24B3f0B3136C50FA8A3B8ebc8BD80a269ce5",
+		"symbol": "Axelar Wrapped Ether",
+		"name": "Axelar Wrapped Ether",
+		"coingecko": "axlweth",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 9001,
+		"address": "0x3452e23F9c4cC62c70B7ADAd699B264AF3549C19",
+		"symbol": "JUNO",
+		"name": "JUNO",
+		"coingecko": "juno-network",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 9001,
+		"address": "0x13974cf36984216C90D1F4FC815C156092feA396",
+		"symbol": "USK",
+		"name": "USK",
+		"coingecko": "usk",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 9001,
+		"address": "0xb98e169C37ce30Dd47Fdad1f9726Fb832191e60b",
+		"symbol": "Wrapped Bitcoin - Celer",
+		"name": "Wrapped Bitcoin - Celer",
+		"coingecko": "wrapped-bitcoin-celer",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 9001,
+		"address": "0xFEa7a6a0B346362BF88A9e4A88416B77a57D6c2A",
+		"symbol": "Arable Protocol",
+		"name": "Arable Protocol",
+		"coingecko": "arable-protocol",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 9001,
+		"address": "0xF5b24c0093b65408ACE53df7ce86a02448d53b25",
+		"symbol": "axlWBTC",
+		"name": "axlWBTC",
+		"coingecko": "axlwbtc",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 9001,
+		"address": "0xC5e00D3b04563950941f7137B5AfA3a534F0D6d6",
+		"symbol": "Cosmos Hub",
+		"name": "Cosmos Hub",
+		"coingecko": "cosmos",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 9001,
+		"address": "0x5aD523d94Efb56C400941eb6F34393b84c75ba39",
+		"symbol": "Stargaze",
+		"name": "Stargaze",
+		"coingecko": "stargaze",
+		"sources": [
+			"coingecko"
+		]
+	}
+]

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xAed8bD0608ef3Cc45290a8d0E4223Ef4C92Dd3dc",
+	"symbol": "Avoteo",
+	"name": "Avoteo",
+	"coingecko": "avoteo",
+	"sources": [
+		"coingecko"
+	]
+}

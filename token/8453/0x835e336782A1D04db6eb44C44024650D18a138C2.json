@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x835e336782A1D04db6eb44C44024650D18a138C2",
+	"symbol": "BAGEL Coin",
+	"name": "BAGEL Coin",
+	"coingecko": "bagel-coin",
+	"sources": [
+		"coingecko"
+	]
+}

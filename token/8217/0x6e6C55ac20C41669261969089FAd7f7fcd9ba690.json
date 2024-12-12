@@ -1,0 +1,10 @@
+{
+	"chain": 8217,
+	"address": "0x6e6C55ac20C41669261969089FAd7f7fcd9ba690",
+	"symbol": "AMO Coin",
+	"name": "AMO Coin",
+	"coingecko": "amo",
+	"sources": [
+		"coingecko"
+	]
+}

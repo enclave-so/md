@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xdA2c0CDf7d764F8C587380CAdF7129E5eCb7Efb7",
+	"symbol": "Puppets Coin",
+	"name": "Puppets Coin",
+	"coingecko": "puppets-arts-2",
+	"sources": [
+		"coingecko"
+	]
+}

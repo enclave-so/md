@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x47Fd014706081068448b89Fc6bAca2730977216a",
+	"symbol": "Pepe the Frog",
+	"name": "Pepe the Frog",
+	"coingecko": "pepe-the-frog",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x5f4Bde007Dc06b867f86EBFE4802e34A1fFEEd63",
+	"symbol": "Highstreet",
+	"name": "Highstreet",
+	"coingecko": "highstreet",
+	"sources": [
+		"coingecko"
+	]
+}

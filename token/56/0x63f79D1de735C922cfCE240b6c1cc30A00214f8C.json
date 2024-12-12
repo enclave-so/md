@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x63f79D1de735C922cfCE240b6c1cc30A00214f8C",
+	"symbol": "Baby Meme Coin",
+	"name": "Baby Meme Coin",
+	"coingecko": "baby-meme-coin",
+	"sources": [
+		"coingecko"
+	]
+}

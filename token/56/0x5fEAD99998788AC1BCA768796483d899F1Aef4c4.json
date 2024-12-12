@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x5fEAD99998788AC1BCA768796483d899F1Aef4c4",
+	"symbol": "Jindo Inu",
+	"name": "Jindo Inu",
+	"coingecko": "jindo-inu",
+	"sources": [
+		"coingecko"
+	]
+}

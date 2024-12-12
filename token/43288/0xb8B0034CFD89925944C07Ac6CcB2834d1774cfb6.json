@@ -1,0 +1,11 @@
+{
+	"chain": 43288,
+	"address": "0xb8B0034CFD89925944C07Ac6CcB2834d1774cfb6",
+	"symbol": "BUSD.e",
+	"name": "Binance USD",
+	"decimals": 6,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/boba-avax/0xb8B0034CFD89925944C07Ac6CcB2834d1774cfb6.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

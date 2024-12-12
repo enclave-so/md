@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x0f577433Bf59560Ef2a79c124E9Ff99fCa258948",
+	"symbol": "Moremoney USD",
+	"name": "Moremoney USD",
+	"coingecko": "moremoney-usd",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xFdad8EDC724277e975F4955d288C6EB5b20A3146",
+	"symbol": "Nulswap",
+	"name": "Nulswap",
+	"coingecko": "nulswap",
+	"sources": [
+		"coingecko"
+	]
+}

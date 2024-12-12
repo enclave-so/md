@@ -1,0 +1,11 @@
+{
+	"chain": 56,
+	"address": "0x9Fe28D11ce29E340B7124C493F59607cbAB9ce48",
+	"symbol": "SPELL",
+	"name": "Spell",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/binance/0x9Fe28D11ce29E340B7124C493F59607cbAB9ce48.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

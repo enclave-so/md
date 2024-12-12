@@ -1,0 +1,10 @@
+{
+	"chain": 42220,
+	"address": "0x9995cc8F20Db5896943Afc8eE0ba463259c931ed",
+	"symbol": "Ethix",
+	"name": "Ethix",
+	"coingecko": "ethichub",
+	"sources": [
+		"coingecko"
+	]
+}

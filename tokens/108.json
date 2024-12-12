@@ -1,0 +1,232 @@
+[
+	{
+		"chain": 108,
+		"address": "0xABd380327Fe66724FFDa91A87c772FB8D00bE488",
+		"symbol": "anySUSHI",
+		"name": "SushiToken",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/thundercore/0xABd380327Fe66724FFDa91A87c772FB8D00bE488.jpg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 108,
+		"address": "0xD441cD6eCfA027721B4d9ea5D9a6A9649ad8b3dA",
+		"symbol": "FTT",
+		"name": "Farm Thunder Token",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/thundercore/0xD441cD6eCfA027721B4d9ea5D9a6A9649ad8b3dA.jpg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 108,
+		"address": "0x8f23FC0257d6E8256cd3Fdea14911CA3E491DAB0",
+		"symbol": "Prize",
+		"name": "Prize",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/thundercore/0x8f23FC0257d6E8256cd3Fdea14911CA3E491DAB0.jpg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 108,
+		"address": "0x71CF496Fc5Bc3041496421F09b069BC1cf6c98Db",
+		"symbol": "SCG",
+		"name": "SCGames Token",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/thundercore/0x71CF496Fc5Bc3041496421F09b069BC1cf6c98Db.jpg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 108,
+		"address": "0x22e89898A04eaf43379BeB70bf4E38b1faf8A31e",
+		"symbol": "TT-USDC",
+		"name": "USDC",
+		"decimals": 6,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/thundercore/0x22e89898A04eaf43379BeB70bf4E38b1faf8A31e.jpg",
+		"coingecko": "thundercore-bridged-usdc-thundercore",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 108,
+		"address": "0x1d44A37D6104DF6Cf996425839829BE09bEE4F33",
+		"symbol": "LASER",
+		"name": "Laser Token",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/thundercore/0x1d44A37D6104DF6Cf996425839829BE09bEE4F33.jpg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 108,
+		"address": "0x9BAFB0Da04147276711721627Bf37b026dbfe10F",
+		"symbol": "NUM",
+		"name": "NUM Token",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/thundercore/0x9BAFB0Da04147276711721627Bf37b026dbfe10F.jpg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 108,
+		"address": "0xBEB0131D95AC3F03fd15894D0aDE5DBf7451d171",
+		"symbol": "Thundercore Bridged BUSD (Thundercore)",
+		"name": "Thundercore Bridged BUSD (Thundercore)",
+		"coingecko": "thundercore-bridged-busd-thundercore",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 108,
+		"address": "0xD3e916699dA7266EF673d10342334e25cfFc2Ab6",
+		"symbol": "Dolphin",
+		"name": "Dolphin",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/thundercore/0xD3e916699dA7266EF673d10342334e25cfFc2Ab6.jpg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 108,
+		"address": "0x218c3c3D49d0E7B37aff0D8bB079de36Ae61A4c0",
+		"symbol": "GEM",
+		"name": "NFTmall GEM Token",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/thundercore/0x218c3c3D49d0E7B37aff0D8bB079de36Ae61A4c0.jpg",
+		"coingecko": "nftmall",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 108,
+		"address": "0xFf938bF442ACEF553441f06f35d2871a7393Ec2e",
+		"symbol": "Seal",
+		"name": "Seal",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/thundercore/0xFf938bF442ACEF553441f06f35d2871a7393Ec2e.jpg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 108,
+		"address": "0xAB2AACF20B163E68E0a318aa8FeE7E023B17cCD9",
+		"symbol": "Shark",
+		"name": "Shark",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/thundercore/0xAB2AACF20B163E68E0a318aa8FeE7E023B17cCD9.jpg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 108,
+		"address": "0x1139136d973323ce500443037Fb9741deac0CA16",
+		"symbol": "TT-SUSHI",
+		"name": "ThunderCore Sushi Token",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/thundercore/0x1139136d973323ce500443037Fb9741deac0CA16.jpg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 108,
+		"address": "0xfE146D5710015d4075355fb7bE8d133346EC63c2",
+		"symbol": "RAM",
+		"name": "Ram",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/thundercore/0xfE146D5710015d4075355fb7bE8d133346EC63c2.jpg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 108,
+		"address": "0x6576Bb918709906DcbFDCeae4bB1e6df7C8a1077",
+		"symbol": "TT-ETH",
+		"name": "ETH",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/thundercore/0x6576Bb918709906DcbFDCeae4bB1e6df7C8a1077.jpg",
+		"coingecko": "thundercore-bridged-tt-weth-thundercore",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 108,
+		"address": "0x4f3C8E20942461e2c3Bdd8311AC57B0c222f2b82",
+		"symbol": "TT-USDT",
+		"name": "USDT",
+		"decimals": 6,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/thundercore/0x4f3C8E20942461e2c3Bdd8311AC57B0c222f2b82.jpg",
+		"coingecko": "thundercore-bridged-usdt-thundercore",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 108,
+		"address": "0x18fB0A62f207A2a082cA60aA78F47a1af4985190",
+		"symbol": "TT-WBTC",
+		"name": "WBTC",
+		"decimals": 8,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/thundercore/0x18fB0A62f207A2a082cA60aA78F47a1af4985190.jpg",
+		"coingecko": "thundercore-bridged-wbtc-thundercore",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 108,
+		"address": "0xC3C857a9E5Be042C8acF4F2827Aa053e93b5d039",
+		"symbol": "veTT",
+		"name": "veTT",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/thundercore/0xC3C857a9E5Be042C8acF4F2827Aa053e93b5d039.jpg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 108,
+		"address": "0x413cEFeA29F2d07B8F2acFA69d92466B9535f717",
+		"symbol": "WTT",
+		"name": "Wrapped Thunder Token",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/thundercore/0x413cEFeA29F2d07B8F2acFA69d92466B9535f717.jpg",
+		"coingecko": "wrapped-thunder-token",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 108,
+		"address": "0x8EF1A1E0671Aa44852f4d87105eF482470bB3e69",
+		"symbol": "Wrapped BNB",
+		"name": "Wrapped BNB",
+		"coingecko": "wbnb",
+		"sources": [
+			"coingecko"
+		]
+	}
+]

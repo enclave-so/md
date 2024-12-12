@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xF952Fc3ca7325Cc27D15885d37117676d25BfdA6",
+	"symbol": "Goose Finance",
+	"name": "Goose Finance",
+	"coingecko": "goose-finance",
+	"sources": [
+		"coingecko"
+	]
+}

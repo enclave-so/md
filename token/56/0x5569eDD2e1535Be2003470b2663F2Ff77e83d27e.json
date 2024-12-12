@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x5569eDD2e1535Be2003470b2663F2Ff77e83d27e",
+	"symbol": "KeyOfLife",
+	"name": "KeyOfLife",
+	"coingecko": "keyoflife",
+	"sources": [
+		"coingecko"
+	]
+}

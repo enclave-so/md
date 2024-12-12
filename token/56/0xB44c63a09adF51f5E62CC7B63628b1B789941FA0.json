@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xB44c63a09adF51f5E62CC7B63628b1B789941FA0",
+	"symbol": "Reflex",
+	"name": "Reflex",
+	"coingecko": "reflex",
+	"sources": [
+		"coingecko"
+	]
+}

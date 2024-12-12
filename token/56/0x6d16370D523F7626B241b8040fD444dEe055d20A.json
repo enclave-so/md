@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x6d16370D523F7626B241b8040fD444dEe055d20A",
+	"symbol": "Andy Bsc",
+	"name": "Andy Bsc",
+	"coingecko": "andy-bsc",
+	"sources": [
+		"coingecko"
+	]
+}

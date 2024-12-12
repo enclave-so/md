@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xD26889f63094Ba5A9d32666CdF5Ba381acfad6A6",
+	"symbol": "Finanx AI",
+	"name": "Finanx AI",
+	"coingecko": "finanx-ai",
+	"sources": [
+		"coingecko"
+	]
+}

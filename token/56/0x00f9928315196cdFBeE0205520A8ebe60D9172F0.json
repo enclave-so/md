@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x00f9928315196cdFBeE0205520A8ebe60D9172F0",
+	"symbol": "Develocity",
+	"name": "Develocity",
+	"coingecko": "develocity",
+	"sources": [
+		"coingecko"
+	]
+}

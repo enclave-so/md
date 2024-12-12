@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x6448Be0ca45a7581D9c4C9DD665e14ec60B25113",
+	"symbol": "Biokript",
+	"name": "Biokript",
+	"coingecko": "biokript",
+	"sources": [
+		"coingecko"
+	]
+}

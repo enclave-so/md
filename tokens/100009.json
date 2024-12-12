@@ -1,0 +1,52 @@
+[
+	{
+		"chain": 100009,
+		"address": "0x8e57aadF0992AfCC41F7843656C6c7129f738F7b",
+		"symbol": "Dohrnii",
+		"name": "Dohrnii",
+		"coingecko": "dohrnii",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 100009,
+		"address": "0xaCc280010B2EE0efc770BCE34774376656D8cE14",
+		"symbol": "Hacken",
+		"name": "Hacken",
+		"coingecko": "hackenai",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 100009,
+		"address": "0x0CE6661b4ba86a0EA7cA2Bd86a0De87b0B860F14",
+		"symbol": "OceanEX",
+		"name": "OceanEX",
+		"coingecko": "oceanex",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 100009,
+		"address": "0x5db3C8A942333f6468176a870dB36eEf120a34DC",
+		"symbol": "Safe Haven",
+		"name": "Safe Haven",
+		"coingecko": "safe-haven",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 100009,
+		"address": "0x5ef79995FE8a89e0812330E4378eB2660ceDe699",
+		"symbol": "VeBetterDAO",
+		"name": "VeBetterDAO",
+		"coingecko": "vebetterdao",
+		"sources": [
+			"coingecko"
+		]
+	}
+]

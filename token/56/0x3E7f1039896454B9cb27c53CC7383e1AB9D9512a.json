@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x3E7f1039896454B9cb27c53CC7383e1AB9D9512a",
+	"symbol": "MetFi",
+	"name": "MetFi",
+	"coingecko": "metfi-2",
+	"sources": [
+		"coingecko"
+	]
+}

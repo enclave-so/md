@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xf34e0cff046e154CAfCae502C7541b9E5FD8C249",
+	"symbol": "Thales",
+	"name": "Thales",
+	"coingecko": "thales",
+	"sources": [
+		"coingecko"
+	]
+}

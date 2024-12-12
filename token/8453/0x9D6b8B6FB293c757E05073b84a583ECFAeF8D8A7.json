@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x9D6b8B6FB293c757E05073b84a583ECFAeF8D8A7",
+	"symbol": "XCOPYFLIES",
+	"name": "XCOPYFLIES",
+	"coingecko": "mutatio-xcopyflies",
+	"sources": [
+		"coingecko"
+	]
+}

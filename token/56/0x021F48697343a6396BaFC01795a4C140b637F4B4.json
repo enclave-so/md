@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x021F48697343a6396BaFC01795a4C140b637F4B4",
+	"symbol": "Magic Yearn Share",
+	"name": "Magic Yearn Share",
+	"coingecko": "magic-yearn-share",
+	"sources": [
+		"coingecko"
+	]
+}

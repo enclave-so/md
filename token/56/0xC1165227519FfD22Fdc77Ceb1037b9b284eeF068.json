@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xC1165227519FfD22Fdc77Ceb1037b9b284eeF068",
+	"symbol": "BNSD Finance",
+	"name": "BNSD Finance",
+	"coingecko": "bnsd-finance",
+	"sources": [
+		"coingecko"
+	]
+}

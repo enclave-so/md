@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0xfd2fb8DE10eC41DdD898A8c7FA70D8Fc100834C4",
+	"symbol": "Bitci DOGE",
+	"name": "Bitci DOGE",
+	"coingecko": "bitci-doge",
+	"sources": [
+		"coingecko"
+	]
+}

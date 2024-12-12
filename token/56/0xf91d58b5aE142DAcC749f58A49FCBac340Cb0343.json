@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xf91d58b5aE142DAcC749f58A49FCBac340Cb0343",
+	"symbol": "Venus FIL",
+	"name": "Venus FIL",
+	"coingecko": "venus-fil",
+	"sources": [
+		"coingecko"
+	]
+}

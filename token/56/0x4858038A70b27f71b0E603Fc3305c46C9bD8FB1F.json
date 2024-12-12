@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x4858038A70b27f71b0E603Fc3305c46C9bD8FB1F",
+	"symbol": "BabyAkita",
+	"name": "BabyAkita",
+	"coingecko": "babyakita",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xd5eaAaC47bD1993d661bc087E15dfb079a7f3C19",
+	"symbol": "Koma Inu",
+	"name": "Koma Inu",
+	"coingecko": "koma-inu",
+	"sources": [
+		"coingecko"
+	]
+}

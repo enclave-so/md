@@ -1,0 +1,10 @@
+{
+	"chain": 8217,
+	"address": "0xFf1Bf7a212012ee903fBb5a3adB4A9a31f371EF7",
+	"symbol": "Round X",
+	"name": "Round X",
+	"coingecko": "round-x",
+	"sources": [
+		"coingecko"
+	]
+}

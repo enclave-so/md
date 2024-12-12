@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x08037036451C768465369431Da5C671ad9B37dBc",
+	"symbol": "NFT Stars",
+	"name": "NFT Stars",
+	"coingecko": "nft-stars",
+	"sources": [
+		"coingecko"
+	]
+}

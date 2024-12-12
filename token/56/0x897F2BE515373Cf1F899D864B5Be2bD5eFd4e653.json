@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x897F2BE515373Cf1F899D864B5Be2bD5eFd4e653",
+	"symbol": "T23",
+	"name": "T23",
+	"coingecko": "t23",
+	"sources": [
+		"coingecko"
+	]
+}

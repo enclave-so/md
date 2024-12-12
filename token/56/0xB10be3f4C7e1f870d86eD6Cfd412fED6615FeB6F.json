@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xB10be3f4C7e1f870d86eD6Cfd412fED6615FeB6F",
+	"symbol": "Privateum Global",
+	"name": "Privateum Global",
+	"coingecko": "privateum",
+	"sources": [
+		"coingecko"
+	]
+}

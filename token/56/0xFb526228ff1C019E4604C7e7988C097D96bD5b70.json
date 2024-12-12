@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xFb526228ff1C019E4604C7e7988C097D96bD5b70",
+	"symbol": "Virgo",
+	"name": "Virgo",
+	"coingecko": "virgo",
+	"sources": [
+		"coingecko"
+	]
+}

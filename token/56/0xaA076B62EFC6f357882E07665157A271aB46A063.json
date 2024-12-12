@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xaA076B62EFC6f357882E07665157A271aB46A063",
+	"symbol": "Pleasure Coin",
+	"name": "Pleasure Coin",
+	"coingecko": "pleasure-coin",
+	"sources": [
+		"coingecko"
+	]
+}

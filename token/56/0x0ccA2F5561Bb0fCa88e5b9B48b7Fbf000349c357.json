@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x0ccA2F5561Bb0fCa88e5b9B48b7Fbf000349c357",
+	"symbol": "Zodium",
+	"name": "Zodium",
+	"coingecko": "zodium",
+	"sources": [
+		"coingecko"
+	]
+}

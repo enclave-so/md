@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x62823659d09F9F9D2222058878f89437425eB261",
+	"symbol": "Ertha",
+	"name": "Ertha",
+	"coingecko": "ertha",
+	"sources": [
+		"coingecko"
+	]
+}

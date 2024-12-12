@@ -1,0 +1,11 @@
+{
+	"chain": 42220,
+	"address": "0xef4229c8c3250C675F21BCefa42f58EfbfF6002a",
+	"symbol": "USDCv2",
+	"name": "Optics USD v2",
+	"decimals": 6,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/celo/0xef4229c8c3250C675F21BCefa42f58EfbfF6002a.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x9d70a3EE3079A6FA2bB16591414678b7Ad91f0b5",
+	"symbol": "MemePad",
+	"name": "MemePad",
+	"coingecko": "memepad",
+	"sources": [
+		"coingecko"
+	]
+}

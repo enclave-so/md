@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x8b6f66d1498F2885828f55A63771e54514401EAC",
+	"symbol": "W3Starter Launchpad Token",
+	"name": "W3Starter Launchpad Token",
+	"coingecko": "w3starter-launchpad-token",
+	"sources": [
+		"coingecko"
+	]
+}

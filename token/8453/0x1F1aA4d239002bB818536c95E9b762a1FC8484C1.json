@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x1F1aA4d239002bB818536c95E9b762a1FC8484C1",
+	"symbol": "Precipitate.ai",
+	"name": "Precipitate.ai",
+	"coingecko": "precipitate-ai",
+	"sources": [
+		"coingecko"
+	]
+}

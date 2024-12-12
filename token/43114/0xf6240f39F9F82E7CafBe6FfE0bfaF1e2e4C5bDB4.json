@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0xf6240f39F9F82E7CafBe6FfE0bfaF1e2e4C5bDB4",
+	"symbol": "Red Hat Games",
+	"name": "Red Hat Games",
+	"coingecko": "red-hat-games",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x14c358b573a4cE45364a3DBD84BBb4Dae87af034",
+	"symbol": "DungeonSwap",
+	"name": "DungeonSwap",
+	"coingecko": "dungeonswap",
+	"sources": [
+		"coingecko"
+	]
+}

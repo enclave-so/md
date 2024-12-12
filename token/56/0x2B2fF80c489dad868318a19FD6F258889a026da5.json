@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x2B2fF80c489dad868318a19FD6F258889a026da5",
+	"symbol": "Dexit Network",
+	"name": "Dexit Network",
+	"coingecko": "dexit-finance",
+	"sources": [
+		"coingecko"
+	]
+}

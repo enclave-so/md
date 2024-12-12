@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xf48f91df403976060cC05dBbf8A0901b09fdeFd4",
+	"symbol": "Minu",
+	"name": "Minu",
+	"coingecko": "minu",
+	"sources": [
+		"coingecko"
+	]
+}

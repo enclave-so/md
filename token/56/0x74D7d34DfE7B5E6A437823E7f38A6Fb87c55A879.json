@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x74D7d34DfE7B5E6A437823E7f38A6Fb87c55A879",
+	"symbol": "Baby Czhao",
+	"name": "Baby Czhao",
+	"coingecko": "baby-czhao",
+	"sources": [
+		"coingecko"
+	]
+}

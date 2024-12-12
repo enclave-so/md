@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x18B5F22266343cCD180C6285a66cC9A23Dc262E9",
+	"symbol": "Evulus",
+	"name": "Evulus",
+	"coingecko": "evulus",
+	"sources": [
+		"coingecko"
+	]
+}

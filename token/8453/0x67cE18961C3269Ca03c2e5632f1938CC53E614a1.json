@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x67cE18961C3269Ca03c2e5632f1938CC53E614a1",
+	"symbol": "Crappy Bird",
+	"name": "Crappy Bird",
+	"coingecko": "crappy-bird",
+	"sources": [
+		"coingecko"
+	]
+}

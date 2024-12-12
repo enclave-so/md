@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x6b954B64EF0E5dbe738a4eBe466Bd5A8529E7844",
+	"symbol": "Ark Fintech",
+	"name": "Ark Fintech",
+	"coingecko": "ark-fintech",
+	"sources": [
+		"coingecko"
+	]
+}

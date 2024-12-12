@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x43a167B15a6F24913A8B4D35488B36Ac15d39200",
+	"symbol": "PumaPay",
+	"name": "PumaPay",
+	"coingecko": "pumapay",
+	"sources": [
+		"coingecko"
+	]
+}

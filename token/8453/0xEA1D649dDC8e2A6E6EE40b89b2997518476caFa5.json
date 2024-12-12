@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xEA1D649dDC8e2A6E6EE40b89b2997518476caFa5",
+	"symbol": "MOBY",
+	"name": "MOBY",
+	"coingecko": "moby-2",
+	"sources": [
+		"coingecko"
+	]
+}

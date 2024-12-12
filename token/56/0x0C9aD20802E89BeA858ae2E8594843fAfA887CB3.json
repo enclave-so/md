@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x0C9aD20802E89BeA858ae2E8594843fAfA887CB3",
+	"symbol": "Grow Token",
+	"name": "Grow Token",
+	"coingecko": "grow-token-3",
+	"sources": [
+		"coingecko"
+	]
+}

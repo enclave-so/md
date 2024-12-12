@@ -1,0 +1,10 @@
+{
+	"chain": 42220,
+	"address": "0x105d4A9306D2E55a71d2Eb95B81553AE1dC20d7B",
+	"symbol": "PUSO",
+	"name": "PUSO",
+	"coingecko": "puso",
+	"sources": [
+		"coingecko"
+	]
+}

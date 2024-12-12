@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xB27ADAfFB9fEa1801459a1a81B17218288c097cc",
+	"symbol": "PooCoin",
+	"name": "PooCoin",
+	"coingecko": "poocoin",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xf7F0dc9fD88e436847580D883319137Ec2aA6b94",
+	"symbol": "Parma Calcio 1913 Fan Token",
+	"name": "Parma Calcio 1913 Fan Token",
+	"coingecko": "parma-calcio-1913-fan-token",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x50CE4129Ca261CCDe4EB100c170843c2936Bc11b",
+	"symbol": "KOLZ",
+	"name": "KOLZ",
+	"coingecko": "kolz",
+	"sources": [
+		"coingecko"
+	]
+}

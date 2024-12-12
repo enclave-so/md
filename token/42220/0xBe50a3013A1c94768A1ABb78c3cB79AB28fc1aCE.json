@@ -1,0 +1,11 @@
+{
+	"chain": 42220,
+	"address": "0xBe50a3013A1c94768A1ABb78c3cB79AB28fc1aCE",
+	"symbol": "WBTCv1",
+	"name": "Optics WBTC v1",
+	"decimals": 8,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/btc.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

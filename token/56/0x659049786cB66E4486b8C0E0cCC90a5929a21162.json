@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x659049786cB66E4486b8C0E0cCC90a5929a21162",
+	"symbol": "TTcoin",
+	"name": "TTcoin",
+	"coingecko": "ttcoin",
+	"sources": [
+		"coingecko"
+	]
+}

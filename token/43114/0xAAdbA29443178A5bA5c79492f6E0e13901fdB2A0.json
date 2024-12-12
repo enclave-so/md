@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0xAAdbA29443178A5bA5c79492f6E0e13901fdB2A0",
+	"symbol": "MAD",
+	"name": "MAD",
+	"coingecko": "mad",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"chain": 42220,
+	"address": "0x88eeC49252c8cbc039DCdB394c0c2BA2f1637EA0",
+	"symbol": "USDT",
+	"name": "Tether USD",
+	"decimals": 6,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/celo/0x88eeC49252c8cbc039DCdB394c0c2BA2f1637EA0.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x54626300818E5C5b44Db0fcf45Ba4943CA89A9e2",
+	"symbol": "CheCoin",
+	"name": "CheCoin",
+	"coingecko": "checoin",
+	"sources": [
+		"coingecko"
+	]
+}

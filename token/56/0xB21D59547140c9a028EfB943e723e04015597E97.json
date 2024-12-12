@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xB21D59547140c9a028EfB943e723e04015597E97",
+	"symbol": "MetaPuss",
+	"name": "MetaPuss",
+	"coingecko": "metapuss",
+	"sources": [
+		"coingecko"
+	]
+}

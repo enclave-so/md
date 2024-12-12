@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x39353a32ECeafE4979a8606512C046C3B6398CC4",
+	"symbol": "AIGPU Token",
+	"name": "AIGPU Token",
+	"coingecko": "aigpu-token",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xd882739Fca9CBAE00F3821c4c65189E2D7e26147",
+	"symbol": "FOUR",
+	"name": "FOUR",
+	"coingecko": "the-4th-pillar",
+	"sources": [
+		"coingecko"
+	]
+}

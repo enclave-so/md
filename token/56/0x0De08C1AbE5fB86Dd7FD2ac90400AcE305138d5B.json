@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x0De08C1AbE5fB86Dd7FD2ac90400AcE305138d5B",
+	"symbol": "Idena",
+	"name": "Idena",
+	"coingecko": "idena",
+	"sources": [
+		"coingecko"
+	]
+}

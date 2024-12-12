@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xf3B185ab60128E4C08008Fd90C3F1F01f4B78d50",
+	"symbol": "MetaDoge BSC",
+	"name": "MetaDoge BSC",
+	"coingecko": "metadoge-bsc",
+	"sources": [
+		"coingecko"
+	]
+}

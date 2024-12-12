@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x20f663CEa80FaCE82ACDFA3aAE6862d246cE0333",
+	"symbol": "Drip Network",
+	"name": "Drip Network",
+	"coingecko": "drip-network",
+	"sources": [
+		"coingecko"
+	]
+}

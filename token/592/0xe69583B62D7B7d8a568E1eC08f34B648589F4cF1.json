@@ -1,0 +1,10 @@
+{
+	"chain": 592,
+	"address": "0xe69583B62D7B7d8a568E1eC08f34B648589F4cF1",
+	"symbol": "Ceres",
+	"name": "Ceres",
+	"coingecko": "ceres",
+	"sources": [
+		"coingecko"
+	]
+}

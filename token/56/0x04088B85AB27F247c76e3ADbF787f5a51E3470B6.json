@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x04088B85AB27F247c76e3ADbF787f5a51E3470B6",
+	"symbol": "DonaBlock",
+	"name": "DonaBlock",
+	"coingecko": "donablock",
+	"sources": [
+		"coingecko"
+	]
+}

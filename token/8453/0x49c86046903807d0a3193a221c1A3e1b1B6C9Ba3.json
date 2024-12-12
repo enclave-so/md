@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x49c86046903807d0a3193a221c1A3e1b1B6C9Ba3",
+	"symbol": "CYI by Virtuals",
+	"name": "CYI by Virtuals",
+	"coingecko": "cyi-by-virtuals",
+	"sources": [
+		"coingecko"
+	]
+}

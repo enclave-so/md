@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xc73dC7aE7A4fa40517aAfa941AE1ee436B91a12c",
+	"symbol": "Buz Economy",
+	"name": "Buz Economy",
+	"coingecko": "buz-economy",
+	"sources": [
+		"coingecko"
+	]
+}

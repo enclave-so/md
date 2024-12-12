@@ -1,0 +1,10 @@
+{
+	"chain": 59144,
+	"address": "0x0A79e44c99505c7f388CA30c787ff97217E73ecC",
+	"symbol": "Linea Bridged FXS (LInea)",
+	"name": "Linea Bridged FXS (LInea)",
+	"coingecko": "linea-bridged-fxs-linea",
+	"sources": [
+		"coingecko"
+	]
+}

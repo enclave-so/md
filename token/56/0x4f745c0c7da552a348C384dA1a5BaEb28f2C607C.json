@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x4f745c0c7da552a348C384dA1a5BaEb28f2C607C",
+	"symbol": "Xpansion Game",
+	"name": "Xpansion Game",
+	"coingecko": "xpansion-game",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xbcbdecf8e76A5C32Dba69De16985882ace1678c6",
+	"symbol": "Revenue Coin",
+	"name": "Revenue Coin",
+	"coingecko": "revenue-coin",
+	"sources": [
+		"coingecko"
+	]
+}

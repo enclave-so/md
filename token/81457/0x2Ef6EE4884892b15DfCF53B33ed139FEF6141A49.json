@@ -1,0 +1,11 @@
+{
+	"chain": 81457,
+	"address": "0x2Ef6EE4884892b15DfCF53B33ed139FEF6141A49",
+	"symbol": "WIF",
+	"name": "Dog Wif Blast",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/blast/0x2Ef6EE4884892b15DfCF53B33ed139FEF6141A49.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

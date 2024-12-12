@@ -1,0 +1,10 @@
+{
+	"chain": 8217,
+	"address": "0xA323d7386b671E8799dcA3582D6658FdcDcD940A",
+	"symbol": "sKLAY",
+	"name": "sKLAY",
+	"coingecko": "sklay",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 8217,
+	"address": "0xfAEa8f7839F343a52c11a2D5395406EB2A87C55b",
+	"symbol": "WeBuy",
+	"name": "WeBuy",
+	"coingecko": "webuy",
+	"sources": [
+		"coingecko"
+	]
+}

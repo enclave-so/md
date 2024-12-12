@@ -1,0 +1,13 @@
+{
+	"chain": 42170,
+	"address": "0x722E8BdD2ce80A4422E880164f2079488e115365",
+	"symbol": "WETH",
+	"name": "Wrapped Ether",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/eth.jpg",
+	"coingecko": "arbitrum-bridged-weth-arbitrum-nova",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

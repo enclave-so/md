@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0xAAAB9D12A30504559b0C5a9A5977fEE4A6081c6b",
+	"symbol": "Pharaoh",
+	"name": "Pharaoh",
+	"coingecko": "pharaoh",
+	"sources": [
+		"coingecko"
+	]
+}

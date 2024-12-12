@@ -1,0 +1,10 @@
+{
+	"chain": 48900,
+	"address": "0xfd418e42783382E86Ae91e445406600Ba144D162",
+	"symbol": "Zircuit",
+	"name": "Zircuit",
+	"coingecko": "zircuit",
+	"sources": [
+		"coingecko"
+	]
+}

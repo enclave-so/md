@@ -1,0 +1,10 @@
+{
+	"chain": 7000,
+	"address": "0xcba2aeEc821b0B119857a9aB39E09b034249681A",
+	"symbol": "Accumulated Finance Staked ZETA",
+	"name": "Accumulated Finance Staked ZETA",
+	"coingecko": "accumulated-finance-staked-zeta",
+	"sources": [
+		"coingecko"
+	]
+}

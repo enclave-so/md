@@ -1,0 +1,10 @@
+{
+	"chain": 59144,
+	"address": "0x4Ea77a86d6E70FfE8Bb947FC86D68a7F086f198a",
+	"symbol": "Clip Finance",
+	"name": "Clip Finance",
+	"coingecko": "clip-finance",
+	"sources": [
+		"coingecko"
+	]
+}

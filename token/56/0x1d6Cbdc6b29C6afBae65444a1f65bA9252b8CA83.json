@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x1d6Cbdc6b29C6afBae65444a1f65bA9252b8CA83",
+	"symbol": "TOR",
+	"name": "TOR",
+	"coingecko": "tor",
+	"sources": [
+		"coingecko"
+	]
+}

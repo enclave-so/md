@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x2A21F535A94FaC087bd5f034e07c2282844a1fFA",
+	"symbol": "MILO DOG",
+	"name": "MILO DOG",
+	"coingecko": "milo-dog",
+	"sources": [
+		"coingecko"
+	]
+}

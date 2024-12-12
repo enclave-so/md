@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x6a8Fd46F88dBD7bdC2D536C604f811C63052ce0F",
+	"symbol": "Dtravel",
+	"name": "Dtravel",
+	"coingecko": "dtravel",
+	"sources": [
+		"coingecko"
+	]
+}

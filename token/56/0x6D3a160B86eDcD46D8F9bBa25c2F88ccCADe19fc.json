@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x6D3a160B86eDcD46D8F9bBa25c2F88ccCADe19fc",
+	"symbol": "Football World Community",
+	"name": "Football World Community",
+	"coingecko": "football-world-community",
+	"sources": [
+		"coingecko"
+	]
+}

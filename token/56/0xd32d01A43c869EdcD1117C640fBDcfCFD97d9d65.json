@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xd32d01A43c869EdcD1117C640fBDcfCFD97d9d65",
+	"symbol": "Nominex",
+	"name": "Nominex",
+	"coingecko": "nominex",
+	"sources": [
+		"coingecko"
+	]
+}

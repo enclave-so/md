@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xE8E286B378254c4913c0C6964361636384b9D018",
+	"symbol": "Warpcore",
+	"name": "Warpcore",
+	"coingecko": "warpcore",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x6d57F5c286E04850c2c085350F2e60aaA7B7c15B",
+	"symbol": "Grok Girl",
+	"name": "Grok Girl",
+	"coingecko": "grok-girl",
+	"sources": [
+		"coingecko"
+	]
+}

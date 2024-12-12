@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x9bEec80e62aA257cED8b0edD8692f79EE8783777",
+	"symbol": "This Is My Iguana",
+	"name": "This Is My Iguana",
+	"coingecko": "this-is-my-iguana",
+	"sources": [
+		"coingecko"
+	]
+}

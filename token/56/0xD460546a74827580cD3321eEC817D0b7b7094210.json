@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xD460546a74827580cD3321eEC817D0b7b7094210",
+	"symbol": "Utility NexusMind",
+	"name": "Utility NexusMind",
+	"coingecko": "utility-nexusmind",
+	"sources": [
+		"coingecko"
+	]
+}

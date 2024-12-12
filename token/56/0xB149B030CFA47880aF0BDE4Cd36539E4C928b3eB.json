@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xB149B030CFA47880aF0BDE4Cd36539E4C928b3eB",
+	"symbol": "NUTGAIN",
+	"name": "NUTGAIN",
+	"coingecko": "nutgain",
+	"sources": [
+		"coingecko"
+	]
+}

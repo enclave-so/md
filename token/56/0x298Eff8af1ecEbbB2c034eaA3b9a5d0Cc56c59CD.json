@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x298Eff8af1ecEbbB2c034eaA3b9a5d0Cc56c59CD",
+	"symbol": "Phantasma",
+	"name": "Phantasma",
+	"coingecko": "phantasma",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x33aa7797ac6CB8B4652B68E33e5ADd8Ad1218A8D",
+	"symbol": "Aquanee",
+	"name": "Aquanee",
+	"coingecko": "aquanee",
+	"sources": [
+		"coingecko"
+	]
+}

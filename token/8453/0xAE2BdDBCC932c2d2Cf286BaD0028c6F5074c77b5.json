@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xAE2BdDBCC932c2d2Cf286BaD0028c6F5074c77b5",
+	"symbol": "Falcons",
+	"name": "Falcons",
+	"coingecko": "falcons",
+	"sources": [
+		"coingecko"
+	]
+}

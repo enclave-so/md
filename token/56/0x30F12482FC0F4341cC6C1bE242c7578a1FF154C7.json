@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x30F12482FC0F4341cC6C1bE242c7578a1FF154C7",
+	"symbol": "Bright Crypto Ai",
+	"name": "Bright Crypto Ai",
+	"coingecko": "bright-crypto-ai",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"chain": 56,
+	"address": "0x0Eb3a705fc54725037CC9e008bDede697f62F335",
+	"symbol": "ATOM",
+	"name": "Cosmos Token",
+	"decimals": 18,
+	"logo": "https://bscscan.com/token/images/cosmos_32.png",
+	"coingecko": "cosmos",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xb8167C0E58f4Ca0Ec7a6D967a8d138F05b3A981F",
+	"symbol": "JEN COIN",
+	"name": "JEN COIN",
+	"coingecko": "jen-coin",
+	"sources": [
+		"coingecko"
+	]
+}

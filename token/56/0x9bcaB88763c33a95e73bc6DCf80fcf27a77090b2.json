@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x9bcaB88763c33a95e73bc6DCf80fcf27a77090b2",
+	"symbol": "RoboFi",
+	"name": "RoboFi",
+	"coingecko": "robofi-token",
+	"sources": [
+		"coingecko"
+	]
+}

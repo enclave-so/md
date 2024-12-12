@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xBDEDEAb2318E5C6997E60E743AE11DF37481c747",
+	"symbol": "DUNE404",
+	"name": "DUNE404",
+	"coingecko": "dune404",
+	"sources": [
+		"coingecko"
+	]
+}

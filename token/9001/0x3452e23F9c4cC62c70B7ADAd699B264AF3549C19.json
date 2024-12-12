@@ -1,0 +1,10 @@
+{
+	"chain": 9001,
+	"address": "0x3452e23F9c4cC62c70B7ADAd699B264AF3549C19",
+	"symbol": "JUNO",
+	"name": "JUNO",
+	"coingecko": "juno-network",
+	"sources": [
+		"coingecko"
+	]
+}

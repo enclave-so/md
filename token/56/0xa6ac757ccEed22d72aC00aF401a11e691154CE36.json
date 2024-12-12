@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xa6ac757ccEed22d72aC00aF401a11e691154CE36",
+	"symbol": "XCAT",
+	"name": "XCAT",
+	"coingecko": "xcat",
+	"sources": [
+		"coingecko"
+	]
+}

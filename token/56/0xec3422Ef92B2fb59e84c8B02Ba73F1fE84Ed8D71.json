@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xec3422Ef92B2fb59e84c8B02Ba73F1fE84Ed8D71",
+	"symbol": "Venus DOGE",
+	"name": "Venus DOGE",
+	"coingecko": "venus-doge",
+	"sources": [
+		"coingecko"
+	]
+}

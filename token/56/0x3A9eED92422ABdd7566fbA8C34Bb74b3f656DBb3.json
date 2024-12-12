@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x3A9eED92422ABdd7566fbA8C34Bb74b3f656DBb3",
+	"symbol": "Kambria",
+	"name": "Kambria",
+	"coingecko": "kambria",
+	"sources": [
+		"coingecko"
+	]
+}

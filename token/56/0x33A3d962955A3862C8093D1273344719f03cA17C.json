@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x33A3d962955A3862C8093D1273344719f03cA17C",
+	"symbol": "Spore",
+	"name": "Spore",
+	"coingecko": "spore",
+	"sources": [
+		"coingecko"
+	]
+}

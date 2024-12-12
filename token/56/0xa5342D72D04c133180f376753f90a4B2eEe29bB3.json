@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xa5342D72D04c133180f376753f90a4B2eEe29bB3",
+	"symbol": "Decentralized Mining Exchange",
+	"name": "Decentralized Mining Exchange",
+	"coingecko": "decentralized-mining-exchange",
+	"sources": [
+		"coingecko"
+	]
+}

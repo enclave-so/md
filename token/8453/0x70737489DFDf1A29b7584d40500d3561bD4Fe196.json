@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x70737489DFDf1A29b7584d40500d3561bD4Fe196",
+	"symbol": "BORED",
+	"name": "BORED",
+	"coingecko": "edison-bored",
+	"sources": [
+		"coingecko"
+	]
+}

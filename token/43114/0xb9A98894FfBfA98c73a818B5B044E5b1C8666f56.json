@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0xb9A98894FfBfA98c73a818B5B044E5b1C8666f56",
+	"symbol": "Kepler",
+	"name": "Kepler",
+	"coingecko": "kepler",
+	"sources": [
+		"coingecko"
+	]
+}

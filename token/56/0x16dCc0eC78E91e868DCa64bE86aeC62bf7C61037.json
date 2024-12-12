@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x16dCc0eC78E91e868DCa64bE86aeC62bf7C61037",
+	"symbol": "EverETH Reflect",
+	"name": "EverETH Reflect",
+	"coingecko": "evereth",
+	"sources": [
+		"coingecko"
+	]
+}

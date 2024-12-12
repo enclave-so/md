@@ -1,0 +1,10 @@
+{
+	"chain": 7700,
+	"address": "0x9F823D534954Fc119E31257b3dDBa0Db9E2Ff4ed",
+	"symbol": "Liquid Staked Canto",
+	"name": "Liquid Staked Canto",
+	"coingecko": "liquid-staked-canto",
+	"sources": [
+		"coingecko"
+	]
+}

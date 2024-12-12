@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xcAb1fd29D6FD64bB63471B666e8dbfC1915bF90E",
+	"symbol": "Metagalaxy Land",
+	"name": "Metagalaxy Land",
+	"coingecko": "metagalaxy-land",
+	"sources": [
+		"coingecko"
+	]
+}

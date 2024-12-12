@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xDE5BDcbd4d7dFa86E527fEF9971bd6Ca6A76eefB",
+	"symbol": "IVPAY",
+	"name": "IVPAY",
+	"coingecko": "ivendpay",
+	"sources": [
+		"coingecko"
+	]
+}

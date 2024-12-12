@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x5B6ebB33eea2D12eeFd4a9b2aEaf733231169684",
+	"symbol": "WELD",
+	"name": "WELD",
+	"coingecko": "weld",
+	"sources": [
+		"coingecko"
+	]
+}

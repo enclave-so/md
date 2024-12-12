@@ -1,0 +1,10 @@
+{
+	"chain": 888,
+	"address": "0x50c439B6d602297252505a6799d84eA5928bCFb6",
+	"symbol": "wanBTC",
+	"name": "wanBTC",
+	"coingecko": "wanbtc",
+	"sources": [
+		"coingecko"
+	]
+}

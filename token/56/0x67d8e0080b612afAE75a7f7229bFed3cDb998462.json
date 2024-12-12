@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x67d8e0080b612afAE75a7f7229bFed3cDb998462",
+	"symbol": "CyberHarbor",
+	"name": "CyberHarbor",
+	"coingecko": "cyberharbor",
+	"sources": [
+		"coingecko"
+	]
+}

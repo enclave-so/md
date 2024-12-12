@@ -1,0 +1,10 @@
+{
+	"chain": 8217,
+	"address": "0x608E8512d31cAE43Cd8058D81E6B56203A112539",
+	"symbol": "BIRDSPING",
+	"name": "BIRDSPING",
+	"coingecko": "birdsping",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x3FD230b77ad19AaF6330da7854eC76d5AEb49eAd",
+	"symbol": "CoinRobot.AI",
+	"name": "CoinRobot.AI",
+	"coingecko": "coinrobot-ai",
+	"sources": [
+		"coingecko"
+	]
+}

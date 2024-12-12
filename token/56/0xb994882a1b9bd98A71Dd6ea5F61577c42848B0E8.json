@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xb994882a1b9bd98A71Dd6ea5F61577c42848B0E8",
+	"symbol": "World of Dypians",
+	"name": "World of Dypians",
+	"coingecko": "world-of-dypians",
+	"sources": [
+		"coingecko"
+	]
+}

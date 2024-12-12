@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x98999Aa1B0D17fB832FD509e13b67FE506513a6D",
+	"symbol": "Banus Finance",
+	"name": "Banus Finance",
+	"coingecko": "banus-finance",
+	"sources": [
+		"coingecko"
+	]
+}

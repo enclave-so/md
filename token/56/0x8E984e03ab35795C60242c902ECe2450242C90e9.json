@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x8E984e03ab35795C60242c902ECe2450242C90e9",
+	"symbol": "Kampay",
+	"name": "Kampay",
+	"coingecko": "kampay",
+	"sources": [
+		"coingecko"
+	]
+}

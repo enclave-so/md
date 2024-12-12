@@ -1,0 +1,10 @@
+{
+	"chain": 666666666,
+	"address": "0xeB1C32Ea4E392346795aED3607f37646E2a9c13F",
+	"symbol": "All Time High",
+	"name": "All Time High",
+	"coingecko": "all-time-high-degen",
+	"sources": [
+		"coingecko"
+	]
+}

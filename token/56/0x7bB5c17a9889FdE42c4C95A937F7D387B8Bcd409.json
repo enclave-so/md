@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x7bB5c17a9889FdE42c4C95A937F7D387B8Bcd409",
+	"symbol": "Meme Lordz",
+	"name": "Meme Lordz",
+	"coingecko": "meme-lordz-2",
+	"sources": [
+		"coingecko"
+	]
+}

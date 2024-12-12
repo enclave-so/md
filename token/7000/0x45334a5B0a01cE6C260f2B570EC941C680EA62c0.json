@@ -1,0 +1,13 @@
+{
+	"chain": 7000,
+	"address": "0x45334a5B0a01cE6C260f2B570EC941C680EA62c0",
+	"symbol": "stZETA",
+	"name": "Staked ZETA",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/zetachain/0x45334a5B0a01cE6C260f2B570EC941C680EA62c0.jpg",
+	"coingecko": "zetaearn-staked-zeta",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

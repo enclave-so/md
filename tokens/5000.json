@@ -1,0 +1,482 @@
+[
+	{
+		"chain": 5000,
+		"address": "0xabBeED1d173541e0546B38b1C0394975be200000",
+		"symbol": "Slash Vision Labs",
+		"name": "Slash Vision Labs",
+		"coingecko": "slash-vision-labs",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 5000,
+		"address": "0x62A509BA95c75Cabc7190469025E5aBeE4eDdb2a",
+		"symbol": "Davos.xyz USD",
+		"name": "Davos.xyz USD",
+		"coingecko": "davos-protocol",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 5000,
+		"address": "0x74ccbe53F77b08632ce0CB91D3A545bF6B8E0979",
+		"symbol": "Fantom Bomb",
+		"name": "Fantom Bomb",
+		"coingecko": "fbomb",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 5000,
+		"address": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000",
+		"symbol": "Mantle",
+		"name": "Mantle",
+		"coingecko": "mantle",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 5000,
+		"address": "0x4515A45337F461A11Ff0FE8aBF3c606AE5dC00c9",
+		"symbol": "MOE",
+		"name": "MOE",
+		"coingecko": "moe-3",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 5000,
+		"address": "0x6A3b0eb5b57C9a4F5772fc900dAE427E65f8C1a5",
+		"symbol": "Cashtree Token",
+		"name": "Cashtree Token",
+		"coingecko": "cashtree-token",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 5000,
+		"address": "0x60D01EC2D5E98Ac51C8B4cF84DfCCE98D527c747",
+		"symbol": "iZUMi Finance",
+		"name": "iZUMi Finance",
+		"coingecko": "izumi-finance",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 5000,
+		"address": "0x872952d3c1Caf944852c5ADDa65633F1Ef218A26",
+		"symbol": "Reddex",
+		"name": "Reddex",
+		"coingecko": "liquid-crypto",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 5000,
+		"address": "0xdEAddEaDdeadDEadDEADDEAddEADDEAddead1111",
+		"symbol": "Wrapped Ether (Mantle Bridge)",
+		"name": "Wrapped Ether (Mantle Bridge)",
+		"coingecko": "wrapped-ether-mantle-bridge",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 5000,
+		"address": "0x09Bc4E0D864854c6aFB6eB9A9cdF58aC190D0dF9",
+		"symbol": "Mantle Bridged USDC (Mantle)",
+		"name": "Mantle Bridged USDC (Mantle)",
+		"coingecko": "mantle-bridged-usdc-mantle",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 5000,
+		"address": "0x51cfe5b1E764dC253F4c8C1f19a081fF4C3517eD",
+		"symbol": "Mantle Inu",
+		"name": "Mantle Inu",
+		"coingecko": "mantle-inu",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 5000,
+		"address": "0x075df695b8E7f4361FA7F8c1426C63f11B06e326",
+		"symbol": "USDa",
+		"name": "USDa",
+		"coingecko": "usda-2",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 5000,
+		"address": "0x7f4dB37D7bEb31F445307782Bc3Da0F18dF13696",
+		"symbol": "Yield Yak",
+		"name": "Yield Yak",
+		"coingecko": "yield-yak",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 5000,
+		"address": "0xbD9aa882f5a9423b515721d84E9eaD5ac40AE3De",
+		"symbol": "Dackie USD",
+		"name": "Dackie USD",
+		"coingecko": "dackie-usd",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 5000,
+		"address": "0xE6829d9a7eE3040e1276Fa75293Bde931859e8fA",
+		"symbol": "Mantle Restaked ETH",
+		"name": "Mantle Restaked ETH",
+		"coingecko": "mantle-restaked-eth",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 5000,
+		"address": "0x1d40baFC49c37CdA49F2a5427E2FB95E1e3FCf20",
+		"symbol": "Solv Protocol SolvBTC.BBN",
+		"name": "Solv Protocol SolvBTC.BBN",
+		"coingecko": "solv-protocol-solvbtc-bbn",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 5000,
+		"address": "0x2Fde62942759d7C0aaf25952Da4098423bC1264C",
+		"symbol": "StakeStone ETH",
+		"name": "StakeStone ETH",
+		"coingecko": "stakestone-ether",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 5000,
+		"address": "0x5eCDB76feda945DC71F7D9ce62dFe7EaFEfFFAb4",
+		"symbol": "Minterest",
+		"name": "Minterest",
+		"coingecko": "minterest",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 5000,
+		"address": "0x5a093a9c4f440c6b105F0AF7f7C4f1fBE45567f9",
+		"symbol": "Stratum Exchange",
+		"name": "Stratum Exchange",
+		"coingecko": "stratum-exchange",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 5000,
+		"address": "0x981Bd9F77c8AAFC14EBC86769503f86A3CC29aF5",
+		"symbol": "Tarot",
+		"name": "Tarot",
+		"coingecko": "tarot-2",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 5000,
+		"address": "0x00000000eFE302BEAA2b3e6e1b18d08D69a9012a",
+		"symbol": "AUSD",
+		"name": "AUSD",
+		"coingecko": "agora-dollar",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 5000,
+		"address": "0x527856315a4bCD2F428EA7fA05ea251f7e96A50A",
+		"symbol": "CeDeFiAi",
+		"name": "CeDeFiAi",
+		"coingecko": "cedefiai",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 5000,
+		"address": "0xC96dE26018A54D51c097160568752c4E3BD6C364",
+		"symbol": "Ignition FBTC",
+		"name": "Ignition FBTC",
+		"coingecko": "ignition-fbtc",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 5000,
+		"address": "0x779f4E5fB773E17Bc8E809F4ef1aBb140861159a",
+		"symbol": "KTX.Finance",
+		"name": "KTX.Finance",
+		"coingecko": "ktx-finance",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 5000,
+		"address": "0x25356aeca4210eF7553140edb9b8026089E49396",
+		"symbol": "Lendle",
+		"name": "Lendle",
+		"coingecko": "lendle",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 5000,
+		"address": "0xCAbAE6f6Ea1ecaB08Ad02fE02ce9A44F09aebfA2",
+		"symbol": "Mantle Bridged WBTC (Mantle)",
+		"name": "Mantle Bridged WBTC (Mantle)",
+		"coingecko": "mantle-bridged-wbtc-mantle",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 5000,
+		"address": "0xab575258d37EaA5C8956EfABe71F4eE8F6397cF3",
+		"symbol": "Mantle USD",
+		"name": "Mantle USD",
+		"coingecko": "mantle-usd",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 5000,
+		"address": "0x26a6b0dcdCfb981362aFA56D581e4A7dBA3Be140",
+		"symbol": "Puff The Dragon",
+		"name": "Puff The Dragon",
+		"coingecko": "puff-the-dragon",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 5000,
+		"address": "0xCffbE0E73c750731EdB38C14Bc81A39dAc91819d",
+		"symbol": "abcCLEO",
+		"name": "abcCLEO",
+		"coingecko": "abccleo",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 5000,
+		"address": "0x91824fc3573c5043837F6357b72F60014A710501",
+		"symbol": "Aperture Finance",
+		"name": "Aperture Finance",
+		"coingecko": "aperture-finance",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 5000,
+		"address": "0xC1E0C8C30F251A07a894609616580ad2CEb547F2",
+		"symbol": "Cleopatra",
+		"name": "Cleopatra",
+		"coingecko": "cleopatra",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 5000,
+		"address": "0x8A3ed1F2D15b5015396F494cc1Da977da38A6773",
+		"symbol": "Entangle",
+		"name": "Entangle",
+		"coingecko": "entangle",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 5000,
+		"address": "0xa68d25fC2AF7278db4BcdcAabce31814252642a9",
+		"symbol": "Solv Protocol SolvBTC",
+		"name": "Solv Protocol SolvBTC",
+		"coingecko": "solv-btc",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 5000,
+		"address": "0x5A61B1d8272B250729EA3F5eD3Ef843f4D66BC6e",
+		"symbol": "sUSDa",
+		"name": "sUSDa",
+		"coingecko": "susda",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 5000,
+		"address": "0x78c1b0C915c4FAA5FffA6CAbf0219DA63d7f4cb8",
+		"symbol": "Wrapped Mantle",
+		"name": "Wrapped Mantle",
+		"coingecko": "wrapped-mantle",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 5000,
+		"address": "0x93919784C523f39CACaa98Ee0a9d96c3F32b593e",
+		"symbol": "Universal BTC",
+		"name": "Universal BTC",
+		"coingecko": "universal-btc",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 5000,
+		"address": "0xD2B4C9B0d70e3Da1fBDD98f469bD02E77E12FC79",
+		"symbol": "Aurelius USD",
+		"name": "Aurelius USD",
+		"coingecko": "aurelius-usd",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 5000,
+		"address": "0x4b7F28397B4294277E7825f224172944f4f5A877",
+		"symbol": "IntentX",
+		"name": "IntentX",
+		"coingecko": "intentx",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 5000,
+		"address": "0x201EBa5CC46D216Ce6DC03F6a759e8E766e956aE",
+		"symbol": "Mantle Bridged USDT (Mantle)",
+		"name": "Mantle Bridged USDT (Mantle)",
+		"coingecko": "mantle-bridged-usdt-mantle",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 5000,
+		"address": "0xcDA86A272531e8640cD7F1a92c01839911B90bb0",
+		"symbol": "Mantle Staked Ether",
+		"name": "Mantle Staked Ether",
+		"coingecko": "mantle-staked-ether",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 5000,
+		"address": "0x5bE26527e817998A7206475496fDE1E68957c5A6",
+		"symbol": "Ondo US Dollar Yield",
+		"name": "Ondo US Dollar Yield",
+		"coingecko": "ondo-us-dollar-yield",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 5000,
+		"address": "0xBE5ACfd64358805616b5cbD5277B9A85011d7Cf1",
+		"symbol": "Pichi Finance",
+		"name": "Pichi Finance",
+		"coingecko": "pichi-finance",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 5000,
+		"address": "0x8FE7176F0BF63358ad9490fd24Ac0bdB4Dac33a8",
+		"symbol": "Stable USDLR",
+		"name": "Stable USDLR",
+		"coingecko": "stable-usdlr",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 5000,
+		"address": "0x458ed78EB972a369799fb278c0243b25e5242A83",
+		"symbol": "Wrapped stETH",
+		"name": "Wrapped stETH",
+		"coingecko": "wrapped-steth",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 5000,
+		"address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
+		"symbol": "Axelar Bridged USDC",
+		"name": "Axelar Bridged USDC",
+		"coingecko": "axlusdc",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 5000,
+		"address": "0xF793Ac038E7688Aa3220005852836108cdDB065c",
+		"symbol": "Chasm",
+		"name": "Chasm",
+		"coingecko": "chasm-ai",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 5000,
+		"address": "0x371c7ec6D8039ff7933a2AA28EB827Ffe1F52f07",
+		"symbol": "JOE",
+		"name": "JOE",
+		"coingecko": "joe",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 5000,
+		"address": "0x9F0C013016E8656bC256f948CD4B79ab25c7b94D",
+		"symbol": "mETH Protocol",
+		"name": "mETH Protocol",
+		"coingecko": "meth-protocol",
+		"sources": [
+			"coingecko"
+		]
+	}
+]

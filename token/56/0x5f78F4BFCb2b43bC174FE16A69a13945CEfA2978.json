@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x5f78F4BFCb2b43bC174FE16A69a13945CEfA2978",
+	"symbol": "Xraders",
+	"name": "Xraders",
+	"coingecko": "xraders",
+	"sources": [
+		"coingecko"
+	]
+}

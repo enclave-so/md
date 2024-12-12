@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xd4fBc57B6233F268E7FbA3b66E62719D74deecBc",
+	"symbol": "Modefi",
+	"name": "Modefi",
+	"coingecko": "modefi",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xCf10117b30C7a5FC7C77B611bFC2555610DD4B3A",
+	"symbol": "NOTAI",
+	"name": "NOTAI",
+	"coingecko": "notai",
+	"sources": [
+		"coingecko"
+	]
+}

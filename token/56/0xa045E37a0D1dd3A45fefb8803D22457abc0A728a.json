@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xa045E37a0D1dd3A45fefb8803D22457abc0A728a",
+	"symbol": "Grizzly Honey",
+	"name": "Grizzly Honey",
+	"coingecko": "grizzly-honey",
+	"sources": [
+		"coingecko"
+	]
+}

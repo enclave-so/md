@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x581C124D0F4b9D365c06e30d37ea8352d5F3a2aF",
+	"symbol": "AIVOICE",
+	"name": "AIVOICE",
+	"coingecko": "aivoice",
+	"sources": [
+		"coingecko"
+	]
+}

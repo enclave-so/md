@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0xB24CA28D4e2742907115fECda335b40dbda07a4C",
+	"symbol": "Bridged USD Coin (Wormhole Ethereum)",
+	"name": "Bridged USD Coin (Wormhole Ethereum)",
+	"coingecko": "usd-coin-wormhole-from-ethereum",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x245d9f531757f83064aD808b4c9b220C703a4934",
+	"symbol": "Gode Chain",
+	"name": "Gode Chain",
+	"coingecko": "gode-chain",
+	"sources": [
+		"coingecko"
+	]
+}

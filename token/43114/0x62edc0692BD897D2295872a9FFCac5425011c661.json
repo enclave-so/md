@@ -1,0 +1,13 @@
+{
+	"chain": 43114,
+	"address": "0x62edc0692BD897D2295872a9FFCac5425011c661",
+	"symbol": "GMX",
+	"name": "GMX",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0x62edc0692BD897D2295872a9FFCac5425011c661.jpg",
+	"coingecko": "gmx",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

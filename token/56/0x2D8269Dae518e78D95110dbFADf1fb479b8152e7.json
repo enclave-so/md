@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x2D8269Dae518e78D95110dbFADf1fb479b8152e7",
+	"symbol": "GCCOIN",
+	"name": "GCCOIN",
+	"coingecko": "gccoin",
+	"sources": [
+		"coingecko"
+	]
+}

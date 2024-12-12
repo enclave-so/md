@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x566cedD201F67E542A6851A2959c1a449a041945",
+	"symbol": "Opium",
+	"name": "Opium",
+	"coingecko": "opium",
+	"sources": [
+		"coingecko"
+	]
+}

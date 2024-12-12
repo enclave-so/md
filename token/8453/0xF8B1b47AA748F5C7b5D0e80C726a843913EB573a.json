@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xF8B1b47AA748F5C7b5D0e80C726a843913EB573a",
+	"symbol": "LibertAI",
+	"name": "LibertAI",
+	"coingecko": "libertai",
+	"sources": [
+		"coingecko"
+	]
+}

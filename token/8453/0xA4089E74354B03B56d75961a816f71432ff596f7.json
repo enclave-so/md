@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xA4089E74354B03B56d75961a816f71432ff596f7",
+	"symbol": "KungFu Cat",
+	"name": "KungFu Cat",
+	"coingecko": "kungfu-cat",
+	"sources": [
+		"coingecko"
+	]
+}

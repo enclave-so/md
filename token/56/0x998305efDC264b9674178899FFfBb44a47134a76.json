@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x998305efDC264b9674178899FFfBb44a47134a76",
+	"symbol": "Gaimin",
+	"name": "Gaimin",
+	"coingecko": "gaimin",
+	"sources": [
+		"coingecko"
+	]
+}

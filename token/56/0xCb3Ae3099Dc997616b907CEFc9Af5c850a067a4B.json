@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xCb3Ae3099Dc997616b907CEFc9Af5c850a067a4B",
+	"symbol": "MOMOJI",
+	"name": "MOMOJI",
+	"coingecko": "momoji",
+	"sources": [
+		"coingecko"
+	]
+}

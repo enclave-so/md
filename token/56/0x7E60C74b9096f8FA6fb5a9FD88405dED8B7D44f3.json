@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x7E60C74b9096f8FA6fb5a9FD88405dED8B7D44f3",
+	"symbol": "Infiblue World",
+	"name": "Infiblue World",
+	"coingecko": "infiblue-world",
+	"sources": [
+		"coingecko"
+	]
+}

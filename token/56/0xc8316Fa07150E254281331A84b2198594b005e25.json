@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xc8316Fa07150E254281331A84b2198594b005e25",
+	"symbol": "Fitburn FBT",
+	"name": "Fitburn FBT",
+	"coingecko": "fitburn-fbt",
+	"sources": [
+		"coingecko"
+	]
+}

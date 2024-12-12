@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xBbcF57177D8752B21d080bf30a06CE20aD6333F8",
+	"symbol": "Zam.io",
+	"name": "Zam.io",
+	"coingecko": "zam-io",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xeCb36fF12cbe4710E9Be2411de46E6C180a4807f",
+	"symbol": "Flux YIN",
+	"name": "Flux YIN",
+	"coingecko": "flux-yin",
+	"sources": [
+		"coingecko"
+	]
+}

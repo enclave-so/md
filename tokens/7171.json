@@ -1,0 +1,62 @@
+[
+	{
+		"chain": 7171,
+		"address": "0xE4bDa992ecad56986704E21f1622E5f8acEADDB1",
+		"symbol": "Rockstar",
+		"name": "Rockstar",
+		"coingecko": "rockstar",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 7171,
+		"address": "0x826628622a8B55F4AF6aC2A1DD1273bF837e651a",
+		"symbol": "Rockswap",
+		"name": "Rockswap",
+		"coingecko": "rockswap",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 7171,
+		"address": "0x413f0E3A440abA7A15137F4278121450416882d5",
+		"symbol": "Wrapped Bitrock",
+		"name": "Wrapped Bitrock",
+		"coingecko": "wrapped-bitrock",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 7171,
+		"address": "0xE8a4F717Ac5b08BcCc7240D649af653b2577b36a",
+		"symbol": "APE",
+		"name": "APE",
+		"coingecko": "ape-2",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 7171,
+		"address": "0xa7c9bB7A6Fd13dCa85e9df12b4F91DC8bede225e",
+		"symbol": "Bitrock Wallet Token",
+		"name": "Bitrock Wallet Token",
+		"coingecko": "bitrock-wallet-token",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 7171,
+		"address": "0xAA72d86210AC33BcA2de6139403F9AF37398E721",
+		"symbol": "Milestone Millions",
+		"name": "Milestone Millions",
+		"coingecko": "milestone-millions",
+		"sources": [
+			"coingecko"
+		]
+	}
+]

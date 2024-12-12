@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x0c90C756350FB803A7D5D9F9Ee5ac29E77369973",
+	"symbol": "United Base Postal",
+	"name": "United Base Postal",
+	"coingecko": "united-base-postal",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x80262F604acAC839724F66846F290A2cC8b48662",
+	"symbol": "Ari10",
+	"name": "Ari10",
+	"coingecko": "ari10",
+	"sources": [
+		"coingecko"
+	]
+}

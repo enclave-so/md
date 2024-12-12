@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xd11A584DE5fA50a4Ee560C48aB44DbB31823d9bc",
+	"symbol": "Buttman",
+	"name": "Buttman",
+	"coingecko": "buttman",
+	"sources": [
+		"coingecko"
+	]
+}

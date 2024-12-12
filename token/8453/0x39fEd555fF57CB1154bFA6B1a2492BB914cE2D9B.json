@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x39fEd555fF57CB1154bFA6B1a2492BB914cE2D9B",
+	"symbol": "EchoLeaks by Virtuals",
+	"name": "EchoLeaks by Virtuals",
+	"coingecko": "echoleaks-by-virtuals",
+	"sources": [
+		"coingecko"
+	]
+}

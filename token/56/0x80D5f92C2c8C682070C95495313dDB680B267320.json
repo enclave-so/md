@@ -1,0 +1,11 @@
+{
+	"chain": 56,
+	"address": "0x80D5f92C2c8C682070C95495313dDB680B267320",
+	"symbol": "ASR",
+	"name": "AS Roma",
+	"decimals": 2,
+	"logo": "https://assets.coingecko.com/coins/images/11688/small/Roma-10.png?1604941843",
+	"sources": [
+		"sushiswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xF1143f3A8D76f1Ca740d29D5671d365F66C44eD1",
+	"symbol": "Wrapped Bitcoin (Universal)",
+	"name": "Wrapped Bitcoin (Universal)",
+	"coingecko": "wrapped-bitcoin-universal",
+	"sources": [
+		"coingecko"
+	]
+}

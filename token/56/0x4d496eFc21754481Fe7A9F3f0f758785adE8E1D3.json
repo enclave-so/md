@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x4d496eFc21754481Fe7A9F3f0f758785adE8E1D3",
+	"symbol": "Santa Inu",
+	"name": "Santa Inu",
+	"coingecko": "santa-inu",
+	"sources": [
+		"coingecko"
+	]
+}

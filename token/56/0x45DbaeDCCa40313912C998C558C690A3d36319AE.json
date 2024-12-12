@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x45DbaeDCCa40313912C998C558C690A3d36319AE",
+	"symbol": "longevity",
+	"name": "longevity",
+	"coingecko": "longevity",
+	"sources": [
+		"coingecko"
+	]
+}

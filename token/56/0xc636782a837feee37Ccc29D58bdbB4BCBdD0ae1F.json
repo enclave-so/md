@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xc636782a837feee37Ccc29D58bdbB4BCBdD0ae1F",
+	"symbol": "Binance Cat",
+	"name": "Binance Cat",
+	"coingecko": "bnb-cat",
+	"sources": [
+		"coingecko"
+	]
+}

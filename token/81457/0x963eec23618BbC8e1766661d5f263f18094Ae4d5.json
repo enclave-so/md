@@ -1,0 +1,10 @@
+{
+	"chain": 81457,
+	"address": "0x963eec23618BbC8e1766661d5f263f18094Ae4d5",
+	"symbol": "CYBRO",
+	"name": "CYBRO",
+	"coingecko": "cybro",
+	"sources": [
+		"coingecko"
+	]
+}

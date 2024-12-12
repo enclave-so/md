@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xF1ca73caa1C7AD66Af11147bA7d5636243AF0493",
+	"symbol": "RegularPresale",
+	"name": "RegularPresale",
+	"coingecko": "regularpresale",
+	"sources": [
+		"coingecko"
+	]
+}

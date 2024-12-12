@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x6b289CCeAA8639e3831095D75A3e43520faBf552",
+	"symbol": "Cartesi",
+	"name": "Cartesi",
+	"coingecko": "cartesi",
+	"sources": [
+		"coingecko"
+	]
+}

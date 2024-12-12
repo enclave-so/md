@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x39926824C06491284D13f7bAbAf06C8FeD3add6C",
+	"symbol": "longfu",
+	"name": "longfu",
+	"coingecko": "longfu",
+	"sources": [
+		"coingecko"
+	]
+}

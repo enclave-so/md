@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x9eeB6c5ff183E6001c65a12D70026b900AE76781",
+	"symbol": "Irena Coin Apps",
+	"name": "Irena Coin Apps",
+	"coingecko": "irena-green-energy",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x5dd1E31E1a0e2E077aC98d2a4b781F418ca50387",
+	"symbol": "Zelwin",
+	"name": "Zelwin",
+	"coingecko": "zelwin",
+	"sources": [
+		"coingecko"
+	]
+}

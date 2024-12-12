@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xD08b9e557D1f64c8dd50A168453eA302A83E47FC",
+	"symbol": "Grok Inu",
+	"name": "Grok Inu",
+	"coingecko": "grok-inu",
+	"sources": [
+		"coingecko"
+	]
+}

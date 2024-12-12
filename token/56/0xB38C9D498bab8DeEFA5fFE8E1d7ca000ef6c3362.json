@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xB38C9D498bab8DeEFA5fFE8E1d7ca000ef6c3362",
+	"symbol": "Hectic Turkey",
+	"name": "Hectic Turkey",
+	"coingecko": "hectic-turkey",
+	"sources": [
+		"coingecko"
+	]
+}

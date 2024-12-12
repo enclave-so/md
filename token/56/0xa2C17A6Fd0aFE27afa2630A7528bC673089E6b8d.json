@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xa2C17A6Fd0aFE27afa2630A7528bC673089E6b8d",
+	"symbol": "CZ THE GOAT",
+	"name": "CZ THE GOAT",
+	"coingecko": "the-goat-cz",
+	"sources": [
+		"coingecko"
+	]
+}

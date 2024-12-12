@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x6e02Be885FcA1138038420fDdD4B41C59a8Cea6D",
+	"symbol": "Smart Block Chain City",
+	"name": "Smart Block Chain City",
+	"coingecko": "smart-block-chain-city",
+	"sources": [
+		"coingecko"
+	]
+}

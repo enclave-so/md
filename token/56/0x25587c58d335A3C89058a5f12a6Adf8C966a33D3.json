@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x25587c58d335A3C89058a5f12a6Adf8C966a33D3",
+	"symbol": "Traders Wallet [OLD]",
+	"name": "Traders Wallet [OLD]",
+	"coingecko": "traders-wallet",
+	"sources": [
+		"coingecko"
+	]
+}

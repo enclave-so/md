@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xA4dc5a82839a148Ff172b5b8BA9d52e681FD2261",
+	"symbol": "Pineapple Cat",
+	"name": "Pineapple Cat",
+	"coingecko": "pineapple-cat-2",
+	"sources": [
+		"coingecko"
+	]
+}

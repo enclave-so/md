@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x477bC8d23c634C154061869478bce96BE6045D12",
+	"symbol": "Seedify.fund",
+	"name": "Seedify.fund",
+	"coingecko": "seedify-fund",
+	"sources": [
+		"coingecko"
+	]
+}

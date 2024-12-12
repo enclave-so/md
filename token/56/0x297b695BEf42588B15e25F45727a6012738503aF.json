@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x297b695BEf42588B15e25F45727a6012738503aF",
+	"symbol": "FUEL",
+	"name": "FUEL",
+	"coingecko": "fuel",
+	"sources": [
+		"coingecko"
+	]
+}

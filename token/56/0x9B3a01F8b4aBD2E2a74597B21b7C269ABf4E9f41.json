@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x9B3a01F8b4aBD2E2a74597B21b7C269ABf4E9f41",
+	"symbol": "Altbase",
+	"name": "Altbase",
+	"coingecko": "altbase",
+	"sources": [
+		"coingecko"
+	]
+}

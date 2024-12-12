@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xFd9fa4F785331cE88b5Af8994A047bA087c705D8",
+	"symbol": "blue on base",
+	"name": "blue on base",
+	"coingecko": "blue-on-base",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xdb173587d459DDB1b9b0F2d6D88FebEf039304a2",
+	"symbol": "Crypto Journey",
+	"name": "Crypto Journey",
+	"coingecko": "crypto-journey",
+	"sources": [
+		"coingecko"
+	]
+}

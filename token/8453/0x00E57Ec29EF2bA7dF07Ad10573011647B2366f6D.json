@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x00E57Ec29EF2bA7dF07Ad10573011647B2366f6D",
+	"symbol": "TOSHE",
+	"name": "TOSHE",
+	"coingecko": "valentine-floki",
+	"sources": [
+		"coingecko"
+	]
+}

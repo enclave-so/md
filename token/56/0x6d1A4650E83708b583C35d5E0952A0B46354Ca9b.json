@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x6d1A4650E83708b583C35d5E0952A0B46354Ca9b",
+	"symbol": "Fidance",
+	"name": "Fidance",
+	"coingecko": "fidance",
+	"sources": [
+		"coingecko"
+	]
+}

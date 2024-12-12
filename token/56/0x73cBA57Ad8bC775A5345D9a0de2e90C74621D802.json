@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x73cBA57Ad8bC775A5345D9a0de2e90C74621D802",
+	"symbol": "LooksCoin",
+	"name": "LooksCoin",
+	"coingecko": "lookscoin",
+	"sources": [
+		"coingecko"
+	]
+}

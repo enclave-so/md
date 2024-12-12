@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x2f053e33bd590830858161d42C67e9E8A9390019",
+	"symbol": "Vention",
+	"name": "Vention",
+	"coingecko": "vention",
+	"sources": [
+		"coingecko"
+	]
+}

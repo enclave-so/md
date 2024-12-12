@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0xfc675adFDd721064ba923D07A8A238A9e52D8aCE",
+	"symbol": "escrowed PRF",
+	"name": "escrowed PRF",
+	"coingecko": "escrowed-prf",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xF0d336E3A429596c924dd2723c0c4a0100A421Db",
+	"symbol": "PulseLaunch",
+	"name": "PulseLaunch",
+	"coingecko": "pulselaunch",
+	"sources": [
+		"coingecko"
+	]
+}

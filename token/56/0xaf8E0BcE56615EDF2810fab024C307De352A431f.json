@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xaf8E0BcE56615EDF2810fab024C307De352A431f",
+	"symbol": "CAT INU",
+	"name": "CAT INU",
+	"coingecko": "cat-inu",
+	"sources": [
+		"coingecko"
+	]
+}

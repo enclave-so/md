@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x3e81Aa8d6813Ec9D7E6ddB4e523fb1601a0e86F3",
+	"symbol": "Mr. Mint",
+	"name": "Mr. Mint",
+	"coingecko": "mr-mint",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x16CEC756a0FcbA1d7ce95dF5A46406c469a9128a",
+	"symbol": "Awkward Monkey",
+	"name": "Awkward Monkey",
+	"coingecko": "awkward-monkey",
+	"sources": [
+		"coingecko"
+	]
+}

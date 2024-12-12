@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x71DE20e0C4616E7fcBfDD3f875d568492cBE4739",
+	"symbol": "Swingby",
+	"name": "Swingby",
+	"coingecko": "swingby",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x1Bf7AedeC439D6BFE38f8f9b20CF3dc99e3571C4",
+	"symbol": "TRONPAD",
+	"name": "TRONPAD",
+	"coingecko": "tronpad",
+	"sources": [
+		"coingecko"
+	]
+}

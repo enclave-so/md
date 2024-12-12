@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x6AA150fff813e0bEc1273691f349Ad080DF7216d",
+	"symbol": "Ferma",
+	"name": "Ferma",
+	"coingecko": "ferma",
+	"sources": [
+		"coingecko"
+	]
+}

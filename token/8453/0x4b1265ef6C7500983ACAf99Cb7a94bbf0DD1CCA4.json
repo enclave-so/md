@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x4b1265ef6C7500983ACAf99Cb7a94bbf0DD1CCA4",
+	"symbol": "BASED SBF WIF SOAP",
+	"name": "BASED SBF WIF SOAP",
+	"coingecko": "based-sbf-wif-soap",
+	"sources": [
+		"coingecko"
+	]
+}

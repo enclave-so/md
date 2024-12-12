@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x296d1836658344E4257ec4c9D3c0fcB8312DE87c",
+	"symbol": "FomoFi",
+	"name": "FomoFi",
+	"coingecko": "fomofi",
+	"sources": [
+		"coingecko"
+	]
+}

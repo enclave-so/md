@@ -1,0 +1,10 @@
+{
+	"chain": 81457,
+	"address": "0x9306FC95b8becdC9166112Fd6cF86B39e2335f09",
+	"symbol": "DigiCask Token",
+	"name": "DigiCask Token",
+	"coingecko": "digicask-token",
+	"sources": [
+		"coingecko"
+	]
+}

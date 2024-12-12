@@ -1,0 +1,10 @@
+{
+	"chain": 59144,
+	"address": "0x1F63D0EC7193964142ef6B13d901462d0E5CbB50",
+	"symbol": "ONEPUNCH",
+	"name": "ONEPUNCH",
+	"coingecko": "onepunch",
+	"sources": [
+		"coingecko"
+	]
+}

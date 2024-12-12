@@ -1,0 +1,10 @@
+{
+	"chain": 4689,
+	"address": "0xC7b93720F73b037394cE00f954f849Ed484a3dEA",
+	"symbol": "ioWBTC",
+	"name": "ioWBTC",
+	"coingecko": "iowbtc",
+	"sources": [
+		"coingecko"
+	]
+}

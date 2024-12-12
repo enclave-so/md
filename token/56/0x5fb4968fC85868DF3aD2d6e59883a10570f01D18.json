@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x5fb4968fC85868DF3aD2d6e59883a10570f01D18",
+	"symbol": "Share",
+	"name": "Share",
+	"coingecko": "sharering",
+	"sources": [
+		"coingecko"
+	]
+}

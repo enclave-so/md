@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x15F9EB4b9BEaFa9Db35341c5694c0b6573809808",
+	"symbol": "DedaCoin",
+	"name": "DedaCoin",
+	"coingecko": "dedacoin",
+	"sources": [
+		"coingecko"
+	]
+}

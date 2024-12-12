@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x489580eB70a50515296eF31E8179fF3e77E24965",
+	"symbol": "DappRadar",
+	"name": "DappRadar",
+	"coingecko": "dappradar",
+	"sources": [
+		"coingecko"
+	]
+}

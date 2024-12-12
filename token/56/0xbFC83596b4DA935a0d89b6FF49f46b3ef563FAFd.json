@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xbFC83596b4DA935a0d89b6FF49f46b3ef563FAFd",
+	"symbol": "Snow Leopard - IRBIS",
+	"name": "Snow Leopard - IRBIS",
+	"coingecko": "snow-leopard-irbis",
+	"sources": [
+		"coingecko"
+	]
+}

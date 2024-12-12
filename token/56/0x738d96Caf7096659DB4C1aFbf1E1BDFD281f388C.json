@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x738d96Caf7096659DB4C1aFbf1E1BDFD281f388C",
+	"symbol": "Ankr Staked MATIC",
+	"name": "Ankr Staked MATIC",
+	"coingecko": "ankr-reward-earning-matic",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xE3086852A4B125803C815a158249ae468A3254Ca",
+	"symbol": "mfercoin",
+	"name": "mfercoin",
+	"coingecko": "mfercoin",
+	"sources": [
+		"coingecko"
+	]
+}

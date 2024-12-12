@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x9505dbD77DaCD1F6C89F101b98522D4b871d88C5",
+	"symbol": "HunnyDAO",
+	"name": "HunnyDAO",
+	"coingecko": "hunny-love-token",
+	"sources": [
+		"coingecko"
+	]
+}

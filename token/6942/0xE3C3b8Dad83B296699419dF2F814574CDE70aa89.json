@@ -1,0 +1,10 @@
+{
+	"chain": 6942,
+	"address": "0xE3C3b8Dad83B296699419dF2F814574CDE70aa89",
+	"symbol": "Laika Bridged ETH (Laika)",
+	"name": "Laika Bridged ETH (Laika)",
+	"coingecko": "laika-bridged-eth-laika",
+	"sources": [
+		"coingecko"
+	]
+}

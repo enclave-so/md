@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x45C13620B55C35A5f539d26E88247011Eb10fDbd",
+	"symbol": "HurricaneSwap",
+	"name": "HurricaneSwap",
+	"coingecko": "hurricaneswap-token",
+	"sources": [
+		"coingecko"
+	]
+}

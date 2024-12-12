@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xfEB4e9B932eF708c498Cc997ABe51D0EE39300cf",
+	"symbol": "GetKicks",
+	"name": "GetKicks",
+	"coingecko": "getkicks",
+	"sources": [
+		"coingecko"
+	]
+}

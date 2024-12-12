@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xB2B446386633C6746B0a2735FB57edBb066c5878",
+	"symbol": "Inception Restaked slisBNB",
+	"name": "Inception Restaked slisBNB",
+	"coingecko": "inception-restaked-slisbnb",
+	"sources": [
+		"coingecko"
+	]
+}

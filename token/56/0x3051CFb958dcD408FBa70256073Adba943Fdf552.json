@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x3051CFb958dcD408FBa70256073Adba943Fdf552",
+	"symbol": "TheForce Trade",
+	"name": "TheForce Trade",
+	"coingecko": "theforce-trade",
+	"sources": [
+		"coingecko"
+	]
+}

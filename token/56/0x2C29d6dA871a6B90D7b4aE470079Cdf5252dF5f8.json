@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x2C29d6dA871a6B90D7b4aE470079Cdf5252dF5f8",
+	"symbol": "Benyke Finance",
+	"name": "Benyke Finance",
+	"coingecko": "benyke-finance",
+	"sources": [
+		"coingecko"
+	]
+}

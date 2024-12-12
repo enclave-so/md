@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x0a3A21356793B49154Fd3BbE91CBc2A16c0457f5",
+	"symbol": "RFOX",
+	"name": "RFOX",
+	"coingecko": "redfox-labs-2",
+	"sources": [
+		"coingecko"
+	]
+}

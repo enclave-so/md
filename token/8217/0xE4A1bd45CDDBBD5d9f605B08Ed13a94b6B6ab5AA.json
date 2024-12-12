@@ -1,0 +1,10 @@
+{
+	"chain": 8217,
+	"address": "0xE4A1bd45CDDBBD5d9f605B08Ed13a94b6B6ab5AA",
+	"symbol": "PSJGLOBAL",
+	"name": "PSJGLOBAL",
+	"coingecko": "conun",
+	"sources": [
+		"coingecko"
+	]
+}

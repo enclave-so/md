@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x19b99162ADAAB85134E781Ac0048C275C31b205a",
+	"symbol": "Marnotaur",
+	"name": "Marnotaur",
+	"coingecko": "marnotaur",
+	"sources": [
+		"coingecko"
+	]
+}

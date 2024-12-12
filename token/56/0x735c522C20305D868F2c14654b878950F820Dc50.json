@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x735c522C20305D868F2c14654b878950F820Dc50",
+	"symbol": "BNBEE",
+	"name": "BNBEE",
+	"coingecko": "bnbee",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x3192CCDdf1CDcE4Ff055EbC80f3F0231b86A7E30",
+	"symbol": "InsurAce",
+	"name": "InsurAce",
+	"coingecko": "insurace",
+	"sources": [
+		"coingecko"
+	]
+}

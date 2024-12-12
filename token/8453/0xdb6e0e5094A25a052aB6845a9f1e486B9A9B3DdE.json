@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xdb6e0e5094A25a052aB6845a9f1e486B9A9B3DdE",
+	"symbol": "Okayeg",
+	"name": "Okayeg",
+	"coingecko": "okayeg",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xFa17b330bCC4e7F3E2456996d89A5a54AB044831",
+	"symbol": "Cardence",
+	"name": "Cardence",
+	"coingecko": "cardence",
+	"sources": [
+		"coingecko"
+	]
+}

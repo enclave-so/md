@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xC44F8508E1dE753e7c523F98639132eeF2AD8EA5",
+	"symbol": "Dogemob",
+	"name": "Dogemob",
+	"coingecko": "dogemob",
+	"sources": [
+		"coingecko"
+	]
+}

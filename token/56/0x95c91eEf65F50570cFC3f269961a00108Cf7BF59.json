@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x95c91eEf65F50570cFC3f269961a00108Cf7BF59",
+	"symbol": "The Dons",
+	"name": "The Dons",
+	"coingecko": "dons",
+	"sources": [
+		"coingecko"
+	]
+}

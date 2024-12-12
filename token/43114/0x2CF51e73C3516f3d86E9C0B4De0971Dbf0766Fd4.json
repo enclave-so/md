@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x2CF51e73C3516f3d86E9C0B4De0971Dbf0766Fd4",
+	"symbol": "Blockzero Labs",
+	"name": "Blockzero Labs",
+	"coingecko": "xio",
+	"sources": [
+		"coingecko"
+	]
+}

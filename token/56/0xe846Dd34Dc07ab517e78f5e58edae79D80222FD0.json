@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xe846Dd34Dc07ab517e78f5e58edae79D80222FD0",
+	"symbol": "MEFLEX",
+	"name": "MEFLEX",
+	"coingecko": "meflex",
+	"sources": [
+		"coingecko"
+	]
+}

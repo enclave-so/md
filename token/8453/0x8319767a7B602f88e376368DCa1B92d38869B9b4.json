@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x8319767a7B602f88e376368DCa1B92d38869B9b4",
+	"symbol": "Based Peaches",
+	"name": "Based Peaches",
+	"coingecko": "based-peaches",
+	"sources": [
+		"coingecko"
+	]
+}

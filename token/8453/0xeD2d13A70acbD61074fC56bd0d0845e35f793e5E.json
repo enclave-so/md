@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xeD2d13A70acbD61074fC56bd0d0845e35f793e5E",
+	"symbol": "Planet Mojo",
+	"name": "Planet Mojo",
+	"coingecko": "planet-mojo",
+	"sources": [
+		"coingecko"
+	]
+}

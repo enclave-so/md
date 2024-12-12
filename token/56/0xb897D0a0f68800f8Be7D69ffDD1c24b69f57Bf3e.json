@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xb897D0a0f68800f8Be7D69ffDD1c24b69f57Bf3e",
+	"symbol": "Electra Protocol",
+	"name": "Electra Protocol",
+	"coingecko": "electra-protocol",
+	"sources": [
+		"coingecko"
+	]
+}

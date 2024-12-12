@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xe5bA37d7818dAD6aAC9212F0e8A363c6E8Ea0dfB",
+	"symbol": "King Neiro",
+	"name": "King Neiro",
+	"coingecko": "king-neiro",
+	"sources": [
+		"coingecko"
+	]
+}

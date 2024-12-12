@@ -1,0 +1,10 @@
+{
+	"chain": 8217,
+	"address": "0xf092ACc2412742f4d5A457799dea57155ED42F9C",
+	"symbol": "MusicN",
+	"name": "MusicN",
+	"coingecko": "musicn",
+	"sources": [
+		"coingecko"
+	]
+}

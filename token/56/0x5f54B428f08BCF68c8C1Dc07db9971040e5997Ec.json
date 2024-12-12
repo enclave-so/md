@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x5f54B428f08BCF68c8C1Dc07db9971040e5997Ec",
+	"symbol": "BlockRock",
+	"name": "BlockRock",
+	"coingecko": "blockrock",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x9eE10d2E9571AecfE5a604aF7fE71B96eBa84b7b",
+	"symbol": "Walletika",
+	"name": "Walletika",
+	"coingecko": "walletika",
+	"sources": [
+		"coingecko"
+	]
+}

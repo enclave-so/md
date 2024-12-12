@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x61fA01129aC0bB124D1C60Dc9f735C6C579A858B",
+	"symbol": "Kyte.One",
+	"name": "Kyte.One",
+	"coingecko": "kyte-one",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xc350CaA89Eb963D5D6b964324A0a7736D8d65533",
+	"symbol": "Infinitee",
+	"name": "Infinitee",
+	"coingecko": "infinitee",
+	"sources": [
+		"coingecko"
+	]
+}

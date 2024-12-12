@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x20eE7B720f4E4c4FFcB00C4065cdae55271aECCa",
+	"symbol": "APENFT",
+	"name": "APENFT",
+	"coingecko": "apenft",
+	"sources": [
+		"coingecko"
+	]
+}

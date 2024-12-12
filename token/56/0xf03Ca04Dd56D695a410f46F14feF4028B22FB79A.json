@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xf03Ca04Dd56D695a410f46F14feF4028B22FB79A",
+	"symbol": "Edu3Labs",
+	"name": "Edu3Labs",
+	"coingecko": "edu3labs",
+	"sources": [
+		"coingecko"
+	]
+}

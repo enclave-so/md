@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x21eCEAf3Bf88EF0797E3927d855CA5bb569a47fc",
+	"symbol": "The Void",
+	"name": "The Void",
+	"coingecko": "the-void",
+	"sources": [
+		"coingecko"
+	]
+}

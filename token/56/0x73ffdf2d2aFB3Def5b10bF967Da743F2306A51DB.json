@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x73ffdf2d2aFB3Def5b10bF967Da743F2306A51DB",
+	"symbol": "Collector Coin",
+	"name": "Collector Coin",
+	"coingecko": "collector-coin",
+	"sources": [
+		"coingecko"
+	]
+}

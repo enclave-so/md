@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x87bbFc9DCB66Caa8ce7582A3F17B60a25cd8A248",
+	"symbol": "The Big Red",
+	"name": "The Big Red",
+	"coingecko": "the-big-red",
+	"sources": [
+		"coingecko"
+	]
+}

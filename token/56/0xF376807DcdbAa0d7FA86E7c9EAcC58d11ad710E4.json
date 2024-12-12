@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xF376807DcdbAa0d7FA86E7c9EAcC58d11ad710E4",
+	"symbol": "Blitz Labs",
+	"name": "Blitz Labs",
+	"coingecko": "blitz-labs",
+	"sources": [
+		"coingecko"
+	]
+}

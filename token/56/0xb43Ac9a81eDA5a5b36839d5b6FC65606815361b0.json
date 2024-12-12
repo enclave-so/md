@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xb43Ac9a81eDA5a5b36839d5b6FC65606815361b0",
+	"symbol": "Senspark (BNB)",
+	"name": "Senspark (BNB)",
+	"coingecko": "senspark",
+	"sources": [
+		"coingecko"
+	]
+}

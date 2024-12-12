@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xddae2b90559F38eb41b93D946bE21fb0DFB9a294",
+	"symbol": "YearnTogether",
+	"name": "YearnTogether",
+	"coingecko": "yearntogether",
+	"sources": [
+		"coingecko"
+	]
+}

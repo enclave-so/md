@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xbFd5206962267c7b4b4A8B3D76AC2E1b2A5c4d5e",
+	"symbol": "Osaka Protocol",
+	"name": "Osaka Protocol",
+	"coingecko": "osaka-protocol",
+	"sources": [
+		"coingecko"
+	]
+}

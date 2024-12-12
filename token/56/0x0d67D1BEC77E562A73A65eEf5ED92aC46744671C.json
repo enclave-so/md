@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x0d67D1BEC77E562A73A65eEf5ED92aC46744671C",
+	"symbol": "SCARCITY",
+	"name": "SCARCITY",
+	"coingecko": "scarcity-2",
+	"sources": [
+		"coingecko"
+	]
+}

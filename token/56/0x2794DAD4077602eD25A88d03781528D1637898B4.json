@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x2794DAD4077602eD25A88d03781528D1637898B4",
+	"symbol": "Vite",
+	"name": "Vite",
+	"coingecko": "vite",
+	"sources": [
+		"coingecko"
+	]
+}

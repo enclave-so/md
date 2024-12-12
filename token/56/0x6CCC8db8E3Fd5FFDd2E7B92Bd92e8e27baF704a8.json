@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x6CCC8db8E3Fd5FFDd2E7B92Bd92e8e27baF704a8",
+	"symbol": "Ethos",
+	"name": "Ethos",
+	"coingecko": "ethos-2",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xF59918B07278ff20109f8c37d7255e0677B45c43",
+	"symbol": "Affinity",
+	"name": "Affinity",
+	"coingecko": "affinity",
+	"sources": [
+		"coingecko"
+	]
+}

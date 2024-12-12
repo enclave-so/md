@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xa7ea9d5d4d4c7cF7dbde5871E6D108603C6942a5",
+	"symbol": "FOMO TOCD",
+	"name": "FOMO TOCD",
+	"coingecko": "fomo-tocd",
+	"sources": [
+		"coingecko"
+	]
+}

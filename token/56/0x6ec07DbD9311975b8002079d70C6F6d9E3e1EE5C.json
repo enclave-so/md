@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x6ec07DbD9311975b8002079d70C6F6d9E3e1EE5C",
+	"symbol": "Baby Troll",
+	"name": "Baby Troll",
+	"coingecko": "baby-troll",
+	"sources": [
+		"coingecko"
+	]
+}

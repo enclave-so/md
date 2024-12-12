@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x100Cc3a819Dd3e8573fD2E46D1E66ee866068f30",
+	"symbol": "Dragon Crypto Aurum",
+	"name": "Dragon Crypto Aurum",
+	"coingecko": "dragon-crypto-aurum",
+	"sources": [
+		"coingecko"
+	]
+}

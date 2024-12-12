@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x39D24405cA717ef841e4a782da97284cf2Dc7628",
+	"symbol": "Agent Zeek by Virtuals",
+	"name": "Agent Zeek by Virtuals",
+	"coingecko": "agent-zeek-by-virtuals",
+	"sources": [
+		"coingecko"
+	]
+}

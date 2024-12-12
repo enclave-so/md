@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x6fC39AC154cfd20F1951A2823Abab7ec471B783a",
+	"symbol": "SpritzMoon Crypto Token",
+	"name": "SpritzMoon Crypto Token",
+	"coingecko": "spritzmoon-crypto",
+	"sources": [
+		"coingecko"
+	]
+}

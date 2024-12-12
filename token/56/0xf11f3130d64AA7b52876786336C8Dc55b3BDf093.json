@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xf11f3130d64AA7b52876786336C8Dc55b3BDf093",
+	"symbol": "Versity",
+	"name": "Versity",
+	"coingecko": "versity-2",
+	"sources": [
+		"coingecko"
+	]
+}

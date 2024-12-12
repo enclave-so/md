@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xdFC3829b127761a3218bFceE7fc92e1232c9D116",
+	"symbol": "PRivaCY Coin",
+	"name": "PRivaCY Coin",
+	"coingecko": "prcy-coin",
+	"sources": [
+		"coingecko"
+	]
+}

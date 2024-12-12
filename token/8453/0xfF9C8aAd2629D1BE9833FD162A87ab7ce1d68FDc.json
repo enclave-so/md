@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xfF9C8aAd2629D1BE9833FD162A87ab7ce1d68FDc",
+	"symbol": "Brett Killer",
+	"name": "Brett Killer",
+	"coingecko": "brett-killer",
+	"sources": [
+		"coingecko"
+	]
+}

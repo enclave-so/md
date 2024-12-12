@@ -1,0 +1,10 @@
+{
+	"chain": 4689,
+	"address": "0xcee948f1AbBD247A5E41a88B28990DB81Ef00BDC",
+	"symbol": "ioTube Bridged WIFI (IoTeX)",
+	"name": "ioTube Bridged WIFI (IoTeX)",
+	"coingecko": "iotube-bridged-wifi-iotex",
+	"sources": [
+		"coingecko"
+	]
+}

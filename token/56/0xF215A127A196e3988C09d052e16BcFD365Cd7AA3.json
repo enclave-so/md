@@ -1,0 +1,11 @@
+{
+	"chain": 56,
+	"address": "0xF215A127A196e3988C09d052e16BcFD365Cd7AA3",
+	"symbol": "mTSLA",
+	"name": "Mirror TSLA Token",
+	"decimals": 18,
+	"logo": "https://bscscan.com/token/images/mirror-tsla_32.png",
+	"sources": [
+		"sushiswap"
+	]
+}

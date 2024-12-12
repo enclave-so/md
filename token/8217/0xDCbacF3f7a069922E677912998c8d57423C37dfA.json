@@ -1,0 +1,10 @@
+{
+	"chain": 8217,
+	"address": "0xDCbacF3f7a069922E677912998c8d57423C37dfA",
+	"symbol": "Bridged WBTC",
+	"name": "Bridged WBTC",
+	"coingecko": "bridged-wbtc",
+	"sources": [
+		"coingecko"
+	]
+}

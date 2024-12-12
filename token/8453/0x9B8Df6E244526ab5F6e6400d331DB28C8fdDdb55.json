@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x9B8Df6E244526ab5F6e6400d331DB28C8fdDdb55",
+	"symbol": "Wrapped Solana (Universal)",
+	"name": "Wrapped Solana (Universal)",
+	"coingecko": "wrapped-solana-universal",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"chain": 66,
+	"address": "0xabc732f6f69a519F6d508434481376B6221eb7d5",
+	"symbol": "DOT",
+	"name": "DOT",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/dot.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

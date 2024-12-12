@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x5ff325Ec2CDE57373cb3DB511F96A33DC92E1986",
+	"symbol": "BABY HIPPO",
+	"name": "BABY HIPPO",
+	"coingecko": "baby-hippo",
+	"sources": [
+		"coingecko"
+	]
+}

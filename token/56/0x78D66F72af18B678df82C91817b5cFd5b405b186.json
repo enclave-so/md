@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x78D66F72af18B678df82C91817b5cFd5b405b186",
+	"symbol": "Censored AI",
+	"name": "Censored AI",
+	"coingecko": "censored-ai",
+	"sources": [
+		"coingecko"
+	]
+}

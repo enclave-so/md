@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xF86AF2FBcf6A0479B21b1d3a4Af3893F63207FE7",
+	"symbol": "GOUT",
+	"name": "GOUT",
+	"coingecko": "gout",
+	"sources": [
+		"coingecko"
+	]
+}

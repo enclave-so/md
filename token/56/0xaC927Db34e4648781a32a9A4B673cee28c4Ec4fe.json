@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xaC927Db34e4648781a32a9A4B673cee28c4Ec4fe",
+	"symbol": "4 Next Unicorn",
+	"name": "4 Next Unicorn",
+	"coingecko": "4-next-unicorn",
+	"sources": [
+		"coingecko"
+	]
+}

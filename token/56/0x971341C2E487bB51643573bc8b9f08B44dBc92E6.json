@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x971341C2E487bB51643573bc8b9f08B44dBc92E6",
+	"symbol": "MoonPot Finance",
+	"name": "MoonPot Finance",
+	"coingecko": "moonpot-finance",
+	"sources": [
+		"coingecko"
+	]
+}

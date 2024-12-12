@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x37Ac5F3bfd18a164Fc6cF0f0f0ECD334D9179d57",
+	"symbol": "Vulture Peak",
+	"name": "Vulture Peak",
+	"coingecko": "vulture-peak",
+	"sources": [
+		"coingecko"
+	]
+}

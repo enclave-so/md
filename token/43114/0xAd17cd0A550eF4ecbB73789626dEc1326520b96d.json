@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0xAd17cd0A550eF4ecbB73789626dEc1326520b96d",
+	"symbol": "Hard Frog Nick",
+	"name": "Hard Frog Nick",
+	"coingecko": "hard-frog-nick",
+	"sources": [
+		"coingecko"
+	]
+}

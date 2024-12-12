@@ -1,0 +1,10 @@
+{
+	"chain": 8217,
+	"address": "0x55863Cb9A7F92c134E9f8Edb6c655B92d60493B5",
+	"symbol": "Talken",
+	"name": "Talken",
+	"coingecko": "talken",
+	"sources": [
+		"coingecko"
+	]
+}

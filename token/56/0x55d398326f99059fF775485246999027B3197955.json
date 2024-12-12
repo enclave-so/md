@@ -1,0 +1,13 @@
+{
+	"chain": 56,
+	"address": "0x55d398326f99059fF775485246999027B3197955",
+	"symbol": "USDT",
+	"name": "Tether USD",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/binance/0x55d398326f99059fF775485246999027B3197955.jpg",
+	"coingecko": "binance-bridged-usdt-bnb-smart-chain",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

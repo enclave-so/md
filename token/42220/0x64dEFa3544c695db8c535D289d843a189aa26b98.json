@@ -1,0 +1,11 @@
+{
+	"chain": 42220,
+	"address": "0x64dEFa3544c695db8c535D289d843a189aa26b98",
+	"symbol": "mcUSD",
+	"name": "Moola cUSD",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/mcusd.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

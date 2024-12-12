@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x851DA0BEA7FE6dB35C11C1d3A065a96E6B36acf1",
+	"symbol": "Oracle Meta Technologies",
+	"name": "Oracle Meta Technologies",
+	"coingecko": "oracle-meta-technologies",
+	"sources": [
+		"coingecko"
+	]
+}

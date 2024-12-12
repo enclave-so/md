@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xcC0D48a5530Cca0481105cCD61A14C495A51c901",
+	"symbol": "MTH Network",
+	"name": "MTH Network",
+	"coingecko": "mth-network",
+	"sources": [
+		"coingecko"
+	]
+}

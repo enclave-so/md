@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xAAA9214F675316182Eaa21C85f0Ca99160CC3AAA",
+	"symbol": "QANplatform",
+	"name": "QANplatform",
+	"coingecko": "qanplatform",
+	"sources": [
+		"coingecko"
+	]
+}

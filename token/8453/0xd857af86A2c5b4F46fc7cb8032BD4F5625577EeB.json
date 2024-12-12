@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xd857af86A2c5b4F46fc7cb8032BD4F5625577EeB",
+	"symbol": "Hokkaidu Inu",
+	"name": "Hokkaidu Inu",
+	"coingecko": "hokkaido-inu",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xCDB96d3aEf363a036c6CF6c9b5736d79f0E404e2",
+	"symbol": "InpulseX",
+	"name": "InpulseX",
+	"coingecko": "inpulse-x-2",
+	"sources": [
+		"coingecko"
+	]
+}

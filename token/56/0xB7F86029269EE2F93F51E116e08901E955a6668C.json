@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xB7F86029269EE2F93F51E116e08901E955a6668C",
+	"symbol": "Baby Sora",
+	"name": "Baby Sora",
+	"coingecko": "baby-sora",
+	"sources": [
+		"coingecko"
+	]
+}

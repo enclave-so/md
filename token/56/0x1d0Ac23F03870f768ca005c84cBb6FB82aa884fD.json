@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x1d0Ac23F03870f768ca005c84cBb6FB82aa884fD",
+	"symbol": "Galeon",
+	"name": "Galeon",
+	"coingecko": "galeon",
+	"sources": [
+		"coingecko"
+	]
+}

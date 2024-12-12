@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x085D15DB9c7Cd3Df188422f88Ec41ec573D691b9",
+	"symbol": "Nomad Exiles",
+	"name": "Nomad Exiles",
+	"coingecko": "nomad-exiles",
+	"sources": [
+		"coingecko"
+	]
+}

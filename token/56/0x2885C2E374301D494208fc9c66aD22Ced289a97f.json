@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x2885C2E374301D494208fc9c66aD22Ced289a97f",
+	"symbol": "Foxcon",
+	"name": "Foxcon",
+	"coingecko": "foxcon",
+	"sources": [
+		"coingecko"
+	]
+}

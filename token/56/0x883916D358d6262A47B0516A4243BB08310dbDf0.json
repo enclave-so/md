@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x883916D358d6262A47B0516A4243BB08310dbDf0",
+	"symbol": "ADO Protocol",
+	"name": "ADO Protocol",
+	"coingecko": "ado-network",
+	"sources": [
+		"coingecko"
+	]
+}

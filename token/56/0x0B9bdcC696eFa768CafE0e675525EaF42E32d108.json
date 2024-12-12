@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x0B9bdcC696eFa768CafE0e675525EaF42E32d108",
+	"symbol": "GoSleep ZZZ",
+	"name": "GoSleep ZZZ",
+	"coingecko": "zzz",
+	"sources": [
+		"coingecko"
+	]
+}

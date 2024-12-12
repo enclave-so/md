@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xC9849E6fdB743d08fAeE3E34dd2D1bc69EA11a51",
+	"symbol": "Pancake Bunny",
+	"name": "Pancake Bunny",
+	"coingecko": "pancake-bunny",
+	"sources": [
+		"coingecko"
+	]
+}

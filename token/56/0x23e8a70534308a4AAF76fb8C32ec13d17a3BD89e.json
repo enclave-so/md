@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x23e8a70534308a4AAF76fb8C32ec13d17a3BD89e",
+	"symbol": "LUSD [OLD]",
+	"name": "LUSD [OLD]",
+	"coingecko": "lusd",
+	"sources": [
+		"coingecko"
+	]
+}

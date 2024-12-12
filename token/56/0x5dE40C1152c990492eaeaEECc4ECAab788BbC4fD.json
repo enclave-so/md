@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x5dE40C1152c990492eaeaEECc4ECAab788BbC4fD",
+	"symbol": "Segment Finance",
+	"name": "Segment Finance",
+	"coingecko": "segment",
+	"sources": [
+		"coingecko"
+	]
+}

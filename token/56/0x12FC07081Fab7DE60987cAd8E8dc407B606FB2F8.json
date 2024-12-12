@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x12FC07081Fab7DE60987cAd8E8dc407B606FB2F8",
+	"symbol": "Dark Frontiers",
+	"name": "Dark Frontiers",
+	"coingecko": "dark-frontiers",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x65346B41B6D467FF330deaeA87A1F7747E44F4CB",
+	"symbol": "PaisaPad",
+	"name": "PaisaPad",
+	"coingecko": "paisapad",
+	"sources": [
+		"coingecko"
+	]
+}

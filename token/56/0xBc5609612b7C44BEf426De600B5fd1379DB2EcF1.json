@@ -1,0 +1,11 @@
+{
+	"chain": 56,
+	"address": "0xBc5609612b7C44BEf426De600B5fd1379DB2EcF1",
+	"symbol": "PSG",
+	"name": "Paris Saint-Germain",
+	"decimals": 2,
+	"logo": "https://assets.coingecko.com/coins/images/11620/small/psg.png?1592023100",
+	"sources": [
+		"sushiswap"
+	]
+}

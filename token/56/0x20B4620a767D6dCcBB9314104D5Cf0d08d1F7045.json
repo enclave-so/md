@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x20B4620a767D6dCcBB9314104D5Cf0d08d1F7045",
+	"symbol": "Kilopi",
+	"name": "Kilopi",
+	"coingecko": "kilopi-8ee65670-efa5-4414-b9b4-1a1240415d74",
+	"sources": [
+		"coingecko"
+	]
+}

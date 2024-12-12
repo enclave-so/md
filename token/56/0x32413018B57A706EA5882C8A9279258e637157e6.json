@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x32413018B57A706EA5882C8A9279258e637157e6",
+	"symbol": "Matar AI",
+	"name": "Matar AI",
+	"coingecko": "matar-ai",
+	"sources": [
+		"coingecko"
+	]
+}

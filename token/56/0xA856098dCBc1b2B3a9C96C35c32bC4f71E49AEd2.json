@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xA856098dCBc1b2B3a9C96C35c32bC4f71E49AEd2",
+	"symbol": "Finceptor",
+	"name": "Finceptor",
+	"coingecko": "finceptor-token",
+	"sources": [
+		"coingecko"
+	]
+}

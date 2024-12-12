@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xd652C5425aea2Afd5fb142e120FeCf79e18fafc3",
+	"symbol": "PoolTogether",
+	"name": "PoolTogether",
+	"coingecko": "pooltogether",
+	"sources": [
+		"coingecko"
+	]
+}

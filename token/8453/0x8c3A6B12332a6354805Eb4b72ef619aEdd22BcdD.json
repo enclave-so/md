@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x8c3A6B12332a6354805Eb4b72ef619aEdd22BcdD",
+	"symbol": "Morpho Degen",
+	"name": "Morpho Degen",
+	"coingecko": "morpho-degen",
+	"sources": [
+		"coingecko"
+	]
+}

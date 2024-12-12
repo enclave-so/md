@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xAEe234825dC4687faE606485c1eBD06336052bCc",
+	"symbol": "Duke Inu",
+	"name": "Duke Inu",
+	"coingecko": "duke-inu-token",
+	"sources": [
+		"coingecko"
+	]
+}

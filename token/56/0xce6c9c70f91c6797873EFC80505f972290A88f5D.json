@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xce6c9c70f91c6797873EFC80505f972290A88f5D",
+	"symbol": "IceCreamSwap",
+	"name": "IceCreamSwap",
+	"coingecko": "icecream",
+	"sources": [
+		"coingecko"
+	]
+}

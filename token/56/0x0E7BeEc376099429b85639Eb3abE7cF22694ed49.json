@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x0E7BeEc376099429b85639Eb3abE7cF22694ed49",
+	"symbol": "Bunicorn",
+	"name": "Bunicorn",
+	"coingecko": "bunicorn",
+	"sources": [
+		"coingecko"
+	]
+}

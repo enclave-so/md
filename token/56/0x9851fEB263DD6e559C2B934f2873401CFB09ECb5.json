@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x9851fEB263DD6e559C2B934f2873401CFB09ECb5",
+	"symbol": "CoinBuck",
+	"name": "CoinBuck",
+	"coingecko": "coinbuck",
+	"sources": [
+		"coingecko"
+	]
+}

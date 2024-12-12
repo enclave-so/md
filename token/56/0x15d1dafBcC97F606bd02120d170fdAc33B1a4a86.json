@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x15d1dafBcC97F606bd02120d170fdAc33B1a4a86",
+	"symbol": "CashBackPro",
+	"name": "CashBackPro",
+	"coingecko": "cashbackpro",
+	"sources": [
+		"coingecko"
+	]
+}

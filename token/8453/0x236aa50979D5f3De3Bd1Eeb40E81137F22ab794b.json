@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x236aa50979D5f3De3Bd1Eeb40E81137F22ab794b",
+	"symbol": "tBTC",
+	"name": "tBTC",
+	"coingecko": "tbtc",
+	"sources": [
+		"coingecko"
+	]
+}

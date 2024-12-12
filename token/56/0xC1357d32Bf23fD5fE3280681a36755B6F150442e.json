@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xC1357d32Bf23fD5fE3280681a36755B6F150442e",
+	"symbol": "HotMoon",
+	"name": "HotMoon",
+	"coingecko": "hotmoon",
+	"sources": [
+		"coingecko"
+	]
+}

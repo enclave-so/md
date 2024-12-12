@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xe52C5A3590952F3ed6fcCf89A0bD7F38e11C5B98",
+	"symbol": "DekBox",
+	"name": "DekBox",
+	"coingecko": "dekbox",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x21ac3bB914f90A2Bb1a16088E673a9fdDa641434",
+	"symbol": "Octavia",
+	"name": "Octavia",
+	"coingecko": "octavia",
+	"sources": [
+		"coingecko"
+	]
+}

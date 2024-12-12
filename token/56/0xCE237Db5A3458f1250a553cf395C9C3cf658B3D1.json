@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xCE237Db5A3458f1250a553cf395C9C3cf658B3D1",
+	"symbol": "Vim",
+	"name": "Vim",
+	"coingecko": "vimmer",
+	"sources": [
+		"coingecko"
+	]
+}

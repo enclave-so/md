@@ -1,0 +1,10 @@
+{
+	"chain": 614,
+	"address": "0xbeED106D0f2e6950BFa1Eec74E1253CA0a643442",
+	"symbol": "GraphLinq Wrapped ETH",
+	"name": "GraphLinq Wrapped ETH",
+	"coingecko": "graphlinq-wrapped-eth",
+	"sources": [
+		"coingecko"
+	]
+}

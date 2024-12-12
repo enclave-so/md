@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xaf96a19c2DD4a0f6B077D9481fCc8C9102FAa141",
+	"symbol": "Moonarch",
+	"name": "Moonarch",
+	"coingecko": "moonarch",
+	"sources": [
+		"coingecko"
+	]
+}

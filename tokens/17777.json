@@ -1,0 +1,32 @@
+[
+	{
+		"chain": 17777,
+		"address": "0x2a3b2d64960036de519dC4a45CAfd532Bfa99Ff0",
+		"symbol": "NoahSwap",
+		"name": "NoahSwap",
+		"coingecko": "noahswap",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 17777,
+		"address": "0xc00592aA41D32D137dC480d9f6d0Df19b860104F",
+		"symbol": "Wrapped EOS",
+		"name": "Wrapped EOS",
+		"coingecko": "wrapped-eos",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 17777,
+		"address": "0xF4bd487A8190211E62925435963D996b59a860C0",
+		"symbol": "Neutroswap",
+		"name": "Neutroswap",
+		"coingecko": "neutroswap",
+		"sources": [
+			"coingecko"
+		]
+	}
+]

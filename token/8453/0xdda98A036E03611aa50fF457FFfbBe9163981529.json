@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xdda98A036E03611aa50fF457FFfbBe9163981529",
+	"symbol": "FRENZ",
+	"name": "FRENZ",
+	"coingecko": "frenz",
+	"sources": [
+		"coingecko"
+	]
+}

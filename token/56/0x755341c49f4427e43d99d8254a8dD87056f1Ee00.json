@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x755341c49f4427e43d99d8254a8dD87056f1Ee00",
+	"symbol": "Escoin",
+	"name": "Escoin",
+	"coingecko": "escoin-token",
+	"sources": [
+		"coingecko"
+	]
+}

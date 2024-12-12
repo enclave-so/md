@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xA996dbDa4a536700Dc1441442fFbDeF10C32cb9b",
+	"symbol": "Vitra Studios",
+	"name": "Vitra Studios",
+	"coingecko": "vitra-studios",
+	"sources": [
+		"coingecko"
+	]
+}

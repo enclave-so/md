@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x0079914B3C6fF1867b62c2CF8F108126970EAb6e",
+	"symbol": "Web3 Whales",
+	"name": "Web3 Whales",
+	"coingecko": "what-do-you-meme",
+	"sources": [
+		"coingecko"
+	]
+}

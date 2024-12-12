@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xbfeA674ce7d16E26E39e3c088810367a708eF94C",
+	"symbol": "April",
+	"name": "April",
+	"coingecko": "april",
+	"sources": [
+		"coingecko"
+	]
+}

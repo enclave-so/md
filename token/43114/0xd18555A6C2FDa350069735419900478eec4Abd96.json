@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0xd18555A6C2FDa350069735419900478eec4Abd96",
+	"symbol": "Alvara Protocol",
+	"name": "Alvara Protocol",
+	"coingecko": "alvara-protocol",
+	"sources": [
+		"coingecko"
+	]
+}

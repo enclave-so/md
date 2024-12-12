@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x576Bca23DcB6d94fF8E537D88b0d3E1bEaD444a2",
+	"symbol": "Base Carbon Tonne",
+	"name": "Base Carbon Tonne",
+	"coingecko": "toucan-protocol-base-carbon-tonne",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x5896c58Eb385604C33F4c5F93d547D1D0Cc746e8",
+	"symbol": "BabyGrokCEO",
+	"name": "BabyGrokCEO",
+	"coingecko": "babygrokceo",
+	"sources": [
+		"coingecko"
+	]
+}

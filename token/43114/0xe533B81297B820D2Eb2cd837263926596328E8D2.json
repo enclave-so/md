@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0xe533B81297B820D2Eb2cd837263926596328E8D2",
+	"symbol": "EMDX",
+	"name": "EMDX",
+	"coingecko": "emdx",
+	"sources": [
+		"coingecko"
+	]
+}

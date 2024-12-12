@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xCF9f991b14620f5ad144Eec11f9bc7Bf08987622",
+	"symbol": "PornRocket",
+	"name": "PornRocket",
+	"coingecko": "pornrocket",
+	"sources": [
+		"coingecko"
+	]
+}

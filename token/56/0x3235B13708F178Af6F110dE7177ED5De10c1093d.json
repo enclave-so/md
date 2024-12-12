@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x3235B13708F178Af6F110dE7177ED5De10c1093d",
+	"symbol": "Mongol NFT",
+	"name": "Mongol NFT",
+	"coingecko": "mongol-nft",
+	"sources": [
+		"coingecko"
+	]
+}

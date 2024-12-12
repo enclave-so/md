@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xAF3287cAe99C982586c07401C0d911Bf7De6CD82",
+	"symbol": "H2O Dao",
+	"name": "H2O Dao",
+	"coingecko": "h2o-dao",
+	"sources": [
+		"coingecko"
+	]
+}

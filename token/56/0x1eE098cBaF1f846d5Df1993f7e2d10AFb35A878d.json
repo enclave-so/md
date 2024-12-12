@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x1eE098cBaF1f846d5Df1993f7e2d10AFb35A878d",
+	"symbol": "Sable",
+	"name": "Sable",
+	"coingecko": "sable",
+	"sources": [
+		"coingecko"
+	]
+}

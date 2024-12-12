@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xD9474595Edb03E35C5843335F90eb18671921246",
+	"symbol": "Supernova Shards Life Coin",
+	"name": "Supernova Shards Life Coin",
+	"coingecko": "life-coin",
+	"sources": [
+		"coingecko"
+	]
+}

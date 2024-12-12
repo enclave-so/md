@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xE610D6eE762f865F98B2458AF87A79828FA724F3",
+	"symbol": "TRRXITTE International",
+	"name": "TRRXITTE International",
+	"coingecko": "trrxitte",
+	"sources": [
+		"coingecko"
+	]
+}

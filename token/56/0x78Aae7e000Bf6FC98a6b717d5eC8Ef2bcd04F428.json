@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x78Aae7e000Bf6FC98a6b717d5eC8Ef2bcd04F428",
+	"symbol": "GemPad",
+	"name": "GemPad",
+	"coingecko": "gempad",
+	"sources": [
+		"coingecko"
+	]
+}

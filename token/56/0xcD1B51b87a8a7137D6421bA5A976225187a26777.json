@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xcD1B51b87a8a7137D6421bA5A976225187a26777",
+	"symbol": "L7DEX",
+	"name": "L7DEX",
+	"coingecko": "l7dex",
+	"sources": [
+		"coingecko"
+	]
+}

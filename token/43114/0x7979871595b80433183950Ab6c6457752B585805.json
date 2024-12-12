@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x7979871595b80433183950Ab6c6457752B585805",
+	"symbol": "MetaDOS",
+	"name": "MetaDOS",
+	"coingecko": "metados",
+	"sources": [
+		"coingecko"
+	]
+}

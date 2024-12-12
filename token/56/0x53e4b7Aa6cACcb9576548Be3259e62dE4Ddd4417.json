@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x53e4b7Aa6cACcb9576548Be3259e62dE4Ddd4417",
+	"symbol": "DAOLaunch",
+	"name": "DAOLaunch",
+	"coingecko": "daolaunch",
+	"sources": [
+		"coingecko"
+	]
+}

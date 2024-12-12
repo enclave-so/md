@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x817b32d386cFc1F872de306DfAeDfDa36429cA1E",
+	"symbol": "2MOON",
+	"name": "2MOON",
+	"coingecko": "2moon",
+	"sources": [
+		"coingecko"
+	]
+}

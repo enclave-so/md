@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x19da1f6A5c2aec9315BF16D14ce7F7163082bF82",
+	"symbol": "MetaQ",
+	"name": "MetaQ",
+	"coingecko": "metaq",
+	"sources": [
+		"coingecko"
+	]
+}

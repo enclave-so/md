@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x8a0cAc13c7da965a312f08ea4229c37869e85cB9",
+	"symbol": "The Graph",
+	"name": "The Graph",
+	"coingecko": "the-graph",
+	"sources": [
+		"coingecko"
+	]
+}

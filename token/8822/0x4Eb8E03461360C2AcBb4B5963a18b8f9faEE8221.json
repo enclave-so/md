@@ -1,0 +1,10 @@
+{
+	"chain": 8822,
+	"address": "0x4Eb8E03461360C2AcBb4B5963a18b8f9faEE8221",
+	"symbol": "DEEPR",
+	"name": "DEEPR",
+	"coingecko": "deepr",
+	"sources": [
+		"coingecko"
+	]
+}

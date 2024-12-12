@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xBD2C43Da85d007B0b3cd856FD55c299578D832bC",
+	"symbol": "Lifty",
+	"name": "Lifty",
+	"coingecko": "liquidifty",
+	"sources": [
+		"coingecko"
+	]
+}

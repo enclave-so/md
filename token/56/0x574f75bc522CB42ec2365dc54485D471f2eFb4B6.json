@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x574f75bc522CB42ec2365dc54485D471f2eFb4B6",
+	"symbol": "Apple Pie",
+	"name": "Apple Pie",
+	"coingecko": "apple-pie",
+	"sources": [
+		"coingecko"
+	]
+}

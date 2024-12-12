@@ -1,0 +1,272 @@
+[
+	{
+		"chain": 42,
+		"address": "0xd0A1E359811322d97991E03f863a0C30C2cF029C",
+		"symbol": "WETH",
+		"name": "Wrapped Ether",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd0A1E359811322d97991E03f863a0C30C2cF029C/logo.png",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42,
+		"address": "0x3f0A0EA2f86baE6362CF9799B523BA06647Da018",
+		"symbol": "cUSDT",
+		"name": "Compound USDT",
+		"decimals": 8,
+		"logo": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/ctoken_usdt.svg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42,
+		"address": "0x5B8B0E44D4719F8A328470DcCD3746BFc73d6B14",
+		"symbol": "chill",
+		"name": "chill",
+		"coingecko": "chillwhales",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42,
+		"address": "0x2dB41674F2b882889e5E1Bd09a3f3613952bC472",
+		"symbol": "Wrapped Lyx (UniversalSwaps)",
+		"name": "Wrapped Lyx (UniversalSwaps)",
+		"coingecko": "wrapped-lyx-universalswaps",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42,
+		"address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
+		"symbol": "UNI",
+		"name": "Uniswap",
+		"decimals": 18,
+		"logo": "ipfs://QmXttGpZrECX5qCyXbBQiqgQNytVGeZW5Anewvh2jc4psg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42,
+		"address": "0xb7a4F3E9097C08dA09517b5aB877F7a917224ede",
+		"symbol": "USDC",
+		"name": "USD Coin USDC",
+		"decimals": 6,
+		"logo": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDC.svg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42,
+		"address": "0x482dC9bB08111CB875109B075A40881E48aE02Cd",
+		"symbol": "BAT",
+		"name": "Basic Attention Token",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_BAT.svg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42,
+		"address": "0x4F96Fe3b7A6Cf9725f59d353F723c1bDb64CA6Aa",
+		"symbol": "DAI",
+		"name": "Dai Stablecoin",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_DAI.svg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42,
+		"address": "0x50DD65531676F718B018De3dc48F92B53D756996",
+		"symbol": "REP",
+		"name": "Reputation",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_REP.svg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42,
+		"address": "0xD1308F63823221518Ec88EB209CBaa1ac182105f",
+		"symbol": "SAI",
+		"name": "Sai Stablecoin v1.0",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_SAI.svg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42,
+		"address": "0x650e14f636295af421D9BB788636356aA7F5924c",
+		"symbol": "Fabs",
+		"name": "Fabs",
+		"coingecko": "fabs",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42,
+		"address": "0x07de306FF27a2B630B1141956844eB1552B956B5",
+		"symbol": "USDT",
+		"name": "Tether USD",
+		"decimals": 6,
+		"logo": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDT.svg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42,
+		"address": "0xb3f7fB482492f4220833De6D6bfCC81157214bEC",
+		"symbol": "cSAI",
+		"name": "Compound Sai",
+		"decimals": 8,
+		"logo": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/ctoken_sai.svg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42,
+		"address": "0x4a92E71227D294F041BD82dd8f78591B75140d63",
+		"symbol": "cUSDC",
+		"name": "Compound USD Coin",
+		"decimals": 8,
+		"logo": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/ctoken_usdc.svg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42,
+		"address": "0xAf45ae737514C8427D373D50Cd979a242eC59e5a",
+		"symbol": "cZRX",
+		"name": "Compound 0x",
+		"decimals": 8,
+		"logo": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/ctoken_zrx.svg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42,
+		"address": "0x162c44e53097e7B5aaE939b297ffFD6Bf90D1EE3",
+		"symbol": "ZRX",
+		"name": "0x Protocol Token",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_ZRX.svg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42,
+		"address": "0x4a77fAeE9650b09849Ff459eA1476eaB01606C7a",
+		"symbol": "cBAT",
+		"name": "Compound Basic Attention Token",
+		"decimals": 8,
+		"logo": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/ctoken_bat.svg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42,
+		"address": "0xF0d0EB522cfa50B716B3b1604C4F0fA6f04376AD",
+		"symbol": "cDAI",
+		"name": "Compound Dai",
+		"decimals": 8,
+		"logo": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/ctoken_dai.svg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42,
+		"address": "0x41B5844f4680a8C38fBb695b7F9CFd1F64474a72",
+		"symbol": "cETH",
+		"name": "Compound Ether",
+		"decimals": 8,
+		"logo": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/ctoken_eth.svg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42,
+		"address": "0x61460874a7196d6a22D1eE4922473664b3E95270",
+		"symbol": "COMP",
+		"name": "Compound",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_COMP.svg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42,
+		"address": "0xAaF64BFCC32d0F15873a02163e7E500671a4ffcD",
+		"symbol": "MKR",
+		"name": "Maker",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xAaF64BFCC32d0F15873a02163e7E500671a4ffcD/logo.png",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42,
+		"address": "0x0769fd68dFb93167989C6f7254cd0D766Fb2841F",
+		"symbol": "SUSHI",
+		"name": "SushiToken",
+		"decimals": 18,
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42,
+		"address": "0xd3A691C852CDB01E281545A27064741F0B7f6825",
+		"symbol": "WBTC",
+		"name": "Wrapped BTC",
+		"decimals": 8,
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42,
+		"address": "0xA4eC170599a1Cf87240a35b9B1B8Ff823f448b57",
+		"symbol": "cREP",
+		"name": "Compound Augur",
+		"decimals": 8,
+		"logo": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/ctoken_rep.svg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42,
+		"address": "0xa1fAA15655B0e7b6B6470ED3d096390e6aD93Abb",
+		"symbol": "cWBTC",
+		"name": "Compound Wrapped BTC",
+		"decimals": 8,
+		"logo": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/ctoken_wbtc.svg",
+		"sources": [
+			"sushiswap"
+		]
+	}
+]

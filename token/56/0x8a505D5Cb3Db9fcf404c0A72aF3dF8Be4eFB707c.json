@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x8a505D5Cb3Db9fcf404c0A72aF3dF8Be4eFB707c",
+	"symbol": "Eng Crypto",
+	"name": "Eng Crypto",
+	"coingecko": "eng-crypto",
+	"sources": [
+		"coingecko"
+	]
+}

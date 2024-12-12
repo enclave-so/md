@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x846D50248BAf8b7ceAA9d9B53BFd12d7D7FBB25a",
+	"symbol": "Verso",
+	"name": "Verso",
+	"coingecko": "verso",
+	"sources": [
+		"coingecko"
+	]
+}

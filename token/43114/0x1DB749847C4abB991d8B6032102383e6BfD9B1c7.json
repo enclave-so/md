@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x1DB749847C4abB991d8B6032102383e6BfD9B1c7",
+	"symbol": "Dogeon",
+	"name": "Dogeon",
+	"coingecko": "dogeon",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xAe28714390e95B8dF1Ef847C58AEaC23ED457702",
+	"symbol": "GIBX Swap",
+	"name": "GIBX Swap",
+	"coingecko": "gibx-swap",
+	"sources": [
+		"coingecko"
+	]
+}

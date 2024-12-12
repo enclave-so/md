@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x5fF986De80Fc8502eA9293B8c06EF22b1e3f11e9",
+	"symbol": "Base Inu",
+	"name": "Base Inu",
+	"coingecko": "base-inu",
+	"sources": [
+		"coingecko"
+	]
+}

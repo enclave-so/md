@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xdbe125089D0752EF458C0685436ACE93A7f1F8cA",
+	"symbol": "Aqualibre",
+	"name": "Aqualibre",
+	"coingecko": "aqualibre",
+	"sources": [
+		"coingecko"
+	]
+}

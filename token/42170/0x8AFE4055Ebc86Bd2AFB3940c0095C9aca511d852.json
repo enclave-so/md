@@ -1,0 +1,13 @@
+{
+	"chain": 42170,
+	"address": "0x8AFE4055Ebc86Bd2AFB3940c0095C9aca511d852",
+	"symbol": "AIUS",
+	"name": "Arbius",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum-nova/0x8AFE4055Ebc86Bd2AFB3940c0095C9aca511d852.jpg",
+	"coingecko": "arbius",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

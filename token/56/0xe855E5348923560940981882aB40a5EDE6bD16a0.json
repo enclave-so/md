@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xe855E5348923560940981882aB40a5EDE6bD16a0",
+	"symbol": "AI Powers",
+	"name": "AI Powers",
+	"coingecko": "ai-powers",
+	"sources": [
+		"coingecko"
+	]
+}

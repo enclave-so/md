@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x3C45A24d36Ab6fc1925533C1F57bC7e1b6fbA8a4",
+	"symbol": "OptionRoom",
+	"name": "OptionRoom",
+	"coingecko": "option-room",
+	"sources": [
+		"coingecko"
+	]
+}

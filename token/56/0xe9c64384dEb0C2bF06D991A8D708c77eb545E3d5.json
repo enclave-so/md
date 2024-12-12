@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xe9c64384dEb0C2bF06D991A8D708c77eb545E3d5",
+	"symbol": "Ridotto",
+	"name": "Ridotto",
+	"coingecko": "ridotto",
+	"sources": [
+		"coingecko"
+	]
+}

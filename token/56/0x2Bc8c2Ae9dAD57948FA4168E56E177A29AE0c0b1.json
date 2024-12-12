@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x2Bc8c2Ae9dAD57948FA4168E56E177A29AE0c0b1",
+	"symbol": "BattleForTEN",
+	"name": "BattleForTEN",
+	"coingecko": "battleforten",
+	"sources": [
+		"coingecko"
+	]
+}

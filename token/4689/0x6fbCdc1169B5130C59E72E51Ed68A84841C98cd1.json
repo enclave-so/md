@@ -1,0 +1,10 @@
+{
+	"chain": 4689,
+	"address": "0x6fbCdc1169B5130C59E72E51Ed68A84841C98cd1",
+	"symbol": "Bridged Tether (IoTeX)",
+	"name": "Bridged Tether (IoTeX)",
+	"coingecko": "iousdt",
+	"sources": [
+		"coingecko"
+	]
+}

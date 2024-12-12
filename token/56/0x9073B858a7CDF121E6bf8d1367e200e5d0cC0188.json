@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x9073B858a7CDF121E6bf8d1367e200e5d0cC0188",
+	"symbol": "Moonions",
+	"name": "Moonions",
+	"coingecko": "moonions",
+	"sources": [
+		"coingecko"
+	]
+}

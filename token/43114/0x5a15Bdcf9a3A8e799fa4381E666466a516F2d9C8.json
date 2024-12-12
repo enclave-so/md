@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x5a15Bdcf9a3A8e799fa4381E666466a516F2d9C8",
+	"symbol": "Snail Trail",
+	"name": "Snail Trail",
+	"coingecko": "snail-trail",
+	"sources": [
+		"coingecko"
+	]
+}

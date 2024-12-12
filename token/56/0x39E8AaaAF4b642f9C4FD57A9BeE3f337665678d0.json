@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x39E8AaaAF4b642f9C4FD57A9BeE3f337665678d0",
+	"symbol": "SouILand",
+	"name": "SouILand",
+	"coingecko": "souiland",
+	"sources": [
+		"coingecko"
+	]
+}

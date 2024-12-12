@@ -1,0 +1,10 @@
+{
+	"chain": 8822,
+	"address": "0x30a1398cF11cb9E852E5d80aCe7FFd5ec271169E",
+	"symbol": "FOMOFox",
+	"name": "FOMOFox",
+	"coingecko": "fomofox",
+	"sources": [
+		"coingecko"
+	]
+}

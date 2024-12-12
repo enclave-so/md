@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x0203D275D2A65030889aF45ed91D472be3948B92",
+	"symbol": "Engines of Fury",
+	"name": "Engines of Fury",
+	"coingecko": "engines-of-fury",
+	"sources": [
+		"coingecko"
+	]
+}

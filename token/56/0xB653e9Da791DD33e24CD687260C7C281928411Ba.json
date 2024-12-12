@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xB653e9Da791DD33e24CD687260C7C281928411Ba",
+	"symbol": "YFIONE",
+	"name": "YFIONE",
+	"coingecko": "yfione-2",
+	"sources": [
+		"coingecko"
+	]
+}

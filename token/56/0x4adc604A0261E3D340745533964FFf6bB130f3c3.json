@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x4adc604A0261E3D340745533964FFf6bB130f3c3",
+	"symbol": "Pesabase",
+	"name": "Pesabase",
+	"coingecko": "pesabase",
+	"sources": [
+		"coingecko"
+	]
+}

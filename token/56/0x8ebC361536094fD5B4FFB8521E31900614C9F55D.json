@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x8ebC361536094fD5B4FFB8521E31900614C9F55D",
+	"symbol": "Konstellation",
+	"name": "Konstellation",
+	"coingecko": "darcmatter-coin",
+	"sources": [
+		"coingecko"
+	]
+}

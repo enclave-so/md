@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x29838b8C8b7CD6F0698c2fd6feAf0363d2CB6dA1",
+	"symbol": "Trex20",
+	"name": "Trex20",
+	"coingecko": "trex20",
+	"sources": [
+		"coingecko"
+	]
+}

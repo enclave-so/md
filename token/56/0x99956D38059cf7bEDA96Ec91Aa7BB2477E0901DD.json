@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x99956D38059cf7bEDA96Ec91Aa7BB2477E0901DD",
+	"symbol": "DIA",
+	"name": "DIA",
+	"coingecko": "dia-data",
+	"sources": [
+		"coingecko"
+	]
+}

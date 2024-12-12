@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x7Dd4cca136132e2260b3E8b4053CD7Af057c3ed5",
+	"symbol": "CodeMong Ai Games",
+	"name": "CodeMong Ai Games",
+	"coingecko": "codemong-ai-games",
+	"sources": [
+		"coingecko"
+	]
+}

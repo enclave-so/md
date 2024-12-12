@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xfEbe8C1eD424DbF688551D4E2267e7A53698F0aa",
+	"symbol": "Vita Inu",
+	"name": "Vita Inu",
+	"coingecko": "vita-inu",
+	"sources": [
+		"coingecko"
+	]
+}

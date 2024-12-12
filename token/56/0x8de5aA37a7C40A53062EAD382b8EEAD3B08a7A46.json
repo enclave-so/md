@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x8de5aA37a7C40A53062EAD382b8EEAD3B08a7A46",
+	"symbol": "Victory Gem",
+	"name": "Victory Gem",
+	"coingecko": "victory-gem",
+	"sources": [
+		"coingecko"
+	]
+}

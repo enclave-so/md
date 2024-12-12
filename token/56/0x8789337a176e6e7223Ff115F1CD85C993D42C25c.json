@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x8789337a176e6e7223Ff115F1CD85C993D42C25c",
+	"symbol": "Copiosa",
+	"name": "Copiosa",
+	"coingecko": "copiosa",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x3eeec801CEf575B876d253AB06d75251F67D827d",
+	"symbol": "Ducky City",
+	"name": "Ducky City",
+	"coingecko": "ducky-city",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xBC12aD556581ff7162E595E5956F5F3845FDB38c",
+	"symbol": "Helicopter Finance",
+	"name": "Helicopter Finance",
+	"coingecko": "helicopter-finance",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xb823746401D03cE7b4D748bB3E9c7a4912C68377",
+	"symbol": "PayX",
+	"name": "PayX",
+	"coingecko": "payx",
+	"sources": [
+		"coingecko"
+	]
+}

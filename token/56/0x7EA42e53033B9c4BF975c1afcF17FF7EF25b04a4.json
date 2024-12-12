@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x7EA42e53033B9c4BF975c1afcF17FF7EF25b04a4",
+	"symbol": "Dynachain",
+	"name": "Dynachain",
+	"coingecko": "dynachain",
+	"sources": [
+		"coingecko"
+	]
+}

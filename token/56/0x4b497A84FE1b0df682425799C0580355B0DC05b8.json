@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x4b497A84FE1b0df682425799C0580355B0DC05b8",
+	"symbol": "REBORN",
+	"name": "REBORN",
+	"coingecko": "reborn-2",
+	"sources": [
+		"coingecko"
+	]
+}

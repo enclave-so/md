@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xBC648Cbd7B2B2c666f9f46aC5C5Ce6ee77f9C407",
+	"symbol": "Work Quest",
+	"name": "Work Quest",
+	"coingecko": "work-quest-2",
+	"sources": [
+		"coingecko"
+	]
+}

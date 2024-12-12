@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x8626F099434d9A7E603B8f0273880209eaBfc1c5",
+	"symbol": "BerrySwap",
+	"name": "BerrySwap",
+	"coingecko": "berryswap",
+	"sources": [
+		"coingecko"
+	]
+}

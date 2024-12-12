@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x33d13d537609841Ce6C42D6fd775dC33E3833411",
+	"symbol": "OAKS",
+	"name": "OAKS",
+	"coingecko": "oaks",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"chain": 42220,
+	"address": "0x2A3684e9Dc20B857375EA04235F2F7edBe818FA7",
+	"symbol": "USDCv1",
+	"name": "Optics USDC v1",
+	"decimals": 6,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdc.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

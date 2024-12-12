@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xC3438D410e9a1B3096CAa4424c0d7b7257AB08Ba",
+	"symbol": "AI Surf",
+	"name": "AI Surf",
+	"coingecko": "ai-surf",
+	"sources": [
+		"coingecko"
+	]
+}

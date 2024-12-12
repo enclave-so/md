@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x6aD0b271F4b3D7651AE9947A18bae29ca20d83eB",
+	"symbol": "Web3 Workx",
+	"name": "Web3 Workx",
+	"coingecko": "nft-workx",
+	"sources": [
+		"coingecko"
+	]
+}

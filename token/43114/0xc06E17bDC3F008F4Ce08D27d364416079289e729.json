@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0xc06E17bDC3F008F4Ce08D27d364416079289e729",
+	"symbol": "DOGwifCROCS",
+	"name": "DOGwifCROCS",
+	"coingecko": "dogwifcrocs",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xBb6cDedac5CaB4A420211a4A8e8B5DCA879B31De",
+	"symbol": "MetaFighter",
+	"name": "MetaFighter",
+	"coingecko": "metafighter",
+	"sources": [
+		"coingecko"
+	]
+}

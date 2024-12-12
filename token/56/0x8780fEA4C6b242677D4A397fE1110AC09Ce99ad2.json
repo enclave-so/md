@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x8780fEA4C6b242677D4A397fE1110AC09Ce99ad2",
+	"symbol": "Bird.Money",
+	"name": "Bird.Money",
+	"coingecko": "bird-money",
+	"sources": [
+		"coingecko"
+	]
+}

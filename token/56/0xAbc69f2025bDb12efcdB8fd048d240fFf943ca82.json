@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xAbc69f2025bDb12efcdB8fd048d240fFf943ca82",
+	"symbol": "Vanity",
+	"name": "Vanity",
+	"coingecko": "vanity",
+	"sources": [
+		"coingecko"
+	]
+}

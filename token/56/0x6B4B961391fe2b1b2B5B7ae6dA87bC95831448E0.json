@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x6B4B961391fe2b1b2B5B7ae6dA87bC95831448E0",
+	"symbol": "Community Inu",
+	"name": "Community Inu",
+	"coingecko": "community-inu",
+	"sources": [
+		"coingecko"
+	]
+}

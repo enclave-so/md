@@ -1,0 +1,13 @@
+{
+	"chain": 81457,
+	"address": "0x4300000000000000000000000000000000000004",
+	"symbol": "WETH",
+	"name": "Wrapped ETH",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/blast/0x4300000000000000000000000000000000000004.jpg",
+	"coingecko": "l2-standard-bridged-weth-blast",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

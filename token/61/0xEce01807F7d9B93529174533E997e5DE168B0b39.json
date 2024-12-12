@@ -1,0 +1,10 @@
+{
+	"chain": 61,
+	"address": "0xEce01807F7d9B93529174533E997e5DE168B0b39",
+	"symbol": "SafeClassic",
+	"name": "SafeClassic",
+	"coingecko": "safeclassic",
+	"sources": [
+		"coingecko"
+	]
+}

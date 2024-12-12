@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xdE83180dD1166D4f8E5c2b7De14A2163b1Bb4a87",
+	"symbol": "Diamond Launch",
+	"name": "Diamond Launch",
+	"coingecko": "diamond-launch",
+	"sources": [
+		"coingecko"
+	]
+}

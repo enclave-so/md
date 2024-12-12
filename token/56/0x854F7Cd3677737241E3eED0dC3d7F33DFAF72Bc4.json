@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x854F7Cd3677737241E3eED0dC3d7F33DFAF72Bc4",
+	"symbol": "ETHAX",
+	"name": "ETHAX",
+	"coingecko": "ethax",
+	"sources": [
+		"coingecko"
+	]
+}

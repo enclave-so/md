@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xc6DdDB5bc6E61e0841C54f3e723Ae1f3A807260b",
+	"symbol": "Aurox",
+	"name": "Aurox",
+	"coingecko": "urus-token",
+	"sources": [
+		"coingecko"
+	]
+}

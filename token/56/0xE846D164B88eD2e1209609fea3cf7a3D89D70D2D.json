@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xE846D164B88eD2e1209609fea3cf7a3D89D70D2D",
+	"symbol": "Hawk",
+	"name": "Hawk",
+	"coingecko": "hawk-2",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x986854779804799C1d68867F5E03e601E781e41b",
+	"symbol": "Lido DAO (Wormhole)",
+	"name": "Lido DAO (Wormhole)",
+	"coingecko": "lido-dao-wormhole",
+	"sources": [
+		"coingecko"
+	]
+}

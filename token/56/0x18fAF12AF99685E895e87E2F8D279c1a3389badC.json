@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x18fAF12AF99685E895e87E2F8D279c1a3389badC",
+	"symbol": "Baby Hamster",
+	"name": "Baby Hamster",
+	"coingecko": "baby-hamster",
+	"sources": [
+		"coingecko"
+	]
+}

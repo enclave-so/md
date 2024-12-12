@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x876866eF03d1bD9cC7afDC2DF9Bf21b21A57af04",
+	"symbol": "Windfall",
+	"name": "Windfall",
+	"coingecko": "windfall-token",
+	"sources": [
+		"coingecko"
+	]
+}

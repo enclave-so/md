@@ -1,0 +1,22 @@
+[
+	{
+		"chain": 2040,
+		"address": "0x97eec1c29f745dC7c267F90292AA663d997a601D",
+		"symbol": "Vanry Bridged USDC (Vanry)",
+		"name": "Vanry Bridged USDC (Vanry)",
+		"coingecko": "vanry-bridged-usdc-vanry",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 2040,
+		"address": "0x3F59B60748f001bd53cb96A81F148e438227B0F4",
+		"symbol": "Wrapped Vanry",
+		"name": "Wrapped Vanry",
+		"coingecko": "wrapped-vanry",
+		"sources": [
+			"coingecko"
+		]
+	}
+]

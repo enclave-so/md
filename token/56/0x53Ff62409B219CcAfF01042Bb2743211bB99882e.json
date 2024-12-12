@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x53Ff62409B219CcAfF01042Bb2743211bB99882e",
+	"symbol": "Perezoso",
+	"name": "Perezoso",
+	"coingecko": "perezoso",
+	"sources": [
+		"coingecko"
+	]
+}

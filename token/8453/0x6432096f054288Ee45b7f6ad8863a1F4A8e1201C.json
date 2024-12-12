@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x6432096f054288Ee45b7f6ad8863a1F4A8e1201C",
+	"symbol": "FOMO Base",
+	"name": "FOMO Base",
+	"coingecko": "fomo-base",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x13a5c811093dd001C328b59a0CC9deC88951F042",
+	"symbol": "Panther AI",
+	"name": "Panther AI",
+	"coingecko": "panther-ai",
+	"sources": [
+		"coingecko"
+	]
+}

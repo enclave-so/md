@@ -1,0 +1,13 @@
+{
+	"chain": 42170,
+	"address": "0x6DcB98f460457fe4952e12779Ba852F82eCC62C1",
+	"symbol": "BRICK",
+	"name": "Bricks",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum-nova/0x6DcB98f460457fe4952e12779Ba852F82eCC62C1.jpg",
+	"coingecko": "brick",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

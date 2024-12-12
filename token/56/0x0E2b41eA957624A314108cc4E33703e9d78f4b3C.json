@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x0E2b41eA957624A314108cc4E33703e9d78f4b3C",
+	"symbol": "Greenheart CBD",
+	"name": "Greenheart CBD",
+	"coingecko": "greenheart-cbd",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x926ecC7687fCFB296E97a2b4501F41A6f5F8C214",
+	"symbol": "BRN Metaverse",
+	"name": "BRN Metaverse",
+	"coingecko": "brn-metaverse",
+	"sources": [
+		"coingecko"
+	]
+}

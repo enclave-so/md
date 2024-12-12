@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xAD6742A35fB341A9Cc6ad674738Dd8da98b94Fb1",
+	"symbol": "Wombat Exchange",
+	"name": "Wombat Exchange",
+	"coingecko": "wombat-exchange",
+	"sources": [
+		"coingecko"
+	]
+}

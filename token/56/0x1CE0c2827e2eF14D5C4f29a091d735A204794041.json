@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x1CE0c2827e2eF14D5C4f29a091d735A204794041",
+	"symbol": "Binance-Peg Avalanche",
+	"name": "Binance-Peg Avalanche",
+	"coingecko": "binance-peg-avalanche",
+	"sources": [
+		"coingecko"
+	]
+}

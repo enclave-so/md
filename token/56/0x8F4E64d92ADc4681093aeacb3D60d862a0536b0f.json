@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x8F4E64d92ADc4681093aeacb3D60d862a0536b0f",
+	"symbol": "Simba Coin",
+	"name": "Simba Coin",
+	"coingecko": "simba-coin",
+	"sources": [
+		"coingecko"
+	]
+}

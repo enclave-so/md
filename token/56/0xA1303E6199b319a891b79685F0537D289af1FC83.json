@@ -1,0 +1,11 @@
+{
+	"chain": 56,
+	"address": "0xA1303E6199b319a891b79685F0537D289af1FC83",
+	"symbol": "NAR",
+	"name": "NAR Token",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/13367/small/2XylnQL.png?1607923179",
+	"sources": [
+		"sushiswap"
+	]
+}

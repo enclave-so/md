@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x565D40e2ef60f0B4e5bD0136Bb2C58ACe83fDaA5",
+	"symbol": "SWAP315",
+	"name": "SWAP315",
+	"coingecko": "swap315",
+	"sources": [
+		"coingecko"
+	]
+}

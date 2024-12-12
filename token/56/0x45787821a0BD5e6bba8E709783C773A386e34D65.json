@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x45787821a0BD5e6bba8E709783C773A386e34D65",
+	"symbol": "GoldenRat",
+	"name": "GoldenRat",
+	"coingecko": "goldenrat",
+	"sources": [
+		"coingecko"
+	]
+}

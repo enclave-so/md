@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x9CD9C5a44CB8fab39b2Ee3556F5c439e65E4fDdD",
+	"symbol": "MARS4",
+	"name": "MARS4",
+	"coingecko": "mars4",
+	"sources": [
+		"coingecko"
+	]
+}

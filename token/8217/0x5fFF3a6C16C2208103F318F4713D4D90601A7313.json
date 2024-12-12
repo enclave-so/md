@@ -1,0 +1,10 @@
+{
+	"chain": 8217,
+	"address": "0x5fFF3a6C16C2208103F318F4713D4D90601A7313",
+	"symbol": "KLEVA",
+	"name": "KLEVA",
+	"coingecko": "kleva",
+	"sources": [
+		"coingecko"
+	]
+}

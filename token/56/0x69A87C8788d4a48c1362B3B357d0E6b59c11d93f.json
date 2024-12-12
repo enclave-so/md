@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x69A87C8788d4a48c1362B3B357d0E6b59c11d93f",
+	"symbol": "Orbofi AI",
+	"name": "Orbofi AI",
+	"coingecko": "orbofi-ai",
+	"sources": [
+		"coingecko"
+	]
+}

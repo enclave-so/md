@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x0b34D4A7C5BFc7004b9a193F8309523E99ca766e",
+	"symbol": "Shon",
+	"name": "Shon",
+	"coingecko": "shontoken",
+	"sources": [
+		"coingecko"
+	]
+}

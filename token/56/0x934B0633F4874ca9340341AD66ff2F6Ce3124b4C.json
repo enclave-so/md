@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x934B0633F4874ca9340341AD66ff2F6Ce3124b4C",
+	"symbol": "Sangkara",
+	"name": "Sangkara",
+	"coingecko": "sangkara",
+	"sources": [
+		"coingecko"
+	]
+}

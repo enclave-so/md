@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xF33893DE6eB6aE9A67442E066aE9aBd228f5290c",
+	"symbol": "GroveCoin",
+	"name": "GroveCoin",
+	"coingecko": "grove",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xb42E1E0165140321DB20eF46A2e9a240D60284b6",
+	"symbol": "ReflectionAI",
+	"name": "ReflectionAI",
+	"coingecko": "reflectionai",
+	"sources": [
+		"coingecko"
+	]
+}

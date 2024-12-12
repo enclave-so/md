@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xaA9826732f3A4973FF8B384B3f4e3c70c2984651",
+	"symbol": "CryptoXpress",
+	"name": "CryptoXpress",
+	"coingecko": "cryptoexpress",
+	"sources": [
+		"coingecko"
+	]
+}

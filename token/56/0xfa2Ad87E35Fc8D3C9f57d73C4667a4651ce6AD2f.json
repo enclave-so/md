@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xfa2Ad87E35Fc8D3C9f57d73C4667a4651ce6AD2f",
+	"symbol": "Carbon Emission  Blockchain",
+	"name": "Carbon Emission  Blockchain",
+	"coingecko": "carbon-emission-blockchain",
+	"sources": [
+		"coingecko"
+	]
+}

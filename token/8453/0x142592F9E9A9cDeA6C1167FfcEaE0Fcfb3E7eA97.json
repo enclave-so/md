@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x142592F9E9A9cDeA6C1167FfcEaE0Fcfb3E7eA97",
+	"symbol": "BlueCore",
+	"name": "BlueCore",
+	"coingecko": "bluecore",
+	"sources": [
+		"coingecko"
+	]
+}

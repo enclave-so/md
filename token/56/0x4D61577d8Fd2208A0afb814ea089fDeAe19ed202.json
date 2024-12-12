@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x4D61577d8Fd2208A0afb814ea089fDeAe19ed202",
+	"symbol": "VFOX",
+	"name": "VFOX",
+	"coingecko": "vfox",
+	"sources": [
+		"coingecko"
+	]
+}

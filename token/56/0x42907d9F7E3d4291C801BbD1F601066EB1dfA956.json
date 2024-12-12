@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x42907d9F7E3d4291C801BbD1F601066EB1dfA956",
+	"symbol": "Bless Global Credit",
+	"name": "Bless Global Credit",
+	"coingecko": "bless-global-credit",
+	"sources": [
+		"coingecko"
+	]
+}

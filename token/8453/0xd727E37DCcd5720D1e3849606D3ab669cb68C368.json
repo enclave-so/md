@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xd727E37DCcd5720D1e3849606D3ab669cb68C368",
+	"symbol": "9to5",
+	"name": "9to5",
+	"coingecko": "9-5",
+	"sources": [
+		"coingecko"
+	]
+}

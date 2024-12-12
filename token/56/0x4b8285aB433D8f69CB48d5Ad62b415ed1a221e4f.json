@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x4b8285aB433D8f69CB48d5Ad62b415ed1a221e4f",
+	"symbol": "MagicCraft",
+	"name": "MagicCraft",
+	"coingecko": "magiccraft",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xd5d0322b6bAb6a762C79f8c81A0B674778E13aeD",
+	"symbol": "Binance-Peg Firo",
+	"name": "Binance-Peg Firo",
+	"coingecko": "binance-peg-firo",
+	"sources": [
+		"coingecko"
+	]
+}

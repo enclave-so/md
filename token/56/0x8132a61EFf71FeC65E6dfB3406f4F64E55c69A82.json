@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x8132a61EFf71FeC65E6dfB3406f4F64E55c69A82",
+	"symbol": "Fandomdao",
+	"name": "Fandomdao",
+	"coingecko": "fandomdao",
+	"sources": [
+		"coingecko"
+	]
+}

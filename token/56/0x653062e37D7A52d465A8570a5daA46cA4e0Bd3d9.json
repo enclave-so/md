@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x653062e37D7A52d465A8570a5daA46cA4e0Bd3d9",
+	"symbol": "Forty Two DAO Token",
+	"name": "Forty Two DAO Token",
+	"coingecko": "forty-two-dao-token",
+	"sources": [
+		"coingecko"
+	]
+}

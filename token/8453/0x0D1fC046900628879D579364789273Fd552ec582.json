@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x0D1fC046900628879D579364789273Fd552ec582",
+	"symbol": "Booshi",
+	"name": "Booshi",
+	"coingecko": "booshi",
+	"sources": [
+		"coingecko"
+	]
+}

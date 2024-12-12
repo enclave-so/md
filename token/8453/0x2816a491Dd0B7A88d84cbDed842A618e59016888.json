@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x2816a491Dd0B7A88d84cbDed842A618e59016888",
+	"symbol": "LONG",
+	"name": "LONG",
+	"coingecko": "betterbelong",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x6776caCcFDCD0dFD5A38cb1D0B3b39A4Ca9283cE",
+	"symbol": "Nomad",
+	"name": "Nomad",
+	"coingecko": "nomad",
+	"sources": [
+		"coingecko"
+	]
+}

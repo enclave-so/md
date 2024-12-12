@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x17E65E6b9B166Fb8e7c59432F0db126711246BC0",
+	"symbol": "TiFi",
+	"name": "TiFi",
+	"coingecko": "tifi-token",
+	"sources": [
+		"coingecko"
+	]
+}

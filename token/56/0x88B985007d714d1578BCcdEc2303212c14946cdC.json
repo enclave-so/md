@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x88B985007d714d1578BCcdEc2303212c14946cdC",
+	"symbol": "FART COIN",
+	"name": "FART COIN",
+	"coingecko": "fart-coin",
+	"sources": [
+		"coingecko"
+	]
+}

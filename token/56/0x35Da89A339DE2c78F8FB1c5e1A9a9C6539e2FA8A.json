@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x35Da89A339DE2c78F8FB1c5e1A9a9C6539e2FA8A",
+	"symbol": "Utility Net",
+	"name": "Utility Net",
+	"coingecko": "utility-net",
+	"sources": [
+		"coingecko"
+	]
+}

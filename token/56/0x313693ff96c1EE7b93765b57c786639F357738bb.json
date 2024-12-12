@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x313693ff96c1EE7b93765b57c786639F357738bb",
+	"symbol": "Wrapped Stohn Coin",
+	"name": "Wrapped Stohn Coin",
+	"coingecko": "wrapped-stohn-coin",
+	"sources": [
+		"coingecko"
+	]
+}

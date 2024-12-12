@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x82FE038Ea4b50f9C957da326C412ebd73462077C",
+	"symbol": "Joe Hat",
+	"name": "Joe Hat",
+	"coingecko": "joe-hat-token",
+	"sources": [
+		"coingecko"
+	]
+}

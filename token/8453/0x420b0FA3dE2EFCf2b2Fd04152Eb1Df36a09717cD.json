@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x420b0FA3dE2EFCf2b2Fd04152Eb1Df36a09717cD",
+	"symbol": "King Of Memes",
+	"name": "King Of Memes",
+	"coingecko": "king-of-memes",
+	"sources": [
+		"coingecko"
+	]
+}

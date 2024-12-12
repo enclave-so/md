@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x7dE324ad84858484f1fa7cB3D6777b74942d7a55",
+	"symbol": "Quantum Pipeline",
+	"name": "Quantum Pipeline",
+	"coingecko": "quantum-pipeline",
+	"sources": [
+		"coingecko"
+	]
+}

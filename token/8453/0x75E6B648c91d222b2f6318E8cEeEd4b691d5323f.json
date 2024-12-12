@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x75E6B648c91d222b2f6318E8cEeEd4b691d5323f",
+	"symbol": "AnonFi",
+	"name": "AnonFi",
+	"coingecko": "anonfi",
+	"sources": [
+		"coingecko"
+	]
+}

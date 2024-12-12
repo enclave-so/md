@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x18E3605B13F10016901eAC609b9E188CF7c18973",
+	"symbol": "HEFE",
+	"name": "HEFE",
+	"coingecko": "hefe",
+	"sources": [
+		"coingecko"
+	]
+}

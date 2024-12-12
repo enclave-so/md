@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xCBE5BcA571628894A38836b0baE833ff012f71D8",
+	"symbol": "Infinity Rocket",
+	"name": "Infinity Rocket",
+	"coingecko": "infinity-rocket-token",
+	"sources": [
+		"coingecko"
+	]
+}

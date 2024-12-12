@@ -1,0 +1,10 @@
+{
+	"chain": 666666666,
+	"address": "0xcf79Da9C663D446c6e0Da7e3B18Ce77Ff26da26a",
+	"symbol": "Degen Cet",
+	"name": "Degen Cet",
+	"coingecko": "degen-cet",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x264CD9744C83D3b7B0255F6BeE7AB1B9DD9f89fF",
+	"symbol": "Crypto Samurai",
+	"name": "Crypto Samurai",
+	"coingecko": "crypto-samurai",
+	"sources": [
+		"coingecko"
+	]
+}

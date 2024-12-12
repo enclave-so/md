@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x722F41f6511ff7CDA73a1cb0A9eA2F731738c4a0",
+	"symbol": "Street Runner",
+	"name": "Street Runner",
+	"coingecko": "street-runner",
+	"sources": [
+		"coingecko"
+	]
+}

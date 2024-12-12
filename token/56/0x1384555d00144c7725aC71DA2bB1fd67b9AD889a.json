@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x1384555d00144c7725aC71DA2bB1fd67b9AD889a",
+	"symbol": "Dsun Token",
+	"name": "Dsun Token",
+	"coingecko": "dsun-token",
+	"sources": [
+		"coingecko"
+	]
+}

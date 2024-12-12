@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x0c7d31bEfE4945089A3b8f835d6e8c1d4df6d952",
+	"symbol": "POKO",
+	"name": "POKO",
+	"coingecko": "poko",
+	"sources": [
+		"coingecko"
+	]
+}

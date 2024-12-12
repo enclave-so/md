@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x6f51A1674BEFDD77f7ab1246b83AdB9f13613762",
+	"symbol": "Seedify NFT Space",
+	"name": "Seedify NFT Space",
+	"coingecko": "snfts-seedify-nft-space",
+	"sources": [
+		"coingecko"
+	]
+}

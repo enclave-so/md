@@ -1,0 +1,10 @@
+{
+	"chain": 57,
+	"address": "0xeFAeeE334F0Fd1712f9a8cc375f427D9Cdd40d73",
+	"symbol": "Multichain Bridged DAI (Syscoin NEVM)",
+	"name": "Multichain Bridged DAI (Syscoin NEVM)",
+	"coingecko": "multichain-bridged-dai-syscoin-nevm",
+	"sources": [
+		"coingecko"
+	]
+}

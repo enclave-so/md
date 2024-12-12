@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x7e84aC3b1eea1ef60b1a58Fc3679829CC19f19e6",
+	"symbol": "Maine Coon Cat",
+	"name": "Maine Coon Cat",
+	"coingecko": "maine-coon-cat",
+	"sources": [
+		"coingecko"
+	]
+}

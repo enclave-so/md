@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x529A1468a91fa4eE0D65EE2B4b66fE4F6A55154F",
+	"symbol": "XertiNet",
+	"name": "XertiNet",
+	"coingecko": "xertinet",
+	"sources": [
+		"coingecko"
+	]
+}

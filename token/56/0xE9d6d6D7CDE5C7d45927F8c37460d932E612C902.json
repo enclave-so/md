@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xE9d6d6D7CDE5C7d45927F8c37460d932E612C902",
+	"symbol": "Stella Fantasy Token",
+	"name": "Stella Fantasy Token",
+	"coingecko": "stella-fantasy-token",
+	"sources": [
+		"coingecko"
+	]
+}

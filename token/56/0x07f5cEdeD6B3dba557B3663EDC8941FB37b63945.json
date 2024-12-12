@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x07f5cEdeD6B3dba557B3663EDC8941FB37b63945",
+	"symbol": "Little Angry Bunny v2",
+	"name": "Little Angry Bunny v2",
+	"coingecko": "little-angry-bunny-v2",
+	"sources": [
+		"coingecko"
+	]
+}

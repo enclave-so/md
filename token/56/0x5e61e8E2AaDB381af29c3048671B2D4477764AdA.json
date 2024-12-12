@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x5e61e8E2AaDB381af29c3048671B2D4477764AdA",
+	"symbol": "CLP",
+	"name": "CLP",
+	"coingecko": "clp",
+	"sources": [
+		"coingecko"
+	]
+}

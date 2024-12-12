@@ -1,0 +1,11 @@
+{
+	"chain": 56,
+	"address": "0xA8c2B8eec3d368C0253ad3dae65a5F2BBB89c929",
+	"symbol": "CTK",
+	"name": "CertiK Token",
+	"decimals": 6,
+	"logo": "https://assets.coingecko.com/coins/images/12944/small/CertiK_Foundation_icon_96_96_-_round.png?1603772980",
+	"sources": [
+		"sushiswap"
+	]
+}

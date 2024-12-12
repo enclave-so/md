@@ -1,0 +1,10 @@
+{
+	"chain": 4337,
+	"address": "0x7fb5a9921CF98362aA425e42f66Bf3484C2C2B5F",
+	"symbol": "Goons of Balatroon",
+	"name": "Goons of Balatroon",
+	"coingecko": "goons-of-balatroon",
+	"sources": [
+		"coingecko"
+	]
+}

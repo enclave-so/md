@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x47a9B109Cfb8f89D16e8B34036150eE112572435",
+	"symbol": "BilliCat",
+	"name": "BilliCat",
+	"coingecko": "billicat",
+	"sources": [
+		"coingecko"
+	]
+}

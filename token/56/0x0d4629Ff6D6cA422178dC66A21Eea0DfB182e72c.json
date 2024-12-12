@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x0d4629Ff6D6cA422178dC66A21Eea0DfB182e72c",
+	"symbol": "CopXToken",
+	"name": "CopXToken",
+	"coingecko": "copxtoken",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 8217,
+	"address": "0x19c0D5ddcf06F282E7A547d25AB09FE5a7984Aae",
+	"symbol": "Payment Swap Utility Board",
+	"name": "Payment Swap Utility Board",
+	"coingecko": "payment-swap-utility-board",
+	"sources": [
+		"coingecko"
+	]
+}

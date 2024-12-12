@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xfCe146bF3146100cfe5dB4129cf6C82b0eF4Ad8c",
+	"symbol": "renBTC",
+	"name": "renBTC",
+	"coingecko": "renbtc",
+	"sources": [
+		"coingecko"
+	]
+}

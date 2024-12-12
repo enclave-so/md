@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x60781C2586D68229fde47564546784ab3fACA982",
+	"symbol": "Pangolin",
+	"name": "Pangolin",
+	"coingecko": "pangolin",
+	"sources": [
+		"coingecko"
+	]
+}

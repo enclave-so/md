@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x45096BD2871911eE82A3084D77a01eFA3c9c6733",
+	"symbol": "BUBCAT [OLD]",
+	"name": "BUBCAT [OLD]",
+	"coingecko": "bubcat",
+	"sources": [
+		"coingecko"
+	]
+}

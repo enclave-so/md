@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x9ce116224459296abC7858627AbD5879514BC629",
+	"symbol": "Clash of Lilliput",
+	"name": "Clash of Lilliput",
+	"coingecko": "clash-of-lilliput",
+	"sources": [
+		"coingecko"
+	]
+}

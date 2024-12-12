@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xb8067235c9b71FeeC069Af151Fdf0975dfBDFBA5",
+	"symbol": "Pion",
+	"name": "Pion",
+	"coingecko": "pion",
+	"sources": [
+		"coingecko"
+	]
+}

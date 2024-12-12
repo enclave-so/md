@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x3C6256F234Ba638E5883c46b3fEdb00ea2e66b8A",
+	"symbol": "Moongate",
+	"name": "Moongate",
+	"coingecko": "moongate",
+	"sources": [
+		"coingecko"
+	]
+}

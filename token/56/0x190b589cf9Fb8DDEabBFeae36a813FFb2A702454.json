@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x190b589cf9Fb8DDEabBFeae36a813FFb2A702454",
+	"symbol": "bDollar",
+	"name": "bDollar",
+	"coingecko": "bdollar",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x7Cf7132EdE0ca592A236b6198A681bB7B42dd5ae",
+	"symbol": "BOLT on Base",
+	"name": "BOLT on Base",
+	"coingecko": "bolt-on-base",
+	"sources": [
+		"coingecko"
+	]
+}

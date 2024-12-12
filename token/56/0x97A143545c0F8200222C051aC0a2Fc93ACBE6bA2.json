@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x97A143545c0F8200222C051aC0a2Fc93ACBE6bA2",
+	"symbol": "DefiConnect V2",
+	"name": "DefiConnect V2",
+	"coingecko": "deficonnect-v2",
+	"sources": [
+		"coingecko"
+	]
+}

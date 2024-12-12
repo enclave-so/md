@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xd10332818D6A9B4b84bf5d87DbF9D80012FDF913",
+	"symbol": "MarhabaDeFi",
+	"name": "MarhabaDeFi",
+	"coingecko": "marhabadefi",
+	"sources": [
+		"coingecko"
+	]
+}

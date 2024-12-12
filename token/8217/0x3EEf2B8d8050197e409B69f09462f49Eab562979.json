@@ -1,0 +1,10 @@
+{
+	"chain": 8217,
+	"address": "0x3EEf2B8d8050197e409B69f09462f49Eab562979",
+	"symbol": "Jumoney",
+	"name": "Jumoney",
+	"coingecko": "jumoney",
+	"sources": [
+		"coingecko"
+	]
+}

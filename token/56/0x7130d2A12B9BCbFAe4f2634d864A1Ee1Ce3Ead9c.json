@@ -1,0 +1,13 @@
+{
+	"chain": 56,
+	"address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
+	"symbol": "BTCB",
+	"name": "BTCB Token",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/binance/0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c.jpg",
+	"coingecko": "binance-bitcoin",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

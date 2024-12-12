@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x8aE8be25C23833e0A01Aa200403e826F611f9CD2",
+	"symbol": "TaleCraft",
+	"name": "TaleCraft",
+	"coingecko": "talecraft",
+	"sources": [
+		"coingecko"
+	]
+}

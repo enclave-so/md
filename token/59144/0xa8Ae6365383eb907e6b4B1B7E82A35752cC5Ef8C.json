@@ -1,0 +1,10 @@
+{
+	"chain": 59144,
+	"address": "0xa8Ae6365383eb907e6b4B1B7E82A35752cC5Ef8C",
+	"symbol": "Ankr Network",
+	"name": "Ankr Network",
+	"coingecko": "ankr",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x0f34810810DD05D2BCAEF091d54497AD40801Ff2",
+	"symbol": "Climate101",
+	"name": "Climate101",
+	"coingecko": "climate101",
+	"sources": [
+		"coingecko"
+	]
+}

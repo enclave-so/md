@@ -1,0 +1,11 @@
+{
+	"chain": 65,
+	"address": "0x2219845942d28716c0F7C605765fABDcA1a7d9E0",
+	"symbol": "WOKT",
+	"name": "Wrapped OKExChain",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/13708/small/OKExChain.jpg?1611051839",
+	"sources": [
+		"sushiswap"
+	]
+}

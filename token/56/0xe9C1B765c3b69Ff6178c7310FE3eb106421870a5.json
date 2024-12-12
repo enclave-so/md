@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xe9C1B765c3b69Ff6178c7310FE3eb106421870a5",
+	"symbol": "Buff Coin",
+	"name": "Buff Coin",
+	"coingecko": "buff-coin",
+	"sources": [
+		"coingecko"
+	]
+}

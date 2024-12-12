@@ -1,0 +1,11 @@
+{
+	"chain": 66,
+	"address": "0x506f731F7656e2FB34b587B912808f2a7aB640BD",
+	"symbol": "WBTC",
+	"name": "WBTC",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/btc.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

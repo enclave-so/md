@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x111111111111ed1D73f860F57b2798b683f2d325",
+	"symbol": "YUSD Stablecoin",
+	"name": "YUSD Stablecoin",
+	"coingecko": "yusd-stablecoin",
+	"sources": [
+		"coingecko"
+	]
+}

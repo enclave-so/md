@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x1b41a1BA7722E6431b1A782327DBe466Fe1Ee9F9",
+	"symbol": "Knit Finance",
+	"name": "Knit Finance",
+	"coingecko": "knit-finance",
+	"sources": [
+		"coingecko"
+	]
+}

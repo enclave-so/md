@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xa7ebCb0Da35A8B6d2EA6943FaeC8949676A316cd",
+	"symbol": "Perry The BNB",
+	"name": "Perry The BNB",
+	"coingecko": "perry-the-bnb",
+	"sources": [
+		"coingecko"
+	]
+}

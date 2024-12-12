@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x56A1EeC9494AD59a1954616Cb38715dc4aA61960",
+	"symbol": "Judgment AI",
+	"name": "Judgment AI",
+	"coingecko": "judgment-ai",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x2FD2799e83A723B19026A979899DfB70bBf6Bf6b",
+	"symbol": "Jaiho Crypto",
+	"name": "Jaiho Crypto",
+	"coingecko": "jaiho-crypto",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x24ca2FCcA044B345D0676F770C6cB42AC34809d7",
+	"symbol": "Pacato",
+	"name": "Pacato",
+	"coingecko": "pacato",
+	"sources": [
+		"coingecko"
+	]
+}

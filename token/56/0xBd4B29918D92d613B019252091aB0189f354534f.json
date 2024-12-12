@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xBd4B29918D92d613B019252091aB0189f354534f",
+	"symbol": "Matsuri Shiba Inu",
+	"name": "Matsuri Shiba Inu",
+	"coingecko": "matsuri-shiba-inu",
+	"sources": [
+		"coingecko"
+	]
+}

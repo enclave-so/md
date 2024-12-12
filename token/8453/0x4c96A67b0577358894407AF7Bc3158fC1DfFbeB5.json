@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x4c96A67b0577358894407AF7Bc3158fC1DfFbeB5",
+	"symbol": "Degen POV",
+	"name": "Degen POV",
+	"coingecko": "degen-pov-2",
+	"sources": [
+		"coingecko"
+	]
+}

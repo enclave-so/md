@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xC30F12CD65f61ded24db6C415C84F999C9704eBC",
+	"symbol": "Sabaka Inu",
+	"name": "Sabaka Inu",
+	"coingecko": "sabaka-inu",
+	"sources": [
+		"coingecko"
+	]
+}

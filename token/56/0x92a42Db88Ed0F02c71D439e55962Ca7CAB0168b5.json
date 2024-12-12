@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x92a42Db88Ed0F02c71D439e55962Ca7CAB0168b5",
+	"symbol": "TRDGtoken",
+	"name": "TRDGtoken",
+	"coingecko": "tardigrades-finance",
+	"sources": [
+		"coingecko"
+	]
+}

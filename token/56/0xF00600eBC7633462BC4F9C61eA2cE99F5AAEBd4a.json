@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xF00600eBC7633462BC4F9C61eA2cE99F5AAEBd4a",
+	"symbol": "Oasis",
+	"name": "Oasis",
+	"coingecko": "oasis-network",
+	"sources": [
+		"coingecko"
+	]
+}

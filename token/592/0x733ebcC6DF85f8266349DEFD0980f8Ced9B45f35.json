@@ -1,0 +1,10 @@
+{
+	"chain": 592,
+	"address": "0x733ebcC6DF85f8266349DEFD0980f8Ced9B45f35",
+	"symbol": "BAI Stablecoin",
+	"name": "BAI Stablecoin",
+	"coingecko": "bai-stablecoin",
+	"sources": [
+		"coingecko"
+	]
+}

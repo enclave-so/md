@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xC598275452fA319d75ee5f176FD3B8384925b425",
+	"symbol": "StreamCoin",
+	"name": "StreamCoin",
+	"coingecko": "streamcoin",
+	"sources": [
+		"coingecko"
+	]
+}

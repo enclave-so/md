@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x979584b07E1e14C7718C9FdaB2E35Bbb5fec2c59",
+	"symbol": "Okcash",
+	"name": "Okcash",
+	"coingecko": "okcash",
+	"sources": [
+		"coingecko"
+	]
+}

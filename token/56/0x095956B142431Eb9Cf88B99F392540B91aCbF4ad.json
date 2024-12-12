@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x095956B142431Eb9Cf88B99F392540B91aCbF4ad",
+	"symbol": "One Basis Cash",
+	"name": "One Basis Cash",
+	"coingecko": "one-basis-cash",
+	"sources": [
+		"coingecko"
+	]
+}

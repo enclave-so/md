@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x9AeB2E6DD8d55E14292ACFCFC4077e33106e4144",
+	"symbol": "Platform of meme coins",
+	"name": "Platform of meme coins",
+	"coingecko": "platform-of-meme-coins",
+	"sources": [
+		"coingecko"
+	]
+}

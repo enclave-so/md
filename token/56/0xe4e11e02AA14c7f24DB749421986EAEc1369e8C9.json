@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xe4e11e02AA14c7f24DB749421986EAEc1369e8C9",
+	"symbol": "MINATIVERSE",
+	"name": "MINATIVERSE",
+	"coingecko": "minativerse",
+	"sources": [
+		"coingecko"
+	]
+}

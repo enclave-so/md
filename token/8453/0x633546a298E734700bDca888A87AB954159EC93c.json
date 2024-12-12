@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x633546a298E734700bDca888A87AB954159EC93c",
+	"symbol": "Cope",
+	"name": "Cope",
+	"coingecko": "cope-based",
+	"sources": [
+		"coingecko"
+	]
+}

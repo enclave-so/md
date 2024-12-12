@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xE818BA083116aA7b5dc9fBE2bBd48aa9ec1E0445",
+	"symbol": "Burn",
+	"name": "Burn",
+	"coingecko": "burn-2",
+	"sources": [
+		"coingecko"
+	]
+}

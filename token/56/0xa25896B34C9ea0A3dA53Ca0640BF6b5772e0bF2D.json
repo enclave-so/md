@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xa25896B34C9ea0A3dA53Ca0640BF6b5772e0bF2D",
+	"symbol": "AEONODEX",
+	"name": "AEONODEX",
+	"coingecko": "aeonodex",
+	"sources": [
+		"coingecko"
+	]
+}

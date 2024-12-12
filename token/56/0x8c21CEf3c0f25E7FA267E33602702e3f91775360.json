@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x8c21CEf3c0f25E7FA267E33602702e3f91775360",
+	"symbol": "NerveFlux",
+	"name": "NerveFlux",
+	"coingecko": "nerveflux",
+	"sources": [
+		"coingecko"
+	]
+}

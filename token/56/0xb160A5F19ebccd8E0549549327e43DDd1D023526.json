@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xb160A5F19ebccd8E0549549327e43DDd1D023526",
+	"symbol": "Winkies",
+	"name": "Winkies",
+	"coingecko": "the-winkyverse",
+	"sources": [
+		"coingecko"
+	]
+}

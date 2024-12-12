@@ -1,0 +1,10 @@
+{
+	"chain": 81457,
+	"address": "0xfd4D19F9FBb9F730C3C88a21755832BD2455144e",
+	"symbol": "Super Sushi Samurai",
+	"name": "Super Sushi Samurai",
+	"coingecko": "super-sushi-samurai",
+	"sources": [
+		"coingecko"
+	]
+}

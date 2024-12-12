@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xaeF0d72a118ce24feE3cD1d43d383897D05B4e99",
+	"symbol": "WINkLink BSC",
+	"name": "WINkLink BSC",
+	"coingecko": "winklink-bsc",
+	"sources": [
+		"coingecko"
+	]
+}

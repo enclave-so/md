@@ -1,0 +1,10 @@
+{
+	"chain": 59144,
+	"address": "0x1Bf74C010E6320bab11e2e5A532b5AC15e0b8aA6",
+	"symbol": "ether.fi Bridged weETH (Linea)",
+	"name": "ether.fi Bridged weETH (Linea)",
+	"coingecko": "bridged-weeth-linea",
+	"sources": [
+		"coingecko"
+	]
+}

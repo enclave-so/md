@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xC98cF0876B23FB1F574Be5c59E4217C80b34D327",
+	"symbol": "Tethereum",
+	"name": "Tethereum",
+	"coingecko": "tethereum-2",
+	"sources": [
+		"coingecko"
+	]
+}

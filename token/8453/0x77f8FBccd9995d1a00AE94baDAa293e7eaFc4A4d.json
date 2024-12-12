@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x77f8FBccd9995d1a00AE94baDAa293e7eaFc4A4d",
+	"symbol": "Miu",
+	"name": "Miu",
+	"coingecko": "miu",
+	"sources": [
+		"coingecko"
+	]
+}

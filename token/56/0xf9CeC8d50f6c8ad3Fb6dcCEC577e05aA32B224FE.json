@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xf9CeC8d50f6c8ad3Fb6dcCEC577e05aA32B224FE",
+	"symbol": "Chromia",
+	"name": "Chromia",
+	"coingecko": "chromaway",
+	"sources": [
+		"coingecko"
+	]
+}

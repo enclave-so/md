@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x2AB0e9e4eE70FFf1fB9D67031E44F6410170d00e",
+	"symbol": "XEN Crypto (BSC)",
+	"name": "XEN Crypto (BSC)",
+	"coingecko": "xen-crypto-bsc",
+	"sources": [
+		"coingecko"
+	]
+}

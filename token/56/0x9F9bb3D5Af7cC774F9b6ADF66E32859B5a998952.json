@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x9F9bb3D5Af7cC774F9b6ADF66E32859B5a998952",
+	"symbol": "$SATX",
+	"name": "$SATX",
+	"coingecko": "satx",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x3AfEae00a594fbf2E4049f924E3c6AC93296B6e8",
+	"symbol": "Mamba",
+	"name": "Mamba",
+	"coingecko": "mamba",
+	"sources": [
+		"coingecko"
+	]
+}

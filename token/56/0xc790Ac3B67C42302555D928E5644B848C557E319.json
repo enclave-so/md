@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xc790Ac3B67C42302555D928E5644B848C557E319",
+	"symbol": "CELLULA",
+	"name": "CELLULA",
+	"coingecko": "cellula",
+	"sources": [
+		"coingecko"
+	]
+}

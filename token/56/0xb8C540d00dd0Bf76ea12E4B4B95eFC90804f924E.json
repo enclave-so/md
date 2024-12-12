@@ -1,0 +1,11 @@
+{
+	"chain": 56,
+	"address": "0xb8C540d00dd0Bf76ea12E4B4B95eFC90804f924E",
+	"symbol": "QUSD",
+	"name": "QUSD Stablecoin",
+	"decimals": 18,
+	"logo": "https://bscscan.com/token/images/qianfinance_32.png",
+	"sources": [
+		"sushiswap"
+	]
+}

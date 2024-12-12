@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xd6F28f15A5CaFc8d29556393c08177124B88de0D",
+	"symbol": "Spellfire",
+	"name": "Spellfire",
+	"coingecko": "spellfire",
+	"sources": [
+		"coingecko"
+	]
+}

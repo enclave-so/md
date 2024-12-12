@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x7c1cCA5b25Fa0bC9AF9275Fb53cBA89DC172b878",
+	"symbol": "Babypie Wrapped BTC",
+	"name": "Babypie Wrapped BTC",
+	"coingecko": "babypie-wrapped-btc",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 7777777,
+	"address": "0xa6B280B42CB0b7c4a4F789eC6cCC3a7609A1Bc39",
+	"symbol": "Enjoy",
+	"name": "Enjoy",
+	"coingecko": "enjoy",
+	"sources": [
+		"coingecko"
+	]
+}

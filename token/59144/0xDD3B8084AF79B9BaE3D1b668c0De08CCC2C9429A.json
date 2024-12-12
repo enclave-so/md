@@ -1,0 +1,10 @@
+{
+	"chain": 59144,
+	"address": "0xDD3B8084AF79B9BaE3D1b668c0De08CCC2C9429A",
+	"symbol": "Magic Internet Money (Linea)",
+	"name": "Magic Internet Money (Linea)",
+	"coingecko": "magic-internet-money-linea",
+	"sources": [
+		"coingecko"
+	]
+}

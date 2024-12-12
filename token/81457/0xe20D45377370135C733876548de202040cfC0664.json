@@ -1,0 +1,10 @@
+{
+	"chain": 81457,
+	"address": "0xe20D45377370135C733876548de202040cfC0664",
+	"symbol": "BAC Games",
+	"name": "BAC Games",
+	"coingecko": "bac-games",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x42414624C55A9CBa80789f47c8F9828A7974e40f",
+	"symbol": "Doge KaKi",
+	"name": "Doge KaKi",
+	"coingecko": "doge-kaki",
+	"sources": [
+		"coingecko"
+	]
+}

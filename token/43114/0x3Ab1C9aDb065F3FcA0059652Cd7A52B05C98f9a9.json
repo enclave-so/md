@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x3Ab1C9aDb065F3FcA0059652Cd7A52B05C98f9a9",
+	"symbol": "Orbs",
+	"name": "Orbs",
+	"coingecko": "orbs",
+	"sources": [
+		"coingecko"
+	]
+}

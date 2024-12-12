@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xC9f5955f6dA20e44A068f3d58FB2404f56f9a6f2",
+	"symbol": "USDFI",
+	"name": "USDFI",
+	"coingecko": "usdfi",
+	"sources": [
+		"coingecko"
+	]
+}

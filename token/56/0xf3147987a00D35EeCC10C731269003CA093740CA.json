@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xf3147987a00D35EeCC10C731269003CA093740CA",
+	"symbol": "My Master War",
+	"name": "My Master War",
+	"coingecko": "my-master-war",
+	"sources": [
+		"coingecko"
+	]
+}

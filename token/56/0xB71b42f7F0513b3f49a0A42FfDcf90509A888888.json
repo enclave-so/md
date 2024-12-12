@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xB71b42f7F0513b3f49a0A42FfDcf90509A888888",
+	"symbol": "Elon's Cat",
+	"name": "Elon's Cat",
+	"coingecko": "elon-s-cat",
+	"sources": [
+		"coingecko"
+	]
+}

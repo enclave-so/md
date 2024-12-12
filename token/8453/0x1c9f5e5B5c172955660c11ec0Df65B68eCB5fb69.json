@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x1c9f5e5B5c172955660c11ec0Df65B68eCB5fb69",
+	"symbol": "Help",
+	"name": "Help",
+	"coingecko": "help",
+	"sources": [
+		"coingecko"
+	]
+}

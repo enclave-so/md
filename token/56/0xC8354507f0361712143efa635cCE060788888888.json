@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xC8354507f0361712143efa635cCE060788888888",
+	"symbol": "AICoin",
+	"name": "AICoin",
+	"coingecko": "aicoin-2",
+	"sources": [
+		"coingecko"
+	]
+}

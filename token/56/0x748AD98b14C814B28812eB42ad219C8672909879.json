@@ -1,0 +1,11 @@
+{
+	"chain": 56,
+	"address": "0x748AD98b14C814B28812eB42ad219C8672909879",
+	"symbol": "DICE",
+	"name": "Dice.finance Token",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/12233/small/dice2.png?1598344967",
+	"sources": [
+		"sushiswap"
+	]
+}

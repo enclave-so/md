@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x0409633A72D846fc5BBe2f98D88564D35987904D",
+	"symbol": "Phoenix",
+	"name": "Phoenix",
+	"coingecko": "phoenix-global",
+	"sources": [
+		"coingecko"
+	]
+}

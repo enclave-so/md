@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x92F3e7840133d372052DEc535C49F07fCa6bb851",
+	"symbol": "Infinity Exchange",
+	"name": "Infinity Exchange",
+	"coingecko": "infinity-exchange",
+	"sources": [
+		"coingecko"
+	]
+}

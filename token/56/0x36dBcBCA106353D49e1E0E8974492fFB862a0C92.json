@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x36dBcBCA106353D49e1E0E8974492fFB862a0C92",
+	"symbol": "SafeMeme",
+	"name": "SafeMeme",
+	"coingecko": "safememe",
+	"sources": [
+		"coingecko"
+	]
+}

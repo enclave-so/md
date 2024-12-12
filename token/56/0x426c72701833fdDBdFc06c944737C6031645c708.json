@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x426c72701833fdDBdFc06c944737C6031645c708",
+	"symbol": "Defina Finance",
+	"name": "Defina Finance",
+	"coingecko": "defina-finance",
+	"sources": [
+		"coingecko"
+	]
+}

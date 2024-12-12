@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x0fC170b2B697F9A97a2Fe4ae26B02495aA5Ff2c2",
+	"symbol": "PEACHY",
+	"name": "PEACHY",
+	"coingecko": "peachy",
+	"sources": [
+		"coingecko"
+	]
+}

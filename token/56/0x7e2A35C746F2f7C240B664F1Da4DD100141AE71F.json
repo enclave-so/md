@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x7e2A35C746F2f7C240B664F1Da4DD100141AE71F",
+	"symbol": "aiRight",
+	"name": "aiRight",
+	"coingecko": "airight",
+	"sources": [
+		"coingecko"
+	]
+}

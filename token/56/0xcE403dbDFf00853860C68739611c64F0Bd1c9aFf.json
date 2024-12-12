@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xcE403dbDFf00853860C68739611c64F0Bd1c9aFf",
+	"symbol": "KITEAI",
+	"name": "KITEAI",
+	"coingecko": "kiteai",
+	"sources": [
+		"coingecko"
+	]
+}

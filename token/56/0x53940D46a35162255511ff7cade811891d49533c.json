@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x53940D46a35162255511ff7cade811891d49533c",
+	"symbol": "OxyO2",
+	"name": "OxyO2",
+	"coingecko": "oxyo2",
+	"sources": [
+		"coingecko"
+	]
+}

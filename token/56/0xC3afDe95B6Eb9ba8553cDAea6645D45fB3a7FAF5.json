@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xC3afDe95B6Eb9ba8553cDAea6645D45fB3a7FAF5",
+	"symbol": "Kiba Inu",
+	"name": "Kiba Inu",
+	"coingecko": "kiba-inu",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x23471E7250bCD7ee21Df3f39Ed6151931D1E076b",
+	"symbol": "AI Waifu",
+	"name": "AI Waifu",
+	"coingecko": "ai-waifu-2",
+	"sources": [
+		"coingecko"
+	]
+}

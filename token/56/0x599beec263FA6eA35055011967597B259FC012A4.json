@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x599beec263FA6eA35055011967597B259FC012A4",
+	"symbol": "FoxGirl",
+	"name": "FoxGirl",
+	"coingecko": "foxgirl",
+	"sources": [
+		"coingecko"
+	]
+}

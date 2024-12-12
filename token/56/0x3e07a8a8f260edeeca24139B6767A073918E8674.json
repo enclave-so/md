@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x3e07a8a8f260edeeca24139B6767A073918E8674",
+	"symbol": "Catge Coin",
+	"name": "Catge Coin",
+	"coingecko": "catge-coin",
+	"sources": [
+		"coingecko"
+	]
+}

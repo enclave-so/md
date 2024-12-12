@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xa7296CeFaE8477a81e23230ca5D3a3d6f49D3764",
+	"symbol": "Fit",
+	"name": "Fit",
+	"coingecko": "fit",
+	"sources": [
+		"coingecko"
+	]
+}

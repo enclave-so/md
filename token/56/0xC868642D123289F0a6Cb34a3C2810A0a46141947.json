@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xC868642D123289F0a6Cb34a3C2810A0a46141947",
+	"symbol": "Bitcoin E-wallet",
+	"name": "Bitcoin E-wallet",
+	"coingecko": "bitcoin-e-wallet",
+	"sources": [
+		"coingecko"
+	]
+}

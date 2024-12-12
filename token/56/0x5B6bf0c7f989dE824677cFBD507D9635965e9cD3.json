@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x5B6bf0c7f989dE824677cFBD507D9635965e9cD3",
+	"symbol": "Gamium",
+	"name": "Gamium",
+	"coingecko": "gamium",
+	"sources": [
+		"coingecko"
+	]
+}

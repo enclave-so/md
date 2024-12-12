@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xc5d3455dFc04F04A5c1889C5486bf48551990256",
+	"symbol": "SwiftPad",
+	"name": "SwiftPad",
+	"coingecko": "swiftpad",
+	"sources": [
+		"coingecko"
+	]
+}

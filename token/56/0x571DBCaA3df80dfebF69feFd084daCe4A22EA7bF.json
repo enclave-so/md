@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x571DBCaA3df80dfebF69feFd084daCe4A22EA7bF",
+	"symbol": "Bolic AI",
+	"name": "Bolic AI",
+	"coingecko": "bolic-ai",
+	"sources": [
+		"coingecko"
+	]
+}

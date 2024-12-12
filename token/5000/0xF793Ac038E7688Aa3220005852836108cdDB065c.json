@@ -1,0 +1,10 @@
+{
+	"chain": 5000,
+	"address": "0xF793Ac038E7688Aa3220005852836108cdDB065c",
+	"symbol": "Chasm",
+	"name": "Chasm",
+	"coingecko": "chasm-ai",
+	"sources": [
+		"coingecko"
+	]
+}

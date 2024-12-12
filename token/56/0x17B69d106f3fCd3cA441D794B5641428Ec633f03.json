@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x17B69d106f3fCd3cA441D794B5641428Ec633f03",
+	"symbol": "HONK",
+	"name": "HONK",
+	"coingecko": "honk-2",
+	"sources": [
+		"coingecko"
+	]
+}

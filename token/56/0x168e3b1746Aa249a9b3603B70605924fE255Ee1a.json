@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x168e3b1746Aa249a9b3603B70605924fE255Ee1a",
+	"symbol": "GAMER",
+	"name": "GAMER",
+	"coingecko": "gamer",
+	"sources": [
+		"coingecko"
+	]
+}

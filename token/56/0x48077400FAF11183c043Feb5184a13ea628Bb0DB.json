@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x48077400FAF11183c043Feb5184a13ea628Bb0DB",
+	"symbol": "Coinzix Token",
+	"name": "Coinzix Token",
+	"coingecko": "coinzix-token",
+	"sources": [
+		"coingecko"
+	]
+}

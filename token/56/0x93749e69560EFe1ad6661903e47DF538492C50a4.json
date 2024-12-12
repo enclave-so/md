@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x93749e69560EFe1ad6661903e47DF538492C50a4",
+	"symbol": "Electric Vehicle Direct Currency",
+	"name": "Electric Vehicle Direct Currency",
+	"coingecko": "electric-vehicle-direct-currency",
+	"sources": [
+		"coingecko"
+	]
+}

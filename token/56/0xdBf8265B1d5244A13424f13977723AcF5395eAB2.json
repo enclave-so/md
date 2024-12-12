@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xdBf8265B1d5244A13424f13977723AcF5395eAB2",
+	"symbol": "Wagerr",
+	"name": "Wagerr",
+	"coingecko": "wagerr",
+	"sources": [
+		"coingecko"
+	]
+}

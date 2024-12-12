@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xC7DcCA0a3e69bD762C8DB257f868f76Be36c8514",
+	"symbol": "KiboShib",
+	"name": "KiboShib",
+	"coingecko": "kiboshib",
+	"sources": [
+		"coingecko"
+	]
+}

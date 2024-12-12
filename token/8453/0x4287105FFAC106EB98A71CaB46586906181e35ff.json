@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x4287105FFAC106EB98A71CaB46586906181e35ff",
+	"symbol": "SWORD",
+	"name": "SWORD",
+	"coingecko": "sword-2",
+	"sources": [
+		"coingecko"
+	]
+}

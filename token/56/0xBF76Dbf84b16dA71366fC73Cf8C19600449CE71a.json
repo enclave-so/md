@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xBF76Dbf84b16dA71366fC73Cf8C19600449CE71a",
+	"symbol": "Mimbo",
+	"name": "Mimbo",
+	"coingecko": "mimbo",
+	"sources": [
+		"coingecko"
+	]
+}

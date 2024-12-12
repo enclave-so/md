@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x7029F86dC4634c5d59eE3F1578c193783505e2c1",
+	"symbol": "TrustPad",
+	"name": "TrustPad",
+	"coingecko": "trustpad-2-0",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x1DaCbcD9B3fc2d6A341Dca3634439D12bC71cA4d",
+	"symbol": "Bovineverse BVT",
+	"name": "Bovineverse BVT",
+	"coingecko": "bovineverse-bvt",
+	"sources": [
+		"coingecko"
+	]
+}

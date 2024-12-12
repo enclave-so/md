@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x8BD778B12b15416359A227F0533Ce2D91844e1eD",
+	"symbol": "SakeSwap",
+	"name": "SakeSwap",
+	"coingecko": "sake-token",
+	"sources": [
+		"coingecko"
+	]
+}

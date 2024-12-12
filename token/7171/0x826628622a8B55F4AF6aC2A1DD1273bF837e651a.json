@@ -1,0 +1,10 @@
+{
+	"chain": 7171,
+	"address": "0x826628622a8B55F4AF6aC2A1DD1273bF837e651a",
+	"symbol": "Rockswap",
+	"name": "Rockswap",
+	"coingecko": "rockswap",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xc4736F2611A62d545DC2D0d8f0766283617e6FcB",
+	"symbol": "TopGoal",
+	"name": "TopGoal",
+	"coingecko": "topgoal",
+	"sources": [
+		"coingecko"
+	]
+}

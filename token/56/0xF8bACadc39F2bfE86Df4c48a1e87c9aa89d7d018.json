@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xF8bACadc39F2bfE86Df4c48a1e87c9aa89d7d018",
+	"symbol": "Memes vs Undead",
+	"name": "Memes vs Undead",
+	"coingecko": "memes-vs-undead",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xD5B70Ed3f2Ba01bfaAA3Beb09E31Fe11f833b85f",
+	"symbol": "Based Baby",
+	"name": "Based Baby",
+	"coingecko": "based-baby",
+	"sources": [
+		"coingecko"
+	]
+}

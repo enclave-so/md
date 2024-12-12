@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x3b76374Cc2DfE28Cc373DcA6d5024791B2586335",
+	"symbol": "ADADao",
+	"name": "ADADao",
+	"coingecko": "adadao",
+	"sources": [
+		"coingecko"
+	]
+}

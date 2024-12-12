@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x120edC8E391ba4c94Cb98bb65d8856Ae6eC1525F",
+	"symbol": "LOUDER",
+	"name": "LOUDER",
+	"coingecko": "louder",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x17931CfC3217261Ce0fA21Bb066633C463eD8634",
+	"symbol": "BASEDChad",
+	"name": "BASEDChad",
+	"coingecko": "basedchad",
+	"sources": [
+		"coingecko"
+	]
+}

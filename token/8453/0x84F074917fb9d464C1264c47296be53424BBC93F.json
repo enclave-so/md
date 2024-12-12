@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x84F074917fb9d464C1264c47296be53424BBC93F",
+	"symbol": "PlebDreke",
+	"name": "PlebDreke",
+	"coingecko": "plebdreke",
+	"sources": [
+		"coingecko"
+	]
+}

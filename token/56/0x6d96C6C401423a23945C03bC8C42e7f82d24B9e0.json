@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x6d96C6C401423a23945C03bC8C42e7f82d24B9e0",
+	"symbol": "FreeBnk",
+	"name": "FreeBnk",
+	"coingecko": "freebnk",
+	"sources": [
+		"coingecko"
+	]
+}

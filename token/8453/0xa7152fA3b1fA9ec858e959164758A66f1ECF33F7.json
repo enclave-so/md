@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xa7152fA3b1fA9ec858e959164758A66f1ECF33F7",
+	"symbol": "Chicky",
+	"name": "Chicky",
+	"coingecko": "chicky",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 82,
+	"address": "0x228ebBeE999c6a7ad74A6130E81b12f9Fe237Ba3",
+	"symbol": "Meter Governance",
+	"name": "Meter Governance",
+	"coingecko": "meter",
+	"sources": [
+		"coingecko"
+	]
+}

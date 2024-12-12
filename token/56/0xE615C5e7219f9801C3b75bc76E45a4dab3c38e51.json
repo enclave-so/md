@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xE615C5e7219f9801C3b75bc76E45a4dab3c38e51",
+	"symbol": "Vemate",
+	"name": "Vemate",
+	"coingecko": "vemate",
+	"sources": [
+		"coingecko"
+	]
+}

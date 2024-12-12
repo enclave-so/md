@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x4Bfc90322dD638F81F034517359BD447f8E0235a",
+	"symbol": "New Order",
+	"name": "New Order",
+	"coingecko": "new-order",
+	"sources": [
+		"coingecko"
+	]
+}

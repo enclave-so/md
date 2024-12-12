@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xF8aCF86194443DCde55fc5B9e448e183c290D8Cb",
+	"symbol": "ColossusXT",
+	"name": "ColossusXT",
+	"coingecko": "colossuscoinxt",
+	"sources": [
+		"coingecko"
+	]
+}

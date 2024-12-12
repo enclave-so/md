@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x7F9C841FEAdDdB4bdBB2A161cA40bEbc4F215a9A",
+	"symbol": "XPowermine.com APOW",
+	"name": "XPowermine.com APOW",
+	"coingecko": "xpowermine-com-apow",
+	"sources": [
+		"coingecko"
+	]
+}

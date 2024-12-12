@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x5698BbA26d8668d781cDCfd2d6D6881226dD0F52",
+	"symbol": "Bool",
+	"name": "Bool",
+	"coingecko": "bool",
+	"sources": [
+		"coingecko"
+	]
+}

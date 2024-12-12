@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x9cc484ded7a7851a03f05a03e8d19EB5F5a73f20",
+	"symbol": "BKOKFi",
+	"name": "BKOKFi",
+	"coingecko": "bkokfi",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x07869C388A4dEcf49bDC61eC1ED2B3AF8a27f116",
+	"symbol": "Universal Contact",
+	"name": "Universal Contact",
+	"coingecko": "universal-contact",
+	"sources": [
+		"coingecko"
+	]
+}

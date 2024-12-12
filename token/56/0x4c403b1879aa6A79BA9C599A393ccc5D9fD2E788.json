@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x4c403b1879aa6A79BA9C599A393ccc5D9fD2E788",
+	"symbol": "Artificial Intelligence",
+	"name": "Artificial Intelligence",
+	"coingecko": "artificial-intelligence",
+	"sources": [
+		"coingecko"
+	]
+}

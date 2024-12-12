@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x334b3eCB4DCa3593BCCC3c7EBD1A1C1d1780FBF1",
+	"symbol": "Venus DAI",
+	"name": "Venus DAI",
+	"coingecko": "venus-dai",
+	"sources": [
+		"coingecko"
+	]
+}

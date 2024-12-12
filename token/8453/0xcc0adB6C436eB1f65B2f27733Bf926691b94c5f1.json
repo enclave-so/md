@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xcc0adB6C436eB1f65B2f27733Bf926691b94c5f1",
+	"symbol": "Guanciale by Virtuals",
+	"name": "Guanciale by Virtuals",
+	"coingecko": "guanciale",
+	"sources": [
+		"coingecko"
+	]
+}

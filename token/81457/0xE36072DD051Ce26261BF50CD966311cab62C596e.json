@@ -1,0 +1,10 @@
+{
+	"chain": 81457,
+	"address": "0xE36072DD051Ce26261BF50CD966311cab62C596e",
+	"symbol": "Thruster",
+	"name": "Thruster",
+	"coingecko": "thruster",
+	"sources": [
+		"coingecko"
+	]
+}

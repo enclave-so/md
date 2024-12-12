@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x4D6Ec47118f807ACE03d3B3A4EE6AA96CB2AB677",
+	"symbol": "MadSkullz BNZ",
+	"name": "MadSkullz BNZ",
+	"coingecko": "madskullz-bnz",
+	"sources": [
+		"coingecko"
+	]
+}

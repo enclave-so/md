@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x23c5D1164662758b3799103Effe19cC064d897D6",
+	"symbol": "Aura Network [OLD]",
+	"name": "Aura Network [OLD]",
+	"coingecko": "aura-network-old",
+	"sources": [
+		"coingecko"
+	]
+}

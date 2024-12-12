@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x9F5d4479b783327b61718fa13B3a0583869a80c1",
+	"symbol": "HOT BOXY",
+	"name": "HOT BOXY",
+	"coingecko": "hot-boxy",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 59144,
+	"address": "0x2442Bd7AE83b51F6664De408A385375fe4a84F52",
+	"symbol": "Linea Bridged MKR (LInea)",
+	"name": "Linea Bridged MKR (LInea)",
+	"coingecko": "linea-bridged-mkr-linea",
+	"sources": [
+		"coingecko"
+	]
+}

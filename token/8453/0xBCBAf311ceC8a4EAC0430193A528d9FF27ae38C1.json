@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xBCBAf311ceC8a4EAC0430193A528d9FF27ae38C1",
+	"symbol": "IoTeX",
+	"name": "IoTeX",
+	"coingecko": "iotex",
+	"sources": [
+		"coingecko"
+	]
+}

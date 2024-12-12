@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x5f52010d112Bf2eCb95b930d32df24E3393A3f04",
+	"symbol": "OMNI404",
+	"name": "OMNI404",
+	"coingecko": "omni404",
+	"sources": [
+		"coingecko"
+	]
+}

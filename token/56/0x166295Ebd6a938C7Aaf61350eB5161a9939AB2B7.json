@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x166295Ebd6a938C7Aaf61350eB5161a9939AB2B7",
+	"symbol": "Murasaki",
+	"name": "Murasaki",
+	"coingecko": "murasaki",
+	"sources": [
+		"coingecko"
+	]
+}

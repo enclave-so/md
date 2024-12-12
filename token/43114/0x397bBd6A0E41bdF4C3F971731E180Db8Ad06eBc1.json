@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x397bBd6A0E41bdF4C3F971731E180Db8Ad06eBc1",
+	"symbol": "Avaxtars",
+	"name": "Avaxtars",
+	"coingecko": "avaxtars",
+	"sources": [
+		"coingecko"
+	]
+}

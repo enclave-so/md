@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x857B222Fc79e1cBBf8Ca5f78CB133d1b7CF34BBd",
+	"symbol": "LTO Network",
+	"name": "LTO Network",
+	"coingecko": "lto-network",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x3b248CEfA87F836a4e6f6d6c9b42991b88Dc1d58",
+	"symbol": "Emp Money",
+	"name": "Emp Money",
+	"coingecko": "emp-money",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x10A12969cB08a8d88D4BFB5d1FA317d41e0fdab3",
+	"symbol": "MetaGods",
+	"name": "MetaGods",
+	"coingecko": "metagods",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x6c1eFbEd2F57dd486Ec091dFfd08eE5235A570b1",
+	"symbol": "Pandora Finance",
+	"name": "Pandora Finance",
+	"coingecko": "pandora-protocol",
+	"sources": [
+		"coingecko"
+	]
+}

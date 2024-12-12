@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x4fFa143Ce16A24215e8dF96c0CEF5677a7B91EE4",
+	"symbol": "Regent Coin",
+	"name": "Regent Coin",
+	"coingecko": "regent-coin",
+	"sources": [
+		"coingecko"
+	]
+}

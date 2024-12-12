@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x317eb4ad9cfaC6232f0046831322E895507bcBeb",
+	"symbol": "Tidex",
+	"name": "Tidex",
+	"coingecko": "tidex-token",
+	"sources": [
+		"coingecko"
+	]
+}

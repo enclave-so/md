@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xE64E30276C2F826FEbd3784958d6Da7B55DfbaD3",
+	"symbol": "SWFTCOIN",
+	"name": "SWFTCOIN",
+	"coingecko": "swftcoin",
+	"sources": [
+		"coingecko"
+	]
+}

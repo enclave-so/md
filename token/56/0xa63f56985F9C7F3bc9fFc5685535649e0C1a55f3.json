@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xa63f56985F9C7F3bc9fFc5685535649e0C1a55f3",
+	"symbol": "Staked FRAX",
+	"name": "Staked FRAX",
+	"coingecko": "staked-frax",
+	"sources": [
+		"coingecko"
+	]
+}

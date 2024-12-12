@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x45eaCcc670E0Ef785D9c298217a7Ab777757721b",
+	"symbol": "HeFi",
+	"name": "HeFi",
+	"coingecko": "hefi",
+	"sources": [
+		"coingecko"
+	]
+}

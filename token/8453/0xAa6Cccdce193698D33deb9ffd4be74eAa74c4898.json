@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xAa6Cccdce193698D33deb9ffd4be74eAa74c4898",
+	"symbol": "ElonRWA",
+	"name": "ElonRWA",
+	"coingecko": "elonrwa",
+	"sources": [
+		"coingecko"
+	]
+}

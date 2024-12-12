@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x40C8225329Bd3e28A043B029E0D07a5344d2C27C",
+	"symbol": "AgeOfGods",
+	"name": "AgeOfGods",
+	"coingecko": "ageofgods",
+	"sources": [
+		"coingecko"
+	]
+}

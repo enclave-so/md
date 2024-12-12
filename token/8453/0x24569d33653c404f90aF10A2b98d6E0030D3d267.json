@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x24569d33653c404f90aF10A2b98d6E0030D3d267",
+	"symbol": "Unagi Token",
+	"name": "Unagi Token",
+	"coingecko": "unagi-token",
+	"sources": [
+		"coingecko"
+	]
+}

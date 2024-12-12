@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x69C2fcAe7e30b429166BD616A322e32BeC036bCf",
+	"symbol": "MuratiAI",
+	"name": "MuratiAI",
+	"coingecko": "muratiai",
+	"sources": [
+		"coingecko"
+	]
+}

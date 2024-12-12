@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x2B1B730c997D81dB2e792b47D0bC42A64ee6aA55",
+	"symbol": "Edufex",
+	"name": "Edufex",
+	"coingecko": "edufex",
+	"sources": [
+		"coingecko"
+	]
+}

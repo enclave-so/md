@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xdA0F9F1204395C2481070c1d4DC1f996915527f2",
+	"symbol": "Tour Billion Coin",
+	"name": "Tour Billion Coin",
+	"coingecko": "tour-billion-coin",
+	"sources": [
+		"coingecko"
+	]
+}

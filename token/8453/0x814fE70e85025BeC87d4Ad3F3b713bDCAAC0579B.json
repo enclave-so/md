@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x814fE70e85025BeC87d4Ad3F3b713bDCAAC0579B",
+	"symbol": "Based Bario",
+	"name": "Based Bario",
+	"coingecko": "based-bario",
+	"sources": [
+		"coingecko"
+	]
+}

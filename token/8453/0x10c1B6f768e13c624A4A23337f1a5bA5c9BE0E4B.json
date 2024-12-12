@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x10c1B6f768e13c624A4A23337f1a5bA5c9BE0E4B",
+	"symbol": "Warpie",
+	"name": "Warpie",
+	"coingecko": "warpie",
+	"sources": [
+		"coingecko"
+	]
+}

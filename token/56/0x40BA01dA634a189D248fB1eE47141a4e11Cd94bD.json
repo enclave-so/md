@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x40BA01dA634a189D248fB1eE47141a4e11Cd94bD",
+	"symbol": "X314",
+	"name": "X314",
+	"coingecko": "x314",
+	"sources": [
+		"coingecko"
+	]
+}

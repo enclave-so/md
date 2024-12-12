@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x17893dD8bF3F868F691B314aBEb3ba8fD615E680",
+	"symbol": "DailyFish",
+	"name": "DailyFish",
+	"coingecko": "dailyfish",
+	"sources": [
+		"coingecko"
+	]
+}

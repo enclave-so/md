@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x463627B85f1fc0e4f03949BADd75271A3F981971",
+	"symbol": "Baby Musk",
+	"name": "Baby Musk",
+	"coingecko": "baby-musk-2",
+	"sources": [
+		"coingecko"
+	]
+}

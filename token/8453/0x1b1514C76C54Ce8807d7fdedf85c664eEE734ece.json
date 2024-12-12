@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x1b1514C76C54Ce8807d7fdedf85c664eEE734ece",
+	"symbol": "Purp",
+	"name": "Purp",
+	"coingecko": "purp",
+	"sources": [
+		"coingecko"
+	]
+}

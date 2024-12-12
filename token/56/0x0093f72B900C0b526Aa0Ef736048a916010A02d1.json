@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x0093f72B900C0b526Aa0Ef736048a916010A02d1",
+	"symbol": "XDOGE",
+	"name": "XDOGE",
+	"coingecko": "xdoge-3",
+	"sources": [
+		"coingecko"
+	]
+}

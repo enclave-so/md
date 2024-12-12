@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xA2EA0De93bA8dbd632C6a605f59A4950a4a25A76",
+	"symbol": "RIKEZA",
+	"name": "RIKEZA",
+	"coingecko": "rikeza",
+	"sources": [
+		"coingecko"
+	]
+}

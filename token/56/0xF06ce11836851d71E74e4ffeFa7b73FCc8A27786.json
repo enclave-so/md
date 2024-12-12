@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xF06ce11836851d71E74e4ffeFa7b73FCc8A27786",
+	"symbol": "Autolayer",
+	"name": "Autolayer",
+	"coingecko": "autolayer",
+	"sources": [
+		"coingecko"
+	]
+}

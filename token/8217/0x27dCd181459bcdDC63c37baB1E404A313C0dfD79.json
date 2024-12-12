@@ -1,0 +1,10 @@
+{
+	"chain": 8217,
+	"address": "0x27dCd181459bcdDC63c37baB1E404A313C0dfD79",
+	"symbol": "Mineral",
+	"name": "Mineral",
+	"coingecko": "mineral",
+	"sources": [
+		"coingecko"
+	]
+}

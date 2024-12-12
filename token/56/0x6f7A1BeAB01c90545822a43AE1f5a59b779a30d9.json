@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x6f7A1BeAB01c90545822a43AE1f5a59b779a30d9",
+	"symbol": "Motorcoin",
+	"name": "Motorcoin",
+	"coingecko": "motorcoin",
+	"sources": [
+		"coingecko"
+	]
+}

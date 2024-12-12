@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x30D19Fb77C3Ee5cFa97f73D72c6A1E509fa06AEf",
+	"symbol": "CONDO",
+	"name": "CONDO",
+	"coingecko": "condo",
+	"sources": [
+		"coingecko"
+	]
+}

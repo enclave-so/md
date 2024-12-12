@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xd9025e25Bb6cF39f8c926A704039D2DD51088063",
+	"symbol": "Coinary",
+	"name": "Coinary",
+	"coingecko": "coinary-token",
+	"sources": [
+		"coingecko"
+	]
+}

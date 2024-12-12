@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x6B4712AE9797C199edd44F897cA09BC57628a1CF",
+	"symbol": "UniDex",
+	"name": "UniDex",
+	"coingecko": "unidex",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 530,
+	"address": "0x5c24B402b4b4550CF94227813f3547B94774c1CB",
+	"symbol": "Staked FX",
+	"name": "Staked FX",
+	"coingecko": "staked-fx",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x21f1ce0FCf1E9E39F8e79B7762801E8096d9f6CD",
+	"symbol": "BCPAY FinTech",
+	"name": "BCPAY FinTech",
+	"coingecko": "bcpay-fintech",
+	"sources": [
+		"coingecko"
+	]
+}

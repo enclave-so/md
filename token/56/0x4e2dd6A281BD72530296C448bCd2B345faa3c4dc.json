@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x4e2dd6A281BD72530296C448bCd2B345faa3c4dc",
+	"symbol": "Exchange Token Plus",
+	"name": "Exchange Token Plus",
+	"coingecko": "exchange-token-plus",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"chain": 81457,
+	"address": "0xB582Dc28968c725D2868130752aFa0c13EbF9b1a",
+	"symbol": "BEPE",
+	"name": "Blast Pepe",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/blast/0xB582Dc28968c725D2868130752aFa0c13EbF9b1a.jpg",
+	"coingecko": "blast-pepe",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

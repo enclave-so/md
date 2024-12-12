@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x72B7D61E8fC8cF971960DD9cfA59B8C829D91991",
+	"symbol": "Planet Finance",
+	"name": "Planet Finance",
+	"coingecko": "planet-finance",
+	"sources": [
+		"coingecko"
+	]
+}

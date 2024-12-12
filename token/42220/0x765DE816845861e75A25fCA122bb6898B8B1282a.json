@@ -1,0 +1,13 @@
+{
+	"chain": 42220,
+	"address": "0x765DE816845861e75A25fCA122bb6898B8B1282a",
+	"symbol": "cUSD",
+	"name": "Celo Dollar",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/cusd.jpg",
+	"coingecko": "celo-dollar",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x79BA10485ae46a9436D560D9664369176EC2eB2b",
+	"symbol": "Chikn Worm",
+	"name": "Chikn Worm",
+	"coingecko": "chikn-worm",
+	"sources": [
+		"coingecko"
+	]
+}

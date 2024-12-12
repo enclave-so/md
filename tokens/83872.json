@@ -1,0 +1,32 @@
+[
+	{
+		"chain": 83872,
+		"address": "0x240962a6dDD67DD382DB4d417CbDF0d8822ACA2f",
+		"symbol": "Bitcoin Bridged ZED20",
+		"name": "Bitcoin Bridged ZED20",
+		"coingecko": "bitcoin-bridged-zed20",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 83872,
+		"address": "0x3F7BE9DB9d37bd89c3Fa722BB29bA17300C18fc8",
+		"symbol": "Wrapped Zedxion",
+		"name": "Wrapped Zedxion",
+		"coingecko": "wrapped-zedxion",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 83872,
+		"address": "0x5B0F21f60116b9463210C00C7A1A6A46E26BFA33",
+		"symbol": "ZedDex",
+		"name": "ZedDex",
+		"coingecko": "zeddex",
+		"sources": [
+			"coingecko"
+		]
+	}
+]

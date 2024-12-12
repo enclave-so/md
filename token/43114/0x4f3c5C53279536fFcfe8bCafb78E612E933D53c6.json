@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x4f3c5C53279536fFcfe8bCafb78E612E933D53c6",
+	"symbol": "Phoenic Token",
+	"name": "Phoenic Token",
+	"coingecko": "phoenic-token",
+	"sources": [
+		"coingecko"
+	]
+}

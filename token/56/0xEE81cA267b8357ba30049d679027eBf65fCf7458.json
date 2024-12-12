@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xEE81cA267b8357ba30049d679027eBf65fCf7458",
+	"symbol": "VOPO",
+	"name": "VOPO",
+	"coingecko": "vopo",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xDbE3ea3639077a837e767C5D82730254fC933E41",
+	"symbol": "Matrix Layer Protocol",
+	"name": "Matrix Layer Protocol",
+	"coingecko": "matrix-layer-protocol",
+	"sources": [
+		"coingecko"
+	]
+}

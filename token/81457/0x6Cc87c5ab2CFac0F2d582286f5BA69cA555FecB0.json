@@ -1,0 +1,10 @@
+{
+	"chain": 81457,
+	"address": "0x6Cc87c5ab2CFac0F2d582286f5BA69cA555FecB0",
+	"symbol": "AIRcoin On Blast",
+	"name": "AIRcoin On Blast",
+	"coingecko": "aircoin-on-blast",
+	"sources": [
+		"coingecko"
+	]
+}

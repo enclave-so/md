@@ -1,0 +1,13 @@
+{
+	"chain": 43114,
+	"address": "0xfaB550568C688d5D8A52C7d794cb93Edc26eC0eC",
+	"symbol": "axlUSDC",
+	"name": "Axelar Wrapped USDC",
+	"decimals": 6,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0xfaB550568C688d5D8A52C7d794cb93Edc26eC0eC.jpg",
+	"coingecko": "axlusdc",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

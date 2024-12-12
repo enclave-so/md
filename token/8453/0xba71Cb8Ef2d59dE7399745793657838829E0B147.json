@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xba71Cb8Ef2d59dE7399745793657838829E0B147",
+	"symbol": "Siamese",
+	"name": "Siamese",
+	"coingecko": "siamese",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x6e9A1428798Ff011E2cF369b129630f686232784",
+	"symbol": "Koubek",
+	"name": "Koubek",
+	"coingecko": "koubek",
+	"sources": [
+		"coingecko"
+	]
+}

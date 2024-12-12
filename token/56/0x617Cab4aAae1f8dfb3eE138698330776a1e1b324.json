@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x617Cab4aAae1f8dfb3eE138698330776a1e1b324",
+	"symbol": "Artyfact",
+	"name": "Artyfact",
+	"coingecko": "artyfact",
+	"sources": [
+		"coingecko"
+	]
+}

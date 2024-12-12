@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xEf43bF8C6430A615BBa48987aE2522E3A3bE0A18",
+	"symbol": "SAYCOIN",
+	"name": "SAYCOIN",
+	"coingecko": "saycoin",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x502580fc390606b47FC3b741d6D49909383c28a9",
+	"symbol": "HatchyPocket",
+	"name": "HatchyPocket",
+	"coingecko": "hatchypocket",
+	"sources": [
+		"coingecko"
+	]
+}

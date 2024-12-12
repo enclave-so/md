@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xe2272E0C3d9510b3A9B21F396F46Cfa5910D2ea7",
+	"symbol": "Zefi",
+	"name": "Zefi",
+	"coingecko": "zefi",
+	"sources": [
+		"coingecko"
+	]
+}

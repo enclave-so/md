@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xC703dA39aE3B9Db67C207c7Bad8100E1AfdC0F9c",
+	"symbol": "FRGX Finance",
+	"name": "FRGX Finance",
+	"coingecko": "frgx-finance",
+	"sources": [
+		"coingecko"
+	]
+}

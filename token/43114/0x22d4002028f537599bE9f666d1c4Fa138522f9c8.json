@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x22d4002028f537599bE9f666d1c4Fa138522f9c8",
+	"symbol": "Platypus Finance",
+	"name": "Platypus Finance",
+	"coingecko": "platypus-finance",
+	"sources": [
+		"coingecko"
+	]
+}

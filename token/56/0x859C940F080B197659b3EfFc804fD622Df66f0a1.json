@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x859C940F080B197659b3EfFc804fD622Df66f0a1",
+	"symbol": "FitBurn",
+	"name": "FitBurn",
+	"coingecko": "calorie",
+	"sources": [
+		"coingecko"
+	]
+}

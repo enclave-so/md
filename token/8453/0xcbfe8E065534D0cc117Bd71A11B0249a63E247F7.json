@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xcbfe8E065534D0cc117Bd71A11B0249a63E247F7",
+	"symbol": "FrokAI",
+	"name": "FrokAI",
+	"coingecko": "frokai",
+	"sources": [
+		"coingecko"
+	]
+}

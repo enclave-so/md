@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x347F500323D51E9350285Daf299ddB529009e6AE",
+	"symbol": "BLERF",
+	"name": "BLERF",
+	"coingecko": "blerf",
+	"sources": [
+		"coingecko"
+	]
+}

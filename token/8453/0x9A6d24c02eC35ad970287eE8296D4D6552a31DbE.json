@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x9A6d24c02eC35ad970287eE8296D4D6552a31DbE",
+	"symbol": "OPEN Ticketing Ecosystem",
+	"name": "OPEN Ticketing Ecosystem",
+	"coingecko": "open-ticketing-ecosystem",
+	"sources": [
+		"coingecko"
+	]
+}

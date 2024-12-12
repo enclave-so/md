@@ -1,0 +1,10 @@
+{
+	"chain": 8217,
+	"address": "0xAfdE910130C335fA5bD5fe991053E3E0a49dcE7b",
+	"symbol": "Pibble",
+	"name": "Pibble",
+	"coingecko": "pibble",
+	"sources": [
+		"coingecko"
+	]
+}

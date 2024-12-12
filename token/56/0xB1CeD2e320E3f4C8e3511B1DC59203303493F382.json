@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xB1CeD2e320E3f4C8e3511B1DC59203303493F382",
+	"symbol": "Moonlight",
+	"name": "Moonlight",
+	"coingecko": "moonlight-token",
+	"sources": [
+		"coingecko"
+	]
+}

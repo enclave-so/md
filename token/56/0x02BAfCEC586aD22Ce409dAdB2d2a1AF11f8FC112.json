@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x02BAfCEC586aD22Ce409dAdB2d2a1AF11f8FC112",
+	"symbol": "ELON 2024",
+	"name": "ELON 2024",
+	"coingecko": "elon-2024",
+	"sources": [
+		"coingecko"
+	]
+}

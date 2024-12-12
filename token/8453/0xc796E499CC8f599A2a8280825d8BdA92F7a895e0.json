@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xc796E499CC8f599A2a8280825d8BdA92F7a895e0",
+	"symbol": "Neurobro",
+	"name": "Neurobro",
+	"coingecko": "neurobro",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x18E692c03De43972Fe81058f322fa542Ae1A5E2c",
+	"symbol": "imgnAI",
+	"name": "imgnAI",
+	"coingecko": "imgnai",
+	"sources": [
+		"coingecko"
+	]
+}

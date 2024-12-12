@@ -1,0 +1,11 @@
+{
+	"chain": 43114,
+	"address": "0x88A0F8318Bf0CE19e999f1802bf5B12DC8d7cdFe",
+	"symbol": "NSFW",
+	"name": "Pleasure Coin",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0x88A0F8318Bf0CE19e999f1802bf5B12DC8d7cdFe.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

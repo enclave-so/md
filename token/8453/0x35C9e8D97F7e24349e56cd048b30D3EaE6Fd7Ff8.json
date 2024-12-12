@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x35C9e8D97F7e24349e56cd048b30D3EaE6Fd7Ff8",
+	"symbol": "WeeDE",
+	"name": "WeeDE",
+	"coingecko": "weede",
+	"sources": [
+		"coingecko"
+	]
+}

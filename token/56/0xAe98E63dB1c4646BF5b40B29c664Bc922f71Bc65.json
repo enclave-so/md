@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xAe98E63dB1c4646BF5b40B29c664Bc922f71Bc65",
+	"symbol": "Energyfi",
+	"name": "Energyfi",
+	"coingecko": "energyfi",
+	"sources": [
+		"coingecko"
+	]
+}

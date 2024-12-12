@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x1f6C1516bDEba1a01643B792eB12D68cec8658ba",
+	"symbol": "Shackleford",
+	"name": "Shackleford",
+	"coingecko": "shackleford",
+	"sources": [
+		"coingecko"
+	]
+}

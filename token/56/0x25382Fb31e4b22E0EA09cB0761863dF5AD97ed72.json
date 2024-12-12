@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x25382Fb31e4b22E0EA09cB0761863dF5AD97ed72",
+	"symbol": "Paragen",
+	"name": "Paragen",
+	"coingecko": "paragen",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x589864A9892B1a736ae70a91824Ab4DC591FD8cd",
+	"symbol": "Gibape",
+	"name": "Gibape",
+	"coingecko": "gibape",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xb2ea51BAa12C461327d12A2069d47b30e680b69D",
+	"symbol": "Space Misfits",
+	"name": "Space Misfits",
+	"coingecko": "space-misfits",
+	"sources": [
+		"coingecko"
+	]
+}

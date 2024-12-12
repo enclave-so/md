@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x3d4f0513E8a29669B960f9dBcA61861548A9A760",
+	"symbol": "Banana For Scale",
+	"name": "Banana For Scale",
+	"coingecko": "banana-for-scale-2",
+	"sources": [
+		"coingecko"
+	]
+}

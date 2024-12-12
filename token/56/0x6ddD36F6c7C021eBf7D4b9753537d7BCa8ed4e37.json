@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x6ddD36F6c7C021eBf7D4b9753537d7BCa8ed4e37",
+	"symbol": "Hamster Groomers",
+	"name": "Hamster Groomers",
+	"coingecko": "hamster-groomers",
+	"sources": [
+		"coingecko"
+	]
+}

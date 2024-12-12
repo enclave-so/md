@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x400613f184D1207f5C07a67D67040A4e23E92feB",
+	"symbol": "UpDog",
+	"name": "UpDog",
+	"coingecko": "updog",
+	"sources": [
+		"coingecko"
+	]
+}

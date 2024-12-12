@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xEAc9873291dDAcA754EA5642114151f3035c67A2",
+	"symbol": "Decubate",
+	"name": "Decubate",
+	"coingecko": "decubate",
+	"sources": [
+		"coingecko"
+	]
+}

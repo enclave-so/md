@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xcc7a91413769891de2e9ebBfC96D2eb1874b5760",
+	"symbol": "GovWorld",
+	"name": "GovWorld",
+	"coingecko": "govworld",
+	"sources": [
+		"coingecko"
+	]
+}

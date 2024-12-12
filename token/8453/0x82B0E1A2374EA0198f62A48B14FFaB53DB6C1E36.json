@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x82B0E1A2374EA0198f62A48B14FFaB53DB6C1E36",
+	"symbol": "PokPok Golden Egg",
+	"name": "PokPok Golden Egg",
+	"coingecko": "pokpok-golden-egg",
+	"sources": [
+		"coingecko"
+	]
+}

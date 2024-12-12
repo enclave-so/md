@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xE3c1bDeEc4dB91CD90c336776332FAe2E00fdDd9",
+	"symbol": "Ash Token",
+	"name": "Ash Token",
+	"coingecko": "ash-token",
+	"sources": [
+		"coingecko"
+	]
+}

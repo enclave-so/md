@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x16153214E683018D5aA318864c8e692b66E16778",
+	"symbol": "PolkaWar",
+	"name": "PolkaWar",
+	"coingecko": "polkawar",
+	"sources": [
+		"coingecko"
+	]
+}

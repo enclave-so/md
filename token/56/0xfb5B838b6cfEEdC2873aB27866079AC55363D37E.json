@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xfb5B838b6cfEEdC2873aB27866079AC55363D37E",
+	"symbol": "FLOKI",
+	"name": "FLOKI",
+	"coingecko": "floki",
+	"sources": [
+		"coingecko"
+	]
+}

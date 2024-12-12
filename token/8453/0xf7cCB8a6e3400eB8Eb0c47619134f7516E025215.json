@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xf7cCB8a6e3400eB8Eb0c47619134f7516E025215",
+	"symbol": "Onchain Summer",
+	"name": "Onchain Summer",
+	"coingecko": "onchain-summer",
+	"sources": [
+		"coingecko"
+	]
+}

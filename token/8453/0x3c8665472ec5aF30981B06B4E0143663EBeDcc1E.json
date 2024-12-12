@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x3c8665472ec5aF30981B06B4E0143663EBeDcc1E",
+	"symbol": "YieldWard",
+	"name": "YieldWard",
+	"coingecko": "warden-protocol",
+	"sources": [
+		"coingecko"
+	]
+}

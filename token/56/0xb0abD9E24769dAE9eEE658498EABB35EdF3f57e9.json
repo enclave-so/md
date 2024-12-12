@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xb0abD9E24769dAE9eEE658498EABB35EdF3f57e9",
+	"symbol": "AmpereChain",
+	"name": "AmpereChain",
+	"coingecko": "amperechain",
+	"sources": [
+		"coingecko"
+	]
+}

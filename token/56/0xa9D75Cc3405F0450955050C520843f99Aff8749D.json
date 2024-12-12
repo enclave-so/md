@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xa9D75Cc3405F0450955050C520843f99Aff8749D",
+	"symbol": "Warena",
+	"name": "Warena",
+	"coingecko": "warena",
+	"sources": [
+		"coingecko"
+	]
+}

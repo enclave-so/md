@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x9d1A7A3191102e9F900Faa10540837ba84dCBAE7",
+	"symbol": "Eurite",
+	"name": "Eurite",
+	"coingecko": "eurite",
+	"sources": [
+		"coingecko"
+	]
+}

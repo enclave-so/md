@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x9252384e10Ba6beae1A52DBb2a3BEca2592268D9",
+	"symbol": "Torch",
+	"name": "Torch",
+	"coingecko": "clashmon-ignition-torch",
+	"sources": [
+		"coingecko"
+	]
+}

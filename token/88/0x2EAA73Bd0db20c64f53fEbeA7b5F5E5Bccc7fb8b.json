@@ -1,0 +1,10 @@
+{
+	"chain": 88,
+	"address": "0x2EAA73Bd0db20c64f53fEbeA7b5F5E5Bccc7fb8b",
+	"symbol": "Bridged WETH",
+	"name": "Bridged WETH",
+	"coingecko": "bridged-weth",
+	"sources": [
+		"coingecko"
+	]
+}

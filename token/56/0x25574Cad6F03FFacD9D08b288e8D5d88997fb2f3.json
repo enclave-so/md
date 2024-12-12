@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x25574Cad6F03FFacD9D08b288e8D5d88997fb2f3",
+	"symbol": "RedFeg",
+	"name": "RedFeg",
+	"coingecko": "redfeg",
+	"sources": [
+		"coingecko"
+	]
+}

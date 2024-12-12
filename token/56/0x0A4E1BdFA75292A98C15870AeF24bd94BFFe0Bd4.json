@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x0A4E1BdFA75292A98C15870AeF24bd94BFFe0Bd4",
+	"symbol": "Fight Of The Ages",
+	"name": "Fight Of The Ages",
+	"coingecko": "fight-of-the-ages",
+	"sources": [
+		"coingecko"
+	]
+}

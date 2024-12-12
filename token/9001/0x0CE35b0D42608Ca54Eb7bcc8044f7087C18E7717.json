@@ -1,0 +1,10 @@
+{
+	"chain": 9001,
+	"address": "0x0CE35b0D42608Ca54Eb7bcc8044f7087C18E7717",
+	"symbol": "Regen",
+	"name": "Regen",
+	"coingecko": "regen",
+	"sources": [
+		"coingecko"
+	]
+}

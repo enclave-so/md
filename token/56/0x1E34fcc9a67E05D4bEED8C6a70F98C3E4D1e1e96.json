@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x1E34fcc9a67E05D4bEED8C6a70F98C3E4D1e1e96",
+	"symbol": "Outlanders",
+	"name": "Outlanders",
+	"coingecko": "outlanders",
+	"sources": [
+		"coingecko"
+	]
+}

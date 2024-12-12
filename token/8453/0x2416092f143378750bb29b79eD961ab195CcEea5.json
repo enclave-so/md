@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x2416092f143378750bb29b79eD961ab195CcEea5",
+	"symbol": "Renzo Restaked ETH",
+	"name": "Renzo Restaked ETH",
+	"coingecko": "renzo-restaked-eth",
+	"sources": [
+		"coingecko"
+	]
+}

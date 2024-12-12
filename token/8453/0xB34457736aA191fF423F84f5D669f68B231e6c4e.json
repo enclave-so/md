@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xB34457736aA191fF423F84f5D669f68B231e6c4e",
+	"symbol": "AGENT DOGE by Virtuals",
+	"name": "AGENT DOGE by Virtuals",
+	"coingecko": "agent-doge-by-virtuals",
+	"sources": [
+		"coingecko"
+	]
+}

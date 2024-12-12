@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xFd4330b0312fdEEC6d4225075b82E00493FF2e3f",
+	"symbol": "SmarDex",
+	"name": "SmarDex",
+	"coingecko": "smardex",
+	"sources": [
+		"coingecko"
+	]
+}

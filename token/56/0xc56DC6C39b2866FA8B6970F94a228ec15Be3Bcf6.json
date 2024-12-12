@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xc56DC6C39b2866FA8B6970F94a228ec15Be3Bcf6",
+	"symbol": "Slex",
+	"name": "Slex",
+	"coingecko": "slex",
+	"sources": [
+		"coingecko"
+	]
+}

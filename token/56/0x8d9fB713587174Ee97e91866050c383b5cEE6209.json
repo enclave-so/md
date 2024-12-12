@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x8d9fB713587174Ee97e91866050c383b5cEE6209",
+	"symbol": "ScarQuest",
+	"name": "ScarQuest",
+	"coingecko": "velhalla",
+	"sources": [
+		"coingecko"
+	]
+}

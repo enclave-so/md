@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x07430e1482574389Bc0E5d33CFB65280e881EE8c",
+	"symbol": "Nami Frame Futures",
+	"name": "Nami Frame Futures",
+	"coingecko": "nami-frame-futures",
+	"sources": [
+		"coingecko"
+	]
+}

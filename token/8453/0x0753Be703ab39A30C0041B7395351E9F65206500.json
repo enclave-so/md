@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x0753Be703ab39A30C0041B7395351E9F65206500",
+	"symbol": "Daily Active Users",
+	"name": "Daily Active Users",
+	"coingecko": "daily-active-users",
+	"sources": [
+		"coingecko"
+	]
+}

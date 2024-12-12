@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xeA6f7e7e0F46A9E0F4e2048Eb129D879f609d632",
+	"symbol": "Percy",
+	"name": "Percy",
+	"coingecko": "percy",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xddb341E88Bb2dd7cB56e3C62991c5aD3911518cc",
+	"symbol": "CCQKL",
+	"name": "CCQKL",
+	"coingecko": "ccqkl",
+	"sources": [
+		"coingecko"
+	]
+}

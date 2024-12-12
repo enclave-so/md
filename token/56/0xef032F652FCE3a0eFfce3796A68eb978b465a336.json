@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xef032F652FCE3a0eFfce3796A68eb978b465a336",
+	"symbol": "Moochii",
+	"name": "Moochii",
+	"coingecko": "moochii",
+	"sources": [
+		"coingecko"
+	]
+}

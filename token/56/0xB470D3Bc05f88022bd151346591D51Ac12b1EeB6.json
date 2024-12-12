@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xB470D3Bc05f88022bd151346591D51Ac12b1EeB6",
+	"symbol": "Horizon Blockchain",
+	"name": "Horizon Blockchain",
+	"coingecko": "horizon-blockchain",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x124123c7aF9EFD2A86f4D41daA88ac164D02a3D5",
+	"symbol": "GreenEnvironmentalCoins",
+	"name": "GreenEnvironmentalCoins",
+	"coingecko": "greenenvironmentalcoins",
+	"sources": [
+		"coingecko"
+	]
+}

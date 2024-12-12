@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x03CDe8C2F3b53aDd0ca0e34983C86C047985b2bE",
+	"symbol": "LifeRestart (Ordinals)",
+	"name": "LifeRestart (Ordinals)",
+	"coingecko": "liferestart",
+	"sources": [
+		"coingecko"
+	]
+}

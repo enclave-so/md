@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x28b28dDA85c60E3397933Ea50ED3522Bb25487aB",
+	"symbol": "XFILE",
+	"name": "XFILE",
+	"coingecko": "xfile",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xAab09b5cd1694d12c8c980306f5E2f5d65b00E1C",
+	"symbol": "Revomon",
+	"name": "Revomon",
+	"coingecko": "revomon-2",
+	"sources": [
+		"coingecko"
+	]
+}

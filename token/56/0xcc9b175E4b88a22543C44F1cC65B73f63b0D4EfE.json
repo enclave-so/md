@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xcc9b175E4b88a22543C44F1cC65B73f63b0D4EfE",
+	"symbol": "Baby Shark",
+	"name": "Baby Shark",
+	"coingecko": "baby-shark",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x502B8136c48977b975a6C62B08Ac4E15Dabc8172",
+	"symbol": "Child Support",
+	"name": "Child Support",
+	"coingecko": "child-support",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xaFe5451185513925F5E757F001425338Ff93412D",
+	"symbol": "Particles Money",
+	"name": "Particles Money",
+	"coingecko": "particles-money",
+	"sources": [
+		"coingecko"
+	]
+}

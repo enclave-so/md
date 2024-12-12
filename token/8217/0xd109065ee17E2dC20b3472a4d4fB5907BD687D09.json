@@ -1,0 +1,10 @@
+{
+	"chain": 8217,
+	"address": "0xd109065ee17E2dC20b3472a4d4fB5907BD687D09",
+	"symbol": "Klap Finance",
+	"name": "Klap Finance",
+	"coingecko": "klap-finance",
+	"sources": [
+		"coingecko"
+	]
+}

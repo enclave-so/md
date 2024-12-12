@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x43767d226EF1F5337d10382cd19D64b60A30C5fD",
+	"symbol": "Universal Blockchain",
+	"name": "Universal Blockchain",
+	"coingecko": "universal-blockchan",
+	"sources": [
+		"coingecko"
+	]
+}

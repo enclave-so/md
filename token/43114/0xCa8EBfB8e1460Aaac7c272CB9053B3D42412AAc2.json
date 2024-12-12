@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0xCa8EBfB8e1460Aaac7c272CB9053B3D42412AAc2",
+	"symbol": "Gamer Arena",
+	"name": "Gamer Arena",
+	"coingecko": "gamer-arena",
+	"sources": [
+		"coingecko"
+	]
+}

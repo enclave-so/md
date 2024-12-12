@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x4c97c901B5147F8C1C7Ce3c5cF3eB83B44F244fE",
+	"symbol": "Mound",
+	"name": "Mound",
+	"coingecko": "mound-token",
+	"sources": [
+		"coingecko"
+	]
+}

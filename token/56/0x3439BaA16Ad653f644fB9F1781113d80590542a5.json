@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x3439BaA16Ad653f644fB9F1781113d80590542a5",
+	"symbol": "CloudCoin Finance",
+	"name": "CloudCoin Finance",
+	"coingecko": "cloudcoin-finance",
+	"sources": [
+		"coingecko"
+	]
+}

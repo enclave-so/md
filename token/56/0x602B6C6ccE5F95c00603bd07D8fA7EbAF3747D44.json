@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x602B6C6ccE5F95c00603bd07D8fA7EbAF3747D44",
+	"symbol": "Rejuve.AI",
+	"name": "Rejuve.AI",
+	"coingecko": "rejuve-ai",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xf5f2a79eECcF6e7F4C570c803F529930e29cc96B",
+	"symbol": "CertaiK by Virtuals",
+	"name": "CertaiK by Virtuals",
+	"coingecko": "certaik-by-virtuals",
+	"sources": [
+		"coingecko"
+	]
+}

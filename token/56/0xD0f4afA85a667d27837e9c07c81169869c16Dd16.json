@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xD0f4afA85a667d27837e9c07c81169869c16Dd16",
+	"symbol": "Privapp Network",
+	"name": "Privapp Network",
+	"coingecko": "privapp-network",
+	"sources": [
+		"coingecko"
+	]
+}

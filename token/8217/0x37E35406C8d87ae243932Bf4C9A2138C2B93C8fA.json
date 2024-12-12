@@ -1,0 +1,10 @@
+{
+	"chain": 8217,
+	"address": "0x37E35406C8d87ae243932Bf4C9A2138C2B93C8fA",
+	"symbol": "Favor",
+	"name": "Favor",
+	"coingecko": "favor",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 766,
+	"address": "0xa26dfBF98Dd1A32FAe56A3D2B2D60A8a41b0bDF0",
+	"symbol": "Wrapped QOM",
+	"name": "Wrapped QOM",
+	"coingecko": "wrapped-qom",
+	"sources": [
+		"coingecko"
+	]
+}

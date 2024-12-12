@@ -1,0 +1,10 @@
+{
+	"chain": 534352,
+	"address": "0x188B158CAf5Ea252012dbD6030AfC030329C4961",
+	"symbol": "Zen",
+	"name": "Zen",
+	"coingecko": "zen",
+	"sources": [
+		"coingecko"
+	]
+}

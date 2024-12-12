@@ -1,0 +1,11 @@
+{
+	"chain": 56,
+	"address": "0x4A2940263acfd179dBc1C6B69A3392671ACCaf5B",
+	"symbol": "SHWA",
+	"name": "ShibaWallet",
+	"decimals": 18,
+	"logo": "https://shibawallet.pro/assets/favicon32x32.png",
+	"sources": [
+		"sushiswap"
+	]
+}

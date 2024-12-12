@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xbC4d19D6Ab09Fafe720DB304faC0e9Ec941a932b",
+	"symbol": "Hide Coin",
+	"name": "Hide Coin",
+	"coingecko": "secret-block-hide",
+	"sources": [
+		"coingecko"
+	]
+}

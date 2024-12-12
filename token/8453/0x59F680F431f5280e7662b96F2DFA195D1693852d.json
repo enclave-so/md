@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x59F680F431f5280e7662b96F2DFA195D1693852d",
+	"symbol": "Magnify Cash",
+	"name": "Magnify Cash",
+	"coingecko": "magnify-cash",
+	"sources": [
+		"coingecko"
+	]
+}

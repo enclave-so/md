@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x80B3455e1Db60b4Cba46Aba12E8b1E256dD64979",
+	"symbol": "Blue-Footed Booby",
+	"name": "Blue-Footed Booby",
+	"coingecko": "blue-footed-booby",
+	"sources": [
+		"coingecko"
+	]
+}

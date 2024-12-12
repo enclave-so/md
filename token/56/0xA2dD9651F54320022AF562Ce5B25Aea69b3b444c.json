@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xA2dD9651F54320022AF562Ce5B25Aea69b3b444c",
+	"symbol": "PAPA BEAR",
+	"name": "PAPA BEAR",
+	"coingecko": "papa-bear-2",
+	"sources": [
+		"coingecko"
+	]
+}

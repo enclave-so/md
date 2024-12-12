@@ -1,0 +1,10 @@
+{
+	"chain": 534352,
+	"address": "0x0Fc479e2f9b7310BfB1Db606CF565deA6910eedc",
+	"symbol": "Papyrus Swap",
+	"name": "Papyrus Swap",
+	"coingecko": "papyrus-swap",
+	"sources": [
+		"coingecko"
+	]
+}

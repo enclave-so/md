@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x8DC0F602696De3fF03B37e19A172e5080f049C15",
+	"symbol": "Clashub",
+	"name": "Clashub",
+	"coingecko": "clashub",
+	"sources": [
+		"coingecko"
+	]
+}

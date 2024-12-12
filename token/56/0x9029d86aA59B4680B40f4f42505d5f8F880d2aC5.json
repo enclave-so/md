@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x9029d86aA59B4680B40f4f42505d5f8F880d2aC5",
+	"symbol": "Co2DAO",
+	"name": "Co2DAO",
+	"coingecko": "co2dao",
+	"sources": [
+		"coingecko"
+	]
+}

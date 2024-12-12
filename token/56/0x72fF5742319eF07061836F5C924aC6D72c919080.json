@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x72fF5742319eF07061836F5C924aC6D72c919080",
+	"symbol": "Gifto",
+	"name": "Gifto",
+	"coingecko": "gifto",
+	"sources": [
+		"coingecko"
+	]
+}

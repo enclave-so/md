@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x739e81BCd49854d7BDF526302989f14A2E7994B2",
+	"symbol": "Centcex",
+	"name": "Centcex",
+	"coingecko": "centcex",
+	"sources": [
+		"coingecko"
+	]
+}

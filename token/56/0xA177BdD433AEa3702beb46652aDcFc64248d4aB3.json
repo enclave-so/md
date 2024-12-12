@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xA177BdD433AEa3702beb46652aDcFc64248d4aB3",
+	"symbol": "Probinex",
+	"name": "Probinex",
+	"coingecko": "probinex",
+	"sources": [
+		"coingecko"
+	]
+}

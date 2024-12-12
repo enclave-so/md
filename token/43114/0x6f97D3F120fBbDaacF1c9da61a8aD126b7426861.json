@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x6f97D3F120fBbDaacF1c9da61a8aD126b7426861",
+	"symbol": "UniX",
+	"name": "UniX",
+	"coingecko": "unix",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xAe3BcDAdf58eC10B0Ca0566F35877dE4467Ad222",
+	"symbol": "marumaruNFT",
+	"name": "marumaruNFT",
+	"coingecko": "marumarunft",
+	"sources": [
+		"coingecko"
+	]
+}

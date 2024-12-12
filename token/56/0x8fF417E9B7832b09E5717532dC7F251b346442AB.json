@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x8fF417E9B7832b09E5717532dC7F251b346442AB",
+	"symbol": "Unamano",
+	"name": "Unamano",
+	"coingecko": "unamano",
+	"sources": [
+		"coingecko"
+	]
+}

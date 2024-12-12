@@ -1,0 +1,10 @@
+{
+	"chain": 5000,
+	"address": "0x51cfe5b1E764dC253F4c8C1f19a081fF4C3517eD",
+	"symbol": "Mantle Inu",
+	"name": "Mantle Inu",
+	"coingecko": "mantle-inu",
+	"sources": [
+		"coingecko"
+	]
+}

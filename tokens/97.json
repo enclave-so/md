@@ -1,0 +1,35 @@
+[
+	{
+		"chain": 97,
+		"address": "0xae13d989daC2f0dEbFf460aC112a837C89BAa7cd",
+		"symbol": "WBNB",
+		"name": "WBNB Token",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/info/logo.png",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 97,
+		"address": "0xeD24FC36d5Ee211Ea25A80239Fb8C4Cfd80f12Ee",
+		"symbol": "BUSD",
+		"name": "BUSD Token",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/assets/BUSD-BD1/logo.png",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 97,
+		"address": "0x337610d27c682E347C9cD60BD4b3b107C9d34dDd",
+		"symbol": "USDT",
+		"name": "USDT Token",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/assets/USDT-6D8/logo.png",
+		"sources": [
+			"sushiswap"
+		]
+	}
+]

@@ -1,0 +1,11 @@
+{
+	"chain": 56,
+	"address": "0xE4Ae305ebE1AbE663f261Bc00534067C80ad677C",
+	"symbol": "SPARTA",
+	"name": "SPARTAN PROTOCOL TOKEN",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/12638/small/1*OWy3ohA24pht-tFypfs-Tg.png?1601364302",
+	"sources": [
+		"sushiswap"
+	]
+}

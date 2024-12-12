@@ -1,0 +1,10 @@
+{
+	"chain": 61,
+	"address": "0x1953cab0E5bFa6D4a9BaD6E05fD46C1CC6527a5a",
+	"symbol": "Wrapped ETC",
+	"name": "Wrapped ETC",
+	"coingecko": "wrapped-ether",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x49074051AD996828504D7F719Fc5769aC942220d",
+	"symbol": "AVATAGO",
+	"name": "AVATAGO",
+	"coingecko": "avatago",
+	"sources": [
+		"coingecko"
+	]
+}

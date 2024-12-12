@@ -1,0 +1,10 @@
+{
+	"chain": 96,
+	"address": "0x8E3C2B00eFEBB64a6B775c451197a9dbA1077967",
+	"symbol": "Dice Kingdom",
+	"name": "Dice Kingdom",
+	"coingecko": "dice-kingdom",
+	"sources": [
+		"coingecko"
+	]
+}

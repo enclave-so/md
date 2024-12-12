@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x6B2812F1A8350De38C4Da2d29446ead15B91Fa3C",
+	"symbol": "Hanuman Universe",
+	"name": "Hanuman Universe",
+	"coingecko": "hanuman-universe",
+	"sources": [
+		"coingecko"
+	]
+}

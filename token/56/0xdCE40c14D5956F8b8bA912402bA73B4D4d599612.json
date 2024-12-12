@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xdCE40c14D5956F8b8bA912402bA73B4D4d599612",
+	"symbol": "PlayZap",
+	"name": "PlayZap",
+	"coingecko": "playzap",
+	"sources": [
+		"coingecko"
+	]
+}

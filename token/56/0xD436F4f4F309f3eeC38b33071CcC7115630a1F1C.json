@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xD436F4f4F309f3eeC38b33071CcC7115630a1F1C",
+	"symbol": "Australian Crypto Coin Green",
+	"name": "Australian Crypto Coin Green",
+	"coingecko": "australian-crypto-coin-green",
+	"sources": [
+		"coingecko"
+	]
+}

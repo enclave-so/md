@@ -1,0 +1,10 @@
+{
+	"chain": 6001,
+	"address": "0xF4c20e5004C6FDCDdA920bDD491ba8C98a9c5863",
+	"symbol": "Wrapped BounceBit",
+	"name": "Wrapped BounceBit",
+	"coingecko": "wrapped-bouncebit",
+	"sources": [
+		"coingecko"
+	]
+}

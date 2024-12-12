@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x9D1d4dE9cD93203147fAc3BC0262a78e3a0e96bb",
+	"symbol": "Playbux",
+	"name": "Playbux",
+	"coingecko": "playbux",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xB800AFf8391aBACDEb0199AB9CeBF63771FcF491",
+	"symbol": "NovaX",
+	"name": "NovaX",
+	"coingecko": "novax",
+	"sources": [
+		"coingecko"
+	]
+}

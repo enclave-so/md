@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x91dba2CD05c8A0227B48c3e426077145d23B21df",
+	"symbol": "Papu Token",
+	"name": "Papu Token",
+	"coingecko": "papu-token",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xeD28A457A5A76596ac48d87C0f577020F6Ea1c4C",
+	"symbol": "pTokens BTC [OLD]",
+	"name": "pTokens BTC [OLD]",
+	"coingecko": "ptokens-btc",
+	"sources": [
+		"coingecko"
+	]
+}

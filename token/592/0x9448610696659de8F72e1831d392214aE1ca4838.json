@@ -1,0 +1,10 @@
+{
+	"chain": 592,
+	"address": "0x9448610696659de8F72e1831d392214aE1ca4838",
+	"symbol": "Sirius Finance",
+	"name": "Sirius Finance",
+	"coingecko": "sirius-finance",
+	"sources": [
+		"coingecko"
+	]
+}

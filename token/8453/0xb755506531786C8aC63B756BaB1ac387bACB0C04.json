@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xb755506531786C8aC63B756BaB1ac387bACB0C04",
+	"symbol": "ZARP Stablecoin",
+	"name": "ZARP Stablecoin",
+	"coingecko": "zarp-stablecoin",
+	"sources": [
+		"coingecko"
+	]
+}

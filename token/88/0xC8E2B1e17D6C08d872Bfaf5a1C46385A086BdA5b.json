@@ -1,0 +1,10 @@
+{
+	"chain": 88,
+	"address": "0xC8E2B1e17D6C08d872Bfaf5a1C46385A086BdA5b",
+	"symbol": "Gunstar Metaverse",
+	"name": "Gunstar Metaverse",
+	"coingecko": "gunstar-metaverse",
+	"sources": [
+		"coingecko"
+	]
+}

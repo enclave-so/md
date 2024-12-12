@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x2CD14cbA3F26254beeD1d78158cd2B6F91809600",
+	"symbol": "Genshiro",
+	"name": "Genshiro",
+	"coingecko": "genshiro",
+	"sources": [
+		"coingecko"
+	]
+}

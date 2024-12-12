@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x6AFD5A1ea4b793CC1526d6Dc7e99A608b356eF7b",
+	"symbol": "Storm",
+	"name": "Storm",
+	"coingecko": "storm-token",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x53607C4a966f79d3ab1750180E770B0bFD493f46",
+	"symbol": "Sprint",
+	"name": "Sprint",
+	"coingecko": "sprint-2",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x0DD7913197bFB6d2b1f03f9772CeD06298f1A644",
+	"symbol": "Moonboots DAO",
+	"name": "Moonboots DAO",
+	"coingecko": "moonboots-dao",
+	"sources": [
+		"coingecko"
+	]
+}

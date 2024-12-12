@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xdE314A065AaaF11E794706F8585C77e3Bb7a2741",
+	"symbol": "Dex on Crypto",
+	"name": "Dex on Crypto",
+	"coingecko": "dex-on-crypto",
+	"sources": [
+		"coingecko"
+	]
+}

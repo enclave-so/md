@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xDdf98aad8180c3E368467782CD07AE2E3E8d36A5",
+	"symbol": "Animated",
+	"name": "Animated",
+	"coingecko": "animated",
+	"sources": [
+		"coingecko"
+	]
+}

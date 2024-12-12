@@ -1,0 +1,11 @@
+{
+	"chain": 43114,
+	"address": "0xF873633DF9D5cDd62BB1f402499CC470a72A02D7",
+	"symbol": "MOVR",
+	"name": "MoonRiver",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/movr.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

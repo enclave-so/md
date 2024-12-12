@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x73f49d00AC1B520F94d11248808c40774aeb0802",
+	"symbol": "Majin",
+	"name": "Majin",
+	"coingecko": "majin",
+	"sources": [
+		"coingecko"
+	]
+}

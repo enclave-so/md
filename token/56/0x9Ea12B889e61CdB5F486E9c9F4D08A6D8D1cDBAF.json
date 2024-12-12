@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x9Ea12B889e61CdB5F486E9c9F4D08A6D8D1cDBAF",
+	"symbol": "69BIRD",
+	"name": "69BIRD",
+	"coingecko": "69bird",
+	"sources": [
+		"coingecko"
+	]
+}

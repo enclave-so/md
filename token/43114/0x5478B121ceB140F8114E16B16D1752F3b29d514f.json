@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x5478B121ceB140F8114E16B16D1752F3b29d514f",
+	"symbol": "FINE",
+	"name": "FINE",
+	"coingecko": "fine-2",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x33494c24d904B87B94A1cc9870D966780D56093c",
+	"symbol": "Kanaloa Network",
+	"name": "Kanaloa Network",
+	"coingecko": "kanaloa-network",
+	"sources": [
+		"coingecko"
+	]
+}

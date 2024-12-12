@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xB0B5c93655b7932Ac4516Eb4FC4A8fFF45B6B562",
+	"symbol": "GameX",
+	"name": "GameX",
+	"coingecko": "gamex-2",
+	"sources": [
+		"coingecko"
+	]
+}

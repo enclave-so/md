@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x464863745ED3aF8b9f8871f1082211C55f8f884D",
+	"symbol": "CryptoTycoon",
+	"name": "CryptoTycoon",
+	"coingecko": "cryptotycoon",
+	"sources": [
+		"coingecko"
+	]
+}

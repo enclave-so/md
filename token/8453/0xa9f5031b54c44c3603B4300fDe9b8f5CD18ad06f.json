@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xa9f5031b54c44c3603B4300fDe9b8f5CD18ad06f",
+	"symbol": "Mars Battle",
+	"name": "Mars Battle",
+	"coingecko": "shoot-2",
+	"sources": [
+		"coingecko"
+	]
+}

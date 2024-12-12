@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x73bC158e84873888cFc8b617524EEBB1cfCe8D4E",
+	"symbol": "Twelve Legions",
+	"name": "Twelve Legions",
+	"coingecko": "twelve-legions",
+	"sources": [
+		"coingecko"
+	]
+}

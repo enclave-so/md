@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x9FBff386a9405b4C98329824418ec02b5C20976b",
+	"symbol": "FutureCoin",
+	"name": "FutureCoin",
+	"coingecko": "futurecoin",
+	"sources": [
+		"coingecko"
+	]
+}

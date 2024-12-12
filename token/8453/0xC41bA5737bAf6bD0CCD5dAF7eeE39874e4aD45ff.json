@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xC41bA5737bAf6bD0CCD5dAF7eeE39874e4aD45ff",
+	"symbol": "The Degensons",
+	"name": "The Degensons",
+	"coingecko": "the-degensons",
+	"sources": [
+		"coingecko"
+	]
+}

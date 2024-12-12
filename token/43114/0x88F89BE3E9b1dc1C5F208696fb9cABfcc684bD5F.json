@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x88F89BE3E9b1dc1C5F208696fb9cABfcc684bD5F",
+	"symbol": "Fold",
+	"name": "Fold",
+	"coingecko": "fold",
+	"sources": [
+		"coingecko"
+	]
+}

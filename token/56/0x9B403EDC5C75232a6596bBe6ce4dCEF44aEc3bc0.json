@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x9B403EDC5C75232a6596bBe6ce4dCEF44aEc3bc0",
+	"symbol": "JETT CRYPTO",
+	"name": "JETT CRYPTO",
+	"coingecko": "jett-crypto",
+	"sources": [
+		"coingecko"
+	]
+}

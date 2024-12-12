@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x7111E5C9b01ffA18957B1AA27E9Cb0e8FBA214F5",
+	"symbol": "Unilab",
+	"name": "Unilab",
+	"coingecko": "unilab-network",
+	"sources": [
+		"coingecko"
+	]
+}

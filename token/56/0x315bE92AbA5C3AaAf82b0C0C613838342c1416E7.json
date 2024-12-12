@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x315bE92AbA5C3AaAf82b0C0C613838342c1416E7",
+	"symbol": "BlueBenx",
+	"name": "BlueBenx",
+	"coingecko": "bluebenx-2",
+	"sources": [
+		"coingecko"
+	]
+}

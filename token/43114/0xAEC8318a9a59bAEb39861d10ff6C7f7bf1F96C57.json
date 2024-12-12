@@ -1,0 +1,11 @@
+{
+	"chain": 43114,
+	"address": "0xAEC8318a9a59bAEb39861d10ff6C7f7bf1F96C57",
+	"symbol": "agEUR",
+	"name": "agEUR",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0xAEC8318a9a59bAEb39861d10ff6C7f7bf1F96C57.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

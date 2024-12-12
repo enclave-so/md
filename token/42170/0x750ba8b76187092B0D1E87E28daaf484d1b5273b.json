@@ -1,0 +1,13 @@
+{
+	"chain": 42170,
+	"address": "0x750ba8b76187092B0D1E87E28daaf484d1b5273b",
+	"symbol": "USDC",
+	"name": "USD Coin",
+	"decimals": 6,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdc.jpg",
+	"coingecko": "official-arbitrum-bridged-usdc-arbitrum-nova",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

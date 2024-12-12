@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x093783055F9047C2BfF99c4e414501F8A147bC69",
+	"symbol": "Dexalot",
+	"name": "Dexalot",
+	"coingecko": "dexalot",
+	"sources": [
+		"coingecko"
+	]
+}

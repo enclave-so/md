@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x55cD6469F597452B5A7536e2CD98fDE4c1247ee4",
+	"symbol": "Luna by Virtuals",
+	"name": "Luna by Virtuals",
+	"coingecko": "luna-by-virtuals",
+	"sources": [
+		"coingecko"
+	]
+}

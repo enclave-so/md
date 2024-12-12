@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x6223901eA64608c75Da8497d5eff15D19A1D8fd5",
+	"symbol": "Corgi",
+	"name": "Corgi",
+	"coingecko": "corgi",
+	"sources": [
+		"coingecko"
+	]
+}

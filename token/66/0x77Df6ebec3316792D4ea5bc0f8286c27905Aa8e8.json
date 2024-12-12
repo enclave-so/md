@@ -1,0 +1,11 @@
+{
+	"chain": 66,
+	"address": "0x77Df6ebec3316792D4ea5bc0f8286c27905Aa8e8",
+	"symbol": "AUCTION",
+	"name": "AUCTION",
+	"decimals": 18,
+	"logo": "https://static.bafang.com/cdn/explorer/okexchain/exchain_auctionk.png",
+	"sources": [
+		"sushiswap"
+	]
+}

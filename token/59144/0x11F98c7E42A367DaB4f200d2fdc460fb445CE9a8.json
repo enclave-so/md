@@ -1,0 +1,10 @@
+{
+	"chain": 59144,
+	"address": "0x11F98c7E42A367DaB4f200d2fdc460fb445CE9a8",
+	"symbol": "SpartaDEX",
+	"name": "SpartaDEX",
+	"coingecko": "spartadex",
+	"sources": [
+		"coingecko"
+	]
+}

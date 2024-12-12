@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x47c454cA6be2f6DEf6f32b638C80F91c9c3c5949",
+	"symbol": "Games for a Living",
+	"name": "Games for a Living",
+	"coingecko": "games-for-a-living",
+	"sources": [
+		"coingecko"
+	]
+}

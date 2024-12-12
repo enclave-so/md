@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x3a599e584075065eAAAc768D75EaEf85c2f2fF64",
+	"symbol": "Frutti Dino",
+	"name": "Frutti Dino",
+	"coingecko": "frutti-dino",
+	"sources": [
+		"coingecko"
+	]
+}

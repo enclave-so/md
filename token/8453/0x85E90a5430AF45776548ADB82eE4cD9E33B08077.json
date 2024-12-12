@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x85E90a5430AF45776548ADB82eE4cD9E33B08077",
+	"symbol": "Coding Dino",
+	"name": "Coding Dino",
+	"coingecko": "coding-dino",
+	"sources": [
+		"coingecko"
+	]
+}

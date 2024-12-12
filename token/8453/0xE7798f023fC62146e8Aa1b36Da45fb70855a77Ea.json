@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xE7798f023fC62146e8Aa1b36Da45fb70855a77Ea",
+	"symbol": "iFARM",
+	"name": "iFARM",
+	"coingecko": "ifarm",
+	"sources": [
+		"coingecko"
+	]
+}

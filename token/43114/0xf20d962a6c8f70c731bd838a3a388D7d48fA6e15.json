@@ -1,0 +1,11 @@
+{
+	"chain": 43114,
+	"address": "0xf20d962a6c8f70c731bd838a3a388D7d48fA6e15",
+	"symbol": "oldWETH",
+	"name": "Old Wrapped Ether",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0xf20d962a6c8f70c731bd838a3a388D7d48fA6e15.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

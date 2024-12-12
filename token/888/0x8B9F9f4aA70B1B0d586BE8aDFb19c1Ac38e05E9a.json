@@ -1,0 +1,10 @@
+{
+	"chain": 888,
+	"address": "0x8B9F9f4aA70B1B0d586BE8aDFb19c1Ac38e05E9a",
+	"symbol": "WanSwap [OLD]",
+	"name": "WanSwap [OLD]",
+	"coingecko": "wanswap",
+	"sources": [
+		"coingecko"
+	]
+}

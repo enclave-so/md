@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xB1a03EdA10342529bBF8EB700a06C60441fEf25d",
+	"symbol": "Mister Miggles",
+	"name": "Mister Miggles",
+	"coingecko": "mister-miggles",
+	"sources": [
+		"coingecko"
+	]
+}

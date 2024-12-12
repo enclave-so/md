@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xBe2B6C5E31F292009f495DDBda88e28391C9815E",
+	"symbol": "Level Governance",
+	"name": "Level Governance",
+	"coingecko": "level-governance",
+	"sources": [
+		"coingecko"
+	]
+}

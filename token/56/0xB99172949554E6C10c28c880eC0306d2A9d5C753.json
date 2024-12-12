@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xB99172949554E6C10c28c880eC0306d2A9d5C753",
+	"symbol": "LunaDoge",
+	"name": "LunaDoge",
+	"coingecko": "lunadoge",
+	"sources": [
+		"coingecko"
+	]
+}

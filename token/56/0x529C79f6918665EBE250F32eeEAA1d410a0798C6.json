@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x529C79f6918665EBE250F32eeEAA1d410a0798C6",
+	"symbol": "HyperGPT",
+	"name": "HyperGPT",
+	"coingecko": "hypergpt",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x0b1594B0e896BF165d925956E0df733b8443af6a",
+	"symbol": "MORK",
+	"name": "MORK",
+	"coingecko": "mork-2",
+	"sources": [
+		"coingecko"
+	]
+}

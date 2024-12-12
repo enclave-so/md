@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x85483696Cc9970Ad9EdD786b2C5ef735F38D156f",
+	"symbol": "Overnight.fi USDC+",
+	"name": "Overnight.fi USDC+",
+	"coingecko": "usdc-plus-overnight",
+	"sources": [
+		"coingecko"
+	]
+}

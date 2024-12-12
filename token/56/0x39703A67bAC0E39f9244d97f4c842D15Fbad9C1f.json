@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x39703A67bAC0E39f9244d97f4c842D15Fbad9C1f",
+	"symbol": "The Three Kingdoms",
+	"name": "The Three Kingdoms",
+	"coingecko": "the-three-kingdoms",
+	"sources": [
+		"coingecko"
+	]
+}

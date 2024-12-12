@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x0D5d2450F19Ffa71B16a95b3fAbef52786238828",
+	"symbol": "XtremeGPT",
+	"name": "XtremeGPT",
+	"coingecko": "xtremegpt",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x4f7eA8F6487a7007ca054F35c4a7b961f5b18961",
+	"symbol": "GoldenCat",
+	"name": "GoldenCat",
+	"coingecko": "goldencat",
+	"sources": [
+		"coingecko"
+	]
+}

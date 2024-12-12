@@ -1,0 +1,10 @@
+{
+	"chain": 42170,
+	"address": "0x4b2576BC44310D6dfb4cfCf2630f25190fc60803",
+	"symbol": "MoonsDust",
+	"name": "MoonsDust",
+	"coingecko": "moonsdust",
+	"sources": [
+		"coingecko"
+	]
+}

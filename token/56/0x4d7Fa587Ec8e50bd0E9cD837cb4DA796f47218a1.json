@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x4d7Fa587Ec8e50bd0E9cD837cb4DA796f47218a1",
+	"symbol": "SAFE(AnWang)",
+	"name": "SAFE(AnWang)",
+	"coingecko": "safe-anwang",
+	"sources": [
+		"coingecko"
+	]
+}

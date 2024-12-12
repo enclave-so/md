@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x100995a7e5fFd8Ee60cc18A10C75CEe8C572c59b",
+	"symbol": "HYGT",
+	"name": "HYGT",
+	"coingecko": "hygt",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xf226432A5f49d595def3a3c51c7210B61f0aEf2D",
+	"symbol": "ZENQIRA",
+	"name": "ZENQIRA",
+	"coingecko": "zenqira",
+	"sources": [
+		"coingecko"
+	]
+}

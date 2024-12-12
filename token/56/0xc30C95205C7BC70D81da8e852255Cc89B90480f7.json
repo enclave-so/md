@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xc30C95205C7BC70D81da8e852255Cc89B90480f7",
+	"symbol": "Add Finance",
+	"name": "Add Finance",
+	"coingecko": "add-finance",
+	"sources": [
+		"coingecko"
+	]
+}

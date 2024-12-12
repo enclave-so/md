@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xfcb49c1545d1D13272467f0d94E57A9aCa39725c",
+	"symbol": "Grass",
+	"name": "Grass",
+	"coingecko": "grass-2",
+	"sources": [
+		"coingecko"
+	]
+}

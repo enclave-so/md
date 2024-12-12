@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x78B2425Fc305c0266143eaA527b01B043af83FB8",
+	"symbol": "Vetter Skylabs",
+	"name": "Vetter Skylabs",
+	"coingecko": "vetter-skylabs",
+	"sources": [
+		"coingecko"
+	]
+}

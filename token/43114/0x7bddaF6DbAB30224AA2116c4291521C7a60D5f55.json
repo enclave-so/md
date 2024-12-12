@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x7bddaF6DbAB30224AA2116c4291521C7a60D5f55",
+	"symbol": "VAPE",
+	"name": "VAPE",
+	"coingecko": "vaporfi",
+	"sources": [
+		"coingecko"
+	]
+}

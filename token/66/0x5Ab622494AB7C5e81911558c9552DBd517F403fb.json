@@ -1,0 +1,10 @@
+{
+	"chain": 66,
+	"address": "0x5Ab622494AB7C5e81911558c9552DBd517F403fb",
+	"symbol": "Celestial",
+	"name": "Celestial",
+	"coingecko": "celestial",
+	"sources": [
+		"coingecko"
+	]
+}

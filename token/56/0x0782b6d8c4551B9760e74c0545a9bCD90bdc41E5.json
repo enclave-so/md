@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x0782b6d8c4551B9760e74c0545a9bCD90bdc41E5",
+	"symbol": "Lista USD",
+	"name": "Lista USD",
+	"coingecko": "helio-protocol-hay",
+	"sources": [
+		"coingecko"
+	]
+}

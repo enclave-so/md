@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x01DA6501d1083464f9a2C9a8cacF89F2dc160A97",
+	"symbol": "Torq Swap",
+	"name": "Torq Swap",
+	"coingecko": "torq-swap",
+	"sources": [
+		"coingecko"
+	]
+}

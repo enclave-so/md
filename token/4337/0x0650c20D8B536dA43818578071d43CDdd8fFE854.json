@@ -1,0 +1,10 @@
+{
+	"chain": 4337,
+	"address": "0x0650c20D8B536dA43818578071d43CDdd8fFE854",
+	"symbol": "Moonsama",
+	"name": "Moonsama",
+	"coingecko": "exosama-network",
+	"sources": [
+		"coingecko"
+	]
+}

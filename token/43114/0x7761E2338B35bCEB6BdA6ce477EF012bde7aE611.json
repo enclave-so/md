@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x7761E2338B35bCEB6BdA6ce477EF012bde7aE611",
+	"symbol": "Chikn Egg",
+	"name": "Chikn Egg",
+	"coingecko": "chikn-egg",
+	"sources": [
+		"coingecko"
+	]
+}

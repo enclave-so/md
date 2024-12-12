@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xE3894CB9E92ca78524Fb6a30Ff072FA5E533c162",
+	"symbol": "The Everlasting Parachain",
+	"name": "The Everlasting Parachain",
+	"coingecko": "the-everlasting-parachain",
+	"sources": [
+		"coingecko"
+	]
+}

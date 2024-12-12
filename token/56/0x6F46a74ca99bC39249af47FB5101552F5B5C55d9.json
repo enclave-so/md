@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x6F46a74ca99bC39249af47FB5101552F5B5C55d9",
+	"symbol": "Xpad.pro",
+	"name": "Xpad.pro",
+	"coingecko": "xpad-pro",
+	"sources": [
+		"coingecko"
+	]
+}

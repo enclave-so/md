@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xC13CbF50370E5EaE6f5Dd9D8a1015007f34C4eaD",
+	"symbol": "Limitless Network",
+	"name": "Limitless Network",
+	"coingecko": "limitless-network",
+	"sources": [
+		"coingecko"
+	]
+}

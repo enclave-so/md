@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x3159fB5589aCD6bf9f82eB0eFe8382ED55aED8fD",
+	"symbol": "Apu Apustaja",
+	"name": "Apu Apustaja",
+	"coingecko": "apu-apustaja-base",
+	"sources": [
+		"coingecko"
+	]
+}

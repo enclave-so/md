@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x638EEBe886B0e9e7C6929E69490064a6C94d204d",
+	"symbol": "Hector Network",
+	"name": "Hector Network",
+	"coingecko": "hector-dao",
+	"sources": [
+		"coingecko"
+	]
+}

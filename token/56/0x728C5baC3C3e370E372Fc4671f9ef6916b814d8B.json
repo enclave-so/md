@@ -1,0 +1,13 @@
+{
+	"chain": 56,
+	"address": "0x728C5baC3C3e370E372Fc4671f9ef6916b814d8B",
+	"symbol": "UNFI",
+	"name": "Unifi Token",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/13152/small/logo-2.png?1605748967",
+	"coingecko": "unifi-protocol-dao",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

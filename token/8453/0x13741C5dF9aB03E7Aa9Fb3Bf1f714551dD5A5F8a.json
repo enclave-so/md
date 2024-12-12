@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x13741C5dF9aB03E7Aa9Fb3Bf1f714551dD5A5F8a",
+	"symbol": "Noggles",
+	"name": "Noggles",
+	"coingecko": "noggles",
+	"sources": [
+		"coingecko"
+	]
+}

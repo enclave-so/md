@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xac743B05f5E590D9Db6a4192E02457838e4Af61e",
+	"symbol": "OnlyCalls by Virtuals",
+	"name": "OnlyCalls by Virtuals",
+	"coingecko": "onlycalls-by-virtuals",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x41515885251e724233c6cA94530d6dcf3A20dEc7",
+	"symbol": "HALO Network",
+	"name": "HALO Network",
+	"coingecko": "halo-network",
+	"sources": [
+		"coingecko"
+	]
+}

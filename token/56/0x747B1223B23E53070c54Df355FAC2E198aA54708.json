@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x747B1223B23E53070c54Df355FAC2E198aA54708",
+	"symbol": "Wrapped Syscoin",
+	"name": "Wrapped Syscoin",
+	"coingecko": "wrapped-syscoin",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x6b1C8765C7EFf0b60706b0ae489EB9bb9667465A",
+	"symbol": "Signata",
+	"name": "Signata",
+	"coingecko": "signata",
+	"sources": [
+		"coingecko"
+	]
+}

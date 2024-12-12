@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xb3a6381070B1a15169DEA646166EC0699fDAeA79",
+	"symbol": "CyberDragon Gold",
+	"name": "CyberDragon Gold",
+	"coingecko": "cyberdragon-gold",
+	"sources": [
+		"coingecko"
+	]
+}

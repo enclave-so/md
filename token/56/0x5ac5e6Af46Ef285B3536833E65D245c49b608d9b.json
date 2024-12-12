@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x5ac5e6Af46Ef285B3536833E65D245c49b608d9b",
+	"symbol": "NIOB",
+	"name": "NIOB",
+	"coingecko": "niob",
+	"sources": [
+		"coingecko"
+	]
+}

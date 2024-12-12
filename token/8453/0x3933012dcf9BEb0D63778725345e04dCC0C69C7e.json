@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x3933012dcf9BEb0D63778725345e04dCC0C69C7e",
+	"symbol": "UNLUCKY",
+	"name": "UNLUCKY",
+	"coingecko": "unlucky-2",
+	"sources": [
+		"coingecko"
+	]
+}

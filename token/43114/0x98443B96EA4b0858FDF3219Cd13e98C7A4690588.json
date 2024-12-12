@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x98443B96EA4b0858FDF3219Cd13e98C7A4690588",
+	"symbol": "Basic Attention",
+	"name": "Basic Attention",
+	"coingecko": "basic-attention-token",
+	"sources": [
+		"coingecko"
+	]
+}

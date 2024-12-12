@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xb1E998b346DDDacD06f01db50645bE52DafB93db",
+	"symbol": "AASToken",
+	"name": "AASToken",
+	"coingecko": "aastoken",
+	"sources": [
+		"coingecko"
+	]
+}

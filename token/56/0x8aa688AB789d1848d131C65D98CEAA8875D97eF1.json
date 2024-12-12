@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x8aa688AB789d1848d131C65D98CEAA8875D97eF1",
+	"symbol": "MultiVAC",
+	"name": "MultiVAC",
+	"coingecko": "multivac",
+	"sources": [
+		"coingecko"
+	]
+}

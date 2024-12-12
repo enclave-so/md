@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x62858686119135cc00C4A3102b436a0eB314D402",
+	"symbol": "MetaVPad",
+	"name": "MetaVPad",
+	"coingecko": "metavpad",
+	"sources": [
+		"coingecko"
+	]
+}

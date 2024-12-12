@@ -1,0 +1,10 @@
+{
+	"chain": 82,
+	"address": "0x215d603293357ca222bE92A1bf75eEc38DeF0aad",
+	"symbol": "Meter.io Staked MTRG",
+	"name": "Meter.io Staked MTRG",
+	"coingecko": "meter-io-staked-mtrg",
+	"sources": [
+		"coingecko"
+	]
+}

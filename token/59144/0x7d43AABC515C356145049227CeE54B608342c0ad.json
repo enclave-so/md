@@ -1,0 +1,10 @@
+{
+	"chain": 59144,
+	"address": "0x7d43AABC515C356145049227CeE54B608342c0ad",
+	"symbol": "Binance USD (Linea)",
+	"name": "Binance USD (Linea)",
+	"coingecko": "binance-usd-linea",
+	"sources": [
+		"coingecko"
+	]
+}

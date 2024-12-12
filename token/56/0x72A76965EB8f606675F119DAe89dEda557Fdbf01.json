@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x72A76965EB8f606675F119DAe89dEda557Fdbf01",
+	"symbol": "eIQT Token",
+	"name": "eIQT Token",
+	"coingecko": "eiqt-token",
+	"sources": [
+		"coingecko"
+	]
+}

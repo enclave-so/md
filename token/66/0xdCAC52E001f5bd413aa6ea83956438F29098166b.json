@@ -1,0 +1,11 @@
+{
+	"chain": 66,
+	"address": "0xdCAC52E001f5bd413aa6ea83956438F29098166b",
+	"symbol": "USDK",
+	"name": "USDK",
+	"decimals": 18,
+	"logo": "https://static.bafang.com/cdn/explorer/okexchain/exchain_usdk.png",
+	"sources": [
+		"sushiswap"
+	]
+}

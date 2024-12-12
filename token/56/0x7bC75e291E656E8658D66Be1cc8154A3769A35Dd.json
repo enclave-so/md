@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x7bC75e291E656E8658D66Be1cc8154A3769A35Dd",
+	"symbol": "iMe Lab",
+	"name": "iMe Lab",
+	"coingecko": "ime-lab",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x631C2f0EdABaC799f07550aEE4fF0Bf7fd35212B",
+	"symbol": "Poollotto.finance",
+	"name": "Poollotto.finance",
+	"coingecko": "poollotto-finance",
+	"sources": [
+		"coingecko"
+	]
+}

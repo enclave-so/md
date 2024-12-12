@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xdc3254103C348C1026F3EF7E9951E5e812B8eAdc",
+	"symbol": "CoinPays",
+	"name": "CoinPays",
+	"coingecko": "coinpays",
+	"sources": [
+		"coingecko"
+	]
+}

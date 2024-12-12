@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x7b8D415f5239ae5e0f485971529B4f798e63b0B4",
+	"symbol": "Blubi",
+	"name": "Blubi",
+	"coingecko": "blubi",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 61,
+	"address": "0xb67219f9e79112fdf4672574eA72aaD3cB86E8e7",
+	"symbol": "Dogelon Classic",
+	"name": "Dogelon Classic",
+	"coingecko": "dogelon-classic",
+	"sources": [
+		"coingecko"
+	]
+}

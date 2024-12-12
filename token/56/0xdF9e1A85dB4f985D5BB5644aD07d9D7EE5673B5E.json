@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xdF9e1A85dB4f985D5BB5644aD07d9D7EE5673B5E",
+	"symbol": "MM72",
+	"name": "MM72",
+	"coingecko": "mm72",
+	"sources": [
+		"coingecko"
+	]
+}

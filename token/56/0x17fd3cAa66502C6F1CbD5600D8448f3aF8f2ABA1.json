@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x17fd3cAa66502C6F1CbD5600D8448f3aF8f2ABA1",
+	"symbol": "Smarty Pay",
+	"name": "Smarty Pay",
+	"coingecko": "smarty-pay",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x202f29206659299e03e384B7d6745529bcB92976",
+	"symbol": "BROOT",
+	"name": "BROOT",
+	"coingecko": "broot",
+	"sources": [
+		"coingecko"
+	]
+}

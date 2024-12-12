@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x0F9d74c91f8Cdcc2B5eFdb78cC8c41e94f13551a",
+	"symbol": "Gojo BSC",
+	"name": "Gojo BSC",
+	"coingecko": "gojo-bsc",
+	"sources": [
+		"coingecko"
+	]
+}

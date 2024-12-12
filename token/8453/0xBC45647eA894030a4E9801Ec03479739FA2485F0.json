@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xBC45647eA894030a4E9801Ec03479739FA2485F0",
+	"symbol": "Basenji",
+	"name": "Basenji",
+	"coingecko": "basenji",
+	"sources": [
+		"coingecko"
+	]
+}

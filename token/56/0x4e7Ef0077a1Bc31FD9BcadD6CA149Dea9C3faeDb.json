@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x4e7Ef0077a1Bc31FD9BcadD6CA149Dea9C3faeDb",
+	"symbol": "4DCoin",
+	"name": "4DCoin",
+	"coingecko": "4dcoin",
+	"sources": [
+		"coingecko"
+	]
+}

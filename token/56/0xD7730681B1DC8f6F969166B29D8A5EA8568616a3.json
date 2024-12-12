@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xD7730681B1DC8f6F969166B29D8A5EA8568616a3",
+	"symbol": "Nafter",
+	"name": "Nafter",
+	"coingecko": "nafter",
+	"sources": [
+		"coingecko"
+	]
+}

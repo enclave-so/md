@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xa89e2871A850E0e6fD8F0018eC1fc62FA75440d4",
+	"symbol": "Ready to Fight",
+	"name": "Ready to Fight",
+	"coingecko": "ready-to-fight",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"chain": 56,
+	"address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+	"symbol": "USDC",
+	"name": "Binance-Peg USD Coin",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/binance/0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d.jpg",
+	"coingecko": "binance-bridged-usdc-bnb-smart-chain",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

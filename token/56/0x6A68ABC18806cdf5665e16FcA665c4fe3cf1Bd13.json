@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x6A68ABC18806cdf5665e16FcA665c4fe3cf1Bd13",
+	"symbol": "OPULENCE",
+	"name": "OPULENCE",
+	"coingecko": "opulence",
+	"sources": [
+		"coingecko"
+	]
+}

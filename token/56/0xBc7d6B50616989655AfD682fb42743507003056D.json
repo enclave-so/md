@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xBc7d6B50616989655AfD682fb42743507003056D",
+	"symbol": "Alchemy Pay",
+	"name": "Alchemy Pay",
+	"coingecko": "alchemy-pay",
+	"sources": [
+		"coingecko"
+	]
+}

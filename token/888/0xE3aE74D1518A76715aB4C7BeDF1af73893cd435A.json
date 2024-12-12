@@ -1,0 +1,10 @@
+{
+	"chain": 888,
+	"address": "0xE3aE74D1518A76715aB4C7BeDF1af73893cd435A",
+	"symbol": "wanETH",
+	"name": "wanETH",
+	"coingecko": "waneth",
+	"sources": [
+		"coingecko"
+	]
+}

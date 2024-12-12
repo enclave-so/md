@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x22b4fA9a13A0D303Ad258Ee6D62A6ac60364B0C9",
+	"symbol": "Big Pump",
+	"name": "Big Pump",
+	"coingecko": "big-pump",
+	"sources": [
+		"coingecko"
+	]
+}

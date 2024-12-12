@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x7c33D9c9685408645486497c708ab491402e0886",
+	"symbol": "Betero",
+	"name": "Betero",
+	"coingecko": "betero",
+	"sources": [
+		"coingecko"
+	]
+}

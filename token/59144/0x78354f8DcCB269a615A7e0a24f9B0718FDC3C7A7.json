@@ -1,0 +1,10 @@
+{
+	"chain": 59144,
+	"address": "0x78354f8DcCB269a615A7e0a24f9B0718FDC3C7A7",
+	"symbol": "ZeroLend",
+	"name": "ZeroLend",
+	"coingecko": "zerolend",
+	"sources": [
+		"coingecko"
+	]
+}

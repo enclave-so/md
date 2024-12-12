@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xad20523A7dC37bAbc1CC74897E4977232b3D02e5",
+	"symbol": "Gains Network USDC (Base)",
+	"name": "Gains Network USDC (Base)",
+	"coingecko": "gains-network-usdc-base",
+	"sources": [
+		"coingecko"
+	]
+}

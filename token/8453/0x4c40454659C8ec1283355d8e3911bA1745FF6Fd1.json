@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x4c40454659C8ec1283355d8e3911bA1745FF6Fd1",
+	"symbol": "Blue Chip",
+	"name": "Blue Chip",
+	"coingecko": "blue-chip",
+	"sources": [
+		"coingecko"
+	]
+}

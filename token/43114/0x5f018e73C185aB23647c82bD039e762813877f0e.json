@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x5f018e73C185aB23647c82bD039e762813877f0e",
+	"symbol": "BUILD",
+	"name": "BUILD",
+	"coingecko": "build",
+	"sources": [
+		"coingecko"
+	]
+}

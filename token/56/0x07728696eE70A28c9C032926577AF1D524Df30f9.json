@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x07728696eE70A28c9C032926577AF1D524Df30f9",
+	"symbol": "PlaceWar Governance",
+	"name": "PlaceWar Governance",
+	"coingecko": "place-war",
+	"sources": [
+		"coingecko"
+	]
+}

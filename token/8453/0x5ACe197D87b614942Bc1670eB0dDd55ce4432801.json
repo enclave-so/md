@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x5ACe197D87b614942Bc1670eB0dDd55ce4432801",
+	"symbol": "Quack Coin Base",
+	"name": "Quack Coin Base",
+	"coingecko": "quack-coin-base",
+	"sources": [
+		"coingecko"
+	]
+}

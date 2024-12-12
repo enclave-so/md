@@ -1,0 +1,10 @@
+{
+	"chain": 66,
+	"address": "0xc9B6E036e94A316e4A9ea96F7D7FD8D632F66e7A",
+	"symbol": "Lumiii",
+	"name": "Lumiii",
+	"coingecko": "lumiiitoken",
+	"sources": [
+		"coingecko"
+	]
+}

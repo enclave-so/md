@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xD70d1dD91ecd79C6f8de86924571a454Ff587818",
+	"symbol": "SeedLaunch",
+	"name": "SeedLaunch",
+	"coingecko": "seedlaunch",
+	"sources": [
+		"coingecko"
+	]
+}

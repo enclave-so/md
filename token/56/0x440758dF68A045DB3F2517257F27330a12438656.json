@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x440758dF68A045DB3F2517257F27330a12438656",
+	"symbol": "Froggies",
+	"name": "Froggies",
+	"coingecko": "froggies-token-2",
+	"sources": [
+		"coingecko"
+	]
+}

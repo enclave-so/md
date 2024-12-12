@@ -1,0 +1,11 @@
+{
+	"chain": 56,
+	"address": "0xE64F5Cb844946C1F102Bd25bBD87a5aB4aE89Fbe",
+	"symbol": "bROOBEE",
+	"name": "ROOBEE",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/8791/small/Group_11.png?1580344629",
+	"sources": [
+		"sushiswap"
+	]
+}

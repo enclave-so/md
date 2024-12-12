@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xbDF317F9C153246C429F23f4093087164B145390",
+	"symbol": "AI Agent Layer",
+	"name": "AI Agent Layer",
+	"coingecko": "ai-agent-layer",
+	"sources": [
+		"coingecko"
+	]
+}

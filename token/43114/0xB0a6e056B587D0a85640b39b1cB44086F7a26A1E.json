@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0xB0a6e056B587D0a85640b39b1cB44086F7a26A1E",
+	"symbol": "Oddz",
+	"name": "Oddz",
+	"coingecko": "oddz",
+	"sources": [
+		"coingecko"
+	]
+}

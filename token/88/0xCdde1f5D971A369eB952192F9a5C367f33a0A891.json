@@ -1,0 +1,10 @@
+{
+	"chain": 88,
+	"address": "0xCdde1f5D971A369eB952192F9a5C367f33a0A891",
+	"symbol": "deFusion Staked VIC",
+	"name": "deFusion Staked VIC",
+	"coingecko": "defusion-staked-vic",
+	"sources": [
+		"coingecko"
+	]
+}

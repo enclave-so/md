@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xA526b7aBB8010CD3B79c56E074AD34DFF3d4B0e7",
+	"symbol": "Elon Mars",
+	"name": "Elon Mars",
+	"coingecko": "elon-mars",
+	"sources": [
+		"coingecko"
+	]
+}

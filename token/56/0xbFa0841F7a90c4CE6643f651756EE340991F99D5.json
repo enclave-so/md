@@ -1,0 +1,11 @@
+{
+	"chain": 56,
+	"address": "0xbFa0841F7a90c4CE6643f651756EE340991F99D5",
+	"symbol": "NYA",
+	"name": "Nyanswop Token",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/13025/small/512x512_App_Icon.png?1604456222",
+	"sources": [
+		"sushiswap"
+	]
+}

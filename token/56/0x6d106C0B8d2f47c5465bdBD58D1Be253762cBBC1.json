@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x6d106C0B8d2f47c5465bdBD58D1Be253762cBBC1",
+	"symbol": "DeFi",
+	"name": "DeFi",
+	"coingecko": "de-fi",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x9d39eF3bbCA5927909dde44476656B81BBe4eE75",
+	"symbol": "MetaWear",
+	"name": "MetaWear",
+	"coingecko": "metawear",
+	"sources": [
+		"coingecko"
+	]
+}

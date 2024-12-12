@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x8263CD1601FE73C066bf49cc09841f35348e3be0",
+	"symbol": "Altura",
+	"name": "Altura",
+	"coingecko": "altura",
+	"sources": [
+		"coingecko"
+	]
+}

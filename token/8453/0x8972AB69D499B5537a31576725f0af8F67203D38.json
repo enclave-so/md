@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x8972AB69D499B5537a31576725f0af8F67203D38",
+	"symbol": "$REKT",
+	"name": "$REKT",
+	"coingecko": "rektcoin",
+	"sources": [
+		"coingecko"
+	]
+}

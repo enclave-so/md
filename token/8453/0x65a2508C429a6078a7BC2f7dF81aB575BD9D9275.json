@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x65a2508C429a6078a7BC2f7dF81aB575BD9D9275",
+	"symbol": "Overnight.fi DAI+",
+	"name": "Overnight.fi DAI+",
+	"coingecko": "overnight-dai",
+	"sources": [
+		"coingecko"
+	]
+}

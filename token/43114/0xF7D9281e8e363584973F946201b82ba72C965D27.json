@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0xF7D9281e8e363584973F946201b82ba72C965D27",
+	"symbol": "Yield Yak AVAX",
+	"name": "Yield Yak AVAX",
+	"coingecko": "yield-yak-avax",
+	"sources": [
+		"coingecko"
+	]
+}

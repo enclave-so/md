@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xfdc944fb59201fB163596EE5e209EBC8fA4DcdC5",
+	"symbol": "AMC",
+	"name": "AMC",
+	"coingecko": "amc-2",
+	"sources": [
+		"coingecko"
+	]
+}

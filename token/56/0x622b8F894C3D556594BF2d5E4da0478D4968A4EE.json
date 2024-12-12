@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x622b8F894C3D556594BF2d5E4da0478D4968A4EE",
+	"symbol": "Dracarys Token",
+	"name": "Dracarys Token",
+	"coingecko": "dracarys-token",
+	"sources": [
+		"coingecko"
+	]
+}

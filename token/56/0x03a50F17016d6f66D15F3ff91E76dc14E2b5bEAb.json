@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x03a50F17016d6f66D15F3ff91E76dc14E2b5bEAb",
+	"symbol": "TOX TOKEN",
+	"name": "TOX TOKEN",
+	"coingecko": "tox",
+	"sources": [
+		"coingecko"
+	]
+}

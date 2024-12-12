@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x0eE7292BD28F4A490F849Fb30C28CAbAB9440f9E",
+	"symbol": "GemLink",
+	"name": "GemLink",
+	"coingecko": "gemlink",
+	"sources": [
+		"coingecko"
+	]
+}

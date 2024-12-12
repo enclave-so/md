@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xf43C9b40C9361b301019C98Fb535affB3ec6C673",
+	"symbol": "1MDC",
+	"name": "1MDC",
+	"coingecko": "1mdc",
+	"sources": [
+		"coingecko"
+	]
+}

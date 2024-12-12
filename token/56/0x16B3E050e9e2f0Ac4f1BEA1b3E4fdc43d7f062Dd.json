@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x16B3E050e9e2f0Ac4f1BEA1b3E4fdc43d7f062Dd",
+	"symbol": "Sombra",
+	"name": "Sombra",
+	"coingecko": "sombra-network",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x65c8743A5A266c3512eAbD34e65ADe42D4355Ef1",
+	"symbol": "BlackPearl",
+	"name": "BlackPearl",
+	"coingecko": "blackpearl-chain",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x557233E794d1a5FbCc6D26dca49147379ea5073c",
+	"symbol": "Alita",
+	"name": "Alita",
+	"coingecko": "alita",
+	"sources": [
+		"coingecko"
+	]
+}

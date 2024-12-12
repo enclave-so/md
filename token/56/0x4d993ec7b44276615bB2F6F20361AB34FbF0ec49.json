@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x4d993ec7b44276615bB2F6F20361AB34FbF0ec49",
+	"symbol": "BrandPad Finance",
+	"name": "BrandPad Finance",
+	"coingecko": "brandpad-finance",
+	"sources": [
+		"coingecko"
+	]
+}

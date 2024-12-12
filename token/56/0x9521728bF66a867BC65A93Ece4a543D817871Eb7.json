@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x9521728bF66a867BC65A93Ece4a543D817871Eb7",
+	"symbol": "Creo Engine",
+	"name": "Creo Engine",
+	"coingecko": "creo-engine",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xAe2DF9F730c54400934c06a17462c41C08a06ED8",
+	"symbol": "DogeBonk",
+	"name": "DogeBonk",
+	"coingecko": "dogebonk",
+	"sources": [
+		"coingecko"
+	]
+}

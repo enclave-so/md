@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xc9DE725a4Be9ab74b136c29D4731D6beBD7122e8",
+	"symbol": "HowToPay",
+	"name": "HowToPay",
+	"coingecko": "howtopay",
+	"sources": [
+		"coingecko"
+	]
+}

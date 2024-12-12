@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x366d71ab095735b7Dae83ce2b82D5262ef655F10",
+	"symbol": "Anypad",
+	"name": "Anypad",
+	"coingecko": "anypad",
+	"sources": [
+		"coingecko"
+	]
+}

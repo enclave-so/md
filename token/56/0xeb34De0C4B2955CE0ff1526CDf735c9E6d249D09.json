@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xeb34De0C4B2955CE0ff1526CDf735c9E6d249D09",
+	"symbol": "Obyte",
+	"name": "Obyte",
+	"coingecko": "byteball",
+	"sources": [
+		"coingecko"
+	]
+}

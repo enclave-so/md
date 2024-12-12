@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x6C619006043EaB742355395690c7b42d3411E8c0",
+	"symbol": "ELYFI",
+	"name": "ELYFI",
+	"coingecko": "elyfi",
+	"sources": [
+		"coingecko"
+	]
+}

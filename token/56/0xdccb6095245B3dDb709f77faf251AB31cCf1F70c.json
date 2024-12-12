@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xdccb6095245B3dDb709f77faf251AB31cCf1F70c",
+	"symbol": "Pem",
+	"name": "Pem",
+	"coingecko": "pem",
+	"sources": [
+		"coingecko"
+	]
+}

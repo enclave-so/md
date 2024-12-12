@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x0D30be9D9c2cf90AEff4fEf5B2E8C3D0B02596A0",
+	"symbol": "BLARB",
+	"name": "BLARB",
+	"coingecko": "blarb",
+	"sources": [
+		"coingecko"
+	]
+}

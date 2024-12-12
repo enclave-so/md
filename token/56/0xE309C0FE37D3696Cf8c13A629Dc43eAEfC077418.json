@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xE309C0FE37D3696Cf8c13A629Dc43eAEfC077418",
+	"symbol": "Davos Protocol Staked DUSD",
+	"name": "Davos Protocol Staked DUSD",
+	"coingecko": "davos-protocol-staked-dusd",
+	"sources": [
+		"coingecko"
+	]
+}

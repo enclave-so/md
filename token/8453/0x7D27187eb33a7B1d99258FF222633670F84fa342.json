@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x7D27187eb33a7B1d99258FF222633670F84fa342",
+	"symbol": "IntentX",
+	"name": "IntentX",
+	"coingecko": "intentx",
+	"sources": [
+		"coingecko"
+	]
+}

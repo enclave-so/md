@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xbd2DBb8eceA9743CA5B16423b4eAa26bDcfE5eD2",
+	"symbol": "Synthswap",
+	"name": "Synthswap",
+	"coingecko": "synthswap",
+	"sources": [
+		"coingecko"
+	]
+}

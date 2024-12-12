@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x04A52F280F7fFC7a08462463903883Ccdf6B95A7",
+	"symbol": "Visa Meme",
+	"name": "Visa Meme",
+	"coingecko": "visa-meme",
+	"sources": [
+		"coingecko"
+	]
+}

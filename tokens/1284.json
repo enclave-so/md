@@ -1,0 +1,514 @@
+[
+	{
+		"chain": 1284,
+		"address": "0x2CC0A9D8047A5011dEfe85328a6f26968C8aaA1C",
+		"symbol": "FXS",
+		"name": "Frax Share",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/fxs.jpg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 1284,
+		"address": "0x8f552a71EFE5eeFc207Bf75485b356A0b3f01eC9",
+		"symbol": "nomadUSDC",
+		"name": "USD Coin",
+		"decimals": 6,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdc.jpg",
+		"coingecko": "nomad-bridged-usdc-moonbeam",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 1284,
+		"address": "0x1DC78Acda13a8BC4408B207c9E48CDBc096D95e0",
+		"symbol": "nomadWBTC",
+		"name": "Wrapped Bitcoin",
+		"decimals": 8,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/btc.jpg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 1284,
+		"address": "0xA423E7eEB60547d9C7b65005477b63ae7CE67E62",
+		"symbol": "Energyfi",
+		"name": "Energyfi",
+		"coingecko": "energyfi",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1284,
+		"address": "0x922D641a426DcFFaeF11680e5358F34d97d112E1",
+		"symbol": "Mulitchain Bridged WBTC (Moonbeam)",
+		"name": "Mulitchain Bridged WBTC (Moonbeam)",
+		"coingecko": "mulitchain-bridged-wbtc-moonbeam",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1284,
+		"address": "0xfA9343C3897324496A05fC75abeD6bAC29f8A40f",
+		"symbol": "Multichain Bridged WETH (Moonbeam)",
+		"name": "Multichain Bridged WETH (Moonbeam)",
+		"coingecko": "multichain-bridged-weth-moonbeam",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1284,
+		"address": "0xbc7E02c4178a7dF7d3E564323a5c359dc96C4db4",
+		"symbol": "StellaSwap Staked DOT",
+		"name": "StellaSwap Staked DOT",
+		"coingecko": "stellaswap-staked-dot",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1284,
+		"address": "0xCa01a1D0993565291051daFF390892518ACfAD3A",
+		"symbol": "axlUSDC",
+		"name": "Axelar Wrapped USDC",
+		"decimals": 6,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/moonbeam/0xCa01a1D0993565291051daFF390892518ACfAD3A.jpg",
+		"coingecko": "axlusdc",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 1284,
+		"address": "0xab3f0245B83feB11d15AAffeFD7AD465a59817eD",
+		"symbol": "wh.WETH",
+		"name": "Wrapped Ether (Wormhole)",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/moonbeam/0xab3f0245B83feB11d15AAffeFD7AD465a59817eD.jpg",
+		"coingecko": "wormhole-bridged-weth-moonbeam",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 1284,
+		"address": "0xFFFFFfFf5AC1f9A51A93F5C527385edF7Fe98A52",
+		"symbol": "interBTC",
+		"name": "interBTC",
+		"coingecko": "interbtc",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1284,
+		"address": "0x511aB53F793683763E5a8829738301368a2411E3",
+		"symbol": "Moonwell",
+		"name": "Moonwell",
+		"coingecko": "moonwell-artemis",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1284,
+		"address": "0x765277EebeCA2e31912C9946eAe1021199B39C61",
+		"symbol": "Multichain Bridged DAI (Moonbeam)",
+		"name": "Multichain Bridged DAI (Moonbeam)",
+		"coingecko": "multichain-bridged-dai-moonbeam",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1284,
+		"address": "0x6a2d262D56735DbA19Dd70682B39F6bE9a931D98",
+		"symbol": "Bridged USD Coin (Celer)",
+		"name": "Bridged USD Coin (Celer)",
+		"coingecko": "usd-coin-celer",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1284,
+		"address": "0xFFFFFFfFea09FB06d082fd1275CD48b191cbCD1d",
+		"symbol": "xcUSDT",
+		"name": "xcUSDT",
+		"coingecko": "xcusdt",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1284,
+		"address": "0x085416975fe14C2A731a97eC38B9bF8135231F62",
+		"symbol": "UST",
+		"name": "TerraUSD",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/ust.jpg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 1284,
+		"address": "0x82bbd1b6f6De2B7bb63D3e1546e6b1553508BE99",
+		"symbol": "Frax Ether",
+		"name": "Frax Ether",
+		"coingecko": "frax-ether",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1284,
+		"address": "0xFfFFfFff1FcaCBd218EDc0EbA20Fc2308C778080",
+		"symbol": "xcDOT",
+		"name": "xcDOT",
+		"coingecko": "xcdot",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1284,
+		"address": "0xdFA46478F9e5EA86d57387849598dbFB2e964b02",
+		"symbol": "MAI",
+		"name": "Mai Stablecoin",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xa3Fa99A148fA48D14Ed51d610c367C61876997F1/logo.png",
+		"coingecko": "mimatic",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 1284,
+		"address": "0x467719aD09025FcC6cF6F8311755809d45a5E5f3",
+		"symbol": "Axelar",
+		"name": "Axelar",
+		"coingecko": "axelar",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1284,
+		"address": "0x524d524B4c9366be706D3A90dcf70076ca037aE3",
+		"symbol": "RMRK",
+		"name": "RMRK",
+		"coingecko": "rmrk",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1284,
+		"address": "0xE3e43888fa7803cDC7BEA478aB327cF1A0dc11a7",
+		"symbol": "Solarflare",
+		"name": "Solarflare",
+		"coingecko": "solarflare",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1284,
+		"address": "0x0E358838ce72d5e61E0018a2ffaC4bEC5F4c88d2",
+		"symbol": "StellaSwap",
+		"name": "StellaSwap",
+		"coingecko": "stellaswap",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1284,
+		"address": "0x4792C1EcB969B036eb51330c63bD27899A13D84e",
+		"symbol": "Wrapped AVAX",
+		"name": "Wrapped AVAX",
+		"coingecko": "wrapped-avax",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1284,
+		"address": "0x30D2a9F5FDf90ACe8c17952cbb4eE48a55D916A7",
+		"symbol": "nomadWETH",
+		"name": "Wrapped Ether",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/eth.jpg",
+		"coingecko": "nomad-bridged-weth-moonbeam",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 1284,
+		"address": "0xcd3B51D98478D53F4515A306bE565c6EebeF1D58",
+		"symbol": "BeamSwap",
+		"name": "BeamSwap",
+		"coingecko": "beamswap",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1284,
+		"address": "0x818ec0A7Fe18Ff94269904fCED6AE3DaE6d6dC0b",
+		"symbol": "Multichain Bridged USDC (Moonbeam)",
+		"name": "Multichain Bridged USDC (Moonbeam)",
+		"coingecko": "multichain-bridged-usdc-moonbeam",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1284,
+		"address": "0x2C78f1b70Ccf63CDEe49F9233e9fAa99D43AA07e",
+		"symbol": "anySUSHI",
+		"name": "Sushi",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/sushi.jpg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 1284,
+		"address": "0x322E86852e492a7Ee17f28a78c663da38FB33bfb",
+		"symbol": "FRAX",
+		"name": "Frax",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/frax.jpg",
+		"coingecko": "frax",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 1284,
+		"address": "0x931715FEE2d06333043d11F658C8CE934aC61D0c",
+		"symbol": "wh.USDC",
+		"name": "USD Coin (Wormhole)",
+		"decimals": 6,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/moonbeam/0x931715FEE2d06333043d11F658C8CE934aC61D0c.jpg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 1284,
+		"address": "0x8e70cD5B4Ff3f62659049e74b6649c6603A0E594",
+		"symbol": "nomadUSDT",
+		"name": "Tether USD",
+		"decimals": 6,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdt.jpg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 1284,
+		"address": "0xfFfFFFFF52C56A9257bB97f4B2b6F7B2D624ecda",
+		"symbol": "Acala Dollar (Acala)",
+		"name": "Acala Dollar (Acala)",
+		"coingecko": "acala-dollar-acala",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1284,
+		"address": "0x1581929770bE3275a82068c1135b6dD59c5334Ed",
+		"symbol": "Alium Finance",
+		"name": "Alium Finance",
+		"coingecko": "alium-finance",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1284,
+		"address": "0xFfFFfFfF8A9736B44EbF188972725bED67BF694E",
+		"symbol": "Apillon",
+		"name": "Apillon",
+		"coingecko": "apillon",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1284,
+		"address": "0xFFFfFfFf63d24eCc8eB8a7b5D0803e900F7b6cED",
+		"symbol": "Phala (Moonbeam)",
+		"name": "Phala (Moonbeam)",
+		"coingecko": "phala-moonbeam",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1284,
+		"address": "0xDFd74aF792bC6D45D1803F425CE62Dd16f8Ae038",
+		"symbol": "axlUSDT",
+		"name": "Axelar Wrapped USDT",
+		"decimals": 6,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/moonbeam/0xDFd74aF792bC6D45D1803F425CE62Dd16f8Ae038.jpg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 1284,
+		"address": "0x85a8B472d116585E2cc10eB1e0e3E3127E1f5D3f",
+		"symbol": "axlETH",
+		"name": "Axelar Wrapped ETH",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/moonbeam/0x85a8B472d116585E2cc10eB1e0e3E3127E1f5D3f.jpg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 1284,
+		"address": "0xc234A67a4F840E61adE794be47de455361b52413",
+		"symbol": "nomadDAI",
+		"name": "Dai Stablecoin",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/dai.jpg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 1284,
+		"address": "0xAcc15dC74880C9944775448304B263D191c6077F",
+		"symbol": "WGLMR",
+		"name": "Wrapped Glimmer",
+		"decimals": 18,
+		"logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/6836.png",
+		"coingecko": "wrapped-moonbeam",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 1284,
+		"address": "0xE57eBd2d67B462E9926e04a8e33f01cD0D64346D",
+		"symbol": "wh.WBTC",
+		"name": "Wrapped BTC (Wormhole)",
+		"decimals": 8,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/moonbeam/0xE57eBd2d67B462E9926e04a8e33f01cD0D64346D.jpg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 1284,
+		"address": "0xFfFFFfffA893AD19e540E172C10d78D4d479B5Cf",
+		"symbol": "Astar (Moonbeam)",
+		"name": "Astar (Moonbeam)",
+		"coingecko": "astar-moonbeam",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1284,
+		"address": "0x6021D2C27B6FBd6e7608D1F39B41398CAee2F824",
+		"symbol": "Cypress",
+		"name": "Cypress",
+		"coingecko": "cypress",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1284,
+		"address": "0x823d826d3aB6956ba934893f325e7c323fAAF6Ca",
+		"symbol": "Hippo Wallet",
+		"name": "Hippo Wallet",
+		"coingecko": "hippopotamus",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1284,
+		"address": "0x14dF360966a1c4582d2b18EDbdae432EA0A27575",
+		"symbol": "axlDAI",
+		"name": "Axelar Wrapped DAI",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/moonbeam/0x14dF360966a1c4582d2b18EDbdae432EA0A27575.jpg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 1284,
+		"address": "0xfFfFffFf43B4560Bc0C451a3386E082bff50aC90",
+		"symbol": "Subsocial",
+		"name": "Subsocial",
+		"coingecko": "subsocial",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1284,
+		"address": "0x3405A1bd46B85c5C029483FbECf2F3E611026e45",
+		"symbol": "Polygon",
+		"name": "Polygon",
+		"coingecko": "matic-network",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1284,
+		"address": "0x8389cf5BE8f1e56211D226668A8B8f6cADE61Ee4",
+		"symbol": "Welle",
+		"name": "Welle",
+		"coingecko": "riverex-welle",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1284,
+		"address": "0xecf91116348aF1cfFe335e9807f0051332BE128D",
+		"symbol": "Staked Frax Ether",
+		"name": "Staked Frax Ether",
+		"coingecko": "staked-frax-ether",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1284,
+		"address": "0xfeB25F3fDDad13F82C4d6dbc1481516F62236429",
+		"symbol": "BRLA Digital BRLA",
+		"name": "BRLA Digital BRLA",
+		"coingecko": "brla-digital-brla",
+		"sources": [
+			"coingecko"
+		]
+	}
+]

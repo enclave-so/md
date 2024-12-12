@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xaf07d812d1DCEc20BF741075Bc18660738d226Dd",
+	"symbol": "SNORT",
+	"name": "SNORT",
+	"coingecko": "snort",
+	"sources": [
+		"coingecko"
+	]
+}

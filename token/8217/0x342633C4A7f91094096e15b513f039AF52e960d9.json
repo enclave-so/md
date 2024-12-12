@@ -1,0 +1,10 @@
+{
+	"chain": 8217,
+	"address": "0x342633C4A7f91094096e15b513f039AF52e960d9",
+	"symbol": "Selo",
+	"name": "Selo",
+	"coingecko": "selo",
+	"sources": [
+		"coingecko"
+	]
+}

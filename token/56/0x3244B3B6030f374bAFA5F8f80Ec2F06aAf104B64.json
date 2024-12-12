@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x3244B3B6030f374bAFA5F8f80Ec2F06aAf104B64",
+	"symbol": "HeroFi ROFI",
+	"name": "HeroFi ROFI",
+	"coingecko": "herofi-token-2",
+	"sources": [
+		"coingecko"
+	]
+}

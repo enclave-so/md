@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0xf2f13f0B7008ab2FA4A2418F4ccC3684E49D20Eb",
+	"symbol": "MATIC (Wormhole)",
+	"name": "MATIC (Wormhole)",
+	"coingecko": "matic-wormhole",
+	"sources": [
+		"coingecko"
+	]
+}

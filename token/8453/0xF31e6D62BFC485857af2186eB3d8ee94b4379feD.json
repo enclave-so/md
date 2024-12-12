@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xF31e6D62BFC485857af2186eB3d8ee94b4379feD",
+	"symbol": "Chinese Doge Wow",
+	"name": "Chinese Doge Wow",
+	"coingecko": "chinese-doge-wow",
+	"sources": [
+		"coingecko"
+	]
+}

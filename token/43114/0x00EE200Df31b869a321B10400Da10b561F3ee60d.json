@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x00EE200Df31b869a321B10400Da10b561F3ee60d",
+	"symbol": "Arable Protocol",
+	"name": "Arable Protocol",
+	"coingecko": "arable-protocol",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xE5bA47fD94CB645ba4119222e34fB33F59C7CD90",
+	"symbol": "SAFUU",
+	"name": "SAFUU",
+	"coingecko": "safuu",
+	"sources": [
+		"coingecko"
+	]
+}

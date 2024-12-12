@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xb043BaD01195700e737D0AEE852584eAE9393134",
+	"symbol": "Farcaster Flower",
+	"name": "Farcaster Flower",
+	"coingecko": "farcaster-flower",
+	"sources": [
+		"coingecko"
+	]
+}

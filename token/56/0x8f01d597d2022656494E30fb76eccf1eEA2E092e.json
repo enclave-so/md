@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x8f01d597d2022656494E30fb76eccf1eEA2E092e",
+	"symbol": "Tomb",
+	"name": "Tomb",
+	"coingecko": "tomb",
+	"sources": [
+		"coingecko"
+	]
+}

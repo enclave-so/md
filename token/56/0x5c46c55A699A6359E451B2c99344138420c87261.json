@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x5c46c55A699A6359E451B2c99344138420c87261",
+	"symbol": "iBG Finance (BSC)",
+	"name": "iBG Finance (BSC)",
+	"coingecko": "ibg-token",
+	"sources": [
+		"coingecko"
+	]
+}

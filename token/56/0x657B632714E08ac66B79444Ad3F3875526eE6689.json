@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x657B632714E08ac66B79444Ad3F3875526eE6689",
+	"symbol": "Ftribe Fighters",
+	"name": "Ftribe Fighters",
+	"coingecko": "ftribe-fighters",
+	"sources": [
+		"coingecko"
+	]
+}

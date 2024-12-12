@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xdfd579dD6AeB232E95A15D964a135A61925b5C93",
+	"symbol": "Marso.Tech",
+	"name": "Marso.Tech",
+	"coingecko": "marso-tech",
+	"sources": [
+		"coingecko"
+	]
+}

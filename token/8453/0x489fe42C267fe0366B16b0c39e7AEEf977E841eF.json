@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x489fe42C267fe0366B16b0c39e7AEEf977E841eF",
+	"symbol": "Wrapped Ampleforth",
+	"name": "Wrapped Ampleforth",
+	"coingecko": "wrapped-ampleforth",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xf2D012f604F43e927DA3B3576C9C0cAFe301428B",
+	"symbol": "Degen Base",
+	"name": "Degen Base",
+	"coingecko": "degen-base-2",
+	"sources": [
+		"coingecko"
+	]
+}

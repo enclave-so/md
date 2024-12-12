@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xEA651c035f52b644856cAb1F59775369c36ecADD",
+	"symbol": "Laïka",
+	"name": "Laïka",
+	"coingecko": "laikachain",
+	"sources": [
+		"coingecko"
+	]
+}

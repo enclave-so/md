@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xEB9e49fb4C33D9F6Aefb1B03F9133435E24C0ec6",
+	"symbol": "Newton On Base",
+	"name": "Newton On Base",
+	"coingecko": "newton-on-base",
+	"sources": [
+		"coingecko"
+	]
+}

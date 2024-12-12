@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x949D48EcA67b17269629c7194F4b727d4Ef9E5d6",
+	"symbol": "Merit Circle",
+	"name": "Merit Circle",
+	"coingecko": "merit-circle",
+	"sources": [
+		"coingecko"
+	]
+}

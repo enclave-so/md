@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xF3A587d1AC967b40DB59223434BAf0C6e11588EA",
+	"symbol": "Sonorus",
+	"name": "Sonorus",
+	"coingecko": "sonorus",
+	"sources": [
+		"coingecko"
+	]
+}

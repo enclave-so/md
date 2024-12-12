@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x47DB24E17C0C4622523449a239b3de746E2b0b23",
+	"symbol": "PixelVerse",
+	"name": "PixelVerse",
+	"coingecko": "pixelverse",
+	"sources": [
+		"coingecko"
+	]
+}

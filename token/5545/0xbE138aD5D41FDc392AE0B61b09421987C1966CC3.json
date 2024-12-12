@@ -1,0 +1,10 @@
+{
+	"chain": 5545,
+	"address": "0xbE138aD5D41FDc392AE0B61b09421987C1966CC3",
+	"symbol": "DuckChain Bridged USDT (DuckChain)",
+	"name": "DuckChain Bridged USDT (DuckChain)",
+	"coingecko": "duckchain-bridged-usdt-duckchain",
+	"sources": [
+		"coingecko"
+	]
+}

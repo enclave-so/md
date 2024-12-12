@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x3dcB18569425930954feb191122e574b87F66abd",
+	"symbol": "Orion Money",
+	"name": "Orion Money",
+	"coingecko": "orion-money",
+	"sources": [
+		"coingecko"
+	]
+}

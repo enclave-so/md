@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xeCEB785A646f2C5AC759aa30d0fC85841BA004f3",
+	"symbol": "BABYLONG",
+	"name": "BABYLONG",
+	"coingecko": "babylong",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x9600d01F58ecF00BF5743F630a6D5466E8122e00",
+	"symbol": "MTOE",
+	"name": "MTOE",
+	"coingecko": "mtoe",
+	"sources": [
+		"coingecko"
+	]
+}

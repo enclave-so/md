@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xA4b6573c9AE09d81e4D1360e6402B81F52557098",
+	"symbol": "Coreto",
+	"name": "Coreto",
+	"coingecko": "coreto",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x9f285507Ea5B4F33822CA7aBb5EC8953ce37A645",
+	"symbol": "Degis",
+	"name": "Degis",
+	"coingecko": "degis",
+	"sources": [
+		"coingecko"
+	]
+}

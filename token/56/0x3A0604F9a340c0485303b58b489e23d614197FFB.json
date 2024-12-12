@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x3A0604F9a340c0485303b58b489e23d614197FFB",
+	"symbol": "X-GAME",
+	"name": "X-GAME",
+	"coingecko": "x-game",
+	"sources": [
+		"coingecko"
+	]
+}

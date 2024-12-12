@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x2abDB5903171071ac29cC0779d7EFDF0FaF14228",
+	"symbol": "TruthGPT (BSC)",
+	"name": "TruthGPT (BSC)",
+	"coingecko": "truthgpt-bsc",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x0b33542240d6fA323c796749F6D6869fdB7F13cA",
+	"symbol": "Ethereum Meta",
+	"name": "Ethereum Meta",
+	"coingecko": "ethereum-meta",
+	"sources": [
+		"coingecko"
+	]
+}

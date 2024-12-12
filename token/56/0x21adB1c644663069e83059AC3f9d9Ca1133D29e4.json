@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x21adB1c644663069e83059AC3f9d9Ca1133D29e4",
+	"symbol": "Eggplant Finance",
+	"name": "Eggplant Finance",
+	"coingecko": "eggplant-finance",
+	"sources": [
+		"coingecko"
+	]
+}

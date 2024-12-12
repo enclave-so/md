@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xAcD1cAeF47E4c47BafE8a51B3F4305Fc38203b7A",
+	"symbol": "Luneko",
+	"name": "Luneko",
+	"coingecko": "luneko",
+	"sources": [
+		"coingecko"
+	]
+}

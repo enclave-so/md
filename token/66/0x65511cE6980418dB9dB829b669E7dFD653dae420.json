@@ -1,0 +1,10 @@
+{
+	"chain": 66,
+	"address": "0x65511cE6980418dB9dB829b669E7dFD653dae420",
+	"symbol": "Galaxy War",
+	"name": "Galaxy War",
+	"coingecko": "galaxy-war",
+	"sources": [
+		"coingecko"
+	]
+}

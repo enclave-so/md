@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x968D6A288d7B024D5012c0B25d67A889E4E3eC19",
+	"symbol": "Internet Token",
+	"name": "Internet Token",
+	"coingecko": "internet-token-2",
+	"sources": [
+		"coingecko"
+	]
+}

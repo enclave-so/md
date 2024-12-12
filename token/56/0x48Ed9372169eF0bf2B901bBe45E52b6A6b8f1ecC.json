@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x48Ed9372169eF0bf2B901bBe45E52b6A6b8f1ecC",
+	"symbol": "Crazy Bunny",
+	"name": "Crazy Bunny",
+	"coingecko": "crazy-bunny",
+	"sources": [
+		"coingecko"
+	]
+}

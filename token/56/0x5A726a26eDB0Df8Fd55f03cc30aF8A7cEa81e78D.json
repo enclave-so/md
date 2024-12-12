@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x5A726a26eDB0Df8Fd55f03cc30aF8A7cEa81e78D",
+	"symbol": "CrossWallet",
+	"name": "CrossWallet",
+	"coingecko": "crosswallet",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x602bA546A7B06e0FC7f58fD27EB6996eCC824689",
+	"symbol": "PinkSale",
+	"name": "PinkSale",
+	"coingecko": "pinksale",
+	"sources": [
+		"coingecko"
+	]
+}

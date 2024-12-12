@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xC75aa1Fa199EaC5adaBC832eA4522Cff6dFd521A",
+	"symbol": "HedgePay",
+	"name": "HedgePay",
+	"coingecko": "hedgepay",
+	"sources": [
+		"coingecko"
+	]
+}

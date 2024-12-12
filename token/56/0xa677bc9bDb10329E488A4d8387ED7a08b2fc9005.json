@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xa677bc9bDb10329E488A4d8387ED7a08b2fc9005",
+	"symbol": "Magic Power",
+	"name": "Magic Power",
+	"coingecko": "magic-power",
+	"sources": [
+		"coingecko"
+	]
+}

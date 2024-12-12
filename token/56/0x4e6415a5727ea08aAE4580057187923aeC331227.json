@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x4e6415a5727ea08aAE4580057187923aeC331227",
+	"symbol": "Refinable",
+	"name": "Refinable",
+	"coingecko": "refinable",
+	"sources": [
+		"coingecko"
+	]
+}

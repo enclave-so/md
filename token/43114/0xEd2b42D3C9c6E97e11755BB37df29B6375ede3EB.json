@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0xEd2b42D3C9c6E97e11755BB37df29B6375ede3EB",
+	"symbol": "Heroes of NFT",
+	"name": "Heroes of NFT",
+	"coingecko": "heroes-of-nft",
+	"sources": [
+		"coingecko"
+	]
+}

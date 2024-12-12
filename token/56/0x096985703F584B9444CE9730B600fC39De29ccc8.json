@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x096985703F584B9444CE9730B600fC39De29ccc8",
+	"symbol": "Childrens Aid Foundation",
+	"name": "Childrens Aid Foundation",
+	"coingecko": "childrens-aid-foundation",
+	"sources": [
+		"coingecko"
+	]
+}

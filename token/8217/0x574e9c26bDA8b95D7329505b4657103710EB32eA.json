@@ -1,0 +1,10 @@
+{
+	"chain": 8217,
+	"address": "0x574e9c26bDA8b95D7329505b4657103710EB32eA",
+	"symbol": "Orbit Bridge Klaytn Binance Coin",
+	"name": "Orbit Bridge Klaytn Binance Coin",
+	"coingecko": "orbit-bridge-klaytn-binance-coin",
+	"sources": [
+		"coingecko"
+	]
+}

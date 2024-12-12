@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x1d008f50FB828eF9DEbBBEAe1B71FfFe929bf317",
+	"symbol": "clank.fun",
+	"name": "clank.fun",
+	"coingecko": "clank-fun",
+	"sources": [
+		"coingecko"
+	]
+}

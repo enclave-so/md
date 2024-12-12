@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x9A2478C4036548864d96a97Fbf93f6a3341fedac",
+	"symbol": "Zillion Aakar XO",
+	"name": "Zillion Aakar XO",
+	"coingecko": "zillion-aakar-xo",
+	"sources": [
+		"coingecko"
+	]
+}

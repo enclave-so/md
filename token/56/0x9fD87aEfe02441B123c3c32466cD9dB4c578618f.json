@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x9fD87aEfe02441B123c3c32466cD9dB4c578618f",
+	"symbol": "Thetan World",
+	"name": "Thetan World",
+	"coingecko": "thetan-arena",
+	"sources": [
+		"coingecko"
+	]
+}

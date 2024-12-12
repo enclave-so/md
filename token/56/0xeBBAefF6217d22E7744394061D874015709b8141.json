@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xeBBAefF6217d22E7744394061D874015709b8141",
+	"symbol": "Wam",
+	"name": "Wam",
+	"coingecko": "wam",
+	"sources": [
+		"coingecko"
+	]
+}

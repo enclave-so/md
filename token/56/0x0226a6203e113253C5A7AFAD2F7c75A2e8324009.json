@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x0226a6203e113253C5A7AFAD2F7c75A2e8324009",
+	"symbol": "ZooCoin",
+	"name": "ZooCoin",
+	"coingecko": "zoocoin",
+	"sources": [
+		"coingecko"
+	]
+}

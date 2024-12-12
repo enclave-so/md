@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x2DC1cDa9186a4993bD36dE60D08787c0C382BEAD",
+	"symbol": "Magnate Finance",
+	"name": "Magnate Finance",
+	"coingecko": "magnate-finance",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xDF5Ba79F0FD70c6609666d5eD603710609a530AB",
+	"symbol": "Cosmic Force Token v2",
+	"name": "Cosmic Force Token v2",
+	"coingecko": "cosmic-force-token-v2",
+	"sources": [
+		"coingecko"
+	]
+}

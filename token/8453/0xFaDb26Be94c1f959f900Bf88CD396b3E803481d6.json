@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xFaDb26Be94c1f959f900Bf88CD396b3E803481d6",
+	"symbol": "ESM X",
+	"name": "ESM X",
+	"coingecko": "esm-x",
+	"sources": [
+		"coingecko"
+	]
+}

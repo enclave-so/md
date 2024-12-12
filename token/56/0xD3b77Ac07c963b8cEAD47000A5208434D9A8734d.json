@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xD3b77Ac07c963b8cEAD47000A5208434D9A8734d",
+	"symbol": "Safetrees",
+	"name": "Safetrees",
+	"coingecko": "safetrees",
+	"sources": [
+		"coingecko"
+	]
+}

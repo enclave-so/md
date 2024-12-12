@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0xb723783e0f9015c8E20b87F6CF7ae24dF6479e62",
+	"symbol": "ChoccySwap",
+	"name": "ChoccySwap",
+	"coingecko": "choccyswap",
+	"sources": [
+		"coingecko"
+	]
+}

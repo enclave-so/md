@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x7e72D6410803c40E73806F2A72e3eaDe5D075cC0",
+	"symbol": "Marvin On Base",
+	"name": "Marvin On Base",
+	"coingecko": "marvin-on-base",
+	"sources": [
+		"coingecko"
+	]
+}

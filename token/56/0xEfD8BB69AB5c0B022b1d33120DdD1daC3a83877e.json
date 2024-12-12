@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xEfD8BB69AB5c0B022b1d33120DdD1daC3a83877e",
+	"symbol": "PokeGROK",
+	"name": "PokeGROK",
+	"coingecko": "pokegrok",
+	"sources": [
+		"coingecko"
+	]
+}

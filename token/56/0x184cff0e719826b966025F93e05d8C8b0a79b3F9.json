@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x184cff0e719826b966025F93e05d8C8b0a79b3F9",
+	"symbol": "TriasLab",
+	"name": "TriasLab",
+	"coingecko": "trias-token",
+	"sources": [
+		"coingecko"
+	]
+}

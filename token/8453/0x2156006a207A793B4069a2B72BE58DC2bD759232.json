@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x2156006a207A793B4069a2B72BE58DC2bD759232",
+	"symbol": "SwapBased COIN",
+	"name": "SwapBased COIN",
+	"coingecko": "swapbased-coin",
+	"sources": [
+		"coingecko"
+	]
+}

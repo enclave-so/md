@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xC2fE011C3885277c7F0e7ffd45Ff90cADc8ECD12",
+	"symbol": "Poncho",
+	"name": "Poncho",
+	"coingecko": "poncho",
+	"sources": [
+		"coingecko"
+	]
+}

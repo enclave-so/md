@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xf5355DdC7Ffbf7ca119BF3222cB0ECac2FbB4502",
+	"symbol": "Utility Cjournal",
+	"name": "Utility Cjournal",
+	"coingecko": "cjournal",
+	"sources": [
+		"coingecko"
+	]
+}

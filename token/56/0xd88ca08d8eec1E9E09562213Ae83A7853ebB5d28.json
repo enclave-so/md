@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xd88ca08d8eec1E9E09562213Ae83A7853ebB5d28",
+	"symbol": "xWIN Finance",
+	"name": "xWIN Finance",
+	"coingecko": "xwin-finance",
+	"sources": [
+		"coingecko"
+	]
+}

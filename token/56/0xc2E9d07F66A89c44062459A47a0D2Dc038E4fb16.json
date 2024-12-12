@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xc2E9d07F66A89c44062459A47a0D2Dc038E4fb16",
+	"symbol": "pSTAKE Staked BNB",
+	"name": "pSTAKE Staked BNB",
+	"coingecko": "pstake-staked-bnb",
+	"sources": [
+		"coingecko"
+	]
+}

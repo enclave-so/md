@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x51Bd0D0853B7596B6F1aCa8D2BE6816774271733",
+	"symbol": "Parex",
+	"name": "Parex",
+	"coingecko": "parex",
+	"sources": [
+		"coingecko"
+	]
+}

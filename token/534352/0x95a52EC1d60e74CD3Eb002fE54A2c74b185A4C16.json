@@ -1,0 +1,10 @@
+{
+	"chain": 534352,
+	"address": "0x95a52EC1d60e74CD3Eb002fE54A2c74b185A4C16",
+	"symbol": "Skydrome",
+	"name": "Skydrome",
+	"coingecko": "skydrome",
+	"sources": [
+		"coingecko"
+	]
+}

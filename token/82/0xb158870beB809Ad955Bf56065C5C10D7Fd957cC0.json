@@ -1,0 +1,10 @@
+{
+	"chain": 82,
+	"address": "0xb158870beB809Ad955Bf56065C5C10D7Fd957cC0",
+	"symbol": "Moonriver",
+	"name": "Moonriver",
+	"coingecko": "moonriver",
+	"sources": [
+		"coingecko"
+	]
+}

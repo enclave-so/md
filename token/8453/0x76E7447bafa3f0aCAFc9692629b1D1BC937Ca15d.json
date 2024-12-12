@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x76E7447bafa3f0aCAFc9692629b1D1BC937Ca15d",
+	"symbol": "Pola On Base",
+	"name": "Pola On Base",
+	"coingecko": "pola",
+	"sources": [
+		"coingecko"
+	]
+}

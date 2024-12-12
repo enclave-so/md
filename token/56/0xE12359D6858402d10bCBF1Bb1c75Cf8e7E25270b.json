@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xE12359D6858402d10bCBF1Bb1c75Cf8e7E25270b",
+	"symbol": "Big Coin",
+	"name": "Big Coin",
+	"coingecko": "big-coin-2",
+	"sources": [
+		"coingecko"
+	]
+}

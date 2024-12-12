@@ -1,0 +1,10 @@
+{
+	"chain": 8217,
+	"address": "0x0aB503536019CB4303bDa69467c1ec5DE1589918",
+	"symbol": "3 Kingdoms Multiverse",
+	"name": "3 Kingdoms Multiverse",
+	"coingecko": "3-kingdoms-multiverse",
+	"sources": [
+		"coingecko"
+	]
+}

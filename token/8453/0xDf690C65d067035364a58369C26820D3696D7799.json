@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xDf690C65d067035364a58369C26820D3696D7799",
+	"symbol": "Hoge Finance",
+	"name": "Hoge Finance",
+	"coingecko": "hoge-finance",
+	"sources": [
+		"coingecko"
+	]
+}

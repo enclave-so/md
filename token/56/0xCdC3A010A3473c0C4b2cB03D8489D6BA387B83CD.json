@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xCdC3A010A3473c0C4b2cB03D8489D6BA387B83CD",
+	"symbol": "Abacus liveTHE",
+	"name": "Abacus liveTHE",
+	"coingecko": "liquid-driver-livethe",
+	"sources": [
+		"coingecko"
+	]
+}

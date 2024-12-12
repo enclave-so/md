@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x8038B1F3EB4f70436569618530Ac96b439D67bAe",
+	"symbol": "MicroTuber",
+	"name": "MicroTuber",
+	"coingecko": "microtuber",
+	"sources": [
+		"coingecko"
+	]
+}

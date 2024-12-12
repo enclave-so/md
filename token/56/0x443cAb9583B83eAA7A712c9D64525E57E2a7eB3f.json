@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x443cAb9583B83eAA7A712c9D64525E57E2a7eB3f",
+	"symbol": "Torum",
+	"name": "Torum",
+	"coingecko": "torum",
+	"sources": [
+		"coingecko"
+	]
+}

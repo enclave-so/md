@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x68449870EEa84453044Bd430822827E21Fd8F101",
+	"symbol": "Zaibot",
+	"name": "Zaibot",
+	"coingecko": "zaibot",
+	"sources": [
+		"coingecko"
+	]
+}

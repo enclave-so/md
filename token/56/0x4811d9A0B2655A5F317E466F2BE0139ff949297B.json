@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x4811d9A0B2655A5F317E466F2BE0139ff949297B",
+	"symbol": "Kabosu (BNB)",
+	"name": "Kabosu (BNB)",
+	"coingecko": "kabosu-bnb",
+	"sources": [
+		"coingecko"
+	]
+}

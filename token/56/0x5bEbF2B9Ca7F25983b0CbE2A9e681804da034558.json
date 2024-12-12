@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x5bEbF2B9Ca7F25983b0CbE2A9e681804da034558",
+	"symbol": "Baby Cheems",
+	"name": "Baby Cheems",
+	"coingecko": "baby-cheems",
+	"sources": [
+		"coingecko"
+	]
+}

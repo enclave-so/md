@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x080C169cD58122F8E1d36713bf8BcbcA45176905",
+	"symbol": "Maxi",
+	"name": "Maxi",
+	"coingecko": "maxi",
+	"sources": [
+		"coingecko"
+	]
+}

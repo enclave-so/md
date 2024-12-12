@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x2f11EeeE0bf21E7661A22dbBbb9068F4ad191b86",
+	"symbol": "Backed NIU Technologies",
+	"name": "Backed NIU Technologies",
+	"coingecko": "backed-niu-technologies",
+	"sources": [
+		"coingecko"
+	]
+}

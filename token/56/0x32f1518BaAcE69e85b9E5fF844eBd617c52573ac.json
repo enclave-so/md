@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x32f1518BaAcE69e85b9E5fF844eBd617c52573ac",
+	"symbol": "Dexsport",
+	"name": "Dexsport",
+	"coingecko": "dexsport",
+	"sources": [
+		"coingecko"
+	]
+}

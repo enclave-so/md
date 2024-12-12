@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xD9e8D20BDE081600fac0d94b88EAFaDDcE55aA43",
+	"symbol": "Pussy Financial",
+	"name": "Pussy Financial",
+	"coingecko": "pussy-financial",
+	"sources": [
+		"coingecko"
+	]
+}

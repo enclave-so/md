@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x9Ce84F6A69986a83d92C324df10bC8E64771030f",
+	"symbol": "CHEX Token",
+	"name": "CHEX Token",
+	"coingecko": "chex-token",
+	"sources": [
+		"coingecko"
+	]
+}

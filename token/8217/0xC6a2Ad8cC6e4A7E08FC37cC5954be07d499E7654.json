@@ -1,0 +1,10 @@
+{
+	"chain": 8217,
+	"address": "0xC6a2Ad8cC6e4A7E08FC37cC5954be07d499E7654",
+	"symbol": "KlaySwap Protocol",
+	"name": "KlaySwap Protocol",
+	"coingecko": "klayswap-protocol",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x8f1fE4e6707CD4236b704759d2ee15166C68183a",
+	"symbol": "Tom Coin",
+	"name": "Tom Coin",
+	"coingecko": "tom-coin",
+	"sources": [
+		"coingecko"
+	]
+}

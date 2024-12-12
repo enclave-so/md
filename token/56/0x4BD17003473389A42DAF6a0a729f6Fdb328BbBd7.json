@@ -1,0 +1,13 @@
+{
+	"chain": 56,
+	"address": "0x4BD17003473389A42DAF6a0a729f6Fdb328BbBd7",
+	"symbol": "VAI",
+	"name": "VAI Stablecoin",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/13861/small/VAI_logo.png?1612413571",
+	"coingecko": "vai",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

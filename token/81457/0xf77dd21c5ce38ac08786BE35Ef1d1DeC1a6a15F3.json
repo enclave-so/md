@@ -1,0 +1,10 @@
+{
+	"chain": 81457,
+	"address": "0xf77dd21c5ce38ac08786BE35Ef1d1DeC1a6a15F3",
+	"symbol": "YOLO Games",
+	"name": "YOLO Games",
+	"coingecko": "yolo-games",
+	"sources": [
+		"coingecko"
+	]
+}

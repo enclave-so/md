@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xA19328fb05ce6FD204D16c2a2A98F7CF434c12F4",
+	"symbol": "L2VE INU",
+	"name": "L2VE INU",
+	"coingecko": "l2ve-inu",
+	"sources": [
+		"coingecko"
+	]
+}

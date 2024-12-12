@@ -1,0 +1,11 @@
+{
+	"chain": 66,
+	"address": "0xc05760d75E7F5Ad428a906674Ce7c7c82d003d01",
+	"symbol": "KINE",
+	"name": "KINE",
+	"decimals": 18,
+	"logo": "https://static.bafang.com/cdn/explorer/okexchain/exchain_kinek.png",
+	"sources": [
+		"sushiswap"
+	]
+}

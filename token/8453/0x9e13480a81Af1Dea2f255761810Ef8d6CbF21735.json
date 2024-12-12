@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x9e13480a81Af1Dea2f255761810Ef8d6CbF21735",
+	"symbol": "Rorschach",
+	"name": "Rorschach",
+	"coingecko": "rorschach",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x6D8734002fBffE1c86495e32c95f732fC77F6F2A",
+	"symbol": "Peanut",
+	"name": "Peanut",
+	"coingecko": "peanut",
+	"sources": [
+		"coingecko"
+	]
+}

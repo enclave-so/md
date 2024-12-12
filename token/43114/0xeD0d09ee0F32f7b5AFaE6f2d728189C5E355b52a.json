@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0xeD0d09ee0F32f7b5AFaE6f2d728189C5E355b52a",
+	"symbol": "Lizard",
+	"name": "Lizard",
+	"coingecko": "lizard",
+	"sources": [
+		"coingecko"
+	]
+}

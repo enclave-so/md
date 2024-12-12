@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xf9ba4B77e9A5e7D16633191932F95eAF70086dc0",
+	"symbol": "Overdome",
+	"name": "Overdome",
+	"coingecko": "overdome",
+	"sources": [
+		"coingecko"
+	]
+}

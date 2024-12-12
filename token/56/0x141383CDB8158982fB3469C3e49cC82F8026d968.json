@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x141383CDB8158982fB3469C3e49cC82F8026d968",
+	"symbol": "CorionX",
+	"name": "CorionX",
+	"coingecko": "corionx",
+	"sources": [
+		"coingecko"
+	]
+}

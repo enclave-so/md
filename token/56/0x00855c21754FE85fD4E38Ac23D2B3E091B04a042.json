@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x00855c21754FE85fD4E38Ac23D2B3E091B04a042",
+	"symbol": "YourKiss",
+	"name": "YourKiss",
+	"coingecko": "yourkiss",
+	"sources": [
+		"coingecko"
+	]
+}

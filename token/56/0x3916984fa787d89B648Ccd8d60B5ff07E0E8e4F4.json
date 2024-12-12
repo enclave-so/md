@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x3916984fa787d89B648Ccd8d60B5ff07E0E8e4F4",
+	"symbol": "Pube Finance",
+	"name": "Pube Finance",
+	"coingecko": "pube-finance",
+	"sources": [
+		"coingecko"
+	]
+}

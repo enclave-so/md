@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xE0E81c29A68bFDd7c48072fD94e7c58F1f0146C1",
+	"symbol": "H2O Securities",
+	"name": "H2O Securities",
+	"coingecko": "h2o-securities",
+	"sources": [
+		"coingecko"
+	]
+}

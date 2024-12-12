@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x20dE6118C3672659E488D1d45279CDF77391FBdc",
+	"symbol": "BIDZ Coin",
+	"name": "BIDZ Coin",
+	"coingecko": "bidz-coin",
+	"sources": [
+		"coingecko"
+	]
+}

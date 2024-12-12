@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x7431aDa8a591C955a994a21710752EF9b882b8e3",
+	"symbol": "MorpheusAI",
+	"name": "MorpheusAI",
+	"coingecko": "morpheusai",
+	"sources": [
+		"coingecko"
+	]
+}

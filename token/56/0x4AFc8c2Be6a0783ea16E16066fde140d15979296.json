@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x4AFc8c2Be6a0783ea16E16066fde140d15979296",
+	"symbol": "Hare [OLD]",
+	"name": "Hare [OLD]",
+	"coingecko": "hare-token",
+	"sources": [
+		"coingecko"
+	]
+}

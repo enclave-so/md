@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x4DD9077269Dd08899f2A9E73507125962b5BC87f",
+	"symbol": "Crash On Base",
+	"name": "Crash On Base",
+	"coingecko": "crash-on-base",
+	"sources": [
+		"coingecko"
+	]
+}

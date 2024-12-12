@@ -1,0 +1,142 @@
+[
+	{
+		"chain": 2020,
+		"address": "0x63C6E9F027947BE84D390cFA7B2332D13B529353",
+		"symbol": "Philippine Peso Coin",
+		"name": "Philippine Peso Coin",
+		"coingecko": "philippine-peso-coin",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 2020,
+		"address": "0x7894b3088d069E70895EFfA4e8f7D2c243Fd04C1",
+		"symbol": "Apeiron",
+		"name": "Apeiron",
+		"coingecko": "apeironnft",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 2020,
+		"address": "0xd61bBBB8369c46c15868ad9263a2710AcED156C4",
+		"symbol": "Lumi Finance",
+		"name": "Lumi Finance",
+		"coingecko": "lumi-finance",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 2020,
+		"address": "0x6a1D85C9876eA93Ee460cA1d36aE7D95d0cd8F05",
+		"symbol": "MGold",
+		"name": "MGold",
+		"coingecko": "mgold",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 2020,
+		"address": "0x18d2bDEf572C67127E218c425f546FE64430a92C",
+		"symbol": "Lumi Finance LUAUSD",
+		"name": "Lumi Finance LUAUSD",
+		"coingecko": "lumi-finance-luausd",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 2020,
+		"address": "0x7EAe20d11Ef8c779433Eb24503dEf900b9d28ad7",
+		"symbol": "Pixels",
+		"name": "Pixels",
+		"coingecko": "pixels",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 2020,
+		"address": "0xe514d9DEB7966c8BE0ca922de8a064264eA6bcd4",
+		"symbol": "Ronin",
+		"name": "Ronin",
+		"coingecko": "ronin",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 2020,
+		"address": "0xc99a6A985eD2Cac1ef41640596C5A5f9F4E19Ef5",
+		"symbol": "Ronin Bridged WETH (Ronin)",
+		"name": "Ronin Bridged WETH (Ronin)",
+		"coingecko": "ronin-bridged-weth-ronin",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 2020,
+		"address": "0x0B7007c13325C48911F73A2daD5FA5dCBf808aDc",
+		"symbol": "Bridged USDC",
+		"name": "Bridged USDC",
+		"coingecko": "bridged-usdc",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 2020,
+		"address": "0xa8754b9Fa15fc18BB59458815510E40a12cD2014",
+		"symbol": "Smooth Love Potion",
+		"name": "Smooth Love Potion",
+		"coingecko": "smooth-love-potion",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 2020,
+		"address": "0x1c306872bC82525d72Bf3562E8F0aA3f8F26e857",
+		"symbol": "Yield Guild Games",
+		"name": "Yield Guild Games",
+		"coingecko": "yield-guild-games",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 2020,
+		"address": "0xF80132FC0A86ADd011BffCe3AedD60A86E3d704D",
+		"symbol": "Anima",
+		"name": "Anima",
+		"coingecko": "apeiron-anima",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 2020,
+		"address": "0x97a9107C1793BC407d6F527b77e7fff4D812bece",
+		"symbol": "Axie Infinity",
+		"name": "Axie Infinity",
+		"coingecko": "axie-infinity",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 2020,
+		"address": "0x1a89ecd466a23e98f07111b0510a2D6c1cd5E400",
+		"symbol": "Banana",
+		"name": "Banana",
+		"coingecko": "banana",
+		"sources": [
+			"coingecko"
+		]
+	}
+]

@@ -1,0 +1,10 @@
+{
+	"chain": 59144,
+	"address": "0xA219439258ca9da29E9Cc4cE5596924745e12B93",
+	"symbol": "Bridged Tether (Linea)",
+	"name": "Bridged Tether (Linea)",
+	"coingecko": "bridged-tether-linea",
+	"sources": [
+		"coingecko"
+	]
+}

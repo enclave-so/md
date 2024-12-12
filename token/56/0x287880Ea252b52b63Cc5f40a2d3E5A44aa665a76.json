@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x287880Ea252b52b63Cc5f40a2d3E5A44aa665a76",
+	"symbol": "Alpine F1 Team Fan Token",
+	"name": "Alpine F1 Team Fan Token",
+	"coingecko": "alpine-f1-team-fan-token",
+	"sources": [
+		"coingecko"
+	]
+}

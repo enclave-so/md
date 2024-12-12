@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x15C5bE2f72d2f8211CA1CF3D29F058f2b844FfC6",
+	"symbol": "AADex Finance",
+	"name": "AADex Finance",
+	"coingecko": "aadex-finance",
+	"sources": [
+		"coingecko"
+	]
+}

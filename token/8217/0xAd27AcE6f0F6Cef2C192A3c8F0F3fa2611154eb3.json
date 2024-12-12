@@ -1,0 +1,10 @@
+{
+	"chain": 8217,
+	"address": "0xAd27AcE6f0F6Cef2C192A3c8F0F3fa2611154eb3",
+	"symbol": "Empower",
+	"name": "Empower",
+	"coingecko": "clubrare-empower",
+	"sources": [
+		"coingecko"
+	]
+}

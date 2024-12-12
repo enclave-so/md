@@ -1,0 +1,10 @@
+{
+	"chain": 888,
+	"address": "0x52A9CEA01c4CBDd669883e41758B8eB8e8E2B34b",
+	"symbol": "Bridged USD Coin (Wanchain)",
+	"name": "Bridged USD Coin (Wanchain)",
+	"coingecko": "wanusdc",
+	"sources": [
+		"coingecko"
+	]
+}

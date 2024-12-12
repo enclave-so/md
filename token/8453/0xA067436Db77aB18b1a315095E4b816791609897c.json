@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xA067436Db77aB18b1a315095E4b816791609897c",
+	"symbol": "WASSIE",
+	"name": "WASSIE",
+	"coingecko": "wassie",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xc1256Ae5FF1cf2719D4937adb3bbCCab2E00A2Ca",
+	"symbol": "Moonwell Flagship USDC (Morpho Vault)",
+	"name": "Moonwell Flagship USDC (Morpho Vault)",
+	"coingecko": "moonwell-flagship-usdc-morpho-vault",
+	"sources": [
+		"coingecko"
+	]
+}

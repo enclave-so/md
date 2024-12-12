@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x14AAD57fB5f9A0C9ce136CF93521cBeBE14EC2e6",
+	"symbol": "Shiba Inu Empire",
+	"name": "Shiba Inu Empire",
+	"coingecko": "shiba-inu-empire",
+	"sources": [
+		"coingecko"
+	]
+}

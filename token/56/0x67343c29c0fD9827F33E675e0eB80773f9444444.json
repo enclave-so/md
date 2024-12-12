@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x67343c29c0fD9827F33E675e0eB80773f9444444",
+	"symbol": "iSTEP",
+	"name": "iSTEP",
+	"coingecko": "istep",
+	"sources": [
+		"coingecko"
+	]
+}

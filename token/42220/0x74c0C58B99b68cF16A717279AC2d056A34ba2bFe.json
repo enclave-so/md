@@ -1,0 +1,13 @@
+{
+	"chain": 42220,
+	"address": "0x74c0C58B99b68cF16A717279AC2d056A34ba2bFe",
+	"symbol": "SOURCE",
+	"name": "Source",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/celo/assets/0x74c0C58B99b68cF16A717279AC2d056A34ba2bFe/logo.png",
+	"coingecko": "resource-protocol",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

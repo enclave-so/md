@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x6249428345819cAC8B8C7f1f68771073CB689Ab1",
+	"symbol": "BNB Bank",
+	"name": "BNB Bank",
+	"coingecko": "bnb-bank",
+	"sources": [
+		"coingecko"
+	]
+}

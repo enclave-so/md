@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x71b87be9ccBABe4F393e809dfc26Df3c9720E0a2",
+	"symbol": "T-mac DAO",
+	"name": "T-mac DAO",
+	"coingecko": "t-mac-dao",
+	"sources": [
+		"coingecko"
+	]
+}

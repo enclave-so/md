@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x11aC6aF070Fe1991a457c56FB85c577EFE57F0e4",
+	"symbol": "DragonKing",
+	"name": "DragonKing",
+	"coingecko": "dragonking",
+	"sources": [
+		"coingecko"
+	]
+}

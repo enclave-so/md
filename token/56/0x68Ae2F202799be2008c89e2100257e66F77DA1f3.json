@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x68Ae2F202799be2008c89e2100257e66F77DA1f3",
+	"symbol": "Public Masterpiece Token",
+	"name": "Public Masterpiece Token",
+	"coingecko": "public-meme-token",
+	"sources": [
+		"coingecko"
+	]
+}

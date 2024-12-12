@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x30683d46edD7E2A52402e5301B14dB33BD4Ff550",
+	"symbol": "NOMOEX Token",
+	"name": "NOMOEX Token",
+	"coingecko": "nomoex-token",
+	"sources": [
+		"coingecko"
+	]
+}

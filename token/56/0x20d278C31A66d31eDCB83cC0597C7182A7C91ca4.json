@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x20d278C31A66d31eDCB83cC0597C7182A7C91ca4",
+	"symbol": "BTCSKR",
+	"name": "BTCSKR",
+	"coingecko": "bsk",
+	"sources": [
+		"coingecko"
+	]
+}

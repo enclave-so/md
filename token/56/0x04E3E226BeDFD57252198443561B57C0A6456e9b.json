@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x04E3E226BeDFD57252198443561B57C0A6456e9b",
+	"symbol": "FAYA",
+	"name": "FAYA",
+	"coingecko": "faya",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xAe7c682Ba26AD6835B6150FfB35F22Db9987f509",
+	"symbol": "Infinity Games",
+	"name": "Infinity Games",
+	"coingecko": "infinity-angel",
+	"sources": [
+		"coingecko"
+	]
+}

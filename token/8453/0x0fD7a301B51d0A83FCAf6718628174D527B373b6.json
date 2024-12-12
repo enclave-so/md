@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x0fD7a301B51d0A83FCAf6718628174D527B373b6",
+	"symbol": "Luminous",
+	"name": "Luminous",
+	"coingecko": "luminous",
+	"sources": [
+		"coingecko"
+	]
+}

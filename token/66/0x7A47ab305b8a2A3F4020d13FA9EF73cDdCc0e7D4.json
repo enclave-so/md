@@ -1,0 +1,11 @@
+{
+	"chain": 66,
+	"address": "0x7A47ab305b8a2A3F4020d13FA9EF73cDdCc0e7D4",
+	"symbol": "WING",
+	"name": "Wing Token",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/12477/small/s_wing_icon.png?1610631390",
+	"sources": [
+		"sushiswap"
+	]
+}

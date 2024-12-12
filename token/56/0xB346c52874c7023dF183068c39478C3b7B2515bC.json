@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xB346c52874c7023dF183068c39478C3b7B2515bC",
+	"symbol": "True PNL",
+	"name": "True PNL",
+	"coingecko": "true-pnl",
+	"sources": [
+		"coingecko"
+	]
+}

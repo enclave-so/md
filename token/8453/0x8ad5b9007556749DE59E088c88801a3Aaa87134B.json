@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x8ad5b9007556749DE59E088c88801a3Aaa87134B",
+	"symbol": "Farther",
+	"name": "Farther",
+	"coingecko": "farther",
+	"sources": [
+		"coingecko"
+	]
+}

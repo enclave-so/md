@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xF0186490B18CB74619816CfC7FeB51cdbe4ae7b9",
+	"symbol": "Zasset zUSD",
+	"name": "Zasset zUSD",
+	"coingecko": "zasset-zusd",
+	"sources": [
+		"coingecko"
+	]
+}

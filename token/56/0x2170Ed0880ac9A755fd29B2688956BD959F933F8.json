@@ -1,0 +1,13 @@
+{
+	"chain": 56,
+	"address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
+	"symbol": "ETH",
+	"name": "Ethereum Token",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/binance/0x2170Ed0880ac9A755fd29B2688956BD959F933F8.jpg",
+	"coingecko": "binance-peg-weth",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

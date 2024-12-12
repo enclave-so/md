@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xD6a540543327B5A4F2223F123640932eE3C6C583",
+	"symbol": "Lyncoin",
+	"name": "Lyncoin",
+	"coingecko": "lyncoin",
+	"sources": [
+		"coingecko"
+	]
+}

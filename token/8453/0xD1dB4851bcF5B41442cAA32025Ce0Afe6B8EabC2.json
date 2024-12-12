@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xD1dB4851bcF5B41442cAA32025Ce0Afe6B8EabC2",
+	"symbol": "Zoomer",
+	"name": "Zoomer",
+	"coingecko": "zoomer",
+	"sources": [
+		"coingecko"
+	]
+}

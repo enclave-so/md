@@ -1,0 +1,13 @@
+{
+	"chain": 81457,
+	"address": "0x216A5a1135A9dab49FA9Ad865E0f22FE22b5630A",
+	"symbol": "PUMP",
+	"name": "Pump",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/blast/0x216A5a1135A9dab49FA9Ad865E0f22FE22b5630A.jpg",
+	"coingecko": "pump",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

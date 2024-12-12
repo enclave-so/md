@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x0305ce989f3055a6Da8955fc52b615b0086A2157",
+	"symbol": "Jace",
+	"name": "Jace",
+	"coingecko": "jace",
+	"sources": [
+		"coingecko"
+	]
+}

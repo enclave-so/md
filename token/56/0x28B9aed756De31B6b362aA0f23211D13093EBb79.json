@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x28B9aed756De31B6b362aA0f23211D13093EBb79",
+	"symbol": "LunaGens",
+	"name": "LunaGens",
+	"coingecko": "lunagens",
+	"sources": [
+		"coingecko"
+	]
+}

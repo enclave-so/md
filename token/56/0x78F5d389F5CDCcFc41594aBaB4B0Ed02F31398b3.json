@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x78F5d389F5CDCcFc41594aBaB4B0Ed02F31398b3",
+	"symbol": "APX",
+	"name": "APX",
+	"coingecko": "apollox-2",
+	"sources": [
+		"coingecko"
+	]
+}

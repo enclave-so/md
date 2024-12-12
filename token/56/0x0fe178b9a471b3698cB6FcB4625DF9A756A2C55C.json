@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x0fe178b9a471b3698cB6FcB4625DF9A756A2C55C",
+	"symbol": "Strip Finance",
+	"name": "Strip Finance",
+	"coingecko": "strip-finance",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x13E1070E3a388e53Ec35480Ff494538f9FFc5b8D",
+	"symbol": "MyBricks",
+	"name": "MyBricks",
+	"coingecko": "mybricks",
+	"sources": [
+		"coingecko"
+	]
+}

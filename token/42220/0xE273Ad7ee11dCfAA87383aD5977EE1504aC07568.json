@@ -1,0 +1,10 @@
+{
+	"chain": 42220,
+	"address": "0xE273Ad7ee11dCfAA87383aD5977EE1504aC07568",
+	"symbol": "mcEUR",
+	"name": "mcEUR",
+	"coingecko": "mceur",
+	"sources": [
+		"coingecko"
+	]
+}

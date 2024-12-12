@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x3942caE8bb9FC8f24Fe627B30b6E7461E5662BA7",
+	"symbol": "Golden Bailey",
+	"name": "Golden Bailey",
+	"coingecko": "golden-bailey",
+	"sources": [
+		"coingecko"
+	]
+}

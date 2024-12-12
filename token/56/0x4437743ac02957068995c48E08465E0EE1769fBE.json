@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x4437743ac02957068995c48E08465E0EE1769fBE",
+	"symbol": "Fortress Loans",
+	"name": "Fortress Loans",
+	"coingecko": "fortress",
+	"sources": [
+		"coingecko"
+	]
+}

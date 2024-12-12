@@ -1,0 +1,11 @@
+{
+	"chain": 65,
+	"address": "0xe579156f9dEcc4134B5E3A30a24Ac46BB8B01281",
+	"symbol": "USDT",
+	"name": "Tether",
+	"decimals": 10,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
+	"sources": [
+		"sushiswap"
+	]
+}

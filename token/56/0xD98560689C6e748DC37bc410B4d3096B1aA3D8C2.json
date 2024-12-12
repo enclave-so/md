@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xD98560689C6e748DC37bc410B4d3096B1aA3D8C2",
+	"symbol": "Defi For You",
+	"name": "Defi For You",
+	"coingecko": "defi-for-you",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x6cda2862fd4B88CCFA522FFeD66bC4277e7D9Cc9",
+	"symbol": "Neurashi",
+	"name": "Neurashi",
+	"coingecko": "neurashi",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 42793,
+	"address": "0x796Ea11Fa2dD751eD01b53C372fFDB4AAa8f00F9",
+	"symbol": "LayerZero Bridged USDC (Etherlink)",
+	"name": "LayerZero Bridged USDC (Etherlink)",
+	"coingecko": "layerzero-bridged-usdc-etherlink",
+	"sources": [
+		"coingecko"
+	]
+}

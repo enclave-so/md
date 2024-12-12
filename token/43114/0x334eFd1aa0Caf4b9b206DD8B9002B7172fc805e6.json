@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x334eFd1aa0Caf4b9b206DD8B9002B7172fc805e6",
+	"symbol": "BLOB",
+	"name": "BLOB",
+	"coingecko": "blob-avax",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x637afeff75ca669fF92e4570B14D6399A658902f",
+	"symbol": "Cook",
+	"name": "Cook",
+	"coingecko": "cook",
+	"sources": [
+		"coingecko"
+	]
+}

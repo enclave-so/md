@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x061E64f1293bC49402A867CC6411987148bCdb1B",
+	"symbol": "BNBKinG",
+	"name": "BNBKinG",
+	"coingecko": "bnbking",
+	"sources": [
+		"coingecko"
+	]
+}

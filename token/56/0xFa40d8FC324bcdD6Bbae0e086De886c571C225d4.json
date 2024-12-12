@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xFa40d8FC324bcdD6Bbae0e086De886c571C225d4",
+	"symbol": "Wizardia",
+	"name": "Wizardia",
+	"coingecko": "wizardia",
+	"sources": [
+		"coingecko"
+	]
+}

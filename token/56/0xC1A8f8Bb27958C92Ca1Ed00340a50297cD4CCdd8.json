@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xC1A8f8Bb27958C92Ca1Ed00340a50297cD4CCdd8",
+	"symbol": "Grok Bank",
+	"name": "Grok Bank",
+	"coingecko": "grok-bank",
+	"sources": [
+		"coingecko"
+	]
+}

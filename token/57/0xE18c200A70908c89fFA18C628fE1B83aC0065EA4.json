@@ -1,0 +1,10 @@
+{
+	"chain": 57,
+	"address": "0xE18c200A70908c89fFA18C628fE1B83aC0065EA4",
+	"symbol": "Pegasys (Syscoin NEVM)",
+	"name": "Pegasys (Syscoin NEVM)",
+	"coingecko": "pegasys",
+	"sources": [
+		"coingecko"
+	]
+}

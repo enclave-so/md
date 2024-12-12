@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x3107C0A1126268CA303f8d99c712392fA596e6D7",
+	"symbol": "Gem Exchange and Trading",
+	"name": "Gem Exchange and Trading",
+	"coingecko": "gem-exchange-and-trading",
+	"sources": [
+		"coingecko"
+	]
+}

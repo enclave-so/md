@@ -1,0 +1,10 @@
+{
+	"chain": 8217,
+	"address": "0x4836cC1f355bB2A61c210EAA0CD3f729160CD95E",
+	"symbol": "GemHUB",
+	"name": "GemHUB",
+	"coingecko": "gemhub",
+	"sources": [
+		"coingecko"
+	]
+}

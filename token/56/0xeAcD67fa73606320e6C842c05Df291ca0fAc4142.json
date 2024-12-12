@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xeAcD67fa73606320e6C842c05Df291ca0fAc4142",
+	"symbol": "FINANCIAL TRANSACTION SYSTEM",
+	"name": "FINANCIAL TRANSACTION SYSTEM",
+	"coingecko": "financial-transaction-system",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x68D10dFe87a838D63BbEf6c9A0D0b44beB799DC1",
+	"symbol": "MagnetGold",
+	"name": "MagnetGold",
+	"coingecko": "magnetgold",
+	"sources": [
+		"coingecko"
+	]
+}

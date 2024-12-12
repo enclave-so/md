@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xac4FF793053c9fe8163020Df5054865d925f9bbD",
+	"symbol": "Plxyer",
+	"name": "Plxyer",
+	"coingecko": "plxyer",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x24D75cc35E98488B0c3a562b58182E00804BBabe",
+	"symbol": "MiKeNeKo",
+	"name": "MiKeNeKo",
+	"coingecko": "mikeneko",
+	"sources": [
+		"coingecko"
+	]
+}

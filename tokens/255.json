@@ -1,0 +1,52 @@
+[
+	{
+		"chain": 255,
+		"address": "0x25500000d700bbE27104577CCcce8eAbCC96c8ad",
+		"symbol": "Kroma",
+		"name": "Kroma",
+		"coingecko": "kroma",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 255,
+		"address": "0x0257e4d92C00C9EfcCa1d641b224d7d09cfa4522",
+		"symbol": "Kroma Bridged USDC (Kroma)",
+		"name": "Kroma Bridged USDC (Kroma)",
+		"coingecko": "kroma-bridged-usdc-kroma",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 255,
+		"address": "0x0Cf7c2A584988871b654Bd79f96899e4cd6C41C0",
+		"symbol": "Kroma Bridged USDT (Kroma)",
+		"name": "Kroma Bridged USDT (Kroma)",
+		"coingecko": "kroma-bridged-usdt-kroma",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 255,
+		"address": "0x61e0D34b5206Fa8005EC1De8000df9B9dDee23Db",
+		"symbol": "Kroma Staked ETH",
+		"name": "Kroma Staked ETH",
+		"coingecko": "kroma-staked-eth",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 255,
+		"address": "0x4200000000000000000000000000000000000001",
+		"symbol": "Wrapped Ether (Kroma)",
+		"name": "Wrapped Ether (Kroma)",
+		"coingecko": "wrapped-ether-kroma",
+		"sources": [
+			"coingecko"
+		]
+	}
+]

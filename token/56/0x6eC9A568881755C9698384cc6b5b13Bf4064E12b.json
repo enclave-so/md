@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x6eC9A568881755C9698384cc6b5b13Bf4064E12b",
+	"symbol": "Optimus X",
+	"name": "Optimus X",
+	"coingecko": "optimus-x",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xA25199A79A34Cc04B15E5c0bbA4E3a557364E532",
+	"symbol": "MetaRim",
+	"name": "MetaRim",
+	"coingecko": "metarim",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x3b95702DD0cE375462F131f805f9EE6E1563F8D5",
+	"symbol": "This is Fine",
+	"name": "This is Fine",
+	"coingecko": "this-is-fine",
+	"sources": [
+		"coingecko"
+	]
+}

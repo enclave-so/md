@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x1123E16aBEA3A59E16d2b5614668481F7d15a706",
+	"symbol": "SLM.Games",
+	"name": "SLM.Games",
+	"coingecko": "slm-games",
+	"sources": [
+		"coingecko"
+	]
+}

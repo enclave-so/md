@@ -1,0 +1,22 @@
+[
+	{
+		"chain": 530,
+		"address": "0x5FD55A1B9FC24967C4dB09C513C3BA0DFa7FF687",
+		"symbol": "Pundi X PURSE",
+		"name": "Pundi X PURSE",
+		"coingecko": "pundi-x-purse",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 530,
+		"address": "0x5c24B402b4b4550CF94227813f3547B94774c1CB",
+		"symbol": "Staked FX",
+		"name": "Staked FX",
+		"coingecko": "staked-fx",
+		"sources": [
+			"coingecko"
+		]
+	}
+]

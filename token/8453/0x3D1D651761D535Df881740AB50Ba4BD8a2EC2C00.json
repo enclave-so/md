@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x3D1D651761D535Df881740AB50Ba4BD8a2EC2C00",
+	"symbol": "Synthesizer Dog",
+	"name": "Synthesizer Dog",
+	"coingecko": "synthesizer-dog",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xbA2aE424d960c26247Dd6c32edC70B295c744C43",
+	"symbol": "Binance-Peg Dogecoin",
+	"name": "Binance-Peg Dogecoin",
+	"coingecko": "binance-peg-dogecoin",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xCD392021084683803525FE5E6c00cAe9C6bE5774",
+	"symbol": "Adonis",
+	"name": "Adonis",
+	"coingecko": "adonis-2",
+	"sources": [
+		"coingecko"
+	]
+}

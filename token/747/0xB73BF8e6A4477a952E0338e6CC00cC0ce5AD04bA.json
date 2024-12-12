@@ -1,0 +1,10 @@
+{
+	"chain": 747,
+	"address": "0xB73BF8e6A4477a952E0338e6CC00cC0ce5AD04bA",
+	"symbol": "Froth",
+	"name": "Froth",
+	"coingecko": "froth",
+	"sources": [
+		"coingecko"
+	]
+}

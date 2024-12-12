@@ -1,0 +1,10 @@
+{
+	"chain": 5000,
+	"address": "0x26a6b0dcdCfb981362aFA56D581e4A7dBA3Be140",
+	"symbol": "Puff The Dragon",
+	"name": "Puff The Dragon",
+	"coingecko": "puff-the-dragon",
+	"sources": [
+		"coingecko"
+	]
+}

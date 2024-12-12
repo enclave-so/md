@@ -1,0 +1,10 @@
+{
+	"chain": 4337,
+	"address": "0x2DD1DaEd2951aEc5Ba360Acb3256473181ef9751",
+	"symbol": "CEDEN",
+	"name": "CEDEN",
+	"coingecko": "ceden",
+	"sources": [
+		"coingecko"
+	]
+}

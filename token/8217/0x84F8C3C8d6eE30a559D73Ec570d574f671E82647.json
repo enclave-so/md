@@ -1,0 +1,10 @@
+{
+	"chain": 8217,
+	"address": "0x84F8C3C8d6eE30a559D73Ec570d574f671E82647",
+	"symbol": "SuperWalk GRND",
+	"name": "SuperWalk GRND",
+	"coingecko": "superwalk",
+	"sources": [
+		"coingecko"
+	]
+}

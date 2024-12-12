@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xe0F94Ac5462997D2BC57287Ac3a3aE4C31345D66",
+	"symbol": "CEEK Smart VR",
+	"name": "CEEK Smart VR",
+	"coingecko": "ceek",
+	"sources": [
+		"coingecko"
+	]
+}

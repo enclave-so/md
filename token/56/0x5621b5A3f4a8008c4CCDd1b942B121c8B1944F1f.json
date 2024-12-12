@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x5621b5A3f4a8008c4CCDd1b942B121c8B1944F1f",
+	"symbol": "Exeedme",
+	"name": "Exeedme",
+	"coingecko": "exeedme",
+	"sources": [
+		"coingecko"
+	]
+}

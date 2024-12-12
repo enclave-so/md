@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x1D4731111bd2A50AB3DD5178574E6F3698270FfC",
+	"symbol": "Degens With Attitude",
+	"name": "Degens With Attitude",
+	"coingecko": "degens-with-attitude",
+	"sources": [
+		"coingecko"
+	]
+}

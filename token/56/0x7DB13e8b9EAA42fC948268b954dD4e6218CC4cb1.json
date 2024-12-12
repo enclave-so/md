@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x7DB13e8b9EAA42fC948268b954dD4e6218CC4cb1",
+	"symbol": "Fight Win AI",
+	"name": "Fight Win AI",
+	"coingecko": "fight-win-ai",
+	"sources": [
+		"coingecko"
+	]
+}

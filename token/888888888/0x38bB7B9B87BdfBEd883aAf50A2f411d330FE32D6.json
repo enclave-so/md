@@ -1,0 +1,10 @@
+{
+	"chain": 888888888,
+	"address": "0x38bB7B9B87BdfBEd883aAf50A2f411d330FE32D6",
+	"symbol": "Hairy The Bene",
+	"name": "Hairy The Bene",
+	"coingecko": "hairy-the-bene",
+	"sources": [
+		"coingecko"
+	]
+}

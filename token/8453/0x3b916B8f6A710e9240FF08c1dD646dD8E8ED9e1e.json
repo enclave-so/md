@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x3b916B8f6A710e9240FF08c1dD646dD8E8ED9e1e",
+	"symbol": "Base DOG",
+	"name": "Base DOG",
+	"coingecko": "base-dog",
+	"sources": [
+		"coingecko"
+	]
+}

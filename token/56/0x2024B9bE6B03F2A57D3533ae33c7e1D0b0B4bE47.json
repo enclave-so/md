@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x2024B9bE6B03F2A57D3533ae33c7e1D0b0B4bE47",
+	"symbol": "Bitcointry Token",
+	"name": "Bitcointry Token",
+	"coingecko": "bitcointry-token",
+	"sources": [
+		"coingecko"
+	]
+}

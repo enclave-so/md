@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x524dF384BFFB18C0C8f3f43d012011F8F9795579",
+	"symbol": "YAY Network",
+	"name": "YAY Network",
+	"coingecko": "yay-games",
+	"sources": [
+		"coingecko"
+	]
+}

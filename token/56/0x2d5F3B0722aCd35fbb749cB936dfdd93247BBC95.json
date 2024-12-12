@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x2d5F3B0722aCd35fbb749cB936dfdd93247BBC95",
+	"symbol": "Baby BNB",
+	"name": "Baby BNB",
+	"coingecko": "baby-bnb",
+	"sources": [
+		"coingecko"
+	]
+}

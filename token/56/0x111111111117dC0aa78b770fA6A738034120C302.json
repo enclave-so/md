@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x111111111117dC0aa78b770fA6A738034120C302",
+	"symbol": "1inch",
+	"name": "1inch",
+	"coingecko": "1inch",
+	"sources": [
+		"coingecko"
+	]
+}

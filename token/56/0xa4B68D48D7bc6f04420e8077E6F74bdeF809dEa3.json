@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xa4B68D48D7bc6f04420e8077E6F74bdeF809dEa3",
+	"symbol": "BugsCoin",
+	"name": "BugsCoin",
+	"coingecko": "bugscoin",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x90500b067A9B24dcB4834a839C44EEc90b2CD9Ac",
+	"symbol": "FGDSwap",
+	"name": "FGDSwap",
+	"coingecko": "fgdswap",
+	"sources": [
+		"coingecko"
+	]
+}

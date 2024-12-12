@@ -1,0 +1,10 @@
+{
+	"chain": 59144,
+	"address": "0x9201f3b9DfAB7C13Cd659ac5695D12D605B5F1e6",
+	"symbol": "EchoDEX Community Portion",
+	"name": "EchoDEX Community Portion",
+	"coingecko": "echodex-community-portion",
+	"sources": [
+		"coingecko"
+	]
+}

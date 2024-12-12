@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x4954e0062E0A7668A2FE3df924cD20E6440a7b77",
+	"symbol": "ByteNext",
+	"name": "ByteNext",
+	"coingecko": "bytenext",
+	"sources": [
+		"coingecko"
+	]
+}

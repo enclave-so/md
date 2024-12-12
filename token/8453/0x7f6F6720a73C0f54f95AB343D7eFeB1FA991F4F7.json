@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x7f6F6720a73C0f54f95AB343D7eFeB1FA991F4F7",
+	"symbol": "DogWifHat",
+	"name": "DogWifHat",
+	"coingecko": "dogwifhat-base",
+	"sources": [
+		"coingecko"
+	]
+}

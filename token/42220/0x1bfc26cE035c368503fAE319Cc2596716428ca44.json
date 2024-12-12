@@ -1,0 +1,11 @@
+{
+	"chain": 42220,
+	"address": "0x1bfc26cE035c368503fAE319Cc2596716428ca44",
+	"symbol": "USDCv2-PoS",
+	"name": "Optics USDC v2 (PoS)",
+	"decimals": 6,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/celo/assets//logo.png",
+	"sources": [
+		"sushiswap"
+	]
+}

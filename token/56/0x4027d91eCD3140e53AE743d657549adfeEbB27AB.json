@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x4027d91eCD3140e53AE743d657549adfeEbB27AB",
+	"symbol": "Chain of Legends",
+	"name": "Chain of Legends",
+	"coingecko": "chain-of-legends",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x3D90DB6cC52E95679fb431E88B1830BA18E41889",
+	"symbol": "Rabi",
+	"name": "Rabi",
+	"coingecko": "rabi",
+	"sources": [
+		"coingecko"
+	]
+}

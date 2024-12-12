@@ -1,0 +1,13 @@
+{
+	"chain": 56,
+	"address": "0x0D8Ce2A99Bb6e3B7Db580eD848240e4a0F9aE153",
+	"symbol": "FIL",
+	"name": "Filecoin",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/fil.jpg",
+	"coingecko": "binance-peg-filecoin",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

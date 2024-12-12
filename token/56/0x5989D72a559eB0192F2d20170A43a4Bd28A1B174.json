@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x5989D72a559eB0192F2d20170A43a4Bd28A1B174",
+	"symbol": "NFTify",
+	"name": "NFTify",
+	"coingecko": "nftify",
+	"sources": [
+		"coingecko"
+	]
+}

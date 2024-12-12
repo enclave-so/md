@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0xD5D053D5B769383e860d1520Da7a908E00919F36",
+	"symbol": "Juice",
+	"name": "Juice",
+	"coingecko": "juice-2",
+	"sources": [
+		"coingecko"
+	]
+}

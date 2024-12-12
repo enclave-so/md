@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x623be4fde518A00AC49a870bd439cfD5c35E08Ed",
+	"symbol": "Exatech",
+	"name": "Exatech",
+	"coingecko": "exatech",
+	"sources": [
+		"coingecko"
+	]
+}

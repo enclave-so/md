@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x43f102bbd52259f2CFd0EF82e8807e3610aE3e40",
+	"symbol": "Save Baby Doge",
+	"name": "Save Baby Doge",
+	"coingecko": "save-baby-doge",
+	"sources": [
+		"coingecko"
+	]
+}

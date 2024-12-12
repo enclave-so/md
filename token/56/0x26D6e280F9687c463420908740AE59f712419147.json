@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x26D6e280F9687c463420908740AE59f712419147",
+	"symbol": "BakeryTools",
+	"name": "BakeryTools",
+	"coingecko": "bakerytools",
+	"sources": [
+		"coingecko"
+	]
+}

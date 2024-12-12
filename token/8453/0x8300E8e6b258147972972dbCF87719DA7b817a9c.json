@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x8300E8e6b258147972972dbCF87719DA7b817a9c",
+	"symbol": "Pat",
+	"name": "Pat",
+	"coingecko": "pat",
+	"sources": [
+		"coingecko"
+	]
+}

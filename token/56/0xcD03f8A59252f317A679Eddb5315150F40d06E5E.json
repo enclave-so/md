@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xcD03f8A59252f317A679Eddb5315150F40d06E5E",
+	"symbol": "Mooner",
+	"name": "Mooner",
+	"coingecko": "mooner",
+	"sources": [
+		"coingecko"
+	]
+}

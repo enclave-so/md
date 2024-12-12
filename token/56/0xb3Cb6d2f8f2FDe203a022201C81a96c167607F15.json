@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xb3Cb6d2f8f2FDe203a022201C81a96c167607F15",
+	"symbol": "Green Planet",
+	"name": "Green Planet",
+	"coingecko": "green-planet",
+	"sources": [
+		"coingecko"
+	]
+}

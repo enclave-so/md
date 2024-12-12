@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x1F39Dd2Bf5A27e2D4ED691DCF933077371777CB0",
+	"symbol": "SnowCrash",
+	"name": "SnowCrash",
+	"coingecko": "snowcrash-token",
+	"sources": [
+		"coingecko"
+	]
+}

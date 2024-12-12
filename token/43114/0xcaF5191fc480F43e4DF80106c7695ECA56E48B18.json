@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0xcaF5191fc480F43e4DF80106c7695ECA56E48B18",
+	"symbol": "Akita Inu",
+	"name": "Akita Inu",
+	"coingecko": "akita-inu",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x39d1FeC4d493054aB8B67222887ecbebF639ec18",
+	"symbol": "UNIFI",
+	"name": "UNIFI",
+	"coingecko": "unifi-2",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x193397BB76868c6873e733AD60D5953843EBc84e",
+	"symbol": "MEMETOON",
+	"name": "MEMETOON",
+	"coingecko": "memetoon",
+	"sources": [
+		"coingecko"
+	]
+}

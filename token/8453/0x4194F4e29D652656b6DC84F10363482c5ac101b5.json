@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x4194F4e29D652656b6DC84F10363482c5ac101b5",
+	"symbol": "MPAA",
+	"name": "MPAA",
+	"coingecko": "mpaa",
+	"sources": [
+		"coingecko"
+	]
+}

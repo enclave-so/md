@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xb8309421B0603fEbbc370A6B0C5c59d3aF202759",
+	"symbol": "SpacePenguin",
+	"name": "SpacePenguin",
+	"coingecko": "spacepenguin",
+	"sources": [
+		"coingecko"
+	]
+}

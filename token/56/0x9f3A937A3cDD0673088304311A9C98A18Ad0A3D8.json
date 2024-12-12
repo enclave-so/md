@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x9f3A937A3cDD0673088304311A9C98A18Ad0A3D8",
+	"symbol": "Panacoin",
+	"name": "Panacoin",
+	"coingecko": "panacoin",
+	"sources": [
+		"coingecko"
+	]
+}

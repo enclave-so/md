@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x25f11e22D5079c2970496d592579bF4902d09d76",
+	"symbol": "Jigen",
+	"name": "Jigen",
+	"coingecko": "jigen-2",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xe550a593d09FBC8DCD557b5C88Cea6946A8b404A",
+	"symbol": "τDoge",
+	"name": "τDoge",
+	"coingecko": "tdoge",
+	"sources": [
+		"coingecko"
+	]
+}

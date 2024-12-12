@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x6e8cE91124D57C37556672F8889cb89aF52a6746",
+	"symbol": "Cairo Bank",
+	"name": "Cairo Bank",
+	"coingecko": "cairo-finance-cairo-bank",
+	"sources": [
+		"coingecko"
+	]
+}

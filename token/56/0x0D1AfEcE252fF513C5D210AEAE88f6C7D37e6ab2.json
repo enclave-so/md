@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x0D1AfEcE252fF513C5D210AEAE88f6C7D37e6ab2",
+	"symbol": "EarthByt",
+	"name": "EarthByt",
+	"coingecko": "earthbyt",
+	"sources": [
+		"coingecko"
+	]
+}

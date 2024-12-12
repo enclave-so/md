@@ -1,0 +1,12 @@
+[
+	{
+		"chain": 800001,
+		"address": "0x760eE1038b54D5AdfeBbC9560Dd13F46a92D5b3a",
+		"symbol": "PAC Project",
+		"name": "PAC Project",
+		"coingecko": "pacman",
+		"sources": [
+			"coingecko"
+		]
+	}
+]

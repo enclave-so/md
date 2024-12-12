@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x0FA70E156Cd3B03aC4080bfe55BD8AB50f5Bcb98",
+	"symbol": "Youcoin",
+	"name": "Youcoin",
+	"coingecko": "youcoin-2",
+	"sources": [
+		"coingecko"
+	]
+}

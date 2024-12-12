@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xb0E87796380172f911214208df966a84CceAaf82",
+	"symbol": "DOM",
+	"name": "DOM",
+	"coingecko": "dom",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 8217,
+	"address": "0xB3F5867E277798b50ba7A71C0b24FDcA03045eDF",
+	"symbol": "DeFi Kingdoms Jade",
+	"name": "DeFi Kingdoms Jade",
+	"coingecko": "jade",
+	"sources": [
+		"coingecko"
+	]
+}

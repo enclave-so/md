@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x861f1E1397daD68289e8f6a09a2ebb567f1B895C",
+	"symbol": "Menzy",
+	"name": "Menzy",
+	"coingecko": "menzy",
+	"sources": [
+		"coingecko"
+	]
+}

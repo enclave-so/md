@@ -1,0 +1,13 @@
+{
+	"chain": 42220,
+	"address": "0xD8763CBa276a3738E6DE85b4b3bF5FDed6D6cA73",
+	"symbol": "cEUR",
+	"name": "Celo Euro",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/ceur.jpg",
+	"coingecko": "celo-euro",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

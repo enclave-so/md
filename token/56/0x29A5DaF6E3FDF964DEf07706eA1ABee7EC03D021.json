@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x29A5DaF6E3FDF964DEf07706eA1ABee7EC03D021",
+	"symbol": "Trillioner",
+	"name": "Trillioner",
+	"coingecko": "trillioner",
+	"sources": [
+		"coingecko"
+	]
+}

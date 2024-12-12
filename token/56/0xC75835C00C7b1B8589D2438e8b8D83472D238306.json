@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xC75835C00C7b1B8589D2438e8b8D83472D238306",
+	"symbol": "Rectangle Finance",
+	"name": "Rectangle Finance",
+	"coingecko": "rectangle-finance",
+	"sources": [
+		"coingecko"
+	]
+}

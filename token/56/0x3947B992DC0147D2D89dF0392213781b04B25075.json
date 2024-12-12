@@ -1,0 +1,11 @@
+{
+	"chain": 56,
+	"address": "0x3947B992DC0147D2D89dF0392213781b04B25075",
+	"symbol": "mAMZN",
+	"name": "Mirror AMZN Token",
+	"decimals": 18,
+	"logo": "https://bscscan.com/token/images/mirror-amzn_32.png",
+	"sources": [
+		"sushiswap"
+	]
+}

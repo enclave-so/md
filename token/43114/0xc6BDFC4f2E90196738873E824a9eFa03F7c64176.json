@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0xc6BDFC4f2E90196738873E824a9eFa03F7c64176",
+	"symbol": "ViciCoin",
+	"name": "ViciCoin",
+	"coingecko": "vicicoin",
+	"sources": [
+		"coingecko"
+	]
+}

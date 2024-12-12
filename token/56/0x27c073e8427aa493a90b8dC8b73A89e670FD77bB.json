@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x27c073e8427aa493a90b8dC8b73A89e670FD77bB",
+	"symbol": "Radpie",
+	"name": "Radpie",
+	"coingecko": "radpie",
+	"sources": [
+		"coingecko"
+	]
+}

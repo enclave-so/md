@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x961E149Db8bFBDb318c182152725ac806D7BE3f4",
+	"symbol": "Utility Web3Shot",
+	"name": "Utility Web3Shot",
+	"coingecko": "utility-web3shot",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x228a48df6819CCc2eCa01e2192ebAFfFdAD56c19",
+	"symbol": "VNX Swiss Franc",
+	"name": "VNX Swiss Franc",
+	"coingecko": "vnx-swiss-franc",
+	"sources": [
+		"coingecko"
+	]
+}

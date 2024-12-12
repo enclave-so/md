@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xE96A53AF382c669848A87d42DF3aF6E08c34Fa5E",
+	"symbol": "GucciPepe",
+	"name": "GucciPepe",
+	"coingecko": "guccipepe",
+	"sources": [
+		"coingecko"
+	]
+}

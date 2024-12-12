@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x7fFC1243232da3Ac001994208E2002816b57c669",
+	"symbol": "CryptoZoo",
+	"name": "CryptoZoo",
+	"coingecko": "cryptozoo",
+	"sources": [
+		"coingecko"
+	]
+}

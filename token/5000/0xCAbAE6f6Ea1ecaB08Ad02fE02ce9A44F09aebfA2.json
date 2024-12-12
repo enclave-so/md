@@ -1,0 +1,10 @@
+{
+	"chain": 5000,
+	"address": "0xCAbAE6f6Ea1ecaB08Ad02fE02ce9A44F09aebfA2",
+	"symbol": "Mantle Bridged WBTC (Mantle)",
+	"name": "Mantle Bridged WBTC (Mantle)",
+	"coingecko": "mantle-bridged-wbtc-mantle",
+	"sources": [
+		"coingecko"
+	]
+}

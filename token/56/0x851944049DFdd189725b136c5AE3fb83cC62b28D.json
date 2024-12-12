@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x851944049DFdd189725b136c5AE3fb83cC62b28D",
+	"symbol": "Hummingbird Finance",
+	"name": "Hummingbird Finance",
+	"coingecko": "hummingbird-finance-2",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x37Fe635D1e25B2F7276C1B9dBBcc7b087f80C050",
+	"symbol": "OciCat Token",
+	"name": "OciCat Token",
+	"coingecko": "ocicat-token",
+	"sources": [
+		"coingecko"
+	]
+}

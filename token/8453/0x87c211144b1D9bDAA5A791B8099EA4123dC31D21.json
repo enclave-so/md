@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x87c211144b1D9bDAA5A791B8099EA4123dC31D21",
+	"symbol": "BlockChainPeople",
+	"name": "BlockChainPeople",
+	"coingecko": "blockchainpeople",
+	"sources": [
+		"coingecko"
+	]
+}

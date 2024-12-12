@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xbfBEe3dAc982148aC793161f7362344925506903",
+	"symbol": "CatzCoin",
+	"name": "CatzCoin",
+	"coingecko": "catzcoin",
+	"sources": [
+		"coingecko"
+	]
+}

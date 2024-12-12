@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xF81733eAe028656fE2B85625d27051F5F6910936",
+	"symbol": "Satellite Doge-1",
+	"name": "Satellite Doge-1",
+	"coingecko": "satellite-doge-1",
+	"sources": [
+		"coingecko"
+	]
+}

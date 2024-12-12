@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x95Ca12cd249D27008a482009e101a8501cf3a64f",
+	"symbol": "MoveApp",
+	"name": "MoveApp",
+	"coingecko": "moveapp",
+	"sources": [
+		"coingecko"
+	]
+}

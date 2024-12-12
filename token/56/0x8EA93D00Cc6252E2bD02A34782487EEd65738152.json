@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x8EA93D00Cc6252E2bD02A34782487EEd65738152",
+	"symbol": "Spherium",
+	"name": "Spherium",
+	"coingecko": "spherium",
+	"sources": [
+		"coingecko"
+	]
+}

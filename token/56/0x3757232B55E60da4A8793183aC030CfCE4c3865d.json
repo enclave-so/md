@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x3757232B55E60da4A8793183aC030CfCE4c3865d",
+	"symbol": "YDragon",
+	"name": "YDragon",
+	"coingecko": "ydragon",
+	"sources": [
+		"coingecko"
+	]
+}

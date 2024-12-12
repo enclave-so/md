@@ -1,0 +1,10 @@
+{
+	"chain": 81457,
+	"address": "0xE070B87c4d88826D4cD1b85BAbE186fdB14CD321",
+	"symbol": "Cyberblast Token",
+	"name": "Cyberblast Token",
+	"coingecko": "cyberblast-token",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x769bfeb9fAacD6Eb2746979a8dD0b7e9920aC2A4",
+	"symbol": "zJOE",
+	"name": "zJOE",
+	"coingecko": "zjoe",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x1B5cE2a593a840E3ad3549a34D7b3dEc697c114D",
+	"symbol": "Altcoinist Token",
+	"name": "Altcoinist Token",
+	"coingecko": "altcoinist-token",
+	"sources": [
+		"coingecko"
+	]
+}

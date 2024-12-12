@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x4F8C689f2E17bA5ff0bAf4A7dd1C7493902DaC37",
+	"symbol": "SupreNFT",
+	"name": "SupreNFT",
+	"coingecko": "suprenft",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x262A9F4e84EFA2816d87a68606bb4C1EA3874BF1",
+	"symbol": "Bangkit",
+	"name": "Bangkit",
+	"coingecko": "bangkit",
+	"sources": [
+		"coingecko"
+	]
+}

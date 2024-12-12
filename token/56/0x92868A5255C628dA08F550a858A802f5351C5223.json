@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x92868A5255C628dA08F550a858A802f5351C5223",
+	"symbol": "Cross-Chain Bridge",
+	"name": "Cross-Chain Bridge",
+	"coingecko": "cross-chain-bridge",
+	"sources": [
+		"coingecko"
+	]
+}

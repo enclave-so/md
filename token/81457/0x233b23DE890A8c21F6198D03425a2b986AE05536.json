@@ -1,0 +1,10 @@
+{
+	"chain": 81457,
+	"address": "0x233b23DE890A8c21F6198D03425a2b986AE05536",
+	"symbol": "Core Markets",
+	"name": "Core Markets",
+	"coingecko": "core-markets",
+	"sources": [
+		"coingecko"
+	]
+}

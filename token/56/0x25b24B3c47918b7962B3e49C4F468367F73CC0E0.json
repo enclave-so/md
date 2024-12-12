@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x25b24B3c47918b7962B3e49C4F468367F73CC0E0",
+	"symbol": "AXL INU",
+	"name": "AXL INU",
+	"coingecko": "axl-inu",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xA4156cc61dc7796faA24278a0F9F229B15e298cb",
+	"symbol": "Bitcoin Bridged ZED20",
+	"name": "Bitcoin Bridged ZED20",
+	"coingecko": "bitcoin-bridged-zed20",
+	"sources": [
+		"coingecko"
+	]
+}

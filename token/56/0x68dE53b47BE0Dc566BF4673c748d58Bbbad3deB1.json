@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x68dE53b47BE0Dc566BF4673c748d58Bbbad3deB1",
+	"symbol": "DogeGrow",
+	"name": "DogeGrow",
+	"coingecko": "dogegrow",
+	"sources": [
+		"coingecko"
+	]
+}

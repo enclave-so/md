@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xC5326b32E8BaEF125AcD68f8bC646fD646104F1c",
+	"symbol": "Zap",
+	"name": "Zap",
+	"coingecko": "zap",
+	"sources": [
+		"coingecko"
+	]
+}

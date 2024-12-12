@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x09531eCe451453D68F8C6399120F67F19Fee4489",
+	"symbol": "Dastra Network",
+	"name": "Dastra Network",
+	"coingecko": "dastra-network",
+	"sources": [
+		"coingecko"
+	]
+}

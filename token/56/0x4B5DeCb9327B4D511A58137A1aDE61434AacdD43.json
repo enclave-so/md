@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x4B5DeCb9327B4D511A58137A1aDE61434AacdD43",
+	"symbol": "Poken",
+	"name": "Poken",
+	"coingecko": "poken",
+	"sources": [
+		"coingecko"
+	]
+}

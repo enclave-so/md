@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x01eDBFFa4F61404458E22ff45dEFfef1c62228b5",
+	"symbol": "0L Network",
+	"name": "0L Network",
+	"coingecko": "libra-3",
+	"sources": [
+		"coingecko"
+	]
+}

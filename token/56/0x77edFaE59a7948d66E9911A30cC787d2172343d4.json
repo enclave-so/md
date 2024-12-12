@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x77edFaE59a7948d66E9911A30cC787d2172343d4",
+	"symbol": "LABEL AI",
+	"name": "LABEL AI",
+	"coingecko": "label-foundation",
+	"sources": [
+		"coingecko"
+	]
+}

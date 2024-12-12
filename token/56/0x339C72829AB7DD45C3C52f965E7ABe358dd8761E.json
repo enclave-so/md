@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x339C72829AB7DD45C3C52f965E7ABe358dd8761E",
+	"symbol": "Wanaka Farm",
+	"name": "Wanaka Farm",
+	"coingecko": "wanaka-farm",
+	"sources": [
+		"coingecko"
+	]
+}

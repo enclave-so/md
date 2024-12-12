@@ -1,0 +1,10 @@
+{
+	"chain": 81457,
+	"address": "0xa027a3A04b44f79560153234E999b17C88e22DB9",
+	"symbol": "Particle Trade",
+	"name": "Particle Trade",
+	"coingecko": "particle-trade",
+	"sources": [
+		"coingecko"
+	]
+}

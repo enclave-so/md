@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xD0ed8f9C119BeB13b9fCe318A28827d0574c37D6",
+	"symbol": "CATERPILLAR",
+	"name": "CATERPILLAR",
+	"coingecko": "caterpillar",
+	"sources": [
+		"coingecko"
+	]
+}

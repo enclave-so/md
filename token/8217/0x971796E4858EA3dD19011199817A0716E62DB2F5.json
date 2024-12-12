@@ -1,0 +1,10 @@
+{
+	"chain": 8217,
+	"address": "0x971796E4858EA3dD19011199817A0716E62DB2F5",
+	"symbol": "MetaMAFIA",
+	"name": "MetaMAFIA",
+	"coingecko": "metamafia",
+	"sources": [
+		"coingecko"
+	]
+}

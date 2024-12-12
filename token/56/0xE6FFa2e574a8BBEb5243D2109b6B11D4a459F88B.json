@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xE6FFa2e574a8BBEb5243D2109b6B11D4a459F88B",
+	"symbol": "Hippo",
+	"name": "Hippo",
+	"coingecko": "hippo-token",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,312 @@
+[
+	{
+		"chain": 34443,
+		"address": "0x4186BFC76E2E237523CBC30FD220FE055156b41F",
+		"symbol": "KelpDAO Bridged rsETH (Mode)",
+		"name": "KelpDAO Bridged rsETH (Mode)",
+		"coingecko": "kelpdao-bridged-rseth-mode",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 34443,
+		"address": "0xd988097fb8612cc24eeC14542bC03424c656005f",
+		"symbol": "Mode Bridged USDC (Mode)",
+		"name": "Mode Bridged USDC (Mode)",
+		"coingecko": "mode-bridged-usdc-mode",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 34443,
+		"address": "0xf0F161fDA2712DB8b566946122a5af183995e2eD",
+		"symbol": "Mode Bridged USDT (Mode)",
+		"name": "Mode Bridged USDT (Mode)",
+		"coingecko": "mode-bridged-usdt-mode",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 34443,
+		"address": "0xe7903B1F75C534Dd8159b313d92cDCfbC62cB3Cd",
+		"symbol": "Wrapped rsETH",
+		"name": "Wrapped rsETH",
+		"coingecko": "wrapped-rseth",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 34443,
+		"address": "0x6B2a01A5f79dEb4c2f3c0eDa7b01DF456FbD726a",
+		"symbol": "Universal BTC",
+		"name": "Universal BTC",
+		"coingecko": "universal-btc",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 34443,
+		"address": "0xF15578bCDB3ccBA8585c563af9aAe200c1413bcA",
+		"symbol": "DackieSwap",
+		"name": "DackieSwap",
+		"coingecko": "dackieswap",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 34443,
+		"address": "0xA70266C8F8Cf33647dcFEE763961aFf418D9E1E4",
+		"symbol": "Ironclad USD",
+		"name": "Ironclad USD",
+		"coingecko": "ironclad-usd",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 34443,
+		"address": "0xcDd475325D6F564d27247D1DddBb0DAc6fA0a5CF",
+		"symbol": "Mode Bridged WBTC (Mode)",
+		"name": "Mode Bridged WBTC (Mode)",
+		"coingecko": "mode-bridged-wbtc-mode",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 34443,
+		"address": "0x80137510979822322193FC997d400D5A6C747bf7",
+		"symbol": "StakeStone ETH",
+		"name": "StakeStone ETH",
+		"coingecko": "stakestone-ether",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 34443,
+		"address": "0xDF474B7109b73b7D57926d43598D5934131136b2",
+		"symbol": "Ankr Network",
+		"name": "Ankr Network",
+		"coingecko": "ankr",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 34443,
+		"address": "0x66eEd5FF1701E6ed8470DC391F05e27B1d0657eb",
+		"symbol": "BMX",
+		"name": "BMX",
+		"coingecko": "bmx",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 34443,
+		"address": "0xFDF91D8289E30bBF9A34Fb3e0246fd98d1914C2f",
+		"symbol": "Dackie USD",
+		"name": "Dackie USD",
+		"coingecko": "dackie-usd",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 34443,
+		"address": "0xd678b48DC9b92626b5C406C3f07a153FB9f23687",
+		"symbol": "Davos Protocol Staked DUSD",
+		"name": "Davos Protocol Staked DUSD",
+		"coingecko": "davos-protocol-staked-dusd",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 34443,
+		"address": "0xdfd0660032c2D0D38a9092a43d1669D6568cAF71",
+		"symbol": "ALEX Lab",
+		"name": "ALEX Lab",
+		"coingecko": "alexgo",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 34443,
+		"address": "0x3120B4907851cc9D780eef9aF88ae4d5360175Fd",
+		"symbol": "Ionic Tether USD",
+		"name": "Ionic Tether USD",
+		"coingecko": "ionic-tether-usd",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 34443,
+		"address": "0xcDa802a5BFFaa02b842651266969A5Bba0c66D3e",
+		"symbol": "MoChadCoin",
+		"name": "MoChadCoin",
+		"coingecko": "mochadcoin",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 34443,
+		"address": "0x2416092f143378750bb29b79eD961ab195CcEea5",
+		"symbol": "Renzo Restaked ETH",
+		"name": "Renzo Restaked ETH",
+		"coingecko": "renzo-restaked-eth",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 34443,
+		"address": "0x819d1Daa794c1c46B841981b61cC978d95A17b8e",
+		"symbol": "Davos.xyz USD",
+		"name": "Davos.xyz USD",
+		"coingecko": "davos-protocol",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 34443,
+		"address": "0x12D8CE035c5DE3Ce39B1fDD4C1d5a745EAbA3b8C",
+		"symbol": "Ankr Staked ETH",
+		"name": "Ankr Staked ETH",
+		"coingecko": "ankreth",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 34443,
+		"address": "0x8b2EeA0999876AAB1E7955fe01A5D261b570452C",
+		"symbol": "BMX: Wrapped Mode Liquidity Token",
+		"name": "BMX: Wrapped Mode Liquidity Token",
+		"coingecko": "bmx-wrapped-mode-liquidity-token",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 34443,
+		"address": "0x77E7bcfeE826b12cD498Faa9831d7055b7478272",
+		"symbol": "Charged Particles",
+		"name": "Charged Particles",
+		"coingecko": "charged-particles",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 34443,
+		"address": "0x95177295A394f2b9B04545FFf58f4aF0673E839d",
+		"symbol": "Ironclad Token",
+		"name": "Ironclad Token",
+		"coingecko": "ironclad-token",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 34443,
+		"address": "0x59889b7021243dB5B1e065385F918316cD90D46c",
+		"symbol": "Merlin's Seal BTC",
+		"name": "Merlin's Seal BTC",
+		"coingecko": "merlin-s-seal-btc",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 34443,
+		"address": "0xDfc7C877a950e49D2610114102175A06C2e3167a",
+		"symbol": "Mode",
+		"name": "Mode",
+		"coingecko": "mode",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 34443,
+		"address": "0xFDa619b6d20975be80A10332cD39b9a4b0FAa8BB",
+		"symbol": "SwapMode",
+		"name": "SwapMode",
+		"coingecko": "swapmode",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 34443,
+		"address": "0x4200000000000000000000000000000000000006",
+		"symbol": "L2 Standard Bridged WETH (Mode)",
+		"name": "L2 Standard Bridged WETH (Mode)",
+		"coingecko": "l2-standard-bridged-weth-modee",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 34443,
+		"address": "0xd2ecb0CB0A65479D18b291C3c0F18130e7973C35",
+		"symbol": "Quack Token",
+		"name": "Quack Token",
+		"coingecko": "quack-token",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 34443,
+		"address": "0x5A7a183B6B44Dc4EC2E3d2eF43F98C5152b1d76d",
+		"symbol": "Inception Restaked ETH",
+		"name": "Inception Restaked ETH",
+		"coingecko": "genesislrt-restaked-eth",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 34443,
+		"address": "0x18470019bF0E94611f15852F7e93cf5D65BC34CA",
+		"symbol": "Ionic Protocol",
+		"name": "Ionic Protocol",
+		"coingecko": "ionic-protocol",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 34443,
+		"address": "0xc53edEafb6D502DAEC5A7015D67936CEa0cD0F52",
+		"symbol": "Ionic USD Coin",
+		"name": "Ionic USD Coin",
+		"coingecko": "ionic-usd-coin",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 34443,
+		"address": "0x6863fb62Ed27A9DdF458105B507C15b5d741d62e",
+		"symbol": "KIM Token",
+		"name": "KIM Token",
+		"coingecko": "kim-token",
+		"sources": [
+			"coingecko"
+		]
+	}
+]

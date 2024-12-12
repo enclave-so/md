@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xB97008CA4F8D72C81489d6728c0036c0C4187ce8",
+	"symbol": "BaseX Token",
+	"name": "BaseX Token",
+	"coingecko": "basex-token",
+	"sources": [
+		"coingecko"
+	]
+}

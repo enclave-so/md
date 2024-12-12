@@ -1,0 +1,10 @@
+{
+	"chain": 4689,
+	"address": "0xf87aed04889a1dd0159d9C22B0D57b345Ab16dDD",
+	"symbol": "ZoomSwap",
+	"name": "ZoomSwap",
+	"coingecko": "zoomswap",
+	"sources": [
+		"coingecko"
+	]
+}

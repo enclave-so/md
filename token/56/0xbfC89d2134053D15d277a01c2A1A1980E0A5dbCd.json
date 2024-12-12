@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xbfC89d2134053D15d277a01c2A1A1980E0A5dbCd",
+	"symbol": "Baby Tomcat",
+	"name": "Baby Tomcat",
+	"coingecko": "baby-tomcat",
+	"sources": [
+		"coingecko"
+	]
+}

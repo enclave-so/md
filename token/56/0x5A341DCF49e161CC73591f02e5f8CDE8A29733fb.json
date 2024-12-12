@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x5A341DCF49e161CC73591f02e5f8CDE8A29733fb",
+	"symbol": "Reflecto",
+	"name": "Reflecto",
+	"coingecko": "reflecto",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xAf41054C1487b0e5E2B9250C0332eCBCe6CE9d71",
+	"symbol": "Ellipsis X",
+	"name": "Ellipsis X",
+	"coingecko": "ellipsis-x",
+	"sources": [
+		"coingecko"
+	]
+}

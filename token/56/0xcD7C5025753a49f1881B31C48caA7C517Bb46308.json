@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xcD7C5025753a49f1881B31C48caA7C517Bb46308",
+	"symbol": "Raven Protocol",
+	"name": "Raven Protocol",
+	"coingecko": "raven-protocol",
+	"sources": [
+		"coingecko"
+	]
+}

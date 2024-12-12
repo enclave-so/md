@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x833F307aC507D47309fD8CDD1F835BeF8D702a93",
+	"symbol": "REVV",
+	"name": "REVV",
+	"coingecko": "revv",
+	"sources": [
+		"coingecko"
+	]
+}

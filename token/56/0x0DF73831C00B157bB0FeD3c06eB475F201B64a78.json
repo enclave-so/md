@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x0DF73831C00B157bB0FeD3c06eB475F201B64a78",
+	"symbol": "B2SHARE",
+	"name": "B2SHARE",
+	"coingecko": "b2share",
+	"sources": [
+		"coingecko"
+	]
+}

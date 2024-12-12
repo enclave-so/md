@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xd9a44c40584288505931880c9915C6a5eB5f2fB1",
+	"symbol": "TypeIt",
+	"name": "TypeIt",
+	"coingecko": "typeit",
+	"sources": [
+		"coingecko"
+	]
+}

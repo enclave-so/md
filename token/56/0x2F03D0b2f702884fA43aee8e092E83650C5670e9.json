@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x2F03D0b2f702884fA43aee8e092E83650C5670e9",
+	"symbol": "The Great Void Token",
+	"name": "The Great Void Token",
+	"coingecko": "the-great-void-token",
+	"sources": [
+		"coingecko"
+	]
+}

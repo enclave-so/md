@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xbAc48ABFD032a30caBBA33E393616576462976af",
+	"symbol": "ElephantPepe",
+	"name": "ElephantPepe",
+	"coingecko": "elephantpepe",
+	"sources": [
+		"coingecko"
+	]
+}

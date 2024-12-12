@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xf486ad071f3bEE968384D2E39e2D8aF0fCf6fd46",
+	"symbol": "Velo",
+	"name": "Velo",
+	"coingecko": "velo",
+	"sources": [
+		"coingecko"
+	]
+}

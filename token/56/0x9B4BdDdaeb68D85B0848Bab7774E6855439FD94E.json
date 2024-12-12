@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x9B4BdDdaeb68D85B0848Bab7774E6855439FD94E",
+	"symbol": "Tiger King Coin",
+	"name": "Tiger King Coin",
+	"coingecko": "tiger-king",
+	"sources": [
+		"coingecko"
+	]
+}

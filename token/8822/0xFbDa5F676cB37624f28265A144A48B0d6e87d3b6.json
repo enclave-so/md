@@ -1,0 +1,10 @@
+{
+	"chain": 8822,
+	"address": "0xFbDa5F676cB37624f28265A144A48B0d6e87d3b6",
+	"symbol": "Stargate Bridged USDC (Iota EVM)",
+	"name": "Stargate Bridged USDC (Iota EVM)",
+	"coingecko": "stargate-bridged-usdc-iota",
+	"sources": [
+		"coingecko"
+	]
+}

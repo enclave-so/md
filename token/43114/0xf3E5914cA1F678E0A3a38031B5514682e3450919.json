@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0xf3E5914cA1F678E0A3a38031B5514682e3450919",
+	"symbol": "Ink Finance",
+	"name": "Ink Finance",
+	"coingecko": "ink-finance",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xcA1c644704feBf4ab81f85daca488d1623C28e63",
+	"symbol": "Cadabra Finance",
+	"name": "Cadabra Finance",
+	"coingecko": "cadabra-finance",
+	"sources": [
+		"coingecko"
+	]
+}

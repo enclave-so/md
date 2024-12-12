@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x6cf271270662be1C4fc1b7BB7D7D7Fc60Cc19125",
+	"symbol": "Kunci Coin",
+	"name": "Kunci Coin",
+	"coingecko": "kunci-coin",
+	"sources": [
+		"coingecko"
+	]
+}

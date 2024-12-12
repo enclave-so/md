@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x5F113F7ef20Ff111FD130e83D8e97Fd1E0E2518F",
+	"symbol": "AiMalls",
+	"name": "AiMalls",
+	"coingecko": "aimalls",
+	"sources": [
+		"coingecko"
+	]
+}

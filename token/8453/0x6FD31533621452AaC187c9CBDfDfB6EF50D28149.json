@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x6FD31533621452AaC187c9CBDfDfB6EF50D28149",
+	"symbol": "ESAB",
+	"name": "ESAB",
+	"coingecko": "esab",
+	"sources": [
+		"coingecko"
+	]
+}

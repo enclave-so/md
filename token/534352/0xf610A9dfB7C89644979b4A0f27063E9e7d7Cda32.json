@@ -1,0 +1,10 @@
+{
+	"chain": 534352,
+	"address": "0xf610A9dfB7C89644979b4A0f27063E9e7d7Cda32",
+	"symbol": "Bridged Wrapped Lido Staked Ether (Scroll)",
+	"name": "Bridged Wrapped Lido Staked Ether (Scroll)",
+	"coingecko": "bridged-wrapped-lido-staked-ether-scroll",
+	"sources": [
+		"coingecko"
+	]
+}

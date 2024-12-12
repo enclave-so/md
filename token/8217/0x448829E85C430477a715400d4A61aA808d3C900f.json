@@ -1,0 +1,10 @@
+{
+	"chain": 8217,
+	"address": "0x448829E85C430477a715400d4A61aA808d3C900f",
+	"symbol": "Mobist",
+	"name": "Mobist",
+	"coingecko": "mobist",
+	"sources": [
+		"coingecko"
+	]
+}

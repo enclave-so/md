@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x873801Ae2ff12d816Db9a7B082F5796BEC64C82C",
+	"symbol": "Waterfall Governance",
+	"name": "Waterfall Governance",
+	"coingecko": "waterfall-governance-token",
+	"sources": [
+		"coingecko"
+	]
+}

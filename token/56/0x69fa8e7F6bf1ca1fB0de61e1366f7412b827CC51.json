@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x69fa8e7F6bf1ca1fB0de61e1366f7412b827CC51",
+	"symbol": "Enreach",
+	"name": "Enreach",
+	"coingecko": "enreachdao",
+	"sources": [
+		"coingecko"
+	]
+}

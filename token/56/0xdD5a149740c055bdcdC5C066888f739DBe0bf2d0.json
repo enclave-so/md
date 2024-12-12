@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xdD5a149740c055bdcdC5C066888f739DBe0bf2d0",
+	"symbol": "MoneySwap",
+	"name": "MoneySwap",
+	"coingecko": "moneyswap",
+	"sources": [
+		"coingecko"
+	]
+}

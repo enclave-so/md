@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x55493E35e33Fcf811571707Ac5Bf1DbcB658bAfc",
+	"symbol": "FAT CAT",
+	"name": "FAT CAT",
+	"coingecko": "fat-cat",
+	"sources": [
+		"coingecko"
+	]
+}

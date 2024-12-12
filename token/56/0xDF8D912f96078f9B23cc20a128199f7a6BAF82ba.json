@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xDF8D912f96078f9B23cc20a128199f7a6BAF82ba",
+	"symbol": "BHA",
+	"name": "BHA",
+	"coingecko": "bha",
+	"sources": [
+		"coingecko"
+	]
+}

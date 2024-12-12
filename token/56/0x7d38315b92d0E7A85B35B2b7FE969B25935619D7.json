@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x7d38315b92d0E7A85B35B2b7FE969B25935619D7",
+	"symbol": "Ecoin Finance",
+	"name": "Ecoin Finance",
+	"coingecko": "ecoin-finance",
+	"sources": [
+		"coingecko"
+	]
+}

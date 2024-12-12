@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x734D66f635523D7ddb7d2373C128333DA313041b",
+	"symbol": "Zedxion USDZ",
+	"name": "Zedxion USDZ",
+	"coingecko": "zedxion-usdz",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x9DE16c805A3227b9b92e39a446F9d56cf59fe640",
+	"symbol": "Bento",
+	"name": "Bento",
+	"coingecko": "bento",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xe8aAe6251c6Cf39927b0ff31399030C60BEC798f",
+	"symbol": "SUMI",
+	"name": "SUMI",
+	"coingecko": "sumi",
+	"sources": [
+		"coingecko"
+	]
+}

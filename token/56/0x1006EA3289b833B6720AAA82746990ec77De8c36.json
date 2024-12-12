@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x1006EA3289b833B6720AAA82746990ec77De8c36",
+	"symbol": "Digital Bank of Africa",
+	"name": "Digital Bank of Africa",
+	"coingecko": "digital-bank-of-africa",
+	"sources": [
+		"coingecko"
+	]
+}

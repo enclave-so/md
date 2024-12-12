@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xF9d6DDF44016953dBf7aB135A0F64d7A41870EDE",
+	"symbol": "Doge Floki Coin [OLD]",
+	"name": "Doge Floki Coin [OLD]",
+	"coingecko": "doge-floki-coin",
+	"sources": [
+		"coingecko"
+	]
+}

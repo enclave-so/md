@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xC4a1E7106d08B7FF947254B6D75cf2b877d55daF",
+	"symbol": "Laqira Protocol",
+	"name": "Laqira Protocol",
+	"coingecko": "laqira-protocol",
+	"sources": [
+		"coingecko"
+	]
+}

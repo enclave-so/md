@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xb51d09B75193C35C1eb72D5714453a04051a80bC",
+	"symbol": "WebMind Network",
+	"name": "WebMind Network",
+	"coingecko": "webmind-network",
+	"sources": [
+		"coingecko"
+	]
+}

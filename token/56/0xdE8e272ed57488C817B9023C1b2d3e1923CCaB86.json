@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xdE8e272ed57488C817B9023C1b2d3e1923CCaB86",
+	"symbol": "StakeLayer",
+	"name": "StakeLayer",
+	"coingecko": "stakelayer",
+	"sources": [
+		"coingecko"
+	]
+}

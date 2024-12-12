@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x7268B479eb7CE8D1B37Ef1FFc3b82d7383A1162d",
+	"symbol": "Meblox Protocol",
+	"name": "Meblox Protocol",
+	"coingecko": "meblox-protocol",
+	"sources": [
+		"coingecko"
+	]
+}

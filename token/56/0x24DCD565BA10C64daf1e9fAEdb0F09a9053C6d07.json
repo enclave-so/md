@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x24DCD565BA10C64daf1e9fAEdb0F09a9053C6d07",
+	"symbol": "BLU",
+	"name": "BLU",
+	"coingecko": "blu",
+	"sources": [
+		"coingecko"
+	]
+}

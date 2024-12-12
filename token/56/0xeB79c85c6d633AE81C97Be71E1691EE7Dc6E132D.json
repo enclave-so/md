@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xeB79c85c6d633AE81C97Be71E1691EE7Dc6E132D",
+	"symbol": "Pixer Eternity",
+	"name": "Pixer Eternity",
+	"coingecko": "pixer-eternity",
+	"sources": [
+		"coingecko"
+	]
+}

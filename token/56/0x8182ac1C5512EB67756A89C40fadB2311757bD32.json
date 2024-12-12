@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x8182ac1C5512EB67756A89C40fadB2311757bD32",
+	"symbol": "Nether",
+	"name": "Nether",
+	"coingecko": "nether",
+	"sources": [
+		"coingecko"
+	]
+}

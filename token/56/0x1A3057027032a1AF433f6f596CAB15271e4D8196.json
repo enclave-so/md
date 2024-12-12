@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x1A3057027032a1AF433f6f596CAB15271e4D8196",
+	"symbol": "Yellow Road",
+	"name": "Yellow Road",
+	"coingecko": "yellow-road",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xa3f020a5C92e15be13CAF0Ee5C95cF79585EeCC9",
+	"symbol": "aelf",
+	"name": "aelf",
+	"coingecko": "aelf",
+	"sources": [
+		"coingecko"
+	]
+}

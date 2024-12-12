@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x22897Cf0DA31e1F118649D9f6aD1809CABd84948",
+	"symbol": "Baby Coq Inu",
+	"name": "Baby Coq Inu",
+	"coingecko": "baby-coq-inu",
+	"sources": [
+		"coingecko"
+	]
+}

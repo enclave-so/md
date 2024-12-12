@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x69bFa36D50d92e8985d27E6AA6e685C0325ce7B4",
+	"symbol": "Cryptorg",
+	"name": "Cryptorg",
+	"coingecko": "cryptorg-token",
+	"sources": [
+		"coingecko"
+	]
+}

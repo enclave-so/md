@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x85c128eE1feEb39A59490c720A9C563554B51D33",
+	"symbol": "MoMo Key",
+	"name": "MoMo Key",
+	"coingecko": "momo-key",
+	"sources": [
+		"coingecko"
+	]
+}

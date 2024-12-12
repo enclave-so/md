@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x2fF90B0c29ededDAF11c847925ea4a17789e88c3",
+	"symbol": "Ginoa",
+	"name": "Ginoa",
+	"coingecko": "ginoa",
+	"sources": [
+		"coingecko"
+	]
+}

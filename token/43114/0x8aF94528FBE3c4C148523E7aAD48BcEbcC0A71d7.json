@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x8aF94528FBE3c4C148523E7aAD48BcEbcC0A71d7",
+	"symbol": "Antfarm Token",
+	"name": "Antfarm Token",
+	"coingecko": "antfarm-token",
+	"sources": [
+		"coingecko"
+	]
+}

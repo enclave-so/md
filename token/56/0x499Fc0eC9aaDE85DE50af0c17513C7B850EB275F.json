@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x499Fc0eC9aaDE85DE50af0c17513C7B850EB275F",
+	"symbol": "AICrew",
+	"name": "AICrew",
+	"coingecko": "aicrew",
+	"sources": [
+		"coingecko"
+	]
+}

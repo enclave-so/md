@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x614747C53CB1636b4b962E15e1D66D3214621100",
+	"symbol": "CookieBase",
+	"name": "CookieBase",
+	"coingecko": "cookiebase",
+	"sources": [
+		"coingecko"
+	]
+}

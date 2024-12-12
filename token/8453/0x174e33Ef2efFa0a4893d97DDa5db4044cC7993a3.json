@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x174e33Ef2efFa0a4893d97DDa5db4044cC7993a3",
+	"symbol": "Keren",
+	"name": "Keren",
+	"coingecko": "keren",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0xe896CDeaAC9615145c0cA09C8Cd5C25bced6384c",
+	"symbol": "Penguin Finance",
+	"name": "Penguin Finance",
+	"coingecko": "penguin-finance",
+	"sources": [
+		"coingecko"
+	]
+}

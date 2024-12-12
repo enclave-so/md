@@ -1,0 +1,10 @@
+{
+	"chain": 7171,
+	"address": "0xE8a4F717Ac5b08BcCc7240D649af653b2577b36a",
+	"symbol": "APE",
+	"name": "APE",
+	"coingecko": "ape-2",
+	"sources": [
+		"coingecko"
+	]
+}

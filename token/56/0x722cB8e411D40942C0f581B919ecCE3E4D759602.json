@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x722cB8e411D40942C0f581B919ecCE3E4D759602",
+	"symbol": "Osean",
+	"name": "Osean",
+	"coingecko": "osean",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x31DE61D9a39CB9f479570Bd3dC3AC93BC0402CDB",
+	"symbol": "NFTPunk.Finance",
+	"name": "NFTPunk.Finance",
+	"coingecko": "nftpunk-finance",
+	"sources": [
+		"coingecko"
+	]
+}

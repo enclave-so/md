@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xE31876C6A62A813f57b815d8d2d0F5c8Aa06f49B",
+	"symbol": "Yoyo",
+	"name": "Yoyo",
+	"coingecko": "yoyo",
+	"sources": [
+		"coingecko"
+	]
+}

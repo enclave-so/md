@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x9573c88aE3e37508f87649f87c4dd5373C9F31e0",
+	"symbol": "Monsta Infinite",
+	"name": "Monsta Infinite",
+	"coingecko": "monsta-infinite",
+	"sources": [
+		"coingecko"
+	]
+}

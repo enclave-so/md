@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x52242cbAb41e290E9E17CCC50Cc437bB60020a9d",
+	"symbol": "Wrapped NCG",
+	"name": "Wrapped NCG",
+	"coingecko": "wrapped-ncg",
+	"sources": [
+		"coingecko"
+	]
+}

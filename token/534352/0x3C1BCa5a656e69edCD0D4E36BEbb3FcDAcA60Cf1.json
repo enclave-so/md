@@ -1,0 +1,13 @@
+{
+	"chain": 534352,
+	"address": "0x3C1BCa5a656e69edCD0D4E36BEbb3FcDAcA60Cf1",
+	"symbol": "WBTC",
+	"name": "Wrapped BTC",
+	"decimals": 8,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/scroll/0x3C1BCa5a656e69edCD0D4E36BEbb3FcDAcA60Cf1.jpg",
+	"coingecko": "bridged-wrapped-bitcoin-scroll",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xcBBB3e5099F769F6d4E2b8b92DC0e268f7E099D8",
+	"symbol": "BitcoinZ",
+	"name": "BitcoinZ",
+	"coingecko": "bitcoinz",
+	"sources": [
+		"coingecko"
+	]
+}

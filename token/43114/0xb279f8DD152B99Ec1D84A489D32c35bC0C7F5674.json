@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0xb279f8DD152B99Ec1D84A489D32c35bC0C7F5674",
+	"symbol": "SteakHut Finance",
+	"name": "SteakHut Finance",
+	"coingecko": "steakhut-finance",
+	"sources": [
+		"coingecko"
+	]
+}

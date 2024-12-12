@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xC3CAC4AE38cCf6985EF9039ACC1abBc874DdcBB0",
+	"symbol": "Stargaze",
+	"name": "Stargaze",
+	"coingecko": "stargaze",
+	"sources": [
+		"coingecko"
+	]
+}

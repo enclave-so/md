@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x56672ecb506301b1E32ED28552797037c54D36A9",
+	"symbol": "Bismuth",
+	"name": "Bismuth",
+	"coingecko": "bismuth",
+	"sources": [
+		"coingecko"
+	]
+}

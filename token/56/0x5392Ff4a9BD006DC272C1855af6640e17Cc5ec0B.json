@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x5392Ff4a9BD006DC272C1855af6640e17Cc5ec0B",
+	"symbol": "SafeLaunch",
+	"name": "SafeLaunch",
+	"coingecko": "safelaunch",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x78b3C724A2F663D11373C4a1978689271895256f",
+	"symbol": "Token Name Service",
+	"name": "Token Name Service",
+	"coingecko": "token-name-service",
+	"sources": [
+		"coingecko"
+	]
+}

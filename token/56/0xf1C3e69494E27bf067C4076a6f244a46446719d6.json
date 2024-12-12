@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xf1C3e69494E27bf067C4076a6f244a46446719d6",
+	"symbol": "Gains",
+	"name": "Gains",
+	"coingecko": "gains",
+	"sources": [
+		"coingecko"
+	]
+}

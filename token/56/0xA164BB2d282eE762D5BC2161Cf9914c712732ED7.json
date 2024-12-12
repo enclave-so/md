@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xA164BB2d282eE762D5BC2161Cf9914c712732ED7",
+	"symbol": "Goatly.farm",
+	"name": "Goatly.farm",
+	"coingecko": "goatly-farm",
+	"sources": [
+		"coingecko"
+	]
+}

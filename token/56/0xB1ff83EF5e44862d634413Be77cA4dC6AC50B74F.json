@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xB1ff83EF5e44862d634413Be77cA4dC6AC50B74F",
+	"symbol": "CryptoUnity",
+	"name": "CryptoUnity",
+	"coingecko": "cryptounity",
+	"sources": [
+		"coingecko"
+	]
+}

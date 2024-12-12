@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x60359A0DD148B18d5cF1Ddf8Aa1916221ED0cbCd",
+	"symbol": "NetherFi",
+	"name": "NetherFi",
+	"coingecko": "netherfi",
+	"sources": [
+		"coingecko"
+	]
+}

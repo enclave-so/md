@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x5c5e384Bd4e36724B2562cCAA582aFd125277C9B",
+	"symbol": "Arrow Token",
+	"name": "Arrow Token",
+	"coingecko": "arrow-token",
+	"sources": [
+		"coingecko"
+	]
+}

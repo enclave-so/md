@@ -1,0 +1,10 @@
+{
+	"chain": 6942,
+	"address": "0x47600d6c8cf25E7D21aF4A2C799C52fC2345b011",
+	"symbol": "Laika Bridged USDC (Laika)",
+	"name": "Laika Bridged USDC (Laika)",
+	"coingecko": "laika-bridged-usdc-laika",
+	"sources": [
+		"coingecko"
+	]
+}

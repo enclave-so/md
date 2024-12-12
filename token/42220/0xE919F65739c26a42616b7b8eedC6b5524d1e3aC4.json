@@ -1,0 +1,11 @@
+{
+	"chain": 42220,
+	"address": "0xE919F65739c26a42616b7b8eedC6b5524d1e3aC4",
+	"symbol": "WETHv1",
+	"name": "Optics WETH v1",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/eth.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 8217,
+	"address": "0xc8A5c66d63408406C12f1A94608d28A5319F2399",
+	"symbol": "Crypto Lemon",
+	"name": "Crypto Lemon",
+	"coingecko": "lemon-token",
+	"sources": [
+		"coingecko"
+	]
+}

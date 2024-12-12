@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x7C101A0e141517009D3138743213e3e835a809DE",
+	"symbol": "COSMIC on Base",
+	"name": "COSMIC on Base",
+	"coingecko": "cosmic-on-base",
+	"sources": [
+		"coingecko"
+	]
+}

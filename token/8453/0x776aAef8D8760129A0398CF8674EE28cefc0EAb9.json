@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x776aAef8D8760129A0398CF8674EE28cefc0EAb9",
+	"symbol": "Floppa Cat",
+	"name": "Floppa Cat",
+	"coingecko": "floppa-cat",
+	"sources": [
+		"coingecko"
+	]
+}

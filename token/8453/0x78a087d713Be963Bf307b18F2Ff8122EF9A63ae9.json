@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x78a087d713Be963Bf307b18F2Ff8122EF9A63ae9",
+	"symbol": "BaseSwap",
+	"name": "BaseSwap",
+	"coingecko": "baseswap",
+	"sources": [
+		"coingecko"
+	]
+}

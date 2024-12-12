@@ -1,0 +1,13 @@
+{
+	"chain": 56,
+	"address": "0x5Ac52EE5b2a633895292Ff6d8A89bB9190451587",
+	"symbol": "BSCX",
+	"name": "BSCEX",
+	"decimals": 18,
+	"logo": "https://bscscan.com/token/images/bscex_32.png",
+	"coingecko": "bscex",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

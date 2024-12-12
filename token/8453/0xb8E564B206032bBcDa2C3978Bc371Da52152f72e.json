@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xb8E564B206032bBcDa2C3978Bc371Da52152f72e",
+	"symbol": "Base Terminal",
+	"name": "Base Terminal",
+	"coingecko": "base-terminal",
+	"sources": [
+		"coingecko"
+	]
+}

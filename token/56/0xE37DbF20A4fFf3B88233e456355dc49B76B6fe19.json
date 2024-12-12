@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xE37DbF20A4fFf3B88233e456355dc49B76B6fe19",
+	"symbol": "Love Earn Enjoy",
+	"name": "Love Earn Enjoy",
+	"coingecko": "love-earn-enjoy",
+	"sources": [
+		"coingecko"
+	]
+}

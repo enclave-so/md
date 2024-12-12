@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x1234d66B6FBb900296AE2F57740b800fd8960927",
+	"symbol": "DegenPad",
+	"name": "DegenPad",
+	"coingecko": "degenpad",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x845705db1623b8363a6D9813F33b73eC50ceA0A2",
+	"symbol": "Jonny Five",
+	"name": "Jonny Five",
+	"coingecko": "jonny-five",
+	"sources": [
+		"coingecko"
+	]
+}

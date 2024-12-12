@@ -1,0 +1,13 @@
+{
+	"chain": 81457,
+	"address": "0x34050224F9eA1859790b7CBBBe2264f1204771A6",
+	"symbol": "BINU",
+	"name": "Blast Inu",
+	"decimals": 9,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/blast/0x34050224F9eA1859790b7CBBBe2264f1204771A6.jpg",
+	"coingecko": "blast-inu-2",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

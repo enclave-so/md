@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xc5396321805C7F1bCe608CDA194aa9155FB20F7D",
+	"symbol": "Mooncats on Base",
+	"name": "Mooncats on Base",
+	"coingecko": "mooncats-on-base",
+	"sources": [
+		"coingecko"
+	]
+}

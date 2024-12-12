@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x37f44b98316ad2815357113aebe0459029543e1e",
+	"symbol": "AvaDex Token",
+	"name": "AvaDex Token",
+	"coingecko": "avadex-token",
+	"sources": [
+		"coingecko"
+	]
+}

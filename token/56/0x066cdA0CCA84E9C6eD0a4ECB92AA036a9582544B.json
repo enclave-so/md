@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x066cdA0CCA84E9C6eD0a4ECB92AA036a9582544B",
+	"symbol": "Sonic Inu",
+	"name": "Sonic Inu",
+	"coingecko": "sonic-inu",
+	"sources": [
+		"coingecko"
+	]
+}

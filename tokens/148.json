@@ -1,0 +1,72 @@
+[
+	{
+		"chain": 148,
+		"address": "0xf21Bc150F4D08Dce61bd16cDbfcB3D212b575b26",
+		"symbol": "Magic LUM",
+		"name": "Magic LUM",
+		"coingecko": "magic-lum",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 148,
+		"address": "0xbD17705cA627EFBB55dE22A0F966Af79E9191c89",
+		"symbol": "Rusty Robot Country Club",
+		"name": "Rusty Robot Country Club",
+		"coingecko": "rusty-robot-country-club",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 148,
+		"address": "0x1074010000000000000000000000000000000000",
+		"symbol": "Shimmer",
+		"name": "Shimmer",
+		"coingecko": "shimmer",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 148,
+		"address": "0xa4f8C7C1018b9dD3be5835bF00f335D9910aF6Bd",
+		"symbol": "ShimmerBridge Bridged USDT (ShimmerEVM)",
+		"name": "ShimmerBridge Bridged USDT (ShimmerEVM)",
+		"coingecko": "shimmerbridge-bridged-usdt-shimmerevm",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 148,
+		"address": "0x4794Aeafa5Efe2fC1F6f5eb745798aaF39A81D3e",
+		"symbol": "ShimmerSea Lum",
+		"name": "ShimmerSea Lum",
+		"coingecko": "shimmersea-lum",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 148,
+		"address": "0xE5f3dCC241Dd008E3c308e57cf4F7880eA9210F8",
+		"symbol": "TangleSwap VOID",
+		"name": "TangleSwap VOID",
+		"coingecko": "tangleswap-void",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 148,
+		"address": "0x5c09Ef80efb7Aefd0a25289715e0a164c98Ac713",
+		"symbol": "ZeroSwapNFT",
+		"name": "ZeroSwapNFT",
+		"coingecko": "zeroswapnft",
+		"sources": [
+			"coingecko"
+		]
+	}
+]

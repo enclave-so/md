@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xA6f774051dFb6b54869227fDA2DF9cb46f296c09",
+	"symbol": "SKI MASK CAT",
+	"name": "SKI MASK CAT",
+	"coingecko": "ski-mask-cat",
+	"sources": [
+		"coingecko"
+	]
+}

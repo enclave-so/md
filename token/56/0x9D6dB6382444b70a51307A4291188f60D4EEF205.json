@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x9D6dB6382444b70a51307A4291188f60D4EEF205",
+	"symbol": "Baby Pepe",
+	"name": "Baby Pepe",
+	"coingecko": "baby-pepe-2",
+	"sources": [
+		"coingecko"
+	]
+}

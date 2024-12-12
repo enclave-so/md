@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xf29bf05DE3dD6a5f7496841f81f96a3a130c3420",
+	"symbol": "Gomdori",
+	"name": "Gomdori",
+	"coingecko": "gomdori",
+	"sources": [
+		"coingecko"
+	]
+}

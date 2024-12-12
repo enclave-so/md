@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x062ca2d2F1aF8C203FA3Ad5298FD6fAa4E44E897",
+	"symbol": "OrangeDX",
+	"name": "OrangeDX",
+	"coingecko": "orangedx",
+	"sources": [
+		"coingecko"
+	]
+}

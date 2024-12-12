@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x822b906E74D493D07223CF6858620ccDa66b2154",
+	"symbol": "rLoop",
+	"name": "rLoop",
+	"coingecko": "rloop",
+	"sources": [
+		"coingecko"
+	]
+}

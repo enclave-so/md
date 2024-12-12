@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xB370029419A17750F110703510E95BD18817fDF4",
+	"symbol": "King WIF",
+	"name": "King WIF",
+	"coingecko": "king-wif",
+	"sources": [
+		"coingecko"
+	]
+}

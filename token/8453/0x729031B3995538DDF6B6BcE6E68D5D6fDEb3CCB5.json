@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x729031B3995538DDF6B6BcE6E68D5D6fDEb3CCB5",
+	"symbol": "Riky The Raccoon",
+	"name": "Riky The Raccoon",
+	"coingecko": "riky-the-raccoon",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x9158dF7da69b048a296636D5DE7a3d9A7FB25E88",
+	"symbol": "Kalijo",
+	"name": "Kalijo",
+	"coingecko": "kalijo",
+	"sources": [
+		"coingecko"
+	]
+}

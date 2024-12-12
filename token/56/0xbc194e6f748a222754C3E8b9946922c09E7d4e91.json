@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xbc194e6f748a222754C3E8b9946922c09E7d4e91",
+	"symbol": "Lever Network",
+	"name": "Lever Network",
+	"coingecko": "lever-network",
+	"sources": [
+		"coingecko"
+	]
+}

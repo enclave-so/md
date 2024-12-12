@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x5F84ce30DC3cF7909101C69086c50De191895883",
+	"symbol": "Venus Reward",
+	"name": "Venus Reward",
+	"coingecko": "venus-reward-token",
+	"sources": [
+		"coingecko"
+	]
+}

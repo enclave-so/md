@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xB583961E033Dfe0FfF161952f7BA21c411b6103d",
+	"symbol": "Youwho",
+	"name": "Youwho",
+	"coingecko": "youwho",
+	"sources": [
+		"coingecko"
+	]
+}

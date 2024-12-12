@@ -1,0 +1,142 @@
+[
+	{
+		"chain": 204,
+		"address": "0xE7798f023fC62146e8Aa1b36Da45fb70855a77Ea",
+		"symbol": "Bridged Binance-Peg Ethereum (opBNB)",
+		"name": "Bridged Binance-Peg Ethereum (opBNB)",
+		"coingecko": "bridged-binance-peg-ethereum-opbnb",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 204,
+		"address": "0x9e5AAC1Ba1a2e6aEd6b32689DFcF62A509Ca96f3",
+		"symbol": "Bridged Tether (opBNB)",
+		"name": "Bridged Tether (opBNB)",
+		"coingecko": "bridged-tether-opbnb",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 204,
+		"address": "0xEbb78043e29F4af24E6266A7D142f5A08443969E",
+		"symbol": "Derp",
+		"name": "Derp",
+		"coingecko": "derp",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 204,
+		"address": "0xf0E2f2a84C898989C66FCa1d5BCe869E9BC85ddf",
+		"symbol": "Miracle Play",
+		"name": "Miracle Play",
+		"coingecko": "miracle-play",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 204,
+		"address": "0xfb62AE373acA027177D1c18Ee0862817f9080d08",
+		"symbol": "My DeFi Pet",
+		"name": "My DeFi Pet",
+		"coingecko": "my-defi-pet",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 204,
+		"address": "0x9d94A7fF461e83F161c8c040E78557e31d8Cba72",
+		"symbol": "Thena",
+		"name": "Thena",
+		"coingecko": "thena",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 204,
+		"address": "0x3E2e61F1c075881F3fB8dd568043d8c221fd5c61",
+		"symbol": "Venus",
+		"name": "Venus",
+		"coingecko": "venus",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 204,
+		"address": "0x0C0eFEa731e3E9810C2b4822d5497eac107808Ab",
+		"symbol": "Ankr Staked BNB",
+		"name": "Ankr Staked BNB",
+		"coingecko": "ankr-staked-bnb",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 204,
+		"address": "0xAF9fE3B5cCDAe78188B1F8b9a49Da7ae9510F151",
+		"symbol": "XCAD Network",
+		"name": "XCAD Network",
+		"coingecko": "xcad-network",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 204,
+		"address": "0xB01D49C26416a352fac4Fbb3D555d5F2543E3247",
+		"symbol": "CUBISWAP",
+		"name": "CUBISWAP",
+		"coingecko": "cubiswap",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 204,
+		"address": "0x2779106e4F4A8A28d77A24c18283651a2AE22D1C",
+		"symbol": "PancakeSwap",
+		"name": "PancakeSwap",
+		"coingecko": "pancakeswap-token",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 204,
+		"address": "0x317bc431F7EF8b012DfBb563814de202f5469516",
+		"symbol": "WalkMining Governance",
+		"name": "WalkMining Governance",
+		"coingecko": "walkmining-governance",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 204,
+		"address": "0x4200000000000000000000000000000000000006",
+		"symbol": "Wrapped BNB",
+		"name": "Wrapped BNB",
+		"coingecko": "wbnb",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 204,
+		"address": "0x2b1D36f5B61AdDAf7DA7ebbd11B35FD8cfb0DE31",
+		"symbol": "Interport Token",
+		"name": "Interport Token",
+		"coingecko": "interport-token",
+		"sources": [
+			"coingecko"
+		]
+	}
+]

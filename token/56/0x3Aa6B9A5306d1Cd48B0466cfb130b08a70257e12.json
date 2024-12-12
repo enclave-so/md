@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x3Aa6B9A5306d1Cd48B0466cfb130b08a70257e12",
+	"symbol": "Gorilla Finance",
+	"name": "Gorilla Finance",
+	"coingecko": "gorilla-finance",
+	"sources": [
+		"coingecko"
+	]
+}

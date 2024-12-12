@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x4615C8E2db74517a34712C9BdEA5C418D999014B",
+	"symbol": "Grok Cat",
+	"name": "Grok Cat",
+	"coingecko": "grok-cat",
+	"sources": [
+		"coingecko"
+	]
+}

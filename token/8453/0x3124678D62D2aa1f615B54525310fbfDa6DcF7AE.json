@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x3124678D62D2aa1f615B54525310fbfDa6DcF7AE",
+	"symbol": "Sensay",
+	"name": "Sensay",
+	"coingecko": "sensay",
+	"sources": [
+		"coingecko"
+	]
+}

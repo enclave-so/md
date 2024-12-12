@@ -1,0 +1,13 @@
+{
+	"chain": 43114,
+	"address": "0xb54f16fB19478766A268F172C9480f8da1a7c9C3",
+	"symbol": "TIME",
+	"name": "Time",
+	"decimals": 9,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0xb54f16fB19478766A268F172C9480f8da1a7c9C3.jpg",
+	"coingecko": "wonderland",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

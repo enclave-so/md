@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xa987ec59c3cBcA0Ed90890435749359DDb6F2974",
+	"symbol": "Pnuts for squirrel",
+	"name": "Pnuts for squirrel",
+	"coingecko": "pnuts-for-squirrel",
+	"sources": [
+		"coingecko"
+	]
+}

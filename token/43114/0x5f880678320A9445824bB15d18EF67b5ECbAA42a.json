@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x5f880678320A9445824bB15d18EF67b5ECbAA42a",
+	"symbol": "Wrapped OrdBridge",
+	"name": "Wrapped OrdBridge",
+	"coingecko": "ordbridge",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xa86a86B8ACDC55812bec2971a2fc8a989455858c",
+	"symbol": "DSC",
+	"name": "DSC",
+	"coingecko": "dsc",
+	"sources": [
+		"coingecko"
+	]
+}

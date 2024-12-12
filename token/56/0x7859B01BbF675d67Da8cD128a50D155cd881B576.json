@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x7859B01BbF675d67Da8cD128a50D155cd881B576",
+	"symbol": "Mars Ecosystem",
+	"name": "Mars Ecosystem",
+	"coingecko": "mars-ecosystem-token",
+	"sources": [
+		"coingecko"
+	]
+}

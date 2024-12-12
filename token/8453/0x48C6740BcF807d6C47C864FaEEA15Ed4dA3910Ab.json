@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x48C6740BcF807d6C47C864FaEEA15Ed4dA3910Ab",
+	"symbol": "nounspace",
+	"name": "nounspace",
+	"coingecko": "nounspace",
+	"sources": [
+		"coingecko"
+	]
+}

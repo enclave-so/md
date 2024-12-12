@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x60222751504796934bDDee8218F9725F0c95D2c1",
+	"symbol": "Simps",
+	"name": "Simps",
+	"coingecko": "simps",
+	"sources": [
+		"coingecko"
+	]
+}

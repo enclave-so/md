@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x38029C62DfA30D9FD3CaDf4C64e9b2ab21DbDa17",
+	"symbol": "Dubbz",
+	"name": "Dubbz",
+	"coingecko": "dubbz",
+	"sources": [
+		"coingecko"
+	]
+}

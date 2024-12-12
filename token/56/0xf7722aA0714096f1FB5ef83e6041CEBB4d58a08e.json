@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xf7722aA0714096f1FB5ef83e6041CEBB4d58a08e",
+	"symbol": "Ruby Play Network",
+	"name": "Ruby Play Network",
+	"coingecko": "ruby-play-network",
+	"sources": [
+		"coingecko"
+	]
+}

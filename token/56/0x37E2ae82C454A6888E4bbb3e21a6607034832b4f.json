@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x37E2ae82C454A6888E4bbb3e21a6607034832b4f",
+	"symbol": "Limoverse",
+	"name": "Limoverse",
+	"coingecko": "limoverse",
+	"sources": [
+		"coingecko"
+	]
+}

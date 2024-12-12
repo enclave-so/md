@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xb65d506b0343DB06200C0803585554Da3712830f",
+	"symbol": "SparkLucky",
+	"name": "SparkLucky",
+	"coingecko": "sparklucky",
+	"sources": [
+		"coingecko"
+	]
+}

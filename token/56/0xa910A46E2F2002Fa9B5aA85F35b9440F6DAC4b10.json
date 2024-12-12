@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xa910A46E2F2002Fa9B5aA85F35b9440F6DAC4b10",
+	"symbol": "Scorpion",
+	"name": "Scorpion",
+	"coingecko": "scorpion",
+	"sources": [
+		"coingecko"
+	]
+}

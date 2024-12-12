@@ -1,0 +1,10 @@
+{
+	"chain": 7171,
+	"address": "0xa7c9bB7A6Fd13dCa85e9df12b4F91DC8bede225e",
+	"symbol": "Bitrock Wallet Token",
+	"name": "Bitrock Wallet Token",
+	"coingecko": "bitrock-wallet-token",
+	"sources": [
+		"coingecko"
+	]
+}

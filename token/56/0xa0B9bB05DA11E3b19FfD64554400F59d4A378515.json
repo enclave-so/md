@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xa0B9bB05DA11E3b19FfD64554400F59d4A378515",
+	"symbol": "Hashtagger",
+	"name": "Hashtagger",
+	"coingecko": "hashtagger",
+	"sources": [
+		"coingecko"
+	]
+}

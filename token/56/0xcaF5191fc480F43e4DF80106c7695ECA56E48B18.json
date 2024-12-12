@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xcaF5191fc480F43e4DF80106c7695ECA56E48B18",
+	"symbol": "DEAPCOIN",
+	"name": "DEAPCOIN",
+	"coingecko": "deapcoin",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x9F3BCBE48E8b754F331Dfc694A894e8E686aC31D",
+	"symbol": "Acet",
+	"name": "Acet",
+	"coingecko": "acet-token",
+	"sources": [
+		"coingecko"
+	]
+}

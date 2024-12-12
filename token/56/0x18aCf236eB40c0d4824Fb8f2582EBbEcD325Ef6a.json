@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x18aCf236eB40c0d4824Fb8f2582EBbEcD325Ef6a",
+	"symbol": "Oikos",
+	"name": "Oikos",
+	"coingecko": "oikos",
+	"sources": [
+		"coingecko"
+	]
+}

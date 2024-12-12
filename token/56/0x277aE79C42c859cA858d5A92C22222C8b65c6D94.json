@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x277aE79C42c859cA858d5A92C22222C8b65c6D94",
+	"symbol": "Astro Babies",
+	"name": "Astro Babies",
+	"coingecko": "astro-babies",
+	"sources": [
+		"coingecko"
+	]
+}

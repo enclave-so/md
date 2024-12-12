@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x5971f6eCF4092824ed8229154d97c21317A04764",
+	"symbol": "Cat Token",
+	"name": "Cat Token",
+	"coingecko": "cat-token-2",
+	"sources": [
+		"coingecko"
+	]
+}

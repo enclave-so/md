@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x5597Ce42b315F29e42071d231dcd0158DA35B77b",
+	"symbol": "Kendu Inu",
+	"name": "Kendu Inu",
+	"coingecko": "kendu-inu-2",
+	"sources": [
+		"coingecko"
+	]
+}

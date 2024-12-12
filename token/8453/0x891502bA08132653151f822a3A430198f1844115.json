@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x891502bA08132653151f822a3A430198f1844115",
+	"symbol": "Blue Guy",
+	"name": "Blue Guy",
+	"coingecko": "blue-guy",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x9F7F4dDbCaC23Db5280D4aab83a28C5c3EfF535e",
+	"symbol": "Outter Finance",
+	"name": "Outter Finance",
+	"coingecko": "outter-finance-2",
+	"sources": [
+		"coingecko"
+	]
+}

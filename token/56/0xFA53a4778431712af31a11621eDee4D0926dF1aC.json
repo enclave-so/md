@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xFA53a4778431712af31a11621eDee4D0926dF1aC",
+	"symbol": "Petals",
+	"name": "Petals",
+	"coingecko": "petals",
+	"sources": [
+		"coingecko"
+	]
+}

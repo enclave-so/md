@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x269B7A30497F92EBf307e7467fD4F1210a6C36b6",
+	"symbol": "Evin Token",
+	"name": "Evin Token",
+	"coingecko": "evin-token",
+	"sources": [
+		"coingecko"
+	]
+}

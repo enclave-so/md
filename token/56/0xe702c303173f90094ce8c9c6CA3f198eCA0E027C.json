@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xe702c303173f90094ce8c9c6CA3f198eCA0E027C",
+	"symbol": "LonelyFans",
+	"name": "LonelyFans",
+	"coingecko": "lonelyfans",
+	"sources": [
+		"coingecko"
+	]
+}

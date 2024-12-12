@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x9A3b7959e998BF2B50EF1969067D623877050D92",
+	"symbol": "Pepe But Blue",
+	"name": "Pepe But Blue",
+	"coingecko": "pepe-but-blue",
+	"sources": [
+		"coingecko"
+	]
+}

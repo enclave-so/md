@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x9929b92f4C743D014c68dFE022D04C8C8FcfA37A",
+	"symbol": "OpenSwap.One",
+	"name": "OpenSwap.One",
+	"coingecko": "openswap-token",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x57185189118C7E786cAfd5C71f35b16012Fa95aD",
+	"symbol": "BEFE",
+	"name": "BEFE",
+	"coingecko": "befe",
+	"sources": [
+		"coingecko"
+	]
+}

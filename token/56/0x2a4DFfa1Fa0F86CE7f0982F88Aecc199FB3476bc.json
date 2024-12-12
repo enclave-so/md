@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x2a4DFfa1Fa0F86CE7f0982F88Aecc199FB3476bc",
+	"symbol": "OccamFi",
+	"name": "OccamFi",
+	"coingecko": "occamfi",
+	"sources": [
+		"coingecko"
+	]
+}

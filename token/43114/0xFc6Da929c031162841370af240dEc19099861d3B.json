@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0xFc6Da929c031162841370af240dEc19099861d3B",
+	"symbol": "Domi",
+	"name": "Domi",
+	"coingecko": "domi",
+	"sources": [
+		"coingecko"
+	]
+}

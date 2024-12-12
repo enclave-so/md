@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x522d0F9F3eFF479A5B256BB1C1108F47b8e1A153",
+	"symbol": "IguVerse IGUP",
+	"name": "IguVerse IGUP",
+	"coingecko": "iguverse",
+	"sources": [
+		"coingecko"
+	]
+}

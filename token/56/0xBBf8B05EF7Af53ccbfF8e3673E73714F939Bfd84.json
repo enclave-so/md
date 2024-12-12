@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xBBf8B05EF7Af53ccbfF8e3673E73714F939Bfd84",
+	"symbol": "FROG CEO",
+	"name": "FROG CEO",
+	"coingecko": "frog-ceo",
+	"sources": [
+		"coingecko"
+	]
+}

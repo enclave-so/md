@@ -1,0 +1,62 @@
+[
+	{
+		"chain": 10000,
+		"address": "0x98Dd7eC28FB43b3C4c770AE532417015fa939Dd3",
+		"symbol": "FLEX Coin",
+		"name": "FLEX Coin",
+		"coingecko": "flex-coin",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 10000,
+		"address": "0x7b2B3C5308ab5b2a1d9a94d20D35CCDf61e05b72",
+		"symbol": "flexUSD",
+		"name": "flexUSD",
+		"coingecko": "flex-usd",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 10000,
+		"address": "0x0b00366fBF7037E9d75E4A569ab27dAB84759302",
+		"symbol": "LAW",
+		"name": "LAW",
+		"coingecko": "law",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 10000,
+		"address": "0x73BE9c8Edf5e951c9a0762EA2b1DE8c8F38B5e91",
+		"symbol": "TangoSwap",
+		"name": "TangoSwap",
+		"coingecko": "tangoswap",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 10000,
+		"address": "0x8d7Ea0ec6CaB515463121A3c70Df541f2F534909",
+		"symbol": "Wojak Finance",
+		"name": "Wojak Finance",
+		"coingecko": "wojak-finance",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 10000,
+		"address": "0x3743eC0673453E5009310C727Ba4eaF7b3a1cc04",
+		"symbol": "Wrapped BCH",
+		"name": "Wrapped BCH",
+		"coingecko": "wrapped-bch",
+		"sources": [
+			"coingecko"
+		]
+	}
+]

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x2D5c9167fDd5c068c8fcB8992e6Af639b42FBf70",
+	"symbol": "Merge",
+	"name": "Merge",
+	"coingecko": "merge",
+	"sources": [
+		"coingecko"
+	]
+}

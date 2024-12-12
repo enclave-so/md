@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x36bfBb1d5B3C9b336f3D64976599B6020cA805F1",
+	"symbol": "Planet Sandbox",
+	"name": "Planet Sandbox",
+	"coingecko": "planet-sandbox",
+	"sources": [
+		"coingecko"
+	]
+}

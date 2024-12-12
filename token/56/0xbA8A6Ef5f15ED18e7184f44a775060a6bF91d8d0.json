@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xbA8A6Ef5f15ED18e7184f44a775060a6bF91d8d0",
+	"symbol": "Spaceswap SHAKE",
+	"name": "Spaceswap SHAKE",
+	"coingecko": "spaceswap-shake",
+	"sources": [
+		"coingecko"
+	]
+}

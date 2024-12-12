@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x23F9a46A2c06f5249702aAd1b9B1Fd1b6e6833CF",
+	"symbol": "Nero",
+	"name": "Nero",
+	"coingecko": "nero",
+	"sources": [
+		"coingecko"
+	]
+}

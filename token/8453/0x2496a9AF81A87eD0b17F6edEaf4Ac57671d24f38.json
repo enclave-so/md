@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x2496a9AF81A87eD0b17F6edEaf4Ac57671d24f38",
+	"symbol": "Truffi",
+	"name": "Truffi",
+	"coingecko": "truffi",
+	"sources": [
+		"coingecko"
+	]
+}

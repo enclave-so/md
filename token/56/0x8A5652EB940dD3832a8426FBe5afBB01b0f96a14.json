@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x8A5652EB940dD3832a8426FBe5afBB01b0f96a14",
+	"symbol": "Paraverse",
+	"name": "Paraverse",
+	"coingecko": "paraverse",
+	"sources": [
+		"coingecko"
+	]
+}

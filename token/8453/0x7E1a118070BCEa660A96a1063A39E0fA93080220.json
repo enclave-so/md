@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x7E1a118070BCEa660A96a1063A39E0fA93080220",
+	"symbol": "EZ Pepe",
+	"name": "EZ Pepe",
+	"coingecko": "ez-pepe",
+	"sources": [
+		"coingecko"
+	]
+}

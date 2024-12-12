@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x2D189eABb667aA1ecFC01963a6a3A5d83960f558",
+	"symbol": "GALAXIS Token",
+	"name": "GALAXIS Token",
+	"coingecko": "galaxis-token",
+	"sources": [
+		"coingecko"
+	]
+}

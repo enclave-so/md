@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x639C0D019C257966C4907bD4E68E3F349bB58109",
+	"symbol": "Quack Token",
+	"name": "Quack Token",
+	"coingecko": "quack-token",
+	"sources": [
+		"coingecko"
+	]
+}

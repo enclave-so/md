@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x555296de6A86E72752e5C5DC091FE49713Aa145C",
+	"symbol": "Grape Coin",
+	"name": "Grape Coin",
+	"coingecko": "the-grapes-grape-coin",
+	"sources": [
+		"coingecko"
+	]
+}

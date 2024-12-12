@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xE21502dB7B9c6a78Ed9400E30C8521be84F2CA4F",
+	"symbol": "BNB Pets",
+	"name": "BNB Pets",
+	"coingecko": "bnb-pets",
+	"sources": [
+		"coingecko"
+	]
+}

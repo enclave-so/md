@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x28cE223853D123b52C74439B10b43366d73Fd3B5",
+	"symbol": "Fame MMA",
+	"name": "Fame MMA",
+	"coingecko": "fame-mma",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xc9457161320210D22F0D0d5fC1309Acb383d4609",
+	"symbol": "Dovu [OLD]",
+	"name": "Dovu [OLD]",
+	"coingecko": "dovu",
+	"sources": [
+		"coingecko"
+	]
+}

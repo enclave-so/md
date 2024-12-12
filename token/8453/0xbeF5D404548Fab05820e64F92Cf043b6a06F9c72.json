@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xbeF5D404548Fab05820e64F92Cf043b6a06F9c72",
+	"symbol": "Pod Finance",
+	"name": "Pod Finance",
+	"coingecko": "pod-finance",
+	"sources": [
+		"coingecko"
+	]
+}

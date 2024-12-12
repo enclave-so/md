@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0xA2CDe628d7617956EAF4780e32F68DF19cc13D62",
+	"symbol": "Subava Token",
+	"name": "Subava Token",
+	"coingecko": "subava-token",
+	"sources": [
+		"coingecko"
+	]
+}

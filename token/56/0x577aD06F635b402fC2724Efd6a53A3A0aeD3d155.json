@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x577aD06F635b402fC2724Efd6a53A3A0aeD3d155",
+	"symbol": "BeFaster Holder Token",
+	"name": "BeFaster Holder Token",
+	"coingecko": "befasterholdertoken",
+	"sources": [
+		"coingecko"
+	]
+}

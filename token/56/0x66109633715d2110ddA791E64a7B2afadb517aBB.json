@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x66109633715d2110ddA791E64a7B2afadb517aBB",
+	"symbol": "Gamestarter",
+	"name": "Gamestarter",
+	"coingecko": "gamestarter",
+	"sources": [
+		"coingecko"
+	]
+}

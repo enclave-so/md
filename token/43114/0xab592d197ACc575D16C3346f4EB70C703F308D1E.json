@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0xab592d197ACc575D16C3346f4EB70C703F308D1E",
+	"symbol": "chikn feed",
+	"name": "chikn feed",
+	"coingecko": "chikn-feed",
+	"sources": [
+		"coingecko"
+	]
+}

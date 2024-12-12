@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xe2a59D5E33c6540E18aAA46BF98917aC3158Db0D",
+	"symbol": "PureFi",
+	"name": "PureFi",
+	"coingecko": "purefi",
+	"sources": [
+		"coingecko"
+	]
+}

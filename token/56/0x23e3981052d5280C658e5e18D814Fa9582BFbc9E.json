@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x23e3981052d5280C658e5e18D814Fa9582BFbc9E",
+	"symbol": "Youclout",
+	"name": "Youclout",
+	"coingecko": "youclout",
+	"sources": [
+		"coingecko"
+	]
+}

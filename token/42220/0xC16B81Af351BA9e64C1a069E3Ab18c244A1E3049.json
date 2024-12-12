@@ -1,0 +1,13 @@
+{
+	"chain": 42220,
+	"address": "0xC16B81Af351BA9e64C1a069E3Ab18c244A1E3049",
+	"symbol": "agEUR",
+	"name": "agEUR",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/celo/0xC16B81Af351BA9e64C1a069E3Ab18c244A1E3049.jpg",
+	"coingecko": "ageur",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

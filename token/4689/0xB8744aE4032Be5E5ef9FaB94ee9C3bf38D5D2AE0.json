@@ -1,0 +1,10 @@
+{
+	"chain": 4689,
+	"address": "0xB8744aE4032Be5E5ef9FaB94ee9C3bf38D5D2AE0",
+	"symbol": "Vitality",
+	"name": "Vitality",
+	"coingecko": "vitality",
+	"sources": [
+		"coingecko"
+	]
+}

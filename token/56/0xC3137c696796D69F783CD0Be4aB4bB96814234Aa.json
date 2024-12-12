@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xC3137c696796D69F783CD0Be4aB4bB96814234Aa",
+	"symbol": "Pepa Inu",
+	"name": "Pepa Inu",
+	"coingecko": "pepa-inu",
+	"sources": [
+		"coingecko"
+	]
+}

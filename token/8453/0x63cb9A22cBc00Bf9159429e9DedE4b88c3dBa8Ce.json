@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x63cb9A22cBc00Bf9159429e9DedE4b88c3dBa8Ce",
+	"symbol": "LaunchTokenBot",
+	"name": "LaunchTokenBot",
+	"coingecko": "launchtokenbot",
+	"sources": [
+		"coingecko"
+	]
+}

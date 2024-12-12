@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x8D88e48465F30Acfb8daC0b3E35c9D6D7d36abaf",
+	"symbol": "Canary",
+	"name": "Canary",
+	"coingecko": "canary",
+	"sources": [
+		"coingecko"
+	]
+}

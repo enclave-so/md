@@ -1,0 +1,10 @@
+{
+	"chain": 59144,
+	"address": "0xEb1fD1dBB8aDDA4fa2b5A5C4bcE34F6F20d125D2",
+	"symbol": "Donald Toad Coin",
+	"name": "Donald Toad Coin",
+	"coingecko": "donald-toad-coin",
+	"sources": [
+		"coingecko"
+	]
+}

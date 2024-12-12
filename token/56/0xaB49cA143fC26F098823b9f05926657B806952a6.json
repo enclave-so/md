@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xaB49cA143fC26F098823b9f05926657B806952a6",
+	"symbol": "GainSpot",
+	"name": "GainSpot",
+	"coingecko": "gainspot",
+	"sources": [
+		"coingecko"
+	]
+}

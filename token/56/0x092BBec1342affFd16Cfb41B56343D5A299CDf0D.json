@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x092BBec1342affFd16Cfb41B56343D5A299CDf0D",
+	"symbol": "ShibaCorgi",
+	"name": "ShibaCorgi",
+	"coingecko": "shibacorgi",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0xf32398dae246C5f672B52A54e9B413dFFcAe1A44",
+	"symbol": "Kassandra",
+	"name": "Kassandra",
+	"coingecko": "kassandra",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 8822,
+	"address": "0xF5755e48B6F2F06F8ea904bdA26177CB3ca06Ff0",
+	"symbol": "Iolend",
+	"name": "Iolend",
+	"coingecko": "iolend",
+	"sources": [
+		"coingecko"
+	]
+}

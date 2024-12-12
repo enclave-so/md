@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xfbcf80ed90856AF0d6d9655F746331763EfDb22c",
+	"symbol": "NEXTYPE Finance",
+	"name": "NEXTYPE Finance",
+	"coingecko": "nextype-finance",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x837A130aED114300Bab4f9f1F4f500682f7efd48",
+	"symbol": "WeSendit",
+	"name": "WeSendit",
+	"coingecko": "wesendit",
+	"sources": [
+		"coingecko"
+	]
+}

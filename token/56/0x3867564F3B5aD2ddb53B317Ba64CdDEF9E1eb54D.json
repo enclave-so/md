@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x3867564F3B5aD2ddb53B317Ba64CdDEF9E1eb54D",
+	"symbol": "Accel Finance Coin",
+	"name": "Accel Finance Coin",
+	"coingecko": "accel-finance-coin",
+	"sources": [
+		"coingecko"
+	]
+}

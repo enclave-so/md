@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x34bA3af693d6c776d73C7fa67e2B2e79be8ef4ED",
+	"symbol": "Shambala",
+	"name": "Shambala",
+	"coingecko": "shambala",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xFd60B3c3C1916BdBB4319a3D264894f1DFD5ECA2",
+	"symbol": "CoinNavigator",
+	"name": "CoinNavigator",
+	"coingecko": "coinnavigator",
+	"sources": [
+		"coingecko"
+	]
+}

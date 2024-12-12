@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x5b1BaeC64aF6dC54E6e04349315919129A6d3c23",
+	"symbol": "DNAxCAT",
+	"name": "DNAxCAT",
+	"coingecko": "dnaxcat",
+	"sources": [
+		"coingecko"
+	]
+}

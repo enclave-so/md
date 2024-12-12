@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xA2Cac0023a4797b4729Db94783405189a4203AFc",
+	"symbol": "Re7 WETH",
+	"name": "Re7 WETH",
+	"coingecko": "re7-weth",
+	"sources": [
+		"coingecko"
+	]
+}

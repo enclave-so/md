@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x81372C18c87f6d2FE91F416d7c8a109CEA48C332",
+	"symbol": "Swinca",
+	"name": "Swinca",
+	"coingecko": "swinca-2",
+	"sources": [
+		"coingecko"
+	]
+}

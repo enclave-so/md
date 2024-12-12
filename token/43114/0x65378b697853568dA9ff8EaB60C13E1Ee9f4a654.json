@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x65378b697853568dA9ff8EaB60C13E1Ee9f4a654",
+	"symbol": "Husky Avax",
+	"name": "Husky Avax",
+	"coingecko": "husky-avax",
+	"sources": [
+		"coingecko"
+	]
+}

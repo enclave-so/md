@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x8357c604c5533fa0053BeAaA1494Da552ceA38f7",
+	"symbol": "Spores Network",
+	"name": "Spores Network",
+	"coingecko": "spores-network",
+	"sources": [
+		"coingecko"
+	]
+}

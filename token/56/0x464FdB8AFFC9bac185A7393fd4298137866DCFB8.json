@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x464FdB8AFFC9bac185A7393fd4298137866DCFB8",
+	"symbol": "Realm",
+	"name": "Realm",
+	"coingecko": "realm",
+	"sources": [
+		"coingecko"
+	]
+}

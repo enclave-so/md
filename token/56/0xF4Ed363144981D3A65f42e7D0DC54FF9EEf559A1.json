@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xF4Ed363144981D3A65f42e7D0DC54FF9EEf559A1",
+	"symbol": "FaraLand",
+	"name": "FaraLand",
+	"coingecko": "faraland",
+	"sources": [
+		"coingecko"
+	]
+}

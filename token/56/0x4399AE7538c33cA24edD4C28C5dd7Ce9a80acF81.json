@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x4399AE7538c33cA24edD4C28C5dd7Ce9a80acF81",
+	"symbol": "Phantom Protocol",
+	"name": "Phantom Protocol",
+	"coingecko": "phantom-protocol",
+	"sources": [
+		"coingecko"
+	]
+}

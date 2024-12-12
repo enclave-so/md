@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xA19D3F4219E2Ed6DC1cb595dB20F70b8b6866734",
+	"symbol": "Wirtual",
+	"name": "Wirtual",
+	"coingecko": "wirtual",
+	"sources": [
+		"coingecko"
+	]
+}

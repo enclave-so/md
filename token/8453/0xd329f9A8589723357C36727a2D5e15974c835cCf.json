@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xd329f9A8589723357C36727a2D5e15974c835cCf",
+	"symbol": "sUSDa",
+	"name": "sUSDa",
+	"coingecko": "susda",
+	"sources": [
+		"coingecko"
+	]
+}

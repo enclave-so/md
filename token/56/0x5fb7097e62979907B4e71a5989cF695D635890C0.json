@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x5fb7097e62979907B4e71a5989cF695D635890C0",
+	"symbol": "Dex Raiden",
+	"name": "Dex Raiden",
+	"coingecko": "dex-raiden",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 666666666,
+	"address": "0x4c9436d7AaC04A40aca30ab101107081223D6e92",
+	"symbol": "DINU",
+	"name": "DINU",
+	"coingecko": "dinu",
+	"sources": [
+		"coingecko"
+	]
+}

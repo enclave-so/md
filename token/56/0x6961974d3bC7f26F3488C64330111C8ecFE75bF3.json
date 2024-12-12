@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x6961974d3bC7f26F3488C64330111C8ecFE75bF3",
+	"symbol": "GameXT",
+	"name": "GameXT",
+	"coingecko": "gamext",
+	"sources": [
+		"coingecko"
+	]
+}

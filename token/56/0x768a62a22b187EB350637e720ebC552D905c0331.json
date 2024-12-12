@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x768a62a22b187EB350637e720ebC552D905c0331",
+	"symbol": "Young Mids Inspired",
+	"name": "Young Mids Inspired",
+	"coingecko": "young-mids-inspired",
+	"sources": [
+		"coingecko"
+	]
+}

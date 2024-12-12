@@ -1,0 +1,13 @@
+{
+	"chain": 66,
+	"address": "0x382bB369d343125BfB2117af9c149795C6C65C50",
+	"symbol": "USDT",
+	"name": "USDT",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdt.jpg",
+	"coingecko": "bridged-usdt",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xeB52620B04e8EACFd795353F2827673887f292E0",
+	"symbol": "GOLCOIN",
+	"name": "GOLCOIN",
+	"coingecko": "golcoin",
+	"sources": [
+		"coingecko"
+	]
+}

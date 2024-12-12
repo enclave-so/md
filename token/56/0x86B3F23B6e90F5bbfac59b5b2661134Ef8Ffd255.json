@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x86B3F23B6e90F5bbfac59b5b2661134Ef8Ffd255",
+	"symbol": "Don-key",
+	"name": "Don-key",
+	"coingecko": "don-key",
+	"sources": [
+		"coingecko"
+	]
+}

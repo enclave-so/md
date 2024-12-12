@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xc4d44c155f95FD4E94600d191a4a01bb571dF7DF",
+	"symbol": "GammaSwap",
+	"name": "GammaSwap",
+	"coingecko": "gammaswap",
+	"sources": [
+		"coingecko"
+	]
+}

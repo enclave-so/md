@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xD5eeEc1a534c35C418B44bb28E4d5a602f1A22DE",
+	"symbol": "Infinitar Governance Token",
+	"name": "Infinitar Governance Token",
+	"coingecko": "infinitar-governance-token",
+	"sources": [
+		"coingecko"
+	]
+}

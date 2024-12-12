@@ -1,0 +1,10 @@
+{
+	"chain": 59144,
+	"address": "0x81BE2aCB2e9291dB6400f9f6a4D0f35f24de2E77",
+	"symbol": "Linpuss",
+	"name": "Linpuss",
+	"coingecko": "linpuss",
+	"sources": [
+		"coingecko"
+	]
+}

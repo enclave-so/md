@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x11d1ac5ec23e3a193E8a491a198f5fc9ee715839",
+	"symbol": "MultiPad",
+	"name": "MultiPad",
+	"coingecko": "multipad",
+	"sources": [
+		"coingecko"
+	]
+}

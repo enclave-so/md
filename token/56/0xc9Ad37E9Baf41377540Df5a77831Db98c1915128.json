@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xc9Ad37E9Baf41377540Df5a77831Db98c1915128",
+	"symbol": "Green Shiba Inu",
+	"name": "Green Shiba Inu",
+	"coingecko": "green-shiba-inu",
+	"sources": [
+		"coingecko"
+	]
+}

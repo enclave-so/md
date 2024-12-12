@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xc5E6689C9c8B02be7C49912Ef19e79cF24977f03",
+	"symbol": "Alpaca City",
+	"name": "Alpaca City",
+	"coingecko": "alpaca",
+	"sources": [
+		"coingecko"
+	]
+}

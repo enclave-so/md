@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0xc8E7fB72B53D08C4f95b93b390ed3f132d03f2D5",
+	"symbol": "SQRCAT",
+	"name": "SQRCAT",
+	"coingecko": "sqrcat",
+	"sources": [
+		"coingecko"
+	]
+}

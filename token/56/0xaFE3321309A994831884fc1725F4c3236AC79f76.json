@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xaFE3321309A994831884fc1725F4c3236AC79f76",
+	"symbol": "Memeflate",
+	"name": "Memeflate",
+	"coingecko": "memeflate",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x4C584cbC3a221998Dc003349e1c12A4179E97B25",
+	"symbol": "Brett Is Based",
+	"name": "Brett Is Based",
+	"coingecko": "brett-is-based",
+	"sources": [
+		"coingecko"
+	]
+}

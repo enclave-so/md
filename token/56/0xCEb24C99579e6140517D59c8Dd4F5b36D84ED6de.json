@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xCEb24C99579e6140517D59c8Dd4F5b36D84ED6de",
+	"symbol": "Phecda",
+	"name": "Phecda",
+	"coingecko": "phecda",
+	"sources": [
+		"coingecko"
+	]
+}

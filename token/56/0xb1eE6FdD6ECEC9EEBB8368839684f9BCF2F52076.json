@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xb1eE6FdD6ECEC9EEBB8368839684f9BCF2F52076",
+	"symbol": "FAML",
+	"name": "FAML",
+	"coingecko": "faml",
+	"sources": [
+		"coingecko"
+	]
+}

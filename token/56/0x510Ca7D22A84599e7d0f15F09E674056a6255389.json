@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x510Ca7D22A84599e7d0f15F09E674056a6255389",
+	"symbol": "LABSV2",
+	"name": "LABSV2",
+	"coingecko": "labs-group",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x5Dc2085Fe510Bbaaba2119d71B09c25098caCa3F",
+	"symbol": "RYI Unity",
+	"name": "RYI Unity",
+	"coingecko": "ryi-unity",
+	"sources": [
+		"coingecko"
+	]
+}

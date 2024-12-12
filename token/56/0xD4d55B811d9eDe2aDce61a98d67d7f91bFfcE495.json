@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xD4d55B811d9eDe2aDce61a98d67d7f91bFfcE495",
+	"symbol": "PulseDoge",
+	"name": "PulseDoge",
+	"coingecko": "pulsedoge",
+	"sources": [
+		"coingecko"
+	]
+}

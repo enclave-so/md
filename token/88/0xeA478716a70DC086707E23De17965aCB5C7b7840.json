@@ -1,0 +1,10 @@
+{
+	"chain": 88,
+	"address": "0xeA478716a70DC086707E23De17965aCB5C7b7840",
+	"symbol": "MASQ",
+	"name": "MASQ",
+	"coingecko": "masq",
+	"sources": [
+		"coingecko"
+	]
+}

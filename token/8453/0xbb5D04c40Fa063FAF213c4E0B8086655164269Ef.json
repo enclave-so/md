@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xbb5D04c40Fa063FAF213c4E0B8086655164269Ef",
+	"symbol": "Gloom",
+	"name": "Gloom",
+	"coingecko": "gloom",
+	"sources": [
+		"coingecko"
+	]
+}

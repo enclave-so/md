@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x517396bD11d750E4417B82F2b0FcFa62a4f2bB96",
+	"symbol": "ITEMVERSE",
+	"name": "ITEMVERSE",
+	"coingecko": "itemverse",
+	"sources": [
+		"coingecko"
+	]
+}

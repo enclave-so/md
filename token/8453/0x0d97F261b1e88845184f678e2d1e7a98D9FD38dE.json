@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x0d97F261b1e88845184f678e2d1e7a98D9FD38dE",
+	"symbol": "Base God",
+	"name": "Base God",
+	"coingecko": "base-god",
+	"sources": [
+		"coingecko"
+	]
+}

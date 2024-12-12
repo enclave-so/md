@@ -1,0 +1,10 @@
+{
+	"chain": 888,
+	"address": "0x11e77E27Af5539872efEd10abaA0b408cfd9fBBD",
+	"symbol": "Bridged Tether (Wanchain)",
+	"name": "Bridged Tether (Wanchain)",
+	"coingecko": "wanusdt",
+	"sources": [
+		"coingecko"
+	]
+}

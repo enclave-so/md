@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x89Eb6680C8D85d384C02059e4b07E4Dd8535e549",
+	"symbol": "CRAZY FROG",
+	"name": "CRAZY FROG",
+	"coingecko": "crazy-frog-on-base",
+	"sources": [
+		"coingecko"
+	]
+}

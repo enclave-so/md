@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x8c81B4c816d66D36c4bF348BdeC01dBCbC70E987",
+	"symbol": "Briun Armstrung",
+	"name": "Briun Armstrung",
+	"coingecko": "briun-armstrung",
+	"sources": [
+		"coingecko"
+	]
+}

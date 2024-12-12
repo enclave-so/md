@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xE612fD8A8456d7FE1F3A4C93f7db1A620D6dC3d4",
+	"symbol": "Bitchemical Token",
+	"name": "Bitchemical Token",
+	"coingecko": "bitchemical-token",
+	"sources": [
+		"coingecko"
+	]
+}

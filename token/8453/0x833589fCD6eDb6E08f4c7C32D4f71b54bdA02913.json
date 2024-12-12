@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+	"symbol": "USDC",
+	"name": "USDC",
+	"coingecko": "usd-coin",
+	"sources": [
+		"coingecko"
+	]
+}

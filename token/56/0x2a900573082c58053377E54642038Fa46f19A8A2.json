@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x2a900573082c58053377E54642038Fa46f19A8A2",
+	"symbol": "RIKO",
+	"name": "RIKO",
+	"coingecko": "riko",
+	"sources": [
+		"coingecko"
+	]
+}

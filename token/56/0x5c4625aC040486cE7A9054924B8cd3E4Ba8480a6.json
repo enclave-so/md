@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x5c4625aC040486cE7A9054924B8cd3E4Ba8480a6",
+	"symbol": "StarryNift",
+	"name": "StarryNift",
+	"coingecko": "starrynift",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x80f45EaCF6537498ecc660e4e4A2D2F99e195Cf4",
+	"symbol": "Pepe on Base",
+	"name": "Pepe on Base",
+	"coingecko": "pepe-on-base",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x433FCe7dfbEc729A79999EAf056Cb073B2153ebA",
+	"symbol": "CoinWealth",
+	"name": "CoinWealth",
+	"coingecko": "coinwealth",
+	"sources": [
+		"coingecko"
+	]
+}

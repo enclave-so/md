@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xA4599f3AB65E9d115Df5cEF609fB4F23536f6818",
+	"symbol": "Candide Coin",
+	"name": "Candide Coin",
+	"coingecko": "candide-coin",
+	"sources": [
+		"coingecko"
+	]
+}

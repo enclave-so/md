@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xEE5b03b769Ca6c690D140CafB52fC8de3f38FC28",
+	"symbol": "HyperChainX",
+	"name": "HyperChainX",
+	"coingecko": "hyperchainx",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x57C81885FaAd67fC4dE892102f6FEAd3b9215f6b",
+	"symbol": "Zenith Chain",
+	"name": "Zenith Chain",
+	"coingecko": "zenith-chain",
+	"sources": [
+		"coingecko"
+	]
+}

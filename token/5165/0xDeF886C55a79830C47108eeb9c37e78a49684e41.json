@@ -1,0 +1,10 @@
+{
+	"chain": 5165,
+	"address": "0xDeF886C55a79830C47108eeb9c37e78a49684e41",
+	"symbol": "Symbiosis Bridged USDT (Bahamut)",
+	"name": "Symbiosis Bridged USDT (Bahamut)",
+	"coingecko": "symbiosis-bridged-usdt-bahamut",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x9d71CE49ab8A0E6D2a1e7BFB89374C9392FD6804",
+	"symbol": "NvirWorld",
+	"name": "NvirWorld",
+	"coingecko": "nvirworld",
+	"sources": [
+		"coingecko"
+	]
+}

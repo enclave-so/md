@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x012a6A39eeC345A0Ea2B994B17875E721d17eE45",
+	"symbol": "1Reward Token",
+	"name": "1Reward Token",
+	"coingecko": "1reward-token",
+	"sources": [
+		"coingecko"
+	]
+}

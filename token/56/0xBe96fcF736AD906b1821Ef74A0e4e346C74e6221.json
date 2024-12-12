@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xBe96fcF736AD906b1821Ef74A0e4e346C74e6221",
+	"symbol": "NIX",
+	"name": "NIX",
+	"coingecko": "nix",
+	"sources": [
+		"coingecko"
+	]
+}

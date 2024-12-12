@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x238D02eE3F80FBf5E381F049616025c186889B68",
+	"symbol": "Metars Genesis",
+	"name": "Metars Genesis",
+	"coingecko": "metars-genesis",
+	"sources": [
+		"coingecko"
+	]
+}

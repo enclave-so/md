@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x474cb5B5087E13EA006E13702e330c93C825ab5d",
+	"symbol": "Make Fun",
+	"name": "Make Fun",
+	"coingecko": "make-fun",
+	"sources": [
+		"coingecko"
+	]
+}

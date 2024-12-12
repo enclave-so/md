@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x981D41C115a2d48Cb1215D13Bda8f989d407c9c5",
+	"symbol": "Xena Finance",
+	"name": "Xena Finance",
+	"coingecko": "xena-finance",
+	"sources": [
+		"coingecko"
+	]
+}

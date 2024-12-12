@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x64cF1E2Cab86694AC8b31653460faa47a68F59F0",
+	"symbol": "GamesCoin",
+	"name": "GamesCoin",
+	"coingecko": "gamescoin",
+	"sources": [
+		"coingecko"
+	]
+}

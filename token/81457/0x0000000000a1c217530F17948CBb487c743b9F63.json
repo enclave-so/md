@@ -1,0 +1,11 @@
+{
+	"chain": 81457,
+	"address": "0x0000000000a1c217530F17948CBb487c743b9F63",
+	"symbol": "ORE",
+	"name": "Ore",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/blast/0x0000000000a1c217530F17948CBb487c743b9F63.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

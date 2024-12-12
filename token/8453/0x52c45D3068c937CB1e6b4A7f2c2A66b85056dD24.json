@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x52c45D3068c937CB1e6b4A7f2c2A66b85056dD24",
+	"symbol": "Landtorn Shard",
+	"name": "Landtorn Shard",
+	"coingecko": "landtorn-shard",
+	"sources": [
+		"coingecko"
+	]
+}

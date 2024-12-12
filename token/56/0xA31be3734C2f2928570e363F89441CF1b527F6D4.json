@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xA31be3734C2f2928570e363F89441CF1b527F6D4",
+	"symbol": "Sports PIE",
+	"name": "Sports PIE",
+	"coingecko": "sports-pie",
+	"sources": [
+		"coingecko"
+	]
+}

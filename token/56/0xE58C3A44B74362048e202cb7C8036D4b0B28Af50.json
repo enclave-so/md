@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xE58C3A44B74362048e202cb7C8036D4b0B28Af50",
+	"symbol": "SolarX",
+	"name": "SolarX",
+	"coingecko": "solarx-2",
+	"sources": [
+		"coingecko"
+	]
+}

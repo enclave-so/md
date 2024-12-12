@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x29C55f1b02A95F0B30e61976835a3eee2359ad92",
+	"symbol": "EMP Shares",
+	"name": "EMP Shares",
+	"coingecko": "emp-shares-v2",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"chain": 97,
+	"address": "0x337610d27c682E347C9cD60BD4b3b107C9d34dDd",
+	"symbol": "USDT",
+	"name": "USDT Token",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/assets/USDT-6D8/logo.png",
+	"sources": [
+		"sushiswap"
+	]
+}

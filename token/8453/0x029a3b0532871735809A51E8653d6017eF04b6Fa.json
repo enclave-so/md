@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x029a3b0532871735809A51E8653d6017eF04b6Fa",
+	"symbol": "TYBENG",
+	"name": "TYBENG",
+	"coingecko": "benji-bananas",
+	"sources": [
+		"coingecko"
+	]
+}

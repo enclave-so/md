@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x26F1bB40eA88B46CEB21557dC0FfAC7B7c0ad40f",
+	"symbol": "ALF",
+	"name": "ALF",
+	"coingecko": "alf",
+	"sources": [
+		"coingecko"
+	]
+}

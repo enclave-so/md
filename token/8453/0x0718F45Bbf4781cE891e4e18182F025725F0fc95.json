@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x0718F45Bbf4781cE891e4e18182F025725F0fc95",
+	"symbol": "Misser",
+	"name": "Misser",
+	"coingecko": "misser",
+	"sources": [
+		"coingecko"
+	]
+}

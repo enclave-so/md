@@ -1,0 +1,10 @@
+{
+	"chain": 648,
+	"address": "0x85119527CF38f6cCf7b1b8f8FAD05145358Aaa81",
+	"symbol": "Wrapped ACE",
+	"name": "Wrapped ACE",
+	"coingecko": "wrapped-ace",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x49d5cC521F75e13fa8eb4E89E9D381352C897c96",
+	"symbol": "Bridged Tether (Wormhole)",
+	"name": "Bridged Tether (Wormhole)",
+	"coingecko": "tether-usd-wormhole",
+	"sources": [
+		"coingecko"
+	]
+}

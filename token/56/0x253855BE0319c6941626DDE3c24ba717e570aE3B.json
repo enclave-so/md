@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x253855BE0319c6941626DDE3c24ba717e570aE3B",
+	"symbol": "NUTZ",
+	"name": "NUTZ",
+	"coingecko": "nutz",
+	"sources": [
+		"coingecko"
+	]
+}

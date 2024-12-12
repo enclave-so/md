@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x74C22834744E8D5e36c79420Ff7b057964Aba8a7",
+	"symbol": "NFTBomb",
+	"name": "NFTBomb",
+	"coingecko": "nftbomb",
+	"sources": [
+		"coingecko"
+	]
+}

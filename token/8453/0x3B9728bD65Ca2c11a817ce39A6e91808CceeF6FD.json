@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x3B9728bD65Ca2c11a817ce39A6e91808CceeF6FD",
+	"symbol": "IHF Smart Debase Token",
+	"name": "IHF Smart Debase Token",
+	"coingecko": "ihf-smart-debase-token",
+	"sources": [
+		"coingecko"
+	]
+}

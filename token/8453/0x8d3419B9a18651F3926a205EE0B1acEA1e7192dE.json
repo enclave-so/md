@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x8d3419B9a18651F3926a205EE0B1acEA1e7192dE",
+	"symbol": "Law of Attraction",
+	"name": "Law of Attraction",
+	"coingecko": "law-of-attraction",
+	"sources": [
+		"coingecko"
+	]
+}

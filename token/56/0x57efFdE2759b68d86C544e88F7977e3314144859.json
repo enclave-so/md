@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x57efFdE2759b68d86C544e88F7977e3314144859",
+	"symbol": "TosDis",
+	"name": "TosDis",
+	"coingecko": "tosdis",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xa3a2Cdd230f9B3ff6E01A01534a3eD3CBf049815",
+	"symbol": "zkRace",
+	"name": "zkRace",
+	"coingecko": "derace",
+	"sources": [
+		"coingecko"
+	]
+}

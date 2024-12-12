@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xAF6E18Ee53693C3bcd144C27Df54320e29097595",
+	"symbol": "Honey",
+	"name": "Honey",
+	"coingecko": "hive-network",
+	"sources": [
+		"coingecko"
+	]
+}

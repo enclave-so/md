@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x6289812163af9421E566B3d74774074fAc2A0441",
+	"symbol": "Crusaders of Crypto",
+	"name": "Crusaders of Crypto",
+	"coingecko": "crusaders-of-crypto",
+	"sources": [
+		"coingecko"
+	]
+}

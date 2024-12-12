@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xe90d1567ecEF9282CC1AB348D9e9E2ac95659B99",
+	"symbol": "CoinxPad",
+	"name": "CoinxPad",
+	"coingecko": "coinxpad",
+	"sources": [
+		"coingecko"
+	]
+}

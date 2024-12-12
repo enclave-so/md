@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x5ed25E305E08F58AFD7995EaC72563E6BE65A617",
+	"symbol": "Wrapped NEAR (Universal)",
+	"name": "Wrapped NEAR (Universal)",
+	"coingecko": "wrapped-near-universal",
+	"sources": [
+		"coingecko"
+	]
+}

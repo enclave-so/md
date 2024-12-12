@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x95017e6f16375e63E5cB4D3a5fbF3C40775B08f4",
+	"symbol": "Catchcoin",
+	"name": "Catchcoin",
+	"coingecko": "catchcoin",
+	"sources": [
+		"coingecko"
+	]
+}

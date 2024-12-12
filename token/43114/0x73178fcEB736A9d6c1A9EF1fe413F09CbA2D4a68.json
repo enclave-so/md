@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x73178fcEB736A9d6c1A9EF1fe413F09CbA2D4a68",
+	"symbol": "RealFevr",
+	"name": "RealFevr",
+	"coingecko": "realfevr",
+	"sources": [
+		"coingecko"
+	]
+}

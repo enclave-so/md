@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xc9132C76060F6b319764Ea075973a650A1a53bC9",
+	"symbol": "DuckDaoDime",
+	"name": "DuckDaoDime",
+	"coingecko": "duckdaodime",
+	"sources": [
+		"coingecko"
+	]
+}

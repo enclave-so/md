@@ -1,0 +1,13 @@
+{
+	"chain": 43114,
+	"address": "0xCE1bFFBD5374Dac86a2893119683F4911a2F7814",
+	"symbol": "SPELL",
+	"name": "Spell Token",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0xCE1bFFBD5374Dac86a2893119683F4911a2F7814.jpg",
+	"coingecko": "spell-token",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

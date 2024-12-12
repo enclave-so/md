@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x749e5334752466CdA899B302ed4176B8573dC877",
+	"symbol": "Assimilate",
+	"name": "Assimilate",
+	"coingecko": "assimilate",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x0028e1E60167b48a938B785AA5292917E7eacA8b",
+	"symbol": "Coinye West",
+	"name": "Coinye West",
+	"coingecko": "coinye-west",
+	"sources": [
+		"coingecko"
+	]
+}

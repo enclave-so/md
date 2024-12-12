@@ -1,0 +1,11 @@
+{
+	"chain": 42170,
+	"address": "0x6aB6d61428fde76768D7b45D8BFeec19c6eF91A8",
+	"symbol": "RUM",
+	"name": "DPS Rum",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum-nova/0x6aB6d61428fde76768D7b45D8BFeec19c6eF91A8.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

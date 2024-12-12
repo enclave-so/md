@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0xcCF580E697B8bBA73748BA881C1872DD4fB01cdA",
+	"symbol": "Lueygi",
+	"name": "Lueygi",
+	"coingecko": "lueygi",
+	"sources": [
+		"coingecko"
+	]
+}

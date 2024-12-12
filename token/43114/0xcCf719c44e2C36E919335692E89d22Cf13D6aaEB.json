@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0xcCf719c44e2C36E919335692E89d22Cf13D6aaEB",
+	"symbol": "OpenBlox",
+	"name": "OpenBlox",
+	"coingecko": "openblox",
+	"sources": [
+		"coingecko"
+	]
+}

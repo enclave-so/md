@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x5F2F6c4C491B690216E0f8Ea753fF49eF4E36ba6",
+	"symbol": "Metaland Shares",
+	"name": "Metaland Shares",
+	"coingecko": "pikaster",
+	"sources": [
+		"coingecko"
+	]
+}

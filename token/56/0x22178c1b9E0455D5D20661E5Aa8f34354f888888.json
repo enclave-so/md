@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x22178c1b9E0455D5D20661E5Aa8f34354f888888",
+	"symbol": "Chinese PEPE",
+	"name": "Chinese PEPE",
+	"coingecko": "chinese-pepe",
+	"sources": [
+		"coingecko"
+	]
+}

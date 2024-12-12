@@ -1,0 +1,10 @@
+{
+	"chain": 8217,
+	"address": "0x30C103f8f5A3A732DFe2dCE1Cc9446f545527b43",
+	"symbol": "WJEWEL",
+	"name": "WJEWEL",
+	"coingecko": "wjewel",
+	"sources": [
+		"coingecko"
+	]
+}

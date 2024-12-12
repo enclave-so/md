@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x7Fdf0d77f9F906ADDc7F3B75A73df941AE65D7d6",
+	"symbol": "GeoLeaf",
+	"name": "GeoLeaf",
+	"coingecko": "geoleaf-2",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x8EC1877698ACF262Fe8Ad8a295ad94D6ea258988",
+	"symbol": "Davos.xyz USD",
+	"name": "Davos.xyz USD",
+	"coingecko": "davos-protocol",
+	"sources": [
+		"coingecko"
+	]
+}

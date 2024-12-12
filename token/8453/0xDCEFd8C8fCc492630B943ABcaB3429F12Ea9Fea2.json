@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xDCEFd8C8fCc492630B943ABcaB3429F12Ea9Fea2",
+	"symbol": "KlimaDAO",
+	"name": "KlimaDAO",
+	"coingecko": "klima-dao",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x88Faea256f789F8dD50dE54F9C807eEf24f71b16",
+	"symbol": "Landwolf",
+	"name": "Landwolf",
+	"coingecko": "landwolf-base",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x8Cb623789b566f7A992F2677DdbA7aF7191B711A",
+	"symbol": "Jump Forever",
+	"name": "Jump Forever",
+	"coingecko": "jump-forever",
+	"sources": [
+		"coingecko"
+	]
+}

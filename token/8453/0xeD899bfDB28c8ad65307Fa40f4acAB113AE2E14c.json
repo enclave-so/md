@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xeD899bfDB28c8ad65307Fa40f4acAB113AE2E14c",
+	"symbol": "Roost",
+	"name": "Roost",
+	"coingecko": "roost",
+	"sources": [
+		"coingecko"
+	]
+}

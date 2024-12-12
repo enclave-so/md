@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x417Ac0e078398C154EdFadD9Ef675d30Be60Af93",
+	"symbol": "crvUSD",
+	"name": "crvUSD",
+	"coingecko": "crvusd",
+	"sources": [
+		"coingecko"
+	]
+}

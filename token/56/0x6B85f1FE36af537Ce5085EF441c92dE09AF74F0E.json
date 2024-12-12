@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x6B85f1FE36af537Ce5085EF441c92dE09AF74F0E",
+	"symbol": "Robotic Doge",
+	"name": "Robotic Doge",
+	"coingecko": "robotic-doge",
+	"sources": [
+		"coingecko"
+	]
+}

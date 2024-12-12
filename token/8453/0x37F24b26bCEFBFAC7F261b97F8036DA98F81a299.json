@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x37F24b26bCEFBFAC7F261b97F8036DA98F81a299",
+	"symbol": "Brish",
+	"name": "Brish",
+	"coingecko": "brish",
+	"sources": [
+		"coingecko"
+	]
+}

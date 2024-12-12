@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x1964dd991a98690578310BA826C3755dfc753e5C",
+	"symbol": "SCART360",
+	"name": "SCART360",
+	"coingecko": "scart360",
+	"sources": [
+		"coingecko"
+	]
+}

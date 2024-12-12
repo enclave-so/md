@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x5D0E95C15cA50F13fB86938433269D03112409Fe",
+	"symbol": "Knight War Spirits",
+	"name": "Knight War Spirits",
+	"coingecko": "knight-war-spirits",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"chain": 66,
+	"address": "0xaa27bADaa3C9ec9081b8f6C9cDd2bf375F143780",
+	"symbol": "SHIB",
+	"name": "SHIB",
+	"decimals": 18,
+	"logo": "https://static.coinall.ltd/cdn/explorer/okexchain/exchain_shibk.png",
+	"sources": [
+		"sushiswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x25e1c298F100d7C600E9e44d46788C1Ebbd4f69B",
+	"symbol": "Pike Finance",
+	"name": "Pike Finance",
+	"coingecko": "pike-finance",
+	"sources": [
+		"coingecko"
+	]
+}

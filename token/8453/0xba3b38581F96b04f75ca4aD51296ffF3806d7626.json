@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xba3b38581F96b04f75ca4aD51296ffF3806d7626",
+	"symbol": "Based Potato",
+	"name": "Based Potato",
+	"coingecko": "based-potato",
+	"sources": [
+		"coingecko"
+	]
+}

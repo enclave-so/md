@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x2B5D9ADea07B590b638FFc165792b2C610EdA649",
+	"symbol": "Cakepie",
+	"name": "Cakepie",
+	"coingecko": "cakepie-xyz",
+	"sources": [
+		"coingecko"
+	]
+}

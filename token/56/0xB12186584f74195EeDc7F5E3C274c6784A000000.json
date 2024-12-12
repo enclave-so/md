@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xB12186584f74195EeDc7F5E3C274c6784A000000",
+	"symbol": "Black Hole Coin",
+	"name": "Black Hole Coin",
+	"coingecko": "black-hole-coin",
+	"sources": [
+		"coingecko"
+	]
+}

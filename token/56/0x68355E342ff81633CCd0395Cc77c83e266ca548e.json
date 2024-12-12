@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x68355E342ff81633CCd0395Cc77c83e266ca548e",
+	"symbol": "YESorNO",
+	"name": "YESorNO",
+	"coingecko": "yesorno-2",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x24CB2B89844604C57350776D81e14765D03b91dE",
+	"symbol": "Zunami ETH",
+	"name": "Zunami ETH",
+	"coingecko": "zunami-eth-2",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x2dA8312e2C08B79104c6B18bA26Bc7065ABEC704",
+	"symbol": "Bawls onu",
+	"name": "Bawls onu",
+	"coingecko": "bawls-onu",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,9 @@
+{
+	"chain": 56,
+	"address": "0x0000000000000000000000000000000000000000",
+	"symbol": "BNB",
+	"name": "Binance Coin",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/825/large/bnb-icon2_2x.png?1644979850",
+	"coingecko": "binancecoin"
+}

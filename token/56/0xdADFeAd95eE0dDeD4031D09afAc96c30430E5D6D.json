@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xdADFeAd95eE0dDeD4031D09afAc96c30430E5D6D",
+	"symbol": "Fafy Token",
+	"name": "Fafy Token",
+	"coingecko": "fafy-token",
+	"sources": [
+		"coingecko"
+	]
+}

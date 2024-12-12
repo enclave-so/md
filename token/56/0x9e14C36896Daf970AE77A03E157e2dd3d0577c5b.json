@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x9e14C36896Daf970AE77A03E157e2dd3d0577c5b",
+	"symbol": "Autentic",
+	"name": "Autentic",
+	"coingecko": "autentic",
+	"sources": [
+		"coingecko"
+	]
+}

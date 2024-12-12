@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xa1ED0bD9A4776830c5b7bA004F26427b71152CA5",
+	"symbol": "GameGPT",
+	"name": "GameGPT",
+	"coingecko": "gamegpt",
+	"sources": [
+		"coingecko"
+	]
+}

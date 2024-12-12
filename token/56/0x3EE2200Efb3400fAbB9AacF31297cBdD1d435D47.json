@@ -1,0 +1,13 @@
+{
+	"chain": 56,
+	"address": "0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47",
+	"symbol": "ADA",
+	"name": "Cardano Token",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/ada.jpg",
+	"coingecko": "binance-peg-cardano",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

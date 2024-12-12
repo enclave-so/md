@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xd260115030b9fB6849da169a01ed80b6496d1e99",
+	"symbol": "Based Rate",
+	"name": "Based Rate",
+	"coingecko": "based-rate",
+	"sources": [
+		"coingecko"
+	]
+}

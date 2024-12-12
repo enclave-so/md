@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x9a26e6D24Df036B0b015016D1b55011c19E76C87",
+	"symbol": "Dragon Mainland Shards",
+	"name": "Dragon Mainland Shards",
+	"coingecko": "dragon-mainland-shards",
+	"sources": [
+		"coingecko"
+	]
+}

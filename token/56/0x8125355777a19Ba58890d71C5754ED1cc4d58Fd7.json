@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x8125355777a19Ba58890d71C5754ED1cc4d58Fd7",
+	"symbol": "MAKE",
+	"name": "MAKE",
+	"coingecko": "make",
+	"sources": [
+		"coingecko"
+	]
+}

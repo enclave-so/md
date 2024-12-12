@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x40E51e0eC04283e300F12f6bB98DA157Bb22036E",
+	"symbol": "bloXmove",
+	"name": "bloXmove",
+	"coingecko": "bloxmove-erc20",
+	"sources": [
+		"coingecko"
+	]
+}

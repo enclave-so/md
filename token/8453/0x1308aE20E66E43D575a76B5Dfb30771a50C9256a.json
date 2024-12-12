@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x1308aE20E66E43D575a76B5Dfb30771a50C9256a",
+	"symbol": "BaseFrog",
+	"name": "BaseFrog",
+	"coingecko": "basefrog",
+	"sources": [
+		"coingecko"
+	]
+}

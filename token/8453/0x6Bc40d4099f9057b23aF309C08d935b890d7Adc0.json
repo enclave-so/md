@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x6Bc40d4099f9057b23aF309C08d935b890d7Adc0",
+	"symbol": "SnailBrook",
+	"name": "SnailBrook",
+	"coingecko": "snailbrook",
+	"sources": [
+		"coingecko"
+	]
+}

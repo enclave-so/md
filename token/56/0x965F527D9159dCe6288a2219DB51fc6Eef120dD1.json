@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x965F527D9159dCe6288a2219DB51fc6Eef120dD1",
+	"symbol": "Biswap",
+	"name": "Biswap",
+	"coingecko": "biswap",
+	"sources": [
+		"coingecko"
+	]
+}

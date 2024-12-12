@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xA64455a4553C9034236734FadDAddbb64aCE4Cc7",
+	"symbol": "Santos FC Fan Token",
+	"name": "Santos FC Fan Token",
+	"coingecko": "santos-fc-fan-token",
+	"sources": [
+		"coingecko"
+	]
+}

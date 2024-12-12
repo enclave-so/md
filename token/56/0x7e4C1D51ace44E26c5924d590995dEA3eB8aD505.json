@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x7e4C1D51ace44E26c5924d590995dEA3eB8aD505",
+	"symbol": "Gameta",
+	"name": "Gameta",
+	"coingecko": "gameta",
+	"sources": [
+		"coingecko"
+	]
+}
