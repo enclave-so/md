@@ -6,7 +6,7 @@ Easily fetchable via frontend API
 
 Example: Fetch USDC on Base network
 ```bash
-curl -X GET curl https://raw.githubusercontent.com/enclave-so/md/refs/heads/main/token/8453/0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913.json
+curl -X GET https://raw.githubusercontent.com/enclave-so/md/refs/heads/main/token/8453/0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913.json
 ```
 
 Response format:
@@ -27,7 +27,7 @@ Response format:
 
 Example: Fetch all tokens on Base network
 ```bash
-curl -X GET curl https://raw.githubusercontent.com/enclave-so/md/refs/heads/main/tokens/8453.json
+curl -X GET https://raw.githubusercontent.com/enclave-so/md/refs/heads/main/tokens/8453.json
 ```
 
 Response format:
