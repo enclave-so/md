@@ -55,7 +55,7 @@ Response format:
 Native tokens (like ETH) use the zero address: `0x0000000000000000000000000000000000000000` (also known as `address(0)` in Solidity)
 
 ### All Tokens
-Under chain `0`, you can find all tokens from all chains. `tokens/0.json` is a merged list of all tokens from all chains.
+`tokens/0.json` is a merged list of all tokens from all chains.
 
 ### Token Type
 ```ts
