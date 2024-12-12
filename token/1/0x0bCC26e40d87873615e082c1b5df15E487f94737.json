@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x0bCC26e40d87873615e082c1b5df15E487f94737",
-	"symbol": "SpecialMetalX",
+	"symbol": "SMETX",
 	"name": "SpecialMetalX",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/37712/thumb/82-wb8sp_400x400.jpg?1715275652",
 	"coingecko": "specialmetalx",
 	"sources": [
 		"coingecko"

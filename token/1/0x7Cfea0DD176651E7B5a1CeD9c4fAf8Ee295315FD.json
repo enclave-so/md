@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x7Cfea0DD176651E7B5a1CeD9c4fAf8Ee295315FD",
-	"symbol": "Prime Numbers Labs",
+	"symbol": "PRNT",
 	"name": "Prime Numbers Labs",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/22669/thumb/primenumers_favicon_01.png?1696521981",
 	"coingecko": "prime-numbers",
 	"sources": [
 		"coingecko"

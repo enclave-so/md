@@ -2,9 +2,9 @@
 	"chain": 1,
 	"address": "0x80fB784B7eD66730e8b1DBd9820aFD29931aab03",
 	"symbol": "LEND",
-	"name": "EthLend",
+	"name": "Aave  OLD ",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/lend.jpg",
+	"logo": "https://assets.coingecko.com/coins/images/1365/thumb/ethlend.png?1696502424",
 	"coingecko": "ethlend",
 	"sources": [
 		"coingecko",

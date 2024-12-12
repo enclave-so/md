@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xF89674f18309A2E97843c6e9B19C07c22cAEF6d5",
-	"symbol": "cyb3rgam3r420",
+	"symbol": "GAMER",
 	"name": "cyb3rgam3r420",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/32071/thumb/GamerLogo.jpg?1696586649",
 	"coingecko": "cyb3rgam3r420",
 	"sources": [
 		"coingecko"

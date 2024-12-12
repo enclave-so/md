@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xaE5B2aA98532C0c27C88f2085D66b5263F4B9feE",
-	"symbol": "IntelliSecure Systems",
+	"symbol": "ISEC",
 	"name": "IntelliSecure Systems",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/39847/thumb/isec_200x200.png?1724295959",
 	"coingecko": "intellisecure-systems",
 	"sources": [
 		"coingecko"

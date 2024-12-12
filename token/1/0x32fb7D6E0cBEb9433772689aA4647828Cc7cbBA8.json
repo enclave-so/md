@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x32fb7D6E0cBEb9433772689aA4647828Cc7cbBA8",
-	"symbol": "Cove DAO",
+	"symbol": "COVE",
 	"name": "Cove DAO",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/38023/thumb/cove.png?1716316667",
 	"coingecko": "cove-dao",
 	"sources": [
 		"coingecko"

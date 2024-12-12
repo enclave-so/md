@@ -1,0 +1,11 @@
+{
+	"chain": 8453,
+	"address": "0x235226d2050C001FE78dED104364F9C2eB852E42",
+	"symbol": "INFC",
+	"name": "Infected",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/INFC/logo.png",
+	"sources": [
+		"optimism"
+	]
+}

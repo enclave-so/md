@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xB6ff96B8A8d214544Ca0dBc9B33f7AD6503eFD32",
-	"symbol": "Sync Network",
+	"symbol": "SYNC",
 	"name": "Sync Network",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/13231/thumb/sync_network.png?1696513009",
 	"coingecko": "sync-network",
 	"sources": [
 		"coingecko"

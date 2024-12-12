@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x8E964e35A76103Af4C7D7318e1B1a82c682ae296",
-	"symbol": "Fellaz",
+	"symbol": "FLZ",
 	"name": "Fellaz",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/26169/thumb/logo_green.png?1717589291",
 	"coingecko": "fellaz",
 	"sources": [
 		"coingecko"

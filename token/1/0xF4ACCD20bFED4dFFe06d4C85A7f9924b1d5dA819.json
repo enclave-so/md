@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0xF4ACCD20bFED4dFFe06d4C85A7f9924b1d5dA819",
+	"symbol": "21DOT",
+	"name": "21.co Wrapped Polkadot",
+	"decimals": 10,
+	"logo": "https://cdn.indexcoop.com/21dot.svg",
+	"sources": [
+		"indexcoop"
+	]
+}

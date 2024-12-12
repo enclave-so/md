@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xF2B2f7b47715256Ce4eA43363a867fdce9353e3A",
-	"symbol": "Bitgert",
+	"symbol": "BRISE",
 	"name": "Bitgert",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/17388/thumb/200x200.png?1696516937",
 	"coingecko": "bitrise-token",
 	"sources": [
 		"coingecko"

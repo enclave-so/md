@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xd2bDaAF2b9cc6981fd273DcB7C04023bFbe0a7fe",
-	"symbol": "Aviator",
+	"symbol": "AVI",
 	"name": "Aviator",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31024/thumb/avi-200x200png.png?1711119363",
 	"coingecko": "aviator",
 	"sources": [
 		"coingecko"

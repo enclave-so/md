@@ -1,13 +1,14 @@
 {
 	"chain": 137,
 	"address": "0x3Ad707dA309f3845cd602059901E39C4dcd66473",
-	"symbol": "ETH2X-FLI-P",
+	"symbol": "ETH2x-FLI-P",
 	"name": "ETH 2x Flexible Leverage Index",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/matic/0x3Ad707dA309f3845cd602059901E39C4dcd66473.jpg",
+	"logo": "https://cdn.indexcoop.com/eth2xflip.svg",
 	"coingecko": "index-coop-eth-2x-flexible-leverage-index",
 	"sources": [
 		"coingecko",
+		"indexcoop",
 		"sushiswap"
 	]
 }

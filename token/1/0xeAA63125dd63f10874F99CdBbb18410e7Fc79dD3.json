@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xeAA63125dd63f10874F99CdBbb18410e7Fc79dD3",
-	"symbol": "Hemule",
+	"symbol": "HEMULE",
 	"name": "Hemule",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/33798/thumb/photo_2023-12-18_04-47-31.jpg?1702990624",
 	"coingecko": "hemule",
 	"sources": [
 		"coingecko"

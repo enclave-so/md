@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x6FCE4A401B6B80ACe52baAefE4421Bd188e76F6f",
-	"symbol": "Aave MANA v1",
+	"symbol": "AMANA",
 	"name": "Aave MANA v1",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/11730/thumb/aMANA.png?1696511611",
 	"coingecko": "aave-mana-v1",
 	"sources": [
 		"coingecko"

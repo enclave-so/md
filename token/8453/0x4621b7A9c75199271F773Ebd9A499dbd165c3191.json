@@ -2,9 +2,12 @@
 	"chain": 8453,
 	"address": "0x4621b7A9c75199271F773Ebd9A499dbd165c3191",
 	"symbol": "DOLA",
-	"name": "DOLA",
+	"name": "Dola USD Stablecoin",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/DOLA/logo.svg",
 	"coingecko": "dola-usd",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

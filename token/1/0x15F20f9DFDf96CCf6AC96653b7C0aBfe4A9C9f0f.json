@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x15F20f9DFDf96CCf6AC96653b7C0aBfe4A9C9f0f",
-	"symbol": "Wall Street Baby",
+	"symbol": "WSB",
 	"name": "Wall Street Baby",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/15042/thumb/GMih0pSW_400x400.png?1696514701",
 	"coingecko": "wall-street-baby",
 	"sources": [
 		"coingecko"

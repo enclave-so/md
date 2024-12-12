@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x5713C26280647AdaD2f25bB54376943eCaA9d8e3",
-	"symbol": "Elon Xmas",
+	"symbol": "XMAS",
 	"name": "Elon Xmas",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/33721/thumb/Elon_Xmas.png?1702885377",
 	"coingecko": "elon-xmas",
 	"sources": [
 		"coingecko"

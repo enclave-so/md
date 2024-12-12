@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xdd0f28e19C1780eb6396170735D45153D261490d",
-	"symbol": "Gauntlet USDC Prime Morpho Vault",
+	"symbol": "GTUSDC",
 	"name": "Gauntlet USDC Prime Morpho Vault",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/51338/thumb/usdc.png?1730814917",
 	"coingecko": "gauntlet-usdc-prime-morpho-vault",
 	"sources": [
 		"coingecko"

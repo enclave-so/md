@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x77571a64342667f7818520eF004b2b91F47a266b",
-	"symbol": "SnailMoon",
+	"symbol": "SNM",
 	"name": "SnailMoon",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30401/thumb/SnailMoonCoingecko.png?1696529291",
 	"coingecko": "snailmoon",
 	"sources": [
 		"coingecko"

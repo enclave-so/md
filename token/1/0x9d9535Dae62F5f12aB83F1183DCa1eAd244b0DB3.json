@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x9d9535Dae62F5f12aB83F1183DCa1eAd244b0DB3",
-	"symbol": "YieldBricks",
+	"symbol": "YBR",
 	"name": "YieldBricks",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/51471/thumb/fjord-token-logo-darkbg.png?1731384618",
 	"coingecko": "yieldbricks",
 	"sources": [
 		"coingecko"

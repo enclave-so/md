@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xAeC65404DdC3af3C897AD89571d5772C1A695F22",
-	"symbol": "Phoenix Finance",
+	"symbol": "PHX",
 	"name": "Phoenix Finance",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/17675/thumb/phx_logo.png?1696517205",
 	"coingecko": "phoenix-token",
 	"sources": [
 		"coingecko"

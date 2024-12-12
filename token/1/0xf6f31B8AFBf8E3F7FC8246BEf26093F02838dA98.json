@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xf6f31B8AFBf8E3F7FC8246BEf26093F02838dA98",
-	"symbol": "Unicorn Metaverse",
+	"symbol": "UNIVERSE",
 	"name": "Unicorn Metaverse",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/33077/thumb/rar4.JPG?1700549656",
 	"coingecko": "unicorn-metaverse",
 	"sources": [
 		"coingecko"

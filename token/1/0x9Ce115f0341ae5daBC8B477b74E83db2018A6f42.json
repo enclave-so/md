@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0x9Ce115f0341ae5daBC8B477b74E83db2018A6f42",
-	"symbol": "HairDAO",
+	"symbol": "HAIR",
 	"name": "HairDAO",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/29620/thumb/LinkedIn_Logo.jpg?1696528556",
 	"coingecko": "hairdao",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

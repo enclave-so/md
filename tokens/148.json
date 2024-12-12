@@ -1,6 +1,26 @@
 [
 	{
 		"chain": 148,
+		"address": "0xE5f3dCC241Dd008E3c308e57cf4F7880eA9210F8",
+		"symbol": "TangleSwap VOID",
+		"name": "TangleSwap VOID",
+		"coingecko": "tangleswap-void",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 148,
+		"address": "0x5c09Ef80efb7Aefd0a25289715e0a164c98Ac713",
+		"symbol": "ZeroSwapNFT",
+		"name": "ZeroSwapNFT",
+		"coingecko": "zeroswapnft",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 148,
 		"address": "0xf21Bc150F4D08Dce61bd16cDbfcB3D212b575b26",
 		"symbol": "Magic LUM",
 		"name": "Magic LUM",
@@ -45,26 +65,6 @@
 		"symbol": "ShimmerSea Lum",
 		"name": "ShimmerSea Lum",
 		"coingecko": "shimmersea-lum",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 148,
-		"address": "0xE5f3dCC241Dd008E3c308e57cf4F7880eA9210F8",
-		"symbol": "TangleSwap VOID",
-		"name": "TangleSwap VOID",
-		"coingecko": "tangleswap-void",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 148,
-		"address": "0x5c09Ef80efb7Aefd0a25289715e0a164c98Ac713",
-		"symbol": "ZeroSwapNFT",
-		"name": "ZeroSwapNFT",
-		"coingecko": "zeroswapnft",
 		"sources": [
 			"coingecko"
 		]

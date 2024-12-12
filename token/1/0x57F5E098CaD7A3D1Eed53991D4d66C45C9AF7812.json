@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x57F5E098CaD7A3D1Eed53991D4d66C45C9AF7812",
-	"symbol": "Wrapped USDM",
+	"symbol": "WUSDM",
 	"name": "Wrapped USDM",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/33785/thumb/wUSDM_PNG_240px.png?1702981552",
 	"coingecko": "wrapped-usdm",
 	"sources": [
 		"coingecko"

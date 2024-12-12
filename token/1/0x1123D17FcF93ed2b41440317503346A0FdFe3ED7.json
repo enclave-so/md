@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x1123D17FcF93ed2b41440317503346A0FdFe3ED7",
-	"symbol": "Prometheum Prodigy",
+	"symbol": "PMPY",
 	"name": "Prometheum Prodigy",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/32522/thumb/IMG_1277.jpeg?1708596900",
 	"coingecko": "prometheum-prodigy",
 	"sources": [
 		"coingecko"

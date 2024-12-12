@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x00000000051b48047bE6DC0Ada6DE5c3de86A588",
-	"symbol": "Baby Shiba Inu",
+	"symbol": "BABYSHIB",
 	"name": "Baby Shiba Inu",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31350/thumb/100x100_%287%29_%282%29.png?1696530167",
 	"coingecko": "baby-shiba-inu-erc",
 	"sources": [
 		"coingecko"

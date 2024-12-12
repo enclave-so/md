@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0x23e8a70534308a4AAF76fb8C32ec13d17a3BD89e",
-	"symbol": "LUSD [OLD]",
-	"name": "LUSD [OLD]",
+	"symbol": "lUSD",
+	"name": "lUSD",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x23e8a70534308a4AAF76fb8C32ec13d17a3BD89e.png",
 	"coingecko": "lusd",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

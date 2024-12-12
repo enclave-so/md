@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xa939C02DbA8F237b40d2A3E96AD4252b00Bb8a72",
-	"symbol": "Eigenpie LsETH",
+	"symbol": "MLSETH",
 	"name": "Eigenpie LsETH",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/37205/thumb/mLsETH.png?1713764884",
 	"coingecko": "eigenpie-lseth",
 	"sources": [
 		"coingecko"

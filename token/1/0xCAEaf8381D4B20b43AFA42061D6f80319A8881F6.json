@@ -3,6 +3,8 @@
 	"address": "0xCAEaf8381D4B20b43AFA42061D6f80319A8881F6",
 	"symbol": "R34P",
 	"name": "R34P",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/13393/thumb/r34p_logo.png?1696513155",
 	"coingecko": "r34p",
 	"sources": [
 		"coingecko"

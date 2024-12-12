@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0x259B30C916e440FB79747cD559207FfdaBBae057",
-	"symbol": "Overnight Finance",
-	"name": "Overnight Finance",
+	"symbol": "OVN",
+	"name": "OVN",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x259B30C916e440FB79747cD559207FfdaBBae057.png",
 	"coingecko": "overnight-finance",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

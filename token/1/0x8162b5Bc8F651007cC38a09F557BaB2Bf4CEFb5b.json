@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x8162b5Bc8F651007cC38a09F557BaB2Bf4CEFb5b",
-	"symbol": "Streamer Inu",
+	"symbol": "STRM",
 	"name": "Streamer Inu",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/27994/thumb/logo.png?1696527011",
 	"coingecko": "streamer-inu",
 	"sources": [
 		"coingecko"

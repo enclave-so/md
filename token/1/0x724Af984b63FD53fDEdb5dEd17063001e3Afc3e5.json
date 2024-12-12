@@ -3,6 +3,8 @@
 	"address": "0x724Af984b63FD53fDEdb5dEd17063001e3Afc3e5",
 	"symbol": "ROCK",
 	"name": "ROCK",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/39046/thumb/new_logo_rock_200x200.png?1727591245",
 	"coingecko": "rock-3",
 	"sources": [
 		"coingecko"

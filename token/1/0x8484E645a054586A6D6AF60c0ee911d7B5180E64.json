@@ -3,6 +3,8 @@
 	"address": "0x8484E645a054586A6D6AF60c0ee911d7B5180E64",
 	"symbol": "DYOR",
 	"name": "DYOR",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30149/thumb/dyor.jpeg?1696529070",
 	"coingecko": "dyor-token-2",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xd433138d12beB9929FF6fd583DC83663eea6Aaa5",
-	"symbol": "Bitrue Coin",
+	"symbol": "BTR",
 	"name": "Bitrue Coin",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/8873/thumb/Bittrue_logo.png?1696509025",
 	"coingecko": "bitrue-token",
 	"sources": [
 		"coingecko"

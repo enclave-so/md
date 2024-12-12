@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x4bceA5E4d0F6eD53cf45e7a28FebB2d3621D7438",
-	"symbol": "Modex",
+	"symbol": "MODEX",
 	"name": "Modex",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/2851/thumb/LhWIeAg.png?1696503608",
 	"coingecko": "modex",
 	"sources": [
 		"coingecko"

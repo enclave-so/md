@@ -1,0 +1,11 @@
+{
+	"chain": 42161,
+	"address": "0x7468a5d8E02245B00E8C0217fCE021C70Bc51305",
+	"symbol": "FRAX",
+	"name": "Frax",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/13422/thumb/frax_logo.png?1608476506",
+	"sources": [
+		"uniswap"
+	]
+}

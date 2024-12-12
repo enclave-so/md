@@ -3,6 +3,8 @@
 	"address": "0xaC9518BA93EeB2336A03137d254d8CC2e4d0fA38",
 	"symbol": "EDUM",
 	"name": "EDUM",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/32634/thumb/edum_logo_750.png?1698826232",
 	"coingecko": "edum",
 	"sources": [
 		"coingecko"

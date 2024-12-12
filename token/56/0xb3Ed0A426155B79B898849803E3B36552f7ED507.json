@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0xb3Ed0A426155B79B898849803E3B36552f7ED507",
-	"symbol": "Pendle",
+	"symbol": "PENDLE",
 	"name": "Pendle",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0xb3Ed0A426155B79B898849803E3B36552f7ED507.png",
 	"coingecko": "pendle",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

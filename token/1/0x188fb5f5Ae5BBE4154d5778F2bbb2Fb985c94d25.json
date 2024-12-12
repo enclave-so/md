@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x188fb5f5Ae5BBE4154d5778F2bbb2Fb985c94d25",
-	"symbol": "OpenBlox",
+	"symbol": "OBX",
 	"name": "OpenBlox",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/26150/thumb/OBX_token-black_background_preview.png?1696525239",
 	"coingecko": "openblox",
 	"sources": [
 		"coingecko"

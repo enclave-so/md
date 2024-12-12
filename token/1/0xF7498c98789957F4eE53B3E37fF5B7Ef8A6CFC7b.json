@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xF7498c98789957F4eE53B3E37fF5B7Ef8A6CFC7b",
-	"symbol": "DEVAI",
+	"symbol": "0XDEV",
 	"name": "DEVAI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/33294/thumb/DevAi.jpg?1702294618",
 	"coingecko": "contract-dev-ai",
 	"sources": [
 		"coingecko"

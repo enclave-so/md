@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x44971ABF0251958492FeE97dA3e5C5adA88B9185",
-	"symbol": "BasedAI",
+	"symbol": "BASEDAI",
 	"name": "BasedAI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/36607/thumb/1000004475.png?1711964332",
 	"coingecko": "basedai",
 	"sources": [
 		"coingecko"

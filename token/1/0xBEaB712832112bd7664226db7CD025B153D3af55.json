@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xBEaB712832112bd7664226db7CD025B153D3af55",
-	"symbol": "Bright Union",
+	"symbol": "BRIGHT",
 	"name": "Bright Union",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/17552/thumb/BrightToken_Token-only_200x200-1.png?1696517088",
 	"coingecko": "bright-union",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xfe5F141Bf94fE84bC28deD0AB966c16B17490657",
-	"symbol": "Libra Credit",
+	"symbol": "LBA",
 	"name": "Libra Credit",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/3673/thumb/libra-credit.png?1696504352",
 	"coingecko": "libra-credit",
 	"sources": [
 		"coingecko"

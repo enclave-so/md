@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x4507cEf57C46789eF8d1a19EA45f4216bae2B528",
-	"symbol": "TokenFi",
+	"symbol": "TOKEN",
 	"name": "TokenFi",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/32507/thumb/MAIN_TokenFi_logo_icon.png?1698918427",
 	"coingecko": "tokenfi",
 	"sources": [
 		"coingecko"

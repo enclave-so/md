@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xb14df3954FCb59A2B3c7Fad1e9a24988E339ff78",
-	"symbol": "Origin3D",
+	"symbol": "O3D",
 	"name": "Origin3D",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/51903/thumb/image.png?1732136687",
 	"coingecko": "origin3d",
 	"sources": [
 		"coingecko"

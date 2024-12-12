@@ -1,10 +1,14 @@
 {
 	"chain": 56,
 	"address": "0xe4Cc45Bb5DBDA06dB6183E8bf016569f40497Aa5",
-	"symbol": "Galxe",
+	"symbol": "GAL",
 	"name": "Galxe",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/24530/thumb/GAL-Token-Icon.png?1651483533",
 	"coingecko": "project-galaxy",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap",
+		"uniswap"
 	]
 }

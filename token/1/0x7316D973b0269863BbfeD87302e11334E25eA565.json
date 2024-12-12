@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x7316D973b0269863BbfeD87302e11334E25eA565",
-	"symbol": "Ken",
+	"symbol": "KEN",
 	"name": "Ken",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/39535/thumb/b1.png?1722837663",
 	"coingecko": "ken",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x29CbD0510EEc0327992CD6006e63F9Fa8E7f33B7",
-	"symbol": "Tidal Finance",
+	"symbol": "TIDAL",
 	"name": "Tidal Finance",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14460/thumb/Tidal-mono.png?1696514147",
 	"coingecko": "tidal-finance",
 	"sources": [
 		"coingecko"

@@ -1,0 +1,11 @@
+{
+	"chain": 8453,
+	"address": "0x41E99e0F73a88947C52070FF67C19B7aBc171A54",
+	"symbol": "RDMP",
+	"name": "Redemption Finance",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/RDMP/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

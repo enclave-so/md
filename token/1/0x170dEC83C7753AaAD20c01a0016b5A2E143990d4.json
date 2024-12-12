@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x170dEC83C7753AaAD20c01a0016b5A2E143990d4",
-	"symbol": "Wigger",
+	"symbol": "WIGGER",
 	"name": "Wigger",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/32128/thumb/SmartSelect_20231003_234100_Telegram.jpg?1696588180",
 	"coingecko": "wigger",
 	"sources": [
 		"coingecko"

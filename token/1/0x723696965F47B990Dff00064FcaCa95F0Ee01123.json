@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x723696965F47B990Dff00064FcaCa95F0Ee01123",
-	"symbol": "Alpha Radar AI",
+	"symbol": "ARBOT",
 	"name": "Alpha Radar AI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31873/thumb/ARBOT_logo_200*200.png?1696530685",
 	"coingecko": "alpha-radar-bot",
 	"sources": [
 		"coingecko"

@@ -3,6 +3,8 @@
 	"address": "0x896C767371e2d2255f1C33301D29E5577A7Aca11",
 	"symbol": "BULLA",
 	"name": "BULLA",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/50684/thumb/photo_6082222064426664828_x.jpg?1729575397",
 	"coingecko": "bulla",
 	"sources": [
 		"coingecko"

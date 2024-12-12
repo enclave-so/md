@@ -4,10 +4,11 @@
 	"symbol": "MASQ",
 	"name": "MASQ",
 	"decimals": 18,
-	"logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/8376.png",
+	"logo": "https://assets.coingecko.com/coins/images/13699/thumb/masq.png?1696513446",
 	"coingecko": "masq",
 	"sources": [
 		"coingecko",
+		"optimism",
 		"sushiswap"
 	]
 }

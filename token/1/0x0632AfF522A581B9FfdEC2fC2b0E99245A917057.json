@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x0632AfF522A581B9FfdEC2fC2b0E99245A917057",
-	"symbol": "Andy's Cat",
-	"name": "Andy's Cat",
+	"symbol": "CANDY",
+	"name": "Andy s Cat",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/38403/thumb/1000007551.jpg?1717460653",
 	"coingecko": "andy-s-cat",
 	"sources": [
 		"coingecko"

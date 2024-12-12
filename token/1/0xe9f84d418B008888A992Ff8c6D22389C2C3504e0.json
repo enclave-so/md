@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xe9f84d418B008888A992Ff8c6D22389C2C3504e0",
-	"symbol": "Maximus BASE",
+	"symbol": "BASE",
 	"name": "Maximus BASE",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/27683/thumb/IMG_1131.PNG?1696526711",
 	"coingecko": "maximus-base",
 	"sources": [
 		"coingecko"

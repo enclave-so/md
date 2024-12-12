@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xC9fE6E1C76210bE83DC1B5b20ec7FD010B0b1D15",
-	"symbol": "Fringe Finance",
+	"symbol": "FRIN",
 	"name": "Fringe Finance",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/13222/thumb/frin.png?1696513001",
 	"coingecko": "fringe-finance",
 	"sources": [
 		"coingecko"

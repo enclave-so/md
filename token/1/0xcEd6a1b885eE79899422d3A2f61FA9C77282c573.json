@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xcEd6a1b885eE79899422d3A2f61FA9C77282c573",
-	"symbol": "CodeGenie",
+	"symbol": "CODEG",
 	"name": "CodeGenie",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/36784/thumb/CMC_CG.png?1712337652",
 	"coingecko": "codegenie",
 	"sources": [
 		"coingecko"

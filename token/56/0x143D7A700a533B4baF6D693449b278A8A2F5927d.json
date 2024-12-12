@@ -1,0 +1,11 @@
+{
+	"chain": 56,
+	"address": "0x143D7A700a533B4baF6D693449b278A8A2F5927d",
+	"symbol": "sats",
+	"name": "sats",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x143D7A700a533B4baF6D693449b278A8A2F5927d.png",
+	"sources": [
+		"pancakeswap"
+	]
+}

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xcd7C6Ed75151745C893DFC1Dca1dAa1D55034E67",
-	"symbol": "Dinari RIOT",
+	"symbol": "RIOTD",
 	"name": "Dinari RIOT",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/39812/thumb/RIOT.d-200.png?1724166370",
 	"coingecko": "dinari-riot",
 	"sources": [
 		"coingecko"

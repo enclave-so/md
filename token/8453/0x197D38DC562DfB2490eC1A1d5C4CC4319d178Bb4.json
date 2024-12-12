@@ -1,0 +1,11 @@
+{
+	"chain": 8453,
+	"address": "0x197D38DC562DfB2490eC1A1d5C4CC4319d178Bb4",
+	"symbol": "RAC",
+	"name": "RAC",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/RAC/logo.png",
+	"sources": [
+		"optimism"
+	]
+}

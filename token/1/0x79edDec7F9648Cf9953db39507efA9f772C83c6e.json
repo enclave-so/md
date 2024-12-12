@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x79edDec7F9648Cf9953db39507efA9f772C83c6e",
-	"symbol": "Mokens League",
+	"symbol": "MOKA",
 	"name": "Mokens League",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/50326/thumb/logo_moka_200x200.png?1727162318",
 	"coingecko": "mokens-league",
 	"sources": [
 		"coingecko"

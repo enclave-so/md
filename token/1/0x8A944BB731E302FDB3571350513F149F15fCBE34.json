@@ -3,6 +3,8 @@
 	"address": "0x8A944BB731E302FDB3571350513F149F15fCBE34",
 	"symbol": "RIZZ",
 	"name": "RIZZ",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/32968/thumb/IMG_5608.jpeg?1700055758",
 	"coingecko": "rizz",
 	"sources": [
 		"coingecko"

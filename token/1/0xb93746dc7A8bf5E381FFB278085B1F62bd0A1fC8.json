@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xb93746dc7A8bf5E381FFB278085B1F62bd0A1fC8",
-	"symbol": "Sendex AI",
+	"symbol": "SENDEX",
 	"name": "Sendex AI",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/35602/thumb/cg.png?1709277111",
 	"coingecko": "sendex-ai",
 	"sources": [
 		"coingecko"

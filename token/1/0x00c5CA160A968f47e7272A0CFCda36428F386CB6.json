@@ -3,6 +3,8 @@
 	"address": "0x00c5CA160A968f47e7272A0CFCda36428F386CB6",
 	"symbol": "USDEBT",
 	"name": "USDEBT",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31448/thumb/ELIKON_200X200.png?1733983033",
 	"coingecko": "usdebt",
 	"sources": [
 		"coingecko"

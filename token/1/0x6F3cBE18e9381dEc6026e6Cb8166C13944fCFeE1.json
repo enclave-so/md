@@ -3,6 +3,8 @@
 	"address": "0x6F3cBE18e9381dEc6026e6Cb8166C13944fCFeE1",
 	"symbol": "FELIX",
 	"name": "FELIX",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/32897/thumb/200photo_2023-11-11_02-25-13.jpg?1699790963",
 	"coingecko": "felix-2",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x5ABf88cF3444611D13F6D1B39F3f3EE8575c91a2",
-	"symbol": "Super Athletes Token",
+	"symbol": "SAT",
 	"name": "Super Athletes Token",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/27761/thumb/SAT_200.png?1696526784",
 	"coingecko": "super-athletes-token",
 	"sources": [
 		"coingecko"

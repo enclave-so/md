@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x9D9e399e5385e2b9A58d4F775A1E16441b571afb",
-	"symbol": "Metano",
+	"symbol": "METANO",
 	"name": "Metano",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/28183/thumb/logo200x.jpeg?1696527186",
 	"coingecko": "metano",
 	"sources": [
 		"coingecko"

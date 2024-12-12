@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xCb76314C2540199f4B844D4ebbC7998C604880cA",
-	"symbol": "Strawberry AI",
+	"symbol": "BERRY",
 	"name": "Strawberry AI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/39700/thumb/photo_2024-08-13_20-13-39.jpg?1723690584",
 	"coingecko": "strawberry-ai",
 	"sources": [
 		"coingecko"

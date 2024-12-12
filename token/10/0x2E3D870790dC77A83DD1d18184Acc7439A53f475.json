@@ -4,10 +4,12 @@
 	"symbol": "FRAX",
 	"name": "Frax",
 	"decimals": 18,
-	"logo": "https://ethereum-optimism.github.io/data/ZRX/logo.png",
+	"logo": "https://assets.coingecko.com/coins/images/13422/thumb/frax_logo.png?1608476506",
 	"coingecko": "frax",
 	"sources": [
 		"coingecko",
-		"sushiswap"
+		"optimism",
+		"sushiswap",
+		"uniswap"
 	]
 }

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xB1a822cE8c799B0777Ed1F260113819247e1Bf26",
-	"symbol": "HairyPlotterFTX",
+	"symbol": "FTX",
 	"name": "HairyPlotterFTX",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/32116/thumb/HairyPlotterFTX.png?1696585812",
 	"coingecko": "hairyplotterftx",
 	"sources": [
 		"coingecko"

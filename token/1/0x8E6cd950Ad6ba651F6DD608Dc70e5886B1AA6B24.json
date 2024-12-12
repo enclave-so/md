@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x8E6cd950Ad6ba651F6DD608Dc70e5886B1AA6B24",
-	"symbol": "StarLink",
+	"symbol": "STARL",
 	"name": "StarLink",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/16824/thumb/ZxJbRWJ.png?1696516393",
 	"coingecko": "starlink",
 	"sources": [
 		"coingecko"

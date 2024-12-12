@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x244f09d92971D03A779aA66d310579A6517AB9A4",
-	"symbol": "CTO Harambe",
+	"symbol": "HARAMBE",
 	"name": "CTO Harambe",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/50705/thumb/HARAMBE_CTO.png?1728787801",
 	"coingecko": "cto-harambe",
 	"sources": [
 		"coingecko"

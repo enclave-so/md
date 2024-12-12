@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x8442E0e292186854BB6875b2A0fc1308b9Ded793",
-	"symbol": "Print The Pepe",
+	"symbol": "PP",
 	"name": "Print The Pepe",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/29964/thumb/printthepepe.PNG?1696528890",
 	"coingecko": "print-the-pepe",
 	"sources": [
 		"coingecko"

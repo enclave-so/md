@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x4F311C430540db1d64e635EB55f969F1660B2016",
-	"symbol": "Pepe Chain",
+	"symbol": "PC",
 	"name": "Pepe Chain",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/31041/thumb/Pepechain_Token.png?1696529876",
 	"coingecko": "pepe-chain-2",
 	"sources": [
 		"coingecko"

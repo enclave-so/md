@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x59F4F336Bf3D0C49dBfbA4A74eBD2a6aCE40539A",
-	"symbol": "Catcoin",
+	"symbol": "CAT",
 	"name": "Catcoin",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/25279/thumb/cat5.png?1696524419",
 	"coingecko": "catcoin-cash",
 	"sources": [
 		"coingecko"

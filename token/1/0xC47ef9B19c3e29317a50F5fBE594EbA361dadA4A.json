@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xC47ef9B19c3e29317a50F5fBE594EbA361dadA4A",
-	"symbol": "Edelcoin",
+	"symbol": "EDLC",
 	"name": "Edelcoin",
+	"decimals": 6,
+	"logo": "https://assets.coingecko.com/coins/images/31621/thumb/edelcoin_logo_200_%281%29.png?1696530437",
 	"coingecko": "edelcoin",
 	"sources": [
 		"coingecko"

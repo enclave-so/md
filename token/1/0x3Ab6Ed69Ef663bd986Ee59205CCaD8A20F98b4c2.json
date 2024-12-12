@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0x3Ab6Ed69Ef663bd986Ee59205CCaD8A20F98b4c2",
-	"symbol": "Drep",
+	"symbol": "DREP",
 	"name": "Drep",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14578/thumb/KotgsCgS_400x400.jpg?1617094445",
 	"coingecko": "drep-new",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"uniswap"
 	]
 }

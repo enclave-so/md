@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xc8871267e07408b89aA5aEcc58AdCA5E574557F8",
-	"symbol": "Instadapp USDC",
+	"symbol": "IUSDC",
 	"name": "Instadapp USDC",
+	"decimals": 6,
+	"logo": "https://assets.coingecko.com/coins/images/25820/thumb/iUSDC_100x100.png?1696524905",
 	"coingecko": "instadapp-usdc",
 	"sources": [
 		"coingecko"

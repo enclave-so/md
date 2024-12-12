@@ -1,0 +1,11 @@
+{
+	"chain": 56,
+	"address": "0x7dC91cBD6CB5A3E6A95EED713Aa6bF1d987146c8",
+	"symbol": "mwBETH",
+	"name": "Bridged mwBETH",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x7dC91cBD6CB5A3E6A95EED713Aa6bF1d987146c8.png",
+	"sources": [
+		"pancakeswap"
+	]
+}

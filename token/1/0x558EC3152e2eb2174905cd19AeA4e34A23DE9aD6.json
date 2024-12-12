@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x558EC3152e2eb2174905cd19AeA4e34A23DE9aD6",
-	"symbol": "Bread",
+	"symbol": "BRD",
 	"name": "Bread",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/1440/thumb/bread.png?1696502490",
 	"coingecko": "bread",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x504624040e0642921C2c266a9aC37CafBd8cDa4e",
-	"symbol": "Love Power Coin",
+	"symbol": "LOVE",
 	"name": "Love Power Coin",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/37561/thumb/LOVE.jpg?1714874439",
 	"coingecko": "love-power-coin",
 	"sources": [
 		"coingecko"

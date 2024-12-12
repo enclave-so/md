@@ -1,10 +1,14 @@
 {
 	"chain": 56,
 	"address": "0xBc7d6B50616989655AfD682fb42743507003056D",
-	"symbol": "Alchemy Pay",
+	"symbol": "ACH",
 	"name": "Alchemy Pay",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/12390/thumb/ACH_%281%29.png?1599691266",
 	"coingecko": "alchemy-pay",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap",
+		"uniswap"
 	]
 }

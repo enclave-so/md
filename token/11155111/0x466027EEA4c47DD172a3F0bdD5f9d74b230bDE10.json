@@ -1,0 +1,11 @@
+{
+	"chain": 11155111,
+	"address": "0x466027EEA4c47DD172a3F0bdD5f9d74b230bDE10",
+	"symbol": "DOSE",
+	"name": "DOSE",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/DOSE/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

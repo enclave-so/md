@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xA3c31927A092BD54eb9A0B5DfE01D9DB5028BD4f",
-	"symbol": "Espresso Bot",
+	"symbol": "ESPR",
 	"name": "Espresso Bot",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/31091/thumb/ESPR.png?1696529923",
 	"coingecko": "espresso-bot",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xd4c435F5B09F855C3317c8524Cb1F586E42795fa",
-	"symbol": "Cindicator",
+	"symbol": "CND",
 	"name": "Cindicator",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/1006/thumb/cindicator.png?1696502118",
 	"coingecko": "cindicator",
 	"sources": [
 		"coingecko"

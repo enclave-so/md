@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x22514fFb0d7232a56F0c24090E7B68f179FAA940",
-	"symbol": "QORPO WORLD",
+	"symbol": "QORPO",
 	"name": "QORPO WORLD",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35585/thumb/qorpo.jpeg?1709203322",
 	"coingecko": "qopro",
 	"sources": [
 		"coingecko"

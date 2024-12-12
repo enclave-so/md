@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x65E9ED59a6c03e97aE984B6C4ff912448eBD3566",
-	"symbol": "Ryoshi Research",
+	"symbol": "RYOSHI",
 	"name": "Ryoshi Research",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35346/thumb/Ryoshi-4.png?1708319258",
 	"coingecko": "ryoshi-research",
 	"sources": [
 		"coingecko"

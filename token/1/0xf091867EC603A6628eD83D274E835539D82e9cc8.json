@@ -1,13 +1,14 @@
 {
 	"chain": 1,
 	"address": "0xf091867EC603A6628eD83D274E835539D82e9cc8",
-	"symbol": "ZETA",
-	"name": "Zeta",
+	"symbol": "Zeta",
+	"name": "Zetachain",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xf091867EC603A6628eD83D274E835539D82e9cc8.jpg",
+	"logo": "https://assets.coingecko.com/coins/images/26718/standard/Twitter_icon.png?1696525788",
 	"coingecko": "zetachain",
 	"sources": [
 		"coingecko",
-		"sushiswap"
+		"sushiswap",
+		"uniswap"
 	]
 }

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xfe18aE03741a5b84e39C295Ac9C856eD7991C38e",
-	"symbol": "Crypto.com Staked ETH",
-	"name": "Crypto.com Staked ETH",
+	"symbol": "CDCETH",
+	"name": "Crypto com Staked ETH",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/33537/thumb/CDCETH-1.png?1702366745",
 	"coingecko": "crypto-com-staked-eth",
 	"sources": [
 		"coingecko"

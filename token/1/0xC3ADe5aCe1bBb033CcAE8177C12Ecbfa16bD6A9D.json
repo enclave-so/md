@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xC3ADe5aCe1bBb033CcAE8177C12Ecbfa16bD6A9D",
-	"symbol": "Inception swETH",
+	"symbol": "INSWETH",
 	"name": "Inception swETH",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/34943/thumb/swETH.png?1706757072",
 	"coingecko": "inception-restaked-sweth",
 	"sources": [
 		"coingecko"

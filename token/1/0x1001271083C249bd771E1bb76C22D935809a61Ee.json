@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x1001271083C249bd771E1bb76C22D935809a61Ee",
-	"symbol": "Fuku-Kun",
-	"name": "Fuku-Kun",
+	"symbol": "FUKU",
+	"name": "Fuku Kun",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/39632/thumb/FUKU_200.png?1724470047",
 	"coingecko": "fuku-kun",
 	"sources": [
 		"coingecko"

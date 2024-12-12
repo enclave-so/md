@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xEd0439EACf4c4965AE4613D77a5C2Efe10e5f183",
-	"symbol": "Niftyx Protocol",
+	"symbol": "SHROOM",
 	"name": "Niftyx Protocol",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/12341/thumb/niftyx_logo.jpg?1696512168",
 	"coingecko": "shroom-finance",
 	"sources": [
 		"coingecko"

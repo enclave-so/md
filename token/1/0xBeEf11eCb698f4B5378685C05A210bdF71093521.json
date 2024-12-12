@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xBeEf11eCb698f4B5378685C05A210bdF71093521",
-	"symbol": "Steakhouse RUSD Morpho Vault",
+	"symbol": "STEAKRUSD",
 	"name": "Steakhouse RUSD Morpho Vault",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/52411/thumb/steak-rUSD.png?1734001038",
 	"coingecko": "steakhouse-rusd-morpho-vault",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x3973C606B493EeE0E14B2b5654d5c4049cE9C2d9",
-	"symbol": "BitGate",
+	"symbol": "BITG",
 	"name": "BitGate",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/38121/thumb/BitGate.png?1716537470",
 	"coingecko": "bitgate",
 	"sources": [
 		"coingecko"

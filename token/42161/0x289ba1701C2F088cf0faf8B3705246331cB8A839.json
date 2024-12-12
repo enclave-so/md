@@ -1,10 +1,13 @@
 {
 	"chain": 42161,
 	"address": "0x289ba1701C2F088cf0faf8B3705246331cB8A839",
-	"symbol": "Livepeer",
+	"symbol": "LPT",
 	"name": "Livepeer",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/7137/thumb/logo-circle-green.png?1619593365",
 	"coingecko": "livepeer",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"uniswap"
 	]
 }

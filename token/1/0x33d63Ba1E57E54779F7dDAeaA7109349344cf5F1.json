@@ -1,11 +1,12 @@
 {
 	"chain": 1,
 	"address": "0x33d63Ba1E57E54779F7dDAeaA7109349344cf5F1",
-	"symbol": "DATA/Index",
-	"name": "Data Economy Index",
+	"symbol": "DATA",
+	"name": "DATA Economy Index",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x33d63Ba1E57E54779F7dDAeaA7109349344cf5F1/logo.png",
+	"logo": "https://cdn.indexcoop.com/index.svg",
 	"sources": [
+		"indexcoop",
 		"sushiswap"
 	]
 }

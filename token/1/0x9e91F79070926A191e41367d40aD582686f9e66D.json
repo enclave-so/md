@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x9e91F79070926A191e41367d40aD582686f9e66D",
-	"symbol": "STYLE Token",
+	"symbol": "STYLE",
 	"name": "STYLE Token",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/37507/thumb/Token_Logo__STYLE.png?1729579902",
 	"coingecko": "style-protocol-2",
 	"sources": [
 		"coingecko"

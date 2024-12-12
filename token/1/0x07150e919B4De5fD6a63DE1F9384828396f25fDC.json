@@ -4,7 +4,7 @@
 	"symbol": "BASE",
 	"name": "Base Protocol",
 	"decimals": 9,
-	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x07150e919B4De5fD6a63DE1F9384828396f25fDC/logo.png",
+	"logo": "https://assets.coingecko.com/coins/images/13265/thumb/200x200green.png?1696513039",
 	"coingecko": "base-protocol",
 	"sources": [
 		"coingecko",

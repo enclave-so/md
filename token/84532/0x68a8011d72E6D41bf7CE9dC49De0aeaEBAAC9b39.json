@@ -1,0 +1,11 @@
+{
+	"chain": 84532,
+	"address": "0x68a8011d72E6D41bf7CE9dC49De0aeaEBAAC9b39",
+	"symbol": "UDT",
+	"name": "Unlock Discount Token",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/UDT/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

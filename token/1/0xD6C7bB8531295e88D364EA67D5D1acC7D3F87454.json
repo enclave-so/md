@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xD6C7bB8531295e88D364EA67D5D1acC7D3F87454",
-	"symbol": "Fautor",
+	"symbol": "FTR",
 	"name": "Fautor",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/38727/thumb/main_green.png?1718478384",
 	"coingecko": "fautor",
 	"sources": [
 		"coingecko"

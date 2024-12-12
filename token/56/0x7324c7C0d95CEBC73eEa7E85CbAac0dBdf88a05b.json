@@ -1,10 +1,14 @@
 {
 	"chain": 56,
 	"address": "0x7324c7C0d95CEBC73eEa7E85CbAac0dBdf88a05b",
-	"symbol": "Onyxcoin",
-	"name": "Onyxcoin",
+	"symbol": "XCN",
+	"name": "Chain",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/24210/thumb/Chain_icon_200x200.png?1646895054",
 	"coingecko": "chain-2",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap",
+		"uniswap"
 	]
 }

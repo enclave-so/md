@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xdf09a216Fac5ADC3e640Db418C0b956076509503",
-	"symbol": "Poken",
+	"symbol": "PKN",
 	"name": "Poken",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/21574/thumb/G10VNBAR_400x400.jpg?1696520934",
 	"coingecko": "poken",
 	"sources": [
 		"coingecko"

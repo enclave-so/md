@@ -1,10 +1,14 @@
 {
 	"chain": 1,
 	"address": "0x056Fd409E1d7A124BD7017459dFEa2F387b6d5Cd",
-	"symbol": "Gemini Dollar",
+	"symbol": "GUSD",
 	"name": "Gemini Dollar",
+	"decimals": 2,
+	"logo": "https://assets.coingecko.com/coins/images/5992/thumb/gemini-dollar-gusd.png?1536745278",
 	"coingecko": "gemini-dollar",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"indexcoop",
+		"uniswap"
 	]
 }

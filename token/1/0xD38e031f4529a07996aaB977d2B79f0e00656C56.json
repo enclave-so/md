@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0xD38e031f4529a07996aaB977d2B79f0e00656C56",
+	"symbol": "wTBT",
+	"name": "wTBT Pool",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/wTBT/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

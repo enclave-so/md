@@ -1,0 +1,11 @@
+{
+	"chain": 8453,
+	"address": "0x3e7eF8f50246f725885102E8238CBba33F276747",
+	"symbol": "HANeP",
+	"name": "HANePlatform",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/HANeP/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

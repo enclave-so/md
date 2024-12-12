@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0xe05A08226c49b636ACf99c40Da8DC6aF83CE5bB3",
-	"symbol": "Ankr Staked ETH",
+	"symbol": "ankrETH",
 	"name": "Ankr Staked ETH",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0xe05A08226c49b636ACf99c40Da8DC6aF83CE5bB3.png",
 	"coingecko": "ankreth",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

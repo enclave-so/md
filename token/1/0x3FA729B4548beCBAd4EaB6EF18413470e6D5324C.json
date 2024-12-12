@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x3FA729B4548beCBAd4EaB6EF18413470e6D5324C",
-	"symbol": "Mover",
+	"symbol": "MOVE",
 	"name": "Mover",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/13719/thumb/o0KIvs7T_400x400.jpg?1696513464",
 	"coingecko": "holyheld-2",
 	"sources": [
 		"coingecko"

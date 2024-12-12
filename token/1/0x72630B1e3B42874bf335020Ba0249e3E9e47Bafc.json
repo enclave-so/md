@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x72630B1e3B42874bf335020Ba0249e3E9e47Bafc",
-	"symbol": "Paypolitan",
+	"symbol": "EPAN",
 	"name": "Paypolitan",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/13192/thumb/ava3.png?1696512973",
 	"coingecko": "paypolitan-token",
 	"sources": [
 		"coingecko"

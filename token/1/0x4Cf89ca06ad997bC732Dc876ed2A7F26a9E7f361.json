@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x4Cf89ca06ad997bC732Dc876ed2A7F26a9E7f361",
-	"symbol": "Mysterium",
+	"symbol": "MYST",
 	"name": "Mysterium",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/757/thumb/mysterium.png?1696501911",
 	"coingecko": "mysterium",
 	"sources": [
 		"coingecko"

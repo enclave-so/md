@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x4F460bb11cf958606C69A963B4A17f9DaEEea8b6",
-	"symbol": "f(x) Protocol Morpho USDC",
-	"name": "f(x) Protocol Morpho USDC",
+	"symbol": "FXUSDC",
+	"name": "f x  Protocol Morpho USDC",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/51504/thumb/pngtree-usd-coin-usdc-digital-stablecoin-icon-technology-pay-web-vector-png-image_37843734.png?1731433997",
 	"coingecko": "f-x-protocol-morpho-usdc",
 	"sources": [
 		"coingecko"

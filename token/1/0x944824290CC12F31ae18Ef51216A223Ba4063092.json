@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x944824290CC12F31ae18Ef51216A223Ba4063092",
-	"symbol": "Masa",
+	"symbol": "MASA",
 	"name": "Masa",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35538/thumb/masa.png?1712635899",
 	"coingecko": "masa-finance",
 	"sources": [
 		"coingecko"

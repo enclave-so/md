@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xF0EDAC27Aa3E85E2D176F689B0025f90C154393a",
-	"symbol": "I LOVE SNOOPY",
+	"symbol": "LOVESNOOPY",
 	"name": "I LOVE SNOOPY",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30340/thumb/dAlRqD6r_400x400.jpg?1696529240",
 	"coingecko": "i-love-snoopy",
 	"sources": [
 		"coingecko"

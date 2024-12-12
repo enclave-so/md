@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x39AA39c021dfbaE8faC545936693aC917d5E7563",
-	"symbol": "cUSDC",
+	"symbol": "CUSDC",
 	"name": "cUSDC",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/9442/thumb/Compound_USDC.png?1696509534",
 	"coingecko": "compound-usd-coin",
 	"sources": [
 		"coingecko"

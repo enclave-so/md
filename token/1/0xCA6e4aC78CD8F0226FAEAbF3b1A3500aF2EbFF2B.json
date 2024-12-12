@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xCA6e4aC78CD8F0226FAEAbF3b1A3500aF2EbFF2B",
-	"symbol": "Genify ART",
+	"symbol": "ART",
 	"name": "Genify ART",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/51663/thumb/mJe43sit_400x400.jpg?1731712867",
 	"coingecko": "genify-art",
 	"sources": [
 		"coingecko"

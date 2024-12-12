@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x9669890e48f330ACD88b78D63E1A6b3482652CD9",
-	"symbol": "Bincentive",
+	"symbol": "BCNT",
 	"name": "Bincentive",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/9661/thumb/bcnt.png?1696509729",
 	"coingecko": "bincentive",
 	"sources": [
 		"coingecko"

@@ -1,0 +1,11 @@
+{
+	"chain": 8453,
+	"address": "0xA99F6e6785Da0F5d6fB42495Fe424BCE029Eeb3E",
+	"symbol": "PENDLE",
+	"name": "Pendle",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/PENDLE/logo.png",
+	"sources": [
+		"optimism"
+	]
+}

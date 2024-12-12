@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xd561A593D9dD8b9A0E3A487dfB517C9371D6DDa7",
-	"symbol": "Meow Meme",
+	"symbol": "MEOW",
 	"name": "Meow Meme",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/36128/thumb/Meow_Meme_Coin.png?1710579427",
 	"coingecko": "meow-meme",
 	"sources": [
 		"coingecko"

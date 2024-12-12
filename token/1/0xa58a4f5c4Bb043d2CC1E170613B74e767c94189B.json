@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xa58a4f5c4Bb043d2CC1E170613B74e767c94189B",
-	"symbol": "UTU Coin",
+	"symbol": "UTU",
 	"name": "UTU Coin",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/12831/thumb/Aa5nmbkJ_400x400.png?1696512622",
 	"coingecko": "utu-coin",
 	"sources": [
 		"coingecko"

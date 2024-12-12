@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x230f5ED78A45452f726365b8Ad1D6866F5Faa68F",
-	"symbol": "Cryptoforce",
+	"symbol": "COF",
 	"name": "Cryptoforce",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/32855/thumb/IMG_20231108_221331_196.png?1699665059",
 	"coingecko": "cryptoforce",
 	"sources": [
 		"coingecko"

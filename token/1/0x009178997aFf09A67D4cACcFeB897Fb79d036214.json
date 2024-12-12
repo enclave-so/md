@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x009178997aFf09A67D4cACcFeB897Fb79d036214",
-	"symbol": "1Sol",
+	"symbol": "1SOL",
 	"name": "1Sol",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/21615/thumb/YyGDie9f_400x400.jpg?1696520976",
 	"coingecko": "1sol",
 	"sources": [
 		"coingecko"

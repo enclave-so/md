@@ -3,6 +3,8 @@
 	"address": "0xB49bF1dbDc567b997733093880734F030174474c",
 	"symbol": "FREEDOM",
 	"name": "FREEDOM",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/51025/thumb/200_200_logo.jpg?1729770840",
 	"coingecko": "freedom-3",
 	"sources": [
 		"coingecko"

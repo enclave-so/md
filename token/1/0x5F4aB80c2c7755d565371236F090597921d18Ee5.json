@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x5F4aB80c2c7755d565371236F090597921d18Ee5",
-	"symbol": "WAGMICOIN",
+	"symbol": "WAGMI",
 	"name": "WAGMICOIN",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/52120/thumb/WAGMI_200.jpg?1732605778",
 	"coingecko": "wagmicoin",
 	"sources": [
 		"coingecko"

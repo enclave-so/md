@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xC57d533c50bC22247d49a368880fb49a1caA39F7",
-	"symbol": "PowerTrade Fuel",
+	"symbol": "PTF",
 	"name": "PowerTrade Fuel",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/12590/thumb/powertrade_logo.jpg?1696512400",
 	"coingecko": "powertrade-fuel",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xf8676DEe37a9Ad404ff58eD03b1a145ad66836bb",
-	"symbol": "Rixen Finance",
+	"symbol": "RIXEN",
 	"name": "Rixen Finance",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/51169/thumb/rixen-finance2.jpg?1730320826",
 	"coingecko": "rixen-finance",
 	"sources": [
 		"coingecko"

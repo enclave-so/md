@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x7D29A64504629172a429e64183D6673b9dAcbFCe",
-	"symbol": "Vectorspace AI",
+	"symbol": "VXV",
 	"name": "Vectorspace AI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/2063/thumb/vectorspace-ai-logo.jpeg?1696503029",
 	"coingecko": "vectorspace",
 	"sources": [
 		"coingecko"

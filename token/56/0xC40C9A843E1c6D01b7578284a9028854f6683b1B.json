@@ -4,8 +4,9 @@
 	"symbol": "JUV",
 	"name": "Juventus",
 	"decimals": 2,
-	"logo": "https://assets.coingecko.com/coins/images/10060/small/Juve-10.png?1604737154",
+	"logo": "https://tokens.pancakeswap.finance/images/0xC40C9A843E1c6D01b7578284a9028854f6683b1B.png",
 	"sources": [
+		"pancakeswap",
 		"sushiswap"
 	]
 }

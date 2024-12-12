@@ -2,9 +2,12 @@
 	"chain": 56,
 	"address": "0xCb5327Ed4649548e0d73E70b633cdfd99aF6Da87",
 	"symbol": "PRIMAL",
-	"name": "PRIMAL",
+	"name": "PRIMAL Token",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0xCb5327Ed4649548e0d73E70b633cdfd99aF6Da87.png",
 	"coingecko": "primal-b3099cd0-995a-4311-80d5-9c133153b38e",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0xcC6f1e1B87cfCbe9221808d2d85C501aab0B5192",
-	"symbol": "Dmail Network",
+	"symbol": "DMAIL",
 	"name": "Dmail Network",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0xcC6f1e1B87cfCbe9221808d2d85C501aab0B5192.png",
 	"coingecko": "dmail-network",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

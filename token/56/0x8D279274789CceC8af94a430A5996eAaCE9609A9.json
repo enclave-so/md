@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0x8D279274789CceC8af94a430A5996eAaCE9609A9",
-	"symbol": "Inspect",
-	"name": "Inspect",
+	"symbol": "INSP",
+	"name": "INSPECT",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x8D279274789CceC8af94a430A5996eAaCE9609A9.png",
 	"coingecko": "inspect",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

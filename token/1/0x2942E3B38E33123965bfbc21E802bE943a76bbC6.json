@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x2942E3B38E33123965bfbc21E802bE943a76bbC6",
-	"symbol": "EHash",
+	"symbol": "EHASH",
 	"name": "EHash",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14180/thumb/ehash.png?1696513898",
 	"coingecko": "ehash",
 	"sources": [
 		"coingecko"

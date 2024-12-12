@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x9b0E1C344141fB361B842d397dF07174E1CDb988",
-	"symbol": "EmotiCoin",
+	"symbol": "EMOTI",
 	"name": "EmotiCoin",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/31630/thumb/200x200_logo_1.png?1696530446",
 	"coingecko": "emoticoin",
 	"sources": [
 		"coingecko"

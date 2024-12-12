@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x76fcA1adb104770B38581B64d55e67fA5A0f3966",
-	"symbol": "ZkTsunami",
+	"symbol": "ZKT",
 	"name": "ZkTsunami",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/29253/thumb/Sa72qYMC_400x400.jpg?1696528207",
 	"coingecko": "zktsunami",
 	"sources": [
 		"coingecko"

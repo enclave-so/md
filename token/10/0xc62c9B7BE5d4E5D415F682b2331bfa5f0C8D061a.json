@@ -1,0 +1,11 @@
+{
+	"chain": 10,
+	"address": "0xc62c9B7BE5d4E5D415F682b2331bfa5f0C8D061a",
+	"symbol": "ATH",
+	"name": "AthenaDAO Token",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/ATH/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

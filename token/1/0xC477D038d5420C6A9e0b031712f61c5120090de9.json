@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xC477D038d5420C6A9e0b031712f61c5120090de9",
-	"symbol": "Boson Protocol",
+	"symbol": "BOSON",
 	"name": "Boson Protocol",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14710/thumb/boson_logo.png?1696514381",
 	"coingecko": "boson-protocol",
 	"sources": [
 		"coingecko"

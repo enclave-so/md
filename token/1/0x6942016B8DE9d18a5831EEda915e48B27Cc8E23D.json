@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x6942016B8DE9d18a5831EEda915e48B27Cc8E23D",
-	"symbol": "Pickle",
+	"symbol": "PICKLE",
 	"name": "Pickle",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/39021/thumb/Pickle.png?1719941713",
 	"coingecko": "pickle-2",
 	"sources": [
 		"coingecko"

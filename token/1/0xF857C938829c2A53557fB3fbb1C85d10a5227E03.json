@@ -3,6 +3,8 @@
 	"address": "0xF857C938829c2A53557fB3fbb1C85d10a5227E03",
 	"symbol": "ECL",
 	"name": "ECL",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/37194/thumb/Eucild-200.png?1713675682",
 	"coingecko": "ecl",
 	"sources": [
 		"coingecko"

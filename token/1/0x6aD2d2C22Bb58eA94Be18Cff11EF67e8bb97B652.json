@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x6aD2d2C22Bb58eA94Be18Cff11EF67e8bb97B652",
-	"symbol": "Trestle Wrapped TIA",
+	"symbol": "WTIA",
 	"name": "Trestle Wrapped TIA",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/36385/thumb/trestle.jpeg?1711349480",
 	"coingecko": "trestle-wrapped-tia",
 	"sources": [
 		"coingecko"

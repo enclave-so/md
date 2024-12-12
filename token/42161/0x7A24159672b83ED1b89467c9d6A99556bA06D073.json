@@ -1,0 +1,11 @@
+{
+	"chain": 42161,
+	"address": "0x7A24159672b83ED1b89467c9d6A99556bA06D073",
+	"symbol": "BNT",
+	"name": "Bancor Network Token",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1F573D6Fb3F13d689FF844B4cE37794d79a7FF1C/logo.png",
+	"sources": [
+		"uniswap"
+	]
+}

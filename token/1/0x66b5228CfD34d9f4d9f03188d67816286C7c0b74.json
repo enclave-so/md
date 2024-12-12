@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x66b5228CfD34d9f4d9f03188d67816286C7c0b74",
-	"symbol": "VOLT.WIN",
-	"name": "VOLT.WIN",
+	"symbol": "VOLT",
+	"name": "VOLT WIN",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/50438/thumb/VOLTCG.png?1727749014",
 	"coingecko": "volt-win",
 	"sources": [
 		"coingecko"

@@ -1,0 +1,11 @@
+{
+	"chain": 84532,
+	"address": "0xe2c5fD88341C18025665E4088D8eeD23f5c573a7",
+	"symbol": "BKN",
+	"name": "Brickken",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/BKN/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

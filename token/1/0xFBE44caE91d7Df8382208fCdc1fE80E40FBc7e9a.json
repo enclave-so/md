@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xFBE44caE91d7Df8382208fCdc1fE80E40FBc7e9a",
-	"symbol": "The Next Gem AI",
+	"symbol": "GEMAI",
 	"name": "The Next Gem AI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/36515/thumb/20240508_221906.jpg?1715223041",
 	"coingecko": "the-next-gem-ai",
 	"sources": [
 		"coingecko"

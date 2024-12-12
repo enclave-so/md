@@ -1,0 +1,11 @@
+{
+	"chain": 8453,
+	"address": "0x3568c7a4f7545805e379c264303239781B4E9A79",
+	"symbol": "NEURON",
+	"name": "Cerebrum DAO Token",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/NEURON/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

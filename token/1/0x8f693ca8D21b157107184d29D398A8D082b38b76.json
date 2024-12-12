@@ -1,10 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x8f693ca8D21b157107184d29D398A8D082b38b76",
-	"symbol": "DATA/Streamr",
+	"symbol": "DATA",
 	"name": "Streamr",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x8f693ca8D21b157107184d29D398A8D082b38b76/logo.png",
+	"logo": "https://assets.coingecko.com/coins/images/17869/thumb/DATA_new_symbol_3x.png?1696517392",
 	"coingecko": "streamr",
 	"sources": [
 		"coingecko",

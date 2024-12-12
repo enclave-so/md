@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x5b649C07E7Ba0a1C529DEAabEd0b47699919B4a2",
-	"symbol": "Suzuverse",
+	"symbol": "SGT",
 	"name": "Suzuverse",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/30549/thumb/Suzuverse.png?1696529421",
 	"coingecko": "suzuverse",
 	"sources": [
 		"coingecko"

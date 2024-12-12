@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xDDcc69879e1d2376ce799051afa98C689F234ccA",
-	"symbol": "SmartMoney",
+	"symbol": "SMRT",
 	"name": "SmartMoney",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35280/thumb/Smartmoney.jpeg?1708054880",
 	"coingecko": "smartmoney",
 	"sources": [
 		"coingecko"

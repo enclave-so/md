@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0x936Ab482d6bd111910a42849D3A51Ff80BB0A711",
+	"symbol": "bwAJNA",
+	"name": "Burn Wrapped AJNA",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/bwAJNA/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

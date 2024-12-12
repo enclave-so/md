@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x08d9040214c4AbA39292Fd2e7De20BbBA7A8DCe4",
-	"symbol": "DataGold",
+	"symbol": "DGOLD",
 	"name": "DataGold",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/52431/thumb/dGOLD-square-navy.png?1733436522",
 	"coingecko": "datagold",
 	"sources": [
 		"coingecko"

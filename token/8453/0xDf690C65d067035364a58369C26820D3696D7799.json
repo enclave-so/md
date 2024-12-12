@@ -1,10 +1,13 @@
 {
 	"chain": 8453,
 	"address": "0xDf690C65d067035364a58369C26820D3696D7799",
-	"symbol": "Hoge Finance",
-	"name": "Hoge Finance",
+	"symbol": "wHOGE",
+	"name": "Wrapped HOGE",
+	"decimals": 9,
+	"logo": "https://ethereum-optimism.github.io/data/wHOGE/logo.svg",
 	"coingecko": "hoge-finance",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

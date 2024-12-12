@@ -1,10 +1,13 @@
 {
 	"chain": 43114,
 	"address": "0x97Cd1CFE2ed5712660bb6c14053C0EcB031Bff7d",
-	"symbol": "Rai Reflex Index",
+	"symbol": "RAI",
 	"name": "Rai Reflex Index",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14004/thumb/RAI-logo-coin.png?1613592334",
 	"coingecko": "rai",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"uniswap"
 	]
 }

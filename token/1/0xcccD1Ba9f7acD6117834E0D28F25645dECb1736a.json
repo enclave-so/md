@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xcccD1Ba9f7acD6117834E0D28F25645dECb1736a",
-	"symbol": "ECOx",
+	"symbol": "ECOX",
 	"name": "ECOx",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/27962/thumb/_ECOx.png?1696526981",
 	"coingecko": "ecox",
 	"sources": [
 		"coingecko"

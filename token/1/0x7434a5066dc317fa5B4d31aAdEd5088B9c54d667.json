@@ -3,6 +3,8 @@
 	"address": "0x7434a5066dc317fa5B4d31aAdEd5088B9c54d667",
 	"symbol": "CULT",
 	"name": "CULT",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/39038/thumb/Cult_ts.png?1720062967",
 	"coingecko": "cult",
 	"sources": [
 		"coingecko"

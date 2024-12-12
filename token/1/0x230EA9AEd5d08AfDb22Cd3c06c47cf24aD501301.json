@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x230EA9AEd5d08AfDb22Cd3c06c47cf24aD501301",
-	"symbol": "SPX6900 2.0",
-	"name": "SPX6900 2.0",
+	"symbol": "SPX20",
+	"name": "SPX6900 2 0",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/51067/thumb/SPX6900_2.0.png?1729957569",
 	"coingecko": "spx6900-2-0",
 	"sources": [
 		"coingecko"

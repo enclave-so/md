@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x8503a7b00B4b52692cC6c14e5b96F142E30547b7",
-	"symbol": "Meeds DAO",
+	"symbol": "MEED",
 	"name": "Meeds DAO",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/24281/thumb/s-YfFWYu_400x400.png?1696523464",
 	"coingecko": "meeds-dao",
 	"sources": [
 		"coingecko"

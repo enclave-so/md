@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x50B0696468F42CaB1ddc76413A1312Aff3cAbdf6",
-	"symbol": "ClosedAI",
+	"symbol": "CLOSEDAI",
 	"name": "ClosedAI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/36143/thumb/CLOSEDAI.jpg?1710689243",
 	"coingecko": "closedai",
 	"sources": [
 		"coingecko"

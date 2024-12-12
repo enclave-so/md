@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x6e5970DBd6fc7eb1f29C6D2eDF2bC4c36124C0C1",
-	"symbol": "Polytrade",
+	"symbol": "TRADE",
 	"name": "Polytrade",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/16416/thumb/Logo_colored_200.png?1696516012",
 	"coingecko": "polytrade",
 	"sources": [
 		"coingecko"

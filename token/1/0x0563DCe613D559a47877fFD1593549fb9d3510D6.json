@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x0563DCe613D559a47877fFD1593549fb9d3510D6",
-	"symbol": "SuperBid",
+	"symbol": "SUPERBID",
 	"name": "SuperBid",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14179/thumb/sign_super_bid.png?1696513897",
 	"coingecko": "superbid",
 	"sources": [
 		"coingecko"

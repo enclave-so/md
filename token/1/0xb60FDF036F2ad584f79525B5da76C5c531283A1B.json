@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xb60FDF036F2ad584f79525B5da76C5c531283A1B",
-	"symbol": "Nemo Sum",
+	"symbol": "NEMO",
 	"name": "Nemo Sum",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/37575/thumb/Nemo_200x200.png?1717625784",
 	"coingecko": "nemo-sum",
 	"sources": [
 		"coingecko"

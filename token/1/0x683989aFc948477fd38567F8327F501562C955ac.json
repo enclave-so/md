@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x683989aFc948477fd38567F8327F501562C955ac",
-	"symbol": "Morph AI",
+	"symbol": "MORPHAI",
 	"name": "Morph AI",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/52567/thumb/Bottom_Text-White.png?1733673132",
 	"coingecko": "morph-ai",
 	"sources": [
 		"coingecko"

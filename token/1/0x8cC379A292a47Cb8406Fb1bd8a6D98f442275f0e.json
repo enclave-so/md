@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x8cC379A292a47Cb8406Fb1bd8a6D98f442275f0e",
-	"symbol": "Uranium3o8",
+	"symbol": "U",
 	"name": "Uranium3o8",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/32571/thumb/Logo_Black_Background.png?1698608787",
 	"coingecko": "uranium3o8",
 	"sources": [
 		"coingecko"

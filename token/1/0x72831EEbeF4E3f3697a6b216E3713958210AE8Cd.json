@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x72831EEbeF4E3f3697a6b216E3713958210AE8Cd",
-	"symbol": "Blob",
+	"symbol": "BLOB",
 	"name": "Blob",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35309/thumb/Blob.jpeg?1708158035",
 	"coingecko": "blob-2",
 	"sources": [
 		"coingecko"

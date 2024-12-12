@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xC0BC84e95864BdfDCd1CCFB8A3AA522E79Ca1410",
-	"symbol": "bitcoin (2015 Wrapper) (Meme)",
-	"name": "bitcoin (2015 Wrapper) (Meme)",
+	"symbol": "BTCE",
+	"name": "bitcoin  2015 Wrapper   Meme ",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/38321/thumb/btc_memecoin-09%282%29.png?1718012384",
 	"coingecko": "bitcoin-2015-wrapper-meme",
 	"sources": [
 		"coingecko"

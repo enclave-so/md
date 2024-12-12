@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x185ece9Bc75164F9FC0fbE44738E8dd1863f8464",
-	"symbol": "UNODEX",
+	"symbol": "UNDX",
 	"name": "UNODEX",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/34115/thumb/UNODEX_LOGO_PNG_200X200.png?1704020683",
 	"coingecko": "unodex",
 	"sources": [
 		"coingecko"

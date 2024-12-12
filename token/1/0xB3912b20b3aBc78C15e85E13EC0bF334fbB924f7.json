@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xB3912b20b3aBc78C15e85E13EC0bF334fbB924f7",
-	"symbol": "Hana",
+	"symbol": "HANA",
 	"name": "Hana",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/50418/thumb/hana.png?1727682715",
 	"coingecko": "hana",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x508df5aa4746bE37b5b6A69684DfD8BDC322219d",
-	"symbol": "Crafting Finance",
+	"symbol": "CRF",
 	"name": "Crafting Finance",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/21559/thumb/tokenlogo.png?1696520920",
 	"coingecko": "crafting-finance",
 	"sources": [
 		"coingecko"

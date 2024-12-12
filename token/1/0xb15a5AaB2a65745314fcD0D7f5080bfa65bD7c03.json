@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xb15a5AaB2a65745314fcD0D7f5080bfa65bD7c03",
-	"symbol": "tupelothedog",
+	"symbol": "TUPELO",
 	"name": "tupelothedog",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/34885/thumb/tupelothedog.png?1706538842",
 	"coingecko": "tupelothedog",
 	"sources": [
 		"coingecko"

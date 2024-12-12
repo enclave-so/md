@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x571042B7138ee957a96A6820FCe79c48fe2DA816",
-	"symbol": "Escrowed LBR",
+	"symbol": "ESLBR",
 	"name": "Escrowed LBR",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/34394/thumb/eslbr.png?1704785981",
 	"coingecko": "escrowed-lbr",
 	"sources": [
 		"coingecko"

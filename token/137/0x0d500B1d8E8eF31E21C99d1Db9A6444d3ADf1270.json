@@ -4,10 +4,11 @@
 	"symbol": "WMATIC",
 	"name": "Wrapped Matic",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/polygon.jpg",
+	"logo": "https://assets.coingecko.com/coins/images/4713/thumb/matic-token-icon.png?1624446912",
 	"coingecko": "wmatic",
 	"sources": [
 		"coingecko",
-		"sushiswap"
+		"sushiswap",
+		"uniswap"
 	]
 }

@@ -3,8 +3,11 @@
 	"address": "0x9F52c8ecbEe10e00D9faaAc5Ee9Ba0fF6550F511",
 	"symbol": "SIPHER",
 	"name": "SIPHER",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/21070/thumb/SipherToken.png?1696520453",
 	"coingecko": "sipher",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

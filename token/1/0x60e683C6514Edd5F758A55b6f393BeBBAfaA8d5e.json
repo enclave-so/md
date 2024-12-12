@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x60e683C6514Edd5F758A55b6f393BeBBAfaA8d5e",
-	"symbol": "Page",
+	"symbol": "PAGE",
 	"name": "Page",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/19015/thumb/Page_Icon_LG.png?1696518467",
 	"coingecko": "page",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x8355DBE8B0e275ABAd27eB843F3eaF3FC855e525",
-	"symbol": "Wolf Game Wool",
+	"symbol": "WOOL",
 	"name": "Wolf Game Wool",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/20760/thumb/KM3RwIVx_400x400.jpg?1696520155",
 	"coingecko": "wolf-game-wool",
 	"sources": [
 		"coingecko"

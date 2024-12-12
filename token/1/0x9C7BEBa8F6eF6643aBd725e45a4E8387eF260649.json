@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0x9C7BEBa8F6eF6643aBd725e45a4E8387eF260649",
-	"symbol": "Gravity",
+	"symbol": "G",
 	"name": "Gravity",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/39200/large/gravity.jpg?1721020647",
 	"coingecko": "g-token",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"uniswap"
 	]
 }

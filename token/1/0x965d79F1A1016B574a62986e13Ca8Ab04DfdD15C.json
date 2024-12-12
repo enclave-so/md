@@ -3,6 +3,8 @@
 	"address": "0x965d79F1A1016B574a62986e13Ca8Ab04DfdD15C",
 	"symbol": "M2",
 	"name": "M2",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/18239/thumb/m2_%281%29.png?1696517735",
 	"coingecko": "m2",
 	"sources": [
 		"coingecko"

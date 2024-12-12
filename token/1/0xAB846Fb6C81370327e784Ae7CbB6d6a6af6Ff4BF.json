@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0xAB846Fb6C81370327e784Ae7CbB6d6a6af6Ff4BF",
-	"symbol": "Paladin",
+	"symbol": "PAL",
 	"name": "Paladin",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/24558/thumb/Circle-Logo.png?1696523734",
 	"coingecko": "paladin",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

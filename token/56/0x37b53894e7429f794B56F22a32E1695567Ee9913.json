@@ -1,0 +1,11 @@
+{
+	"chain": 56,
+	"address": "0x37b53894e7429f794B56F22a32E1695567Ee9913",
+	"symbol": "KRS",
+	"name": "Kingdom Raids",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x37b53894e7429f794B56F22a32E1695567Ee9913.png",
+	"sources": [
+		"pancakeswap"
+	]
+}

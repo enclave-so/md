@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x9bf1D7D63dD7a4ce167CF4866388226EEefa702E",
-	"symbol": "Ben",
+	"symbol": "BEN",
 	"name": "Ben",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30175/thumb/BEN_COIN.png?1696529094",
 	"coingecko": "ben-2",
 	"sources": [
 		"coingecko"

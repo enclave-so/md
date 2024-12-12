@@ -2,12 +2,13 @@
 	"chain": 56,
 	"address": "0x1613957159E9B0ac6c80e824F7Eea748a32a0AE2",
 	"symbol": "CGG",
-	"name": "pTokens CGG",
+	"name": "ChainGuardians",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0x1613957159E9B0ac6c80e824F7Eea748a32a0AE2.jpg",
+	"logo": "https://tokens.pancakeswap.finance/images/0x1613957159E9B0ac6c80e824F7Eea748a32a0AE2.png",
 	"coingecko": "chain-guardians",
 	"sources": [
 		"coingecko",
+		"pancakeswap",
 		"sushiswap"
 	]
 }

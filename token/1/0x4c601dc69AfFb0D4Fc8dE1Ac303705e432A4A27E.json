@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x4c601dc69AfFb0D4Fc8dE1Ac303705e432A4A27E",
-	"symbol": "Konnect",
+	"symbol": "KCT",
 	"name": "Konnect",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/25756/thumb/EAO_5JhW_400x400.jpg?1696524842",
 	"coingecko": "konnect",
 	"sources": [
 		"coingecko"

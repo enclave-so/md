@@ -1,0 +1,11 @@
+{
+	"chain": 8453,
+	"address": "0x76ff2AB6b34142421F44A68cC8Dd08f45F9Ee2F2",
+	"symbol": "PIP",
+	"name": "PIP",
+	"decimals": 9,
+	"logo": "https://ethereum-optimism.github.io/data/PIP/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

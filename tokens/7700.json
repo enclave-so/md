@@ -1,10 +1,10 @@
 [
 	{
 		"chain": 7700,
-		"address": "0x5FD55A1B9FC24967C4dB09C513C3BA0DFa7FF687",
-		"symbol": "Gravity Bridged WETH (Canto)",
-		"name": "Gravity Bridged WETH (Canto)",
-		"coingecko": "gravity-bridged-weth-canto",
+		"address": "0x8F20150205165C31D9b29C55a7B01F4911396306",
+		"symbol": "Cadence Protocol",
+		"name": "Cadence Protocol",
+		"coingecko": "cadence-protocol",
 		"sources": [
 			"coingecko"
 		]
@@ -21,110 +21,10 @@
 	},
 	{
 		"chain": 7700,
-		"address": "0x7264610A66EcA758A8ce95CF11Ff5741E1fd0455",
-		"symbol": "Canto Inu",
-		"name": "Canto Inu",
-		"coingecko": "canto-inu",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 7700,
-		"address": "0xecEEEfCEE421D8062EF8d6b4D814efe4dc898265",
-		"symbol": "Cosmos Hub",
-		"name": "Cosmos Hub",
-		"coingecko": "cosmos",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 7700,
-		"address": "0x45bafad5a6a531Bc18Cf6CE5B02C58eA4D20589b",
-		"symbol": "Fortunafi Tokenized Short-term U.S. Treasury Bills for Non US Residents",
-		"name": "Fortunafi Tokenized Short-term U.S. Treasury Bills for Non US Residents",
-		"coingecko": "fortunafi-tokenized-short-term-u-s-treasury-bills-for-non-us-residents",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 7700,
-		"address": "0x74ccbe53F77b08632ce0CB91D3A545bF6B8E0979",
-		"symbol": "Fantom Bomb",
-		"name": "Fantom Bomb",
-		"coingecko": "fbomb",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 7700,
-		"address": "0x4e71A2E537B7f9D9413D3991D37958c0b5e1e503",
-		"symbol": "Note",
-		"name": "Note",
-		"coingecko": "note",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 7700,
-		"address": "0x9e20461bc2c4c980f62f1B279D71734207a6A356",
-		"symbol": "OmniCat",
-		"name": "OmniCat",
-		"coingecko": "omnicat",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 7700,
-		"address": "0xB5b060055F0d1eF5174329913ef861bC3aDdF029",
-		"symbol": "Velocimeter FLOW",
-		"name": "Velocimeter FLOW",
-		"coingecko": "velocimeter-flow",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 7700,
-		"address": "0xd567B3d7B8FE3C79a1AD8dA978812cfC4Fa05e75",
-		"symbol": "Bridged USDT",
-		"name": "Bridged USDT",
-		"coingecko": "bridged-usdt",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 7700,
-		"address": "0x8F20150205165C31D9b29C55a7B01F4911396306",
-		"symbol": "Cadence Protocol",
-		"name": "Cadence Protocol",
-		"coingecko": "cadence-protocol",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 7700,
-		"address": "0x9aeff862435Cc243D12CEe915e7129629c6a8D5D",
-		"symbol": "LeetSwap (Canto)",
-		"name": "LeetSwap (Canto)",
-		"coingecko": "leetswap-canto",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 7700,
-		"address": "0x9F823D534954Fc119E31257b3dDBa0Db9E2Ff4ed",
-		"symbol": "Liquid Staked Canto",
-		"name": "Liquid Staked Canto",
-		"coingecko": "liquid-staked-canto",
+		"address": "0x5FD55A1B9FC24967C4dB09C513C3BA0DFa7FF687",
+		"symbol": "Gravity Bridged WETH (Canto)",
+		"name": "Gravity Bridged WETH (Canto)",
+		"coingecko": "gravity-bridged-weth-canto",
 		"sources": [
 			"coingecko"
 		]
@@ -151,10 +51,110 @@
 	},
 	{
 		"chain": 7700,
+		"address": "0xB5b060055F0d1eF5174329913ef861bC3aDdF029",
+		"symbol": "Velocimeter FLOW",
+		"name": "Velocimeter FLOW",
+		"coingecko": "velocimeter-flow",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 7700,
+		"address": "0x7264610A66EcA758A8ce95CF11Ff5741E1fd0455",
+		"symbol": "Canto Inu",
+		"name": "Canto Inu",
+		"coingecko": "canto-inu",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 7700,
+		"address": "0x9F823D534954Fc119E31257b3dDBa0Db9E2Ff4ed",
+		"symbol": "Liquid Staked Canto",
+		"name": "Liquid Staked Canto",
+		"coingecko": "liquid-staked-canto",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 7700,
+		"address": "0x9e20461bc2c4c980f62f1B279D71734207a6A356",
+		"symbol": "OmniCat",
+		"name": "OmniCat",
+		"coingecko": "omnicat",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 7700,
+		"address": "0xd567B3d7B8FE3C79a1AD8dA978812cfC4Fa05e75",
+		"symbol": "Bridged USDT",
+		"name": "Bridged USDT",
+		"coingecko": "bridged-usdt",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 7700,
+		"address": "0x74ccbe53F77b08632ce0CB91D3A545bF6B8E0979",
+		"symbol": "Fantom Bomb",
+		"name": "Fantom Bomb",
+		"coingecko": "fbomb",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 7700,
+		"address": "0x45bafad5a6a531Bc18Cf6CE5B02C58eA4D20589b",
+		"symbol": "Fortunafi Tokenized Short-term U.S. Treasury Bills for Non US Residents",
+		"name": "Fortunafi Tokenized Short-term U.S. Treasury Bills for Non US Residents",
+		"coingecko": "fortunafi-tokenized-short-term-u-s-treasury-bills-for-non-us-residents",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 7700,
 		"address": "0xCAC45583c6990b6D0981F4707f00eB6a00214617",
 		"symbol": "Tarot",
 		"name": "Tarot",
 		"coingecko": "tarot-2",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 7700,
+		"address": "0xecEEEfCEE421D8062EF8d6b4D814efe4dc898265",
+		"symbol": "Cosmos Hub",
+		"name": "Cosmos Hub",
+		"coingecko": "cosmos",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 7700,
+		"address": "0x9aeff862435Cc243D12CEe915e7129629c6a8D5D",
+		"symbol": "LeetSwap (Canto)",
+		"name": "LeetSwap (Canto)",
+		"coingecko": "leetswap-canto",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 7700,
+		"address": "0x4e71A2E537B7f9D9413D3991D37958c0b5e1e503",
+		"symbol": "Note",
+		"name": "Note",
+		"coingecko": "note",
 		"sources": [
 			"coingecko"
 		]

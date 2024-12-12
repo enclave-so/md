@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x8b8f9419ED9Fd8C168128bf05C5d5FE7B17fE11D",
-	"symbol": "Milo Token",
+	"symbol": "MILO",
 	"name": "Milo Token",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/50845/thumb/IMG_202410182816_200x200.jpg?1729297353",
 	"coingecko": "milo-token",
 	"sources": [
 		"coingecko"

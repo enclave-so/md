@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x19E1F2f837a3b90EBd0730cb6111189Be0E1b6D6",
-	"symbol": "Laïka",
-	"name": "Laïka",
+	"symbol": "LAIKA",
+	"name": "La ka",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/39364/thumb/logo_laika.jpg?1721895773",
 	"coingecko": "laikachain",
 	"sources": [
 		"coingecko"

@@ -1,13 +1,14 @@
 {
 	"chain": 42220,
 	"address": "0x2DEf4285787d58a2f811AF24755A8150622f4361",
-	"symbol": "cETH",
-	"name": "wrapped.com Ethereum",
+	"symbol": "WETH",
+	"name": "Wrapped Ether",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/weth.jpg",
+	"logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
 	"coingecko": "wrapped-ceth",
 	"sources": [
 		"coingecko",
-		"sushiswap"
+		"sushiswap",
+		"uniswap"
 	]
 }

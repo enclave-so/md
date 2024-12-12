@@ -2,12 +2,13 @@
 	"chain": 1,
 	"address": "0x01BA67AAC7f75f647D94220Cc98FB30FCc5105Bf",
 	"symbol": "LYRA",
-	"name": "Lyra Token",
+	"name": "Lyra Finance",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x01BA67AAC7f75f647D94220Cc98FB30FCc5105Bf/logo.png",
+	"logo": "https://assets.coingecko.com/coins/images/21490/thumb/Add-a-heading-26.png?1696520850",
 	"coingecko": "lyra-finance",
 	"sources": [
 		"coingecko",
+		"optimism",
 		"sushiswap"
 	]
 }

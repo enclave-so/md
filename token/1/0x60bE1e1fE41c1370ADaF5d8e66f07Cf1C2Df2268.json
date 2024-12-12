@@ -2,9 +2,9 @@
 	"chain": 1,
 	"address": "0x60bE1e1fE41c1370ADaF5d8e66f07Cf1C2Df2268",
 	"symbol": "PERC",
-	"name": "Perion Credits",
+	"name": "Perion",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x60bE1e1fE41c1370ADaF5d8e66f07Cf1C2Df2268.jpg",
+	"logo": "https://assets.coingecko.com/coins/images/23302/thumb/PERC.png?1696522520",
 	"coingecko": "perion",
 	"sources": [
 		"coingecko",

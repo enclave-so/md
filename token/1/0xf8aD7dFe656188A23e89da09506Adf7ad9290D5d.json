@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xf8aD7dFe656188A23e89da09506Adf7ad9290D5d",
-	"symbol": "Blocery",
+	"symbol": "BLY",
 	"name": "Blocery",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/12095/thumb/Blocery_logo_200x200_.png?1696511941",
 	"coingecko": "blocery",
 	"sources": [
 		"coingecko"

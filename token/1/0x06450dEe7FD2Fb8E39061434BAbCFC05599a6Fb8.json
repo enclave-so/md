@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x06450dEe7FD2Fb8E39061434BAbCFC05599a6Fb8",
-	"symbol": "XEN Crypto",
+	"symbol": "XEN",
 	"name": "XEN Crypto",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/27713/thumb/Xen.jpeg?1696526739",
 	"coingecko": "xen-crypto",
 	"sources": [
 		"coingecko"

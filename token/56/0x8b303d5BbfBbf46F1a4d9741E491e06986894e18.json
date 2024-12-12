@@ -1,0 +1,11 @@
+{
+	"chain": 56,
+	"address": "0x8b303d5BbfBbf46F1a4d9741E491e06986894e18",
+	"symbol": "WOOP",
+	"name": "Woonkly Power",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x8b303d5BbfBbf46F1a4d9741E491e06986894e18.png",
+	"sources": [
+		"pancakeswap"
+	]
+}

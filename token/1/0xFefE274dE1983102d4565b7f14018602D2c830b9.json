@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xFefE274dE1983102d4565b7f14018602D2c830b9",
-	"symbol": "SikaSwap",
+	"symbol": "SIKA",
 	"name": "SikaSwap",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/40104/thumb/Sika_Logo_2.png?1725770720",
 	"coingecko": "sikaswap",
 	"sources": [
 		"coingecko"

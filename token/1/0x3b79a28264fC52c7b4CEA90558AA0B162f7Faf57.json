@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x3b79a28264fC52c7b4CEA90558AA0B162f7Faf57",
-	"symbol": "Wonderful Memories",
+	"symbol": "WMEMO",
 	"name": "Wonderful Memories",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/22392/thumb/wMEMO.png?1696521735",
 	"coingecko": "wrapped-memory",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x2E7e487D84B5BAbA5878A9833fb394bC89633Fd7",
-	"symbol": "Omnia Protocol",
+	"symbol": "OMNIA",
 	"name": "Omnia Protocol",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/24380/thumb/OMNIA-Logomark-white-transparent-BG.png?1728959886",
 	"coingecko": "omnia",
 	"sources": [
 		"coingecko"

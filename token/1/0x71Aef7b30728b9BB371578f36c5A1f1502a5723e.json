@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x71Aef7b30728b9BB371578f36c5A1f1502a5723e",
-	"symbol": "Aave v3 1INCH",
+	"symbol": "A1INCH",
 	"name": "Aave v3 1INCH",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/32906/thumb/1INCH.png?1699804523",
 	"coingecko": "aave-v3-1inch",
 	"sources": [
 		"coingecko"

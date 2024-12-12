@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xc666081073E8DfF8D3d1c2292A29aE1A2153eC09",
-	"symbol": "Digitex",
+	"symbol": "DGTX",
 	"name": "Digitex",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/2188/thumb/DGTX.png?1696503145",
 	"coingecko": "digitex-futures-exchange",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x7f0c8B125040f707441cad9e5eD8a8408673b455",
-	"symbol": "Kinetic Kollective",
+	"symbol": "NEBO",
 	"name": "Kinetic Kollective",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/13436/thumb/nebo.png?1728297948",
 	"coingecko": "csp-dao-network",
 	"sources": [
 		"coingecko"

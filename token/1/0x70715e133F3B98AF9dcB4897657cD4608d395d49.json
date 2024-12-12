@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x70715e133F3B98AF9dcB4897657cD4608d395d49",
-	"symbol": "NeuralByte",
+	"symbol": "NBT",
 	"name": "NeuralByte",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/36528/thumb/photo_2024-03-27_10.53.01.jpeg?1711700775",
 	"coingecko": "neuralbyte",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x5FD48ca1212A409CA1020Ea43B49f7EC40010435",
-	"symbol": "AstraDex AI",
+	"symbol": "ADEX",
 	"name": "AstraDex AI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/52381/thumb/Frame_177.png?1733258461",
 	"coingecko": "astradex-ai",
 	"sources": [
 		"coingecko"

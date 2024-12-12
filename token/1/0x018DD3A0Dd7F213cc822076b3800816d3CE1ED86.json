@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x018DD3A0Dd7F213cc822076b3800816d3CE1ED86",
-	"symbol": "HotKeySwap",
+	"symbol": "HOTKEY",
 	"name": "HotKeySwap",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35614/thumb/HOTKEY.jpg?1709281878",
 	"coingecko": "hotkeyswap",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xBf7BC9E63635dC11b335D52b0349d0100A53A1a7",
-	"symbol": "LinkTao",
+	"symbol": "LTAO",
 	"name": "LinkTao",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/35963/thumb/Tao.jpeg?1710258313",
 	"coingecko": "linktoa",
 	"sources": [
 		"coingecko"

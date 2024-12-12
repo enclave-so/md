@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xf03A7Eb46d01d9EcAA104558C732Cf82f6B6B645",
-	"symbol": "Stader MaticX",
+	"symbol": "MATICX",
 	"name": "Stader MaticX",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/25383/thumb/maticx.png?1696524516",
 	"coingecko": "stader-maticx",
 	"sources": [
 		"coingecko"

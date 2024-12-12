@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x7C68e725b0B2FfCBa8947FdEd4198C3d1Db041E6",
-	"symbol": "Pongo",
+	"symbol": "PONGO",
 	"name": "Pongo",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/37556/thumb/X_200.png?1714753471",
 	"coingecko": "pongo",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x3742f3Fcc56B2d46c7B8CA77c23be60Cd43Ca80a",
-	"symbol": "Deq Staked AVAIL",
+	"symbol": "STAVAIL",
 	"name": "Deq Staked AVAIL",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/51343/thumb/stAVAIL_200x200.png?1730824445",
 	"coingecko": "staked-avail",
 	"sources": [
 		"coingecko"

@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0x7Fd4d7737597E7b4ee22AcbF8D94362343ae0a79",
-	"symbol": "Wrapped MistCoin",
+	"symbol": "WMC",
 	"name": "Wrapped MistCoin",
+	"decimals": 2,
+	"logo": "https://assets.coingecko.com/coins/images/32490/thumb/355966EE-F4AD-4023-A38E-59B9DEF1C6C3.jpeg?1732678326",
 	"coingecko": "wrapped-mistcoin",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

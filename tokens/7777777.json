@@ -1,6 +1,26 @@
 [
 	{
 		"chain": 7777777,
+		"address": "0x0000000000000000000000000000000000000000",
+		"symbol": "ETH",
+		"name": "Ethereum",
+		"decimals": 18,
+		"logo": "https://token-icons.s3.amazonaws.com/eth.png",
+		"coingecko": "ethereum"
+	},
+	{
+		"chain": 7777777,
+		"address": "0xCccCCccc7021b32EBb4e8C08314bD62F7c653EC4",
+		"symbol": "USDzC",
+		"name": "USD Coin (Bridged from Ethereum)",
+		"decimals": 6,
+		"logo": "https://assets.coingecko.com/coins/images/35218/large/USDC_Icon.png?1707908537",
+		"sources": [
+			"uniswap"
+		]
+	},
+	{
+		"chain": 7777777,
 		"address": "0xa6B280B42CB0b7c4a4F789eC6cCC3a7609A1Bc39",
 		"symbol": "Enjoy",
 		"name": "Enjoy",
@@ -28,14 +48,5 @@
 		"sources": [
 			"coingecko"
 		]
-	},
-	{
-		"chain": 7777777,
-		"address": "0x0000000000000000000000000000000000000000",
-		"symbol": "ETH",
-		"name": "Ethereum",
-		"decimals": 18,
-		"logo": "https://token-icons.s3.amazonaws.com/eth.png",
-		"coingecko": "ethereum"
 	}
 ]

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xCaE0DD4BDA7Ff3E700355C7629b24d5D728bD2cE",
-	"symbol": "Bowie",
+	"symbol": "BOWIE",
 	"name": "Bowie",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/33218/thumb/logo-200x200.png?1701088140",
 	"coingecko": "bowie",
 	"sources": [
 		"coingecko"

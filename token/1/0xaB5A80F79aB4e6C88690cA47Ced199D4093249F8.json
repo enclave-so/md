@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xaB5A80F79aB4e6C88690cA47Ced199D4093249F8",
-	"symbol": "Finder AI",
+	"symbol": "FINDER",
 	"name": "Finder AI",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/50208/thumb/photo_2024-06-13_23-40-32_%283%29.jpg?1726296321",
 	"coingecko": "finder-ai",
 	"sources": [
 		"coingecko"

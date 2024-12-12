@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0xf6718b2701D4a6498eF77D7c152b2137Ab28b8A3",
-	"symbol": "Lorenzo stBTC",
+	"symbol": "stBTC",
 	"name": "Lorenzo stBTC",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0xf6718b2701D4a6498eF77D7c152b2137Ab28b8A3.png",
 	"coingecko": "lorenzo-stbtc",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

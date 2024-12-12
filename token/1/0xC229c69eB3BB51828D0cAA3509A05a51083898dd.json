@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xC229c69eB3BB51828D0cAA3509A05a51083898dd",
-	"symbol": "Pintu",
+	"symbol": "PTU",
 	"name": "Pintu",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/20281/thumb/image_1_8dd79a68aa.png?1696519686",
 	"coingecko": "pintu-token",
 	"sources": [
 		"coingecko"

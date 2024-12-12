@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x4FFe9CC172527DF1E40D0b2EfE1e9F05884A13dA",
-	"symbol": "DEDPRZ",
+	"symbol": "USA",
 	"name": "DEDPRZ",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/33381/thumb/NewDcoin_%283%29.png?1705599002",
 	"coingecko": "dedprz",
 	"sources": [
 		"coingecko"

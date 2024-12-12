@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x477a3d269266994F15E9C43A8D9C0561C4928088",
-	"symbol": "Ÿ",
-	"name": "Ÿ",
+	"symbol": "YAI",
+	"name": " ",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/36578/thumb/DP.png?1711944185",
 	"coingecko": "y",
 	"sources": [
 		"coingecko"

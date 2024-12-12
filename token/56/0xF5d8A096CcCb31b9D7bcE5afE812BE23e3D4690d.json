@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0xF5d8A096CcCb31b9D7bcE5afE812BE23e3D4690d",
-	"symbol": "HappyFans",
+	"symbol": "HAPPY",
 	"name": "HappyFans",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0xF5d8A096CcCb31b9D7bcE5afE812BE23e3D4690d.png",
 	"coingecko": "happyfans",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

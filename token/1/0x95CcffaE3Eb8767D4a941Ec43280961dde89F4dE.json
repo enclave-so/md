@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x95CcffaE3Eb8767D4a941Ec43280961dde89F4dE",
-	"symbol": "TaoBank",
+	"symbol": "TBANK",
 	"name": "TaoBank",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35612/thumb/200x200.png?1709281616",
 	"coingecko": "taobank",
 	"sources": [
 		"coingecko"

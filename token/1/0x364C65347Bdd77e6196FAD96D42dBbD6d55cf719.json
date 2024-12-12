@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x364C65347Bdd77e6196FAD96D42dBbD6d55cf719",
-	"symbol": "BRK690k",
+	"symbol": "BRK",
 	"name": "BRK690k",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/52050/thumb/Logo.png?1732444543",
 	"coingecko": "brk690k",
 	"sources": [
 		"coingecko"

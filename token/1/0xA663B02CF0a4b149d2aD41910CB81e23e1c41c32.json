@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xA663B02CF0a4b149d2aD41910CB81e23e1c41c32",
-	"symbol": "Staked FRAX",
+	"symbol": "SFRAX",
 	"name": "Staked FRAX",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35383/thumb/sfrax.png?1708445569",
 	"coingecko": "staked-frax",
 	"sources": [
 		"coingecko"

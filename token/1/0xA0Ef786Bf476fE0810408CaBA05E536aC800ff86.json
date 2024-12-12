@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xA0Ef786Bf476fE0810408CaBA05E536aC800ff86",
-	"symbol": "Myria",
+	"symbol": "MYRIA",
 	"name": "Myria",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/29273/thumb/myria.png?1696528226",
 	"coingecko": "myria",
 	"sources": [
 		"coingecko"

@@ -1,0 +1,11 @@
+{
+	"chain": 8453,
+	"address": "0x9e5AAC1Ba1a2e6aEd6b32689DFcF62A509Ca96f3",
+	"symbol": "HAN",
+	"name": "HanChain",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/HAN/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

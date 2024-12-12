@@ -3,6 +3,8 @@
 	"address": "0x0000000005c6B7C1fd10915a05f034F90d524D6E",
 	"symbol": "TRYC",
 	"name": "TRYC",
+	"decimals": 6,
+	"logo": "https://assets.coingecko.com/coins/images/21985/thumb/16357.png?1696521333",
 	"coingecko": "tryc",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x1cAf237D7A2D103e3e9b1855988C01ac10344600",
-	"symbol": "LexiAI",
+	"symbol": "LEXI",
 	"name": "LexiAI",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/39484/thumb/1000031614.jpg?1727899633",
 	"coingecko": "lexiai",
 	"sources": [
 		"coingecko"

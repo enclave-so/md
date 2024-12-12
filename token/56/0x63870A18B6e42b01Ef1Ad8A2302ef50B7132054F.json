@@ -4,8 +4,9 @@
 	"symbol": "BLK",
 	"name": "BLINk",
 	"decimals": 6,
-	"logo": "https://bscscan.com/token/images/blink_32.png",
+	"logo": "https://tokens.pancakeswap.finance/images/0x63870A18B6e42b01Ef1Ad8A2302ef50B7132054F.png",
 	"sources": [
+		"pancakeswap",
 		"sushiswap"
 	]
 }

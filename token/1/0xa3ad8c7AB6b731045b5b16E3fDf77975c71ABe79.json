@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xa3ad8c7AB6b731045b5b16E3fDf77975c71ABe79",
-	"symbol": "Dinerobet",
+	"symbol": "DINERO",
 	"name": "Dinerobet",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/28248/thumb/CABA1DE1-2CB1-46D3-97BC-20305EA67FBB.png?1696527251",
 	"coingecko": "dinerobet",
 	"sources": [
 		"coingecko"

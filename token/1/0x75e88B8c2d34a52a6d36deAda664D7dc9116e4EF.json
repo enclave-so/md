@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x75e88B8c2d34a52a6d36deAda664D7dc9116e4EF",
-	"symbol": "Zaros",
+	"symbol": "ZRS",
 	"name": "Zaros",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/37060/thumb/zrs.png?1713175430",
 	"coingecko": "zaros",
 	"sources": [
 		"coingecko"

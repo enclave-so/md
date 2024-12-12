@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x60F63B76E2Fc1649E57a3489162732A90ACf59FE",
-	"symbol": "Flurry Finance",
+	"symbol": "FLURRY",
 	"name": "Flurry Finance",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/16235/thumb/flurry_logo_only_200x200.png?1696515836",
 	"coingecko": "flurry",
 	"sources": [
 		"coingecko"

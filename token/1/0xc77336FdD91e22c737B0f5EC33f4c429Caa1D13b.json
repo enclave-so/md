@@ -3,6 +3,8 @@
 	"address": "0xc77336FdD91e22c737B0f5EC33f4c429Caa1D13b",
 	"symbol": "BALTO",
 	"name": "BALTO",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/51952/thumb/X_200.png?1732221678",
 	"coingecko": "balto",
 	"sources": [
 		"coingecko"

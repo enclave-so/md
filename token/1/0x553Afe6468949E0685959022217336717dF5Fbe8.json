@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x553Afe6468949E0685959022217336717dF5Fbe8",
-	"symbol": "Palette",
+	"symbol": "PLT",
 	"name": "Palette",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35615/thumb/output-onlinepngtools-13-1.png?1709282022",
 	"coingecko": "palette-2",
 	"sources": [
 		"coingecko"

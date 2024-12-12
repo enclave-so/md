@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xA13f0743951B4f6E3e3AA039f682E17279f52bc3",
-	"symbol": "Sentinel Chain",
+	"symbol": "SENC",
 	"name": "Sentinel Chain",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/2960/thumb/sentinel-chain.jpg?1696503703",
 	"coingecko": "sentinel-chain",
 	"sources": [
 		"coingecko"

@@ -1,0 +1,11 @@
+{
+	"chain": 137,
+	"address": "0x9880e3dDA13c8e7D4804691A45160102d31F6060",
+	"symbol": "OXT",
+	"name": "Orchid",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4575f41308EC1483f3d399aa9a2826d74Da13Deb/logo.png",
+	"sources": [
+		"uniswap"
+	]
+}

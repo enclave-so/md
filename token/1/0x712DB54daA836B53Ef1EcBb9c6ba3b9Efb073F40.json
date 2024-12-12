@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x712DB54daA836B53Ef1EcBb9c6ba3b9Efb073F40",
-	"symbol": "Aave ENJ v1",
+	"symbol": "AENJ",
 	"name": "Aave ENJ v1",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/12484/thumb/aENJ.png?1696512301",
 	"coingecko": "aave-enj-v1",
 	"sources": [
 		"coingecko"

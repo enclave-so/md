@@ -1,0 +1,11 @@
+{
+	"chain": 8453,
+	"address": "0x7422f030958Edf9884cE9c46a211029E03eF6da7",
+	"symbol": "POPO",
+	"name": "Pepe's Dog",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/POPO/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

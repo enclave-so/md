@@ -3,6 +3,8 @@
 	"address": "0x9F9913853f749b3fE6D6D4e16a1Cc3C1656B6D51",
 	"symbol": "BITT",
 	"name": "BITT",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/13783/thumb/BITT_Logo_256pixels.png?1696513523",
 	"coingecko": "bittoken",
 	"sources": [
 		"coingecko"

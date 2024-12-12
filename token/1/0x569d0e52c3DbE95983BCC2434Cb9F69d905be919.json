@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x569d0e52c3DbE95983BCC2434Cb9F69d905be919",
-	"symbol": "Roaring Kitty",
+	"symbol": "ROAR",
 	"name": "Roaring Kitty",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/33986/thumb/logo_200_by_200.png?1703585719",
 	"coingecko": "roaring-kitty",
 	"sources": [
 		"coingecko"

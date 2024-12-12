@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xDA7C0810cE6F8329786160bb3d1734cf6661CA6E",
-	"symbol": "Jaypeggers",
+	"symbol": "JAY",
 	"name": "Jaypeggers",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30074/thumb/jay.jpg?1696528999",
 	"coingecko": "jaypegggers",
 	"sources": [
 		"coingecko"

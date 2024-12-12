@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x06D6F0dd6703A1cfE16025DCc55F36f017887627",
-	"symbol": "Montage Token",
+	"symbol": "MTGX",
 	"name": "Montage Token",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/36903/thumb/Montage-200x200.png?1712699912",
 	"coingecko": "montage-token",
 	"sources": [
 		"coingecko"

@@ -1,10 +1,20 @@
 [
 	{
 		"chain": 1111,
-		"address": "0x17133c3B231eb73aceece547933E05648ef1C027",
-		"symbol": "GEAR",
-		"name": "GEAR",
-		"coingecko": "gear-2",
+		"address": "0x99618512fCE498Bebe0447C5f8BB8ea7Ad32de76",
+		"symbol": "FEATHER",
+		"name": "FEATHER",
+		"coingecko": "feather",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1111,
+		"address": "0x732e6973595136976173AF4a56Eac99F52beCc6E",
+		"symbol": "MORION",
+		"name": "MORION",
+		"coingecko": "morion",
 		"sources": [
 			"coingecko"
 		]
@@ -21,10 +31,20 @@
 	},
 	{
 		"chain": 1111,
-		"address": "0xc50a55cA9d4B7804471de1E44f3C3CE8216D8Ea0",
-		"symbol": "PAPYRUS",
-		"name": "PAPYRUS",
-		"coingecko": "papyrus-2",
+		"address": "0xB3c3530C3e54914df9F4c5875fb682e547eeCbe2",
+		"symbol": "PLAY Token",
+		"name": "PLAY Token",
+		"coingecko": "play-token-2",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1111,
+		"address": "0xcd47647D94ef20Ff75d112820FD44ce218441712",
+		"symbol": "Summoners League",
+		"name": "Summoners League",
+		"coingecko": "summoners-league",
 		"sources": [
 			"coingecko"
 		]
@@ -35,6 +55,46 @@
 		"symbol": "TEAR",
 		"name": "TEAR",
 		"coingecko": "tear-2",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1111,
+		"address": "0x17133c3B231eb73aceece547933E05648ef1C027",
+		"symbol": "GEAR",
+		"name": "GEAR",
+		"coingecko": "gear-2",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1111,
+		"address": "0x1BABB9d9a013533Fa48BA874580AFD7bEA9278EF",
+		"symbol": "Icarus M: Guild War VELZEROTH",
+		"name": "Icarus M: Guild War VELZEROTH",
+		"coingecko": "icarus-m-guild-war-velzeroth",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1111,
+		"address": "0xc50a55cA9d4B7804471de1E44f3C3CE8216D8Ea0",
+		"symbol": "PAPYRUS",
+		"name": "PAPYRUS",
+		"coingecko": "papyrus-2",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1111,
+		"address": "0xd1445BcbE14cE5eDf7ae887e3F3F82f7bDa12aF3",
+		"symbol": "Promote",
+		"name": "Promote",
+		"coingecko": "promote",
 		"sources": [
 			"coingecko"
 		]
@@ -55,66 +115,6 @@
 		"symbol": "WWEMIX",
 		"name": "WWEMIX",
 		"coingecko": "wwemix",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 1111,
-		"address": "0x99618512fCE498Bebe0447C5f8BB8ea7Ad32de76",
-		"symbol": "FEATHER",
-		"name": "FEATHER",
-		"coingecko": "feather",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 1111,
-		"address": "0x1BABB9d9a013533Fa48BA874580AFD7bEA9278EF",
-		"symbol": "Icarus M: Guild War VELZEROTH",
-		"name": "Icarus M: Guild War VELZEROTH",
-		"coingecko": "icarus-m-guild-war-velzeroth",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 1111,
-		"address": "0x732e6973595136976173AF4a56Eac99F52beCc6E",
-		"symbol": "MORION",
-		"name": "MORION",
-		"coingecko": "morion",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 1111,
-		"address": "0xB3c3530C3e54914df9F4c5875fb682e547eeCbe2",
-		"symbol": "PLAY Token",
-		"name": "PLAY Token",
-		"coingecko": "play-token-2",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 1111,
-		"address": "0xd1445BcbE14cE5eDf7ae887e3F3F82f7bDa12aF3",
-		"symbol": "Promote",
-		"name": "Promote",
-		"coingecko": "promote",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 1111,
-		"address": "0xcd47647D94ef20Ff75d112820FD44ce218441712",
-		"symbol": "Summoners League",
-		"name": "Summoners League",
-		"coingecko": "summoners-league",
 		"sources": [
 			"coingecko"
 		]

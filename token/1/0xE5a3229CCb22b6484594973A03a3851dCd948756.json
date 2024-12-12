@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xE5a3229CCb22b6484594973A03a3851dCd948756",
-	"symbol": "Receive Access Ecosystem",
+	"symbol": "RAE",
 	"name": "Receive Access Ecosystem",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/9428/thumb/Copy_of_raetoken.png?1696509521",
 	"coingecko": "rae-token",
 	"sources": [
 		"coingecko"

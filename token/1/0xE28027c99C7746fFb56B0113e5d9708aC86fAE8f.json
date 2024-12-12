@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xE28027c99C7746fFb56B0113e5d9708aC86fAE8f",
-	"symbol": "KING Coin",
+	"symbol": "KING",
 	"name": "KING Coin",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/30183/thumb/king.png?1696529102",
 	"coingecko": "king-2",
 	"sources": [
 		"coingecko"

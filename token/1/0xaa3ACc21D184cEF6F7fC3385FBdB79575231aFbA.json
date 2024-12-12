@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xaa3ACc21D184cEF6F7fC3385FBdB79575231aFbA",
-	"symbol": "HealthSci.AI",
-	"name": "HealthSci.AI",
+	"symbol": "HSAI",
+	"name": "HealthSci AI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/51384/thumb/logo-200.jpg?1730967315",
 	"coingecko": "healthsci-ai",
 	"sources": [
 		"coingecko"

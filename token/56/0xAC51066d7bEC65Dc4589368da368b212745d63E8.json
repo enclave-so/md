@@ -1,10 +1,14 @@
 {
 	"chain": 56,
 	"address": "0xAC51066d7bEC65Dc4589368da368b212745d63E8",
-	"symbol": "My Neighbor Alice",
+	"symbol": "ALICE",
 	"name": "My Neighbor Alice",
+	"decimals": 6,
+	"logo": "https://assets.coingecko.com/coins/images/14375/thumb/alice_logo.jpg?1615782968",
 	"coingecko": "my-neighbor-alice",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap",
+		"uniswap"
 	]
 }

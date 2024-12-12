@@ -5,5 +5,8 @@
 	"name": "Ethereum",
 	"decimals": 18,
 	"logo": "https://token-icons.s3.amazonaws.com/eth.png",
-	"coingecko": "ethereum"
+	"coingecko": "ethereum",
+	"sources": [
+		"optimism"
+	]
 }

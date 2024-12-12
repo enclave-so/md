@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x0b5326Da634f9270FB84481DD6F94d3dC2cA7096",
-	"symbol": "Etho Protocol",
+	"symbol": "ETHO",
 	"name": "Etho Protocol",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/5194/thumb/IconOnly_Transparent_NoBuffer_resized.png?1713297055",
 	"coingecko": "ether-1",
 	"sources": [
 		"coingecko"

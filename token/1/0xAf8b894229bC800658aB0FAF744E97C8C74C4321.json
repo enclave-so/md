@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xAf8b894229bC800658aB0FAF744E97C8C74C4321",
-	"symbol": "Black Lemon AI",
+	"symbol": "LEMON",
 	"name": "Black Lemon AI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/52580/thumb/Lemon_200x200.jpg?1733693503",
 	"coingecko": "black-lemon-ai",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x42b91f1d05afeA671a2dA3c780eDa2aBf0A2A366",
-	"symbol": "Mineable",
+	"symbol": "MNB",
 	"name": "Mineable",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/29272/thumb/mnb.png?1696528225",
 	"coingecko": "mineable",
 	"sources": [
 		"coingecko"

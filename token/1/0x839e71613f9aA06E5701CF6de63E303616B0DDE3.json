@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x839e71613f9aA06E5701CF6de63E303616B0DDE3",
-	"symbol": "VVS Finance",
+	"symbol": "VVS",
 	"name": "VVS Finance",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/20210/thumb/8glAYOTM_400x400.jpg?1696519620",
 	"coingecko": "vvs-finance",
 	"sources": [
 		"coingecko"

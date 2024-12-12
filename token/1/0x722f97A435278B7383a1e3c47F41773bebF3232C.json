@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x722f97A435278B7383a1e3c47F41773bebF3232C",
-	"symbol": "UCROWDME",
+	"symbol": "UCM",
 	"name": "UCROWDME",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/12079/thumb/UKm2qXh.png?1696511926",
 	"coingecko": "ucrowdme",
 	"sources": [
 		"coingecko"

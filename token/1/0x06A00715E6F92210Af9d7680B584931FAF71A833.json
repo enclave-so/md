@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x06A00715E6F92210Af9d7680B584931FAF71A833",
-	"symbol": "Chronicle",
+	"symbol": "XNL",
 	"name": "Chronicle",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/18413/thumb/tg_image_2344271539.png?1728193881",
 	"coingecko": "chronicle",
 	"sources": [
 		"coingecko"

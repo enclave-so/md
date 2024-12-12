@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0x97D0CfEB4FdE54B430307c9482d6f79C761Fe9B6",
-	"symbol": "Epoch Island",
+	"symbol": "EPOCH",
 	"name": "Epoch Island",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/33684/thumb/EpochLogo_200x200.png?1702731332",
 	"coingecko": "epoch-island",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

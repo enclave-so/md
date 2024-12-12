@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x46FDcDDfAD7C72A621E8298D231033Cc00e067c6",
-	"symbol": "Department Of Government Efficiency",
+	"symbol": "DOGE",
 	"name": "Department Of Government Efficiency",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/50452/thumb/Department_Of_Government_Efficiency.png?1727773104",
 	"coingecko": "department-of-government-efficiency-3",
 	"sources": [
 		"coingecko"

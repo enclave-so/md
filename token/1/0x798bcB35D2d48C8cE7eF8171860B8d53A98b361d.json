@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x798bcB35D2d48C8cE7eF8171860B8d53A98b361d",
-	"symbol": "Meta Pool DAO",
+	"symbol": "MPDAO",
 	"name": "Meta Pool DAO",
+	"decimals": 6,
+	"logo": "https://assets.coingecko.com/coins/images/24249/thumb/aB2d0Nmn_400x400.png?1696523434",
 	"coingecko": "meta-pool",
 	"sources": [
 		"coingecko"

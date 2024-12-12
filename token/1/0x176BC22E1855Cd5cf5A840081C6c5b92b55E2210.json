@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x176BC22E1855Cd5cf5A840081C6c5b92b55E2210",
-	"symbol": "Gambex",
+	"symbol": "GBE",
 	"name": "Gambex",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/32745/thumb/gbe_cg.png?1699262150",
 	"coingecko": "gambex",
 	"sources": [
 		"coingecko"

@@ -3,6 +3,8 @@
 	"address": "0x2dE7B02Ae3b1f11d51Ca7b2495e9094874A064c0",
 	"symbol": "SHIB2",
 	"name": "SHIB2",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31776/thumb/IMG_6344_2.jpg?1696530594",
 	"coingecko": "shib2",
 	"sources": [
 		"coingecko"

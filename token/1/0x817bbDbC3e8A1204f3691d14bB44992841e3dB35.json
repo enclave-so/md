@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x817bbDbC3e8A1204f3691d14bB44992841e3dB35",
-	"symbol": "Cudos",
+	"symbol": "CUDOS",
 	"name": "Cudos",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/13651/thumb/CudosIconTransparent.png?1696513400",
 	"coingecko": "cudos",
 	"sources": [
 		"coingecko"

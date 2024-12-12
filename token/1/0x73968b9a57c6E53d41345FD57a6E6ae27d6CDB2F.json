@@ -4,7 +4,7 @@
 	"symbol": "SDT",
 	"name": "Stake DAO",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x73968b9a57c6E53d41345FD57a6E6ae27d6CDB2F/logo.png",
+	"logo": "https://assets.coingecko.com/coins/images/13724/thumb/stakedao_logo.jpg?1696513468",
 	"coingecko": "stake-dao",
 	"sources": [
 		"coingecko",

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xAc1D3D7A8878E655cBb063D58E453540641f4117",
-	"symbol": "Acid Toad",
+	"symbol": "TOAD",
 	"name": "Acid Toad",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/51402/thumb/Acid_Toad.png?1731085817",
 	"coingecko": "acid-toad",
 	"sources": [
 		"coingecko"

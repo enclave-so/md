@@ -1,46 +1,6 @@
 [
 	{
 		"chain": 1907,
-		"address": "0x12E5Df050Ba34a4b2ca3854546fDDBD641E9bD1D",
-		"symbol": "Deportivo Alavés Fan Token",
-		"name": "Deportivo Alavés Fan Token",
-		"coingecko": "deportivo-alaves-fan-token",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 1907,
-		"address": "0x02b8efDFfe96218a1FE5d3A815Db3D3Ee292498a",
-		"symbol": "E.C. Vitoria Fan Token",
-		"name": "E.C. Vitoria Fan Token",
-		"coingecko": "e-c-vitoria-fan-token",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 1907,
-		"address": "0x0B37A4E31Bf13C0EbD48357E9c9c87040544A5EC",
-		"symbol": "Türkiye Motosiklet Federasyonu Fan Token",
-		"name": "Türkiye Motosiklet Federasyonu Fan Token",
-		"coingecko": "turkiye-motosiklet-federasyonu-fan-token",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 1907,
-		"address": "0xa3225ae74E9a92f8deEf5b857100B31259B998db",
-		"symbol": "Türkiye Basketbol Federasyonu Fan Token",
-		"name": "Türkiye Basketbol Federasyonu Fan Token",
-		"coingecko": "turkiye-basketbol-federasyonu-token",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 1907,
 		"address": "0xfFdCC0eb46be4Ac8F9520E14FD5553605B06a0D6",
 		"symbol": "BitciX",
 		"name": "BitciX",
@@ -51,220 +11,10 @@
 	},
 	{
 		"chain": 1907,
-		"address": "0x4270A3D1a61FC6b86Ea9E19730E529ACEe592c3B",
-		"symbol": "Brazil National Football Team Fan Token",
-		"name": "Brazil National Football Team Fan Token",
-		"coingecko": "brazil-fan-token",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 1907,
-		"address": "0xf6752A3e3E98F745Fb726A6521d70456a4219E70",
-		"symbol": "MotoGP Fan Token",
-		"name": "MotoGP Fan Token",
-		"coingecko": "motogp-fan-token",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 1907,
-		"address": "0xA0c3B17AB3Cf6DfBAFc31AE22681e72418f5f4b6",
-		"symbol": "RC Celta de Vigo Fan Token",
-		"name": "RC Celta de Vigo Fan Token",
-		"coingecko": "rc-celta-de-vigo-fan-token",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 1907,
-		"address": "0x7705cf7dEBcfe485287545656Df1AbE444A93bb5",
-		"symbol": "Crypto Network",
-		"name": "Crypto Network",
-		"coingecko": "crypto-network",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 1907,
-		"address": "0xb428b0d491516aAD256386180945C52423907A61",
-		"symbol": "Denizlispor Fan Token",
-		"name": "Denizlispor Fan Token",
-		"coingecko": "denizlispor-fan-token",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 1907,
-		"address": "0x0397b918945ec8A0CCBcFF3cEF95e551ef6B2818",
-		"symbol": "Gençlerbirliği Fan Token",
-		"name": "Gençlerbirliği Fan Token",
-		"coingecko": "genclerbirligi-fan-token",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 1907,
-		"address": "0x1f41B1C39f82C470486022582aC443735B58b2C9",
-		"symbol": "MetaGuard",
-		"name": "MetaGuard",
-		"coingecko": "metaguard",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 1907,
-		"address": "0xF7Ac36424dA5a498528806a07b4A83Dc99ebC074",
-		"symbol": "MXGP Fan Token",
-		"name": "MXGP Fan Token",
-		"coingecko": "mxgp-fan-token",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 1907,
-		"address": "0x0D741f8199Bd5425c5fb41eb66FcDFdf969A6D80",
-		"symbol": "NFTDeli",
-		"name": "NFTDeli",
-		"coingecko": "nftdeli",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 1907,
-		"address": "0xED8186908Cb406c6f72F8bDd70Dc67AE02Fb3DbD",
-		"symbol": "Peruvian National Football Team Fan Token",
-		"name": "Peruvian National Football Team Fan Token",
-		"coingecko": "peruvian-national-football-team-fan-token",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 1907,
-		"address": "0xD855fF86923Bdb884630d40452b6B447471952e9",
-		"symbol": "Simit",
-		"name": "Simit",
-		"coingecko": "simit",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 1907,
-		"address": "0x4a2E63fdfF734f11a7C09BfCc040eb55dADaa988",
-		"symbol": "777",
-		"name": "777",
-		"coingecko": "777",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 1907,
-		"address": "0x26A96960c6Ea3E3353dDd642c2FE4cE928B095dd",
-		"symbol": "Beat",
-		"name": "Beat",
-		"coingecko": "beat-2",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 1907,
-		"address": "0xF30D5Bf7e9C70C36FA640340034CeEc02769Ea4B",
-		"symbol": "Bursaspor Fan Token",
-		"name": "Bursaspor Fan Token",
-		"coingecko": "bursaspor-fan-token",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 1907,
-		"address": "0xc7857E34576B5dB79414092cE244c8eCf7805318",
-		"symbol": "ALBEDO",
-		"name": "ALBEDO",
-		"coingecko": "albedo",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 1907,
-		"address": "0xfA69694a8b49384e4EdEbB8b46373dB2ba729BbB",
-		"symbol": "Astro",
-		"name": "Astro",
-		"coingecko": "astro-2",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 1907,
-		"address": "0x6b60afC542bA9669377a54734CF7D322BacFb261",
-		"symbol": "FC Sion Fan Token",
-		"name": "FC Sion Fan Token",
-		"coingecko": "fc-sion-fan-token",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 1907,
-		"address": "0x7a062DFd945cC54031dd5C33E50fa8e76Fc2B25E",
-		"symbol": "Çağdaş Bodrumspor Fan Token",
-		"name": "Çağdaş Bodrumspor Fan Token",
-		"coingecko": "cagdas-bodrumspor-fan-token",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 1907,
-		"address": "0x5b643d8eF018c30b66DAe23f70B3c0677D9e1317",
-		"symbol": "Esport",
-		"name": "Esport",
-		"coingecko": "esport",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 1907,
-		"address": "0xF425BC8Ad12770fcd039d98681a5D653F5783214",
-		"symbol": "Karşıyaka Taraftar Fan Token",
-		"name": "Karşıyaka Taraftar Fan Token",
-		"coingecko": "karsiyaka-taraftar-token",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 1907,
-		"address": "0xf930a91A60dEb0eB1fe9419a85f95D21badABD34",
-		"symbol": "Rangers Fan Token",
-		"name": "Rangers Fan Token",
-		"coingecko": "rangers-fan-token",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 1907,
-		"address": "0x4a8097C018a486DFB190517Be14D2180Cd14CB46",
-		"symbol": "Drop",
-		"name": "Drop",
-		"coingecko": "drop",
+		"address": "0x1Ec5C8068DA328bea264c8Cfd9eAb89686E9b92B",
+		"symbol": "BSOCIAL",
+		"name": "BSOCIAL",
+		"coingecko": "bsocial-2",
 		"sources": [
 			"coingecko"
 		]
@@ -291,50 +41,10 @@
 	},
 	{
 		"chain": 1907,
-		"address": "0xe5E6d02564CA2dB2913A49Cf485D4185c7BAf788",
-		"symbol": "Bitci DOGE",
-		"name": "Bitci DOGE",
-		"coingecko": "bitci-doge",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 1907,
-		"address": "0xcb2263b182131DbB9824Bf406c8F8AcB65B54808",
-		"symbol": "Kripto",
-		"name": "Kripto",
-		"coingecko": "kripto",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 1907,
-		"address": "0x10E2accD09091CCe859EE82D1C9C84B7dBe91552",
-		"symbol": "Blok Token",
-		"name": "Blok Token",
-		"coingecko": "bitci-blok",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 1907,
-		"address": "0x28dc999A6627eC2a326c171b27C55eD2Ed649dC9",
-		"symbol": "Bitci PEPE",
-		"name": "Bitci PEPE",
-		"coingecko": "bitci-pepe",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 1907,
-		"address": "0xF2D2b22C862E00b9957df85C16D53631CAE66250",
-		"symbol": "Ecochain",
-		"name": "Ecochain",
-		"coingecko": "ecochain-2",
+		"address": "0x7705cf7dEBcfe485287545656Df1AbE444A93bb5",
+		"symbol": "Crypto Network",
+		"name": "Crypto Network",
+		"coingecko": "crypto-network",
 		"sources": [
 			"coingecko"
 		]
@@ -351,90 +61,10 @@
 	},
 	{
 		"chain": 1907,
-		"address": "0x5287F7a156fb20262AB7da6e3F273eF315BaE289",
-		"symbol": "Petshop.io",
-		"name": "Petshop.io",
-		"coingecko": "petshop-io",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 1907,
-		"address": "0x38aA495ffa5EbE2F8f91004922650c29adf12083",
-		"symbol": "Ankaragücü Fan Token",
-		"name": "Ankaragücü Fan Token",
-		"coingecko": "ankaragucu-fan-token",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 1907,
-		"address": "0xC34640624bE79babc894003aA2bE36452e2AE62E",
-		"symbol": "Bodrumspor Fan Token",
-		"name": "Bodrumspor Fan Token",
-		"coingecko": "bodrumspor-fan-token",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 1907,
-		"address": "0x4a7521236eA97D99346d17DEEb0Fe13fceF2cb83",
-		"symbol": "Fatih Karagümrük SK Fan Token",
-		"name": "Fatih Karagümrük SK Fan Token",
-		"coingecko": "fatih-karagumruk-sk-fan-token",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 1907,
-		"address": "0x3e6F1be54FEb9CC37dBfC31A894a8810357C3F9C",
-		"symbol": "Spain National Football Team Fan Token",
-		"name": "Spain National Football Team Fan Token",
-		"coingecko": "spain-national-fan-token",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 1907,
-		"address": "0xE2813AAf52CB35Aa37a82271AB176b2b64e5E1FD",
-		"symbol": "TESTO",
-		"name": "TESTO",
-		"coingecko": "testo",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 1907,
-		"address": "0xB2C803A0Bd2cb8D8E1aA29b961fA703E2DE8905d",
-		"symbol": "Afyonspor Fan Token",
-		"name": "Afyonspor Fan Token",
-		"coingecko": "afyonspor-fan-token",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 1907,
-		"address": "0x57B8adF3F708E33E9D9BdEdc1B1aC4B2C06aB5E1",
-		"symbol": "Bitci Bonk",
-		"name": "Bitci Bonk",
-		"coingecko": "bitci-bonk",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 1907,
-		"address": "0xFe56F9063F4B2c852E60Ef4c9F34377fe276D155",
-		"symbol": "Bitci EDU",
-		"name": "Bitci EDU",
-		"coingecko": "bitci-edu",
+		"address": "0xc7857E34576B5dB79414092cE244c8eCf7805318",
+		"symbol": "ALBEDO",
+		"name": "ALBEDO",
+		"coingecko": "albedo",
 		"sources": [
 			"coingecko"
 		]
@@ -451,10 +81,120 @@
 	},
 	{
 		"chain": 1907,
-		"address": "0x23543C1DD44777De9bB4c0cc9eCb352402f68a58",
-		"symbol": "Inci",
-		"name": "Inci",
-		"coingecko": "inci-token",
+		"address": "0x38B0b761c90eaaEA748BD3a43199377818D280E6",
+		"symbol": "McLaren F1 Fan Token",
+		"name": "McLaren F1 Fan Token",
+		"coingecko": "mclaren-f1-fan-token",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1907,
+		"address": "0x13Dd78E8078ca3278bf001fE0C21aEd6684c611B",
+		"symbol": "Mergen",
+		"name": "Mergen",
+		"coingecko": "mergen",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1907,
+		"address": "0xA0c3B17AB3Cf6DfBAFc31AE22681e72418f5f4b6",
+		"symbol": "RC Celta de Vigo Fan Token",
+		"name": "RC Celta de Vigo Fan Token",
+		"coingecko": "rc-celta-de-vigo-fan-token",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1907,
+		"address": "0x005EDBD50a7bBcDD049BF005146E5Acd7c5ebDb4",
+		"symbol": "Travelers Token",
+		"name": "Travelers Token",
+		"coingecko": "travelers-token",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1907,
+		"address": "0x0f5cA17123fE7E3f793c06351d6e0a679Af8047f",
+		"symbol": "Baby AlienB",
+		"name": "Baby AlienB",
+		"coingecko": "baby-alienb",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1907,
+		"address": "0x26A96960c6Ea3E3353dDd642c2FE4cE928B095dd",
+		"symbol": "Beat",
+		"name": "Beat",
+		"coingecko": "beat-2",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1907,
+		"address": "0x35D2B083c854071600995a933C06e91f1b20ff99",
+		"symbol": "GalaxiaVerse",
+		"name": "GalaxiaVerse",
+		"coingecko": "galaxiaverse",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1907,
+		"address": "0xD855fF86923Bdb884630d40452b6B447471952e9",
+		"symbol": "Simit",
+		"name": "Simit",
+		"coingecko": "simit",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1907,
+		"address": "0x4a2E63fdfF734f11a7C09BfCc040eb55dADaa988",
+		"symbol": "777",
+		"name": "777",
+		"coingecko": "777",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1907,
+		"address": "0xe5E6d02564CA2dB2913A49Cf485D4185c7BAf788",
+		"symbol": "Bitci DOGE",
+		"name": "Bitci DOGE",
+		"coingecko": "bitci-doge",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1907,
+		"address": "0xFe56F9063F4B2c852E60Ef4c9F34377fe276D155",
+		"symbol": "Bitci EDU",
+		"name": "Bitci EDU",
+		"coingecko": "bitci-edu",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1907,
+		"address": "0x4a7521236eA97D99346d17DEEb0Fe13fceF2cb83",
+		"symbol": "Fatih Karagümrük SK Fan Token",
+		"name": "Fatih Karagümrük SK Fan Token",
+		"coingecko": "fatih-karagumruk-sk-fan-token",
 		"sources": [
 			"coingecko"
 		]
@@ -481,160 +221,60 @@
 	},
 	{
 		"chain": 1907,
-		"address": "0x07C6aE17D4fE7952f62F90E6bAFC6032A3efa2bb",
-		"symbol": "Matrak Fan Token",
-		"name": "Matrak Fan Token",
-		"coingecko": "matrak-fan-token",
+		"address": "0x1f41B1C39f82C470486022582aC443735B58b2C9",
+		"symbol": "MetaGuard",
+		"name": "MetaGuard",
+		"coingecko": "metaguard",
 		"sources": [
 			"coingecko"
 		]
 	},
 	{
 		"chain": 1907,
-		"address": "0x1Ec5C8068DA328bea264c8Cfd9eAb89686E9b92B",
-		"symbol": "BSOCIAL",
-		"name": "BSOCIAL",
-		"coingecko": "bsocial-2",
+		"address": "0xa3225ae74E9a92f8deEf5b857100B31259B998db",
+		"symbol": "Türkiye Basketbol Federasyonu Fan Token",
+		"name": "Türkiye Basketbol Federasyonu Fan Token",
+		"coingecko": "turkiye-basketbol-federasyonu-token",
 		"sources": [
 			"coingecko"
 		]
 	},
 	{
 		"chain": 1907,
-		"address": "0x486b0Bd8F5A5f8C3FdcDf8491732A18F991dea2f",
-		"symbol": "GasChameleon",
-		"name": "GasChameleon",
-		"coingecko": "gaschameleon",
+		"address": "0x57B8adF3F708E33E9D9BdEdc1B1aC4B2C06aB5E1",
+		"symbol": "Bitci Bonk",
+		"name": "Bitci Bonk",
+		"coingecko": "bitci-bonk",
 		"sources": [
 			"coingecko"
 		]
 	},
 	{
 		"chain": 1907,
-		"address": "0x0a561FB445C608412B636a5f2dDdFf7CeEaB8A4B",
-		"symbol": "AlienB",
-		"name": "AlienB",
-		"coingecko": "alienb",
+		"address": "0x28dc999A6627eC2a326c171b27C55eD2Ed649dC9",
+		"symbol": "Bitci PEPE",
+		"name": "Bitci PEPE",
+		"coingecko": "bitci-pepe",
 		"sources": [
 			"coingecko"
 		]
 	},
 	{
 		"chain": 1907,
-		"address": "0x0f5cA17123fE7E3f793c06351d6e0a679Af8047f",
-		"symbol": "Baby AlienB",
-		"name": "Baby AlienB",
-		"coingecko": "baby-alienb",
+		"address": "0xC34640624bE79babc894003aA2bE36452e2AE62E",
+		"symbol": "Bodrumspor Fan Token",
+		"name": "Bodrumspor Fan Token",
+		"coingecko": "bodrumspor-fan-token",
 		"sources": [
 			"coingecko"
 		]
 	},
 	{
 		"chain": 1907,
-		"address": "0x54824069f225e875C0d7ae006849f4e183f43CDF",
-		"symbol": "Bitci Racing Token",
-		"name": "Bitci Racing Token",
-		"coingecko": "bitci-racing-token",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 1907,
-		"address": "0x1ad3A994C7cEC5321C86cbc5225732eD153b9728",
-		"symbol": "Coritiba F.C. Fan Token",
-		"name": "Coritiba F.C. Fan Token",
-		"coingecko": "coritiba-f-c-fan-token",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 1907,
-		"address": "0xb12843c23786Aaa3A473030fBA2BECE63C573f49",
-		"symbol": "Extreme",
-		"name": "Extreme",
-		"coingecko": "extreme",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 1907,
-		"address": "0x35D2B083c854071600995a933C06e91f1b20ff99",
-		"symbol": "GalaxiaVerse",
-		"name": "GalaxiaVerse",
-		"coingecko": "galaxiaverse",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 1907,
-		"address": "0x38B0b761c90eaaEA748BD3a43199377818D280E6",
-		"symbol": "McLaren F1 Fan Token",
-		"name": "McLaren F1 Fan Token",
-		"coingecko": "mclaren-f1-fan-token",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 1907,
-		"address": "0xd19DfC6beF955A41A7E233E030aeDB2b5319bD7D",
-		"symbol": "RCD Espanyol Fan Token",
-		"name": "RCD Espanyol Fan Token",
-		"coingecko": "rcd-espanyol-fan-token",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 1907,
-		"address": "0x30bd5A8b8729eB801f771fF213f2450dfA8dc721",
-		"symbol": "Kocaelispor Fan Token",
-		"name": "Kocaelispor Fan Token",
-		"coingecko": "kocaelispor-fan-token",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 1907,
-		"address": "0xA9c4f5024eAf74a3dAa4b7aFe83b9eCA7Aa9eecA",
-		"symbol": "Number 1",
-		"name": "Number 1",
-		"coingecko": "number-1-token",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 1907,
-		"address": "0x005EDBD50a7bBcDD049BF005146E5Acd7c5ebDb4",
-		"symbol": "Travelers Token",
-		"name": "Travelers Token",
-		"coingecko": "travelers-token",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 1907,
-		"address": "0x84061eA874EF3D89d40bD5Bed7E45075d4c2612E",
-		"symbol": "Adanaspor Fan Token",
-		"name": "Adanaspor Fan Token",
-		"coingecko": "adanaspor-fan-token",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 1907,
-		"address": "0xC8044dAeCC2aBcDD9007D60b3DCFb775029D6554",
-		"symbol": "Food",
-		"name": "Food",
-		"coingecko": "food",
+		"address": "0x5b643d8eF018c30b66DAe23f70B3c0677D9e1317",
+		"symbol": "Esport",
+		"name": "Esport",
+		"coingecko": "esport",
 		"sources": [
 			"coingecko"
 		]
@@ -651,10 +291,170 @@
 	},
 	{
 		"chain": 1907,
-		"address": "0x13Dd78E8078ca3278bf001fE0C21aEd6684c611B",
-		"symbol": "Mergen",
-		"name": "Mergen",
-		"coingecko": "mergen",
+		"address": "0xB2C803A0Bd2cb8D8E1aA29b961fA703E2DE8905d",
+		"symbol": "Afyonspor Fan Token",
+		"name": "Afyonspor Fan Token",
+		"coingecko": "afyonspor-fan-token",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1907,
+		"address": "0x4a8097C018a486DFB190517Be14D2180Cd14CB46",
+		"symbol": "Drop",
+		"name": "Drop",
+		"coingecko": "drop",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1907,
+		"address": "0xcb2263b182131DbB9824Bf406c8F8AcB65B54808",
+		"symbol": "Kripto",
+		"name": "Kripto",
+		"coingecko": "kripto",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1907,
+		"address": "0x38aA495ffa5EbE2F8f91004922650c29adf12083",
+		"symbol": "Ankaragücü Fan Token",
+		"name": "Ankaragücü Fan Token",
+		"coingecko": "ankaragucu-fan-token",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1907,
+		"address": "0xfA69694a8b49384e4EdEbB8b46373dB2ba729BbB",
+		"symbol": "Astro",
+		"name": "Astro",
+		"coingecko": "astro-2",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1907,
+		"address": "0x02b8efDFfe96218a1FE5d3A815Db3D3Ee292498a",
+		"symbol": "E.C. Vitoria Fan Token",
+		"name": "E.C. Vitoria Fan Token",
+		"coingecko": "e-c-vitoria-fan-token",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1907,
+		"address": "0x6b60afC542bA9669377a54734CF7D322BacFb261",
+		"symbol": "FC Sion Fan Token",
+		"name": "FC Sion Fan Token",
+		"coingecko": "fc-sion-fan-token",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1907,
+		"address": "0xF7Ac36424dA5a498528806a07b4A83Dc99ebC074",
+		"symbol": "MXGP Fan Token",
+		"name": "MXGP Fan Token",
+		"coingecko": "mxgp-fan-token",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1907,
+		"address": "0xED8186908Cb406c6f72F8bDd70Dc67AE02Fb3DbD",
+		"symbol": "Peruvian National Football Team Fan Token",
+		"name": "Peruvian National Football Team Fan Token",
+		"coingecko": "peruvian-national-football-team-fan-token",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1907,
+		"address": "0xb428b0d491516aAD256386180945C52423907A61",
+		"symbol": "Denizlispor Fan Token",
+		"name": "Denizlispor Fan Token",
+		"coingecko": "denizlispor-fan-token",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1907,
+		"address": "0xF2D2b22C862E00b9957df85C16D53631CAE66250",
+		"symbol": "Ecochain",
+		"name": "Ecochain",
+		"coingecko": "ecochain-2",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1907,
+		"address": "0xb12843c23786Aaa3A473030fBA2BECE63C573f49",
+		"symbol": "Extreme",
+		"name": "Extreme",
+		"coingecko": "extreme",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1907,
+		"address": "0x0D741f8199Bd5425c5fb41eb66FcDFdf969A6D80",
+		"symbol": "NFTDeli",
+		"name": "NFTDeli",
+		"coingecko": "nftdeli",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1907,
+		"address": "0x1ad3A994C7cEC5321C86cbc5225732eD153b9728",
+		"symbol": "Coritiba F.C. Fan Token",
+		"name": "Coritiba F.C. Fan Token",
+		"coingecko": "coritiba-f-c-fan-token",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1907,
+		"address": "0x486b0Bd8F5A5f8C3FdcDf8491732A18F991dea2f",
+		"symbol": "GasChameleon",
+		"name": "GasChameleon",
+		"coingecko": "gaschameleon",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1907,
+		"address": "0xF425BC8Ad12770fcd039d98681a5D653F5783214",
+		"symbol": "Karşıyaka Taraftar Fan Token",
+		"name": "Karşıyaka Taraftar Fan Token",
+		"coingecko": "karsiyaka-taraftar-token",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1907,
+		"address": "0x30bd5A8b8729eB801f771fF213f2450dfA8dc721",
+		"symbol": "Kocaelispor Fan Token",
+		"name": "Kocaelispor Fan Token",
+		"coingecko": "kocaelispor-fan-token",
 		"sources": [
 			"coingecko"
 		]
@@ -665,6 +465,206 @@
 		"symbol": "VRMARS",
 		"name": "VRMARS",
 		"coingecko": "vrmars",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1907,
+		"address": "0x54824069f225e875C0d7ae006849f4e183f43CDF",
+		"symbol": "Bitci Racing Token",
+		"name": "Bitci Racing Token",
+		"coingecko": "bitci-racing-token",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1907,
+		"address": "0x7a062DFd945cC54031dd5C33E50fa8e76Fc2B25E",
+		"symbol": "Çağdaş Bodrumspor Fan Token",
+		"name": "Çağdaş Bodrumspor Fan Token",
+		"coingecko": "cagdas-bodrumspor-fan-token",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1907,
+		"address": "0xC8044dAeCC2aBcDD9007D60b3DCFb775029D6554",
+		"symbol": "Food",
+		"name": "Food",
+		"coingecko": "food",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1907,
+		"address": "0xf930a91A60dEb0eB1fe9419a85f95D21badABD34",
+		"symbol": "Rangers Fan Token",
+		"name": "Rangers Fan Token",
+		"coingecko": "rangers-fan-token",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1907,
+		"address": "0x84061eA874EF3D89d40bD5Bed7E45075d4c2612E",
+		"symbol": "Adanaspor Fan Token",
+		"name": "Adanaspor Fan Token",
+		"coingecko": "adanaspor-fan-token",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1907,
+		"address": "0x0397b918945ec8A0CCBcFF3cEF95e551ef6B2818",
+		"symbol": "Gençlerbirliği Fan Token",
+		"name": "Gençlerbirliği Fan Token",
+		"coingecko": "genclerbirligi-fan-token",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1907,
+		"address": "0x23543C1DD44777De9bB4c0cc9eCb352402f68a58",
+		"symbol": "Inci",
+		"name": "Inci",
+		"coingecko": "inci-token",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1907,
+		"address": "0xA9c4f5024eAf74a3dAa4b7aFe83b9eCA7Aa9eecA",
+		"symbol": "Number 1",
+		"name": "Number 1",
+		"coingecko": "number-1-token",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1907,
+		"address": "0x5287F7a156fb20262AB7da6e3F273eF315BaE289",
+		"symbol": "Petshop.io",
+		"name": "Petshop.io",
+		"coingecko": "petshop-io",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1907,
+		"address": "0x3e6F1be54FEb9CC37dBfC31A894a8810357C3F9C",
+		"symbol": "Spain National Football Team Fan Token",
+		"name": "Spain National Football Team Fan Token",
+		"coingecko": "spain-national-fan-token",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1907,
+		"address": "0x0a561FB445C608412B636a5f2dDdFf7CeEaB8A4B",
+		"symbol": "AlienB",
+		"name": "AlienB",
+		"coingecko": "alienb",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1907,
+		"address": "0x10E2accD09091CCe859EE82D1C9C84B7dBe91552",
+		"symbol": "Blok Token",
+		"name": "Blok Token",
+		"coingecko": "bitci-blok",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1907,
+		"address": "0x4270A3D1a61FC6b86Ea9E19730E529ACEe592c3B",
+		"symbol": "Brazil National Football Team Fan Token",
+		"name": "Brazil National Football Team Fan Token",
+		"coingecko": "brazil-fan-token",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1907,
+		"address": "0xF30D5Bf7e9C70C36FA640340034CeEc02769Ea4B",
+		"symbol": "Bursaspor Fan Token",
+		"name": "Bursaspor Fan Token",
+		"coingecko": "bursaspor-fan-token",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1907,
+		"address": "0xf6752A3e3E98F745Fb726A6521d70456a4219E70",
+		"symbol": "MotoGP Fan Token",
+		"name": "MotoGP Fan Token",
+		"coingecko": "motogp-fan-token",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1907,
+		"address": "0x07C6aE17D4fE7952f62F90E6bAFC6032A3efa2bb",
+		"symbol": "Matrak Fan Token",
+		"name": "Matrak Fan Token",
+		"coingecko": "matrak-fan-token",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1907,
+		"address": "0xd19DfC6beF955A41A7E233E030aeDB2b5319bD7D",
+		"symbol": "RCD Espanyol Fan Token",
+		"name": "RCD Espanyol Fan Token",
+		"coingecko": "rcd-espanyol-fan-token",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1907,
+		"address": "0x12E5Df050Ba34a4b2ca3854546fDDBD641E9bD1D",
+		"symbol": "Deportivo Alavés Fan Token",
+		"name": "Deportivo Alavés Fan Token",
+		"coingecko": "deportivo-alaves-fan-token",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1907,
+		"address": "0xE2813AAf52CB35Aa37a82271AB176b2b64e5E1FD",
+		"symbol": "TESTO",
+		"name": "TESTO",
+		"coingecko": "testo",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1907,
+		"address": "0x0B37A4E31Bf13C0EbD48357E9c9c87040544A5EC",
+		"symbol": "Türkiye Motosiklet Federasyonu Fan Token",
+		"name": "Türkiye Motosiklet Federasyonu Fan Token",
+		"coingecko": "turkiye-motosiklet-federasyonu-fan-token",
 		"sources": [
 			"coingecko"
 		]

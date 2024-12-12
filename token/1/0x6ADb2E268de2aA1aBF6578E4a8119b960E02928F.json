@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0x6ADb2E268de2aA1aBF6578E4a8119b960E02928F",
-	"symbol": "ShibaDoge",
+	"symbol": "SHIBDOGE",
 	"name": "ShibaDoge",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/22018/thumb/5HMWoFW0_400x400.jpg?1696521364",
 	"coingecko": "shibadoge",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

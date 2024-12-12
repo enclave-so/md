@@ -3,6 +3,8 @@
 	"address": "0x337C8A3F0cD0580B29E9EE5D7829645709c8F6D2",
 	"symbol": "BOBA",
 	"name": "BOBA",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/37137/thumb/2024-04-17_16.37.10.jpg?1713419002",
 	"coingecko": "boba",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x550775e17ed6767621A1aEd580e6EB29EdE981E9",
-	"symbol": "Agnus AI",
+	"symbol": "AGN",
 	"name": "Agnus AI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/34387/thumb/photo_2024-01-08_14.11.37.jpeg?1704780575",
 	"coingecko": "agnus-ai",
 	"sources": [
 		"coingecko"

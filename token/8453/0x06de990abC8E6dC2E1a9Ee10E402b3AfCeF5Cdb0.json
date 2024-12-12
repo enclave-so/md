@@ -1,0 +1,11 @@
+{
+	"chain": 8453,
+	"address": "0x06de990abC8E6dC2E1a9Ee10E402b3AfCeF5Cdb0",
+	"symbol": "U",
+	"name": "U-Coin",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/U/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

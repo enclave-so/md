@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x48fd84c0dFC47F1b61eD6a86367895AaA6ad2a45",
-	"symbol": "Twin Protocol",
+	"symbol": "TWIN",
 	"name": "Twin Protocol",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/50990/thumb/Full_Logo.jpg?1729668252",
 	"coingecko": "twin-protocol",
 	"sources": [
 		"coingecko"

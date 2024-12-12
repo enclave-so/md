@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0x17d2628D30F8e9E966c9Ba831c9B9b01ea8Ea75C",
-	"symbol": "ISKRA Token",
+	"symbol": "ISK",
 	"name": "ISKRA Token",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/27428/thumb/ISKRA_logo.png?1696526469",
 	"coingecko": "iskra-token",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

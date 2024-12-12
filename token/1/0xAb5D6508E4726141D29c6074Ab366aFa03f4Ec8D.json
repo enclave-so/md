@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xAb5D6508E4726141D29c6074Ab366aFa03f4Ec8D",
-	"symbol": "Cybertruck",
+	"symbol": "TRUCK",
 	"name": "Cybertruck",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/33168/thumb/TRUCK.jpg?1700908260",
 	"coingecko": "cybertruck",
 	"sources": [
 		"coingecko"

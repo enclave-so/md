@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x724313985dCB55D432d3888DDC0b9E3d3859E86d",
-	"symbol": "BitRunes",
+	"symbol": "BRUNE",
 	"name": "BitRunes",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/37265/thumb/BitRunes.png?1713867578",
 	"coingecko": "bitrunes",
 	"sources": [
 		"coingecko"

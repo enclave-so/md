@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x82A77710495A35549D2aDD797412b4a4497D33eF",
-	"symbol": "Dogz",
+	"symbol": "DOGZ",
 	"name": "Dogz",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/7544/thumb/dogz.png?1696507809",
 	"coingecko": "dogz",
 	"sources": [
 		"coingecko"

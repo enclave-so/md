@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xeB953eDA0DC65e3246f43DC8fa13f35623bDd5eD",
-	"symbol": "Raini",
+	"symbol": "RAINI",
 	"name": "Raini",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14491/thumb/logo-200x200.png?1696514176",
 	"coingecko": "rainicorn",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x79874E049A65c330b23f99cf09dd93E58B1f46aD",
-	"symbol": "Babble AI",
+	"symbol": "BBL",
 	"name": "Babble AI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/40103/thumb/NEW_BABBLE_pfp-17.png?1725694944",
 	"coingecko": "babble-ai",
 	"sources": [
 		"coingecko"

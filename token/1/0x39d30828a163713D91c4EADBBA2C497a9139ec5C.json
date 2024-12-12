@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x39d30828a163713D91c4EADBBA2C497a9139ec5C",
-	"symbol": "Happy Birthday Coin",
+	"symbol": "HBDC",
 	"name": "Happy Birthday Coin",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/12814/thumb/%EC%A7%84%ED%92%88.png?1696512607",
 	"coingecko": "happy-birthday-coin",
 	"sources": [
 		"coingecko"

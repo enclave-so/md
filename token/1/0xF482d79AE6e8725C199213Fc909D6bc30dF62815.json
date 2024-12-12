@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xF482d79AE6e8725C199213Fc909D6bc30dF62815",
-	"symbol": "Recycle Impact World Association",
+	"symbol": "RIWA",
 	"name": "Recycle Impact World Association",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/32158/thumb/RIWA.jpg?1696601500",
 	"coingecko": "recycle-impact-world-association",
 	"sources": [
 		"coingecko"

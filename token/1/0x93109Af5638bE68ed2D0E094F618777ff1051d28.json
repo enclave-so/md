@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x93109Af5638bE68ed2D0E094F618777ff1051d28",
-	"symbol": "UNIT DAO",
+	"symbol": "UN",
 	"name": "UNIT DAO",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/34306/thumb/UNITDao.png?1704614014",
 	"coingecko": "unit-dao",
 	"sources": [
 		"coingecko"

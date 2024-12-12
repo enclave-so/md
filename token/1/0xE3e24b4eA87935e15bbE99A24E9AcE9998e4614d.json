@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xE3e24b4eA87935e15bbE99A24E9AcE9998e4614d",
-	"symbol": "Aidi Finance",
+	"symbol": "AIDI",
 	"name": "Aidi Finance",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/29675/thumb/aidi_finance.png?1696528610",
 	"coingecko": "aidi-finance-2",
 	"sources": [
 		"coingecko"

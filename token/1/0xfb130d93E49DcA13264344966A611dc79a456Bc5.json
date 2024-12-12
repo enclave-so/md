@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0xfb130d93E49DcA13264344966A611dc79a456Bc5",
-	"symbol": "DogeGF",
+	"symbol": "DOGEGF",
 	"name": "DogeGF",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/18651/thumb/dogegf_logo_200x200.png?1712082872",
 	"coingecko": "dogegf",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

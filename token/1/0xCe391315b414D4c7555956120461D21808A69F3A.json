@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xCe391315b414D4c7555956120461D21808A69F3A",
-	"symbol": "Bao Finance V2",
+	"symbol": "BAO",
 	"name": "Bao Finance V2",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/28287/thumb/bao-logo-mark-full-color-rgb-900px-w-72ppi.png?1696527286",
 	"coingecko": "bao-finance-v2",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xb076BDa1ABc154DdB4CCd9Be45542A823aEE290E",
-	"symbol": "FlexMeme",
+	"symbol": "FLEX",
 	"name": "FlexMeme",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30018/thumb/flexmeme.png?1696528942",
 	"coingecko": "flexmeme",
 	"sources": [
 		"coingecko"

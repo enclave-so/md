@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xCd2828fc4D8E8a0eDe91bB38CF64B1a81De65Bf6",
-	"symbol": "Oddz",
+	"symbol": "ODDZ",
 	"name": "Oddz",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14421/thumb/NewLogo.png?1696514112",
 	"coingecko": "oddz",
 	"sources": [
 		"coingecko"

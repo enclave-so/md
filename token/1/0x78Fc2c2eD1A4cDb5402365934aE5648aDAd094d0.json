@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0x78Fc2c2eD1A4cDb5402365934aE5648aDAd094d0",
-	"symbol": "Re7 WETH Morpho Vault",
+	"symbol": "RE7WETH",
 	"name": "Re7 WETH Morpho Vault",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/51496/thumb/ethereum-eth-logo.png?1731407851",
 	"coingecko": "re7-weth-morpho-vault",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"indexcoop"
 	]
 }

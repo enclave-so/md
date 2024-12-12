@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xBbff34E47E559ef680067a6B1c980639EEb64D24",
-	"symbol": "Leverj Gluon",
+	"symbol": "L2",
 	"name": "Leverj Gluon",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/12950/thumb/Gluon256x256.png?1696512739",
 	"coingecko": "leverj-gluon",
 	"sources": [
 		"coingecko"

@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0x22Fc5A29bd3d6CCe19a06f844019fd506fCe4455",
-	"symbol": "Equilibria Finance ePENDLE",
+	"symbol": "EPENDLE",
 	"name": "Equilibria Finance ePENDLE",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/33379/thumb/photo_2023-12-02_19-45-14.jpg?1701665986",
 	"coingecko": "equilibria-finance-ependle",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

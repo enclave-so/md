@@ -1,10 +1,13 @@
 {
 	"chain": 43114,
 	"address": "0x596fA47043f99A4e0F122243B841E55375cdE0d2",
-	"symbol": "0x Protocol",
-	"name": "0x Protocol",
+	"symbol": "ZRX",
+	"name": "0x Protocol Token",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xE41d2489571d322189246DaFA5ebDe1F4699F498/logo.png",
 	"coingecko": "0x",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"uniswap"
 	]
 }

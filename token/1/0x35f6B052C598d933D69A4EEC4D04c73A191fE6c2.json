@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x35f6B052C598d933D69A4EEC4D04c73A191fE6c2",
-	"symbol": "Aave SNX",
+	"symbol": "ASNX",
 	"name": "Aave SNX",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14265/thumb/aSNX.3238f3e7.png?1696513966",
 	"coingecko": "aave-snx",
 	"sources": [
 		"coingecko"

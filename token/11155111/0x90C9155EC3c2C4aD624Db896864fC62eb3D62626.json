@@ -1,0 +1,11 @@
+{
+	"chain": 11155111,
+	"address": "0x90C9155EC3c2C4aD624Db896864fC62eb3D62626",
+	"symbol": "TRUE",
+	"name": "True",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/TRUE/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

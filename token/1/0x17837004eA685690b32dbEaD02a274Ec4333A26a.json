@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x17837004eA685690b32dbEaD02a274Ec4333A26a",
-	"symbol": "Bear Inu",
+	"symbol": "BEAR",
 	"name": "Bear Inu",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/29517/thumb/bear.png?1696528460",
 	"coingecko": "bear-inu",
 	"sources": [
 		"coingecko"

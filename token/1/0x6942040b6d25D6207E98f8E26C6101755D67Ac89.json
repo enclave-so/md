@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x6942040b6d25D6207E98f8E26C6101755D67Ac89",
-	"symbol": "Mellow Man",
+	"symbol": "MELLOW",
 	"name": "Mellow Man",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/39768/thumb/Mellow_Man.png?1724034992",
 	"coingecko": "mellow-man",
 	"sources": [
 		"coingecko"

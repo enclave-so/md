@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x8854d278bdb3140c161bF011888D9dC7A5918E77",
-	"symbol": "Yuge",
+	"symbol": "YUGE",
 	"name": "Yuge",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/38199/thumb/1000225072.jpg?1716791735",
 	"coingecko": "yuge-on-eth",
 	"sources": [
 		"coingecko"

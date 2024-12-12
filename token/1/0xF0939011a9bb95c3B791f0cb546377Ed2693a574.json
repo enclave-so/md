@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xF0939011a9bb95c3B791f0cb546377Ed2693a574",
-	"symbol": "0.exchange",
-	"name": "0.exchange",
+	"symbol": "ZERO",
+	"name": "0 exchange",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/13706/thumb/0.exchange_%28logo%29.jpg?1696513452",
 	"coingecko": "zero-exchange",
 	"sources": [
 		"coingecko"

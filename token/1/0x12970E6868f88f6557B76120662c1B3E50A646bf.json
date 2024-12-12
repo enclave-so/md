@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x12970E6868f88f6557B76120662c1B3E50A646bf",
-	"symbol": "Milady Meme Coin",
+	"symbol": "LADYS",
 	"name": "Milady Meme Coin",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30194/thumb/LADYS_Clean.png?1725897475",
 	"coingecko": "milady-meme-coin",
 	"sources": [
 		"coingecko"

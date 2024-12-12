@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x043312456f73D8014D9b84f4337DE54995CD2A5B",
-	"symbol": "Bonk2.0",
-	"name": "Bonk2.0",
+	"symbol": "BONK20",
+	"name": "Bonk2 0",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/33685/thumb/20231211_114717.jpg?1702731710",
 	"coingecko": "bonk2-0",
 	"sources": [
 		"coingecko"

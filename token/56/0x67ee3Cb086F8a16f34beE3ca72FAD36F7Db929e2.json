@@ -2,9 +2,12 @@
 	"chain": 56,
 	"address": "0x67ee3Cb086F8a16f34beE3ca72FAD36F7Db929e2",
 	"symbol": "DODO",
-	"name": "DODO",
+	"name": "Dodo",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x67ee3Cb086F8a16f34beE3ca72FAD36F7Db929e2.png",
 	"coingecko": "dodo",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

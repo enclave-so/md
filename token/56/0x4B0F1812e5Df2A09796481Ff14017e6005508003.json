@@ -4,10 +4,11 @@
 	"symbol": "TWT",
 	"name": "Trust Wallet",
 	"decimals": 18,
-	"logo": "https://bscscan.com/token/images/trust_32.png",
+	"logo": "https://tokens.pancakeswap.finance/images/0x4B0F1812e5Df2A09796481Ff14017e6005508003.png",
 	"coingecko": "trust-wallet-token",
 	"sources": [
 		"coingecko",
+		"pancakeswap",
 		"sushiswap"
 	]
 }

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x27c78A7C10a0673C3509CCF63044AAb92E09edac",
-	"symbol": "Butterfly Ai",
+	"symbol": "FLY",
 	"name": "Butterfly Ai",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/50528/thumb/photo_2024-10-02_12-19-56.jpg?1728162519",
 	"coingecko": "butterfly-ai",
 	"sources": [
 		"coingecko"

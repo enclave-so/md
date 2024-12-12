@@ -1,0 +1,11 @@
+{
+	"chain": 56,
+	"address": "0x37a56cdcD83Dce2868f721De58cB3830C44C6303",
+	"symbol": "ZBC",
+	"name": "ZEBEC",
+	"decimals": 9,
+	"logo": "https://tokens.pancakeswap.finance/images/0x37a56cdcD83Dce2868f721De58cB3830C44C6303.png",
+	"sources": [
+		"pancakeswap"
+	]
+}

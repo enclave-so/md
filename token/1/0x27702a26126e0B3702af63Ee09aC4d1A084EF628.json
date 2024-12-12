@@ -2,12 +2,13 @@
 	"chain": 1,
 	"address": "0x27702a26126e0B3702af63Ee09aC4d1A084EF628",
 	"symbol": "ALEPH",
-	"name": "Aleph",
+	"name": "Aleph im",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x27702a26126e0B3702af63Ee09aC4d1A084EF628/logo.png",
+	"logo": "https://assets.coingecko.com/coins/images/11676/thumb/Monochram-aleph.png?1608483725",
 	"coingecko": "aleph",
 	"sources": [
 		"coingecko",
-		"sushiswap"
+		"sushiswap",
+		"uniswap"
 	]
 }

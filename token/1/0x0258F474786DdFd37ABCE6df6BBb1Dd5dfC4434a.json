@@ -4,10 +4,11 @@
 	"symbol": "ORN",
 	"name": "Orion Protocol",
 	"decimals": 8,
-	"logo": "https://assets.coingecko.com/coins/images/11841/small/orion_logo.png?1594943318",
+	"logo": "https://assets.coingecko.com/coins/images/11841/thumb/orion_logo.png?1594943318",
 	"coingecko": "orion-protocol",
 	"sources": [
 		"coingecko",
-		"sushiswap"
+		"sushiswap",
+		"uniswap"
 	]
 }

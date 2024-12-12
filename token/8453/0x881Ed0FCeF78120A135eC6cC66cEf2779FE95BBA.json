@@ -1,10 +1,13 @@
 {
 	"chain": 8453,
 	"address": "0x881Ed0FCeF78120A135eC6cC66cEf2779FE95BBA",
-	"symbol": "DogeGF",
+	"symbol": "DOGEGF",
 	"name": "DogeGF",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/DOGEGF/logo.svg",
 	"coingecko": "dogegf",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

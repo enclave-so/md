@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x436dA116249044E8B4464F0Cf21Dd93311d88190",
-	"symbol": "Colizeum",
+	"symbol": "ZEUM",
 	"name": "Colizeum",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/24448/thumb/AB0cGpnx_400x400.jpg?1696523629",
 	"coingecko": "colizeum",
 	"sources": [
 		"coingecko"

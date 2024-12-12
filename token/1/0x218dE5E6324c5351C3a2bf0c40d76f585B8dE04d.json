@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x218dE5E6324c5351C3a2bf0c40d76f585B8dE04d",
-	"symbol": "Stake Together",
+	"symbol": "STPETH",
 	"name": "Stake Together",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/34709/thumb/stake-together.png?1705894276",
 	"coingecko": "stake-together",
 	"sources": [
 		"coingecko"

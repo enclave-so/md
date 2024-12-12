@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x986df267Bb88A0a0be06DD4a1052E1BdEC1a6172",
-	"symbol": "HyperQuant",
+	"symbol": "HQ",
 	"name": "HyperQuant",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/39439/thumb/om93ubto_%281%29.png?1722308377",
 	"coingecko": "hyperquant-2",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xc3589F56B6869824804A5EA29F2c9886Af1B0FcE",
-	"symbol": "Honey",
+	"symbol": "HNY",
 	"name": "Honey",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/12895/thumb/hnys.png?1696512683",
 	"coingecko": "honey",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x927402ab67c0CDA3c187E9DFE34554AC581441f2",
-	"symbol": "SaitaBit",
+	"symbol": "SAITABIT",
 	"name": "SaitaBit",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/39115/thumb/SaitaBitLogo200.png?1720589114",
 	"coingecko": "saitabit",
 	"sources": [
 		"coingecko"

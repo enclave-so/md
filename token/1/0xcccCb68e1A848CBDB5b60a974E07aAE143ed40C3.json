@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xcccCb68e1A848CBDB5b60a974E07aAE143ed40C3",
-	"symbol": "HYCHAIN",
+	"symbol": "TOPIA",
 	"name": "HYCHAIN",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31283/thumb/HYCHAIN_Avatar_Circle.png?1710500962",
 	"coingecko": "hytopia",
 	"sources": [
 		"coingecko"

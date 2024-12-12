@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x5b1D655C93185b06B00f7925791106132Cb3ad75",
-	"symbol": "DarkMatter",
+	"symbol": "DMT",
 	"name": "DarkMatter",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/23989/thumb/dmt.png?1696523184",
 	"coingecko": "darkmatter",
 	"sources": [
 		"coingecko"

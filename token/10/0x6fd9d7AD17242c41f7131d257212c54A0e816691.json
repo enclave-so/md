@@ -4,10 +4,12 @@
 	"symbol": "UNI",
 	"name": "Uniswap",
 	"decimals": 18,
-	"logo": "https://ethereum-optimism.github.io/data/UNI/logo.png",
+	"logo": "ipfs://QmXttGpZrECX5qCyXbBQiqgQNytVGeZW5Anewvh2jc4psg",
 	"coingecko": "uniswap",
 	"sources": [
 		"coingecko",
-		"sushiswap"
+		"optimism",
+		"sushiswap",
+		"uniswap"
 	]
 }

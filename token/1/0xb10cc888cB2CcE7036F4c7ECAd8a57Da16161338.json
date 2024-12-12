@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xb10cc888cB2CcE7036F4c7ECAd8a57Da16161338",
-	"symbol": "Switch Token",
+	"symbol": "SWITCH",
 	"name": "Switch Token",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/30140/thumb/SWITCH-200x200-Circle_Token.jpg?1696529061",
 	"coingecko": "switch-token",
 	"sources": [
 		"coingecko"

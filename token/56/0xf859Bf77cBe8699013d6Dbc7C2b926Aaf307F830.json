@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0xf859Bf77cBe8699013d6Dbc7C2b926Aaf307F830",
-	"symbol": "Berry Data",
-	"name": "Berry Data",
+	"symbol": "BRY",
+	"name": "Berry",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0xf859Bf77cBe8699013d6Dbc7C2b926Aaf307F830.png",
 	"coingecko": "berry-data",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

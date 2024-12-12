@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x8b937AF714aC7E2129bD33D93641F52b665Ca352",
-	"symbol": "JizzRocket",
+	"symbol": "JIZZ",
 	"name": "JizzRocket",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/28985/thumb/bLQvXuh_%281%29.png?1696527958",
 	"coingecko": "jizzrocket",
 	"sources": [
 		"coingecko"

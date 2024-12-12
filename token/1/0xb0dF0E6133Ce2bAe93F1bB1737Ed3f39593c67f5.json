@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xb0dF0E6133Ce2bAe93F1bB1737Ed3f39593c67f5",
-	"symbol": "X-PASS",
-	"name": "X-PASS",
+	"symbol": "XPASS",
+	"name": "X PASS",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/50897/thumb/X-PASS.png?1729507412",
 	"coingecko": "x-pass",
 	"sources": [
 		"coingecko"

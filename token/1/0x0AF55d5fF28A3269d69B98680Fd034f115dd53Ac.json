@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x0AF55d5fF28A3269d69B98680Fd034f115dd53Ac",
-	"symbol": "BankSocial",
+	"symbol": "BSL",
 	"name": "BankSocial",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/15738/thumb/banksocial_small.png?1696515363",
 	"coingecko": "banksocial",
 	"sources": [
 		"coingecko"

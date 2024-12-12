@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xb3E41D6e0ea14b43BC5DE3C314A408af171b03dD",
-	"symbol": "Kabosu",
+	"symbol": "KABOSU",
 	"name": "Kabosu",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/50789/thumb/1000000874.jpg?1729213094",
 	"coingecko": "kabosu-kabosucoin-erc",
 	"sources": [
 		"coingecko"

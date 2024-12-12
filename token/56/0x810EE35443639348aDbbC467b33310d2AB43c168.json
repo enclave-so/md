@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0x810EE35443639348aDbbC467b33310d2AB43c168",
-	"symbol": "Cyclone Protocol",
-	"name": "Cyclone Protocol",
+	"symbol": "CYC",
+	"name": "Cyclone",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x810EE35443639348aDbbC467b33310d2AB43c168.png",
 	"coingecko": "cyclone-protocol",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

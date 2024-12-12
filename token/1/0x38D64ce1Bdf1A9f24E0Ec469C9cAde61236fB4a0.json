@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x38D64ce1Bdf1A9f24E0Ec469C9cAde61236fB4a0",
-	"symbol": "Vector ETH",
+	"symbol": "VETH",
 	"name": "Vector ETH",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35085/thumb/vETH200.png?1709644096",
 	"coingecko": "vector-eth",
 	"sources": [
 		"coingecko"

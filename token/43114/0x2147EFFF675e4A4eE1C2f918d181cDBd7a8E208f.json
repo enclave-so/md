@@ -1,10 +1,13 @@
 {
 	"chain": 43114,
 	"address": "0x2147EFFF675e4A4eE1C2f918d181cDBd7a8E208f",
-	"symbol": "Stella",
-	"name": "Stella",
+	"symbol": "ALPHA",
+	"name": "Alpha Venture DAO",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/12738/thumb/AlphaToken_256x256.png?1617160876",
 	"coingecko": "alpha-finance",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"uniswap"
 	]
 }

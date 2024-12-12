@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x6522f491Df42651cf5E6636B7261Adaa096d095F",
-	"symbol": "Asap Sniper Bot",
+	"symbol": "ASAP",
 	"name": "Asap Sniper Bot",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30707/thumb/LOGO_%281%29.jpeg?1696529578",
 	"coingecko": "asap-sniper-bot",
 	"sources": [
 		"coingecko"

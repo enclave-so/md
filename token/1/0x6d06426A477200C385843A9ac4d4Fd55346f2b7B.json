@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x6d06426A477200C385843A9ac4d4Fd55346f2b7B",
-	"symbol": "Ginnan Neko",
+	"symbol": "GINNAN",
 	"name": "Ginnan Neko",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/52346/thumb/GINNAN_200.jpg?1733149923",
 	"coingecko": "ginnan-neko",
 	"sources": [
 		"coingecko"

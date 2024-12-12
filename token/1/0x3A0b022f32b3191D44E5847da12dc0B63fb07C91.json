@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x3A0b022f32b3191D44E5847da12dc0B63fb07C91",
-	"symbol": "Spellfire",
+	"symbol": "SPELLFIRE",
 	"name": "Spellfire",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/23107/thumb/17316.png?1696522396",
 	"coingecko": "spellfire",
 	"sources": [
 		"coingecko"

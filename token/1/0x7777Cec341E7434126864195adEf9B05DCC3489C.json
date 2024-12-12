@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x7777Cec341E7434126864195adEf9B05DCC3489C",
-	"symbol": "Onigiri",
+	"symbol": "ONI",
 	"name": "Onigiri",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/39522/thumb/Onigiri.jpg?1722790714",
 	"coingecko": "onigiri-2",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x18E5F92103d1B34623738Ee79214B1659f2eE109",
-	"symbol": "Wrapped CellMates",
+	"symbol": "WCELL",
 	"name": "Wrapped CellMates",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35154/thumb/755F6B74-7940-475C-9818-4672DEF73BDA.png?1707561272",
 	"coingecko": "wrapped-cellmates",
 	"sources": [
 		"coingecko"

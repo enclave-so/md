@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xEe9E5eFF401ee921b138490d00CA8D1F13f67A72",
-	"symbol": "Asian Fintech",
+	"symbol": "AFIN",
 	"name": "Asian Fintech",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/7519/thumb/Afinlogo-200x200.png?1696507786",
 	"coingecko": "afin-coin",
 	"sources": [
 		"coingecko"

@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0x0231f91e02DebD20345Ae8AB7D71A41f8E140cE7",
-	"symbol": "Jupiter Project",
-	"name": "Jupiter Project",
+	"symbol": "JUP",
+	"name": "Jupiter",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/10351/thumb/logo512.png?1632480932",
 	"coingecko": "jupiter",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"uniswap"
 	]
 }

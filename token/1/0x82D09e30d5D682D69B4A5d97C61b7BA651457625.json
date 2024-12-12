@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0x82D09e30d5D682D69B4A5d97C61b7BA651457625",
-	"symbol": "Token Name Service",
+	"symbol": "TKN",
 	"name": "Token Name Service",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/39886/thumb/Tri-gradient_Group_5135_2x.png?1724682287",
 	"coingecko": "token-name-service",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

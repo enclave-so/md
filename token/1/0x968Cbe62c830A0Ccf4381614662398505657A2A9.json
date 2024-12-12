@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x968Cbe62c830A0Ccf4381614662398505657A2A9",
-	"symbol": "Thrupenny",
+	"symbol": "TPY",
 	"name": "Thrupenny",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/26799/thumb/rsz_1mpmojfho_400x400.png?1696525861",
 	"coingecko": "thrupenny",
 	"sources": [
 		"coingecko"

@@ -1,10 +1,14 @@
 {
 	"chain": 1,
 	"address": "0x62D0A8458eD7719FDAF978fe5929C6D342B0bFcE",
-	"symbol": "Beam",
+	"symbol": "BEAM",
 	"name": "Beam",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/32417/standard/chain-logo.png?1698114384",
 	"coingecko": "beam-2",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"indexcoop",
+		"uniswap"
 	]
 }

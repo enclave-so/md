@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x695AfdB42EDFf97AF470a15920a66dF81a234c0e",
-	"symbol": "Wrapped MOXY",
+	"symbol": "WMOXY",
 	"name": "Wrapped MOXY",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31221/thumb/Moxy_200x_200_Logo.png?1696530047",
 	"coingecko": "wrapped-moxy",
 	"sources": [
 		"coingecko"

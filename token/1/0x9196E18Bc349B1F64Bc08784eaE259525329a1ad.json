@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x9196E18Bc349B1F64Bc08784eaE259525329a1ad",
-	"symbol": "Pussy Financial",
+	"symbol": "PUSSY",
 	"name": "Pussy Financial",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/15213/thumb/pussytoken.png?1696514869",
 	"coingecko": "pussy-financial",
 	"sources": [
 		"coingecko"

@@ -2,9 +2,9 @@
 	"chain": 1,
 	"address": "0x798D1bE841a82a273720CE31c822C61a67a601C3",
 	"symbol": "DIGG",
-	"name": "Digg",
+	"name": "DIGG",
 	"decimals": 9,
-	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x798D1bE841a82a273720CE31c822C61a67a601C3/logo.png",
+	"logo": "https://assets.coingecko.com/coins/images/13737/thumb/digg.PNG?1696513481",
 	"coingecko": "digg",
 	"sources": [
 		"coingecko",

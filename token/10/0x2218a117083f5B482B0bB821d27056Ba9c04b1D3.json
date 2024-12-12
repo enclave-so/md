@@ -1,10 +1,13 @@
 {
 	"chain": 10,
 	"address": "0x2218a117083f5B482B0bB821d27056Ba9c04b1D3",
-	"symbol": "Savings Dai",
+	"symbol": "sDAI",
 	"name": "Savings Dai",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/sDAI/logo.svg",
 	"coingecko": "savings-dai",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

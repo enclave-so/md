@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xd9641fC2826Ecc9beBf4F3852fe4ED92a5239F02",
-	"symbol": "Aventa",
+	"symbol": "AVENT",
 	"name": "Aventa",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/50524/thumb/IMG_1828-ezgif.com-resize.png?1728144065",
 	"coingecko": "aventa",
 	"sources": [
 		"coingecko"

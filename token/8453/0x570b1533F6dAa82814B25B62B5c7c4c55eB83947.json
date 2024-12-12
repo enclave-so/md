@@ -1,0 +1,11 @@
+{
+	"chain": 8453,
+	"address": "0x570b1533F6dAa82814B25B62B5c7c4c55eB83947",
+	"symbol": "BOBO",
+	"name": "BOBO",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/BOBO/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

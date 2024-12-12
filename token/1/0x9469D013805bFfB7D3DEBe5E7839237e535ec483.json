@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x9469D013805bFfB7D3DEBe5E7839237e535ec483",
-	"symbol": "Darwinia Network",
+	"symbol": "RING",
 	"name": "Darwinia Network",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/9443/thumb/RING.png?1696509535",
 	"coingecko": "darwinia-network-native-token",
 	"sources": [
 		"coingecko"

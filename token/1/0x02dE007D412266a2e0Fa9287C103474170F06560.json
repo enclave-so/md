@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x02dE007D412266a2e0Fa9287C103474170F06560",
-	"symbol": "Exorde",
+	"symbol": "EXD",
 	"name": "Exorde",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/28684/thumb/logo-exorde.png?1696527668",
 	"coingecko": "exorde",
 	"sources": [
 		"coingecko"

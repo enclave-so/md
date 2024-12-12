@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0x595832F8FC6BF59c85C527fEC3740A1b7a361269",
-	"symbol": "Powerledger",
-	"name": "Powerledger",
+	"symbol": "POWR",
+	"name": "Power Ledger",
+	"decimals": 6,
+	"logo": "https://assets.coingecko.com/coins/images/1104/thumb/power-ledger.png?1547035082",
 	"coingecko": "power-ledger",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"uniswap"
 	]
 }

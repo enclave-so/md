@@ -2,9 +2,9 @@
 	"chain": 1,
 	"address": "0x888888435FDe8e7d4c54cAb67f206e4199454c60",
 	"symbol": "DFX",
-	"name": "DFX",
+	"name": "DFX Finance",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x888888435FDe8e7d4c54cAb67f206e4199454c60/logo.png",
+	"logo": "https://assets.coingecko.com/coins/images/14091/thumb/DFX.png?1696513813",
 	"coingecko": "dfx-finance",
 	"sources": [
 		"coingecko",

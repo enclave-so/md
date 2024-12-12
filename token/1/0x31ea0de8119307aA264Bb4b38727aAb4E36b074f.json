@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x31ea0de8119307aA264Bb4b38727aAb4E36b074f",
-	"symbol": "Bit Store",
+	"symbol": "STORE",
 	"name": "Bit Store",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/20463/thumb/bit_store.PNG?1696519868",
 	"coingecko": "bit-store-coin",
 	"sources": [
 		"coingecko"

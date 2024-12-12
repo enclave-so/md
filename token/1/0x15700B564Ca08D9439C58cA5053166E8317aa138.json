@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x15700B564Ca08D9439C58cA5053166E8317aa138",
-	"symbol": "Elixir deUSD",
+	"symbol": "DEUSD",
 	"name": "Elixir deUSD",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/39494/thumb/deUSD_Logo_%281%29.png?1723689002",
 	"coingecko": "elixir-deusd",
 	"sources": [
 		"coingecko"

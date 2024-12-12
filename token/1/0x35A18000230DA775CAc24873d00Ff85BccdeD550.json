@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x35A18000230DA775CAc24873d00Ff85BccdeD550",
-	"symbol": "cUNI",
+	"symbol": "CUNI",
 	"name": "cUNI",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/12696/thumb/compound-uni.png?1696512499",
 	"coingecko": "compound-uniswap",
 	"sources": [
 		"coingecko"

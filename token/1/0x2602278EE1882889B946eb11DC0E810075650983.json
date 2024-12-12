@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x2602278EE1882889B946eb11DC0E810075650983",
-	"symbol": "Vader Protocol",
+	"symbol": "VADER",
 	"name": "Vader Protocol",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/20497/thumb/AcF08Jk1_400x400.jpg?1696519904",
 	"coingecko": "vader-protocol",
 	"sources": [
 		"coingecko"

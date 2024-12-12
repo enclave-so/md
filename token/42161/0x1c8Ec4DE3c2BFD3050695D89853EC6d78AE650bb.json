@@ -1,0 +1,11 @@
+{
+	"chain": 42161,
+	"address": "0x1c8Ec4DE3c2BFD3050695D89853EC6d78AE650bb",
+	"symbol": "WAMPL",
+	"name": "Wrapped Ampleforth",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/20825/thumb/photo_2021-11-25_02-05-11.jpg?1637811951",
+	"sources": [
+		"uniswap"
+	]
+}

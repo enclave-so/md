@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0xF43F21384d03b5cBbddd58d2de64071e4Ce76AB0",
-	"symbol": "GigaChad",
+	"symbol": "GIGACHAD",
 	"name": "GigaChad",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/39095/thumb/GigaChad.jpg?1726771420",
 	"coingecko": "gigachad-eth",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

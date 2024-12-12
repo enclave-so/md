@@ -1,0 +1,11 @@
+{
+	"chain": 8453,
+	"address": "0x93dc5Cb35627A759848c7A7F0079EA7b49E435a5",
+	"symbol": "MET",
+	"name": "Metronome2",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/MET/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

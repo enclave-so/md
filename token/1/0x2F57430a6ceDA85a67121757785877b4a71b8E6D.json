@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x2F57430a6ceDA85a67121757785877b4a71b8E6D",
-	"symbol": "DefiPlaza",
+	"symbol": "DFP2",
 	"name": "DefiPlaza",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/19552/thumb/profile-round.png?1696518985",
 	"coingecko": "defiplaza",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x177BA0cac51bFC7eA24BAd39d81dcEFd59d74fAa",
-	"symbol": "KittenFinance",
+	"symbol": "KIF",
 	"name": "KittenFinance",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/12340/thumb/SnQPkABT_400x400.png?1696512167",
 	"coingecko": "kittenfinance",
 	"sources": [
 		"coingecko"

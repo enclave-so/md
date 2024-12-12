@@ -1,10 +1,14 @@
 {
 	"chain": 1,
 	"address": "0x744d70FDBE2Ba4CF95131626614a1763DF805B9E",
-	"symbol": "Status",
+	"symbol": "SNT",
 	"name": "Status",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/779/thumb/status.png?1548610778",
 	"coingecko": "status",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism",
+		"uniswap"
 	]
 }

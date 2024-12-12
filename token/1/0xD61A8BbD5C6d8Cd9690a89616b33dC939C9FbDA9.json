@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xD61A8BbD5C6d8Cd9690a89616b33dC939C9FbDA9",
-	"symbol": "Solo",
+	"symbol": "SOLO",
 	"name": "Solo",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/52439/thumb/solo200x200.png?1733349885",
 	"coingecko": "solo",
 	"sources": [
 		"coingecko"

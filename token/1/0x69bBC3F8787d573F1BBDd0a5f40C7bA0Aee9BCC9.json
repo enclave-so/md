@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x69bBC3F8787d573F1BBDd0a5f40C7bA0Aee9BCC9",
-	"symbol": "Yup",
+	"symbol": "YUP",
 	"name": "Yup",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/12322/thumb/photo_2021-10-26_00-47-35.jpg?1696512151",
 	"coingecko": "yup",
 	"sources": [
 		"coingecko"

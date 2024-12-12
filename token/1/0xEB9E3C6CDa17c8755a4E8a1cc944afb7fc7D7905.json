@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xEB9E3C6CDa17c8755a4E8a1cc944afb7fc7D7905",
-	"symbol": "MatchTrade",
+	"symbol": "MATCH",
 	"name": "MatchTrade",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/34520/thumb/Frame_16.png?1705301241",
 	"coingecko": "matchtrade",
 	"sources": [
 		"coingecko"

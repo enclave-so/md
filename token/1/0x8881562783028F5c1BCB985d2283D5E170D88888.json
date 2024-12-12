@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x8881562783028F5c1BCB985d2283D5E170D88888",
-	"symbol": "Shuffle",
+	"symbol": "SHFL",
 	"name": "Shuffle",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35148/thumb/shuffle_token_200x200.png?1707552712",
 	"coingecko": "shuffle-2",
 	"sources": [
 		"coingecko"

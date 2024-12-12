@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x72fCA22C6070b4cF68aBDB719fA484d9eF10a73B",
-	"symbol": "Sowa AI",
+	"symbol": "SOWA",
 	"name": "Sowa AI",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/36798/thumb/sowa_ai_logo.png?1712441273",
 	"coingecko": "sowa-ai",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x73C69d24ad28e2d43D03CBf35F79fE26EBDE1011",
-	"symbol": "Archimedes Finance",
+	"symbol": "ARCH",
 	"name": "Archimedes Finance",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/28970/thumb/arch.png?1696527943",
 	"coingecko": "archimedes",
 	"sources": [
 		"coingecko"

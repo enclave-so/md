@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x8b9b95292f890DF47fFf5aC9Cbe93d5fC242bd51",
-	"symbol": "BeFi Labs",
+	"symbol": "BEFI",
 	"name": "BeFi Labs",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/34384/thumb/Image_22-11-2024_at_14.49.jpeg?1732360252",
 	"coingecko": "befi-labs",
 	"sources": [
 		"coingecko"

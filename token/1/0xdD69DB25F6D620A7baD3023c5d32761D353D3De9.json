@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xdD69DB25F6D620A7baD3023c5d32761D353D3De9",
-	"symbol": "Goerli ETH",
+	"symbol": "GETH",
 	"name": "Goerli ETH",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/29217/thumb/goerli-eth.png?1696528175",
 	"coingecko": "goerli-eth",
 	"sources": [
 		"coingecko"

@@ -1,26 +1,6 @@
 [
 	{
 		"chain": 96,
-		"address": "0x6527d3D38a7Ff4E62f98fE27dd9242a36227FE23",
-		"symbol": "Tao Meme",
-		"name": "Tao Meme",
-		"coingecko": "tao-meme",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 96,
-		"address": "0x8debbb77e8a17cffCfC0C7F1f40308886edD3f9f",
-		"symbol": "YES Token",
-		"name": "YES Token",
-		"coingecko": "yes-token",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 96,
 		"address": "0x8E3C2B00eFEBB64a6B775c451197a9dbA1077967",
 		"symbol": "Dice Kingdom",
 		"name": "Dice Kingdom",
@@ -35,6 +15,26 @@
 		"symbol": "LUMI",
 		"name": "LUMI",
 		"coingecko": "lumi",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 96,
+		"address": "0x6527d3D38a7Ff4E62f98fE27dd9242a36227FE23",
+		"symbol": "Tao Meme",
+		"name": "Tao Meme",
+		"coingecko": "tao-meme",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 96,
+		"address": "0x8debbb77e8a17cffCfC0C7F1f40308886edD3f9f",
+		"symbol": "YES Token",
+		"name": "YES Token",
+		"coingecko": "yes-token",
 		"sources": [
 			"coingecko"
 		]

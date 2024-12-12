@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xffB1018eff5FC021E15215290732F02a89b008E7",
-	"symbol": "Noti",
+	"symbol": "NOTI",
 	"name": "Noti",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/52495/thumb/logo-icon.png?1733442661",
 	"coingecko": "noti",
 	"sources": [
 		"coingecko"

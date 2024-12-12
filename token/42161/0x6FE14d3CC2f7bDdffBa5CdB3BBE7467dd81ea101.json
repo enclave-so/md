@@ -1,0 +1,11 @@
+{
+	"chain": 42161,
+	"address": "0x6FE14d3CC2f7bDdffBa5CdB3BBE7467dd81ea101",
+	"symbol": "COTI",
+	"name": "COTI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/2962/thumb/Coti.png?1559653863",
+	"sources": [
+		"uniswap"
+	]
+}

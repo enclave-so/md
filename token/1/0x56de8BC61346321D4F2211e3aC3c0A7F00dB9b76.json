@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x56de8BC61346321D4F2211e3aC3c0A7F00dB9b76",
-	"symbol": "RENA Finance",
+	"symbol": "RENA",
 	"name": "RENA Finance",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/15667/thumb/photo_2021-05-21_17-31-35.png?1696515297",
 	"coingecko": "rena-finance",
 	"sources": [
 		"coingecko"

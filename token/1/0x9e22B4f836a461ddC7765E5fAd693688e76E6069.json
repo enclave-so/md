@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x9e22B4f836a461ddC7765E5fAd693688e76E6069",
-	"symbol": "Chad Frog",
+	"symbol": "CHAD",
 	"name": "Chad Frog",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/37364/thumb/CHAD200.jpg?1714110736",
 	"coingecko": "chad-frog",
 	"sources": [
 		"coingecko"

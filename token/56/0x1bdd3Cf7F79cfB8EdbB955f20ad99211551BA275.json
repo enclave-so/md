@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0x1bdd3Cf7F79cfB8EdbB955f20ad99211551BA275",
-	"symbol": "Stader BNBx",
-	"name": "Stader BNBx",
+	"symbol": "BNBx",
+	"name": "Liquid Staking BNB",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x1bdd3Cf7F79cfB8EdbB955f20ad99211551BA275.png",
 	"coingecko": "stader-bnbx",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

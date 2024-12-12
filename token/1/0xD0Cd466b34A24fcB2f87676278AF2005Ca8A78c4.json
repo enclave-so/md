@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0xD0Cd466b34A24fcB2f87676278AF2005Ca8A78c4",
-	"symbol": "Popcorn",
+	"symbol": "POP",
 	"name": "Popcorn",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/21438/thumb/pop-1_200_x_200.png?1696520801",
 	"coingecko": "popcorn",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

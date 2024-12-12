@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x879054273cb2DAD631980Fa4efE6d25eeFe08AA4",
-	"symbol": "Eigenpie frxETH",
+	"symbol": "MSFRXETH",
 	"name": "Eigenpie frxETH",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/37162/thumb/msfrxETH.png?1713505495",
 	"coingecko": "eigenpie-frxeth",
 	"sources": [
 		"coingecko"

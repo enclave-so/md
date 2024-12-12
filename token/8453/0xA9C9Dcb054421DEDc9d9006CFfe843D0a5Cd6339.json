@@ -1,0 +1,11 @@
+{
+	"chain": 8453,
+	"address": "0xA9C9Dcb054421DEDc9d9006CFfe843D0a5Cd6339",
+	"symbol": "SUS",
+	"name": "Sustainable Growth",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/SUS/logo.png",
+	"sources": [
+		"optimism"
+	]
+}

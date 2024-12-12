@@ -4,8 +4,9 @@
 	"symbol": "TEN",
 	"name": "Tenet",
 	"decimals": 18,
-	"logo": "https://assets.coingecko.com/coins/images/13545/small/iMqC3F_p_400x400.png?1609711856",
+	"logo": "https://tokens.pancakeswap.finance/images/0xdFF8cb622790b7F92686c722b02CaB55592f152C.png",
 	"sources": [
+		"pancakeswap",
 		"sushiswap"
 	]
 }

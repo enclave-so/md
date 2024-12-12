@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xfF33A6b3dC0127862eEdD3978609404b22298A54",
-	"symbol": "GorplesCoin",
+	"symbol": "GORPLES",
 	"name": "GorplesCoin",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/38681/thumb/Round_Avatar.png?1720520435",
 	"coingecko": "borpatoken",
 	"sources": [
 		"coingecko"

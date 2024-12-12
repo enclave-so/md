@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x42069d11A2CC72388a2e06210921E839Cfbd3280",
-	"symbol": "GnomeLand",
+	"symbol": "GNOME",
 	"name": "GnomeLand",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35201/thumb/logopng.png?1707841763",
 	"coingecko": "gnomeland",
 	"sources": [
 		"coingecko"

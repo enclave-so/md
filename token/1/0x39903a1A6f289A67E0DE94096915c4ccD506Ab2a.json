@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x39903a1A6f289A67E0DE94096915c4ccD506Ab2a",
-	"symbol": "Multi Asset Investment Vehicle",
+	"symbol": "MAIV",
 	"name": "Multi Asset Investment Vehicle",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/52554/thumb/2023-04-26_Logo-Design_A-07.jpg?1733661524",
 	"coingecko": "multi-asset-investment-vehicle",
 	"sources": [
 		"coingecko"

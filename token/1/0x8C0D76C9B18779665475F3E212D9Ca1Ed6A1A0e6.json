@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0x8C0D76C9B18779665475F3E212D9Ca1Ed6A1A0e6",
-	"symbol": "Zunami USD",
+	"symbol": "ZUNUSD",
 	"name": "Zunami USD",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/37809/thumb/zunUSD_200x200.png?1715591997",
 	"coingecko": "zunami-usd",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

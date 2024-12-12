@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xa19f5264F7D7Be11c451C093D8f92592820Bea86",
-	"symbol": "Neo Tokyo",
+	"symbol": "BYTES",
 	"name": "Neo Tokyo",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/28858/thumb/bytes.png?1696527832",
 	"coingecko": "neo-tokyo",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x6BeC5F1C594aF73202CD3E5c1F699d440959954c",
-	"symbol": "Hold.fun",
-	"name": "Hold.fun",
+	"symbol": "HFUN",
+	"name": "Hold fun",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/39049/thumb/photo_2024-07-03_23-14-38.jpg?1720121187",
 	"coingecko": "hold-fun",
 	"sources": [
 		"coingecko"

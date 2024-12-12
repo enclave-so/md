@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0x154A9F9cbd3449AD22FDaE23044319D6eF2a1Fab",
-	"symbol": "CryptoBlades",
-	"name": "CryptoBlades",
+	"symbol": "SKILL",
+	"name": "CryptoBlades Skill Token",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x154A9F9cbd3449AD22FDaE23044319D6eF2a1Fab.png",
 	"coingecko": "cryptoblades",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

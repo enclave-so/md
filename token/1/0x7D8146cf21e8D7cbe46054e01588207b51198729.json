@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x7D8146cf21e8D7cbe46054e01588207b51198729",
-	"symbol": "BOB Token",
+	"symbol": "BOB",
 	"name": "BOB Token",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/29929/thumb/bob.png?1696528857",
 	"coingecko": "bob-token",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x3e34eabF5858a126cb583107E643080cEE20cA64",
-	"symbol": "Linq",
+	"symbol": "LINQ",
 	"name": "Linq",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31328/thumb/IMG_1185.jpeg?1696530147",
 	"coingecko": "linq",
 	"sources": [
 		"coingecko"

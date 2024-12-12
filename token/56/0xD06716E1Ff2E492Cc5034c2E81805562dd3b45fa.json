@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0xD06716E1Ff2E492Cc5034c2E81805562dd3b45fa",
-	"symbol": "Magpie",
-	"name": "Magpie",
+	"symbol": "MGP",
+	"name": "Magpie Token",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0xD06716E1Ff2E492Cc5034c2E81805562dd3b45fa.png",
 	"coingecko": "magpie",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

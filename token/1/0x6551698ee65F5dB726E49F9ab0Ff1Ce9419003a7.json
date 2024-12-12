@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x6551698ee65F5dB726E49F9ab0Ff1Ce9419003a7",
-	"symbol": "Playdoge",
+	"symbol": "PLAY",
 	"name": "Playdoge",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/39983/thumb/Logo1.png?1725025225",
 	"coingecko": "playdoge",
 	"sources": [
 		"coingecko"

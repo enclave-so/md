@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x0d86EB9f43C57f6FF3BC9E23D8F9d82503f0e84b",
-	"symbol": "Maximus DAO",
+	"symbol": "MAXI",
 	"name": "Maximus DAO",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/25126/thumb/maxilogo200.png?1696524276",
 	"coingecko": "maximus-dao",
 	"sources": [
 		"coingecko"

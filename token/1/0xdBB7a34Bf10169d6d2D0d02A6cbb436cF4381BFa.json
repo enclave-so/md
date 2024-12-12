@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xdBB7a34Bf10169d6d2D0d02A6cbb436cF4381BFa",
-	"symbol": "Zentry",
+	"symbol": "ZENT",
 	"name": "Zentry",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/36979/thumb/Zentry-rebrand-Primary_200px.png?1713743277",
 	"coingecko": "zentry",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xFF75CEd57419bcaEBe5F05254983b013B0646eF5",
-	"symbol": "Cook",
+	"symbol": "COOK",
 	"name": "Cook",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14603/thumb/logo-200x200.jpg?1696514281",
 	"coingecko": "cook",
 	"sources": [
 		"coingecko"

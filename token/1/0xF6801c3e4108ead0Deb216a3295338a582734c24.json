@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xF6801c3e4108ead0Deb216a3295338a582734c24",
-	"symbol": "LifeBankChain",
+	"symbol": "LBC",
 	"name": "LifeBankChain",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/39183/thumb/LBC_LOGO.jpg?1720850935",
 	"coingecko": "lifebankchain",
 	"sources": [
 		"coingecko"

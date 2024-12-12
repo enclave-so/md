@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xe91598331A36A78f7fEfe277cE7C1915DA0AfB93",
-	"symbol": "RunesBridge",
+	"symbol": "RB",
 	"name": "RunesBridge",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/36974/thumb/rsz_logo11.png?1714674275",
 	"coingecko": "runesbridge",
 	"sources": [
 		"coingecko"

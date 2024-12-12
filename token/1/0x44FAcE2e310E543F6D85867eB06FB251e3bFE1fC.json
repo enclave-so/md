@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x44FAcE2e310E543F6D85867eB06FB251e3bFE1fC",
-	"symbol": "404 Bakery",
+	"symbol": "BAKE",
 	"name": "404 Bakery",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/35130/thumb/404_4_%282%29.png?1707440511",
 	"coingecko": "404-bakery",
 	"sources": [
 		"coingecko"

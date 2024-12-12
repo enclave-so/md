@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x294B9dA569c0d694870239813Bbe7B5824FD2339",
-	"symbol": "AIRian",
+	"symbol": "AIR",
 	"name": "AIRian",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/38367/thumb/AIRian_%282%29.png?1721100982",
 	"coingecko": "airian",
 	"sources": [
 		"coingecko"

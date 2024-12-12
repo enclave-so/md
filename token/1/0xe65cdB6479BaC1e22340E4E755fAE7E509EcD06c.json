@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xe65cdB6479BaC1e22340E4E755fAE7E509EcD06c",
-	"symbol": "cAAVE",
+	"symbol": "CAAVE",
 	"name": "cAAVE",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/17527/thumb/caave.PNG?1696517065",
 	"coingecko": "caave",
 	"sources": [
 		"coingecko"

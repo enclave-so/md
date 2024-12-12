@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x5eed99d066a8CaF10f3E4327c1b3D8b673485eED",
-	"symbol": "Garden",
+	"symbol": "SEED",
 	"name": "Garden",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/34671/thumb/icon.png?1705656915",
 	"coingecko": "garden-2",
 	"sources": [
 		"coingecko"

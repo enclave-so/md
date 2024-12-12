@@ -3,6 +3,8 @@
 	"address": "0x70008F18Fc58928dcE982b0A69C2c21ff80Dca54",
 	"symbol": "X7R",
 	"name": "X7R",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/27710/thumb/X7R.png?1696526736",
 	"coingecko": "x7r",
 	"sources": [
 		"coingecko"

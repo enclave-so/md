@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x035dF12E0F3ac6671126525f1015E47D79dFEDDF",
-	"symbol": "0xMonero",
+	"symbol": "0XMR",
 	"name": "0xMonero",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/11035/thumb/0xmnr.PNG?1696510979",
 	"coingecko": "0xmonero",
 	"sources": [
 		"coingecko"

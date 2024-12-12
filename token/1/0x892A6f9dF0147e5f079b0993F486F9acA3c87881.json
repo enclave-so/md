@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x892A6f9dF0147e5f079b0993F486F9acA3c87881",
-	"symbol": "xFUND",
+	"symbol": "XFUND",
 	"name": "xFUND",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/13770/thumb/xfund.png?1696513512",
 	"coingecko": "xfund",
 	"sources": [
 		"coingecko"

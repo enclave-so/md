@@ -3,6 +3,8 @@
 	"address": "0xa059b81568FeE88791de88232e838465826cf419",
 	"symbol": "THREE",
 	"name": "THREE",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/37486/thumb/THREE-FINAL-PP.png?1725387275",
 	"coingecko": "three",
 	"sources": [
 		"coingecko"

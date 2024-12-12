@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xdB2F2bCCe3efa95EDA95a233aF45F3e0d4f00e2A",
-	"symbol": "Aegis",
+	"symbol": "AGS",
 	"name": "Aegis",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/12391/thumb/logo-3.png?1696512214",
 	"coingecko": "aegis",
 	"sources": [
 		"coingecko"

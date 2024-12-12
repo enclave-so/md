@@ -1,10 +1,13 @@
 {
 	"chain": 8453,
 	"address": "0x3992B27dA26848C2b19CeA6Fd25ad5568B68AB98",
-	"symbol": "MANTRA",
+	"symbol": "OM",
 	"name": "MANTRA",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/OM/logo.png",
 	"coingecko": "mantra-dao",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

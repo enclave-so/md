@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xFa5A6E1347f6D99C57a53416C5C4645128909b62",
-	"symbol": "DupeBot",
+	"symbol": "DUPE",
 	"name": "DupeBot",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/38628/thumb/Dupe.jpeg?1718169874",
 	"coingecko": "dupebot",
 	"sources": [
 		"coingecko"

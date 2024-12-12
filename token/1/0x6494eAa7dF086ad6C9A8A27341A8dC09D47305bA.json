@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x6494eAa7dF086ad6C9A8A27341A8dC09D47305bA",
-	"symbol": "smol.game",
-	"name": "smol.game",
+	"symbol": "SMOL",
+	"name": "smol game",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/50443/thumb/smol.game.png?1727769801",
 	"coingecko": "smol-game",
 	"sources": [
 		"coingecko"

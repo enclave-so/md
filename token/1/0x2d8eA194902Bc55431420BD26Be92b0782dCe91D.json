@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x2d8eA194902Bc55431420BD26Be92b0782dCe91D",
-	"symbol": "ZND Token",
+	"symbol": "ZND",
 	"name": "ZND Token",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/51168/thumb/Currency_%285%29.png?1730268282",
 	"coingecko": "znd-token",
 	"sources": [
 		"coingecko"

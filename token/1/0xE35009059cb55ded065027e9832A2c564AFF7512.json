@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xE35009059cb55ded065027e9832A2c564AFF7512",
-	"symbol": "SecureChain AI",
+	"symbol": "SCAI",
 	"name": "SecureChain AI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31680/thumb/SCAI-icon-3.png?1696530499",
 	"coingecko": "securechain-ai",
 	"sources": [
 		"coingecko"

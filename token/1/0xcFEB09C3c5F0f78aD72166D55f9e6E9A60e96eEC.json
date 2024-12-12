@@ -3,6 +3,8 @@
 	"address": "0xcFEB09C3c5F0f78aD72166D55f9e6E9A60e96eEC",
 	"symbol": "VEMP",
 	"name": "VEMP",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/18074/thumb/PFP.jpeg?1723649781",
 	"coingecko": "vempire-ddao",
 	"sources": [
 		"coingecko"

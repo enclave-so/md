@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x0f0bbAF936f7aDA2acA5b80BED7b655758d66950",
-	"symbol": "WIFPEPEMOGINU",
+	"symbol": "WIFPEPEMOG",
 	"name": "WIFPEPEMOGINU",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/35686/thumb/200x200.jpg?1709531939",
 	"coingecko": "wifpepemoginu",
 	"sources": [
 		"coingecko"

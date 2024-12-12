@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xA3889A5F5F84F4296ff734081ad6d333838A56B5",
-	"symbol": "Wizard World WIZ",
+	"symbol": "WIZ",
 	"name": "Wizard World WIZ",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/38351/thumb/Wizard.png?1717145753",
 	"coingecko": "wizard-world-wiz",
 	"sources": [
 		"coingecko"

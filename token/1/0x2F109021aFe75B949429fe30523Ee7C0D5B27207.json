@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x2F109021aFe75B949429fe30523Ee7C0D5B27207",
-	"symbol": "OccamFi",
+	"symbol": "OCC",
 	"name": "OccamFi",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14801/thumb/occfi.PNG?1696514470",
 	"coingecko": "occamfi",
 	"sources": [
 		"coingecko"

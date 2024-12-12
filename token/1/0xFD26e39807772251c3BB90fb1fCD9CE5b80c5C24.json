@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xFD26e39807772251c3BB90fb1fCD9CE5b80c5C24",
-	"symbol": "Codex Multichain",
+	"symbol": "CODEX",
 	"name": "Codex Multichain",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/33980/thumb/200x200.jpg?1703580135",
 	"coingecko": "codex-multichain",
 	"sources": [
 		"coingecko"

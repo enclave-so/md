@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x30303101104100C397C069E0642ACaC518420205",
-	"symbol": "Playable Coin",
+	"symbol": "PC",
 	"name": "Playable Coin",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/39381/thumb/LogoPC_%282%29.jpg?1721960006",
 	"coingecko": "playable-coin",
 	"sources": [
 		"coingecko"

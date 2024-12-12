@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x3927FB89F34BbeE63351A6340558Eebf51A19FB8",
-	"symbol": "SPURDO ON ETH",
+	"symbol": "SPURDO",
 	"name": "SPURDO ON ETH",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/38645/thumb/SPP.jpg?1718210631",
 	"coingecko": "spurdo-on-eth",
 	"sources": [
 		"coingecko"

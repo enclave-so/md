@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x89Ab32156e46F46D02ade3FEcbe5Fc4243B9AAeD",
-	"symbol": "pNetwork",
+	"symbol": "PNT",
 	"name": "pNetwork",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/11659/thumb/pNetwork.png?1696511550",
 	"coingecko": "pnetwork",
 	"sources": [
 		"coingecko"

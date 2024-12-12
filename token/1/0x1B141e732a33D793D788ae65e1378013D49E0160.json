@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x1B141e732a33D793D788ae65e1378013D49E0160",
-	"symbol": "GENUINE AI",
+	"symbol": "GENAI",
 	"name": "GENUINE AI",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/39955/thumb/Genuine_ai_200x200.png?1724903570",
 	"coingecko": "genuine-ai",
 	"sources": [
 		"coingecko"

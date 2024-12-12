@@ -1,55 +1,11 @@
 [
 	{
 		"chain": 43288,
-		"address": "0x4200000000000000000000000000000000000023",
-		"symbol": "AVAX",
-		"name": "Avax",
-		"decimals": 18,
-		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/avax.jpg",
-		"sources": [
-			"sushiswap"
-		]
-	},
-	{
-		"chain": 43288,
-		"address": "0x4ED96c1dc969d7E2310D9582A68c39556C005912",
-		"symbol": "USDT.e",
-		"name": "Tether USD",
-		"decimals": 6,
-		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/boba-avax/0x4ED96c1dc969d7E2310D9582A68c39556C005912.jpg",
-		"sources": [
-			"sushiswap"
-		]
-	},
-	{
-		"chain": 43288,
-		"address": "0xfaA13D82756f1e0e4dec9416b83121db3Fc35199",
-		"symbol": "USDt",
-		"name": "Tether USD",
-		"decimals": 6,
-		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/boba-avax/0xfaA13D82756f1e0e4dec9416b83121db3Fc35199.jpg",
-		"sources": [
-			"sushiswap"
-		]
-	},
-	{
-		"chain": 43288,
-		"address": "0x12bb1A120dcF8Cb7152eDAC9f04d176DD7f41F7e",
-		"symbol": "USDC",
-		"name": "USD Coin",
-		"decimals": 6,
-		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/boba-avax/0x12bb1A120dcF8Cb7152eDAC9f04d176DD7f41F7e.jpg",
-		"sources": [
-			"sushiswap"
-		]
-	},
-	{
-		"chain": 43288,
-		"address": "0xb8B0034CFD89925944C07Ac6CcB2834d1774cfb6",
-		"symbol": "BUSD.e",
+		"address": "0x87e062dE99Ed71aF9b22dDA63e1b6D43333798f8",
+		"symbol": "BUSD",
 		"name": "Binance USD",
 		"decimals": 6,
-		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/boba-avax/0xb8B0034CFD89925944C07Ac6CcB2834d1774cfb6.jpg",
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/boba-avax/0x87e062dE99Ed71aF9b22dDA63e1b6D43333798f8.jpg",
 		"sources": [
 			"sushiswap"
 		]
@@ -78,11 +34,22 @@
 	},
 	{
 		"chain": 43288,
-		"address": "0x126969743a6d300bab08F303f104f0f7DBAfbe20",
-		"symbol": "USDC.e",
+		"address": "0xfaA13D82756f1e0e4dec9416b83121db3Fc35199",
+		"symbol": "USDt",
+		"name": "Tether USD",
+		"decimals": 6,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/boba-avax/0xfaA13D82756f1e0e4dec9416b83121db3Fc35199.jpg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 43288,
+		"address": "0x12bb1A120dcF8Cb7152eDAC9f04d176DD7f41F7e",
+		"symbol": "USDC",
 		"name": "USD Coin",
 		"decimals": 6,
-		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/boba-avax/0x126969743a6d300bab08F303f104f0f7DBAfbe20.jpg",
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/boba-avax/0x12bb1A120dcF8Cb7152eDAC9f04d176DD7f41F7e.jpg",
 		"sources": [
 			"sushiswap"
 		]
@@ -100,11 +67,44 @@
 	},
 	{
 		"chain": 43288,
-		"address": "0x87e062dE99Ed71aF9b22dDA63e1b6D43333798f8",
-		"symbol": "BUSD",
+		"address": "0xb8B0034CFD89925944C07Ac6CcB2834d1774cfb6",
+		"symbol": "BUSD.e",
 		"name": "Binance USD",
 		"decimals": 6,
-		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/boba-avax/0x87e062dE99Ed71aF9b22dDA63e1b6D43333798f8.jpg",
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/boba-avax/0xb8B0034CFD89925944C07Ac6CcB2834d1774cfb6.jpg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 43288,
+		"address": "0x4200000000000000000000000000000000000023",
+		"symbol": "AVAX",
+		"name": "Avax",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/avax.jpg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 43288,
+		"address": "0x4ED96c1dc969d7E2310D9582A68c39556C005912",
+		"symbol": "USDT.e",
+		"name": "Tether USD",
+		"decimals": 6,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/boba-avax/0x4ED96c1dc969d7E2310D9582A68c39556C005912.jpg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 43288,
+		"address": "0x126969743a6d300bab08F303f104f0f7DBAfbe20",
+		"symbol": "USDC.e",
+		"name": "USD Coin",
+		"decimals": 6,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/boba-avax/0x126969743a6d300bab08F303f104f0f7DBAfbe20.jpg",
 		"sources": [
 			"sushiswap"
 		]

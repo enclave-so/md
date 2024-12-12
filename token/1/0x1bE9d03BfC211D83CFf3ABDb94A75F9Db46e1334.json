@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0x1bE9d03BfC211D83CFf3ABDb94A75F9Db46e1334",
-	"symbol": "21.co Wrapped BNB",
-	"name": "21.co Wrapped BNB",
+	"symbol": "21BNB",
+	"name": "21 co Wrapped BNB",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/34640/thumb/64ffa734ea3bc71b26cc760c_21co_W_Token_v2_21BNB-3.png?1705579198",
 	"coingecko": "wrapped-bnb-21-co",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"indexcoop"
 	]
 }

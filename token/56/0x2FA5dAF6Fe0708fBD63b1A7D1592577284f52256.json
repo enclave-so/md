@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0x2FA5dAF6Fe0708fBD63b1A7D1592577284f52256",
-	"symbol": "Unmarshal",
+	"symbol": "MARSH",
 	"name": "Unmarshal",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x2FA5dAF6Fe0708fBD63b1A7D1592577284f52256.png",
 	"coingecko": "unmarshal",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

@@ -3,6 +3,8 @@
 	"address": "0x8c444197D64E079323a1eb8D40655910B052F85a",
 	"symbol": "EQ9",
 	"name": "EQ9",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/39998/thumb/Group_1000000896_%282%29.png?1725066879",
 	"coingecko": "eq9-2",
 	"sources": [
 		"coingecko"

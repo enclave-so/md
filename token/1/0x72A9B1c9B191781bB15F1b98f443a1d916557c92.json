@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x72A9B1c9B191781bB15F1b98f443a1d916557c92",
-	"symbol": "Florence Finance Medici",
+	"symbol": "FFM",
 	"name": "Florence Finance Medici",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/34382/thumb/M_PNG_200x200_copy.png?1704779326",
 	"coingecko": "florence-finance-medici",
 	"sources": [
 		"coingecko"

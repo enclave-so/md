@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x396De8bb0a1745B531Bf5cD5952539A1b5FE66E0",
-	"symbol": "ZapExchange",
+	"symbol": "ZAPEX",
 	"name": "ZapExchange",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/32444/thumb/IMG_20231018_211339_234.jpg?1698238397",
 	"coingecko": "zapexchange",
 	"sources": [
 		"coingecko"

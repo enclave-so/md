@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0x21ac3bB914f90A2Bb1a16088E673a9fdDa641434",
-	"symbol": "Octavia",
+	"symbol": "VIA",
 	"name": "Octavia",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x21ac3bB914f90A2Bb1a16088E673a9fdDa641434.png",
 	"coingecko": "octavia",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

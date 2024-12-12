@@ -1,0 +1,11 @@
+{
+	"chain": 10,
+	"address": "0x05c87b79844227a4d95171E9969da3DD7d65914e",
+	"symbol": "DRODEC",
+	"name": "DRODEC",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/DRODEC/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

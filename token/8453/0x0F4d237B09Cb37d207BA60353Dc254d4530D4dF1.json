@@ -1,0 +1,12 @@
+{
+	"chain": 8453,
+	"address": "0x0F4d237B09Cb37d207BA60353Dc254d4530D4dF1",
+	"symbol": "GRT",
+	"name": "The Graph",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/13397/thumb/Graph_Token.png?1608145566",
+	"sources": [
+		"optimism",
+		"uniswap"
+	]
+}

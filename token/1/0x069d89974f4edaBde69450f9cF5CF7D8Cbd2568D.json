@@ -3,6 +3,8 @@
 	"address": "0x069d89974f4edaBde69450f9cF5CF7D8Cbd2568D",
 	"symbol": "BVM",
 	"name": "BVM",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35938/thumb/twitter-pfp.png?1710232498",
 	"coingecko": "bvm",
 	"sources": [
 		"coingecko"

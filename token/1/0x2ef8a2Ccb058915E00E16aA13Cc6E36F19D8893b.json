@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x2ef8a2Ccb058915E00E16aA13Cc6E36F19D8893b",
-	"symbol": "ValiDAO",
+	"symbol": "VDO",
 	"name": "ValiDAO",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/33748/thumb/200x200.png?1712694763",
 	"coingecko": "validao",
 	"sources": [
 		"coingecko"

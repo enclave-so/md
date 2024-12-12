@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x65226A023fF652dE48ec9FC4F2e89e5a4244a862",
-	"symbol": "NousAI",
+	"symbol": "NOUS",
 	"name": "NousAI",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/37020/thumb/nous.png?1728032565",
 	"coingecko": "nousai",
 	"sources": [
 		"coingecko"

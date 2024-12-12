@@ -2,12 +2,13 @@
 	"chain": 1,
 	"address": "0xA9B1Eb5908CfC3cdf91F9B8B3a74108598009096",
 	"symbol": "AUCTION",
-	"name": "Bounce Token",
+	"name": "Bounce",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/auction.jpg",
+	"logo": "https://assets.coingecko.com/coins/images/13860/thumb/1_KtgpRIJzuwfHe0Rl0avP_g.jpeg?1612412025",
 	"coingecko": "auction",
 	"sources": [
 		"coingecko",
-		"sushiswap"
+		"sushiswap",
+		"uniswap"
 	]
 }

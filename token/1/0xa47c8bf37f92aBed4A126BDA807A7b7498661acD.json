@@ -1,10 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xa47c8bf37f92aBed4A126BDA807A7b7498661acD",
-	"symbol": "UST",
-	"name": "TerraUSD",
+	"symbol": "USTC",
+	"name": "Wrapped USTC",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/ust.jpg",
+	"logo": "https://assets.coingecko.com/coins/images/15462/thumb/ust.png?1696515108",
 	"coingecko": "wrapped-ust",
 	"sources": [
 		"coingecko",

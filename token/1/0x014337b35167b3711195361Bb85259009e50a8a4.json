@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x014337b35167b3711195361Bb85259009e50a8a4",
-	"symbol": "DecentraNode",
+	"symbol": "DNODE",
 	"name": "DecentraNode",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/35481/thumb/photo_2024-02-24_18.26.48.jpeg?1708849459",
 	"coingecko": "decetranode",
 	"sources": [
 		"coingecko"

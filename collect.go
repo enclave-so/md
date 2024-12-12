@@ -24,7 +24,7 @@ func collectFile(path string) {
 }
 
 func collectTokenlists() {
-	tokenlists, _ := retrieveURL[[]TokenlistFile]("tokenlists.json")
+	tokenlists, _ := retrieveFile[[]TokenlistFile]("tokenlists.json")
 	for _, tokenlist := range tokenlists {
 		collectTokenlist(tokenlist)
 	}

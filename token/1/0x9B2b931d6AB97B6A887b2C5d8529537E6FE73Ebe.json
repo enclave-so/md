@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x9B2b931d6AB97B6A887b2C5d8529537E6FE73Ebe",
-	"symbol": "All In",
+	"symbol": "ALLIN",
 	"name": "All In",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/28411/thumb/AllIn_V2_%281%29.png?1696527409",
 	"coingecko": "all-in",
 	"sources": [
 		"coingecko"

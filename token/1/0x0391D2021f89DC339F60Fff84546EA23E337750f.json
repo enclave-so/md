@@ -2,12 +2,14 @@
 	"chain": 1,
 	"address": "0x0391D2021f89DC339F60Fff84546EA23E337750f",
 	"symbol": "BOND",
-	"name": "BarnBridge Governance Token",
+	"name": "BarnBridge",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x0391D2021f89DC339F60Fff84546EA23E337750f/logo.png",
+	"logo": "https://assets.coingecko.com/coins/images/12811/thumb/barnbridge.jpg?1602728853",
 	"coingecko": "barnbridge",
 	"sources": [
 		"coingecko",
-		"sushiswap"
+		"optimism",
+		"sushiswap",
+		"uniswap"
 	]
 }

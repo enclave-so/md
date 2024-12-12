@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x41A3Dba3D677E573636BA691a70ff2D606c29666",
-	"symbol": "BlockWallet",
+	"symbol": "BLANK",
 	"name": "BlockWallet",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14209/thumb/Group_121417608.png?1696513925",
 	"coingecko": "blank",
 	"sources": [
 		"coingecko"

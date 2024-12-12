@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xb549116Ac57b47C1B365A890e1D04FD547dFFf97",
-	"symbol": "MindAI",
+	"symbol": "MDAI",
 	"name": "MindAI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/36180/thumb/logo200.png?1710757731",
 	"coingecko": "mindai",
 	"sources": [
 		"coingecko"

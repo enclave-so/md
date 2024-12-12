@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x96e99106d9c58573171dd6C19d767d2aE7ec0435",
-	"symbol": "Pyges",
+	"symbol": "PYGES",
 	"name": "Pyges",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/37616/thumb/200x1.png?1716968839",
 	"coingecko": "pyges",
 	"sources": [
 		"coingecko"

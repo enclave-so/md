@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x4b520c812E8430659FC9f12f6d0c39026C83588D",
-	"symbol": "Decentral Games",
+	"symbol": "DG",
 	"name": "Decentral Games",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/21173/thumb/Decentral_Games_Logo-1.png?1696520549",
 	"coingecko": "decentral-games",
 	"sources": [
 		"coingecko"

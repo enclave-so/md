@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x255Aa6DF07540Cb5d3d297f0D0D4D84cb52bc8e6",
-	"symbol": "Raiden Network",
+	"symbol": "RDN",
 	"name": "Raiden Network",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/1132/thumb/raiden-logo.jpg?1696502225",
 	"coingecko": "raiden-network",
 	"sources": [
 		"coingecko"

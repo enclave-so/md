@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xC9bD7011Ee97a13dc07087e01499a769Ab7E75b4",
-	"symbol": "Peezy",
+	"symbol": "PEEZY",
 	"name": "Peezy",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/38203/thumb/PFP_NUEVO_PEEZY_%281%29.png?1717288402",
 	"coingecko": "peezy",
 	"sources": [
 		"coingecko"

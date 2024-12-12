@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x7086e014fd59e66567a986e7b401a5810c2361Ce",
-	"symbol": "QUANTUM HUB",
+	"symbol": "QUANTUM",
 	"name": "QUANTUM HUB",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/35965/thumb/2024-03-10_22.19.52.png?1710260969",
 	"coingecko": "quantum-hub",
 	"sources": [
 		"coingecko"

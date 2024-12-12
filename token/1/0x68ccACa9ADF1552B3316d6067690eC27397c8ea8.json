@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x68ccACa9ADF1552B3316d6067690eC27397c8ea8",
-	"symbol": "Cryptopia",
+	"symbol": "TOS",
 	"name": "Cryptopia",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/37263/thumb/Cryptos.png?1713867243",
 	"coingecko": "cryptopia",
 	"sources": [
 		"coingecko"

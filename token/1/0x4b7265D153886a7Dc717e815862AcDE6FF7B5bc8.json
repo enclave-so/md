@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x4b7265D153886a7Dc717e815862AcDE6FF7B5bc8",
-	"symbol": "DENCHCOIN",
+	"symbol": "DENCH",
 	"name": "DENCHCOIN",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/11103/thumb/Dench3-e1582923464559.png?1696511043",
 	"coingecko": "denchcoin",
 	"sources": [
 		"coingecko"

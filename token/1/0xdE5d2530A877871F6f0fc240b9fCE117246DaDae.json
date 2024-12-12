@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xdE5d2530A877871F6f0fc240b9fCE117246DaDae",
-	"symbol": "Juice",
+	"symbol": "JUICE",
 	"name": "Juice",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35942/thumb/juiceCG.png?1710233232",
 	"coingecko": "juice",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x87D907568A0761Ea45D2917E324557920668f224",
-	"symbol": "Grok2.0",
-	"name": "Grok2.0",
+	"symbol": "GROK20",
+	"name": "Grok2 0",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/32942/thumb/G2C_200px.jpeg?1699874312",
 	"coingecko": "grok2-0",
 	"sources": [
 		"coingecko"

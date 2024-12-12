@@ -2,12 +2,13 @@
 	"chain": 137,
 	"address": "0xA1c57f48F0Deb89f569dFbE6E2B7f46D33606fD4",
 	"symbol": "MANA",
-	"name": "Decentraland MANA",
+	"name": "Decentraland",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xA1c57f48F0Deb89f569dFbE6E2B7f46D33606fD4/logo.png",
+	"logo": "https://assets.coingecko.com/coins/images/878/thumb/decentraland-mana.png?1550108745",
 	"coingecko": "decentraland",
 	"sources": [
 		"coingecko",
-		"sushiswap"
+		"sushiswap",
+		"uniswap"
 	]
 }

@@ -4,7 +4,7 @@
 	"symbol": "MUST",
 	"name": "Must",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x9C78EE466D6Cb57A4d01Fd887D2b5dFb2D46288f/logo.png",
+	"logo": "https://assets.coingecko.com/coins/images/13688/thumb/must_logo.png?1696513436",
 	"coingecko": "must",
 	"sources": [
 		"coingecko",

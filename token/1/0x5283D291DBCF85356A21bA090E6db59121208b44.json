@@ -4,10 +4,11 @@
 	"symbol": "BLUR",
 	"name": "Blur",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x5283D291DBCF85356A21bA090E6db59121208b44.jpg",
+	"logo": "https://assets.coingecko.com/coins/images/28453/large/blur.png?1670745921",
 	"coingecko": "blur",
 	"sources": [
 		"coingecko",
-		"sushiswap"
+		"sushiswap",
+		"uniswap"
 	]
 }

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x8C543AED163909142695f2d2aCd0D55791a9Edb9",
-	"symbol": "Velas",
+	"symbol": "VLX",
 	"name": "Velas",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/9651/thumb/logo_blue.png?1696509720",
 	"coingecko": "velas",
 	"sources": [
 		"coingecko"

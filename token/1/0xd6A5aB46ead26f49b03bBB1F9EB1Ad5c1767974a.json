@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xd6A5aB46ead26f49b03bBB1F9EB1Ad5c1767974a",
-	"symbol": "Ethermon",
+	"symbol": "EMON",
 	"name": "Ethermon",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/15889/thumb/LtET0reH_400x400.jpg?1696515504",
 	"coingecko": "ethermon",
 	"sources": [
 		"coingecko"

@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0xe0F94Ac5462997D2BC57287Ac3a3aE4C31345D66",
-	"symbol": "CEEK Smart VR",
-	"name": "CEEK Smart VR",
+	"symbol": "CEEK",
+	"name": "CEEK",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0xe0F94Ac5462997D2BC57287Ac3a3aE4C31345D66.png",
 	"coingecko": "ceek",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

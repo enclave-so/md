@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x20e7125677311Fca903A8897042b9983f22Ea295",
-	"symbol": "Freeway",
+	"symbol": "FWT",
 	"name": "Freeway",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/13012/thumb/S5h7MHR.png?1696512800",
 	"coingecko": "freeway",
 	"sources": [
 		"coingecko"

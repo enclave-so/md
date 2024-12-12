@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xa922a70569a7555518bF4DED5094661a965E23cA",
-	"symbol": "MN Bridge",
+	"symbol": "MNB",
 	"name": "MN Bridge",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/32199/thumb/MNB.jpg?1696745894",
 	"coingecko": "mn-bridge",
 	"sources": [
 		"coingecko"

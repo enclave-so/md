@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xc4116EFc9E279D4Bbf577D92f224508f13637C6c",
-	"symbol": "DevHub AI",
+	"symbol": "DHUB",
 	"name": "DevHub AI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/39956/thumb/DevHub_Logo.png?1724905592",
 	"coingecko": "devhub-ai",
 	"sources": [
 		"coingecko"

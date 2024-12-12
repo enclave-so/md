@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x2bb0C32101456F5960d4e994Bac183Fe0dc6C82c",
-	"symbol": "Leveraged frxETH",
+	"symbol": "XFRXETH",
 	"name": "Leveraged frxETH",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/39602/thumb/xfrxETH.png?1723065434",
 	"coingecko": "leveraged-frxeth",
 	"sources": [
 		"coingecko"

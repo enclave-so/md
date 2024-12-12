@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0x966f17CD63C93C39f38897e5c633e59Cef0591f1",
+	"symbol": "BOME",
+	"name": "BOOK OF MEME",
+	"decimals": 6,
+	"logo": "https://ethereum-optimism.github.io/data/BOME/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

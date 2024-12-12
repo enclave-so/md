@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x9f4909Cc95FB870BF48C128C1Fdbb5F482797632",
-	"symbol": "Guzzler",
+	"symbol": "GZLR",
 	"name": "Guzzler",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/20970/thumb/Screenshot-2021-11-27-at-22-57-22.png?1696520357",
 	"coingecko": "guzzler",
 	"sources": [
 		"coingecko"

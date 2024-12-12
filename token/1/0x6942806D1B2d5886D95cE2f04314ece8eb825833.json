@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x6942806D1B2d5886D95cE2f04314ece8eb825833",
-	"symbol": "Groyper",
+	"symbol": "GROYPER",
 	"name": "Groyper",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/38196/thumb/Groyper_Logo_New_200x200.png?1728269629",
 	"coingecko": "groyper",
 	"sources": [
 		"coingecko"

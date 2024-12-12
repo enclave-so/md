@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x289Ff00235D2b98b0145ff5D4435d3e92f9540a6",
-	"symbol": "Book of Ethereum",
+	"symbol": "BOOE",
 	"name": "Book of Ethereum",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/37384/thumb/RGh5luer_400x400.jpg?1714230970",
 	"coingecko": "book-of-ethereum",
 	"sources": [
 		"coingecko"

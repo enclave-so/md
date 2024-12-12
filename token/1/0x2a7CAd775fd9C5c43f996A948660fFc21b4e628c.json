@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x2a7CAd775fd9C5c43f996A948660fFc21b4e628c",
-	"symbol": "D-Drops",
-	"name": "D-Drops",
+	"symbol": "DOP",
+	"name": "D Drops",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/26611/thumb/ddrops_%281%29.png?1696525685",
 	"coingecko": "d-drops",
 	"sources": [
 		"coingecko"

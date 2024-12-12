@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0xBdEAe1cA48894A1759A8374D63925f21f2Ee2639",
-	"symbol": "Open Campus",
-	"name": "Open Campus",
+	"symbol": "EDU",
+	"name": "EDU Coin",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0xBdEAe1cA48894A1759A8374D63925f21f2Ee2639.png",
 	"coingecko": "edu-coin",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x1F8A626883d7724DBd59eF51CBD4BF1Cf2016D13",
-	"symbol": "Jigstack",
+	"symbol": "STAK",
 	"name": "Jigstack",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14978/thumb/jigstack.PNG?1696514641",
 	"coingecko": "jigstack",
 	"sources": [
 		"coingecko"

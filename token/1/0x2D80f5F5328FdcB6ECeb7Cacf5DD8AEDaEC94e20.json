@@ -3,6 +3,8 @@
 	"address": "0x2D80f5F5328FdcB6ECeb7Cacf5DD8AEDaEC94e20",
 	"symbol": "AGA",
 	"name": "AGA",
+	"decimals": 4,
+	"logo": "https://assets.coingecko.com/coins/images/12180/thumb/aga-logo.png?1696512017",
 	"coingecko": "aga-token",
 	"sources": [
 		"coingecko"

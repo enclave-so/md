@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xC7a2572fA8FDB0f7E81d6D3c4e3CCF78FB0DC374",
-	"symbol": "Ben's Finale",
-	"name": "Ben's Finale",
+	"symbol": "FINALE",
+	"name": "Ben s Finale",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30661/thumb/tGy9rQvi_400x400.jpg?1696529531",
 	"coingecko": "ben-s-finale",
 	"sources": [
 		"coingecko"

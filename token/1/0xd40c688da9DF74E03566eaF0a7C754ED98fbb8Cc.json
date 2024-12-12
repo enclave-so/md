@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xd40c688da9DF74E03566eaF0a7C754ED98fbb8Cc",
-	"symbol": "Hades Network",
+	"symbol": "HADES",
 	"name": "Hades Network",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/37929/thumb/Untitled_logo_11_basic-bg-file.png?1715938776",
 	"coingecko": "hades-network",
 	"sources": [
 		"coingecko"

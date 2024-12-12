@@ -1,10 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x0f17BC9a994b87b5225cFb6a2Cd4D667ADb4F20B",
-	"symbol": "jEUR",
+	"symbol": "JEUR",
 	"name": "Jarvis Synthetic Euro",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/jeur.jpg",
+	"logo": "https://assets.coingecko.com/coins/images/15725/thumb/jEUR.png?1696515352",
 	"coingecko": "jarvis-synthetic-euro",
 	"sources": [
 		"coingecko",

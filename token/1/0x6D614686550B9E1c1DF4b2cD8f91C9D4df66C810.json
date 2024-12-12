@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x6D614686550B9E1c1DF4b2cD8f91C9D4df66C810",
-	"symbol": "Skeb",
+	"symbol": "SKEB",
 	"name": "Skeb",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/27155/thumb/skebcoin-cmc.png?1696526206",
 	"coingecko": "skeb",
 	"sources": [
 		"coingecko"

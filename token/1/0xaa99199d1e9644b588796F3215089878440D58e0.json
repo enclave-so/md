@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xaa99199d1e9644b588796F3215089878440D58e0",
-	"symbol": "Alphr",
+	"symbol": "ALPHR",
 	"name": "Alphr",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/15029/thumb/alphr.jpg?1696514689",
 	"coingecko": "alphr",
 	"sources": [
 		"coingecko"

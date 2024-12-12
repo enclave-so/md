@@ -3,6 +3,8 @@
 	"address": "0x9863BcC2Fb23dfDf5fE275Aa4C5575a32A580911",
 	"symbol": "PEPURAI",
 	"name": "PEPURAI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31702/thumb/Pepurai-_LOGO_%282%29.png?1696530526",
 	"coingecko": "pepurai",
 	"sources": [
 		"coingecko"

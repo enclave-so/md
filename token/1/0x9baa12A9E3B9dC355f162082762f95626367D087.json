@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x9baa12A9E3B9dC355f162082762f95626367D087",
-	"symbol": "Handz of Gods",
+	"symbol": "HANDZ",
 	"name": "Handz of Gods",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31531/thumb/40B0eCTs_400x400.jpg?1696530340",
 	"coingecko": "handz-of-gods",
 	"sources": [
 		"coingecko"

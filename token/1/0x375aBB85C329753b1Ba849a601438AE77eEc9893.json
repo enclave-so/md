@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x375aBB85C329753b1Ba849a601438AE77eEc9893",
-	"symbol": "ParagonsDAO",
+	"symbol": "PDT",
 	"name": "ParagonsDAO",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/22642/thumb/pdt_token_image.png?1727376481",
 	"coingecko": "paragonsdao",
 	"sources": [
 		"coingecko"

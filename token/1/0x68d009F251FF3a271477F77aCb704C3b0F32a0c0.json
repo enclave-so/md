@@ -3,6 +3,8 @@
 	"address": "0x68d009F251FF3a271477F77aCb704C3b0F32a0c0",
 	"symbol": "CHAD",
 	"name": "CHAD",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35457/thumb/LOGO_RED.png?1708669427",
 	"coingecko": "chad",
 	"sources": [
 		"coingecko"

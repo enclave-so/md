@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x000000000a1c6659ac226dBB1C5BDC648DF72E9e",
-	"symbol": "Looter",
+	"symbol": "LOOTER",
 	"name": "Looter",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35837/thumb/LMdtc2Xz_400x400_%281%29.jpg?1709889187",
 	"coingecko": "looter",
 	"sources": [
 		"coingecko"

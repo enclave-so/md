@@ -1,0 +1,11 @@
+{
+	"chain": 8453,
+	"address": "0x6b20e045cD881EeF5853EB6C148E1c88a20ab395",
+	"symbol": "MOOV",
+	"name": "dotmoovs",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/MOOV/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

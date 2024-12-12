@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x4743a7a193cdF202035e9Bc6830A07f1607630C4",
-	"symbol": "Family Guy",
+	"symbol": "GUY",
 	"name": "Family Guy",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30435/thumb/photo_2023-05-16_18-24-10_%281%29.png?1696529323",
 	"coingecko": "family-guy",
 	"sources": [
 		"coingecko"

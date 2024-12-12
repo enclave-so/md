@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x2cb5D9fd89d48C516F11904117c57E3934f39524",
-	"symbol": "PEPE UWU",
+	"symbol": "CUTE",
 	"name": "PEPE UWU",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/33691/thumb/Resized_AvEWEWA5_200x200_%281%29.png?1702796454",
 	"coingecko": "pepe-uwu",
 	"sources": [
 		"coingecko"

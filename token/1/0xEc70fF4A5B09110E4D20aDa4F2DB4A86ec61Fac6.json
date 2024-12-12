@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xEc70fF4A5B09110E4D20aDa4F2DB4A86ec61Fac6",
-	"symbol": "Grape",
+	"symbol": "GRP",
 	"name": "Grape",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31106/thumb/grape_logo-removebg-preview_%281%29.png?1696529937",
 	"coingecko": "grape-2-2",
 	"sources": [
 		"coingecko"

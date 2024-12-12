@@ -1,0 +1,11 @@
+{
+	"chain": 10,
+	"address": "0x03E5b5930f3a42B56AF4A982B10e60957Bdd2F61",
+	"symbol": "D2D",
+	"name": "Prime",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/D2D/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

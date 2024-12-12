@@ -4,10 +4,11 @@
 	"symbol": "AAVE",
 	"name": "Aave",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/aave.jpg",
+	"logo": "https://assets.coingecko.com/coins/images/12645/thumb/AAVE.png?1601374110",
 	"coingecko": "aave",
 	"sources": [
 		"coingecko",
-		"sushiswap"
+		"sushiswap",
+		"uniswap"
 	]
 }

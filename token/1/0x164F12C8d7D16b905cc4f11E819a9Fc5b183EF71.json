@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x164F12C8d7D16b905cc4f11E819a9Fc5b183EF71",
-	"symbol": "Dmarketplace",
+	"symbol": "DMP",
 	"name": "Dmarketplace",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/51019/thumb/IMG_0175.jpeg?1729769717",
 	"coingecko": "dmarketplace",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xd9D920AA40f578ab794426F5C90F6C731D159DEf",
-	"symbol": "Solv Protocol SolvBTC.BBN",
-	"name": "Solv Protocol SolvBTC.BBN",
+	"symbol": "SOLVBTCBBN",
+	"name": "Solv Protocol SolvBTC BBN",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/39384/thumb/unnamed.png?1721961640",
 	"coingecko": "solv-protocol-solvbtc-bbn",
 	"sources": [
 		"coingecko"

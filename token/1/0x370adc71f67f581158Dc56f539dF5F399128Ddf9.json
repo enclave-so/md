@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x370adc71f67f581158Dc56f539dF5F399128Ddf9",
-	"symbol": "Aave AMM UniMKRWETH",
+	"symbol": "AAMMUNIMKRWETH",
 	"name": "Aave AMM UniMKRWETH",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/17222/thumb/aAmmUniMKRWETH.png?1696516777",
 	"coingecko": "aave-amm-unimkrweth",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x9d5963ba32e877871dfF3e2E697283dc64066271",
-	"symbol": "Edcoin",
+	"symbol": "EDC",
 	"name": "Edcoin",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/13872/thumb/EDCOIN-1.png?1696513617",
 	"coingecko": "aga-rewards",
 	"sources": [
 		"coingecko"

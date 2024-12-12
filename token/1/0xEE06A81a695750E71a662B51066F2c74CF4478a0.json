@@ -2,9 +2,9 @@
 	"chain": 1,
 	"address": "0xEE06A81a695750E71a662B51066F2c74CF4478a0",
 	"symbol": "DG",
-	"name": "decentral.games",
+	"name": "Decentral Games  Old ",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xEE06A81a695750E71a662B51066F2c74CF4478a0/logo.png",
+	"logo": "https://assets.coingecko.com/coins/images/13267/thumb/%28Old%29_DG.png?1696513041",
 	"coingecko": "decentral-games-old",
 	"sources": [
 		"coingecko",

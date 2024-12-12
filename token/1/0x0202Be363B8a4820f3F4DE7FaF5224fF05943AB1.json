@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x0202Be363B8a4820f3F4DE7FaF5224fF05943AB1",
-	"symbol": "UniLend Finance",
+	"symbol": "UFT",
 	"name": "UniLend Finance",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/12819/thumb/UniLend_Finance_logo_PNG.png?1696512611",
 	"coingecko": "unlend-finance",
 	"sources": [
 		"coingecko"

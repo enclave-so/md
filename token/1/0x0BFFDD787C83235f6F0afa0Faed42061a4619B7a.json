@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x0BFFDD787C83235f6F0afa0Faed42061a4619B7a",
-	"symbol": "Virtual USD",
+	"symbol": "VUSD",
 	"name": "Virtual USD",
+	"decimals": 6,
+	"logo": "https://assets.coingecko.com/coins/images/40057/thumb/200x200.jpg?1725448554",
 	"coingecko": "virtual-usd",
 	"sources": [
 		"coingecko"

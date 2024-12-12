@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x728f30fa2f100742C7949D1961804FA8E0B1387d",
-	"symbol": "GamerCoin",
+	"symbol": "GHX",
 	"name": "GamerCoin",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14714/thumb/ghx_icon.png?1696514385",
 	"coingecko": "gamercoin",
 	"sources": [
 		"coingecko"

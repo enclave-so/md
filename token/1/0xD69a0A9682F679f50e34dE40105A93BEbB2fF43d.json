@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xD69a0A9682F679f50e34dE40105A93BEbB2fF43d",
-	"symbol": "Mackerel",
+	"symbol": "MACKE",
 	"name": "Mackerel",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/33618/thumb/macke-icon.png?1702528445",
 	"coingecko": "mackerel-2",
 	"sources": [
 		"coingecko"

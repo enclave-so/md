@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xF70ce9eE486106882d3dc43ddbd84E0fA71AC2A5",
-	"symbol": "Ducker",
+	"symbol": "DUCKER",
 	"name": "Ducker",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30816/thumb/Ducker_Logo_200x200.png?1696529672",
 	"coingecko": "ducker",
 	"sources": [
 		"coingecko"

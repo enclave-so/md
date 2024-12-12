@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x826180541412D574cf1336d22c0C0a287822678A",
-	"symbol": "Chainflip",
+	"symbol": "FLIP",
 	"name": "Chainflip",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/25576/thumb/kdt_AgmT_400x400.png?1696524709",
 	"coingecko": "chainflip",
 	"sources": [
 		"coingecko"

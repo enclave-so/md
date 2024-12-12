@@ -1,0 +1,12 @@
+{
+	"chain": 10,
+	"address": "0x747e42Eb0591547a0ab429B3627816208c734EA7",
+	"symbol": "T",
+	"name": "Threshold Network",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/22228/thumb/nFPNiSbL_400x400.jpg?1641220340",
+	"sources": [
+		"optimism",
+		"uniswap"
+	]
+}

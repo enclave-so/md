@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x1a23a6BfBAdB59fa563008c0fB7cf96dfCF34Ea1",
-	"symbol": "CoFiX",
+	"symbol": "COFI",
 	"name": "CoFiX",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/12781/thumb/dnPnSkfa_400x400.png?1696512576",
 	"coingecko": "cofix",
 	"sources": [
 		"coingecko"

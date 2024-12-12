@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x64945165255bcb83f2Ef9f31a575975832CA4dB4",
-	"symbol": "KAGE NETWORK",
+	"symbol": "KAGE",
 	"name": "KAGE NETWORK",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/40053/thumb/Kage.jpeg?1725446839",
 	"coingecko": "kage-network",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x0e4e7F2AecF408AFF4f82f067677050239bdC58A",
-	"symbol": "Fungify Token",
+	"symbol": "FUNG",
 	"name": "Fungify Token",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35607/thumb/FUNG-logo-200x200.png?1709280585",
 	"coingecko": "fungify-token",
 	"sources": [
 		"coingecko"

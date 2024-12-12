@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xd43fbA1f38d9B306AEEF9d78aD177d51Ef802B46",
-	"symbol": "Gondola",
+	"symbol": "GONDOLA",
 	"name": "Gondola",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/39090/thumb/Gondola_Logo_CG.png?1720484225",
 	"coingecko": "gondola",
 	"sources": [
 		"coingecko"

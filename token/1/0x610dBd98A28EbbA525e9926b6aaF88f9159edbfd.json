@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0x610dBd98A28EbbA525e9926b6aaF88f9159edbfd",
-	"symbol": "Nostra",
+	"symbol": "NSTR",
 	"name": "Nostra",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/28282/thumb/Nostra_200x200b.png?1719434526",
 	"coingecko": "nostra",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

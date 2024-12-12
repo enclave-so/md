@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x2614f29C39dE46468A921Fd0b41fdd99A01f2EDf",
-	"symbol": "HELIOS",
+	"symbol": "HLX",
 	"name": "HELIOS",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35650/thumb/HeliosPNG.png?1709375257",
 	"coingecko": "helios",
 	"sources": [
 		"coingecko"

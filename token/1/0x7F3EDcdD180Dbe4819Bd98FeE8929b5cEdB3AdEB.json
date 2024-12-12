@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x7F3EDcdD180Dbe4819Bd98FeE8929b5cEdB3AdEB",
-	"symbol": "xToken",
+	"symbol": "XTK",
 	"name": "xToken",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14089/thumb/xtk.png?1696513811",
 	"coingecko": "xtoken",
 	"sources": [
 		"coingecko"

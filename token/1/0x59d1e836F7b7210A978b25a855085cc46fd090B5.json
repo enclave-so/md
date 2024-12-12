@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x59d1e836F7b7210A978b25a855085cc46fd090B5",
-	"symbol": "AssangeDAO",
+	"symbol": "JUSTICE",
 	"name": "AssangeDAO",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/23555/thumb/JUSTICE_token_logo.png?1696522761",
 	"coingecko": "assangedao",
 	"sources": [
 		"coingecko"

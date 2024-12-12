@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xD3c325848D7c6E29b574Cb0789998b2ff901f17E",
-	"symbol": "OneArt",
+	"symbol": "1ART",
 	"name": "OneArt",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/19307/thumb/token_light_3x.png?1696518749",
 	"coingecko": "1art",
 	"sources": [
 		"coingecko"

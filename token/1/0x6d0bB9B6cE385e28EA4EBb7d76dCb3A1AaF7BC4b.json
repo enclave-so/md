@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x6d0bB9B6cE385e28EA4EBb7d76dCb3A1AaF7BC4b",
-	"symbol": "CREAT'OR",
-	"name": "CREAT'OR",
+	"symbol": "CRET",
+	"name": "CREAT OR",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35470/thumb/CRET_Logo.png?1708759906",
 	"coingecko": "creat-or",
 	"sources": [
 		"coingecko"

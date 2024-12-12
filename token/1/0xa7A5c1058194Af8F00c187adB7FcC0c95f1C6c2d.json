@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xa7A5c1058194Af8F00c187adB7FcC0c95f1C6c2d",
-	"symbol": "SPACE-iZ",
-	"name": "SPACE-iZ",
+	"symbol": "SPIZ",
+	"name": "SPACE iZ",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/12213/thumb/Frame_1000002608.png?1703058029",
 	"coingecko": "space-iz",
 	"sources": [
 		"coingecko"

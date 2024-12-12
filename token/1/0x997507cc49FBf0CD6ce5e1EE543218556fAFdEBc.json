@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x997507cc49FBf0CD6ce5e1EE543218556fAFdEBc",
-	"symbol": "Bitenium",
+	"symbol": "BT",
 	"name": "Bitenium",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14618/thumb/BT-token-logo-200.png?1696514296",
 	"coingecko": "bitenium-token",
 	"sources": [
 		"coingecko"

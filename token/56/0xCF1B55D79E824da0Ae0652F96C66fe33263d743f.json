@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0xCF1B55D79E824da0Ae0652F96C66fe33263d743f",
-	"symbol": "MixMarvel",
-	"name": "MixMarvel",
+	"symbol": "MIX",
+	"name": "MixMarvel Token",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0xCF1B55D79E824da0Ae0652F96C66fe33263d743f.png",
 	"coingecko": "mixmarvel",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x3567aa22cd3ab9aEf23d7e18EE0D7cf16974d7e6",
-	"symbol": "Sharpe AI",
+	"symbol": "SAI",
 	"name": "Sharpe AI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/39385/thumb/Group_48095583.png?1721962174",
 	"coingecko": "sharpe-ai",
 	"sources": [
 		"coingecko"

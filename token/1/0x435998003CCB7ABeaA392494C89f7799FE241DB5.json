@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x435998003CCB7ABeaA392494C89f7799FE241DB5",
-	"symbol": "Interns",
+	"symbol": "INTERN",
 	"name": "Interns",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/34727/thumb/IMG_1926.jpeg?1705919202",
 	"coingecko": "interns",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xAec7d1069e3a914a3EB50f0BFB1796751f2ce48a",
-	"symbol": "S4FE",
+	"symbol": "S4F",
 	"name": "S4FE",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/7405/thumb/logo_%284%29.png?1696507681",
 	"coingecko": "s4fe",
 	"sources": [
 		"coingecko"

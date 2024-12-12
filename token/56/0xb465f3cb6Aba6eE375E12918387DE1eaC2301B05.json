@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0xb465f3cb6Aba6eE375E12918387DE1eaC2301B05",
-	"symbol": "Trivians",
-	"name": "Trivians",
+	"symbol": "TRIVIA",
+	"name": "Trivian Token",
+	"decimals": 3,
+	"logo": "https://tokens.pancakeswap.finance/images/0xb465f3cb6Aba6eE375E12918387DE1eaC2301B05.png",
 	"coingecko": "trivian",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xC06d9013a1D3f25F76Ee5291BBc04a181985814e",
-	"symbol": "Yertle The Turtle",
+	"symbol": "YERTLE",
 	"name": "Yertle The Turtle",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/32518/thumb/IMG_6911.jpeg?1698406852",
 	"coingecko": "yertle-the-turtle",
 	"sources": [
 		"coingecko"

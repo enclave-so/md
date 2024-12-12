@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x3EF389f264e07fFF3106A3926F2a166d1393086F",
-	"symbol": "Sator",
+	"symbol": "SAO",
 	"name": "Sator",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/19410/thumb/sator-logo-CMC.png?1696518849",
 	"coingecko": "sator",
 	"sources": [
 		"coingecko"

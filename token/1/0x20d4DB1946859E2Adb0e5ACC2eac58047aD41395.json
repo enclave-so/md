@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x20d4DB1946859E2Adb0e5ACC2eac58047aD41395",
-	"symbol": "Moon DAO",
+	"symbol": "MOONEY",
 	"name": "Moon DAO",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/22905/thumb/cVWTHdA.png?1696522202",
 	"coingecko": "mooney",
 	"sources": [
 		"coingecko"

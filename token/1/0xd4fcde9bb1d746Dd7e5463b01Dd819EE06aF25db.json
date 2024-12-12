@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xd4fcde9bb1d746Dd7e5463b01Dd819EE06aF25db",
-	"symbol": "Renzo Restaked EIGEN",
+	"symbol": "EZEIGEN",
 	"name": "Renzo Restaked EIGEN",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/50440/thumb/ezEigen.png?1728587024",
 	"coingecko": "renzo-restaked-eigen",
 	"sources": [
 		"coingecko"

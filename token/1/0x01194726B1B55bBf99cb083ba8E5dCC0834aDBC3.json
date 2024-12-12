@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x01194726B1B55bBf99cb083ba8E5dCC0834aDBC3",
-	"symbol": "ArcadeFi",
+	"symbol": "ARCADE",
 	"name": "ArcadeFi",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/35504/thumb/IMG_8212.jpeg?1708935437",
 	"coingecko": "arcadefi",
 	"sources": [
 		"coingecko"

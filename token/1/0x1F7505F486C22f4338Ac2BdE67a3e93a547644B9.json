@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x1F7505F486C22f4338Ac2BdE67a3e93a547644B9",
-	"symbol": "Cat Intelligence Agency",
+	"symbol": "CIA",
 	"name": "Cat Intelligence Agency",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/34728/thumb/cia.jpeg?1706632795",
 	"coingecko": "furari",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xc01154B4CCB518232D6bbfC9B9E6C5068B766f82",
-	"symbol": "NEXUS",
+	"symbol": "NEX",
 	"name": "NEXUS",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35797/thumb/LLm7P2IL_400x400.jpg?1709802342",
 	"coingecko": "nexus-2",
 	"sources": [
 		"coingecko"

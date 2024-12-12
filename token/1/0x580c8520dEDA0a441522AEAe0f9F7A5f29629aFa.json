@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x580c8520dEDA0a441522AEAe0f9F7A5f29629aFa",
-	"symbol": "Dawn Protocol",
+	"symbol": "DAWN",
 	"name": "Dawn Protocol",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/11555/thumb/dawn_protocol.png?1696511454",
 	"coingecko": "dawn-protocol",
 	"sources": [
 		"coingecko"

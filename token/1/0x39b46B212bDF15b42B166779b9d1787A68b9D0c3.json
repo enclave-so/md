@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0x39b46B212bDF15b42B166779b9d1787A68b9D0c3",
-	"symbol": "Dypius",
+	"symbol": "DYP",
 	"name": "Dypius",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/33016/thumb/RS-zDhFE_400x400.jpg?1700157370",
 	"coingecko": "dypius",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

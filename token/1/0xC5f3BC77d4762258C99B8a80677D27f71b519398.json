@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xC5f3BC77d4762258C99B8a80677D27f71b519398",
-	"symbol": "Ape",
+	"symbol": "APE",
 	"name": "Ape",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/50260/thumb/Ape.jpg?1726724038",
 	"coingecko": "ape-4",
 	"sources": [
 		"coingecko"

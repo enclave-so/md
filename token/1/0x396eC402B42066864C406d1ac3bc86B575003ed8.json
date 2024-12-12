@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x396eC402B42066864C406d1ac3bc86B575003ed8",
-	"symbol": "Buying.com",
-	"name": "Buying.com",
+	"symbol": "BUY",
+	"name": "Buying com",
+	"decimals": 2,
+	"logo": "https://assets.coingecko.com/coins/images/5290/thumb/buying_200x200.png?1696505788",
 	"coingecko": "buying",
 	"sources": [
 		"coingecko"

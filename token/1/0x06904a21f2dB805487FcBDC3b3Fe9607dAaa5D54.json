@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x06904a21f2dB805487FcBDC3b3Fe9607dAaa5D54",
-	"symbol": "Moonray",
+	"symbol": "MNRY",
 	"name": "Moonray",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/52369/thumb/Moonray_logo_black_pyramid_only_-_Copy_-_Copy.png?1733989567",
 	"coingecko": "moonray",
 	"sources": [
 		"coingecko"

@@ -1,10 +1,13 @@
 {
 	"chain": 8453,
 	"address": "0x20b048fA035D5763685D695e66aDF62c5D9F5055",
-	"symbol": "Biochar",
+	"symbol": "CHAR",
 	"name": "Biochar",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/CHAR/logo.svg",
 	"coingecko": "biochar",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

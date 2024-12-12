@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xD979c468a68062e7bdff4Ba6DF7842DfD3492E0f",
-	"symbol": "Beoble",
+	"symbol": "BBL",
 	"name": "Beoble",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35011/thumb/beoble_200px.png?1707102471",
 	"coingecko": "beoble",
 	"sources": [
 		"coingecko"

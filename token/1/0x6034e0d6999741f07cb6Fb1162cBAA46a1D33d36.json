@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x6034e0d6999741f07cb6Fb1162cBAA46a1D33d36",
-	"symbol": "Molecules of Korolchuk IP-NFT",
-	"name": "Molecules of Korolchuk IP-NFT",
+	"symbol": "VITA-FAST",
+	"name": "Molecules of Korolchuk IP NFT",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/33055/thumb/Vita-FAST_1024px.png?1700475313",
 	"coingecko": "molecules-of-korolchuk-ip-nft",
 	"sources": [
 		"coingecko"

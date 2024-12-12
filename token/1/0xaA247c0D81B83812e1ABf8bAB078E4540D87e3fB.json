@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xaA247c0D81B83812e1ABf8bAB078E4540D87e3fB",
-	"symbol": "Meson Network",
+	"symbol": "MSN",
 	"name": "Meson Network",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/34981/thumb/meson-token-icon200.png?1714275908",
 	"coingecko": "meson-network",
 	"sources": [
 		"coingecko"

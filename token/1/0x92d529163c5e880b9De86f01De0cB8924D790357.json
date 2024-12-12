@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x92d529163c5e880b9De86f01De0cB8924D790357",
-	"symbol": "Eyeverse",
+	"symbol": "EYE",
 	"name": "Eyeverse",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/28623/thumb/EYE.png?1696527608",
 	"coingecko": "eyeverse",
 	"sources": [
 		"coingecko"

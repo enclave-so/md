@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x8AB2ff0116A279a99950C66A12298962D152B83c",
-	"symbol": "Ordiswap",
+	"symbol": "ORDS",
 	"name": "Ordiswap",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/33910/thumb/IMG-20240113-WA0018.jpg.jpg?1705169306",
 	"coingecko": "ordiswap-token",
 	"sources": [
 		"coingecko"

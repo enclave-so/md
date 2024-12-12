@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xf56408077487cB879c992909C5b5C66D68c02Eb4",
-	"symbol": "Riot Racers",
+	"symbol": "RIOT",
 	"name": "Riot Racers",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/19238/thumb/jyxvIbmJ_400x400.png?1696518684",
 	"coingecko": "riot-racers",
 	"sources": [
 		"coingecko"

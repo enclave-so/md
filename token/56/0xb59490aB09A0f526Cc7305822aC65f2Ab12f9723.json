@@ -1,0 +1,11 @@
+{
+	"chain": 56,
+	"address": "0xb59490aB09A0f526Cc7305822aC65f2Ab12f9723",
+	"symbol": "LIT",
+	"name": "Litentry",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0xb59490aB09A0f526Cc7305822aC65f2Ab12f9723.png",
+	"sources": [
+		"pancakeswap"
+	]
+}

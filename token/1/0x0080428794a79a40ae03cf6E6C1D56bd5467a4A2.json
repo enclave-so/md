@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x0080428794a79a40ae03cf6E6C1D56bd5467a4A2",
-	"symbol": "LONG (ETH)",
-	"name": "LONG (ETH)",
+	"symbol": "LONG",
+	"name": "LONG  ETH ",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/32559/thumb/IMG_20231005_122433_189.jpg?1698544869",
 	"coingecko": "long-eth",
 	"sources": [
 		"coingecko"

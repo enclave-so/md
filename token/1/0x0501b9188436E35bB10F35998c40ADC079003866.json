@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x0501b9188436E35bB10F35998c40ADC079003866",
-	"symbol": "AI Analysis Token",
+	"symbol": "AIAT",
 	"name": "AI Analysis Token",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/33672/thumb/aia-logo-icon200.png?1702702028",
 	"coingecko": "ai-analysis-token",
 	"sources": [
 		"coingecko"

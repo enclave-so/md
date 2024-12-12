@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xE2cfD7a01ec63875cd9Da6C7c1B7025166c2fA2F",
-	"symbol": "Hyper",
+	"symbol": "HYPER",
 	"name": "Hyper",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35931/thumb/C046D3BF-912C-4FE5-AEAD-6F1F2093AD92.png?1710225712",
 	"coingecko": "hyper-4",
 	"sources": [
 		"coingecko"

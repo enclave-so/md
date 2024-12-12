@@ -3,6 +3,8 @@
 	"address": "0x9a64977eBF739DFf35eD4281a4b5E833BFdB1314",
 	"symbol": "NFTFN",
 	"name": "NFTFN",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/36624/thumb/NFTFN_TokenPng_%281%29.png?1711982088",
 	"coingecko": "nftfn",
 	"sources": [
 		"coingecko"

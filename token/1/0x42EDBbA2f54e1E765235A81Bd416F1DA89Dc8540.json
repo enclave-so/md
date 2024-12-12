@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0x42EDBbA2f54e1E765235A81Bd416F1DA89Dc8540",
+	"symbol": "YOKAI",
+	"name": "YokAI: Generative Monsters",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/YOKAI/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

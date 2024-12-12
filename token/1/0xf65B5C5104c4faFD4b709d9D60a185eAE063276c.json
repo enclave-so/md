@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xf65B5C5104c4faFD4b709d9D60a185eAE063276c",
-	"symbol": "Truebit Protocol",
+	"symbol": "TRU",
 	"name": "Truebit Protocol",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/15053/thumb/Truebit.png?1696514712",
 	"coingecko": "truebit-protocol",
 	"sources": [
 		"coingecko"

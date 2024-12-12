@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0x0Ae38f7E10A43B5b2fB064B42a2f4514cbA909ef",
-	"symbol": "unshETH Ether",
+	"symbol": "unshETH",
 	"name": "unshETH Ether",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x0Ae38f7E10A43B5b2fB064B42a2f4514cbA909ef.png",
 	"coingecko": "unsheth-unsheth",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

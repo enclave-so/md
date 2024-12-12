@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xe304283C3e60Cefaf7eA514007Cf4E8fdC3d869d",
-	"symbol": "Gecoin",
+	"symbol": "GEC",
 	"name": "Gecoin",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/25646/thumb/62162f0d583e5a047dc02e7e_gecoin_200x200.png?1696524779",
 	"coingecko": "gecoin",
 	"sources": [
 		"coingecko"

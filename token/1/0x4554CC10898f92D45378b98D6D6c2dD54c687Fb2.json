@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x4554CC10898f92D45378b98D6D6c2dD54c687Fb2",
-	"symbol": "Juicebox",
+	"symbol": "JBX",
 	"name": "Juicebox",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/21120/thumb/CCeIEmvE_400x400.jpg?1696520499",
 	"coingecko": "juicebox",
 	"sources": [
 		"coingecko"

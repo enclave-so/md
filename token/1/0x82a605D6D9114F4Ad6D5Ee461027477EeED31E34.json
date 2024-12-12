@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x82a605D6D9114F4Ad6D5Ee461027477EeED31E34",
-	"symbol": "Sensay",
+	"symbol": "SNSY",
 	"name": "Sensay",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/36121/thumb/sensay.jpeg?1710495398",
 	"coingecko": "sensay",
 	"sources": [
 		"coingecko"

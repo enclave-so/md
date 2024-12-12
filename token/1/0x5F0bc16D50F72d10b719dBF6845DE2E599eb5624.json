@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x5F0bc16D50F72d10b719dBF6845DE2E599eb5624",
-	"symbol": "Vent Finance",
+	"symbol": "VENT",
 	"name": "Vent Finance",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/17925/thumb/Artboard_29.png?1696517445",
 	"coingecko": "vent-finance",
 	"sources": [
 		"coingecko"

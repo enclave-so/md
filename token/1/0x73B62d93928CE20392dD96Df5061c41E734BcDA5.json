@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x73B62d93928CE20392dD96Df5061c41E734BcDA5",
-	"symbol": "INN",
+	"symbol": "BLOCKINN",
 	"name": "INN",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/51489/thumb/Group_7522.png?1731405789",
 	"coingecko": "inn",
 	"sources": [
 		"coingecko"

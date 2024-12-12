@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x112b08621E27e10773ec95d250604a041f36C582",
-	"symbol": "Wrapped Kaspa",
+	"symbol": "KAS",
 	"name": "Wrapped Kaspa",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/31037/thumb/WKAS-256-black-ETH-3.png?1696529872",
 	"coingecko": "wrapped-kaspa",
 	"sources": [
 		"coingecko"

@@ -1,10 +1,13 @@
 {
 	"chain": 8453,
 	"address": "0x703D57164CA270b0B330A87FD159CfEF1490c0a5",
-	"symbol": "RAI Finance",
-	"name": "RAI Finance",
+	"symbol": "SOFI",
+	"name": "Rai.Finance",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/SOFI/logo.svg",
 	"coingecko": "rai-finance",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

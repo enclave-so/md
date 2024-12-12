@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xdDF7Fd345D54ff4B40079579d4C4670415DbfD0A",
-	"symbol": "SocialGood",
+	"symbol": "SG",
 	"name": "SocialGood",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/3948/thumb/logo_200.png?1696504592",
 	"coingecko": "social-good-project",
 	"sources": [
 		"coingecko"

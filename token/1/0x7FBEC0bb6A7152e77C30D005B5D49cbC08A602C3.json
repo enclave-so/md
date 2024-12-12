@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x7FBEC0bb6A7152e77C30D005B5D49cbC08A602C3",
-	"symbol": "disBalancer",
+	"symbol": "DDOS",
 	"name": "disBalancer",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14791/thumb/communityIcon_o2yriheuszk61.png?1696514460",
 	"coingecko": "disbalancer",
 	"sources": [
 		"coingecko"

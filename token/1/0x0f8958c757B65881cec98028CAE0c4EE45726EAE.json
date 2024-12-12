@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x0f8958c757B65881cec98028CAE0c4EE45726EAE",
-	"symbol": "Compute Network",
+	"symbol": "DCN",
 	"name": "Compute Network",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/38219/thumb/Compute_Network.png?1716826216",
 	"coingecko": "compute-network",
 	"sources": [
 		"coingecko"

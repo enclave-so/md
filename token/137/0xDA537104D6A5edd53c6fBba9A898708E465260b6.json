@@ -1,10 +1,13 @@
 {
 	"chain": 137,
 	"address": "0xDA537104D6A5edd53c6fBba9A898708E465260b6",
-	"symbol": "yearn.finance",
-	"name": "yearn.finance",
+	"symbol": "YFI",
+	"name": "yearn finance",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/11849/thumb/yfi-192x192.png?1598325330",
 	"coingecko": "yearn-finance",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"uniswap"
 	]
 }

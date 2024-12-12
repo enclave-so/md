@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x443f9FF91a72F1482d13dFd40EEc107bB84CA1E5",
-	"symbol": "FarmBot",
+	"symbol": "FARM",
 	"name": "FarmBot",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/33440/thumb/farmbotlogo200px.jpeg?1701849705",
 	"coingecko": "farmbot",
 	"sources": [
 		"coingecko"

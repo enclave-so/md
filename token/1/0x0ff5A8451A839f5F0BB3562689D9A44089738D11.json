@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x0ff5A8451A839f5F0BB3562689D9A44089738D11",
-	"symbol": "Dopex Rebate",
+	"symbol": "RDPX",
 	"name": "Dopex Rebate",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/16659/thumb/rDPX_200x200_Coingecko.png?1696516221",
 	"coingecko": "dopex-rebate-token",
 	"sources": [
 		"coingecko"

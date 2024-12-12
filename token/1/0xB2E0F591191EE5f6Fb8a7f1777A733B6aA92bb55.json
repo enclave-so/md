@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xB2E0F591191EE5f6Fb8a7f1777A733B6aA92bb55",
-	"symbol": "WojakPepe",
+	"symbol": "WOPE",
 	"name": "WojakPepe",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/37067/thumb/WOPE.jpeg?1713179688",
 	"coingecko": "wojakpepe",
 	"sources": [
 		"coingecko"

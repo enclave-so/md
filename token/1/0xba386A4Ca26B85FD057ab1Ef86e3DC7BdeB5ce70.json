@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xba386A4Ca26B85FD057ab1Ef86e3DC7BdeB5ce70",
-	"symbol": "Jesus Coin",
+	"symbol": "JESUS",
 	"name": "Jesus Coin",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30036/thumb/JESUS_COIN_LOGO.png?1696528959",
 	"coingecko": "jesus-coin",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x473037de59cf9484632f4A27B509CFE8d4a31404",
-	"symbol": "STEPN Green Satoshi Token on ETH",
+	"symbol": "GST-ETH",
 	"name": "STEPN Green Satoshi Token on ETH",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/26528/thumb/gst_eth.png?1696525600",
 	"coingecko": "green-satoshi-token-on-eth",
 	"sources": [
 		"coingecko"

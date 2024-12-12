@@ -3,6 +3,8 @@
 	"address": "0x7ad16874759348F04B6B6119463D66C07aE54899",
 	"symbol": "PIRB",
 	"name": "PIRB",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31653/thumb/pirb_geckologo.png?1696530468",
 	"coingecko": "pirb",
 	"sources": [
 		"coingecko"

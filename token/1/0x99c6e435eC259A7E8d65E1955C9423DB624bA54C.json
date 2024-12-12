@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x99c6e435eC259A7E8d65E1955C9423DB624bA54C",
-	"symbol": "Finminity",
+	"symbol": "FMT",
 	"name": "Finminity",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14696/thumb/finminity.png?1696514368",
 	"coingecko": "finminity",
 	"sources": [
 		"coingecko"

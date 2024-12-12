@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x97AbEe33Cd075c58BFdd174e0885e08E8f03556F",
-	"symbol": "Sentiment",
+	"symbol": "SENT",
 	"name": "Sentiment",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/16388/thumb/94SwpUOP_400x400.jpg?1696515986",
 	"coingecko": "sentiment-token",
 	"sources": [
 		"coingecko"

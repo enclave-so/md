@@ -1,0 +1,11 @@
+{
+	"chain": 56,
+	"address": "0x42712dF5009c20fee340B245b510c0395896cF6e",
+	"symbol": "DFT",
+	"name": "DFuture",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x42712dF5009c20fee340B245b510c0395896cF6e.png",
+	"sources": [
+		"pancakeswap"
+	]
+}

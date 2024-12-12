@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0xCc9EE9483f662091a1de4795249E24aC0aC2630f",
-	"symbol": "Aave v3 rETH",
+	"symbol": "ARETH",
 	"name": "Aave v3 rETH",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/32885/thumb/reth.png?1699768947",
 	"coingecko": "aave-v3-reth",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"indexcoop"
 	]
 }

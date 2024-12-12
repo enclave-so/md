@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x791A5c2261823dBF69b27B63E851B7745532Cfa2",
-	"symbol": "Atua AI",
+	"symbol": "TUA",
 	"name": "Atua AI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/50532/thumb/5.png?1728298820",
 	"coingecko": "atua-ai",
 	"sources": [
 		"coingecko"

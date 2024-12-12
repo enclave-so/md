@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x8bE3460A480c80728a8C4D7a5D5303c85ba7B3b9",
-	"symbol": "Ethena Staked ENA",
+	"symbol": "SENA",
 	"name": "Ethena Staked ENA",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/50235/thumb/ena.png?1726630994",
 	"coingecko": "ethena-staked-ena",
 	"sources": [
 		"coingecko"

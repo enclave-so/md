@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x69000405f9DcE69BD4Cbf4f2865b79144A69BFE0",
-	"symbol": "ZAI Stablecoin",
+	"symbol": "USDZ",
 	"name": "ZAI Stablecoin",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/39733/thumb/Group_4.png?1723771588",
 	"coingecko": "zai-stablecoin",
 	"sources": [
 		"coingecko"

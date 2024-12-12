@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x7c9f4C87d911613Fe9ca58b579f737911AAD2D43",
-	"symbol": "MATIC (Wormhole)",
-	"name": "MATIC (Wormhole)",
+	"symbol": "MATICPO",
+	"name": "MATIC  Wormhole ",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/22947/thumb/MATICpo_wh_small.png?1696522243",
 	"coingecko": "matic-wormhole",
 	"sources": [
 		"coingecko"

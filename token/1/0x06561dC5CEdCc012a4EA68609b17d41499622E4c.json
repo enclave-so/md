@@ -3,6 +3,8 @@
 	"address": "0x06561dC5CEdCc012a4EA68609b17d41499622E4c",
 	"symbol": "NOOB",
 	"name": "NOOB",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/50481/thumb/noob_token_large.jpg?1727937952",
 	"coingecko": "noob",
 	"sources": [
 		"coingecko"

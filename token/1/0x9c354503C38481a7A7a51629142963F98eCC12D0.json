@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x9c354503C38481a7A7a51629142963F98eCC12D0",
-	"symbol": "Origin DeFi Governance",
+	"symbol": "OGV",
 	"name": "Origin DeFi Governance",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/26353/thumb/ogv-200x200.png?1696525431",
 	"coingecko": "origin-dollar-governance",
 	"sources": [
 		"coingecko"

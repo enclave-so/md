@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x9fB83c0635De2E815fd1c21b3a292277540C2e8d",
-	"symbol": "RealFevr",
+	"symbol": "FEVR",
 	"name": "RealFevr",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/17136/thumb/Fevr-Token.png?1696516695",
 	"coingecko": "realfevr",
 	"sources": [
 		"coingecko"

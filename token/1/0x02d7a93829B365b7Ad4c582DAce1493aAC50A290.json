@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x02d7a93829B365b7Ad4c582DAce1493aAC50A290",
-	"symbol": "Scat",
+	"symbol": "CAT",
 	"name": "Scat",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30429/thumb/output-onlinepngtools.png?1696529317",
 	"coingecko": "scat",
 	"sources": [
 		"coingecko"

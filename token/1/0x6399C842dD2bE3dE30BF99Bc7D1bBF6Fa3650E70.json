@@ -4,10 +4,11 @@
 	"symbol": "PREMIA",
 	"name": "Premia",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x6399C842dD2bE3dE30BF99Bc7D1bBF6Fa3650E70/logo.png",
+	"logo": "https://assets.coingecko.com/coins/images/13962/thumb/apple-touch-icon.png?1696513698",
 	"coingecko": "premia",
 	"sources": [
 		"coingecko",
+		"optimism",
 		"sushiswap"
 	]
 }

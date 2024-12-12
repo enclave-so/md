@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xc8F69A9B46B235DE8d0b77c355FFf7994F1B090f",
-	"symbol": "Speedy",
+	"symbol": "SPEEDY",
 	"name": "Speedy",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/50566/thumb/image0_%281%29.jpeg?1728372331",
 	"coingecko": "speedy-2",
 	"sources": [
 		"coingecko"

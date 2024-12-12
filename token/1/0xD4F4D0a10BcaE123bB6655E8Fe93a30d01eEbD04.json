@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xD4F4D0a10BcaE123bB6655E8Fe93a30d01eEbD04",
-	"symbol": "LinqAI",
+	"symbol": "LNQ",
 	"name": "LinqAI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35645/thumb/cmc-cg-linq-logo_%282%29.png?1709368877",
 	"coingecko": "linqai",
 	"sources": [
 		"coingecko"

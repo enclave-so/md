@@ -2,9 +2,9 @@
 	"chain": 1,
 	"address": "0x0eC9F76202a7061eB9b3a7D6B59D36215A7e37da",
 	"symbol": "BPT",
-	"name": "BlackPool Token",
+	"name": "BlackPool",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x0eC9F76202a7061eB9b3a7D6B59D36215A7e37da/logo.png",
+	"logo": "https://assets.coingecko.com/coins/images/15887/thumb/uyO7dQzR_400x400.jpg?1696515502",
 	"coingecko": "blackpool-token",
 	"sources": [
 		"coingecko",

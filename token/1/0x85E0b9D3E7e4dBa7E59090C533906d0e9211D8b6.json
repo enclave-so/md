@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x85E0b9D3E7e4dBa7E59090C533906d0e9211D8b6",
-	"symbol": "Ishi",
+	"symbol": "ISHI",
 	"name": "Ishi",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/36109/thumb/logo.jpg?1714156592",
 	"coingecko": "ishi",
 	"sources": [
 		"coingecko"

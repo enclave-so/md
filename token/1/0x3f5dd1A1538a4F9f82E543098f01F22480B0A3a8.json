@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x3f5dd1A1538a4F9f82E543098f01F22480B0A3a8",
-	"symbol": "KumaDex Token",
+	"symbol": "DKUMA",
 	"name": "KumaDex Token",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/26693/thumb/dkumaOG02_CoinGecko.png?1696525767",
 	"coingecko": "kumadex-token",
 	"sources": [
 		"coingecko"

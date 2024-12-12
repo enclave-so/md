@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x7bD44cF5c0566AAB26150A0cd5c3D20C5535686F",
-	"symbol": "Evil Pepe",
+	"symbol": "EVILPEPE",
 	"name": "Evil Pepe",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31201/thumb/IMG_20230803_120336_441.png?1696530028",
 	"coingecko": "evil-pepe",
 	"sources": [
 		"coingecko"

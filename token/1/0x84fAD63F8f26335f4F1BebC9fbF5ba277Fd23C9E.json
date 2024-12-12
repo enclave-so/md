@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x84fAD63F8f26335f4F1BebC9fbF5ba277Fd23C9E",
-	"symbol": "Arma Block",
+	"symbol": "AB",
 	"name": "Arma Block",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/37112/thumb/SSM.jpg?1713329715",
 	"coingecko": "arma-block",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xD015422879A1308ba557510345E944B912b9aB73",
-	"symbol": "FreeTrump",
+	"symbol": "TRUMP",
 	"name": "FreeTrump",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/34699/thumb/photo_2024-01-19_11-00-46.jpg?1705859328",
 	"coingecko": "freetrump",
 	"sources": [
 		"coingecko"

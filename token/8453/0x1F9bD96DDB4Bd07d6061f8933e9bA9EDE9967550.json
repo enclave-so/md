@@ -1,0 +1,12 @@
+{
+	"chain": 8453,
+	"address": "0x1F9bD96DDB4Bd07d6061f8933e9bA9EDE9967550",
+	"symbol": "BOBA",
+	"name": "Boba Network",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/20285/thumb/BOBA.png?1636811576",
+	"sources": [
+		"optimism",
+		"uniswap"
+	]
+}

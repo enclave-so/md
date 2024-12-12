@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x5362Ca75aa3c0E714bc628296640C43dc5cb9ED6",
-	"symbol": "Dejitaru Hoshi",
+	"symbol": "HOSHI",
 	"name": "Dejitaru Hoshi",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/31488/thumb/Hoshi_200x200_-_Copy.png?1696530299",
 	"coingecko": "dejitaru-hoshi",
 	"sources": [
 		"coingecko"

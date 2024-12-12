@@ -1,0 +1,11 @@
+{
+	"chain": 8453,
+	"address": "0x90eb5f8310C6d2289Ef2475D9B8aE44589663D58",
+	"symbol": "FXN",
+	"name": "FXN Token",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/FXN/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

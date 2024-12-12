@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x238CEFec182679C27a3035713416fA0a8198B302",
-	"symbol": "GoodMeme",
+	"symbol": "GMEME",
 	"name": "GoodMeme",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30325/thumb/gmeme200smol.png?1696529226",
 	"coingecko": "goodmeme",
 	"sources": [
 		"coingecko"

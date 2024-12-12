@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xaeDf386B755465871fF874E3E37Af5976E247064",
-	"symbol": "Fasttoken",
+	"symbol": "FTN",
 	"name": "Fasttoken",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/28478/thumb/lightenicon_200x200.png?1696527472",
 	"coingecko": "fasttoken",
 	"sources": [
 		"coingecko"

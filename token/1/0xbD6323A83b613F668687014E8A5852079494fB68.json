@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xbD6323A83b613F668687014E8A5852079494fB68",
-	"symbol": "BlackrockTradingCurrency",
+	"symbol": "BTC",
 	"name": "BlackrockTradingCurrency",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/34656/thumb/imresizer-%282%29.png?1705632165",
 	"coingecko": "blackrocktradingcurrency",
 	"sources": [
 		"coingecko"

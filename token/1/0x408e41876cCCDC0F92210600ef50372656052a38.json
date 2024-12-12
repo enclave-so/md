@@ -2,12 +2,13 @@
 	"chain": 1,
 	"address": "0x408e41876cCCDC0F92210600ef50372656052a38",
 	"symbol": "REN",
-	"name": "Republic",
+	"name": "Republic Token",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/ren.jpg",
+	"logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x408e41876cCCDC0F92210600ef50372656052a38/logo.png",
 	"coingecko": "republic-protocol",
 	"sources": [
 		"coingecko",
-		"sushiswap"
+		"sushiswap",
+		"uniswap"
 	]
 }

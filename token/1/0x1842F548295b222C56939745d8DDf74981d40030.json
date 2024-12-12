@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x1842F548295b222C56939745d8DDf74981d40030",
-	"symbol": "Qudefi",
+	"symbol": "QUDEFI",
 	"name": "Qudefi",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/50843/thumb/qudefi_logo.jpeg?1729685878",
 	"coingecko": "qudefi-2",
 	"sources": [
 		"coingecko"

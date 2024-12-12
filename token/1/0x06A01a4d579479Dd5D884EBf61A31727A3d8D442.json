@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x06A01a4d579479Dd5D884EBf61A31727A3d8D442",
-	"symbol": "Skey Network",
+	"symbol": "SKEY",
 	"name": "Skey Network",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/13425/thumb/SKEY_Network_logo_black.png?1696513185",
 	"coingecko": "skey-network",
 	"sources": [
 		"coingecko"

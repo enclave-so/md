@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x0a2C375553e6965b42C135bb8B15a8914B08de0c",
-	"symbol": "Frog on ETH",
+	"symbol": "FROG",
 	"name": "Frog on ETH",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/38706/thumb/Frog.png?1718359990",
 	"coingecko": "frog-on-eth",
 	"sources": [
 		"coingecko"

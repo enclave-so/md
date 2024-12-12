@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x71Fc1F555a39E0B698653AB0b475488EC3c34D57",
-	"symbol": "Rainmaker Games",
+	"symbol": "RAIN",
 	"name": "Rainmaker Games",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/21485/thumb/Final-Flip-Rain-Makers-44-1.png?1696520845",
 	"coingecko": "rainmaker-games",
 	"sources": [
 		"coingecko"

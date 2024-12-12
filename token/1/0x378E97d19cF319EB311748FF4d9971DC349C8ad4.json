@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x378E97d19cF319EB311748FF4d9971DC349C8ad4",
-	"symbol": "AlphaScan AI",
+	"symbol": "ASCN",
 	"name": "AlphaScan AI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31180/thumb/AlphaScan_logo.jpg?1696530008",
 	"coingecko": "alphascan",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xc740181345c65552333e1EDC797E03f11852B1C8",
-	"symbol": "Kento",
+	"symbol": "KNTO",
 	"name": "Kento",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31352/thumb/kento-pfp-nocircle.png?1715654804",
 	"coingecko": "kento",
 	"sources": [
 		"coingecko"

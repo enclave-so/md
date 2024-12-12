@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x95EeF579155cd2C5510F312c8fA39208c3Be01a8",
-	"symbol": "Re7 USDT Morpho Vault",
+	"symbol": "RE7USDT",
 	"name": "Re7 USDT Morpho Vault",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/51498/thumb/logo_USDT.png?1731407994",
 	"coingecko": "re7-usdt-morpho-vault",
 	"sources": [
 		"coingecko"

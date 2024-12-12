@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x0d88eD6E74bbFD96B831231638b66C05571e824F",
-	"symbol": "Aventus",
+	"symbol": "AVT",
 	"name": "Aventus",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/901/thumb/aventus.png?1728614945",
 	"coingecko": "aventus",
 	"sources": [
 		"coingecko"

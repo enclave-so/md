@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x53b38ebd32bDe4293423234939F6555Cb7975f1e",
-	"symbol": "fomeow",
+	"symbol": "FOMEOW",
 	"name": "fomeow",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/38769/thumb/1000097859.jpg?1718767927",
 	"coingecko": "fomeow",
 	"sources": [
 		"coingecko"

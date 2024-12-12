@@ -1,0 +1,11 @@
+{
+	"chain": 137,
+	"address": "0x4f025829C4B13dF652f38Abd2AB901185fF1e609",
+	"symbol": "iETH-FLI-P",
+	"name": "Inverse ETH Flexible Leverage Index",
+	"decimals": 18,
+	"logo": "https://cdn.indexcoop.com/iethflip.svg",
+	"sources": [
+		"indexcoop"
+	]
+}

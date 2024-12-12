@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x168e209D7b2F58f1f24b8Ae7B7d35E662bBF11Cc",
-	"symbol": "LayerAI",
+	"symbol": "LAI",
 	"name": "LayerAI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/29223/thumb/Favicon_200x200px.png?1696528181",
 	"coingecko": "cryptogpt-token",
 	"sources": [
 		"coingecko"

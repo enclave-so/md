@@ -1,0 +1,11 @@
+{
+	"chain": 8453,
+	"address": "0x3BFc2bb3B3c187ddC79e38d4A17c830E2a380b70",
+	"symbol": "wPOKT",
+	"name": "Wrapped Pocket",
+	"decimals": 6,
+	"logo": "https://ethereum-optimism.github.io/data/wPOKT/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

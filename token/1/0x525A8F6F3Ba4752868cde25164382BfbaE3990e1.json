@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x525A8F6F3Ba4752868cde25164382BfbaE3990e1",
-	"symbol": "Nym",
+	"symbol": "NYM",
 	"name": "Nym",
+	"decimals": 6,
+	"logo": "https://assets.coingecko.com/coins/images/24488/thumb/NYM_Token.png?1696523668",
 	"coingecko": "nym",
 	"sources": [
 		"coingecko"

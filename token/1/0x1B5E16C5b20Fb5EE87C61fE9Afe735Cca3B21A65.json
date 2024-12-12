@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0x1B5E16C5b20Fb5EE87C61fE9Afe735Cca3B21A65",
+	"symbol": "ic21",
+	"name": "Index Coop Large Cap Index",
+	"decimals": 18,
+	"logo": "https://cdn.indexcoop.com/ic21.svg",
+	"sources": [
+		"indexcoop"
+	]
+}

@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0x02e7F808990638E9e67E1f00313037EDe2362361",
-	"symbol": "KiboShib",
+	"symbol": "KIBSHI",
 	"name": "KiboShib",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/29335/thumb/foto_no_exif_%2811%29%282%29_%281%29.png?1696528285",
 	"coingecko": "kiboshib",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x2D9D7c64F6c00e16C28595ec4EbE4065ef3A250b",
-	"symbol": "go fu*k yourself.",
-	"name": "go fu*k yourself.",
+	"symbol": "GFY",
+	"name": "go fu k yourself ",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/33358/thumb/GFYMainWordMark_%282%29.png?1701602660",
 	"coingecko": "go-fu-k-yourself",
 	"sources": [
 		"coingecko"

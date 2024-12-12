@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0x0d3bd40758dF4F79aaD316707FcB809CD4815Ffe",
+	"symbol": "21XRP",
+	"name": "21.co Wrapped XRP",
+	"decimals": 6,
+	"logo": "https://cdn.indexcoop.com/21xrp.svg",
+	"sources": [
+		"indexcoop"
+	]
+}

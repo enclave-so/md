@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x71DA932ccdA723BA3ab730C976bC66DaAF9C598c",
-	"symbol": "Magnify Cash",
+	"symbol": "MAG",
 	"name": "Magnify Cash",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/38992/thumb/magnifyt.jpg?1719808409",
 	"coingecko": "magnify-cash",
 	"sources": [
 		"coingecko"

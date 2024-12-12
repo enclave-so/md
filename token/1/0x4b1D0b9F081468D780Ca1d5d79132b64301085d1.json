@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x4b1D0b9F081468D780Ca1d5d79132b64301085d1",
-	"symbol": "Lumerin",
+	"symbol": "LMR",
 	"name": "Lumerin",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/24593/thumb/Lumerin-icon.png?1696523767",
 	"coingecko": "lumerin",
 	"sources": [
 		"coingecko"

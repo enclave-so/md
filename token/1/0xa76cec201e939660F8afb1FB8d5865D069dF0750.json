@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xa76cec201e939660F8afb1FB8d5865D069dF0750",
-	"symbol": "Wanna Bot",
+	"symbol": "WANNA",
 	"name": "Wanna Bot",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/36161/thumb/Wanna.Bot_-_Logo_%28CoinGecko%29.png?1710744457",
 	"coingecko": "wanna-bot",
 	"sources": [
 		"coingecko"

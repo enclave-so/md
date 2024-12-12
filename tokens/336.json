@@ -1,6 +1,16 @@
 [
 	{
 		"chain": 336,
+		"address": "0x735aBE48e8782948a37C7765ECb76b98CdE97B0F",
+		"symbol": "JPY Coin v1",
+		"name": "JPY Coin v1",
+		"coingecko": "jpyc",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 336,
 		"address": "0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB",
 		"symbol": "JPY Coin",
 		"name": "JPY Coin",
@@ -25,16 +35,6 @@
 		"symbol": "Wrapped Shiden Network",
 		"name": "Wrapped Shiden Network",
 		"coingecko": "wrapped-shiden-network",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 336,
-		"address": "0x735aBE48e8782948a37C7765ECb76b98CdE97B0F",
-		"symbol": "JPY Coin v1",
-		"name": "JPY Coin v1",
-		"coingecko": "jpyc",
 		"sources": [
 			"coingecko"
 		]

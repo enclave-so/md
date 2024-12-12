@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0x1Bbe973BeF3a977Fc51CbED703E8ffDEfE001Fed",
-	"symbol": "Portal",
+	"symbol": "PORTAL",
 	"name": "Portal",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35436/standard/portal.jpeg",
 	"coingecko": "portal-2",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"uniswap"
 	]
 }

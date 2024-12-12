@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x03D1E72765545729A035e909eDd9371a405f77Fb",
-	"symbol": "Nabox",
+	"symbol": "NABOX",
 	"name": "Nabox",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/16445/thumb/NyemjVRA_400x400.png?1696516042",
 	"coingecko": "nabox",
 	"sources": [
 		"coingecko"

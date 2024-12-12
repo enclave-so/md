@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x4Bb3205bf648B7F59EF90Dee0F1B62F6116Bc7ca",
-	"symbol": "NBX",
+	"symbol": "BYN",
 	"name": "NBX",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14746/thumb/NBX.png?1696514416",
 	"coingecko": "beyond-finance",
 	"sources": [
 		"coingecko"

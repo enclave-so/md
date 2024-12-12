@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x5A4A503F4745c06A07E29D9a9DD88aB52f7a505B",
-	"symbol": "Eigenpie ankrETH",
+	"symbol": "MANKRETH",
 	"name": "Eigenpie ankrETH",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/37170/thumb/mankrETH.png?1713508127",
 	"coingecko": "eigenpie-ankreth",
 	"sources": [
 		"coingecko"

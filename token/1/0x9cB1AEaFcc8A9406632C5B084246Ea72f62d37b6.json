@@ -3,6 +3,8 @@
 	"address": "0x9cB1AEaFcc8A9406632C5B084246Ea72f62d37b6",
 	"symbol": "LBK",
 	"name": "LBK",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/9492/thumb/lbk.jpeg?1696509578",
 	"coingecko": "lbk",
 	"sources": [
 		"coingecko"

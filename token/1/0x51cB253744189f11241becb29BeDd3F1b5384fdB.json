@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x51cB253744189f11241becb29BeDd3F1b5384fdB",
-	"symbol": "Dimitra",
+	"symbol": "DMTR",
 	"name": "Dimitra",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/18530/thumb/HqEiru32_400x400.jpg?1696518010",
 	"coingecko": "dimitra",
 	"sources": [
 		"coingecko"

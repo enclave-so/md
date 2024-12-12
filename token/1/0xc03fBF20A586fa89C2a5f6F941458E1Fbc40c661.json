@@ -3,6 +3,8 @@
 	"address": "0xc03fBF20A586fa89C2a5f6F941458E1Fbc40c661",
 	"symbol": "COMBO",
 	"name": "COMBO",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/4932/thumb/COMBO.jpg?1696505472",
 	"coingecko": "cocos-bcx",
 	"sources": [
 		"coingecko"

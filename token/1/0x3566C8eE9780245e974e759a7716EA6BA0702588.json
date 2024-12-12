@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x3566C8eE9780245e974e759a7716EA6BA0702588",
-	"symbol": "eVa-ai",
-	"name": "eVa-ai",
+	"symbol": "EVA",
+	"name": "eVa ai",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/50364/thumb/2024-09-25_16.53.39.jpg?1727331857",
 	"coingecko": "eva-ai",
 	"sources": [
 		"coingecko"

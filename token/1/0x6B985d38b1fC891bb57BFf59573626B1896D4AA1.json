@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x6B985d38b1fC891bb57BFf59573626B1896D4AA1",
-	"symbol": "Fido",
+	"symbol": "FIDO",
 	"name": "Fido",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/32943/thumb/Fido_circle.png?1701863458",
 	"coingecko": "fido",
 	"sources": [
 		"coingecko"

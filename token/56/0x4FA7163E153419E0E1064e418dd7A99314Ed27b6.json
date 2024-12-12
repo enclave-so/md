@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
-	"symbol": "Hot Cross",
-	"name": "Hot Cross",
+	"symbol": "HOTCROSS",
+	"name": "Hot Cross Token",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x4FA7163E153419E0E1064e418dd7A99314Ed27b6.png",
 	"coingecko": "hot-cross",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

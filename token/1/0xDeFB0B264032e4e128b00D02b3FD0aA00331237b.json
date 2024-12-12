@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xDeFB0B264032e4e128b00D02b3FD0aA00331237b",
-	"symbol": "Buddha",
+	"symbol": "BUDDHA",
 	"name": "Buddha",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/34079/thumb/BUDDHA-Profile_Pic_111.png?1714503766",
 	"coingecko": "buddha",
 	"sources": [
 		"coingecko"

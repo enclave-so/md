@@ -2,9 +2,9 @@
 	"chain": 1,
 	"address": "0x1fE24F25b1Cf609B9c4e7E12D802e3640dFA5e43",
 	"symbol": "CGG",
-	"name": "ChainGuardians Governance Token",
+	"name": "Chain Guardians",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x1fE24F25b1Cf609B9c4e7E12D802e3640dFA5e43.jpg",
+	"logo": "https://assets.coingecko.com/coins/images/14326/thumb/cgg_logo.png?1696514015",
 	"coingecko": "chain-guardians",
 	"sources": [
 		"coingecko",

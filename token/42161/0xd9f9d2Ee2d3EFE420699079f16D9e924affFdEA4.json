@@ -1,0 +1,11 @@
+{
+	"chain": 42161,
+	"address": "0xd9f9d2Ee2d3EFE420699079f16D9e924affFdEA4",
+	"symbol": "FXS",
+	"name": "Frax Share",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/13423/thumb/frax_share.png?1608478989",
+	"sources": [
+		"uniswap"
+	]
+}

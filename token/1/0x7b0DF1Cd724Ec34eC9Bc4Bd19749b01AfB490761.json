@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x7b0DF1Cd724Ec34eC9Bc4Bd19749b01AfB490761",
-	"symbol": "Kittekoin",
+	"symbol": "KOIN",
 	"name": "Kittekoin",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/39827/thumb/logo_200x200.png?1724205419",
 	"coingecko": "kittekoin",
 	"sources": [
 		"coingecko"

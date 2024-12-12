@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x911D86C72155c33993d594B0Ec7E6206B4C803da",
-	"symbol": "Wrapped Staked LINK",
+	"symbol": "WSTLINK",
 	"name": "Wrapped Staked LINK",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35678/thumb/wstlink_logo.png?1709525182",
 	"coingecko": "wrapped-staked-link",
 	"sources": [
 		"coingecko"

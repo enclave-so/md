@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xD5Fa38027462691769b8A8BA6C444890103B5B94",
-	"symbol": "Dawg Coin",
+	"symbol": "DAWG",
 	"name": "Dawg Coin",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/33409/thumb/dawg_%281%29.jpg?1701700702",
 	"coingecko": "dawg-coin",
 	"sources": [
 		"coingecko"

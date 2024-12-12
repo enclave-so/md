@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xCAabCaA4ca42e1d86dE1a201c818639def0ba7A7",
-	"symbol": "Talken",
+	"symbol": "TALK",
 	"name": "Talken",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/18146/thumb/4NNLx3BF_400x400.jpg?1696517648",
 	"coingecko": "talken",
 	"sources": [
 		"coingecko"

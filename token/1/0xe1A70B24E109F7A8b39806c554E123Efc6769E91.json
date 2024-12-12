@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xe1A70B24E109F7A8b39806c554E123Efc6769E91",
-	"symbol": "Liquid Savings DAI",
+	"symbol": "LSDAI",
 	"name": "Liquid Savings DAI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31219/thumb/lsdai-logo.png?1696530045",
 	"coingecko": "liquid-savings-dai",
 	"sources": [
 		"coingecko"

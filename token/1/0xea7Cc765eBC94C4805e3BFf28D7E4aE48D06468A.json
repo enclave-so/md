@@ -2,9 +2,9 @@
 	"chain": 1,
 	"address": "0xea7Cc765eBC94C4805e3BFf28D7E4aE48D06468A",
 	"symbol": "PAD",
-	"name": "NearPad",
+	"name": "Pad Fi",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xea7Cc765eBC94C4805e3BFf28D7E4aE48D06468A/logo.png",
+	"logo": "https://assets.coingecko.com/coins/images/18117/thumb/pad.fi.png?1696517620",
 	"coingecko": "nearpad",
 	"sources": [
 		"coingecko",

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xE86DF1970055e9CaEe93Dae9B7D5fD71595d0e18",
-	"symbol": "Bitcoin20",
+	"symbol": "BTC20",
 	"name": "Bitcoin20",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31284/thumb/BTC20_logo_%281%29.png?1696530107",
 	"coingecko": "bitcoin20",
 	"sources": [
 		"coingecko"

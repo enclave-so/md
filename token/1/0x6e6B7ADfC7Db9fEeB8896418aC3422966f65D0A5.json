@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x6e6B7ADfC7Db9fEeB8896418aC3422966f65D0A5",
-	"symbol": "Nektar Network",
+	"symbol": "NET",
 	"name": "Nektar Network",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/52259/thumb/net_token-200x200.png?1732849962",
 	"coingecko": "nektar-network",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xD05D90A656FC375ac1478689D7bCD31098f2DD1f",
-	"symbol": "ChainFactory",
+	"symbol": "FACTORY",
 	"name": "ChainFactory",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/34204/thumb/CFicon_200x200.png?1704275410",
 	"coingecko": "chainfactory",
 	"sources": [
 		"coingecko"

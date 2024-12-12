@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x3cE1F6bD6B0Aa7520A14018DCc2261b1371D7c1a",
-	"symbol": "Corn",
+	"symbol": "CORN",
 	"name": "Corn",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/50664/thumb/IMG_20240923_001346_861.jpg?1728667213",
 	"coingecko": "corn-2",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xF970b8E36e23F7fC3FD752EeA86f8Be8D83375A6",
-	"symbol": "Ripio Credit Network",
+	"symbol": "RCN",
 	"name": "Ripio Credit Network",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/1057/thumb/ripio-credit-network.png?1696502162",
 	"coingecko": "ripio-credit-network",
 	"sources": [
 		"coingecko"

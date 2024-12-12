@@ -1,0 +1,11 @@
+{
+	"chain": 11155111,
+	"address": "0x1391E5032b3523E6A86dDF1D85605D6180B962d8",
+	"symbol": "MCADE",
+	"name": "Metacade",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/MCADE/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

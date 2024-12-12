@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xE340B25fE32B1011616bb8EC495A4d503e322177",
-	"symbol": "Aave AMM UniDAIUSDC",
+	"symbol": "AAMMUNIDAIUSDC",
 	"name": "Aave AMM UniDAIUSDC",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/17218/thumb/aAmmUniDAIUSDC.png?1696516773",
 	"coingecko": "aave-amm-unidaiusdc",
 	"sources": [
 		"coingecko"

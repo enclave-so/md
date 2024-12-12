@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x4A3FE75762017DB0eD73a71C9A06db7768DB5e66",
-	"symbol": "COMP yVault",
+	"symbol": "YVCOMP",
 	"name": "COMP yVault",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/28786/thumb/yvCOMP-128-0x4A3FE75762017DB0eD73a71C9A06db7768DB5e66.png?1696527765",
 	"coingecko": "comp-yvault",
 	"sources": [
 		"coingecko"

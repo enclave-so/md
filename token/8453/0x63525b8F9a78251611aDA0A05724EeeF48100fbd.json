@@ -1,0 +1,11 @@
+{
+	"chain": 8453,
+	"address": "0x63525b8F9a78251611aDA0A05724EeeF48100fbd",
+	"symbol": "fxUSD",
+	"name": "f(x) USD",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/fxUSD/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

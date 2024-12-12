@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x40D4e93b888d5ee9EC61A29a018b199070FfC280",
-	"symbol": "DegenLayer",
+	"symbol": "DELAY",
 	"name": "DegenLayer",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/51652/thumb/degen-pfp-3.png?1731699758",
 	"coingecko": "degenlayer",
 	"sources": [
 		"coingecko"

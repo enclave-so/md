@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x35bD01FC9d6D5D81CA9E055Db88Dc49aa2c699A8",
-	"symbol": "Friends With Benefits Pro",
+	"symbol": "FWB",
 	"name": "Friends With Benefits Pro",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14391/thumb/xRGEXmQN_400x400.png?1696514082",
 	"coingecko": "friends-with-benefits-pro",
 	"sources": [
 		"coingecko"

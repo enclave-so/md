@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xfcd7cceE4071aA4ecFAC1683b7CC0aFeCAF42A36",
-	"symbol": "Titan Blaze",
+	"symbol": "BLAZE",
 	"name": "Titan Blaze",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/38968/thumb/200x200.png?1719712323",
 	"coingecko": "titan-blaze",
 	"sources": [
 		"coingecko"

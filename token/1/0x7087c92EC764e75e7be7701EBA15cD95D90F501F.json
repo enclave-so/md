@@ -3,6 +3,8 @@
 	"address": "0x7087c92EC764e75e7be7701EBA15cD95D90F501F",
 	"symbol": "MATT",
 	"name": "MATT",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/39199/thumb/MATT.jpg?1721020032",
 	"coingecko": "matt",
 	"sources": [
 		"coingecko"

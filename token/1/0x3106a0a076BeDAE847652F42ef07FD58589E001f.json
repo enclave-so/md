@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x3106a0a076BeDAE847652F42ef07FD58589E001f",
-	"symbol": "Alkimi",
+	"symbol": "ADS",
 	"name": "Alkimi",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/17979/thumb/ADS.png?1706546465",
 	"coingecko": "alkimi",
 	"sources": [
 		"coingecko"

@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0xf134519cBE2042B06Ee7cE20Df51d09b55559896",
+	"symbol": "MOCHI",
+	"name": "Mochi",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/MOCHI/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

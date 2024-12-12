@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x054D64b73d3D8A21Af3D764eFd76bCaA774f3Bb2",
-	"symbol": "Plasma Finance",
+	"symbol": "PPAY",
 	"name": "Plasma Finance",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/13340/thumb/Hi9sEGAD.png?1696513107",
 	"coingecko": "plasma-finance",
 	"sources": [
 		"coingecko"

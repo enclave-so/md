@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xcae3fAA4B6cF660AEF18474074949BA0948bc025",
-	"symbol": "Generational Wealth",
+	"symbol": "GEN",
 	"name": "Generational Wealth",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30419/thumb/ethericon200x200.png?1696529307",
 	"coingecko": "generational-wealth",
 	"sources": [
 		"coingecko"

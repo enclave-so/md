@@ -1,0 +1,13 @@
+[
+	{
+		"chain": 690,
+		"address": "0xD5d59fC063e7548b6015A36fEb10B875924A19be",
+		"symbol": "USDC.e",
+		"name": "Bridged USDC (Lattice)",
+		"decimals": 6,
+		"logo": "https://ethereum-optimism.github.io/data/BridgedUSDC/logo.png",
+		"sources": [
+			"optimism"
+		]
+	}
+]

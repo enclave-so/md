@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xEC363faa5c4dd0e51f3D9B5d0101263760E7cdeB",
-	"symbol": "Instadapp WBTC",
+	"symbol": "IWBTC",
 	"name": "Instadapp WBTC",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/25784/thumb/iWBTC-100x100.png?1696524871",
 	"coingecko": "instadapp-wbtc",
 	"sources": [
 		"coingecko"

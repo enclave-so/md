@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xb9EF770B6A5e12E45983C5D80545258aA38F3B78",
-	"symbol": "Zus",
+	"symbol": "ZCN",
 	"name": "Zus",
+	"decimals": 10,
+	"logo": "https://assets.coingecko.com/coins/images/4934/thumb/200x200_transparent.png?1696505474",
 	"coingecko": "0chain",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x259B0f9494B3F02c652Fa11417B94CB700f1F7D8",
-	"symbol": "CV Pad",
+	"symbol": "CVPAD",
 	"name": "CV Pad",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/38293/thumb/200x200.png?1716999673",
 	"coingecko": "cv-pad",
 	"sources": [
 		"coingecko"

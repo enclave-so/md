@@ -2,12 +2,13 @@
 	"chain": 1,
 	"address": "0x1F573D6Fb3F13d689FF844B4cE37794d79a7FF1C",
 	"symbol": "BNT",
-	"name": "Bancor",
+	"name": "Bancor Network Token",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x1F573D6Fb3F13d689FF844B4cE37794d79a7FF1C/logo.png",
+	"logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1F573D6Fb3F13d689FF844B4cE37794d79a7FF1C/logo.png",
 	"coingecko": "bancor",
 	"sources": [
 		"coingecko",
-		"sushiswap"
+		"sushiswap",
+		"uniswap"
 	]
 }

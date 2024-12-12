@@ -4,10 +4,12 @@
 	"symbol": "USDT",
 	"name": "Tether USD",
 	"decimals": 6,
-	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/optimism/0x94b008aA00579c1307B0EF2c499aD98a8ce58e58.jpg",
+	"logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
 	"coingecko": "bridged-usdt",
 	"sources": [
 		"coingecko",
-		"sushiswap"
+		"optimism",
+		"sushiswap",
+		"uniswap"
 	]
 }

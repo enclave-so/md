@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x49D1372124f9B018F32F13B81DE6F4c83D89fcc3",
-	"symbol": "CloudGPU",
+	"symbol": "CGPU",
 	"name": "CloudGPU",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/50878/thumb/Icon_200x200.png?1729408917",
 	"coingecko": "cloudgpu",
 	"sources": [
 		"coingecko"

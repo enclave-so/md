@@ -3,8 +3,11 @@
 	"address": "0x7cB683151A83c2B10A30cBB003CDA9996228a2bA",
 	"symbol": "IYKYK",
 	"name": "IYKYK",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30022/thumb/iykyk200.png?1696528946",
 	"coingecko": "iykyk",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

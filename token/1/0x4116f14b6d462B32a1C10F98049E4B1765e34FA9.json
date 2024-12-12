@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0x4116f14b6d462B32a1C10F98049E4B1765e34FA9",
-	"symbol": "dotmoovs",
+	"symbol": "MOOV",
 	"name": "dotmoovs",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/15817/thumb/token.png?1714928800",
 	"coingecko": "dotmoovs",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

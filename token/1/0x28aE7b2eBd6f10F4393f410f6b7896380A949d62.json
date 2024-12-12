@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x28aE7b2eBd6f10F4393f410f6b7896380A949d62",
-	"symbol": "CoinCreate",
+	"symbol": "CREA",
 	"name": "CoinCreate",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/50876/thumb/CoinCreate.png?1729407837",
 	"coingecko": "coincreate",
 	"sources": [
 		"coingecko"

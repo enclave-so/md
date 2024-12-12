@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0x86ed939B500E121C0C5f493F399084Db596dAd20",
-	"symbol": "SpaceChain (ERC-20)",
-	"name": "SpaceChain (ERC-20)",
+	"symbol": "SPC",
+	"name": "SpaceChain  ERC 20 ",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/6659/thumb/Spacechain.jpg?1696507004",
 	"coingecko": "spacechain-erc-20",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

@@ -3,8 +3,11 @@
 	"address": "0xB705268213D593B8FD88d3FDEFF93AFF5CbDcfAE",
 	"symbol": "IDEX",
 	"name": "IDEX",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/2565/thumb/logomark-purple-286x286.png?1638362736",
 	"coingecko": "aurora-dao",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"uniswap"
 	]
 }

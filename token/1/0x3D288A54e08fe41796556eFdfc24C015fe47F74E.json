@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x3D288A54e08fe41796556eFdfc24C015fe47F74E",
-	"symbol": "Wolt",
+	"symbol": "WOLT",
 	"name": "Wolt",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/50998/thumb/200x200.png?1729682323",
 	"coingecko": "wolt",
 	"sources": [
 		"coingecko"

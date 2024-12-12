@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0xcCdAE12162566E3f29fEfA7Bf7F5b24C644493b5",
+	"symbol": "icRETH",
+	"name": "Leveraged rETH Staking Yield",
+	"decimals": 18,
+	"logo": "https://cdn.indexcoop.com/icreth.svg",
+	"sources": [
+		"indexcoop"
+	]
+}

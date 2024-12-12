@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xEBf221e4a7C31773AeC33766e1743d90593B07F5",
-	"symbol": "Chat Chain",
+	"symbol": "CHAT",
 	"name": "Chat Chain",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/50315/thumb/cg.png?1727099752",
 	"coingecko": "chat-chain",
 	"sources": [
 		"coingecko"

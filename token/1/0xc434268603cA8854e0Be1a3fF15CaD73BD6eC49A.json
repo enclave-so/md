@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xc434268603cA8854e0Be1a3fF15CaD73BD6eC49A",
-	"symbol": "Zapicorn",
+	"symbol": "ZAPI",
 	"name": "Zapicorn",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/33153/thumb/New_PFP_V3_-_200x200.png?1727852453",
 	"coingecko": "zapicorn",
 	"sources": [
 		"coingecko"

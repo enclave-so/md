@@ -3,6 +3,8 @@
 	"address": "0xe0b9BcD54bF8A730EA5d3f1fFCe0885E911a502c",
 	"symbol": "ZUM",
 	"name": "ZUM",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/9721/thumb/zum256x256.png?1696509787",
 	"coingecko": "zum-token",
 	"sources": [
 		"coingecko"

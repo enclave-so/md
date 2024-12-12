@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x44a023A4C32bDd2c89ee87ee76A2332B1A883012",
-	"symbol": "Zazzles",
+	"symbol": "ZAZZLES",
 	"name": "Zazzles",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/39071/thumb/ZA200.jpg?1720224896",
 	"coingecko": "zazzles",
 	"sources": [
 		"coingecko"

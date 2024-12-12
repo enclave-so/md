@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x60d91f6D394c5004A782E0D175E2b839e078FB83",
-	"symbol": "Freedom",
+	"symbol": "FDM",
 	"name": "Freedom",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/37793/thumb/fdm.jpeg?1715589663",
 	"coingecko": "freedom-2",
 	"sources": [
 		"coingecko"

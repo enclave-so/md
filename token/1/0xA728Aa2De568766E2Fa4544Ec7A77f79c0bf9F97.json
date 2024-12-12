@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xA728Aa2De568766E2Fa4544Ec7A77f79c0bf9F97",
-	"symbol": "JokInTheBox",
+	"symbol": "JOK",
 	"name": "JokInTheBox",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/37363/thumb/Logo_JOK_200_X_200.png?1730414580",
 	"coingecko": "jokinthebox",
 	"sources": [
 		"coingecko"

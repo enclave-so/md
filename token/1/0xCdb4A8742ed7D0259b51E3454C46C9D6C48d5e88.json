@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xCdb4A8742ed7D0259b51E3454C46C9D6C48d5e88",
-	"symbol": "GPT Protocol",
+	"symbol": "GPT",
 	"name": "GPT Protocol",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35929/thumb/gpt.png?1710225428",
 	"coingecko": "gpt-protocol",
 	"sources": [
 		"coingecko"

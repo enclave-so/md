@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xb1C064C3f2908F741C9dEA4AFC5773238B53e6cc",
-	"symbol": "WarioXRPDumbledoreYugioh69Inu",
+	"symbol": "XRP",
 	"name": "WarioXRPDumbledoreYugioh69Inu",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/31167/thumb/ETYYcV7I_400x400.jpg?1696529995",
 	"coingecko": "warioxrpdumbledoreyugioh69inu",
 	"sources": [
 		"coingecko"

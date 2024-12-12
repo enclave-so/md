@@ -1,10 +1,13 @@
 {
 	"chain": 42161,
 	"address": "0xa68Ec98D7ca870cF1Dd0b00EBbb7c4bF60A8e74d",
-	"symbol": "Biconomy",
+	"symbol": "BICO",
 	"name": "Biconomy",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/21061/thumb/biconomy_logo.jpg?1638269749",
 	"coingecko": "biconomy",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"uniswap"
 	]
 }

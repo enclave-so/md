@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0xab814ce69E15F6B9660A3B184c0B0C97B9394A6b",
-	"symbol": "Cerebrum DAO",
+	"symbol": "NEURON",
 	"name": "Cerebrum DAO",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/38111/thumb/logo.png?1728119643",
 	"coingecko": "cerebrum-dao",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

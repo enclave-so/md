@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x3B604747ad1720C01ded0455728b62c0d2F100F0",
-	"symbol": "WAGMI Games",
+	"symbol": "WAGMIGAMES",
 	"name": "WAGMI Games",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/25906/thumb/WAGMI_DEFENSE_LOGO24_coingecko.png?1708591845",
 	"coingecko": "wagmi-game-2",
 	"sources": [
 		"coingecko"

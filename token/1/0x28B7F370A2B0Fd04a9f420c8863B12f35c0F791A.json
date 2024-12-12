@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x28B7F370A2B0Fd04a9f420c8863B12f35c0F791A",
-	"symbol": "Monkei",
+	"symbol": "MONKEI",
 	"name": "Monkei",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/38705/thumb/20240613_070137.png?1718359786",
 	"coingecko": "monkei",
 	"sources": [
 		"coingecko"

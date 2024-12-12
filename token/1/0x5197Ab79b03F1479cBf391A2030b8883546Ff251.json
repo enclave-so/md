@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x5197Ab79b03F1479cBf391A2030b8883546Ff251",
-	"symbol": "Sorcery Finance",
+	"symbol": "SOR",
 	"name": "Sorcery Finance",
+	"decimals": 16,
+	"logo": "https://assets.coingecko.com/coins/images/31635/thumb/New_Project_%2866%29.png?1696530450",
 	"coingecko": "sorcery-finance",
 	"sources": [
 		"coingecko"

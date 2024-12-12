@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xEA3665e272f14052442E433fb0059424D16Cc6c7",
-	"symbol": "Smidge",
+	"symbol": "SMIDGE",
 	"name": "Smidge",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/38415/thumb/SMIDGE.png?1717478217",
 	"coingecko": "smidge",
 	"sources": [
 		"coingecko"

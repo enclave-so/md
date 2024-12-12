@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xF995771A957C19319a7d8D58B4082B049420340F",
-	"symbol": "BONK Inu",
+	"symbol": "BONKI",
 	"name": "BONK Inu",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/33510/thumb/IMG_20231207_184637_498_%282%29.jpg?1702041006",
 	"coingecko": "bonk-inu",
 	"sources": [
 		"coingecko"

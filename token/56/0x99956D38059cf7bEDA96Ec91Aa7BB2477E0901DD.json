@@ -3,8 +3,11 @@
 	"address": "0x99956D38059cf7bEDA96Ec91Aa7BB2477E0901DD",
 	"symbol": "DIA",
 	"name": "DIA",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/11955/thumb/image.png?1646041751",
 	"coingecko": "dia-data",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"uniswap"
 	]
 }

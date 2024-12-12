@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xd6cAF5Bd23CF057f5FcCCE295Dcc50C01C198707",
-	"symbol": "Evanesco Network",
+	"symbol": "EVA",
 	"name": "Evanesco Network",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/16722/thumb/evan.PNG?1696516296",
 	"coingecko": "evanesco-network",
 	"sources": [
 		"coingecko"

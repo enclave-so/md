@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x0c2e08E459fC43dDD1E2718C122F566473f59665",
-	"symbol": "Crypto Burger",
+	"symbol": "BURGER",
 	"name": "Crypto Burger",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/50266/thumb/20241012%E7%BA%AF%E6%B1%89%E5%A0%A1NEW%E5%9C%86.png?1729576933",
 	"coingecko": "crypto-burger",
 	"sources": [
 		"coingecko"

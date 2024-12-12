@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x6Fb0855c404E09c47C3fBCA25f08d4E41f9F062f",
-	"symbol": "Aave ZRX v1",
+	"symbol": "AZRX",
 	"name": "Aave ZRX v1",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/11735/thumb/aZRX.png?1696511616",
 	"coingecko": "aave-zrx-v1",
 	"sources": [
 		"coingecko"

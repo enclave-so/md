@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xc961Da88bB5E8Ee2BA7dfd4c62a875eF80f7202F",
-	"symbol": "Haram",
+	"symbol": "HARAM",
 	"name": "Haram",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/30374/thumb/200x200trans.png?1696529268",
 	"coingecko": "haram",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x6a969D379700B2E5EA4E684d273d63C1c050Ba49",
-	"symbol": "Pacific",
+	"symbol": "PAF",
 	"name": "Pacific",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/20915/thumb/paf.png?1696520306",
 	"coingecko": "pacific",
 	"sources": [
 		"coingecko"

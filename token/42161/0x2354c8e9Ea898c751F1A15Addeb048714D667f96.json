@@ -1,0 +1,11 @@
+{
+	"chain": 42161,
+	"address": "0x2354c8e9Ea898c751F1A15Addeb048714D667f96",
+	"symbol": "ERN",
+	"name": "Ethernity Chain",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14238/thumb/LOGO_HIGH_QUALITY.png?1647831402",
+	"sources": [
+		"uniswap"
+	]
+}

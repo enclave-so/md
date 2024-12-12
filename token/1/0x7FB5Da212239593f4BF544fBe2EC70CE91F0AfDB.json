@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x7FB5Da212239593f4BF544fBe2EC70CE91F0AfDB",
-	"symbol": "Dinari GME",
+	"symbol": "GMED",
 	"name": "Dinari GME",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/39619/thumb/Dinari-token-icon.png?1723148884",
 	"coingecko": "dinari-gme",
 	"sources": [
 		"coingecko"

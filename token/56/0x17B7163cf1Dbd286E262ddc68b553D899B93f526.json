@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0x17B7163cf1Dbd286E262ddc68b553D899B93f526",
-	"symbol": "Qubit",
-	"name": "Qubit",
+	"symbol": "QBT",
+	"name": "Qubit Token",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x17B7163cf1Dbd286E262ddc68b553D899B93f526.png",
 	"coingecko": "qubit",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

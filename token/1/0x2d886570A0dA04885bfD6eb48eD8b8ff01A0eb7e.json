@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x2d886570A0dA04885bfD6eb48eD8b8ff01A0eb7e",
-	"symbol": "Blockchain Bets",
+	"symbol": "BCB",
 	"name": "Blockchain Bets",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/28694/thumb/200x200.jpg?1696527676",
 	"coingecko": "blockchain-bets",
 	"sources": [
 		"coingecko"

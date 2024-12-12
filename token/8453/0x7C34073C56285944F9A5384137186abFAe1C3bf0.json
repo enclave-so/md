@@ -1,0 +1,11 @@
+{
+	"chain": 8453,
+	"address": "0x7C34073C56285944F9A5384137186abFAe1C3bf0",
+	"symbol": "PLG",
+	"name": "Plague",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/PLG/logo.png",
+	"sources": [
+		"optimism"
+	]
+}

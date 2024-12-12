@@ -1,10 +1,14 @@
 {
 	"chain": 8453,
 	"address": "0x7002458B1DF59EccB57387bC79fFc7C29E22e6f7",
-	"symbol": "Origin Token",
-	"name": "Origin Token",
+	"symbol": "OGN",
+	"name": "Origin Protocol",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/3296/thumb/op.jpg?1547037878",
 	"coingecko": "origin-protocol",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism",
+		"uniswap"
 	]
 }

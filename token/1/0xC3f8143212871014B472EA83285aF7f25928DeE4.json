@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xC3f8143212871014B472EA83285aF7f25928DeE4",
-	"symbol": "SOHOTRN",
+	"symbol": "SOHOT",
 	"name": "SOHOTRN",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/34719/thumb/SOHOTRN.png?1705916112",
 	"coingecko": "sohotrn",
 	"sources": [
 		"coingecko"

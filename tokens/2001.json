@@ -1,80 +1,10 @@
 [
 	{
 		"chain": 2001,
-		"address": "0x7f27352D5F83Db87a5A3E00f4B07Cc2138D8ee52",
-		"symbol": "Wrapped BNB - Celer",
-		"name": "Wrapped BNB - Celer",
-		"coingecko": "wrapped-bnb-celer",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 2001,
-		"address": "0x80A16016cC4A2E6a2CACA8a4a498b1699fF0f844",
-		"symbol": "Bridged USDT",
-		"name": "Bridged USDT",
-		"coingecko": "bridged-usdt",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 2001,
-		"address": "0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D",
-		"symbol": "Bridged WETH",
-		"name": "Bridged WETH",
-		"coingecko": "bridged-weth",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 2001,
-		"address": "0x063A5E4cD5e15ac66ea47134Eb60e6b30A51B2bf",
-		"symbol": "MilkySwap",
-		"name": "MilkySwap",
-		"coingecko": "milkyswap",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 2001,
 		"address": "0x386e685B5cBAa7bC06e3Dd2eEcDC56105076e4Fa",
 		"symbol": "MuesliSwap MILK",
 		"name": "MuesliSwap MILK",
 		"coingecko": "muesliswap-milk",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 2001,
-		"address": "0xf0c73E6287867bAa4F865A17EE711ec989c78AC0",
-		"symbol": "OccamX",
-		"name": "OccamX",
-		"coingecko": "occamx",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 2001,
-		"address": "0x81ECac0D6Be0550A00FF064a4f9dd2400585FE9c",
-		"symbol": "Wrapped Ether - Celer",
-		"name": "Wrapped Ether - Celer",
-		"coingecko": "wrapped-ether-celer",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 2001,
-		"address": "0xf390830DF829cf22c53c8840554B98eafC5dCBc2",
-		"symbol": "Chainlink",
-		"name": "Chainlink",
-		"coingecko": "chainlink",
 		"sources": [
 			"coingecko"
 		]
@@ -101,16 +31,6 @@
 	},
 	{
 		"chain": 2001,
-		"address": "0x461d52769884ca6235B685EF2040F47d30C94EB5",
-		"symbol": "OccamFi",
-		"name": "OccamFi",
-		"coingecko": "occamfi",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 2001,
 		"address": "0x3795C36e7D12A8c252A20C5a7B455f7c57b60283",
 		"symbol": "Celer Bridged Tether (Milkomeda)",
 		"name": "Celer Bridged Tether (Milkomeda)",
@@ -121,20 +41,20 @@
 	},
 	{
 		"chain": 2001,
-		"address": "0x8d50a024B2F5593605d3cE8183Ca8969226Fcbf8",
-		"symbol": "Wrapped Bitcoin - Celer",
-		"name": "Wrapped Bitcoin - Celer",
-		"coingecko": "wrapped-bitcoin-celer",
+		"address": "0x6a2d262D56735DbA19Dd70682B39F6bE9a931D98",
+		"symbol": "Bridged USD Coin (Celer)",
+		"name": "Bridged USD Coin (Celer)",
+		"coingecko": "usd-coin-celer",
 		"sources": [
 			"coingecko"
 		]
 	},
 	{
 		"chain": 2001,
-		"address": "0x332730a4F6E03D9C55829435f10360E13cfA41Ff",
-		"symbol": "Wrapped Fantom",
-		"name": "Wrapped Fantom",
-		"coingecko": "wrapped-fantom",
+		"address": "0xAE83571000aF4499798d1e3b0fA0070EB3A3E3F9",
+		"symbol": "Wrapped ADA",
+		"name": "Wrapped ADA",
+		"coingecko": "wrapped-ada",
 		"sources": [
 			"coingecko"
 		]
@@ -161,10 +81,30 @@
 	},
 	{
 		"chain": 2001,
-		"address": "0xB44a9B6905aF7c801311e8F4E76932ee959c663C",
-		"symbol": "Bridged USDC",
-		"name": "Bridged USDC",
-		"coingecko": "bridged-usdc",
+		"address": "0x81ECac0D6Be0550A00FF064a4f9dd2400585FE9c",
+		"symbol": "Wrapped Ether - Celer",
+		"name": "Wrapped Ether - Celer",
+		"coingecko": "wrapped-ether-celer",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 2001,
+		"address": "0x65e66a61D0a8F1e686C2D6083ad611a10D84D97A",
+		"symbol": "Wrapped AVAX",
+		"name": "Wrapped AVAX",
+		"coingecko": "wrapped-avax",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 2001,
+		"address": "0x7f27352D5F83Db87a5A3E00f4B07Cc2138D8ee52",
+		"symbol": "Wrapped BNB - Celer",
+		"name": "Wrapped BNB - Celer",
+		"coingecko": "wrapped-bnb-celer",
 		"sources": [
 			"coingecko"
 		]
@@ -181,10 +121,70 @@
 	},
 	{
 		"chain": 2001,
-		"address": "0xAE83571000aF4499798d1e3b0fA0070EB3A3E3F9",
-		"symbol": "Wrapped ADA",
-		"name": "Wrapped ADA",
-		"coingecko": "wrapped-ada",
+		"address": "0xf0c73E6287867bAa4F865A17EE711ec989c78AC0",
+		"symbol": "OccamX",
+		"name": "OccamX",
+		"coingecko": "occamx",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 2001,
+		"address": "0x8d50a024B2F5593605d3cE8183Ca8969226Fcbf8",
+		"symbol": "Wrapped Bitcoin - Celer",
+		"name": "Wrapped Bitcoin - Celer",
+		"coingecko": "wrapped-bitcoin-celer",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 2001,
+		"address": "0x332730a4F6E03D9C55829435f10360E13cfA41Ff",
+		"symbol": "Wrapped Fantom",
+		"name": "Wrapped Fantom",
+		"coingecko": "wrapped-fantom",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 2001,
+		"address": "0xB44a9B6905aF7c801311e8F4E76932ee959c663C",
+		"symbol": "Bridged USDC",
+		"name": "Bridged USDC",
+		"coingecko": "bridged-usdc",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 2001,
+		"address": "0x80A16016cC4A2E6a2CACA8a4a498b1699fF0f844",
+		"symbol": "Bridged USDT",
+		"name": "Bridged USDT",
+		"coingecko": "bridged-usdt",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 2001,
+		"address": "0x063A5E4cD5e15ac66ea47134Eb60e6b30A51B2bf",
+		"symbol": "MilkySwap",
+		"name": "MilkySwap",
+		"coingecko": "milkyswap",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 2001,
+		"address": "0x461d52769884ca6235B685EF2040F47d30C94EB5",
+		"symbol": "OccamFi",
+		"name": "OccamFi",
+		"coingecko": "occamfi",
 		"sources": [
 			"coingecko"
 		]
@@ -201,20 +201,10 @@
 	},
 	{
 		"chain": 2001,
-		"address": "0x6085C822B7A4c688D114468B1380a0Ed1873a0B3",
-		"symbol": "TangleSwap VOID",
-		"name": "TangleSwap VOID",
-		"coingecko": "tangleswap-void",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 2001,
-		"address": "0x6a2d262D56735DbA19Dd70682B39F6bE9a931D98",
-		"symbol": "Bridged USD Coin (Celer)",
-		"name": "Bridged USD Coin (Celer)",
-		"coingecko": "usd-coin-celer",
+		"address": "0xf390830DF829cf22c53c8840554B98eafC5dCBc2",
+		"symbol": "Chainlink",
+		"name": "Chainlink",
+		"coingecko": "chainlink",
 		"sources": [
 			"coingecko"
 		]
@@ -231,10 +221,20 @@
 	},
 	{
 		"chain": 2001,
-		"address": "0x65e66a61D0a8F1e686C2D6083ad611a10D84D97A",
-		"symbol": "Wrapped AVAX",
-		"name": "Wrapped AVAX",
-		"coingecko": "wrapped-avax",
+		"address": "0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D",
+		"symbol": "Bridged WETH",
+		"name": "Bridged WETH",
+		"coingecko": "bridged-weth",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 2001,
+		"address": "0x6085C822B7A4c688D114468B1380a0Ed1873a0B3",
+		"symbol": "TangleSwap VOID",
+		"name": "TangleSwap VOID",
+		"coingecko": "tangleswap-void",
 		"sources": [
 			"coingecko"
 		]

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x9d3D07439069C9bbC8d626397cf98CB343aC0a72",
-	"symbol": "Technology Metal Network Global",
+	"symbol": "TMNG",
 	"name": "Technology Metal Network Global",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/32834/thumb/TMN_Logo_dark_silver_2.PNG?1699586186",
 	"coingecko": "technology-metal-network-global",
 	"sources": [
 		"coingecko"

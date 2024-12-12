@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x06B884e60794Ce02AafAb13791B59A2e6A07442f",
-	"symbol": "Unbanked",
+	"symbol": "UNBNK",
 	"name": "Unbanked",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/20171/thumb/logo_-_2021-11-11T115427.135.png?1696519584",
 	"coingecko": "unbanked",
 	"sources": [
 		"coingecko"

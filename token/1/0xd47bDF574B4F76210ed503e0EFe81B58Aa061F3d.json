@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xd47bDF574B4F76210ed503e0EFe81B58Aa061F3d",
-	"symbol": "Dtravel",
+	"symbol": "TRVL",
 	"name": "Dtravel",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/20911/thumb/trvl.jpeg?1696520301",
 	"coingecko": "dtravel",
 	"sources": [
 		"coingecko"

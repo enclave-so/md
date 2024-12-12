@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x05fE069626543842439Ef90D9FA1633640c50cF1",
-	"symbol": "Eve AI",
+	"symbol": "EVEAI",
 	"name": "Eve AI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/29830/thumb/200-X-200.png?1696528758",
 	"coingecko": "eve-ai",
 	"sources": [
 		"coingecko"

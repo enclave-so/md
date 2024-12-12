@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xBcBDA13Bd60bC0e91745186E274D1445078D6b33",
-	"symbol": "Ferret AI",
+	"symbol": "FERRET",
 	"name": "Ferret AI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/34669/thumb/0xbcbda13bd60bc0e91745186e274d1445078d6b33_%281%29.jpg?1705656014",
 	"coingecko": "ferret-ai",
 	"sources": [
 		"coingecko"

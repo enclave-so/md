@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x7039cd6D7966672F194E8139074C3D5c4e6DCf65",
-	"symbol": "Super Trump",
+	"symbol": "STRUMP",
 	"name": "Super Trump",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/36083/thumb/Super_Trump.png?1710418492",
 	"coingecko": "super-trump",
 	"sources": [
 		"coingecko"

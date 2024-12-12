@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x3E362038fD3d08887d498944D489aF7909619a9B",
-	"symbol": "CHOW CHOW",
+	"symbol": "CHOW",
 	"name": "CHOW CHOW",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/34803/thumb/CHOW_CHOW.png?1706094366",
 	"coingecko": "chow-chow",
 	"sources": [
 		"coingecko"

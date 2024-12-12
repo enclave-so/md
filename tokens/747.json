@@ -1,6 +1,16 @@
 [
 	{
 		"chain": 747,
+		"address": "0x1b97100eA1D7126C4d60027e231EA4CB25314bdb",
+		"symbol": "Ankr Staked FLOW",
+		"name": "Ankr Staked FLOW",
+		"coingecko": "ankr-staked-flow",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 747,
 		"address": "0xd8Ad8AE8375aa31BFF541e17dC4b4917014EbDAa",
 		"symbol": "BETA",
 		"name": "BETA",
@@ -35,16 +45,6 @@
 		"symbol": "Wrapped Flow",
 		"name": "Wrapped Flow",
 		"coingecko": "wrapped-flow",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 747,
-		"address": "0x1b97100eA1D7126C4d60027e231EA4CB25314bdb",
-		"symbol": "Ankr Staked FLOW",
-		"name": "Ankr Staked FLOW",
-		"coingecko": "ankr-staked-flow",
 		"sources": [
 			"coingecko"
 		]

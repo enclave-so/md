@@ -1,0 +1,11 @@
+{
+	"chain": 8453,
+	"address": "0x2EDe02eC52Cbb49E81885c8fa171C3Ba8bcD5374",
+	"symbol": "HOBA",
+	"name": "Honey Badger",
+	"decimals": 9,
+	"logo": "https://ethereum-optimism.github.io/data/HOBA/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"chain": 10,
+	"address": "0xCa0E54b636DB823847B29F506BFFEE743F57729D",
+	"symbol": "CHI",
+	"name": "Chi USD",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/CHI/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

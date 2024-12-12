@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x40C3b81FB887016c0aD02436309C2b265D069A05",
-	"symbol": "Chief Troll Officer",
+	"symbol": "CTO",
 	"name": "Chief Troll Officer",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/34736/thumb/IMG_1873.jpeg?1705944614",
 	"coingecko": "chief-troll-officer-2",
 	"sources": [
 		"coingecko"

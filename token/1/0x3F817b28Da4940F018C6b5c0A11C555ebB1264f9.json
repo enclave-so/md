@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x3F817b28Da4940F018C6b5c0A11C555ebB1264f9",
-	"symbol": "3A",
+	"symbol": "A3A",
 	"name": "3A",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/33135/thumb/A3A.png?1700801023",
 	"coingecko": "3a-lending-protocol",
 	"sources": [
 		"coingecko"

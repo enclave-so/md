@@ -1,0 +1,11 @@
+{
+	"chain": 42161,
+	"address": "0x3e4Cff6E50F37F731284A92d44AE943e17077fD4",
+	"symbol": "ELON",
+	"name": "Dogelon Mars",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14962/thumb/6GxcPRo3_400x400.jpg?1619157413",
+	"sources": [
+		"uniswap"
+	]
+}

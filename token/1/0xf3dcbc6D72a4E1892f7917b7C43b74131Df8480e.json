@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xf3dcbc6D72a4E1892f7917b7C43b74131Df8480e",
-	"symbol": "Big Data Protocol",
+	"symbol": "BDP",
 	"name": "Big Data Protocol",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14222/thumb/logo_BDP_200.png?1696513937",
 	"coingecko": "big-data-protocol",
 	"sources": [
 		"coingecko"

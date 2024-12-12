@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0x3D658390460295FB963f54dC0899cfb1c30776Df",
-	"symbol": "Circuits of Value",
+	"symbol": "COVAL",
 	"name": "Circuits of Value",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/588/thumb/coval-logo.png?1599493950",
 	"coingecko": "circuits-of-value",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"uniswap"
 	]
 }

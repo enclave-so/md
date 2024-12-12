@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xa4cb0dCe4849BdcAd2d553E9e68644Cf40E26ccE",
-	"symbol": "Baked",
+	"symbol": "BAKED",
 	"name": "Baked",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/19178/thumb/rebaked-logo-full.png?1696518627",
 	"coingecko": "baked-token",
 	"sources": [
 		"coingecko"

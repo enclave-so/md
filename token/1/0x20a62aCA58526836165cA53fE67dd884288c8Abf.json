@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x20a62aCA58526836165cA53fE67dd884288c8Abf",
-	"symbol": "Rentible",
+	"symbol": "RNB",
 	"name": "Rentible",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/15176/thumb/rnb_200x200.png?1703145247",
 	"coingecko": "rentible",
 	"sources": [
 		"coingecko"

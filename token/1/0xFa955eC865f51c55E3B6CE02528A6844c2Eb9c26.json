@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xFa955eC865f51c55E3B6CE02528A6844c2Eb9c26",
-	"symbol": "OpenLiquidity",
+	"symbol": "OPENLI",
 	"name": "OpenLiquidity",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/39270/thumb/lp.jpg?1721381975",
 	"coingecko": "0xlp",
 	"sources": [
 		"coingecko"

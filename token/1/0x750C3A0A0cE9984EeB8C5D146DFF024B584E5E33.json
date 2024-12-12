@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x750C3A0A0cE9984EeB8C5D146DFF024B584E5E33",
-	"symbol": "zkHive",
+	"symbol": "ZKHIVE",
 	"name": "zkHive",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35940/thumb/IMG_4449.jpeg?1710233140",
 	"coingecko": "zkhive",
 	"sources": [
 		"coingecko"

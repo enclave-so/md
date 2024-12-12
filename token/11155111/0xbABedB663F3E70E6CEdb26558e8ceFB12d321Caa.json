@@ -1,0 +1,11 @@
+{
+	"chain": 11155111,
+	"address": "0xbABedB663F3E70E6CEdb26558e8ceFB12d321Caa",
+	"symbol": "EVERY",
+	"name": "Everyrealm Token",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/EVERY/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

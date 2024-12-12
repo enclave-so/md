@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x2e5D4e2A2336045471BFE446CAA407f0C3A2419C",
-	"symbol": "RedSonic Vault Tether USD",
+	"symbol": "RSVUSDT",
 	"name": "RedSonic Vault Tether USD",
+	"decimals": 6,
+	"logo": "https://assets.coingecko.com/coins/images/39743/thumb/rsv_usdt.png?1723781316",
 	"coingecko": "redsonic-vault-tether-usd",
 	"sources": [
 		"coingecko"

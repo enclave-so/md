@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xF03D5fC6E08dE6Ad886fCa34aBF9a59ef633b78a",
-	"symbol": "Capybara Token",
+	"symbol": "CAPY",
 	"name": "Capybara Token",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30223/thumb/capylogo.png?1696529133",
 	"coingecko": "capybara-token",
 	"sources": [
 		"coingecko"

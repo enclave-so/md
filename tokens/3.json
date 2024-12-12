@@ -1,6 +1,40 @@
 [
 	{
 		"chain": 3,
+		"address": "0xaD6D458402F60fD3Bd25163575031ACDce07538D",
+		"symbol": "DAI",
+		"name": "Dai Stablecoin",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xaD6D458402F60fD3Bd25163575031ACDce07538D/logo.png",
+		"sources": [
+			"uniswap"
+		]
+	},
+	{
+		"chain": 3,
+		"address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
+		"symbol": "UNI",
+		"name": "Uniswap",
+		"decimals": 18,
+		"logo": "ipfs://QmXttGpZrECX5qCyXbBQiqgQNytVGeZW5Anewvh2jc4psg",
+		"sources": [
+			"uniswap"
+		]
+	},
+	{
+		"chain": 3,
+		"address": "0xc778417E063141139Fce010982780140Aa0cD5Ab",
+		"symbol": "WETH",
+		"name": "Wrapped Ether",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png",
+		"sources": [
+			"sushiswap",
+			"uniswap"
+		]
+	},
+	{
+		"chain": 3,
 		"address": "0xc2118d4d90b274016cB7a54c03EF52E6c537D957",
 		"symbol": "DAI",
 		"name": "Dai Stablecoin",
@@ -38,17 +72,6 @@
 		"name": "USD Coin",
 		"decimals": 6,
 		"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
-		"sources": [
-			"sushiswap"
-		]
-	},
-	{
-		"chain": 3,
-		"address": "0xc778417E063141139Fce010982780140Aa0cD5Ab",
-		"symbol": "WETH",
-		"name": "Wrapped Ether",
-		"decimals": 18,
-		"logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png",
 		"sources": [
 			"sushiswap"
 		]

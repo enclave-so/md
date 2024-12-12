@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x46971fC433d90cf2ff1da4a66aBe320DfB0cE3b1",
-	"symbol": "Winee3",
+	"symbol": "WNE",
 	"name": "Winee3",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/38951/thumb/IMG_20240624_191006_190.jpg?1719596169",
 	"coingecko": "winee3",
 	"sources": [
 		"coingecko"

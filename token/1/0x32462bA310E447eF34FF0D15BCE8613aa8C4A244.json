@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x32462bA310E447eF34FF0D15BCE8613aa8C4A244",
-	"symbol": "Dohrnii",
+	"symbol": "DHN",
 	"name": "Dohrnii",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/24966/thumb/dhn.png?1696524119",
 	"coingecko": "dohrnii",
 	"sources": [
 		"coingecko"

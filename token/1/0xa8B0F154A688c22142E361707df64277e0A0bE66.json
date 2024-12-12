@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xa8B0F154A688c22142E361707df64277e0A0bE66",
-	"symbol": "Rake Finance",
+	"symbol": "RAK",
 	"name": "Rake Finance",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/13078/thumb/rake-logo-200x200.png?1696512866",
 	"coingecko": "rake-finance",
 	"sources": [
 		"coingecko"

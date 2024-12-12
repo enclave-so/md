@@ -1,0 +1,10 @@
+{
+	"chain": 59144,
+	"address": "0x092b9E25a7D143c83D44c27194F5CeE7c1150F22",
+	"symbol": "CatWifCap",
+	"name": "CatWifCap",
+	"coingecko": "catwifcap",
+	"sources": [
+		"coingecko"
+	]
+}

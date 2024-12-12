@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xa247C6d23c8C7d223420700d16d189cFF9357F38",
-	"symbol": "Cheesed",
+	"symbol": "CHEESED",
 	"name": "Cheesed",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/38836/thumb/Untitled_design.png?1719198911",
 	"coingecko": "cheesed",
 	"sources": [
 		"coingecko"

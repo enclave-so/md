@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x873259322BE8e50d80A4b868D186Cc5aB148543A",
-	"symbol": "PonzioTheCat",
+	"symbol": "PONZIO",
 	"name": "PonzioTheCat",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/38784/thumb/ponzio_200x200.png?1718855627",
 	"coingecko": "ponziothecat",
 	"sources": [
 		"coingecko"

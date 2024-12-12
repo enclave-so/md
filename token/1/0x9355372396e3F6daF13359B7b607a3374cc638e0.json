@@ -3,6 +3,8 @@
 	"address": "0x9355372396e3F6daF13359B7b607a3374cc638e0",
 	"symbol": "WHALE",
 	"name": "WHALE",
+	"decimals": 4,
+	"logo": "https://assets.coingecko.com/coins/images/11797/thumb/WHALE.png?1696511673",
 	"coingecko": "whale",
 	"sources": [
 		"coingecko"

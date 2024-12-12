@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xEBE4a49dF7885d015329c919bF43e6460a858F1e",
-	"symbol": "iShook",
+	"symbol": "SHK",
 	"name": "iShook",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/3037/thumb/2023-12-20_19.32.44.jpg?1703377166",
 	"coingecko": "ishook",
 	"sources": [
 		"coingecko"

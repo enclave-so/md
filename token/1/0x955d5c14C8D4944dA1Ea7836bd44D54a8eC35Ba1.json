@@ -2,9 +2,9 @@
 	"chain": 1,
 	"address": "0x955d5c14C8D4944dA1Ea7836bd44D54a8eC35Ba1",
 	"symbol": "RFD",
-	"name": "REFUND",
+	"name": "Refund",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x955d5c14C8D4944dA1Ea7836bd44D54a8eC35Ba1.jpg",
+	"logo": "https://assets.coingecko.com/coins/images/30501/thumb/Avatar_%282%29.png?1696529387",
 	"coingecko": "refund",
 	"sources": [
 		"coingecko",

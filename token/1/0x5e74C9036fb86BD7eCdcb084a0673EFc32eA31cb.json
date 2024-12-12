@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x5e74C9036fb86BD7eCdcb084a0673EFc32eA31cb",
-	"symbol": "sETH",
+	"symbol": "SETH",
 	"name": "sETH",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/8843/thumb/sETH.png?1696508995",
 	"coingecko": "seth",
 	"sources": [
 		"coingecko"

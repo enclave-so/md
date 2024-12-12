@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xe657d49ABAe3EA21618bb481F1Dab4322855f60E",
-	"symbol": "Rainbow",
+	"symbol": "RAINBOW",
 	"name": "Rainbow",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/39472/thumb/1000013027.jpg?1722401776",
 	"coingecko": "rainbow-2",
 	"sources": [
 		"coingecko"

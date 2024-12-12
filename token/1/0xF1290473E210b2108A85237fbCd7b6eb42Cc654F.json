@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xF1290473E210b2108A85237fbCd7b6eb42Cc654F",
-	"symbol": "HedgeTrade",
+	"symbol": "HEDG",
 	"name": "HedgeTrade",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/7196/thumb/to3Vj4EZ_400x400.jpg?1696507494",
 	"coingecko": "hedgetrade",
 	"sources": [
 		"coingecko"

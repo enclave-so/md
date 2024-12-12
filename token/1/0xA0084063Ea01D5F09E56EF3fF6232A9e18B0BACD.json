@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xA0084063Ea01D5F09E56EF3fF6232A9e18B0BACD",
-	"symbol": "CyberDEX",
+	"symbol": "CYDX",
 	"name": "CyberDEX",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/39335/thumb/CYDX.png?1722540797",
 	"coingecko": "cyberdex",
 	"sources": [
 		"coingecko"

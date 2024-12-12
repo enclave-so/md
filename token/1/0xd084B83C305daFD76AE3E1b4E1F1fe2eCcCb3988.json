@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0xd084B83C305daFD76AE3E1b4E1F1fe2eCcCb3988",
-	"symbol": "Virtua",
-	"name": "Virtua",
+	"symbol": "TVK",
+	"name": "The Virtua Kolect",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/13330/thumb/virtua_original.png?1656043619",
 	"coingecko": "the-virtua-kolect",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"uniswap"
 	]
 }

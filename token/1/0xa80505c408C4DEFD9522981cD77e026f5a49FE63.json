@@ -3,6 +3,8 @@
 	"address": "0xa80505c408C4DEFD9522981cD77e026f5a49FE63",
 	"symbol": "NEUY",
 	"name": "NEUY",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/25870/thumb/logo200x200.png?1696524953",
 	"coingecko": "neuy",
 	"sources": [
 		"coingecko"

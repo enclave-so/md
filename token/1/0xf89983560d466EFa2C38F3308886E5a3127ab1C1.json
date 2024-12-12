@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xf89983560d466EFa2C38F3308886E5a3127ab1C1",
-	"symbol": "Dinari UBER",
+	"symbol": "UBERD",
 	"name": "Dinari UBER",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/39834/thumb/Dinari-token-icon.png?1724254647",
 	"coingecko": "dinari-uber",
 	"sources": [
 		"coingecko"

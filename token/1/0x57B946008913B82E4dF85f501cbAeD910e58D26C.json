@@ -2,12 +2,13 @@
 	"chain": 1,
 	"address": "0x57B946008913B82E4dF85f501cbAeD910e58D26C",
 	"symbol": "POND",
-	"name": "Marlin POND",
+	"name": "Marlin",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x57B946008913B82E4dF85f501cbAeD910e58D26C/logo.png",
+	"logo": "https://assets.coingecko.com/coins/images/8903/thumb/POND_200x200.png?1622515451",
 	"coingecko": "marlin",
 	"sources": [
 		"coingecko",
-		"sushiswap"
+		"sushiswap",
+		"uniswap"
 	]
 }

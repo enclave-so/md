@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x11EBe21e9d7BF541A18e1E3aC94939018Ce88F0b",
-	"symbol": "Pitch FXS",
+	"symbol": "PITCHFXS",
 	"name": "Pitch FXS",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/28414/thumb/pitch.png?1696527412",
 	"coingecko": "pitch-fxs",
 	"sources": [
 		"coingecko"

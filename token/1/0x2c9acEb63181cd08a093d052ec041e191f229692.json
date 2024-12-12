@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x2c9acEb63181cd08a093d052ec041e191f229692",
-	"symbol": "Angryb",
+	"symbol": "ANB",
 	"name": "Angryb",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/17270/thumb/AngryBlockchain.png?1696516825",
 	"coingecko": "angryb",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xC40629464351c37c1e1f47b3640eA2e7AeC31eA5",
-	"symbol": "Home3",
+	"symbol": "HTS",
 	"name": "Home3",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/38599/thumb/1000085865.jpg?1718094997",
 	"coingecko": "home3",
 	"sources": [
 		"coingecko"

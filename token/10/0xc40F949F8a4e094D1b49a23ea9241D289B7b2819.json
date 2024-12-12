@@ -2,12 +2,14 @@
 	"chain": 10,
 	"address": "0xc40F949F8a4e094D1b49a23ea9241D289B7b2819",
 	"symbol": "LUSD",
-	"name": "LUSD Stablecoin",
+	"name": "Liquity USD",
 	"decimals": 18,
-	"logo": "https://ethereum-optimism.github.io/data/LUSD/logo.svg",
+	"logo": "https://assets.coingecko.com/coins/images/14666/thumb/Group_3.png?1617631327",
 	"coingecko": "liquity-usd",
 	"sources": [
 		"coingecko",
-		"sushiswap"
+		"optimism",
+		"sushiswap",
+		"uniswap"
 	]
 }

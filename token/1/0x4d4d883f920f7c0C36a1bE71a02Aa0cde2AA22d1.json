@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x4d4d883f920f7c0C36a1bE71a02Aa0cde2AA22d1",
-	"symbol": "Opticash",
+	"symbol": "OPCH",
 	"name": "Opticash",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/29362/thumb/opticash_logo_256*256.jpg?1696528310",
 	"coingecko": "opticash",
 	"sources": [
 		"coingecko"

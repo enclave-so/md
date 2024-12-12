@@ -1,10 +1,13 @@
 {
 	"chain": 8453,
 	"address": "0x728f0a7FEC1859Cb0d71A432271D4E80310d235f",
-	"symbol": "Pog Coin",
-	"name": "Pog Coin",
+	"symbol": "POGS",
+	"name": "PogCoin",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/POGS/logo.svg",
 	"coingecko": "pog-digital",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

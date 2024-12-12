@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xDC69C06E796DdBe2Ca5E3D99F6Fd8c40dFD9584A",
-	"symbol": "Duckey",
+	"symbol": "DUCKEY",
 	"name": "Duckey",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/51832/thumb/IMG_0297.jpeg?1732044265",
 	"coingecko": "duckey",
 	"sources": [
 		"coingecko"

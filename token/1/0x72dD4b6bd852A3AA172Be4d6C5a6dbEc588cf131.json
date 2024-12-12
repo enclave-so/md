@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x72dD4b6bd852A3AA172Be4d6C5a6dbEc588cf131",
-	"symbol": "NAGA",
+	"symbol": "NGC",
 	"name": "NAGA",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/1439/thumb/naga.jpg?1696502489",
 	"coingecko": "naga",
 	"sources": [
 		"coingecko"

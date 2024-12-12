@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xAcd2c239012D17BEB128B0944D49015104113650",
-	"symbol": "Karrat",
+	"symbol": "KARRAT",
 	"name": "Karrat",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/37237/thumb/SmallLogo.png?1714755426",
 	"coingecko": "karrat",
 	"sources": [
 		"coingecko"

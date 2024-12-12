@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xCaeda9650cCD356aF7776057a105F9e6FfE68213",
-	"symbol": "Loong",
+	"symbol": "LOONG",
 	"name": "Loong",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/32176/thumb/200x200.png?1696742804",
 	"coingecko": "loong",
 	"sources": [
 		"coingecko"

@@ -3,6 +3,8 @@
 	"address": "0xb1f871Ae9462F1b2C6826E88A7827e76f86751d4",
 	"symbol": "GNY",
 	"name": "GNY",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/5300/thumb/GNY_LOGO_NEW_TRANS.png?1696505799",
 	"coingecko": "gny",
 	"sources": [
 		"coingecko"

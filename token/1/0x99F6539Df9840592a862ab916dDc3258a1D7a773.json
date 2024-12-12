@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0x99F6539Df9840592a862ab916dDc3258a1D7a773",
+	"symbol": "prtHyETH",
+	"name": "High Yield ETH Index PRT",
+	"decimals": 18,
+	"logo": "https://cdn.indexcoop.com/hyeth-prt.svg",
+	"sources": [
+		"indexcoop"
+	]
+}

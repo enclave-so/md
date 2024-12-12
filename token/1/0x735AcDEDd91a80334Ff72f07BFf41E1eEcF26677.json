@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x735AcDEDd91a80334Ff72f07BFf41E1eEcF26677",
-	"symbol": "Nexus Pro EUUS",
+	"symbol": "EUUS",
 	"name": "Nexus Pro EUUS",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/39080/thumb/euus.png?1720270492",
 	"coingecko": "nexus-pro-euus",
 	"sources": [
 		"coingecko"

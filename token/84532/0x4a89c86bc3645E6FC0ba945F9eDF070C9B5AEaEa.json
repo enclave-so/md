@@ -1,0 +1,11 @@
+{
+	"chain": 84532,
+	"address": "0x4a89c86bc3645E6FC0ba945F9eDF070C9B5AEaEa",
+	"symbol": "GRT",
+	"name": "Graph Token",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/GRT/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

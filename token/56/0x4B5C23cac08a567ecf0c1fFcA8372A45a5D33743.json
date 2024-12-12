@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0x4B5C23cac08a567ecf0c1fFcA8372A45a5D33743",
-	"symbol": "Harvest Finance",
+	"symbol": "FARM",
 	"name": "Harvest Finance",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/12304/thumb/Harvest.png?1613016180",
 	"coingecko": "harvest-finance",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"uniswap"
 	]
 }

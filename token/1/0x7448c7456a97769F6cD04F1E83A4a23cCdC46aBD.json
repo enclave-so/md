@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x7448c7456a97769F6cD04F1E83A4a23cCdC46aBD",
-	"symbol": "Maverick Protocol",
+	"symbol": "MAV",
 	"name": "Maverick Protocol",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30850/thumb/MAV_Logo.png?1696529701",
 	"coingecko": "maverick-protocol",
 	"sources": [
 		"coingecko"

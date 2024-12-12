@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xc97d6C52F3ADD91Fa1c5287a453d7444aECBca83",
-	"symbol": "Degen Zoo",
+	"symbol": "DZOO",
 	"name": "Degen Zoo",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/29224/thumb/FAGWW5fe_400x400.jpeg?1696528182",
 	"coingecko": "degen-zoo",
 	"sources": [
 		"coingecko"

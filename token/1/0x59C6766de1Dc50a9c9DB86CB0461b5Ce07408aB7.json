@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x59C6766de1Dc50a9c9DB86CB0461b5Ce07408aB7",
-	"symbol": "Spurdo",
+	"symbol": "SPURDO",
 	"name": "Spurdo",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/31342/thumb/photo_2023-08-16_19-23-12_%281%29.png?1696530160",
 	"coingecko": "spurdo",
 	"sources": [
 		"coingecko"

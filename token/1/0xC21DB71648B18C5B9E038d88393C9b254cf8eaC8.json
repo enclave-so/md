@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xC21DB71648B18C5B9E038d88393C9b254cf8eaC8",
-	"symbol": "EURe Real Yield Morpho Vault",
+	"symbol": "ERY",
 	"name": "EURe Real Yield Morpho Vault",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/51340/thumb/eur.png?1730815020",
 	"coingecko": "eure-real-yield-morpho-vault",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xdE0a515D133397d62EB3FcDfCc68Ba4904Ac49c0",
-	"symbol": "Shinji",
+	"symbol": "SHNJ",
 	"name": "Shinji",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/51619/thumb/photo_2024-11-11_20-06-00.jpg?1731649427",
 	"coingecko": "shinji",
 	"sources": [
 		"coingecko"

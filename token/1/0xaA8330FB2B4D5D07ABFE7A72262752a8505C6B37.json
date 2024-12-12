@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xaA8330FB2B4D5D07ABFE7A72262752a8505C6B37",
-	"symbol": "Polkacity",
+	"symbol": "POLC",
 	"name": "Polkacity",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14066/thumb/vykih1Nq_400x400.png?1696513790",
 	"coingecko": "polka-city",
 	"sources": [
 		"coingecko"

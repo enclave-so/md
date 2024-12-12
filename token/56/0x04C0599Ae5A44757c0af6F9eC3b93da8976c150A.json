@@ -1,0 +1,11 @@
+{
+	"chain": 56,
+	"address": "0x04C0599Ae5A44757c0af6F9eC3b93da8976c150A",
+	"symbol": "weETH",
+	"name": "Wrapped eETH",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x04C0599Ae5A44757c0af6F9eC3b93da8976c150A.png",
+	"sources": [
+		"pancakeswap"
+	]
+}

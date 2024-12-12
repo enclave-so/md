@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x7B4328c127B85369D9f82ca0503B000D09CF9180",
-	"symbol": "Dogechain",
+	"symbol": "DC",
 	"name": "Dogechain",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/26828/thumb/dogechain.jpeg?1696525887",
 	"coingecko": "dogechain",
 	"sources": [
 		"coingecko"

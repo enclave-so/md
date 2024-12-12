@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xd749B369d361396286f8CC28a99Dd3425AC05619",
-	"symbol": "Brettei",
+	"symbol": "BRETTEI",
 	"name": "Brettei",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/38596/thumb/IMAGE_2024-06-08_22_47_06.jpg?1718094678",
 	"coingecko": "brettei",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xB5b1b659dA79A2507C27AaD509f15B4874EDc0Cc",
-	"symbol": "Dust Protocol",
+	"symbol": "DUST",
 	"name": "Dust Protocol",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/24289/thumb/6388d49d-1f00-448d-92bc-f2db1441bbce.?1696523472",
 	"coingecko": "dust-protocol",
 	"sources": [
 		"coingecko"

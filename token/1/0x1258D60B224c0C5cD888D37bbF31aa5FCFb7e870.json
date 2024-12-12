@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x1258D60B224c0C5cD888D37bbF31aa5FCFb7e870",
-	"symbol": "NodeAI",
+	"symbol": "GPU",
 	"name": "NodeAI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35432/thumb/NodeAI.png?1722373937",
 	"coingecko": "nodeai",
 	"sources": [
 		"coingecko"

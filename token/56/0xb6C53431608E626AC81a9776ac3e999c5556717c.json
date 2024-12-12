@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0xb6C53431608E626AC81a9776ac3e999c5556717c",
-	"symbol": "Wrapped Telos",
-	"name": "Wrapped Telos",
+	"symbol": "TLOS",
+	"name": "Telos",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0xb6C53431608E626AC81a9776ac3e999c5556717c.png",
 	"coingecko": "wrapped-telos",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

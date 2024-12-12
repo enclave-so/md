@@ -2,12 +2,13 @@
 	"chain": 42220,
 	"address": "0x471EcE3750Da237f93B8E339c536989b8978a438",
 	"symbol": "CELO",
-	"name": "Celo Native Asset",
+	"name": "Celo",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/celo.jpg",
+	"logo": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_CELO.png",
 	"coingecko": "celo",
 	"sources": [
 		"coingecko",
-		"sushiswap"
+		"sushiswap",
+		"uniswap"
 	]
 }

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x58FaD9E3C3AE54c9BA98c3f0E4bF88aB3E8Cf3c5",
-	"symbol": "SpaceY 2025",
+	"symbol": "SPAY",
 	"name": "SpaceY 2025",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/20499/thumb/spacey2025.PNG?1696519906",
 	"coingecko": "spacey-2025",
 	"sources": [
 		"coingecko"

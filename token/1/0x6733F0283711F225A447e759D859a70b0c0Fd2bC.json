@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x6733F0283711F225A447e759D859a70b0c0Fd2bC",
-	"symbol": "Vector Reserve Staked vETH",
+	"symbol": "SVETH",
 	"name": "Vector Reserve Staked vETH",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35289/thumb/svETH200.png?1709593889",
 	"coingecko": "staked-veth",
 	"sources": [
 		"coingecko"

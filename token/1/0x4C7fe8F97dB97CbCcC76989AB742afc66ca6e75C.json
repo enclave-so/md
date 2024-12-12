@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x4C7fe8F97dB97CbCcC76989AB742afc66ca6e75C",
-	"symbol": "RYO Coin",
+	"symbol": "RYO",
 	"name": "RYO Coin",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/39352/thumb/Asset_3.png_ryo_logo.png?1721887842",
 	"coingecko": "ryo-coin",
 	"sources": [
 		"coingecko"

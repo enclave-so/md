@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x6afCFF9189e8ed3fCc1CFfa184FEB1276f6A82A5",
-	"symbol": "PolkaPet World",
+	"symbol": "PETS",
 	"name": "PolkaPet World",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/19409/thumb/pets_polka.PNG?1696518848",
 	"coingecko": "polkapet-world",
 	"sources": [
 		"coingecko"

@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0x25d887Ce7a35172C62FeBFD67a1856F20FaEbB00",
-	"symbol": "Pepe",
+	"symbol": "PEPE",
 	"name": "Pepe",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x25d887Ce7a35172C62FeBFD67a1856F20FaEbB00.png",
 	"coingecko": "pepe",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

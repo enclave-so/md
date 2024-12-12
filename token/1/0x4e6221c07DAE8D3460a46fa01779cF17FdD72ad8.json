@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x4e6221c07DAE8D3460a46fa01779cF17FdD72ad8",
-	"symbol": "Pochita on Ethereum",
+	"symbol": "POCHITA",
 	"name": "Pochita on Ethereum",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/50640/thumb/Pochita_on_Ethereum.png?1728548420",
 	"coingecko": "pochita-on-ethereum",
 	"sources": [
 		"coingecko"

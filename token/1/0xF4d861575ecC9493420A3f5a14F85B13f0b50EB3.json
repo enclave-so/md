@@ -2,9 +2,9 @@
 	"chain": 1,
 	"address": "0xF4d861575ecC9493420A3f5a14F85B13f0b50EB3",
 	"symbol": "FCL",
-	"name": "Fractal Protocol Token",
+	"name": "Fractal",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xF4d861575ecC9493420A3f5a14F85B13f0b50EB3.jpg",
+	"logo": "https://assets.coingecko.com/coins/images/14096/thumb/FractalID_SM_Profile_Image.jpg?1701799215",
 	"coingecko": "fractal",
 	"sources": [
 		"coingecko",

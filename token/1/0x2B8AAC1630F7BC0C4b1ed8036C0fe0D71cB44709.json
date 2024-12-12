@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x2B8AAC1630F7BC0C4b1ed8036C0fe0D71cB44709",
-	"symbol": "Wojak Mask",
+	"symbol": "MASK",
 	"name": "Wojak Mask",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/38514/thumb/masklogo.png?1717754902",
 	"coingecko": "wojak-mask",
 	"sources": [
 		"coingecko"

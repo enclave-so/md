@@ -3,8 +3,11 @@
 	"address": "0x4946Fcea7C692606e8908002e55A582af44AC121",
 	"symbol": "FOAM",
 	"name": "FOAM",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/3345/thumb/K51lJQc.png?1696504049",
 	"coingecko": "foam-protocol",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xEC56840be7C495CBf98c0157B458cD207Ff85Da1",
-	"symbol": "Wrapped RUNI",
+	"symbol": "WRUNI",
 	"name": "Wrapped RUNI",
+	"decimals": 6,
+	"logo": "https://assets.coingecko.com/coins/images/39066/thumb/wruni.jpeg?1720171780",
 	"coingecko": "wrapped-runi",
 	"sources": [
 		"coingecko"

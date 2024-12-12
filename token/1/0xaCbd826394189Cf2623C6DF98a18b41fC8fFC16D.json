@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xaCbd826394189Cf2623C6DF98a18b41fC8fFC16D",
-	"symbol": "NFTify",
+	"symbol": "N1",
 	"name": "NFTify",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/16095/thumb/n1-token-logo-circle-200x200.png?1696515703",
 	"coingecko": "nftify",
 	"sources": [
 		"coingecko"

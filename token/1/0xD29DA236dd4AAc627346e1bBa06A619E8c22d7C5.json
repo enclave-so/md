@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xD29DA236dd4AAc627346e1bBa06A619E8c22d7C5",
-	"symbol": "MAGA Hat",
+	"symbol": "MAGA",
 	"name": "MAGA Hat",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/37988/thumb/MAGA200.jpg?1716223291",
 	"coingecko": "maga-hat",
 	"sources": [
 		"coingecko"

@@ -4,8 +4,10 @@
 	"symbol": "UMA",
 	"name": "UMA Voting Token v1",
 	"decimals": 18,
-	"logo": "https://ethereum-optimism.github.io/data/UMA/logo.png",
+	"logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x04Fa0d235C4abf4BcF4787aF4CF447DE572eF828/logo.png",
 	"sources": [
-		"sushiswap"
+		"optimism",
+		"sushiswap",
+		"uniswap"
 	]
 }

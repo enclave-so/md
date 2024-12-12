@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xF12Ccd17759367CF139776710B47b00C43D1AC2b",
-	"symbol": "emoji ERC20",
+	"symbol": "EMOJI",
 	"name": "emoji ERC20",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/34635/thumb/8CC1B5C8-A5E2-45E0-BDEE-404DE38B7C8C.jpeg?1705852614",
 	"coingecko": "emoji-erc20",
 	"sources": [
 		"coingecko"

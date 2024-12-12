@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0x6F59e0461Ae5E2799F1fB3847f05a63B16d0DbF8",
+	"symbol": "ORCA",
+	"name": "ORCA Alliance",
+	"decimals": 18,
+	"logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/5183.png",
+	"sources": [
+		"uniswap"
+	]
+}

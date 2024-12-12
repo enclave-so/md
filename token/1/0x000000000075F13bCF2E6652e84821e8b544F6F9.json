@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x000000000075F13bCF2E6652e84821e8b544F6F9",
-	"symbol": "Signet",
+	"symbol": "SIG",
 	"name": "Signet",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/33552/thumb/st.png?1702428755",
 	"coingecko": "signet",
 	"sources": [
 		"coingecko"

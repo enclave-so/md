@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xD1c8fa30fded3E0031dC24C1646D74108b096cc2",
-	"symbol": "Luckyinu",
+	"symbol": "LUCKY",
 	"name": "Luckyinu",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/34998/thumb/Luckyinu_%281%29.png?1706955605",
 	"coingecko": "luckyinu",
 	"sources": [
 		"coingecko"

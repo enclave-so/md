@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x607f451f850CB612a07b37b6315be23F55165610",
-	"symbol": "Avarik Saga",
+	"symbol": "AVRK",
 	"name": "Avarik Saga",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/51914/thumb/Logo500x500.png?1732258561",
 	"coingecko": "avarik-saga",
 	"sources": [
 		"coingecko"

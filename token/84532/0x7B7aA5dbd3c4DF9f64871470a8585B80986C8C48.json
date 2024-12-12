@@ -1,0 +1,11 @@
+{
+	"chain": 84532,
+	"address": "0x7B7aA5dbd3c4DF9f64871470a8585B80986C8C48",
+	"symbol": "OMI",
+	"name": "OMI Token",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/OMI/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

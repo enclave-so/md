@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x7d0C49057c09501595A8ce23b773BB36A40b521F",
-	"symbol": "PREME Token",
+	"symbol": "PREME",
 	"name": "PREME Token",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/36091/thumb/PREME_Token.png?1710477118",
 	"coingecko": "preme-token",
 	"sources": [
 		"coingecko"

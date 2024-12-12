@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0x67F4C72a50f8Df6487720261E188F2abE83F57D7",
-	"symbol": "Wrapped POKT",
+	"symbol": "WPOKT",
 	"name": "Wrapped POKT",
+	"decimals": 6,
+	"logo": "https://assets.coingecko.com/coins/images/31696/thumb/POKT.jpg?1703257336",
 	"coingecko": "wrapped-pokt",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

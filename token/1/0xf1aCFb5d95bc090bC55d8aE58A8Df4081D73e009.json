@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xf1aCFb5d95bc090bC55d8aE58A8Df4081D73e009",
-	"symbol": "Codyfight",
+	"symbol": "CTOK",
 	"name": "Codyfight",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/23592/thumb/ctok.jpg?1715904249",
 	"coingecko": "codyfight",
 	"sources": [
 		"coingecko"

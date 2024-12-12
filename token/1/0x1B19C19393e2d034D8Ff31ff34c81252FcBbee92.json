@@ -3,6 +3,8 @@
 	"address": "0x1B19C19393e2d034D8Ff31ff34c81252FcBbee92",
 	"symbol": "OUSG",
 	"name": "OUSG",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/29023/thumb/OUSG.png?1696527993",
 	"coingecko": "ousg",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x1580bfe88F772116FD59b042189746aF8F78F00D",
-	"symbol": "Degen.Food",
-	"name": "Degen.Food",
+	"symbol": "DEGEN",
+	"name": "Degen Food",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/50514/thumb/G6j4hgWd_400x400.jpg?1728032518",
 	"coingecko": "degen-food",
 	"sources": [
 		"coingecko"

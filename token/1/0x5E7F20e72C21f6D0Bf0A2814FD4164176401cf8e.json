@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x5E7F20e72C21f6D0Bf0A2814FD4164176401cf8e",
-	"symbol": "Demeter",
+	"symbol": "DEO",
 	"name": "Demeter",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/25582/thumb/7zyskNC.png?1696524714",
 	"coingecko": "demeter",
 	"sources": [
 		"coingecko"

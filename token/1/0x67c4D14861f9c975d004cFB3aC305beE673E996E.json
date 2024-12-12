@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x67c4D14861f9c975d004cFB3aC305beE673E996E",
-	"symbol": "Land Wu",
+	"symbol": "LANDWU",
 	"name": "Land Wu",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/38677/thumb/LandWu-Gold-PFP-CG.png?1718309238",
 	"coingecko": "land-wu",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xc834Fa996fA3BeC7aAD3693af486ae53D8aA8B50",
-	"symbol": "Convergence",
+	"symbol": "CONV",
 	"name": "Convergence",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14519/thumb/Convergence_Logo_%28Final%29.png?1696514204",
 	"coingecko": "convergence",
 	"sources": [
 		"coingecko"

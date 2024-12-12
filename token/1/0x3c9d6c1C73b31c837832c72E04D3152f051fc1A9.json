@@ -2,9 +2,9 @@
 	"chain": 1,
 	"address": "0x3c9d6c1C73b31c837832c72E04D3152f051fc1A9",
 	"symbol": "BOR",
-	"name": "BoringDao",
+	"name": "BoringDAO  OLD ",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/bor.jpg",
+	"logo": "https://assets.coingecko.com/coins/images/12917/thumb/bor_logo.png?1696512705",
 	"coingecko": "boringdao-[old]",
 	"sources": [
 		"coingecko",

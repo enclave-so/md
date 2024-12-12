@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xcc54ac31164b5b3c39DB4Eef26D89275c468EC9d",
-	"symbol": "Fuel",
+	"symbol": "FUELX",
 	"name": "Fuel",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/27191/thumb/Fuel-Icon-200x200.png?1724270877",
 	"coingecko": "devour-2",
 	"sources": [
 		"coingecko"

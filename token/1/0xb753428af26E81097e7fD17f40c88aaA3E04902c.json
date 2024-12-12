@@ -2,9 +2,9 @@
 	"chain": 1,
 	"address": "0xb753428af26E81097e7fD17f40c88aaA3E04902c",
 	"symbol": "SFI",
-	"name": "saffron.finance",
+	"name": "saffron finance",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/sfi.jpg",
+	"logo": "https://assets.coingecko.com/coins/images/13117/thumb/sfi_red_250px.png?1696512904",
 	"coingecko": "saffron-finance",
 	"sources": [
 		"coingecko",

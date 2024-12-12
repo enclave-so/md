@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x16587cF43F044aBa0165ffA00AcF412631194e4b",
-	"symbol": "Simracer Coin",
+	"symbol": "SRC",
 	"name": "Simracer Coin",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/13027/thumb/SimRacer-500px.png?1696512815",
 	"coingecko": "simracer-coin",
 	"sources": [
 		"coingecko"

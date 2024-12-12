@@ -3,6 +3,8 @@
 	"address": "0x5485a469fAEa1492191Cfce7528AB6E58135aA4d",
 	"symbol": "OSMI",
 	"name": "OSMI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/51526/thumb/OSMI_Social_Icon_-_Twitter__Instagram_etc_-_Black.png?1732311681",
 	"coingecko": "osmi",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x9A7703338730b82A803ba050dF55f9B3959f3fB2",
-	"symbol": "Arise Chikun",
+	"symbol": "CHIKUN",
 	"name": "Arise Chikun",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/31043/thumb/WJyGMMxM_400x400.jpg?1696529878",
 	"coingecko": "arise-chikun",
 	"sources": [
 		"coingecko"

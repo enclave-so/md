@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xb5d730D442e1D5B119Fb4E5c843c48a64202ef92",
-	"symbol": "Sabai Protocol",
+	"symbol": "SABAI",
 	"name": "Sabai Protocol",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/29573/thumb/sabaiprotocol_coin.png?1715563454",
 	"coingecko": "sabai-ecovers",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x5c147e74D63B1D31AA3Fd78Eb229B65161983B2b",
-	"symbol": "Wrapped Flow",
+	"symbol": "WFLOW",
 	"name": "Wrapped Flow",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/24045/thumb/wrapped-flow.png?1696523236",
 	"coingecko": "wrapped-flow",
 	"sources": [
 		"coingecko"

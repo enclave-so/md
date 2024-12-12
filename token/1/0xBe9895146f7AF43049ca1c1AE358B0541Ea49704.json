@@ -4,10 +4,12 @@
 	"symbol": "cbETH",
 	"name": "Coinbase Wrapped Staked ETH",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xBe9895146f7AF43049ca1c1AE358B0541Ea49704.jpg",
+	"logo": "https://assets.coingecko.com/coins/images/27008/large/cbeth.png",
 	"coingecko": "coinbase-wrapped-staked-eth",
 	"sources": [
 		"coingecko",
-		"sushiswap"
+		"optimism",
+		"sushiswap",
+		"uniswap"
 	]
 }

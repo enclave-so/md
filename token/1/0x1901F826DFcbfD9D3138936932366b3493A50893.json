@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x1901F826DFcbfD9D3138936932366b3493A50893",
-	"symbol": "Sphynx Labs",
+	"symbol": "SPHYNX",
 	"name": "Sphynx Labs",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30142/thumb/photo_2023-05-03_21.44.17.jpeg?1696529063",
 	"coingecko": "sphynx-labs-bae5b42e-5e37-4607-8691-b56d3a5f344c",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xFbcb5cBEDEebCC55dCd136D34Db1DaaF74cf67E8",
-	"symbol": "Animalia",
+	"symbol": "ANIM",
 	"name": "Animalia",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/22706/thumb/1_rHlkmYoebSJ_wn0iE_-d-g_2x.png?1696522016",
 	"coingecko": "animalia",
 	"sources": [
 		"coingecko"

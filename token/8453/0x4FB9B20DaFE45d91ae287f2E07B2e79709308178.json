@@ -1,0 +1,11 @@
+{
+	"chain": 8453,
+	"address": "0x4FB9B20DaFE45d91ae287f2E07B2e79709308178",
+	"symbol": "TEN",
+	"name": "Tokenomy",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/TEN/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

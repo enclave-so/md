@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xA49d7499271aE71cd8aB9Ac515e6694C755d400c",
-	"symbol": "Mute",
+	"symbol": "MUTE",
 	"name": "Mute",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14331/thumb/MUTE.png?1696514019",
 	"coingecko": "mute",
 	"sources": [
 		"coingecko"

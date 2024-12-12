@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x2217e5921B7edfB4BB193a6228459974010D2198",
-	"symbol": "Qmall",
+	"symbol": "QMALL",
 	"name": "Qmall",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/23630/thumb/tjVN6bQ5_400x400.jpg?1696522834",
 	"coingecko": "qmall",
 	"sources": [
 		"coingecko"

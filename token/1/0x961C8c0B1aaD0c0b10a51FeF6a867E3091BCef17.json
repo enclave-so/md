@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0x961C8c0B1aaD0c0b10a51FeF6a867E3091BCef17",
-	"symbol": "Dypius [OLD]",
-	"name": "Dypius [OLD]",
+	"symbol": "DYP",
+	"name": "DeFi Yield Protocol",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/13480/thumb/DYP_Logo_Symbol-8.png?1655809066",
 	"coingecko": "defi-yield-protocol",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"uniswap"
 	]
 }

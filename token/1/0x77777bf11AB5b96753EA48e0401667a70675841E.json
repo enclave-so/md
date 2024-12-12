@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x77777bf11AB5b96753EA48e0401667a70675841E",
-	"symbol": "Pyramid Financial",
+	"symbol": "PYRA",
 	"name": "Pyramid Financial",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/51483/thumb/IMG_4752.png?1731507111",
 	"coingecko": "pyramid-financial",
 	"sources": [
 		"coingecko"

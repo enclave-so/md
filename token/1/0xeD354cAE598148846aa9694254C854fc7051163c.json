@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xeD354cAE598148846aa9694254C854fc7051163c",
-	"symbol": "Shido [OLD]",
-	"name": "Shido [OLD]",
+	"symbol": "SHIDO",
+	"name": "Shido  OLD ",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/26674/thumb/Shido.png?1696525746",
 	"coingecko": "shido",
 	"sources": [
 		"coingecko"

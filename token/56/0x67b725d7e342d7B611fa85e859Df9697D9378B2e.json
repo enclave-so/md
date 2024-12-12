@@ -1,0 +1,11 @@
+{
+	"chain": 56,
+	"address": "0x67b725d7e342d7B611fa85e859Df9697D9378B2e",
+	"symbol": "SAND",
+	"name": "The Sandbox",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x67b725d7e342d7B611fa85e859Df9697D9378B2e.png",
+	"sources": [
+		"pancakeswap"
+	]
+}

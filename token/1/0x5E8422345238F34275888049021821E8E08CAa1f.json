@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0x5E8422345238F34275888049021821E8E08CAa1f",
-	"symbol": "Frax Ether",
+	"symbol": "FRXETH",
 	"name": "Frax Ether",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/28284/thumb/frxETH_icon.png?1696527284",
 	"coingecko": "frax-ether",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

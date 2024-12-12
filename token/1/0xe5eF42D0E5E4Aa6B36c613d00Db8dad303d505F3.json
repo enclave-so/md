@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xe5eF42D0E5E4Aa6B36c613d00Db8dad303d505F3",
-	"symbol": "BTour Chain",
+	"symbol": "MSOT",
 	"name": "BTour Chain",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/13141/thumb/msot.png?1696512927",
 	"coingecko": "btour-chain",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xBB63a9b64a80E9338b8Ea298c51765E57C4F159c",
-	"symbol": "Picasso",
+	"symbol": "PICA",
 	"name": "Picasso",
+	"decimals": 12,
+	"logo": "https://assets.coingecko.com/coins/images/28286/thumb/PICA.png?1696527286",
 	"coingecko": "picasso",
 	"sources": [
 		"coingecko"

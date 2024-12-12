@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0x03AA6298F1370642642415EDC0db8b957783e8D6",
-	"symbol": "NetMind Token",
+	"symbol": "NMT",
 	"name": "NetMind Token",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x03AA6298F1370642642415EDC0db8b957783e8D6.png",
 	"coingecko": "netmind-token",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

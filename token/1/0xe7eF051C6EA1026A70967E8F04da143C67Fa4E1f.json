@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xe7eF051C6EA1026A70967E8F04da143C67Fa4E1f",
-	"symbol": "VetMe",
+	"symbol": "VETME",
 	"name": "VetMe",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/28787/thumb/VetMe.png?1709837744",
 	"coingecko": "vetme",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x081F67aFA0cCF8c7B17540767BBe95DF2bA8D97F",
-	"symbol": "CoinEx",
+	"symbol": "CET",
 	"name": "CoinEx",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/4817/thumb/coinex-token.png?1696505367",
 	"coingecko": "coinex-token",
 	"sources": [
 		"coingecko"

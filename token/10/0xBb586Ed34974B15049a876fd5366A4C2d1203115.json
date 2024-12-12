@@ -1,0 +1,11 @@
+{
+	"chain": 10,
+	"address": "0xBb586Ed34974B15049a876fd5366A4C2d1203115",
+	"symbol": "UBI",
+	"name": "Universal Basic Income",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/UBI/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

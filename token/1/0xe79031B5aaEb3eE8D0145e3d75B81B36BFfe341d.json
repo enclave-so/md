@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xe79031B5aaEb3eE8D0145e3d75B81B36BFfe341d",
-	"symbol": "Boppy The Bat",
+	"symbol": "BOPPY",
 	"name": "Boppy The Bat",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/39078/thumb/1000008320.jpg?1720252070",
 	"coingecko": "boppy-the-bat",
 	"sources": [
 		"coingecko"

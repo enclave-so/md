@@ -3,6 +3,8 @@
 	"address": "0xd2b274CfBf9534f56b59aD0FB7e645e0354f4941",
 	"symbol": "XDOGE",
 	"name": "XDOGE",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/31107/thumb/photo_2023-07-25_13.59.23.jpeg?1696529938",
 	"coingecko": "xdoge-2",
 	"sources": [
 		"coingecko"

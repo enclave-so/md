@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0x8dCE83ECa4af45dbe618Da1779F9Aaca43201084",
-	"symbol": "AlphaKEK.AI",
-	"name": "AlphaKEK.AI",
+	"symbol": "AIKEK",
+	"name": "AlphaKEK AI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35445/thumb/alphakek_-_Copy.png?1708620097",
 	"coingecko": "alphakek-ai",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

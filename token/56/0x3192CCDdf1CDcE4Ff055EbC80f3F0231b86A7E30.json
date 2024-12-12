@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0x3192CCDdf1CDcE4Ff055EbC80f3F0231b86A7E30",
-	"symbol": "InsurAce",
-	"name": "InsurAce",
+	"symbol": "INSUR",
+	"name": "Bsc-Peg INSUR Token",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x3192CCDdf1CDcE4Ff055EbC80f3F0231b86A7E30.png",
 	"coingecko": "insurace",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

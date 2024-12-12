@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x187df9748016Da82578C83A61c3b3093ac6b8669",
-	"symbol": "krazy n.d.",
-	"name": "krazy n.d.",
+	"symbol": "KRAZY",
+	"name": "krazy n d ",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/39001/thumb/krazy_n.d..jpg?1721333312",
 	"coingecko": "krazy-n-d",
 	"sources": [
 		"coingecko"

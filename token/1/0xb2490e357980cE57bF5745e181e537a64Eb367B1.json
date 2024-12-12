@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xb2490e357980cE57bF5745e181e537a64Eb367B1",
-	"symbol": "r/CryptoCurrency Moons",
-	"name": "r/CryptoCurrency Moons",
+	"symbol": "MOON",
+	"name": "r CryptoCurrency Moons",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/11222/thumb/Moons.png?1696511153",
 	"coingecko": "moon",
 	"sources": [
 		"coingecko"

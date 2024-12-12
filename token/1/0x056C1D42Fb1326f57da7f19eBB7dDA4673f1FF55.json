@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x056C1D42Fb1326f57da7f19eBB7dDA4673f1FF55",
-	"symbol": "Gains",
+	"symbol": "GAINS",
 	"name": "Gains",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14681/thumb/200x200.png?1696514354",
 	"coingecko": "gains",
 	"sources": [
 		"coingecko"

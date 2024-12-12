@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xA6089DBfED19D1bCd43146BbDCa2b8f9d9f84A9A",
-	"symbol": "UGOLD Inc.",
-	"name": "UGOLD Inc.",
+	"symbol": "UGOLD",
+	"name": "UGOLD Inc ",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35921/thumb/IMG_20240307_195222_084.jpg?1710221205",
 	"coingecko": "ugold-inc",
 	"sources": [
 		"coingecko"

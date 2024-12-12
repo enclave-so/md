@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0x8f8221aFbB33998d8584A2B05749bA73c37a938a",
-	"symbol": "Request",
+	"symbol": "REQ",
 	"name": "Request",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/1031/thumb/Request_icon_green.png?1643250951",
 	"coingecko": "request-network",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"uniswap"
 	]
 }

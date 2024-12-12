@@ -1,0 +1,11 @@
+{
+	"chain": 56,
+	"address": "0x26A5dFab467d4f58fB266648CAe769503CEC9580",
+	"symbol": "xMARK",
+	"name": "xMARK",
+	"decimals": 9,
+	"logo": "https://tokens.pancakeswap.finance/images/0x26A5dFab467d4f58fB266648CAe769503CEC9580.png",
+	"sources": [
+		"pancakeswap"
+	]
+}

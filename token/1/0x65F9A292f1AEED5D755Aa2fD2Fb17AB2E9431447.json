@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x65F9A292f1AEED5D755Aa2fD2Fb17AB2E9431447",
-	"symbol": "SoMee.Social",
-	"name": "SoMee.Social",
+	"symbol": "SOMEE",
+	"name": "SoMee Social",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/16406/thumb/SoMeeBallLogo200x200.png?1696516003",
 	"coingecko": "somee-social",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x6e8908cfa881C9f6f2C64d3436E7b80b1bf0093F",
-	"symbol": "Bistroo",
+	"symbol": "BIST",
 	"name": "Bistroo",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/15645/thumb/bistroo.png?1696515277",
 	"coingecko": "bistroo",
 	"sources": [
 		"coingecko"

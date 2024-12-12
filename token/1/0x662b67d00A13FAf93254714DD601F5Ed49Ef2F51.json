@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x662b67d00A13FAf93254714DD601F5Ed49Ef2F51",
-	"symbol": "Orbit Chain",
+	"symbol": "ORC",
 	"name": "Orbit Chain",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/9782/thumb/-p1Br7oh_400x400.png?1696509841",
 	"coingecko": "orbit-chain",
 	"sources": [
 		"coingecko"

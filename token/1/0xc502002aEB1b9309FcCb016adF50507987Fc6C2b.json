@@ -3,6 +3,8 @@
 	"address": "0xc502002aEB1b9309FcCb016adF50507987Fc6C2b",
 	"symbol": "GNFT",
 	"name": "GNFT",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/23532/thumb/gnft_200x200.png?1696522740",
 	"coingecko": "gnft",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xFD6C31bb6F05Fc8dB64F4b740Ab758605c271FD8",
-	"symbol": "Contracoin",
+	"symbol": "CTCN",
 	"name": "Contracoin",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/10801/thumb/Contracoin-symbol.png?1696510760",
 	"coingecko": "contracoin",
 	"sources": [
 		"coingecko"

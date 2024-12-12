@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xCcC80Ce58995BAAE4E5867E5cde3bd9F8B242376",
-	"symbol": "God Of Ethereum",
+	"symbol": "GOE",
 	"name": "God Of Ethereum",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/37567/thumb/1000018327.png?1714881612",
 	"coingecko": "god-of-ethereum",
 	"sources": [
 		"coingecko"

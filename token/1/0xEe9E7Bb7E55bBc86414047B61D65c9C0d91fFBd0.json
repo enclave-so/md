@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xEe9E7Bb7E55bBc86414047B61D65c9C0d91fFBd0",
-	"symbol": "Fracton Protocol",
+	"symbol": "FT",
 	"name": "Fracton Protocol",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/26809/thumb/CtH9UlRl_400x400.jpeg?1696525869",
 	"coingecko": "fracton-protocol",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xa3F4341C3fEf5963AB04135D2014AC7d68222E19",
-	"symbol": "LogX Network",
+	"symbol": "LOGX",
 	"name": "LogX Network",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/50226/thumb/Token_200px.png?1726556358",
 	"coingecko": "logx-2",
 	"sources": [
 		"coingecko"

@@ -1,0 +1,11 @@
+{
+	"chain": 8453,
+	"address": "0xf501E4c51dBd89B95de24b9D53778Ff97934cd9c",
+	"symbol": "RICE",
+	"name": "DAOSquare Governance Token",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/RICE/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

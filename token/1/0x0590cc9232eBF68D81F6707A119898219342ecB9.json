@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x0590cc9232eBF68D81F6707A119898219342ecB9",
-	"symbol": "BananaCat",
+	"symbol": "BCAT",
 	"name": "BananaCat",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/32557/thumb/imresizer-1698351889115.jpg?1698503559",
 	"coingecko": "bananacat",
 	"sources": [
 		"coingecko"

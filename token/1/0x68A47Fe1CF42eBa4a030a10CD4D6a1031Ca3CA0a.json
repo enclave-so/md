@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x68A47Fe1CF42eBa4a030a10CD4D6a1031Ca3CA0a",
-	"symbol": "Tectum",
+	"symbol": "TET",
 	"name": "Tectum",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/29575/thumb/Icon_TET.png?1696528514",
 	"coingecko": "tectum",
 	"sources": [
 		"coingecko"

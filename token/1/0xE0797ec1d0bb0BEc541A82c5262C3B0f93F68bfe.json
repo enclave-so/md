@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xE0797ec1d0bb0BEc541A82c5262C3B0f93F68bfe",
-	"symbol": "Joker",
+	"symbol": "JOKER",
 	"name": "Joker",
+	"decimals": 15,
+	"logo": "https://assets.coingecko.com/coins/images/39154/thumb/photo_2024-07-10_10-21-01.jpg?1720774237",
 	"coingecko": "joker-2",
 	"sources": [
 		"coingecko"

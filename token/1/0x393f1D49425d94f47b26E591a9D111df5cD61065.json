@@ -3,6 +3,8 @@
 	"address": "0x393f1D49425d94f47b26E591a9D111df5cD61065",
 	"symbol": "GUA",
 	"name": "GUA",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/39748/thumb/1000009358.jpg?1723782519",
 	"coingecko": "gua",
 	"sources": [
 		"coingecko"

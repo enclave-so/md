@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x70EDF1c215D0ce69E7F16FD4E6276ba0d99d4de7",
-	"symbol": "CHEQD Network",
+	"symbol": "CHEQ",
 	"name": "CHEQD Network",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/20855/thumb/CHEQ.png?1706906858",
 	"coingecko": "cheqd-network",
 	"sources": [
 		"coingecko"

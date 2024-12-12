@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xC7C53760375530E5AF29Fded5E13989325299382",
-	"symbol": "WORLD PEACE COIN",
+	"symbol": "WPC",
 	"name": "WORLD PEACE COIN",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/32331/thumb/image01_%282%29_2.jpg?1697452381",
 	"coingecko": "world-peace-coin",
 	"sources": [
 		"coingecko"

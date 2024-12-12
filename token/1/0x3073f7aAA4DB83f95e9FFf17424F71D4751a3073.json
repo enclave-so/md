@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0x3073f7aAA4DB83f95e9FFf17424F71D4751a3073",
-	"symbol": "Movement",
+	"symbol": "MOVE",
 	"name": "Movement",
+	"decimals": 8,
+	"logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/32452.png",
 	"coingecko": "movement",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"uniswap"
 	]
 }

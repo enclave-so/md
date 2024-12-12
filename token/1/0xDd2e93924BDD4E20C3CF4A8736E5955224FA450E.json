@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xDd2e93924BDD4E20C3CF4A8736E5955224FA450E",
-	"symbol": "Foho Coin",
+	"symbol": "FOHO",
 	"name": "Foho Coin",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/17933/thumb/FOHO.Coin_colour-02-1.png?1696517454",
 	"coingecko": "foho-coin",
 	"sources": [
 		"coingecko"

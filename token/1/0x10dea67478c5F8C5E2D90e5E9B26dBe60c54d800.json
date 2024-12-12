@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x10dea67478c5F8C5E2D90e5E9B26dBe60c54d800",
-	"symbol": "Taiko",
+	"symbol": "TAIKO",
 	"name": "Taiko",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/38058/thumb/icon.png?1717626867",
 	"coingecko": "taiko",
 	"sources": [
 		"coingecko"

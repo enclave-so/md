@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x821A278dFff762c76410264303F25bF42e195C0C",
-	"symbol": "pETH",
+	"symbol": "PETH",
 	"name": "pETH",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/28376/thumb/peth.png?1696527377",
 	"coingecko": "peth",
 	"sources": [
 		"coingecko"

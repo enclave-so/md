@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x582dD5e7C8AF79d45a96dE4af5D1152a061aBb50",
-	"symbol": "Rizz",
+	"symbol": "RIZZ",
 	"name": "Rizz",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/50598/thumb/200x200px.png?1728446110",
 	"coingecko": "rizz-2",
 	"sources": [
 		"coingecko"

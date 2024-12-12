@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x32F0D04B48427A14Fb3Cbc73DB869e691A9feC6f",
-	"symbol": "E C Inu",
+	"symbol": "ECI",
 	"name": "E C Inu",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/38504/thumb/Euro_Cup_Inu.png?1717752933",
 	"coingecko": "e-c-inu",
 	"sources": [
 		"coingecko"

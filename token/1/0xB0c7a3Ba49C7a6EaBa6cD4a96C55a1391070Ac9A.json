@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xB0c7a3Ba49C7a6EaBa6cD4a96C55a1391070Ac9A",
-	"symbol": "Treasure",
+	"symbol": "MAGIC",
 	"name": "Treasure",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/18623/thumb/magic.png?1696518095",
 	"coingecko": "magic",
 	"sources": [
 		"coingecko"

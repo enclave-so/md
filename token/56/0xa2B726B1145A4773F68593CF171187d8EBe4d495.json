@@ -2,12 +2,14 @@
 	"chain": 56,
 	"address": "0xa2B726B1145A4773F68593CF171187d8EBe4d495",
 	"symbol": "INJ",
-	"name": "Injective Protocol",
+	"name": "Injective",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/inj.jpg",
+	"logo": "https://assets.coingecko.com/coins/images/12882/thumb/Secondary_Symbol.png?1628233237",
 	"coingecko": "injective-protocol",
 	"sources": [
 		"coingecko",
-		"sushiswap"
+		"pancakeswap",
+		"sushiswap",
+		"uniswap"
 	]
 }

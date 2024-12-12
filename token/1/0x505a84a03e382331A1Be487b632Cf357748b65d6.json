@@ -3,6 +3,8 @@
 	"address": "0x505a84a03e382331A1Be487b632Cf357748b65d6",
 	"symbol": "SHIBGF",
 	"name": "SHIBGF",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/19699/thumb/shibgf_logo.png?1696519126",
 	"coingecko": "shibgf",
 	"sources": [
 		"coingecko"

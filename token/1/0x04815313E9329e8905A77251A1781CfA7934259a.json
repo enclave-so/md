@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x04815313E9329e8905A77251A1781CfA7934259a",
-	"symbol": "wagmicatgirlkanye420etfmoon1000x",
+	"symbol": "HOOD",
 	"name": "wagmicatgirlkanye420etfmoon1000x",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/33843/thumb/Hood.png?1703121051",
 	"coingecko": "wagmicatgirlkanye420etfmoon1000x",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xfc05987bd2be489ACCF0f509E44B0145d68240f7",
-	"symbol": "Essentia",
+	"symbol": "ESS",
 	"name": "Essentia",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/2483/thumb/Essentia-token.jpg?1696503302",
 	"coingecko": "essentia",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x4CD0c43B0D53bc318cc5342b77EB6f124E47f526",
-	"symbol": "FreeRossDAO",
+	"symbol": "FREE",
 	"name": "FreeRossDAO",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/21648/thumb/free.jpg?1696521006",
 	"coingecko": "freerossdao",
 	"sources": [
 		"coingecko"

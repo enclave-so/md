@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x03042482d64577A7bdb282260e2eA4c8a89C064B",
-	"symbol": "Centaur",
+	"symbol": "CNTR",
 	"name": "Centaur",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/12743/thumb/logo_%2898%29.png?1696512542",
 	"coingecko": "centaur",
 	"sources": [
 		"coingecko"

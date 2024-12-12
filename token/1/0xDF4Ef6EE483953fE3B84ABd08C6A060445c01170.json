@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xDF4Ef6EE483953fE3B84ABd08C6A060445c01170",
-	"symbol": "Wrapped Accumulate",
+	"symbol": "WACME",
 	"name": "Wrapped Accumulate",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/27207/thumb/accumulate-logo-200x200.png?1696526255",
 	"coingecko": "wrapped-accumulate",
 	"sources": [
 		"coingecko"

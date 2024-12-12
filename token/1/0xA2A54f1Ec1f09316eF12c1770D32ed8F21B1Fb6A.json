@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xA2A54f1Ec1f09316eF12c1770D32ed8F21B1Fb6A",
-	"symbol": "DigiFinex",
+	"symbol": "DFT",
 	"name": "DigiFinex",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/4819/thumb/digifinextoken.png?1696505369",
 	"coingecko": "digifinextoken",
 	"sources": [
 		"coingecko"

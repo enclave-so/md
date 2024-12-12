@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x15F73a3AB443ee6EbF36c605C7868159cE5d028C",
-	"symbol": "SmartsetToken",
+	"symbol": "SST",
 	"name": "SmartsetToken",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/34385/thumb/IMG_6239.jpeg?1704779818",
 	"coingecko": "smartsettoken",
 	"sources": [
 		"coingecko"

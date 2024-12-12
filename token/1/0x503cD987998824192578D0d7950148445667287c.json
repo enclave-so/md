@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x503cD987998824192578D0d7950148445667287c",
-	"symbol": "FOGnet",
+	"symbol": "FOG",
 	"name": "FOGnet",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31743/thumb/%ED%8F%AC%EA%B7%B8%EB%84%B7_%EB%A1%9C%EA%B3%A0_%ED%88%AC%EB%AA%85_200x200.png?1718149393",
 	"coingecko": "fognet",
 	"sources": [
 		"coingecko"

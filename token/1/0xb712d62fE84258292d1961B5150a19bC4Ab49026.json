@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xb712d62fE84258292d1961B5150a19bC4Ab49026",
-	"symbol": "Chainge",
+	"symbol": "XCHNG",
 	"name": "Chainge",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/16526/thumb/chainge.jpeg?1708099639",
 	"coingecko": "chainge-finance",
 	"sources": [
 		"coingecko"

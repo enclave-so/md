@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0x7138Eb0d563f3F6722500936A11DcAe99D738A2c",
-	"symbol": "Lif3",
+	"symbol": "LIF3",
 	"name": "Lif3",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31291/thumb/Tokens.png?1696530112",
 	"coingecko": "lif3-2",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

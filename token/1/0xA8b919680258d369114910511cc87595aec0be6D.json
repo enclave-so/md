@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xA8b919680258d369114910511cc87595aec0be6D",
-	"symbol": "LUKSO [OLD]",
-	"name": "LUKSO [OLD]",
+	"symbol": "LYXE",
+	"name": "LUKSO  OLD ",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/11423/thumb/LYX.png?1696511335",
 	"coingecko": "lukso-token",
 	"sources": [
 		"coingecko"

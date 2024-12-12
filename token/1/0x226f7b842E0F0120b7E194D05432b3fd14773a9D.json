@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x226f7b842E0F0120b7E194D05432b3fd14773a9D",
-	"symbol": "UNION Protocol Governance",
+	"symbol": "UNN",
 	"name": "UNION Protocol Governance",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/13408/thumb/unn_finance.png?1696513169",
 	"coingecko": "union-protocol-governance-token",
 	"sources": [
 		"coingecko"

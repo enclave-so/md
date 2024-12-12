@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x910524678C0B1B23FFB9285a81f99C29C11CBaEd",
-	"symbol": "Azuki",
+	"symbol": "AZUKI",
 	"name": "Azuki",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/13091/thumb/bdUBSCo.png?1696512878",
 	"coingecko": "azuki",
 	"sources": [
 		"coingecko"

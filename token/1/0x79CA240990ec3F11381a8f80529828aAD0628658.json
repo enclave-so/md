@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x79CA240990ec3F11381a8f80529828aAD0628658",
-	"symbol": "DiVinciPay",
+	"symbol": "DVNCI",
 	"name": "DiVinciPay",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/33091/thumb/DVNCI_Token_Logo_Crop.png?1700603214",
 	"coingecko": "divincipay",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x1cc7047E15825F639E0752Eb1b89E4225F5327F2",
-	"symbol": "Pullix",
+	"symbol": "PLX",
 	"name": "Pullix",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/34319/thumb/IMG-20231231-WA0003.jpg?1704625607",
 	"coingecko": "pullix",
 	"sources": [
 		"coingecko"

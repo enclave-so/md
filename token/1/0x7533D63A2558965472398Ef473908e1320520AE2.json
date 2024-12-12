@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x7533D63A2558965472398Ef473908e1320520AE2",
-	"symbol": "INTEXCOIN",
+	"symbol": "INTX",
 	"name": "INTEXCOIN",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/11854/thumb/INTX.png?1696511724",
 	"coingecko": "intexcoin",
 	"sources": [
 		"coingecko"

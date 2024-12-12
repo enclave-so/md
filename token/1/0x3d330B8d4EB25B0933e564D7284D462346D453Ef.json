@@ -3,6 +3,8 @@
 	"address": "0x3d330B8d4EB25B0933e564D7284D462346D453Ef",
 	"symbol": "GROQ",
 	"name": "GROQ",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/33268/thumb/GROQ.png?1701357958",
 	"coingecko": "groq",
 	"sources": [
 		"coingecko"

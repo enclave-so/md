@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x478156DeAbfAc918369044D52A6BdB5Cc5597994",
-	"symbol": "Schrodinger",
+	"symbol": "SGR",
 	"name": "Schrodinger",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/36288/thumb/Project_Schrodinger_Logo_Square_200x200.png?1711009156",
 	"coingecko": "schrodinger-2",
 	"sources": [
 		"coingecko"

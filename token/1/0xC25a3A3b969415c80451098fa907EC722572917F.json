@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xC25a3A3b969415c80451098fa907EC722572917F",
-	"symbol": "LP-sCurve",
-	"name": "LP-sCurve",
+	"symbol": "SCURVE",
+	"name": "LP sCurve",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/11899/thumb/Curvefi_sCrv_32.png?1696511765",
 	"coingecko": "lp-scurve",
 	"sources": [
 		"coingecko"

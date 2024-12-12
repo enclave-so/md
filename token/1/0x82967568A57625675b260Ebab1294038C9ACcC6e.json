@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0x82967568A57625675b260Ebab1294038C9ACcC6e",
+	"symbol": "NOVA",
+	"name": "Nova DAO",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/NOVA/logo.png",
+	"sources": [
+		"optimism"
+	]
+}

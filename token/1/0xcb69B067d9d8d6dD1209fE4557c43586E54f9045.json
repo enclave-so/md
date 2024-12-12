@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xcb69B067d9d8d6dD1209fE4557c43586E54f9045",
-	"symbol": "Possum",
+	"symbol": "PSM",
 	"name": "Possum",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/33596/thumb/PSM.png?1702521046",
 	"coingecko": "possum",
 	"sources": [
 		"coingecko"

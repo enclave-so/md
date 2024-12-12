@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x66F73D0fD4161cfad4302DC145Ff994375c13475",
-	"symbol": "DexGame",
+	"symbol": "DXGM",
 	"name": "DexGame",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/21084/thumb/dxgm-token.png?1696520466",
 	"coingecko": "dex-game",
 	"sources": [
 		"coingecko"

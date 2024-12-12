@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x00C2999c8B2AdF4ABC835cc63209533973718eB1",
-	"symbol": "New World Order",
+	"symbol": "STATE",
 	"name": "New World Order",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/27387/thumb/icon.png?1696526428",
 	"coingecko": "new-world-order",
 	"sources": [
 		"coingecko"

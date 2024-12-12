@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xBBBbbBBB46A1dA0F0C3F64522c275BAA4C332636",
-	"symbol": "ZKBase",
+	"symbol": "ZKB",
 	"name": "ZKBase",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/13585/thumb/image_2024-01-16_172847810.png?1705397359",
 	"coingecko": "zkspace",
 	"sources": [
 		"coingecko"

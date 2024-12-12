@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x0C37Bcf456bC661C14D596683325623076D7e283",
-	"symbol": "Aeron",
+	"symbol": "ARNX",
 	"name": "Aeron",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/1124/thumb/ARNX-token-logo-256x256.png?1696502218",
 	"coingecko": "aeron",
 	"sources": [
 		"coingecko"

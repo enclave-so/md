@@ -1,0 +1,11 @@
+{
+	"chain": 84532,
+	"address": "0x7EbbA0361cCF8ECF66C4522A9323674Cd33e8b99",
+	"symbol": "IPOR",
+	"name": "IPOR Token",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/IPOR/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

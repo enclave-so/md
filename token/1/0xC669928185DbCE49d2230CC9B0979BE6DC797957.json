@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xC669928185DbCE49d2230CC9B0979BE6DC797957",
-	"symbol": "BitTorrent",
+	"symbol": "BTT",
 	"name": "BitTorrent",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/22457/thumb/btt_logo.png?1696521780",
 	"coingecko": "bittorrent",
 	"sources": [
 		"coingecko"

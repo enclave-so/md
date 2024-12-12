@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x57B49219614859176Ddb029298486B6c30193Cbd",
-	"symbol": "Oracle AI",
+	"symbol": "ORACLE",
 	"name": "Oracle AI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35463/thumb/Oracle_AI_200x200.png?1708677748",
 	"coingecko": "oracle-ai",
 	"sources": [
 		"coingecko"

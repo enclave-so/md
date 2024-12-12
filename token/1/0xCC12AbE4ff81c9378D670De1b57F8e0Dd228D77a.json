@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xCC12AbE4ff81c9378D670De1b57F8e0Dd228D77a",
-	"symbol": "Aave REN",
+	"symbol": "AREN",
 	"name": "Aave REN",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14249/thumb/aREN.382be386.png?1696513963",
 	"coingecko": "aave-ren",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xF921ae2DAC5fa128DC0F6168Bf153ea0943d2D43",
-	"symbol": "Fire Protocol",
+	"symbol": "FIRE",
 	"name": "Fire Protocol",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/13495/thumb/fire.jpg?1696513256",
 	"coingecko": "fire-protocol",
 	"sources": [
 		"coingecko"

@@ -1,0 +1,11 @@
+{
+	"chain": 56,
+	"address": "0x64274835D88F5c0215da8AADd9A5f2D2A2569381",
+	"symbol": "xPufETH",
+	"name": "pufETH",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x64274835D88F5c0215da8AADd9A5f2D2A2569381.png",
+	"sources": [
+		"pancakeswap"
+	]
+}

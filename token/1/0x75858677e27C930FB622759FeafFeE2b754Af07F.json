@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x75858677e27C930FB622759FeafFeE2b754Af07F",
-	"symbol": "Phantasma",
+	"symbol": "SOUL",
 	"name": "Phantasma",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/4130/thumb/phantasma.png?1696504758",
 	"coingecko": "phantasma",
 	"sources": [
 		"coingecko"

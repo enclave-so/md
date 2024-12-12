@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x3824255DF9EAbC9347ABcAa5872B1763fe9D47Bc",
-	"symbol": "NodeStation AI",
+	"symbol": "NDS",
 	"name": "NodeStation AI",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/37187/thumb/NodeStation_AI_200x200.png?1713666678",
 	"coingecko": "nodestation-ai",
 	"sources": [
 		"coingecko"

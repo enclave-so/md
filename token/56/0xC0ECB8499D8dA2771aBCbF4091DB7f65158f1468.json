@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0xC0ECB8499D8dA2771aBCbF4091DB7f65158f1468",
-	"symbol": "Carbon Protocol",
+	"symbol": "SWTH",
 	"name": "Carbon Protocol",
+	"decimals": 8,
+	"logo": "https://tokens.pancakeswap.finance/images/0xC0ECB8499D8dA2771aBCbF4091DB7f65158f1468.png",
 	"coingecko": "switcheo",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

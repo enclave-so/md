@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x693170bd3c37DCD46168d8b399AA7551A32de2aF",
-	"symbol": "TAO Subnet Sharding",
+	"symbol": "TAOSHARD",
 	"name": "TAO Subnet Sharding",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/36051/thumb/LOGO_COIN_2-removebg-preview.png?1710402750",
 	"coingecko": "tao-subnet-sharding",
 	"sources": [
 		"coingecko"

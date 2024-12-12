@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x5640E0560e6AfD6A9f4dDb41230D0201d181FEA7",
-	"symbol": "dark maga",
+	"symbol": "DMAGA",
 	"name": "dark maga",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/50583/thumb/IMG_0005.png?1728886235",
 	"coingecko": "dark-maga-2",
 	"sources": [
 		"coingecko"

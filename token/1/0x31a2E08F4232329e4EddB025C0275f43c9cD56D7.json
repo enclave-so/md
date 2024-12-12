@@ -3,6 +3,8 @@
 	"address": "0x31a2E08F4232329e4EddB025C0275f43c9cD56D7",
 	"symbol": "LUSD",
 	"name": "LUSD",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/33592/thumb/LUSD.jpg?1702471959",
 	"coingecko": "lusd-2",
 	"sources": [
 		"coingecko"

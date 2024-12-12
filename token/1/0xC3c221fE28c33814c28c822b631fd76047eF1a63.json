@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xC3c221fE28c33814c28c822b631fd76047eF1a63",
-	"symbol": "Millimeter",
+	"symbol": "MM",
 	"name": "Millimeter",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/12941/thumb/mm%EB%A1%9C%EA%B3%A0-2.png?1696512730",
 	"coingecko": "millimeter",
 	"sources": [
 		"coingecko"

@@ -3,6 +3,8 @@
 	"address": "0xf327c89Bf0769F0f2E99e50232557f03aAd6Cc17",
 	"symbol": "PEIPEI",
 	"name": "PEIPEI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/33158/thumb/image%2890%29.png?1700828408",
 	"coingecko": "peipei",
 	"sources": [
 		"coingecko"

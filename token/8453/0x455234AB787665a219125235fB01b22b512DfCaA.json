@@ -3,8 +3,11 @@
 	"address": "0x455234AB787665a219125235fB01b22b512DfCaA",
 	"symbol": "DOSE",
 	"name": "DOSE",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/DOSE/logo.svg",
 	"coingecko": "dose-token",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0x1FFD0b47127fdd4097E54521C9E2c7f0D66AafC5",
-	"symbol": "Autobahn Network",
-	"name": "Autobahn Network",
+	"symbol": "TXL",
+	"name": "Tixl",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x1FFD0b47127fdd4097E54521C9E2c7f0D66AafC5.png",
 	"coingecko": "autobahn-network",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

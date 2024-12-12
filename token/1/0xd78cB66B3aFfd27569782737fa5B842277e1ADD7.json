@@ -3,6 +3,8 @@
 	"address": "0xd78cB66B3aFfd27569782737fa5B842277e1ADD7",
 	"symbol": "GTROK",
 	"name": "GTROK",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/35643/thumb/20240229_144143.jpg?1709368626",
 	"coingecko": "gtrok",
 	"sources": [
 		"coingecko"

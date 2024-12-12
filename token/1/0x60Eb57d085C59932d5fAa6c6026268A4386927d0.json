@@ -3,8 +3,11 @@
 	"address": "0x60Eb57d085C59932d5fAa6c6026268A4386927d0",
 	"symbol": "LOCG",
 	"name": "LOCG",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/15175/thumb/LOC_GAME.png?1696514830",
 	"coingecko": "locgame",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

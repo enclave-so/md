@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x549020a9Cb845220D66d3E9c6D9F9eF61C981102",
-	"symbol": "Sidus",
+	"symbol": "SIDUS",
 	"name": "Sidus",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/21401/thumb/SIDUS_coin_logo.png?1696520765",
 	"coingecko": "sidus",
 	"sources": [
 		"coingecko"

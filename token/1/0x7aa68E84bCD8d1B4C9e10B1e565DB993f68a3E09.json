@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0x7aa68E84bCD8d1B4C9e10B1e565DB993f68a3E09",
+	"symbol": "PT-agETH-26DEC2024",
+	"name": "PT Kelp Gain 26DEC2024",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png?1696514728",
+	"sources": [
+		"indexcoop"
+	]
+}

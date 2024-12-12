@@ -1,10 +1,13 @@
 {
 	"chain": 8453,
 	"address": "0x940181a94A35A4569E4529A3CDfB74e38FD98631",
-	"symbol": "Aerodrome Finance",
+	"symbol": "AERO",
 	"name": "Aerodrome Finance",
+	"decimals": 18,
+	"logo": "https://basescan.org/token/images/aerodrome_32.png",
 	"coingecko": "aerodrome-finance",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"uniswap"
 	]
 }

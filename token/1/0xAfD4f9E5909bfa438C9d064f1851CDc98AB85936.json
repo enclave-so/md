@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xAfD4f9E5909bfa438C9d064f1851CDc98AB85936",
-	"symbol": "Never Experienced Real Daylight ",
-	"name": "Never Experienced Real Daylight ",
+	"symbol": "NERD",
+	"name": "Never Experienced Real Daylight ",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/51487/thumb/1000001469.jpg?1731405475",
 	"coingecko": "never-experienced-real-daylight",
 	"sources": [
 		"coingecko"

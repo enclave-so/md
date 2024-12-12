@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xB26631c6dda06aD89B93C71400D25692de89c068",
-	"symbol": "Minds",
+	"symbol": "MINDS",
 	"name": "Minds",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/11517/thumb/Minds.png?1696511420",
 	"coingecko": "minds",
 	"sources": [
 		"coingecko"

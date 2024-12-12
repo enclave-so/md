@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x474021845C4643113458ea4414bdb7fB74A01A77",
-	"symbol": "Uno Re",
+	"symbol": "UNO",
 	"name": "Uno Re",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/15073/thumb/c0vbqVE.png?1696514732",
 	"coingecko": "uno-re",
 	"sources": [
 		"coingecko"

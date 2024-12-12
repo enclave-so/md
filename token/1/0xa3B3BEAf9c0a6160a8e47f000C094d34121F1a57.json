@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xa3B3BEAf9c0a6160a8e47f000C094d34121F1a57",
-	"symbol": "Coffee Club Token",
+	"symbol": "COFFEE",
 	"name": "Coffee Club Token",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35248/thumb/Coffee_Club_Token.png?1707988187",
 	"coingecko": "coffee-club-token",
 	"sources": [
 		"coingecko"

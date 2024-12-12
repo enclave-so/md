@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xE7eaec9Bca79d537539C00C58Ae93117fB7280b9",
-	"symbol": "Doge Protocol",
+	"symbol": "DOGEP",
 	"name": "Doge Protocol",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/23689/thumb/LjhKBldd_400x400.png?1696522890",
 	"coingecko": "doge-protocol",
 	"sources": [
 		"coingecko"

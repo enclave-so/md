@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x40803cEA2b2A32BdA1bE61d3604af6a814E70976",
-	"symbol": "Spool",
+	"symbol": "SPOOL",
 	"name": "Spool",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/21532/thumb/spool.png?1696520891",
 	"coingecko": "spool-dao-token",
 	"sources": [
 		"coingecko"

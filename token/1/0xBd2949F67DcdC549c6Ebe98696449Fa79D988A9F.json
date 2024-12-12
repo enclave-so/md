@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xBd2949F67DcdC549c6Ebe98696449Fa79D988A9F",
-	"symbol": "Meter Governance mapped by Meter.io",
-	"name": "Meter Governance mapped by Meter.io",
+	"symbol": "EMTRG",
+	"name": "Meter Governance mapped by Meter io",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/12175/thumb/Dark-blue-icon-transparent-vector-white-icon200x200.png?1696512012",
 	"coingecko": "meter-governance-mapped-by-meter-io",
 	"sources": [
 		"coingecko"

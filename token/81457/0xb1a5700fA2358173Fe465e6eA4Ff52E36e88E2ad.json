@@ -1,10 +1,13 @@
 {
 	"chain": 81457,
 	"address": "0xb1a5700fA2358173Fe465e6eA4Ff52E36e88E2ad",
-	"symbol": "Blast",
+	"symbol": "BLAST",
 	"name": "Blast",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35494/standard/Blast.jpg?1719385662",
 	"coingecko": "blast",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"uniswap"
 	]
 }

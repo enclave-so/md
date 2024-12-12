@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x536381a8628dBcC8C70aC9A30A7258442eAb4c92",
-	"symbol": "Pantos",
+	"symbol": "PAN",
 	"name": "Pantos",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/9639/thumb/Pantos-logo-compact.png?1696509709",
 	"coingecko": "pantos",
 	"sources": [
 		"coingecko"

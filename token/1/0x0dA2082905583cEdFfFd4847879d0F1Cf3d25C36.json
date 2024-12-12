@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x0dA2082905583cEdFfFd4847879d0F1Cf3d25C36",
-	"symbol": "Melo",
+	"symbol": "MELO",
 	"name": "Melo",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/50419/thumb/melo.png?1727683219",
 	"coingecko": "melo",
 	"sources": [
 		"coingecko"

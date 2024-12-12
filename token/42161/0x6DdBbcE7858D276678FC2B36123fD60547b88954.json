@@ -1,0 +1,11 @@
+{
+	"chain": 42161,
+	"address": "0x6DdBbcE7858D276678FC2B36123fD60547b88954",
+	"symbol": "Zeta",
+	"name": "Zetachain",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/26718/standard/Twitter_icon.png?1696525788",
+	"sources": [
+		"uniswap"
+	]
+}

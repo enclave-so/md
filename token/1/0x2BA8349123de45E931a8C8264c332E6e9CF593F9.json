@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x2BA8349123de45E931a8C8264c332E6e9CF593F9",
-	"symbol": "Blockchain Monster Hunt",
+	"symbol": "BCMC",
 	"name": "Blockchain Monster Hunt",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/19045/thumb/bcmc-coin-200x200.png?1696518496",
 	"coingecko": "blockchain-monster-hunt",
 	"sources": [
 		"coingecko"

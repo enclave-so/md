@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x24EdDeD3f03abb2e9D047464294133378bddB596",
-	"symbol": "SECT BOT [OLD]",
-	"name": "SECT BOT [OLD]",
+	"symbol": "SECT",
+	"name": "SECT BOT  OLD ",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/33525/thumb/IMG_7387.png?1702138186",
 	"coingecko": "sect-bot",
 	"sources": [
 		"coingecko"

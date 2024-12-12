@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0xCF3C8Be2e2C42331Da80EF210e9B1b307C03d36A",
-	"symbol": "Bepro",
+	"symbol": "BEPRO",
 	"name": "Bepro",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/10251/thumb/bepro_logo_200x200.png?1718012232",
 	"coingecko": "bepro-network",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

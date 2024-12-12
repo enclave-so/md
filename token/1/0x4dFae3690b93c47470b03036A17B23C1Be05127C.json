@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x4dFae3690b93c47470b03036A17B23C1Be05127C",
-	"symbol": "The Original Pepe",
+	"symbol": "PEPE",
 	"name": "The Original Pepe",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35702/thumb/logo.png?1709567988",
 	"coingecko": "pepe-2",
 	"sources": [
 		"coingecko"

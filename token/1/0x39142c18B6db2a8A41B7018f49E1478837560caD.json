@@ -3,6 +3,8 @@
 	"address": "0x39142c18B6db2a8A41B7018f49E1478837560caD",
 	"symbol": "STATS",
 	"name": "STATS",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/28853/thumb/stats.png?1696527827",
 	"coingecko": "stats",
 	"sources": [
 		"coingecko"

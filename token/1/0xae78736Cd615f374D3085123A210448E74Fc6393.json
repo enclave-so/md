@@ -1,10 +1,14 @@
 {
 	"chain": 1,
 	"address": "0xae78736Cd615f374D3085123A210448E74Fc6393",
-	"symbol": "Rocket Pool ETH",
+	"symbol": "RETH",
 	"name": "Rocket Pool ETH",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/20764/thumb/reth.png?1696520159",
 	"coingecko": "rocket-pool-eth",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"indexcoop",
+		"optimism"
 	]
 }

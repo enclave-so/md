@@ -1,0 +1,11 @@
+{
+	"chain": 8453,
+	"address": "0xD988824d7fA1998D0ABBab2F79A82aF762886caC",
+	"symbol": "CBX",
+	"name": "CropBytes",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/CBX/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

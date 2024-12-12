@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xb939DA54f9748440A1B279d42Be1296942732288",
-	"symbol": "Fonzy",
+	"symbol": "FONZY",
 	"name": "Fonzy",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30245/thumb/FONZY_CROWN_2_HANDS_%282%29.png?1696529154",
 	"coingecko": "fonzy",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xeCf3672A6d2147E2A77f07069Fb48d8Cf6F6Fbf9",
-	"symbol": "Inception mETH",
+	"symbol": "INMETH",
 	"name": "Inception mETH",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/34958/thumb/mETH.png?1706773620",
 	"coingecko": "inception-restaked-meth",
 	"sources": [
 		"coingecko"

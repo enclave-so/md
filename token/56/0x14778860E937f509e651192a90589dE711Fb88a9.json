@@ -2,9 +2,12 @@
 	"chain": 56,
 	"address": "0x14778860E937f509e651192a90589dE711Fb88a9",
 	"symbol": "CYBER",
-	"name": "CYBER",
+	"name": "CyberConnect",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x14778860E937f509e651192a90589dE711Fb88a9.png",
 	"coingecko": "cyberconnect",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

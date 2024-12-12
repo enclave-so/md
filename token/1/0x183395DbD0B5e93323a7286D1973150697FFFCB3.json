@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x183395DbD0B5e93323a7286D1973150697FFFCB3",
-	"symbol": "Convex FXN",
+	"symbol": "CVXFXN",
 	"name": "Convex FXN",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/32962/thumb/cvxfxn.png?1700026163",
 	"coingecko": "convex-fxn",
 	"sources": [
 		"coingecko"

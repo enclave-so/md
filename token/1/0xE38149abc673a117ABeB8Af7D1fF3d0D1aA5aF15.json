@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xE38149abc673a117ABeB8Af7D1fF3d0D1aA5aF15",
-	"symbol": "Astrid Restaked cbETH",
+	"symbol": "RCBETH",
 	"name": "Astrid Restaked cbETH",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/32268/thumb/astridlogo_copy.png?1697166282",
 	"coingecko": "astrid-restaked-cbeth",
 	"sources": [
 		"coingecko"

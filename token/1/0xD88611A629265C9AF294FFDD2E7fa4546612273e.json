@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xD88611A629265C9AF294FFDD2E7fa4546612273e",
-	"symbol": "Metapro",
+	"symbol": "MPRO",
 	"name": "Metapro",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35128/thumb/mpro.jpeg?1707440015",
 	"coingecko": "mpro-lab",
 	"sources": [
 		"coingecko"

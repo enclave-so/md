@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x66186008C1050627F979d464eABb258860563dbE",
-	"symbol": "MediShares",
+	"symbol": "MDS",
 	"name": "MediShares",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/1343/thumb/medishares.png?1696502404",
 	"coingecko": "medishares",
 	"sources": [
 		"coingecko"

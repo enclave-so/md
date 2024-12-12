@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x8E30ea2329D95802Fd804f4291220b0e2F579812",
-	"symbol": "Decentralized Vulnerability Platform",
+	"symbol": "DVP",
 	"name": "Decentralized Vulnerability Platform",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/9424/thumb/4520.png?1696509517",
 	"coingecko": "decentralized-vulnerability-platform",
 	"sources": [
 		"coingecko"

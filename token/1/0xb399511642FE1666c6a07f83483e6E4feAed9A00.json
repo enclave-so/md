@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xb399511642FE1666c6a07f83483e6E4feAed9A00",
-	"symbol": "The Standard EURO",
+	"symbol": "EUROS",
 	"name": "The Standard EURO",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/32231/thumb/EUROs-coingecko.png?1696936278",
 	"coingecko": "the-standard-euro",
 	"sources": [
 		"coingecko"

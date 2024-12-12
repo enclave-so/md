@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x2C2f7e7C5604D162d75641256b80F1Bf6f4dC796",
-	"symbol": "Polkarare",
+	"symbol": "PRARE",
 	"name": "Polkarare",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/15388/thumb/Image_from_iOS.png?1696515035",
 	"coingecko": "polkarare",
 	"sources": [
 		"coingecko"

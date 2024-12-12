@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x39207D2E2fEEF178FBdA8083914554C59D9f8c00",
-	"symbol": "MultiPlanetary Inus",
+	"symbol": "INUS",
 	"name": "MultiPlanetary Inus",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/22648/thumb/logo.png?1696521961",
 	"coingecko": "multiplanetary-inus",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xce20BB92CCF9BbF5091ef85649E71E552819AD8c",
-	"symbol": "Smart Game Finance",
+	"symbol": "SMART",
 	"name": "Smart Game Finance",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/29072/thumb/smart.png?1696528038",
 	"coingecko": "smart-game-finance",
 	"sources": [
 		"coingecko"

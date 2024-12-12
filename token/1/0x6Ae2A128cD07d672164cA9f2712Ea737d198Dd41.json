@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x6Ae2A128cD07d672164cA9f2712Ea737d198Dd41",
-	"symbol": "Goat Trading",
+	"symbol": "GOAT",
 	"name": "Goat Trading",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35160/thumb/logo-light1.png?1707569994",
 	"coingecko": "goat-trading",
 	"sources": [
 		"coingecko"

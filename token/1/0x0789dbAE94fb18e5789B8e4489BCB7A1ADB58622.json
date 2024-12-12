@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x0789dbAE94fb18e5789B8e4489BCB7A1ADB58622",
-	"symbol": "FISCO Coin",
+	"symbol": "FSCC",
 	"name": "FISCO Coin",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/6507/thumb/AnyConv.com__fscc_icon_fin.png?1696506865",
 	"coingecko": "fisco",
 	"sources": [
 		"coingecko"

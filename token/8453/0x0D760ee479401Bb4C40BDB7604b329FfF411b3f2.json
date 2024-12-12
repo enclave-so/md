@@ -1,0 +1,12 @@
+{
+	"chain": 8453,
+	"address": "0x0D760ee479401Bb4C40BDB7604b329FfF411b3f2",
+	"symbol": "LRC",
+	"name": "LoopringCoin V2",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xBBbbCA6A901c926F240b89EacB641d8Aec7AEafD/logo.png",
+	"sources": [
+		"optimism",
+		"uniswap"
+	]
+}

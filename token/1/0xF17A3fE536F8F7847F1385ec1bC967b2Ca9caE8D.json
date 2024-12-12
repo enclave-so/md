@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0xF17A3fE536F8F7847F1385ec1bC967b2Ca9caE8D",
-	"symbol": "Alongside Crypto Market Index",
+	"symbol": "AMKT",
 	"name": "Alongside Crypto Market Index",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/28496/thumb/22999.png?1696527488",
 	"coingecko": "alongside-crypto-market-index",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

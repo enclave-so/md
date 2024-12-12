@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0x00e1656e45f18ec6747F5a8496Fd39B50b38396D",
-	"symbol": "Bomb Crypto (BNB)",
-	"name": "Bomb Crypto (BNB)",
+	"symbol": "BCOIN",
+	"name": "Bomb Crypto",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x00e1656e45f18ec6747F5a8496Fd39B50b38396D.png",
 	"coingecko": "bomber-coin",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

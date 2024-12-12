@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x0DceE5F694E492F0DD842a7FBE5BEd4C6E4665a6",
-	"symbol": "Catboy",
+	"symbol": "CATBOY",
 	"name": "Catboy",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/33891/thumb/200x200.png?1703213224",
 	"coingecko": "catboy-3",
 	"sources": [
 		"coingecko"

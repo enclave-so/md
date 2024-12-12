@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x845e2e8B42DCED7DEDCDBa9BdE32C9e338224f97",
-	"symbol": "Satozhi",
+	"symbol": "SATOZ",
 	"name": "Satozhi",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/14786/thumb/0GeSrIaQ_400x400.jpg?1696514455",
 	"coingecko": "satozhi",
 	"sources": [
 		"coingecko"

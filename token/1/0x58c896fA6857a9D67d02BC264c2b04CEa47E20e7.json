@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x58c896fA6857a9D67d02BC264c2b04CEa47E20e7",
-	"symbol": "The GameHub",
+	"symbol": "GHUB",
 	"name": "The GameHub",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/36718/thumb/photo_2024-04-02_10.33.14.jpeg?1712128679",
 	"coingecko": "the-gamehub",
 	"sources": [
 		"coingecko"

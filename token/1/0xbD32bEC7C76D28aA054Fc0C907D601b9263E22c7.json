@@ -3,6 +3,8 @@
 	"address": "0xbD32bEC7C76D28aA054Fc0C907D601b9263E22c7",
 	"symbol": "PE",
 	"name": "PE",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/38438/thumb/IMG_9474.png?1717538836",
 	"coingecko": "pe",
 	"sources": [
 		"coingecko"

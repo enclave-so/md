@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xb551b43AF192965F74e3dfAA476C890B403caD95",
-	"symbol": "DataBot",
+	"symbol": "DATA",
 	"name": "DataBot",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/31508/thumb/Databot_LOGO_coingecko.png?1696530318",
 	"coingecko": "data-bot",
 	"sources": [
 		"coingecko"

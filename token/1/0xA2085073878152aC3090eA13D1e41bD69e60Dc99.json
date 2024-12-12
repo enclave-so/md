@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xA2085073878152aC3090eA13D1e41bD69e60Dc99",
-	"symbol": "Escoin",
+	"symbol": "ELG",
 	"name": "Escoin",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/13566/thumb/escoin-200.png?1696513320",
 	"coingecko": "escoin-token",
 	"sources": [
 		"coingecko"

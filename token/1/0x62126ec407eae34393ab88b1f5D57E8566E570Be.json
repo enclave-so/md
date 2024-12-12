@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x62126ec407eae34393ab88b1f5D57E8566E570Be",
-	"symbol": "Virtumate",
+	"symbol": "MATE",
 	"name": "Virtumate",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35520/thumb/IMG_9102.jpeg?1709006618",
 	"coingecko": "virtumate",
 	"sources": [
 		"coingecko"

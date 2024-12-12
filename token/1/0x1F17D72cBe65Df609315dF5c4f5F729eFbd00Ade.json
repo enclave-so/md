@@ -3,6 +3,8 @@
 	"address": "0x1F17D72cBe65Df609315dF5c4f5F729eFbd00Ade",
 	"symbol": "GYOSHI",
 	"name": "GYOSHI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30002/thumb/99245ad73184347ee7c93bfc4f8ca2c2.png?1696528927",
 	"coingecko": "gyoshi",
 	"sources": [
 		"coingecko"

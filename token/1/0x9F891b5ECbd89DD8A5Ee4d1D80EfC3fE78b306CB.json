@@ -3,6 +3,8 @@
 	"address": "0x9F891b5ECbd89DD8A5Ee4d1D80EfC3fE78b306CB",
 	"symbol": "SONIK",
 	"name": "SONIK",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31693/thumb/Sonik_Logo_%281%29.png?1696530511",
 	"coingecko": "sonik",
 	"sources": [
 		"coingecko"

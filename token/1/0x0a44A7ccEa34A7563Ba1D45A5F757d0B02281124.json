@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x0a44A7ccEa34A7563Ba1D45A5F757d0B02281124",
-	"symbol": "BlockBlend",
+	"symbol": "BBL",
 	"name": "BlockBlend",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30680/thumb/mdWl1HlW_400x400.jpg?1696529549",
 	"coingecko": "blockblend-2",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xF81421fc15300c5a8CCa9aFE12F5CBAd502Fa756",
-	"symbol": "Cardiocoin",
+	"symbol": "CRDC",
 	"name": "Cardiocoin",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/25135/thumb/gQiyJrGcTRjEN-6bI22FOtHOmYF8-_MMYS_U1gIlUm1wf6QxiGnZ64tIeGNNFk9z5xPPch5FMie2grAN4fXQfcjKI9L0EQDVzDEdYDfqWl8ch4ree_q4pypGPNHeSCxnynfOOLAvd9XbKguJHEJNTLAdSKnWCKu92Kho49SplFvDBplt2ruvOz1v5QB795cnjZg4ZemfgfAB_ipJU1YE4TA3uL.jpg?1696524285",
 	"coingecko": "cardiocoin",
 	"sources": [
 		"coingecko"

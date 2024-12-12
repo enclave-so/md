@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x979E030a78A540e78AC33C1B7745a298fbFA18B3",
-	"symbol": "GPULABS",
+	"symbol": "GPUL",
 	"name": "GPULABS",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/50534/thumb/jhukljh.jpg?1728215194",
 	"coingecko": "gpulabs",
 	"sources": [
 		"coingecko"

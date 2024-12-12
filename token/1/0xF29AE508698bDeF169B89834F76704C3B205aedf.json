@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xF29AE508698bDeF169B89834F76704C3B205aedf",
-	"symbol": "SNX yVault",
+	"symbol": "YVSNX",
 	"name": "SNX yVault",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/28797/thumb/yvSNX-128-0xF29AE508698bDeF169B89834F76704C3B205aedf.png?1696527775",
 	"coingecko": "snx-yvault",
 	"sources": [
 		"coingecko"

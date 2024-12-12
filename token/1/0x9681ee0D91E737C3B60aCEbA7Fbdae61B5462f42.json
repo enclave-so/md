@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x9681ee0D91E737C3B60aCEbA7Fbdae61B5462f42",
-	"symbol": "Crypto Carbon Energy",
+	"symbol": "CYCE",
 	"name": "Crypto Carbon Energy",
+	"decimals": 6,
+	"logo": "https://assets.coingecko.com/coins/images/29824/thumb/CYCE.jpg?1696528752",
 	"coingecko": "crypto-carbon-energy-2",
 	"sources": [
 		"coingecko"

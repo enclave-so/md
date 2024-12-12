@@ -1,0 +1,11 @@
+{
+	"chain": 42161,
+	"address": "0xF01dB12F50D0CDF5Fe360ae005b9c52F92CA7811",
+	"symbol": "API3",
+	"name": "API3",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/13256/thumb/api3.jpg?1606751424",
+	"sources": [
+		"uniswap"
+	]
+}

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x149caC67F1cd5d80651E7c9Bb359ec285D821a05",
-	"symbol": "Minterest",
+	"symbol": "MINTY",
 	"name": "Minterest",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/29455/thumb/MINTY.png?1706817774",
 	"coingecko": "minterest",
 	"sources": [
 		"coingecko"

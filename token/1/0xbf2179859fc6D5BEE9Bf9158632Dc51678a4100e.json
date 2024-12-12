@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xbf2179859fc6D5BEE9Bf9158632Dc51678a4100e",
-	"symbol": "aelf",
+	"symbol": "ELF",
 	"name": "aelf",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/1371/thumb/aelf-logo.png?1696502429",
 	"coingecko": "aelf",
 	"sources": [
 		"coingecko"

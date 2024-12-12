@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xe5018913F2fdf33971864804dDB5fcA25C539032",
-	"symbol": "OpenLM RevShare Token",
+	"symbol": "OLM",
 	"name": "OpenLM RevShare Token",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/37186/thumb/Group_1000006185.png?1714009113",
 	"coingecko": "ora-protocol",
 	"sources": [
 		"coingecko"

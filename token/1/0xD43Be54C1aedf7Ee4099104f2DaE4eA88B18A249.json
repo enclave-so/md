@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xD43Be54C1aedf7Ee4099104f2DaE4eA88B18A249",
-	"symbol": "Traxx",
+	"symbol": "TRAXX",
 	"name": "Traxx",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/24441/thumb/TT.png?1696523622",
 	"coingecko": "traxx",
 	"sources": [
 		"coingecko"

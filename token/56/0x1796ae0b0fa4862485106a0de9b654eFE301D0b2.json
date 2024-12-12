@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0x1796ae0b0fa4862485106a0de9b654eFE301D0b2",
-	"symbol": "Protocol Monsters",
-	"name": "Protocol Monsters",
+	"symbol": "PMON",
+	"name": "Polkamon",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x1796ae0b0fa4862485106a0de9b654eFE301D0b2.png",
 	"coingecko": "polychain-monsters",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

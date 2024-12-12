@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xF3c3745894d979F8F85761bd060520BDdbc464e9",
-	"symbol": "King Of Meme",
+	"symbol": "LION",
 	"name": "King Of Meme",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/38770/thumb/200x200.png?1718769855",
 	"coingecko": "king-of-meme",
 	"sources": [
 		"coingecko"

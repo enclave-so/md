@@ -1,6 +1,26 @@
 [
 	{
 		"chain": 1996,
+		"address": "0x3f710cBd0F4268719C6c2E5E078a4CAfAeED7d45",
+		"symbol": "Smoovie Phone",
+		"name": "Smoovie Phone",
+		"coingecko": "smoovie-phone",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1996,
+		"address": "0x754cDAd6f5821077d6915004Be2cE05f93d176f8",
+		"symbol": "Wrapped DMT",
+		"name": "Wrapped DMT",
+		"coingecko": "wrapped-dmt",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1996,
 		"address": "0x3C84f959f4b8ca0c39847d02f936e13Fa8fC4Eb9",
 		"symbol": "Beat The Allegations",
 		"name": "Beat The Allegations",
@@ -35,26 +55,6 @@
 		"symbol": "Smoke The Ticker",
 		"name": "Smoke The Ticker",
 		"coingecko": "smoke-the-ticker",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 1996,
-		"address": "0x3f710cBd0F4268719C6c2E5E078a4CAfAeED7d45",
-		"symbol": "Smoovie Phone",
-		"name": "Smoovie Phone",
-		"coingecko": "smoovie-phone",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 1996,
-		"address": "0x754cDAd6f5821077d6915004Be2cE05f93d176f8",
-		"symbol": "Wrapped DMT",
-		"name": "Wrapped DMT",
-		"coingecko": "wrapped-dmt",
 		"sources": [
 			"coingecko"
 		]

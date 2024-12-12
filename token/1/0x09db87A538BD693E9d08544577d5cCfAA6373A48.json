@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x09db87A538BD693E9d08544577d5cCfAA6373A48",
-	"symbol": "YieldNest Restaked ETH",
+	"symbol": "YNETH",
 	"name": "YieldNest Restaked ETH",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/37798/thumb/ynETH-YieldNest.png?1715589941",
 	"coingecko": "yieldnest-restaked-eth",
 	"sources": [
 		"coingecko"

@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0x5052fa4a2a147eaAa4c0242e9Cc54a10A4f42070",
-	"symbol": "HANePlatform",
+	"symbol": "HANEP",
 	"name": "HANePlatform",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35202/thumb/HANeP_200px.png?1707842735",
 	"coingecko": "haneplatform",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

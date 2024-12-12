@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xaa0c5B3567fd1bac8a2a11EB16c3F81a49eea90F",
-	"symbol": "MetamonkeyAi",
+	"symbol": "MMAI",
 	"name": "MetamonkeyAi",
+	"decimals": 7,
+	"logo": "https://assets.coingecko.com/coins/images/27208/thumb/mmai_new_logo.png?1696526256",
 	"coingecko": "metamonkeyai",
 	"sources": [
 		"coingecko"

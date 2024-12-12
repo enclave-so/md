@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0x630d98424eFe0Ea27fB1b3Ab7741907DFFEaAd78",
-	"symbol": "PEAKDEFI",
+	"symbol": "PEAK",
 	"name": "PEAKDEFI",
+	"decimals": 8,
+	"logo": "https://tokens.pancakeswap.finance/images/0x630d98424eFe0Ea27fB1b3Ab7741907DFFEaAd78.png",
 	"coingecko": "marketpeak",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

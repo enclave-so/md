@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x3FEB4fEA5132695542F8Ede5076Ac43296d17c6d",
-	"symbol": "Bitcoin 2.0",
-	"name": "Bitcoin 2.0",
+	"symbol": "BTC20",
+	"name": "Bitcoin 2 0",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/30984/thumb/btc2-200x200.png?1696529823",
 	"coingecko": "bitcoin-2-0",
 	"sources": [
 		"coingecko"

@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0x72e364F2ABdC788b7E918bc238B21f109Cd634D7",
-	"symbol": "Metaverse Index",
+	"symbol": "MVI",
 	"name": "Metaverse Index",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14684/thumb/MVI_logo.png?1696514357",
 	"coingecko": "metaverse-index",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"indexcoop"
 	]
 }

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x9bA00D6856a4eDF4665BcA2C2309936572473B7E",
-	"symbol": "Aave v1 USDC",
+	"symbol": "AUSDC",
 	"name": "Aave v1 USDC",
+	"decimals": 6,
+	"logo": "https://assets.coingecko.com/coins/images/11674/thumb/aUSDC.png?1696511564",
 	"coingecko": "aave-usdc-v1",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x625aE63000f46200499120B906716420bd059240",
-	"symbol": "Aave SUSD v1",
+	"symbol": "ASUSD",
 	"name": "Aave SUSD v1",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/11723/thumb/aSUSD.png?1696511605",
 	"coingecko": "aave-susd-v1",
 	"sources": [
 		"coingecko"

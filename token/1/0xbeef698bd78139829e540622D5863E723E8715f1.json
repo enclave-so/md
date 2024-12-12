@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xbeef698bd78139829e540622D5863E723E8715f1",
-	"symbol": "PepeBull",
+	"symbol": "BEEF",
 	"name": "PepeBull",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/38801/thumb/photo_2024-06-19_17-20-42.png?1718917274",
 	"coingecko": "pepebull",
 	"sources": [
 		"coingecko"

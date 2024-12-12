@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x40E5A14E1D151F34Fea6b8e6197c338e737f9Bf2",
-	"symbol": "Valinity",
+	"symbol": "VY",
 	"name": "Valinity",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/50342/thumb/Logo.png?1727246179",
 	"coingecko": "valinity",
 	"sources": [
 		"coingecko"

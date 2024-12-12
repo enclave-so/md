@@ -1,10 +1,13 @@
 {
 	"chain": 8453,
 	"address": "0xEFb97aaF77993922aC4be4Da8Fbc9A2425322677",
-	"symbol": "Web 3 Dollar",
+	"symbol": "USD3",
 	"name": "Web 3 Dollar",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/USD3/logo.svg",
 	"coingecko": "web-3-dollar",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0x90DE74265a416e1393A450752175AED98fe11517",
-	"symbol": "Unlock Protocol",
+	"symbol": "UDT",
 	"name": "Unlock Protocol",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14545/thumb/unlock.jpg?1696514228",
 	"coingecko": "unlock-protocol",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

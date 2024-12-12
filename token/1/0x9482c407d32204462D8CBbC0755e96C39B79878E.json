@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x9482c407d32204462D8CBbC0755e96C39B79878E",
-	"symbol": "Archly Finance",
+	"symbol": "ARC",
 	"name": "Archly Finance",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/37308/thumb/arc-logo-circle-200.png?1713952763",
 	"coingecko": "archly-finance",
 	"sources": [
 		"coingecko"

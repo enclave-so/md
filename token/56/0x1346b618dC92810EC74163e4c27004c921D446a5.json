@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0x1346b618dC92810EC74163e4c27004c921D446a5",
-	"symbol": "Solv Protocol SolvBTC.BBN",
-	"name": "Solv Protocol SolvBTC.BBN",
+	"symbol": "SolvBTC.BBN",
+	"name": "SolvBTC Babylon",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x1346b618dC92810EC74163e4c27004c921D446a5.png",
 	"coingecko": "solv-protocol-solvbtc-bbn",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

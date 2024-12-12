@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x1202F5C7b4B9E47a1A484E8B270be34dbbC75055",
-	"symbol": "Resolv wstUSR",
+	"symbol": "WSTUSR",
 	"name": "Resolv wstUSR",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/51880/thumb/USR_LOGO.png?1732098841",
 	"coingecko": "resolv-wstusr",
 	"sources": [
 		"coingecko"

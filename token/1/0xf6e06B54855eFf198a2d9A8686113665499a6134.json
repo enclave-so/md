@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xf6e06B54855eFf198a2d9A8686113665499a6134",
-	"symbol": "Celestial",
+	"symbol": "CELT",
 	"name": "Celestial",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/18683/thumb/celt.png?1696518152",
 	"coingecko": "celestial",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x5e7F6e008C6d9D7AD4c7EB75Bd4ce62864cc7454",
-	"symbol": "Tapify",
+	"symbol": "TAPBITCOIN",
 	"name": "Tapify",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/52162/thumb/tap-t-circle-word.png?1732676166",
 	"coingecko": "tapify",
 	"sources": [
 		"coingecko"

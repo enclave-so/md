@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x207e14389183A94343942de7aFbC607F57460618",
-	"symbol": "AngelBlock",
+	"symbol": "THOL",
 	"name": "AngelBlock",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/25058/thumb/Tholos_circle_gradient_200x200.png?1696524208",
 	"coingecko": "thol-token",
 	"sources": [
 		"coingecko"

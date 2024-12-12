@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xDC7d16B1E7C54f35a67aF95d5A6eECAEC27B2a62",
-	"symbol": "Pulse AI",
+	"symbol": "PULSE",
 	"name": "Pulse AI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/36331/thumb/photo_2024-03-17_22.26.56.jpeg?1711099075",
 	"coingecko": "pulse-ai",
 	"sources": [
 		"coingecko"

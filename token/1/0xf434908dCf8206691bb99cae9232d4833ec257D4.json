@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xf434908dCf8206691bb99cae9232d4833ec257D4",
-	"symbol": "Blackjack.fun",
-	"name": "Blackjack.fun",
+	"symbol": "JACK",
+	"name": "Blackjack fun",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/32499/thumb/logo_J.png?1698309198",
 	"coingecko": "blackjack-fun",
 	"sources": [
 		"coingecko"

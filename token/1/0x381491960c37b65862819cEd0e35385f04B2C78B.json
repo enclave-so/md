@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x381491960c37b65862819cEd0e35385f04B2C78B",
-	"symbol": "Hachiko",
+	"symbol": "HACHIKO",
 	"name": "Hachiko",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/38856/thumb/Socials_Icon.png?1719374681",
 	"coingecko": "hachiko-2",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x8808434a831eFea81170A56a9ddc57Cc9E6De1d8",
-	"symbol": "Bork on Ethereum",
+	"symbol": "BORK",
 	"name": "Bork on Ethereum",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/51211/thumb/Bork.png?1730352320",
 	"coingecko": "bork-on-ethereum",
 	"sources": [
 		"coingecko"

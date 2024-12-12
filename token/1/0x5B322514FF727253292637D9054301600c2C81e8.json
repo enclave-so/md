@@ -3,6 +3,8 @@
 	"address": "0x5B322514FF727253292637D9054301600c2C81e8",
 	"symbol": "DAD",
 	"name": "DAD",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/9833/thumb/q_Vt0ajV_400x400.jpg?1696509888",
 	"coingecko": "decentralized-advertising",
 	"sources": [
 		"coingecko"

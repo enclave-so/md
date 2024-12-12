@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xCDD0d11dE0225b528b3a20d6436392c8260969d0",
-	"symbol": "Trade Bionic",
+	"symbol": "ONIC",
 	"name": "Trade Bionic",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/32357/thumb/download.png?1725627636",
 	"coingecko": "trade-bionic",
 	"sources": [
 		"coingecko"

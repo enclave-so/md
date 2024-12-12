@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x5BB29c33C4A3C29f56F8ACa40B4dB91d8a5fe2c5",
-	"symbol": "One Share",
+	"symbol": "ONS",
 	"name": "One Share",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/13531/thumb/bss.a1671c75.png?1696513292",
 	"coingecko": "one-share",
 	"sources": [
 		"coingecko"

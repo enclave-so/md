@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x95392f142Af1c12F6e39897Ff9B09c599666B50c",
-	"symbol": "Impostors Blood",
+	"symbol": "BLOOD",
 	"name": "Impostors Blood",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/25527/thumb/RV4nKK2RDO47XzfSLgGs_llgXivhdfpI3tso0.png?1696524659",
 	"coingecko": "impostors-blood",
 	"sources": [
 		"coingecko"

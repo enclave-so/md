@@ -1,0 +1,11 @@
+{
+	"chain": 11155420,
+	"address": "0x75bb6dcA2cD6F9a0189c478bBb8F7EE2fEF07C78",
+	"symbol": "WCT",
+	"name": "WalletConnect",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/WCT/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

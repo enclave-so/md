@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x90B831fa3Bebf58E9744A14D638E25B4eE06f9Bc",
-	"symbol": "Mimo Governance",
+	"symbol": "MIMO",
 	"name": "Mimo Governance",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/16449/thumb/mimodefi.PNG?1696516045",
 	"coingecko": "mimo-parallel-governance-token",
 	"sources": [
 		"coingecko"

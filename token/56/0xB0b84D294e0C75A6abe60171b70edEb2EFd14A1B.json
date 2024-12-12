@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0xB0b84D294e0C75A6abe60171b70edEb2EFd14A1B",
-	"symbol": "Lista Staked BNB",
-	"name": "Lista Staked BNB",
+	"symbol": "slisBNB",
+	"name": "Staked Lista BNB",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0xB0b84D294e0C75A6abe60171b70edEb2EFd14A1B.png",
 	"coingecko": "synclub-staked-bnb",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

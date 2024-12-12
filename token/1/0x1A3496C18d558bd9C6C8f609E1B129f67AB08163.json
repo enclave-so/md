@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x1A3496C18d558bd9C6C8f609E1B129f67AB08163",
-	"symbol": "DEAPCOIN",
+	"symbol": "DEP",
 	"name": "DEAPCOIN",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/10970/thumb/DEAPcoin_01.png?1696510917",
 	"coingecko": "deapcoin",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xF6D2224916DDFbbab6e6bd0D1B7034f4Ae0CaB18",
-	"symbol": "Aave v3 UNI",
+	"symbol": "AUNI",
 	"name": "Aave v3 UNI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/32893/thumb/UNI.png?1699789595",
 	"coingecko": "aave-v3-uni",
 	"sources": [
 		"coingecko"

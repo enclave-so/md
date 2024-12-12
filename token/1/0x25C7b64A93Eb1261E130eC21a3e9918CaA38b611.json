@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x25C7b64A93Eb1261E130eC21a3e9918CaA38b611",
-	"symbol": "Wrapped Virgin Gen-0 CryptoKittties",
-	"name": "Wrapped Virgin Gen-0 CryptoKittties",
+	"symbol": "WVG0",
+	"name": "Wrapped Virgin Gen 0 CryptoKittties",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/12875/thumb/wvg0.png?1696512663",
 	"coingecko": "wrapped-virgin-gen-0-cryptokitties",
 	"sources": [
 		"coingecko"

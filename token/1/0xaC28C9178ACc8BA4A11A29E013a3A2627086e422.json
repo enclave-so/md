@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xaC28C9178ACc8BA4A11A29E013a3A2627086e422",
-	"symbol": "Backed MicroStrategy",
+	"symbol": "BMSTR",
 	"name": "Backed MicroStrategy",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/38914/thumb/b-MSTR-200x200.png?1719474793",
 	"coingecko": "backed-microstrategy",
 	"sources": [
 		"coingecko"

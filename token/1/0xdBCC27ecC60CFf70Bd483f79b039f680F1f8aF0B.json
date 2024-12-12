@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xdBCC27ecC60CFf70Bd483f79b039f680F1f8aF0B",
-	"symbol": "Shibashootout",
+	"symbol": "SHIBASHOOT",
 	"name": "Shibashootout",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/52013/thumb/1000002896.png?1732346538",
 	"coingecko": "shibashootout",
 	"sources": [
 		"coingecko"

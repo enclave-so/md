@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xF88Baf18FAB7e330fa0C4F83949E23F52FECECce",
-	"symbol": "Granary",
+	"symbol": "GRAIN",
 	"name": "Granary",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/29740/thumb/Grain.png?1696528670",
 	"coingecko": "granary",
 	"sources": [
 		"coingecko"

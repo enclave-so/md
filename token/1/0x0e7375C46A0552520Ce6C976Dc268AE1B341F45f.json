@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x0e7375C46A0552520Ce6C976Dc268AE1B341F45f",
-	"symbol": "MetaToken",
+	"symbol": "MTK",
 	"name": "MetaToken",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/39388/thumb/MetaToken.png?1721971583",
 	"coingecko": "metatoken-2",
 	"sources": [
 		"coingecko"

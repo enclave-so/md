@@ -1,8 +1,9 @@
 {
 	"chain": 1,
 	"address": "0x4752613b11DFC4E735c4853692c43542e87F0cC2",
-	"symbol": "Goofy Inu",
+	"symbol": "GOOFY",
 	"name": "Goofy Inu",
+	"decimals": 9,
 	"coingecko": "goofy-inu",
 	"sources": [
 		"coingecko"

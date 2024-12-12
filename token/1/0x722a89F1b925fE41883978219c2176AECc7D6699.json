@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x722a89F1b925fE41883978219c2176AECc7D6699",
-	"symbol": "Kinka",
+	"symbol": "XNK",
 	"name": "Kinka",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/36217/thumb/kinka_logomark.png?1710838184",
 	"coingecko": "kinka",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xA9aD6830180f9C150349f2cECAdd710586E35CB7",
-	"symbol": "ETH Stable",
+	"symbol": "ETHS",
 	"name": "ETH Stable",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31464/thumb/ETHS.jpeg?1696530277",
 	"coingecko": "eth-stable-mori-finance",
 	"sources": [
 		"coingecko"

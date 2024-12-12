@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x9DeB0fc809955b79c85e82918E8586d3b7d2695a",
-	"symbol": "GoldenBoys",
+	"symbol": "GOLD",
 	"name": "GoldenBoys",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31353/thumb/goldenboys.png?1696530170",
 	"coingecko": "goldenboys",
 	"sources": [
 		"coingecko"

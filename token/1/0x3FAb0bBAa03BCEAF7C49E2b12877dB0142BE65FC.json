@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x3FAb0bBAa03BCEAF7C49E2b12877dB0142BE65FC",
-	"symbol": "Castello Coin",
+	"symbol": "CAST",
 	"name": "Castello Coin",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/25216/thumb/19705.png?1696524359",
 	"coingecko": "castello-coin",
 	"sources": [
 		"coingecko"

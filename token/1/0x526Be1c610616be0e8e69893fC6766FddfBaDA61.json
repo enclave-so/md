@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x526Be1c610616be0e8e69893fC6766FddfBaDA61",
-	"symbol": "Rolling T-bill",
-	"name": "Rolling T-bill",
+	"symbol": "RTBL",
+	"name": "Rolling T bill",
+	"decimals": 6,
+	"logo": "https://assets.coingecko.com/coins/images/51979/thumb/rTBL_Icon.png?1732288771",
 	"coingecko": "rolling-t-bill",
 	"sources": [
 		"coingecko"

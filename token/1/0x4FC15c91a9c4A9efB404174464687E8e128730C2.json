@@ -3,6 +3,8 @@
 	"address": "0x4FC15c91a9c4A9efB404174464687E8e128730C2",
 	"symbol": "STAT",
 	"name": "STAT",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/26602/thumb/stat.png?1696525676",
 	"coingecko": "stat",
 	"sources": [
 		"coingecko"

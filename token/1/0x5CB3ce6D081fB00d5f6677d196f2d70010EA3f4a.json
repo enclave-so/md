@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x5CB3ce6D081fB00d5f6677d196f2d70010EA3f4a",
-	"symbol": "Busy",
+	"symbol": "BUSY",
 	"name": "Busy",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14966/thumb/busy.PNG?1696514627",
 	"coingecko": "busy-dao",
 	"sources": [
 		"coingecko"

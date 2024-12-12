@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x686D1596e5632Fe0471961E7977E8EFe371b0B21",
-	"symbol": "SurrealVerse",
+	"symbol": "AZEE",
 	"name": "SurrealVerse",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/32448/thumb/IMG_3734.jpeg?1698239938",
 	"coingecko": "surrealverse",
 	"sources": [
 		"coingecko"

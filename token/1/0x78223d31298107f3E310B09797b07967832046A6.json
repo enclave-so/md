@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x78223d31298107f3E310B09797b07967832046A6",
-	"symbol": "ROYAL SMART FUTURE TOKEN",
+	"symbol": "RSFT",
 	"name": "ROYAL SMART FUTURE TOKEN",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/26630/thumb/RSF200x200.png?1696525703",
 	"coingecko": "royal-smart-future-token",
 	"sources": [
 		"coingecko"

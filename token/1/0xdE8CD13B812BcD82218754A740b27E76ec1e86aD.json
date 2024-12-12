@@ -3,6 +3,8 @@
 	"address": "0xdE8CD13B812BcD82218754A740b27E76ec1e86aD",
 	"symbol": "TRESTLE",
 	"name": "TRESTLE",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/34992/thumb/PNG_-_Logo_-_3485x.png?1706943532",
 	"coingecko": "trestle",
 	"sources": [
 		"coingecko"

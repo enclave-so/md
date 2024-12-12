@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xBE03E60757f21f4b6fC8f16676AD9D5B1002E512",
-	"symbol": "Raini Studios Token",
+	"symbol": "RST",
 	"name": "Raini Studios Token",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/32077/thumb/rst_200x200.png?1696530874",
 	"coingecko": "raini-studios-token",
 	"sources": [
 		"coingecko"

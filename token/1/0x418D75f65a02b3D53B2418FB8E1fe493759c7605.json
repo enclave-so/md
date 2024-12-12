@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x418D75f65a02b3D53B2418FB8E1fe493759c7605",
-	"symbol": "Binance Coin (Wormhole)",
-	"name": "Binance Coin (Wormhole)",
+	"symbol": "BNB",
+	"name": "Binance Coin  Wormhole ",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/22884/thumb/BNB_wh_small.png?1696522182",
 	"coingecko": "binance-coin-wormhole",
 	"sources": [
 		"coingecko"

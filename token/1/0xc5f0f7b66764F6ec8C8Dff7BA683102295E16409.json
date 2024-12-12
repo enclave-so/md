@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xc5f0f7b66764F6ec8C8Dff7BA683102295E16409",
-	"symbol": "First Digital USD",
+	"symbol": "FDUSD",
 	"name": "First Digital USD",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31079/thumb/FDUSD_icon_black.png?1731097953",
 	"coingecko": "first-digital-usd",
 	"sources": [
 		"coingecko"

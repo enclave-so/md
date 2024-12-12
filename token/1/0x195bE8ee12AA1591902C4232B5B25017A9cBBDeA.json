@@ -3,6 +3,8 @@
 	"address": "0x195bE8ee12AA1591902C4232B5B25017A9cBBDeA",
 	"symbol": "POPO",
 	"name": "POPO",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/38051/thumb/popotrans.jpg?1716403044",
 	"coingecko": "popo",
 	"sources": [
 		"coingecko"

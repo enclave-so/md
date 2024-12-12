@@ -3,6 +3,8 @@
 	"address": "0x69D29F1b0cC37d8d3B61583c99Ad0ab926142069",
 	"symbol": "Pepe Inverted",
 	"name": "Pepe Inverted",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/31948/thumb/epep-logo-coingecko_.png?1722576800",
 	"coingecko": "pepe-inverted",
 	"sources": [
 		"coingecko"

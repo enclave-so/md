@@ -3,6 +3,8 @@
 	"address": "0xC31CEBf8F9E825d1D1244D73d0a65e44bD5210DB",
 	"symbol": "CRYN",
 	"name": "CRYN",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/24601/thumb/cryn.png?1696523774",
 	"coingecko": "cryn",
 	"sources": [
 		"coingecko"

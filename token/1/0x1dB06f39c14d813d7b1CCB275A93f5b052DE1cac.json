@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x1dB06f39c14d813d7b1CCB275A93f5b052DE1cac",
-	"symbol": "Xave",
+	"symbol": "XAV",
 	"name": "Xave",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/28299/thumb/Xave_logo_gradient.png?1696527298",
 	"coingecko": "xave-token",
 	"sources": [
 		"coingecko"

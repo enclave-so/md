@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x599955AA9fBc197a1b717d8da6a7012CAFe70ab3",
-	"symbol": "Book of Pepe",
+	"symbol": "BOPE",
 	"name": "Book of Pepe",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/36314/thumb/1240A08A-6ABE-4913-9B52-05EC784212B7.jpeg?1711092031",
 	"coingecko": "book-of-pepe",
 	"sources": [
 		"coingecko"

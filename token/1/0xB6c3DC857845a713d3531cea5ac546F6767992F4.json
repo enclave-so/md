@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xB6c3DC857845a713d3531cea5ac546F6767992F4",
-	"symbol": "Advertise Coin",
+	"symbol": "ADCO",
 	"name": "Advertise Coin",
+	"decimals": 6,
+	"logo": "https://assets.coingecko.com/coins/images/14344/thumb/advertisecoin200x200.png?1696514031",
 	"coingecko": "advertise-coin",
 	"sources": [
 		"coingecko"

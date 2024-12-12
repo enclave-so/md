@@ -1,0 +1,11 @@
+{
+	"chain": 56,
+	"address": "0x5986D5c77c65e5801a5cAa4fAE80089f870A71dA",
+	"symbol": "bDIGG",
+	"name": "bDIGG",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x5986D5c77c65e5801a5cAa4fAE80089f870A71dA.png",
+	"sources": [
+		"pancakeswap"
+	]
+}

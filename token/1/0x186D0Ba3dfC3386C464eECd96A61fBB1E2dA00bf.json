@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x186D0Ba3dfC3386C464eECd96A61fBB1E2dA00bf",
-	"symbol": "Trava Finance",
+	"symbol": "TRAVA",
 	"name": "Trava Finance",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/17553/thumb/TRAVA_OFFICIAL_LOGO.png?1696517089",
 	"coingecko": "trava-finance",
 	"sources": [
 		"coingecko"

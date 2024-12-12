@@ -3,6 +3,8 @@
 	"address": "0x4B41A481a7A3E0396751aA49BEe970B842FdAedE",
 	"symbol": "KYRA",
 	"name": "KYRA",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/51060/thumb/KYRA.png?1729877523",
 	"coingecko": "kyra",
 	"sources": [
 		"coingecko"

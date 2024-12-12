@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x0E5f00DA8AAef196a719d045DB89b5DA8F371b32",
-	"symbol": "Connectome",
+	"symbol": "CNTM",
 	"name": "Connectome",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/8528/thumb/200_200_CNTM-LOGO-07.png?1696508705",
 	"coingecko": "connectome",
 	"sources": [
 		"coingecko"

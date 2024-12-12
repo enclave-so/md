@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x1903BE033d3e436dd79a8Cf9030675BCf97aB589",
-	"symbol": "Beşiktaş",
-	"name": "Beşiktaş",
+	"symbol": "BJK",
+	"name": "Be ikta ",
+	"decimals": 6,
+	"logo": "https://assets.coingecko.com/coins/images/32038/thumb/BJK_200x200_2.png?1696530835",
 	"coingecko": "besiktas",
 	"sources": [
 		"coingecko"

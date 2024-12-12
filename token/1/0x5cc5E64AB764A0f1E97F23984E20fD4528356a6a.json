@@ -3,6 +3,8 @@
 	"address": "0x5cc5E64AB764A0f1E97F23984E20fD4528356a6a",
 	"symbol": "XRGB",
 	"name": "XRGB",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35447/thumb/log2.png?1708620430",
 	"coingecko": "xrgb",
 	"sources": [
 		"coingecko"

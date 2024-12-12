@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x3eE4B152824b657644c7A9B50694787e80EB8F4a",
-	"symbol": "Bazed Games",
+	"symbol": "BAZED",
 	"name": "Bazed Games",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31195/thumb/IMG_1849.jpeg?1696530023",
 	"coingecko": "bazed-games",
 	"sources": [
 		"coingecko"

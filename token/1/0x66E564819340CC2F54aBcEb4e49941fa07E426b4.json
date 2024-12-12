@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x66E564819340CC2F54aBcEb4e49941fa07E426b4",
-	"symbol": "BRETT0X66",
+	"symbol": "BRETT",
 	"name": "BRETT0X66",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/38235/thumb/1000069263.jpg?1716860926",
 	"coingecko": "brett0x66",
 	"sources": [
 		"coingecko"

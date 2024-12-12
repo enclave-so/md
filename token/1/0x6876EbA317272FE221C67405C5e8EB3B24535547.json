@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x6876EbA317272FE221C67405C5e8EB3B24535547",
-	"symbol": "MicroTuber",
+	"symbol": "MCT",
 	"name": "MicroTuber",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/15489/thumb/mct.PNG?1696515134",
 	"coingecko": "microtuber",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x0921799CB1d702148131024d18fCdE022129Dc73",
-	"symbol": "LightLink",
+	"symbol": "LL",
 	"name": "LightLink",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35357/thumb/lightlink-ticker-200.png?1708362303",
 	"coingecko": "lightlink",
 	"sources": [
 		"coingecko"

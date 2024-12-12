@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x419c4dB4B9e25d6Db2AD9691ccb832C8D9fDA05E",
-	"symbol": "Dragonchain",
+	"symbol": "DRGN",
 	"name": "Dragonchain",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/1289/thumb/dragonchain.png?1696502360",
 	"coingecko": "dragonchain",
 	"sources": [
 		"coingecko"

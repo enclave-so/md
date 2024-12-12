@@ -1,0 +1,11 @@
+{
+	"chain": 10,
+	"address": "0x0B3e851cf6508A16266BC68A651ea68b31ef673b",
+	"symbol": "LPF",
+	"name": "Loopfi",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/LPF/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

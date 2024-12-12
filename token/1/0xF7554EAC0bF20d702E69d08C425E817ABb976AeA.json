@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xF7554EAC0bF20d702E69d08C425E817ABb976AeA",
-	"symbol": "Make America Healthy Again",
+	"symbol": "MAHA",
 	"name": "Make America Healthy Again",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/51449/thumb/MAHA_PFP_200.png?1731306877",
 	"coingecko": "make-america-healthy-again",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x17c50D62E6E8D20d2DC18e9AD79c43263D0720d9",
-	"symbol": "Not Financial Advice",
+	"symbol": "NFAI",
 	"name": "Not Financial Advice",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/28758/thumb/NFA_Labs_Logo_%281%29.png?1710245293",
 	"coingecko": "not-financial-advice",
 	"sources": [
 		"coingecko"

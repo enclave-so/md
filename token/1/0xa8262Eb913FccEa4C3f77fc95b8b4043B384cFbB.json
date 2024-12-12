@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xa8262Eb913FccEa4C3f77fc95b8b4043B384cFbB",
-	"symbol": "Krypton Galaxy Coin",
+	"symbol": "KGC",
 	"name": "Krypton Galaxy Coin",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/9152/thumb/krypton.PNG?1696509275",
 	"coingecko": "krypton-token",
 	"sources": [
 		"coingecko"

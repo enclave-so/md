@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x482702745260Ffd69FC19943f70cFFE2caCd70e9",
-	"symbol": "Caitlyn Jenner",
+	"symbol": "JENNER",
 	"name": "Caitlyn Jenner",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/38307/thumb/jenner.jpeg?1717048690",
 	"coingecko": "caitlyn-jenner-eth",
 	"sources": [
 		"coingecko"

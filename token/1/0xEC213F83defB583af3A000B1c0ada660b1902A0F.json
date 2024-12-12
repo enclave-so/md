@@ -4,10 +4,11 @@
 	"symbol": "PRE",
 	"name": "Presearch",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/PresearchOfficial/presearch-brand/master/logos/svg/presearch-icon-border-blue-transparent.svg",
+	"logo": "https://assets.coingecko.com/coins/images/1299/thumb/presearch.png?1696502369",
 	"coingecko": "presearch",
 	"sources": [
 		"coingecko",
+		"optimism",
 		"sushiswap"
 	]
 }

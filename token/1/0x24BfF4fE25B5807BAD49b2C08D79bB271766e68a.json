@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x24BfF4fE25B5807BAD49b2C08D79bB271766e68a",
-	"symbol": "Alea",
+	"symbol": "ALEA",
 	"name": "Alea",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35199/thumb/alea_logo_512_black_%281%29.png?1707840041",
 	"coingecko": "alea",
 	"sources": [
 		"coingecko"

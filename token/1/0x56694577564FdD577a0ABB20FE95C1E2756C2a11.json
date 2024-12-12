@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x56694577564FdD577a0ABB20FE95C1E2756C2a11",
-	"symbol": "AdaSwap",
+	"symbol": "ASW",
 	"name": "AdaSwap",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/24453/thumb/rA5cmPtX_400x400.jpg?1696523633",
 	"coingecko": "adaswap",
 	"sources": [
 		"coingecko"

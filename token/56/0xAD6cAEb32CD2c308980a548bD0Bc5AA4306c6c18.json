@@ -4,8 +4,9 @@
 	"symbol": "BAND",
 	"name": "BAND Protocol Token",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/band.jpg",
+	"logo": "https://tokens.pancakeswap.finance/images/0xAD6cAEb32CD2c308980a548bD0Bc5AA4306c6c18.png",
 	"sources": [
+		"pancakeswap",
 		"sushiswap"
 	]
 }

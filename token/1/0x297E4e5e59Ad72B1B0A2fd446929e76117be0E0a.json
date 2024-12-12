@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x297E4e5e59Ad72B1B0A2fd446929e76117be0E0a",
-	"symbol": "Smart Valor",
+	"symbol": "VALOR",
 	"name": "Smart Valor",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/7231/thumb/1._SMART_VALOR__Logo_NEW.png?1696507527",
 	"coingecko": "smart-valor",
 	"sources": [
 		"coingecko"

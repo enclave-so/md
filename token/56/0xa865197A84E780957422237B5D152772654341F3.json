@@ -1,0 +1,11 @@
+{
+	"chain": 56,
+	"address": "0xa865197A84E780957422237B5D152772654341F3",
+	"symbol": "OLE",
+	"name": "OpenLeverage",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0xa865197A84E780957422237B5D152772654341F3.png",
+	"sources": [
+		"pancakeswap"
+	]
+}

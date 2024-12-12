@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xbd89b8D708809E7022135313683663911826977E",
-	"symbol": "O-MEE",
-	"name": "O-MEE",
+	"symbol": "OME",
+	"name": "O MEE",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/25099/thumb/logo-mark-full-colour-cmyk-693px_300ppi.jpg?1696524249",
 	"coingecko": "0-mee",
 	"sources": [
 		"coingecko"

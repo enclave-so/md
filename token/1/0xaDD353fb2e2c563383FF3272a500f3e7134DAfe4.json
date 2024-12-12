@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xaDD353fb2e2c563383FF3272a500f3e7134DAfe4",
-	"symbol": "Tunachain",
+	"symbol": "TUNA",
 	"name": "Tunachain",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/36213/thumb/Project_Logo_B_Transparent.png?1710836529",
 	"coingecko": "tunachain",
 	"sources": [
 		"coingecko"

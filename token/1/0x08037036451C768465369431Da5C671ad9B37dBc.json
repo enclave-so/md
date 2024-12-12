@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x08037036451C768465369431Da5C671ad9B37dBc",
-	"symbol": "NFT Stars",
+	"symbol": "NFTS",
 	"name": "NFT Stars",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/16141/thumb/j2KHi8zR_400x400.png?1696515746",
 	"coingecko": "nft-stars",
 	"sources": [
 		"coingecko"

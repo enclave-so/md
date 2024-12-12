@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x5959e94661E1203e0c8Ef84095A7846bacc6A94F",
-	"symbol": "ZKCrypt AI",
+	"symbol": "ZKAI",
 	"name": "ZKCrypt AI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/51515/thumb/Official_logo.jpg?1731442824",
 	"coingecko": "zkcrypt-ai",
 	"sources": [
 		"coingecko"

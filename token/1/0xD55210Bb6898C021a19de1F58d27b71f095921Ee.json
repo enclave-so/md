@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xD55210Bb6898C021a19de1F58d27b71f095921Ee",
-	"symbol": "Chickencoin",
+	"symbol": "CHKN",
 	"name": "Chickencoin",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/36684/thumb/gekologo.jpg?1712070948",
 	"coingecko": "chickencoin",
 	"sources": [
 		"coingecko"

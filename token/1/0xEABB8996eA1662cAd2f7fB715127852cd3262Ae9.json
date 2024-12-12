@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xEABB8996eA1662cAd2f7fB715127852cd3262Ae9",
-	"symbol": "Connect Financial",
+	"symbol": "CNFI",
 	"name": "Connect Financial",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/13592/thumb/cf-logo-iconic-black.png?1696513344",
 	"coingecko": "connect-financial",
 	"sources": [
 		"coingecko"

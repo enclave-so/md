@@ -3,6 +3,8 @@
 	"address": "0x35282d87011f87508D457F08252Bc5bFa52E10A0",
 	"symbol": "ULTRA",
 	"name": "ULTRA",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35315/thumb/ultra-logo.png?1708161054",
 	"coingecko": "ultra-2",
 	"sources": [
 		"coingecko"

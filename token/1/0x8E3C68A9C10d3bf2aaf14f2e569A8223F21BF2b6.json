@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0x8E3C68A9C10d3bf2aaf14f2e569A8223F21BF2b6",
+	"symbol": "MUGLOO",
+	"name": "Mugloo",
+	"decimals": 4,
+	"logo": "https://ethereum-optimism.github.io/data/MUGLOO/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"chain": 56,
+	"address": "0x654A32542A84bEA7D2c2C1A1Ed1AAAf26888E6bD",
+	"symbol": "BITU",
+	"name": "BitU USD",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x654A32542A84bEA7D2c2C1A1Ed1AAAf26888E6bD.png",
+	"sources": [
+		"pancakeswap"
+	]
+}

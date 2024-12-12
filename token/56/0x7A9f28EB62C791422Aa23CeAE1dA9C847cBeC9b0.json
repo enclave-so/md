@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0x7A9f28EB62C791422Aa23CeAE1dA9C847cBeC9b0",
-	"symbol": "Yieldwatch",
+	"symbol": "WATCH",
 	"name": "Yieldwatch",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x7A9f28EB62C791422Aa23CeAE1dA9C847cBeC9b0.png",
 	"coingecko": "yieldwatch",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

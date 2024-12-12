@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xACB3604AaDF26e6C0bb8c720420380629A328d2C",
-	"symbol": "Leveraged eETH",
+	"symbol": "XEETH",
 	"name": "Leveraged eETH",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/39604/thumb/Screenshot_2024-08-07_at_8.08.08_PM-removebg-preview.png?1723065454",
 	"coingecko": "leveraged-eeth",
 	"sources": [
 		"coingecko"

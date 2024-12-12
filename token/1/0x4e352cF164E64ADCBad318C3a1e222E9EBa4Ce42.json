@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x4e352cF164E64ADCBad318C3a1e222E9EBa4Ce42",
-	"symbol": "MUX Protocol",
+	"symbol": "MCB",
 	"name": "MUX Protocol",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/11796/thumb/mux.jpg?1696511672",
 	"coingecko": "mcdex",
 	"sources": [
 		"coingecko"

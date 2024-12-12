@@ -2,9 +2,9 @@
 	"chain": 1,
 	"address": "0x6fC13EACE26590B80cCCAB1ba5d51890577D83B2",
 	"symbol": "UMB",
-	"name": "Umbrella",
+	"name": "Umbrella Network",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x6fC13EACE26590B80cCCAB1ba5d51890577D83B2/logo.png",
+	"logo": "https://assets.coingecko.com/coins/images/13913/thumb/Apple_Watch_45mm_-_3.png?1705486680",
 	"coingecko": "umbrella-network",
 	"sources": [
 		"coingecko",

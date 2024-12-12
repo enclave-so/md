@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x80795A7bb55f003B1572411A271e31f73E03Dd73",
-	"symbol": "daumenfrosch",
+	"symbol": "DAUMEN",
 	"name": "daumenfrosch",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/38848/thumb/daumenfrosch.png?1719212385",
 	"coingecko": "daumenfrosch-2",
 	"sources": [
 		"coingecko"

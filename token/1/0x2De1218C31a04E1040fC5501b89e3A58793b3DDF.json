@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x2De1218C31a04E1040fC5501b89e3A58793b3DDF",
-	"symbol": "Three Arrowz Capitel",
+	"symbol": "3AC",
 	"name": "Three Arrowz Capitel",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/50392/thumb/3AC.jpg?1727582626",
 	"coingecko": "three-arrowz-capitel",
 	"sources": [
 		"coingecko"

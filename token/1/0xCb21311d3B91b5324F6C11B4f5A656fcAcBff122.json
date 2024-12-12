@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xCb21311d3B91b5324F6C11B4f5A656fcAcBff122",
-	"symbol": "QuantixAI",
+	"symbol": "QAI",
 	"name": "QuantixAI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/36166/thumb/200px_Qai.png?1726228972",
 	"coingecko": "quantixai",
 	"sources": [
 		"coingecko"

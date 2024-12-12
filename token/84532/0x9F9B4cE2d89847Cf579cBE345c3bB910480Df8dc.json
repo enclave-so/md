@@ -1,0 +1,11 @@
+{
+	"chain": 84532,
+	"address": "0x9F9B4cE2d89847Cf579cBE345c3bB910480Df8dc",
+	"symbol": "IRARA",
+	"name": "IRARA Token",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/IRARA/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

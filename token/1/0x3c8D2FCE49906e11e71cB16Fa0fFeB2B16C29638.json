@@ -4,7 +4,7 @@
 	"symbol": "NFTL",
 	"name": "Nifty League",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x3c8D2FCE49906e11e71cB16Fa0fFeB2B16C29638/logo.png",
+	"logo": "https://assets.coingecko.com/coins/images/19224/thumb/NFTL-256x256.png?1696518671",
 	"coingecko": "nifty-league",
 	"sources": [
 		"coingecko",

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x8c4E7f814d40f8929F9112C5D09016F923d34472",
-	"symbol": "XCELTOKEN PLUS",
+	"symbol": "XLAB",
 	"name": "XCELTOKEN PLUS",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/8508/thumb/CXQJPNyO_400x400.jpg?1696508687",
 	"coingecko": "xceltoken-plus",
 	"sources": [
 		"coingecko"

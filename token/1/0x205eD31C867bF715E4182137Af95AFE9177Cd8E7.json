@@ -3,6 +3,8 @@
 	"address": "0x205eD31C867bF715E4182137Af95AFE9177Cd8E7",
 	"symbol": "DEFY",
 	"name": "DEFY",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/26877/thumb/8ybr83fb0ca45cm1yvrcaclwbvcp.jpeg?1696525936",
 	"coingecko": "defy",
 	"sources": [
 		"coingecko"

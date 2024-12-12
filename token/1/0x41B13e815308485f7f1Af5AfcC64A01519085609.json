@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x41B13e815308485f7f1Af5AfcC64A01519085609",
-	"symbol": "KoinBay Token",
+	"symbol": "KBT",
 	"name": "KoinBay Token",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/35670/thumb/KB_200x200_symbol.png?1709487144",
 	"coingecko": "koinbay-token",
 	"sources": [
 		"coingecko"

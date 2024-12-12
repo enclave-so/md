@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x2353F7e7b74C045a5dfbaaFeE5d21BFD948dC170",
-	"symbol": "Ola",
+	"symbol": "OLA",
 	"name": "Ola",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/51733/thumb/ola.jpg?1731917981",
 	"coingecko": "ola",
 	"sources": [
 		"coingecko"

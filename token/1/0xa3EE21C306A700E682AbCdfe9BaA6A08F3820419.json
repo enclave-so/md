@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xa3EE21C306A700E682AbCdfe9BaA6A08F3820419",
-	"symbol": "Creditcoin",
+	"symbol": "CTC",
 	"name": "Creditcoin",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/10569/thumb/ctc.png?1696510552",
 	"coingecko": "creditcoin-2",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x88d50B466BE55222019D71F9E8fAe17f5f45FCA1",
-	"symbol": "Cryptaur",
+	"symbol": "CPT",
 	"name": "Cryptaur",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/2481/thumb/n3w6Z9xW_400x400.jpg?1696503301",
 	"coingecko": "cryptaur",
 	"sources": [
 		"coingecko"

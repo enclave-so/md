@@ -3,8 +3,11 @@
 	"address": "0xfCe146bF3146100cfe5dB4129cf6C82b0eF4Ad8c",
 	"symbol": "renBTC",
 	"name": "renBTC",
+	"decimals": 8,
+	"logo": "https://tokens.pancakeswap.finance/images/0xfCe146bF3146100cfe5dB4129cf6C82b0eF4Ad8c.png",
 	"coingecko": "renbtc",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

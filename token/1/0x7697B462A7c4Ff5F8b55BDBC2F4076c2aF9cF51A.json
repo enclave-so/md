@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0x7697B462A7c4Ff5F8b55BDBC2F4076c2aF9cF51A",
-	"symbol": "Sarcophagus",
+	"symbol": "SARCO",
 	"name": "Sarcophagus",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/15091/thumb/E2S2-CcUcAAyNxD.jpeg?1696514749",
 	"coingecko": "sarcophagus",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

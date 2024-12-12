@@ -1,10 +1,13 @@
 {
 	"chain": 8453,
 	"address": "0x0BbbEad62f7647AE8323d2cb243A0DB74B7C2b80",
-	"symbol": "Ambire Wallet",
+	"symbol": "WALLET",
 	"name": "Ambire Wallet",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/WALLET/logo.svg",
 	"coingecko": "ambire-wallet",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

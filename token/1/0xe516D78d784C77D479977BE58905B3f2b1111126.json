@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xe516D78d784C77D479977BE58905B3f2b1111126",
-	"symbol": "Bitspawn",
+	"symbol": "SPWN",
 	"name": "Bitspawn",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/16513/thumb/token_logo.png?1696516077",
 	"coingecko": "bitspawn",
 	"sources": [
 		"coingecko"

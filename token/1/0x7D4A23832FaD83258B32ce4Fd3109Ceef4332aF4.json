@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x7D4A23832FaD83258B32ce4Fd3109Ceef4332aF4",
-	"symbol": "Stonks on ETH",
+	"symbol": "STONKS",
 	"name": "Stonks on ETH",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/38610/thumb/STONKS_200px.png?1723514354",
 	"coingecko": "stonks-on-eth",
 	"sources": [
 		"coingecko"

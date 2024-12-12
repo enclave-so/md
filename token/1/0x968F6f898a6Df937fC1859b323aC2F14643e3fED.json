@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x968F6f898a6Df937fC1859b323aC2F14643e3fED",
-	"symbol": "Numerico",
+	"symbol": "NWC",
 	"name": "Numerico",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/9805/thumb/numerico.jpg?1722235588",
 	"coingecko": "newscrypto-coin",
 	"sources": [
 		"coingecko"

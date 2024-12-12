@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x6431FA4B812a2DCC062A38CB55cc7D18135AdEAd",
-	"symbol": "RankerDao",
+	"symbol": "RANKER",
 	"name": "RankerDao",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/23902/thumb/ranker.png?1696523102",
 	"coingecko": "rankerdao",
 	"sources": [
 		"coingecko"

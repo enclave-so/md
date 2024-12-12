@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x9FD22a17b4A96Da3F83797d122172C450381fb88",
-	"symbol": "Jefe",
+	"symbol": "JEFE",
 	"name": "Jefe",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/25336/thumb/JEFE_200.png?1696524470",
 	"coingecko": "jefe",
 	"sources": [
 		"coingecko"

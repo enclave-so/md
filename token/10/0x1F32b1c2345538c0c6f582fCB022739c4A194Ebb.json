@@ -8,6 +8,7 @@
 	"coingecko": "wrapped-steth",
 	"sources": [
 		"coingecko",
+		"optimism",
 		"sushiswap"
 	]
 }

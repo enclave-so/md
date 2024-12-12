@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xcAb254f1a32343f11aB41fbdE90eCB410cDe348a",
-	"symbol": "Froge",
+	"symbol": "FROGE",
 	"name": "Froge",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/33216/thumb/frog.jpeg?1701087620",
 	"coingecko": "frogevip",
 	"sources": [
 		"coingecko"

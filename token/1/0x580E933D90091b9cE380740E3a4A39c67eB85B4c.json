@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x580E933D90091b9cE380740E3a4A39c67eB85B4c",
-	"symbol": "GameSwift",
+	"symbol": "GSWIFT",
 	"name": "GameSwift",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30949/thumb/GameSwift_Token.png?1696529788",
 	"coingecko": "gameswift",
 	"sources": [
 		"coingecko"

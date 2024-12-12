@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x78965B1c638a7Ff408d1697a96d7b8E47Bb7C75F",
-	"symbol": "Chainpal",
+	"symbol": "CPAL",
 	"name": "Chainpal",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/50357/thumb/cplogo.jpg?1727284704",
 	"coingecko": "chainpal",
 	"sources": [
 		"coingecko"

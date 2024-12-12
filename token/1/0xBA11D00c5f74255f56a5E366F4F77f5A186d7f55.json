@@ -4,10 +4,11 @@
 	"symbol": "BAND",
 	"name": "Band Protocol",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/band.jpg",
+	"logo": "https://assets.coingecko.com/coins/images/9545/thumb/band-protocol.png?1568730326",
 	"coingecko": "band-protocol",
 	"sources": [
 		"coingecko",
-		"sushiswap"
+		"sushiswap",
+		"uniswap"
 	]
 }

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xEa4a2327E75252517535fd013b7C6706609819DB",
-	"symbol": "Shibarium Name Service",
+	"symbol": "SNS",
 	"name": "Shibarium Name Service",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/29486/thumb/shibarium.jpg?1696528430",
 	"coingecko": "shibarium-name-service",
 	"sources": [
 		"coingecko"

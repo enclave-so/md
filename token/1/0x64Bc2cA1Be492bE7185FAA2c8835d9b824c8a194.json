@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0x64Bc2cA1Be492bE7185FAA2c8835d9b824c8a194",
-	"symbol": "Big Time",
+	"symbol": "BIGTIME",
 	"name": "Big Time",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/32251/standard/-6136155493475923781_121.jpg?1696998691",
 	"coingecko": "big-time",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"uniswap"
 	]
 }

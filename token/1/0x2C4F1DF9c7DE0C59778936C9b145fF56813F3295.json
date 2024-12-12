@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x2C4F1DF9c7DE0C59778936C9b145fF56813F3295",
-	"symbol": "AssetMantle",
+	"symbol": "MNTL",
 	"name": "AssetMantle",
+	"decimals": 6,
+	"logo": "https://assets.coingecko.com/coins/images/25181/thumb/thumbnail.png?1696524326",
 	"coingecko": "assetmantle",
 	"sources": [
 		"coingecko"

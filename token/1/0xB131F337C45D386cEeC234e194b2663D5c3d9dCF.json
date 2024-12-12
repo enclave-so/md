@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xB131F337C45D386cEeC234e194b2663D5c3d9dCF",
-	"symbol": "iCommunity",
+	"symbol": "ICOM",
 	"name": "iCommunity",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/23667/thumb/logo-icommunity.png?1696522869",
 	"coingecko": "icommunity",
 	"sources": [
 		"coingecko"

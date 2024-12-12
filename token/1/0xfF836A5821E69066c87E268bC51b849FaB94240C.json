@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0xfF836A5821E69066c87E268bC51b849FaB94240C",
-	"symbol": "Real Smurf Cat",
+	"symbol": "SMURFCAT",
 	"name": "Real Smurf Cat",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31751/thumb/SMURFCAT.png?1708079642",
 	"coingecko": "real-smurf-cat",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

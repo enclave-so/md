@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x220B71671b649c03714dA9c621285943f3cbcDC6",
-	"symbol": "TosDis",
+	"symbol": "DIS",
 	"name": "TosDis",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/13745/thumb/Tosdis-black.png?1696513488",
 	"coingecko": "tosdis",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x1E18821E69B9FAA8e6e75DFFe54E7E25754beDa0",
-	"symbol": "KIMCHI.finance",
-	"name": "KIMCHI.finance",
+	"symbol": "KIMCHI",
+	"name": "KIMCHI finance",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/12302/thumb/VBa2Z60o_400x400.png?1696512132",
 	"coingecko": "kimchi-finance",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xf1F508c7C9f0d1b15a76fbA564eEf2d956220cf7",
-	"symbol": "Pepedex",
+	"symbol": "PPDEX",
 	"name": "Pepedex",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/13022/thumb/output-onlinepngtools-1.png?1696512811",
 	"coingecko": "pepedex",
 	"sources": [
 		"coingecko"

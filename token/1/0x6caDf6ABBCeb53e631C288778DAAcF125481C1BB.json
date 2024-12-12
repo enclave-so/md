@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x6caDf6ABBCeb53e631C288778DAAcF125481C1BB",
-	"symbol": "The Citadel",
+	"symbol": "CITADEL",
 	"name": "The Citadel",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/20445/thumb/2023-03-16_22.55.22.jpg?1696519851",
 	"coingecko": "the-citadel",
 	"sources": [
 		"coingecko"

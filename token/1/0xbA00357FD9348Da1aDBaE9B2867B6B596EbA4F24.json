@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xbA00357FD9348Da1aDBaE9B2867B6B596EbA4F24",
-	"symbol": "LaunchR",
+	"symbol": "LCR",
 	"name": "LaunchR",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/39129/thumb/LaunchR_coin_gecko.jpg?1720669555",
 	"coingecko": "launchr",
 	"sources": [
 		"coingecko"

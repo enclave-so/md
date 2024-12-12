@@ -1,0 +1,11 @@
+{
+	"chain": 56,
+	"address": "0xD069599E718f963bD84502b49ba8F8657fAF5B3a",
+	"symbol": "PLAY",
+	"name": "PLAY",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0xD069599E718f963bD84502b49ba8F8657fAF5B3a.png",
+	"sources": [
+		"pancakeswap"
+	]
+}

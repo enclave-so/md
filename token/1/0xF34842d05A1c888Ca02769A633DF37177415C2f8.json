@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xF34842d05A1c888Ca02769A633DF37177415C2f8",
-	"symbol": "IdleUSDT (Yield)",
-	"name": "IdleUSDT (Yield)",
+	"symbol": "IDLEUSDTYIELD",
+	"name": "IdleUSDT  Yield ",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/11933/thumb/idleusdtv3maxyield_32.png?1696511794",
 	"coingecko": "idle-usdt-yield",
 	"sources": [
 		"coingecko"

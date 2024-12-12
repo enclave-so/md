@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x9Dcd367e2AFA8D6e5d6Cf0306094E3Eb7BBAaf4d",
-	"symbol": "Crypto Bros",
+	"symbol": "BROS",
 	"name": "Crypto Bros",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30338/thumb/Crypto_Bros_%284%29.png?1696529239",
 	"coingecko": "crypto-bros",
 	"sources": [
 		"coingecko"

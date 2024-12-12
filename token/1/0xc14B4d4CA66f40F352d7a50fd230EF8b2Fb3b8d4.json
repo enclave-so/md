@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xc14B4d4CA66f40F352d7a50fd230EF8b2Fb3b8d4",
-	"symbol": "Blocktools",
+	"symbol": "TOOLS",
 	"name": "Blocktools",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31313/thumb/blocktools.jpeg?1696530132",
 	"coingecko": "blocktools",
 	"sources": [
 		"coingecko"

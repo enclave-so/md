@@ -1,10 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x0Ae38f7E10A43B5b2fB064B42a2f4514cbA909ef",
-	"symbol": "unshETH",
+	"symbol": "UNSHETH",
 	"name": "unshETH Ether",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x0Ae38f7E10A43B5b2fB064B42a2f4514cbA909ef.jpg",
+	"logo": "https://assets.coingecko.com/coins/images/30365/thumb/ush.png?1696529262",
 	"coingecko": "unsheth-unsheth",
 	"sources": [
 		"coingecko",

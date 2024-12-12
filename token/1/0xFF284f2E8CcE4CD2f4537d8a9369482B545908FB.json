@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xFF284f2E8CcE4CD2f4537d8a9369482B545908FB",
-	"symbol": "NodelyAI",
+	"symbol": "NODE",
 	"name": "NodelyAI",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/50518/thumb/200X200_LOGO.png?1728043815",
 	"coingecko": "nodelyai",
 	"sources": [
 		"coingecko"

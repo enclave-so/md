@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0x78da5799CF427Fee11e9996982F4150eCe7a99A7",
-	"symbol": "Revenue Generating USD",
+	"symbol": "RGUSD",
 	"name": "Revenue Generating USD",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/38146/thumb/rgusd%28200_x_200_px%29.png?1716654569",
 	"coingecko": "revenue-generating-usd",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

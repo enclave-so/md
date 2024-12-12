@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x66bFf695f3B16a824869a8018a3A6e3685241269",
-	"symbol": "Bretter Brett",
+	"symbol": "BRETT",
 	"name": "Bretter Brett",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/37745/thumb/Bretter_Left_200x200.png?1715370073",
 	"coingecko": "bretter-brett",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x0C5cB676E38D6973837b9496F6524835208145a2",
-	"symbol": "KaboChan",
+	"symbol": "KABO",
 	"name": "KaboChan",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/34631/thumb/KaboChan.png?1705548332",
 	"coingecko": "kabochan",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x2620638EDA99F9e7E902Ea24a285456EE9438861",
-	"symbol": "Crust Shadow",
+	"symbol": "CSM",
 	"name": "Crust Shadow",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/16037/thumb/2_mnCYZfHmLg2bFrjM3vKtPw.png?1696515647",
 	"coingecko": "crust-storage-market",
 	"sources": [
 		"coingecko"

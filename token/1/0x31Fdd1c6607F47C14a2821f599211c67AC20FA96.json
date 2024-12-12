@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x31Fdd1c6607F47C14a2821f599211c67AC20FA96",
-	"symbol": "Burency",
+	"symbol": "BUY",
 	"name": "Burency",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/12216/thumb/Ddphl9BD.png?1696512050",
 	"coingecko": "burency",
 	"sources": [
 		"coingecko"

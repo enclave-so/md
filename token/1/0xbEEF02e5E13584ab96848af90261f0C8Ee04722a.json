@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xbEEF02e5E13584ab96848af90261f0C8Ee04722a",
-	"symbol": "Steakhouse PYUSD Morpho Vault",
+	"symbol": "STEAKPYUSD",
 	"name": "Steakhouse PYUSD Morpho Vault",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/52402/thumb/steak-pyusd.png?1733299084",
 	"coingecko": "steakhouse-pyusd-morpho-vault",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xBdBDBDd0c22888E63CB9098aD6D68439197CB091",
-	"symbol": "Bondex",
+	"symbol": "BDXN",
 	"name": "Bondex",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/38909/thumb/bondex_logo_copy.jpg?1719473774",
 	"coingecko": "bondex",
 	"sources": [
 		"coingecko"

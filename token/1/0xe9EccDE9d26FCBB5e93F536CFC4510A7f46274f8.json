@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xe9EccDE9d26FCBB5e93F536CFC4510A7f46274f8",
-	"symbol": "infraX",
+	"symbol": "INFRA",
 	"name": "infraX",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/36063/thumb/RENDR.png?1710405370",
 	"coingecko": "infrax",
 	"sources": [
 		"coingecko"

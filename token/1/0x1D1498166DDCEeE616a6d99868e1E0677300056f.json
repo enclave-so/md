@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x1D1498166DDCEeE616a6d99868e1E0677300056f",
-	"symbol": "Space Token",
+	"symbol": "SPACE",
 	"name": "Space Token",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/20676/thumb/jYw3kgsY_400x400.png?1696520076",
 	"coingecko": "space-token-bsc",
 	"sources": [
 		"coingecko"

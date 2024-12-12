@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x210028b5a1E9efFb93Ce31006a18629F31131093",
-	"symbol": "BLK2100",
+	"symbol": "BLK",
 	"name": "BLK2100",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/51417/thumb/TokenImage12_-_Copy.png?1731611883",
 	"coingecko": "blk2100",
 	"sources": [
 		"coingecko"

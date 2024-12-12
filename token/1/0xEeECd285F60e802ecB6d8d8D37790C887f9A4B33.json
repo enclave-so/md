@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xEeECd285F60e802ecB6d8d8D37790C887f9A4B33",
-	"symbol": "Big Tom",
+	"symbol": "TOM",
 	"name": "Big Tom",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/38555/thumb/huyah_%281%29.jpg?1717999187",
 	"coingecko": "big-tom",
 	"sources": [
 		"coingecko"

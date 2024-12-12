@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x9DB0FB0Aebe6A925B7838D16e3993A3976A64AaB",
-	"symbol": "Bambi",
+	"symbol": "BAM",
 	"name": "Bambi",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30597/thumb/Frame_24.png?1696529467",
 	"coingecko": "bambi",
 	"sources": [
 		"coingecko"

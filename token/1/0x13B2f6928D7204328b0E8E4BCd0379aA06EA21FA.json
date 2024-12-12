@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x13B2f6928D7204328b0E8E4BCd0379aA06EA21FA",
-	"symbol": "Aave AMM WBTC",
+	"symbol": "AAMMWBTC",
 	"name": "Aave AMM WBTC",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/17215/thumb/aAMMWBTC_2x.png?1696516771",
 	"coingecko": "aave-amm-wbtc",
 	"sources": [
 		"coingecko"

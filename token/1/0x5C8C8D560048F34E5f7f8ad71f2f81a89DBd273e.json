@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x5C8C8D560048F34E5f7f8ad71f2f81a89DBd273e",
-	"symbol": "CryptoArt.Ai",
-	"name": "CryptoArt.Ai",
+	"symbol": "CART",
+	"name": "CryptoArt Ai",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/17583/thumb/logo-64.png?1696517117",
 	"coingecko": "cryptoart-ai",
 	"sources": [
 		"coingecko"

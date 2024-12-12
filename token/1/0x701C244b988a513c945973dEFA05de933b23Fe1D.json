@@ -3,6 +3,8 @@
 	"address": "0x701C244b988a513c945973dEFA05de933b23Fe1D",
 	"symbol": "OAX",
 	"name": "OAX",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/853/thumb/OAXlogo.png?1696501987",
 	"coingecko": "openanx",
 	"sources": [
 		"coingecko"

@@ -4,10 +4,11 @@
 	"symbol": "AGLD",
 	"name": "Adventure Gold",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x32353A6C91143bfd6C7d363B546e62a9A2489A20/logo.png",
+	"logo": "https://assets.coingecko.com/coins/images/18125/thumb/lpgblc4h_400x400.jpg?1630570955",
 	"coingecko": "adventure-gold",
 	"sources": [
 		"coingecko",
-		"sushiswap"
+		"sushiswap",
+		"uniswap"
 	]
 }

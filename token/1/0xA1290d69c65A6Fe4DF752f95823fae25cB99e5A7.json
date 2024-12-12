@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xA1290d69c65A6Fe4DF752f95823fae25cB99e5A7",
-	"symbol": "Kelp DAO Restaked ETH",
+	"symbol": "RSETH",
 	"name": "Kelp DAO Restaked ETH",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/33800/thumb/Icon___Dark.png?1702991855",
 	"coingecko": "kelp-dao-restaked-eth",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x0b61C4f33BCdEF83359ab97673Cb5961c6435F4E",
-	"symbol": "HOLD",
+	"symbol": "EARN",
 	"name": "HOLD",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/32575/thumb/200.png?1698554742",
 	"coingecko": "hold-2",
 	"sources": [
 		"coingecko"

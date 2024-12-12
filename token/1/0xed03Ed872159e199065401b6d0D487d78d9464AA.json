@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xed03Ed872159e199065401b6d0D487d78d9464AA",
-	"symbol": "Mexican Peso Tether",
+	"symbol": "MXNT",
 	"name": "Mexican Peso Tether",
+	"decimals": 6,
+	"logo": "https://assets.coingecko.com/coins/images/26087/thumb/MXNT_green.jpg?1696525178",
 	"coingecko": "mexican-peso-tether",
 	"sources": [
 		"coingecko"

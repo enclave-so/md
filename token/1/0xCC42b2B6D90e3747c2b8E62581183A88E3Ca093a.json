@@ -3,6 +3,8 @@
 	"address": "0xCC42b2B6D90e3747c2b8E62581183A88E3Ca093a",
 	"symbol": "LOTUS",
 	"name": "LOTUS",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/51077/thumb/Lotus200x200.png?1729999979",
 	"coingecko": "lotus",
 	"sources": [
 		"coingecko"

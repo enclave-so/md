@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x6aA56e1D98b3805921C170EB4B3fe7D4Fda6D89b",
-	"symbol": "MAGA",
+	"symbol": "TRUMP",
 	"name": "MAGA",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/31498/thumb/Maga-Trump-Logo-200px.png?1696530309",
 	"coingecko": "maga",
 	"sources": [
 		"coingecko"

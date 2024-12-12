@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x4D243E8F511045f0d5f9d0288BC628737b10c079",
-	"symbol": "Jason (Eth)",
-	"name": "Jason (Eth)",
+	"symbol": "JASON",
+	"name": "Jason  Eth ",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/36232/thumb/jason_%281%29.jpeg?1710906316",
 	"coingecko": "jason-eth",
 	"sources": [
 		"coingecko"

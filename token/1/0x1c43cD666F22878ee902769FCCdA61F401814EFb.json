@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x1c43cD666F22878ee902769FCCdA61F401814EFb",
-	"symbol": "Incept",
+	"symbol": "INCEPT",
 	"name": "Incept",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/50368/thumb/KzfTk1Sj_400x400.jpg?1727371321",
 	"coingecko": "incept",
 	"sources": [
 		"coingecko"

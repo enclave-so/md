@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xc58F53A8adff2fB4eb16ED56635772075E2EE123",
-	"symbol": "Aave AMM UniWBTCWETH",
+	"symbol": "AAMMUNIWBTCWETH",
 	"name": "Aave AMM UniWBTCWETH",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/17231/thumb/aAmmUniWBTCWETH.png?1696516785",
 	"coingecko": "aave-amm-uniwbtcweth",
 	"sources": [
 		"coingecko"

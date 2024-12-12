@@ -1,36 +1,6 @@
 [
 	{
 		"chain": 24,
-		"address": "0x6ef238E9E8CD2A96740897761C18894Fc086B9d0",
-		"symbol": "Mytheria",
-		"name": "Mytheria",
-		"coingecko": "mytheria",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 24,
-		"address": "0x981FB6159Ae351b7378d0d510930813DE281fCB5",
-		"symbol": "ONUS",
-		"name": "ONUS",
-		"coingecko": "onus",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 24,
-		"address": "0x10c2ED4Dcb8e81a5CE45d985f907364e1bC3e4e1",
-		"symbol": "Real Realm",
-		"name": "Real Realm",
-		"coingecko": "real-realm",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 24,
 		"address": "0xeFF34B63f55200a9D635B8ABBBFCC719b4977864",
 		"symbol": "VNDC",
 		"name": "VNDC",
@@ -61,6 +31,16 @@
 	},
 	{
 		"chain": 24,
+		"address": "0x92364Ec610eFa050D296f1EEB131f2139FB8810e",
+		"symbol": "KUSD-T",
+		"name": "KUSD-T",
+		"coingecko": "kusd-t",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 24,
 		"address": "0x765277EebeCA2e31912C9946eAe1021199B39C61",
 		"symbol": "Multichain Bridged USDC (KardiaChain)",
 		"name": "Multichain Bridged USDC (KardiaChain)",
@@ -71,10 +51,20 @@
 	},
 	{
 		"chain": 24,
-		"address": "0xfb62AE373acA027177D1c18Ee0862817f9080d08",
-		"symbol": "My DeFi Pet",
-		"name": "My DeFi Pet",
-		"coingecko": "my-defi-pet",
+		"address": "0x6ef238E9E8CD2A96740897761C18894Fc086B9d0",
+		"symbol": "Mytheria",
+		"name": "Mytheria",
+		"coingecko": "mytheria",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 24,
+		"address": "0x10c2ED4Dcb8e81a5CE45d985f907364e1bC3e4e1",
+		"symbol": "Real Realm",
+		"name": "Real Realm",
+		"coingecko": "real-realm",
 		"sources": [
 			"coingecko"
 		]
@@ -111,10 +101,20 @@
 	},
 	{
 		"chain": 24,
-		"address": "0x92364Ec610eFa050D296f1EEB131f2139FB8810e",
-		"symbol": "KUSD-T",
-		"name": "KUSD-T",
-		"coingecko": "kusd-t",
+		"address": "0xfb62AE373acA027177D1c18Ee0862817f9080d08",
+		"symbol": "My DeFi Pet",
+		"name": "My DeFi Pet",
+		"coingecko": "my-defi-pet",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 24,
+		"address": "0x981FB6159Ae351b7378d0d510930813DE281fCB5",
+		"symbol": "ONUS",
+		"name": "ONUS",
+		"coingecko": "onus",
 		"sources": [
 			"coingecko"
 		]

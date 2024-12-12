@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x395E925834996e558bdeC77CD648435d620AfB5b",
-	"symbol": "ThreeFold",
+	"symbol": "TFT",
 	"name": "ThreeFold",
+	"decimals": 7,
+	"logo": "https://assets.coingecko.com/coins/images/6704/thumb/black_logo_on_white_background_%282%29.jpg?1696507044",
 	"coingecko": "threefold-token",
 	"sources": [
 		"coingecko"

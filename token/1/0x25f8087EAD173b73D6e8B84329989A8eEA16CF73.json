@@ -2,12 +2,14 @@
 	"chain": 1,
 	"address": "0x25f8087EAD173b73D6e8B84329989A8eEA16CF73",
 	"symbol": "YGG",
-	"name": "Yield Guild Games Token",
+	"name": "Yield Guild Games",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/ygg.jpg",
+	"logo": "https://assets.coingecko.com/coins/images/17358/thumb/le1nzlO6_400x400.jpg?1632465691",
 	"coingecko": "yield-guild-games",
 	"sources": [
 		"coingecko",
-		"sushiswap"
+		"optimism",
+		"sushiswap",
+		"uniswap"
 	]
 }

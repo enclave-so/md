@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x50D7ee9708FEc39673c92e1AaE048EB3685eEA9b",
-	"symbol": "Ginnan",
+	"symbol": "GINNAN",
 	"name": "Ginnan",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/51413/thumb/Luku.png?1731102518",
 	"coingecko": "ginnan",
 	"sources": [
 		"coingecko"

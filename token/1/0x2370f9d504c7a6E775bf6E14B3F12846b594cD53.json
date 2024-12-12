@@ -2,9 +2,9 @@
 	"chain": 1,
 	"address": "0x2370f9d504c7a6E775bf6E14B3F12846b594cD53",
 	"symbol": "JPYC",
-	"name": "JPY Coin",
+	"name": "JPY Coin v1",
 	"decimals": 18,
-	"logo": "https://jpyc.jp/static/media/jpyc.0d1e5d3f.png",
+	"logo": "https://assets.coingecko.com/coins/images/17277/thumb/WoZ8rruL_400x400.png?1696516831",
 	"coingecko": "jpyc",
 	"sources": [
 		"coingecko",

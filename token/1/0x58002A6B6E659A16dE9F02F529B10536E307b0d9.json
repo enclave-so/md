@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x58002A6B6E659A16dE9F02F529B10536E307b0d9",
-	"symbol": "Crypto Holding Frank",
+	"symbol": "CHFT",
 	"name": "Crypto Holding Frank",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/11184/thumb/chft.png?1696511117",
 	"coingecko": "crypto-holding-frank-token",
 	"sources": [
 		"coingecko"

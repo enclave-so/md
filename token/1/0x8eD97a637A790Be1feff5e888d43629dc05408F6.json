@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x8eD97a637A790Be1feff5e888d43629dc05408F6",
-	"symbol": "Non-Playable Coin",
-	"name": "Non-Playable Coin",
+	"symbol": "NPC",
+	"name": "Non Playable Coin",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31193/thumb/NPC_200x200.png?1696530021",
 	"coingecko": "non-playable-coin",
 	"sources": [
 		"coingecko"

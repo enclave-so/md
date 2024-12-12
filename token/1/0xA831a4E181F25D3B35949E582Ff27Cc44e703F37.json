@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xA831a4E181F25D3B35949E582Ff27Cc44e703F37",
-	"symbol": "ALEX Lab",
+	"symbol": "ALEX",
 	"name": "ALEX Lab",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/25837/thumb/ALEX_Token.png?1696524922",
 	"coingecko": "alexgo",
 	"sources": [
 		"coingecko"

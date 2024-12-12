@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xc6Cc3d07C705E39D11c7f60d8836C7C78D4aC5f1",
-	"symbol": "Olea Token",
+	"symbol": "OLEA",
 	"name": "Olea Token",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/29056/thumb/symbol.png?1696528023",
 	"coingecko": "athena-returns-olea",
 	"sources": [
 		"coingecko"

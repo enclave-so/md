@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xb012Be90957D70D9a070918027655F998C123a88",
-	"symbol": "Hermes DAO",
+	"symbol": "HMX",
 	"name": "Hermes DAO",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/29283/thumb/Hermes_DAO.png?1696528235",
 	"coingecko": "hermes-dao",
 	"sources": [
 		"coingecko"

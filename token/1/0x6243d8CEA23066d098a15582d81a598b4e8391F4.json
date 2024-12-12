@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x6243d8CEA23066d098a15582d81a598b4e8391F4",
-	"symbol": "Reflexer Ungovernance",
+	"symbol": "FLX",
 	"name": "Reflexer Ungovernance",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14123/thumb/EAfYdwgd_400x400.jpg?1696513843",
 	"coingecko": "reflexer-ungovernance-token",
 	"sources": [
 		"coingecko"

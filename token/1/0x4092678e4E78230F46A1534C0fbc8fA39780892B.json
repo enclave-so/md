@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x4092678e4E78230F46A1534C0fbc8fA39780892B",
-	"symbol": "Odyssey",
+	"symbol": "OCN",
 	"name": "Odyssey",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/2559/thumb/ocn.png?1696503367",
 	"coingecko": "odyssey",
 	"sources": [
 		"coingecko"

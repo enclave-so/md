@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x572975FF6d5136c81c8d7448B6361eF9EEfE1AB0",
-	"symbol": "Wrapped Staked USDT",
+	"symbol": "WSTUSDT",
 	"name": "Wrapped Staked USDT",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31160/thumb/wstusdt.jpeg?1696529988",
 	"coingecko": "wrapped-staked-usdt",
 	"sources": [
 		"coingecko"

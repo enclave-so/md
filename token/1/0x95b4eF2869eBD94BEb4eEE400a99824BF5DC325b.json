@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x95b4eF2869eBD94BEb4eEE400a99824BF5DC325b",
-	"symbol": "cMKR",
+	"symbol": "CMKR",
 	"name": "cMKR",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/17528/thumb/cmkr.PNG?1696517066",
 	"coingecko": "compound-maker",
 	"sources": [
 		"coingecko"

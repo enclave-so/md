@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x74950FC112473caba58193c6bF6412a6f1e4d7d2",
-	"symbol": "Vitreus",
+	"symbol": "WVTRS",
 	"name": "Vitreus",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/38779/thumb/Vitreus_Standard_Logo-200_x_200.png?1718829357",
 	"coingecko": "vitreus",
 	"sources": [
 		"coingecko"

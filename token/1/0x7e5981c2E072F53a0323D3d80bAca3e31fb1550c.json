@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x7e5981c2E072F53a0323D3d80bAca3e31fb1550c",
-	"symbol": "JovJou",
+	"symbol": "JOVJOU",
 	"name": "JovJou",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/32424/thumb/jj_2.png?1698118523",
 	"coingecko": "jovjou",
 	"sources": [
 		"coingecko"

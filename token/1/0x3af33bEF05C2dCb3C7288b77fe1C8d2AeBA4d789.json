@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0x3af33bEF05C2dCb3C7288b77fe1C8d2AeBA4d789",
-	"symbol": "Kromatika",
+	"symbol": "KROM",
 	"name": "Kromatika",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/20541/thumb/KROM_Transparent.png?1696519948",
 	"coingecko": "kromatika",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

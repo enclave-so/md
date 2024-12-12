@@ -1,0 +1,11 @@
+{
+	"chain": 42161,
+	"address": "0x749654601a286833aD30357246400D2933b1C89b",
+	"symbol": "iETH1X",
+	"name": "Index Coop Inverse Ethereum Index",
+	"decimals": 18,
+	"logo": "https://cdn.indexcoop.com/ieth1x.svg",
+	"sources": [
+		"indexcoop"
+	]
+}

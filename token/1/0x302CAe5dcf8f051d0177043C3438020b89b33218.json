@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x302CAe5dcf8f051d0177043C3438020b89b33218",
-	"symbol": "Boost",
+	"symbol": "BOOST",
 	"name": "Boost",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/17657/thumb/02FjG1Og.png?1696517188",
 	"coingecko": "boost",
 	"sources": [
 		"coingecko"

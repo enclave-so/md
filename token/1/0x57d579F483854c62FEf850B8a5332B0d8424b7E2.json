@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x57d579F483854c62FEf850B8a5332B0d8424b7E2",
-	"symbol": "OpenSwap.One",
-	"name": "OpenSwap.One",
+	"symbol": "OPENX",
+	"name": "OpenSwap One",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/19274/thumb/X_color.png?1696518717",
 	"coingecko": "openswap-token",
 	"sources": [
 		"coingecko"

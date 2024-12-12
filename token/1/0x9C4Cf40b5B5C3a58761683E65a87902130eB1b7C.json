@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x9C4Cf40b5B5C3a58761683E65a87902130eB1b7C",
-	"symbol": "Tate Stop",
+	"symbol": "TME",
 	"name": "Tate Stop",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/37997/thumb/Tate_Stop.png?1716226037",
 	"coingecko": "tate-stop",
 	"sources": [
 		"coingecko"

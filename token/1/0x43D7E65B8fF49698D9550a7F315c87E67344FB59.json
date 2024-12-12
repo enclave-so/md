@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x43D7E65B8fF49698D9550a7F315c87E67344FB59",
-	"symbol": "Shiba Saga",
+	"symbol": "SHIA",
 	"name": "Shiba Saga",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31437/thumb/51nmYxm3_400x400.jpg?1696530252",
 	"coingecko": "shiba-saga",
 	"sources": [
 		"coingecko"

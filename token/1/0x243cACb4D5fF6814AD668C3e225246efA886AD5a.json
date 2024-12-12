@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x243cACb4D5fF6814AD668C3e225246efA886AD5a",
-	"symbol": "Shina Inu",
+	"symbol": "SHI",
 	"name": "Shina Inu",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/25208/thumb/coingecko-shina-purple-bg.png?1696524352",
 	"coingecko": "shina-inu",
 	"sources": [
 		"coingecko"

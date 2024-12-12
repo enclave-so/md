@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x64d3CAe387405d91f7b0D91fb1D824A281719500",
-	"symbol": "GammaSwap",
+	"symbol": "GS",
 	"name": "GammaSwap",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/29222/thumb/newLogo2.png?1731702645",
 	"coingecko": "gammaswap",
 	"sources": [
 		"coingecko"

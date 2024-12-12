@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xb48C625E2d55b53d192714DEAB18ec9D40E18A55",
-	"symbol": "Galaxify",
+	"symbol": "GLX",
 	"name": "Galaxify",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/38710/thumb/glaxify-02_%281%29_%281%29.png?1718389329",
 	"coingecko": "galaxify",
 	"sources": [
 		"coingecko"

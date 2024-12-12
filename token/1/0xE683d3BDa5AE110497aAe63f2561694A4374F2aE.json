@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xE683d3BDa5AE110497aAe63f2561694A4374F2aE",
-	"symbol": "TrumpsFight",
+	"symbol": "TRUMPSFIGHT",
 	"name": "TrumpsFight",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/50796/thumb/IMG_2779.jpeg?1729235564",
 	"coingecko": "trumpsfight",
 	"sources": [
 		"coingecko"

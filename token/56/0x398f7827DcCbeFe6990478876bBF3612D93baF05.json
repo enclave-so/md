@@ -1,0 +1,11 @@
+{
+	"chain": 56,
+	"address": "0x398f7827DcCbeFe6990478876bBF3612D93baF05",
+	"symbol": "MIXOLD",
+	"name": "MixMarvel Token Old",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x398f7827DcCbeFe6990478876bBF3612D93baF05.png",
+	"sources": [
+		"pancakeswap"
+	]
+}

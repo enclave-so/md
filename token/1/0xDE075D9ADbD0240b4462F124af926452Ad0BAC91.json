@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xDE075D9ADbD0240b4462F124af926452Ad0BAC91",
-	"symbol": "Bubblefong",
+	"symbol": "BBF",
 	"name": "Bubblefong",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/24634/thumb/BBF-Token-200x200.png?1696523805",
 	"coingecko": "bubblefong",
 	"sources": [
 		"coingecko"

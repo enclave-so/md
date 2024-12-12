@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0xB49fa25978abf9a248b8212Ab4b87277682301c0",
-	"symbol": "RAI Finance",
+	"symbol": "SOFI",
 	"name": "RAI Finance",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14686/thumb/sofi.png?1696514359",
 	"coingecko": "rai-finance",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

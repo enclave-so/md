@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x72E5390EDb7727E3d4e3436451DADafF675dBCC0",
-	"symbol": "Hanu Yokia",
+	"symbol": "HANU",
 	"name": "Hanu Yokia",
+	"decimals": 12,
+	"logo": "https://assets.coingecko.com/coins/images/17161/thumb/Goji_Hanu_Logo_200x200.png?1696516720",
 	"coingecko": "hanu-yokia",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xDfC5964141c018485b4d017634660f85aa667714",
-	"symbol": "Valhalla Index",
+	"symbol": "ODIN",
 	"name": "Valhalla Index",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/50953/thumb/GYqJ4CTXkAAsvzc.jpg?1729586738",
 	"coingecko": "valhalla-index",
 	"sources": [
 		"coingecko"

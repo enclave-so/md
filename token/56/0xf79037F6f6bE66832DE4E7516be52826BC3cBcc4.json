@@ -4,8 +4,9 @@
 	"symbol": "HARD",
 	"name": "HARD",
 	"decimals": 6,
-	"logo": "https://assets.coingecko.com/coins/images/13008/small/HARD_coin_256.png?1604733983",
+	"logo": "https://tokens.pancakeswap.finance/images/0xf79037F6f6bE66832DE4E7516be52826BC3cBcc4.png",
 	"sources": [
+		"pancakeswap",
 		"sushiswap"
 	]
 }

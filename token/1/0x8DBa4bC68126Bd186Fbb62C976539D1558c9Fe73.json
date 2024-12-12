@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x8DBa4bC68126Bd186Fbb62C976539D1558c9Fe73",
-	"symbol": "PEPEBOMB",
+	"symbol": "PEPE",
 	"name": "PEPEBOMB",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/37411/thumb/photo_2024-04-27_17-15-14.jpg?1714373512",
 	"coingecko": "pepebomb",
 	"sources": [
 		"coingecko"

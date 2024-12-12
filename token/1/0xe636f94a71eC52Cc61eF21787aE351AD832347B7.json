@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xe636f94a71eC52Cc61eF21787aE351AD832347B7",
-	"symbol": "Creo Engine",
+	"symbol": "CREO",
 	"name": "Creo Engine",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/25419/thumb/CreoEngine-Logo-V3-Token-Color_%283%29.png?1727100874",
 	"coingecko": "creo-engine",
 	"sources": [
 		"coingecko"

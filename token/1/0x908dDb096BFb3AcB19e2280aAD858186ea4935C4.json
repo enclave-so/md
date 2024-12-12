@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x908dDb096BFb3AcB19e2280aAD858186ea4935C4",
-	"symbol": "Eesee",
+	"symbol": "ESE",
 	"name": "Eesee",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35182/thumb/Eesee.jpg?1707796753",
 	"coingecko": "eesee",
 	"sources": [
 		"coingecko"

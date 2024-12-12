@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0x4Bbf46E7c31eDc1F33aF4d57F0C4a0f13398427c",
+	"symbol": "MBS",
+	"name": "MBS",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/MBS/logo.png",
+	"sources": [
+		"optimism"
+	]
+}

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x53206BF5B6B8872c1Bb0b3c533E06FDE2F7e22E4",
-	"symbol": "Blepe",
+	"symbol": "BLEPE",
 	"name": "Blepe",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/38696/thumb/Logo_200x200.jpg?1718349823",
 	"coingecko": "blepe",
 	"sources": [
 		"coingecko"

@@ -1,0 +1,11 @@
+{
+	"chain": 8453,
+	"address": "0xba7D47f471ADD16875e765edEe0858C3413A56Fd",
+	"symbol": "MTA",
+	"name": "Meta",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/MTA/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

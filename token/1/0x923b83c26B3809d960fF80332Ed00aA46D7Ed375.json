@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x923b83c26B3809d960fF80332Ed00aA46D7Ed375",
-	"symbol": "Creator Platform",
+	"symbol": "CTR",
 	"name": "Creator Platform",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/18252/thumb/logo_%281%29.png?1696517748",
 	"coingecko": "creator-platform",
 	"sources": [
 		"coingecko"

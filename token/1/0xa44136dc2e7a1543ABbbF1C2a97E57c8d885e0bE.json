@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xa44136dc2e7a1543ABbbF1C2a97E57c8d885e0bE",
-	"symbol": "Peace Frog",
+	"symbol": "PFROG",
 	"name": "Peace Frog",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/52282/thumb/IMG_20241128_072112_974.jpg?1732939435",
 	"coingecko": "peace-frog",
 	"sources": [
 		"coingecko"

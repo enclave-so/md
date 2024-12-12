@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xC5170Dd7386247CDB8c48545C803F5D0E3347022",
-	"symbol": "Titanium22",
+	"symbol": "TI",
 	"name": "Titanium22",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31197/thumb/200PX.png?1704048243",
 	"coingecko": "titanium22",
 	"sources": [
 		"coingecko"

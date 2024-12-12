@@ -1,10 +1,14 @@
 {
 	"chain": 56,
 	"address": "0xf9CeC8d50f6c8ad3Fb6dcCEC577e05aA32B224FE",
-	"symbol": "Chromia",
+	"symbol": "CHR",
 	"name": "Chromia",
+	"decimals": 6,
+	"logo": "https://assets.coingecko.com/coins/images/5000/thumb/Chromia.png?1559038018",
 	"coingecko": "chromaway",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap",
+		"uniswap"
 	]
 }

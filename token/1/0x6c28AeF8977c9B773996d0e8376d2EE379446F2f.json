@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0x6c28AeF8977c9B773996d0e8376d2EE379446F2f",
-	"symbol": "Quickswap [OLD]",
-	"name": "Quickswap [OLD]",
+	"symbol": "QUICK",
+	"name": "Quickswap",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/13970/thumb/1_pOU6pBMEmiL-ZJVb0CYRjQ.png?1613386659",
 	"coingecko": "quick",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"uniswap"
 	]
 }

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xCda2f16C6Aa895D533506B426AFF827b709c87F5",
-	"symbol": "Fairum",
+	"symbol": "FAI",
 	"name": "Fairum",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/13894/thumb/logo-65ce48ea8d2b64b6478a42c0050214e2.png?1696513637",
 	"coingecko": "fairum",
 	"sources": [
 		"coingecko"

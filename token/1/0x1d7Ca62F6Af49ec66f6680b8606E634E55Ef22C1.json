@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x1d7Ca62F6Af49ec66f6680b8606E634E55Ef22C1",
-	"symbol": "Starter.xyz",
-	"name": "Starter.xyz",
+	"symbol": "START",
+	"name": "Starter xyz",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14301/thumb/logo_poly_sym.png?1696513997",
 	"coingecko": "bscstarter",
 	"sources": [
 		"coingecko"

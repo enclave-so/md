@@ -1,8 +1,9 @@
 {
 	"chain": 1,
 	"address": "0x7F59B64C6Ee521C0d7E590CF8e4B843cAa236F96",
-	"symbol": "CellMates",
+	"symbol": "CELL",
 	"name": "CellMates",
+	"logo": "https://assets.coingecko.com/coins/images/35114/thumb/D6A3351C-79D3-4658-A67B-4361465162EC.png?1707396881",
 	"coingecko": "cellmates",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x33D0568941C0C64ff7e0FB4fbA0B11BD37deEd9f",
-	"symbol": "RAMP [OLD]",
-	"name": "RAMP [OLD]",
+	"symbol": "RAMP",
+	"name": "RAMP  OLD ",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/12837/thumb/RAMP-Logo-v2-1000pxsq.png?1696512628",
 	"coingecko": "ramp",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xa71261C2b51cB8030700F5601Ca597c522dc232e",
-	"symbol": "Sage Market",
+	"symbol": "SAGE",
 	"name": "Sage Market",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/38811/thumb/Logo_for_CMC_200x200.png?1719069825",
 	"coingecko": "sage-market",
 	"sources": [
 		"coingecko"

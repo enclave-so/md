@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x2e85ae1C47602f7927bCabc2Ff99C40aA222aE15",
-	"symbol": "Katana Inu",
+	"symbol": "KATA",
 	"name": "Katana Inu",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/21872/thumb/Katana_Inu512.png?1696521226",
 	"coingecko": "katana-inu",
 	"sources": [
 		"coingecko"

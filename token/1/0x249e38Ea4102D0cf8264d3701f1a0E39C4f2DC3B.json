@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x249e38Ea4102D0cf8264d3701f1a0E39C4f2DC3B",
-	"symbol": "UFO Gaming",
+	"symbol": "UFO",
 	"name": "UFO Gaming",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/16801/thumb/ufo.png?1696516371",
 	"coingecko": "ufo-gaming",
 	"sources": [
 		"coingecko"

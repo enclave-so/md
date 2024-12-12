@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xC4E30d504FE3b18423D82A34e7Ebe529a56f89c2",
-	"symbol": "Wojak 2.0 Coin",
-	"name": "Wojak 2.0 Coin",
+	"symbol": "WOJAK20",
+	"name": "Wojak 2 0 Coin",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30979/thumb/Wojak_2.0_Logo.png?1696529818",
 	"coingecko": "wojak-2-0-coin",
 	"sources": [
 		"coingecko"

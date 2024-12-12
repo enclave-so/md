@@ -1,0 +1,11 @@
+{
+	"chain": 8453,
+	"address": "0x606B2Db8Bf642677Fe12E8F067bF55145A350cb5",
+	"symbol": "ShibDoge",
+	"name": "ShibaDoge",
+	"decimals": 9,
+	"logo": "https://ethereum-optimism.github.io/data/ShibDoge/logo.png",
+	"sources": [
+		"optimism"
+	]
+}

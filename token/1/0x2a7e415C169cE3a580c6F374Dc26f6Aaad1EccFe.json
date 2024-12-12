@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x2a7e415C169cE3a580c6F374Dc26f6Aaad1EccFe",
-	"symbol": "Hachi",
+	"symbol": "HACHI",
 	"name": "Hachi",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/29262/thumb/HACHI_main_logo__.png?1696528216",
 	"coingecko": "hachi",
 	"sources": [
 		"coingecko"

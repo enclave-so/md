@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xbEEf0075e03A5cE0D84d4ACcF3481363E0584F5c",
-	"symbol": "Steakhouse M Morpho Vault",
+	"symbol": "STEAKM",
 	"name": "Steakhouse M Morpho Vault",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/52410/thumb/steak-steakM.png?1734001026",
 	"coingecko": "steakhouse-m-morpho-vault",
 	"sources": [
 		"coingecko"

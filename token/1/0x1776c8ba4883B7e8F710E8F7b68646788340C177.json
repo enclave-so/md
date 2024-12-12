@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x1776c8ba4883B7e8F710E8F7b68646788340C177",
-	"symbol": "Patriots Coin",
+	"symbol": "PTC",
 	"name": "Patriots Coin",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/39188/thumb/1000059715.png?1720855615",
 	"coingecko": "patriots-coin",
 	"sources": [
 		"coingecko"

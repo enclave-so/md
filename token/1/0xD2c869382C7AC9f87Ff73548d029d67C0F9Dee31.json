@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xD2c869382C7AC9f87Ff73548d029d67C0F9Dee31",
-	"symbol": "Wagie Bot",
+	"symbol": "WAGIEBOT",
 	"name": "Wagie Bot",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/30954/thumb/Wagies3%281%29.png?1696529793",
 	"coingecko": "wagie-bot",
 	"sources": [
 		"coingecko"

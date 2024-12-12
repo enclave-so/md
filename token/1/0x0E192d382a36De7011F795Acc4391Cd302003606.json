@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x0E192d382a36De7011F795Acc4391Cd302003606",
-	"symbol": "Futureswap",
+	"symbol": "FST",
 	"name": "Futureswap",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14520/thumb/futureswap_logo.png?1696514206",
 	"coingecko": "futureswap",
 	"sources": [
 		"coingecko"

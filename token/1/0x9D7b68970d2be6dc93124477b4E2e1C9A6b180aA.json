@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x9D7b68970d2be6dc93124477b4E2e1C9A6b180aA",
-	"symbol": "Dede",
+	"symbol": "DEDE",
 	"name": "Dede",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/30976/thumb/dede_png_%281%29.png?1696529815",
 	"coingecko": "dede",
 	"sources": [
 		"coingecko"

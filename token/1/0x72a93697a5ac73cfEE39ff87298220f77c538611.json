@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x72a93697a5ac73cfEE39ff87298220f77c538611",
-	"symbol": "The Dare",
+	"symbol": "DARE",
 	"name": "The Dare",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/36818/thumb/DARE.png?1712550833",
 	"coingecko": "the-dare",
 	"sources": [
 		"coingecko"

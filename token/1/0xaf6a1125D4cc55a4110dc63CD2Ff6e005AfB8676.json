@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xaf6a1125D4cc55a4110dc63CD2Ff6e005AfB8676",
-	"symbol": "PunkCity",
+	"symbol": "PUNK",
 	"name": "PunkCity",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31049/thumb/F4FDA24D-1B29-4CBB-8346-854D1BFFE75A.png?1696529883",
 	"coingecko": "punk-2",
 	"sources": [
 		"coingecko"

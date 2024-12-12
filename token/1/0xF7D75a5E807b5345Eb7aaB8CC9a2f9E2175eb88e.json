@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xF7D75a5E807b5345Eb7aaB8CC9a2f9E2175eb88e",
-	"symbol": "Inu on ETH",
+	"symbol": "INU",
 	"name": "Inu on ETH",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/38906/thumb/Inu.png?1719470626",
 	"coingecko": "inu-on-eth",
 	"sources": [
 		"coingecko"

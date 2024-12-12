@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x509A38b7a1cC0dcd83Aa9d06214663D9eC7c7F4a",
-	"symbol": "Blocksquare",
+	"symbol": "BST",
 	"name": "Blocksquare",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/23924/thumb/XpkkqPVR_400x400.jpg?1696523122",
 	"coingecko": "blocksquare",
 	"sources": [
 		"coingecko"

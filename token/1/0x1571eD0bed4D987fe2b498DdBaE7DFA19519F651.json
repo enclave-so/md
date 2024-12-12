@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0x1571eD0bed4D987fe2b498DdBaE7DFA19519F651",
-	"symbol": "iFARM",
+	"symbol": "IFARM",
 	"name": "iFARM",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14472/thumb/ifarm.png?1696514159",
 	"coingecko": "ifarm",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

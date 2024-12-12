@@ -3,6 +3,8 @@
 	"address": "0x465dbC39F46f9D43C581a5d90A43e4a0F2A6fF2d",
 	"symbol": "ITO",
 	"name": "ITO",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/50324/thumb/mainlogo2.png?1730562265",
 	"coingecko": "ito",
 	"sources": [
 		"coingecko"

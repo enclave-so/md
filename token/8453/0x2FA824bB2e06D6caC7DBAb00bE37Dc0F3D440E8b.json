@@ -1,0 +1,11 @@
+{
+	"chain": 8453,
+	"address": "0x2FA824bB2e06D6caC7DBAb00bE37Dc0F3D440E8b",
+	"symbol": "🇺🇸",
+	"name": "One Cent Coin",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/CENT/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

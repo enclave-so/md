@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x35cA1E5A9B1c09Fa542Fa18D1Ba4D61c8eDfF852",
-	"symbol": "Schrodi",
+	"symbol": "SCHRODI",
 	"name": "Schrodi",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/36255/thumb/apzs3q26_200x200.jpg?1710927534",
 	"coingecko": "schrodi",
 	"sources": [
 		"coingecko"

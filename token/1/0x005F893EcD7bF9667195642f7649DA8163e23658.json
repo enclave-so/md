@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x005F893EcD7bF9667195642f7649DA8163e23658",
-	"symbol": "Degen ETH Staked ETH",
+	"symbol": "DGNETH",
 	"name": "Degen ETH Staked ETH",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/40042/thumb/QQ0yaspA_400x400.jpg?1725392919",
 	"coingecko": "degen-eth-staked-eth",
 	"sources": [
 		"coingecko"

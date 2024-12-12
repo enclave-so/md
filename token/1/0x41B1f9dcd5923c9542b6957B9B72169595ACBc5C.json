@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x41B1f9dcd5923c9542b6957B9B72169595ACBc5C",
-	"symbol": "Cheems CTO",
+	"symbol": "CHEEMS",
 	"name": "Cheems CTO",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/50385/thumb/Cheems.png?1727427250",
 	"coingecko": "cheems-cto",
 	"sources": [
 		"coingecko"

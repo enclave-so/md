@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xD624E5C89466A15812c1D45Ce1533be1F16C1702",
-	"symbol": "UBD Network",
+	"symbol": "UBDN",
 	"name": "UBD Network",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/33678/thumb/UBDN-2.png?1715886062",
 	"coingecko": "ubd-network",
 	"sources": [
 		"coingecko"

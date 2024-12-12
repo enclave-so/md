@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x6968676661Ac9851C38907bDfcC22d5Dd77b564d",
-	"symbol": "Matt Furie's Boys Club",
-	"name": "Matt Furie's Boys Club",
+	"symbol": "BOYSCLUB",
+	"name": "Matt Furie s Boys Club",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/38572/thumb/1000007540.jpg?1718009196",
 	"coingecko": "matt-furie-s-boys-club",
 	"sources": [
 		"coingecko"

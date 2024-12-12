@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x52284158E02425290f6B627Aeb5FFF65eDf058Ad",
-	"symbol": "FlappyMoonbird",
+	"symbol": "FMB",
 	"name": "FlappyMoonbird",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30659/thumb/200_%282%29.jpg?1696529529",
 	"coingecko": "flappymoonbird",
 	"sources": [
 		"coingecko"

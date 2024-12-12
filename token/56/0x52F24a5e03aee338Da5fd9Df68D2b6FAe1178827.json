@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0x52F24a5e03aee338Da5fd9Df68D2b6FAe1178827",
-	"symbol": "Ankr Staked BNB",
+	"symbol": "ankrBNB",
 	"name": "Ankr Staked BNB",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x52F24a5e03aee338Da5fd9Df68D2b6FAe1178827.png",
 	"coingecko": "ankr-staked-bnb",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

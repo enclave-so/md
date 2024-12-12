@@ -3,6 +3,8 @@
 	"address": "0x494930DabCfa57748A4c4788c0054F723A789047",
 	"symbol": "COOMER",
 	"name": "COOMER",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/39240/thumb/download_-_2024-07-16T000030.414.png?1721274025",
 	"coingecko": "coomer",
 	"sources": [
 		"coingecko"

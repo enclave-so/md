@@ -2,12 +2,13 @@
 	"chain": 1,
 	"address": "0xc52FaFDc900cB92Ae01E6E4F8979aF7f436e2EB2",
 	"symbol": "SEXY",
-	"name": "Settled ETHXY Token",
+	"name": "Settled EthXY Token",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xc52FaFDc900cB92Ae01E6E4F8979aF7f436e2EB2.jpg",
+	"logo": "https://assets.coingecko.com/coins/images/33032/thumb/logo-circle.png?1700348518",
 	"coingecko": "settled-ethxy-token",
 	"sources": [
 		"coingecko",
+		"optimism",
 		"sushiswap"
 	]
 }

@@ -4,10 +4,11 @@
 	"symbol": "TRU",
 	"name": "TrueFi",
 	"decimals": 8,
-	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x4C19596f5aAfF459fA38B0f7eD92F11AE6543784.jpg",
+	"logo": "https://assets.coingecko.com/coins/images/13180/thumb/truefi_glyph_color.png?1617610941",
 	"coingecko": "truefi",
 	"sources": [
 		"coingecko",
-		"sushiswap"
+		"sushiswap",
+		"uniswap"
 	]
 }

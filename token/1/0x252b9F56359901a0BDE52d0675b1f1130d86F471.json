@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x252b9F56359901a0BDE52d0675b1f1130d86F471",
-	"symbol": "Pando",
+	"symbol": "PANDO",
 	"name": "Pando",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14150/thumb/pando_logo.png?1696513869",
 	"coingecko": "pando",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xf3E07812eBC8604fdDB0AA35ff79a03F48f48948",
-	"symbol": "JournArt",
+	"symbol": "JART",
 	"name": "JournArt",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/29412/thumb/JournArt%28200%29.png?1696528361",
 	"coingecko": "journart",
 	"sources": [
 		"coingecko"

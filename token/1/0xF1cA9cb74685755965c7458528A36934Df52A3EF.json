@@ -3,6 +3,8 @@
 	"address": "0xF1cA9cb74685755965c7458528A36934Df52A3EF",
 	"symbol": "AVINOC",
 	"name": "AVINOC",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/4659/thumb/qX7fh69Q_400x400-1.jpg?1696505226",
 	"coingecko": "avinoc",
 	"sources": [
 		"coingecko"

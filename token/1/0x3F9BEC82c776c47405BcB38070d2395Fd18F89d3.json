@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x3F9BEC82c776c47405BcB38070d2395Fd18F89d3",
-	"symbol": "Phantom Protocol",
+	"symbol": "PHM",
 	"name": "Phantom Protocol",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/18253/thumb/phm.PNG?1696517748",
 	"coingecko": "phantom-protocol",
 	"sources": [
 		"coingecko"

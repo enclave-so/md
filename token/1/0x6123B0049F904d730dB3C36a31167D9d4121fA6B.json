@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0x6123B0049F904d730dB3C36a31167D9d4121fA6B",
-	"symbol": "Ribbon Finance",
+	"symbol": "RBN",
 	"name": "Ribbon Finance",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/15823/thumb/RBN_64x64.png?1633529723",
 	"coingecko": "ribbon-finance",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"uniswap"
 	]
 }

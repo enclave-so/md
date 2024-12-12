@@ -1,0 +1,11 @@
+{
+	"chain": 8453,
+	"address": "0xc8a7B50498f7D3Da97249DE165908F0f588490ED",
+	"symbol": "VSP",
+	"name": "VesperToken",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/VSP/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

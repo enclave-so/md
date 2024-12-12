@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0x0203D275D2A65030889aF45ed91D472be3948B92",
-	"symbol": "Engines of Fury",
-	"name": "Engines of Fury",
+	"symbol": "FURY",
+	"name": "Engines of Fury Token",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x0203D275D2A65030889aF45ed91D472be3948B92.png",
 	"coingecko": "engines-of-fury",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

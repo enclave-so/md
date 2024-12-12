@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x2056EC69ac5aFaF210b851FF74dE4c194fCd986e",
-	"symbol": "Port AI",
+	"symbol": "POAI",
 	"name": "Port AI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/36792/thumb/image_2024-03-25_19-40-43.png?1712421434",
 	"coingecko": "port-ai",
 	"sources": [
 		"coingecko"

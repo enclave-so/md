@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x188E817B02e635D482AE4D81e25DdA98A97C4a42",
-	"symbol": "Lithium Finance",
+	"symbol": "LITH",
 	"name": "Lithium Finance",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/17278/thumb/Lithium_Logo-03200x200.png?1696516832",
 	"coingecko": "lithium-finance",
 	"sources": [
 		"coingecko"

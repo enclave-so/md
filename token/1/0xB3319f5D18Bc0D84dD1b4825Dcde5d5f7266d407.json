@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xB3319f5D18Bc0D84dD1b4825Dcde5d5f7266d407",
-	"symbol": "c0x",
+	"symbol": "CZRX",
 	"name": "c0x",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/10644/thumb/czrx1.JPG?1696510618",
 	"coingecko": "compound-0x",
 	"sources": [
 		"coingecko"

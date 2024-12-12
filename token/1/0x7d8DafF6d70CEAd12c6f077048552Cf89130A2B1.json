@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x7d8DafF6d70CEAd12c6f077048552Cf89130A2B1",
-	"symbol": "ARCS",
+	"symbol": "ARX",
 	"name": "ARCS",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/10068/thumb/arcs.png?1696510099",
 	"coingecko": "arcs",
 	"sources": [
 		"coingecko"

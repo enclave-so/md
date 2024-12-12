@@ -2,9 +2,9 @@
 	"chain": 1,
 	"address": "0x2B89bF8ba858cd2FCee1faDa378D5cd6936968Be",
 	"symbol": "WSCRT",
-	"name": "Wrapped SCRT",
+	"name": "Secret  ERC20 ",
 	"decimals": 6,
-	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/wscrt.jpg",
+	"logo": "https://assets.coingecko.com/coins/images/13767/thumb/Secret_S_Black_Coingecko.png?1696513509",
 	"coingecko": "secret-erc20",
 	"sources": [
 		"coingecko",

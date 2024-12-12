@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xe9572938bcbf08adceE86Fd12A7C0D08dC4Ab841",
-	"symbol": "Inscribe",
+	"symbol": "INS",
 	"name": "Inscribe",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/34960/thumb/nwb4N3Gx_400x400.jpg?1706788569",
 	"coingecko": "inscribe",
 	"sources": [
 		"coingecko"

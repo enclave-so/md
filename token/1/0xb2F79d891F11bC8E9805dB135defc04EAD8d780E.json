@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xb2F79d891F11bC8E9805dB135defc04EAD8d780E",
-	"symbol": "All In One Wallet",
+	"symbol": "AIO",
 	"name": "All In One Wallet",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/32643/thumb/AIO.jpeg?1698892673",
 	"coingecko": "all-in-one-wallet",
 	"sources": [
 		"coingecko"

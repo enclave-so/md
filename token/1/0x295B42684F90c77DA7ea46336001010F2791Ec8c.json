@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x295B42684F90c77DA7ea46336001010F2791Ec8c",
-	"symbol": "Xi",
+	"symbol": "XI",
 	"name": "Xi",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/18640/thumb/v5NMxPo.png?1696518111",
 	"coingecko": "xi-token",
 	"sources": [
 		"coingecko"

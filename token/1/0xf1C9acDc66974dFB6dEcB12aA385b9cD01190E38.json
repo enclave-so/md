@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0xf1C9acDc66974dFB6dEcB12aA385b9cD01190E38",
-	"symbol": "StakeWise Staked ETH",
+	"symbol": "OSETH",
 	"name": "StakeWise Staked ETH",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/33117/thumb/Frame_27513839.png?1700732599",
 	"coingecko": "stakewise-v3-oseth",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"indexcoop"
 	]
 }

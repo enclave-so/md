@@ -2,9 +2,9 @@
 	"chain": 1,
 	"address": "0xa5f2211B9b8170F694421f2046281775E8468044",
 	"symbol": "THOR",
-	"name": "THORSwap Token",
+	"name": "THORSwap",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xa5f2211B9b8170F694421f2046281775E8468044.jpg",
+	"logo": "https://assets.coingecko.com/coins/images/19292/thumb/THORSwap_Logo-removebg-preview.png?1696518735",
 	"coingecko": "thorswap",
 	"sources": [
 		"coingecko",

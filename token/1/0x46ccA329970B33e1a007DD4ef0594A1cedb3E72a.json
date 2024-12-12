@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x46ccA329970B33e1a007DD4ef0594A1cedb3E72a",
-	"symbol": "Yesports",
+	"symbol": "YESP",
 	"name": "Yesports",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/29767/thumb/YESP_TOKEN.png?1696528698",
 	"coingecko": "yesports",
 	"sources": [
 		"coingecko"

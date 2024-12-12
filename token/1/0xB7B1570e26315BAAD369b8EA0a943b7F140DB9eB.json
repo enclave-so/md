@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xB7B1570e26315BAAD369b8EA0a943b7F140DB9eB",
-	"symbol": "DEEPSPACE",
+	"symbol": "DPS",
 	"name": "DEEPSPACE",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/17953/thumb/f1LFu897_400x400.jpg?1696517473",
 	"coingecko": "deepspace",
 	"sources": [
 		"coingecko"

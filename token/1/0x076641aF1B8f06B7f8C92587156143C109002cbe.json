@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x076641aF1B8f06B7f8C92587156143C109002cbe",
-	"symbol": "SoPay",
+	"symbol": "SOP",
 	"name": "SoPay",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/6736/thumb/sopay.png?1696507071",
 	"coingecko": "sopay",
 	"sources": [
 		"coingecko"

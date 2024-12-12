@@ -3,6 +3,8 @@
 	"address": "0x718Dab2C7bBD2D9503Dc1Ce1dbC215aBC41a3545",
 	"symbol": "XAIGROK",
 	"name": "XAIGROK",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/33584/thumb/20231207_155741.jpg?1702465158",
 	"coingecko": "xaigrok",
 	"sources": [
 		"coingecko"

@@ -1,0 +1,11 @@
+{
+	"chain": 34443,
+	"address": "0x3e7eF8f50246f725885102E8238CBba33F276747",
+	"symbol": "UNI",
+	"name": "Uniswap",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/UNI/logo.png",
+	"sources": [
+		"optimism"
+	]
+}

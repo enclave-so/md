@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xB29E475B69F843046A757747943C00DCe8a3d982",
-	"symbol": "Spectre",
+	"symbol": "SPCTR",
 	"name": "Spectre",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/50466/thumb/1000026359-removebg-200x200.png?1730010451",
 	"coingecko": "spectre-2",
 	"sources": [
 		"coingecko"

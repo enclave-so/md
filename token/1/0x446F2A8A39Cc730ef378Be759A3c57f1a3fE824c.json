@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x446F2A8A39Cc730ef378Be759A3c57f1a3fE824c",
-	"symbol": "NanoByte",
+	"symbol": "NBT",
 	"name": "NanoByte",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/23698/thumb/WpcmdLW.png?1696522899",
 	"coingecko": "nanobyte",
 	"sources": [
 		"coingecko"

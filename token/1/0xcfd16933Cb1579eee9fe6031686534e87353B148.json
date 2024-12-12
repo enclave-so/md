@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xcfd16933Cb1579eee9fe6031686534e87353B148",
-	"symbol": "MeromAI",
+	"symbol": "AIMR",
 	"name": "MeromAI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/38491/thumb/YPg513HP_400x400.jpg?1717688335",
 	"coingecko": "meromai",
 	"sources": [
 		"coingecko"

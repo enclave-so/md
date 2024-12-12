@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x4C45bbEc2fF7810ef4a77ad7BD4757C446Fe4155",
-	"symbol": "Jungle Labz",
+	"symbol": "JNGL",
 	"name": "Jungle Labz",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31742/thumb/Jungle.png?1696530561",
 	"coingecko": "jungle-labz",
 	"sources": [
 		"coingecko"

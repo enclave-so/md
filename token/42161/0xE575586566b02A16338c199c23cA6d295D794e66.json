@@ -1,0 +1,11 @@
+{
+	"chain": 42161,
+	"address": "0xE575586566b02A16338c199c23cA6d295D794e66",
+	"symbol": "RLC",
+	"name": "iExec RLC",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/646/thumb/pL1VuXm.png?1604543202",
+	"sources": [
+		"uniswap"
+	]
+}

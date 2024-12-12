@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x94d863173EE77439E4292284fF13fAD54b3BA182",
-	"symbol": "Delphi",
+	"symbol": "ADEL",
 	"name": "Delphi",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/12300/thumb/adel_on_white_10x.png?1696512130",
 	"coingecko": "akropolis-delphi",
 	"sources": [
 		"coingecko"

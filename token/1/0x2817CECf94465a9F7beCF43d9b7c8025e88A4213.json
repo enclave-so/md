@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x2817CECf94465a9F7beCF43d9b7c8025e88A4213",
-	"symbol": "Weave6",
+	"symbol": "WX",
 	"name": "Weave6",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35789/thumb/400_*_400.png?1709799390",
 	"coingecko": "weave6",
 	"sources": [
 		"coingecko"

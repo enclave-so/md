@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0x58cB30368ceB2d194740b144EAB4c2da8a917Dcb",
-	"symbol": "ZynCoin",
+	"symbol": "ZYN",
 	"name": "ZynCoin",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35749/thumb/zyncoin.png?1719811303",
 	"coingecko": "zyncoin-2",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

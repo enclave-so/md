@@ -2,12 +2,14 @@
 	"chain": 56,
 	"address": "0xF218184Af829Cf2b0019F8E6F0b2423498a36983",
 	"symbol": "MATH",
-	"name": "Math",
+	"name": "MATH",
 	"decimals": 18,
-	"logo": "https://assets.coingecko.com/coins/images/11335/small/2020-05-19-token-200.png?1589940590",
+	"logo": "https://assets.coingecko.com/coins/images/11335/thumb/2020-05-19-token-200.png?1589940590",
 	"coingecko": "math",
 	"sources": [
 		"coingecko",
-		"sushiswap"
+		"pancakeswap",
+		"sushiswap",
+		"uniswap"
 	]
 }

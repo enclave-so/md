@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x6B0956258fF7bd7645aa35369B55B61b8e6d6140",
-	"symbol": "Maximus LUCKY",
+	"symbol": "LUCKY",
 	"name": "Maximus LUCKY",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/27685/thumb/IMG_1129.PNG?1696526713",
 	"coingecko": "maximus-lucky",
 	"sources": [
 		"coingecko"

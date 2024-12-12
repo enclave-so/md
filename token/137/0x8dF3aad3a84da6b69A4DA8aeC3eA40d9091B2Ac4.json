@@ -1,10 +1,13 @@
 {
 	"chain": 137,
 	"address": "0x8dF3aad3a84da6b69A4DA8aeC3eA40d9091B2Ac4",
-	"symbol": "Aave Polygon WMATIC",
-	"name": "Aave Polygon WMATIC",
+	"symbol": "amWMATIC",
+	"name": "Aave Matic Market WMATIC",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/17267/large/amWMATIC_2x.png",
 	"coingecko": "aave-polygon-wmatic",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"indexcoop"
 	]
 }

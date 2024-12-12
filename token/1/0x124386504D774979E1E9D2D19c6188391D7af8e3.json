@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x124386504D774979E1E9D2D19c6188391D7af8e3",
-	"symbol": "Hanabi-chan",
-	"name": "Hanabi-chan",
+	"symbol": "HANABI",
+	"name": "Hanabi chan",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/50596/thumb/Picsart_24-10-08_16-00-19-260.png?1728445485",
 	"coingecko": "hanabi-chan",
 	"sources": [
 		"coingecko"

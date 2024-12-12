@@ -1,0 +1,11 @@
+{
+	"chain": 8453,
+	"address": "0x46c8651dDedD50CBDF71de85D3de9AaC80247B62",
+	"symbol": "VIDYA",
+	"name": "Vidya",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/VIDYA/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

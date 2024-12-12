@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x825459139C897D769339f295E962396C4F9E4A4D",
-	"symbol": "GameBuild",
+	"symbol": "GAME",
 	"name": "GameBuild",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/37789/thumb/Gamebuild-logo-200.png?1715586834",
 	"coingecko": "gamebuild",
 	"sources": [
 		"coingecko"

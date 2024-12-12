@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x508E00D5ceF397B02d260D035e5EE80775e4C821",
-	"symbol": "Bitcoin Cats",
+	"symbol": "1CAT",
 	"name": "Bitcoin Cats",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/34059/thumb/779e5404024bcd3cec3db54370ea66c.jpg?1703752231",
 	"coingecko": "bitcoin-cats",
 	"sources": [
 		"coingecko"

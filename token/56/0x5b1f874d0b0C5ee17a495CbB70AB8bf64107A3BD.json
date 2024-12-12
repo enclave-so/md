@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0x5b1f874d0b0C5ee17a495CbB70AB8bf64107A3BD",
-	"symbol": "BinaryX",
+	"symbol": "BNX",
 	"name": "BinaryX",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x5b1f874d0b0C5ee17a495CbB70AB8bf64107A3BD.png",
 	"coingecko": "binaryx-2",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

@@ -3,6 +3,8 @@
 	"address": "0x249Fc40d68A3a55dAC335550b64c1a03b4C0Ed72",
 	"symbol": "DINOSHI",
 	"name": "DINOSHI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/38731/thumb/DinoshiLogocmc.png?1718480174",
 	"coingecko": "dinoshi",
 	"sources": [
 		"coingecko"

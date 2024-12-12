@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xB8A4350eDaFD7af34164Dd5870e49E28393FF3ec",
-	"symbol": "Memeinator",
+	"symbol": "MMTR",
 	"name": "Memeinator",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/38362/thumb/Memeinator_logo.png?1717182625",
 	"coingecko": "memeinator",
 	"sources": [
 		"coingecko"

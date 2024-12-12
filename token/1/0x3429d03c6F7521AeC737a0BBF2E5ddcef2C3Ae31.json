@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x3429d03c6F7521AeC737a0BBF2E5ddcef2C3Ae31",
-	"symbol": "Pixels",
+	"symbol": "PIXEL",
 	"name": "Pixels",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35100/thumb/pixel-icon.png?1708339519",
 	"coingecko": "pixels",
 	"sources": [
 		"coingecko"

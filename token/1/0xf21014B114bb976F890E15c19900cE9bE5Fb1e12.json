@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xf21014B114bb976F890E15c19900cE9bE5Fb1e12",
-	"symbol": "Inception Restaked EIGEN",
+	"symbol": "INEIGEN",
 	"name": "Inception Restaked EIGEN",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/50637/thumb/inEIGEN.png?1728547931",
 	"coingecko": "inception-restaked-eigen",
 	"sources": [
 		"coingecko"

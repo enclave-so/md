@@ -3,8 +3,11 @@
 	"address": "0xfb5B838b6cfEEdC2873aB27866079AC55363D37E",
 	"symbol": "FLOKI",
 	"name": "FLOKI",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/16746/standard/PNG_image.png?1696516318",
 	"coingecko": "floki",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"uniswap"
 	]
 }

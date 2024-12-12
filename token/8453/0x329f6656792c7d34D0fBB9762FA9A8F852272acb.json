@@ -1,0 +1,11 @@
+{
+	"chain": 8453,
+	"address": "0x329f6656792c7d34D0fBB9762FA9A8F852272acb",
+	"symbol": "ETH3X",
+	"name": "Index Coop Ethereum 3x Index",
+	"decimals": 18,
+	"logo": "https://cdn.indexcoop.com/eth3x.svg",
+	"sources": [
+		"indexcoop"
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"chain": 42161,
+	"address": "0x1BDCC2075d5370293E248Cab0173eC3E551e6218",
+	"symbol": "ORN",
+	"name": "Orion Protocol",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/11841/thumb/orion_logo.png?1594943318",
+	"sources": [
+		"uniswap"
+	]
+}

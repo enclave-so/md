@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xdcc97D2C1048e8F3F2Fc58ACE9024AB8b350e4B1",
-	"symbol": "BENCOIN",
+	"symbol": "BEN",
 	"name": "BENCOIN",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/32701/thumb/BEN_COIN_BACK_%281%29.png?1698985208",
 	"coingecko": "bencoin",
 	"sources": [
 		"coingecko"

@@ -1,0 +1,11 @@
+{
+	"chain": 34443,
+	"address": "0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb",
+	"symbol": "LINK",
+	"name": "Chainlink",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/LINK/logo.png",
+	"sources": [
+		"optimism"
+	]
+}

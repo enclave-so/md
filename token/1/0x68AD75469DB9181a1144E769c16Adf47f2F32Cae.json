@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x68AD75469DB9181a1144E769c16Adf47f2F32Cae",
-	"symbol": "Max on ETH",
+	"symbol": "MAXETH",
 	"name": "Max on ETH",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/52445/thumb/maxeth_jpg.jpg?1733367084",
 	"coingecko": "max-on-eth",
 	"sources": [
 		"coingecko"

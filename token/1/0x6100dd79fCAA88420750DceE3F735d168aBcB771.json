@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0x6100dd79fCAA88420750DceE3F735d168aBcB771",
-	"symbol": "Ethereans",
+	"symbol": "OS",
 	"name": "Ethereans",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/19592/thumb/eherian.jpg?1697038777",
 	"coingecko": "ethereans",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

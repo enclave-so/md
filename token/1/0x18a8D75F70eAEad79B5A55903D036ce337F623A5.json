@@ -3,6 +3,8 @@
 	"address": "0x18a8D75F70eAEad79B5A55903D036ce337F623A5",
 	"symbol": "SIGMA",
 	"name": "SIGMA",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/50632/thumb/sigma-pfp_%281%29.png?1728546523",
 	"coingecko": "sigma-2",
 	"sources": [
 		"coingecko"

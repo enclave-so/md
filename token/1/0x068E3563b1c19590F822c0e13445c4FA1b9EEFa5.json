@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x068E3563b1c19590F822c0e13445c4FA1b9EEFa5",
-	"symbol": "Wrapped USD",
+	"symbol": "WUSD",
 	"name": "Wrapped USD",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/28854/thumb/wusd.png?1696527828",
 	"coingecko": "wusd",
 	"sources": [
 		"coingecko"

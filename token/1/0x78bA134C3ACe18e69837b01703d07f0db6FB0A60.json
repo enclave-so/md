@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x78bA134C3ACe18e69837b01703d07f0db6FB0A60",
-	"symbol": "Sentinel Bot Ai",
+	"symbol": "SNT",
 	"name": "Sentinel Bot Ai",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/36171/thumb/sentinelbotai.jpeg?1710746986",
 	"coingecko": "sentinel-bot-ai",
 	"sources": [
 		"coingecko"

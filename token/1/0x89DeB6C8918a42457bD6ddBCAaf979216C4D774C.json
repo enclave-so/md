@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x89DeB6C8918a42457bD6ddBCAaf979216C4D774C",
-	"symbol": "HapticAI",
+	"symbol": "HAI",
 	"name": "HapticAI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/36939/thumb/logo.png?1712850711",
 	"coingecko": "hapticai",
 	"sources": [
 		"coingecko"

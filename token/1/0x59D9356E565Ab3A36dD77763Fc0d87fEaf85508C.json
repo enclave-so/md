@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x59D9356E565Ab3A36dD77763Fc0d87fEaf85508C",
-	"symbol": "Mountain Protocol USD",
+	"symbol": "USDM",
 	"name": "Mountain Protocol USD",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31719/thumb/usdm.png?1696530540",
 	"coingecko": "mountain-protocol-usdm",
 	"sources": [
 		"coingecko"

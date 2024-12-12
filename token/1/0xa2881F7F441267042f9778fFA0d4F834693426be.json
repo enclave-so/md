@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xa2881F7F441267042f9778fFA0d4F834693426be",
-	"symbol": "The HUSL",
+	"symbol": "HUSL",
 	"name": "The HUSL",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/18619/thumb/W8ZIHKU.png?1696518092",
 	"coingecko": "the-husl",
 	"sources": [
 		"coingecko"

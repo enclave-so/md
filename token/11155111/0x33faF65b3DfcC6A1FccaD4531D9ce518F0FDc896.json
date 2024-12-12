@@ -1,0 +1,11 @@
+{
+	"chain": 11155111,
+	"address": "0x33faF65b3DfcC6A1FccaD4531D9ce518F0FDc896",
+	"symbol": "BOBA",
+	"name": "Boba Token",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/BOBA/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

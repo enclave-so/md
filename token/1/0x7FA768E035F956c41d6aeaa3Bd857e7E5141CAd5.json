@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x7FA768E035F956c41d6aeaa3Bd857e7E5141CAd5",
-	"symbol": "Inception stETH",
+	"symbol": "INSTETH",
 	"name": "Inception stETH",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/34954/thumb/Group_14.png?1706773546",
 	"coingecko": "inception-restaked-steth",
 	"sources": [
 		"coingecko"

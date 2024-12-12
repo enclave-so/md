@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xD4419C2d3DAA986Dc30444Fa333a846be44Fd1eb",
-	"symbol": "ZIK coin",
+	"symbol": "ZIK",
 	"name": "ZIK coin",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/39265/thumb/IMG-20240627-WA0168.jpg?1721360189",
 	"coingecko": "zik-coin",
 	"sources": [
 		"coingecko"

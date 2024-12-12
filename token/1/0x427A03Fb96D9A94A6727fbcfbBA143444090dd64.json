@@ -3,6 +3,8 @@
 	"address": "0x427A03Fb96D9A94A6727fbcfbBA143444090dd64",
 	"symbol": "PIXL",
 	"name": "PIXL",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/33045/thumb/20220531_190522.jpg?1700450022",
 	"coingecko": "sappy-seals-pixl",
 	"sources": [
 		"coingecko"

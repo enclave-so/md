@@ -3,6 +3,8 @@
 	"address": "0x14778860E937f509e651192a90589dE711Fb88a9",
 	"symbol": "CYBER",
 	"name": "CYBER",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31274/thumb/token.png?1715826754",
 	"coingecko": "cyberconnect",
 	"sources": [
 		"coingecko"

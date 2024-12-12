@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x8236a87084f8B84306f72007F36F2618A5634494",
-	"symbol": "Lombard Staked BTC",
+	"symbol": "LBTC",
 	"name": "Lombard Staked BTC",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/39969/thumb/LBTC_Logo.png?1724959872",
 	"coingecko": "lombard-staked-btc",
 	"sources": [
 		"coingecko"

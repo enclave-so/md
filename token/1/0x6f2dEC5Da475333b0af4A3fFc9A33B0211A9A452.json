@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x6f2dEC5Da475333b0af4A3fFc9A33B0211A9A452",
-	"symbol": "CryptoTwitter",
+	"symbol": "CT",
 	"name": "CryptoTwitter",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30237/thumb/200x200px.png?1696529147",
 	"coingecko": "cryptotwitter",
 	"sources": [
 		"coingecko"

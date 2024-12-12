@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xfc82bb4ba86045Af6F327323a46E80412b91b27d",
-	"symbol": "Prom",
+	"symbol": "PROM",
 	"name": "Prom",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/8825/thumb/Ticker.png?1696508978",
 	"coingecko": "prometeus",
 	"sources": [
 		"coingecko"

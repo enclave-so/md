@@ -1,10 +1,13 @@
 {
 	"chain": 10,
 	"address": "0x3E29D3A9316dAB217754d13b28646B76607c5f04",
-	"symbol": "Alchemix ETH",
+	"symbol": "alETH",
 	"name": "Alchemix ETH",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/alETH/logo.svg",
 	"coingecko": "alchemix-eth",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

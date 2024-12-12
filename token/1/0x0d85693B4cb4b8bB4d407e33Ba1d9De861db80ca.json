@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x0d85693B4cb4b8bB4d407e33Ba1d9De861db80ca",
-	"symbol": "Privago AI",
+	"symbol": "PVGO",
 	"name": "Privago AI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/36836/thumb/bbb2.jpg?1712560493",
 	"coingecko": "privago-ai",
 	"sources": [
 		"coingecko"

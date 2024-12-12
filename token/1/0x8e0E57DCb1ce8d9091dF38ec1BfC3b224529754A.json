@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x8e0E57DCb1ce8d9091dF38ec1BfC3b224529754A",
-	"symbol": "Moon Tropica",
+	"symbol": "CAH",
 	"name": "Moon Tropica",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/28470/thumb/MTLOGO.png?1696527464",
 	"coingecko": "moon-tropica",
 	"sources": [
 		"coingecko"

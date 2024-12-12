@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x7DEdBce5a2E31E4c75f87FeA60bF796C17718715",
-	"symbol": "Penpie",
+	"symbol": "PNP",
 	"name": "Penpie",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30760/thumb/PNP_Token.png?1696529629",
 	"coingecko": "penpie",
 	"sources": [
 		"coingecko"

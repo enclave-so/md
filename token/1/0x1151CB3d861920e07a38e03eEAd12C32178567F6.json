@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x1151CB3d861920e07a38e03eEAd12C32178567F6",
-	"symbol": "Bonk",
+	"symbol": "BONK",
 	"name": "Bonk",
+	"decimals": 5,
+	"logo": "https://assets.coingecko.com/coins/images/28600/thumb/bonk.jpg?1696527587",
 	"coingecko": "bonk",
 	"sources": [
 		"coingecko"

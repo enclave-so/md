@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x046029F68B0E00eBec2e394D17F70ec848fcf1d2",
-	"symbol": "Stable.com USD3",
-	"name": "Stable.com USD3",
+	"symbol": "USD3",
+	"name": "Stable com USD3",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/39865/thumb/2024-04-stable_com-usd3_coin.png?1724379520",
 	"coingecko": "stable-com-usd3",
 	"sources": [
 		"coingecko"

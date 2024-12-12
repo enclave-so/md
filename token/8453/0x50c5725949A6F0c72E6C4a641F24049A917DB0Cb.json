@@ -1,10 +1,15 @@
 {
 	"chain": 8453,
 	"address": "0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb",
-	"symbol": "L2 Standard Bridged DAI (Base)",
-	"name": "L2 Standard Bridged DAI (Base)",
+	"symbol": "DAI",
+	"name": "Dai Stablecoin",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/DAI/logo.svg",
 	"coingecko": "l2-standard-bridged-dai-base",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"indexcoop",
+		"optimism",
+		"uniswap"
 	]
 }

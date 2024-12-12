@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0xa026Ad2ceDa16Ca5FC28fd3C72f99e2C332c8a26",
-	"symbol": "XCAD Network",
-	"name": "XCAD Network",
+	"symbol": "XCAD",
+	"name": "XCAD Token",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0xa026Ad2ceDa16Ca5FC28fd3C72f99e2C332c8a26.png",
 	"coingecko": "xcad-network",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

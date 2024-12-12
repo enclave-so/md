@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xB5F1457d6FBa1956Fb8d31B0B7CAcA14BDe0bE4b",
-	"symbol": "Stilton",
+	"symbol": "STILT",
 	"name": "Stilton",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/26132/thumb/2vfQHbe9_400x400.png?1696525220",
 	"coingecko": "stilton",
 	"sources": [
 		"coingecko"

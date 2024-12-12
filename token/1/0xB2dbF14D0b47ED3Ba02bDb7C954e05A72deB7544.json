@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xB2dbF14D0b47ED3Ba02bDb7C954e05A72deB7544",
-	"symbol": "MobiFi",
+	"symbol": "MOFI",
 	"name": "MobiFi",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14697/thumb/MOFI_Coin_Green_200x200.png?1696514369",
 	"coingecko": "mobifi",
 	"sources": [
 		"coingecko"

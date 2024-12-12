@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xFD4f2Caf941B6d737382DCe420b368DE3FC7f2D4",
-	"symbol": "Patex",
+	"symbol": "PATEX",
 	"name": "Patex",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35987/thumb/ajhjO1Bk_400x400.jpg?1710313200",
 	"coingecko": "patex",
 	"sources": [
 		"coingecko"

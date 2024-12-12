@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x1a11Ea9d61588D756D9f1014c3Cf0D226aEdd279",
-	"symbol": "MILEI Token",
+	"symbol": "MILEI",
 	"name": "MILEI Token",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/34697/thumb/MILEI_CIRCLE_200px.png?1705858944",
 	"coingecko": "milei-token",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x38d9eb07A7b8Df7D86F440A4A5c4a4c1a27E1a08",
-	"symbol": "bloXmove",
+	"symbol": "BLXM",
 	"name": "bloXmove",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/19310/thumb/blxm_200x200.png?1696518752",
 	"coingecko": "bloxmove-erc20",
 	"sources": [
 		"coingecko"

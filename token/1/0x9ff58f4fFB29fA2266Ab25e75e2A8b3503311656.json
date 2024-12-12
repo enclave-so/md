@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x9ff58f4fFB29fA2266Ab25e75e2A8b3503311656",
-	"symbol": "Aave WBTC",
+	"symbol": "AWBTC",
 	"name": "Aave WBTC",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/14244/thumb/aWBTC.41453c2a.png?1696513959",
 	"coingecko": "aave-wbtc",
 	"sources": [
 		"coingecko"

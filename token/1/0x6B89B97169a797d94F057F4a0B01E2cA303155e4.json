@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x6B89B97169a797d94F057F4a0B01E2cA303155e4",
-	"symbol": "Chad Coin",
+	"symbol": "CHAD",
 	"name": "Chad Coin",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/29863/thumb/Elipsa_3_1500x1500.png?1714240722",
 	"coingecko": "chad-coin",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xEFF9CDb294872b6553F4E9631Fb4D1fa4F9C5e6B",
-	"symbol": "BuildAI",
+	"symbol": "BUILD",
 	"name": "BuildAI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35460/thumb/200by200-logo.png?1731534072",
 	"coingecko": "buildai",
 	"sources": [
 		"coingecko"

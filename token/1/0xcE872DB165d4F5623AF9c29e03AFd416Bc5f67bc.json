@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xcE872DB165d4F5623AF9c29e03AFd416Bc5f67bc",
-	"symbol": "StakeVault.Network",
-	"name": "StakeVault.Network",
+	"symbol": "SVN",
+	"name": "StakeVault Network",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/37433/thumb/SVN.png?1714379860",
 	"coingecko": "stakevault-network",
 	"sources": [
 		"coingecko"

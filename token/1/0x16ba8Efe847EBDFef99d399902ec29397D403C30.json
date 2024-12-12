@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x16ba8Efe847EBDFef99d399902ec29397D403C30",
-	"symbol": "Oh! Finance",
-	"name": "Oh! Finance",
+	"symbol": "OH",
+	"name": "Oh  Finance",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/19493/thumb/oh-token-logo-200.png?1696518929",
 	"coingecko": "oh-finance",
 	"sources": [
 		"coingecko"

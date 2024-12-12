@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xeD1DdC491A2c8b1f7D6e8933580a47E124EA38db",
-	"symbol": "Intelligence On Chain",
+	"symbol": "IOC",
 	"name": "Intelligence On Chain",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/32418/thumb/IMG_20231017_174915_959.jpg?1698116981",
 	"coingecko": "intelligence-on-chain",
 	"sources": [
 		"coingecko"

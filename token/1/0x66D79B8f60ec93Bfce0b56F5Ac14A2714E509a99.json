@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x66D79B8f60ec93Bfce0b56F5Ac14A2714E509a99",
-	"symbol": "MAP Protocol",
+	"symbol": "MAPO",
 	"name": "MAP Protocol",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/10085/thumb/500*500.png?1723560204",
 	"coingecko": "marcopolo",
 	"sources": [
 		"coingecko"

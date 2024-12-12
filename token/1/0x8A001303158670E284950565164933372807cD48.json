@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x8A001303158670E284950565164933372807cD48",
-	"symbol": "WaifuAI",
+	"symbol": "WFAI",
 	"name": "WaifuAI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30606/thumb/waifuai.jpg?1696529476",
 	"coingecko": "waifuai",
 	"sources": [
 		"coingecko"

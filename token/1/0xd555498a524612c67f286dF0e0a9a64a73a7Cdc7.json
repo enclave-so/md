@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xd555498a524612c67f286dF0e0a9a64a73a7Cdc7",
-	"symbol": "DeFrogs",
+	"symbol": "DEFROGS",
 	"name": "DeFrogs",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35080/thumb/defrogs.jpeg?1707303202",
 	"coingecko": "defrogs",
 	"sources": [
 		"coingecko"

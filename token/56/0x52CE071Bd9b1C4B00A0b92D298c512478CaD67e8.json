@@ -1,10 +1,14 @@
 {
 	"chain": 56,
 	"address": "0x52CE071Bd9b1C4B00A0b92D298c512478CaD67e8",
-	"symbol": "Compound",
+	"symbol": "COMP",
 	"name": "Compound",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc00e94Cb662C3520282E6f5717214004A7f26888/logo.png",
 	"coingecko": "compound-governance-token",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap",
+		"uniswap"
 	]
 }

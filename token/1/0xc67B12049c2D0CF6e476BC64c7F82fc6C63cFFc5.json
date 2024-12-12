@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xc67B12049c2D0CF6e476BC64c7F82fc6C63cFFc5",
-	"symbol": "Globe Derivative Exchange",
+	"symbol": "GDT",
 	"name": "Globe Derivative Exchange",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/15335/thumb/gdt.PNG?1696514983",
 	"coingecko": "globe-derivative-exchange",
 	"sources": [
 		"coingecko"

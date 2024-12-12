@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x4947b72fED037AdE3365dA050A9be5c063E605A7",
-	"symbol": "Peanut",
+	"symbol": "PEANUT",
 	"name": "Peanut",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/51292/thumb/photo_2024-11-02_22-15-38.jpg?1730599211",
 	"coingecko": "peanut-2",
 	"sources": [
 		"coingecko"

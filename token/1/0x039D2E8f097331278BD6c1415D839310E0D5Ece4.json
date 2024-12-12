@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x039D2E8f097331278BD6c1415D839310E0D5Ece4",
-	"symbol": "Linda",
+	"symbol": "LINDA",
 	"name": "Linda",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/33699/thumb/linda-logo-200.png?1705166731",
 	"coingecko": "linda-2",
 	"sources": [
 		"coingecko"

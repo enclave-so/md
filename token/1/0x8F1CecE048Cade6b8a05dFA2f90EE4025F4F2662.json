@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x8F1CecE048Cade6b8a05dFA2f90EE4025F4F2662",
-	"symbol": "Galaxy Fox",
+	"symbol": "GFOX",
 	"name": "Galaxy Fox",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/34882/thumb/GFOX_LOGO.png?1706499381",
 	"coingecko": "galaxy-fox",
 	"sources": [
 		"coingecko"

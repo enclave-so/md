@@ -3,6 +3,8 @@
 	"address": "0x2156CD781c5e77323D92A4487a0eC45F128e165E",
 	"symbol": "BL00P",
 	"name": "BL00P",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/50197/thumb/200x200.png?1726237993",
 	"coingecko": "bl00p",
 	"sources": [
 		"coingecko"

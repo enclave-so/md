@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x590246Bfbf89b113D8ac36FaEeA12B7589f7FE5b",
-	"symbol": "Flappy",
+	"symbol": "FLAPPY",
 	"name": "Flappy",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/38872/thumb/BE8E2A24-9DC5-4B71-B723-7D941C1507D8.png?1719288459",
 	"coingecko": "flappy",
 	"sources": [
 		"coingecko"

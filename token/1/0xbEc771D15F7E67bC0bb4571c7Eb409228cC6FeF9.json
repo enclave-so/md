@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xbEc771D15F7E67bC0bb4571c7Eb409228cC6FeF9",
-	"symbol": "BribeAI",
+	"symbol": "BRAI",
 	"name": "BribeAI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/36494/thumb/brailogo200x200_c.png?1728053089",
 	"coingecko": "bribeai",
 	"sources": [
 		"coingecko"

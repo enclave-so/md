@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xC3d21f79C3120A4fFda7A535f8005a7c297799bF",
-	"symbol": "Term Finance",
+	"symbol": "TERM",
 	"name": "Term Finance",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/38142/thumb/terms.png?1716630303",
 	"coingecko": "term-finance",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x8b802513d4AA6F349B197a4Ea4C26563cd6Fd5b2",
-	"symbol": "HIgher IMO",
+	"symbol": "HIGHER",
 	"name": "HIgher IMO",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/33518/thumb/download.png?1702132819",
 	"coingecko": "higher-imo",
 	"sources": [
 		"coingecko"

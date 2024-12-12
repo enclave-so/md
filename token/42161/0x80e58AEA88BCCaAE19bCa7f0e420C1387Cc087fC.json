@@ -1,0 +1,11 @@
+{
+	"chain": 42161,
+	"address": "0x80e58AEA88BCCaAE19bCa7f0e420C1387Cc087fC",
+	"symbol": "iBTC1X",
+	"name": "Index Coop Inverse Bitcoin Index",
+	"decimals": 18,
+	"logo": "https://cdn.indexcoop.com/ibtc1x.svg",
+	"sources": [
+		"indexcoop"
+	]
+}

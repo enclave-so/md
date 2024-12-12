@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xbB97e381F1d1e94ffa2A5844F6875e6146981009",
-	"symbol": "Wibx",
+	"symbol": "WBX",
 	"name": "Wibx",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/11009/thumb/wibx_new_logo.png?1696510957",
 	"coingecko": "wibx",
 	"sources": [
 		"coingecko"

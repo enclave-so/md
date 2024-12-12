@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x25931894a86D47441213199621F1F2994e1c39Aa",
-	"symbol": "ChainGPT",
+	"symbol": "CGPT",
 	"name": "ChainGPT",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/29306/thumb/200x200.png?1696528257",
 	"coingecko": "chaingpt",
 	"sources": [
 		"coingecko"

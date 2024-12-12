@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x653aaB62056B92641116D63927DE6141D780e596",
-	"symbol": "Anchored Coins ACHF",
+	"symbol": "ACHF",
 	"name": "Anchored Coins ACHF",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/33471/thumb/logo_achf.png?1701946601",
 	"coingecko": "anchored-coins-chf",
 	"sources": [
 		"coingecko"

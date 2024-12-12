@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0x762539b45A1dCcE3D36d080F74d1AED37844b878",
-	"symbol": "Linear",
-	"name": "Linear",
+	"symbol": "LINA",
+	"name": "Linear Finance",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x762539b45A1dCcE3D36d080F74d1AED37844b878.png",
 	"coingecko": "linear",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x6f40d4A6237C257fff2dB00FA0510DeEECd303eb",
-	"symbol": "Instadapp",
+	"symbol": "INST",
 	"name": "Instadapp",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14688/thumb/30hFM0-n_400x400.jpg?1696514361",
 	"coingecko": "instadapp",
 	"sources": [
 		"coingecko"

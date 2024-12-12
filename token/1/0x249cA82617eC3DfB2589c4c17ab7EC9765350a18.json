@@ -4,7 +4,7 @@
 	"symbol": "VERSE",
 	"name": "Verse",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x249cA82617eC3DfB2589c4c17ab7EC9765350a18.jpg",
+	"logo": "https://assets.coingecko.com/coins/images/28424/thumb/verselogo.png?1696527421",
 	"coingecko": "verse-bitcoin",
 	"sources": [
 		"coingecko",

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xCBdE0453d4E7D748077c1b0Ac2216C011DD2f406",
-	"symbol": "Terminus",
+	"symbol": "TERMINUS",
 	"name": "Terminus",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/50307/thumb/terminus.jpg?1727057343",
 	"coingecko": "terminus-2",
 	"sources": [
 		"coingecko"

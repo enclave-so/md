@@ -4,10 +4,11 @@
 	"symbol": "TRIBE",
 	"name": "Tribe",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xc7283b66Eb1EB5FB86327f08e1B5816b0720212B.jpg",
+	"logo": "https://assets.coingecko.com/coins/images/14575/thumb/tribe.PNG?1617487954",
 	"coingecko": "tribe-2",
 	"sources": [
 		"coingecko",
-		"sushiswap"
+		"sushiswap",
+		"uniswap"
 	]
 }

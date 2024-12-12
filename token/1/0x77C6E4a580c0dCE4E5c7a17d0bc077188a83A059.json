@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x77C6E4a580c0dCE4E5c7a17d0bc077188a83A059",
-	"symbol": "Swerve.fi USD",
-	"name": "Swerve.fi USD",
+	"symbol": "SWUSD",
+	"name": "Swerve fi USD",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/12918/thumb/swerve.png?1696512706",
 	"coingecko": "swusd",
 	"sources": [
 		"coingecko"

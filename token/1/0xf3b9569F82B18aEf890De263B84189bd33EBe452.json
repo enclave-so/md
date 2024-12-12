@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xf3b9569F82B18aEf890De263B84189bd33EBe452",
-	"symbol": "A Hunters Dream",
+	"symbol": "CAW",
 	"name": "A Hunters Dream",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/25130/thumb/x-Logo-color-10x.png?1696524280",
 	"coingecko": "a-hunters-dream",
 	"sources": [
 		"coingecko"

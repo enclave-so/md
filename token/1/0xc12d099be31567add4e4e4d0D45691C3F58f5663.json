@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xc12d099be31567add4e4e4d0D45691C3F58f5663",
-	"symbol": "Auctus",
+	"symbol": "AUC",
 	"name": "Auctus",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/2165/thumb/Auc_Discord_Avatar1.png?1696503126",
 	"coingecko": "auctus",
 	"sources": [
 		"coingecko"

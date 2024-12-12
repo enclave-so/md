@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x031B8d752d73d7Fe9678ACEf26e818280D0646b4",
-	"symbol": "Sovrun",
+	"symbol": "SOVRN",
 	"name": "Sovrun",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/52312/thumb/IMG_20241202_183145_081.jpg?1733135740",
 	"coingecko": "sovrun",
 	"sources": [
 		"coingecko"

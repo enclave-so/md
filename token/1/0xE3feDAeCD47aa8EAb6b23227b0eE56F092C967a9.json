@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xE3feDAeCD47aa8EAb6b23227b0eE56F092C967a9",
-	"symbol": "Primas",
+	"symbol": "PST",
 	"name": "Primas",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/917/thumb/primas.png?1696502039",
 	"coingecko": "primas",
 	"sources": [
 		"coingecko"

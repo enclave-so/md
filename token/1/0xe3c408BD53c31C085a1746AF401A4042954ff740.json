@@ -3,6 +3,8 @@
 	"address": "0xe3c408BD53c31C085a1746AF401A4042954ff740",
 	"symbol": "GMT",
 	"name": "GMT",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/23597/thumb/token-gmt-200x200.png?1703153841",
 	"coingecko": "stepn",
 	"sources": [
 		"coingecko"

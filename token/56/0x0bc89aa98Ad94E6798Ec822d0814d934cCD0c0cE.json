@@ -1,0 +1,11 @@
+{
+	"chain": 56,
+	"address": "0x0bc89aa98Ad94E6798Ec822d0814d934cCD0c0cE",
+	"symbol": "BATH",
+	"name": "Battle Hero",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x0bc89aa98Ad94E6798Ec822d0814d934cCD0c0cE.png",
+	"sources": [
+		"pancakeswap"
+	]
+}

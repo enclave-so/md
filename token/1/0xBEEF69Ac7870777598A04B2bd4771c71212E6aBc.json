@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xBEEF69Ac7870777598A04B2bd4771c71212E6aBc",
-	"symbol": "Steakhouse Resteaking Vault",
+	"symbol": "STEAKLRT",
 	"name": "Steakhouse Resteaking Vault",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/39410/thumb/Steakhouse_logo-05.jpg?1722053893",
 	"coingecko": "steakhouse-resteaking-vault",
 	"sources": [
 		"coingecko"

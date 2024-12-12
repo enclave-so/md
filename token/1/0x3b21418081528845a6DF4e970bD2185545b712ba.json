@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x3b21418081528845a6DF4e970bD2185545b712ba",
-	"symbol": "Chi Protocol",
+	"symbol": "CHI",
 	"name": "Chi Protocol",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/34067/thumb/Chi-Logo-%28200px%29.png?1717198453",
 	"coingecko": "chi-protocol",
 	"sources": [
 		"coingecko"

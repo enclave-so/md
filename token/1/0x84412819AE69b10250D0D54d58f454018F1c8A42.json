@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x84412819AE69b10250D0D54d58f454018F1c8A42",
-	"symbol": "Scarab Tools",
+	"symbol": "DUNG",
 	"name": "Scarab Tools",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30706/thumb/scarab-cg.png?1696529577",
 	"coingecko": "scarab-tools",
 	"sources": [
 		"coingecko"

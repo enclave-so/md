@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x949185D3BE66775Ea648F4a306740EA9eFF9C567",
-	"symbol": "Yel.Finance",
-	"name": "Yel.Finance",
+	"symbol": "YEL",
+	"name": "Yel Finance",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/17429/thumb/Logo200.png?1696516976",
 	"coingecko": "yel-finance",
 	"sources": [
 		"coingecko"

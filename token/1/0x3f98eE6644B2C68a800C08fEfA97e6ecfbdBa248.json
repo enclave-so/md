@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x3f98eE6644B2C68a800C08fEfA97e6ecfbdBa248",
-	"symbol": "WhatAI",
+	"symbol": "WHAT",
 	"name": "WhatAI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/51383/thumb/1000001289.jpg?1730966987",
 	"coingecko": "whatai",
 	"sources": [
 		"coingecko"

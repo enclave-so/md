@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x1063181dc986F76F7eA2Dd109e16fc596d0f522A",
-	"symbol": "Cybria",
+	"symbol": "CYBA",
 	"name": "Cybria",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/31694/thumb/Cybria_Logo_200x200.png?1696530512",
 	"coingecko": "cybria",
 	"sources": [
 		"coingecko"

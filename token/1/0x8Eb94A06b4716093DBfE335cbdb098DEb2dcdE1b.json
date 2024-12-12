@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x8Eb94A06b4716093DBfE335cbdb098DEb2dcdE1b",
-	"symbol": "Half Shiba Inu",
+	"symbol": "SHIB05",
 	"name": "Half Shiba Inu",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/28957/thumb/halfshib.jpg?1696527930",
 	"coingecko": "half-shiba-inu",
 	"sources": [
 		"coingecko"

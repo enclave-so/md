@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x4e4990E997e1dF3f6b39Ff49384E2E7E99BC55fE",
-	"symbol": "Saudi Bonk",
+	"symbol": "SAUDIBONK",
 	"name": "Saudi Bonk",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/34812/thumb/SaudiBonk.jpg?1706122838",
 	"coingecko": "saudi-bonk",
 	"sources": [
 		"coingecko"

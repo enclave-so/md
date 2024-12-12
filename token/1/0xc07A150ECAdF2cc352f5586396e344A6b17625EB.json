@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xc07A150ECAdF2cc352f5586396e344A6b17625EB",
-	"symbol": "Bio Passport",
+	"symbol": "BIOT",
 	"name": "Bio Passport",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/14167/thumb/logo_%2895%29.png?1696513885",
 	"coingecko": "biopassport",
 	"sources": [
 		"coingecko"

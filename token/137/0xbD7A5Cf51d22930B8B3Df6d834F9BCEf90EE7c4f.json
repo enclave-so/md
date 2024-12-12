@@ -1,0 +1,11 @@
+{
+	"chain": 137,
+	"address": "0xbD7A5Cf51d22930B8B3Df6d834F9BCEf90EE7c4f",
+	"symbol": "ENS",
+	"name": "Ethereum Name Service",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/19785/thumb/acatxTm8_400x400.jpg?1635850140",
+	"sources": [
+		"uniswap"
+	]
+}

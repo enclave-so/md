@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x34bdf48A8F753de4822a6CFB1FEE275F9b4D662e",
-	"symbol": "FACTS",
+	"symbol": "BKC",
 	"name": "FACTS",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/8461/thumb/sFNOkmVx_400x400.jpg?1696508647",
 	"coingecko": "facts",
 	"sources": [
 		"coingecko"

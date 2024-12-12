@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xe77f6aCD24185e149e329C1C0F479201b9Ec2f4B",
-	"symbol": "Zeebu",
+	"symbol": "ZBU",
 	"name": "Zeebu",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31145/thumb/200x200_Front_token.png?1696529974",
 	"coingecko": "zeebu",
 	"sources": [
 		"coingecko"

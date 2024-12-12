@@ -1,0 +1,11 @@
+{
+	"chain": 10,
+	"address": "0x346e03F8Cce9fE01dCB3d0Da3e9D00dC2c0E08f0",
+	"symbol": "weETH",
+	"name": "Wrapped eETH",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/weETH/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

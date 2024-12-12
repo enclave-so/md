@@ -1,10 +1,13 @@
 {
 	"chain": 10,
 	"address": "0x50Bce64397C75488465253c0A034b8097FeA6578",
-	"symbol": "HanChain",
+	"symbol": "HAN",
 	"name": "HanChain",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/HAN/logo.svg",
 	"coingecko": "hanchain",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

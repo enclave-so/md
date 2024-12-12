@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x571f54D23cDf2211C83E9A0CbD92AcA36c48Fa02",
-	"symbol": "Parallel USD",
+	"symbol": "PAUSD",
 	"name": "Parallel USD",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/37953/thumb/paUSD-Square.png?1716090814",
 	"coingecko": "parallel-usd",
 	"sources": [
 		"coingecko"

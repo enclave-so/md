@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x837EE5a664d51Bc2e7d26EB63cFfEb48e037bdE2",
-	"symbol": "NomotaAI",
+	"symbol": "NMAI",
 	"name": "NomotaAI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/37055/thumb/logo_spaced_200.png?1713171582",
 	"coingecko": "nomotaai",
 	"sources": [
 		"coingecko"

@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0x9AAb071B4129B083B01cB5A0Cb513Ce7ecA26fa5",
-	"symbol": "Hunt",
+	"symbol": "HUNT",
 	"name": "Hunt",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/7989/thumb/HUNT.png?1696508215",
 	"coingecko": "hunt-token",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

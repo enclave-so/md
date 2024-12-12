@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xD567B5F02b9073aD3a982a099a23Bf019FF11d1c",
-	"symbol": "Gamestarter",
+	"symbol": "GAME",
 	"name": "Gamestarter",
+	"decimals": 5,
+	"logo": "https://assets.coingecko.com/coins/images/17604/thumb/gpMi14-r_400x400.jpg?1696517136",
 	"coingecko": "gamestarter",
 	"sources": [
 		"coingecko"

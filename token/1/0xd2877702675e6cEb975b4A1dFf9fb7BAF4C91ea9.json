@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xd2877702675e6cEb975b4A1dFf9fb7BAF4C91ea9",
-	"symbol": "Wrapped Terra Classic",
+	"symbol": "LUNC",
 	"name": "Wrapped Terra Classic",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/13628/thumb/wluna.png?1696513376",
 	"coingecko": "wrapped-terra",
 	"sources": [
 		"coingecko"

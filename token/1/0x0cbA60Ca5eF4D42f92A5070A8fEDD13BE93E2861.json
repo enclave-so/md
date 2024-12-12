@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x0cbA60Ca5eF4D42f92A5070A8fEDD13BE93E2861",
-	"symbol": "The Protocol",
+	"symbol": "THE",
 	"name": "The Protocol",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/27849/thumb/cSar5sDM_400x400.jpg?1696526868",
 	"coingecko": "the-protocol",
 	"sources": [
 		"coingecko"

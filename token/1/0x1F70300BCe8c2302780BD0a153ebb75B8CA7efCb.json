@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x1F70300BCe8c2302780BD0a153ebb75B8CA7efCb",
-	"symbol": "Mini Donald",
+	"symbol": "BARRON",
 	"name": "Mini Donald",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/39157/thumb/BARRON200.jpg?1720775302",
 	"coingecko": "mini-donald",
 	"sources": [
 		"coingecko"

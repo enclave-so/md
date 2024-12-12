@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xde4EE8057785A7e8e800Db58F9784845A5C2Cbd6",
-	"symbol": "DeXe",
+	"symbol": "DEXE",
 	"name": "DeXe",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/12713/thumb/DEXE_token_logo.png?1696512514",
 	"coingecko": "dexe",
 	"sources": [
 		"coingecko"

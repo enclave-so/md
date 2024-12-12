@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xA02F5E93f783baF150Aa1F8b341Ae90fe0a772f7",
-	"symbol": "Re7 cbBTC",
+	"symbol": "RE7CBBTC",
 	"name": "Re7 cbBTC",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/51503/thumb/cbbtc.png?1731433892",
 	"coingecko": "re7-cbbtc",
 	"sources": [
 		"coingecko"

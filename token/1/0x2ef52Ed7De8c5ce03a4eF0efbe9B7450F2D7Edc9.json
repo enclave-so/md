@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x2ef52Ed7De8c5ce03a4eF0efbe9B7450F2D7Edc9",
-	"symbol": "Revain",
+	"symbol": "REV",
 	"name": "Revain",
+	"decimals": 6,
+	"logo": "https://assets.coingecko.com/coins/images/1107/thumb/256x256.png?1696502203",
 	"coingecko": "revain",
 	"sources": [
 		"coingecko"

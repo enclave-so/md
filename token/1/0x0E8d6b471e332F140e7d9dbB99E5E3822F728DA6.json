@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x0E8d6b471e332F140e7d9dbB99E5E3822F728DA6",
-	"symbol": "Abyss",
+	"symbol": "ABYSS",
 	"name": "Abyss",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/2105/thumb/NrFmpxs.png?1696503072",
 	"coingecko": "the-abyss",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x95987b0cdC7F65d989A30B3B7132a38388c548Eb",
-	"symbol": "Pundi X PURSE",
+	"symbol": "PURSE",
 	"name": "Pundi X PURSE",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/20419/thumb/HobiV7k__400x400.jpg?1696519827",
 	"coingecko": "pundi-x-purse",
 	"sources": [
 		"coingecko"

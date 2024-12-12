@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x6cAcDB97e3fC8136805a9E7c342d866ab77D0957",
-	"symbol": "Swapr",
+	"symbol": "SWPR",
 	"name": "Swapr",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/18740/thumb/swapr.jpg?1696518206",
 	"coingecko": "swapr",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xc353Bf07405304AeaB75F4C2Fac7E88D6A68f98e",
-	"symbol": "Hope.money",
-	"name": "Hope.money",
+	"symbol": "HOPE",
+	"name": "Hope money",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30971/thumb/HOPE.png?1696529810",
 	"coingecko": "hope-2",
 	"sources": [
 		"coingecko"

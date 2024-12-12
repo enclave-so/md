@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xc4BB7277A74678f053259CB1F96140347efbfd46",
-	"symbol": "Coin of the champions",
+	"symbol": "COC",
 	"name": "Coin of the champions",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/18478/thumb/COC-Yellow-Transparent-1.png?1696517963",
 	"coingecko": "coin-of-the-champions",
 	"sources": [
 		"coingecko"

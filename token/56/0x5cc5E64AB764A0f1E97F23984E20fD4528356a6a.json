@@ -3,8 +3,11 @@
 	"address": "0x5cc5E64AB764A0f1E97F23984E20fD4528356a6a",
 	"symbol": "XRGB",
 	"name": "XRGB",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x5cc5E64AB764A0f1E97F23984E20fD4528356a6a.png",
 	"coingecko": "xrgb",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xbd31EA8212119f94A611FA969881CBa3EA06Fa3d",
-	"symbol": "Terra Classic (Wormhole)",
-	"name": "Terra Classic (Wormhole)",
+	"symbol": "LUNC",
+	"name": "Terra Classic  Wormhole ",
+	"decimals": 6,
+	"logo": "https://assets.coingecko.com/coins/images/22951/thumb/LUNA_wh_small.png?1696522247",
 	"coingecko": "luna-wormhole",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xBE4D9c8C638B5f0864017d7F6A04b66c42953847",
-	"symbol": "Nimbus Network",
+	"symbol": "NIMBUS",
 	"name": "Nimbus Network",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/37937/thumb/IMG_20240516_123501_843.jpg?1715942211",
 	"coingecko": "nimbus-network",
 	"sources": [
 		"coingecko"

@@ -1,16 +1,6 @@
 [
 	{
 		"chain": 53935,
-		"address": "0x77f2656d04E158f915bC22f07B779D94c1DC47Ff",
-		"symbol": "xJEWEL",
-		"name": "xJEWEL",
-		"coingecko": "xjewel",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 53935,
 		"address": "0x04b9dA42306B023f3572e106B11D82aAd9D32EBb",
 		"symbol": "DeFi Kingdoms Crystal",
 		"name": "DeFi Kingdoms Crystal",
@@ -45,6 +35,16 @@
 		"symbol": "Wrapped AVAX",
 		"name": "Wrapped AVAX",
 		"coingecko": "wrapped-avax",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 53935,
+		"address": "0x77f2656d04E158f915bC22f07B779D94c1DC47Ff",
+		"symbol": "xJEWEL",
+		"name": "xJEWEL",
+		"coingecko": "xjewel",
 		"sources": [
 			"coingecko"
 		]

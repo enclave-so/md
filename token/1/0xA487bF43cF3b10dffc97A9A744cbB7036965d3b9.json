@@ -2,9 +2,9 @@
 	"chain": 1,
 	"address": "0xA487bF43cF3b10dffc97A9A744cbB7036965d3b9",
 	"symbol": "DERI",
-	"name": "Deri Token",
+	"name": "Deri Protocol",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xA487bF43cF3b10dffc97A9A744cbB7036965d3b9/logo.png",
+	"logo": "https://assets.coingecko.com/coins/images/13931/thumb/200vs200.jpg?1696513670",
 	"coingecko": "deri-protocol",
 	"sources": [
 		"coingecko",

@@ -1,0 +1,11 @@
+{
+	"chain": 8453,
+	"address": "0x223738a747383d6F9f827d95964e4d8E8AC754cE",
+	"symbol": "auraBAL",
+	"name": "Aura BAL",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/auraBAL/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

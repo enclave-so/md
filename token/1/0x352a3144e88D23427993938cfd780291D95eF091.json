@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x352a3144e88D23427993938cfd780291D95eF091",
-	"symbol": "Eigenpie OsETH",
+	"symbol": "MOSETH",
 	"name": "Eigenpie OsETH",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/37204/thumb/mosETH.png?1713764694",
 	"coingecko": "eigenpie-oseth",
 	"sources": [
 		"coingecko"

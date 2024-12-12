@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x0414D8C87b271266a5864329fb4932bBE19c0c49",
-	"symbol": "WSB Coin",
+	"symbol": "WSB",
 	"name": "WSB Coin",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30060/thumb/wsb_pfp.png?1696528981",
 	"coingecko": "wsb-coin",
 	"sources": [
 		"coingecko"

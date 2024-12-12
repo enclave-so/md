@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x958A03181806cb8807beF40e864e55f89B3393D3",
-	"symbol": "UTIX",
+	"symbol": "UTX",
 	"name": "UTIX",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35619/thumb/utxlogo.png?1709287098",
 	"coingecko": "utix",
 	"sources": [
 		"coingecko"

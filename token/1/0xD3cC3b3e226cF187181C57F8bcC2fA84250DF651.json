@@ -3,6 +3,8 @@
 	"address": "0xD3cC3b3e226cF187181C57F8bcC2fA84250DF651",
 	"symbol": "UPLOAD",
 	"name": "UPLOAD",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/38676/thumb/file_%281%29.png?1718308776",
 	"coingecko": "upload",
 	"sources": [
 		"coingecko"

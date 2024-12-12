@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x018008bfb33d285247A21d44E50697654f754e63",
-	"symbol": "Aave v3 DAI",
+	"symbol": "ADAI",
 	"name": "Aave v3 DAI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/32886/thumb/dai.png?1699769446",
 	"coingecko": "aave-v3-dai",
 	"sources": [
 		"coingecko"

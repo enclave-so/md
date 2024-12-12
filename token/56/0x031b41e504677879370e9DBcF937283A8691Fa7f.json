@@ -1,10 +1,14 @@
 {
 	"chain": 56,
 	"address": "0x031b41e504677879370e9DBcF937283A8691Fa7f",
-	"symbol": "Artificial Superintelligence Alliance",
-	"name": "Artificial Superintelligence Alliance",
+	"symbol": "FET",
+	"name": "Fetch ai",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/5681/thumb/Fetch.jpg?1572098136",
 	"coingecko": "fetch-ai",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap",
+		"uniswap"
 	]
 }

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x7714f320Adca62B149df2579361AfEC729c5FE6A",
-	"symbol": "Tenup",
+	"symbol": "TUP",
 	"name": "Tenup",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/6254/thumb/uphIf44J_400x400.jpg?1696506637",
 	"coingecko": "tenup",
 	"sources": [
 		"coingecko"

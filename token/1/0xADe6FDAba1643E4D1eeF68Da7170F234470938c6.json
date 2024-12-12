@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xADe6FDAba1643E4D1eeF68Da7170F234470938c6",
-	"symbol": "Harambe",
+	"symbol": "HARAMBE",
 	"name": "Harambe",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/23489/thumb/unnamed.jpg?1696522699",
 	"coingecko": "harambe",
 	"sources": [
 		"coingecko"

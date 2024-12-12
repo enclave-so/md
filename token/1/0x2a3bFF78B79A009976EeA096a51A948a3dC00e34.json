@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x2a3bFF78B79A009976EeA096a51A948a3dC00e34",
-	"symbol": "Wilder World",
+	"symbol": "WILD",
 	"name": "Wilder World",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/15407/thumb/wld-logo.png?1712273448",
 	"coingecko": "wilder-world",
 	"sources": [
 		"coingecko"

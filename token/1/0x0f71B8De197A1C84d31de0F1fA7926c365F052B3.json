@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x0f71B8De197A1C84d31de0F1fA7926c365F052B3",
-	"symbol": "Arcona",
+	"symbol": "ARCONA",
 	"name": "Arcona",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/4312/thumb/icon_ARCONA_%281%29.png?1696504918",
 	"coingecko": "arcona",
 	"sources": [
 		"coingecko"

@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0x72e4f9F808C49A2a61dE9C5896298920Dc4EEEa9",
-	"symbol": "HarryPotterObamaSonic10Inu (ETH)",
-	"name": "HarryPotterObamaSonic10Inu (ETH)",
+	"symbol": "BITCOIN",
+	"name": "HarryPotterObamaSonic10Inu  ETH ",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/30323/thumb/hpos10i_logo_casino_night-dexview.png?1696529224",
 	"coingecko": "harrypotterobamasonic10in",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

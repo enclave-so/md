@@ -1,0 +1,11 @@
+{
+	"chain": 56,
+	"address": "0xFfeB8287dE7DC756067e171e9919c730f0636680",
+	"symbol": "LAVA",
+	"name": "Axelar Wrapped LAVA",
+	"decimals": 6,
+	"logo": "https://tokens.pancakeswap.finance/images/0xFfeB8287dE7DC756067e171e9919c730f0636680.png",
+	"sources": [
+		"pancakeswap"
+	]
+}

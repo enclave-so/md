@@ -1,0 +1,11 @@
+{
+	"chain": 56,
+	"address": "0xbcf39F0EDDa668C58371E519AF37CA705f2bFcbd",
+	"symbol": "pCWS",
+	"name": "PolyCrowns",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0xbcf39F0EDDa668C58371E519AF37CA705f2bFcbd.png",
+	"sources": [
+		"pancakeswap"
+	]
+}

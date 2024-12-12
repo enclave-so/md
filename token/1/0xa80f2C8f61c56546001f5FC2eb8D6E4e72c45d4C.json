@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xa80f2C8f61c56546001f5FC2eb8D6E4e72c45d4C",
-	"symbol": "Unique Utility",
+	"symbol": "UNQT",
 	"name": "Unique Utility",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/23382/thumb/UniqueCoin_Logo.jpeg?1708335635",
 	"coingecko": "unique-utility-token",
 	"sources": [
 		"coingecko"

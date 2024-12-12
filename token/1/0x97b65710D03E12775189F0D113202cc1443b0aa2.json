@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x97b65710D03E12775189F0D113202cc1443b0aa2",
-	"symbol": "AstroElon",
+	"symbol": "ELONONE",
 	"name": "AstroElon",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/16082/thumb/AstroElon.png?1696515690",
 	"coingecko": "astroelon",
 	"sources": [
 		"coingecko"

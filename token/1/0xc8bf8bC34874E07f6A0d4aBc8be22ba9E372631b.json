@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xc8bf8bC34874E07f6A0d4aBc8be22ba9E372631b",
-	"symbol": "SmartWorld Global Token",
+	"symbol": "SWGT",
 	"name": "SmartWorld Global Token",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/35040/thumb/IMG_20240204_024533_022.png?1707192592",
 	"coingecko": "smartworld-global",
 	"sources": [
 		"coingecko"

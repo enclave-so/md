@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xb646c4fE0090Bf6fdbA226D3ccd8f775b30fDbB5",
-	"symbol": "Culo (ETH)",
-	"name": "Culo (ETH)",
+	"symbol": "CULO",
+	"name": "Culo  ETH ",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/51964/thumb/CULO-ETH.jpg?1732274364",
 	"coingecko": "culo-eth",
 	"sources": [
 		"coingecko"

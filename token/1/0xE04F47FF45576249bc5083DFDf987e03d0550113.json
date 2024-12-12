@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xE04F47FF45576249bc5083DFDf987e03d0550113",
-	"symbol": "Moonsama",
+	"symbol": "SAMA",
 	"name": "Moonsama",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/28308/thumb/Small.png?1696527312",
 	"coingecko": "exosama-network",
 	"sources": [
 		"coingecko"

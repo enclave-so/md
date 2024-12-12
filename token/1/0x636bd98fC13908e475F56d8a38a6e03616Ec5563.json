@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x636bd98fC13908e475F56d8a38a6e03616Ec5563",
-	"symbol": "Wat",
+	"symbol": "WAT",
 	"name": "Wat",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/38782/thumb/Wat.png?1718854803",
 	"coingecko": "wat",
 	"sources": [
 		"coingecko"

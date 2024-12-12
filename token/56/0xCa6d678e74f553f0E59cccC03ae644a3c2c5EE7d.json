@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0xCa6d678e74f553f0E59cccC03ae644a3c2c5EE7d",
-	"symbol": "Planet Token",
-	"name": "Planet Token",
+	"symbol": "PLANET",
+	"name": "PLANET",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0xCa6d678e74f553f0E59cccC03ae644a3c2c5EE7d.png",
 	"coingecko": "planet-token",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

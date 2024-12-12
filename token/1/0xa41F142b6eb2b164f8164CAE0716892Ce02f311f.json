@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xa41F142b6eb2b164f8164CAE0716892Ce02f311f",
-	"symbol": "Avocado DAO",
+	"symbol": "AVG",
 	"name": "Avocado DAO",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/21102/thumb/logo192_%281%29.png?1696520483",
 	"coingecko": "avaocado-dao",
 	"sources": [
 		"coingecko"

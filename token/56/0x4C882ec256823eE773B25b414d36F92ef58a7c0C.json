@@ -1,10 +1,14 @@
 {
 	"chain": 56,
 	"address": "0x4C882ec256823eE773B25b414d36F92ef58a7c0C",
-	"symbol": "pSTAKE Finance",
+	"symbol": "PSTAKE",
 	"name": "pSTAKE Finance",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/23931/thumb/PSTAKE_Dark.png?1645709930",
 	"coingecko": "pstake-finance",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap",
+		"uniswap"
 	]
 }

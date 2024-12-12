@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x007115416AB6c266329a03B09a8aa39aC2eF7d9d",
-	"symbol": "Midas BTC Yield Token",
+	"symbol": "MBTC",
 	"name": "Midas BTC Yield Token",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/51055/thumb/mbtc.png?1729875716",
 	"coingecko": "midas-btc-yield-token",
 	"sources": [
 		"coingecko"

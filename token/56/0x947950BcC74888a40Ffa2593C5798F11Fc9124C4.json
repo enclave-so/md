@@ -1,13 +1,15 @@
 {
 	"chain": 56,
 	"address": "0x947950BcC74888a40Ffa2593C5798F11Fc9124C4",
-	"symbol": "SUSHI.binance",
-	"name": "Binance-Peg SushiToken",
+	"symbol": "SUSHI",
+	"name": "Sushi",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0x947950BcC74888a40Ffa2593C5798F11Fc9124C4.jpg",
+	"logo": "https://assets.coingecko.com/coins/images/12271/thumb/512x512_Logo_no_chop.png?1606986688",
 	"coingecko": "sushi",
 	"sources": [
 		"coingecko",
-		"sushiswap"
+		"pancakeswap",
+		"sushiswap",
+		"uniswap"
 	]
 }

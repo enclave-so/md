@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x14feE680690900BA0ccCfC76AD70Fd1b95D10e16",
-	"symbol": "PAAL AI",
+	"symbol": "PAAL",
 	"name": "PAAL AI",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/30815/thumb/Paal_New_Logo_%281%29.png?1718160584",
 	"coingecko": "paal-ai",
 	"sources": [
 		"coingecko"

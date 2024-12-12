@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x33ABE795f9c1b6136608c36dB211bD7590f5FdAE",
-	"symbol": "Landwolf",
+	"symbol": "WOLF",
 	"name": "Landwolf",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/36996/thumb/stnMC5pk_400x400.jpg?1713027939",
 	"coingecko": "landwolf-eth",
 	"sources": [
 		"coingecko"

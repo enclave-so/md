@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x3Ea8ea4237344C9931214796d9417Af1A1180770",
-	"symbol": "Flux Protocol",
+	"symbol": "FLX",
 	"name": "Flux Protocol",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/21137/thumb/Flux_Logo.jpg?1712087060",
 	"coingecko": "flux-token",
 	"sources": [
 		"coingecko"

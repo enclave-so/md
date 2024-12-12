@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x7968bc6a03017eA2de509AAA816F163Db0f35148",
-	"symbol": "Hedget",
+	"symbol": "HGET",
 	"name": "Hedget",
+	"decimals": 6,
+	"logo": "https://assets.coingecko.com/coins/images/12453/thumb/Hedget.png?1696512273",
 	"coingecko": "hedget",
 	"sources": [
 		"coingecko"

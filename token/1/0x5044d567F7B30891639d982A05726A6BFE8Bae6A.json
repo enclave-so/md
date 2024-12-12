@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x5044d567F7B30891639d982A05726A6BFE8Bae6A",
-	"symbol": "Brainers",
+	"symbol": "BRAINERS",
 	"name": "Brainers",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/36127/thumb/Brainers.png?1710579156",
 	"coingecko": "brainers",
 	"sources": [
 		"coingecko"

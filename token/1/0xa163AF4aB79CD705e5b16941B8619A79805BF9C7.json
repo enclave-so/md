@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xa163AF4aB79CD705e5b16941B8619A79805BF9C7",
-	"symbol": "BabyMarvin Inu",
+	"symbol": "BABYMARVIN",
 	"name": "BabyMarvin Inu",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/51146/thumb/1000229291.jpg?1730228170",
 	"coingecko": "babymarvin-inu",
 	"sources": [
 		"coingecko"

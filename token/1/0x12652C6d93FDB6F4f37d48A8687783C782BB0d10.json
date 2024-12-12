@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x12652C6d93FDB6F4f37d48A8687783C782BB0d10",
-	"symbol": "Entangle",
+	"symbol": "NGL",
 	"name": "Entangle",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/34522/thumb/Logo_-_Icon_Square.png?1733260911",
 	"coingecko": "entangle",
 	"sources": [
 		"coingecko"

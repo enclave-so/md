@@ -3,6 +3,8 @@
 	"address": "0x75C97384cA209f915381755c582EC0E2cE88c1BA",
 	"symbol": "FINE",
 	"name": "FINE",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31703/thumb/05220a_054ff0bb5d7c41db99db6332923ac4fd_mv2.png?1696530527",
 	"coingecko": "fine",
 	"sources": [
 		"coingecko"

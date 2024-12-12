@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xE97Ad6Cf19F5164ea98DB503811f21fdd0257BCd",
-	"symbol": "VidifyAI",
+	"symbol": "VIDAI",
 	"name": "VidifyAI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/50282/thumb/200x200.png?1726809361",
 	"coingecko": "vidifyai",
 	"sources": [
 		"coingecko"

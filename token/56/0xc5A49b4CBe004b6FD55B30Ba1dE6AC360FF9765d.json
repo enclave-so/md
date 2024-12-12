@@ -1,0 +1,11 @@
+{
+	"chain": 56,
+	"address": "0xc5A49b4CBe004b6FD55B30Ba1dE6AC360FF9765d",
+	"symbol": "SWAMP",
+	"name": "Swampy",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0xc5A49b4CBe004b6FD55B30Ba1dE6AC360FF9765d.png",
+	"sources": [
+		"pancakeswap"
+	]
+}

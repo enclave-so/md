@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xc6DdDB5bc6E61e0841C54f3e723Ae1f3A807260b",
-	"symbol": "Aurox",
+	"symbol": "URUS",
 	"name": "Aurox",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14122/thumb/Aurox.png?1696513842",
 	"coingecko": "urus-token",
 	"sources": [
 		"coingecko"

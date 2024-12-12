@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x8B683C400457ef31F3c27c90ACB6AB69304D1B77",
-	"symbol": "Zydio AI",
+	"symbol": "ZDAI",
 	"name": "Zydio AI",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/37655/thumb/Zydio_AI_200x200.png?1715160554",
 	"coingecko": "zydio-ai",
 	"sources": [
 		"coingecko"

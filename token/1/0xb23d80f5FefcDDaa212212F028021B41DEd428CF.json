@@ -1,10 +1,14 @@
 {
 	"chain": 1,
 	"address": "0xb23d80f5FefcDDaa212212F028021B41DEd428CF",
-	"symbol": "Echelon Prime",
-	"name": "Echelon Prime",
+	"symbol": "PRIME",
+	"name": "Prime",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/29053/large/PRIMELOGOOO.png?1676976222",
 	"coingecko": "echelon-prime",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism",
+		"uniswap"
 	]
 }

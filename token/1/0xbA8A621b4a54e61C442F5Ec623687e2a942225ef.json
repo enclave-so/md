@@ -4,7 +4,7 @@
 	"symbol": "QUARTZ",
 	"name": "Sandclock",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xbA8A621b4a54e61C442F5Ec623687e2a942225ef/logo.png",
+	"logo": "https://assets.coingecko.com/coins/images/19368/thumb/sandclock.jpg?1696518808",
 	"coingecko": "sandclock",
 	"sources": [
 		"coingecko",

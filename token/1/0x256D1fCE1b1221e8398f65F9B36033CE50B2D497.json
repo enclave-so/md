@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x256D1fCE1b1221e8398f65F9B36033CE50B2D497",
-	"symbol": "Alvey Chain",
+	"symbol": "WALV",
 	"name": "Alvey Chain",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/26964/thumb/logo200x200.png?1696526019",
 	"coingecko": "alvey-chain",
 	"sources": [
 		"coingecko"

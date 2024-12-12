@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x9813037ee2218799597d83D4a5B6F3b6778218d9",
-	"symbol": "Bone ShibaSwap",
+	"symbol": "BONE",
 	"name": "Bone ShibaSwap",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/16916/thumb/bone_icon.png?1696516487",
 	"coingecko": "bone-shibaswap",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x270B7748CdF8243bFe68FaCE7230ef0fCE695389",
-	"symbol": "Hinkal Staked ETH",
+	"symbol": "HETH",
 	"name": "Hinkal Staked ETH",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/50579/thumb/hETH_Icon_CG.png?1728408977",
 	"coingecko": "hinkal-staked-eth",
 	"sources": [
 		"coingecko"

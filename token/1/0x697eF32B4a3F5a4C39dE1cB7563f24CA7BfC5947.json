@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x697eF32B4a3F5a4C39dE1cB7563f24CA7BfC5947",
-	"symbol": "Insula",
+	"symbol": "ISLA",
 	"name": "Insula",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/10884/thumb/isla.PNG?1696510837",
 	"coingecko": "insula",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xdfdDF7a69716124Bc346bA556d4b9f9E74C4A8Bc",
-	"symbol": "Succession",
+	"symbol": "SCCN",
 	"name": "Succession",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/25377/thumb/sccn.png?1696524510",
 	"coingecko": "succession",
 	"sources": [
 		"coingecko"

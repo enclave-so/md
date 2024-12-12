@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x9562E2063122eaA4d7C2d786E7ca2610D70ca8B8",
-	"symbol": "Shiba Classic",
+	"symbol": "SHIBC",
 	"name": "Shiba Classic",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/51604/thumb/ShibC_1.png?1731607937",
 	"coingecko": "shiba-classic-2",
 	"sources": [
 		"coingecko"

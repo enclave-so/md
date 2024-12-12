@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x5FC429110A64bC51b57Ca86dCE1714FD0fBec303",
-	"symbol": "Pencils Protocol",
+	"symbol": "DAPP",
 	"name": "Pencils Protocol",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/36569/thumb/Pencils_Protocol_Profile_Pic.png?1722658792",
 	"coingecko": "penpad-token",
 	"sources": [
 		"coingecko"

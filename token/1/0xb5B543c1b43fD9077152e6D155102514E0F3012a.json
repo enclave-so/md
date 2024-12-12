@@ -3,6 +3,8 @@
 	"address": "0xb5B543c1b43fD9077152e6D155102514E0F3012a",
 	"symbol": "SAM",
 	"name": "SAM",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/51018/thumb/1000005294.jpg?1729768617",
 	"coingecko": "sam",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xCBF4D5efa82e32a9187385480A7c74cB062b956C",
-	"symbol": "Satoshi Nakamoto",
+	"symbol": "SATOSHI",
 	"name": "Satoshi Nakamoto",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/37611/thumb/SATOSHI_LOGO.PNG?1715054986",
 	"coingecko": "satoshi-nakamoto",
 	"sources": [
 		"coingecko"

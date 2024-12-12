@@ -1,16 +1,6 @@
 [
 	{
 		"chain": 1890,
-		"address": "0xd9d7123552fA2bEdB2348bB562576D67f6E8e96E",
-		"symbol": "LightLink",
-		"name": "LightLink",
-		"coingecko": "lightlink",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 1890,
 		"address": "0xca7F14F14d975bEFfEe190Cd3cD232a3a988Ab9C",
 		"symbol": "Amped Finance",
 		"name": "Amped Finance",
@@ -31,36 +21,6 @@
 	},
 	{
 		"chain": 1890,
-		"address": "0x49F65C3FfC6e45104ff5cB00e6030C626157a90b",
-		"symbol": "Bridged Dai (Lightlink)",
-		"name": "Bridged Dai (Lightlink)",
-		"coingecko": "bridged-dai-lightlink",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 1890,
-		"address": "0x6308fa9545126237158778e74AE1b6b89022C5c0",
-		"symbol": "Bridged Tether (Lightlink)",
-		"name": "Bridged Tether (Lightlink)",
-		"coingecko": "bridged-tether-lightlink",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 1890,
-		"address": "0xb4c16Cc8d80fdD59B6937Ce9072f4863DCe20077",
-		"symbol": "Bridged Uniswap (Lightlink)",
-		"name": "Bridged Uniswap (Lightlink)",
-		"coingecko": "bridged-uniswap-lightlink",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 1890,
 		"address": "0x0b0eDaC05440669c5EE81FF8Ad98B8d2e7F3d57B",
 		"symbol": "Bridged Chainlink (Lightlink)",
 		"name": "Bridged Chainlink (Lightlink)",
@@ -71,10 +31,10 @@
 	},
 	{
 		"chain": 1890,
-		"address": "0x0B0a417dC62721b16A8A2a6a3807b97F557D6209",
-		"symbol": "Bridged Polygon (Lightlink)",
-		"name": "Bridged Polygon (Lightlink)",
-		"coingecko": "bridged-polygon-lightlink",
+		"address": "0xb4c16Cc8d80fdD59B6937Ce9072f4863DCe20077",
+		"symbol": "Bridged Uniswap (Lightlink)",
+		"name": "Bridged Uniswap (Lightlink)",
+		"coingecko": "bridged-uniswap-lightlink",
 		"sources": [
 			"coingecko"
 		]
@@ -95,6 +55,46 @@
 		"symbol": "Bridged Wrapped BTC (Lightlink)",
 		"name": "Bridged Wrapped BTC (Lightlink)",
 		"coingecko": "bridged-wrapped-btc-lightlink",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1890,
+		"address": "0xd9d7123552fA2bEdB2348bB562576D67f6E8e96E",
+		"symbol": "LightLink",
+		"name": "LightLink",
+		"coingecko": "lightlink",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1890,
+		"address": "0x49F65C3FfC6e45104ff5cB00e6030C626157a90b",
+		"symbol": "Bridged Dai (Lightlink)",
+		"name": "Bridged Dai (Lightlink)",
+		"coingecko": "bridged-dai-lightlink",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1890,
+		"address": "0x0B0a417dC62721b16A8A2a6a3807b97F557D6209",
+		"symbol": "Bridged Polygon (Lightlink)",
+		"name": "Bridged Polygon (Lightlink)",
+		"coingecko": "bridged-polygon-lightlink",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1890,
+		"address": "0x6308fa9545126237158778e74AE1b6b89022C5c0",
+		"symbol": "Bridged Tether (Lightlink)",
+		"name": "Bridged Tether (Lightlink)",
+		"coingecko": "bridged-tether-lightlink",
 		"sources": [
 			"coingecko"
 		]

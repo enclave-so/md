@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xC0Eb85285d83217CD7c891702bcbC0FC401E2D9D",
-	"symbol": "Hiveterminal",
+	"symbol": "HVN",
 	"name": "Hiveterminal",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/899/thumb/Hiveterminal_token.jpg?1696502022",
 	"coingecko": "hiveterminal",
 	"sources": [
 		"coingecko"

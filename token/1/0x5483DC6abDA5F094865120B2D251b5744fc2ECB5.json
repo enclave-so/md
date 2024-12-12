@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x5483DC6abDA5F094865120B2D251b5744fc2ECB5",
-	"symbol": "TaoPad",
+	"symbol": "TPAD",
 	"name": "TaoPad",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/33664/thumb/TAOWHITE.png?1702631267",
 	"coingecko": "taopad",
 	"sources": [
 		"coingecko"

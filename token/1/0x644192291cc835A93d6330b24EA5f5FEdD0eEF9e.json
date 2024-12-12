@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x644192291cc835A93d6330b24EA5f5FEdD0eEF9e",
-	"symbol": "Nexera",
+	"symbol": "NXRA",
 	"name": "Nexera",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/29181/thumb/nxra.png?1712255778",
 	"coingecko": "allianceblock-nexera",
 	"sources": [
 		"coingecko"

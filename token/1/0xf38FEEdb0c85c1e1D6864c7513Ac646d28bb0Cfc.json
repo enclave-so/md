@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xf38FEEdb0c85c1e1D6864c7513Ac646d28bb0Cfc",
-	"symbol": "Accumulated Finance Staked ZETA",
+	"symbol": "STZETA",
 	"name": "Accumulated Finance Staked ZETA",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/51117/thumb/stzeta.png?1730118280",
 	"coingecko": "accumulated-finance-staked-zeta",
 	"sources": [
 		"coingecko"

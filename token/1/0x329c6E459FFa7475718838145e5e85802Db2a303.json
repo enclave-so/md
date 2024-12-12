@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x329c6E459FFa7475718838145e5e85802Db2a303",
-	"symbol": "MaidSafeCoin",
+	"symbol": "EMAID",
 	"name": "MaidSafeCoin",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/80/thumb/maidsafecoin.png?1696501470",
 	"coingecko": "maidsafecoin",
 	"sources": [
 		"coingecko"

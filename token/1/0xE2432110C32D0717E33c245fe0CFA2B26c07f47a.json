@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xE2432110C32D0717E33c245fe0CFA2B26c07f47a",
-	"symbol": "AGIX",
+	"symbol": "AGX",
 	"name": "AGIX",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31860/thumb/3QGe4WSN_400x400.jpg?1727342501",
 	"coingecko": "aigentx",
 	"sources": [
 		"coingecko"

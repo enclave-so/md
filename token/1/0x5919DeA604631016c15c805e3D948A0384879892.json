@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x5919DeA604631016c15c805e3D948A0384879892",
-	"symbol": "The People’s Coin",
-	"name": "The People’s Coin",
+	"symbol": "PEEP",
+	"name": "The People s Coin",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/16777/thumb/peeps.png?1696516349",
 	"coingecko": "the-people-coin",
 	"sources": [
 		"coingecko"

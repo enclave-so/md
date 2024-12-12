@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0x7AE4f8885f6cFa41a692cb9DA3789cfa6A83e9f2",
-	"symbol": "GenomesDAO GENOME",
+	"symbol": "GENOME",
 	"name": "GenomesDAO GENOME",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/36763/thumb/images.jpg?1712282056",
 	"coingecko": "genomesdao-genome",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

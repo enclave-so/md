@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xd559f20296FF4895da39b5bd9ADd54b442596a61",
-	"symbol": "FintruX",
+	"symbol": "FTX",
 	"name": "FintruX",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/1928/thumb/token-500x500.png?1696502917",
 	"coingecko": "fintrux",
 	"sources": [
 		"coingecko"

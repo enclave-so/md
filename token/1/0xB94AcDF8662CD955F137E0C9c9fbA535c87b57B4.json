@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xB94AcDF8662CD955F137E0C9c9fbA535c87b57B4",
-	"symbol": "Mona Token",
+	"symbol": "LISA",
 	"name": "Mona Token",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/32376/thumb/monatoken.png?1698035251",
 	"coingecko": "mona-token",
 	"sources": [
 		"coingecko"

@@ -3,8 +3,12 @@
 	"address": "0x236aa50979D5f3De3Bd1Eeb40E81137F22ab794b",
 	"symbol": "tBTC",
 	"name": "tBTC",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/uniswap/assets/master/blockchains/ethereum/assets/0x18084fbA666a33d37592fA2633fD49a74DD93a88/logo.png",
 	"coingecko": "tbtc",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism",
+		"uniswap"
 	]
 }

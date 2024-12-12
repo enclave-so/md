@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0x111111111117dC0aa78b770fA6A738034120C302",
-	"symbol": "1inch",
+	"symbol": "1INCH",
 	"name": "1inch",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/13469/thumb/1inch-token.png?1608803028",
 	"coingecko": "1inch",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"uniswap"
 	]
 }

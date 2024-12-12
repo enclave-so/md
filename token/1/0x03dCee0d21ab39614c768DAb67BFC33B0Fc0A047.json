@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x03dCee0d21ab39614c768DAb67BFC33B0Fc0A047",
-	"symbol": "MAGA: Fight for Trump",
-	"name": "MAGA: Fight for Trump",
+	"symbol": "TRUMPCOIN",
+	"name": "MAGA  Fight for Trump",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/39480/thumb/Token_Logo_256x256px_V2.png?1722464874",
 	"coingecko": "maga-fight-for-trump",
 	"sources": [
 		"coingecko"

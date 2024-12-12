@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x375e104af98872E5B4Fe951919e504a47dB1757c",
-	"symbol": "Ginnan Doge's Brother",
-	"name": "Ginnan Doge's Brother",
+	"symbol": "GINNAN",
+	"name": "Ginnan Doge s Brother",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/50262/thumb/Ginnan_Doge's_Brother.png?1726725076",
 	"coingecko": "ginnan-doge-s-brother",
 	"sources": [
 		"coingecko"

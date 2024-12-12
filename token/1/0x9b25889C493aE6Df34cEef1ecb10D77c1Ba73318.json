@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x9b25889C493aE6Df34cEef1ecb10D77c1Ba73318",
-	"symbol": "Mean DAO",
+	"symbol": "MEAN",
 	"name": "Mean DAO",
+	"decimals": 6,
+	"logo": "https://assets.coingecko.com/coins/images/21557/thumb/89934951.png?1696520918",
 	"coingecko": "meanfi",
 	"sources": [
 		"coingecko"

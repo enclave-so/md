@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xF190dbD849E372FF824e631a1FdF199f38358BCf",
-	"symbol": "Capybara Memecoin",
+	"symbol": "BARA",
 	"name": "Capybara Memecoin",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30399/thumb/Capy_logo.png?1696529289",
 	"coingecko": "capybara-memecoin",
 	"sources": [
 		"coingecko"

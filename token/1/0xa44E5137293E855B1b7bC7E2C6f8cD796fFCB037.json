@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xa44E5137293E855B1b7bC7E2C6f8cD796fFCB037",
-	"symbol": "Sentinel [OLD]",
-	"name": "Sentinel [OLD]",
+	"symbol": "DVPN",
+	"name": "Sentinel  OLD ",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/3625/thumb/Sentinel_512X512.png?1696504304",
 	"coingecko": "sentinel-group",
 	"sources": [
 		"coingecko"

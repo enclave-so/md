@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x08F7be99ED83369541501d60f4e66F8e34c3F736",
-	"symbol": "Cryptoku",
+	"symbol": "CKU",
 	"name": "Cryptoku",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/25813/thumb/Cryptoku.png?1696524898",
 	"coingecko": "cryptoku",
 	"sources": [
 		"coingecko"

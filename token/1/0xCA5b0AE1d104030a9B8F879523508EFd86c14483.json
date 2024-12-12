@@ -3,6 +3,8 @@
 	"address": "0xCA5b0AE1d104030a9B8F879523508EFd86c14483",
 	"symbol": "TYBENG",
 	"name": "TYBENG",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31022/thumb/NVoa_mZ6_400x400.jpg?1721805735",
 	"coingecko": "benji-bananas",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x3ebb4A4e91Ad83BE51F8d596533818b246F4bEe1",
-	"symbol": "Signata",
+	"symbol": "SATA",
 	"name": "Signata",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14704/thumb/logo.png?1696514375",
 	"coingecko": "signata",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x3e8203E0b1D56984AbC66f183A8d0b1A09a7E607",
-	"symbol": "Liquid Protocol",
+	"symbol": "LP",
 	"name": "Liquid Protocol",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/32078/thumb/5000x5000.png?1696530875",
 	"coingecko": "liquid-protocol",
 	"sources": [
 		"coingecko"

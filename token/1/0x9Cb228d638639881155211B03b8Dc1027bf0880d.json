@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x9Cb228d638639881155211B03b8Dc1027bf0880d",
-	"symbol": "Option2Trade",
+	"symbol": "O2T",
 	"name": "Option2Trade",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/38377/thumb/O2T.jpg?1717310899",
 	"coingecko": "option2trade",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x455ad1Bc4E18fD4e369234b6e11D88acBC416758",
-	"symbol": "BRC App",
+	"symbol": "BRCT",
 	"name": "BRC App",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/34244/thumb/BRC_X_Banners-19.jpg?1704338085",
 	"coingecko": "brc-app",
 	"sources": [
 		"coingecko"

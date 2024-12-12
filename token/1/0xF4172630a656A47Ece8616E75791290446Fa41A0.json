@@ -3,6 +3,8 @@
 	"address": "0xF4172630a656A47Ece8616E75791290446Fa41A0",
 	"symbol": "PEPPA",
 	"name": "PEPPA",
+	"decimals": 2,
+	"logo": "https://assets.coingecko.com/coins/images/30492/thumb/200_x_200_JPG.jpg?1696529379",
 	"coingecko": "peppa",
 	"sources": [
 		"coingecko"

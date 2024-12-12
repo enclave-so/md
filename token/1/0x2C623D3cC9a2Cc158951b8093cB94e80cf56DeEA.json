@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x2C623D3cC9a2Cc158951b8093cB94e80cf56DeEA",
-	"symbol": "NexAI",
+	"symbol": "NEX",
 	"name": "NexAI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31056/thumb/NexAI-LOGO_200x200.png?1696529891",
 	"coingecko": "nexai",
 	"sources": [
 		"coingecko"

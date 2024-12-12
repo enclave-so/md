@@ -1,0 +1,11 @@
+{
+	"chain": 42161,
+	"address": "0xE6320ebF209971b4F4696F7f0954b8457Aa2FCC2",
+	"symbol": "STORJ",
+	"name": "Storj Token",
+	"decimals": 8,
+	"logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB64ef51C888972c908CFacf59B47C1AfBC0Ab8aC/logo.png",
+	"sources": [
+		"uniswap"
+	]
+}

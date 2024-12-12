@@ -2,9 +2,9 @@
 	"chain": 1,
 	"address": "0xEBd9D99A3982d547C5Bb4DB7E3b1F9F14b67Eb83",
 	"symbol": "ID",
-	"name": "Everest ID",
+	"name": "Everest",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xEBd9D99A3982d547C5Bb4DB7E3b1F9F14b67Eb83/logo.png",
+	"logo": "https://assets.coingecko.com/coins/images/5209/thumb/Everest.jpg?1696505719",
 	"coingecko": "everid",
 	"sources": [
 		"coingecko",

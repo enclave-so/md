@@ -1,0 +1,11 @@
+{
+	"chain": 56,
+	"address": "0xAE493a1F8bbE36BA8E687352F638d4c07C54f8d7",
+	"symbol": "MC",
+	"name": "Matthew Coin",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0xAE493a1F8bbE36BA8E687352F638d4c07C54f8d7.png",
+	"sources": [
+		"pancakeswap"
+	]
+}

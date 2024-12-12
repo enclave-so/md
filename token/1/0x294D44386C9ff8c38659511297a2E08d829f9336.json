@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x294D44386C9ff8c38659511297a2E08d829f9336",
-	"symbol": "Army",
+	"symbol": "ARMY",
 	"name": "Army",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/52017/thumb/army_logo_100px.png?1732348419",
 	"coingecko": "army-2",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x581911b360B6eB3a14eF295a83a91DC2bCE2D6f7",
-	"symbol": "MileVerse",
+	"symbol": "MVC",
 	"name": "MileVerse",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/13146/thumb/kXSdwuxD_400x400.jpg?1696512931",
 	"coingecko": "mileverse",
 	"sources": [
 		"coingecko"

@@ -1,0 +1,11 @@
+{
+	"chain": 8453,
+	"address": "0xE8740FF403060DaE99c63A684E0DfE3eaa97e9Bc",
+	"symbol": "MONKE",
+	"name": "MONKE",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/MONKE/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

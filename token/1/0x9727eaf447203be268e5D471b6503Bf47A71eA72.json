@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x9727eaf447203be268e5D471b6503Bf47A71eA72",
-	"symbol": "Arky",
+	"symbol": "ARKY",
 	"name": "Arky",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/37557/thumb/ARKY200.png?1714840130",
 	"coingecko": "arky",
 	"sources": [
 		"coingecko"

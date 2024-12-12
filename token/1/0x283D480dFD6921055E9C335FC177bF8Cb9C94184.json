@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x283D480dFD6921055E9C335FC177bF8Cb9C94184",
-	"symbol": "VIX777",
+	"symbol": "VIX",
 	"name": "VIX777",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/50688/thumb/VIX777.png?1731813455",
 	"coingecko": "vix777",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xBEEF01735c132Ada46AA9aA4c54623cAA92A64CB",
-	"symbol": "Steakhouse USDC Morpho Vault",
+	"symbol": "STEAKUSDC",
 	"name": "Steakhouse USDC Morpho Vault",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/51473/thumb/steakUSDC.png?1731396462",
 	"coingecko": "steakhouse-usdc-morpho-vault",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x5FC111f3Fa4C6b32eAf65659CFEbdeed57234069",
-	"symbol": "0xGasless",
+	"symbol": "0XGAS",
 	"name": "0xGasless",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/33756/thumb/Main_LOGO.jpg?1707051665",
 	"coingecko": "0xgasless-2",
 	"sources": [
 		"coingecko"

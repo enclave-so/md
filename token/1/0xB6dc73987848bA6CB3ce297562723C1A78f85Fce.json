@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xB6dc73987848bA6CB3ce297562723C1A78f85Fce",
-	"symbol": "Borzoi Coin",
+	"symbol": "BORZOI",
 	"name": "Borzoi Coin",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/34430/thumb/photo_2024-01-08_05-57-57.jpg?1704868051",
 	"coingecko": "borzoi-coin",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x1780933e83B09371cf716f3630FE5a422a66A39e",
-	"symbol": "Quidax",
+	"symbol": "QDX",
 	"name": "Quidax",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/16032/thumb/3k5qGOw1_400x400.jpg?1696515642",
 	"coingecko": "quidax",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xdf87270E04Bc5Ac140E93571D0DD0C6F4a058B41",
-	"symbol": "Moolahverse",
+	"symbol": "MLH",
 	"name": "Moolahverse",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/33724/thumb/mlh-logo-200x200.png?1702886528",
 	"coingecko": "moolahverse",
 	"sources": [
 		"coingecko"

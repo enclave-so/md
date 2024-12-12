@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x38E68A37E401F7271568CecaAc63c6B1e19130B4",
-	"symbol": "Banana Gun",
+	"symbol": "BANANA",
 	"name": "Banana Gun",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31744/thumb/bg-logo-coingecko-200.png?1716971024",
 	"coingecko": "banana-gun",
 	"sources": [
 		"coingecko"

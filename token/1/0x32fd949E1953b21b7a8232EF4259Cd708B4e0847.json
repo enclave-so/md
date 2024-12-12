@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x32fd949E1953b21b7a8232EF4259Cd708B4e0847",
-	"symbol": "HyperBC",
+	"symbol": "HBT",
 	"name": "HyperBC",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/32003/thumb/hbt_%281%29.png?1696530803",
 	"coingecko": "hyperbc",
 	"sources": [
 		"coingecko"

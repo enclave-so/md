@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xa48F322F8b3edff967629Af79E027628b9Dd1298",
-	"symbol": "Davos.xyz USD",
-	"name": "Davos.xyz USD",
+	"symbol": "DUSD",
+	"name": "Davos xyz USD",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/28775/thumb/dusd_logo_200x200.png?1696527754",
 	"coingecko": "davos-protocol",
 	"sources": [
 		"coingecko"

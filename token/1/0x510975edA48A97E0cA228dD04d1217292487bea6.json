@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x510975edA48A97E0cA228dD04d1217292487bea6",
-	"symbol": "PROJECT XENO",
+	"symbol": "GXE",
 	"name": "PROJECT XENO",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/29000/thumb/gxe.png?1696527972",
 	"coingecko": "project-xeno",
 	"sources": [
 		"coingecko"

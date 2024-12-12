@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xfca89d55A768375Ab7cA04485A35a964BEA828dd",
-	"symbol": "Delrey Inu",
+	"symbol": "DELREY",
 	"name": "Delrey Inu",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/29661/thumb/Delrey_Inu.png?1696528596",
 	"coingecko": "delrey-inu",
 	"sources": [
 		"coingecko"

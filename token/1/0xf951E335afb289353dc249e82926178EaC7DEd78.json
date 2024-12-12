@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0xf951E335afb289353dc249e82926178EaC7DEd78",
-	"symbol": "Swell Ethereum",
+	"symbol": "SWETH",
 	"name": "Swell Ethereum",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30326/thumb/_lB7zEtS_400x400.jpg?1696529227",
 	"coingecko": "sweth",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"indexcoop"
 	]
 }

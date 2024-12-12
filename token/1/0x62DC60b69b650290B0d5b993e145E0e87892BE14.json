@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x62DC60b69b650290B0d5b993e145E0e87892BE14",
-	"symbol": "Draggy 0x62",
+	"symbol": "DRAGGY0X62",
 	"name": "Draggy 0x62",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/38942/thumb/xxxxx.jpg?1719570646",
 	"coingecko": "draggy-0x62",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x6A7Ef4998eB9d0f706238756949F311a59E05745",
-	"symbol": "Keysians Network",
+	"symbol": "KEN",
 	"name": "Keysians Network",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/12141/thumb/Keysians_logo.jpg?1696511982",
 	"coingecko": "keysians-network",
 	"sources": [
 		"coingecko"

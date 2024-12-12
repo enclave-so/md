@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x35D8949372D46B7a3D5A56006AE77B215fc69bC0",
-	"symbol": "Staked USD0",
+	"symbol": "USD0++",
 	"name": "Staked USD0",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/39169/thumb/0x35d8949372d46b7a3d5a56006ae77b215fc69bc0.png?1720798057",
 	"coingecko": "usd0-liquid-bond",
 	"sources": [
 		"coingecko"

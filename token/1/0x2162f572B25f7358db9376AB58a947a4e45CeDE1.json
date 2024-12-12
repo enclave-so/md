@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x2162f572B25f7358db9376AB58a947a4e45CeDE1",
-	"symbol": "LABEL AI",
+	"symbol": "LBL",
 	"name": "LABEL AI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/19202/thumb/ava-black-on-white.jpg?1718761857",
 	"coingecko": "label-foundation",
 	"sources": [
 		"coingecko"

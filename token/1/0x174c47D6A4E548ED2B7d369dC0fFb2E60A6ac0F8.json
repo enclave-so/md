@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x174c47D6A4E548ED2B7d369dC0fFb2E60A6ac0F8",
-	"symbol": "Amulet Protocol",
+	"symbol": "AMU",
 	"name": "Amulet Protocol",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/34716/thumb/AMT200x200.png?1705904544",
 	"coingecko": "amulet-protocol",
 	"sources": [
 		"coingecko"

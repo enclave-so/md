@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x046EeE2cc3188071C02BfC1745A6b17c656e3f3d",
-	"symbol": "Rollbit Coin",
+	"symbol": "RLB",
 	"name": "Rollbit Coin",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/24552/thumb/unziL6wO_400x400.jpg?1696523729",
 	"coingecko": "rollbit-coin",
 	"sources": [
 		"coingecko"

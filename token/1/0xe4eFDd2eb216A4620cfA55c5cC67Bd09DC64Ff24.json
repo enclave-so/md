@@ -2,7 +2,9 @@
 	"chain": 1,
 	"address": "0xe4eFDd2eb216A4620cfA55c5cC67Bd09DC64Ff24",
 	"symbol": "₿",
-	"name": "₿",
+	"name": " ",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/31535/thumb/KB0nEHf__400x400.jpg?1696530344",
 	"coingecko": "-2",
 	"sources": [
 		"coingecko"

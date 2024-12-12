@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xd24946147829DEaA935bE2aD85A3291dbf109c80",
-	"symbol": "Aave AMM USDC",
+	"symbol": "AAMMUSDC",
 	"name": "Aave AMM USDC",
+	"decimals": 6,
+	"logo": "https://assets.coingecko.com/coins/images/17226/thumb/aAMMUSDC_2x.png?1696516780",
 	"coingecko": "aave-amm-usdc",
 	"sources": [
 		"coingecko"

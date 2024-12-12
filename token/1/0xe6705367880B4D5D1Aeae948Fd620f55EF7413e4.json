@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xe6705367880B4D5D1Aeae948Fd620f55EF7413e4",
-	"symbol": "Dogei",
+	"symbol": "DOGEI",
 	"name": "Dogei",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/51911/thumb/Dogei_C_200x200.png?1732177550",
 	"coingecko": "dogei",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x37f5ac1B0c1a07d19270983D6889C181a0A3d6F7",
-	"symbol": "Kronos Bot",
+	"symbol": "KRON",
 	"name": "Kronos Bot",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/51838/thumb/Main_Logo.png?1732045567",
 	"coingecko": "kronos-bot",
 	"sources": [
 		"coingecko"

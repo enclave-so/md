@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x3B24ED67481A80609AF2F8913A45Da2049547CfD",
-	"symbol": "Nodez",
+	"symbol": "NODE",
 	"name": "Nodez",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/50428/thumb/Nodez.png?1727693104",
 	"coingecko": "nodez",
 	"sources": [
 		"coingecko"

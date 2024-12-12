@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x423352F2c6E0E72422B69Af03aba259310146d90",
-	"symbol": "Reality Metaverse",
+	"symbol": "RMV",
 	"name": "Reality Metaverse",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/29806/thumb/rltm.png?1696528735",
 	"coingecko": "reality-metaverse",
 	"sources": [
 		"coingecko"

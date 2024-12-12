@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x4501A82790eF2587dfEb93Dc038541228E516597",
-	"symbol": "Hydra",
+	"symbol": "HYDRA",
 	"name": "Hydra",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/32062/thumb/GDQ7c1hj_400x400.jpg?1696530859",
 	"coingecko": "hydra-2",
 	"sources": [
 		"coingecko"

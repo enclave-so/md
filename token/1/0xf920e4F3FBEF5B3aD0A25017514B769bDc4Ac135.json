@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xf920e4F3FBEF5B3aD0A25017514B769bDc4Ac135",
-	"symbol": "BABB",
+	"symbol": "BAX",
 	"name": "BABB",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/2168/thumb/babb.png?1696503128",
 	"coingecko": "babb",
 	"sources": [
 		"coingecko"

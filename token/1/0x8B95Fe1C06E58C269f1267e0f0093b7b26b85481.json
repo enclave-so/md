@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x8B95Fe1C06E58C269f1267e0f0093b7b26b85481",
-	"symbol": "MOJO The Gorilla",
+	"symbol": "MOJO",
 	"name": "MOJO The Gorilla",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/38357/thumb/photo_2024-05-29_02-50-03-_2__%281%29.png?1717174553",
 	"coingecko": "mojo-the-gorilla",
 	"sources": [
 		"coingecko"

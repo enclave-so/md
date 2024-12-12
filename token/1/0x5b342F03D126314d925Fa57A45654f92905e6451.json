@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x5b342F03D126314d925Fa57A45654f92905e6451",
-	"symbol": "Moneta",
+	"symbol": "MNTA",
 	"name": "Moneta",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/39831/thumb/Moneta.jpeg?1724210251",
 	"coingecko": "moneta-2",
 	"sources": [
 		"coingecko"

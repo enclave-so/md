@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x181f2cBDa1AD44De56bAacBb41c8Fe448a2036fe",
-	"symbol": "Wiggly Willy",
+	"symbol": "WIWI",
 	"name": "Wiggly Willy",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/39911/thumb/31313.png?1724784262",
 	"coingecko": "wiggly-willy",
 	"sources": [
 		"coingecko"

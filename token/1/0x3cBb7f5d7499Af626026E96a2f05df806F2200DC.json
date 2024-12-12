@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x3cBb7f5d7499Af626026E96a2f05df806F2200DC",
-	"symbol": "PandaDAO",
+	"symbol": "PANDA",
 	"name": "PandaDAO",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/24926/thumb/PandaDAO_logo_512.png?1696524082",
 	"coingecko": "pandadao",
 	"sources": [
 		"coingecko"

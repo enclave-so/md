@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0x49f2145d6366099e13B10FbF80646C0F377eE7f6",
-	"symbol": "FC Porto",
-	"name": "FC Porto",
+	"symbol": "PORTO",
+	"name": "FC Porto Fan Token",
+	"decimals": 8,
+	"logo": "https://tokens.pancakeswap.finance/images/0x49f2145d6366099e13B10FbF80646C0F377eE7f6.png",
 	"coingecko": "fc-porto",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

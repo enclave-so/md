@@ -1,0 +1,11 @@
+{
+	"chain": 56,
+	"address": "0x039cB485212f996A9DBb85A9a75d898F94d38dA6",
+	"symbol": "DEXE",
+	"name": "DeXe",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x039cB485212f996A9DBb85A9a75d898F94d38dA6.png",
+	"sources": [
+		"pancakeswap"
+	]
+}

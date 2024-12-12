@@ -1,0 +1,11 @@
+{
+	"chain": 8453,
+	"address": "0xd0D1e44FC9aDAEB732F73fFC2429CD1dB9cD4529",
+	"symbol": "SIPHER",
+	"name": "Sipher Token",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/SIPHER/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

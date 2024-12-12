@@ -1,0 +1,11 @@
+{
+	"chain": 8453,
+	"address": "0xc2106ca72996e49bBADcB836eeC52B765977fd20",
+	"symbol": "NFTE",
+	"name": "NFTEarthOFT",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/NFTE/logo.png",
+	"sources": [
+		"optimism"
+	]
+}

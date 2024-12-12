@@ -1,10 +1,10 @@
 [
 	{
 		"chain": 61,
-		"address": "0xDE093684c796204224BC081f937aa059D903c52a",
-		"symbol": "Classic USD",
-		"name": "Classic USD",
-		"coingecko": "classic-usd",
+		"address": "0x6c3B413C461c42a88160Ed1B1B31d6f7b02a1C83",
+		"symbol": "ETCPOW",
+		"name": "ETCPOW",
+		"coingecko": "etcpow",
 		"sources": [
 			"coingecko"
 		]
@@ -21,30 +21,20 @@
 	},
 	{
 		"chain": 61,
-		"address": "0x1953cab0E5bFa6D4a9BaD6E05fD46C1CC6527a5a",
+		"address": "0x82A618305706B14e7bcf2592D4B9324A366b6dAd",
 		"symbol": "Wrapped ETC",
 		"name": "Wrapped ETC",
-		"coingecko": "wrapped-ether",
+		"coingecko": "wetc-hebeswap",
 		"sources": [
 			"coingecko"
 		]
 	},
 	{
 		"chain": 61,
-		"address": "0xb67219f9e79112fdf4672574eA72aaD3cB86E8e7",
-		"symbol": "Dogelon Classic",
-		"name": "Dogelon Classic",
-		"coingecko": "dogelon-classic",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 61,
-		"address": "0x6c3B413C461c42a88160Ed1B1B31d6f7b02a1C83",
-		"symbol": "ETCPOW",
-		"name": "ETCPOW",
-		"coingecko": "etcpow",
+		"address": "0xDE093684c796204224BC081f937aa059D903c52a",
+		"symbol": "Classic USD",
+		"name": "Classic USD",
+		"coingecko": "classic-usd",
 		"sources": [
 			"coingecko"
 		]
@@ -81,10 +71,20 @@
 	},
 	{
 		"chain": 61,
-		"address": "0x82A618305706B14e7bcf2592D4B9324A366b6dAd",
+		"address": "0x1953cab0E5bFa6D4a9BaD6E05fD46C1CC6527a5a",
 		"symbol": "Wrapped ETC",
 		"name": "Wrapped ETC",
-		"coingecko": "wetc-hebeswap",
+		"coingecko": "wrapped-ether",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 61,
+		"address": "0xb67219f9e79112fdf4672574eA72aaD3cB86E8e7",
+		"symbol": "Dogelon Classic",
+		"name": "Dogelon Classic",
+		"coingecko": "dogelon-classic",
 		"sources": [
 			"coingecko"
 		]

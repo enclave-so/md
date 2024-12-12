@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0x5Ca381bBfb58f0092df149bD3D243b08B9a8386e",
-	"symbol": "Moonchain",
-	"name": "Moonchain",
+	"symbol": "MXC",
+	"name": "MXC",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/4604/thumb/mxc.png?1655534336",
 	"coingecko": "mxc",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"uniswap"
 	]
 }

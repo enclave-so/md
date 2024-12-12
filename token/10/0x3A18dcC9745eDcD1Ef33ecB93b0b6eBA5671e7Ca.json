@@ -1,10 +1,13 @@
 {
 	"chain": 10,
 	"address": "0x3A18dcC9745eDcD1Ef33ecB93b0b6eBA5671e7Ca",
-	"symbol": "Kujira",
+	"symbol": "KUJI",
 	"name": "Kujira",
+	"decimals": 6,
+	"logo": "https://assets.coingecko.com/coins/images/20685/standard/kuji-200x200.png",
 	"coingecko": "kujira",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"uniswap"
 	]
 }

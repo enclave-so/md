@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xA8b12Cc90AbF65191532a12bb5394A714A46d358",
-	"symbol": "pBTC35A",
+	"symbol": "PBTC35A",
 	"name": "pBTC35A",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/13653/thumb/pBTC35A.png?1696513402",
 	"coingecko": "pbtc35a",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x2077D81d0c5258230D5a195233941547cB5f0989",
-	"symbol": "Trog",
+	"symbol": "TROG",
 	"name": "Trog",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/38386/thumb/TROG_200.png?1717396451",
 	"coingecko": "trog",
 	"sources": [
 		"coingecko"

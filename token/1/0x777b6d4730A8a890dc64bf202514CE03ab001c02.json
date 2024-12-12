@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x777b6d4730A8a890dc64bf202514CE03ab001c02",
-	"symbol": "Silver Standard",
+	"symbol": "BARS",
 	"name": "Silver Standard",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/39440/thumb/0x777b6d4730a8a890dc64bf202514ce03ab001c02.png?1722308609",
 	"coingecko": "silver-standard",
 	"sources": [
 		"coingecko"

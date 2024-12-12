@@ -3,8 +3,11 @@
 	"address": "0x08d967bb0134F2d07f7cfb6E246680c53927DD30",
 	"symbol": "MATH",
 	"name": "MATH",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/11335/thumb/2020-05-19-token-200.png?1589940590",
 	"coingecko": "math",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"uniswap"
 	]
 }

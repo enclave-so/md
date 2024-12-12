@@ -1,0 +1,11 @@
+{
+	"chain": 42161,
+	"address": "0x3bDd0d5c0C795b2Bf076F5C8F177c58e42beC0E6",
+	"symbol": "BTC3X",
+	"name": "Index Coop Bitcoin 3x Index",
+	"decimals": 18,
+	"logo": "https://cdn.indexcoop.com/btc3x.svg",
+	"sources": [
+		"indexcoop"
+	]
+}

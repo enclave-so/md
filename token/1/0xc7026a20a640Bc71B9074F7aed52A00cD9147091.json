@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xc7026a20a640Bc71B9074F7aed52A00cD9147091",
-	"symbol": "Tegro",
+	"symbol": "TGR",
 	"name": "Tegro",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/26564/thumb/512x512.png?1696525637",
 	"coingecko": "tegro",
 	"sources": [
 		"coingecko"

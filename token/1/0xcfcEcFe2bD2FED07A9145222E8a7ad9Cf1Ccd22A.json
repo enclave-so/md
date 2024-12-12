@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xcfcEcFe2bD2FED07A9145222E8a7ad9Cf1Ccd22A",
-	"symbol": "Adshares",
+	"symbol": "ADS",
 	"name": "Adshares",
+	"decimals": 11,
+	"logo": "https://assets.coingecko.com/coins/images/868/thumb/rnO9DyJ.png?1696502001",
 	"coingecko": "adshares",
 	"sources": [
 		"coingecko"

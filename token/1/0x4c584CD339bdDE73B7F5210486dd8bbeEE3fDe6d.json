@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x4c584CD339bdDE73B7F5210486dd8bbeEE3fDe6d",
-	"symbol": "ShibElon",
+	"symbol": "SHIBELON",
 	"name": "ShibElon",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/20434/thumb/shibelon.png?1696519841",
 	"coingecko": "shibelon",
 	"sources": [
 		"coingecko"

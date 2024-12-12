@@ -4,8 +4,9 @@
 	"symbol": "SDL",
 	"name": "Saddle DAO",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xf1Dc500FdE233A4055e25e5BbF516372BC4F6871.jpg",
+	"logo": "https://ethereum-optimism.github.io/data/SDL/logo.svg",
 	"sources": [
+		"optimism",
 		"sushiswap"
 	]
 }

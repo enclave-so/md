@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x683A4ac99E65200921f556A19dADf4b0214B5938",
-	"symbol": "MAGA Pepe",
+	"symbol": "MAPE",
 	"name": "MAGA Pepe",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/39226/thumb/1000272700.jpg?1721189132",
 	"coingecko": "maga-pepe-2",
 	"sources": [
 		"coingecko"

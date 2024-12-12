@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xf5809F3348ff40906BB509f936Aba43e6D1961ab",
-	"symbol": "Lester",
+	"symbol": "LESTER",
 	"name": "Lester",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/51593/thumb/photo_2024-11-14_17-06-07_%281%29.jpg?1731581452",
 	"coingecko": "lester",
 	"sources": [
 		"coingecko"

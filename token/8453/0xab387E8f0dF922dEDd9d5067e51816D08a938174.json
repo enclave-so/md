@@ -1,0 +1,11 @@
+{
+	"chain": 8453,
+	"address": "0xab387E8f0dF922dEDd9d5067e51816D08a938174",
+	"symbol": "AKIRA",
+	"name": "Akira Dog",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/AKIRA/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

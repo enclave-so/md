@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x68d57c9a1C35f63E2c83eE8e49A64e9d70528D25",
-	"symbol": "Sirin Labs",
+	"symbol": "SRN",
 	"name": "Sirin Labs",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/1872/thumb/sirin-labs-token.png?1696502868",
 	"coingecko": "sirin-labs-token",
 	"sources": [
 		"coingecko"

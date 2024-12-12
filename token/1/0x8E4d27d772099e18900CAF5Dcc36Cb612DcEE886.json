@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x8E4d27d772099e18900CAF5Dcc36Cb612DcEE886",
-	"symbol": "Architex",
+	"symbol": "ARCX",
 	"name": "Architex",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/36026/thumb/arcx.jpeg?1710387472",
 	"coingecko": "architex",
 	"sources": [
 		"coingecko"

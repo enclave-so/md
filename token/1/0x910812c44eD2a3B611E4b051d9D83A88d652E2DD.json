@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x910812c44eD2a3B611E4b051d9D83A88d652E2DD",
-	"symbol": "Pledge",
+	"symbol": "PLEDGE",
 	"name": "Pledge",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/52564/thumb/X4CjxjKI.png?1733671958",
 	"coingecko": "pledge-2",
 	"sources": [
 		"coingecko"

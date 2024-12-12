@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x986EE2B944c42D017F52Af21c4c69B84DBeA35d8",
-	"symbol": "BitMart",
+	"symbol": "BMX",
 	"name": "BitMart",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/5236/thumb/bitmart-token.png?1696505741",
 	"coingecko": "bitmart-token",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xd71B200bF061509B85dF50Cc0D8CDee8818A4577",
-	"symbol": "Dinari COIN",
+	"symbol": "COIND",
 	"name": "Dinari COIN",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/32983/thumb/Frame_16189.png?1700091568",
 	"coingecko": "dinari-coin",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x3bE775B699fee916E7De117994358fF8F48e4569",
-	"symbol": "ViciCoin",
+	"symbol": "VCNT",
 	"name": "ViciCoin",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31305/thumb/ViciCoin_-_small.png?1696530124",
 	"coingecko": "vicicoin",
 	"sources": [
 		"coingecko"

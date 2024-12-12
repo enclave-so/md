@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x823E1B82cE1Dc147Bbdb25a203f046aFab1CE918",
-	"symbol": "SpiralDAO Coil",
+	"symbol": "COIL",
 	"name": "SpiralDAO Coil",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/29773/thumb/200x200.png?1696528704",
 	"coingecko": "spiraldao-coil",
 	"sources": [
 		"coingecko"

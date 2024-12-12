@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xC2708A3A4ba7F64bddc1A49F92f941Bc77Cad23a",
-	"symbol": "Waves Ducks",
+	"symbol": "EGG",
 	"name": "Waves Ducks",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/17298/thumb/200x200_pixel.png?1696516851",
 	"coingecko": "waves-ducks",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xDBB5Cf12408a3Ac17d668037Ce289f9eA75439D7",
-	"symbol": "World Mobile Token",
+	"symbol": "WMTX",
 	"name": "World Mobile Token",
+	"decimals": 6,
+	"logo": "https://assets.coingecko.com/coins/images/17333/thumb/1000097112.png?1727698144",
 	"coingecko": "world-mobile-token",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x0F5dEF84CED3e9e295DAe28df96d0B846dE92C1A",
-	"symbol": "Crypto SDG",
+	"symbol": "SDG",
 	"name": "Crypto SDG",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/29816/thumb/SDG_token_Logo_200.png?1696528745",
 	"coingecko": "crypto-sdg",
 	"sources": [
 		"coingecko"

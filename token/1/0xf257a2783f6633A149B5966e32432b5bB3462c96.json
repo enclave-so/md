@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xf257a2783f6633A149B5966e32432b5bB3462c96",
-	"symbol": "RagingElonMarsCoin",
+	"symbol": "DOGECOIN",
 	"name": "RagingElonMarsCoin",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/31463/thumb/JgNkdCWn_400x400.jpg?1696530276",
 	"coingecko": "ragingelonmarscoin",
 	"sources": [
 		"coingecko"

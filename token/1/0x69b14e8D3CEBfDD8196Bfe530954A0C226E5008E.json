@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x69b14e8D3CEBfDD8196Bfe530954A0C226E5008E",
-	"symbol": "SpacePi Token",
+	"symbol": "SPACEPI",
 	"name": "SpacePi Token",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/35375/thumb/logo200.png?1708415311",
 	"coingecko": "spacepi-token",
 	"sources": [
 		"coingecko"

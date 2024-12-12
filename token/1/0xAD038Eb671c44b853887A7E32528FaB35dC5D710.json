@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xAD038Eb671c44b853887A7E32528FaB35dC5D710",
-	"symbol": "DOLA Borrowing Right",
+	"symbol": "DBR",
 	"name": "DOLA Borrowing Right",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/28530/thumb/DBR.png?1696527523",
 	"coingecko": "dola-borrowing-right",
 	"sources": [
 		"coingecko"

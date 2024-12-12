@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xb8b295df2cd735b15BE5Eb419517Aa626fc43cD5",
-	"symbol": "Staked LINK",
+	"symbol": "STLINK",
 	"name": "Staked LINK",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/29271/thumb/ST.LINK_tokenl_blue.png?1696528224",
 	"coingecko": "stake-link-staked-link",
 	"sources": [
 		"coingecko"

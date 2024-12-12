@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x5138EBe7acaAE209d6F0B651E4D02a67EF61f436",
-	"symbol": "Graffiti",
+	"symbol": "GRAF",
 	"name": "Graffiti",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/37639/thumb/graffiti.jpg?1715105663",
 	"coingecko": "graffiti",
 	"sources": [
 		"coingecko"

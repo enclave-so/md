@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0xB2BD0749DBE21f623d9BABa856D3B0f0e1BFEc9C",
-	"symbol": "Dusk",
+	"symbol": "DUSK",
 	"name": "Dusk",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0xB2BD0749DBE21f623d9BABa856D3B0f0e1BFEc9C.png",
 	"coingecko": "dusk-network",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

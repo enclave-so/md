@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xab0ceB816Ad51168Ea61545316eE0B3387122243",
-	"symbol": "Speculate DAO",
+	"symbol": "SPEC",
 	"name": "Speculate DAO",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/33617/thumb/Goin_Gecko.png?1702515106",
 	"coingecko": "speculate-dao",
 	"sources": [
 		"coingecko"

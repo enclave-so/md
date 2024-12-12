@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x61107a409fFFe1965126aa456Af679719695C69C",
-	"symbol": "Umi Digital",
+	"symbol": "UMI",
 	"name": "Umi Digital",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/17874/thumb/Umi-200-x-200.png?1696517396",
 	"coingecko": "umi-digital",
 	"sources": [
 		"coingecko"

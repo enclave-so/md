@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x1afb69DBC9f54d08DAB1bD3436F8Da1af819E647",
-	"symbol": "Melos Studio",
+	"symbol": "MELOS",
 	"name": "Melos Studio",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/24411/thumb/18551.png?1696523593",
 	"coingecko": "melos-studio",
 	"sources": [
 		"coingecko"

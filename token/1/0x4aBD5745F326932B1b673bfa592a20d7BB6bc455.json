@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x4aBD5745F326932B1b673bfa592a20d7BB6bc455",
-	"symbol": "Pink Hood Froglicker",
+	"symbol": "FROGLIC",
 	"name": "Pink Hood Froglicker",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/38972/thumb/Pink_Froglicker.png?1719950559",
 	"coingecko": "pink-hood-froglicker",
 	"sources": [
 		"coingecko"

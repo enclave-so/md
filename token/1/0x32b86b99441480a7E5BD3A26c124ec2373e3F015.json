@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x32b86b99441480a7E5BD3A26c124ec2373e3F015",
-	"symbol": "Bad Idea AI",
+	"symbol": "BAD",
 	"name": "Bad Idea AI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30871/thumb/BadIdea-Logo_Icon-Emblem.png?1723167526",
 	"coingecko": "bad-idea-ai",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xe973E453977195422B48e1852A207b7eE9C913C7",
-	"symbol": "ADreward",
+	"symbol": "AD",
 	"name": "ADreward",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/29639/thumb/ADreward_AD_Logo_CoinGecko_200X200_%EB%B6%88%ED%88%AC%EB%AA%85.png?1696528576",
 	"coingecko": "adreward",
 	"sources": [
 		"coingecko"

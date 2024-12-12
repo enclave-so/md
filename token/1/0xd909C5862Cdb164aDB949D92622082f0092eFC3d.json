@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0xd909C5862Cdb164aDB949D92622082f0092eFC3d",
+	"symbol": "IPT",
+	"name": "Interest Protocol",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/IPT/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

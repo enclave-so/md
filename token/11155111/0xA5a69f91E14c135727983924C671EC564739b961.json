@@ -1,0 +1,11 @@
+{
+	"chain": 11155111,
+	"address": "0xA5a69f91E14c135727983924C671EC564739b961",
+	"symbol": "ABT",
+	"name": "ArcBlock",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/ABT/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

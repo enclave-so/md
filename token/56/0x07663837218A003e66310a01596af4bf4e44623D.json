@@ -1,0 +1,11 @@
+{
+	"chain": 56,
+	"address": "0x07663837218A003e66310a01596af4bf4e44623D",
+	"symbol": "rUSD",
+	"name": "rUSD",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x07663837218A003e66310a01596af4bf4e44623D.png",
+	"sources": [
+		"pancakeswap"
+	]
+}

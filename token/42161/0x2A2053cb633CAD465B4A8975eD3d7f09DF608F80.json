@@ -1,0 +1,11 @@
+{
+	"chain": 42161,
+	"address": "0x2A2053cb633CAD465B4A8975eD3d7f09DF608F80",
+	"symbol": "INJ",
+	"name": "Injective",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/12882/thumb/Secondary_Symbol.png?1628233237",
+	"sources": [
+		"uniswap"
+	]
+}

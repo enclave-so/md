@@ -1,0 +1,11 @@
+{
+	"chain": 42161,
+	"address": "0x95b11aca35D35Ac8B8A88E1F7792873BBea7CeBb",
+	"symbol": "dsETH",
+	"name": "Diversified Staked ETH Index",
+	"decimals": 18,
+	"logo": "https://cdn.indexcoop.com/dseth.svg",
+	"sources": [
+		"indexcoop"
+	]
+}

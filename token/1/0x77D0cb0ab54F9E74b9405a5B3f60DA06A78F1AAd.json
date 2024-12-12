@@ -1,8 +1,9 @@
 {
 	"chain": 1,
 	"address": "0x77D0cb0ab54F9E74b9405a5B3f60DA06A78F1AAd",
-	"symbol": "Wrapped Millix",
+	"symbol": "WMLX",
 	"name": "Wrapped Millix",
+	"logo": "https://assets.coingecko.com/coins/images/28703/thumb/wrapped_millix-200x200_300-dpi_GC.png?1696527685",
 	"coingecko": "wrapped-millix",
 	"sources": [
 		"coingecko"

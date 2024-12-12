@@ -4,7 +4,7 @@
 	"symbol": "LON",
 	"name": "Tokenlon",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x0000000000095413afC295d19EDeb1Ad7B71c952.jpg",
+	"logo": "https://assets.coingecko.com/coins/images/13454/thumb/lon_logo.png?1696513217",
 	"coingecko": "tokenlon",
 	"sources": [
 		"coingecko",

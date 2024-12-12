@@ -1,8 +1,9 @@
 {
 	"chain": 1,
 	"address": "0x30aE41D5f9988D359c733232C6c693c0e645C77E",
-	"symbol": "Wrapped AyeAyeCoin",
+	"symbol": "WAAC",
 	"name": "Wrapped AyeAyeCoin",
+	"logo": "https://assets.coingecko.com/coins/images/38346/thumb/Screenshot_2024-05-31_at_8.22.26_AM.png?1717239010",
 	"coingecko": "wrapped-ayeayecoin",
 	"sources": [
 		"coingecko"

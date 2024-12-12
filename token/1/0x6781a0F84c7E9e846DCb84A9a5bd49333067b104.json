@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x6781a0F84c7E9e846DCb84A9a5bd49333067b104",
-	"symbol": "Zap",
+	"symbol": "ZAP",
 	"name": "Zap",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/2180/thumb/zap.png?1696503138",
 	"coingecko": "zap",
 	"sources": [
 		"coingecko"

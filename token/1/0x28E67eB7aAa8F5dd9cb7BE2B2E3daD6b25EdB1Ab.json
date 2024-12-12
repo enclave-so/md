@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x28E67eB7aAa8F5dd9cb7BE2B2E3daD6b25EdB1Ab",
-	"symbol": "Freaky KEKE",
+	"symbol": "KEKE",
 	"name": "Freaky KEKE",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/37244/thumb/FreakyKEKE-200x200.png?1713860401",
 	"coingecko": "freaky-keke",
 	"sources": [
 		"coingecko"

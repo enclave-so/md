@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0x1c085195437738d73d75DC64bC5A3E098b7f93b1",
+	"symbol": "PT-weETH-26SEP2024",
+	"name": "PT ether.fi weETH 26SEP2024",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png?1696514728",
+	"sources": [
+		"indexcoop"
+	]
+}

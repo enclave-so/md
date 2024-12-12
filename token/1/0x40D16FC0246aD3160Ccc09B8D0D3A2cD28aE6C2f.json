@@ -2,9 +2,9 @@
 	"chain": 1,
 	"address": "0x40D16FC0246aD3160Ccc09B8D0D3A2cD28aE6C2f",
 	"symbol": "GHO",
-	"name": "Gho Token",
+	"name": "GHO",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x40D16FC0246aD3160Ccc09B8D0D3A2cD28aE6C2f.jpg",
+	"logo": "https://assets.coingecko.com/coins/images/30663/thumb/gho-token-logo.png?1720517092",
 	"coingecko": "gho",
 	"sources": [
 		"coingecko",

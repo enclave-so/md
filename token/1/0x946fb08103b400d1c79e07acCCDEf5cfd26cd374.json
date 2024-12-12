@@ -3,6 +3,8 @@
 	"address": "0x946fb08103b400d1c79e07acCCDEf5cfd26cd374",
 	"symbol": "KIP",
 	"name": "KIP",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/52585/thumb/200x200-kip.png?1733764030",
 	"coingecko": "kip",
 	"sources": [
 		"coingecko"

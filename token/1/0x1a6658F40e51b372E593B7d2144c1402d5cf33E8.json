@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x1a6658F40e51b372E593B7d2144c1402d5cf33E8",
-	"symbol": "PUBLC",
+	"symbol": "PUBLX",
 	"name": "PUBLC",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/29074/thumb/PUBLX_Logo_%28200x200%29.png?1696528040",
 	"coingecko": "publc",
 	"sources": [
 		"coingecko"

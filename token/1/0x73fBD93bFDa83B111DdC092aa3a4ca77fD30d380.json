@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x73fBD93bFDa83B111DdC092aa3a4ca77fD30d380",
-	"symbol": "SophiaVerse",
+	"symbol": "SOPH",
 	"name": "SophiaVerse",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30050/thumb/Icon_200x200.png?1696528972",
 	"coingecko": "sophiaverse",
 	"sources": [
 		"coingecko"

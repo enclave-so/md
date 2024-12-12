@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x97C0acFD62BA29F70B6Fe272eFAAe0942C8263b5",
-	"symbol": "Lender Network",
+	"symbol": "LPU",
 	"name": "Lender Network",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/51567/thumb/IMG_4758.jpeg?1731530764",
 	"coingecko": "lender-network",
 	"sources": [
 		"coingecko"

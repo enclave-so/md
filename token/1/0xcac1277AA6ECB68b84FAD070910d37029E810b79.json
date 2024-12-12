@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xcac1277AA6ECB68b84FAD070910d37029E810b79",
-	"symbol": "BitDelta",
+	"symbol": "BDT",
 	"name": "BitDelta",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/36609/thumb/200x200_BDT.png?1711973432",
 	"coingecko": "bitdelta",
 	"sources": [
 		"coingecko"

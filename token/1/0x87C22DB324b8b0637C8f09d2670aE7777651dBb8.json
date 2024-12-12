@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x87C22DB324b8b0637C8f09d2670aE7777651dBb8",
-	"symbol": "Root Protocol",
+	"symbol": "ISME",
 	"name": "Root Protocol",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/36564/thumb/root-0313_%282%29.jpg?1711906595",
 	"coingecko": "root-protocol",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x0D248Ce39E26FB00F911FB1e7a45A00d8C94341c",
-	"symbol": "Butter",
+	"symbol": "BUTTER",
 	"name": "Butter",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30252/thumb/butterlogotrans.png?1696529161",
 	"coingecko": "butter",
 	"sources": [
 		"coingecko"

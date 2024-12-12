@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xA045Fe936E26e1e1e1Fb27C1f2Ae3643acde0171",
-	"symbol": "Kai Ken",
+	"symbol": "KAI",
 	"name": "Kai Ken",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/38697/thumb/eoUalmm0_400x400_%281%29.jpg?1727290609",
 	"coingecko": "kai-ken",
 	"sources": [
 		"coingecko"

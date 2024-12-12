@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x6aF53C6ec427525f7240E211941223288a0E7C66",
-	"symbol": "Warped Games",
+	"symbol": "WARPED",
 	"name": "Warped Games",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/33307/thumb/Warped-ICON-COLOR-ORANGE.png?1709639013",
 	"coingecko": "warped-games",
 	"sources": [
 		"coingecko"

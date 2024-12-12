@@ -2,9 +2,9 @@
 	"chain": 1,
 	"address": "0xaaAEBE6Fe48E54f431b0C390CfaF0b017d09D42d",
 	"symbol": "CEL",
-	"name": "Celsius",
+	"name": "Celsius Network",
 	"decimals": 4,
-	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/cel.jpg",
+	"logo": "https://assets.coingecko.com/coins/images/3263/thumb/CEL_logo.png?1696503976",
 	"coingecko": "celsius-degree-token",
 	"sources": [
 		"coingecko",

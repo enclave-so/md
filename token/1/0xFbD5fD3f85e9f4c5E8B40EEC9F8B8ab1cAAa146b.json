@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xFbD5fD3f85e9f4c5E8B40EEC9F8B8ab1cAAa146b",
-	"symbol": "Treat Token",
+	"symbol": "TREAT",
 	"name": "Treat Token",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31518/thumb/treat.jpg?1696530328",
 	"coingecko": "treat-token",
 	"sources": [
 		"coingecko"

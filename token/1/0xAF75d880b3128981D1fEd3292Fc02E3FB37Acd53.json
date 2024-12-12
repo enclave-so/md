@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xAF75d880b3128981D1fEd3292Fc02E3FB37Acd53",
-	"symbol": "TruthGPT",
+	"symbol": "TRUTH",
 	"name": "TruthGPT",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/29867/thumb/TruthGPT.png?1696528792",
 	"coingecko": "truthgpt",
 	"sources": [
 		"coingecko"

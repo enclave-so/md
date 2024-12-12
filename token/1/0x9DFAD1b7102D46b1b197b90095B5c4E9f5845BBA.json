@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x9DFAD1b7102D46b1b197b90095B5c4E9f5845BBA",
-	"symbol": "Botto",
+	"symbol": "BOTTO",
 	"name": "Botto",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/18892/thumb/bottos_logo.jpg?1696518350",
 	"coingecko": "botto",
 	"sources": [
 		"coingecko"

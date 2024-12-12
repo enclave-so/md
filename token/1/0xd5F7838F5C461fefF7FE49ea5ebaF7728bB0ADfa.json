@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xd5F7838F5C461fefF7FE49ea5ebaF7728bB0ADfa",
-	"symbol": "Mantle Staked Ether",
+	"symbol": "METH",
 	"name": "Mantle Staked Ether",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/33345/thumb/symbol_transparent_bg.png?1701697066",
 	"coingecko": "mantle-staked-ether",
 	"sources": [
 		"coingecko"

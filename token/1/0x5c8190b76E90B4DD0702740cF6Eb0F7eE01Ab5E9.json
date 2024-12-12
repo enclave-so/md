@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x5c8190b76E90B4DD0702740cF6Eb0F7eE01Ab5E9",
-	"symbol": "Archive AI",
+	"symbol": "ARCAI",
 	"name": "Archive AI",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/28939/thumb/pp.JPG?1696527913",
 	"coingecko": "archive-ai",
 	"sources": [
 		"coingecko"

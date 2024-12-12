@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0x0bb217E40F8a5Cb79Adf04E1aAb60E5abd0dfC1e",
-	"symbol": "SWFTCOIN",
+	"symbol": "SWFTC",
 	"name": "SWFTCOIN",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/2346/thumb/SWFTCoin.jpg?1618392022",
 	"coingecko": "swftcoin",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"uniswap"
 	]
 }

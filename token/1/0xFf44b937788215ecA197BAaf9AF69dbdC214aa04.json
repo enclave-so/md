@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xFf44b937788215ecA197BAaf9AF69dbdC214aa04",
-	"symbol": "Rocki",
+	"symbol": "ROCKI",
 	"name": "Rocki",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/13465/thumb/rocki_logo.png?1696513227",
 	"coingecko": "rocki",
 	"sources": [
 		"coingecko"

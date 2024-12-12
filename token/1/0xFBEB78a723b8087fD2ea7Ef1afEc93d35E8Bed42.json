@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xFBEB78a723b8087fD2ea7Ef1afEc93d35E8Bed42",
-	"symbol": "UNI yVault",
+	"symbol": "YVUNI",
 	"name": "UNI yVault",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/28781/thumb/yvUNI-128-0xFBEB78a723b8087fD2ea7Ef1afEc93d35E8Bed42.png?1696527760",
 	"coingecko": "uni-yvault",
 	"sources": [
 		"coingecko"

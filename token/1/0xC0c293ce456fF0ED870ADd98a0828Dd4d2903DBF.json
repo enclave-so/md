@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0xC0c293ce456fF0ED870ADd98a0828Dd4d2903DBF",
-	"symbol": "Aura Finance",
+	"symbol": "AURA",
 	"name": "Aura Finance",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/25942/thumb/logo.png?1696525021",
 	"coingecko": "aura-finance",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xfA816739EdaAc4EBf329219D4Ef575085CC28037",
-	"symbol": "Search",
+	"symbol": "0XSEARCH",
 	"name": "Search",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35866/thumb/photo_2024-03-07_21.13.29.jpeg?1709970596",
 	"coingecko": "search",
 	"sources": [
 		"coingecko"

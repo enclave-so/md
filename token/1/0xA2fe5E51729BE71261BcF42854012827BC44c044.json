@@ -3,8 +3,11 @@
 	"address": "0xA2fe5E51729BE71261BcF42854012827BC44c044",
 	"symbol": "BURN",
 	"name": "BURN",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/32652/thumb/Burn.jpg?1698895268",
 	"coingecko": "shiba-doge-burn",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

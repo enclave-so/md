@@ -1,0 +1,11 @@
+{
+	"chain": 8453,
+	"address": "0x4493faE71502871245B7049580b3195bC930e661",
+	"symbol": "CUSD",
+	"name": "Chad USD",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/CUSD/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

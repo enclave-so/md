@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x66d5c66E7C83E0682d947176534242c9f19b3365",
-	"symbol": "Staked Vector",
+	"symbol": "SVEC",
 	"name": "Staked Vector",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/35462/thumb/sVEC200.png?1709644177",
 	"coingecko": "staked-vector",
 	"sources": [
 		"coingecko"

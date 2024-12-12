@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x9506d37f70eB4C3d79C398d326C871aBBf10521d",
-	"symbol": "Media Licensing Token",
+	"symbol": "MLT",
 	"name": "Media Licensing Token",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/15659/thumb/milc_200x200.png?1696515290",
 	"coingecko": "media-licensing-token",
 	"sources": [
 		"coingecko"

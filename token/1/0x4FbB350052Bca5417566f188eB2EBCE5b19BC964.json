@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0x4FbB350052Bca5417566f188eB2EBCE5b19BC964",
-	"symbol": "RigoBlock",
+	"symbol": "GRG",
 	"name": "RigoBlock",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/1532/thumb/Symbol-RigoblockRGB.png?1696502572",
 	"coingecko": "rigoblock",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

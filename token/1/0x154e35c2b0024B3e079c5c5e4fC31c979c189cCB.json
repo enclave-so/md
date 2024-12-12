@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x154e35c2b0024B3e079c5c5e4fC31c979c189cCB",
-	"symbol": "Raid",
+	"symbol": "RAID",
 	"name": "Raid",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/18133/thumb/raid_200_oswlvz.png?1696517636",
 	"coingecko": "raid-token",
 	"sources": [
 		"coingecko"

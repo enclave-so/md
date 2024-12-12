@@ -1,0 +1,11 @@
+{
+	"chain": 42161,
+	"address": "0x96c42662820F6Ea32f0A61A06a38a72B206aABaC",
+	"symbol": "MOG",
+	"name": "Mog Coin",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31059/large/MOG_LOGO_200x200.png",
+	"sources": [
+		"uniswap"
+	]
+}

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xc8De43Bfe33FF496Fa14c270D9CB29Bda196B9B5",
-	"symbol": "Big Eyes",
+	"symbol": "BIG",
 	"name": "Big Eyes",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30824/thumb/200-200.jpg?1696529677",
 	"coingecko": "big-eyes",
 	"sources": [
 		"coingecko"

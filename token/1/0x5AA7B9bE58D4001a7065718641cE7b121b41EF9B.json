@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x5AA7B9bE58D4001a7065718641cE7b121b41EF9B",
-	"symbol": "AlphPad",
+	"symbol": "APAD",
 	"name": "AlphPad",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/39931/thumb/icon.png?1724836252",
 	"coingecko": "alphpad",
 	"sources": [
 		"coingecko"

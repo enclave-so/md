@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x312d43881860807fA04b193d69744D087fC3308a",
-	"symbol": "BRC-20 DEX",
-	"name": "BRC-20 DEX",
+	"symbol": "BD20",
+	"name": "BRC 20 DEX",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35209/thumb/logo.jpg?1711030438",
 	"coingecko": "brc-20-dex",
 	"sources": [
 		"coingecko"

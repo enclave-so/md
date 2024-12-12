@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x9E6be44cC1236eEf7e1f197418592D363BedCd5A",
-	"symbol": "Azuro Protocol",
+	"symbol": "AZUR",
 	"name": "Azuro Protocol",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/38499/thumb/azuro.jpeg?1717727357",
 	"coingecko": "azuro-protocol",
 	"sources": [
 		"coingecko"

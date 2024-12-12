@@ -1,10 +1,13 @@
 {
 	"chain": 8453,
 	"address": "0x3d2EbA645c44BBD32A34b7c017667711eb5b173C",
-	"symbol": "Wrapped MistCoin",
+	"symbol": "WMC",
 	"name": "Wrapped MistCoin",
+	"decimals": 2,
+	"logo": "https://ethereum-optimism.github.io/data/WMC/logo.svg",
 	"coingecko": "wrapped-mistcoin",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

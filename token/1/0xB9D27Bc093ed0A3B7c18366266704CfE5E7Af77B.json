@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xB9D27Bc093ed0A3B7c18366266704CfE5E7Af77B",
-	"symbol": "Carbify",
+	"symbol": "CBY",
 	"name": "Carbify",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/29892/thumb/Carbify_logo.png?1696528816",
 	"coingecko": "carbify",
 	"sources": [
 		"coingecko"

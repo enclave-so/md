@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xbC0899E527007f1B8Ced694508FCb7a2b9a46F53",
-	"symbol": "Basket",
+	"symbol": "BSKT",
 	"name": "Basket",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/34661/thumb/BSKT_Logo.png?1705636891",
 	"coingecko": "basket",
 	"sources": [
 		"coingecko"

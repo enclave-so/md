@@ -2,9 +2,9 @@
 	"chain": 1,
 	"address": "0x3405A1bd46B85c5C029483FbECf2F3E611026e45",
 	"symbol": "WOW",
-	"name": "WOWSwap",
+	"name": "WOWswap",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x3405A1bd46B85c5C029483FbECf2F3E611026e45/logo.png",
+	"logo": "https://assets.coingecko.com/coins/images/14101/thumb/Group-423.png?1696513823",
 	"coingecko": "wowswap",
 	"sources": [
 		"coingecko",

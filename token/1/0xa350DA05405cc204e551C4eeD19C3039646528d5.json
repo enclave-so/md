@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xa350DA05405cc204e551C4eeD19C3039646528d5",
-	"symbol": "Blocksport",
+	"symbol": "BSPT",
 	"name": "Blocksport",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/23735/thumb/logo_icon.jpg?1696522938",
 	"coingecko": "blocksport",
 	"sources": [
 		"coingecko"

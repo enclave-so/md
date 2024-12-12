@@ -1,0 +1,12 @@
+{
+	"chain": 8453,
+	"address": "0xB4fDe59a779991bfB6a52253B51947828b982be3",
+	"symbol": "PEPE",
+	"name": "Pepe",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/29850/large/pepe-token.jpeg?1682922725",
+	"sources": [
+		"optimism",
+		"uniswap"
+	]
+}

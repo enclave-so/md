@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xFC21540d6B89667D167D42086E1feb04DA3E9B21",
-	"symbol": "Infinet",
+	"symbol": "INFI",
 	"name": "Infinet",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/50171/thumb/Twitter_Profile_image_400x400.jpg?1726137498",
 	"coingecko": "infinite-2",
 	"sources": [
 		"coingecko"

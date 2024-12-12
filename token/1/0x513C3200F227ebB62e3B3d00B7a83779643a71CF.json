@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x513C3200F227ebB62e3B3d00B7a83779643a71CF",
-	"symbol": "Uplift",
+	"symbol": "LIFT",
 	"name": "Uplift",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/20666/thumb/logo-200x200.png?1696520067",
 	"coingecko": "uplift",
 	"sources": [
 		"coingecko"

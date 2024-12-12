@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x560363BdA52BC6A44CA6C8c9B4a5FadbDa32fa60",
-	"symbol": "Seedify.fund",
-	"name": "Seedify.fund",
+	"symbol": "SFUND",
+	"name": "Seedify fund",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14614/thumb/Favicon_Icon.png?1696514292",
 	"coingecko": "seedify-fund",
 	"sources": [
 		"coingecko"

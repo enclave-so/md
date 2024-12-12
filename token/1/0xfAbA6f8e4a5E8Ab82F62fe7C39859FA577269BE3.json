@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0xfAbA6f8e4a5E8Ab82F62fe7C39859FA577269BE3",
-	"symbol": "Ondo",
-	"name": "Ondo",
+	"symbol": "ONDO",
+	"name": "Ondo Finance",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/26580/standard/ONDO.png?1696525656",
 	"coingecko": "ondo-finance",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"uniswap"
 	]
 }

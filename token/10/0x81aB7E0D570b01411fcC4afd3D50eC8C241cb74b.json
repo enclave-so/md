@@ -8,6 +8,7 @@
 	"coingecko": "equalizer",
 	"sources": [
 		"coingecko",
+		"optimism",
 		"sushiswap"
 	]
 }

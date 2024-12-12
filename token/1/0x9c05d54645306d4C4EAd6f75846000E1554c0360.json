@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0x9c05d54645306d4C4EAd6f75846000E1554c0360",
+	"symbol": "21ADA",
+	"name": "21.co Wrapped Cardano",
+	"decimals": 6,
+	"logo": "https://cdn.indexcoop.com/21ada.svg",
+	"sources": [
+		"indexcoop"
+	]
+}

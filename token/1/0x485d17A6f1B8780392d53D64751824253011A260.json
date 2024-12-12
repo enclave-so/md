@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0x485d17A6f1B8780392d53D64751824253011A260",
-	"symbol": "chrono.tech",
-	"name": "chrono.tech",
+	"symbol": "TIME",
+	"name": "ChronoTech",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/604/thumb/time-32x32.png?1627130666",
 	"coingecko": "chronobank",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"uniswap"
 	]
 }

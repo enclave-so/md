@@ -1,10 +1,13 @@
 {
 	"chain": 34443,
 	"address": "0xcDd475325D6F564d27247D1DddBb0DAc6fA0a5CF",
-	"symbol": "Mode Bridged WBTC (Mode)",
-	"name": "Mode Bridged WBTC (Mode)",
+	"symbol": "WBTC",
+	"name": "Wrapped BTC",
+	"decimals": 8,
+	"logo": "https://ethereum-optimism.github.io/data/WBTC/logo.svg",
 	"coingecko": "mode-bridged-wbtc-mode",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

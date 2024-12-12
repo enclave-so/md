@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x2d81F9460Bd21e8578350A4f06e62848ED4BB27e",
-	"symbol": "Otherworld",
+	"symbol": "OWN",
 	"name": "Otherworld",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/38925/thumb/OW_Black_200_200.png?1719525901",
 	"coingecko": "otherworld",
 	"sources": [
 		"coingecko"

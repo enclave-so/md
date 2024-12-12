@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x9F7fC686CfD64aA5Ae15b351d03071e91533094b",
-	"symbol": "Trace Network Labs",
+	"symbol": "TRACE",
 	"name": "Trace Network Labs",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/23266/thumb/Token_Icon_02.png?1696522486",
 	"coingecko": "trace-network-labs",
 	"sources": [
 		"coingecko"

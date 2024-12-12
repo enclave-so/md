@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x975dA7b2325F815F1dE23C8B68f721fb483B8071",
-	"symbol": "LooPIN Network",
+	"symbol": "LOOPIN",
 	"name": "LooPIN Network",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/51810/thumb/photo_2024-11-19_03-34-39.jpg?1732010671",
 	"coingecko": "loopin-network",
 	"sources": [
 		"coingecko"

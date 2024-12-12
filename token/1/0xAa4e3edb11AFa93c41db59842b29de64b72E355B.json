@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xAa4e3edb11AFa93c41db59842b29de64b72E355B",
-	"symbol": "Marginswap",
+	"symbol": "MFI",
 	"name": "Marginswap",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/13899/thumb/marginswap_logo.png?1696513642",
 	"coingecko": "marginswap",
 	"sources": [
 		"coingecko"

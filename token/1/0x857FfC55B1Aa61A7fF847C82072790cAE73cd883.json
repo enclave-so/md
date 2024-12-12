@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x857FfC55B1Aa61A7fF847C82072790cAE73cd883",
-	"symbol": "Elastic Finance Token",
+	"symbol": "EEFI",
 	"name": "Elastic Finance Token",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/37075/thumb/EEFI.jpg?1713247518",
 	"coingecko": "elastic-finance-token",
 	"sources": [
 		"coingecko"

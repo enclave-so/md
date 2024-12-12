@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xd94A8f9caeD25E63eCc90EDfefAf3635eA1e182a",
-	"symbol": "Stablecomp",
+	"symbol": "SCOMP",
 	"name": "Stablecomp",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/33932/thumb/token-icon-big.png?1703422228",
 	"coingecko": "stablecomp",
 	"sources": [
 		"coingecko"

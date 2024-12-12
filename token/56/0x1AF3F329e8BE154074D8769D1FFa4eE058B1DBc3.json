@@ -2,12 +2,14 @@
 	"chain": 56,
 	"address": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3",
 	"symbol": "DAI",
-	"name": "Dai Token",
+	"name": "Dai Stablecoin",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/binance/0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3.jpg",
+	"logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png",
 	"coingecko": "binance-peg-dai",
 	"sources": [
 		"coingecko",
-		"sushiswap"
+		"pancakeswap",
+		"sushiswap",
+		"uniswap"
 	]
 }

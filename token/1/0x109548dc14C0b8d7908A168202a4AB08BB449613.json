@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x109548dc14C0b8d7908A168202a4AB08BB449613",
-	"symbol": "Cloud Binary",
+	"symbol": "CBY",
 	"name": "Cloud Binary",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35733/thumb/CBY-200px.png?1709691425",
 	"coingecko": "cloud-binary",
 	"sources": [
 		"coingecko"

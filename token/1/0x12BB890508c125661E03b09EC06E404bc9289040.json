@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x12BB890508c125661E03b09EC06E404bc9289040",
-	"symbol": "Radio Caca",
+	"symbol": "RACA",
 	"name": "Radio Caca",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/17841/thumb/ez44_BSs_400x400.jpg?1696517365",
 	"coingecko": "radio-caca",
 	"sources": [
 		"coingecko"

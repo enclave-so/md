@@ -3,6 +3,8 @@
 	"address": "0x9B9647431632AF44be02ddd22477Ed94d14AacAa",
 	"symbol": "KOK",
 	"name": "KOK",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/10502/thumb/logo_navy.png?1696510490",
 	"coingecko": "kok",
 	"sources": [
 		"coingecko"

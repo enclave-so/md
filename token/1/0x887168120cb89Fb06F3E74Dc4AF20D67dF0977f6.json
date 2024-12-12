@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x887168120cb89Fb06F3E74Dc4AF20D67dF0977f6",
-	"symbol": "Sekuritance",
+	"symbol": "SKRT",
 	"name": "Sekuritance",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/15495/thumb/skrt.png?1696515139",
 	"coingecko": "sekuritance",
 	"sources": [
 		"coingecko"

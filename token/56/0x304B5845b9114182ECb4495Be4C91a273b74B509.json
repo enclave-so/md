@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0x304B5845b9114182ECb4495Be4C91a273b74B509",
-	"symbol": "YieldNest Restaked BNB",
-	"name": "YieldNest Restaked BNB",
+	"symbol": "ynBNB",
+	"name": "YieldNest: BNB Liquid Restaking",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x304B5845b9114182ECb4495Be4C91a273b74B509.png",
 	"coingecko": "yieldnest-restaked-bnb",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

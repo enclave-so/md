@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x71dc40668682a124231301414167E4CF7f55383C",
-	"symbol": "Mimir",
+	"symbol": "MIMIR",
 	"name": "Mimir",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/19551/thumb/xaq5Xlzg_400x400.jpg?1696518984",
 	"coingecko": "mimir-token",
 	"sources": [
 		"coingecko"

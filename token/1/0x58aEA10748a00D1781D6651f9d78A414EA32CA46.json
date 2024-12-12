@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x58aEA10748a00D1781D6651f9d78A414EA32CA46",
-	"symbol": "Vector Smart Gas",
+	"symbol": "VSG",
 	"name": "Vector Smart Gas",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35275/thumb/photo_2024-09-07_14.54.06.jpeg?1725717274",
 	"coingecko": "vitalik-smart-gas",
 	"sources": [
 		"coingecko"

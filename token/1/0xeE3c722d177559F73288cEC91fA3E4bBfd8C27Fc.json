@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xeE3c722d177559F73288cEC91fA3E4bBfd8C27Fc",
-	"symbol": "Douglas Adams",
+	"symbol": "HHGTTG",
 	"name": "Douglas Adams",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/32837/thumb/HHGTTG200.jpg?1706880868",
 	"coingecko": "douglas-adams",
 	"sources": [
 		"coingecko"

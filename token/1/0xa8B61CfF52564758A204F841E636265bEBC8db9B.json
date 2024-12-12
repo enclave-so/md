@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xa8B61CfF52564758A204F841E636265bEBC8db9B",
-	"symbol": "Yield Protocol",
+	"symbol": "YIELD",
 	"name": "Yield Protocol",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14220/thumb/yield.png?1696513935",
 	"coingecko": "yield-protocol",
 	"sources": [
 		"coingecko"

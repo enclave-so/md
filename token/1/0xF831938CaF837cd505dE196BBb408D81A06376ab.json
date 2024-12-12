@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xF831938CaF837cd505dE196BBb408D81A06376ab",
-	"symbol": "Jeff",
+	"symbol": "JEFF",
 	"name": "Jeff",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30222/thumb/photo_2023-05-06_23.53.02.jpeg?1696529132",
 	"coingecko": "jeff",
 	"sources": [
 		"coingecko"

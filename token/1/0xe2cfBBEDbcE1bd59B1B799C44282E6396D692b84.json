@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xe2cfBBEDbcE1bd59B1B799C44282E6396D692b84",
-	"symbol": "Dexioprotocol",
+	"symbol": "DEXIO",
 	"name": "Dexioprotocol",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/27075/thumb/Logo_circle_%281%29.png?1733384610",
 	"coingecko": "dexioprotocol-v2",
 	"sources": [
 		"coingecko"

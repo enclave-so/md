@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x13063Bed4BeBbe542005e191c459d2cFa96b98E1",
-	"symbol": "Izumi-chan",
-	"name": "Izumi-chan",
+	"symbol": "IZUMI",
+	"name": "Izumi chan",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/51226/thumb/New_logo.png?1730394857",
 	"coingecko": "izumi-chan",
 	"sources": [
 		"coingecko"

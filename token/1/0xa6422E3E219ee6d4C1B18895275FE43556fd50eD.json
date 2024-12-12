@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xa6422E3E219ee6d4C1B18895275FE43556fd50eD",
-	"symbol": "Stobox",
+	"symbol": "STBU",
 	"name": "Stobox",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/12637/thumb/123456826.png?1696512445",
 	"coingecko": "stobox-token",
 	"sources": [
 		"coingecko"

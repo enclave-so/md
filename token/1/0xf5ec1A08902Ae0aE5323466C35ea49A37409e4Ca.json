@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xf5ec1A08902Ae0aE5323466C35ea49A37409e4Ca",
-	"symbol": "SAKURA UNITED PLATFORM",
+	"symbol": "SUP",
 	"name": "SAKURA UNITED PLATFORM",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/32213/thumb/apple200%C3%97200.png?1696827569",
 	"coingecko": "sakura-united-platform",
 	"sources": [
 		"coingecko"

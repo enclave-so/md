@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xc3D2B3e23855001508e460A6dbE9f9e3116201aF",
-	"symbol": "GATEWAY TO MARS",
+	"symbol": "MARS",
 	"name": "GATEWAY TO MARS",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/34083/thumb/MARS-LOGO-BLACK-200x200.png?1703910355",
 	"coingecko": "gateway-to-mars",
 	"sources": [
 		"coingecko"

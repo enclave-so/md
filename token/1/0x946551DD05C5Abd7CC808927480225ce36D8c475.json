@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x946551DD05C5Abd7CC808927480225ce36D8c475",
-	"symbol": "One",
+	"symbol": "ONE",
 	"name": "One",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/4960/thumb/Screenshot_39.png?1696505497",
 	"coingecko": "one",
 	"sources": [
 		"coingecko"

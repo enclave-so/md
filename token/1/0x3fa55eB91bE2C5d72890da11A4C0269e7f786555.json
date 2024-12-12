@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x3fa55eB91bE2C5d72890da11A4C0269e7f786555",
-	"symbol": "Prophet of Ethereum",
+	"symbol": "PROPHET",
 	"name": "Prophet of Ethereum",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/40069/thumb/IMG_20240901_200400_654.jpg?1725485248",
 	"coingecko": "prophet-of-ethereum",
 	"sources": [
 		"coingecko"

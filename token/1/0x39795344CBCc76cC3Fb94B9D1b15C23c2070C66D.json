@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x39795344CBCc76cC3Fb94B9D1b15C23c2070C66D",
-	"symbol": "Seigniorage Shares",
+	"symbol": "SHARE",
 	"name": "Seigniorage Shares",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/12306/thumb/logo_%281%29.png?1696512136",
 	"coingecko": "seigniorage-shares",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x8BCbef61ACd66537362f38167F11875134FfcD63",
-	"symbol": "Pepe Girl",
+	"symbol": "PEPEG",
 	"name": "Pepe Girl",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/29896/thumb/pepe_sad_reverse_200X200.png?1696528820",
 	"coingecko": "pepe-girl",
 	"sources": [
 		"coingecko"

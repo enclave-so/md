@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xa0Dd6dd7775E93EB842Db0AA142c9c581031Ed3B",
-	"symbol": "Mind",
+	"symbol": "MND",
 	"name": "Mind",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/33540/thumb/mind-logo-black-resized.png?1702378297",
 	"coingecko": "mind-language",
 	"sources": [
 		"coingecko"

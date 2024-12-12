@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x32B053F2CBA79F80ada5078cb6b305da92BDe6e1",
-	"symbol": "NEURALAI",
+	"symbol": "NEURAL",
 	"name": "NEURALAI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/36341/thumb/blackpfp.png?1733474630",
 	"coingecko": "neuralai",
 	"sources": [
 		"coingecko"

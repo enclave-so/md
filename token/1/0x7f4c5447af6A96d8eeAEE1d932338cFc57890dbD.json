@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x7f4c5447af6A96d8eeAEE1d932338cFc57890dbD",
-	"symbol": "Dave Coin",
+	"symbol": "DAVE",
 	"name": "Dave Coin",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30703/thumb/davelogo_transparent200x200.png?1696529575",
 	"coingecko": "dave-coin",
 	"sources": [
 		"coingecko"

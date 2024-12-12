@@ -3,6 +3,8 @@
 	"address": "0xC4c346eDc55504574cCEB00AA1091d22404A4bC3",
 	"symbol": "MEZZ",
 	"name": "MEZZ",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/29344/thumb/20230307_234212.png?1696528293",
 	"coingecko": "mezz",
 	"sources": [
 		"coingecko"

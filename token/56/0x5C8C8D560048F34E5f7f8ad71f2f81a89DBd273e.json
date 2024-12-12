@@ -1,0 +1,11 @@
+{
+	"chain": 56,
+	"address": "0x5C8C8D560048F34E5f7f8ad71f2f81a89DBd273e",
+	"symbol": "CART",
+	"name": "CryptoArt.ai",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x5C8C8D560048F34E5f7f8ad71f2f81a89DBd273e.png",
+	"sources": [
+		"pancakeswap"
+	]
+}

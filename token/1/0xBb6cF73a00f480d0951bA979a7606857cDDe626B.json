@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xBb6cF73a00f480d0951bA979a7606857cDDe626B",
-	"symbol": "Arix",
+	"symbol": "ARIX",
 	"name": "Arix",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/13485/thumb/ARIX.png?1696513245",
 	"coingecko": "arix",
 	"sources": [
 		"coingecko"

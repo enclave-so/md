@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xCA9de1F80Df74331c5fcb7Eee2D05E746d47BFb2",
-	"symbol": "Reddio Vault Ethereum",
+	"symbol": "RSVETH",
 	"name": "Reddio Vault Ethereum",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/39744/thumb/rsv_eth.png?1723781355",
 	"coingecko": "redsonic-vault-ethereum",
 	"sources": [
 		"coingecko"

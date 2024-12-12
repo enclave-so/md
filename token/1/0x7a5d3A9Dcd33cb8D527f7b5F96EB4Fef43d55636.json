@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x7a5d3A9Dcd33cb8D527f7b5F96EB4Fef43d55636",
-	"symbol": "RadioShack",
+	"symbol": "RADIO",
 	"name": "RadioShack",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/25307/thumb/ZVoPiysPJq6dPIZm_Se-6vjmsBepwhHlTQfdYZRILbHyVVTRUYCO-wmJJ4zT10HXCGv1j-ZyWr2u2sBaVlap5Y-ILqeXZuIquWdBDxxG0E0qDpgH7omLqYdgWWLSM_TUK9d1PiiYdu6bERdCDaucgFjlqwmhVQK4uV4jyUiXzchVUnu8Qt6SnxlNxz88G0mQ_tfiwkFv_vKqtgb1CcPycVZVz9.jpg?1696524444",
 	"coingecko": "radioshack",
 	"sources": [
 		"coingecko"

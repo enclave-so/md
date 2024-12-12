@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xBB22d59B73D7a6F3A8a83A214BECc67Eb3b511fE",
-	"symbol": "Constellation Staked ETH",
+	"symbol": "XRETH",
 	"name": "Constellation Staked ETH",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/50951/thumb/token-xreth.png?1729586118",
 	"coingecko": "constellation-staked-eth",
 	"sources": [
 		"coingecko"

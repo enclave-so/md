@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xBd3de9a069648c84d27d74d701C9fa3253098B15",
-	"symbol": "EQIFi",
+	"symbol": "EQX",
 	"name": "EQIFi",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/17490/thumb/EQIFI_Logo_Color.png?1696517031",
 	"coingecko": "eqifi",
 	"sources": [
 		"coingecko"

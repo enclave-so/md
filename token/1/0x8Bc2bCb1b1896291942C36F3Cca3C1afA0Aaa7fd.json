@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x8Bc2bCb1b1896291942C36F3Cca3C1afA0Aaa7fd",
-	"symbol": "3SPACE ART",
+	"symbol": "PACE",
 	"name": "3SPACE ART",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/33575/thumb/3space-art.png?1702901855",
 	"coingecko": "3space-art",
 	"sources": [
 		"coingecko"

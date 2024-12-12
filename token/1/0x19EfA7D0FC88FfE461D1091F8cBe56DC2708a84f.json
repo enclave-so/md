@@ -3,6 +3,8 @@
 	"address": "0x19EfA7D0FC88FfE461D1091F8cBe56DC2708a84f",
 	"symbol": "UNITAO",
 	"name": "UNITAO",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35743/thumb/rsz_logo11.png?1709976563",
 	"coingecko": "unitao",
 	"sources": [
 		"coingecko"

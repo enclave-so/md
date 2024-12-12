@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0xA64455a4553C9034236734FadDAddbb64aCE4Cc7",
-	"symbol": "Santos FC Fan Token",
-	"name": "Santos FC Fan Token",
+	"symbol": "SANTOS",
+	"name": "FC Santos Fan Token",
+	"decimals": 8,
+	"logo": "https://tokens.pancakeswap.finance/images/0xA64455a4553C9034236734FadDAddbb64aCE4Cc7.png",
 	"coingecko": "santos-fc-fan-token",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xc7bb03ddD9311fc0338bE013E7B523254092Fda9",
-	"symbol": "nsurance",
+	"symbol": "N",
 	"name": "nsurance",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/32392/thumb/n-logo-200x200.png?1698053006",
 	"coingecko": "nsurance",
 	"sources": [
 		"coingecko"

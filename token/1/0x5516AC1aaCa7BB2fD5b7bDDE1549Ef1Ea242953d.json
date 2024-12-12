@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x5516AC1aaCa7BB2fD5b7bDDE1549Ef1Ea242953d",
-	"symbol": "Decentralized ETF",
+	"symbol": "DETF",
 	"name": "Decentralized ETF",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/24232/thumb/DETF.png?1697123799",
 	"coingecko": "decentralized-etf",
 	"sources": [
 		"coingecko"

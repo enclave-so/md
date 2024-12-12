@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xa1116930326D21fB917d5A27F1E9943A9595fb47",
-	"symbol": "Staked Aave Balancer Pool Token",
+	"symbol": "STKABPT",
 	"name": "Staked Aave Balancer Pool Token",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/16789/thumb/StkABPT_2x.png?1696516360",
 	"coingecko": "staked-aave-balancer-pool-token",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xE66b3AA360bB78468c00Bebe163630269DB3324F",
-	"symbol": "Merchant",
+	"symbol": "MTO",
 	"name": "Merchant",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/17157/thumb/mto.PNG?1696516717",
 	"coingecko": "merchant-token",
 	"sources": [
 		"coingecko"

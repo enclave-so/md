@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xA28CbB24313dF3907b8D87685bAb2c1d0bd46B60",
-	"symbol": "AUTOMATIX",
+	"symbol": "ATX",
 	"name": "AUTOMATIX",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/39620/thumb/AUTOMATIX.png?1723174821",
 	"coingecko": "automatix",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x471A202f69D6e975DA55E363daB1bDB2e86E0c0f",
-	"symbol": "Geke",
+	"symbol": "GEKE",
 	"name": "Geke",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30332/thumb/geke.jpg?1696529233",
 	"coingecko": "geke",
 	"sources": [
 		"coingecko"

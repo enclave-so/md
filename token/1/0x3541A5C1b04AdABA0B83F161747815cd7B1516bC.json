@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x3541A5C1b04AdABA0B83F161747815cd7B1516bC",
-	"symbol": "CitaDAO",
+	"symbol": "KNIGHT",
 	"name": "CitaDAO",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/22848/thumb/KNIGHT_TOKEN_LOGO.png?1696522149",
 	"coingecko": "citadao",
 	"sources": [
 		"coingecko"

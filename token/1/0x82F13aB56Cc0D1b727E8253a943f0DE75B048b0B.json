@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x82F13aB56Cc0D1b727E8253a943f0DE75B048b0B",
-	"symbol": "PlayFi",
+	"symbol": "PLAYFI",
 	"name": "PlayFi",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/36773/thumb/pfiCircleLogo_Alt_Alpha_200.png?1712287250",
 	"coingecko": "playfi",
 	"sources": [
 		"coingecko"

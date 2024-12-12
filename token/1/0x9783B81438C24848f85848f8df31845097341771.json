@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x9783B81438C24848f85848f8df31845097341771",
-	"symbol": "Dog Collar",
+	"symbol": "COLLAR",
 	"name": "Dog Collar",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/18324/thumb/dcLogo.png?1696517815",
 	"coingecko": "dog-collar",
 	"sources": [
 		"coingecko"

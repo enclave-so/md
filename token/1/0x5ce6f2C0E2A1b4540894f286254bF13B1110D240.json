@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x5ce6f2C0E2A1b4540894f286254bF13B1110D240",
-	"symbol": "Bricks",
+	"symbol": "BRX",
 	"name": "Bricks",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/36963/thumb/brx_logo_symbol_2024_200x200.png?1712907453",
 	"coingecko": "bricks-exchange",
 	"sources": [
 		"coingecko"

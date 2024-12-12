@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x52A047Ee205701895Ee06A375492490EC9C597cE",
-	"symbol": "PulseMarkets",
+	"symbol": "PULSE",
 	"name": "PulseMarkets",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/19011/thumb/photo_2021-11-11_06-24-09.jpg?1696518463",
 	"coingecko": "pulse-token",
 	"sources": [
 		"coingecko"

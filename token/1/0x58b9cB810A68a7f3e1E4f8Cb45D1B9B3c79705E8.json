@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x58b9cB810A68a7f3e1E4f8Cb45D1B9B3c79705E8",
-	"symbol": "Everclear",
+	"symbol": "CLEAR",
 	"name": "Everclear",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/52496/thumb/photo_2024-06-03_12-14-59_%281%29.png?1733450397",
 	"coingecko": "everclear",
 	"sources": [
 		"coingecko"

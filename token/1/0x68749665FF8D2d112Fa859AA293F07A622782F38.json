@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x68749665FF8D2d112Fa859AA293F07A622782F38",
-	"symbol": "Tether Gold",
+	"symbol": "XAUT",
 	"name": "Tether Gold",
+	"decimals": 6,
+	"logo": "https://assets.coingecko.com/coins/images/10481/thumb/Tether_Gold.png?1696510471",
 	"coingecko": "tether-gold",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x162bb2Bb5FB03976a69dD25bB9afcE6140dB1433",
-	"symbol": "dog",
+	"symbol": "DOG",
 	"name": "dog",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/32464/thumb/200.png?1698242675",
 	"coingecko": "dog-3",
 	"sources": [
 		"coingecko"

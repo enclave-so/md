@@ -1,0 +1,11 @@
+{
+	"chain": 56,
+	"address": "0xF19cfb40B3774dF6Eed83169Ad5aB0Aaf6865F25",
+	"symbol": "HOOP",
+	"name": "Chibi Dinos",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0xF19cfb40B3774dF6Eed83169Ad5aB0Aaf6865F25.png",
+	"sources": [
+		"pancakeswap"
+	]
+}

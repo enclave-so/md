@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x777172D858dC1599914a1C4c6c9fC48c99a60990",
-	"symbol": "Solidly",
+	"symbol": "SOLID",
 	"name": "Solidly",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/28676/thumb/solid_logo_200.png?1701687346",
 	"coingecko": "solidlydex",
 	"sources": [
 		"coingecko"

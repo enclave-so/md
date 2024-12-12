@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x6a445E9F40e0b97c92d0b8a3366cEF1d67F700BF",
-	"symbol": "Fidu",
+	"symbol": "FIDU",
 	"name": "Fidu",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/25944/thumb/GFI-asset-icon.png?1696525023",
 	"coingecko": "fidu",
 	"sources": [
 		"coingecko"

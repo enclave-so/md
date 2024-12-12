@@ -1,0 +1,11 @@
+{
+	"chain": 84532,
+	"address": "0x0C6CFdd69DD6117F9CD34437d551FFa9E0d92C94",
+	"symbol": "YYY",
+	"name": "YYY",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/YYY/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

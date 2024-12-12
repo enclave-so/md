@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xE33AE4E795114279721047484E5ad5cc7DF24fcB",
-	"symbol": "MCFinance",
+	"symbol": "MCF",
 	"name": "MCFinance",
+	"decimals": 10,
+	"logo": "https://assets.coingecko.com/coins/images/17608/thumb/arFRQ0b.png?1696517140",
 	"coingecko": "mcfinance",
 	"sources": [
 		"coingecko"

@@ -2,9 +2,9 @@
 	"chain": 1,
 	"address": "0x0De05F6447ab4D22c8827449EE4bA2D5C288379B",
 	"symbol": "OOKI",
-	"name": "OOKI",
+	"name": "Ooki",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x0De05F6447ab4D22c8827449EE4bA2D5C288379B/logo.png",
+	"logo": "https://assets.coingecko.com/coins/images/21719/thumb/Ooki_Token.png?1696521074",
 	"coingecko": "ooki",
 	"sources": [
 		"coingecko",

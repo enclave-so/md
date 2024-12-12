@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xaADA04204e9e1099DaF67cf3D5D137E84E41CF41",
-	"symbol": "Peepo",
+	"symbol": "PEEPO",
 	"name": "Peepo",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30006/thumb/20230425_175833.png?1696528931",
 	"coingecko": "peepo",
 	"sources": [
 		"coingecko"

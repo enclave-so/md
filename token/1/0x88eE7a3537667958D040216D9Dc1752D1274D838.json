@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x88eE7a3537667958D040216D9Dc1752D1274D838",
-	"symbol": "MoveMoveCoin",
+	"symbol": "MMC",
 	"name": "MoveMoveCoin",
+	"decimals": 6,
+	"logo": "https://assets.coingecko.com/coins/images/39214/thumb/1000008640.jpg?1721107633",
 	"coingecko": "movemovecoin",
 	"sources": [
 		"coingecko"

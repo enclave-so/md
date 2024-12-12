@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x4298e4AD48be89BF63A6fDc470A4b4Fe9cE633B1",
-	"symbol": "Estee",
+	"symbol": "ESTEE",
 	"name": "Estee",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/50398/thumb/1729688495-picsay.png?1729719534",
 	"coingecko": "estee",
 	"sources": [
 		"coingecko"

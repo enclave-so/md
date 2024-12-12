@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x9e04F519b094F5F8210441e285f603f4d2b50084",
-	"symbol": "EarthFund",
+	"symbol": "1EARTH",
 	"name": "EarthFund",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/20822/thumb/earthfund.PNG?1696520215",
 	"coingecko": "earthfund",
 	"sources": [
 		"coingecko"

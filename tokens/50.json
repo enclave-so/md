@@ -1,6 +1,16 @@
 [
 	{
 		"chain": 50,
+		"address": "0xFa4dDcFa8E3d0475f544d0de469277CF6e0A6Fd1",
+		"symbol": "Beny Bad Boy",
+		"name": "Beny Bad Boy",
+		"coingecko": "beny-bad-boy",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 50,
 		"address": "0x0000000000000000000000000000000000000000",
 		"symbol": "Circularity Finance",
 		"name": "Circularity Finance",
@@ -25,16 +35,6 @@
 		"symbol": "GAMA Coin",
 		"name": "GAMA Coin",
 		"coingecko": "gama-coin",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 50,
-		"address": "0xFa4dDcFa8E3d0475f544d0de469277CF6e0A6Fd1",
-		"symbol": "Beny Bad Boy",
-		"name": "Beny Bad Boy",
-		"coingecko": "beny-bad-boy",
 		"sources": [
 			"coingecko"
 		]

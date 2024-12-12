@@ -2,9 +2,9 @@
 	"chain": 1,
 	"address": "0x88536C9B2C4701b8dB824e6A16829D5B5Eb84440",
 	"symbol": "USV",
-	"name": "Universal Store of Value",
+	"name": "Atlas USV",
 	"decimals": 9,
-	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x88536C9B2C4701b8dB824e6A16829D5B5Eb84440/logo.png",
+	"logo": "https://assets.coingecko.com/coins/images/22066/thumb/7iUyjg5t.png?1696521410",
 	"coingecko": "atlas-usv",
 	"sources": [
 		"coingecko",

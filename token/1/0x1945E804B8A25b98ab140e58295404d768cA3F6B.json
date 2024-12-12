@@ -3,6 +3,8 @@
 	"address": "0x1945E804B8A25b98ab140e58295404d768cA3F6B",
 	"symbol": "MOTION",
 	"name": "MOTION",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/50610/thumb/motionworld.png?1728474480",
 	"coingecko": "motion-2",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x1CDD2EaB61112697626F7b4bB0e23Da4FeBF7B7C",
-	"symbol": "Bridged Tether (Wormhole)",
-	"name": "Bridged Tether (Wormhole)",
+	"symbol": "USDTSO",
+	"name": "Bridged Tether  Wormhole ",
+	"decimals": 6,
+	"logo": "https://assets.coingecko.com/coins/images/22881/thumb/USDTso_wh_small.png?1696522179",
 	"coingecko": "tether-usd-wormhole",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xbB126042235E6bD38B17744cb31a8bF4A206c045",
-	"symbol": "fanC",
+	"symbol": "FANC",
 	"name": "fanC",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/26500/thumb/hJ6MD49P_400x400.jpeg?1696525574",
 	"coingecko": "fanc",
 	"sources": [
 		"coingecko"

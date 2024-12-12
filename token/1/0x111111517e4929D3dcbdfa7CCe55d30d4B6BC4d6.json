@@ -3,6 +3,8 @@
 	"address": "0x111111517e4929D3dcbdfa7CCe55d30d4B6BC4d6",
 	"symbol": "ICHI",
 	"name": "ICHI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/13119/thumb/ICHI_%28Round%29.jpg?1696512907",
 	"coingecko": "ichi-farm",
 	"sources": [
 		"coingecko"

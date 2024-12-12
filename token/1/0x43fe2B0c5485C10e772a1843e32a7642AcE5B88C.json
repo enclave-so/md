@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x43fe2B0c5485C10e772a1843e32a7642AcE5B88C",
-	"symbol": "Red Pill",
+	"symbol": "RPILL",
 	"name": "Red Pill",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/33896/thumb/2023-12-21_07.20.32.jpg?1703233932",
 	"coingecko": "red-pill-2",
 	"sources": [
 		"coingecko"

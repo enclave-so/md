@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x0B9aE6b1D4f0EEeD904D1CEF68b9bd47499f3fFF",
-	"symbol": "IlluminatiCoin",
+	"symbol": "NATI",
 	"name": "IlluminatiCoin",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/32399/thumb/CMCIcon.png?1698055172",
 	"coingecko": "illuminaticoin",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x0FD3822072ad001aac1c90A09d9506f097F24458",
-	"symbol": "NOA PLAY",
+	"symbol": "NOA",
 	"name": "NOA PLAY",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/15723/thumb/XHFjmBTx_400x400.png?1696515350",
 	"coingecko": "noa-play",
 	"sources": [
 		"coingecko"

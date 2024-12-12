@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x20a8CEC5fffea65Be7122BCaB2FFe32ED4Ebf03a",
-	"symbol": "DinoX",
+	"symbol": "DNXC",
 	"name": "DinoX",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/17321/thumb/asset_icon_dnxc_200.png?1696516875",
 	"coingecko": "dinox",
 	"sources": [
 		"coingecko"

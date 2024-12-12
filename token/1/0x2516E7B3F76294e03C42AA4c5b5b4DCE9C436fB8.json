@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x2516E7B3F76294e03C42AA4c5b5b4DCE9C436fB8",
-	"symbol": "Aave v3 BAL",
+	"symbol": "ABAL",
 	"name": "Aave v3 BAL",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/32903/thumb/BAL_%281%29.png?1699802595",
 	"coingecko": "aave-v3-bal",
 	"sources": [
 		"coingecko"

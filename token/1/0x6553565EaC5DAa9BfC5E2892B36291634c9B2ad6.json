@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x6553565EaC5DAa9BfC5E2892B36291634c9B2ad6",
-	"symbol": "Rake.com",
-	"name": "Rake.com",
+	"symbol": "RAKE",
+	"name": "Rake com",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/33791/thumb/rake_200x200.png?1702988861",
 	"coingecko": "rake-com",
 	"sources": [
 		"coingecko"

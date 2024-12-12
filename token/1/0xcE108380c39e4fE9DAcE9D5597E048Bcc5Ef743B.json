@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xcE108380c39e4fE9DAcE9D5597E048Bcc5Ef743B",
-	"symbol": "Blueshift",
+	"symbol": "BLUES",
 	"name": "Blueshift",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/25028/thumb/blues_token_200_200.png?1696524180",
 	"coingecko": "blueshift",
 	"sources": [
 		"coingecko"

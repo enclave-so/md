@@ -1,10 +1,13 @@
 {
 	"chain": 8453,
 	"address": "0x076Bf099C7aaBd0BC9bC37930113428906F51d89",
-	"symbol": "DEFLI",
+	"symbol": "FLI",
 	"name": "DEFLI",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/FLI/logo.svg",
 	"coingecko": "defli",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

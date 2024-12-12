@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x226d6d842D49b4D757bEf1632053a198D5D9c8aA",
-	"symbol": "Block Browser",
+	"symbol": "BLOCK",
 	"name": "Block Browser",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31538/thumb/photo_2023-08-29_01-46-11.jpg?1696530347",
 	"coingecko": "block-browser",
 	"sources": [
 		"coingecko"

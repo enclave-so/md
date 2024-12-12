@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xAaEf88cEa01475125522e117BFe45cF32044E238",
-	"symbol": "GuildFi",
+	"symbol": "GF",
 	"name": "GuildFi",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/20933/thumb/guildfi-logo-200.png?1696520322",
 	"coingecko": "guildfi",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xA696a63cc78DfFa1a63E9E50587C197387FF6C7E",
-	"symbol": "WBTC yVault",
+	"symbol": "YVWBTC",
 	"name": "WBTC yVault",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/28796/thumb/yvWBTC-128-0xA696a63cc78DfFa1a63E9E50587C197387FF6C7E.png?1696527774",
 	"coingecko": "wbtc-yvault",
 	"sources": [
 		"coingecko"

@@ -1,0 +1,11 @@
+{
+	"chain": 56,
+	"address": "0x1D1eb8E8293222e1a29d2C0E4cE6C0Acfd89AaaC",
+	"symbol": "HAKKA",
+	"name": "Hakka Finance",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x1D1eb8E8293222e1a29d2C0E4cE6C0Acfd89AaaC.png",
+	"sources": [
+		"pancakeswap"
+	]
+}

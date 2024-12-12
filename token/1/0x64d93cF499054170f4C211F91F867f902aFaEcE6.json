@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x64d93cF499054170f4C211F91F867f902aFaEcE6",
-	"symbol": "Quant AI",
+	"symbol": "QAI",
 	"name": "Quant AI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/36987/thumb/pepethedev_minimalistic_and_modern_logo_futuristic_fintech_purp.png?1714928548",
 	"coingecko": "quant-ai",
 	"sources": [
 		"coingecko"

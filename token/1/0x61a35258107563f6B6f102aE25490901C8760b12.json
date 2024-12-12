@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x61a35258107563f6B6f102aE25490901C8760b12",
-	"symbol": "Kitty Inu",
+	"symbol": "KITTY",
 	"name": "Kitty Inu",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/19385/thumb/KITTY.png?1696518825",
 	"coingecko": "kitty-inu",
 	"sources": [
 		"coingecko"

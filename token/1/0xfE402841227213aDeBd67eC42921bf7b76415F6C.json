@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xfE402841227213aDeBd67eC42921bf7b76415F6C",
-	"symbol": "GoLondon",
+	"symbol": "GOLDN",
 	"name": "GoLondon",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/50887/thumb/GoLondon.png?1729501232",
 	"coingecko": "golondon",
 	"sources": [
 		"coingecko"

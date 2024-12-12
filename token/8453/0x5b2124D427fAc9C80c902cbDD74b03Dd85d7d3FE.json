@@ -1,10 +1,13 @@
 {
 	"chain": 8453,
 	"address": "0x5b2124D427fAc9C80c902cbDD74b03Dd85d7d3FE",
-	"symbol": "Dypius",
+	"symbol": "DYP",
 	"name": "Dypius",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/DYP/logo.png",
 	"coingecko": "dypius",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

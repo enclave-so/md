@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x3540abE4f288B280A0740ad5121aEc337c404D15",
-	"symbol": "TPRO Network",
+	"symbol": "TPRO",
 	"name": "TPRO Network",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/26694/thumb/tpro-logo-200x200.png?1712870769",
 	"coingecko": "tpro",
 	"sources": [
 		"coingecko"

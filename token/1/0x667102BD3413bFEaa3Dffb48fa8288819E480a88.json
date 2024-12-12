@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x667102BD3413bFEaa3Dffb48fa8288819E480a88",
-	"symbol": "Tokenize Xchange",
+	"symbol": "TKX",
 	"name": "Tokenize Xchange",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/4984/thumb/TKX_-_Logo_-_RGB-15.png?1696505519",
 	"coingecko": "tokenize-xchange",
 	"sources": [
 		"coingecko"

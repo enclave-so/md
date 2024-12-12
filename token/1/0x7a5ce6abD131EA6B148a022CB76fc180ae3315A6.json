@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x7a5ce6abD131EA6B148a022CB76fc180ae3315A6",
-	"symbol": "bAlpha",
+	"symbol": "BALPHA",
 	"name": "bAlpha",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14224/thumb/logo_bAlpha_200.png?1696513939",
 	"coingecko": "balpha",
 	"sources": [
 		"coingecko"

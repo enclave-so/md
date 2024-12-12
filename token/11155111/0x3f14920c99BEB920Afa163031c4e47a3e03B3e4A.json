@@ -1,0 +1,10 @@
+{
+	"chain": 11155111,
+	"address": "0x3f14920c99BEB920Afa163031c4e47a3e03B3e4A",
+	"symbol": "send",
+	"name": "Send Token",
+	"logo": "https://ethereum-optimism.github.io/data/send/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

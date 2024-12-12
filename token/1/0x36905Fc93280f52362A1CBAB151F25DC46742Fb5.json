@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x36905Fc93280f52362A1CBAB151F25DC46742Fb5",
-	"symbol": "Bottos",
+	"symbol": "BTO",
 	"name": "Bottos",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/2048/thumb/bottos.png?1696503016",
 	"coingecko": "bottos",
 	"sources": [
 		"coingecko"

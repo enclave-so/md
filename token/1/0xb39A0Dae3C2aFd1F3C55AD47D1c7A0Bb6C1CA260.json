@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xb39A0Dae3C2aFd1F3C55AD47D1c7A0Bb6C1CA260",
-	"symbol": "Unreal AI",
+	"symbol": "UNREAL",
 	"name": "Unreal AI",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/39988/thumb/IMG_20240829_211938_645.jpg?1725028076",
 	"coingecko": "unreal-ai",
 	"sources": [
 		"coingecko"

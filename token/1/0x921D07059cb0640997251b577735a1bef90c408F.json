@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x921D07059cb0640997251b577735a1bef90c408F",
-	"symbol": "FOMO.bond",
-	"name": "FOMO.bond",
+	"symbol": "FOMO",
+	"name": "FOMO bond",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/50210/thumb/9ad572c9-25ad-4724-8f0e-0ccb48f25fe5.png?1726413262",
 	"coingecko": "fomo-bond",
 	"sources": [
 		"coingecko"

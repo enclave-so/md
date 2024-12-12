@@ -3,6 +3,8 @@
 	"address": "0x8E456c9E283aaa67b2164FEae82d3E2082687d94",
 	"symbol": "DIOM",
 	"name": "DIOM",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/52364/thumb/1000001756.jpg?1733199673",
 	"coingecko": "diom",
 	"sources": [
 		"coingecko"

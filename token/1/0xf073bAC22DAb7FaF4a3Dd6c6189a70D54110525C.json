@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xf073bAC22DAb7FaF4a3Dd6c6189a70D54110525C",
-	"symbol": "Inception Restaked ETH",
+	"symbol": "INETH",
 	"name": "Inception Restaked ETH",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/34127/thumb/inETH.png?1715036464",
 	"coingecko": "genesislrt-restaked-eth",
 	"sources": [
 		"coingecko"

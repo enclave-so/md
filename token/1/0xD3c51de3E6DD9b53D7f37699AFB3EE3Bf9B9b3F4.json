@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xD3c51de3E6DD9b53D7f37699AFB3EE3Bf9B9b3F4",
-	"symbol": "MContent",
+	"symbol": "MCONTENT",
 	"name": "MContent",
+	"decimals": 6,
+	"logo": "https://assets.coingecko.com/coins/images/16781/thumb/Image_mcontent.jpeg?1696516353",
 	"coingecko": "mcontent",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x89Fb927240750c1B15d4743cd58440fc5f14A11C",
-	"symbol": "Attila",
+	"symbol": "ATT",
 	"name": "Attila",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/11337/thumb/LOGO_%2874%29.png?1696511258",
 	"coingecko": "attila",
 	"sources": [
 		"coingecko"

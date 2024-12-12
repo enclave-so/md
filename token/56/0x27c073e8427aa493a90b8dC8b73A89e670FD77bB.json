@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0x27c073e8427aa493a90b8dC8b73A89e670FD77bB",
-	"symbol": "Radpie",
+	"symbol": "RDP",
 	"name": "Radpie",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x27c073e8427aa493a90b8dC8b73A89e670FD77bB.png",
 	"coingecko": "radpie",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

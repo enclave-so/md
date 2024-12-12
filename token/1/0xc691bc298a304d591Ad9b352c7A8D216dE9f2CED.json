@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xc691bc298a304d591Ad9b352c7A8D216dE9f2CED",
-	"symbol": "Polaris Share",
+	"symbol": "POLA",
 	"name": "Polaris Share",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/13817/thumb/tHQrxdYQ_400x400.png?1696513563",
 	"coingecko": "polaris-share",
 	"sources": [
 		"coingecko"

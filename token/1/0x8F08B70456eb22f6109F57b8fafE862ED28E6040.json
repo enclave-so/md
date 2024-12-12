@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x8F08B70456eb22f6109F57b8fafE862ED28E6040",
-	"symbol": "LRT Squared",
+	"symbol": "LRT2",
 	"name": "LRT Squared",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/51041/thumb/LRT2-200x200.png?1729826728",
 	"coingecko": "lrt-squared",
 	"sources": [
 		"coingecko"

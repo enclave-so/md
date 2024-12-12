@@ -3,6 +3,8 @@
 	"address": "0x3D3af44cf092a49280e316f09c8f20ecf97BC933",
 	"symbol": "UCX",
 	"name": "UCX",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/10131/thumb/UCX_200200.png?1696510155",
 	"coingecko": "ucx",
 	"sources": [
 		"coingecko"

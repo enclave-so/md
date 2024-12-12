@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x0c93B616933b0CD03B201b29Cd8a22681DD9E0d9",
-	"symbol": "HollyGold",
+	"symbol": "HGOLD",
 	"name": "HollyGold",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/13652/thumb/QnfGCea3aO_Qb-Gd9n6MSFE_eBVAr87WPoxAzf0gKdcGOEL4K5J6A5cpGinzLvHclj_UHkCnw9XTlGoNYd0H8T_Ebe8voLS49MAZO2NIknCxytaYFtt5_u12RQg-kpmWHcETzAFlDgk9iNXAL-88fB_l-DRi8WEsgSJzXXjztKzQlpXuET6d4_98pykED6uyq1-4PMVg05P7tUN.jpg?1696513401",
 	"coingecko": "hollygold",
 	"sources": [
 		"coingecko"

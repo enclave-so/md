@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x43fD147d5319B8Cf39a6e57143684Efca9CF3613",
-	"symbol": "Re7 tBTC",
+	"symbol": "RE7TBTC",
 	"name": "Re7 tBTC",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/51508/thumb/26133.png?1731434284",
 	"coingecko": "re7-tbtc",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x1bA9843bD4327c6c77011406dE5fA8749F7E3479",
-	"symbol": "Aave v3 STG",
+	"symbol": "ASTG",
 	"name": "Aave v3 STG",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/32905/thumb/ST.png?1699803503",
 	"coingecko": "aave-v3-stg",
 	"sources": [
 		"coingecko"

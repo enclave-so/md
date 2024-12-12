@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0x441761326490cACF7aF299725B6292597EE822c2",
-	"symbol": "Unifi Protocol DAO",
+	"symbol": "UNFI",
 	"name": "Unifi Protocol DAO",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/13152/thumb/logo-2.png?1605748967",
 	"coingecko": "unifi-protocol-dao",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"uniswap"
 	]
 }

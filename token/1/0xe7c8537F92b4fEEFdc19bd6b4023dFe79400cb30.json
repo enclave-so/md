@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xe7c8537F92b4fEEFdc19bd6b4023dFe79400cb30",
-	"symbol": "Bones",
+	"symbol": "BONES",
 	"name": "Bones",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/32232/thumb/IMG_20231008_075551_623_%281%29.jpg?1696936788",
 	"coingecko": "bones",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xDc0327D50E6C73db2F8117760592C8BBf1CDCF38",
-	"symbol": "Stronger",
+	"symbol": "STRNGR",
 	"name": "Stronger",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/24922/thumb/200x200_logo.png?1696524078",
 	"coingecko": "stronger",
 	"sources": [
 		"coingecko"

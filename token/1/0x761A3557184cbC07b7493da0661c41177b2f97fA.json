@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0x761A3557184cbC07b7493da0661c41177b2f97fA",
-	"symbol": "ValleyDAO",
+	"symbol": "GROW",
 	"name": "ValleyDAO",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/32991/thumb/VD_logo_round_200x200.png?1733563659",
 	"coingecko": "valleydao",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

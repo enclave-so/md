@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xaB93dF617F51E1E415b5b4f8111f122d6b48e55C",
-	"symbol": "Delta Exchange",
+	"symbol": "DETO",
 	"name": "Delta Exchange",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14610/thumb/deto-logo.png?1696514288",
 	"coingecko": "delta-exchange-token",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x520140D71129434635899ecA07f845bb23B27987",
-	"symbol": "Virtu Network",
+	"symbol": "VIRTU",
 	"name": "Virtu Network",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/51643/thumb/IMG_1593.jpeg?1731691465",
 	"coingecko": "virtu-network",
 	"sources": [
 		"coingecko"

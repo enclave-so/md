@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xE1BA0FB44CCb0D11b80F92f4f8Ed94CA3fF51D00",
-	"symbol": "Aave BAT v1",
+	"symbol": "ABAT",
 	"name": "Aave BAT v1",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/11726/thumb/aBAT.png?1696511608",
 	"coingecko": "aave-bat-v1",
 	"sources": [
 		"coingecko"

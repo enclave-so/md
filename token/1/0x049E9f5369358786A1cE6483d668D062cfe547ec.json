@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x049E9f5369358786A1cE6483d668D062cfe547ec",
-	"symbol": "Checks Token",
+	"symbol": "CHECKS",
 	"name": "Checks Token",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30367/thumb/checkstoken-200x200.png?1696529264",
 	"coingecko": "checks-token",
 	"sources": [
 		"coingecko"

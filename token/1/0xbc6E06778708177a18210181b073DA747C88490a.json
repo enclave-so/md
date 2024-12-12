@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xbc6E06778708177a18210181b073DA747C88490a",
-	"symbol": "MOBLAND",
+	"symbol": "SYNR",
 	"name": "MOBLAND",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/22868/thumb/FullML_Yellow_200px.png?1696522168",
 	"coingecko": "syndicate-2",
 	"sources": [
 		"coingecko"

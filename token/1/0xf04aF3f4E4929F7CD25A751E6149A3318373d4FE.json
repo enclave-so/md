@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xf04aF3f4E4929F7CD25A751E6149A3318373d4FE",
-	"symbol": "Spring Token",
+	"symbol": "SPRING",
 	"name": "Spring Token",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/25364/thumb/spring.png?1696524497",
 	"coingecko": "spring",
 	"sources": [
 		"coingecko"

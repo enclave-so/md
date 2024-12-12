@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x7B7983967409Fce461EA8bbDF9ED37631b1d59C9",
-	"symbol": "KPOP Coin",
+	"symbol": "KPOP",
 	"name": "KPOP Coin",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/15923/thumb/kpop.PNG?1696515536",
 	"coingecko": "kpop-coin",
 	"sources": [
 		"coingecko"

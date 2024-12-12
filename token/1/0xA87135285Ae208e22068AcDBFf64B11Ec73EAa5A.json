@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xA87135285Ae208e22068AcDBFf64B11Ec73EAa5A",
-	"symbol": "LunarCrush",
+	"symbol": "LUNR",
 	"name": "LunarCrush",
+	"decimals": 4,
+	"logo": "https://assets.coingecko.com/coins/images/19256/thumb/LunarCrush-Earn-Logo.png?1708183703",
 	"coingecko": "lunr-token",
 	"sources": [
 		"coingecko"

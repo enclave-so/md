@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xda31D0d1Bc934fC34F7189E38A413ca0A5e8b44F",
-	"symbol": "BitStable Finance",
+	"symbol": "BSSB",
 	"name": "BitStable Finance",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/33545/thumb/07LKCLMU_400x400.jpg?1705046428",
 	"coingecko": "bitstable-finance",
 	"sources": [
 		"coingecko"

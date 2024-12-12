@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x2F3d0d2317802A65FAAC6e4cd94067c37B4d4804",
-	"symbol": "DECENTRACARD",
+	"symbol": "DCARD",
 	"name": "DECENTRACARD",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/34533/thumb/DC_Logo_5_200x200.png?1705323804",
 	"coingecko": "decentracard",
 	"sources": [
 		"coingecko"

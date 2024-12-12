@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0x0a5E677a6A24b2F1A2Bf4F3bFfC443231d2fDEc8",
-	"symbol": "dForce USD",
+	"symbol": "USX",
 	"name": "dForce USD",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/17422/thumb/usx_32.png?1696516969",
 	"coingecko": "token-dforce-usd",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

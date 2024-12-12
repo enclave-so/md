@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x23f3D4625AEF6f0b84d50dB1d53516e6015c0c9B",
-	"symbol": "Thetanuts Finance",
+	"symbol": "NUTS",
 	"name": "Thetanuts Finance",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/33021/thumb/Thetanuts_Profile_Green.png?1700208652",
 	"coingecko": "thetanuts-finance",
 	"sources": [
 		"coingecko"

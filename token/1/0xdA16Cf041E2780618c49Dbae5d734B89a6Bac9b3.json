@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xdA16Cf041E2780618c49Dbae5d734B89a6Bac9b3",
-	"symbol": "Betswap.gg",
-	"name": "Betswap.gg",
+	"symbol": "BSGG",
+	"name": "Betswap gg",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/22496/thumb/BSGG_Token_Updated.png?1706248804",
 	"coingecko": "betswap-gg",
 	"sources": [
 		"coingecko"

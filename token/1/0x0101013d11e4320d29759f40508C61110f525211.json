@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x0101013d11e4320d29759f40508C61110f525211",
-	"symbol": "Beer Frog",
+	"symbol": "FROG",
 	"name": "Beer Frog",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/50730/thumb/BeerFrog-avatar.jpg?1728915239",
 	"coingecko": "beer-frog",
 	"sources": [
 		"coingecko"

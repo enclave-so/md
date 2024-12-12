@@ -1,10 +1,13 @@
 {
 	"chain": 10,
 	"address": "0x9560e827aF36c94D2Ac33a39bCE1Fe78631088Db",
-	"symbol": "Velodrome Finance",
+	"symbol": "VELO",
 	"name": "Velodrome Finance",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/12538/standard/Logo_200x_200.png?1696512350",
 	"coingecko": "velodrome-finance",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"uniswap"
 	]
 }

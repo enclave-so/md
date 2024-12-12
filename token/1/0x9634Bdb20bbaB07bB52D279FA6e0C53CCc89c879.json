@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x9634Bdb20bbaB07bB52D279FA6e0C53CCc89c879",
-	"symbol": "Pepega",
+	"symbol": "PEPEGA",
 	"name": "Pepega",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/38225/thumb/pepega_logo.png?1716827655",
 	"coingecko": "pepega",
 	"sources": [
 		"coingecko"

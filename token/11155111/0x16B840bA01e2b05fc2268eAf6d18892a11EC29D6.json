@@ -1,0 +1,11 @@
+{
+	"chain": 11155111,
+	"address": "0x16B840bA01e2b05fc2268eAf6d18892a11EC29D6",
+	"symbol": "LSK",
+	"name": "Lisk",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/LSK/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

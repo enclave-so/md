@@ -1,10 +1,14 @@
 {
 	"chain": 1,
 	"address": "0xDe30da39c46104798bB5aA3fe8B9e0e1F348163F",
-	"symbol": "Gitcoin",
+	"symbol": "GTC",
 	"name": "Gitcoin",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/15810/thumb/gitcoin.png?1621992929",
 	"coingecko": "gitcoin",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism",
+		"uniswap"
 	]
 }

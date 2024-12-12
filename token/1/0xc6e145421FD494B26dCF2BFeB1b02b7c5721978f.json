@@ -1,10 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xc6e145421FD494B26dCF2BFeB1b02b7c5721978f",
-	"symbol": "CRPX",
+	"symbol": "CPRX",
 	"name": "Crypto Perx",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xc6e145421FD494B26dCF2BFeB1b02b7c5721978f/logo.png",
+	"logo": "https://assets.coingecko.com/coins/images/20768/thumb/8iQSd5YY_400x400.jpg?1696520162",
 	"coingecko": "crypto-perx",
 	"sources": [
 		"coingecko",

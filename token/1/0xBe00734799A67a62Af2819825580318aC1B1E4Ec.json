@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xBe00734799A67a62Af2819825580318aC1B1E4Ec",
-	"symbol": "ordinex",
+	"symbol": "ORD",
 	"name": "ordinex",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/29084/thumb/tw-logo%281%29.png?1696528048",
 	"coingecko": "ordinex",
 	"sources": [
 		"coingecko"

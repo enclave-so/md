@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xaeF420fd77477d9Dc8B46D704D44dD09d6c27866",
-	"symbol": "Cogito Finance",
+	"symbol": "CGV",
 	"name": "Cogito Finance",
+	"decimals": 6,
+	"logo": "https://assets.coingecko.com/coins/images/30731/thumb/CGV.png?1698667079",
 	"coingecko": "cogito-protocol",
 	"sources": [
 		"coingecko"

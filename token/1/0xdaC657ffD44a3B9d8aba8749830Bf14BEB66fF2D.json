@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xdaC657ffD44a3B9d8aba8749830Bf14BEB66fF2D",
-	"symbol": "humanDAO",
+	"symbol": "HDAO",
 	"name": "humanDAO",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/21138/thumb/Untitled-2.jpg?1696520516",
 	"coingecko": "humandao",
 	"sources": [
 		"coingecko"

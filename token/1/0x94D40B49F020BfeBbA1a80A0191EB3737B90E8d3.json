@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x94D40B49F020BfeBbA1a80A0191EB3737B90E8d3",
-	"symbol": "Mintera",
+	"symbol": "MNTE",
 	"name": "Mintera",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/28774/thumb/Mintera_Logo_CoinGecko.png?1696527753",
 	"coingecko": "mintera",
 	"sources": [
 		"coingecko"

@@ -1,0 +1,11 @@
+{
+	"chain": 8453,
+	"address": "0xc4D4FD4F4459730d176844c170F2bB323c87Eb3B",
+	"symbol": "0xBTC",
+	"name": "0xBitcoin",
+	"decimals": 8,
+	"logo": "https://ethereum-optimism.github.io/data/0xBTC/logo.png",
+	"sources": [
+		"optimism"
+	]
+}

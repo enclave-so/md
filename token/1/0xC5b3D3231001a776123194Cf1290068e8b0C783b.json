@@ -3,6 +3,8 @@
 	"address": "0xC5b3D3231001a776123194Cf1290068e8b0C783b",
 	"symbol": "LIT",
 	"name": "LIT",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/21344/thumb/LitLogo_CG.png?1696520710",
 	"coingecko": "lit",
 	"sources": [
 		"coingecko"

@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0x516f8a1fB458EBdcFd0F544fF85c69C1c0Ebc31d",
-	"symbol": "Shieldeum",
+	"symbol": "SDM",
 	"name": "Shieldeum",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x516f8a1fB458EBdcFd0F544fF85c69C1c0Ebc31d.png",
 	"coingecko": "shieldeum",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

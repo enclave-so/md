@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x21381e026Ad6d8266244f2A583b35F9E4413FA2a",
-	"symbol": "Formation FI",
+	"symbol": "FORM",
 	"name": "Formation FI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/16145/thumb/FORM.png?1696515750",
 	"coingecko": "formation-fi",
 	"sources": [
 		"coingecko"

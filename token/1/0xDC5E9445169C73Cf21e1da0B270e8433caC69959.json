@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xDC5E9445169C73Cf21e1da0B270e8433caC69959",
-	"symbol": "Ketaicoin",
+	"symbol": "ETHEREUM",
 	"name": "Ketaicoin",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/31326/thumb/photo_2023-08-15_21-35-43.jpg?1696530145",
 	"coingecko": "ketaicoin",
 	"sources": [
 		"coingecko"

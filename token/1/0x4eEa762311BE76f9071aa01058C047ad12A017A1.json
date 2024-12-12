@@ -3,6 +3,8 @@
 	"address": "0x4eEa762311BE76f9071aa01058C047ad12A017A1",
 	"symbol": "GBURN",
 	"name": "GBURN",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/33048/thumb/Untitled_design_-_2023-11-10T174143.724.png?1700472805",
 	"coingecko": "grovecoin-gburn",
 	"sources": [
 		"coingecko"

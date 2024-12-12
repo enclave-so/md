@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x2E3CFE45E3EE7C017277f22e35d2f29edC99d570",
-	"symbol": "Wrapped DAG",
+	"symbol": "WDAG",
 	"name": "Wrapped DAG",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/39576/thumb/Constellation_Network_Logo.png?1723003801",
 	"coingecko": "wrapped-dag",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x15FA5d3DBD11a831b72B92C1705BC9F801E233CB",
-	"symbol": "PointPay",
+	"symbol": "PXP",
 	"name": "PointPay",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/37084/thumb/pointpay-removebg-preview.png?1713253076",
 	"coingecko": "pointpay-2",
 	"sources": [
 		"coingecko"

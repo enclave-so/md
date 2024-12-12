@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x8dB4beACcd1698892821a9a0Dc367792c0cB9940",
-	"symbol": "Ignore Fud",
+	"symbol": "4TOKEN",
 	"name": "Ignore Fud",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/29626/thumb/200x200.png?1696528562",
 	"coingecko": "ignore-fud",
 	"sources": [
 		"coingecko"

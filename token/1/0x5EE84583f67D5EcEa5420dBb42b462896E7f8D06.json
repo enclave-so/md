@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x5EE84583f67D5EcEa5420dBb42b462896E7f8D06",
-	"symbol": "PulseBitcoin",
+	"symbol": "PLSB",
 	"name": "PulseBitcoin",
+	"decimals": 12,
+	"logo": "https://assets.coingecko.com/coins/images/28690/thumb/%E2%82%BF.png?1696527673",
 	"coingecko": "pulsebitcoin",
 	"sources": [
 		"coingecko"

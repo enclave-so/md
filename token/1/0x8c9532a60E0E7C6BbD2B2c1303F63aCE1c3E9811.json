@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x8c9532a60E0E7C6BbD2B2c1303F63aCE1c3E9811",
-	"symbol": "Renzo Restaked LST",
+	"symbol": "PZETH",
 	"name": "Renzo Restaked LST",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/39124/thumb/200x200.png?1720629607",
 	"coingecko": "renzo-restaked-lst",
 	"sources": [
 		"coingecko"

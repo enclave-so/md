@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xDe466831fdE62e5141d49BA9d962D3fa3fAe466F",
-	"symbol": "DystoWorld AI",
+	"symbol": "DYSTO",
 	"name": "DystoWorld AI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/38955/thumb/dystotoken.jpg?1719689845",
 	"coingecko": "dystoworld-ai",
 	"sources": [
 		"coingecko"

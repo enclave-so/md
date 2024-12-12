@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x3300b02efa180c99a2F61f4731665b51e4E254C4",
-	"symbol": "Hitmakr",
+	"symbol": "HMKR",
 	"name": "Hitmakr",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/36660/thumb/HITMAKR_logo.png?1712042884",
 	"coingecko": "hitmakr",
 	"sources": [
 		"coingecko"

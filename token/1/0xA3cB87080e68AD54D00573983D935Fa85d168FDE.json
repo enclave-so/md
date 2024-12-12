@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xA3cB87080e68AD54D00573983D935Fa85d168FDE",
-	"symbol": "InfinityBit Token",
+	"symbol": "IBIT",
 	"name": "InfinityBit Token",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/31562/thumb/ibit-200x200cg.png?1696530375",
 	"coingecko": "infinitybit-token",
 	"sources": [
 		"coingecko"

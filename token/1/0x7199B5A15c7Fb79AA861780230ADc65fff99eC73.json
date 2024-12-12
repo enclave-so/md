@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x7199B5A15c7Fb79AA861780230ADc65fff99eC73",
-	"symbol": "0xAnon",
+	"symbol": "0XANON",
 	"name": "0xAnon",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/32836/thumb/IMG_20231108_161217_519.jpg?1699587007",
 	"coingecko": "0xanon",
 	"sources": [
 		"coingecko"

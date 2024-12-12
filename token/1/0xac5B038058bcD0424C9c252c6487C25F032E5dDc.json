@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xac5B038058bcD0424C9c252c6487C25F032E5dDc",
-	"symbol": "EpiK Protocol",
+	"symbol": "AIEPK",
 	"name": "EpiK Protocol",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/15188/thumb/AIEPK_logo.png?1696514845",
 	"coingecko": "epik-protocol",
 	"sources": [
 		"coingecko"

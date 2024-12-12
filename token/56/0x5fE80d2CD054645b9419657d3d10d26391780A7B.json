@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0x5fE80d2CD054645b9419657d3d10d26391780A7B",
-	"symbol": "MUX Protocol",
-	"name": "MUX Protocol",
+	"symbol": "MCB",
+	"name": "MCDEX",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x5fE80d2CD054645b9419657d3d10d26391780A7B.png",
 	"coingecko": "mcdex",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

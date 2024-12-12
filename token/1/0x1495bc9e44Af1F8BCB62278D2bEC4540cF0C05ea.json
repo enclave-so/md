@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x1495bc9e44Af1F8BCB62278D2bEC4540cF0C05ea",
-	"symbol": "Zero1 Labs",
+	"symbol": "DEAI",
 	"name": "Zero1 Labs",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/36315/thumb/512x512-xion-ava03.png?1711092111",
 	"coingecko": "zero1-labs",
 	"sources": [
 		"coingecko"

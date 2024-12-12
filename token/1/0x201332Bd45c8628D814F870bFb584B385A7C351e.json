@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x201332Bd45c8628D814F870bFb584B385A7C351e",
-	"symbol": "Astra Protocol",
+	"symbol": "ASTRA",
 	"name": "Astra Protocol",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/24083/thumb/1dd4988b-5fcc-4646-b38d-aba2461ff12c.jpeg?1728586626",
 	"coingecko": "astra-protocol-2",
 	"sources": [
 		"coingecko"

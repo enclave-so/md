@@ -1,110 +1,20 @@
 [
 	{
 		"chain": 1313161554,
-		"address": "0x7cA1C28663b76CFDe424A9494555B94846205585",
-		"symbol": "Chronicle",
-		"name": "Chronicle",
-		"coingecko": "chronicle",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 1313161554,
-		"address": "0x72F9FedEF0fB0fC8dB22453b692F7D5A17B98A66",
-		"symbol": "DeBio Network",
-		"name": "DeBio Network",
-		"coingecko": "debio-network",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 1313161554,
-		"address": "0xea62791aa682d455614eaA2A12Ba3d9A2fD197af",
-		"symbol": "Flux Protocol",
-		"name": "Flux Protocol",
-		"coingecko": "flux-token",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 1313161554,
-		"address": "0xdcD6D4e2B3e1D1E1E6Fa8C21C8A323DcbecfF970",
-		"symbol": "Rose",
-		"name": "Rose",
-		"coingecko": "rose",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 1313161554,
-		"address": "0x7faA64Faf54750a2E3eE621166635fEAF406Ab22",
-		"symbol": "WannaSwap",
-		"name": "WannaSwap",
-		"coingecko": "wannaswap",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 1313161554,
-		"address": "0xC4bdd27c33ec7daa6fcfd8532ddB524Bf4038096",
-		"symbol": "Wrapped Terra Classic",
-		"name": "Wrapped Terra Classic",
-		"coingecko": "wrapped-terra",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 1313161554,
-		"address": "0xC9BdeEd33CD01541e1eeD10f90519d2C06Fe3feB",
-		"symbol": "Bridged WETH",
-		"name": "Bridged WETH",
-		"coingecko": "bridged-weth",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 1313161554,
-		"address": "0x07F9F7f963C5cD2BBFFd30CcfB964Be114332E30",
-		"symbol": "Staked NEAR",
-		"name": "Staked NEAR",
-		"coingecko": "staked-near",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 1313161554,
-		"address": "0x5172c657BcB6a8331Cec033369b20c789aCB9940",
-		"symbol": "UWON",
-		"name": "UWON",
-		"coingecko": "uwon",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 1313161554,
-		"address": "0x291C8FCeAcA3342B29CC36171DEB98106f712C66",
-		"symbol": "Pickle Finance",
-		"name": "Pickle Finance",
-		"coingecko": "pickle-finance",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 1313161554,
 		"address": "0x09C9D464b58d96837f8d8b6f4d9fE4aD408d3A4f",
 		"symbol": "Aurigami",
 		"name": "Aurigami",
 		"coingecko": "aurigami",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1313161554,
+		"address": "0x990e50E781004EA75e2bA3A67eB69c0B1cD6e3A6",
+		"symbol": "pNEAR",
+		"name": "pNEAR",
+		"coingecko": "pnear",
 		"sources": [
 			"coingecko"
 		]
@@ -131,30 +41,10 @@
 	},
 	{
 		"chain": 1313161554,
-		"address": "0x918dBe087040A41b786f0Da83190c293DAe24749",
-		"symbol": "LiNEAR Protocol Staked NEAR",
-		"name": "LiNEAR Protocol Staked NEAR",
-		"coingecko": "linear-protocol",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 1313161554,
-		"address": "0xdFA46478F9e5EA86d57387849598dbFB2e964b02",
-		"symbol": "MAI",
-		"name": "MAI",
-		"coingecko": "mimatic",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 1313161554,
-		"address": "0x5ce9F0B6AFb36135b5ddBF11705cEB65E634A9dC",
-		"symbol": "Wrapped USTC",
-		"name": "Wrapped USTC",
-		"coingecko": "wrapped-ust",
+		"address": "0x0017Be3E7e36ABF49FE67a78D08bf465bB755120",
+		"symbol": "AmaterasuFi Izanagi",
+		"name": "AmaterasuFi Izanagi",
+		"coingecko": "amaterasufi-izanagi",
 		"sources": [
 			"coingecko"
 		]
@@ -171,110 +61,20 @@
 	},
 	{
 		"chain": 1313161554,
-		"address": "0xe62233aeAEd9b9Ea007704262E15445E0D756C0B",
-		"symbol": "Coreto",
-		"name": "Coreto",
-		"coingecko": "coreto",
+		"address": "0xC9BdeEd33CD01541e1eeD10f90519d2C06Fe3feB",
+		"symbol": "Bridged WETH",
+		"name": "Bridged WETH",
+		"coingecko": "bridged-weth",
 		"sources": [
 			"coingecko"
 		]
 	},
 	{
 		"chain": 1313161554,
-		"address": "0xe301eD8C7630C9678c39E4E45193D1e7Dfb914f7",
-		"symbol": "DODO",
-		"name": "DODO",
-		"coingecko": "dodo",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 1313161554,
-		"address": "0x990e50E781004EA75e2bA3A67eB69c0B1cD6e3A6",
-		"symbol": "pNEAR",
-		"name": "pNEAR",
-		"coingecko": "pnear",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 1313161554,
-		"address": "0x9D6fc90b25976E40adaD5A3EdD08af9ed7a21729",
-		"symbol": "Polar Shares",
-		"name": "Polar Shares",
-		"coingecko": "polar-shares",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 1313161554,
-		"address": "0xF4eB217Ba2454613b15dBdea6e5f22276410e89e",
-		"symbol": "Rainbow Bridged WBTC (Aurora)",
-		"name": "Rainbow Bridged WBTC (Aurora)",
-		"coingecko": "rainbow-bridged-wbtc-aurora",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 1313161554,
-		"address": "0x7aa1a72f744Cdcd4c89918AEBFbe4F1d1D1156E6",
-		"symbol": "UTU Coin",
-		"name": "UTU Coin",
-		"coingecko": "utu-coin",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 1313161554,
-		"address": "0x2BAe00C8BC1868a5F7a216E881Bae9e662630111",
-		"symbol": "Allbridge",
-		"name": "Allbridge",
-		"coingecko": "allbridge",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 1313161554,
-		"address": "0x8BEc47865aDe3B172A928df8f990Bc7f2A3b9f79",
-		"symbol": "Aurora",
-		"name": "Aurora",
-		"coingecko": "aurora-near",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 1313161554,
-		"address": "0x12c87331f086c3C926248f964f8702C0842Fd77F",
-		"symbol": "Borealis",
-		"name": "Borealis",
-		"coingecko": "borealis",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 1313161554,
-		"address": "0x06aEBB0f3D9eBe9829E1B67bD3dd608F711D3412",
-		"symbol": "NEARStarter",
-		"name": "NEARStarter",
-		"coingecko": "nearstarter",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 1313161554,
-		"address": "0xFa94348467f64D5A457F75F8bc40495D33c65aBB",
-		"symbol": "Trisolaris",
-		"name": "Trisolaris",
-		"coingecko": "trisolaris",
+		"address": "0x918dBe087040A41b786f0Da83190c293DAe24749",
+		"symbol": "LiNEAR Protocol Staked NEAR",
+		"name": "LiNEAR Protocol Staked NEAR",
+		"coingecko": "linear-protocol",
 		"sources": [
 			"coingecko"
 		]
@@ -291,30 +91,30 @@
 	},
 	{
 		"chain": 1313161554,
-		"address": "0x7EA2be2df7BA6E54B1A9C70676f668455E329d29",
-		"symbol": "0xMonero",
-		"name": "0xMonero",
-		"coingecko": "0xmonero",
+		"address": "0xe62233aeAEd9b9Ea007704262E15445E0D756C0B",
+		"symbol": "Coreto",
+		"name": "Coreto",
+		"coingecko": "coreto",
 		"sources": [
 			"coingecko"
 		]
 	},
 	{
 		"chain": 1313161554,
-		"address": "0xe3520349F477A5F6EB06107066048508498A291b",
-		"symbol": "Rainbow Bridged DAI (Aurora)",
-		"name": "Rainbow Bridged DAI (Aurora)",
-		"coingecko": "rainbow-bridged-dai-aurora",
+		"address": "0xea62791aa682d455614eaA2A12Ba3d9A2fD197af",
+		"symbol": "Flux Protocol",
+		"name": "Flux Protocol",
+		"coingecko": "flux-token",
 		"sources": [
 			"coingecko"
 		]
 	},
 	{
 		"chain": 1313161554,
-		"address": "0xA1fC14bC890a98142443B7ABc0Eeccae6186cd9a",
-		"symbol": "Router Protocol [OLD]",
-		"name": "Router Protocol [OLD]",
-		"coingecko": "route",
+		"address": "0x07F9F7f963C5cD2BBFFd30CcfB964Be114332E30",
+		"symbol": "Staked NEAR",
+		"name": "Staked NEAR",
+		"coingecko": "staked-near",
 		"sources": [
 			"coingecko"
 		]
@@ -331,10 +131,50 @@
 	},
 	{
 		"chain": 1313161554,
-		"address": "0x0017Be3E7e36ABF49FE67a78D08bf465bB755120",
-		"symbol": "AmaterasuFi Izanagi",
-		"name": "AmaterasuFi Izanagi",
-		"coingecko": "amaterasufi-izanagi",
+		"address": "0xC4bdd27c33ec7daa6fcfd8532ddB524Bf4038096",
+		"symbol": "Wrapped Terra Classic",
+		"name": "Wrapped Terra Classic",
+		"coingecko": "wrapped-terra",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1313161554,
+		"address": "0x7EA2be2df7BA6E54B1A9C70676f668455E329d29",
+		"symbol": "0xMonero",
+		"name": "0xMonero",
+		"coingecko": "0xmonero",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1313161554,
+		"address": "0x2BAe00C8BC1868a5F7a216E881Bae9e662630111",
+		"symbol": "Allbridge",
+		"name": "Allbridge",
+		"coingecko": "allbridge",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1313161554,
+		"address": "0xe301eD8C7630C9678c39E4E45193D1e7Dfb914f7",
+		"symbol": "DODO",
+		"name": "DODO",
+		"coingecko": "dodo",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1313161554,
+		"address": "0x291C8FCeAcA3342B29CC36171DEB98106f712C66",
+		"symbol": "Pickle Finance",
+		"name": "Pickle Finance",
+		"coingecko": "pickle-finance",
 		"sources": [
 			"coingecko"
 		]
@@ -351,6 +191,86 @@
 	},
 	{
 		"chain": 1313161554,
+		"address": "0xFa94348467f64D5A457F75F8bc40495D33c65aBB",
+		"symbol": "Trisolaris",
+		"name": "Trisolaris",
+		"coingecko": "trisolaris",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1313161554,
+		"address": "0x12c87331f086c3C926248f964f8702C0842Fd77F",
+		"symbol": "Borealis",
+		"name": "Borealis",
+		"coingecko": "borealis",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1313161554,
+		"address": "0x72F9FedEF0fB0fC8dB22453b692F7D5A17B98A66",
+		"symbol": "DeBio Network",
+		"name": "DeBio Network",
+		"coingecko": "debio-network",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1313161554,
+		"address": "0xA1fC14bC890a98142443B7ABc0Eeccae6186cd9a",
+		"symbol": "Router Protocol [OLD]",
+		"name": "Router Protocol [OLD]",
+		"coingecko": "route",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1313161554,
+		"address": "0x7aa1a72f744Cdcd4c89918AEBFbe4F1d1D1156E6",
+		"symbol": "UTU Coin",
+		"name": "UTU Coin",
+		"coingecko": "utu-coin",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1313161554,
+		"address": "0x7faA64Faf54750a2E3eE621166635fEAF406Ab22",
+		"symbol": "WannaSwap",
+		"name": "WannaSwap",
+		"coingecko": "wannaswap",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1313161554,
+		"address": "0x8BEc47865aDe3B172A928df8f990Bc7f2A3b9f79",
+		"symbol": "Aurora",
+		"name": "Aurora",
+		"coingecko": "aurora-near",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1313161554,
+		"address": "0xF4eB217Ba2454613b15dBdea6e5f22276410e89e",
+		"symbol": "Rainbow Bridged WBTC (Aurora)",
+		"name": "Rainbow Bridged WBTC (Aurora)",
+		"coingecko": "rainbow-bridged-wbtc-aurora",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1313161554,
 		"address": "0xE3ff873C1e104118Ec83310E39aAfDE17d18005d",
 		"symbol": "ScamFari",
 		"name": "ScamFari",
@@ -361,10 +281,90 @@
 	},
 	{
 		"chain": 1313161554,
+		"address": "0xdFA46478F9e5EA86d57387849598dbFB2e964b02",
+		"symbol": "MAI",
+		"name": "MAI",
+		"coingecko": "mimatic",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1313161554,
+		"address": "0xe3520349F477A5F6EB06107066048508498A291b",
+		"symbol": "Rainbow Bridged DAI (Aurora)",
+		"name": "Rainbow Bridged DAI (Aurora)",
+		"coingecko": "rainbow-bridged-dai-aurora",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1313161554,
+		"address": "0xdcD6D4e2B3e1D1E1E6Fa8C21C8A323DcbecfF970",
+		"symbol": "Rose",
+		"name": "Rose",
+		"coingecko": "rose",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1313161554,
+		"address": "0x5ce9F0B6AFb36135b5ddBF11705cEB65E634A9dC",
+		"symbol": "Wrapped USTC",
+		"name": "Wrapped USTC",
+		"coingecko": "wrapped-ust",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1313161554,
+		"address": "0x7cA1C28663b76CFDe424A9494555B94846205585",
+		"symbol": "Chronicle",
+		"name": "Chronicle",
+		"coingecko": "chronicle",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1313161554,
 		"address": "0x885f8CF6E45bdd3fdcDc644efdcd0AC93880c781",
 		"symbol": "Pad.Fi",
 		"name": "Pad.Fi",
 		"coingecko": "nearpad",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1313161554,
+		"address": "0x06aEBB0f3D9eBe9829E1B67bD3dd608F711D3412",
+		"symbol": "NEARStarter",
+		"name": "NEARStarter",
+		"coingecko": "nearstarter",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1313161554,
+		"address": "0x9D6fc90b25976E40adaD5A3EdD08af9ed7a21729",
+		"symbol": "Polar Shares",
+		"name": "Polar Shares",
+		"coingecko": "polar-shares",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1313161554,
+		"address": "0x5172c657BcB6a8331Cec033369b20c789aCB9940",
+		"symbol": "UWON",
+		"name": "UWON",
+		"coingecko": "uwon",
 		"sources": [
 			"coingecko"
 		]

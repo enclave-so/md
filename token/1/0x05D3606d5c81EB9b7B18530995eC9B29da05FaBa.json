@@ -1,10 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x05D3606d5c81EB9b7B18530995eC9B29da05FaBa",
-	"symbol": "TOMO",
-	"name": "TomoChain",
+	"symbol": "TOMOE",
+	"name": "TomoChain ERC 20",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/tomoe.jpg",
+	"logo": "https://assets.coingecko.com/coins/images/12646/thumb/tomoe_logo.png?1696512453",
 	"coingecko": "tomoe",
 	"sources": [
 		"coingecko",

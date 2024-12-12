@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0xec463D00aa4dA76fb112cD2e4AC1C6BeF02da6ea",
-	"symbol": "Heurist",
+	"symbol": "HEU",
 	"name": "Heurist",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/51361/thumb/200X200.png?1733764636",
 	"coingecko": "heurist",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

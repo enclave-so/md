@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xDf298644967f7B046c178aE37A3EC9D1614FfDC2",
-	"symbol": "MBA Platform",
+	"symbol": "MBA",
 	"name": "MBA Platform",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/37897/thumb/MBAtoken_1.png?1715847925",
 	"coingecko": "mba-platform",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x04830A96a23EA718fAA695a5AAe74695AAE3A23f",
-	"symbol": "Solv Protocol",
+	"symbol": "SOLV",
 	"name": "Solv Protocol",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/27987/thumb/SOLV_LOGO_purple.png?1696527004",
 	"coingecko": "solv-protocol",
 	"sources": [
 		"coingecko"

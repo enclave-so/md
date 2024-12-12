@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x87904bE82BC1C29E94a0b99474d183B4e08a7E47",
-	"symbol": "AICM Marketplace",
+	"symbol": "AICM",
 	"name": "AICM Marketplace",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/52484/thumb/IMG_6164.jpeg?1733427051",
 	"coingecko": "aicm-marketplace",
 	"sources": [
 		"coingecko"

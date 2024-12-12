@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xceEB07Dd26b36287B6d109f0b06d7e8202Ce8c1D",
-	"symbol": "Got Guaranteed",
+	"symbol": "GOTG",
 	"name": "Got Guaranteed",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/26107/thumb/%EA%B0%93%EC%A7%80%EB%A1%9C%EA%B3%A0.png?1696525197",
 	"coingecko": "got-guaranteed",
 	"sources": [
 		"coingecko"

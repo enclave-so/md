@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x4824A7b64E3966B0133f4f4FFB1b9D6bEb75FFF7",
-	"symbol": "TokenClub",
+	"symbol": "TCT",
 	"name": "TokenClub",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/2455/thumb/tokenclub.png?1696503285",
 	"coingecko": "tokenclub",
 	"sources": [
 		"coingecko"

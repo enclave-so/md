@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x74d2d73B455540B037298c0e0925BC702AEDbE4a",
-	"symbol": "Schrodinger",
+	"symbol": "MEOW",
 	"name": "Schrodinger",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/19649/thumb/kitty_dinger.png?1696519077",
 	"coingecko": "schrodinger",
 	"sources": [
 		"coingecko"

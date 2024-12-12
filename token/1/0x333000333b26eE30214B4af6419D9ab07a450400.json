@@ -3,6 +3,8 @@
 	"address": "0x333000333b26eE30214B4af6419D9ab07a450400",
 	"symbol": "MELD",
 	"name": "MELD",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30170/thumb/Twitter.jpg?1696529090",
 	"coingecko": "meld-2",
 	"sources": [
 		"coingecko"

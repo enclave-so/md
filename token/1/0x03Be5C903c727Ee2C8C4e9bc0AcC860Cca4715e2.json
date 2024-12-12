@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x03Be5C903c727Ee2C8C4e9bc0AcC860Cca4715e2",
-	"symbol": "Ternoa",
+	"symbol": "CAPS",
 	"name": "Ternoa",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/15921/thumb/e55393fa-7b4d-40f5-9f36-9a8a6bdcb570.png?1696515534",
 	"coingecko": "coin-capsule",
 	"sources": [
 		"coingecko"

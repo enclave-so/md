@@ -1,0 +1,11 @@
+{
+	"chain": 56,
+	"address": "0x590D11c0696b0023176f5D7587d6b2f502a08047",
+	"symbol": "LOOKS",
+	"name": "LooksRare",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x590D11c0696b0023176f5D7587d6b2f502a08047.png",
+	"sources": [
+		"pancakeswap"
+	]
+}

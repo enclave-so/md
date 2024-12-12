@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xD9b9f72D6F5cdec754243d7D3CeFD5b4370Af094",
-	"symbol": "Laser Gas",
+	"symbol": "LGAS",
 	"name": "Laser Gas",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/39701/thumb/Untitled_design_%2838%29.png?1723692917",
 	"coingecko": "laser-gas",
 	"sources": [
 		"coingecko"

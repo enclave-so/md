@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x20c3fa331A385b63EE39137e99d0cF2db142fCe1",
-	"symbol": "Shila Inu",
+	"symbol": "SHIL",
 	"name": "Shila Inu",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/28847/thumb/rsz_logo1.png?1696527823",
 	"coingecko": "shila-inu",
 	"sources": [
 		"coingecko"

@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0xC82E3dB60A52CF7529253b4eC688f631aad9e7c2",
-	"symbol": "Arc",
+	"symbol": "ARC",
 	"name": "Arc",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/24235/thumb/ARC_Token_Logo_200x200.png?1729562245",
 	"coingecko": "arc",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

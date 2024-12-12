@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xAed18826655bF9167A377C8647132A937d6a4F36",
-	"symbol": "The Big Debate",
+	"symbol": "TBD",
 	"name": "The Big Debate",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/38977/thumb/THE_BIG_DEBATE.png?1719800695",
 	"coingecko": "the-big-debate",
 	"sources": [
 		"coingecko"

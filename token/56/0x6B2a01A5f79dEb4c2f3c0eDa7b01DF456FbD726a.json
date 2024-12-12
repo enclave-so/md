@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0x6B2a01A5f79dEb4c2f3c0eDa7b01DF456FbD726a",
-	"symbol": "Universal BTC",
-	"name": "Universal BTC",
+	"symbol": "uniBTC",
+	"name": "uniBTC",
+	"decimals": 8,
+	"logo": "https://tokens.pancakeswap.finance/images/0x6B2a01A5f79dEb4c2f3c0eDa7b01DF456FbD726a.png",
 	"coingecko": "universal-btc",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

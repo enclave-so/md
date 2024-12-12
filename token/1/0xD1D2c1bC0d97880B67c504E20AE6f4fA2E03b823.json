@@ -3,6 +3,8 @@
 	"address": "0xD1D2c1bC0d97880B67c504E20AE6f4fA2E03b823",
 	"symbol": "SCALEX",
 	"name": "SCALEX",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/39967/thumb/SCALEX.jpeg?1724958463",
 	"coingecko": "scalex",
 	"sources": [
 		"coingecko"

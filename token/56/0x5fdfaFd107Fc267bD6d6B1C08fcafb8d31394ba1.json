@@ -1,0 +1,11 @@
+{
+	"chain": 56,
+	"address": "0x5fdfaFd107Fc267bD6d6B1C08fcafb8d31394ba1",
+	"symbol": "BINK",
+	"name": "Bink AI",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x5fdfaFd107Fc267bD6d6B1C08fcafb8d31394ba1.png",
+	"sources": [
+		"pancakeswap"
+	]
+}

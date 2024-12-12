@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0x6894CDe390a3f51155ea41Ed24a33A4827d3063D",
-	"symbol": "Simon's Cat",
-	"name": "Simon's Cat",
+	"symbol": "CAT",
+	"name": "Simons Cat",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x6894CDe390a3f51155ea41Ed24a33A4827d3063D.png",
 	"coingecko": "simon-s-cat",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

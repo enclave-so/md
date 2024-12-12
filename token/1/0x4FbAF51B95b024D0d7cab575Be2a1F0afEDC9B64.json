@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x4FbAF51B95b024D0d7cab575Be2a1F0afEDC9B64",
-	"symbol": "BONK on ETH",
+	"symbol": "BONK",
 	"name": "BONK on ETH",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/37672/thumb/bonkethlogo_%282%29.png?1715186040",
 	"coingecko": "bonk-on-eth",
 	"sources": [
 		"coingecko"

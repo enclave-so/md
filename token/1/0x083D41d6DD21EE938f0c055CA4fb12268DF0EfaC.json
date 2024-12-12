@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x083D41d6DD21EE938f0c055CA4fb12268DF0EfaC",
-	"symbol": "GogolCoin",
+	"symbol": "GOL",
 	"name": "GogolCoin",
+	"decimals": 4,
+	"logo": "https://assets.coingecko.com/coins/images/14824/thumb/GOL.png?1696514492",
 	"coingecko": "gogolcoin",
 	"sources": [
 		"coingecko"

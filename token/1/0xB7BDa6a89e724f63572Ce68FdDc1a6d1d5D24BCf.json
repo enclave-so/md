@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xB7BDa6a89e724f63572Ce68FdDc1a6d1d5D24BCf",
-	"symbol": "OGzClub",
+	"symbol": "OGZ",
 	"name": "OGzClub",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31121/thumb/25832.png?1696529951",
 	"coingecko": "ogzclub",
 	"sources": [
 		"coingecko"

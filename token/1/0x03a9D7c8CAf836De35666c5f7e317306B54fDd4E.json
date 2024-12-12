@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x03a9D7c8CAf836De35666c5f7e317306B54fDd4E",
-	"symbol": "JC Coin",
+	"symbol": "JCC",
 	"name": "JC Coin",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/36980/thumb/jc-coin200x200.png?1712939502",
 	"coingecko": "jc-coin",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x12eF10A4fc6e1Ea44B4ca9508760fF51c647BB71",
-	"symbol": "Restake Finance",
+	"symbol": "RSTK",
 	"name": "Restake Finance",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/33885/thumb/rstk.png?1703148117",
 	"coingecko": "restake-finance",
 	"sources": [
 		"coingecko"

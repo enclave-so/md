@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x39C6b3e42d6A679d7D776778Fe880BC9487C2EDA",
-	"symbol": "Aave KNC",
+	"symbol": "AKNC",
 	"name": "Aave KNC",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14250/thumb/aKNC.42bcd2e3.png?1696513964",
 	"coingecko": "aave-knc",
 	"sources": [
 		"coingecko"

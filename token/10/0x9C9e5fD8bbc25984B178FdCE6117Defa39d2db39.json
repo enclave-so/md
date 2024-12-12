@@ -1,10 +1,13 @@
 {
 	"chain": 10,
 	"address": "0x9C9e5fD8bbc25984B178FdCE6117Defa39d2db39",
-	"symbol": "Binance-Peg BUSD",
-	"name": "Binance-Peg BUSD",
+	"symbol": "BUSD",
+	"name": "Binance USD",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/9576/thumb/BUSD.png?1568947766",
 	"coingecko": "binance-peg-busd",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"uniswap"
 	]
 }

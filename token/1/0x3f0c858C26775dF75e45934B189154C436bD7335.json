@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x3f0c858C26775dF75e45934B189154C436bD7335",
-	"symbol": "SuperFrank",
+	"symbol": "CHFP",
 	"name": "SuperFrank",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/32531/thumb/SuperFrank_logo1080x1080_nobackground_noletters_centered.png?1698461197",
 	"coingecko": "superfrank",
 	"sources": [
 		"coingecko"

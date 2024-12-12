@@ -1,10 +1,13 @@
 {
 	"chain": 42161,
 	"address": "0x13Ad51ed4F1B7e9Dc168d8a00cB3f4dDD85EfA60",
-	"symbol": "Lido DAO",
+	"symbol": "LDO",
 	"name": "Lido DAO",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/13573/thumb/Lido_DAO.png?1609873644",
 	"coingecko": "lido-dao",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"uniswap"
 	]
 }

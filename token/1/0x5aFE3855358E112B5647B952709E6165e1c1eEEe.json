@@ -2,12 +2,13 @@
 	"chain": 1,
 	"address": "0x5aFE3855358E112B5647B952709E6165e1c1eEEe",
 	"symbol": "SAFE",
-	"name": "Safe Token",
+	"name": "Safe",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x5aFE3855358E112B5647B952709E6165e1c1eEEe.jpg",
+	"logo": "https://assets.coingecko.com/coins/images/27032/standard/Artboard_1_copy_8circle-1.png?1696526084",
 	"coingecko": "safe",
 	"sources": [
 		"coingecko",
-		"sushiswap"
+		"sushiswap",
+		"uniswap"
 	]
 }

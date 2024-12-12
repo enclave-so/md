@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xecC0F1F860a82aB3b442382D93853C02d6384389",
-	"symbol": "Axis DeFi",
+	"symbol": "AXIS",
 	"name": "Axis DeFi",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/12199/thumb/YeLWZ3V.jpg?1696512035",
 	"coingecko": "axis-defi",
 	"sources": [
 		"coingecko"

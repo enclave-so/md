@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xFbEEa1C75E4c4465CB2FCCc9c6d6afe984558E20",
-	"symbol": "DuckDaoDime",
+	"symbol": "DDIM",
 	"name": "DuckDaoDime",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/12146/thumb/token_DDIM-01.png?1696511987",
 	"coingecko": "duckdaodime",
 	"sources": [
 		"coingecko"

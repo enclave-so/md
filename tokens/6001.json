@@ -1,16 +1,6 @@
 [
 	{
 		"chain": 6001,
-		"address": "0xda31D0d1Bc934fC34F7189E38A413ca0A5e8b44F",
-		"symbol": "BitStable Finance",
-		"name": "BitStable Finance",
-		"coingecko": "bitstable-finance",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 6001,
 		"address": "0xF5e11df1ebCf78b6b6D26E04FF19cD786a1e81dC",
 		"symbol": "BounceBit BTC",
 		"name": "BounceBit BTC",
@@ -35,6 +25,16 @@
 		"symbol": "Wrapped BounceBit",
 		"name": "Wrapped BounceBit",
 		"coingecko": "wrapped-bouncebit",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 6001,
+		"address": "0xda31D0d1Bc934fC34F7189E38A413ca0A5e8b44F",
+		"symbol": "BitStable Finance",
+		"name": "BitStable Finance",
+		"coingecko": "bitstable-finance",
 		"sources": [
 			"coingecko"
 		]

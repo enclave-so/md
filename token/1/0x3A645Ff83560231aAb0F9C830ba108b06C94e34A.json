@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x3A645Ff83560231aAb0F9C830ba108b06C94e34A",
-	"symbol": "Lunar",
+	"symbol": "LUNAR",
 	"name": "Lunar",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/35510/thumb/image_2024-02-26_165146229.png?1708937508",
 	"coingecko": "lunar-3",
 	"sources": [
 		"coingecko"

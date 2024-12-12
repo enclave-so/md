@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xcDf6b7657B8f26C396293417D713b7fc6b8304d9",
-	"symbol": "Project Athena",
+	"symbol": "ATHENA",
 	"name": "Project Athena",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/50301/thumb/newathenalogo.png?1729472181",
 	"coingecko": "project-athena",
 	"sources": [
 		"coingecko"

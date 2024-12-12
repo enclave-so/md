@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0x7420B4b9a0110cdC71fB720908340C03F9Bc03EC",
-	"symbol": "JasmyCoin",
+	"symbol": "JASMY",
 	"name": "JasmyCoin",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/13876/thumb/JASMY200x200.jpg?1612473259",
 	"coingecko": "jasmycoin",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"uniswap"
 	]
 }

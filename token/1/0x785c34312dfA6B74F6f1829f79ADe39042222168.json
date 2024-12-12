@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x785c34312dfA6B74F6f1829f79ADe39042222168",
-	"symbol": "Bumper",
+	"symbol": "BUMP",
 	"name": "Bumper",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/17822/thumb/Bumper_-__Icon_-_256x256.png?1715280092",
 	"coingecko": "bumper",
 	"sources": [
 		"coingecko"

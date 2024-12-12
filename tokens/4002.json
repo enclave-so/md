@@ -1,22 +1,22 @@
 [
 	{
 		"chain": 4002,
-		"address": "0x91ea991bd52EE3C40EdA2509701d905e1Ee54074",
-		"symbol": "FUSD",
-		"name": "Fantom USD",
+		"address": "0xf1277d1Ed8AD466beddF92ef448A132661956621",
+		"symbol": "WFTM",
+		"name": "Wrapped Fantom",
 		"decimals": 18,
-		"logo": "https://cdn.worldvectorlogo.com/logos/usd-1.svg",
+		"logo": "https://cryptologos.cc/logos/fantom-ftm-logo.svg?v=003",
 		"sources": [
 			"sushiswap"
 		]
 	},
 	{
 		"chain": 4002,
-		"address": "0xf1277d1Ed8AD466beddF92ef448A132661956621",
-		"symbol": "WFTM",
-		"name": "Wrapped Fantom",
+		"address": "0x91ea991bd52EE3C40EdA2509701d905e1Ee54074",
+		"symbol": "FUSD",
+		"name": "Fantom USD",
 		"decimals": 18,
-		"logo": "https://cryptologos.cc/logos/fantom-ftm-logo.svg?v=003",
+		"logo": "https://cdn.worldvectorlogo.com/logos/usd-1.svg",
 		"sources": [
 			"sushiswap"
 		]

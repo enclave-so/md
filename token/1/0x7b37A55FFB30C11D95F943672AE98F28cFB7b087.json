@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x7b37A55FFB30C11D95F943672AE98F28cFB7b087",
-	"symbol": "Fufu Token",
+	"symbol": "FUFU",
 	"name": "Fufu Token",
+	"decimals": 2,
+	"logo": "https://assets.coingecko.com/coins/images/32225/thumb/6522723afff7e2e198ce38c6_FufuTokenIcon_250x250.png?1696931163",
 	"coingecko": "fufu-token",
 	"sources": [
 		"coingecko"

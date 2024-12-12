@@ -1,0 +1,11 @@
+{
+	"chain": 11155111,
+	"address": "0x19dcecf9308F058Ace0580CDc06b2932eb428d3c",
+	"symbol": "TT",
+	"name": "TT",
+	"decimals": 6,
+	"logo": "https://ethereum-optimism.github.io/data/TT/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

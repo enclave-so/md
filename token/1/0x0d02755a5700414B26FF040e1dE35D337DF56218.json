@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x0d02755a5700414B26FF040e1dE35D337DF56218",
-	"symbol": "BendDAO",
+	"symbol": "BEND",
 	"name": "BendDAO",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/22829/thumb/benddao.PNG?1696522130",
 	"coingecko": "benddao",
 	"sources": [
 		"coingecko"

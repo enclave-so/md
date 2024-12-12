@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x0C7EcdB459111cd806e54ADC9Da1F4A03B43B64a",
-	"symbol": "GrimGold",
+	"symbol": "GG",
 	"name": "GrimGold",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/51556/thumb/grimgold-token2x.png?1731518251",
 	"coingecko": "grimgold",
 	"sources": [
 		"coingecko"

@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0x09395a2A58DB45db0da254c7EAa5AC469D8bDc85",
-	"symbol": "SubQuery Network",
+	"symbol": "SQT",
 	"name": "SubQuery Network",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/23359/thumb/LinkedIn_Avatar_Op1.png?1724379155",
 	"coingecko": "subquery-network",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

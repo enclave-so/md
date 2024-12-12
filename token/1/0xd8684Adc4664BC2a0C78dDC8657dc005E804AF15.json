@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xd8684Adc4664BC2a0C78dDC8657dc005E804AF15",
-	"symbol": "Copycat DAO",
+	"symbol": "CCD",
 	"name": "Copycat DAO",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30728/thumb/twitter-logo.jpeg?1696529599",
 	"coingecko": "copycat-dao",
 	"sources": [
 		"coingecko"

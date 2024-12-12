@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xC08e7E23C235073C6807C2EFE7021304cb7c2815",
-	"symbol": "StraitsX XUSD",
+	"symbol": "XUSD",
 	"name": "StraitsX XUSD",
+	"decimals": 6,
+	"logo": "https://assets.coingecko.com/coins/images/39180/thumb/XUSD_Logo_200px.png?1720850024",
 	"coingecko": "straitsx-xusd",
 	"sources": [
 		"coingecko"

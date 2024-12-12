@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0x40C8225329Bd3e28A043B029E0D07a5344d2C27C",
-	"symbol": "AgeOfGods",
+	"symbol": "AOG",
 	"name": "AgeOfGods",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x40C8225329Bd3e28A043B029E0D07a5344d2C27C.png",
 	"coingecko": "ageofgods",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

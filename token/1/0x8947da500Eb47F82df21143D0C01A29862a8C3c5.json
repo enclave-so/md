@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0x8947da500Eb47F82df21143D0C01A29862a8C3c5",
-	"symbol": "Thales",
+	"symbol": "THALES",
 	"name": "Thales",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/18388/thumb/CLVZJN_C_400x400.png?1696517879",
 	"coingecko": "thales",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

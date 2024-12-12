@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xC525Abf65169E6D443f698276761Eb9EA7d921A4",
-	"symbol": "Bitnex AI",
+	"symbol": "BTX",
 	"name": "Bitnex AI",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/33649/thumb/logo-small.png?1702543587",
 	"coingecko": "bitnex-ai",
 	"sources": [
 		"coingecko"

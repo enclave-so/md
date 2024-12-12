@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x103143acf2E717aCf8f021823E86A1DBfE944Fb5",
-	"symbol": "Cheeseball the Wizard",
+	"symbol": "CHEESEBALL",
 	"name": "Cheeseball the Wizard",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/50636/thumb/GY2kMbsaEAAYh5C.jpg?1728547433",
 	"coingecko": "cheeseball-the-wizard",
 	"sources": [
 		"coingecko"

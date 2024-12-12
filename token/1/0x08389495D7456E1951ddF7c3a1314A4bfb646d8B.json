@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0x08389495D7456E1951ddF7c3a1314A4bfb646d8B",
-	"symbol": "Crypterium",
+	"symbol": "CRPT",
 	"name": "Crypterium",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/1901/thumb/crypt.png?1547036205",
 	"coingecko": "crypterium",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"uniswap"
 	]
 }

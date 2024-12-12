@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x48B847cF774A5710F36f594b11fc10E2E59BbA72",
-	"symbol": "Unit0",
+	"symbol": "UNIT0",
 	"name": "Unit0",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/51237/thumb/200%D1%85200.png?1730448085",
 	"coingecko": "unit0",
 	"sources": [
 		"coingecko"

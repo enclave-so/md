@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x2F9411088cEF82Fd9fB904Eb8092f28eB485C8F6",
-	"symbol": "Athens",
+	"symbol": "ATH",
 	"name": "Athens",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/24514/thumb/ATH-logo-round.png?1696523693",
 	"coingecko": "athens",
 	"sources": [
 		"coingecko"

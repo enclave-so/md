@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0x900dB999074d9277c5DA2A43F252D74366230DA0",
-	"symbol": "Giveth",
+	"symbol": "GIV",
 	"name": "Giveth",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/21792/thumb/GIVToken_200x200.png?1722577147",
 	"coingecko": "giveth",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

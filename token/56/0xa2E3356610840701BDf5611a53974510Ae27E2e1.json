@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0xa2E3356610840701BDf5611a53974510Ae27E2e1",
-	"symbol": "Wrapped Beacon ETH",
-	"name": "Wrapped Beacon ETH",
+	"symbol": "wBETH",
+	"name": "Wrapped Binance Beacon ETH",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0xa2E3356610840701BDf5611a53974510Ae27E2e1.png",
 	"coingecko": "wrapped-beacon-eth",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

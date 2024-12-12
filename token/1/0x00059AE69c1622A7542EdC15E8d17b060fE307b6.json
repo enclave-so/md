@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x00059AE69c1622A7542EdC15E8d17b060fE307b6",
-	"symbol": "AmonD",
+	"symbol": "AMON",
 	"name": "AmonD",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/8952/thumb/AmonD_512x512.png?1696509099",
 	"coingecko": "amond",
 	"sources": [
 		"coingecko"

@@ -3,6 +3,8 @@
 	"address": "0xC77b230F31b517F1ef362e59c173C2BE6540B5E8",
 	"symbol": "VIDY",
 	"name": "VIDY",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/5088/thumb/vidy-logo.jpg?1696505610",
 	"coingecko": "vidy",
 	"sources": [
 		"coingecko"

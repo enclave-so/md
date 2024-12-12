@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB",
-	"symbol": "JPY Coin",
+	"symbol": "JPYC",
 	"name": "JPY Coin",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/25971/thumb/2023jpyc.png?1696525049",
 	"coingecko": "jpy-coin",
 	"sources": [
 		"coingecko"

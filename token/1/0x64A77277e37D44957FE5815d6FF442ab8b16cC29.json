@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x64A77277e37D44957FE5815d6FF442ab8b16cC29",
-	"symbol": "SpaceDawgs",
+	"symbol": "DAWGS",
 	"name": "SpaceDawgs",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/17076/thumb/twitter-facebook-Instagram-pfp.png?1696516638",
 	"coingecko": "spacedawgs",
 	"sources": [
 		"coingecko"

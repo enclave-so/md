@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x36C7188D64c44301272Db3293899507eabb8eD43",
-	"symbol": "Swag",
+	"symbol": "SWAG",
 	"name": "Swag",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/39267/thumb/swagpp1.png?1721361710",
 	"coingecko": "swag",
 	"sources": [
 		"coingecko"

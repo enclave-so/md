@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x451fd37983D494Bce294295F78a426832376B7dF",
-	"symbol": "Xeno",
+	"symbol": "XENO",
 	"name": "Xeno",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/34702/thumb/tokenlogo200x200.jpg?1705861546",
 	"coingecko": "xeno",
 	"sources": [
 		"coingecko"

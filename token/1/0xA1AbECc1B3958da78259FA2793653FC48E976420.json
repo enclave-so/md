@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xA1AbECc1B3958da78259FA2793653FC48E976420",
-	"symbol": "Dogggo",
+	"symbol": "DOGGGO",
 	"name": "Dogggo",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/34634/thumb/DT-Thumbnail-200x200.png?1705549833",
 	"coingecko": "dogggo",
 	"sources": [
 		"coingecko"

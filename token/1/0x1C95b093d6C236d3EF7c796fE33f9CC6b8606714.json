@@ -3,6 +3,7 @@
 	"address": "0x1C95b093d6C236d3EF7c796fE33f9CC6b8606714",
 	"symbol": "BOMB",
 	"name": "BOMB",
+	"logo": "https://assets.coingecko.com/coins/images/7713/thumb/Bomb-token.png?1549944422",
 	"coingecko": "bomb",
 	"sources": [
 		"coingecko"

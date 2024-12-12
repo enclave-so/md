@@ -3,6 +3,8 @@
 	"address": "0x56C03B8C4FA80Ba37F5A7b60CAAAEF749bB5b220",
 	"symbol": "CANTO",
 	"name": "CANTO",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/26959/thumb/canto-network.png?1696526014",
 	"coingecko": "canto",
 	"sources": [
 		"coingecko"

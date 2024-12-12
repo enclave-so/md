@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x69EE720C120EC7c9C52A625C04414459B3185f23",
-	"symbol": "Young Peezy",
+	"symbol": "PEEZY",
 	"name": "Young Peezy",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/39279/thumb/1000001607.png?1721452196",
 	"coingecko": "young-peezy-2",
 	"sources": [
 		"coingecko"

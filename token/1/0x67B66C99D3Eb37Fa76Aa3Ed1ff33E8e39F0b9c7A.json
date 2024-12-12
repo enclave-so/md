@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x67B66C99D3Eb37Fa76Aa3Ed1ff33E8e39F0b9c7A",
-	"symbol": "Interest Bearing ETH",
+	"symbol": "IBETH",
 	"name": "Interest Bearing ETH",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/13131/thumb/7675.png?1696512918",
 	"coingecko": "interest-bearing-eth",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x0176b898E92e814c06Cc379E508CEB571F70bD40",
-	"symbol": "Tipcoin",
+	"symbol": "TIP",
 	"name": "Tipcoin",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31845/thumb/tip.png?1696530659",
 	"coingecko": "tipcoin",
 	"sources": [
 		"coingecko"

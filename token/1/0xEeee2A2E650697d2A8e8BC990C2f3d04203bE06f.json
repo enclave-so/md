@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xEeee2A2E650697d2A8e8BC990C2f3d04203bE06f",
-	"symbol": "Forgotten Playland",
+	"symbol": "FP",
 	"name": "Forgotten Playland",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35339/thumb/200.png?1708515043",
 	"coingecko": "forgotten-playland",
 	"sources": [
 		"coingecko"

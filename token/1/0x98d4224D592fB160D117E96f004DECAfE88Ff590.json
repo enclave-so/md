@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x98d4224D592fB160D117E96f004DECAfE88Ff590",
-	"symbol": "CrypSure",
+	"symbol": "CRS",
 	"name": "CrypSure",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/50218/thumb/Zie7FkvO_400x400.jpg?1726443695",
 	"coingecko": "crypsure",
 	"sources": [
 		"coingecko"

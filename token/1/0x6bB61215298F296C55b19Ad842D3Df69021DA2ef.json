@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x6bB61215298F296C55b19Ad842D3Df69021DA2ef",
-	"symbol": "Drops Ownership Power",
+	"symbol": "DOP",
 	"name": "Drops Ownership Power",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/15696/thumb/dop.png?1696515325",
 	"coingecko": "drops-ownership-power",
 	"sources": [
 		"coingecko"

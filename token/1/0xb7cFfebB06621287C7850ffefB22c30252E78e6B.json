@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xb7cFfebB06621287C7850ffefB22c30252E78e6B",
-	"symbol": "Drift Token",
+	"symbol": "DRIFT",
 	"name": "Drift Token",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/37455/thumb/DRIFT.jpg?1714451680",
 	"coingecko": "drift-token",
 	"sources": [
 		"coingecko"

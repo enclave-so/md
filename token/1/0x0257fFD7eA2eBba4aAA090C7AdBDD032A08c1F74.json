@@ -3,6 +3,8 @@
 	"address": "0x0257fFD7eA2eBba4aAA090C7AdBDD032A08c1F74",
 	"symbol": "ZELIX",
 	"name": "ZELIX",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/32453/thumb/ZX_Logo_20230724_200x200.png?1701866637",
 	"coingecko": "zelix",
 	"sources": [
 		"coingecko"

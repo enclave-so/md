@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xdcb2Fa7eAB2507613417Bb9762eFa73093fc6b65",
-	"symbol": "Unvest",
+	"symbol": "UNV",
 	"name": "Unvest",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/18119/thumb/UNV.jpg?1696517622",
 	"coingecko": "unvest",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xD722424cF94b583752dfc80C08e2531AB3b762dc",
-	"symbol": "SphereX Token",
+	"symbol": "HERE",
 	"name": "SphereX Token",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/39761/thumb/coin_here.png.png?1723903634",
 	"coingecko": "spherex-token",
 	"sources": [
 		"coingecko"

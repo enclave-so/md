@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x473F4068073Cd5b2aB0E4Cc8E146F9EDC6fb52CC",
-	"symbol": "NutCoin",
+	"symbol": "NUT",
 	"name": "NutCoin",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/37569/thumb/icon-2_200x200.png?1714886224",
 	"coingecko": "nutcoin-meme",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x069e4Aa272d17D9625aa3B6F863C7EF6CfB96713",
-	"symbol": "Bulei",
+	"symbol": "BULEI",
 	"name": "Bulei",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/38649/thumb/BULEI200.jpg?1718215100",
 	"coingecko": "bulei",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xD528cf2E081f72908e086F8800977df826B5a483",
-	"symbol": "Paribus",
+	"symbol": "PBX",
 	"name": "Paribus",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/18410/thumb/paribus.PNG?1696517900",
 	"coingecko": "paribus",
 	"sources": [
 		"coingecko"

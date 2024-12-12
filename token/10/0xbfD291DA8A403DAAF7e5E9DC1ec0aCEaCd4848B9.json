@@ -8,6 +8,7 @@
 	"coingecko": "token-dforce-usd",
 	"sources": [
 		"coingecko",
+		"optimism",
 		"sushiswap"
 	]
 }

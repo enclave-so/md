@@ -1,16 +1,6 @@
 [
 	{
 		"chain": 57,
-		"address": "0xc9BAA8cfdDe8E328787E29b4B078abf2DaDc2055",
-		"symbol": "Multichain Bridged WBTC (Syscoin NEVM)",
-		"name": "Multichain Bridged WBTC (Syscoin NEVM)",
-		"coingecko": "multichain-bridged-wbtc-syscoin-nevm",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 57,
 		"address": "0x7C598c96D02398d89FbCb9d41Eab3DF0C16F227D",
 		"symbol": "Multichain Bridged WETH (Syscoin NEVM)",
 		"name": "Multichain Bridged WETH (Syscoin NEVM)",
@@ -75,6 +65,16 @@
 		"symbol": "Multichain Bridged DAI (Syscoin NEVM)",
 		"name": "Multichain Bridged DAI (Syscoin NEVM)",
 		"coingecko": "multichain-bridged-dai-syscoin-nevm",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 57,
+		"address": "0xc9BAA8cfdDe8E328787E29b4B078abf2DaDc2055",
+		"symbol": "Multichain Bridged WBTC (Syscoin NEVM)",
+		"name": "Multichain Bridged WBTC (Syscoin NEVM)",
+		"coingecko": "multichain-bridged-wbtc-syscoin-nevm",
 		"sources": [
 			"coingecko"
 		]

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x3a1Bda28AdB5B0a812a7CF10A1950c920F79BcD3",
-	"symbol": "Gameflip",
+	"symbol": "FLP",
 	"name": "Gameflip",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/2173/thumb/flp.png?1696503133",
 	"coingecko": "gameflip",
 	"sources": [
 		"coingecko"

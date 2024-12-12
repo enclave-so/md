@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x42476F744292107e34519F9c357927074Ea3F75D",
-	"symbol": "Loom Network (NEW)",
-	"name": "Loom Network (NEW)",
+	"symbol": "LOOM",
+	"name": "Loom Network  NEW ",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14735/thumb/LOOM.png?1696514405",
 	"coingecko": "loom-network-new",
 	"sources": [
 		"coingecko"

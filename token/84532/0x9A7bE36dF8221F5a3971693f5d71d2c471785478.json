@@ -1,0 +1,11 @@
+{
+	"chain": 84532,
+	"address": "0x9A7bE36dF8221F5a3971693f5d71d2c471785478",
+	"symbol": "LRDS",
+	"name": "BLOCKLORDS",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/LRDS/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

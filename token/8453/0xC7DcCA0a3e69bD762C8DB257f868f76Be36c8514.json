@@ -1,10 +1,13 @@
 {
 	"chain": 8453,
 	"address": "0xC7DcCA0a3e69bD762C8DB257f868f76Be36c8514",
-	"symbol": "KiboShib",
+	"symbol": "KIBSHI",
 	"name": "KiboShib",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/KIBSHI/logo.svg",
 	"coingecko": "kiboshib",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

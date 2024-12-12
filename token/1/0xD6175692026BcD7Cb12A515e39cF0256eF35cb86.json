@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xD6175692026BcD7Cb12A515e39cF0256eF35cb86",
-	"symbol": "Bonzi",
+	"symbol": "BONZI",
 	"name": "Bonzi",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/40068/thumb/bonzi_png.png?1725484148",
 	"coingecko": "bonzi",
 	"sources": [
 		"coingecko"

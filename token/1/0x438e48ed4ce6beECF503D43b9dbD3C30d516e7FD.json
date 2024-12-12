@@ -3,6 +3,8 @@
 	"address": "0x438e48ed4ce6beECF503D43b9dbD3C30d516e7FD",
 	"symbol": "UWON",
 	"name": "UWON",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35593/thumb/2024-02-29_10.53.39.jpg?1709221802",
 	"coingecko": "uwon",
 	"sources": [
 		"coingecko"

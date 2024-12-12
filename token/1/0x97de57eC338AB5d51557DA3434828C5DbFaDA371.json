@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x97de57eC338AB5d51557DA3434828C5DbFaDA371",
-	"symbol": "eUSD (OLD)",
-	"name": "eUSD (OLD)",
+	"symbol": "EUSD",
+	"name": "eUSD  OLD ",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30047/thumb/ethereum-eth-logo-colored_4_%281%29_%281%29.png?1696528969",
 	"coingecko": "eusd-27a558b0-8b5b-4225-a614-63539da936f4",
 	"sources": [
 		"coingecko"

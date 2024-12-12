@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x0a77eF9bf662D62Fbf9BA4cf861EaA83F9CC4FEC",
-	"symbol": "X World Games",
+	"symbol": "XWG",
 	"name": "X World Games",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/17847/thumb/200_200_%281%29_%281%29.png?1696790226",
 	"coingecko": "x-world-games",
 	"sources": [
 		"coingecko"

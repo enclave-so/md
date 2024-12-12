@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0x524bC91Dc82d6b90EF29F76A3ECAaBAffFD490Bc",
-	"symbol": "Bridged Tether (Wormhole Ethereum)",
-	"name": "Bridged Tether (Wormhole Ethereum)",
+	"symbol": "wxUSDT",
+	"name": "Wormhole Wrapped USDT",
+	"decimals": 6,
+	"logo": "https://tokens.pancakeswap.finance/images/0x524bC91Dc82d6b90EF29F76A3ECAaBAffFD490Bc.png",
 	"coingecko": "tether-usd-wormhole-from-ethereum",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

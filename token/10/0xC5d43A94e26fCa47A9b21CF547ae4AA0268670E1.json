@@ -1,0 +1,11 @@
+{
+	"chain": 10,
+	"address": "0xC5d43A94e26fCa47A9b21CF547ae4AA0268670E1",
+	"symbol": "FPI",
+	"name": "Frax Price Index",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/FPI/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x55aF5865807b196bD0197e0902746F31FBcCFa58",
-	"symbol": "Spookyswap",
+	"symbol": "BOO",
 	"name": "Spookyswap",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/15223/thumb/logo_200x200.png?1696514878",
 	"coingecko": "spookyswap",
 	"sources": [
 		"coingecko"

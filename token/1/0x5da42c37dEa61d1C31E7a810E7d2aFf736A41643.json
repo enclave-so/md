@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x5da42c37dEa61d1C31E7a810E7d2aFf736A41643",
-	"symbol": "Yes Chad",
+	"symbol": "YES",
 	"name": "Yes Chad",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/51610/thumb/YES-CHAD-dexscreener.jpg?1733812039",
 	"coingecko": "yes-chad",
 	"sources": [
 		"coingecko"

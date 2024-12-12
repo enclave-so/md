@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x6286A9e6f7e745A6D884561D88F94542d6715698",
-	"symbol": "Cryptomeda",
+	"symbol": "TECH",
 	"name": "Cryptomeda",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/17983/thumb/tech.png?1696517501",
 	"coingecko": "cryptomeda",
 	"sources": [
 		"coingecko"

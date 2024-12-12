@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x97D4F49eEb0E2c96d5EbAA71AB8418e563ecd9fd",
-	"symbol": "Liquid Staking Derivative",
+	"symbol": "LSD",
 	"name": "Liquid Staking Derivative",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/29188/thumb/LSD.jpg?1696528146",
 	"coingecko": "liquid-staking-derivative",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xeB935Deb517E4C2aBC282E5e251ed4D05DB79e93",
-	"symbol": "Fort Block Games",
+	"symbol": "FBG",
 	"name": "Fort Block Games",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35354/thumb/photo_2024-02-18_10-27-38.jpg?1708360479",
 	"coingecko": "fort-block-games",
 	"sources": [
 		"coingecko"

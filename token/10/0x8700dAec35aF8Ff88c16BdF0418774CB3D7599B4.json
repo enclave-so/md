@@ -2,12 +2,14 @@
 	"chain": 10,
 	"address": "0x8700dAec35aF8Ff88c16BdF0418774CB3D7599B4",
 	"symbol": "SNX",
-	"name": "Synthetix",
+	"name": "Synthetix Network Token",
 	"decimals": 18,
-	"logo": "https://ethereum-optimism.github.io/data/SNX/logo.svg",
+	"logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F/logo.png",
 	"coingecko": "havven",
 	"sources": [
 		"coingecko",
-		"sushiswap"
+		"optimism",
+		"sushiswap",
+		"uniswap"
 	]
 }

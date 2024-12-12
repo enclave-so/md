@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xcC98d9587786E06Fcfd94597a078a1D0389e8A15",
-	"symbol": "Infinect",
+	"symbol": "INFC",
 	"name": "Infinect",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/40088/thumb/IMG_1066.png?1725561234",
 	"coingecko": "infinect",
 	"sources": [
 		"coingecko"

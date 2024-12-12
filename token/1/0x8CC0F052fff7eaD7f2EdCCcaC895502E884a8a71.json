@@ -3,6 +3,8 @@
 	"address": "0x8CC0F052fff7eaD7f2EdCCcaC895502E884a8a71",
 	"symbol": "ARTH",
 	"name": "ARTH",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/16876/thumb/Ik5dhOq.png?1696516444",
 	"coingecko": "arth",
 	"sources": [
 		"coingecko"

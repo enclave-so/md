@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0xeDF6568618A00C6F0908Bf7758A16F76B6E04aF9",
-	"symbol": "Arianee",
+	"symbol": "ARIA20",
 	"name": "Arianee",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/5054/thumb/Aria_Logo_256.png?1696505581",
 	"coingecko": "arianee",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

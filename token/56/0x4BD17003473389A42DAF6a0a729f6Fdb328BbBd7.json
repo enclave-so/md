@@ -4,10 +4,11 @@
 	"symbol": "VAI",
 	"name": "VAI Stablecoin",
 	"decimals": 18,
-	"logo": "https://assets.coingecko.com/coins/images/13861/small/VAI_logo.png?1612413571",
+	"logo": "https://tokens.pancakeswap.finance/images/0x4BD17003473389A42DAF6a0a729f6Fdb328BbBd7.png",
 	"coingecko": "vai",
 	"sources": [
 		"coingecko",
+		"pancakeswap",
 		"sushiswap"
 	]
 }

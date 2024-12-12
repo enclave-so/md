@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x1AA51bc7eb181ce48CE626Bf62f8956Fa9555136",
-	"symbol": "PAWZONE",
+	"symbol": "PAW",
 	"name": "PAWZONE",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/29598/thumb/PAW_Token_Logo.png?1696528536",
 	"coingecko": "pawzone",
 	"sources": [
 		"coingecko"

@@ -1,0 +1,11 @@
+{
+	"chain": 56,
+	"address": "0x6a0b66710567b6beb81A71F7e9466450a91a384b",
+	"symbol": "PEX",
+	"name": "PearDAO",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x6a0b66710567b6beb81A71F7e9466450a91a384b.png",
+	"sources": [
+		"pancakeswap"
+	]
+}

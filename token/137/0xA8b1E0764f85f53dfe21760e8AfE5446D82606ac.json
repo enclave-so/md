@@ -1,0 +1,11 @@
+{
+	"chain": 137,
+	"address": "0xA8b1E0764f85f53dfe21760e8AfE5446D82606ac",
+	"symbol": "BAND",
+	"name": "Band Protocol",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/9545/thumb/band-protocol.png?1568730326",
+	"sources": [
+		"uniswap"
+	]
+}

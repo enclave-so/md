@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x864cb5194722d5a1596F4BE8B899916d30daD8d8",
-	"symbol": "LEDOG (DOG)",
-	"name": "LEDOG (DOG)",
+	"symbol": "DOG",
+	"name": "LEDOG  DOG ",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/50737/thumb/IMG_20241013_233001_983_resized_670c0f8a46266_%281%29.jpg?1728916666",
 	"coingecko": "ledog-dog",
 	"sources": [
 		"coingecko"

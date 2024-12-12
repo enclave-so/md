@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x5228a22e72ccC52d415EcFd199F99D0665E7733b",
-	"symbol": "pTokens BTC [OLD]",
-	"name": "pTokens BTC [OLD]",
+	"symbol": "PBTC",
+	"name": "pTokens BTC  OLD ",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/10805/thumb/J51iIea.png?1696510764",
 	"coingecko": "ptokens-btc",
 	"sources": [
 		"coingecko"

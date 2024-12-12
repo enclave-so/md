@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xE5CAeF4Af8780E59Df925470b050Fb23C43CA68C",
-	"symbol": "Ferrum Network",
+	"symbol": "FRM",
 	"name": "Ferrum Network",
+	"decimals": 6,
+	"logo": "https://assets.coingecko.com/coins/images/8251/thumb/FRM.png?1696508455",
 	"coingecko": "ferrum-network",
 	"sources": [
 		"coingecko"

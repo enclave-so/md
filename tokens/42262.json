@@ -1,36 +1,6 @@
 [
 	{
 		"chain": 42262,
-		"address": "0x4F43717B20ae319Aa50BC5B2349B93af5f7Ac823",
-		"symbol": "Terra Classic (Wormhole)",
-		"name": "Terra Classic (Wormhole)",
-		"coingecko": "luna-wormhole",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 42262,
-		"address": "0xd17dDAC91670274F7ba1590a06EcA0f2FD2b12bc",
-		"symbol": "SOL (Wormhole)",
-		"name": "SOL (Wormhole)",
-		"coingecko": "sol-wormhole",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 42262,
-		"address": "0x24285C5232ce3858F00bacb950Cae1f59d1b2704",
-		"symbol": "Bridged Tether (Wormhole)",
-		"name": "Bridged Tether (Wormhole)",
-		"coingecko": "tether-usd-wormhole",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 42262,
 		"address": "0xE8A638b3B7565Ee7c5eb9755E58552aFc87b94DD",
 		"symbol": "Bridged USD Coin (Wormhole Ethereum)",
 		"name": "Bridged USD Coin (Wormhole Ethereum)",
@@ -51,10 +21,10 @@
 	},
 	{
 		"chain": 42262,
-		"address": "0x32847e63E99D3a044908763056e25694490082F8",
-		"symbol": "Avalanche (Wormhole)",
-		"name": "Avalanche (Wormhole)",
-		"coingecko": "avalanche-wormhole",
+		"address": "0x21C718C22D52d0F3a789b752D4c2fD5908a8A733",
+		"symbol": "Wrapped ROSE",
+		"name": "Wrapped ROSE",
+		"coingecko": "wrapped-rose",
 		"sources": [
 			"coingecko"
 		]
@@ -81,6 +51,16 @@
 	},
 	{
 		"chain": 42262,
+		"address": "0x24285C5232ce3858F00bacb950Cae1f59d1b2704",
+		"symbol": "Bridged Tether (Wormhole)",
+		"name": "Bridged Tether (Wormhole)",
+		"coingecko": "tether-usd-wormhole",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42262,
 		"address": "0xdC19A122e268128B5eE20366299fc7b5b199C8e3",
 		"symbol": "Bridged Tether (Wormhole Ethereum)",
 		"name": "Bridged Tether (Wormhole Ethereum)",
@@ -91,10 +71,30 @@
 	},
 	{
 		"chain": 42262,
-		"address": "0x21C718C22D52d0F3a789b752D4c2fD5908a8A733",
-		"symbol": "Wrapped ROSE",
-		"name": "Wrapped ROSE",
-		"coingecko": "wrapped-rose",
+		"address": "0x32847e63E99D3a044908763056e25694490082F8",
+		"symbol": "Avalanche (Wormhole)",
+		"name": "Avalanche (Wormhole)",
+		"coingecko": "avalanche-wormhole",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42262,
+		"address": "0x4F43717B20ae319Aa50BC5B2349B93af5f7Ac823",
+		"symbol": "Terra Classic (Wormhole)",
+		"name": "Terra Classic (Wormhole)",
+		"coingecko": "luna-wormhole",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42262,
+		"address": "0xd17dDAC91670274F7ba1590a06EcA0f2FD2b12bc",
+		"symbol": "SOL (Wormhole)",
+		"name": "SOL (Wormhole)",
+		"coingecko": "sol-wormhole",
 		"sources": [
 			"coingecko"
 		]

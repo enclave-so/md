@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xC64500DD7B0f1794807e67802F8Abbf5F8Ffb054",
-	"symbol": "Locus Chain",
+	"symbol": "LOCUS",
 	"name": "Locus Chain",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/6903/thumb/32169759_2050428658545017_7287666225423843328_n.jpg?1696507221",
 	"coingecko": "locus-chain",
 	"sources": [
 		"coingecko"

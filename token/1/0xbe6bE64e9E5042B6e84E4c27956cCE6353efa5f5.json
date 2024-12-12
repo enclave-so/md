@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xbe6bE64e9E5042B6e84E4c27956cCE6353efa5f5",
-	"symbol": "Beg",
+	"symbol": "BEG",
 	"name": "Beg",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/32799/thumb/beg100px.png?1699446876",
 	"coingecko": "beg",
 	"sources": [
 		"coingecko"

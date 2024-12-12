@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0x8B21e9b7dAF2c4325bf3D18c1BeB79A347fE902A",
+	"symbol": "COLLAB",
+	"name": "Collab.Land",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/COLLAB/logo.png",
+	"sources": [
+		"optimism"
+	]
+}

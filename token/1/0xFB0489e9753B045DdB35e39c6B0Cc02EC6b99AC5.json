@@ -3,6 +3,8 @@
 	"address": "0xFB0489e9753B045DdB35e39c6B0Cc02EC6b99AC5",
 	"symbol": "AGG",
 	"name": "AGG",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/36772/thumb/agglogo_200.png?1712286053",
 	"coingecko": "agg",
 	"sources": [
 		"coingecko"

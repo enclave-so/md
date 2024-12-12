@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x4D4f3715050571A447FfFa2Cd4Cf091C7014CA5c",
-	"symbol": "Summer",
+	"symbol": "SUMMER",
 	"name": "Summer",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/25365/thumb/summer.png?1696524498",
 	"coingecko": "summer",
 	"sources": [
 		"coingecko"

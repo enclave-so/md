@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x3301Ee63Fb29F863f2333Bd4466acb46CD8323E6",
-	"symbol": "Akita Inu",
+	"symbol": "AKITA",
 	"name": "Akita Inu",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14115/thumb/akita.png?1696513836",
 	"coingecko": "akita-inu",
 	"sources": [
 		"coingecko"

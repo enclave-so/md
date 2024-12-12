@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0xFfBa7529AC181c2Ee1844548e6D7061c9A597dF4",
-	"symbol": "Ternoa",
-	"name": "Ternoa",
+	"symbol": "CAPS",
+	"name": "Capsule Coin",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0xFfBa7529AC181c2Ee1844548e6D7061c9A597dF4.png",
 	"coingecko": "coin-capsule",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

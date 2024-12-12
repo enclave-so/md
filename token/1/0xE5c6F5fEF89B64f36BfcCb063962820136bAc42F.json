@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xE5c6F5fEF89B64f36BfcCb063962820136bAc42F",
-	"symbol": "Hoppy The Frog",
+	"symbol": "HOPPY",
 	"name": "Hoppy The Frog",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/36745/thumb/IMG_0207-modified.png?1714321914",
 	"coingecko": "hoppy-the-frog",
 	"sources": [
 		"coingecko"

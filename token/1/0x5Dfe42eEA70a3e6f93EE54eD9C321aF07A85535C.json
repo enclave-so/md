@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x5Dfe42eEA70a3e6f93EE54eD9C321aF07A85535C",
-	"symbol": "Union Finance",
+	"symbol": "UNION",
 	"name": "Union Finance",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30556/thumb/Mark.png?1712560901",
 	"coingecko": "union-finance",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xFDb15e5E6799Be72798b1ccFAEcbF186Bf73A0c4",
-	"symbol": "NitroEX",
+	"symbol": "NTX",
 	"name": "NitroEX",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/13976/thumb/ntx-icon.png?1696513709",
 	"coingecko": "nitroex",
 	"sources": [
 		"coingecko"

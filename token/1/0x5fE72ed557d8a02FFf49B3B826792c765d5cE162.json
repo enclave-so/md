@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x5fE72ed557d8a02FFf49B3B826792c765d5cE162",
-	"symbol": "Shezmu",
+	"symbol": "SHEZMU",
 	"name": "Shezmu",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31772/thumb/200x200.png?1721704460",
 	"coingecko": "shezmu",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x5a1bcFa16e3EDFF07DFA60427BD0b51736ea8d37",
-	"symbol": "Mgga",
+	"symbol": "MGGA",
 	"name": "Mgga",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/51006/thumb/IMG_4895.jpeg?1729706214",
 	"coingecko": "mgga",
 	"sources": [
 		"coingecko"

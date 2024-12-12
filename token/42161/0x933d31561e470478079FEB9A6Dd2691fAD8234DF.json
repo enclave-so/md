@@ -1,0 +1,11 @@
+{
+	"chain": 42161,
+	"address": "0x933d31561e470478079FEB9A6Dd2691fAD8234DF",
+	"symbol": "OCEAN",
+	"name": "Ocean Protocol",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/3687/thumb/ocean-protocol-logo.jpg?1547038686",
+	"sources": [
+		"uniswap"
+	]
+}

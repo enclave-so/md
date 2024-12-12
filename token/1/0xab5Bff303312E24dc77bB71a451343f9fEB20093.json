@@ -3,6 +3,8 @@
 	"address": "0xab5Bff303312E24dc77bB71a451343f9fEB20093",
 	"symbol": "GULL",
 	"name": "GULL",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/51373/thumb/gulllogo.png?1730938086",
 	"coingecko": "gull",
 	"sources": [
 		"coingecko"

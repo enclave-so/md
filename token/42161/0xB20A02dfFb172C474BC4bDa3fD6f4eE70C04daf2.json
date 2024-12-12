@@ -1,0 +1,11 @@
+{
+	"chain": 42161,
+	"address": "0xB20A02dfFb172C474BC4bDa3fD6f4eE70C04daf2",
+	"symbol": "MIM",
+	"name": "Magic Internet Money",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/16786/thumb/mimlogopng.png?1624979612",
+	"sources": [
+		"uniswap"
+	]
+}

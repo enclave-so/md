@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0x5512014efa6Cd57764Fa743756F7a6Ce3358cC83",
-	"symbol": "EasyFi V2",
-	"name": "EasyFi V2",
+	"symbol": "EZ",
+	"name": "Easy V2",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x5512014efa6Cd57764Fa743756F7a6Ce3358cC83.png",
 	"coingecko": "easyfi",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

@@ -1,0 +1,11 @@
+{
+	"chain": 42161,
+	"address": "0x9fA891e1dB0a6D1eEAC4B929b5AAE1011C79a204",
+	"symbol": "REN",
+	"name": "Republic Token",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x408e41876cCCDC0F92210600ef50372656052a38/logo.png",
+	"sources": [
+		"uniswap"
+	]
+}

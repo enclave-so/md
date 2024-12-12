@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xc0200B1c6598a996a339196259fFdC30C1f44339",
-	"symbol": "El Risitas",
+	"symbol": "KEK",
 	"name": "El Risitas",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/33746/thumb/IMG_3232.jpeg?1702938263",
 	"coingecko": "el-risitas",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x5Ea630e00D6eE438d3deA1556A110359ACdc10A9",
-	"symbol": "Stake DAO sdPENDLE",
+	"symbol": "SDPENDLE",
 	"name": "Stake DAO sdPENDLE",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/40059/thumb/PENDLE.png?1725450655",
 	"coingecko": "stake-dao-sdpendle",
 	"sources": [
 		"coingecko"

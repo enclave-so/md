@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x57B96D4aF698605563A4653D882635da59Bf11AF",
-	"symbol": "RCH Token",
+	"symbol": "RCH",
 	"name": "RCH Token",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/38554/thumb/rch.png?1717986851",
 	"coingecko": "rch-token",
 	"sources": [
 		"coingecko"

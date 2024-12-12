@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x050D94685c6B0477E1Fc555888AF6e2bB8dFBda5",
-	"symbol": "Inu.",
-	"name": "Inu.",
+	"symbol": "INU",
+	"name": "Inu ",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/26259/thumb/inu_tongue_small.gif?1714581358",
 	"coingecko": "inu",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x6DC6A27822aE2cA3A47dA39A2f2bBd525dD693F8",
-	"symbol": "Cyberdoge",
+	"symbol": "CYDOGE",
 	"name": "Cyberdoge",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/34085/thumb/CD_Logo_200x200.png?1703910686",
 	"coingecko": "cyberdoge-2",
 	"sources": [
 		"coingecko"

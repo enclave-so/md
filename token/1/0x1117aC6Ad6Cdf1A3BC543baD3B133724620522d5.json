@@ -2,9 +2,9 @@
 	"chain": 1,
 	"address": "0x1117aC6Ad6Cdf1A3BC543baD3B133724620522d5",
 	"symbol": "MODA",
-	"name": "moda",
+	"name": "MODA DAO",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x1117aC6Ad6Cdf1A3BC543baD3B133724620522d5.jpg",
+	"logo": "https://assets.coingecko.com/coins/images/20870/thumb/ModaDAO__logomark-primary_3x.png?1696520264",
 	"coingecko": "moda-dao",
 	"sources": [
 		"coingecko",

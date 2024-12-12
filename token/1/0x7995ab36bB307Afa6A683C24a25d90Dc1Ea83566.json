@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x7995ab36bB307Afa6A683C24a25d90Dc1Ea83566",
-	"symbol": "HitChain",
+	"symbol": "HIT",
 	"name": "HitChain",
+	"decimals": 6,
+	"logo": "https://assets.coingecko.com/coins/images/5555/thumb/hitchain.png?1696506024",
 	"coingecko": "hitchain",
 	"sources": [
 		"coingecko"

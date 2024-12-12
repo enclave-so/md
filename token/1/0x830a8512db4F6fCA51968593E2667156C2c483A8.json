@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x830a8512db4F6fCA51968593E2667156C2c483A8",
-	"symbol": "WEN Token",
+	"symbol": "WEN",
 	"name": "WEN Token",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30400/thumb/kxtrOzUd_400x400.jpg?1696529290",
 	"coingecko": "wen-token",
 	"sources": [
 		"coingecko"

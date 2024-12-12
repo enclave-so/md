@@ -1,0 +1,11 @@
+{
+	"chain": 56,
+	"address": "0x346575fC7f07E6994D76199E41D13dC1575322E1",
+	"symbol": "DLP",
+	"name": "WBNB-RDNT Pancake LP",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x346575fC7f07E6994D76199E41D13dC1575322E1.png",
+	"sources": [
+		"pancakeswap"
+	]
+}

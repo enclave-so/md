@@ -3,6 +3,8 @@
 	"address": "0x180dAe91D6d56235453a892d2e56a3E40Ba81DF8",
 	"symbol": "DOJO",
 	"name": "DOJO",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/16396/thumb/074606deafab3872.png?1696515994",
 	"coingecko": "dojo",
 	"sources": [
 		"coingecko"

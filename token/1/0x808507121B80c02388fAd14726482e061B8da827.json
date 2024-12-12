@@ -4,10 +4,12 @@
 	"symbol": "PENDLE",
 	"name": "Pendle",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x808507121B80c02388fAd14726482e061B8da827/logo.png",
+	"logo": "https://assets.coingecko.com/coins/images/15069/thumb/Pendle_Logo_Normal-03.png?1696514728",
 	"coingecko": "pendle",
 	"sources": [
 		"coingecko",
+		"indexcoop",
+		"optimism",
 		"sushiswap"
 	]
 }

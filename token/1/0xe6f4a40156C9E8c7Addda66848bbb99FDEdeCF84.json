@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xe6f4a40156C9E8c7Addda66848bbb99FDEdeCF84",
-	"symbol": "DeTensor",
+	"symbol": "DETENSOR",
 	"name": "DeTensor",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/36596/thumb/detensor.jpeg?1711950178",
 	"coingecko": "detensor",
 	"sources": [
 		"coingecko"

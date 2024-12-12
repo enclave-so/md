@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x2e44f3f609ff5aA4819B323FD74690f07C3607c4",
-	"symbol": "PinLink",
+	"symbol": "PIN",
 	"name": "PinLink",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/51611/thumb/200x00.png?1731616756",
 	"coingecko": "pinlink",
 	"sources": [
 		"coingecko"

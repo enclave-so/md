@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xa13eDD1A27Ab4Fb8982C033Acb082cdb5f98B79b",
-	"symbol": "doge in a memes world",
+	"symbol": "DEW",
 	"name": "doge in a memes world",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/38390/thumb/1000027257.png?1717419113",
 	"coingecko": "doge-in-a-memes-world",
 	"sources": [
 		"coingecko"

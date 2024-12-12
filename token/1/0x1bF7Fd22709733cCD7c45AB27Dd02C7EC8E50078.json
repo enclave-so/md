@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x1bF7Fd22709733cCD7c45AB27Dd02C7EC8E50078",
-	"symbol": "Quiztok",
+	"symbol": "QTCON",
 	"name": "Quiztok",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/8208/thumb/QTCON.png?1696508415",
 	"coingecko": "quiztok",
 	"sources": [
 		"coingecko"

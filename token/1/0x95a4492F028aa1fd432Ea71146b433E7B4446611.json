@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x95a4492F028aa1fd432Ea71146b433E7B4446611",
-	"symbol": "APY.Finance",
-	"name": "APY.Finance",
+	"symbol": "APY",
+	"name": "APY Finance",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/13041/thumb/1*AvkD-OLocausbxqUzezZ0A.png?1696512828",
 	"coingecko": "apy-finance",
 	"sources": [
 		"coingecko"

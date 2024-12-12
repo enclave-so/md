@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xb17C88bDA07D28B3838E0c1dE6a30eAfBCF52D85",
-	"symbol": "Shyft Network",
+	"symbol": "SHFT",
 	"name": "Shyft Network",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14534/thumb/TOKEN-Gradient.png?1696514218",
 	"coingecko": "shyft-network-2",
 	"sources": [
 		"coingecko"

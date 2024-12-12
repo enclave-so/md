@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x225C119fFaf1CaddCfCDb493283eDF4b816Bf773",
-	"symbol": "MEV Capital Usual Boosted USDT",
+	"symbol": "USUALUSDT",
 	"name": "MEV Capital Usual Boosted USDT",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/52394/thumb/mevcapitalc.png?1733283255",
 	"coingecko": "mev-capital-usual-boosted-usdt",
 	"sources": [
 		"coingecko"

@@ -3,6 +3,8 @@
 	"address": "0x7a2Bc711E19ba6aff6cE8246C546E8c4B4944DFD",
 	"symbol": "WAXE",
 	"name": "WAXE",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/13508/thumb/waxe_logo.png?1696513270",
 	"coingecko": "waxe",
 	"sources": [
 		"coingecko"

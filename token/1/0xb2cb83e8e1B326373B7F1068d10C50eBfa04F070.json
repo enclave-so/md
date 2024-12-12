@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xb2cb83e8e1B326373B7F1068d10C50eBfa04F070",
-	"symbol": "Pepito",
+	"symbol": "PEPI",
 	"name": "Pepito",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/30062/thumb/IMG_20230428_101018_444.png?1696528984",
 	"coingecko": "pepito",
 	"sources": [
 		"coingecko"

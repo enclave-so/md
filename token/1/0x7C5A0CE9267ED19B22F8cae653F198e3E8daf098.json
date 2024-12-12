@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x7C5A0CE9267ED19B22F8cae653F198e3E8daf098",
-	"symbol": "Santiment Network",
+	"symbol": "SAN",
 	"name": "Santiment Network",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/797/thumb/santiment-network-token.png?1696501947",
 	"coingecko": "santiment-network-token",
 	"sources": [
 		"coingecko"

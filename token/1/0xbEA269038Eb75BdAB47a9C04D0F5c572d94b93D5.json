@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xbEA269038Eb75BdAB47a9C04D0F5c572d94b93D5",
-	"symbol": "Wrapped FIO",
+	"symbol": "WFIO",
 	"name": "Wrapped FIO",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/29183/thumb/fio_light_favicon_transparent_200x200.png?1696528141",
 	"coingecko": "wrapped-fio",
 	"sources": [
 		"coingecko"

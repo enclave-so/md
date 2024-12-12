@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xc8DFb57d83bF561457b1A3f6CE22956BB554bCab",
-	"symbol": "TradeMaster.ninja",
-	"name": "TradeMaster.ninja",
+	"symbol": "TRDM",
+	"name": "TradeMaster ninja",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/36190/thumb/Transparent_200x200.png?1710761061",
 	"coingecko": "trademaster-ninja",
 	"sources": [
 		"coingecko"

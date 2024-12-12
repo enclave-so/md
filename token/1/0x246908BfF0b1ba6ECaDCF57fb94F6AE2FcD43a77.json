@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x246908BfF0b1ba6ECaDCF57fb94F6AE2FcD43a77",
-	"symbol": "Divi",
+	"symbol": "DIVI",
 	"name": "Divi",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/1273/thumb/red_logomark.png?1696502345",
 	"coingecko": "divi",
 	"sources": [
 		"coingecko"

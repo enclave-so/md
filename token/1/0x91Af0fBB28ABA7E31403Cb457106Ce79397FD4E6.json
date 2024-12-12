@@ -4,10 +4,11 @@
 	"symbol": "AERGO",
 	"name": "Aergo",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x91Af0fBB28ABA7E31403Cb457106Ce79397FD4E6/logo.png",
+	"logo": "https://assets.coingecko.com/coins/images/4490/thumb/aergo.png?1647696770",
 	"coingecko": "aergo",
 	"sources": [
 		"coingecko",
-		"sushiswap"
+		"sushiswap",
+		"uniswap"
 	]
 }

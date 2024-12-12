@@ -4,10 +4,11 @@
 	"symbol": "DUCK",
 	"name": "Unit Protocol",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x92E187a03B6CD19CB6AF293ba17F2745Fd2357D5/logo.png",
+	"logo": "https://assets.coingecko.com/coins/images/13359/thumb/6f38719f-fe83-44ff-af30-7965fd23ac06.png?1696513124",
 	"coingecko": "unit-protocol-duck",
 	"sources": [
 		"coingecko",
+		"optimism",
 		"sushiswap"
 	]
 }

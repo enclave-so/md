@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x516D339afA72f6959b8E06a31FBc32Da3E49348B",
-	"symbol": "Connect",
+	"symbol": "CNCT",
 	"name": "Connect",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/39932/thumb/IMG_4033.jpeg?1724836586",
 	"coingecko": "connect-2",
 	"sources": [
 		"coingecko"

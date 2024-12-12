@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x13DBd5394c2c7E4bDb85B1838286Faa66532A262",
-	"symbol": "Sun Tzu",
+	"symbol": "TZU",
 	"name": "Sun Tzu",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30689/thumb/TZU_CG.png?1696529558",
 	"coingecko": "sun-tzu",
 	"sources": [
 		"coingecko"

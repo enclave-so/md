@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xEAA78305C19A292e5c141108f0880333A840a2bc",
-	"symbol": "BitNasdaq",
+	"symbol": "BNQ",
 	"name": "BitNasdaq",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/33463/thumb/BNQ_Token.png?1701928201",
 	"coingecko": "bitnasdaq",
 	"sources": [
 		"coingecko"

@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0x4e7f408be2d4E9D60F49A64B89Bb619c84C7c6F5",
-	"symbol": "Perpetual Protocol",
+	"symbol": "PERP",
 	"name": "Perpetual Protocol",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/12381/thumb/60d18e06844a844ad75901a9_mark_only_03.png?1628674771",
 	"coingecko": "perpetual-protocol",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"uniswap"
 	]
 }

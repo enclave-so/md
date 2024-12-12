@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x12e2b8033420270db2F3b328E32370Cb5B2Ca134",
-	"symbol": "SafePal",
+	"symbol": "SFP",
 	"name": "SafePal",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/13905/thumb/sfp.png?1696513647",
 	"coingecko": "safepal",
 	"sources": [
 		"coingecko"

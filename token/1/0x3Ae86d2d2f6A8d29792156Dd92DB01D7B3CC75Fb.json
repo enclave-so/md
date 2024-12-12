@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x3Ae86d2d2f6A8d29792156Dd92DB01D7B3CC75Fb",
-	"symbol": "StakeEase Restaked ETH",
+	"symbol": "SXETH",
 	"name": "StakeEase Restaked ETH",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/50763/thumb/sxeth-removebg-preview.png?1729052241",
 	"coingecko": "stakeease-restaked-eth",
 	"sources": [
 		"coingecko"

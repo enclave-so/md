@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0x94b69263FCA20119Ae817b6f783Fc0F13B02ad50",
-	"symbol": "League of Ancients",
-	"name": "League of Ancients",
+	"symbol": "LOA",
+	"name": "League Of Ancients",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x94b69263FCA20119Ae817b6f783Fc0F13B02ad50.png",
 	"coingecko": "league-of-ancients",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

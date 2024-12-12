@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0x84e9a6F9D240FdD33801f7135908BfA16866939A",
-	"symbol": "GAMEE",
+	"symbol": "GMEE",
 	"name": "GAMEE",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x84e9a6F9D240FdD33801f7135908BfA16866939A.png",
 	"coingecko": "gamee",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

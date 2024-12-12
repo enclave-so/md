@@ -1,0 +1,11 @@
+{
+	"chain": 84532,
+	"address": "0x178898686F23a50CCAC17962df41395484804a6B",
+	"symbol": "SEAM",
+	"name": "Seamless",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/SEAM/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

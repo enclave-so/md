@@ -1,10 +1,15 @@
 {
 	"chain": 8453,
 	"address": "0x4200000000000000000000000000000000000006",
-	"symbol": "L2 Standard Bridged WETH (Base)",
-	"name": "L2 Standard Bridged WETH (Base)",
+	"symbol": "WETH",
+	"name": "Wrapped Ether",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/WETH/logo.png",
 	"coingecko": "l2-standard-bridged-weth-base",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"indexcoop",
+		"optimism",
+		"uniswap"
 	]
 }

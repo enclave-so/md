@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xef3dAa5fDa8Ad7aabFF4658f1F78061fd626B8f0",
-	"symbol": "MUZZLE",
+	"symbol": "MUZZ",
 	"name": "MUZZLE",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35527/thumb/muzz-token-200.png?1709024198",
 	"coingecko": "muzzle",
 	"sources": [
 		"coingecko"

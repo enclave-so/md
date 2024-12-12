@@ -1,10 +1,13 @@
 {
 	"chain": 137,
 	"address": "0x1a13F4Ca1d028320A707D99520AbFefca3998b7F",
-	"symbol": "Aave Polygon USDC",
-	"name": "Aave Polygon USDC",
+	"symbol": "amUSDC",
+	"name": "Aave Matic Market USDC",
+	"decimals": 6,
+	"logo": "https://assets.coingecko.com/coins/images/17249/large/amUSDC_2x.png",
 	"coingecko": "aave-polygon-usdc",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"indexcoop"
 	]
 }

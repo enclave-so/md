@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0xf31698DDAd0d11160Fe85c500397A470CD3d492E",
-	"symbol": "Wexo",
+	"symbol": "WEXO",
 	"name": "Wexo",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/33801/thumb/wexo_token_200x200.png?1702991908",
 	"coingecko": "wexo",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

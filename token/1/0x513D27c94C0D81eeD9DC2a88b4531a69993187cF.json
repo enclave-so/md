@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x513D27c94C0D81eeD9DC2a88b4531a69993187cF",
-	"symbol": "Kernel Staked ETH",
+	"symbol": "KSETH",
 	"name": "Kernel Staked ETH",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/39085/thumb/ksETH.png?1720993025",
 	"coingecko": "kernel-staked-eth",
 	"sources": [
 		"coingecko"

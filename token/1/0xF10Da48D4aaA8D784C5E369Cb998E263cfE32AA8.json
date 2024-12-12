@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xF10Da48D4aaA8D784C5E369Cb998E263cfE32AA8",
-	"symbol": "B-MONEY",
-	"name": "B-MONEY",
+	"symbol": "BMONEY",
+	"name": "B MONEY",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/38136/thumb/bomeney_logo_final.jpg?1717288676",
 	"coingecko": "b-money",
 	"sources": [
 		"coingecko"

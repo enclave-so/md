@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xA562912e1328eEA987E04c2650EfB5703757850C",
-	"symbol": "Drops",
+	"symbol": "DROPS",
 	"name": "Drops",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35795/thumb/IMG_1170_%282%29.jpeg?1709801958",
 	"coingecko": "drops",
 	"sources": [
 		"coingecko"

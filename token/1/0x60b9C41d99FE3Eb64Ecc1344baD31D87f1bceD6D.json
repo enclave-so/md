@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x60b9C41d99FE3Eb64Ecc1344baD31D87f1bceD6D",
-	"symbol": "Stable",
+	"symbol": "STABLE",
 	"name": "Stable",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31148/thumb/stable_200.png?1696529976",
 	"coingecko": "usdfi-stable",
 	"sources": [
 		"coingecko"

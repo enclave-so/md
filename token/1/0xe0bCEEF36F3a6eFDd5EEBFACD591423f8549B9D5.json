@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0xe0bCEEF36F3a6eFDd5EEBFACD591423f8549B9D5",
-	"symbol": "Defactor",
+	"symbol": "FACTR",
 	"name": "Defactor",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/19201/thumb/jFLSu4U9_400x400.png?1696518648",
 	"coingecko": "defactor",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

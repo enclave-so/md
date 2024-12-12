@@ -1,0 +1,11 @@
+{
+	"chain": 8453,
+	"address": "0x17d2628D30F8e9E966c9Ba831c9B9b01ea8Ea75C",
+	"symbol": "ISK",
+	"name": "ISKRA TOKEN",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/ISK/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

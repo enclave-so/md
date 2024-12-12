@@ -2,12 +2,13 @@
 	"chain": 1,
 	"address": "0xd26114cd6EE289AccF82350c8d8487fedB8A0C07",
 	"symbol": "OMG",
-	"name": "OmiseGO",
+	"name": "OMG Network",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/omg.jpg",
+	"logo": "https://assets.coingecko.com/coins/images/776/thumb/OMG_Network.jpg?1591167168",
 	"coingecko": "omisego",
 	"sources": [
 		"coingecko",
-		"sushiswap"
+		"sushiswap",
+		"uniswap"
 	]
 }

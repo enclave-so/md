@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0xD69ee2e508363FEd57f89917D5ca03e715ee5519",
-	"symbol": "Dechat",
-	"name": "Dechat",
+	"symbol": "DECHAT",
+	"name": "CHAT",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0xD69ee2e508363FEd57f89917D5ca03e715ee5519.png",
 	"coingecko": "dechat",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

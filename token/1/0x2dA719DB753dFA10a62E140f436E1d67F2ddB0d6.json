@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x2dA719DB753dFA10a62E140f436E1d67F2ddB0d6",
-	"symbol": "Cere Network",
+	"symbol": "CERE",
 	"name": "Cere Network",
+	"decimals": 10,
+	"logo": "https://assets.coingecko.com/coins/images/20008/thumb/cere.png?1696519430",
 	"coingecko": "cere-network",
 	"sources": [
 		"coingecko"

@@ -4,8 +4,9 @@
 	"symbol": "FUEL",
 	"name": "Fuel",
 	"decimals": 18,
-	"logo": "https://assets.coingecko.com/coins/images/13305/small/bW_WB5Rz_400x400.jpg?1607325041",
+	"logo": "https://tokens.pancakeswap.finance/images/0x2090c8295769791ab7A3CF1CC6e0AA19F35e441A.png",
 	"sources": [
+		"pancakeswap",
 		"sushiswap"
 	]
 }

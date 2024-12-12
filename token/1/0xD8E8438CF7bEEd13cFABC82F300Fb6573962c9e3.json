@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xD8E8438CF7bEEd13cFABC82F300Fb6573962c9e3",
-	"symbol": "Pepoclown",
+	"symbol": "HONK",
 	"name": "Pepoclown",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/38498/thumb/Pepoclown.png?1717709240",
 	"coingecko": "pepoclown",
 	"sources": [
 		"coingecko"

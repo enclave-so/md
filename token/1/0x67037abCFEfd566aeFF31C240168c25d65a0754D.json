@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x67037abCFEfd566aeFF31C240168c25d65a0754D",
-	"symbol": "ZAIHO",
+	"symbol": "ZAI",
 	"name": "ZAIHO",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/34047/thumb/ZAIHO_logo200.png?1703733095",
 	"coingecko": "zaiho",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x78e927FcFB062599D8295163F0808A6FCDa7DB24",
-	"symbol": "Turbo Browser",
+	"symbol": "TURBO",
 	"name": "Turbo Browser",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/50605/thumb/Turbo_Browser.png?1728473001",
 	"coingecko": "turbo-browser",
 	"sources": [
 		"coingecko"

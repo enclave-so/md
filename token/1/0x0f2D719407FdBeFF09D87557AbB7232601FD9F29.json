@@ -4,10 +4,11 @@
 	"symbol": "SYN",
 	"name": "Synapse",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x0f2D719407FdBeFF09D87557AbB7232601FD9F29/logo.png",
+	"logo": "https://assets.coingecko.com/coins/images/18024/thumb/syn.png?1635002049",
 	"coingecko": "synapse-2",
 	"sources": [
 		"coingecko",
-		"sushiswap"
+		"sushiswap",
+		"uniswap"
 	]
 }

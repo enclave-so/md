@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x9e6b19874e97fe8E8CAD77f2c0AB5E7a693E5dbf",
-	"symbol": "StrongHands Finance",
+	"symbol": "ISHND",
 	"name": "StrongHands Finance",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/20158/thumb/ISHND_512x512px.png?1696519571",
 	"coingecko": "stronghands-finance",
 	"sources": [
 		"coingecko"

@@ -1,0 +1,11 @@
+{
+	"chain": 8453,
+	"address": "0xc6955B85b622369a54Cc8C6DBeCb8e03c0885BD8",
+	"symbol": "DPI",
+	"name": "DeFi Pulse Index",
+	"decimals": 18,
+	"logo": "https://cdn.indexcoop.com/dpi.svg",
+	"sources": [
+		"indexcoop"
+	]
+}

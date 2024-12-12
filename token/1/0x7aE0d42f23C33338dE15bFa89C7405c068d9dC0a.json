@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x7aE0d42f23C33338dE15bFa89C7405c068d9dC0a",
-	"symbol": "Shibaverse",
+	"symbol": "VERSE",
 	"name": "Shibaverse",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/18407/thumb/logo_200.png?1696517897",
 	"coingecko": "shibaverse",
 	"sources": [
 		"coingecko"

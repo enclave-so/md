@@ -1,0 +1,12 @@
+{
+	"chain": 8453,
+	"address": "0x75f2231A289Ea35895246b21e9c6E5BbF5ce69ED",
+	"symbol": "ALT",
+	"name": "AltLayer",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/34608/standard/Logomark_200x200.png",
+	"sources": [
+		"optimism",
+		"uniswap"
+	]
+}

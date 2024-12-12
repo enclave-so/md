@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x5EeAA2DCb23056F4E8654a349E57eBE5e76b5e6e",
-	"symbol": "Virtue Poker Points",
+	"symbol": "VPP",
 	"name": "Virtue Poker Points",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/3386/thumb/vp-logo-200x200.png?1696504084",
 	"coingecko": "virtue-poker",
 	"sources": [
 		"coingecko"

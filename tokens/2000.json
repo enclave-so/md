@@ -1,20 +1,60 @@
 [
 	{
 		"chain": 2000,
-		"address": "0x6FC4563460d5f45932C473334d5c1C5B4aEA0E01",
-		"symbol": "YodeSwap",
-		"name": "YodeSwap",
-		"coingecko": "yodeswap",
+		"address": "0xEBFB110f6d89f79ACd2756dEaba264b791294b95",
+		"symbol": "bm2k",
+		"name": "bm2k",
+		"coingecko": "bm2k",
 		"sources": [
 			"coingecko"
 		]
 	},
 	{
 		"chain": 2000,
-		"address": "0xe3fcA919883950c5cD468156392a6477Ff5d18de",
-		"symbol": "Doge Eat Doge",
-		"name": "Doge Eat Doge",
-		"coingecko": "doge-eat-doge",
+		"address": "0xFA8b5709E18ab9Bebc87b90f3bbb02fCEBcfA6D8",
+		"symbol": "Cardinals (DRC-20)",
+		"name": "Cardinals (DRC-20)",
+		"coingecko": "cardinals",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 2000,
+		"address": "0x8a764cF73438dE795c98707B07034e577Af54825",
+		"symbol": "Doge Inu",
+		"name": "Doge Inu",
+		"coingecko": "doge-inu",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 2000,
+		"address": "0xF480f38C366dAaC4305dC484b2Ad7a496FF00CeA",
+		"symbol": "Dogira",
+		"name": "Dogira",
+		"coingecko": "dogira",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 2000,
+		"address": "0x412d82e5Fa51587D184F83Da618929ea0Dd04eaA",
+		"symbol": "Unielon (DRC-20)",
+		"name": "Unielon (DRC-20)",
+		"coingecko": "unielon",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 2000,
+		"address": "0x7B4328c127B85369D9f82ca0503B000D09CF9180",
+		"symbol": "Dogechain",
+		"name": "Dogechain",
+		"coingecko": "dogechain",
 		"sources": [
 			"coingecko"
 		]
@@ -25,36 +65,6 @@
 		"symbol": "IceCreamSwap",
 		"name": "IceCreamSwap",
 		"coingecko": "icecream",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 2000,
-		"address": "0xB7ddC6414bf4F5515b52D8BdD69973Ae205ff101",
-		"symbol": "Wrapped WDOGE",
-		"name": "Wrapped WDOGE",
-		"coingecko": "wrapped-wdoge",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 2000,
-		"address": "0x264c1383EA520f73dd837F915ef3a732e204a493",
-		"symbol": "Duckereum",
-		"name": "Duckereum",
-		"coingecko": "duckereum",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 2000,
-		"address": "0x765277EebeCA2e31912C9946eAe1021199B39C61",
-		"symbol": "Multichain Bridged USDC (Dogechain)",
-		"name": "Multichain Bridged USDC (Dogechain)",
-		"coingecko": "multichain-bridged-usdc-dogechain",
 		"sources": [
 			"coingecko"
 		]
@@ -81,26 +91,6 @@
 	},
 	{
 		"chain": 2000,
-		"address": "0xFA8b5709E18ab9Bebc87b90f3bbb02fCEBcfA6D8",
-		"symbol": "Cardinals (DRC-20)",
-		"name": "Cardinals (DRC-20)",
-		"coingecko": "cardinals",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 2000,
-		"address": "0x7B4328c127B85369D9f82ca0503B000D09CF9180",
-		"symbol": "Dogechain",
-		"name": "Dogechain",
-		"coingecko": "dogechain",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 2000,
 		"address": "0x582DaEF1F36D6009f64b74519cFD612a8467Be18",
 		"symbol": "DogeDragon",
 		"name": "DogeDragon",
@@ -111,10 +101,10 @@
 	},
 	{
 		"chain": 2000,
-		"address": "0x8a764cF73438dE795c98707B07034e577Af54825",
-		"symbol": "Doge Inu",
-		"name": "Doge Inu",
-		"coingecko": "doge-inu",
+		"address": "0xe3fcA919883950c5cD468156392a6477Ff5d18de",
+		"symbol": "Doge Eat Doge",
+		"name": "Doge Eat Doge",
+		"coingecko": "doge-eat-doge",
 		"sources": [
 			"coingecko"
 		]
@@ -131,10 +121,20 @@
 	},
 	{
 		"chain": 2000,
-		"address": "0xF480f38C366dAaC4305dC484b2Ad7a496FF00CeA",
-		"symbol": "Dogira",
-		"name": "Dogira",
-		"coingecko": "dogira",
+		"address": "0x264c1383EA520f73dd837F915ef3a732e204a493",
+		"symbol": "Duckereum",
+		"name": "Duckereum",
+		"coingecko": "duckereum",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 2000,
+		"address": "0x765277EebeCA2e31912C9946eAe1021199B39C61",
+		"symbol": "Multichain Bridged USDC (Dogechain)",
+		"name": "Multichain Bridged USDC (Dogechain)",
+		"coingecko": "multichain-bridged-usdc-dogechain",
 		"sources": [
 			"coingecko"
 		]
@@ -151,20 +151,20 @@
 	},
 	{
 		"chain": 2000,
-		"address": "0x412d82e5Fa51587D184F83Da618929ea0Dd04eaA",
-		"symbol": "Unielon (DRC-20)",
-		"name": "Unielon (DRC-20)",
-		"coingecko": "unielon",
+		"address": "0xB7ddC6414bf4F5515b52D8BdD69973Ae205ff101",
+		"symbol": "Wrapped WDOGE",
+		"name": "Wrapped WDOGE",
+		"coingecko": "wrapped-wdoge",
 		"sources": [
 			"coingecko"
 		]
 	},
 	{
 		"chain": 2000,
-		"address": "0xEBFB110f6d89f79ACd2756dEaba264b791294b95",
-		"symbol": "bm2k",
-		"name": "bm2k",
-		"coingecko": "bm2k",
+		"address": "0x6FC4563460d5f45932C473334d5c1C5B4aEA0E01",
+		"symbol": "YodeSwap",
+		"name": "YodeSwap",
+		"coingecko": "yodeswap",
 		"sources": [
 			"coingecko"
 		]

@@ -1,8 +1,9 @@
 {
 	"chain": 1,
 	"address": "0x27206F5a9AFD0C51dA95F20972885545D3B33647",
-	"symbol": "KuKu",
+	"symbol": "KUKU",
 	"name": "KuKu",
+	"logo": "https://assets.coingecko.com/coins/images/31177/thumb/IMG_20230801_131536_144.jpg?1696530005",
 	"coingecko": "kuku",
 	"sources": [
 		"coingecko"

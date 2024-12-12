@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x6595b8fD9C920C81500dCa94e53Cdc712513Fb1f",
-	"symbol": "Olyverse",
+	"symbol": "OLY",
 	"name": "Olyverse",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/13983/thumb/OLY-LOGO.png?1696513715",
 	"coingecko": "olyverse",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x46305B2eBcd92809d5fcEf577C20C28A185Af03c",
-	"symbol": "Shadowladys DN404",
+	"symbol": "SHADOW",
 	"name": "Shadowladys DN404",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35243/thumb/fixed_logo.png?1707986261",
 	"coingecko": "shadowladys-dn404",
 	"sources": [
 		"coingecko"

@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0xb994882a1b9bd98A71Dd6ea5F61577c42848B0E8",
-	"symbol": "World of Dypians",
+	"symbol": "WoD",
 	"name": "World of Dypians",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0xb994882a1b9bd98A71Dd6ea5F61577c42848B0E8.png",
 	"coingecko": "world-of-dypians",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

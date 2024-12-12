@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x6C2adC2073994fb2CCC5032cC2906Fa221e9B391",
-	"symbol": "Delphy",
+	"symbol": "DPY",
 	"name": "Delphy",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/1133/thumb/delphy.png?1696502226",
 	"coingecko": "delphy",
 	"sources": [
 		"coingecko"

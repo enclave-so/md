@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x5218E472cFCFE0b64A064F055B43b4cdC9EfD3A6",
-	"symbol": "Residual Token",
+	"symbol": "ERSDL",
 	"name": "Residual Token",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/12975/thumb/ERSDL.jpg?1706998787",
 	"coingecko": "unfederalreserve",
 	"sources": [
 		"coingecko"

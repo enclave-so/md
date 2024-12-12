@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x9b0B23b35AD8136E6181F22b346134cE5f426090",
-	"symbol": "Cinogames",
+	"symbol": "CINO",
 	"name": "Cinogames",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/38319/thumb/Cino_icon_teal_white_black_bkg_128_v2.png?1717053791",
 	"coingecko": "cinogames",
 	"sources": [
 		"coingecko"

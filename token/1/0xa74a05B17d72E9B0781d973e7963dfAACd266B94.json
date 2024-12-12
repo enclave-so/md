@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xa74a05B17d72E9B0781d973e7963dfAACd266B94",
-	"symbol": "Oasis",
+	"symbol": "OASIS",
 	"name": "Oasis",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35546/thumb/IMG_20240224_152139_778.png?1709094500",
 	"coingecko": "oasis-3",
 	"sources": [
 		"coingecko"

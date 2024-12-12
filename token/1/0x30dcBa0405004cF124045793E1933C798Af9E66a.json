@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x30dcBa0405004cF124045793E1933C798Af9E66a",
-	"symbol": "Yieldification",
+	"symbol": "YDF",
 	"name": "Yieldification",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/26699/thumb/logo.png?1696525772",
 	"coingecko": "yieldification",
 	"sources": [
 		"coingecko"

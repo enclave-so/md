@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xeaf61FC150CD5c3BeA75744e830D916E60EA5A9F",
-	"symbol": "Typerium",
+	"symbol": "TYPE",
 	"name": "Typerium",
+	"decimals": 4,
+	"logo": "https://assets.coingecko.com/coins/images/4019/thumb/type.png?1696504657",
 	"coingecko": "typerium",
 	"sources": [
 		"coingecko"

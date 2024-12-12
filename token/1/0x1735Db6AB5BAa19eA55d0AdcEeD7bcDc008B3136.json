@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x1735Db6AB5BAa19eA55d0AdcEeD7bcDc008B3136",
-	"symbol": "UREEQA",
+	"symbol": "URQA",
 	"name": "UREEQA",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14605/thumb/R_O2enOX_400x400.png?1696514283",
 	"coingecko": "ureeqa",
 	"sources": [
 		"coingecko"

@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0x4d5F47FA6A74757f35C14fD3a6Ef8E3C9BC514E8",
-	"symbol": "Aave v3 WETH",
+	"symbol": "AWETH",
 	"name": "Aave v3 WETH",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/32882/thumb/WETH_%281%29.png?1699716492",
 	"coingecko": "aave-v3-weth",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"indexcoop"
 	]
 }

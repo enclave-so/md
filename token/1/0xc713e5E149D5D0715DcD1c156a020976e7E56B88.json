@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xc713e5E149D5D0715DcD1c156a020976e7E56B88",
-	"symbol": "Aave MKR",
+	"symbol": "AMKR",
 	"name": "Aave MKR",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14248/thumb/aMKR.ac965178.png?1696513962",
 	"coingecko": "aave-mkr",
 	"sources": [
 		"coingecko"

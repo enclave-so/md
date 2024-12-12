@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x2e19067Cbeb38d6554d31a1a83aefc4018A1688a",
-	"symbol": "Coinback",
+	"symbol": "CBK",
 	"name": "Coinback",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31576/thumb/F1090BAA-54E3-4F9A-AFAA-57BA89E144CB.PNG?1696530393",
 	"coingecko": "coinback",
 	"sources": [
 		"coingecko"

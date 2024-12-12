@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xf86cFCE1e746456135d7fACe48c2916D7D3cb676",
-	"symbol": "Everflow Token",
+	"symbol": "EFT",
 	"name": "Everflow Token",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/36307/thumb/everflow-logo.4884c463824dcb062e4b.png?1711090157",
 	"coingecko": "everflow-token",
 	"sources": [
 		"coingecko"

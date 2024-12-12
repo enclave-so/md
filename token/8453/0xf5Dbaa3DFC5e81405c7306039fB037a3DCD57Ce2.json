@@ -1,0 +1,12 @@
+{
+	"chain": 8453,
+	"address": "0xf5Dbaa3DFC5e81405c7306039fB037a3DCD57Ce2",
+	"symbol": "BICO",
+	"name": "Biconomy",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/21061/thumb/biconomy_logo.jpg?1638269749",
+	"sources": [
+		"optimism",
+		"uniswap"
+	]
+}

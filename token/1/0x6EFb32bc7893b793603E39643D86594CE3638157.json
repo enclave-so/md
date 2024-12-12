@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x6EFb32bc7893b793603E39643D86594CE3638157",
-	"symbol": "Candle AI",
+	"symbol": "CNDL",
 	"name": "Candle AI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/37831/thumb/download.png?1715706036",
 	"coingecko": "candle-ai",
 	"sources": [
 		"coingecko"

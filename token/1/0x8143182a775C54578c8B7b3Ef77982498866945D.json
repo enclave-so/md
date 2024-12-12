@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x8143182a775C54578c8B7b3Ef77982498866945D",
-	"symbol": "Wrapped QUIL",
+	"symbol": "QUIL",
 	"name": "Wrapped QUIL",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/37978/thumb/Wrapped_QUIL.png?1716197853",
 	"coingecko": "wrapped-quil",
 	"sources": [
 		"coingecko"

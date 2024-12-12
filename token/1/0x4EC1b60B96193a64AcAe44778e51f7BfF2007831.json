@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x4EC1b60B96193a64AcAe44778e51f7BfF2007831",
-	"symbol": "Edge",
+	"symbol": "EDGE",
 	"name": "Edge",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/1848/thumb/EDGE.png?1696502846",
 	"coingecko": "edge",
 	"sources": [
 		"coingecko"

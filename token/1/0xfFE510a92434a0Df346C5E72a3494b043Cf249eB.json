@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xfFE510a92434a0Df346C5E72a3494b043Cf249eB",
-	"symbol": "LUX BIO EXCHANGE COIN",
+	"symbol": "LBXC",
 	"name": "LUX BIO EXCHANGE COIN",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/9482/thumb/sam7Fy3A_400x400.jpg?1696509569",
 	"coingecko": "lux-bio-exchange-coin",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xC4f6E93AEDdc11dc22268488465bAbcAF09399aC",
-	"symbol": "hi Dollar",
+	"symbol": "HI",
 	"name": "hi Dollar",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/17618/thumb/unnamed_%281%29.png?1696517150",
 	"coingecko": "hi-dollar",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xA5f1DbB0e55bc31f32c6d032BeE330288490e722",
-	"symbol": "Day By Day",
+	"symbol": "DBD",
 	"name": "Day By Day",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/21691/thumb/DBD-icon_200x200_%281%29.png?1696521046",
 	"coingecko": "day-by-day",
 	"sources": [
 		"coingecko"

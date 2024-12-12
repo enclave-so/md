@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x6a8b188FAdBe8B52A2c23EA2d0df74f8956E7730",
-	"symbol": "Quantum Network",
+	"symbol": "QSWAP",
 	"name": "Quantum Network",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/38874/thumb/unnamed.png?1719289215",
 	"coingecko": "quantum-network",
 	"sources": [
 		"coingecko"

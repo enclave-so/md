@@ -1,10 +1,13 @@
 {
 	"chain": 8453,
 	"address": "0x6985884C4392D348587B19cb9eAAf157F13271cd",
-	"symbol": "LayerZero",
+	"symbol": "ZRO",
 	"name": "LayerZero",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/28206/standard/ftxG9_TJ_400x400.jpeg?1696527208",
 	"coingecko": "layerzero",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"uniswap"
 	]
 }

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xBe1a001FE942f96Eea22bA08783140B9Dcc09D28",
-	"symbol": "Beta Finance",
+	"symbol": "BETA",
 	"name": "Beta Finance",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/18715/thumb/beta_finance.jpg?1696518183",
 	"coingecko": "beta-finance",
 	"sources": [
 		"coingecko"

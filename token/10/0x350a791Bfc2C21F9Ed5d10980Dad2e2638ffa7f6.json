@@ -2,12 +2,14 @@
 	"chain": 10,
 	"address": "0x350a791Bfc2C21F9Ed5d10980Dad2e2638ffa7f6",
 	"symbol": "LINK",
-	"name": "Chainlink",
+	"name": "ChainLink Token",
 	"decimals": 18,
-	"logo": "https://ethereum-optimism.github.io/data/LINK/logo.png",
+	"logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x514910771AF9Ca656af840dff83E8264EcF986CA/logo.png",
 	"coingecko": "chainlink",
 	"sources": [
 		"coingecko",
-		"sushiswap"
+		"optimism",
+		"sushiswap",
+		"uniswap"
 	]
 }

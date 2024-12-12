@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x3A810ff7211b40c4fA76205a14efe161615d0385",
-	"symbol": "AI Network",
+	"symbol": "AIN",
 	"name": "AI Network",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/13211/thumb/AI_Network_Logo_200x200.png?1696512991",
 	"coingecko": "ai-network",
 	"sources": [
 		"coingecko"

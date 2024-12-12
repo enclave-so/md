@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x5D858bcd53E085920620549214a8b27CE2f04670",
-	"symbol": "POP Network",
+	"symbol": "POP",
 	"name": "POP Network",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/7281/thumb/Logo_%28Light_Mode%29_%281%29.png?1696507572",
 	"coingecko": "pop-chest-token",
 	"sources": [
 		"coingecko"

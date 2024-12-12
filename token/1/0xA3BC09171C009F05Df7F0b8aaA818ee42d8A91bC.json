@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xA3BC09171C009F05Df7F0b8aaA818ee42d8A91bC",
-	"symbol": "TSLA6900",
+	"symbol": "TSLA",
 	"name": "TSLA6900",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/50692/thumb/IMG_0315.jpeg?1728781026",
 	"coingecko": "tsla6900",
 	"sources": [
 		"coingecko"

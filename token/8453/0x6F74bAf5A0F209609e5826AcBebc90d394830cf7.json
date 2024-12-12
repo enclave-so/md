@@ -1,0 +1,11 @@
+{
+	"chain": 8453,
+	"address": "0x6F74bAf5A0F209609e5826AcBebc90d394830cf7",
+	"symbol": "YFX",
+	"name": "YFX Token",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/YFX/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

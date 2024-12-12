@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x05Fb86775Fd5c16290f1E838F5caaa7342bD9a63",
-	"symbol": "Hacken",
+	"symbol": "HAI",
 	"name": "Hacken",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/11081/thumb/hacken-symbol-with-bg.png?1696511022",
 	"coingecko": "hackenai",
 	"sources": [
 		"coingecko"

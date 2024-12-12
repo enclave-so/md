@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x4C3A8ECeB656Ec63eaE80a4ebD565E4887DB6160",
-	"symbol": "SokuSwap",
+	"symbol": "SOKU",
 	"name": "SokuSwap",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/18378/thumb/VCIEHaG.png?1696517870",
 	"coingecko": "sokuswap",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x9625cE7753ace1fa1865A47aAe2c5C2Ce4418569",
-	"symbol": "KAP Games",
+	"symbol": "KAP",
 	"name": "KAP Games",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/27682/thumb/KAP_Logo.png?1696526710",
 	"coingecko": "kapital-dao",
 	"sources": [
 		"coingecko"

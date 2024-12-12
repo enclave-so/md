@@ -3,6 +3,8 @@
 	"address": "0x559Cc0850361aFe1973c0BA5d0a3446C8A5aD678",
 	"symbol": "Avatar404",
 	"name": "Avatar404",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35589/thumb/avatar404.jpeg?1709204091",
 	"coingecko": "avatar404",
 	"sources": [
 		"coingecko"

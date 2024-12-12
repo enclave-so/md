@@ -1,0 +1,11 @@
+{
+	"chain": 56,
+	"address": "0x07AaA29E63FFEB2EBf59B33eE61437E1a91A3bb2",
+	"symbol": "QSD",
+	"name": "QIAN second generation dollar",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x07AaA29E63FFEB2EBf59B33eE61437E1a91A3bb2.png",
+	"sources": [
+		"pancakeswap"
+	]
+}

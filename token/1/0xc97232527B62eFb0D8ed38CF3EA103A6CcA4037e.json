@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xc97232527B62eFb0D8ed38CF3EA103A6CcA4037e",
-	"symbol": "LP Yearn CRV Vault",
+	"symbol": "LP-YCRV",
 	"name": "LP Yearn CRV Vault",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/27624/thumb/yearncrvlp_32.png?1696526654",
 	"coingecko": "lp-yearn-crv-vault",
 	"sources": [
 		"coingecko"

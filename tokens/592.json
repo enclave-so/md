@@ -1,20 +1,10 @@
 [
 	{
 		"chain": 592,
-		"address": "0xAeaaf0e2c81Af264101B9129C00F4440cCF0F720",
-		"symbol": "Wrapped ASTR",
-		"name": "Wrapped ASTR",
-		"coingecko": "wrapped-astar",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 592,
-		"address": "0xe69583B62D7B7d8a568E1eC08f34B648589F4cF1",
-		"symbol": "Ceres",
-		"name": "Ceres",
-		"coingecko": "ceres",
+		"address": "0x75364D4F779d0Bd0facD9a218c67f87dD9Aff3b4",
+		"symbol": "Wrapped Shiden Network",
+		"name": "Wrapped Shiden Network",
+		"coingecko": "wrapped-shiden-network",
 		"sources": [
 			"coingecko"
 		]
@@ -25,26 +15,6 @@
 		"symbol": "Demeter",
 		"name": "Demeter",
 		"coingecko": "demeter",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 592,
-		"address": "0xE511ED88575C57767BAfb72BfD10775413E3F2b0",
-		"symbol": "Liquid ASTR",
-		"name": "Liquid ASTR",
-		"coingecko": "liquid-astr",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 592,
-		"address": "0x29F6e49c6E3397C3A84F715885F9F233A441165C",
-		"symbol": "Origin Dollar",
-		"name": "Origin Dollar",
-		"coingecko": "origin-dollar",
 		"sources": [
 			"coingecko"
 		]
@@ -81,6 +51,76 @@
 	},
 	{
 		"chain": 592,
+		"address": "0x998082C488e548820F970Df5173bD2061Ce90635",
+		"symbol": "Zenlink Network",
+		"name": "Zenlink Network",
+		"coingecko": "zenlink-network-token",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 592,
+		"address": "0x733ebcC6DF85f8266349DEFD0980f8Ced9B45f35",
+		"symbol": "BAI Stablecoin",
+		"name": "BAI Stablecoin",
+		"coingecko": "bai-stablecoin",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 592,
+		"address": "0xad543f18cFf85c77E140E3E5E3c3392f6Ba9d5CA",
+		"symbol": "Bridged WBTC",
+		"name": "Bridged WBTC",
+		"coingecko": "bridged-wbtc",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 592,
+		"address": "0xE511ED88575C57767BAfb72BfD10775413E3F2b0",
+		"symbol": "Liquid ASTR",
+		"name": "Liquid ASTR",
+		"coingecko": "liquid-astr",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 592,
+		"address": "0xdd90E5E87A2081Dcf0391920868eBc2FFB81a1aF",
+		"symbol": "Wrapped POL",
+		"name": "Wrapped POL",
+		"coingecko": "wmatic",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 592,
+		"address": "0xDe2578Edec4669BA7F41c5d5D2386300bcEA4678",
+		"symbol": "ArthSwap",
+		"name": "ArthSwap",
+		"coingecko": "arthswap",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 592,
+		"address": "0x6a2d262D56735DbA19Dd70682B39F6bE9a931D98",
+		"symbol": "Celer Bridged USDC (Astar)",
+		"name": "Celer Bridged USDC (Astar)",
+		"coingecko": "celer-bridged-usdc-astar",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 592,
 		"address": "0x81ECac0D6Be0550A00FF064a4f9dd2400585FE9c",
 		"symbol": "Celer Bridged WETH (Astar)",
 		"name": "Celer Bridged WETH (Astar)",
@@ -91,10 +131,30 @@
 	},
 	{
 		"chain": 592,
+		"address": "0xe69583B62D7B7d8a568E1eC08f34B648589F4cF1",
+		"symbol": "Ceres",
+		"name": "Ceres",
+		"coingecko": "ceres",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 592,
 		"address": "0xffFFFfFF00000000000000010000000000000004",
 		"symbol": "interBTC",
 		"name": "interBTC",
 		"coingecko": "interbtc",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 592,
+		"address": "0x29F6e49c6E3397C3A84F715885F9F233A441165C",
+		"symbol": "Origin Dollar",
+		"name": "Origin Dollar",
+		"coingecko": "origin-dollar",
 		"sources": [
 			"coingecko"
 		]
@@ -121,36 +181,6 @@
 	},
 	{
 		"chain": 592,
-		"address": "0xdd90E5E87A2081Dcf0391920868eBc2FFB81a1aF",
-		"symbol": "Wrapped POL",
-		"name": "Wrapped POL",
-		"coingecko": "wmatic",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 592,
-		"address": "0x998082C488e548820F970Df5173bD2061Ce90635",
-		"symbol": "Zenlink Network",
-		"name": "Zenlink Network",
-		"coingecko": "zenlink-network-token",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 592,
-		"address": "0x733ebcC6DF85f8266349DEFD0980f8Ced9B45f35",
-		"symbol": "BAI Stablecoin",
-		"name": "BAI Stablecoin",
-		"coingecko": "bai-stablecoin",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 592,
 		"address": "0x4Bf769b05E832FCdc9053fFFBC78Ca889aCb5E1E",
 		"symbol": "Bridged BUSD",
 		"name": "Bridged BUSD",
@@ -171,40 +201,10 @@
 	},
 	{
 		"chain": 592,
-		"address": "0x6a2d262D56735DbA19Dd70682B39F6bE9a931D98",
-		"symbol": "Celer Bridged USDC (Astar)",
-		"name": "Celer Bridged USDC (Astar)",
-		"coingecko": "celer-bridged-usdc-astar",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 592,
-		"address": "0x75364D4F779d0Bd0facD9a218c67f87dD9Aff3b4",
-		"symbol": "Wrapped Shiden Network",
-		"name": "Wrapped Shiden Network",
-		"coingecko": "wrapped-shiden-network",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 592,
-		"address": "0xDe2578Edec4669BA7F41c5d5D2386300bcEA4678",
-		"symbol": "ArthSwap",
-		"name": "ArthSwap",
-		"coingecko": "arthswap",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 592,
-		"address": "0xad543f18cFf85c77E140E3E5E3c3392f6Ba9d5CA",
-		"symbol": "Bridged WBTC",
-		"name": "Bridged WBTC",
-		"coingecko": "bridged-wbtc",
+		"address": "0xAeaaf0e2c81Af264101B9129C00F4440cCF0F720",
+		"symbol": "Wrapped ASTR",
+		"name": "Wrapped ASTR",
+		"coingecko": "wrapped-astar",
 		"sources": [
 			"coingecko"
 		]

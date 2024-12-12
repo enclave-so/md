@@ -2,9 +2,12 @@
 	"chain": 8453,
 	"address": "0x8f019931375454Fe4EE353427eB94E2E0C9e0a8C",
 	"symbol": "KOMPETE",
-	"name": "KOMPETE",
+	"name": "KOMPETE Token",
+	"decimals": 10,
+	"logo": "https://ethereum-optimism.github.io/data/KOMPETE/logo.svg",
 	"coingecko": "kompete",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

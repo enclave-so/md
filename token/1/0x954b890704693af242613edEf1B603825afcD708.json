@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x954b890704693af242613edEf1B603825afcD708",
-	"symbol": "Cardstack",
+	"symbol": "CARD",
 	"name": "Cardstack",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/3247/thumb/cardstack.png?1696503962",
 	"coingecko": "cardstack",
 	"sources": [
 		"coingecko"

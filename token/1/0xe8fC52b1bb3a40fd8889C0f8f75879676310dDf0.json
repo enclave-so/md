@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xe8fC52b1bb3a40fd8889C0f8f75879676310dDf0",
-	"symbol": "Mystiko",
+	"symbol": "XZK",
 	"name": "Mystiko",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/37942/thumb/XZK_logo_Black.png?1715968215",
 	"coingecko": "xzk",
 	"sources": [
 		"coingecko"

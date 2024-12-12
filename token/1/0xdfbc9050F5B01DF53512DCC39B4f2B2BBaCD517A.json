@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xdfbc9050F5B01DF53512DCC39B4f2B2BBaCD517A",
-	"symbol": "Jobchain",
+	"symbol": "JOB",
 	"name": "Jobchain",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/9352/thumb/IMG_3285.png?1726525033",
 	"coingecko": "jobchain",
 	"sources": [
 		"coingecko"

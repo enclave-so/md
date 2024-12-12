@@ -3,8 +3,11 @@
 	"address": "0x589d35656641d6aB57A545F08cf473eCD9B6D5F7",
 	"symbol": "GYEN",
 	"name": "GYEN",
+	"decimals": 6,
+	"logo": "https://assets.coingecko.com/coins/images/14191/thumb/icon_gyen_200_200.png?1614843343",
 	"coingecko": "gyen",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"uniswap"
 	]
 }

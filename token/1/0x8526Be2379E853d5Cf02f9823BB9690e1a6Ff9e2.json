@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x8526Be2379E853d5Cf02f9823BB9690e1a6Ff9e2",
-	"symbol": "Habibi",
+	"symbol": "HABIBI",
 	"name": "Habibi",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30683/thumb/HABIBI.png?1696529552",
 	"coingecko": "habibi",
 	"sources": [
 		"coingecko"

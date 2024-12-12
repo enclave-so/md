@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xA78BCBb74b822e74a847897d2D1d2d5EE2c76BD8",
-	"symbol": "Swords \u0026 Dungeons GOLD",
-	"name": "Swords \u0026 Dungeons GOLD",
+	"symbol": "GOLD",
+	"name": "Swords   Dungeons GOLD",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/39999/thumb/Sword_and_Dungeons_GOLD.jpg?1725068254",
 	"coingecko": "swords-and-dungeons-gold",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x1FDD61eF9a5C31B9a2abC7D39c139c779e8412Af",
-	"symbol": "JEJE",
+	"symbol": "JJ",
 	"name": "JEJE",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/38083/thumb/1000023826.png?1716476656",
 	"coingecko": "jeje",
 	"sources": [
 		"coingecko"

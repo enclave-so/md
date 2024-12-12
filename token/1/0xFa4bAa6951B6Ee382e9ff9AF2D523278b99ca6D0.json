@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xFa4bAa6951B6Ee382e9ff9AF2D523278b99ca6D0",
-	"symbol": "House",
+	"symbol": "HOUSE",
 	"name": "House",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31202/thumb/hm_icon_200x200.png?1696530029",
 	"coingecko": "house",
 	"sources": [
 		"coingecko"

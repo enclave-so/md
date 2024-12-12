@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x50d5118Fb90D572B9d42ba65E0addC4900867809",
-	"symbol": "Osean",
+	"symbol": "OSEAN",
 	"name": "Osean",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30968/thumb/oceana.png?1696529808",
 	"coingecko": "osean",
 	"sources": [
 		"coingecko"

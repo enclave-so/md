@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0x2dfF88A56767223A5529eA5960Da7A3F5f766406",
-	"symbol": "SPACE ID",
-	"name": "SPACE ID",
+	"symbol": "ID",
+	"name": "SPACE ID Token",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x2dfF88A56767223A5529eA5960Da7A3F5f766406.png",
 	"coingecko": "space-id",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

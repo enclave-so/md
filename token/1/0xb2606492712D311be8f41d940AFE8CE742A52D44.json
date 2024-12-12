@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xb2606492712D311be8f41d940AFE8CE742A52D44",
-	"symbol": "zkLend",
+	"symbol": "ZEND",
 	"name": "zkLend",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35979/thumb/zkLend_ZEND_logo_square_transparent_background_%281%29.png?1710306648",
 	"coingecko": "zklend-2",
 	"sources": [
 		"coingecko"

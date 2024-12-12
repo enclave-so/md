@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x5e05F367a1923B2a886e2f2bC45c2278a0b9b448",
-	"symbol": "BRC20 BOT",
+	"symbol": "BRCBOT",
 	"name": "BRC20 BOT",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/33607/thumb/IMG_20231206_032536_412.jpg?1702511057",
 	"coingecko": "brc20-bot",
 	"sources": [
 		"coingecko"

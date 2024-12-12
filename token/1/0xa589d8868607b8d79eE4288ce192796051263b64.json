@@ -3,6 +3,8 @@
 	"address": "0xa589d8868607b8d79eE4288ce192796051263b64",
 	"symbol": "TATE",
 	"name": "TATE",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30034/thumb/Tate_logo_Coingecko.png?1696528957",
 	"coingecko": "tate",
 	"sources": [
 		"coingecko"

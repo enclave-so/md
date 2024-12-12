@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0xf4308b0263723b121056938c2172868E408079D0",
-	"symbol": "CryoDAO",
+	"symbol": "CRYO",
 	"name": "CryoDAO",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/34624/thumb/cryo-icon.png?1705504846",
 	"coingecko": "cryodao",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

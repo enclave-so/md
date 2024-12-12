@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x1C9A2d6b33B4826757273D47ebEe0e2DddcD978B",
-	"symbol": "Flux FRAX",
+	"symbol": "FFRAX",
 	"name": "Flux FRAX",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/29580/thumb/fFRAX-320.png?1696528519",
 	"coingecko": "flux-frax",
 	"sources": [
 		"coingecko"

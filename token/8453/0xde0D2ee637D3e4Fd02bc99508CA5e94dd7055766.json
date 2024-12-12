@@ -1,0 +1,11 @@
+{
+	"chain": 8453,
+	"address": "0xde0D2ee637D3e4Fd02bc99508CA5e94dd7055766",
+	"symbol": "JRT",
+	"name": "Jarvis Reward Token",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/JRT/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

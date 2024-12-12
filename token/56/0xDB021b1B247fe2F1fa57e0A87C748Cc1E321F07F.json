@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0xDB021b1B247fe2F1fa57e0A87C748Cc1E321F07F",
-	"symbol": "Ampleforth",
+	"symbol": "AMPL",
 	"name": "Ampleforth",
+	"decimals": 9,
+	"logo": "https://tokens.pancakeswap.finance/images/0xDB021b1B247fe2F1fa57e0A87C748Cc1E321F07F.png",
 	"coingecko": "ampleforth",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

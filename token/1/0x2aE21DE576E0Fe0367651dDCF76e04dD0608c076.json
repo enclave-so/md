@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x2aE21DE576E0Fe0367651dDCF76e04dD0608c076",
-	"symbol": "Gambit",
+	"symbol": "GAMBIT",
 	"name": "Gambit",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/36070/thumb/oHwe1V3Q_400x400.jpg?1710406381",
 	"coingecko": "gambit-2",
 	"sources": [
 		"coingecko"

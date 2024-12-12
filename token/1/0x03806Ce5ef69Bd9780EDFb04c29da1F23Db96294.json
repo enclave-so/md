@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x03806Ce5ef69Bd9780EDFb04c29da1F23Db96294",
-	"symbol": "Tesla TSL",
+	"symbol": "TSL",
 	"name": "Tesla TSL",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/1222/thumb/energo.png?1696502301",
 	"coingecko": "energo",
 	"sources": [
 		"coingecko"

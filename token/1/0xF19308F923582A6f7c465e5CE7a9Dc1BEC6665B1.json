@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xF19308F923582A6f7c465e5CE7a9Dc1BEC6665B1",
-	"symbol": "TitanX",
+	"symbol": "TITANX",
 	"name": "TitanX",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/32762/thumb/TitanXpng_%281%29.png?1704456654",
 	"coingecko": "titanx",
 	"sources": [
 		"coingecko"

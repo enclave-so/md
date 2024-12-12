@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0x9617857E191354dbEA0b714d78Bc59e57C411087",
-	"symbol": "Lympo Market",
-	"name": "Lympo Market",
+	"symbol": "LMT",
+	"name": "Lympo Market Token",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x9617857E191354dbEA0b714d78Bc59e57C411087.png",
 	"coingecko": "lympo-market-token",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

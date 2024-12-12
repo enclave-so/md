@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x983d8edB44Ca96c0595f3c456ebdD47855911f34",
-	"symbol": "War Legends",
+	"symbol": "WAR",
 	"name": "War Legends",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30672/thumb/wZBMVBr2_400x400.jpg?1696529542",
 	"coingecko": "warlegends",
 	"sources": [
 		"coingecko"

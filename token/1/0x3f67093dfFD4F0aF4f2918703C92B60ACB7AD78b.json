@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0x3f67093dfFD4F0aF4f2918703C92B60ACB7AD78b",
-	"symbol": "21.co Wrapped BTC",
-	"name": "21.co Wrapped BTC",
+	"symbol": "21BTC",
+	"name": "21 co Wrapped BTC",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/34616/thumb/64ffa735ee23dbcd35498914_21co_W_Token_v2_21BTC-4.png?1705503435",
 	"coingecko": "wrapped-btc-21-co",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"indexcoop"
 	]
 }

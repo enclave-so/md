@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x9Ba021B0a9b958B5E75cE9f6dff97C7eE52cb3E6",
-	"symbol": "Dinero apxETH",
+	"symbol": "APXETH",
 	"name": "Dinero apxETH",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/33609/thumb/apxETH-icon-transbg_72dpi.png?1702512027",
 	"coingecko": "dinero-apxeth",
 	"sources": [
 		"coingecko"

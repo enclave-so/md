@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xB1c9D42FA4bA691eFe21656A7e6953d999B990c4",
-	"symbol": "Kangamoon",
+	"symbol": "KANG",
 	"name": "Kangamoon",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/37950/thumb/200.png?1716325344",
 	"coingecko": "kangamoon",
 	"sources": [
 		"coingecko"

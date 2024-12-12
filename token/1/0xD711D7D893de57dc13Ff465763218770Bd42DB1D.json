@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xD711D7D893de57dc13Ff465763218770Bd42DB1D",
-	"symbol": "ARYZE eGBP",
+	"symbol": "EGBP",
 	"name": "ARYZE eGBP",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/32989/thumb/eGBP.png?1733063533",
 	"coingecko": "aryze-egbp",
 	"sources": [
 		"coingecko"

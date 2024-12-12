@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xF3617E8a04265160B9ee10253A2c78565571Cb76",
-	"symbol": "Blepe the Blue",
+	"symbol": "BLEPE",
 	"name": "Blepe the Blue",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35391/thumb/photo_2024-02-20_03.15.26.jpeg?1708452233",
 	"coingecko": "blepe-the-blue",
 	"sources": [
 		"coingecko"

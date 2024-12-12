@@ -1,10 +1,13 @@
 {
 	"chain": 42161,
 	"address": "0x319f865b287fCC10b30d8cE6144e8b6D1b476999",
-	"symbol": "Cartesi",
+	"symbol": "CTSI",
 	"name": "Cartesi",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/11038/thumb/cartesi.png?1592288021",
 	"coingecko": "cartesi",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"uniswap"
 	]
 }

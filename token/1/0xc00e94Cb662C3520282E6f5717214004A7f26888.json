@@ -4,10 +4,13 @@
 	"symbol": "COMP",
 	"name": "Compound",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/comp.jpg",
+	"logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc00e94Cb662C3520282E6f5717214004A7f26888/logo.png",
 	"coingecko": "compound-governance-token",
 	"sources": [
 		"coingecko",
-		"sushiswap"
+		"indexcoop",
+		"optimism",
+		"sushiswap",
+		"uniswap"
 	]
 }

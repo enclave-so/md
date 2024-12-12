@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xCdB37A4fBC2Da5b78aA4E41a432792f9533e85Cc",
-	"symbol": "CheckDot",
+	"symbol": "CDT",
 	"name": "CheckDot",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/20370/thumb/token-200x200_%281%29.png?1696519781",
 	"coingecko": "checkdot",
 	"sources": [
 		"coingecko"

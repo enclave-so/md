@@ -3,6 +3,8 @@
 	"address": "0x0CCAe1Bc46Fb018DD396Ed4c45565d4Cb9d41098",
 	"symbol": "MISHA",
 	"name": "MISHA",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/50400/thumb/11_%282%29.png?1727591136",
 	"coingecko": "misha",
 	"sources": [
 		"coingecko"

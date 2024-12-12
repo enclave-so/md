@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x4674a4F24C5f63D53F22490Fb3A08eAAAD739ff8",
-	"symbol": "Brokoli",
+	"symbol": "BRKL",
 	"name": "Brokoli",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/18763/thumb/brkl.png?1696518228",
 	"coingecko": "brokoli",
 	"sources": [
 		"coingecko"

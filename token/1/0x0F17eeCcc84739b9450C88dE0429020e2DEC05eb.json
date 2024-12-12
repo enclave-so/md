@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x0F17eeCcc84739b9450C88dE0429020e2DEC05eb",
-	"symbol": "Otacon AI",
+	"symbol": "OTACON",
 	"name": "Otacon AI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/32475/thumb/otacon_logo-square_200x200.png?1698285813",
 	"coingecko": "otacon-ai",
 	"sources": [
 		"coingecko"

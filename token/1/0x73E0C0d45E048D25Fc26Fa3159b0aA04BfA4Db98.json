@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x73E0C0d45E048D25Fc26Fa3159b0aA04BfA4Db98",
-	"symbol": "Kraken Wrapped BTC",
+	"symbol": "KBTC",
 	"name": "Kraken Wrapped BTC",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/50879/thumb/kBTC.png?1730321084",
 	"coingecko": "kraken-wrapped-btc",
 	"sources": [
 		"coingecko"

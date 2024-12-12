@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x5BB15141bb6DeF6d2BafeED8ff84BF889c0C573B",
-	"symbol": "LakeViewMeta",
+	"symbol": "LVM",
 	"name": "LakeViewMeta",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/27097/thumb/200x200logo.png?1696526146",
 	"coingecko": "lakeviewmeta",
 	"sources": [
 		"coingecko"

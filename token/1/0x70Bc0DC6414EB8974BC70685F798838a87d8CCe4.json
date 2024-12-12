@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x70Bc0DC6414EB8974BC70685F798838a87d8CCe4",
-	"symbol": "Chirpley",
+	"symbol": "CHRP",
 	"name": "Chirpley",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/27243/thumb/Chirpley-Logo_200x200.png?1696526293",
 	"coingecko": "chirpley",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x7788A3538C5fc7F9c7C8A74EAC4c898fC8d87d92",
-	"symbol": "usdx.money Staked USDX",
-	"name": "usdx.money Staked USDX",
+	"symbol": "SUSDX",
+	"name": "usdx money Staked USDX",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/50836/thumb/sUSDX200px.png?1731906119",
 	"coingecko": "usdx-money-staked-usdx",
 	"sources": [
 		"coingecko"

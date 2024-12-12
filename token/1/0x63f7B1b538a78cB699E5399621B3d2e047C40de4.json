@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x63f7B1b538a78cB699E5399621B3d2e047C40de4",
-	"symbol": "Maxity",
+	"symbol": "MAX",
 	"name": "Maxity",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/26933/thumb/MAX_token_200.png?1696525989",
 	"coingecko": "maxity",
 	"sources": [
 		"coingecko"

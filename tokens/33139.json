@@ -1,6 +1,26 @@
 [
 	{
 		"chain": 33139,
+		"address": "0xc7689ac46BC7a2c2819F0d9F280DC09C43295aBA",
+		"symbol": "NOT A CULT",
+		"name": "NOT A CULT",
+		"coingecko": "not-a-cult",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 33139,
+		"address": "0x48b62137EdfA95a428D35C09E44256a739F6B557",
+		"symbol": "Wrapped ApeCoin",
+		"name": "Wrapped ApeCoin",
+		"coingecko": "wrapped-apecoin",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 33139,
 		"address": "0xfC7B0bAdb1404412a747bC9bb6232E25098bE303",
 		"symbol": "Ape On ApeChain",
 		"name": "Ape On ApeChain",
@@ -15,46 +35,6 @@
 		"symbol": "A Trippy Ape",
 		"name": "A Trippy Ape",
 		"coingecko": "a-trippy-ape",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 33139,
-		"address": "0x70bEe7Ca89300e9450Ecb6C083387132995152dd",
-		"symbol": "Crypto is Fun",
-		"name": "Crypto is Fun",
-		"coingecko": "crypto-is-fun",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 33139,
-		"address": "0xe31C676d8235437597581b44c1c4f8A30e90b38a",
-		"symbol": "Gains Network",
-		"name": "Gains Network",
-		"coingecko": "gains-network",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 33139,
-		"address": "0xc7689ac46BC7a2c2819F0d9F280DC09C43295aBA",
-		"symbol": "NOT A CULT",
-		"name": "NOT A CULT",
-		"coingecko": "not-a-cult",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 33139,
-		"address": "0xA3d57F48A2E1eCf6CD7140904B6fbF7b6A37063f",
-		"symbol": "OMEGA",
-		"name": "OMEGA",
-		"coingecko": "omega-3",
 		"sources": [
 			"coingecko"
 		]
@@ -91,6 +71,26 @@
 	},
 	{
 		"chain": 33139,
+		"address": "0xe31C676d8235437597581b44c1c4f8A30e90b38a",
+		"symbol": "Gains Network",
+		"name": "Gains Network",
+		"coingecko": "gains-network",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 33139,
+		"address": "0x70bEe7Ca89300e9450Ecb6C083387132995152dd",
+		"symbol": "Crypto is Fun",
+		"name": "Crypto is Fun",
+		"coingecko": "crypto-is-fun",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 33139,
 		"address": "0xcA6094A1E211A9cf35B2a737896B4cA5A75ba897",
 		"symbol": "Gary🐕😂",
 		"name": "Gary🐕😂",
@@ -111,10 +111,10 @@
 	},
 	{
 		"chain": 33139,
-		"address": "0x48b62137EdfA95a428D35C09E44256a739F6B557",
-		"symbol": "Wrapped ApeCoin",
-		"name": "Wrapped ApeCoin",
-		"coingecko": "wrapped-apecoin",
+		"address": "0xA3d57F48A2E1eCf6CD7140904B6fbF7b6A37063f",
+		"symbol": "OMEGA",
+		"name": "OMEGA",
+		"coingecko": "omega-3",
 		"sources": [
 			"coingecko"
 		]

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x85D19fb57CA7DA715695FCf347CA2169144523a7",
-	"symbol": "Conan",
+	"symbol": "CONAN",
 	"name": "Conan",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/35566/thumb/android-chrome-192x192.png?1714758795",
 	"coingecko": "conan-2",
 	"sources": [
 		"coingecko"

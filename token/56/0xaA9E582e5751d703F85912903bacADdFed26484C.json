@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0xaA9E582e5751d703F85912903bacADdFed26484C",
-	"symbol": "Hacken",
+	"symbol": "HAI",
 	"name": "Hacken",
+	"decimals": 8,
+	"logo": "https://tokens.pancakeswap.finance/images/0xaA9E582e5751d703F85912903bacADdFed26484C.png",
 	"coingecko": "hackenai",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

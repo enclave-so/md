@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xd31695a1d35E489252CE57b129FD4b1B05E6AcaC",
-	"symbol": "TOKPIE",
+	"symbol": "TKP",
 	"name": "TOKPIE",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/3731/thumb/tokpie-200x200.png?1696504401",
 	"coingecko": "tokpie",
 	"sources": [
 		"coingecko"

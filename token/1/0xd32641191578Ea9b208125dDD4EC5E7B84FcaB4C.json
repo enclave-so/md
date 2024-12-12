@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xd32641191578Ea9b208125dDD4EC5E7B84FcaB4C",
-	"symbol": "MDsquare",
+	"symbol": "TMED",
 	"name": "MDsquare",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/8558/thumb/bAdnHTWUIl4rFB4EfbH2L50BW7xi2T9ubci7v6xfYDipXkrG8Wb4LS8g6eAiMsSKqLJfV-FjH5TrYALqACw4MM2A9NfK_L6Ujnddhw1uEgL0hmVQnY96xZeL0C4kkFRJalreK9wUBzjZ4pRhZLdQf9h1drSTF7NE9moAdQ7KtuOvJqommn_q-TjQpF8GUB7J2Ejs7zIvhXXsUHGI1.jpg?1696508730",
 	"coingecko": "mdsquare",
 	"sources": [
 		"coingecko"

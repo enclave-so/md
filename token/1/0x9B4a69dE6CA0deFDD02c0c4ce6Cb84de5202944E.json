@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x9B4a69dE6CA0deFDD02c0c4ce6Cb84de5202944E",
-	"symbol": "PROOF Platform",
+	"symbol": "PROOF",
 	"name": "PROOF Platform",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/32478/thumb/PROOF_icon_-_200.png?1698286769",
 	"coingecko": "proof-platform",
 	"sources": [
 		"coingecko"

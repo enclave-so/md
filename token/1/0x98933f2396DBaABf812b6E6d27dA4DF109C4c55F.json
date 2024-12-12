@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0x98933f2396DBaABf812b6E6d27dA4DF109C4c55F",
+	"symbol": "TODL",
+	"name": "Cryptoodles Toodle Token",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/TODL/logo.png",
+	"sources": [
+		"optimism"
+	]
+}

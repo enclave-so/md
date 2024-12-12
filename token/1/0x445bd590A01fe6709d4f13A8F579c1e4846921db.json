@@ -3,6 +3,8 @@
 	"address": "0x445bd590A01fe6709d4f13A8F579c1e4846921db",
 	"symbol": "DUMMY",
 	"name": "DUMMY",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30650/thumb/a3miYrC7_400x400-removebg-preview%281%29.png?1696529520",
 	"coingecko": "dummy",
 	"sources": [
 		"coingecko"

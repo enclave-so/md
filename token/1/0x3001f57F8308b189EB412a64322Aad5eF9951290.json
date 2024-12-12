@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x3001f57F8308b189EB412a64322Aad5eF9951290",
-	"symbol": "Geometric Energy Corporation",
+	"symbol": "GEC",
 	"name": "Geometric Energy Corporation",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/33326/thumb/Gec.png?1701437951",
 	"coingecko": "geometric-energy-corporation",
 	"sources": [
 		"coingecko"

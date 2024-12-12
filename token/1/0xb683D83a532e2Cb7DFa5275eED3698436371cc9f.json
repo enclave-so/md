@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xb683D83a532e2Cb7DFa5275eED3698436371cc9f",
-	"symbol": "BTU Protocol",
+	"symbol": "BTU",
 	"name": "BTU Protocol",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/3697/thumb/logo-btu-white-background_%281%29.png?1707407754",
 	"coingecko": "btu-protocol",
 	"sources": [
 		"coingecko"

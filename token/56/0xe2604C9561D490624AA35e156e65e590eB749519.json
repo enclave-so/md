@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0xe2604C9561D490624AA35e156e65e590eB749519",
-	"symbol": "GoldMiner",
+	"symbol": "GM",
 	"name": "GoldMiner",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0xe2604C9561D490624AA35e156e65e590eB749519.png",
 	"coingecko": "goldminer",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xCe9DE5365739B1BEd5C8546867AeE4209FbB8538",
-	"symbol": "Thug Life",
+	"symbol": "THUG",
 	"name": "Thug Life",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31036/thumb/IMG_20230717_172433_167.jpg?1696529871",
 	"coingecko": "thug-life",
 	"sources": [
 		"coingecko"

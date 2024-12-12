@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x0A13A5929e5F0ff0EABA4Bd9e9512C91fCE40280",
-	"symbol": "XAI Corp",
+	"symbol": "XAI",
 	"name": "XAI Corp",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/30992/thumb/XAI.png?1700491072",
 	"coingecko": "xai-corp",
 	"sources": [
 		"coingecko"

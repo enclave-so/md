@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x38A2fDc11f526Ddd5a607C1F251C065f40fBF2f7",
-	"symbol": "PhoenixDAO",
+	"symbol": "PHNX",
 	"name": "PhoenixDAO",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/11523/thumb/Token_Icon.png?1696511425",
 	"coingecko": "phoenixdao",
 	"sources": [
 		"coingecko"

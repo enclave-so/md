@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0x949D48EcA67b17269629c7194F4b727d4Ef9E5d6",
-	"symbol": "Merit Circle",
+	"symbol": "MC",
 	"name": "Merit Circle",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/19304/thumb/Db4XqML.png?1634972154",
 	"coingecko": "merit-circle",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"uniswap"
 	]
 }

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xf2dFDBE1ea71bbdcB5A4662A16dbf5e487BE3ebe",
-	"symbol": "DeCloud",
+	"symbol": "CLOUD",
 	"name": "DeCloud",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35135/thumb/Nl1XLwPV_400x400.jpg?1707445040",
 	"coingecko": "decloud",
 	"sources": [
 		"coingecko"

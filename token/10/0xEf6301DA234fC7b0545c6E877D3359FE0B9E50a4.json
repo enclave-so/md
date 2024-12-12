@@ -4,8 +4,10 @@
 	"symbol": "SUKU",
 	"name": "SUKU",
 	"decimals": 18,
-	"logo": "https://ethereum-optimism.github.io/data/SUKU/logo.png",
+	"logo": "https://assets.coingecko.com/coins/images/11969/thumb/UmfW5S6f_400x400.jpg?1596602238",
 	"sources": [
-		"sushiswap"
+		"optimism",
+		"sushiswap",
+		"uniswap"
 	]
 }

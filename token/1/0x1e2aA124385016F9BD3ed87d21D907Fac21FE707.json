@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x1e2aA124385016F9BD3ed87d21D907Fac21FE707",
-	"symbol": "HiveSwap",
+	"symbol": "HIVP",
 	"name": "HiveSwap",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/38237/thumb/HIVP.jpg?1716863296",
 	"coingecko": "hiveswap",
 	"sources": [
 		"coingecko"

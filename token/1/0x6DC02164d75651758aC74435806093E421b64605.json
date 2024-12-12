@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x6DC02164d75651758aC74435806093E421b64605",
-	"symbol": "XAYA",
+	"symbol": "WCHI",
 	"name": "XAYA",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/2091/thumb/xaya200x200.png?1696503058",
 	"coingecko": "chimaera",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xd4e245848d6E1220DBE62e155d89fa327E43CB06",
-	"symbol": "Aave v3 FRAX",
+	"symbol": "AFRAX",
 	"name": "Aave v3 FRAX",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/32904/thumb/FRAX.png?1699802848",
 	"coingecko": "aave-v3-frax",
 	"sources": [
 		"coingecko"

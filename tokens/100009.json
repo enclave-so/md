@@ -1,16 +1,6 @@
 [
 	{
 		"chain": 100009,
-		"address": "0x8e57aadF0992AfCC41F7843656C6c7129f738F7b",
-		"symbol": "Dohrnii",
-		"name": "Dohrnii",
-		"coingecko": "dohrnii",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 100009,
 		"address": "0xaCc280010B2EE0efc770BCE34774376656D8cE14",
 		"symbol": "Hacken",
 		"name": "Hacken",
@@ -45,6 +35,16 @@
 		"symbol": "VeBetterDAO",
 		"name": "VeBetterDAO",
 		"coingecko": "vebetterdao",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 100009,
+		"address": "0x8e57aadF0992AfCC41F7843656C6c7129f738F7b",
+		"symbol": "Dohrnii",
+		"name": "Dohrnii",
+		"coingecko": "dohrnii",
 		"sources": [
 			"coingecko"
 		]

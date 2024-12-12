@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xB8e3e431ffB17DAc4BedEC04b901A3c03179fD1B",
-	"symbol": "DogePepe",
+	"symbol": "DOPE",
 	"name": "DogePepe",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/37049/thumb/DuhyZzFj_400x400.jpg?1713165301",
 	"coingecko": "dogepepe",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xC8020985A6B30773d866cbef65a7A11F96773413",
-	"symbol": "Envi Coin",
+	"symbol": "ENVI",
 	"name": "Envi Coin",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/32375/thumb/IMG_1970.png?1698035209",
 	"coingecko": "envi-foundation",
 	"sources": [
 		"coingecko"

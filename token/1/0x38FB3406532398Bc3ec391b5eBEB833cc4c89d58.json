@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x38FB3406532398Bc3ec391b5eBEB833cc4c89d58",
-	"symbol": "Vaulted Bellscoin",
+	"symbol": "VBELLS",
 	"name": "Vaulted Bellscoin",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/50910/thumb/BEL_LOGO.png?1729561625",
 	"coingecko": "vaulted-bellscoin",
 	"sources": [
 		"coingecko"

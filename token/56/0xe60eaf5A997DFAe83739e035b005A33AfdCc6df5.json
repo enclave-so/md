@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0xe60eaf5A997DFAe83739e035b005A33AfdCc6df5",
-	"symbol": "Deri Protocol",
-	"name": "Deri Protocol",
+	"symbol": "DERI",
+	"name": "Deri",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0xe60eaf5A997DFAe83739e035b005A33AfdCc6df5.png",
 	"coingecko": "deri-protocol",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

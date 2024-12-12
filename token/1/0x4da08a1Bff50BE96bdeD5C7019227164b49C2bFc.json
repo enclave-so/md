@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x4da08a1Bff50BE96bdeD5C7019227164b49C2bFc",
-	"symbol": "Mononoke Inu",
+	"symbol": "MONONOKE-INU",
 	"name": "Mononoke Inu",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/18769/thumb/z9YDK0f.png?1696518234",
 	"coingecko": "mononoke-inu",
 	"sources": [
 		"coingecko"

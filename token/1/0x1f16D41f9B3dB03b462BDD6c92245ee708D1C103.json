@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x1f16D41f9B3dB03b462BDD6c92245ee708D1C103",
-	"symbol": "Rangers Protocol Gas",
+	"symbol": "RPG",
 	"name": "Rangers Protocol Gas",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/18791/thumb/tO8MlqiM_400x400.png?1633421196",
 	"coingecko": "rangers-protocol-gas",
 	"sources": [
 		"coingecko"

@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0x352Cb5E19b12FC216548a2677bD0fce83BaE434B",
-	"symbol": "BitTorrent",
-	"name": "BitTorrent",
+	"symbol": "BTT",
+	"name": "Bittorrent",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x352Cb5E19b12FC216548a2677bD0fce83BaE434B.png",
 	"coingecko": "bittorrent",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

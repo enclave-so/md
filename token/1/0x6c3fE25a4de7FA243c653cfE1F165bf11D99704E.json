@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x6c3fE25a4de7FA243c653cfE1F165bf11D99704E",
-	"symbol": "Hilo",
+	"symbol": "HILO",
 	"name": "Hilo",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/40093/thumb/hilo.jpg?1725595322",
 	"coingecko": "hilo-2",
 	"sources": [
 		"coingecko"

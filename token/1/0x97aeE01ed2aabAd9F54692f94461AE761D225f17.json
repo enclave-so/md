@@ -3,6 +3,8 @@
 	"address": "0x97aeE01ed2aabAd9F54692f94461AE761D225f17",
 	"symbol": "DEGA",
 	"name": "DEGA",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/39153/thumb/DEGA_Coin.png?1720774074",
 	"coingecko": "dega-2",
 	"sources": [
 		"coingecko"

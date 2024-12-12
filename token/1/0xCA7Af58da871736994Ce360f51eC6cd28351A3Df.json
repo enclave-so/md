@@ -3,6 +3,8 @@
 	"address": "0xCA7Af58da871736994Ce360f51eC6cd28351A3Df",
 	"symbol": "GATSBY",
 	"name": "GATSBY",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/51228/thumb/KkZT9jaZ_400x400_%281%29.jpg?1730397024",
 	"coingecko": "gatsby",
 	"sources": [
 		"coingecko"

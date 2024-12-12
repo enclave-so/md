@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x6E605c269E0C92e70BEeB85486f1fC550f9380BD",
-	"symbol": "Catex",
+	"symbol": "CATT",
 	"name": "Catex",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/6353/thumb/catex.png?1696506725",
 	"coingecko": "catex-token",
 	"sources": [
 		"coingecko"

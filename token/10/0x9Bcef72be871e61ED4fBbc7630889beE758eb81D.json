@@ -4,10 +4,11 @@
 	"symbol": "rETH",
 	"name": "Rocket Pool ETH",
 	"decimals": 18,
-	"logo": "https://ethereum-optimism.github.io/data/rETH/logo.png",
+	"logo": "https://ethereum-optimism.github.io/data/rETH/logo.svg",
 	"coingecko": "rocket-pool-eth",
 	"sources": [
 		"coingecko",
+		"optimism",
 		"sushiswap"
 	]
 }

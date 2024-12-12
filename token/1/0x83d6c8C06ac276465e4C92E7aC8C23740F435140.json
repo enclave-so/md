@@ -3,6 +3,8 @@
 	"address": "0x83d6c8C06ac276465e4C92E7aC8C23740F435140",
 	"symbol": "HMX",
 	"name": "HMX",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31206/thumb/HMXlogo_CG.png?1696530033",
 	"coingecko": "hmx",
 	"sources": [
 		"coingecko"

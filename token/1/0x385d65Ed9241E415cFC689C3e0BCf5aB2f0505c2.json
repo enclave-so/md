@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x385d65Ed9241E415cFC689C3e0BCf5aB2f0505c2",
-	"symbol": "MollarsToken",
+	"symbol": "MOLLARS",
 	"name": "MollarsToken",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/38435/thumb/cmc200x200.png?1717535763",
 	"coingecko": "mollarstoken",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x1a8a39f2986Cf9688F6DC9e5Ee0Cc0bC8d5edd67",
-	"symbol": "Doggacoin",
+	"symbol": "DOGGA",
 	"name": "Doggacoin",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/38515/thumb/200x200.png?1717754943",
 	"coingecko": "doggacoin",
 	"sources": [
 		"coingecko"

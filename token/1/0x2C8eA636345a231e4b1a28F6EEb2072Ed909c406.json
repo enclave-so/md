@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x2C8eA636345a231e4b1a28F6EEb2072Ed909c406",
-	"symbol": "Meme Elon Doge Floki",
+	"symbol": "MEMELON",
 	"name": "Meme Elon Doge Floki",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/32609/thumb/MEMELON.jpg?1698733326",
 	"coingecko": "meme-elon-doge-floki-2",
 	"sources": [
 		"coingecko"

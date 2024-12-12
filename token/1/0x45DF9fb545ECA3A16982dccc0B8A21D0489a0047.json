@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x45DF9fb545ECA3A16982dccc0B8A21D0489a0047",
-	"symbol": "Voy Finance",
+	"symbol": "VOY",
 	"name": "Voy Finance",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30304/thumb/IMAGE_2024-10-02_13_12_54_copy_2.jpeg?1730921798",
 	"coingecko": "voy-finance",
 	"sources": [
 		"coingecko"

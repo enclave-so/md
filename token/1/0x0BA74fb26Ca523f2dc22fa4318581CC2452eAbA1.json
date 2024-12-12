@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x0BA74fb26Ca523f2dc22fa4318581CC2452eAbA1",
-	"symbol": "Bogdanoff",
+	"symbol": "BOG",
 	"name": "Bogdanoff",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30026/thumb/telegram-cloud-document-1-1809833204887060537_copia_2.png?1696528949",
 	"coingecko": "bogdanoff",
 	"sources": [
 		"coingecko"

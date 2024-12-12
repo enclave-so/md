@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xf9Fb4AD91812b704Ba883B11d2B576E890a6730A",
-	"symbol": "Aave AMM WETH",
+	"symbol": "AAMMWETH",
 	"name": "Aave AMM WETH",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/17259/thumb/aAMMWETH_2x.png?1696516814",
 	"coingecko": "aave-amm-weth",
 	"sources": [
 		"coingecko"

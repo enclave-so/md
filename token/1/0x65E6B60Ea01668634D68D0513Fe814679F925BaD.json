@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x65E6B60Ea01668634D68D0513Fe814679F925BaD",
-	"symbol": "PixelVerse",
+	"symbol": "PIXEL",
 	"name": "PixelVerse",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/19934/thumb/pixelverse.PNG?1696519352",
 	"coingecko": "pixelverse",
 	"sources": [
 		"coingecko"

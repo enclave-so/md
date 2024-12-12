@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xa670d7237398238DE01267472C6f13e5B8010FD1",
-	"symbol": "Sommelier",
+	"symbol": "SOMM",
 	"name": "Sommelier",
+	"decimals": 6,
+	"logo": "https://assets.coingecko.com/coins/images/23308/thumb/somm_new.png?1696522525",
 	"coingecko": "sommelier",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x6DF0E641FC9847c0c6Fde39bE6253045440c14d3",
-	"symbol": "Dinero",
+	"symbol": "DINERO",
 	"name": "Dinero",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/39341/thumb/dinero.jpg?1721807902",
 	"coingecko": "dinero-2",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xF1A7000000950C7ad8Aff13118Bb7aB561A448ee",
-	"symbol": "Flayer",
+	"symbol": "FLAY",
 	"name": "Flayer",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/50377/thumb/flay.jpg?1727401416",
 	"coingecko": "flayer",
 	"sources": [
 		"coingecko"

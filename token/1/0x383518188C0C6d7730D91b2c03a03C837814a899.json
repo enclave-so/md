@@ -1,10 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x383518188C0C6d7730D91b2c03a03C837814a899",
-	"symbol": "OHMv1",
-	"name": "Olympus v1 OLD",
+	"symbol": "OHM",
+	"name": "Olympus v1",
 	"decimals": 9,
-	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x383518188C0C6d7730D91b2c03a03C837814a899/logo.png",
+	"logo": "https://assets.coingecko.com/coins/images/21496/thumb/OHM.jpg?1696520856",
 	"coingecko": "olympus-v1",
 	"sources": [
 		"coingecko",

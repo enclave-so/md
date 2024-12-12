@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x8be8c50e7D7aCFf6084899e71a6Db085fF7134C8",
-	"symbol": "OpSec",
+	"symbol": "OPSEC",
 	"name": "OpSec",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/34284/thumb/8c30589e-676d-4c5a-bec4-afffe2f1713b.jpeg?1731735467",
 	"coingecko": "opsec",
 	"sources": [
 		"coingecko"

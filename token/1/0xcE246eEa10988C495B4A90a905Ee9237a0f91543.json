@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xcE246eEa10988C495B4A90a905Ee9237a0f91543",
-	"symbol": "VaultCraft",
+	"symbol": "VCX",
 	"name": "VaultCraft",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/33237/thumb/VCX_Token_200x200.png?1701147660",
 	"coingecko": "vaultcraft",
 	"sources": [
 		"coingecko"

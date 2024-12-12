@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xF59ae934f6fe444afC309586cC60a84a0F89Aaea",
-	"symbol": "Polkadex",
+	"symbol": "PDEX",
 	"name": "Polkadex",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14833/thumb/dIze5Ztl_400x400.jpg?1696514500",
 	"coingecko": "polkadex",
 	"sources": [
 		"coingecko"

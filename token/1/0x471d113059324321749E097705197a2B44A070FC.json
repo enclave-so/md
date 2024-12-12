@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x471d113059324321749E097705197a2B44A070FC",
-	"symbol": "Kanga Exchange",
+	"symbol": "KNG",
 	"name": "Kanga Exchange",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/21188/thumb/KNG_logo-200.png?1696520564",
 	"coingecko": "kanga-exchange",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x9Cf0ED013e67DB12cA3AF8e7506fE401aA14dAd6",
-	"symbol": "Spectre AI",
+	"symbol": "SPECTRE",
 	"name": "Spectre AI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/33066/thumb/Spectre.png?1710264243",
 	"coingecko": "spectre-ai",
 	"sources": [
 		"coingecko"

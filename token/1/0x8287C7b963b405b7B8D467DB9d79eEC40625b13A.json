@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x8287C7b963b405b7B8D467DB9d79eEC40625b13A",
-	"symbol": "Swingby",
+	"symbol": "SWINGBY",
 	"name": "Swingby",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/11861/thumb/swingby.png?1696511731",
 	"coingecko": "swingby",
 	"sources": [
 		"coingecko"

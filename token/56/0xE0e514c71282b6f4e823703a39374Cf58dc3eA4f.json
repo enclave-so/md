@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0xE0e514c71282b6f4e823703a39374Cf58dc3eA4f",
-	"symbol": "Belt",
+	"symbol": "BELT",
 	"name": "Belt",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0xE0e514c71282b6f4e823703a39374Cf58dc3eA4f.png",
 	"coingecko": "belt",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

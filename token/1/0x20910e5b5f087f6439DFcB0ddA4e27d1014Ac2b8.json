@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x20910e5b5f087f6439DFcB0ddA4e27d1014Ac2b8",
-	"symbol": "BananaTok",
+	"symbol": "BNA",
 	"name": "BananaTok",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/10289/thumb/sMCxdYBa_400x400.jpg?1696510295",
 	"coingecko": "bananatok",
 	"sources": [
 		"coingecko"

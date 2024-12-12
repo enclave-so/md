@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x2B46578B7F06F2B373AD0E0c9b28F800dCc80bF3",
-	"symbol": "Echo Bot",
+	"symbol": "ECHO",
 	"name": "Echo Bot",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/31266/thumb/hd1qyGUA_200x200.jpg?1696530090",
 	"coingecko": "echo-bot",
 	"sources": [
 		"coingecko"

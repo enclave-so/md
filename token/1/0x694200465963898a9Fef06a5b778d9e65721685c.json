@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x694200465963898a9Fef06a5b778d9e65721685c",
-	"symbol": "Gecky",
+	"symbol": "GECKY",
 	"name": "Gecky",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/50854/thumb/Gecky_logo.jpg?1729301616",
 	"coingecko": "gecky",
 	"sources": [
 		"coingecko"

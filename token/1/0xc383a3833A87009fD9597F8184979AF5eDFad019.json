@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xc383a3833A87009fD9597F8184979AF5eDFad019",
-	"symbol": "iETH v1",
+	"symbol": "IETH",
 	"name": "iETH v1",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/25822/thumb/iETH_100x100.png?1696524907",
 	"coingecko": "instadapp-eth",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x8C024CD50A94978537BDe537A1Fa25Ad89444222",
-	"symbol": "Peace Coin",
+	"symbol": "PC",
 	"name": "Peace Coin",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/50404/thumb/Vector.png?1727615414",
 	"coingecko": "peace-coin-2",
 	"sources": [
 		"coingecko"

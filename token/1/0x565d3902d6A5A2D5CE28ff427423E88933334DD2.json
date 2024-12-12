@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x565d3902d6A5A2D5CE28ff427423E88933334DD2",
-	"symbol": "Adult Playground",
+	"symbol": "ADULT",
 	"name": "Adult Playground",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/32053/thumb/0x565d3902d6a5a2d5ce28ff427423e88933334dd2.png?1696530850",
 	"coingecko": "adult-playground",
 	"sources": [
 		"coingecko"

@@ -3,6 +3,8 @@
 	"address": "0xDD2a36AE937bc134ea694d77fC7e2E36f5d86dE0",
 	"symbol": "WELD",
 	"name": "WELD",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/18544/thumb/weld.png?1696518023",
 	"coingecko": "weld",
 	"sources": [
 		"coingecko"

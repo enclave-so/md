@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x2047ab3072B52561596Ce5E0131BDbB7C848538D",
-	"symbol": "Bored Token",
+	"symbol": "BORED",
 	"name": "Bored Token",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/28515/thumb/Bored.png?1696527508",
 	"coingecko": "bored",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xBb556b0eE2CBd89ed95DdEA881477723A3Aa8F8b",
-	"symbol": "AliceNet",
+	"symbol": "ALCA",
 	"name": "AliceNet",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/29417/thumb/LinkedIn_-_Profile_300_x_300.png?1696528366",
 	"coingecko": "alicenet",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x7dA2641000Cbb407C329310C461b2cB9c70C3046",
-	"symbol": "Delysium",
+	"symbol": "AGI",
 	"name": "Delysium",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/29299/thumb/AGI_logo_200.png?1696528251",
 	"coingecko": "delysium",
 	"sources": [
 		"coingecko"

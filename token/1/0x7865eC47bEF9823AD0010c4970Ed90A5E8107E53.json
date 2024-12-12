@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x7865eC47bEF9823AD0010c4970Ed90A5E8107E53",
-	"symbol": "NeoAudit AI",
+	"symbol": "NAAI",
 	"name": "NeoAudit AI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/33181/thumb/logo-on-black_%282%29.png?1700925393",
 	"coingecko": "neoaudit-ai",
 	"sources": [
 		"coingecko"

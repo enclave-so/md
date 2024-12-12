@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xeA60CD69F2B9fD6Eb067bdDBbF86a5BdeFfbBc55",
-	"symbol": "Wecan",
+	"symbol": "WECAN",
 	"name": "Wecan",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/32150/thumb/Wecan_W_logo_RGB.png?1702947005",
 	"coingecko": "wecan",
 	"sources": [
 		"coingecko"

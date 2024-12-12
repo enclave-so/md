@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x80a2AE356fc9ef4305676f7a3E2Ed04e12C33946",
-	"symbol": "cYFI",
+	"symbol": "CYFI",
 	"name": "cYFI",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/17530/thumb/cyfi.PNG?1696517068",
 	"coingecko": "compound-yearn-finance",
 	"sources": [
 		"coingecko"

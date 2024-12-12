@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x5189688Ac92a1Eba1710bcba94Ab25c695A4dfa2",
-	"symbol": "Banksters",
+	"symbol": "BARS",
 	"name": "Banksters",
+	"decimals": 6,
+	"logo": "https://assets.coingecko.com/coins/images/38408/thumb/BARS.jpg?1717464223",
 	"coingecko": "banksters",
 	"sources": [
 		"coingecko"

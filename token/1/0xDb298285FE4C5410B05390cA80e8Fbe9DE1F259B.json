@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xDb298285FE4C5410B05390cA80e8Fbe9DE1F259B",
-	"symbol": "handle.fi",
-	"name": "handle.fi",
+	"symbol": "FOREX",
+	"name": "handle fi",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/18533/thumb/handle.fiFOREXLogoDark200x200.png?1696518013",
 	"coingecko": "handle-fi",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x943ED852DadB5C3938ECdC6883718df8142DE4C8",
-	"symbol": "FansTime",
+	"symbol": "FTI",
 	"name": "FansTime",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/4952/thumb/fanstime.png?1696505490",
 	"coingecko": "fanstime",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xf4CD3d3Fda8d7Fd6C5a500203e38640A70Bf9577",
-	"symbol": "YfDAI.finance",
-	"name": "YfDAI.finance",
+	"symbol": "YF-DAI",
+	"name": "YfDAI finance",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/12385/thumb/1619048513068.png?1696512208",
 	"coingecko": "yfdai-finance",
 	"sources": [
 		"coingecko"

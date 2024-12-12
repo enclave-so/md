@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0xD41f3D112cb8695c7a8992E4055BD273f3ce8729",
+	"symbol": "SYNTH",
+	"name": "Synth",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/SYNTH/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

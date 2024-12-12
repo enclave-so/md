@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xbE9Ab37a414c517b2be2bfA5945665bB07379054",
-	"symbol": "TomTomCoin",
+	"symbol": "TOMS",
 	"name": "TomTomCoin",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/22864/thumb/toms_logo_200.png?1696522164",
 	"coingecko": "tomtomcoin",
 	"sources": [
 		"coingecko"

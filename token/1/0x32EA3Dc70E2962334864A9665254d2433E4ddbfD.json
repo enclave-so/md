@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x32EA3Dc70E2962334864A9665254d2433E4ddbfD",
-	"symbol": "Sportzchain",
+	"symbol": "SPN",
 	"name": "Sportzchain",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/24915/thumb/Sportzchain_logo_195_195.png?1696524072",
 	"coingecko": "sportzchain",
 	"sources": [
 		"coingecko"

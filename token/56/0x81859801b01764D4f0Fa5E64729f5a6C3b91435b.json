@@ -1,0 +1,11 @@
+{
+	"chain": 56,
+	"address": "0x81859801b01764D4f0Fa5E64729f5a6C3b91435b",
+	"symbol": "BFI",
+	"name": "b.earnfi",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x81859801b01764D4f0Fa5E64729f5a6C3b91435b.png",
+	"sources": [
+		"pancakeswap"
+	]
+}

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x320AEBBDCA1397F2e3C7F1e482e104a7d9EC97e4",
-	"symbol": "Ayin",
+	"symbol": "AYIN",
 	"name": "Ayin",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31314/thumb/AYIN.png?1698572152",
 	"coingecko": "ayin",
 	"sources": [
 		"coingecko"

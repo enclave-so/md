@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xb146823Fb8EA064d14bA1a52e3E55CdE09AFfF2D",
-	"symbol": "EyeTech",
+	"symbol": "EYE",
 	"name": "EyeTech",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31896/thumb/200.png?1696530707",
 	"coingecko": "chartai",
 	"sources": [
 		"coingecko"

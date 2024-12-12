@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x2e4e1093b4E80E3CC73c92264715CA984bAD7e55",
-	"symbol": "ZionWallet",
+	"symbol": "ZION",
 	"name": "ZionWallet",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/36381/thumb/IMG_20240323_020534_446.png?1711347294",
 	"coingecko": "zionwallet",
 	"sources": [
 		"coingecko"

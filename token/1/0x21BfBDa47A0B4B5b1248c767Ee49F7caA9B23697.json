@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0x21BfBDa47A0B4B5b1248c767Ee49F7caA9B23697",
-	"symbol": "Ovr",
+	"symbol": "OVR",
 	"name": "Ovr",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/13429/thumb/LOGO-OVER-ICON-200X200PX.png?1699396496",
 	"coingecko": "ovr",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

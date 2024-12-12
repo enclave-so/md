@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xe4b4C008Ff36E3C50c4299c223504a480DE9C833",
-	"symbol": "Secret Society",
+	"symbol": "SS",
 	"name": "Secret Society",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/36865/thumb/622BD442-4493-4AF9-8DF9-CF464B7AFC44.png?1712644574",
 	"coingecko": "secret-society",
 	"sources": [
 		"coingecko"

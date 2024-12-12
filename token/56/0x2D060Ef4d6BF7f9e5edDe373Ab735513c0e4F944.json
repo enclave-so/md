@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0x2D060Ef4d6BF7f9e5edDe373Ab735513c0e4F944",
-	"symbol": "Solidus Ai Tech",
-	"name": "Solidus Ai Tech",
+	"symbol": "AITECH",
+	"name": "AITECH",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x2D060Ef4d6BF7f9e5edDe373Ab735513c0e4F944.png",
 	"coingecko": "solidus-aitech",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

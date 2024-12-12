@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x1155DB64b59265F57533bC0f9AE012FfFd34eB7F",
-	"symbol": "Yaku",
+	"symbol": "YAKU",
 	"name": "Yaku",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/26785/thumb/yaku_logo.png?1706636424",
 	"coingecko": "yaku",
 	"sources": [
 		"coingecko"

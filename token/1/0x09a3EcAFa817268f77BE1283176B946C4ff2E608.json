@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0x09a3EcAFa817268f77BE1283176B946C4ff2E608",
-	"symbol": "Mirror Protocol",
+	"symbol": "MIR",
 	"name": "Mirror Protocol",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/13295/thumb/mirror_logo_transparent.png?1611554658",
 	"coingecko": "mirror-protocol",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"uniswap"
 	]
 }

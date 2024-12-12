@@ -1,10 +1,13 @@
 {
 	"chain": 10,
 	"address": "0x6F0fecBC276de8fC69257065fE47C5a03d986394",
-	"symbol": "Popcorn",
+	"symbol": "POP",
 	"name": "Popcorn",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/POP/logo.svg",
 	"coingecko": "popcorn",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

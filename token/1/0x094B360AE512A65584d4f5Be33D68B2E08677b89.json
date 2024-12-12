@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x094B360AE512A65584d4f5Be33D68B2E08677b89",
-	"symbol": "USUAL Star",
+	"symbol": "USUAL",
 	"name": "USUAL Star",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/52436/thumb/USUALS_logo.png?1733340759",
 	"coingecko": "usual-star",
 	"sources": [
 		"coingecko"

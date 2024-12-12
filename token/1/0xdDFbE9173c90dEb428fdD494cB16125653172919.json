@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xdDFbE9173c90dEb428fdD494cB16125653172919",
-	"symbol": "Sowaka",
+	"symbol": "SWK",
 	"name": "Sowaka",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/38489/thumb/sowaka-logo-mark_%281%29.png?1717687562",
 	"coingecko": "sowaka",
 	"sources": [
 		"coingecko"

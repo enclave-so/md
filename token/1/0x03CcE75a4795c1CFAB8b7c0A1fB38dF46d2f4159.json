@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x03CcE75a4795c1CFAB8b7c0A1fB38dF46d2f4159",
-	"symbol": "Major Dog",
+	"symbol": "MAJOR",
 	"name": "Major Dog",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/37436/thumb/CC_20240503_195115.png?1715028421",
 	"coingecko": "major-dog",
 	"sources": [
 		"coingecko"

@@ -1,0 +1,11 @@
+{
+	"chain": 42161,
+	"address": "0x406C8dB506653D882295875F633bEC0bEb921C2A",
+	"symbol": "BIT",
+	"name": "BitDAO",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/17627/thumb/rI_YptK8.png?1653983088",
+	"sources": [
+		"uniswap"
+	]
+}

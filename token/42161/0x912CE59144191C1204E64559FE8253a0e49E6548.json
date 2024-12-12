@@ -4,10 +4,11 @@
 	"symbol": "ARB",
 	"name": "Arbitrum",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network-logos/arbitrum.jpg",
+	"logo": "https://arbitrum.foundation/logo.png",
 	"coingecko": "arbitrum",
 	"sources": [
 		"coingecko",
-		"sushiswap"
+		"sushiswap",
+		"uniswap"
 	]
 }

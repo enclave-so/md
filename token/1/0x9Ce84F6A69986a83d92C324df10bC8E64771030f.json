@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x9Ce84F6A69986a83d92C324df10bC8E64771030f",
-	"symbol": "CHEX Token",
+	"symbol": "CHEX",
 	"name": "CHEX Token",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/10349/thumb/logo-white-bg-dark.png?1733475849",
 	"coingecko": "chex-token",
 	"sources": [
 		"coingecko"

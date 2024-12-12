@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xbB8eCf8d1342E086c9A751Ee1B31a8320007379f",
-	"symbol": "Nexara",
+	"symbol": "NXR",
 	"name": "Nexara",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/52479/thumb/nexartoken_%281%29200.png?1733425419",
 	"coingecko": "nexara",
 	"sources": [
 		"coingecko"

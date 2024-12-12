@@ -3,6 +3,8 @@
 	"address": "0x7efBAC35B65e73484764Fd00F18E64929E782855",
 	"symbol": "CIFI",
 	"name": "CIFI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/37806/thumb/200x200.png?1715591477",
 	"coingecko": "cifi",
 	"sources": [
 		"coingecko"

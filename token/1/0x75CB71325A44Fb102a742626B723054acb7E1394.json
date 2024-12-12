@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x75CB71325A44Fb102a742626B723054acb7E1394",
-	"symbol": "Anime",
+	"symbol": "ANI",
 	"name": "Anime",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/13792/thumb/ani.png?1696513541",
 	"coingecko": "anime-token",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xD585aaafA2B58b1CD75092B51ade9Fa4Ce52F247",
-	"symbol": "peg-eUSD",
-	"name": "peg-eUSD",
+	"symbol": "PEUSD",
+	"name": "peg eUSD",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31521/thumb/peUSD_200x200.png?1696530331",
 	"coingecko": "peg-eusd",
 	"sources": [
 		"coingecko"

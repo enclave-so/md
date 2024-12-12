@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x3136eF851592aCf49CA4C825131E364170FA32b3",
-	"symbol": "CoinFi",
+	"symbol": "COFI",
 	"name": "CoinFi",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/1709/thumb/coinfi.png?1696502727",
 	"coingecko": "coinfi",
 	"sources": [
 		"coingecko"

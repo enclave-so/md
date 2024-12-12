@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0x2598c30330D5771AE9F983979209486aE26dE875",
-	"symbol": "Any Inu",
+	"symbol": "AI",
 	"name": "Any Inu",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x2598c30330D5771AE9F983979209486aE26dE875.png",
 	"coingecko": "any-inu",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

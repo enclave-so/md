@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xff8C479134A18918059493243943150776cF8CF2",
-	"symbol": "Renq Finance",
+	"symbol": "RENQ",
 	"name": "Renq Finance",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/29603/thumb/Renq.png?1696528541",
 	"coingecko": "renq-finance",
 	"sources": [
 		"coingecko"

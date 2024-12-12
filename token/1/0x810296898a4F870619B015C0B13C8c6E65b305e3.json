@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x810296898a4F870619B015C0B13C8c6E65b305e3",
-	"symbol": "Nugget Trap Gold Token",
+	"symbol": "NGTG",
 	"name": "Nugget Trap Gold Token",
+	"decimals": 2,
+	"logo": "https://assets.coingecko.com/coins/images/51494/thumb/NJ8Zd0oV.jpg?1731407448",
 	"coingecko": "nugget-trap",
 	"sources": [
 		"coingecko"

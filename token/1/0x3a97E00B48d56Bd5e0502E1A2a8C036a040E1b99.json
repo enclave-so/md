@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x3a97E00B48d56Bd5e0502E1A2a8C036a040E1b99",
-	"symbol": "JACKBOT",
+	"symbol": "JBOT",
 	"name": "JACKBOT",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/34177/thumb/JBOT.jpg?1704219980",
 	"coingecko": "jackbot",
 	"sources": [
 		"coingecko"

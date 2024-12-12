@@ -1,0 +1,11 @@
+{
+	"chain": 56,
+	"address": "0x211FfbE424b90e25a15531ca322adF1559779E45",
+	"symbol": "BUX",
+	"name": "BUX",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x211FfbE424b90e25a15531ca322adF1559779E45.png",
+	"sources": [
+		"pancakeswap"
+	]
+}

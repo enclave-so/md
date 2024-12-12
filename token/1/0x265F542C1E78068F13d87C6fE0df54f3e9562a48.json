@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x265F542C1E78068F13d87C6fE0df54f3e9562a48",
-	"symbol": "Proof Of Pepe",
+	"symbol": "POP",
 	"name": "Proof Of Pepe",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/31000/thumb/ebEOnrjk_400x400.jpg?1696529838",
 	"coingecko": "proof-of-pepe",
 	"sources": [
 		"coingecko"

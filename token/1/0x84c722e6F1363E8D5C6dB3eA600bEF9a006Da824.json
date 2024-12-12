@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x84c722e6F1363E8D5C6dB3eA600bEF9a006Da824",
-	"symbol": "Misbloc",
+	"symbol": "MSB",
 	"name": "Misbloc",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/13021/thumb/xREV4lXV.png?1696512810",
 	"coingecko": "misbloc",
 	"sources": [
 		"coingecko"

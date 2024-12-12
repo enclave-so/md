@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0xb80a1d87654BEf7aD8eB6BBDa3d2309E31D4e598",
-	"symbol": "21.co Wrapped SOL",
-	"name": "21.co Wrapped SOL",
+	"symbol": "21SOL",
+	"name": "21 co Wrapped SOL",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/34643/thumb/64ffa7364177ff79549f4b4f_21co_W_Token_v2_21SOL-7.png?1705579376",
 	"coingecko": "wrapped-sol-21-co",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"indexcoop"
 	]
 }

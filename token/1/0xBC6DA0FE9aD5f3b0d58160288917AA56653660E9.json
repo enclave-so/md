@@ -1,10 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xBC6DA0FE9aD5f3b0d58160288917AA56653660E9",
-	"symbol": "alUSD",
+	"symbol": "ALUSD",
 	"name": "Alchemix USD",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/alusd.jpg",
+	"logo": "https://assets.coingecko.com/coins/images/14114/thumb/Alchemix_USD.png?1696513835",
 	"coingecko": "alchemix-usd",
 	"sources": [
 		"coingecko",

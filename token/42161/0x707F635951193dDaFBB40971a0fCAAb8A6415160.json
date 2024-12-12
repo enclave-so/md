@@ -1,0 +1,11 @@
+{
+	"chain": 42161,
+	"address": "0x707F635951193dDaFBB40971a0fCAAb8A6415160",
+	"symbol": "SNT",
+	"name": "Status",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/779/thumb/status.png?1548610778",
+	"sources": [
+		"uniswap"
+	]
+}

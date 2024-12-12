@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x5833dBB0749887174b254bA4a5df747FF523a905",
-	"symbol": "XRun",
+	"symbol": "XRUN",
 	"name": "XRun",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/25272/thumb/19787.png?1696524411",
 	"coingecko": "xrun",
 	"sources": [
 		"coingecko"

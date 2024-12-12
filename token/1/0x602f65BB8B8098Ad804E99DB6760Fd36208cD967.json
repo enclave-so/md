@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x602f65BB8B8098Ad804E99DB6760Fd36208cD967",
-	"symbol": "Mops",
+	"symbol": "MOPS",
 	"name": "Mops",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/26900/thumb/mops.png?1696525958",
 	"coingecko": "mops",
 	"sources": [
 		"coingecko"

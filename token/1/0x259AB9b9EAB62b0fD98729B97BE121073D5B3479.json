@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0x259AB9b9EAB62b0fD98729B97BE121073D5B3479",
+	"symbol": "EST",
+	"name": "Erica Social Token",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/EST/logo.png",
+	"sources": [
+		"optimism"
+	]
+}

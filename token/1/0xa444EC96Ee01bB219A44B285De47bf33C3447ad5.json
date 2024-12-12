@@ -3,6 +3,8 @@
 	"address": "0xa444EC96Ee01bB219A44B285De47bf33C3447ad5",
 	"symbol": "LEOX",
 	"name": "LEOX",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/29980/thumb/LEOX-LOGO-BLACK-2.jpg?1696528905",
 	"coingecko": "leox",
 	"sources": [
 		"coingecko"

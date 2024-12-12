@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xf3527ef8dE265eAa3716FB312c12847bFBA66Cef",
-	"symbol": "usdx.money USDX",
-	"name": "usdx.money USDX",
+	"symbol": "USDX",
+	"name": "usdx money USDX",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/50360/thumb/USDX200px.png?1731906044",
 	"coingecko": "usdx-money-usdx",
 	"sources": [
 		"coingecko"

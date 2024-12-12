@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xD15A1A2A3211b58113e45809f05934252E34e2F8",
-	"symbol": "Woozoo Music",
+	"symbol": "WZM",
 	"name": "Woozoo Music",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/21891/thumb/logo_200_200_%281%29.png?1696521244",
 	"coingecko": "woozoo-music",
 	"sources": [
 		"coingecko"

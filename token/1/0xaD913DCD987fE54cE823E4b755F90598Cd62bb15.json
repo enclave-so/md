@@ -3,6 +3,8 @@
 	"address": "0xaD913DCD987fE54cE823E4b755F90598Cd62bb15",
 	"symbol": "MFERS",
 	"name": "MFERS",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/36064/thumb/logo200.png?1710405377",
 	"coingecko": "mfers",
 	"sources": [
 		"coingecko"

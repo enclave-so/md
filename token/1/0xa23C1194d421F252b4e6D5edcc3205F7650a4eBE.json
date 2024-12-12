@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xa23C1194d421F252b4e6D5edcc3205F7650a4eBE",
-	"symbol": "LaunchBlock",
+	"symbol": "LBP",
 	"name": "LaunchBlock",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/24181/thumb/S6z_-9GB_400x400.jpg?1696523370",
 	"coingecko": "launchblock",
 	"sources": [
 		"coingecko"

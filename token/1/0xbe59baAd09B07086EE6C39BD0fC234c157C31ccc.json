@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xbe59baAd09B07086EE6C39BD0fC234c157C31ccc",
-	"symbol": "LONG TOTEM",
+	"symbol": "LONG",
 	"name": "LONG TOTEM",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35103/thumb/IMG_20240206_184148_122.jpg?1707380395",
 	"coingecko": "long-totem",
 	"sources": [
 		"coingecko"

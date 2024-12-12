@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x391cF4b21F557c935C7f670218Ef42C21bd8d686",
-	"symbol": "Morphware",
+	"symbol": "XMW",
 	"name": "Morphware",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/50298/thumb/morphware_200_200.png?1727020889",
 	"coingecko": "morphware",
 	"sources": [
 		"coingecko"

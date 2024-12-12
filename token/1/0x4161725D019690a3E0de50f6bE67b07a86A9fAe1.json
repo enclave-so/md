@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x4161725D019690a3E0de50f6bE67b07a86A9fAe1",
-	"symbol": "TokenPocket Token",
+	"symbol": "TPT",
 	"name": "TokenPocket Token",
+	"decimals": 4,
+	"logo": "https://assets.coingecko.com/coins/images/7603/thumb/pocket.jpg?1696507861",
 	"coingecko": "token-pocket",
 	"sources": [
 		"coingecko"

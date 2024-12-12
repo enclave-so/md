@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xEE1CeA7665bA7aa97e982EdeaeCb26B59a04d035",
-	"symbol": "ORAO Network",
+	"symbol": "ORAO",
 	"name": "ORAO Network",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/15189/thumb/orao.PNG?1696514846",
 	"coingecko": "orao-network",
 	"sources": [
 		"coingecko"

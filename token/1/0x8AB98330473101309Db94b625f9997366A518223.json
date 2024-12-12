@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x8AB98330473101309Db94b625f9997366A518223",
-	"symbol": "PlasticHero",
+	"symbol": "PTH",
 	"name": "PlasticHero",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/32771/thumb/Ticker_%282%29.png?1699343244",
 	"coingecko": "plastichero",
 	"sources": [
 		"coingecko"

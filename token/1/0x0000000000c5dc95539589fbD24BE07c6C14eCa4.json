@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x0000000000c5dc95539589fbD24BE07c6C14eCa4",
-	"symbol": "Milady Cult Coin",
+	"symbol": "CULT",
 	"name": "Milady Cult Coin",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/52583/thumb/cult.jpg?1733712273",
 	"coingecko": "milady-cult-coin",
 	"sources": [
 		"coingecko"

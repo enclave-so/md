@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xe2bA8693cE7474900A045757fe0efCa900F6530b",
-	"symbol": "Flux DAI",
+	"symbol": "FDAI",
 	"name": "Flux DAI",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/29052/thumb/fDAI_200x200.png?1696528019",
 	"coingecko": "flux-dai",
 	"sources": [
 		"coingecko"

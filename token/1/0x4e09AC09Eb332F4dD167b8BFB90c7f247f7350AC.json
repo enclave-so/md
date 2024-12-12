@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x4e09AC09Eb332F4dD167b8BFB90c7f247f7350AC",
-	"symbol": "MemeCoinGirl",
+	"symbol": "MIKO",
 	"name": "MemeCoinGirl",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/51416/thumb/miko200.png?1731141435",
 	"coingecko": "memecoingirl",
 	"sources": [
 		"coingecko"

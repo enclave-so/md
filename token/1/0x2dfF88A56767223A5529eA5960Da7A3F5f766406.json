@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x2dfF88A56767223A5529eA5960Da7A3F5f766406",
-	"symbol": "SPACE ID",
+	"symbol": "ID",
 	"name": "SPACE ID",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/29468/thumb/sid_token_logo_%28green2%29.png?1696528413",
 	"coingecko": "space-id",
 	"sources": [
 		"coingecko"

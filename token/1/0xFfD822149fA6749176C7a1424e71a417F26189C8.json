@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xFfD822149fA6749176C7a1424e71a417F26189C8",
-	"symbol": "Nothing Token",
+	"symbol": "THING",
 	"name": "Nothing Token",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30327/thumb/fulltrans_%281%29.png?1696529228",
 	"coingecko": "nothing-token",
 	"sources": [
 		"coingecko"

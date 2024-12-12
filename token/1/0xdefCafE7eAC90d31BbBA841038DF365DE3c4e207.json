@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xdefCafE7eAC90d31BbBA841038DF365DE3c4e207",
-	"symbol": "0xDEFCAFE",
+	"symbol": "CAFE",
 	"name": "0xDEFCAFE",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/31738/thumb/200x200.png?1696530557",
 	"coingecko": "0xdefcafe",
 	"sources": [
 		"coingecko"

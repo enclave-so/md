@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x0bB9aB78aAF7179b7515e6753d89822b91e670C4",
-	"symbol": "Kernel USD",
+	"symbol": "KUSD",
 	"name": "Kernel USD",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/39086/thumb/Kernel_USD.png?1720457004",
 	"coingecko": "kernel-usd",
 	"sources": [
 		"coingecko"

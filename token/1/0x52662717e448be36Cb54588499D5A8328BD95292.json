@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x52662717e448be36Cb54588499D5A8328BD95292",
-	"symbol": "Tenshi",
+	"symbol": "TENSHI",
 	"name": "Tenshi",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/17170/thumb/TENSHI.png?1696516729",
 	"coingecko": "tenshi",
 	"sources": [
 		"coingecko"

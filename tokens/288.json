@@ -1,6 +1,64 @@
 [
 	{
 		"chain": 288,
+		"address": "0x3F56e0c36d275367b8C502090EDF38289b3dEa0d",
+		"symbol": "MAI",
+		"name": "MAI",
+		"coingecko": "mimatic",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 288,
+		"address": "0xAb2AF3A98D229b7dAeD7305Bb88aD0BA2c42f9cA",
+		"symbol": "FRAX",
+		"name": "Frax",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/frax.jpg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 288,
+		"address": "0x5fFccc55C0d2fd6D3AC32C26C020B3267e933F1b",
+		"symbol": "SUSHI",
+		"name": "SushiToken",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/sushi.jpg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 288,
+		"address": "0x66a2A913e447d6b4BF33EFbec43aAeF87890FBbc",
+		"symbol": "USDC",
+		"name": "USD Coin",
+		"decimals": 6,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdc.jpg",
+		"coingecko": "bridged-usdc",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 288,
+		"address": "0xdc0486f8bf31DF57a952bcd3c1d3e166e3d9eC8b",
+		"symbol": "WBTC",
+		"name": "Wrapped Bitcoin",
+		"decimals": 8,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/btc.jpg",
+		"coingecko": "boba-standard-bridged-wbtc-boba-network",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 288,
 		"address": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000",
 		"symbol": "WETH",
 		"name": "Wrapped Ether",
@@ -24,69 +82,12 @@
 	},
 	{
 		"chain": 288,
-		"address": "0x3F56e0c36d275367b8C502090EDF38289b3dEa0d",
-		"symbol": "MAI",
-		"name": "MAI",
-		"coingecko": "mimatic",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 288,
-		"address": "0xe1E2ec9a85C607092668789581251115bCBD20de",
-		"symbol": "OMG Network",
-		"name": "OMG Network",
-		"coingecko": "omisego",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 288,
 		"address": "0x96821b258955587069F680729cD77369C0892B40",
 		"symbol": "ACX",
 		"name": "Across Protocol Token",
 		"decimals": 18,
 		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/boba/0x96821b258955587069F680729cD77369C0892B40.jpg",
 		"coingecko": "across-protocol",
-		"sources": [
-			"coingecko",
-			"sushiswap"
-		]
-	},
-	{
-		"chain": 288,
-		"address": "0x5fFccc55C0d2fd6D3AC32C26C020B3267e933F1b",
-		"symbol": "SUSHI",
-		"name": "SushiToken",
-		"decimals": 18,
-		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/sushi.jpg",
-		"sources": [
-			"sushiswap"
-		]
-	},
-	{
-		"chain": 288,
-		"address": "0x5DE1677344D3Cb0D7D465c10b72A8f60699C062d",
-		"symbol": "USDT",
-		"name": "Tether USD",
-		"decimals": 6,
-		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdt.jpg",
-		"coingecko": "bridged-usdt",
-		"sources": [
-			"coingecko",
-			"sushiswap"
-		]
-	},
-	{
-		"chain": 288,
-		"address": "0xdc0486f8bf31DF57a952bcd3c1d3e166e3d9eC8b",
-		"symbol": "WBTC",
-		"name": "Wrapped Bitcoin",
-		"decimals": 8,
-		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/btc.jpg",
-		"coingecko": "boba-standard-bridged-wbtc-boba-network",
 		"sources": [
 			"coingecko",
 			"sushiswap"
@@ -118,26 +119,25 @@
 	},
 	{
 		"chain": 288,
-		"address": "0xAb2AF3A98D229b7dAeD7305Bb88aD0BA2c42f9cA",
-		"symbol": "FRAX",
-		"name": "Frax",
-		"decimals": 18,
-		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/frax.jpg",
+		"address": "0x5DE1677344D3Cb0D7D465c10b72A8f60699C062d",
+		"symbol": "USDT",
+		"name": "Tether USD",
+		"decimals": 6,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdt.jpg",
+		"coingecko": "bridged-usdt",
 		"sources": [
+			"coingecko",
 			"sushiswap"
 		]
 	},
 	{
 		"chain": 288,
-		"address": "0x66a2A913e447d6b4BF33EFbec43aAeF87890FBbc",
-		"symbol": "USDC",
-		"name": "USD Coin",
-		"decimals": 6,
-		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdc.jpg",
-		"coingecko": "bridged-usdc",
+		"address": "0xe1E2ec9a85C607092668789581251115bCBD20de",
+		"symbol": "OMG Network",
+		"name": "OMG Network",
+		"coingecko": "omisego",
 		"sources": [
-			"coingecko",
-			"sushiswap"
+			"coingecko"
 		]
 	}
 ]

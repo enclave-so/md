@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x6C8c6b02E7b2BE14d4fA6022Dfd6d75921D90E4E",
-	"symbol": "cBAT",
+	"symbol": "CBAT",
 	"name": "cBAT",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/10645/thumb/cBAT1.JPG?1696510619",
 	"coingecko": "compound-basic-attention-token",
 	"sources": [
 		"coingecko"

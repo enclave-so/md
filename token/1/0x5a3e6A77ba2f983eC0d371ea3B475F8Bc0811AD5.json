@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x5a3e6A77ba2f983eC0d371ea3B475F8Bc0811AD5",
-	"symbol": "0x0.ai: AI Smart Contract",
-	"name": "0x0.ai: AI Smart Contract",
+	"symbol": "0X0",
+	"name": "0x0 ai  AI Smart Contract",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/28880/thumb/0x0.png?1696527857",
 	"coingecko": "0x0-ai-ai-smart-contract",
 	"sources": [
 		"coingecko"

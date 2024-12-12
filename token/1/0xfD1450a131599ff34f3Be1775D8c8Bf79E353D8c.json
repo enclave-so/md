@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xfD1450a131599ff34f3Be1775D8c8Bf79E353D8c",
-	"symbol": "Shiba",
+	"symbol": "SHIBA",
 	"name": "Shiba",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/32299/thumb/IMG_20231011_081456_897.jpg?1697186075",
 	"coingecko": "shiba",
 	"sources": [
 		"coingecko"

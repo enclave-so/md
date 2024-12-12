@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xaeB3607eC434454ceB308f5Cd540875efb54309A",
-	"symbol": "Sturdy",
+	"symbol": "STRDY",
 	"name": "Sturdy",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30581/thumb/SF-Dark-Logomark.png?1696529445",
 	"coingecko": "sturdy",
 	"sources": [
 		"coingecko"

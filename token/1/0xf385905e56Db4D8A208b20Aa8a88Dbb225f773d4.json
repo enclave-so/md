@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xf385905e56Db4D8A208b20Aa8a88Dbb225f773d4",
-	"symbol": "TNA Protocol",
+	"symbol": "BN",
 	"name": "TNA Protocol",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/39839/thumb/tna.png?1724274957",
 	"coingecko": "tna-protocol",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x2596825a84888E8f24b747DF29e11b5dd03C81D7",
-	"symbol": "Faith Tribe",
+	"symbol": "FTRB",
 	"name": "Faith Tribe",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/23939/thumb/ym1Hf4x2_400x400.jpg?1696523135",
 	"coingecko": "faith-tribe",
 	"sources": [
 		"coingecko"

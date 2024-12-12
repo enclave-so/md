@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x3d000462Fb9826804a45c0EA869b83b69587F2dB",
-	"symbol": "Spatial Computing",
+	"symbol": "CMPT",
 	"name": "Spatial Computing",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35780/thumb/Spatial_%281%29.jpeg?1709812474",
 	"coingecko": "spatial-computing",
 	"sources": [
 		"coingecko"

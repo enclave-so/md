@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x5F474906637bdCDA05f29C74653F6962bb0f8eDa",
-	"symbol": "DeFinity",
+	"symbol": "DEFX",
 	"name": "DeFinity",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/15875/thumb/definity-listing-logo.png?1696515490",
 	"coingecko": "definity",
 	"sources": [
 		"coingecko"

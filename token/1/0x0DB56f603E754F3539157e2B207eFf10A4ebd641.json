@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x0DB56f603E754F3539157e2B207eFf10A4ebd641",
-	"symbol": "Whispers Of Decay",
+	"symbol": "DCAY",
 	"name": "Whispers Of Decay",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/50248/thumb/WOD_200x200.png?1726686050",
 	"coingecko": "whispers-of-decay",
 	"sources": [
 		"coingecko"

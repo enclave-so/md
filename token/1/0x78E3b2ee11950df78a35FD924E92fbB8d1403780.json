@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x78E3b2ee11950df78a35FD924E92fbB8d1403780",
-	"symbol": "Helga Inu",
+	"symbol": "HELGA",
 	"name": "Helga Inu",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/36201/thumb/logo2.png?1710832936",
 	"coingecko": "helga-inu",
 	"sources": [
 		"coingecko"

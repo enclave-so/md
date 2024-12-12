@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x38e382F74dfb84608F3C1F10187f6bEf5951DE93",
-	"symbol": "Multibit",
+	"symbol": "MUBI",
 	"name": "Multibit",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/33051/thumb/multi.jpg?1700473994",
 	"coingecko": "multibit",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x5Cb888182fBfFdb62C08fb4B5a343914F00FdfeE",
-	"symbol": "Moneybrain BiPS",
+	"symbol": "BIPS",
 	"name": "Moneybrain BiPS",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/15556/thumb/bips_logo_200x200_Trans.png?1696515197",
 	"coingecko": "moneybrain-bips",
 	"sources": [
 		"coingecko"

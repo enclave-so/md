@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xF5e11df1ebCf78b6b6D26E04FF19cD786a1e81dC",
-	"symbol": "BounceBit BTC",
+	"symbol": "BBTC",
 	"name": "BounceBit BTC",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/37985/thumb/bbtc_icon.png?1716215414",
 	"coingecko": "bouncebit-btc",
 	"sources": [
 		"coingecko"

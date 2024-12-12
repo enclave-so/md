@@ -3,6 +3,8 @@
 	"address": "0x1A963Df363D01EEBB2816b366d61C917F20e1EbE",
 	"symbol": "MEMEME",
 	"name": "MEMEME",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/29965/thumb/MEMEME_token_image_200px.png?1696528891",
 	"coingecko": "mememe",
 	"sources": [
 		"coingecko"

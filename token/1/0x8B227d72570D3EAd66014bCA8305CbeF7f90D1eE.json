@@ -3,6 +3,8 @@
 	"address": "0x8B227d72570D3EAd66014bCA8305CbeF7f90D1eE",
 	"symbol": "LIZA",
 	"name": "LIZA",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/32841/thumb/Liza.png?1699589053",
 	"coingecko": "liza-2",
 	"sources": [
 		"coingecko"

@@ -4,8 +4,9 @@
 	"symbol": "ZEC",
 	"name": "Zcash Token",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/zec.jpg",
+	"logo": "https://tokens.pancakeswap.finance/images/0x1Ba42e5193dfA8B03D15dd1B86a3113bbBEF8Eeb.png",
 	"sources": [
+		"pancakeswap",
 		"sushiswap"
 	]
 }

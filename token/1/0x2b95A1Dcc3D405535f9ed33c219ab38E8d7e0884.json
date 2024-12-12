@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0x2b95A1Dcc3D405535f9ed33c219ab38E8d7e0884",
+	"symbol": "aCRV",
+	"name": "AladdinCRV",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/aCRV/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

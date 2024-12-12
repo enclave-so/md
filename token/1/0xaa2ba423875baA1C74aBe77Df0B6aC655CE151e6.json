@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xaa2ba423875baA1C74aBe77Df0B6aC655CE151e6",
-	"symbol": "Crow",
+	"symbol": "CROW",
 	"name": "Crow",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/38055/thumb/Crow.png?1716407151",
 	"coingecko": "crow",
 	"sources": [
 		"coingecko"

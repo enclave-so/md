@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0x41545f8b9472D758bB669ed8EaEEEcD7a9C4Ec29",
-	"symbol": "Forta",
+	"symbol": "FORT",
 	"name": "Forta",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/25060/thumb/Forta_lgo_%281%29.png?1655353696",
 	"coingecko": "forta",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"uniswap"
 	]
 }

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x590F820444fA3638e022776752c5eEF34E2F89A6",
-	"symbol": "Alephium",
+	"symbol": "ALPH",
 	"name": "Alephium",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/21598/thumb/Alephium-Logo_200x200_listing.png?1696520959",
 	"coingecko": "alephium",
 	"sources": [
 		"coingecko"

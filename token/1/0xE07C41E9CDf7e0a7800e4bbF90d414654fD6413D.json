@@ -3,6 +3,8 @@
 	"address": "0xE07C41E9CDf7e0a7800e4bbF90d414654fD6413D",
 	"symbol": "CBDC",
 	"name": "CBDC",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/31665/thumb/MThOhXH1_400x400.jpg?1696530482",
 	"coingecko": "cbdc",
 	"sources": [
 		"coingecko"

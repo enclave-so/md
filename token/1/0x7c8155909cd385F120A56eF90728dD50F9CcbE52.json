@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x7c8155909cd385F120A56eF90728dD50F9CcbE52",
-	"symbol": "Nahmii",
+	"symbol": "NII",
 	"name": "Nahmii",
+	"decimals": 15,
+	"logo": "https://assets.coingecko.com/coins/images/9786/thumb/nahmii-sm_icon-full-color.png?1696509845",
 	"coingecko": "nahmii",
 	"sources": [
 		"coingecko"

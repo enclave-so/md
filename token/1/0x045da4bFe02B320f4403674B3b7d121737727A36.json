@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x045da4bFe02B320f4403674B3b7d121737727A36",
-	"symbol": "DeFi Franc",
+	"symbol": "DCHF",
 	"name": "DeFi Franc",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/28108/thumb/22249.png?1696527116",
 	"coingecko": "defi-franc",
 	"sources": [
 		"coingecko"

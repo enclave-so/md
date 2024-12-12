@@ -2,9 +2,9 @@
 	"chain": 1,
 	"address": "0x9D79d5B61De59D882ce90125b18F74af650acB93",
 	"symbol": "NSBT",
-	"name": "Neutrino System Base Token",
+	"name": "Neutrino System Base",
 	"decimals": 6,
-	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x9D79d5B61De59D882ce90125b18F74af650acB93/logo.png",
+	"logo": "https://assets.coingecko.com/coins/images/13268/thumb/NSBT.png?1712107101",
 	"coingecko": "neutrino-system-base-token",
 	"sources": [
 		"coingecko",

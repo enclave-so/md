@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x015628Ce9150Db1bCE2FBb717A09E846F8a32436",
-	"symbol": "Big Bonus Coin [ETH]",
-	"name": "Big Bonus Coin [ETH]",
+	"symbol": "BBC",
+	"name": "Big Bonus Coin  ETH ",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/32660/thumb/BBC-ETH-logo.png?1698900727",
 	"coingecko": "big-bonus-coin-2",
 	"sources": [
 		"coingecko"

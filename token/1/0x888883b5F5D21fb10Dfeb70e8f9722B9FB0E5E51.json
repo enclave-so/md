@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x888883b5F5D21fb10Dfeb70e8f9722B9FB0E5E51",
-	"symbol": "Schuman EURØP",
-	"name": "Schuman EURØP",
+	"symbol": "EUROP",
+	"name": "Schuman EUR P",
+	"decimals": 6,
+	"logo": "https://assets.coingecko.com/coins/images/52132/thumb/europ-symbol-rgb.jpg?1732634862",
 	"coingecko": "schuman-europ",
 	"sources": [
 		"coingecko"

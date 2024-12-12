@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xa354F35829Ae975e850e23e9615b11Da1B3dC4DE",
-	"symbol": "USDC yVault",
+	"symbol": "YVUSDC",
 	"name": "USDC yVault",
+	"decimals": 6,
+	"logo": "https://assets.coingecko.com/coins/images/28779/thumb/yvUSDC-128-0xe2F6b9773BF3A015E2aA70741Bde1498bdB9425b.png?1696527758",
 	"coingecko": "usdc-yvault",
 	"sources": [
 		"coingecko"

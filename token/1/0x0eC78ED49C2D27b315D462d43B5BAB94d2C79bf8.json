@@ -3,6 +3,8 @@
 	"address": "0x0eC78ED49C2D27b315D462d43B5BAB94d2C79bf8",
 	"symbol": "MEOW",
 	"name": "MEOW",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/21530/thumb/meowchain.jpeg?1714399782",
 	"coingecko": "zero-tech",
 	"sources": [
 		"coingecko"

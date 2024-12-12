@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x009668A9691e456972c8ec4Cc84e99486308b84D",
-	"symbol": "Terareum [OLD]",
-	"name": "Terareum [OLD]",
+	"symbol": "TERA",
+	"name": "Terareum  OLD ",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/23880/thumb/Tera-200x200-1.png?1696523080",
 	"coingecko": "terareum",
 	"sources": [
 		"coingecko"

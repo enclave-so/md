@@ -3,6 +3,8 @@
 	"address": "0x0000206329b97DB379d5E1Bf586BbDB969C63274",
 	"symbol": "USDA",
 	"name": "USDA",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/34510/thumb/agUSD-coingecko.png?1705288392",
 	"coingecko": "angle-usd",
 	"sources": [
 		"coingecko"

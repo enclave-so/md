@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x8e235f491Ae66b82296d58332Adc2a021C449c10",
-	"symbol": "Tipja",
+	"symbol": "TIPJA",
 	"name": "Tipja",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30182/thumb/logo.jpg?1696529101",
 	"coingecko": "tipja",
 	"sources": [
 		"coingecko"

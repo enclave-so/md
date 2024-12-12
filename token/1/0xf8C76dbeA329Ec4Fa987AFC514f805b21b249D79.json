@@ -3,6 +3,8 @@
 	"address": "0xf8C76dbeA329Ec4Fa987AFC514f805b21b249D79",
 	"symbol": "L",
 	"name": "L",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30846/thumb/lltokenimagelogo.png?1696529696",
 	"coingecko": "l",
 	"sources": [
 		"coingecko"

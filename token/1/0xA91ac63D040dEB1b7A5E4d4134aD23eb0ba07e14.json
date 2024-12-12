@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xA91ac63D040dEB1b7A5E4d4134aD23eb0ba07e14",
-	"symbol": "Bella Protocol",
+	"symbol": "BEL",
 	"name": "Bella Protocol",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/12478/thumb/Bella.png?1696512296",
 	"coingecko": "bella-protocol",
 	"sources": [
 		"coingecko"

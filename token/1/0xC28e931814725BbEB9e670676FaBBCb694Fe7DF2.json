@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xC28e931814725BbEB9e670676FaBBCb694Fe7DF2",
-	"symbol": "Quadrant Protocol",
+	"symbol": "EQUAD",
 	"name": "Quadrant Protocol",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/4462/thumb/equad.png?1696505053",
 	"coingecko": "quadrant-protocol",
 	"sources": [
 		"coingecko"

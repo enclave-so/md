@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x7CA5af5bA3472AF6049F63c1AbC324475D44EFC1",
-	"symbol": "KONDUX",
+	"symbol": "KNDX",
 	"name": "KONDUX",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/28244/thumb/kndx.png?1696527247",
 	"coingecko": "kondux-v2",
 	"sources": [
 		"coingecko"

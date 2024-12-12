@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x97A9a15168C22B3C137E6381037E1499C8ad0978",
-	"symbol": "Data Ownership Protocol",
+	"symbol": "DOP",
 	"name": "Data Ownership Protocol",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/36706/thumb/DOP-Round-200x200.png?1720836160",
 	"coingecko": "data-ownership-protocol",
 	"sources": [
 		"coingecko"

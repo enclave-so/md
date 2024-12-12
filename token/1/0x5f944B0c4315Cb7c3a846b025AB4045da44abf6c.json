@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x5f944B0c4315Cb7c3a846b025AB4045da44abf6c",
-	"symbol": "Pancake Games",
+	"symbol": "GCAKE",
 	"name": "Pancake Games",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/20217/thumb/6oc-L2UC_400x400.png?1696519627",
 	"coingecko": "pancake-games",
 	"sources": [
 		"coingecko"

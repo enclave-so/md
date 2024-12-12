@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0x9f589e3eabe42ebC94A44727b3f3531C0c877809",
-	"symbol": "Tokocrypto",
-	"name": "Tokocrypto",
+	"symbol": "TKO",
+	"name": "TokoCrypto",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x9f589e3eabe42ebC94A44727b3f3531C0c877809.png",
 	"coingecko": "tokocrypto",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0x1982b2F5814301d4e9a8b0201555376e62F82428",
-	"symbol": "Aave Interest Bearing STETH",
+	"symbol": "ASTETH",
 	"name": "Aave Interest Bearing STETH",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/24163/thumb/steth.jpg?1696523352",
 	"coingecko": "aave-interest-bearing-steth",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"indexcoop"
 	]
 }

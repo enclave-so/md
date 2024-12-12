@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xD7D8f3b8Bc8bC48d3AcC37879EABA7b85889FA52",
-	"symbol": "ClearDAO",
+	"symbol": "CLH",
 	"name": "ClearDAO",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/22389/thumb/clh_small_logo_png.png?1696521733",
 	"coingecko": "cleardao",
 	"sources": [
 		"coingecko"

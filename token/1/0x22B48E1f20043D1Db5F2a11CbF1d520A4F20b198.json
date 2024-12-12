@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x22B48E1f20043D1Db5F2a11CbF1d520A4F20b198",
-	"symbol": "Okuru",
+	"symbol": "XOT",
 	"name": "Okuru",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/25473/thumb/xot.png?1696524607",
 	"coingecko": "okuru",
 	"sources": [
 		"coingecko"

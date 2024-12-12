@@ -1,13 +1,14 @@
 {
 	"chain": 1,
 	"address": "0x0B498ff89709d3838a063f1dFA463091F9801c2b",
-	"symbol": "BTC2x-FLI",
+	"symbol": "BTC2X-FLI",
 	"name": "BTC 2x Flexible Leverage Index",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x0B498ff89709d3838a063f1dFA463091F9801c2b/logo.png",
+	"logo": "https://assets.coingecko.com/coins/images/15406/thumb/Copy_of_BTC2x-FLI_token_logo.png?1696515052",
 	"coingecko": "btc-2x-flexible-leverage-index",
 	"sources": [
 		"coingecko",
+		"indexcoop",
 		"sushiswap"
 	]
 }

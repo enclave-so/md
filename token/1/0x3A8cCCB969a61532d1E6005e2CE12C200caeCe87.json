@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x3A8cCCB969a61532d1E6005e2CE12C200caeCe87",
-	"symbol": "TitanSwap",
+	"symbol": "TITAN",
 	"name": "TitanSwap",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/12606/thumb/nqGlQzdz_400x400.png?1696512414",
 	"coingecko": "titanswap",
 	"sources": [
 		"coingecko"

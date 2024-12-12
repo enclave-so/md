@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x19848077f45356b21164c412Eff3D3E4ff6Ebc31",
-	"symbol": "Spike",
+	"symbol": "SPIKE",
 	"name": "Spike",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/38609/thumb/GSTxiIkXgAAUdyJ.jpg?1721163699",
 	"coingecko": "spike-on-eth",
 	"sources": [
 		"coingecko"

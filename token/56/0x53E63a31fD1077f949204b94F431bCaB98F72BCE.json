@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0x53E63a31fD1077f949204b94F431bCaB98F72BCE",
-	"symbol": "Solv Protocol SolvBTC.ENA",
-	"name": "Solv Protocol SolvBTC.ENA",
+	"symbol": "SolvBTC.ENA",
+	"name": "SolvBTC Ethena",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x53E63a31fD1077f949204b94F431bCaB98F72BCE.png",
 	"coingecko": "solv-protocol-solvbtc-ena",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

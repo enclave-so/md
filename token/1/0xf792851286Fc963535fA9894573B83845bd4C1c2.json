@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xf792851286Fc963535fA9894573B83845bd4C1c2",
-	"symbol": "SIA AI",
+	"symbol": "SIA",
 	"name": "SIA AI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/39040/thumb/UDg1yTHi_400x400_%281%29.jpg?1720065444",
 	"coingecko": "sia-ai",
 	"sources": [
 		"coingecko"

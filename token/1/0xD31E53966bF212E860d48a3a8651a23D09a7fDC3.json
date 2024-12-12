@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xD31E53966bF212E860d48a3a8651a23D09a7fDC3",
-	"symbol": "DogeAi",
+	"symbol": "DOGEAI",
 	"name": "DogeAi",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/33023/thumb/DogeAI_logo_200x200.png?1700316738",
 	"coingecko": "dogeai",
 	"sources": [
 		"coingecko"

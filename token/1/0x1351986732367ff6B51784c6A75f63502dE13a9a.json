@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0x1351986732367ff6B51784c6A75f63502dE13a9a",
+	"symbol": "MOM",
+	"name": "Monetum",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/MOM/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

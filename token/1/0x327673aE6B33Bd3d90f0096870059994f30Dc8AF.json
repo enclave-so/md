@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x327673aE6B33Bd3d90f0096870059994f30Dc8AF",
-	"symbol": "Lympo Market",
+	"symbol": "LMT",
 	"name": "Lympo Market",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/15155/thumb/coin_%282%29.png?1696514811",
 	"coingecko": "lympo-market-token",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x1E762e1FAc176bbB341656035daf5601b1C69Be5",
-	"symbol": "Welshare Health Token",
+	"symbol": "WEL",
 	"name": "Welshare Health Token",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/51035/thumb/coingecko.png?1729795697",
 	"coingecko": "welshare-health-token",
 	"sources": [
 		"coingecko"

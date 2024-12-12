@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x80c8C3dCfB854f9542567c8Dac3f44D709eBc1de",
-	"symbol": "Spaceswap MILK2",
+	"symbol": "MILK2",
 	"name": "Spaceswap MILK2",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/12771/thumb/milk.png?1696512567",
 	"coingecko": "spaceswap-milk2",
 	"sources": [
 		"coingecko"

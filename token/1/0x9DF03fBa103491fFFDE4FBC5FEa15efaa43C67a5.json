@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x9DF03fBa103491fFFDE4FBC5FEa15efaa43C67a5",
-	"symbol": "NFMart",
+	"symbol": "NFM",
 	"name": "NFMart",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/39310/thumb/NFM.jpg?1721698949",
 	"coingecko": "nfmart",
 	"sources": [
 		"coingecko"

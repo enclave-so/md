@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xd4342a57eCf2Fe7ffA37c33cb8f63b1500e575E6",
-	"symbol": "Apron",
+	"symbol": "APN",
 	"name": "Apron",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14916/thumb/1_GOjoDhGzzpqnMPGpHGeWhg.png?1696514578",
 	"coingecko": "apron",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x8EE325AE3E54e83956eF2d5952d3C8Bc1fa6ec27",
-	"symbol": "Fable Of The Dragon",
+	"symbol": "TYRANT",
 	"name": "Fable Of The Dragon",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/27911/thumb/image_%283%29.png?1696526932",
 	"coingecko": "fable-of-the-dragon",
 	"sources": [
 		"coingecko"

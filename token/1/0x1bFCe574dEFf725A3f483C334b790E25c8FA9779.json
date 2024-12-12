@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x1bFCe574dEFf725A3f483C334b790E25c8FA9779",
-	"symbol": "Tao Ceτi",
-	"name": "Tao Ceτi",
+	"symbol": "CETI",
+	"name": "Tao Ce i",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/36097/thumb/CETI-BLACK-SMALL.png?1710481943",
 	"coingecko": "tao-ceti",
 	"sources": [
 		"coingecko"

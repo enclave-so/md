@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x25eC98773D7b4ceD4cAFaB96A2A1c0945f145e10",
-	"symbol": "Staked USDT",
+	"symbol": "STUSDT",
 	"name": "Staked USDT",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31135/thumb/2veJywVy_400x400.jpg?1696529964",
 	"coingecko": "staked-usdt",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x6f259637dcD74C767781E37Bc6133cd6A68aa161",
-	"symbol": "Huobi",
+	"symbol": "HT",
 	"name": "Huobi",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/2822/thumb/huobi-token-logo.png?1696503584",
 	"coingecko": "huobi-token",
 	"sources": [
 		"coingecko"

@@ -3,6 +3,8 @@
 	"address": "0x00000000eFE302BEAA2b3e6e1b18d08D69a9012a",
 	"symbol": "AUSD",
 	"name": "AUSD",
+	"decimals": 6,
+	"logo": "https://assets.coingecko.com/coins/images/39284/thumb/Circle_Agora_White_on_Olive_1080px.png?1722961274",
 	"coingecko": "agora-dollar",
 	"sources": [
 		"coingecko"

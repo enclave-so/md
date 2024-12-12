@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x48C3399719B582dD63eB5AADf12A40B4C3f52FA2",
-	"symbol": "StakeWise",
+	"symbol": "SWISE",
 	"name": "StakeWise",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/15044/thumb/stakewise200.png?1696514703",
 	"coingecko": "stakewise",
 	"sources": [
 		"coingecko"

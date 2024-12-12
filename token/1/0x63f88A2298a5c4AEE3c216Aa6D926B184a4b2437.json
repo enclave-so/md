@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x63f88A2298a5c4AEE3c216Aa6D926B184a4b2437",
-	"symbol": "GameCredits",
+	"symbol": "GAME",
 	"name": "GameCredits",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/193/thumb/XlQmXoU.png?1696501564",
 	"coingecko": "gamecredits",
 	"sources": [
 		"coingecko"

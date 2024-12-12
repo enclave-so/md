@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x2f32b39023dA7d6A6486A85d12B346EB9C2A0D19",
-	"symbol": "Ferro",
+	"symbol": "FER",
 	"name": "Ferro",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/26111/thumb/FER_Token.png?1696525201",
 	"coingecko": "ferro",
 	"sources": [
 		"coingecko"

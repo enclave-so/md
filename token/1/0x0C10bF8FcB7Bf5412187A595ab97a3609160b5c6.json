@@ -3,8 +3,11 @@
 	"address": "0x0C10bF8FcB7Bf5412187A595ab97a3609160b5c6",
 	"symbol": "USDD",
 	"name": "USDD",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/25380/thumb/UUSD.jpg?1696524513",
 	"coingecko": "usdd",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

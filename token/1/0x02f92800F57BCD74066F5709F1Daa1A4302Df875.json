@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x02f92800F57BCD74066F5709F1Daa1A4302Df875",
-	"symbol": "Peapods Finance",
+	"symbol": "PEAS",
 	"name": "Peapods Finance",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/33711/thumb/NAzHgbTW_400x400.png?1702856653",
 	"coingecko": "peapods-finance",
 	"sources": [
 		"coingecko"

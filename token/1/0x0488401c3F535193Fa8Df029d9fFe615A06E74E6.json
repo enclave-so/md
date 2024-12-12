@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x0488401c3F535193Fa8Df029d9fFe615A06E74E6",
-	"symbol": "SparkPoint",
+	"symbol": "SRK",
 	"name": "SparkPoint",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/8371/thumb/SRK.png?1696508564",
 	"coingecko": "sparkpoint",
 	"sources": [
 		"coingecko"

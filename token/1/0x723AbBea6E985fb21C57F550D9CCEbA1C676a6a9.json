@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x723AbBea6E985fb21C57F550D9CCEbA1C676a6a9",
-	"symbol": "Smoking Chicken Fish",
+	"symbol": "SCF",
 	"name": "Smoking Chicken Fish",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/50753/thumb/1000367569.jpg?1728966181",
 	"coingecko": "smokingchickenfisheth",
 	"sources": [
 		"coingecko"

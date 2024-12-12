@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x69A1e699f562D7Af66Fc6cc473d99f4430C3AcD2",
-	"symbol": "Param",
+	"symbol": "PARAM",
 	"name": "Param",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/37697/thumb/param200.png?1715234889",
 	"coingecko": "param",
 	"sources": [
 		"coingecko"

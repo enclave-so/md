@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x00B78238925C320159023C2AC9ef89dA8f16D007",
-	"symbol": "VPS Ai",
+	"symbol": "VPS",
 	"name": "VPS Ai",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/36250/thumb/200px_Logo.png?1710924510",
 	"coingecko": "vps-ai",
 	"sources": [
 		"coingecko"

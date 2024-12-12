@@ -1,0 +1,11 @@
+{
+	"chain": 8453,
+	"address": "0x61431b49D43220a53B4a2583870D69F67cEd8d76",
+	"symbol": "dbDEGEN",
+	"name": "Deribet DEGEN",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/dbDEGEN/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

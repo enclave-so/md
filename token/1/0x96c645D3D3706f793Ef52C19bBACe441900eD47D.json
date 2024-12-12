@@ -1,8 +1,9 @@
 {
 	"chain": 1,
 	"address": "0x96c645D3D3706f793Ef52C19bBACe441900eD47D",
-	"symbol": "Mt Pelerin Shares",
+	"symbol": "MPS",
 	"name": "Mt Pelerin Shares",
+	"logo": "https://assets.coingecko.com/coins/images/11471/thumb/MPS.png?1696511378",
 	"coingecko": "mt-pelerin-shares",
 	"sources": [
 		"coingecko"

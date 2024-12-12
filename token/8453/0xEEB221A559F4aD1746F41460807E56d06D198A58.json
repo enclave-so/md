@@ -1,0 +1,11 @@
+{
+	"chain": 8453,
+	"address": "0xEEB221A559F4aD1746F41460807E56d06D198A58",
+	"symbol": "OL",
+	"name": "OPENLOOT",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/OL/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

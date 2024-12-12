@@ -1,10 +1,13 @@
 {
 	"chain": 8453,
 	"address": "0x27E3Bc3a66E24CaD043aC3d93A12A8070E3897ba",
-	"symbol": "Ovr",
-	"name": "Ovr",
+	"symbol": "OVR",
+	"name": "OVR",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/OVR/logo.svg",
 	"coingecko": "ovr",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

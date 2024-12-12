@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x00d8318E44780EdEEFcF3020A5448F636788883C",
-	"symbol": "dAppstore",
+	"symbol": "DAPPX",
 	"name": "dAppstore",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/15780/thumb/large-logo.png?1696515404",
 	"coingecko": "dappstore",
 	"sources": [
 		"coingecko"

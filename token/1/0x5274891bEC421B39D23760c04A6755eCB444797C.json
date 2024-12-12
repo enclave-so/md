@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x5274891bEC421B39D23760c04A6755eCB444797C",
-	"symbol": "IdleUSDC (Yield)",
-	"name": "IdleUSDC (Yield)",
+	"symbol": "IDLEUSDCYIELD",
+	"name": "IdleUSDC  Yield ",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/11932/thumb/idleusdcv3_32.png?1696511793",
 	"coingecko": "idle-usdc-yield",
 	"sources": [
 		"coingecko"

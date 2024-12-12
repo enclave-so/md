@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x4Ff57e25eeB7AFfbBB060e0BAd2E1759eFc8BeC4",
-	"symbol": "BLOCX.",
-	"name": "BLOCX.",
+	"symbol": "BLOCX",
+	"name": "BLOCX ",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31237/thumb/BLOCX_200x200_Zoomed_Out.png?1723470413",
 	"coingecko": "blocx-2",
 	"sources": [
 		"coingecko"

@@ -1,13 +1,14 @@
 {
 	"chain": 1,
 	"address": "0x50327c6c5a14DCaDE707ABad2E27eB517df87AB5",
-	"symbol": "TRX",
-	"name": "TRON",
+	"symbol": "WTRX",
+	"name": "Wrapped Tron",
 	"decimals": 6,
-	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x50327c6c5a14DCaDE707ABad2E27eB517df87AB5.jpg",
+	"logo": "https://assets.coingecko.com/coins/images/22471/thumb/xOesRfpN_400x400.jpg?1696521795",
 	"coingecko": "wrapped-tron",
 	"sources": [
 		"coingecko",
+		"optimism",
 		"sushiswap"
 	]
 }

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xA43A7c62D56dF036C187E1966c03E2799d8987ed",
-	"symbol": "TruFin Staked MATIC",
+	"symbol": "TRUMATIC",
 	"name": "TruFin Staked MATIC",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/32416/thumb/TruMATIC_logo_250px_%281%29.png?1698114190",
 	"coingecko": "trufin-staked-matic",
 	"sources": [
 		"coingecko"

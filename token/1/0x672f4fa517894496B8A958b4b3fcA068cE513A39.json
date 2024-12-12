@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x672f4fa517894496B8A958b4b3fcA068cE513A39",
-	"symbol": "DexCheck AI",
+	"symbol": "DCK",
 	"name": "DexCheck AI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/26412/thumb/DexCheck_logo_%282%29.png?1696525488",
 	"coingecko": "dexcheck",
 	"sources": [
 		"coingecko"

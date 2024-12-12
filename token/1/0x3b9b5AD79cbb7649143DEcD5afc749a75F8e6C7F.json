@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x3b9b5AD79cbb7649143DEcD5afc749a75F8e6C7F",
-	"symbol": "Gora",
+	"symbol": "GORA",
 	"name": "Gora",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30945/thumb/IMG_3807.jpeg?1696529784",
 	"coingecko": "goracle-network",
 	"sources": [
 		"coingecko"

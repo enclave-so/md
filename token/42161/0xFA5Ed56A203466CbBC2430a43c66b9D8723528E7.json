@@ -2,12 +2,13 @@
 	"chain": 42161,
 	"address": "0xFA5Ed56A203466CbBC2430a43c66b9D8723528E7",
 	"symbol": "agEUR",
-	"name": "agEUR",
+	"name": "agEur",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xFA5Ed56A203466CbBC2430a43c66b9D8723528E7.jpg",
+	"logo": "https://assets.coingecko.com/coins/images/19479/standard/agEUR.png?1696518915",
 	"coingecko": "ageur",
 	"sources": [
 		"coingecko",
-		"sushiswap"
+		"sushiswap",
+		"uniswap"
 	]
 }

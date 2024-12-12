@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xbd1848e1491d4308Ad18287A745DD4DB2A4BD55B",
-	"symbol": "Mochi Market",
+	"symbol": "MOMA",
 	"name": "Mochi Market",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14993/thumb/mochi.PNG?1696514657",
 	"coingecko": "mochi-market",
 	"sources": [
 		"coingecko"

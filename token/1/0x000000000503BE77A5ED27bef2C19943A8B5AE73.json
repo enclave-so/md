@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x000000000503BE77A5ED27bef2C19943A8B5AE73",
-	"symbol": "Xtremeverse",
+	"symbol": "XTREME",
 	"name": "Xtremeverse",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/36163/thumb/xnet_logo.jpg?1710745012",
 	"coingecko": "xtremeverse",
 	"sources": [
 		"coingecko"

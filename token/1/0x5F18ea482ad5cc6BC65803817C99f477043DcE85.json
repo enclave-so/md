@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x5F18ea482ad5cc6BC65803817C99f477043DcE85",
-	"symbol": "Agility",
+	"symbol": "AGI",
 	"name": "Agility",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/29781/thumb/14csBMea_400x400.jpg?1696528711",
 	"coingecko": "agility",
 	"sources": [
 		"coingecko"

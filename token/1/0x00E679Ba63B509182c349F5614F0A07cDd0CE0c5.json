@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x00E679Ba63B509182c349F5614F0A07cDd0CE0c5",
-	"symbol": "Damex Token",
+	"symbol": "DAMEX",
 	"name": "Damex Token",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30053/thumb/damex.jpg?1696528975",
 	"coingecko": "damex-token",
 	"sources": [
 		"coingecko"

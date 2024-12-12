@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x3fFEea07a27Fab7ad1df5297fa75e77a43CB5790",
-	"symbol": "PeiPei",
+	"symbol": "PEIPEI",
 	"name": "PeiPei",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/38512/thumb/PeiPei.png?1718315778",
 	"coingecko": "peipeicoin-vip",
 	"sources": [
 		"coingecko"

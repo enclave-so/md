@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xC9C4fd7579133701FA2769b6955e7E56bb386DB1",
-	"symbol": "Bridge Oracle",
+	"symbol": "BRG",
 	"name": "Bridge Oracle",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/12512/thumb/brg.png?1696512327",
 	"coingecko": "bridge-oracle",
 	"sources": [
 		"coingecko"

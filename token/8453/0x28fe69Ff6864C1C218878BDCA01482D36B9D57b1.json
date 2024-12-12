@@ -1,0 +1,11 @@
+{
+	"chain": 8453,
+	"address": "0x28fe69Ff6864C1C218878BDCA01482D36B9D57b1",
+	"symbol": "KNC",
+	"name": "Kyber Network Crystal v2",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/KNC/logo.png",
+	"sources": [
+		"optimism"
+	]
+}

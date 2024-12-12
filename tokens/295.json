@@ -1,6 +1,96 @@
 [
 	{
 		"chain": 295,
+		"address": "0x0000000000000000000000000000000000000000",
+		"symbol": "BankSocial",
+		"name": "BankSocial",
+		"coingecko": "banksocial",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 295,
+		"address": "0x0000000000000000000000000000000000101aF0",
+		"symbol": "Bridged Tether (Hashport)",
+		"name": "Bridged Tether (Hashport)",
+		"coingecko": "bridged-tether-hashport",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 295,
+		"address": "0x0000000000000000000000000000000000101Ae3",
+		"symbol": "Bridged USDC (Hashport)",
+		"name": "Bridged USDC (Hashport)",
+		"coingecko": "heliswap-bridged-usdc-hts",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 295,
+		"address": "0x000000000000000000000000000000000011A79c",
+		"symbol": "Hashport Bridged wAVAX",
+		"name": "Hashport Bridged wAVAX",
+		"coingecko": "hashport-bridged-wavax",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 295,
+		"address": "0x0000000000000000000000000000000000497FBc",
+		"symbol": "HBARbarian",
+		"name": "HBARbarian",
+		"coingecko": "hbarbarian",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 295,
+		"address": "0x00000000000000000000000000000000001a88b2",
+		"symbol": "Pangolin Hedera",
+		"name": "Pangolin Hedera",
+		"coingecko": "pangolin-hedera",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 295,
+		"address": "0x00000000000000000000000000000000000b2aD5",
+		"symbol": "SaucerSwap",
+		"name": "SaucerSwap",
+		"coingecko": "saucerswap",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 295,
+		"address": "0x000000000000000000000000000000000006f89a",
+		"symbol": "Bridged USDC",
+		"name": "Bridged USDC",
+		"coingecko": "bridged-usdc",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 295,
+		"address": "0x00000000000000000000000000000000002cc823",
+		"symbol": "Wrapped HBAR (HeliSwap)",
+		"name": "Wrapped HBAR (HeliSwap)",
+		"coingecko": "bridged-wrapped-hbar-heliswap",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 295,
 		"address": "0x00000000000000000000000000000000004Ca367",
 		"symbol": "hBARK",
 		"name": "hBARK",
@@ -21,140 +111,10 @@
 	},
 	{
 		"chain": 295,
-		"address": "0x00000000000000000000000000000000001a88b2",
-		"symbol": "Pangolin Hedera",
-		"name": "Pangolin Hedera",
-		"coingecko": "pangolin-hedera",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 295,
-		"address": "0x00000000000000000000000000000000003C649d",
-		"symbol": "UNLUCKY [OLD]",
-		"name": "UNLUCKY [OLD]",
-		"coingecko": "unlucky",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 295,
-		"address": "0x000000000000000000000000000000000006f89a",
-		"symbol": "Bridged USDC",
-		"name": "Bridged USDC",
-		"coingecko": "bridged-usdc",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 295,
-		"address": "0x0000000000000000000000000000000000317609",
-		"symbol": "GCoin",
-		"name": "GCoin",
-		"coingecko": "gcoin",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 295,
-		"address": "0x00000000000000000000000000000000000Ec585",
-		"symbol": "HeadStarter",
-		"name": "HeadStarter",
-		"coingecko": "headstarter",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 295,
 		"address": "0x00000000000000000000000000000000002D3bD3",
 		"symbol": "Sauce Inu",
 		"name": "Sauce Inu",
 		"coingecko": "sauce-inu",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 295,
-		"address": "0x0000000000000000000000000000000000101aFb",
-		"symbol": "Bridged Wrapped Bitcoin (Hashport)",
-		"name": "Bridged Wrapped Bitcoin (Hashport)",
-		"coingecko": "bridged-wrapped-bitcoin-hashport",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 295,
-		"address": "0x00000000000000000000000000000000002cc823",
-		"symbol": "Wrapped HBAR (HeliSwap)",
-		"name": "Wrapped HBAR (HeliSwap)",
-		"coingecko": "bridged-wrapped-hbar-heliswap",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 295,
-		"address": "0x0000000000000000000000000000000000497FBc",
-		"symbol": "HBARbarian",
-		"name": "HBARbarian",
-		"coingecko": "hbarbarian",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 295,
-		"address": "0x0000000000000000000000000000000000101Ae3",
-		"symbol": "Bridged USDC (Hashport)",
-		"name": "Bridged USDC (Hashport)",
-		"coingecko": "heliswap-bridged-usdc-hts",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 295,
-		"address": "0x00000000000000000000000000000000000b2aD5",
-		"symbol": "SaucerSwap",
-		"name": "SaucerSwap",
-		"coingecko": "saucerswap",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 295,
-		"address": "0x0000000000000000000000000000000000000000",
-		"symbol": "BankSocial",
-		"name": "BankSocial",
-		"coingecko": "banksocial",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 295,
-		"address": "0x000000000000000000000000000000000013e8b5",
-		"symbol": "Hashport Bridged QNT",
-		"name": "Hashport Bridged QNT",
-		"coingecko": "hashport-bridged-qnt",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 295,
-		"address": "0x000000000000000000000000000000000011A79c",
-		"symbol": "Hashport Bridged wAVAX",
-		"name": "Hashport Bridged wAVAX",
-		"coingecko": "hashport-bridged-wavax",
 		"sources": [
 			"coingecko"
 		]
@@ -181,10 +141,50 @@
 	},
 	{
 		"chain": 295,
-		"address": "0x0000000000000000000000000000000000101aF0",
-		"symbol": "Bridged Tether (Hashport)",
-		"name": "Bridged Tether (Hashport)",
-		"coingecko": "bridged-tether-hashport",
+		"address": "0x0000000000000000000000000000000000101aFb",
+		"symbol": "Bridged Wrapped Bitcoin (Hashport)",
+		"name": "Bridged Wrapped Bitcoin (Hashport)",
+		"coingecko": "bridged-wrapped-bitcoin-hashport",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 295,
+		"address": "0x0000000000000000000000000000000000317609",
+		"symbol": "GCoin",
+		"name": "GCoin",
+		"coingecko": "gcoin",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 295,
+		"address": "0x000000000000000000000000000000000013e8b5",
+		"symbol": "Hashport Bridged QNT",
+		"name": "Hashport Bridged QNT",
+		"coingecko": "hashport-bridged-qnt",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 295,
+		"address": "0x00000000000000000000000000000000000Ec585",
+		"symbol": "HeadStarter",
+		"name": "HeadStarter",
+		"coingecko": "headstarter",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 295,
+		"address": "0x00000000000000000000000000000000003C649d",
+		"symbol": "UNLUCKY [OLD]",
+		"name": "UNLUCKY [OLD]",
+		"coingecko": "unlucky",
 		"sources": [
 			"coingecko"
 		]

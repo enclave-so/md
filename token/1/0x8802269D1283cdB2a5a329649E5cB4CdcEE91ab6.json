@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x8802269D1283cdB2a5a329649E5cB4CdcEE91ab6",
-	"symbol": "Fight to MAGA",
+	"symbol": "FIGHT",
 	"name": "Fight to MAGA",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/39208/thumb/photo_2024-07-14_03-15-23.jpg?1721101331",
 	"coingecko": "fight-to-maga",
 	"sources": [
 		"coingecko"

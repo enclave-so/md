@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xd01409314aCb3b245CEa9500eCE3F6Fd4d70ea30",
-	"symbol": "LTO Network",
+	"symbol": "LTO",
 	"name": "LTO Network",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/6068/thumb/lto.png?1696506473",
 	"coingecko": "lto-network",
 	"sources": [
 		"coingecko"

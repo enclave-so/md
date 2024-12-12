@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x155ff1A85F440EE0A382eA949f24CE4E0b751c65",
-	"symbol": "Behodler",
+	"symbol": "EYE",
 	"name": "Behodler",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/12804/thumb/etherscan-eye-2-1.png?1696512597",
 	"coingecko": "beholder",
 	"sources": [
 		"coingecko"

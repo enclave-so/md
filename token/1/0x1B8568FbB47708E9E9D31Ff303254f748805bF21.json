@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x1B8568FbB47708E9E9D31Ff303254f748805bF21",
-	"symbol": "Scarcity",
+	"symbol": "SCX",
 	"name": "Scarcity",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/19064/thumb/scx_gecko.png?1696518513",
 	"coingecko": "scarcity",
 	"sources": [
 		"coingecko"

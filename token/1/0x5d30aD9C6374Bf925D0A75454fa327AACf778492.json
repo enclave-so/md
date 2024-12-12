@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x5d30aD9C6374Bf925D0A75454fa327AACf778492",
-	"symbol": "PERI Finance",
+	"symbol": "PERI",
 	"name": "PERI Finance",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/15313/thumb/6xVEMS1.png?1696514963",
 	"coingecko": "peri-finance",
 	"sources": [
 		"coingecko"

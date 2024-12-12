@@ -3,6 +3,8 @@
 	"address": "0xB1191F691A355b43542Bea9B8847bc73e7Abb137",
 	"symbol": "KIRO",
 	"name": "KIRO",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/12688/thumb/logo_kirobo-04.png?1696512491",
 	"coingecko": "kirobo",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x7d51888C5ABb7CDfa9cdd6A50673c7F8afAccD7F",
-	"symbol": "DuckDAO",
+	"symbol": "DD",
 	"name": "DuckDAO",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/33325/thumb/duckdao_dd_token_icon.png?1701437826",
 	"coingecko": "duckdao",
 	"sources": [
 		"coingecko"

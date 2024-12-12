@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x2a304FDa5a85182dCA1D03741bB2F07881b9e095",
-	"symbol": "DCOMY",
+	"symbol": "DCO",
 	"name": "DCOMY",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/29007/thumb/15-38-16-200x200.png?1696527978",
 	"coingecko": "dcomy",
 	"sources": [
 		"coingecko"

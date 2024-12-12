@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xA7DfBA2DFd3aD9Bc0a30D69db439957e92Daf1Bc",
-	"symbol": "Aryze's Digital Gold",
-	"name": "Aryze's Digital Gold",
+	"symbol": "EGOLD",
+	"name": "Aryze s Digital Gold",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/50815/thumb/eGOLD.png?1729238938",
 	"coingecko": "aryze-s-digital-gold",
 	"sources": [
 		"coingecko"

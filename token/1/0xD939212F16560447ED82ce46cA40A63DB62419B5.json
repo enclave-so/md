@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xD939212F16560447ED82ce46cA40A63DB62419B5",
-	"symbol": "Mega Yacht Cult",
+	"symbol": "MYC",
 	"name": "Mega Yacht Cult",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/32456/thumb/Untitled_design_%283%29_%281%29.png?1698241312",
 	"coingecko": "mega-yacht-cult",
 	"sources": [
 		"coingecko"

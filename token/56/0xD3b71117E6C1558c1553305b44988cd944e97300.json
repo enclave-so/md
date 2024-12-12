@@ -1,0 +1,11 @@
+{
+	"chain": 56,
+	"address": "0xD3b71117E6C1558c1553305b44988cd944e97300",
+	"symbol": "YEL",
+	"name": "YEL",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0xD3b71117E6C1558c1553305b44988cd944e97300.png",
+	"sources": [
+		"pancakeswap"
+	]
+}

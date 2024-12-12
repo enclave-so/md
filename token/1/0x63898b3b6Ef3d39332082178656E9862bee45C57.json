@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x63898b3b6Ef3d39332082178656E9862bee45C57",
-	"symbol": "Staked OGN",
+	"symbol": "XOGN",
 	"name": "Staked OGN",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/38205/thumb/xogn-256x256.png?1716797695",
 	"coingecko": "staked-ogn",
 	"sources": [
 		"coingecko"

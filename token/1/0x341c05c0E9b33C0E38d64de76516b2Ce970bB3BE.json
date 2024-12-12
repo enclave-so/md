@@ -1,13 +1,14 @@
 {
 	"chain": 1,
 	"address": "0x341c05c0E9b33C0E38d64de76516b2Ce970bB3BE",
-	"symbol": "dsETH",
-	"name": "Diversified Staked ETH Index (dsETH)",
+	"symbol": "DSETH",
+	"name": "Diversified Staked ETH",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x341c05c0E9b33C0E38d64de76516b2Ce970bB3BE.jpg",
+	"logo": "https://assets.coingecko.com/coins/images/28751/thumb/dsETH-logo.png?1696527731",
 	"coingecko": "diversified-staked-eth",
 	"sources": [
 		"coingecko",
+		"indexcoop",
 		"sushiswap"
 	]
 }

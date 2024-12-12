@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xcB43C88c980fF3A2C3f45f125d9886E7aabCD017",
-	"symbol": "Freakoff",
+	"symbol": "FREAK",
 	"name": "Freakoff",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/50601/thumb/Asset_200x200x.png?1728453007",
 	"coingecko": "freakoff",
 	"sources": [
 		"coingecko"

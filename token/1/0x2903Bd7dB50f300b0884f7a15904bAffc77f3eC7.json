@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x2903Bd7dB50f300b0884f7a15904bAffc77f3eC7",
-	"symbol": "Arcade",
+	"symbol": "ARC",
 	"name": "Arcade",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/36682/thumb/Arcade_200_x_200.png?1712067926",
 	"coingecko": "arcade-2",
 	"sources": [
 		"coingecko"

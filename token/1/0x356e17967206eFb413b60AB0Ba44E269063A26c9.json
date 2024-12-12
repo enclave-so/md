@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x356e17967206eFb413b60AB0Ba44E269063A26c9",
-	"symbol": "Of Course I Still Love You",
+	"symbol": "OCISLY",
 	"name": "Of Course I Still Love You",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/32035/thumb/IMG_20230927_151428_156_%281%29.jpg?1696530831",
 	"coingecko": "ofcourse-i-still-love-you",
 	"sources": [
 		"coingecko"

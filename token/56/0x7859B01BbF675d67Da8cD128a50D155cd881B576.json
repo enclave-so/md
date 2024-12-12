@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0x7859B01BbF675d67Da8cD128a50D155cd881B576",
-	"symbol": "Mars Ecosystem",
+	"symbol": "XMS",
 	"name": "Mars Ecosystem",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x7859B01BbF675d67Da8cD128a50D155cd881B576.png",
 	"coingecko": "mars-ecosystem-token",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

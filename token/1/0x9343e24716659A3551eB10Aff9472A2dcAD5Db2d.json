@@ -3,6 +3,8 @@
 	"address": "0x9343e24716659A3551eB10Aff9472A2dcAD5Db2d",
 	"symbol": "STFX",
 	"name": "STFX",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/28631/thumb/stfx.png?1696527615",
 	"coingecko": "stfx",
 	"sources": [
 		"coingecko"

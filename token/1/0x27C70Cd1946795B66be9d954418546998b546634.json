@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x27C70Cd1946795B66be9d954418546998b546634",
-	"symbol": "Doge Killer",
+	"symbol": "LEASH",
 	"name": "Doge Killer",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/15802/thumb/Leash.png?1696515425",
 	"coingecko": "leash",
 	"sources": [
 		"coingecko"

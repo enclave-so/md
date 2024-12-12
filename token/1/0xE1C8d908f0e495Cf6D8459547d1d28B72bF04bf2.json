@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xE1C8d908f0e495Cf6D8459547d1d28B72bF04bf2",
-	"symbol": "TesseractAI",
+	"symbol": "TSAI",
 	"name": "TesseractAI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/40084/thumb/color_logo_black_backgroud200.png?1725558319",
 	"coingecko": "tesseractai",
 	"sources": [
 		"coingecko"

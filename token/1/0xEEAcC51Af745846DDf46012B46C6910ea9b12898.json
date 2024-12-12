@@ -3,6 +3,8 @@
 	"address": "0xEEAcC51Af745846DDf46012B46C6910ea9b12898",
 	"symbol": "DOGC",
 	"name": "DOGC",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/52344/thumb/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20241201214213.png?1733131733",
 	"coingecko": "dogc",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xbbBBBBe1da5EAB142B32f8887EE8d3872D847c20",
-	"symbol": "BitBonk",
+	"symbol": "BBONK",
 	"name": "BitBonk",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/50782/thumb/IMG_1140.png?1729152930",
 	"coingecko": "bitbonk",
 	"sources": [
 		"coingecko"

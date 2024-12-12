@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x776280F68aD33c4d49e6846507B7dBaf7811c89F",
-	"symbol": "ZeroLiquid ETH",
+	"symbol": "ZETH",
 	"name": "ZeroLiquid ETH",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31533/thumb/IMG_20230828_212341_351.png?1696530342",
 	"coingecko": "zeroliquid-eth",
 	"sources": [
 		"coingecko"

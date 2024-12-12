@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xdC47f2Ba852669B178699449E50682D6CEAF8C07",
-	"symbol": "Ston",
+	"symbol": "STON",
 	"name": "Ston",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/13001/thumb/ston-v2-200x200.png?1696512790",
 	"coingecko": "ston",
 	"sources": [
 		"coingecko"

@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0xBB9bc244D798123fDe783fCc1C72d3Bb8C189413",
+	"symbol": "TheDAO",
+	"name": "TheDAO",
+	"decimals": 16,
+	"logo": "https://ethereum-optimism.github.io/data/TheDAO/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

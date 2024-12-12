@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xA0CF46eb152656C7090e769916eb44a138aaa406",
-	"symbol": "Spheroid Universe",
+	"symbol": "SPH",
 	"name": "Spheroid Universe",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/11968/thumb/Frame_36.png?1696511827",
 	"coingecko": "spheroid-universe",
 	"sources": [
 		"coingecko"

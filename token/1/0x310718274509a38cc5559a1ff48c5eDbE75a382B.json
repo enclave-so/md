@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x310718274509a38cc5559a1ff48c5eDbE75a382B",
-	"symbol": "Eigenpie oETH",
+	"symbol": "MOETH",
 	"name": "Eigenpie oETH",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/37171/thumb/mOETH.png?1713508180",
 	"coingecko": "eigenpie-oeth",
 	"sources": [
 		"coingecko"

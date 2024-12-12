@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x9B3A8159e119eb09822115AE08Ee1526849e1116",
-	"symbol": "Meme Alliance",
+	"symbol": "MMA",
 	"name": "Meme Alliance",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/33765/thumb/200x200.png?1709978615",
 	"coingecko": "meme-alliance",
 	"sources": [
 		"coingecko"

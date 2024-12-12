@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0xaeF0d72a118ce24feE3cD1d43d383897D05B4e99",
-	"symbol": "WINkLink BSC",
-	"name": "WINkLink BSC",
+	"symbol": "WIN",
+	"name": "WINk",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0xaeF0d72a118ce24feE3cD1d43d383897D05B4e99.png",
 	"coingecko": "winklink-bsc",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

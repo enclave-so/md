@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xa069ADd2d093f9Df0e82Ab64Ec7dD0320CB4f65D",
-	"symbol": "GPUBot",
+	"symbol": "GPUBOT",
 	"name": "GPUBot",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35627/thumb/GPUBot.png?1709291157",
 	"coingecko": "gpubot",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x8400D94A5cb0fa0D041a3788e395285d61c9ee5e",
-	"symbol": "Unibright",
+	"symbol": "UBT",
 	"name": "Unibright",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/2707/thumb/UnibrightLogo_colorful_500x500_preview.png?1696503489",
 	"coingecko": "unibright",
 	"sources": [
 		"coingecko"

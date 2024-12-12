@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x19ac2659599fD01c853dE846919544276aD26F50",
-	"symbol": "Covenant",
+	"symbol": "COVN",
 	"name": "Covenant",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/22280/thumb/16837.png?1696521627",
 	"coingecko": "covenant-child",
 	"sources": [
 		"coingecko"

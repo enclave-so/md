@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x1c530D6de70c05A81bF1670157b9d928e9699089",
-	"symbol": "MEV Capital WBTC",
+	"symbol": "MCWBTC",
 	"name": "MEV Capital WBTC",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/52390/thumb/mevcapitalc.png?1733282901",
 	"coingecko": "mev-capital-wbtc",
 	"sources": [
 		"coingecko"

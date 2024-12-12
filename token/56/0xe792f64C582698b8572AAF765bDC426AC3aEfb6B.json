@@ -1,0 +1,11 @@
+{
+	"chain": 56,
+	"address": "0xe792f64C582698b8572AAF765bDC426AC3aEfb6B",
+	"symbol": "SWG",
+	"name": "SWGToken",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0xe792f64C582698b8572AAF765bDC426AC3aEfb6B.png",
+	"sources": [
+		"pancakeswap"
+	]
+}

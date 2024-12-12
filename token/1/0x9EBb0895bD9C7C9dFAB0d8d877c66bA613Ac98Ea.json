@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x9EBb0895bD9C7C9dFAB0d8d877c66bA613Ac98Ea",
-	"symbol": "MAGA Again",
+	"symbol": "MAGAA",
 	"name": "MAGA Again",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/38682/thumb/photo_2024-06-12_04-30-57-removebg-preview_%281%29.png?1718335112",
 	"coingecko": "maga-again",
 	"sources": [
 		"coingecko"

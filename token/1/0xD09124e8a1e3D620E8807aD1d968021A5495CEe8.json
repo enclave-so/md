@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xD09124e8a1e3D620E8807aD1d968021A5495CEe8",
-	"symbol": "Eigenpie cbETH",
+	"symbol": "MCBETH",
 	"name": "Eigenpie cbETH",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/37168/thumb/mcbETH.png?1713508013",
 	"coingecko": "eigenpie-cbeth",
 	"sources": [
 		"coingecko"

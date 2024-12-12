@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xEF53462838000184F35f7D991452e5f25110b207",
-	"symbol": "Knit Finance",
+	"symbol": "KFT",
 	"name": "Knit Finance",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/15632/thumb/knit.jpg?1696515264",
 	"coingecko": "knit-finance",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xBD04ccc050058a6A422851fA6c0F92BB65EB06ca",
-	"symbol": "Pre-Retogeum",
-	"name": "Pre-Retogeum",
+	"symbol": "PRTG",
+	"name": "Pre Retogeum",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/27397/thumb/IMG_20220921_123729_913.jpg?1696526437",
 	"coingecko": "pre-retogeum",
 	"sources": [
 		"coingecko"

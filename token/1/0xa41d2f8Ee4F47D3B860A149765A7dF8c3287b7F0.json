@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xa41d2f8Ee4F47D3B860A149765A7dF8c3287b7F0",
-	"symbol": "Syncus",
+	"symbol": "SYNC",
 	"name": "Syncus",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/33573/thumb/Syncus.png?1702450708",
 	"coingecko": "syncus",
 	"sources": [
 		"coingecko"

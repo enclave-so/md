@@ -1,0 +1,11 @@
+{
+	"chain": 84532,
+	"address": "0x0d73bEC7B116c3053b7F0fa108e45A8Ae9A038e9",
+	"symbol": "DF",
+	"name": "dForce",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/DF/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

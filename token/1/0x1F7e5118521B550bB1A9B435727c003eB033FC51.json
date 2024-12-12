@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x1F7e5118521B550bB1A9B435727c003eB033FC51",
-	"symbol": "Angola",
+	"symbol": "AGLA",
 	"name": "Angola",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/27547/thumb/8SGgovDI_400x400.png?1696526584",
 	"coingecko": "angola",
 	"sources": [
 		"coingecko"

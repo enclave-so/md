@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x1FbD3dF007eB8A7477A1Eab2c63483dCc24EfFD6",
-	"symbol": "Scaleswap",
+	"symbol": "SCA",
 	"name": "Scaleswap",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/16360/thumb/thumbnail_1170823958_vertical_logo_lateral_radiance.png?1696515959",
 	"coingecko": "scaleswap-token",
 	"sources": [
 		"coingecko"

@@ -3,6 +3,8 @@
 	"address": "0xe9Da5E227e3Fa4Fc933b5f540BE021e7EcC3Fd81",
 	"symbol": "GMFAM",
 	"name": "GMFAM",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30547/thumb/GMFAM-logo_%282%29.png?1696529419",
 	"coingecko": "gmfam",
 	"sources": [
 		"coingecko"

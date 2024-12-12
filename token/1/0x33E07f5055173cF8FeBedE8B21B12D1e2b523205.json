@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x33E07f5055173cF8FeBedE8B21B12D1e2b523205",
-	"symbol": "Etherland",
+	"symbol": "ELAND",
 	"name": "Etherland",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14432/thumb/eland_logo.png?1696514122",
 	"coingecko": "etherland",
 	"sources": [
 		"coingecko"

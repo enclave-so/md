@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xb5cE43fE2fcFfFfb2EeCE95EC413d08Def28046F",
-	"symbol": "PepElon",
+	"symbol": "PELO",
 	"name": "PepElon",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31371/thumb/7gd1S3fr_400x400.jpg?1696530188",
 	"coingecko": "pepelon-token",
 	"sources": [
 		"coingecko"

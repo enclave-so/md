@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x4EcE5C5CfB9B960A49aAe739E15cDB6cfDcc5782",
-	"symbol": "Doont Buy",
+	"symbol": "DBUY",
 	"name": "Doont Buy",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/17895/thumb/VaxEiZ3.png?1696517415",
 	"coingecko": "doont-buy",
 	"sources": [
 		"coingecko"

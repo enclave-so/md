@@ -1,0 +1,12 @@
+{
+	"chain": 8453,
+	"address": "0x7C298664BD6582f6f264c2Cb5a4B9cC09b6E3889",
+	"symbol": "MLN",
+	"name": "Melon",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/605/thumb/melon.png?1547034295",
+	"sources": [
+		"optimism",
+		"uniswap"
+	]
+}

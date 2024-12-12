@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0x6789D8a7a7871923Fc6430432A602879eCB6520a",
+	"symbol": "veKWENTA",
+	"name": "veKwenta",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/veKWENTA/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

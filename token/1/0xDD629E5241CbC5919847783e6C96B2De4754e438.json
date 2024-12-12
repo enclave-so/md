@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xDD629E5241CbC5919847783e6C96B2De4754e438",
-	"symbol": "Midas mTBILL",
+	"symbol": "MTBILL",
 	"name": "Midas mTBILL",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/37839/thumb/mTBILL_token.png?1728417279",
 	"coingecko": "midas-mtbill",
 	"sources": [
 		"coingecko"

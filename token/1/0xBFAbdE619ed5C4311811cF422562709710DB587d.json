@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xBFAbdE619ed5C4311811cF422562709710DB587d",
-	"symbol": "Diva Staking",
+	"symbol": "DIVA",
 	"name": "Diva Staking",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31792/thumb/2024-02-17_11.56.27.jpg?1709885558",
 	"coingecko": "diva-staking",
 	"sources": [
 		"coingecko"

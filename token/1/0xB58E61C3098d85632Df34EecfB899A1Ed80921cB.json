@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xB58E61C3098d85632Df34EecfB899A1Ed80921cB",
-	"symbol": "Frankencoin",
+	"symbol": "ZCHF",
 	"name": "Frankencoin",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/37150/thumb/Coin_Logo_Frankencoin_1024px.png?1728679791",
 	"coingecko": "frankencoin",
 	"sources": [
 		"coingecko"

@@ -2,12 +2,13 @@
 	"chain": 1,
 	"address": "0xF5581dFeFD8Fb0e4aeC526bE659CFaB1f8c781dA",
 	"symbol": "HOPR",
-	"name": "HOPR Token",
+	"name": "HOPR",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xF5581dFeFD8Fb0e4aeC526bE659CFaB1f8c781dA.jpg",
+	"logo": "https://assets.coingecko.com/coins/images/14061/thumb/Shared_HOPR_logo_512px.png?1614073468",
 	"coingecko": "hopr",
 	"sources": [
 		"coingecko",
-		"sushiswap"
+		"sushiswap",
+		"uniswap"
 	]
 }

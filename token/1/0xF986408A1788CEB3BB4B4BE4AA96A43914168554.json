@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xF986408A1788CEB3BB4B4BE4AA96A43914168554",
-	"symbol": "Fast And AI",
+	"symbol": "FASTAI",
 	"name": "Fast And AI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/39861/thumb/Fastai_200x200.png?1724375616",
 	"coingecko": "fast-and-ai",
 	"sources": [
 		"coingecko"

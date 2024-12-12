@@ -2,12 +2,13 @@
 	"chain": 56,
 	"address": "0xacb2d47827C9813AE26De80965845D80935afd0B",
 	"symbol": "MCRN",
-	"name": "MacaronSwap Token",
+	"name": "MacaronSwap",
 	"decimals": 18,
-	"logo": "https://assets.coingecko.com/coins/images/14633/small/macaron.png?1623038435",
+	"logo": "https://tokens.pancakeswap.finance/images/0xacb2d47827C9813AE26De80965845D80935afd0B.png",
 	"coingecko": "macaronswap",
 	"sources": [
 		"coingecko",
+		"pancakeswap",
 		"sushiswap"
 	]
 }

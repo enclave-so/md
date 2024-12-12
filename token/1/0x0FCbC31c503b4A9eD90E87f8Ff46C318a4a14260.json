@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x0FCbC31c503b4A9eD90E87f8Ff46C318a4a14260",
-	"symbol": "Quantfury",
+	"symbol": "QTF",
 	"name": "Quantfury",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/14033/thumb/FtSOX9Vy_400x400.jpg?1696513760",
 	"coingecko": "quantfury",
 	"sources": [
 		"coingecko"

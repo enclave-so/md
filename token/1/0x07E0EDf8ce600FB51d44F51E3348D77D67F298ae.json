@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x07E0EDf8ce600FB51d44F51E3348D77D67F298ae",
-	"symbol": "HarryPotterObamaPacMan8Inu",
+	"symbol": "XRP",
 	"name": "HarryPotterObamaPacMan8Inu",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/31241/thumb/Pacman_Logo200x200.png?1696530067",
 	"coingecko": "harrypotterobamapacman8inu",
 	"sources": [
 		"coingecko"

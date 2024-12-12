@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x4166673521e31eD98801E45e8b068b4bC227A110",
-	"symbol": "Ponzi Express",
+	"symbol": "PONZIE",
 	"name": "Ponzi Express",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/50952/thumb/pe200x00.png?1729586199",
 	"coingecko": "ponzi-express",
 	"sources": [
 		"coingecko"

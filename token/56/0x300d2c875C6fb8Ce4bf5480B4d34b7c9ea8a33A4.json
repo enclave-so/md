@@ -1,0 +1,11 @@
+{
+	"chain": 56,
+	"address": "0x300d2c875C6fb8Ce4bf5480B4d34b7c9ea8a33A4",
+	"symbol": "pxETH",
+	"name": "Pirex Ether OFT",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x300d2c875C6fb8Ce4bf5480B4d34b7c9ea8a33A4.png",
+	"sources": [
+		"pancakeswap"
+	]
+}

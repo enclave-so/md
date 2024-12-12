@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x94a8b4EE5CD64C79D0Ee816f467EA73009f51aA0",
-	"symbol": "Realio Network Token",
+	"symbol": "RIO",
 	"name": "Realio Network Token",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/12206/thumb/Rio.png?1696512042",
 	"coingecko": "realio-network",
 	"sources": [
 		"coingecko"

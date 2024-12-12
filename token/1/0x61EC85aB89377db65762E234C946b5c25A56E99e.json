@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x61EC85aB89377db65762E234C946b5c25A56E99e",
-	"symbol": "HTX DAO",
+	"symbol": "HTX",
 	"name": "HTX DAO",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35491/thumb/Frame_1321318576.png?1708908626",
 	"coingecko": "htx-dao",
 	"sources": [
 		"coingecko"

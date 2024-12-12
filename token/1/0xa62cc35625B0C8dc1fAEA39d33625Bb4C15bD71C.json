@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xa62cc35625B0C8dc1fAEA39d33625Bb4C15bD71C",
-	"symbol": "StormX",
+	"symbol": "STMX",
 	"name": "StormX",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/1369/thumb/StormX.png?1696502427",
 	"coingecko": "storm",
 	"sources": [
 		"coingecko"

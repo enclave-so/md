@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x4D953cf077c0C95Ba090226E59A18FcF97db44EC",
-	"symbol": "Mini",
+	"symbol": "MINI",
 	"name": "Mini",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/12298/thumb/IrTAVc_GqZ7iQucAa3fNYlh_Cqt3tY9wM_pmzOl5SifscRMpuzrp_dizMzGTiMr_NxDJPCKigBgz8THrzvO_DqT3JLzqZIYeytDBRw3qKI73dljS0BnFaaI2aLadpdCZah4RkhydddLIDDbQlGit77farlQRaq7qEgxdjVe0aqEeh4phE-DWAKi_KS_Yz-fFdDfjWgifVCKkZRBeNSWWQEplxxl.jpg?1696512125",
 	"coingecko": "mini",
 	"sources": [
 		"coingecko"

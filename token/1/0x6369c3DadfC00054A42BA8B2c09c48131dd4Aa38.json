@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x6369c3DadfC00054A42BA8B2c09c48131dd4Aa38",
-	"symbol": "Morpher",
+	"symbol": "MPH",
 	"name": "Morpher",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/12619/thumb/morpher_200_200.png?1696512426",
 	"coingecko": "morpher",
 	"sources": [
 		"coingecko"

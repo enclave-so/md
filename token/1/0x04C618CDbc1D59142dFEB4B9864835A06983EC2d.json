@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x04C618CDbc1D59142dFEB4B9864835A06983EC2d",
-	"symbol": "Joseon-Mun",
-	"name": "Joseon-Mun",
+	"symbol": "JSM",
+	"name": "Joseon Mun",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30387/thumb/IMG_20230511_130419_023.jpg?1696529276",
 	"coingecko": "jaseonmun",
 	"sources": [
 		"coingecko"

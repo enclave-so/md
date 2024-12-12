@@ -1,0 +1,11 @@
+{
+	"chain": 42161,
+	"address": "0x7F728F3595db17B0B359f4FC47aE80FAd2e33769",
+	"symbol": "METIS",
+	"name": "Metis",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/15595/thumb/metis.jpeg?1660285312",
+	"sources": [
+		"uniswap"
+	]
+}

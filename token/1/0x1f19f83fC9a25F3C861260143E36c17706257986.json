@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x1f19f83fC9a25F3C861260143E36c17706257986",
-	"symbol": "DAO Invest",
+	"symbol": "VEST",
 	"name": "DAO Invest",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/17901/thumb/logo-round-200.png?1696517421",
 	"coingecko": "dao-invest",
 	"sources": [
 		"coingecko"

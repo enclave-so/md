@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xB36cF340a35f9860D0Bb59AFb0355580f0000DAD",
-	"symbol": "Padre",
+	"symbol": "PADRE",
 	"name": "Padre",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/36079/thumb/favicon_200x200_transparent_png.png?1710414755",
 	"coingecko": "padre",
 	"sources": [
 		"coingecko"

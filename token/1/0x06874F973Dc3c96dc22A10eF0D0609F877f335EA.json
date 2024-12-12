@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x06874F973Dc3c96dc22A10eF0D0609F877f335EA",
-	"symbol": "STOA Network",
+	"symbol": "STA",
 	"name": "STOA Network",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/16710/thumb/RSloE6X1_400x400.jpeg?1696516284",
 	"coingecko": "defi-stoa",
 	"sources": [
 		"coingecko"

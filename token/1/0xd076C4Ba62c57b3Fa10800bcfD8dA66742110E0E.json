@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xd076C4Ba62c57b3Fa10800bcfD8dA66742110E0E",
-	"symbol": "HAVAH",
+	"symbol": "HVH",
 	"name": "HAVAH",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/29156/thumb/hvh.png?1696528115",
 	"coingecko": "havah",
 	"sources": [
 		"coingecko"

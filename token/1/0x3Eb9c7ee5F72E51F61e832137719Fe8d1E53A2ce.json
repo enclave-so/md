@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x3Eb9c7ee5F72E51F61e832137719Fe8d1E53A2ce",
-	"symbol": "DecentraMind",
+	"symbol": "DMIND",
 	"name": "DecentraMind",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/33315/thumb/IMG_20231130_105535_975.jpg?1701413610",
 	"coingecko": "decentramind",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x7d4b8Cce0591C9044a22ee543533b72E976E36C3",
-	"symbol": "Change",
+	"symbol": "CAG",
 	"name": "Change",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/1021/thumb/200x200.png?1696502132",
 	"coingecko": "change",
 	"sources": [
 		"coingecko"

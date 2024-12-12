@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xff56Cc6b1E6dEd347aA0B7676C85AB0B3D08B0FA",
-	"symbol": "Orbs",
+	"symbol": "ORBS",
 	"name": "Orbs",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/4630/thumb/Orbs.jpg?1696505200",
 	"coingecko": "orbs",
 	"sources": [
 		"coingecko"

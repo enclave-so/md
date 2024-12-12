@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x186eF81fd8E77EEC8BfFC3039e7eC41D5FC0b457",
-	"symbol": "Inspect",
+	"symbol": "INSP",
 	"name": "Inspect",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/33422/thumb/200_%281%29.png?1701767509",
 	"coingecko": "inspect",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x88417754Ff7062c10F4E3A4AB7E9F9D9cbDa6023",
-	"symbol": "Peepa",
+	"symbol": "PEEPA",
 	"name": "Peepa",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/37880/thumb/bTYBf95x_400x400.jpg?1715839748",
 	"coingecko": "peepa",
 	"sources": [
 		"coingecko"

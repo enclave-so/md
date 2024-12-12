@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x044A3bad20573Bbe5895B873ecbfd4E283bC9102",
-	"symbol": "Kindred",
+	"symbol": "KND",
 	"name": "Kindred",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/50349/thumb/Ongetiteld.png?1727249122",
 	"coingecko": "kindred",
 	"sources": [
 		"coingecko"

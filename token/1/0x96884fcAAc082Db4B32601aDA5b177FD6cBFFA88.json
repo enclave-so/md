@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x96884fcAAc082Db4B32601aDA5b177FD6cBFFA88",
-	"symbol": "ZkLock",
+	"symbol": "ZKLK",
 	"name": "ZkLock",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/36586/thumb/IMG_20240328_215725_691.jpg?1711947986",
 	"coingecko": "zklock",
 	"sources": [
 		"coingecko"

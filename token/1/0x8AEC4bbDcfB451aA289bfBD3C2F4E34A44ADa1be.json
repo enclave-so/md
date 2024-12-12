@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x8AEC4bbDcfB451aA289bfBD3C2F4E34A44ADa1be",
-	"symbol": "dogwifhat Eth",
+	"symbol": "DOGWIFHAT",
 	"name": "dogwifhat Eth",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/35029/thumb/dogwifhat_Eth.png?1707155488",
 	"coingecko": "dogwifhat-eth",
 	"sources": [
 		"coingecko"

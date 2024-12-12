@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xAddB6dC7E2F7caEA67621DD3Ca2e8321ade33286",
-	"symbol": "Sharp AI",
+	"symbol": "SHARP",
 	"name": "Sharp AI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/50729/thumb/Sharp_AI.jpg?1731186669",
 	"coingecko": "sharp-ai",
 	"sources": [
 		"coingecko"

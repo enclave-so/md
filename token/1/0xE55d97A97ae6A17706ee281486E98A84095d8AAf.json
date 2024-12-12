@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xE55d97A97ae6A17706ee281486E98A84095d8AAf",
-	"symbol": "AIPad",
+	"symbol": "AIPAD",
 	"name": "AIPad",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/28894/thumb/JZadeHu.jpeg?1696527870",
 	"coingecko": "aipad",
 	"sources": [
 		"coingecko"

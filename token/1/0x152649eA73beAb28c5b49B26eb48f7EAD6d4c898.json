@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x152649eA73beAb28c5b49B26eb48f7EAD6d4c898",
-	"symbol": "PancakeSwap",
+	"symbol": "CAKE",
 	"name": "PancakeSwap",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/12632/thumb/pancakeswap-cake-logo_%281%29.png?1696512440",
 	"coingecko": "pancakeswap-token",
 	"sources": [
 		"coingecko"

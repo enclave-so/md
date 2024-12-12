@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xa393473d64d2F9F026B60b6Df7859A689715d092",
-	"symbol": "Lattice",
+	"symbol": "LTX",
 	"name": "Lattice",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/13050/thumb/Lattice.jpg?1696512835",
 	"coingecko": "lattice-token",
 	"sources": [
 		"coingecko"

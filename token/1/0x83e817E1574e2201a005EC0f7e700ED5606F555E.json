@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x83e817E1574e2201a005EC0f7e700ED5606F555E",
-	"symbol": "mPendle",
+	"symbol": "MPENDLE",
 	"name": "mPendle",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31918/thumb/mPendle.png?1696530726",
 	"coingecko": "mpendle",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x148255a3b10666D9788Ec48BC61Ea3e48974bf2C",
-	"symbol": "Decentralized Music Chain",
+	"symbol": "DMCC",
 	"name": "Decentralized Music Chain",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/34760/thumb/DMCC-Mark.png?1719278314",
 	"coingecko": "decentralized-music-chain",
 	"sources": [
 		"coingecko"

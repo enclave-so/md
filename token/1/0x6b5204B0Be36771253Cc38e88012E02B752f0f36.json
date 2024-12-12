@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0x6b5204B0Be36771253Cc38e88012E02B752f0f36",
-	"symbol": "Zunami Governance Token",
+	"symbol": "ZUN",
 	"name": "Zunami Governance Token",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/38298/thumb/ZUN_200x200.png?1717194404",
 	"coingecko": "zunami-governance-token",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

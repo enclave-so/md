@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x051fb509e4A775FABd257611eeA1efaed8F91359",
-	"symbol": "CateCoin",
+	"symbol": "CATE",
 	"name": "CateCoin",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/15364/thumb/logo.png?1696515013",
 	"coingecko": "catecoin",
 	"sources": [
 		"coingecko"

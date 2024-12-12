@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x721A1B990699eE9D90b6327FaaD0A3E840aE8335",
-	"symbol": "Lootex",
+	"symbol": "LOOT",
 	"name": "Lootex",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/22895/thumb/loot.png?1696522192",
 	"coingecko": "loot",
 	"sources": [
 		"coingecko"

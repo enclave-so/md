@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0x6731827Cb6879a2091ce3ab3423f7bf20539b579",
-	"symbol": "Empower",
+	"symbol": "MPWR",
 	"name": "Empower",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/25456/thumb/MPWR_200x200.png?1696524587",
 	"coingecko": "clubrare-empower",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

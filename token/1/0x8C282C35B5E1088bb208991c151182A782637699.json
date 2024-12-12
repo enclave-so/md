@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x8C282C35B5E1088bb208991c151182A782637699",
-	"symbol": "Monai",
+	"symbol": "MONAI",
 	"name": "Monai",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35661/thumb/2024-03-02_02.02.09.png?1709453630",
 	"coingecko": "monai",
 	"sources": [
 		"coingecko"

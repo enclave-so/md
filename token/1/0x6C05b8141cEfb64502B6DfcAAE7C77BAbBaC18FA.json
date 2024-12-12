@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x6C05b8141cEfb64502B6DfcAAE7C77BAbBaC18FA",
-	"symbol": "FU Money",
+	"symbol": "FU",
 	"name": "FU Money",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/38629/thumb/FU_logo_black.png?1718170125",
 	"coingecko": "fu-money",
 	"sources": [
 		"coingecko"

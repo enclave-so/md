@@ -1,10 +1,13 @@
 {
 	"chain": 8453,
 	"address": "0x681A09A902D9C7445b3B1Ab282C38D60c72F1f09",
-	"symbol": "AlphaKEK.AI",
+	"symbol": "AIKEK",
 	"name": "AlphaKEK.AI",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/AIKEK/logo.svg",
 	"coingecko": "alphakek-ai",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

@@ -2,10 +2,11 @@
 	"chain": 137,
 	"address": "0x3066818837c5e6eD6601bd5a91B0762877A6B731",
 	"symbol": "UMA",
-	"name": "UMA Voting Token",
+	"name": "UMA Voting Token v1",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x3066818837c5e6eD6601bd5a91B0762877A6B731/logo.png",
+	"logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x04Fa0d235C4abf4BcF4787aF4CF447DE572eF828/logo.png",
 	"sources": [
-		"sushiswap"
+		"sushiswap",
+		"uniswap"
 	]
 }

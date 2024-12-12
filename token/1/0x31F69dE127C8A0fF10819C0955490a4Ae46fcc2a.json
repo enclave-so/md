@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x31F69dE127C8A0fF10819C0955490a4Ae46fcc2a",
-	"symbol": "Obyte",
+	"symbol": "GBYTE",
 	"name": "Obyte",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/561/thumb/byteball.png?1696501768",
 	"coingecko": "byteball",
 	"sources": [
 		"coingecko"

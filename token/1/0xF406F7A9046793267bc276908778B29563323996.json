@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xF406F7A9046793267bc276908778B29563323996",
-	"symbol": "APY.vision",
-	"name": "APY.vision",
+	"symbol": "VISION",
+	"name": "APY vision",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/13288/thumb/apyvisionlogo200circle.png?1696513060",
 	"coingecko": "apy-vision",
 	"sources": [
 		"coingecko"

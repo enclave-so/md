@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x1ED5cf624240296d941796970aC745Bc24bd4a06",
-	"symbol": "Poshi World",
+	"symbol": "POSHI",
 	"name": "Poshi World",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/50283/thumb/Poshi.jpg?1726809501",
 	"coingecko": "poshi-world",
 	"sources": [
 		"coingecko"

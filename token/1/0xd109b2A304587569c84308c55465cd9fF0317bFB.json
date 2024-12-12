@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xd109b2A304587569c84308c55465cd9fF0317bFB",
-	"symbol": "Aave AMM BptBALWETH",
+	"symbol": "AAMMBPTBALWETH",
 	"name": "Aave AMM BptBALWETH",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/17261/thumb/aAmmBptBALWETH.png?1696516816",
 	"coingecko": "aave-amm-bptbalweth",
 	"sources": [
 		"coingecko"

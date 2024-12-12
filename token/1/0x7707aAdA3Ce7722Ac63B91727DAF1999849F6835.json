@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x7707aAdA3Ce7722Ac63B91727DAF1999849F6835",
-	"symbol": "Bankera",
+	"symbol": "BNK",
 	"name": "Bankera",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/1949/thumb/bankera.png?1696502933",
 	"coingecko": "bankera",
 	"sources": [
 		"coingecko"

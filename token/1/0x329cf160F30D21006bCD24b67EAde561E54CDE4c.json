@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x329cf160F30D21006bCD24b67EAde561E54CDE4c",
-	"symbol": "CareCoin",
+	"symbol": "CARE",
 	"name": "CareCoin",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/28378/thumb/46FD299C-3DA4-43E6-A6A2-27F492FC7E4D.jpeg?1696527378",
 	"coingecko": "carecoin",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xb3Ad645dB386D7F6D753B2b9C3F4B853DA6890B8",
-	"symbol": "Concentrator",
+	"symbol": "CTR",
 	"name": "Concentrator",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/26364/thumb/%E6%9C%AA%E5%91%BD%E5%90%8D%E7%9A%84%E8%AE%BE%E8%AE%A1.jpg?1696525441",
 	"coingecko": "concentrator",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xC40AF1E4fEcFA05Ce6BAb79DcD8B373d2E436c4E",
-	"symbol": "Hokkaidu Inu",
+	"symbol": "HOKK",
 	"name": "Hokkaidu Inu",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/34890/thumb/IMG29529FNM3.png?1710943740",
 	"coingecko": "hokkaido-inu",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x30672AE2680c319ec1028B69670A4a786baA0f35",
-	"symbol": "NodeSynapse",
+	"symbol": "NS",
 	"name": "NodeSynapse",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/35679/thumb/NodeSynapse_%281%29.png?1709525297",
 	"coingecko": "nodesynapse",
 	"sources": [
 		"coingecko"

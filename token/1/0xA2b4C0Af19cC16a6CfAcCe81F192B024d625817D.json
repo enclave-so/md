@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xA2b4C0Af19cC16a6CfAcCe81F192B024d625817D",
-	"symbol": "Kishu Inu",
+	"symbol": "KISHU",
 	"name": "Kishu Inu",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/14890/thumb/uVLzCoP.png?1696514553",
 	"coingecko": "kishu-inu",
 	"sources": [
 		"coingecko"

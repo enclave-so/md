@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x3bd7d4F524D09F4e331577247A048D56e4b67a7F",
-	"symbol": "5ire",
+	"symbol": "5IRE",
 	"name": "5ire",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/25246/thumb/16919.png?1696524387",
 	"coingecko": "5ire",
 	"sources": [
 		"coingecko"

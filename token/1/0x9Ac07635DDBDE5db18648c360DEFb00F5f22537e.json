@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x9Ac07635DDBDE5db18648c360DEFb00F5f22537e",
-	"symbol": "Museum of Crypto Art",
+	"symbol": "MOCA",
 	"name": "Museum of Crypto Art",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/15829/thumb/photo_2021-06-04_09.36.16.jpeg?1696515447",
 	"coingecko": "museum-of-crypto-art",
 	"sources": [
 		"coingecko"

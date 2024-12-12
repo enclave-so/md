@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xD0EbFe04Adb5Ef449Ec5874e450810501DC53ED5",
-	"symbol": "Brume",
+	"symbol": "BRUME",
 	"name": "Brume",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/50657/thumb/cloudy_200.png?1728635730",
 	"coingecko": "brume",
 	"sources": [
 		"coingecko"

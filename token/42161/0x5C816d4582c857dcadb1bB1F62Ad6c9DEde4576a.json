@@ -4,8 +4,9 @@
 	"symbol": "TURBO",
 	"name": "Turbo",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/arbitrum/assets/0x5C816d4582c857dcadb1bB1F62Ad6c9DEde4576a/logo.png",
+	"logo": "https://assets.coingecko.com/coins/images/30117/large/TurboMark-QL_200.png?1708079597",
 	"sources": [
-		"sushiswap"
+		"sushiswap",
+		"uniswap"
 	]
 }

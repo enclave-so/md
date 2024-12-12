@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xfcA47962D45ADFdfd1Ab2D972315dB4ce7CCf094",
-	"symbol": "iXledger",
+	"symbol": "IXT",
 	"name": "iXledger",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/814/thumb/ixledger.png?1696501963",
 	"coingecko": "insurex",
 	"sources": [
 		"coingecko"

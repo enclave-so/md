@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x4C44A8B7823B80161Eb5E6D80c014024752607F2",
-	"symbol": "America Pac",
+	"symbol": "PAC",
 	"name": "America Pac",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/50552/thumb/logo-transparent.png?1728350358",
 	"coingecko": "america-pac",
 	"sources": [
 		"coingecko"

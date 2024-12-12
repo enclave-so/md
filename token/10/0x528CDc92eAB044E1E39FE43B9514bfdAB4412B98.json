@@ -4,10 +4,11 @@
 	"symbol": "GIV",
 	"name": "Giveth Token",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/optimism/0x528CDc92eAB044E1E39FE43B9514bfdAB4412B98.jpg",
+	"logo": "https://ethereum-optimism.github.io/data/GIV/logo.svg",
 	"coingecko": "giveth",
 	"sources": [
 		"coingecko",
+		"optimism",
 		"sushiswap"
 	]
 }

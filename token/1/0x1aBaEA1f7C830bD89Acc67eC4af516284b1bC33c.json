@@ -2,9 +2,12 @@
 	"chain": 1,
 	"address": "0x1aBaEA1f7C830bD89Acc67eC4af516284b1bC33c",
 	"symbol": "EURC",
-	"name": "EURC",
+	"name": "Euro Coin",
+	"decimals": 6,
+	"logo": "https://assets.coingecko.com/coins/images/26045/thumb/euro-coin.png?1655394420",
 	"coingecko": "euro-coin",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"uniswap"
 	]
 }

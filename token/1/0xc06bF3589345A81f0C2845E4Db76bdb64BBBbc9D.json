@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xc06bF3589345A81f0C2845E4Db76bdb64BBBbc9D",
-	"symbol": "Make ETH Great Again",
+	"symbol": "MEGA",
 	"name": "Make ETH Great Again",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/38304/thumb/MEGA_LOGO.png?1717046572",
 	"coingecko": "make-eth-great-again",
 	"sources": [
 		"coingecko"

@@ -4,8 +4,9 @@
 	"symbol": "BIFI",
 	"name": "Beefy.finance",
 	"decimals": 18,
-	"logo": "https://assets.coingecko.com/coins/images/12704/small/token.png?1601876182",
+	"logo": "https://tokens.pancakeswap.finance/images/0xCa3F508B8e4Dd382eE878A314789373D80A5190A.png",
 	"sources": [
+		"pancakeswap",
 		"sushiswap"
 	]
 }

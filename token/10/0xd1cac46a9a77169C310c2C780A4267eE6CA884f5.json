@@ -1,0 +1,11 @@
+{
+	"chain": 10,
+	"address": "0xd1cac46a9a77169C310c2C780A4267eE6CA884f5",
+	"symbol": "EPOCH",
+	"name": "Epoch",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/EPOCH/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

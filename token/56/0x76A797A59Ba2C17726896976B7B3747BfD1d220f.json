@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0x76A797A59Ba2C17726896976B7B3747BfD1d220f",
-	"symbol": "Toncoin",
-	"name": "Toncoin",
+	"symbol": "TONCOIN",
+	"name": "Wrapped TON Coin",
+	"decimals": 9,
+	"logo": "https://tokens.pancakeswap.finance/images/0x76A797A59Ba2C17726896976B7B3747BfD1d220f.png",
 	"coingecko": "the-open-network",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

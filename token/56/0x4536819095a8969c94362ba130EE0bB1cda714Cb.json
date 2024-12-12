@@ -1,0 +1,11 @@
+{
+	"chain": 56,
+	"address": "0x4536819095a8969c94362ba130EE0bB1cda714Cb",
+	"symbol": "MB4",
+	"name": "Matthew Box 404",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x4536819095a8969c94362ba130EE0bB1cda714Cb.png",
+	"sources": [
+		"pancakeswap"
+	]
+}

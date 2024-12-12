@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x7A58c0Be72BE218B41C608b7Fe7C5bB630736C71",
-	"symbol": "ConstitutionDAO",
+	"symbol": "PEOPLE",
 	"name": "ConstitutionDAO",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/20612/thumb/GN_UVm3d_400x400.jpg?1696520017",
 	"coingecko": "constitutiondao",
 	"sources": [
 		"coingecko"

@@ -1,0 +1,11 @@
+{
+	"chain": 11155111,
+	"address": "0x72E2f504a0769458ACdCdd24236912f48342457C",
+	"symbol": "CXT",
+	"name": "Covalent X Token",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/CXT/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

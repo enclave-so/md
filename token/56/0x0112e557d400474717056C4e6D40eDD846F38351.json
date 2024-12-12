@@ -1,0 +1,11 @@
+{
+	"chain": 56,
+	"address": "0x0112e557d400474717056C4e6D40eDD846F38351",
+	"symbol": "PHA",
+	"name": "Phala Network",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x0112e557d400474717056C4e6D40eDD846F38351.png",
+	"sources": [
+		"pancakeswap"
+	]
+}

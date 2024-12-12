@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x9b4e2B4B13d125238Aa0480dD42B4f6fC71b37CC",
-	"symbol": "MyToken",
+	"symbol": "MT",
 	"name": "MyToken",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/4109/thumb/2712.png?1696504736",
 	"coingecko": "mytoken",
 	"sources": [
 		"coingecko"

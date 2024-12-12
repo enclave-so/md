@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xb6Dd77FD132dcAa10F1858734e838a0FA7431580",
-	"symbol": "Filipcoin",
+	"symbol": "FCP",
 	"name": "Filipcoin",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/21354/thumb/filip.PNG?1696520719",
 	"coingecko": "filipcoin",
 	"sources": [
 		"coingecko"

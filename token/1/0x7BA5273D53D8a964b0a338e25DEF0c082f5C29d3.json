@@ -3,6 +3,8 @@
 	"address": "0x7BA5273D53D8a964b0a338e25DEF0c082f5C29d3",
 	"symbol": "WEN",
 	"name": "WEN",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/31835/thumb/Wen_small.png?1696530649",
 	"coingecko": "wen",
 	"sources": [
 		"coingecko"

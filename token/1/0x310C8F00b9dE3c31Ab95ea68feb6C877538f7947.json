@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x310C8F00b9dE3c31Ab95ea68feb6C877538f7947",
-	"symbol": "Undead Blocks",
+	"symbol": "UNDEAD",
 	"name": "Undead Blocks",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/25382/thumb/AB0Uemhlw6jR.png?1696524515",
 	"coingecko": "undead-blocks",
 	"sources": [
 		"coingecko"

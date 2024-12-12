@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x53BE7BE0CE7f92bCbd2138305735160Fb799BE4F",
-	"symbol": "Neutaro",
+	"symbol": "NTMPI",
 	"name": "Neutaro",
+	"decimals": 6,
+	"logo": "https://assets.coingecko.com/coins/images/36277/thumb/Neutaro_logo.jpg?1711371142",
 	"coingecko": "neutaro",
 	"sources": [
 		"coingecko"

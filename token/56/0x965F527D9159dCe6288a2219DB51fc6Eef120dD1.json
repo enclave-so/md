@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0x965F527D9159dCe6288a2219DB51fc6Eef120dD1",
-	"symbol": "Biswap",
+	"symbol": "BSW",
 	"name": "Biswap",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x965F527D9159dCe6288a2219DB51fc6Eef120dD1.png",
 	"coingecko": "biswap",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

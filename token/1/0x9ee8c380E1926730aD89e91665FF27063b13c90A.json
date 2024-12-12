@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x9ee8c380E1926730aD89e91665FF27063b13c90A",
-	"symbol": "Coupon Assets",
+	"symbol": "CA",
 	"name": "Coupon Assets",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/32202/thumb/ca.jpg?1696746380",
 	"coingecko": "ca-htb",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x33f391F4c4fE802b70B77AE37670037A92114A7c",
-	"symbol": "Burp",
+	"symbol": "BURP",
 	"name": "Burp",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/17317/thumb/Big_Town_Chef_-__BURP_-_Avatar_3x.png?1696516871",
 	"coingecko": "burp",
 	"sources": [
 		"coingecko"

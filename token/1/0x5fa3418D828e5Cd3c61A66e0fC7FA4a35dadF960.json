@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x5fa3418D828e5Cd3c61A66e0fC7FA4a35dadF960",
-	"symbol": "Avatly",
+	"symbol": "AVATLY",
 	"name": "Avatly",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/33922/thumb/28738.png?1703370955",
 	"coingecko": "avatly-2",
 	"sources": [
 		"coingecko"

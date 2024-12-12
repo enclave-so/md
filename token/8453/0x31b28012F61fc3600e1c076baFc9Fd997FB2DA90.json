@@ -1,10 +1,13 @@
 {
 	"chain": 8453,
 	"address": "0x31b28012F61fc3600e1c076baFc9Fd997FB2DA90",
-	"symbol": "Mrs Miggles",
+	"symbol": "MRSMIGGLES",
 	"name": "Mrs Miggles",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/MRSMIGGLES/logo.svg",
 	"coingecko": "mrs-miggles",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

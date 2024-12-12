@@ -3,6 +3,8 @@
 	"address": "0xe8Ff5C9c75dEb346acAc493C463C8950Be03Dfba",
 	"symbol": "VIBE",
 	"name": "VIBE",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/948/thumb/vibe.png?1696502064",
 	"coingecko": "vibe",
 	"sources": [
 		"coingecko"

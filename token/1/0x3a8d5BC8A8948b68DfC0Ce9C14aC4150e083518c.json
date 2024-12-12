@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x3a8d5BC8A8948b68DfC0Ce9C14aC4150e083518c",
-	"symbol": "Paralink Network",
+	"symbol": "PARA",
 	"name": "Paralink Network",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/15789/thumb/para.PNG?1696515412",
 	"coingecko": "paralink-network",
 	"sources": [
 		"coingecko"

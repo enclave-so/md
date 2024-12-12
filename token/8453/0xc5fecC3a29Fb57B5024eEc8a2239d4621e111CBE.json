@@ -1,0 +1,12 @@
+{
+	"chain": 8453,
+	"address": "0xc5fecC3a29Fb57B5024eEc8a2239d4621e111CBE",
+	"symbol": "1INCH",
+	"name": "1inch",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/13469/thumb/1inch-token.png?1608803028",
+	"sources": [
+		"optimism",
+		"uniswap"
+	]
+}

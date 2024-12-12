@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xB8C55c80a1cb7394088a36C6b634dC2Bf3C6fb67",
-	"symbol": "Pepe Doge",
+	"symbol": "PEPEDOGE",
 	"name": "Pepe Doge",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/29968/thumb/Pepedoge.jpeg?1696528894",
 	"coingecko": "pepe-doge",
 	"sources": [
 		"coingecko"

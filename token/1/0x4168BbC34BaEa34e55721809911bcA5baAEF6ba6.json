@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x4168BbC34BaEa34e55721809911bcA5baAEF6ba6",
-	"symbol": "CEREAL",
+	"symbol": "CEP",
 	"name": "CEREAL",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/10469/thumb/logo_%EC%8B%AC%EB%B3%BC.png?1700070186",
 	"coingecko": "dodreamchain",
 	"sources": [
 		"coingecko"

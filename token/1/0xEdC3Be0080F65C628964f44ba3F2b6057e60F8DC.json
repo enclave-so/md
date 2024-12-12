@@ -3,6 +3,8 @@
 	"address": "0xEdC3Be0080F65C628964f44ba3F2b6057e60F8DC",
 	"symbol": "DASH",
 	"name": "DASH",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/50329/thumb/DASH.png?1727163821",
 	"coingecko": "dash-2",
 	"sources": [
 		"coingecko"

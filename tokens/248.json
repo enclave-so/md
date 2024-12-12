@@ -1,36 +1,6 @@
 [
 	{
 		"chain": 248,
-		"address": "0xDc3af65eCBD339309Ec55F109CB214E0325c5eD4",
-		"symbol": "Bridged USDT",
-		"name": "Bridged USDT",
-		"coingecko": "bridged-usdt",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 248,
-		"address": "0xE1aB220E37AC55A4E2dD5Ba148298A9c09fBD716",
-		"symbol": "Celer Bridged USDC (Oasys)",
-		"name": "Celer Bridged USDC (Oasys)",
-		"coingecko": "celer-bridged-usdc-oasys",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 248,
-		"address": "0xd2e426eA2fFa72DD1DC75e7bD148fb959E3E04b2",
-		"symbol": "Epic League",
-		"name": "Epic League",
-		"coingecko": "epic-league",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 248,
 		"address": "0xdDB07cc0f2F9fB7899DbA5a21964f3C6D2740e44",
 		"symbol": "TCG Verse",
 		"name": "TCG Verse",
@@ -55,6 +25,36 @@
 		"symbol": "Brave Power Crystal",
 		"name": "Brave Power Crystal",
 		"coingecko": "brave-power-crystal",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 248,
+		"address": "0xDc3af65eCBD339309Ec55F109CB214E0325c5eD4",
+		"symbol": "Bridged USDT",
+		"name": "Bridged USDT",
+		"coingecko": "bridged-usdt",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 248,
+		"address": "0xE1aB220E37AC55A4E2dD5Ba148298A9c09fBD716",
+		"symbol": "Celer Bridged USDC (Oasys)",
+		"name": "Celer Bridged USDC (Oasys)",
+		"coingecko": "celer-bridged-usdc-oasys",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 248,
+		"address": "0xd2e426eA2fFa72DD1DC75e7bD148fb959E3E04b2",
+		"symbol": "Epic League",
+		"name": "Epic League",
+		"coingecko": "epic-league",
 		"sources": [
 			"coingecko"
 		]

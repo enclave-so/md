@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x9ABFc0f085C82Ec1Be31D30843965FCC63053fFe",
-	"symbol": "QSTAR",
+	"symbol": "Q",
 	"name": "QSTAR",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/33177/thumb/Icon.Color1.jpg?1732134044",
 	"coingecko": "qstar",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xC3681A720605bD6F8fe9A2FaBff6A7CDEcDc605D",
-	"symbol": "Nihao",
+	"symbol": "NIHAO",
 	"name": "Nihao",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30619/thumb/nihaowhitecat.png?1696529493",
 	"coingecko": "nihao",
 	"sources": [
 		"coingecko"

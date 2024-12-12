@@ -1,0 +1,11 @@
+{
+	"chain": 42161,
+	"address": "0xe88998Fb579266628aF6a03e3821d5983e5D0089",
+	"symbol": "AXS",
+	"name": "Axie Infinity",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/13029/thumb/axie_infinity_logo.png?1604471082",
+	"sources": [
+		"uniswap"
+	]
+}

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xc5fB36dd2fb59d3B98dEfF88425a3F425Ee469eD",
-	"symbol": "Dejitaru Tsuka",
+	"symbol": "TSUKA",
 	"name": "Dejitaru Tsuka",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/26405/thumb/Dejitaru_Tsuka_Logo.jpg?1696525481",
 	"coingecko": "dejitaru-tsuka",
 	"sources": [
 		"coingecko"

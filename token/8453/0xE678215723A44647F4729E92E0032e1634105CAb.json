@@ -1,0 +1,11 @@
+{
+	"chain": 8453,
+	"address": "0xE678215723A44647F4729E92E0032e1634105CAb",
+	"symbol": "BURN",
+	"name": "Burn",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/BURN/logo.png",
+	"sources": [
+		"optimism"
+	]
+}

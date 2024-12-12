@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x800Ee7b69DCe0f6649Bb0c879b468a665B1A44Ce",
-	"symbol": "Dinari AMC",
+	"symbol": "AMCD",
 	"name": "Dinari AMC",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/39835/thumb/Dinari-token-icon.png?1724254655",
 	"coingecko": "dinari-amc",
 	"sources": [
 		"coingecko"

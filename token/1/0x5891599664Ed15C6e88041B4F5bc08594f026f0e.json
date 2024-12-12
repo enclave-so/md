@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x5891599664Ed15C6e88041B4F5bc08594f026f0e",
-	"symbol": "JPGoldCoin",
+	"symbol": "JPGC",
 	"name": "JPGoldCoin",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/27321/thumb/JPGC_LOGO-_Coingecko.png?1696526370",
 	"coingecko": "jpgoldcoin",
 	"sources": [
 		"coingecko"

@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0x25A528af62e56512A19ce8c3cAB427807c28CC19",
-	"symbol": "Formation FI",
-	"name": "Formation FI",
+	"symbol": "FORM",
+	"name": "Formation Finance",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x25A528af62e56512A19ce8c3cAB427807c28CC19.png",
 	"coingecko": "formation-fi",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

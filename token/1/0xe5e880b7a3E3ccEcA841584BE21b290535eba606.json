@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xe5e880b7a3E3ccEcA841584BE21b290535eba606",
-	"symbol": "Andi",
+	"symbol": "ANDI",
 	"name": "Andi",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/38547/thumb/Andi_logo.jpg?1718411854",
 	"coingecko": "andi",
 	"sources": [
 		"coingecko"

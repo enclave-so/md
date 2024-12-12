@@ -1,0 +1,11 @@
+{
+	"chain": 84532,
+	"address": "0x898E1cE720084A902Bc37dD822eD6D6a5F027E10",
+	"symbol": "tMASQ",
+	"name": "tMASQ",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/MASQ/logo.png",
+	"sources": [
+		"optimism"
+	]
+}

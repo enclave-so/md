@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0xF00600eBC7633462BC4F9C61eA2cE99F5AAEBd4a",
-	"symbol": "Oasis",
-	"name": "Oasis",
+	"symbol": "wROSE",
+	"name": "Wrapped ROSE",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0xF00600eBC7633462BC4F9C61eA2cE99F5AAEBd4a.png",
 	"coingecko": "oasis-network",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

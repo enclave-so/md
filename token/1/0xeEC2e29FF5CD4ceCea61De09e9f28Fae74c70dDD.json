@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xeEC2e29FF5CD4ceCea61De09e9f28Fae74c70dDD",
-	"symbol": "Aittcoin",
+	"symbol": "AITT",
 	"name": "Aittcoin",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/36100/thumb/aittcoin.png?1710482811",
 	"coingecko": "aittcoin",
 	"sources": [
 		"coingecko"

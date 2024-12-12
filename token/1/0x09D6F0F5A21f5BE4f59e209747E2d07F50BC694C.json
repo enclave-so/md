@@ -3,6 +3,8 @@
 	"address": "0x09D6F0F5A21f5BE4f59e209747E2d07F50BC694C",
 	"symbol": "NFTFI",
 	"name": "NFTFI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/36436/thumb/2024-04-03_19.01.44.jpg?1712142115",
 	"coingecko": "nftfi",
 	"sources": [
 		"coingecko"

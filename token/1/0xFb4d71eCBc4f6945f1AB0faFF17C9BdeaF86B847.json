@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xFb4d71eCBc4f6945f1AB0faFF17C9BdeaF86B847",
-	"symbol": "BALI Skull",
+	"symbol": "BALI",
 	"name": "BALI Skull",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/38740/thumb/Logo2.jpg?1718625750",
 	"coingecko": "bali-skull",
 	"sources": [
 		"coingecko"

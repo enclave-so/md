@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0x643C4E15d7d62Ad0aBeC4a9BD4b001aA3Ef52d66",
-	"symbol": "Syrup",
-	"name": "Syrup",
+	"symbol": "SYRUP",
+	"name": "Syrup Token",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/51232/standard/IMG_7420.png?1730831572",
 	"coingecko": "syrup",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"uniswap"
 	]
 }

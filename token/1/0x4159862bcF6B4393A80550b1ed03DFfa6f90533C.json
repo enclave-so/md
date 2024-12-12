@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x4159862bcF6B4393A80550b1ed03DFfa6f90533C",
-	"symbol": "One Hundred Million Inu",
+	"symbol": "OHMI",
 	"name": "One Hundred Million Inu",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/28625/thumb/ohmi-shield-200.png?1696527610",
 	"coingecko": "one-hundred-million-inu",
 	"sources": [
 		"coingecko"

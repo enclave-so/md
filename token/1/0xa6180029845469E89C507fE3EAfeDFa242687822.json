@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xa6180029845469E89C507fE3EAfeDFa242687822",
-	"symbol": "Neiro",
+	"symbol": "NEIRO",
 	"name": "Neiro",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/50742/thumb/photo_2024-09-16_18-38-15.jpg?1728947801",
 	"coingecko": "neiro-4",
 	"sources": [
 		"coingecko"

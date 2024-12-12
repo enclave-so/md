@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x9a0d1b52E0684Ab42Aa0c2613aBb4C04217E8Aa6",
-	"symbol": "Boys Club Munchy",
+	"symbol": "MUNCHY",
 	"name": "Boys Club Munchy",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/38754/thumb/Boys_Club_Munchy.png?1718706573",
 	"coingecko": "boys-club-munchy",
 	"sources": [
 		"coingecko"

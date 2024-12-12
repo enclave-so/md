@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x46c0F8259C4E4D50320124E52f3040cb9e4d04c7",
-	"symbol": "Chatter Shield",
+	"symbol": "SHIELD",
 	"name": "Chatter Shield",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/37166/thumb/Shield_Logo_200X200.png?1713989944",
 	"coingecko": "chatter-shield-2",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x2F4EB21aCD80A596bCcA596aB40bad928f5D2Bcf",
-	"symbol": "Dancing Beans",
+	"symbol": "BEANS",
 	"name": "Dancing Beans",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/38659/thumb/beans.jpeg?1718251706",
 	"coingecko": "dancing-beans",
 	"sources": [
 		"coingecko"

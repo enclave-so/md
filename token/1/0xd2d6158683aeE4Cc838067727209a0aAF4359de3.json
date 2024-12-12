@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xd2d6158683aeE4Cc838067727209a0aAF4359de3",
-	"symbol": "Bounty0x",
+	"symbol": "BNTY",
 	"name": "Bounty0x",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/1444/thumb/bounty0x.png?1696502494",
 	"coingecko": "bounty0x",
 	"sources": [
 		"coingecko"

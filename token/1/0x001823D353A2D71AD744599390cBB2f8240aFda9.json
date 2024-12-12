@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x001823D353A2D71AD744599390cBB2f8240aFda9",
-	"symbol": "cherrypicksAI",
+	"symbol": "CHERRY",
 	"name": "cherrypicksAI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/51286/thumb/cherrypicksAI_cherry_nobg_200px.png?1730569304",
 	"coingecko": "cherrypicksai",
 	"sources": [
 		"coingecko"

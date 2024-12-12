@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xF411903cbC70a74d22900a5DE66A2dda66507255",
-	"symbol": "Verasity",
+	"symbol": "VRA",
 	"name": "Verasity",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14025/thumb/logo_%281%29.png?1716968890",
 	"coingecko": "verasity",
 	"sources": [
 		"coingecko"

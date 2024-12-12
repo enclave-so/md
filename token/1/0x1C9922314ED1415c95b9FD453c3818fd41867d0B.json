@@ -2,12 +2,13 @@
 	"chain": 1,
 	"address": "0x1C9922314ED1415c95b9FD453c3818fd41867d0B",
 	"symbol": "TOWER",
-	"name": "TOWER",
+	"name": "Tower",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x1C9922314ED1415c95b9FD453c3818fd41867d0B/logo.png",
+	"logo": "https://assets.coingecko.com/coins/images/14134/thumb/tower-circular-1000.png?1696513854",
 	"coingecko": "tower",
 	"sources": [
 		"coingecko",
+		"optimism",
 		"sushiswap"
 	]
 }

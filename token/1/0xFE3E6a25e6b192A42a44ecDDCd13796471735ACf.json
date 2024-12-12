@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xFE3E6a25e6b192A42a44ecDDCd13796471735ACf",
-	"symbol": "Reef",
+	"symbol": "REEF",
 	"name": "Reef",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/13504/thumb/Group_10572.png?1696513266",
 	"coingecko": "reef",
 	"sources": [
 		"coingecko"

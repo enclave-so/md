@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xF32aa187d5Bc16A2C02A6aFb7Df1459d0D107574",
-	"symbol": "HachikoInu",
+	"symbol": "INU",
 	"name": "HachikoInu",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/16392/thumb/hachikoinu-200px.png?1696515990",
 	"coingecko": "hachikoinu",
 	"sources": [
 		"coingecko"

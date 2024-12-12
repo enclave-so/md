@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xa16a609fF4e1A15b6cCb469E7a5dD14E89305283",
-	"symbol": "Spume",
+	"symbol": "SPUME",
 	"name": "Spume",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/27089/thumb/D6lMeW9k_400x400.jpeg?1696526138",
 	"coingecko": "spume",
 	"sources": [
 		"coingecko"

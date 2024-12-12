@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x6715515F5aA98e8Bd3624922E1Ba91e6f5fc4402",
-	"symbol": "SatoshiSync",
+	"symbol": "SSNC",
 	"name": "SatoshiSync",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/36777/thumb/ssnc.jpeg?1712654999",
 	"coingecko": "satoshisync",
 	"sources": [
 		"coingecko"

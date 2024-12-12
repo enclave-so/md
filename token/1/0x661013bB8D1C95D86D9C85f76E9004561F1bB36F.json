@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x661013bB8D1C95D86D9C85f76E9004561F1bB36F",
-	"symbol": "DeFi-Robot",
-	"name": "DeFi-Robot",
+	"symbol": "DRBT",
+	"name": "DeFi Robot",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/34725/thumb/defiRobot-logo.jpg?1705918727",
 	"coingecko": "defi-robot",
 	"sources": [
 		"coingecko"

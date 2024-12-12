@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x4955f6641bf9C8C163604c321f4B36E988698f75",
-	"symbol": "Dogecast",
+	"symbol": "DOGECAST",
 	"name": "Dogecast",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/51768/thumb/DogeCast_Logo.jpg?1731935881",
 	"coingecko": "dogecast",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xeEAA40B28A2d1b0B08f6f97bB1DD4B75316c6107",
-	"symbol": "CVI",
+	"symbol": "GOVI",
 	"name": "CVI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/13875/thumb/GOVI.png?1696513619",
 	"coingecko": "govi",
 	"sources": [
 		"coingecko"

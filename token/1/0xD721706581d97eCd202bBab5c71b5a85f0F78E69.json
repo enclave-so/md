@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xD721706581d97eCd202bBab5c71b5a85f0F78E69",
-	"symbol": "DOGE-1",
-	"name": "DOGE-1",
+	"symbol": "DOGE1",
+	"name": "DOGE 1",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/32298/thumb/200.png?1697185878",
 	"coingecko": "doge-1",
 	"sources": [
 		"coingecko"

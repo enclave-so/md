@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x9b06F3C5de42D4623D7A2Bd940EC735103c68A76",
-	"symbol": "Volta Club",
+	"symbol": "VOLTA",
 	"name": "Volta Club",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31602/thumb/volta-200x200.png?1696530418",
 	"coingecko": "volta-club",
 	"sources": [
 		"coingecko"

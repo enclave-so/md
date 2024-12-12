@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x88Ce174C655B6d11210A069B2c106632DaBDB068",
-	"symbol": "Yawn's World",
-	"name": "Yawn's World",
+	"symbol": "YAWN",
+	"name": "Yawn s World",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/50206/thumb/Yawn's_World.png?1726539590",
 	"coingecko": "yawn-s-world",
 	"sources": [
 		"coingecko"

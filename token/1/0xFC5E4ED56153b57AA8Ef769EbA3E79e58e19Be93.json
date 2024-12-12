@@ -3,6 +3,8 @@
 	"address": "0xFC5E4ED56153b57AA8Ef769EbA3E79e58e19Be93",
 	"symbol": "SOLAV",
 	"name": "SOLAV",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/34483/thumb/White_Background.png?1705042967",
 	"coingecko": "solav",
 	"sources": [
 		"coingecko"

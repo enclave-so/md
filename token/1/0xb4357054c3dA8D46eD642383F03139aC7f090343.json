@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xb4357054c3dA8D46eD642383F03139aC7f090343",
-	"symbol": "Port3 Network",
+	"symbol": "PORT3",
 	"name": "Port3 Network",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/33383/thumb/port3-bc-200x200.png?1710075114",
 	"coingecko": "port3-network",
 	"sources": [
 		"coingecko"

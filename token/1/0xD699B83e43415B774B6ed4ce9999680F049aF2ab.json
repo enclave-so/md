@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xD699B83e43415B774B6ed4ce9999680F049aF2ab",
-	"symbol": "Bubsy AI",
+	"symbol": "BUBSY",
 	"name": "Bubsy AI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/37612/thumb/Bubsy_Logo_%28200px%29.png?1715057915",
 	"coingecko": "bubsy-ai",
 	"sources": [
 		"coingecko"

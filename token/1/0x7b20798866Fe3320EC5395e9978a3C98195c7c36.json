@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x7b20798866Fe3320EC5395e9978a3C98195c7c36",
-	"symbol": "DegenAds",
+	"symbol": "DEGEN",
 	"name": "DegenAds",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/50220/thumb/9dbd486f9b69c405cd7b82f824c08717.jpg?1726506528",
 	"coingecko": "degenads",
 	"sources": [
 		"coingecko"

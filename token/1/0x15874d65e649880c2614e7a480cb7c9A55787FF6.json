@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x15874d65e649880c2614e7a480cb7c9A55787FF6",
-	"symbol": "EthereumMax",
+	"symbol": "EMAX",
 	"name": "EthereumMax",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/15540/thumb/EMAX-Coin-Final2000x.png?1696515181",
 	"coingecko": "ethereummax",
 	"sources": [
 		"coingecko"

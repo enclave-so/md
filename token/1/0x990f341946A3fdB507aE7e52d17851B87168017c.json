@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x990f341946A3fdB507aE7e52d17851B87168017c",
-	"symbol": "Strong",
+	"symbol": "STRONG",
 	"name": "Strong",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/12092/thumb/STRONG-Token-256x256.png?1696511938",
 	"coingecko": "strong",
 	"sources": [
 		"coingecko"

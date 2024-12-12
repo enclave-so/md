@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xE925Aa77D51746b865e5c05165A879820cb4b720",
-	"symbol": "C-Cash",
-	"name": "C-Cash",
+	"symbol": "CCASH",
+	"name": "C Cash",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31644/thumb/200x.png?1696530460",
 	"coingecko": "c-cash",
 	"sources": [
 		"coingecko"

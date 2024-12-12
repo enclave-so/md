@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x378cb52b00F9D0921cb46dFc099CFf73b42419dC",
-	"symbol": "LUSD yVault",
+	"symbol": "YVLUSD",
 	"name": "LUSD yVault",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/28788/thumb/yvLUSD-128-0x378cb52b00F9D0921cb46dFc099CFf73b42419dC.png?1696527767",
 	"coingecko": "lusd-yvault",
 	"sources": [
 		"coingecko"

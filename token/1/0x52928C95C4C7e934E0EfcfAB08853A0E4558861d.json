@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x52928C95C4C7e934E0EfcfAB08853A0E4558861d",
-	"symbol": "Hara",
+	"symbol": "HART",
 	"name": "Hara",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/5138/thumb/hara.jpg?1696505657",
 	"coingecko": "hara-token",
 	"sources": [
 		"coingecko"

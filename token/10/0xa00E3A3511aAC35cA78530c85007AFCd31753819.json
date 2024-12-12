@@ -8,6 +8,7 @@
 	"coingecko": "kyber-network-crystal",
 	"sources": [
 		"coingecko",
+		"optimism",
 		"sushiswap"
 	]
 }

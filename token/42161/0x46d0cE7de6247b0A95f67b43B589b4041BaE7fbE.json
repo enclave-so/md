@@ -1,10 +1,13 @@
 {
 	"chain": 42161,
 	"address": "0x46d0cE7de6247b0A95f67b43B589b4041BaE7fbE",
-	"symbol": "Loopring",
-	"name": "Loopring",
+	"symbol": "LRC",
+	"name": "LoopringCoin V2",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xBBbbCA6A901c926F240b89EacB641d8Aec7AEafD/logo.png",
 	"coingecko": "loopring",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"uniswap"
 	]
 }

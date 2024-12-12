@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x142F4330Ab3edA738CB373791c2e99cC325BED20",
-	"symbol": "Secured On Blockchain",
+	"symbol": "SOB",
 	"name": "Secured On Blockchain",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/36725/thumb/sob.jpeg?1712143555",
 	"coingecko": "secured-on-blockchain-2",
 	"sources": [
 		"coingecko"

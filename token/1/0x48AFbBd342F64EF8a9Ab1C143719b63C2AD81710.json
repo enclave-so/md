@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0x48AFbBd342F64EF8a9Ab1C143719b63C2AD81710",
+	"symbol": "mpETH",
+	"name": "MetaPoolETH",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/mpETH/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

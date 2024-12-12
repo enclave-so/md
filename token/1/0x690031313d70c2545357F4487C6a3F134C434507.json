@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x690031313d70c2545357F4487C6a3F134C434507",
-	"symbol": "QQQ6900",
+	"symbol": "QQQ",
 	"name": "QQQ6900",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/51390/thumb/qqq_logo.jpg?1730997530",
 	"coingecko": "qqq6900",
 	"sources": [
 		"coingecko"

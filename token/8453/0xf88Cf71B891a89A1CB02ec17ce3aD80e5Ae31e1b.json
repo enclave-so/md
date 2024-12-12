@@ -1,0 +1,11 @@
+{
+	"chain": 8453,
+	"address": "0xf88Cf71B891a89A1CB02ec17ce3aD80e5Ae31e1b",
+	"symbol": "CIG",
+	"name": "Cigarette Token",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/CIG/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

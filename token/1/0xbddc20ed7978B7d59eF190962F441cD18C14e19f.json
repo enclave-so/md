@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xbddc20ed7978B7d59eF190962F441cD18C14e19f",
-	"symbol": "Crypto Asset Governance Alliance",
+	"symbol": "CAGA",
 	"name": "Crypto Asset Governance Alliance",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/32846/thumb/200px_caga_transparent.png?1707469892",
 	"coingecko": "crypto-asset-governance-alliance",
 	"sources": [
 		"coingecko"

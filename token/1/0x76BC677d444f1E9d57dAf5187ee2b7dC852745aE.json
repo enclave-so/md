@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x76BC677d444f1E9d57dAf5187ee2b7dC852745aE",
-	"symbol": "Offshift",
+	"symbol": "XFT",
 	"name": "Offshift",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/11977/thumb/CsBrPiA.png?1696511835",
 	"coingecko": "offshift",
 	"sources": [
 		"coingecko"

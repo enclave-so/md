@@ -1,0 +1,11 @@
+{
+	"chain": 56,
+	"address": "0x0034719300501B06E10Ebb1D07ea5967301F0941",
+	"symbol": "xALGO",
+	"name": "Governance xAlgo",
+	"decimals": 6,
+	"logo": "https://tokens.pancakeswap.finance/images/0x0034719300501B06E10Ebb1D07ea5967301F0941.png",
+	"sources": [
+		"pancakeswap"
+	]
+}

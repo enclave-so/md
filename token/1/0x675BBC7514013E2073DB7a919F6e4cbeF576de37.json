@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x675BBC7514013E2073DB7a919F6e4cbeF576de37",
-	"symbol": "Coldstack",
+	"symbol": "CLS",
 	"name": "Coldstack",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/15499/thumb/logo_200x200.png?1696515143",
 	"coingecko": "coldstack",
 	"sources": [
 		"coingecko"

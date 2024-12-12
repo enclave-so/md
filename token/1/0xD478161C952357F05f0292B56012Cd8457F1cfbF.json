@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xD478161C952357F05f0292B56012Cd8457F1cfbF",
-	"symbol": "Polkamarkets",
+	"symbol": "POLK",
 	"name": "Polkamarkets",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14084/thumb/polkamarkets.jpg?1696513807",
 	"coingecko": "polkamarkets",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,9 @@
 {
 	"chain": 1,
 	"address": "0x414cbF31c62D99515bfD66497B495a585b52F703",
-	"symbol": "Chappie",
+	"symbol": "CHAP",
 	"name": "Chappie",
+	"logo": "https://assets.coingecko.com/coins/images/31375/thumb/Frame_563.png?1696530192",
 	"coingecko": "chappie",
 	"sources": [
 		"coingecko"

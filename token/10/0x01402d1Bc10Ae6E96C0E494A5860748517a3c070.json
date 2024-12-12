@@ -1,0 +1,11 @@
+{
+	"chain": 10,
+	"address": "0x01402d1Bc10Ae6E96C0E494A5860748517a3c070",
+	"symbol": "CRYO",
+	"name": "CryoDAO",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/CRYO/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0xD44FD09d74cd13838F137B590497595d6b3FEeA4",
-	"symbol": "CryptoMines Eternal",
+	"symbol": "ETERNAL",
 	"name": "CryptoMines Eternal",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0xD44FD09d74cd13838F137B590497595d6b3FEeA4.png",
 	"coingecko": "cryptomines-eternal",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

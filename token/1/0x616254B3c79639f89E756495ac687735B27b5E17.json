@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x616254B3c79639f89E756495ac687735B27b5E17",
-	"symbol": "Rino",
+	"symbol": "RINO",
 	"name": "Rino",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/50868/thumb/200x200_rino.png?1729332184",
 	"coingecko": "rino",
 	"sources": [
 		"coingecko"

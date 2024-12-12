@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xA130E3a33a4d84b04c3918c4E5762223Ae252F80",
-	"symbol": "Swash",
+	"symbol": "SWASH",
 	"name": "Swash",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/18774/thumb/Swash_icon_GP.png?1712869197",
 	"coingecko": "swash",
 	"sources": [
 		"coingecko"

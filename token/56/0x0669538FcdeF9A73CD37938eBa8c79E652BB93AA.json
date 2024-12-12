@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0x0669538FcdeF9A73CD37938eBa8c79E652BB93AA",
-	"symbol": "Script Network",
-	"name": "Script Network",
+	"symbol": "SCPT",
+	"name": "SCPT - Script Network",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x0669538FcdeF9A73CD37938eBa8c79E652BB93AA.png",
 	"coingecko": "script-network",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

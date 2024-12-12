@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0xC4C2614E694cF534D407Ee49F8E44D125E4681c4",
-	"symbol": "Chain Games",
+	"symbol": "CHAIN",
 	"name": "Chain Games",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/12257/thumb/chain-pfp-logo.png?1696512087",
 	"coingecko": "chain-games",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

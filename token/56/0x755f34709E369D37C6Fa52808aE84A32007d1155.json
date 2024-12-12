@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0x755f34709E369D37C6Fa52808aE84A32007d1155",
-	"symbol": "Nabox",
-	"name": "Nabox",
+	"symbol": "NABOX",
+	"name": "Nabox Token",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x755f34709E369D37C6Fa52808aE84A32007d1155.png",
 	"coingecko": "nabox",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

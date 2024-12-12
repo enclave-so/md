@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0x085780639CC2cACd35E474e71f4d000e2405d8f6",
-	"symbol": "f(x) Protocol fxUSD",
-	"name": "f(x) Protocol fxUSD",
+	"symbol": "FXUSD",
+	"name": "f x  Protocol fxUSD",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/36202/thumb/fxUSD.jpg?1710833113",
 	"coingecko": "f-x-protocol-fxusd",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

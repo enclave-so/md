@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x5d43b66da68706D39f6C97F7f1415615672b446b",
-	"symbol": "ROGin AI",
+	"symbol": "ROG",
 	"name": "ROGin AI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/25922/thumb/ROG_Circle_B.png?1717003612",
 	"coingecko": "rogin-ai",
 	"sources": [
 		"coingecko"

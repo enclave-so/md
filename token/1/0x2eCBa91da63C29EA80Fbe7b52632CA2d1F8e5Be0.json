@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x2eCBa91da63C29EA80Fbe7b52632CA2d1F8e5Be0",
-	"symbol": "FairERC20",
+	"symbol": "FERC",
 	"name": "FairERC20",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30698/thumb/fair.png?1696529568",
 	"coingecko": "fairerc20",
 	"sources": [
 		"coingecko"

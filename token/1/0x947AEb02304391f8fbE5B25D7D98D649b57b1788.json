@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x947AEb02304391f8fbE5B25D7D98D649b57b1788",
-	"symbol": "Mandala Exchange",
+	"symbol": "MDX",
 	"name": "Mandala Exchange",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/13736/thumb/png-cmc.png?1696513480",
 	"coingecko": "mandala-exchange-token",
 	"sources": [
 		"coingecko"

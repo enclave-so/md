@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0x6b23C89196DeB721e6Fd9726E6C76E4810a464bc",
-	"symbol": "X World Games",
+	"symbol": "XWG",
 	"name": "X World Games",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x6b23C89196DeB721e6Fd9726E6C76E4810a464bc.png",
 	"coingecko": "x-world-games",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

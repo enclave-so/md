@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xE9732d4b1E7d3789004fF029f032bA3034db059c",
-	"symbol": "Patriot",
+	"symbol": "PATRIOT",
 	"name": "Patriot",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/51331/thumb/Patriot.png?1730795973",
 	"coingecko": "patriot",
 	"sources": [
 		"coingecko"

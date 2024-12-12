@@ -1,10 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xF94b5C5651c888d928439aB6514B93944eEE6F48",
-	"symbol": "YLD/YieldApp",
+	"symbol": "YLD",
 	"name": "Yield App",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xF94b5C5651c888d928439aB6514B93944eEE6F48/logo.png",
+	"logo": "https://assets.coingecko.com/coins/images/13365/thumb/Google_Play_Store_Icon.png?1696513130",
 	"coingecko": "yield-app",
 	"sources": [
 		"coingecko",

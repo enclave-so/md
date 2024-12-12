@@ -1,0 +1,11 @@
+{
+	"chain": 56,
+	"address": "0x2cD1075682b0FCCaADd0Ca629e138E64015Ba11c",
+	"symbol": "tBTC",
+	"name": "Tau Bitcoin",
+	"decimals": 9,
+	"logo": "https://tokens.pancakeswap.finance/images/0x2cD1075682b0FCCaADd0Ca629e138E64015Ba11c.png",
+	"sources": [
+		"pancakeswap"
+	]
+}

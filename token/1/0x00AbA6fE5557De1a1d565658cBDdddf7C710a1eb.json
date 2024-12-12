@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x00AbA6fE5557De1a1d565658cBDdddf7C710a1eb",
-	"symbol": "EasyFi V2",
+	"symbol": "EZ",
 	"name": "EasyFi V2",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/12742/thumb/Logo_Icon.png?1696512540",
 	"coingecko": "easyfi",
 	"sources": [
 		"coingecko"

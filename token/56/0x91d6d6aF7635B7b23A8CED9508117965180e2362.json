@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0x91d6d6aF7635B7b23A8CED9508117965180e2362",
-	"symbol": "unshETHing_Token",
+	"symbol": "USH",
 	"name": "unshETHing_Token",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x91d6d6aF7635B7b23A8CED9508117965180e2362.png",
 	"coingecko": "unsheth",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

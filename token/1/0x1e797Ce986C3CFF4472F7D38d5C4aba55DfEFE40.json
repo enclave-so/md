@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x1e797Ce986C3CFF4472F7D38d5C4aba55DfEFE40",
-	"symbol": "BlockCDN",
+	"symbol": "BCDN",
 	"name": "BlockCDN",
+	"decimals": 15,
+	"logo": "https://assets.coingecko.com/coins/images/1301/thumb/blockcdn.png?1696502370",
 	"coingecko": "blockcdn",
 	"sources": [
 		"coingecko"

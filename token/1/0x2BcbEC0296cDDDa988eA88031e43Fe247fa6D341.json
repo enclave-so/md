@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x2BcbEC0296cDDDa988eA88031e43Fe247fa6D341",
-	"symbol": "Moo Tun",
+	"symbol": "MOOTUN",
 	"name": "Moo Tun",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/50553/thumb/photo_2024-10-07_18.54.17.jpeg?1728351721",
 	"coingecko": "moo-tun",
 	"sources": [
 		"coingecko"

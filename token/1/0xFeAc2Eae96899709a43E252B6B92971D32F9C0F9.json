@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xFeAc2Eae96899709a43E252B6B92971D32F9C0F9",
-	"symbol": "ANyONe Protocol",
+	"symbol": "ANYONE",
 	"name": "ANyONe Protocol",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/29690/thumb/AirTor.png?1696528623",
 	"coingecko": "airtor-protocol",
 	"sources": [
 		"coingecko"

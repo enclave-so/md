@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x3Ed3B47Dd13EC9a98b44e6204A523E766B225811",
-	"symbol": "Aave USDT",
+	"symbol": "AUSDT",
 	"name": "Aave USDT",
+	"decimals": 6,
+	"logo": "https://assets.coingecko.com/coins/images/14243/thumb/aUSDT.78f5faae.png?1696513958",
 	"coingecko": "aave-usdt",
 	"sources": [
 		"coingecko"

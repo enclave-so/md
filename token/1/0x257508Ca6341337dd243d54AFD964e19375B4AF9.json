@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x257508Ca6341337dd243d54AFD964e19375B4AF9",
-	"symbol": "Oracle Tools",
+	"symbol": "OT",
 	"name": "Oracle Tools",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35582/thumb/IMG_2695.png?1709202522",
 	"coingecko": "oracle-tools",
 	"sources": [
 		"coingecko"

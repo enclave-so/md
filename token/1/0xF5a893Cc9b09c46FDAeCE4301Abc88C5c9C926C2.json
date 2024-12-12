@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0xF5a893Cc9b09c46FDAeCE4301Abc88C5c9C926C2",
+	"symbol": "AVC",
+	"name": "Animalverse Club",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/AVC/logo.png",
+	"sources": [
+		"optimism"
+	]
+}

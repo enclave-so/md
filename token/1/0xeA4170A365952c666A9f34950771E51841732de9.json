@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xeA4170A365952c666A9f34950771E51841732de9",
-	"symbol": "Filter AI",
+	"symbol": "FILTER",
 	"name": "Filter AI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/39298/thumb/filter_ai_token_logo.png?1723688821",
 	"coingecko": "filter-ai",
 	"sources": [
 		"coingecko"

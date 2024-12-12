@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xA67E9F021B9d208F7e3365B2A155E3C55B27de71",
-	"symbol": "KleeKai",
+	"symbol": "KLEE",
 	"name": "KleeKai",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/15548/thumb/Klee-Kai-Logo.png?1696515189",
 	"coingecko": "kleekai",
 	"sources": [
 		"coingecko"

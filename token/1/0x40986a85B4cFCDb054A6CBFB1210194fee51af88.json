@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x40986a85B4cFCDb054A6CBFB1210194fee51af88",
-	"symbol": "UniFarm",
+	"symbol": "UFARM",
 	"name": "UniFarm",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/15247/thumb/ufarm.jpeg?1696514900",
 	"coingecko": "unifarm",
 	"sources": [
 		"coingecko"

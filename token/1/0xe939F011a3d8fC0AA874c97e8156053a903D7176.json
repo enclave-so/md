@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xe939F011a3d8fC0AA874c97e8156053a903D7176",
-	"symbol": "DOLZ.io",
-	"name": "DOLZ.io",
+	"symbol": "DOLZ",
+	"name": "DOLZ io",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/33605/thumb/dolz_200.png?1702510960",
 	"coingecko": "dolz-io",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x0ee27a1f959Ea7EA2aA171A7e2E48FD9f17BB8EB",
-	"symbol": "First GROK AI",
+	"symbol": "GROK",
 	"name": "First GROK AI",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/33005/thumb/Untitled_design_%2829%29.png?1700122635",
 	"coingecko": "first-grok-ai",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xA31B1767e09f842ECFd4bc471Fe44F830E3891AA",
-	"symbol": "Roobee",
+	"symbol": "ROOBEE",
 	"name": "Roobee",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/8791/thumb/Group_11.png?1696508946",
 	"coingecko": "roobee",
 	"sources": [
 		"coingecko"

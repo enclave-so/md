@@ -1,0 +1,11 @@
+{
+	"chain": 56,
+	"address": "0xf07a32Eb035b786898c00bB1C64d8c6F8E7a46D5",
+	"symbol": "WELL",
+	"name": "BitWell Token",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0xf07a32Eb035b786898c00bB1C64d8c6F8E7a46D5.png",
+	"sources": [
+		"pancakeswap"
+	]
+}

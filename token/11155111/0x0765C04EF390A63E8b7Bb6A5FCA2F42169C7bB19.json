@@ -1,0 +1,11 @@
+{
+	"chain": 11155111,
+	"address": "0x0765C04EF390A63E8b7Bb6A5FCA2F42169C7bB19",
+	"symbol": "PRE",
+	"name": "Presearch",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/PRE/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

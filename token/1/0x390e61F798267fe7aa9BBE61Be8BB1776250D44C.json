@@ -3,6 +3,8 @@
 	"address": "0x390e61F798267fe7aa9BBE61Be8BB1776250D44C",
 	"symbol": "T2T2",
 	"name": "T2T2",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/32856/thumb/T2T2.png?1699697712",
 	"coingecko": "t2t2",
 	"sources": [
 		"coingecko"

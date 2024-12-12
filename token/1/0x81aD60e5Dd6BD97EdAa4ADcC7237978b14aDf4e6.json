@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x81aD60e5Dd6BD97EdAa4ADcC7237978b14aDf4e6",
-	"symbol": "O.XYZ",
-	"name": "O.XYZ",
+	"symbol": "O",
+	"name": "O XYZ",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/50765/thumb/ocoin_logo_X2.png?1730699062",
 	"coingecko": "o-xyz",
 	"sources": [
 		"coingecko"

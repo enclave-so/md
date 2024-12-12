@@ -1,0 +1,11 @@
+{
+	"chain": 11155111,
+	"address": "0x70069DBDCde634FAfc827661E579e34194B39D51",
+	"symbol": "TYBENG",
+	"name": "TYBENG",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/TYBENG/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

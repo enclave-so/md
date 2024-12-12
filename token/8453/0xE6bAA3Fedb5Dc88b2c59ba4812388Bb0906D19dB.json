@@ -1,0 +1,11 @@
+{
+	"chain": 8453,
+	"address": "0xE6bAA3Fedb5Dc88b2c59ba4812388Bb0906D19dB",
+	"symbol": "NCT",
+	"name": "PolySwarm",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/NCT/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

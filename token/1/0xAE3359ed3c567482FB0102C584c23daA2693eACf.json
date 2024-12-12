@@ -3,6 +3,8 @@
 	"address": "0xAE3359ed3c567482FB0102C584c23daA2693eACf",
 	"symbol": "DORK",
 	"name": "DORK",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/32704/thumb/Coin_2.png?1698985483",
 	"coingecko": "dork",
 	"sources": [
 		"coingecko"

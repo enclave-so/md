@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0xf2051511B9b121394FA75B8F7d4E7424337af687",
-	"symbol": "DAOhaus",
+	"symbol": "HAUS",
 	"name": "DAOhaus",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14551/thumb/jN3kkqke_400x400.png?1696514234",
 	"coingecko": "daohaus",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

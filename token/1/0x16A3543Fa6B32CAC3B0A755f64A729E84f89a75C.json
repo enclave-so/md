@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x16A3543Fa6B32CAC3B0A755f64A729E84f89a75C",
-	"symbol": "Wrapped Hypertensor",
+	"symbol": "TENSOR",
 	"name": "Wrapped Hypertensor",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/37973/thumb/logo-black.png?1716194699",
 	"coingecko": "wrapped-hypertensor",
 	"sources": [
 		"coingecko"

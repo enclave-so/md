@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x7d64BDe04e64Be1C4CAE808719c1127F2ccC252b",
-	"symbol": "Bully Ze Bull",
+	"symbol": "BULLY",
 	"name": "Bully Ze Bull",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/39196/thumb/1000000143.png?1721018763",
 	"coingecko": "bully-ze-bull",
 	"sources": [
 		"coingecko"

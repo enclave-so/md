@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x136471a34f6ef19fE571EFFC1CA711fdb8E49f2b",
-	"symbol": "Hashnote USYC",
+	"symbol": "USYC",
 	"name": "Hashnote USYC",
+	"decimals": 6,
+	"logo": "https://assets.coingecko.com/coins/images/51054/thumb/Hashnote_SDYC_200x200.png?1730370965",
 	"coingecko": "hashnote-usyc",
 	"sources": [
 		"coingecko"

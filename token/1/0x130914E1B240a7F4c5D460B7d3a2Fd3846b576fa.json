@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x130914E1B240a7F4c5D460B7d3a2Fd3846b576fa",
-	"symbol": "Aureus Nummus Gold",
+	"symbol": "ANG",
 	"name": "Aureus Nummus Gold",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/12134/thumb/AureusNummusGold-logo.png?1696511976",
 	"coingecko": "aureus-nummus-gold",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x1ce270557C1f68Cfb577b856766310Bf8B47FD9C",
-	"symbol": "MongCoin",
+	"symbol": "MONG",
 	"name": "MongCoin",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30051/thumb/BrandMark.png?1721838570",
 	"coingecko": "mongcoin",
 	"sources": [
 		"coingecko"

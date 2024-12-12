@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xE1bAD922F84b198A08292FB600319300ae32471b",
-	"symbol": "Firmachain",
+	"symbol": "FCT",
 	"name": "Firmachain",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/9892/thumb/6mHcLurm_400x400.jpg?1696509941",
 	"coingecko": "firmachain",
 	"sources": [
 		"coingecko"

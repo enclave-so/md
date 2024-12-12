@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xEe2B9b7e168b5b2D40c507b891c7CfB13A6AaF2b",
-	"symbol": "Zygo The Frog",
+	"symbol": "ZYGO",
 	"name": "Zygo The Frog",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/40022/thumb/1000000333.jpg?1725345968",
 	"coingecko": "zygo-the-frog",
 	"sources": [
 		"coingecko"

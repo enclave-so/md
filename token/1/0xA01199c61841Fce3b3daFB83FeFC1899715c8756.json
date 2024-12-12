@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xA01199c61841Fce3b3daFB83FeFC1899715c8756",
-	"symbol": "Cirus",
+	"symbol": "CIRUS",
 	"name": "Cirus",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/17798/thumb/8p0Bvi90_400x400.jpg?1696517320",
 	"coingecko": "cirus",
 	"sources": [
 		"coingecko"

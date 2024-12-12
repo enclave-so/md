@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x6A4402a535d74Bd0C9cDb5Ce2d51822Fc9F6620E",
-	"symbol": "Tomo Cat",
+	"symbol": "TOMO",
 	"name": "Tomo Cat",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/52285/thumb/Tomo_Cat.png?1732952454",
 	"coingecko": "tomo-cat",
 	"sources": [
 		"coingecko"

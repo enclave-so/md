@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x85614A474dBeED440d5BBDB8aC50b0f22367F997",
-	"symbol": "Verge (ETH)",
-	"name": "Verge (ETH)",
+	"symbol": "XVG",
+	"name": "Verge  ETH ",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/32585/thumb/Verge_Token_%28erc-20%29_icon_200x200.jpg?1699220724",
 	"coingecko": "verge-eth",
 	"sources": [
 		"coingecko"

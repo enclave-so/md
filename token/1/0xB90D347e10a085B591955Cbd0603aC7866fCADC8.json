@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xB90D347e10a085B591955Cbd0603aC7866fCADC8",
-	"symbol": "Leveraged CVX",
+	"symbol": "XCVX",
 	"name": "Leveraged CVX",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/39606/thumb/Screenshot_2024-08-07_at_8.31.16_PM-removebg-preview.png?1723065695",
 	"coingecko": "leveraged-cvx",
 	"sources": [
 		"coingecko"

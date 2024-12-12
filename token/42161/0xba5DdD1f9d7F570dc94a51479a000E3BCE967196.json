@@ -1,10 +1,13 @@
 {
 	"chain": 42161,
 	"address": "0xba5DdD1f9d7F570dc94a51479a000E3BCE967196",
-	"symbol": "Aave",
+	"symbol": "AAVE",
 	"name": "Aave",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/12645/thumb/AAVE.png?1601374110",
 	"coingecko": "aave",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"uniswap"
 	]
 }

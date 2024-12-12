@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x7866E48C74CbFB8183cd1a929cd9b95a7a5CB4F4",
-	"symbol": "DexKit",
+	"symbol": "KIT",
 	"name": "DexKit",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/13187/thumb/7739.png?1696512969",
 	"coingecko": "dexkit",
 	"sources": [
 		"coingecko"

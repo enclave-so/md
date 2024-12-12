@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0x0F72964Fa4b766521d84107991E837c30D0EF2b1",
+	"symbol": "TETU",
+	"name": "Tetu Token",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/TETU/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

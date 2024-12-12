@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x917ceE801a67f933F2e6b33fC0cD1ED2d5909D88",
-	"symbol": "ether.fi weETHs",
-	"name": "ether.fi weETHs",
+	"symbol": "WEETHS",
+	"name": "ether fi weETHs",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/40058/thumb/weETHs.jpeg?1725450281",
 	"coingecko": "etherfi-weeths",
 	"sources": [
 		"coingecko"

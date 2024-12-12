@@ -1,36 +1,6 @@
 [
 	{
 		"chain": 13371,
-		"address": "0xb00ed913aAFf8280C17BfF33CcE82fE6D79e85e8",
-		"symbol": "Guild of Guardians",
-		"name": "Guild of Guardians",
-		"coingecko": "guild-of-guardians",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 13371,
-		"address": "0x52A6c53869Ce09a731CD772f245b97A4401d3348",
-		"symbol": "Immutable zkEVM Bridged ETH",
-		"name": "Immutable zkEVM Bridged ETH",
-		"coingecko": "immutable-zkevm-bridged-eth",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 13371,
-		"address": "0xB0d7e9Ff5fb8E739c4990f7920d8047AcfAe4884",
-		"symbol": "Nifty League",
-		"name": "Nifty League",
-		"coingecko": "nifty-league",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 13371,
 		"address": "0x3A0C2Ba54D6CBd3121F01b96dFd20e99D1696C9D",
 		"symbol": "Wrapped IMX",
 		"name": "Wrapped IMX",
@@ -65,6 +35,36 @@
 		"symbol": "Immutable Toolkit Bridged USDT (Immutable zkEVM)",
 		"name": "Immutable Toolkit Bridged USDT (Immutable zkEVM)",
 		"coingecko": "bridged-usdt-immutable-zkevm",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 13371,
+		"address": "0xb00ed913aAFf8280C17BfF33CcE82fE6D79e85e8",
+		"symbol": "Guild of Guardians",
+		"name": "Guild of Guardians",
+		"coingecko": "guild-of-guardians",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 13371,
+		"address": "0x52A6c53869Ce09a731CD772f245b97A4401d3348",
+		"symbol": "Immutable zkEVM Bridged ETH",
+		"name": "Immutable zkEVM Bridged ETH",
+		"coingecko": "immutable-zkevm-bridged-eth",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 13371,
+		"address": "0xB0d7e9Ff5fb8E739c4990f7920d8047AcfAe4884",
+		"symbol": "Nifty League",
+		"name": "Nifty League",
+		"coingecko": "nifty-league",
 		"sources": [
 			"coingecko"
 		]

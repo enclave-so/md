@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x2411802D8BEA09be0aF8fD8D08314a63e706b29C",
-	"symbol": "Fluid Wrapped Staked ETH",
+	"symbol": "FWSTETH",
 	"name": "Fluid Wrapped Staked ETH",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/38032/thumb/fwsteth.png?1716322853",
 	"coingecko": "fluid-wrapped-staked-eth",
 	"sources": [
 		"coingecko"

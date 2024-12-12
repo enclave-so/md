@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xb2e96a63479C2Edd2FD62b382c89D5CA79f572d3",
-	"symbol": "Zenon",
+	"symbol": "ZNN",
 	"name": "Zenon",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/30753/thumb/logo.jpg?1724977101",
 	"coingecko": "zenon-2",
 	"sources": [
 		"coingecko"

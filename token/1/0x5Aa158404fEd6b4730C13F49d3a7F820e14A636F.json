@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x5Aa158404fEd6b4730C13F49d3a7F820e14A636F",
-	"symbol": "ULTRON",
+	"symbol": "ULX",
 	"name": "ULTRON",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/26977/thumb/ULTRON-Profile-Pic.jpg?1696526031",
 	"coingecko": "ultron",
 	"sources": [
 		"coingecko"

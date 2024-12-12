@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x65cCD72c0813CE6f2703593B633202a0F3Ca6a0c",
-	"symbol": "Nestree",
+	"symbol": "EGG",
 	"name": "Nestree",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/9362/thumb/nestree.png?1696509461",
 	"coingecko": "nestree",
 	"sources": [
 		"coingecko"

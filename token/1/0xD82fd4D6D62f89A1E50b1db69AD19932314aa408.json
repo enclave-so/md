@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xD82fd4D6D62f89A1E50b1db69AD19932314aa408",
-	"symbol": "Liquis",
+	"symbol": "LIQ",
 	"name": "Liquis",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31587/thumb/Liqblue.png?1696530404",
 	"coingecko": "liquis",
 	"sources": [
 		"coingecko"

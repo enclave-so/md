@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x3902D5f4213a6b8c434a470026E0C23709A5bB39",
+	"symbol": "SCINET",
+	"name": "SciNet",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/52662/thumb/1000001917.jpg?1734005808",
+	"coingecko": "scinet",
+	"sources": [
+		"coingecko"
+	]
+}

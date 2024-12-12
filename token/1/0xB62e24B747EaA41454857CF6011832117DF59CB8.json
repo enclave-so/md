@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xB62e24B747EaA41454857CF6011832117DF59CB8",
-	"symbol": "Epiko",
+	"symbol": "EPIKO",
 	"name": "Epiko",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31909/thumb/EPIKO_Light_200x200.png?1703118804",
 	"coingecko": "epiko",
 	"sources": [
 		"coingecko"

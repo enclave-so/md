@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x541f9ac587bE412BA0486Ea3dBCF09dC11db76Ce",
-	"symbol": "Nebula",
+	"symbol": "NEBULA",
 	"name": "Nebula",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/50299/thumb/1_optimized.png?1727021102",
 	"coingecko": "nebula-3",
 	"sources": [
 		"coingecko"

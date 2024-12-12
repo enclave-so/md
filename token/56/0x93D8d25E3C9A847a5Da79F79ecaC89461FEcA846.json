@@ -1,0 +1,11 @@
+{
+	"chain": 56,
+	"address": "0x93D8d25E3C9A847a5Da79F79ecaC89461FEcA846",
+	"symbol": "GMI",
+	"name": "Gamifi",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x93D8d25E3C9A847a5Da79F79ecaC89461FEcA846.png",
+	"sources": [
+		"pancakeswap"
+	]
+}

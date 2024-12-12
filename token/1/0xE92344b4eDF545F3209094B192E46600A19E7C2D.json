@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xE92344b4eDF545F3209094B192E46600A19E7C2D",
-	"symbol": "zKML",
+	"symbol": "ZKML",
 	"name": "zKML",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35238/thumb/I66UdAOY_400x400.jpg?1708003991",
 	"coingecko": "zkml",
 	"sources": [
 		"coingecko"

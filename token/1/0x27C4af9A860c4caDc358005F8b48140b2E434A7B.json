@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0x27C4af9A860c4caDc358005F8b48140b2E434A7B",
+	"symbol": "VALX",
+	"name": "Validator",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/VALX/logo.png",
+	"sources": [
+		"optimism"
+	]
+}

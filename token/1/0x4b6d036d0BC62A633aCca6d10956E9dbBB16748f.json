@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x4b6d036d0BC62A633aCca6d10956E9dbBB16748f",
-	"symbol": "Blood Crystal",
+	"symbol": "BC",
 	"name": "Blood Crystal",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35834/thumb/BloodCrystalToken_200x200.png?1709888447",
 	"coingecko": "blood-crystal",
 	"sources": [
 		"coingecko"

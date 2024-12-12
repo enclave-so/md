@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x3Ba925fdeAe6B46d0BB4d424D829982Cb2F7309e",
-	"symbol": "RabbitX",
+	"symbol": "RBX",
 	"name": "RabbitX",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30048/thumb/RBX.png?1696528970",
 	"coingecko": "rabbitx",
 	"sources": [
 		"coingecko"

@@ -8,6 +8,7 @@
 	"coingecko": "dhedge-dao",
 	"sources": [
 		"coingecko",
+		"optimism",
 		"sushiswap"
 	]
 }

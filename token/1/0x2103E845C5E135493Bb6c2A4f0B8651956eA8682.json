@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x2103E845C5E135493Bb6c2A4f0B8651956eA8682",
-	"symbol": "Matrixdock Gold",
+	"symbol": "XAUM",
 	"name": "Matrixdock Gold",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/51962/thumb/xaum_200px_logo_1x.png?1733560735",
 	"coingecko": "matrixdock-gold",
 	"sources": [
 		"coingecko"

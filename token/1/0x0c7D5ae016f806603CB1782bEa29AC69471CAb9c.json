@@ -4,7 +4,7 @@
 	"symbol": "BFC",
 	"name": "Bifrost",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x0c7D5ae016f806603CB1782bEa29AC69471CAb9c/logo.png",
+	"logo": "https://assets.coingecko.com/coins/images/4639/thumb/BFC_Symbol.png?1696505208",
 	"coingecko": "bifrost",
 	"sources": [
 		"coingecko",

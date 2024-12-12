@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x3F91Ad19AF450B44cf5176b4dE719d77CB19EEc7",
-	"symbol": "Luxury Travel Token",
+	"symbol": "LTT",
 	"name": "Luxury Travel Token",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/37545/thumb/LTT_logo_200x200.png?1714733838",
 	"coingecko": "luxury-travel-token",
 	"sources": [
 		"coingecko"

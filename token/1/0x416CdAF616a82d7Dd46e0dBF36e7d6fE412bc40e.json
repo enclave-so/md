@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x416CdAF616a82d7Dd46e0dBF36e7d6fE412bc40e",
-	"symbol": "Luna28",
+	"symbol": "LUNA",
 	"name": "Luna28",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/34777/thumb/Logo_%281%29_%281%29.png?1706071100",
 	"coingecko": "luna28",
 	"sources": [
 		"coingecko"

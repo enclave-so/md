@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x4a621d9f1b19296d1C0f87637b3A8D4978e9bf82",
-	"symbol": "CyberFM",
+	"symbol": "CYFM",
 	"name": "CyberFM",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/5476/thumb/cyberfm.png?1696505952",
 	"coingecko": "cyberfm",
 	"sources": [
 		"coingecko"

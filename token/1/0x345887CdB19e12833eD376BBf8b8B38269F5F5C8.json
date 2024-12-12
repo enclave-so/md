@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x345887CdB19e12833eD376BBf8b8B38269F5F5C8",
-	"symbol": "Carbon Browser",
+	"symbol": "CSIX",
 	"name": "Carbon Browser",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/28905/thumb/csix.png?1696527881",
 	"coingecko": "carbon-browser",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xa0e7626287Bd02Cbe3531C65148261Bf0c0Ed98b",
-	"symbol": "Shill Guard Token",
+	"symbol": "SGT",
 	"name": "Shill Guard Token",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/33176/thumb/SHILL_GUARD_TOKEN_SGT_LOGO.png?1700923841",
 	"coingecko": "shill-guard-token",
 	"sources": [
 		"coingecko"

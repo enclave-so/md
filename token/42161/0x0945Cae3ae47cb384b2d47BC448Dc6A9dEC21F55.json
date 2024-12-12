@@ -1,0 +1,11 @@
+{
+	"chain": 42161,
+	"address": "0x0945Cae3ae47cb384b2d47BC448Dc6A9dEC21F55",
+	"symbol": "T",
+	"name": "Threshold Network",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/22228/thumb/nFPNiSbL_400x400.jpg?1641220340",
+	"sources": [
+		"uniswap"
+	]
+}

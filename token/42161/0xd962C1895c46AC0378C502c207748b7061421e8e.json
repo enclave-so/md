@@ -1,0 +1,11 @@
+{
+	"chain": 42161,
+	"address": "0xd962C1895c46AC0378C502c207748b7061421e8e",
+	"symbol": "OMG",
+	"name": "OMG Network",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/776/thumb/OMG_Network.jpg?1591167168",
+	"sources": [
+		"uniswap"
+	]
+}

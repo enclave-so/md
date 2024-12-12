@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x49C8efD98AC8114DE2fCe73D57e2944aeBD5613D",
-	"symbol": "AnonTech",
+	"symbol": "ATEC",
 	"name": "AnonTech",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/36949/thumb/1000002162.jpg?1712897959",
 	"coingecko": "anontech",
 	"sources": [
 		"coingecko"

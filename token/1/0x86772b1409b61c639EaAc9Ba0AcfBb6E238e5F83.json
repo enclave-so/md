@@ -4,7 +4,7 @@
 	"symbol": "NDX",
 	"name": "Indexed Finance",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x86772b1409b61c639EaAc9Ba0AcfBb6E238e5F83/logo.png",
+	"logo": "https://assets.coingecko.com/coins/images/13546/thumb/indexed-light.74bb5471.png?1696513306",
 	"coingecko": "indexed-finance",
 	"sources": [
 		"coingecko",

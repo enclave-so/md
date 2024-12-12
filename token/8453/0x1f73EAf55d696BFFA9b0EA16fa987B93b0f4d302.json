@@ -1,0 +1,11 @@
+{
+	"chain": 8453,
+	"address": "0x1f73EAf55d696BFFA9b0EA16fa987B93b0f4d302",
+	"symbol": "RPL",
+	"name": "Rocket Pool Protocol",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/RPL/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

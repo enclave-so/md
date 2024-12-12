@@ -1,0 +1,11 @@
+{
+	"chain": 56,
+	"address": "0xe898EDc43920F357A93083F1d4460437dE6dAeC2",
+	"symbol": "TITAN",
+	"name": "TitanSwap",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0xe898EDc43920F357A93083F1d4460437dE6dAeC2.png",
+	"sources": [
+		"pancakeswap"
+	]
+}

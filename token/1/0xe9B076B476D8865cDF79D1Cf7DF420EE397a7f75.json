@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xe9B076B476D8865cDF79D1Cf7DF420EE397a7f75",
-	"symbol": "Unification",
+	"symbol": "FUND",
 	"name": "Unification",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/7845/thumb/DV80FOp.png?1696508079",
 	"coingecko": "unification",
 	"sources": [
 		"coingecko"

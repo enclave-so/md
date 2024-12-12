@@ -3,6 +3,8 @@
 	"address": "0xc98D64DA73a6616c42117b582e832812e7B8D57F",
 	"symbol": "RSS3",
 	"name": "RSS3",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/23575/thumb/rss3.jpeg?1718351333",
 	"coingecko": "rss3",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x8C6bf16C273636523C29Db7DB04396143770F6A0",
-	"symbol": "Moon Rabbit",
+	"symbol": "AAA",
 	"name": "Moon Rabbit",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/17310/thumb/logo_moon_no_inscriptions-01.png?1696516863",
 	"coingecko": "moon-rabbit",
 	"sources": [
 		"coingecko"

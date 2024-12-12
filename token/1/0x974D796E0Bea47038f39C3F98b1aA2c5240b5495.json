@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x974D796E0Bea47038f39C3F98b1aA2c5240b5495",
-	"symbol": "EaveAI",
+	"symbol": "EAVE",
 	"name": "EaveAI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/39295/thumb/eaveai-x-avatar_2x.png?1727772705",
 	"coingecko": "eaveai",
 	"sources": [
 		"coingecko"

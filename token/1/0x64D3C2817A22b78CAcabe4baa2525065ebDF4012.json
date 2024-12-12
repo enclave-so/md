@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x64D3C2817A22b78CAcabe4baa2525065ebDF4012",
-	"symbol": "RaidSharksBot",
+	"symbol": "SHARX",
 	"name": "RaidSharksBot",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/36056/thumb/raidsharkbot-brand-icon-light-circle-colored.png?1710404378",
 	"coingecko": "raidsharksbot",
 	"sources": [
 		"coingecko"

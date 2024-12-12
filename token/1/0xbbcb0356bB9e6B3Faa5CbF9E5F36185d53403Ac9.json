@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xbbcb0356bB9e6B3Faa5CbF9E5F36185d53403Ac9",
-	"symbol": "Backed Coinbase Global",
+	"symbol": "BCOIN",
 	"name": "Backed Coinbase Global",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31872/thumb/b-COIN-200x200.png?1696530684",
 	"coingecko": "backed-coinbase-global",
 	"sources": [
 		"coingecko"

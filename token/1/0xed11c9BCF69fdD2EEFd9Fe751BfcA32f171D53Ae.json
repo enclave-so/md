@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xed11c9BCF69fdD2EEFd9Fe751BfcA32f171D53Ae",
-	"symbol": "Koinos",
+	"symbol": "KOIN",
 	"name": "Koinos",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/13116/thumb/koinos-icon.png?1728587403",
 	"coingecko": "koinos",
 	"sources": [
 		"coingecko"

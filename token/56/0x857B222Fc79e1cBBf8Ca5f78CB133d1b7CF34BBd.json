@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0x857B222Fc79e1cBBf8Ca5f78CB133d1b7CF34BBd",
-	"symbol": "LTO Network",
+	"symbol": "LTO",
 	"name": "LTO Network",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x857B222Fc79e1cBBf8Ca5f78CB133d1b7CF34BBd.png",
 	"coingecko": "lto-network",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

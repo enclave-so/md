@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x2365a4890eD8965E564B7E2D27C38Ba67Fec4C6F",
-	"symbol": "Aave AMM UniWBTCUSDC",
+	"symbol": "AAMMUNIWBTCUSDC",
 	"name": "Aave AMM UniWBTCUSDC",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/17255/thumb/aAmmUniWBTCUSDC.png?1696516811",
 	"coingecko": "aave-amm-uniwbtcusdc",
 	"sources": [
 		"coingecko"

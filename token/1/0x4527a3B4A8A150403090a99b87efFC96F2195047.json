@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x4527a3B4A8A150403090a99b87efFC96F2195047",
-	"symbol": "P2P solutions foundation",
+	"symbol": "P2PS",
 	"name": "P2P solutions foundation",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/2798/thumb/p2ps.png?1696503565",
 	"coingecko": "p2p-solutions-foundation",
 	"sources": [
 		"coingecko"

@@ -1,0 +1,11 @@
+{
+	"chain": 8453,
+	"address": "0x4379c13143Eb91148fF9282CFb2f93536687A45b",
+	"symbol": "$Reach",
+	"name": "Reach",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/REACH/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

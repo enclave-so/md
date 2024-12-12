@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x8E0fE2947752BE0d5ACF73aaE77362Daf79cB379",
-	"symbol": "NFTrade",
+	"symbol": "NFTD",
 	"name": "NFTrade",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/18578/thumb/nftrade.png?1696518055",
 	"coingecko": "nftrade",
 	"sources": [
 		"coingecko"

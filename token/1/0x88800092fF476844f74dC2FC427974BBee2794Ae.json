@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0x88800092fF476844f74dC2FC427974BBee2794Ae",
-	"symbol": "Ambire Wallet",
+	"symbol": "WALLET",
 	"name": "Ambire Wallet",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/23154/thumb/wallet.PNG?1696522445",
 	"coingecko": "ambire-wallet",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

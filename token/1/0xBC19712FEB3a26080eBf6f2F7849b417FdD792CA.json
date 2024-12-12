@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xBC19712FEB3a26080eBf6f2F7849b417FdD792CA",
-	"symbol": "BoringDAO",
+	"symbol": "BORING",
 	"name": "BoringDAO",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/16429/thumb/Tjq3pXEH_400x400.jpg?1696516025",
 	"coingecko": "boringdao",
 	"sources": [
 		"coingecko"

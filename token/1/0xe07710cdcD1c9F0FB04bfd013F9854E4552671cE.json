@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xe07710cdcD1c9F0FB04bfd013F9854E4552671cE",
-	"symbol": "U Coin",
+	"symbol": "U",
 	"name": "U Coin",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/51359/thumb/coingecko.png?1730877953",
 	"coingecko": "u-coin",
 	"sources": [
 		"coingecko"

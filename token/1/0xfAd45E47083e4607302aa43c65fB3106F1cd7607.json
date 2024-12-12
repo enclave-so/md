@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xfAd45E47083e4607302aa43c65fB3106F1cd7607",
-	"symbol": "Hoge Finance",
+	"symbol": "HOGE",
 	"name": "Hoge Finance",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/14360/thumb/hoge.jpg?1696514046",
 	"coingecko": "hoge-finance",
 	"sources": [
 		"coingecko"

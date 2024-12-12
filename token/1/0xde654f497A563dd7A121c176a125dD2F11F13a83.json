@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xde654f497A563dd7A121c176a125dD2F11F13a83",
-	"symbol": "WeatherXM",
+	"symbol": "WXM",
 	"name": "WeatherXM",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/38154/thumb/weatherxm-network-logo.png?1716668976",
 	"coingecko": "weatherxm-network",
 	"sources": [
 		"coingecko"

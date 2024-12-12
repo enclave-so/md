@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x482dF7483a52496F4C65AB499966dfcdf4DDFDbc",
-	"symbol": "Ledgity Token",
+	"symbol": "LDY",
 	"name": "Ledgity Token",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35046/thumb/ldy-token.png?1707204910",
 	"coingecko": "ledgity-token",
 	"sources": [
 		"coingecko"

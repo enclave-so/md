@@ -1,0 +1,11 @@
+{
+	"chain": 56,
+	"address": "0xe2aE1a99bBd2eFab0a5C38f2146B7aCE61aBC5cE",
+	"symbol": "ordi",
+	"name": "ordi",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0xe2aE1a99bBd2eFab0a5C38f2146B7aCE61aBC5cE.png",
+	"sources": [
+		"pancakeswap"
+	]
+}

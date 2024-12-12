@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xE99379955b676D5a7EBE3F42F2B684796e48D437",
-	"symbol": "EGG ETH",
+	"symbol": "EGG",
 	"name": "EGG ETH",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35388/thumb/eggcoingecko.png?1708450304",
 	"coingecko": "egg-eth",
 	"sources": [
 		"coingecko"

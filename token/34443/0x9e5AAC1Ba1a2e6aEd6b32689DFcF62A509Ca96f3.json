@@ -1,0 +1,11 @@
+{
+	"chain": 34443,
+	"address": "0x9e5AAC1Ba1a2e6aEd6b32689DFcF62A509Ca96f3",
+	"symbol": "SNX",
+	"name": "Synthetix",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/SNX/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

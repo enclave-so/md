@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x2A762B4587197119539ca675f7C8B214CF9EdA73",
-	"symbol": "Unknown AI",
+	"symbol": "UNAI",
 	"name": "Unknown AI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/50254/thumb/file.png?1726722077",
 	"coingecko": "unknown-ai",
 	"sources": [
 		"coingecko"

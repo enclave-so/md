@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xe1CAd79759243934Db8E36C605261f37f9b141Bd",
-	"symbol": "Peach",
+	"symbol": "PCH",
 	"name": "Peach",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/34453/thumb/Peach_logo.png?1704931274",
 	"coingecko": "peach-2",
 	"sources": [
 		"coingecko"

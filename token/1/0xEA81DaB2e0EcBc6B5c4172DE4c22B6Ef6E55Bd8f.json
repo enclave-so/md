@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xEA81DaB2e0EcBc6B5c4172DE4c22B6Ef6E55Bd8f",
-	"symbol": "Plebbit",
+	"symbol": "PLEB",
 	"name": "Plebbit",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31903/thumb/WgMdNjT4_400x400.png?1696530713",
 	"coingecko": "plebbit",
 	"sources": [
 		"coingecko"

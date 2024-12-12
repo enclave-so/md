@@ -1,10 +1,13 @@
 {
 	"chain": 8453,
 	"address": "0xd652C5425aea2Afd5fb142e120FeCf79e18fafc3",
-	"symbol": "PoolTogether",
+	"symbol": "POOL",
 	"name": "PoolTogether",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/POOL/logo.svg",
 	"coingecko": "pooltogether",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xA57Ed6E54be8125BBE45D6cA330E45EbB71ef11e",
-	"symbol": "NEWPEPE",
+	"symbol": "PEPE",
 	"name": "NEWPEPE",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31729/thumb/photo_2023-09-12_02-04-48_%282%29.jpg?1696530549",
 	"coingecko": "newpepe",
 	"sources": [
 		"coingecko"

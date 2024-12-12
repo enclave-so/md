@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xb8D6196D71cdd7D90A053a7769a077772aAac464",
-	"symbol": "Mars",
+	"symbol": "MARS",
 	"name": "Mars",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/50353/thumb/1000000603.jpg?1727281973",
 	"coingecko": "mars-2",
 	"sources": [
 		"coingecko"

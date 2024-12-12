@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xF55cD1e399e1cc3D95303048897a680be3313308",
-	"symbol": "Maximus TRIO",
+	"symbol": "TRIO",
 	"name": "Maximus TRIO",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/27684/thumb/IMG_1127.PNG?1696526712",
 	"coingecko": "maximus-trio",
 	"sources": [
 		"coingecko"

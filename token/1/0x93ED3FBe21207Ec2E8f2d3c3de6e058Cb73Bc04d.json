@@ -2,9 +2,9 @@
 	"chain": 1,
 	"address": "0x93ED3FBe21207Ec2E8f2d3c3de6e058Cb73Bc04d",
 	"symbol": "PNK",
-	"name": "Pinakion",
+	"name": "Kleros",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x93ED3FBe21207Ec2E8f2d3c3de6e058Cb73Bc04d/logo.png",
+	"logo": "https://assets.coingecko.com/coins/images/3833/thumb/kleros.png?1696504500",
 	"coingecko": "kleros",
 	"sources": [
 		"coingecko",

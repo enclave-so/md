@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0x55b2CFcfe99110C773f00b023560DD9ef6C8A13B",
-	"symbol": "Index Coop CoinDesk ETH Trend Index",
+	"symbol": "CDETI",
 	"name": "Index Coop CoinDesk ETH Trend Index",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/32358/thumb/cdETI-logo.png?1697940129",
 	"coingecko": "index-coop-coindesk-eth-trend-index",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"indexcoop"
 	]
 }

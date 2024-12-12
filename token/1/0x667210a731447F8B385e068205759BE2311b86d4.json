@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x667210a731447F8B385e068205759BE2311b86d4",
-	"symbol": "ETF The Token",
+	"symbol": "ETF",
 	"name": "ETF The Token",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31892/thumb/%E2%96%B2_%282%29.png?1696530703",
 	"coingecko": "etf-the-token",
 	"sources": [
 		"coingecko"

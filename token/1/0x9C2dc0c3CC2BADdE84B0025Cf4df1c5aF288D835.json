@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x9C2dc0c3CC2BADdE84B0025Cf4df1c5aF288D835",
-	"symbol": "Coreto",
+	"symbol": "COR",
 	"name": "Coreto",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/12856/thumb/COR.png?1696512646",
 	"coingecko": "coreto",
 	"sources": [
 		"coingecko"

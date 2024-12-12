@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xcf9560B9E952b195D408BE966E4f6Cf4Ab8206E5",
-	"symbol": "Doctor Evil",
+	"symbol": "EVIL",
 	"name": "Doctor Evil",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31240/thumb/EvilLogo200x200.png?1696530066",
 	"coingecko": "doctor-evil",
 	"sources": [
 		"coingecko"

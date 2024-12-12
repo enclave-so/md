@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xd0D56273290D339aaF1417D9bfa1bb8cFe8A0933",
-	"symbol": "Foom",
+	"symbol": "FOOM",
 	"name": "Foom",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31308/thumb/f.png?1696530127",
 	"coingecko": "foom",
 	"sources": [
 		"coingecko"

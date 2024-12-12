@@ -4,8 +4,9 @@
 	"symbol": "mGOOGL",
 	"name": "Mirror GOOGL Token",
 	"decimals": 18,
-	"logo": "https://bscscan.com/token/images/mirror-google_32.png",
+	"logo": "https://tokens.pancakeswap.finance/images/0x62D71B23bF15218C7d2D7E48DBbD9e9c650B173f.png",
 	"sources": [
+		"pancakeswap",
 		"sushiswap"
 	]
 }

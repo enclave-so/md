@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x8052327F1BAF94A9DC8B26b9100f211eE3774f54",
-	"symbol": "A2DAO",
+	"symbol": "ATD",
 	"name": "A2DAO",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14509/thumb/Logo.jpg?1696514195",
 	"coingecko": "catapult",
 	"sources": [
 		"coingecko"

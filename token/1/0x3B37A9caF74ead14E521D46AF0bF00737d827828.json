@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x3B37A9caF74ead14E521D46AF0bF00737d827828",
-	"symbol": "History of Pepe",
+	"symbol": "HOPE",
 	"name": "History of Pepe",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/38014/thumb/Hope1.png?1716276210",
 	"coingecko": "history-of-pepe",
 	"sources": [
 		"coingecko"

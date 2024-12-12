@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x1b900b2cDe13B384F89d6DD697dc03ac61C702BB",
-	"symbol": "What the Duck",
+	"symbol": "WHAT",
 	"name": "What the Duck",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/39101/thumb/0x1b900b2cde13b384f89d6dd697dc03ac61c702bb_%281%29_%281%29.jpg?1720509591",
 	"coingecko": "what-the-duck",
 	"sources": [
 		"coingecko"

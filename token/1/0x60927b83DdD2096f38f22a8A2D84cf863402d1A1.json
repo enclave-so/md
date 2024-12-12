@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x60927b83DdD2096f38f22a8A2D84cf863402d1A1",
-	"symbol": "Eternal AI",
+	"symbol": "MIND",
 	"name": "Eternal AI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/33340/thumb/download.png?1701525697",
 	"coingecko": "eternal-ai",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x990E081A7B7d3Ccba26a2f49746A68CC4fF73280",
-	"symbol": "KStarCoin",
+	"symbol": "KSC",
 	"name": "KStarCoin",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/1630/thumb/ksc.png?1696502658",
 	"coingecko": "kstarcoin",
 	"sources": [
 		"coingecko"

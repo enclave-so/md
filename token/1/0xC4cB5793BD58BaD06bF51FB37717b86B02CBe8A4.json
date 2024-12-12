@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xC4cB5793BD58BaD06bF51FB37717b86B02CBe8A4",
-	"symbol": "PROXI DeFi",
+	"symbol": "CREDIT",
 	"name": "PROXI DeFi",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/12212/thumb/_credit.png?1696512046",
 	"coingecko": "credit-2",
 	"sources": [
 		"coingecko"

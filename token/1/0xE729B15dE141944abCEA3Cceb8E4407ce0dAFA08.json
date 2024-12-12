@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xE729B15dE141944abCEA3Cceb8E4407ce0dAFA08",
-	"symbol": "Mojo Meme",
+	"symbol": "MOJO",
 	"name": "Mojo Meme",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/50367/thumb/MOJO2.png?1727370938",
 	"coingecko": "mojo-meme",
 	"sources": [
 		"coingecko"

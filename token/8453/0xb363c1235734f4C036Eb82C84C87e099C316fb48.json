@@ -1,0 +1,11 @@
+{
+	"chain": 8453,
+	"address": "0xb363c1235734f4C036Eb82C84C87e099C316fb48",
+	"symbol": "THX",
+	"name": "THX Network",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/THX/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

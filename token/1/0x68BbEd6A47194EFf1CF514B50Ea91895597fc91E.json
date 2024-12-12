@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x68BbEd6A47194EFf1CF514B50Ea91895597fc91E",
-	"symbol": "ANDY ETH",
+	"symbol": "ANDY",
 	"name": "ANDY ETH",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35910/thumb/IMG_20240309_044840_797.jpg?1710179397",
 	"coingecko": "andy-the-wisguy",
 	"sources": [
 		"coingecko"

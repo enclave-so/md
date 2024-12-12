@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xe19f85c920B572cA48942315B06D6cAc86585c87",
-	"symbol": "PLEB Token",
+	"symbol": "PLEB",
 	"name": "PLEB Token",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/29923/thumb/PLEBToken.png?1696528851",
 	"coingecko": "pleb-token",
 	"sources": [
 		"coingecko"

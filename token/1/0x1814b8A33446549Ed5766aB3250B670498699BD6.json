@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x1814b8A33446549Ed5766aB3250B670498699BD6",
-	"symbol": "InnoviaTrust",
+	"symbol": "INVA",
 	"name": "InnoviaTrust",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/37425/thumb/INVA_EYE_200x200.png?1731044935",
 	"coingecko": "innoviatrust",
 	"sources": [
 		"coingecko"

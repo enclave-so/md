@@ -1,0 +1,11 @@
+{
+	"chain": 10,
+	"address": "0xFC2E6e6BCbd49ccf3A5f029c79984372DcBFE527",
+	"symbol": "OLAS",
+	"name": "Autonolas",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/OLAS/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

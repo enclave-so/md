@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0x3Fcca8648651E5b974DD6d3e50F61567779772A8",
-	"symbol": "Moonpot",
+	"symbol": "POTS",
 	"name": "Moonpot",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x3Fcca8648651E5b974DD6d3e50F61567779772A8.png",
 	"coingecko": "moonpot",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

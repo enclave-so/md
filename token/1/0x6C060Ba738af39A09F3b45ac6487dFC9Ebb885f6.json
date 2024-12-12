@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x6C060Ba738af39A09F3b45ac6487dFC9Ebb885f6",
-	"symbol": "rsERG",
+	"symbol": "RSERG",
 	"name": "rsERG",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/51002/thumb/symbol_bold__1080px__black.png?1729700748",
 	"coingecko": "rserg",
 	"sources": [
 		"coingecko"

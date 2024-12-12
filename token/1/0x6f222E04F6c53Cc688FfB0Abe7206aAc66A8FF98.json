@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x6f222E04F6c53Cc688FfB0Abe7206aAc66A8FF98",
-	"symbol": "Roko Network",
+	"symbol": "ROKO",
 	"name": "Roko Network",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/29427/thumb/1.618_200.jpg?1696528376",
 	"coingecko": "roko-network",
 	"sources": [
 		"coingecko"

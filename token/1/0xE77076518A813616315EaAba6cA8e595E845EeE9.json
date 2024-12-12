@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xE77076518A813616315EaAba6cA8e595E845EeE9",
-	"symbol": "ether.fi Staked EIGEN",
-	"name": "ether.fi Staked EIGEN",
+	"symbol": "EEIGEN",
+	"name": "ether fi Staked EIGEN",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/50838/thumb/eEIGEN-200x200.png?1729294443",
 	"coingecko": "ether-fi-staked-eigen",
 	"sources": [
 		"coingecko"

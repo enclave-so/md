@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0x9573c88aE3e37508f87649f87c4dd5373C9F31e0",
-	"symbol": "Monsta Infinite",
+	"symbol": "MONI",
 	"name": "Monsta Infinite",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x9573c88aE3e37508f87649f87c4dd5373C9F31e0.png",
 	"coingecko": "monsta-infinite",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

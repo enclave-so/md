@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xD9A442856C234a39a81a089C06451EBAa4306a72",
-	"symbol": "pufETH",
+	"symbol": "PUFETH",
 	"name": "pufETH",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35176/thumb/pufETH-200-200-resolution.png?1707753174",
 	"coingecko": "pufeth",
 	"sources": [
 		"coingecko"

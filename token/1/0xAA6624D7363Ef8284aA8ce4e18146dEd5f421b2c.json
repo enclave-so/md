@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xAA6624D7363Ef8284aA8ce4e18146dEd5f421b2c",
-	"symbol": "Bitcoin Dogs",
+	"symbol": "0DOG",
 	"name": "Bitcoin Dogs",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/39840/thumb/0DOG.png?1724288227",
 	"coingecko": "0dog",
 	"sources": [
 		"coingecko"

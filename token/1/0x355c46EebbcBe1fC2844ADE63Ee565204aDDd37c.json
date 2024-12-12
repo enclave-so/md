@@ -3,6 +3,8 @@
 	"address": "0x355c46EebbcBe1fC2844ADE63Ee565204aDDd37c",
 	"symbol": "URANUS",
 	"name": "URANUS",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/50423/thumb/CG_logo.png?1727686956",
 	"coingecko": "uranus-2",
 	"sources": [
 		"coingecko"

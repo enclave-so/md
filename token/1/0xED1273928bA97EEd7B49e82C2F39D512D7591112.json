@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xED1273928bA97EEd7B49e82C2F39D512D7591112",
-	"symbol": "NerdBot",
+	"symbol": "NERD",
 	"name": "NerdBot",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/32386/thumb/nerdbot.png?1698047412",
 	"coingecko": "nerdbot",
 	"sources": [
 		"coingecko"

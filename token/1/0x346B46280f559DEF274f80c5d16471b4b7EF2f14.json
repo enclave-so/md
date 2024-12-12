@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x346B46280f559DEF274f80c5d16471b4b7EF2f14",
-	"symbol": "StorageChain",
+	"symbol": "WSTOR",
 	"name": "StorageChain",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/33844/thumb/coinmarketcaplogo.png?1703121289",
 	"coingecko": "storagechain",
 	"sources": [
 		"coingecko"

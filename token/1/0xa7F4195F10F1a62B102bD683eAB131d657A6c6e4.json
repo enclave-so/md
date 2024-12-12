@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xa7F4195F10F1a62B102bD683eAB131d657A6c6e4",
-	"symbol": "MoonBag",
+	"symbol": "MBAG",
 	"name": "MoonBag",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/50685/thumb/moonbag.png?1728776890",
 	"coingecko": "moonbag",
 	"sources": [
 		"coingecko"

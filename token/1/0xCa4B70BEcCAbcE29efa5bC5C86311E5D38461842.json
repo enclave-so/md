@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xCa4B70BEcCAbcE29efa5bC5C86311E5D38461842",
-	"symbol": "Sybulls",
+	"symbol": "SYBL",
 	"name": "Sybulls",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31316/thumb/sybulls.png?1696530135",
 	"coingecko": "sybulls",
 	"sources": [
 		"coingecko"

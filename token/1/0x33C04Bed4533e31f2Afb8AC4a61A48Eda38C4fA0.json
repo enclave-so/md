@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x33C04Bed4533e31f2Afb8AC4a61A48Eda38C4fA0",
-	"symbol": "Gorilla",
+	"symbol": "GORILLA",
 	"name": "Gorilla",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/33006/thumb/IMG_20231110_124057_942.jpg?1700123171",
 	"coingecko": "gorilla",
 	"sources": [
 		"coingecko"

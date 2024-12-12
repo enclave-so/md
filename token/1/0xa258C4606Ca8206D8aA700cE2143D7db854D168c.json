@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xa258C4606Ca8206D8aA700cE2143D7db854D168c",
-	"symbol": "WETH yVault",
+	"symbol": "YVWETH",
 	"name": "WETH yVault",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/28793/thumb/yvWETH-128-0xa258C4606Ca8206D8aA700cE2143D7db854D168c.png?1696527771",
 	"coingecko": "weth-yvault",
 	"sources": [
 		"coingecko"

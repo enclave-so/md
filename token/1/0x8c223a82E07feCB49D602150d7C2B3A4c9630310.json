@@ -4,8 +4,9 @@
 	"symbol": "NFTE",
 	"name": "NFTEarthOFT",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x8c223a82E07feCB49D602150d7C2B3A4c9630310.jpg",
+	"logo": "https://ethereum-optimism.github.io/data/NFTE/logo.png",
 	"sources": [
+		"optimism",
 		"sushiswap"
 	]
 }

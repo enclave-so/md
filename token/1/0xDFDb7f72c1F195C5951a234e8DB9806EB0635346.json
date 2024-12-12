@@ -4,10 +4,11 @@
 	"symbol": "NFD",
 	"name": "Feisty Doge NFT",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xDFDb7f72c1F195C5951a234e8DB9806EB0635346/logo.png",
+	"logo": "https://assets.coingecko.com/coins/images/17834/thumb/doge-fractionalized.png?1696517355",
 	"coingecko": "feisty-doge-nft",
 	"sources": [
 		"coingecko",
+		"optimism",
 		"sushiswap"
 	]
 }

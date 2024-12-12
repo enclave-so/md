@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x31c2415c946928e9FD1Af83cdFA38d3eDBD4326f",
-	"symbol": "MADworld",
+	"symbol": "UMAD",
 	"name": "MADworld",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/20939/thumb/UMAD_.png?1696520328",
 	"coingecko": "madworld",
 	"sources": [
 		"coingecko"

@@ -1,0 +1,11 @@
+{
+	"chain": 42161,
+	"address": "0xe018C7a3d175Fb0fE15D70Da2c874d3CA16313EC",
+	"symbol": "STG",
+	"name": "Stargate Finance",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/24413/thumb/STG_LOGO.png?1647654518",
+	"sources": [
+		"uniswap"
+	]
+}

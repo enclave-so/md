@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x37A2f8701856a78DE92DBe35dF2200c355EAe090",
-	"symbol": "QuantoSwap",
+	"symbol": "QNS",
 	"name": "QuantoSwap",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/37741/thumb/Jg0wqCPy_400x400.jpg?1715358668",
 	"coingecko": "quantoswap",
 	"sources": [
 		"coingecko"

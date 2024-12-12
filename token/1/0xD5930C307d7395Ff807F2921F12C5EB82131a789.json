@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xD5930C307d7395Ff807F2921F12C5EB82131a789",
-	"symbol": "Bolt",
+	"symbol": "BOLT",
 	"name": "Bolt",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/4489/thumb/bolt.png?1696505078",
 	"coingecko": "bolt",
 	"sources": [
 		"coingecko"

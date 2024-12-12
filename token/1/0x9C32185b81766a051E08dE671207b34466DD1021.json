@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x9C32185b81766a051E08dE671207b34466DD1021",
-	"symbol": "BTC Proxy",
+	"symbol": "BTCPX",
 	"name": "BTC Proxy",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/22630/thumb/MB1aYO7T_400x400.jpg?1696521945",
 	"coingecko": "btc-proxy",
 	"sources": [
 		"coingecko"

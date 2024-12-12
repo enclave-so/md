@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x38cF6Cea814aefD01027A0bBF8a78B7Aa95A698E",
-	"symbol": "Bypass",
+	"symbol": "BYPASS",
 	"name": "Bypass",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/32716/thumb/0x38cf6cea814aefd01027a0bbf8a78b7aa95a698e.jpg?1699000988",
 	"coingecko": "bypass",
 	"sources": [
 		"coingecko"

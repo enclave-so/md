@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x5E8C8A7243651DB1384C0dDfDbE39761E8e7E51a",
-	"symbol": "Aave v3 LINK",
+	"symbol": "ALINK",
 	"name": "Aave v3 LINK",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/32888/thumb/link.png?1699773900",
 	"coingecko": "aave-v3-link",
 	"sources": [
 		"coingecko"

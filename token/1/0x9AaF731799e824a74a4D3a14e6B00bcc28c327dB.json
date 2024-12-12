@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x9AaF731799e824a74a4D3a14e6B00bcc28c327dB",
-	"symbol": "Jable",
+	"symbol": "JAB",
 	"name": "Jable",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/32131/thumb/Jab.png?1696588461",
 	"coingecko": "jable",
 	"sources": [
 		"coingecko"

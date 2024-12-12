@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xB13dE094Cc5CEe6C4cC0A3737bf0290166D9Ca5D",
-	"symbol": "GoWithMi",
+	"symbol": "GMAT",
 	"name": "GoWithMi",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/7162/thumb/qXNbxVny_400x400.png?1696507459",
 	"coingecko": "gowithmi",
 	"sources": [
 		"coingecko"

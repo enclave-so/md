@@ -3,6 +3,8 @@
 	"address": "0x881d4C8618D68872fA404518B2460eA839A02a6a",
 	"symbol": "YAWN",
 	"name": "YAWN",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/39497/thumb/YAWN.png?1722578921",
 	"coingecko": "yawn",
 	"sources": [
 		"coingecko"

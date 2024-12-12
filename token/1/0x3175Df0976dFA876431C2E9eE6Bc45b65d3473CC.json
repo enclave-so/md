@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x3175Df0976dFA876431C2E9eE6Bc45b65d3473CC",
-	"symbol": "Curve.fi FRAX/USDC",
-	"name": "Curve.fi FRAX/USDC",
+	"symbol": "CRVFRAX",
+	"name": "Curve fi FRAX USDC",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/26829/thumb/W1sQNVWo_400x400.jpeg?1696525888",
 	"coingecko": "curve-fi-frax-usdc",
 	"sources": [
 		"coingecko"

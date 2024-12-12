@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x8390a1DA07E376ef7aDd4Be859BA74Fb83aA02D5",
-	"symbol": "Grok",
+	"symbol": "GROK",
 	"name": "Grok",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/32788/thumb/GROK.png?1707579427",
 	"coingecko": "grok-2",
 	"sources": [
 		"coingecko"

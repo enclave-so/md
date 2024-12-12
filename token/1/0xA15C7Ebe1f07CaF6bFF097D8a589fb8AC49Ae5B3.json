@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xA15C7Ebe1f07CaF6bFF097D8a589fb8AC49Ae5B3",
-	"symbol": "Pundi X [OLD]",
-	"name": "Pundi X [OLD]",
+	"symbol": "NPXS",
+	"name": "Pundi X  OLD ",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/2170/thumb/pundi-x.png?1696503130",
 	"coingecko": "pundi-x",
 	"sources": [
 		"coingecko"

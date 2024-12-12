@@ -2,9 +2,9 @@
 	"chain": 1,
 	"address": "0xEE2a03Aa6Dacf51C18679C516ad5283d8E7C2637",
 	"symbol": "NEIRO",
-	"name": "Neiro",
+	"name": "Neiro on ETH",
 	"decimals": 9,
-	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xEE2a03Aa6Dacf51C18679C516ad5283d8E7C2637.jpg",
+	"logo": "https://assets.coingecko.com/coins/images/39438/thumb/Neiro.png?1722915026",
 	"coingecko": "neiro-on-eth",
 	"sources": [
 		"coingecko",

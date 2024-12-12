@@ -3,6 +3,8 @@
 	"address": "0x378E1BE15BE6d6D1f23Cfe7090b6a77660dBF14d",
 	"symbol": "FOXE",
 	"name": "FOXE",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30227/thumb/foxe.jpeg?1696529137",
 	"coingecko": "foxe",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xb435A47eCea7F5366b2520e45B9beD7E01d2FFAe",
-	"symbol": "The Nemesis",
+	"symbol": "NEMS",
 	"name": "The Nemesis",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30590/thumb/nems.png?1696529458",
 	"coingecko": "the-nemesis",
 	"sources": [
 		"coingecko"

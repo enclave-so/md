@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x80122c6a83C8202Ea365233363d3f4837D13e888",
-	"symbol": "MESSIER",
+	"symbol": "M87",
 	"name": "MESSIER",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/25957/thumb/MESSIERlogonew_%281%29.png?1696525036",
 	"coingecko": "messier",
 	"sources": [
 		"coingecko"

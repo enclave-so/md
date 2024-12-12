@@ -2,9 +2,12 @@
 	"chain": 56,
 	"address": "0x4BA0057f784858a48fe351445C672FF2a3d43515",
 	"symbol": "KALM",
-	"name": "KALM",
+	"name": "Kalmar",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x4BA0057f784858a48fe351445C672FF2a3d43515.png",
 	"coingecko": "kalmar",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

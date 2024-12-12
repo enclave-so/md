@@ -1,0 +1,11 @@
+{
+	"chain": 42161,
+	"address": "0xCf78572A8fE97b2B9a4B9709f6a7D9a863c1b8E0",
+	"symbol": "RARI",
+	"name": "Rarible",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/11845/thumb/Rari.png?1594946953",
+	"sources": [
+		"uniswap"
+	]
+}

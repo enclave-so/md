@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x4c3bAe16c79c30eEB1004Fb03C878d89695e3a99",
-	"symbol": "Autumn",
+	"symbol": "AUTUMN",
 	"name": "Autumn",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/25366/thumb/autumn.png?1696524499",
 	"coingecko": "autumn",
 	"sources": [
 		"coingecko"

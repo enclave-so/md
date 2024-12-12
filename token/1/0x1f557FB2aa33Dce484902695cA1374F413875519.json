@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x1f557FB2aa33Dce484902695cA1374F413875519",
-	"symbol": "Vestate",
+	"symbol": "VES",
 	"name": "Vestate",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35475/thumb/IMG_0759.png?1708772732",
 	"coingecko": "vestate",
 	"sources": [
 		"coingecko"

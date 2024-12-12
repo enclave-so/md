@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x72fc1c1C926bD26712F62e7485392Cd405478F05",
-	"symbol": "Bark Gas Token",
+	"symbol": "BARK",
 	"name": "Bark Gas Token",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/34562/thumb/Bark_Gas_Token.png?1705400669",
 	"coingecko": "bark-gas-token",
 	"sources": [
 		"coingecko"

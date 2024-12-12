@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0x56072C95FAA701256059aa122697B133aDEd9279",
-	"symbol": "Sky",
-	"name": "Sky",
+	"symbol": "SKY",
+	"name": "SKY Governance Token",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/39925/large/sky.jpg?1724827980",
 	"coingecko": "sky",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"uniswap"
 	]
 }

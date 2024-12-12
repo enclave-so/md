@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x9d7630aDF7ab0b0CB00Af747Db76864df0EC82E4",
-	"symbol": "GATENet",
+	"symbol": "GATE",
 	"name": "GATENet",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/16009/thumb/82168105.png?1696515621",
 	"coingecko": "gatenet",
 	"sources": [
 		"coingecko"

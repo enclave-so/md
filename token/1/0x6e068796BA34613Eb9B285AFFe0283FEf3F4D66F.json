@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x6e068796BA34613Eb9B285AFFe0283FEf3F4D66F",
-	"symbol": "Steve",
+	"symbol": "STEVE",
 	"name": "Steve",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/39051/thumb/IMG_20240703_232953_263.png?1720123262",
 	"coingecko": "steve-2",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x9D39A5DE30e57443BfF2A8307A4256c8797A3497",
-	"symbol": "Ethena Staked USDe",
+	"symbol": "SUSDE",
 	"name": "Ethena Staked USDe",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/33669/thumb/sUSDe-Symbol-Color.png?1716307680",
 	"coingecko": "ethena-staked-usde",
 	"sources": [
 		"coingecko"

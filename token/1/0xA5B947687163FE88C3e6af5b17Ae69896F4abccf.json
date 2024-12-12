@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xA5B947687163FE88C3e6af5b17Ae69896F4abccf",
-	"symbol": "Poseidon",
+	"symbol": "PSDN",
 	"name": "Poseidon",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/25316/thumb/psdn_32.png?1696524451",
 	"coingecko": "poseidon-2",
 	"sources": [
 		"coingecko"

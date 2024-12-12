@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0x423071774C43c0Aaf4210b439E7CDA8c797e2F26",
-	"symbol": "GALAXIS Token",
+	"symbol": "GALAXIS",
 	"name": "GALAXIS Token",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/36221/thumb/500x500.png?1714755244",
 	"coingecko": "galaxis-token",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

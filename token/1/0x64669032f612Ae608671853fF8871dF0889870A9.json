@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x64669032f612Ae608671853fF8871dF0889870A9",
-	"symbol": "INUGAMES",
+	"symbol": "INU",
 	"name": "INUGAMES",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/52400/thumb/new-inu-icon-200.png?1733298668",
 	"coingecko": "inugames",
 	"sources": [
 		"coingecko"

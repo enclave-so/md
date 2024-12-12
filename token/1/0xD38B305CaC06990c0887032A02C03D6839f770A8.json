@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xD38B305CaC06990c0887032A02C03D6839f770A8",
-	"symbol": "Legacy Token",
+	"symbol": "LGCT",
 	"name": "Legacy Token",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/50673/thumb/token2d.jpg?1728682508",
 	"coingecko": "legacy-token",
 	"sources": [
 		"coingecko"

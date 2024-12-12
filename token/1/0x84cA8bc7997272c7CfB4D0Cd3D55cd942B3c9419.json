@@ -4,10 +4,11 @@
 	"symbol": "DIA",
 	"name": "DIA",
 	"decimals": 18,
-	"logo": "https://assets.coingecko.com/coins/images/11955/small/DIA-icon-colour_%281%29.png?1596423488",
+	"logo": "https://assets.coingecko.com/coins/images/11955/thumb/image.png?1646041751",
 	"coingecko": "dia-data",
 	"sources": [
 		"coingecko",
-		"sushiswap"
+		"sushiswap",
+		"uniswap"
 	]
 }

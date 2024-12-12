@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0xD48474E7444727bF500a32D5AbE01943f3A59A64",
-	"symbol": "BitBook",
+	"symbol": "BBT",
 	"name": "BitBook",
+	"decimals": 8,
+	"logo": "https://tokens.pancakeswap.finance/images/0xD48474E7444727bF500a32D5AbE01943f3A59A64.png",
 	"coingecko": "bitbook-token",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

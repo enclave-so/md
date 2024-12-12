@@ -1,10 +1,13 @@
 {
 	"chain": 43114,
 	"address": "0x9Fb9a33956351cf4fa040f65A13b835A3C8764E3",
-	"symbol": "Multichain",
+	"symbol": "MULTI",
 	"name": "Multichain",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/22087/thumb/1_Wyot-SDGZuxbjdkaOeT2-A.png?1640764238",
 	"coingecko": "multichain",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"uniswap"
 	]
 }

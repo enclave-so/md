@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x8e42FE26FC1697f57076C9f2A8d1FF69Cf7F6Fda",
-	"symbol": "Aguri-Chan",
-	"name": "Aguri-Chan",
+	"symbol": "AGURI",
+	"name": "Aguri Chan",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/50227/thumb/1000000487.jpg?1726556528",
 	"coingecko": "aguri-chan",
 	"sources": [
 		"coingecko"

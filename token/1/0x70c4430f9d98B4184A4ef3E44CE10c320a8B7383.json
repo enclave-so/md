@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x70c4430f9d98B4184A4ef3E44CE10c320a8B7383",
-	"symbol": "Gyroscope",
+	"symbol": "GYFI",
 	"name": "Gyroscope",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/23584/thumb/Gyroscope_logo_transparent.png?1696522792",
 	"coingecko": "gyroscope",
 	"sources": [
 		"coingecko"

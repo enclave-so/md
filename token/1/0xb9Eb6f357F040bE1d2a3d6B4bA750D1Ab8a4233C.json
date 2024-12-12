@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xb9Eb6f357F040bE1d2a3d6B4bA750D1Ab8a4233C",
-	"symbol": "Fresco",
+	"symbol": "FRESCO",
 	"name": "Fresco",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/38462/thumb/20240603_150308.png?1717604775",
 	"coingecko": "fresco",
 	"sources": [
 		"coingecko"

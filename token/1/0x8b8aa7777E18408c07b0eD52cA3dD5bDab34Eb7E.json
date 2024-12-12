@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x8b8aa7777E18408c07b0eD52cA3dD5bDab34Eb7E",
-	"symbol": "Paradox",
+	"symbol": "PDX",
 	"name": "Paradox",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35448/thumb/Paradox.png?1708620624",
 	"coingecko": "paradox-2",
 	"sources": [
 		"coingecko"

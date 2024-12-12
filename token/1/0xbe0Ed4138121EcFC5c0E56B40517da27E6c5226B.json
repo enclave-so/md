@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0xbe0Ed4138121EcFC5c0E56B40517da27E6c5226B",
-	"symbol": "Aethir",
-	"name": "Aethir",
+	"symbol": "ATH",
+	"name": "Aethir Token",
+	"decimals": 18,
+	"logo": "https://coin-images.coingecko.com/coins/images/36179/large/logogram_circle_dark_green_vb_green_(1).png?1718232706",
 	"coingecko": "aethir",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"uniswap"
 	]
 }

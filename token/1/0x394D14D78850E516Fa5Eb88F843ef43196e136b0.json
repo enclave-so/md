@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x394D14D78850E516Fa5Eb88F843ef43196e136b0",
-	"symbol": "Dignity Gold",
+	"symbol": "DIGAU",
 	"name": "Dignity Gold",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/37183/thumb/dignitygold_32.png?1713514309",
 	"coingecko": "dignity-gold-2",
 	"sources": [
 		"coingecko"

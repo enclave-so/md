@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x33333333FEde34409Fb7f67c6585047E1F653333",
-	"symbol": "ORA Coin",
+	"symbol": "ORA",
 	"name": "ORA Coin",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/51812/thumb/ORA_Token.png?1732029092",
 	"coingecko": "ora-coin",
 	"sources": [
 		"coingecko"

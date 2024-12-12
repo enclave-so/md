@@ -1,0 +1,11 @@
+{
+	"chain": 11155420,
+	"address": "0x5fd84259d66Cd46123540766Be93DFE6D43130D7",
+	"symbol": "USDC",
+	"name": "USDC",
+	"decimals": 6,
+	"logo": "https://ethereum-optimism.github.io/data/USDC/logo.png",
+	"sources": [
+		"optimism"
+	]
+}

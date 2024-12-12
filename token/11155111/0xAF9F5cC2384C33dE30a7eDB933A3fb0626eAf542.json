@@ -1,0 +1,11 @@
+{
+	"chain": 11155111,
+	"address": "0xAF9F5cC2384C33dE30a7eDB933A3fb0626eAf542",
+	"symbol": "LIZ",
+	"name": "Lizcoin",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/LIZCOIN/logo.png",
+	"sources": [
+		"optimism"
+	]
+}

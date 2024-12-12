@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xdA30f261a962d5AAe94C9ecd170544600d193766",
-	"symbol": "Orbler",
+	"symbol": "ORBR",
 	"name": "Orbler",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/24056/thumb/orbr200.png?1696523246",
 	"coingecko": "orbler",
 	"sources": [
 		"coingecko"

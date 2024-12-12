@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x4591DBfF62656E7859Afe5e45f6f47D3669fBB28",
-	"symbol": "Prisma mkUSD",
+	"symbol": "MKUSD",
 	"name": "Prisma mkUSD",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31519/thumb/mkUSD_200.png?1696530329",
 	"coingecko": "prisma-mkusd",
 	"sources": [
 		"coingecko"

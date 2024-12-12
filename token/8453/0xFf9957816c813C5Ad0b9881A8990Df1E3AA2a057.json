@@ -1,0 +1,12 @@
+{
+	"chain": 8453,
+	"address": "0xFf9957816c813C5Ad0b9881A8990Df1E3AA2a057",
+	"symbol": "JAM",
+	"name": "Geojam",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/24648/thumb/ey40AzBN_400x400.jpg?1648507272",
+	"sources": [
+		"optimism",
+		"uniswap"
+	]
+}

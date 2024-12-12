@@ -1,20 +1,20 @@
 [
 	{
 		"chain": 5545,
-		"address": "0x7F9308E8d724e724EC31395f3af52e0593BB2e3f",
-		"symbol": "Wrapped TON",
-		"name": "Wrapped TON",
-		"coingecko": "wrapped-ton",
+		"address": "0xbE138aD5D41FDc392AE0B61b09421987C1966CC3",
+		"symbol": "DuckChain Bridged USDT (DuckChain)",
+		"name": "DuckChain Bridged USDT (DuckChain)",
+		"coingecko": "duckchain-bridged-usdt-duckchain",
 		"sources": [
 			"coingecko"
 		]
 	},
 	{
 		"chain": 5545,
-		"address": "0xbE138aD5D41FDc392AE0B61b09421987C1966CC3",
-		"symbol": "DuckChain Bridged USDT (DuckChain)",
-		"name": "DuckChain Bridged USDT (DuckChain)",
-		"coingecko": "duckchain-bridged-usdt-duckchain",
+		"address": "0x7F9308E8d724e724EC31395f3af52e0593BB2e3f",
+		"symbol": "Wrapped TON",
+		"name": "Wrapped TON",
+		"coingecko": "wrapped-ton",
 		"sources": [
 			"coingecko"
 		]

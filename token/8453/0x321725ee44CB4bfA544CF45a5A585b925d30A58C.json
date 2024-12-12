@@ -1,0 +1,11 @@
+{
+	"chain": 8453,
+	"address": "0x321725ee44CB4bfA544CF45a5A585b925d30A58C",
+	"symbol": "GROW",
+	"name": "ValleyDAO Token",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/GROW/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

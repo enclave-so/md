@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x5dA151B95657e788076D04d56234Bd93e409CB09",
-	"symbol": "OTSea",
+	"symbol": "OTSEA",
 	"name": "OTSea",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31900/thumb/logo200x200.png?1712254528",
 	"coingecko": "otsea",
 	"sources": [
 		"coingecko"

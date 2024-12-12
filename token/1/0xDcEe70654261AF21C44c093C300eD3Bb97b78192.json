@@ -4,7 +4,7 @@
 	"symbol": "WOETH",
 	"name": "Wrapped OETH",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xDcEe70654261AF21C44c093C300eD3Bb97b78192.jpg",
+	"logo": "https://assets.coingecko.com/coins/images/29734/thumb/woeth-200x200.png?1714796686",
 	"coingecko": "wrapped-oeth",
 	"sources": [
 		"coingecko",

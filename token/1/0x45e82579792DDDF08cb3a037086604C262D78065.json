@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x45e82579792DDDF08cb3a037086604C262D78065",
-	"symbol": "illumineX",
+	"symbol": "IX",
 	"name": "illumineX",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35366/thumb/illuminexlogo.png.png?1721263774",
 	"coingecko": "illuminex",
 	"sources": [
 		"coingecko"

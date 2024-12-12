@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x2fd61567c29E7ADB4Ca17e60E1f4a3Fcfe68aCb8",
-	"symbol": "SymVerse",
+	"symbol": "SYM",
 	"name": "SymVerse",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/9449/thumb/Picture1.png?1696509540",
 	"coingecko": "symverse",
 	"sources": [
 		"coingecko"

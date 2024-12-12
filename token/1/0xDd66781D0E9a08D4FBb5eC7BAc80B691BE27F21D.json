@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0xDd66781D0E9a08D4FBb5eC7BAc80B691BE27F21D",
-	"symbol": "AxonDAO Governance Token",
+	"symbol": "AXGT",
 	"name": "AxonDAO Governance Token",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35290/thumb/AXGT-logo-7.png?1708076161",
 	"coingecko": "axondao-governance-token",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

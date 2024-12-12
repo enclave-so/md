@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xAC9D70aebd49555b033751E311044BECF3513c0f",
-	"symbol": "Moonland Metaverse Token",
+	"symbol": "MTK",
 	"name": "Moonland Metaverse Token",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/50177/thumb/200px.png?1726164541",
 	"coingecko": "moonland-metaverse-token",
 	"sources": [
 		"coingecko"

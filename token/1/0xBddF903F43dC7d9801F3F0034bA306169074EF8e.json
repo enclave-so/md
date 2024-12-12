@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xBddF903F43dC7d9801F3F0034bA306169074EF8e",
-	"symbol": "Apes Go Bananas",
+	"symbol": "AGB",
 	"name": "Apes Go Bananas",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30465/thumb/agb_logo.jpeg?1696529352",
 	"coingecko": "apes-go-bananas",
 	"sources": [
 		"coingecko"

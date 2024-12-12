@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x49849C98ae39Fff122806C06791Fa73784FB3675",
-	"symbol": "LP renBTC Curve",
+	"symbol": "RENBTCCURVE",
 	"name": "LP renBTC Curve",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/11957/thumb/Curvefi_renCrv_32.png?1696511817",
 	"coingecko": "lp-renbtc-curve",
 	"sources": [
 		"coingecko"

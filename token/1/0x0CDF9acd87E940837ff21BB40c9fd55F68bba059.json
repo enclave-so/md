@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x0CDF9acd87E940837ff21BB40c9fd55F68bba059",
-	"symbol": "Public Mint",
+	"symbol": "MINT",
 	"name": "Public Mint",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14106/thumb/Public_Mint_Icon_200x200.png?1696513827",
 	"coingecko": "public-mint",
 	"sources": [
 		"coingecko"

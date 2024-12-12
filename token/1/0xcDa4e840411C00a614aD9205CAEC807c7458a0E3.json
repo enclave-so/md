@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xcDa4e840411C00a614aD9205CAEC807c7458a0E3",
-	"symbol": "PureFi",
+	"symbol": "UFI",
 	"name": "PureFi",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/17341/thumb/purefi.PNG?1696516893",
 	"coingecko": "purefi",
 	"sources": [
 		"coingecko"

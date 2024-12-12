@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x790814Cd782983FaB4d7B92CF155187a865d9F18",
-	"symbol": "Matt Furie",
+	"symbol": "MATT",
 	"name": "Matt Furie",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/39195/thumb/Matt_Furie.jpg?1721017162",
 	"coingecko": "matt-0x79",
 	"sources": [
 		"coingecko"

@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0x00c83aeCC790e8a4453e5dD3B0B4b3680501a7A7",
-	"symbol": "SKALE",
+	"symbol": "SKL",
 	"name": "SKALE",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/13245/thumb/SKALE_token_300x300.png?1606789574",
 	"coingecko": "skale",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"uniswap"
 	]
 }

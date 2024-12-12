@@ -1,10 +1,13 @@
 {
 	"chain": 8453,
 	"address": "0xD1dB4851bcF5B41442cAA32025Ce0Afe6B8EabC2",
-	"symbol": "Zoomer",
-	"name": "Zoomer",
+	"symbol": "ZOOMER",
+	"name": "Based ZoomerCoin",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/ZOOMER/logo.png",
 	"coingecko": "zoomer",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

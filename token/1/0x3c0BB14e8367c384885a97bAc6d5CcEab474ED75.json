@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x3c0BB14e8367c384885a97bAc6d5CcEab474ED75",
-	"symbol": "Artificial idiot",
+	"symbol": "AII",
 	"name": "Artificial idiot",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/36082/thumb/AII_200x200.png?1710415710",
 	"coingecko": "artificial-idiot",
 	"sources": [
 		"coingecko"

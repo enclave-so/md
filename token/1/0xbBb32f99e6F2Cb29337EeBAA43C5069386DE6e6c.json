@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xbBb32f99e6F2Cb29337EeBAA43C5069386DE6e6c",
-	"symbol": "Phemex Token",
+	"symbol": "PT",
 	"name": "Phemex Token",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/33314/thumb/phemex_logo.png?1701959611",
 	"coingecko": "phemex",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x556c3cbDCA77a7f21AFE15b17e644e0e98e64Df4",
-	"symbol": "Mao",
+	"symbol": "MAO",
 	"name": "Mao",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/51344/thumb/K_w9E60W_400x400.jpg?1730824697",
 	"coingecko": "mao-3",
 	"sources": [
 		"coingecko"

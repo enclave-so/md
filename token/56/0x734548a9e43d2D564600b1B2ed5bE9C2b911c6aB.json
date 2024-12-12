@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0x734548a9e43d2D564600b1B2ed5bE9C2b911c6aB",
-	"symbol": "Meta Apes PEEL",
-	"name": "Meta Apes PEEL",
+	"symbol": "PEEL",
+	"name": "Meta Apes Peel",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x734548a9e43d2D564600b1B2ed5bE9C2b911c6aB.png",
 	"coingecko": "meta-apes-peel",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

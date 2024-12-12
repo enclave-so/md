@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xBfB2b6870501a6Ff17121D676A0A45a38c9eeD1e",
-	"symbol": "LuckyToad",
+	"symbol": "TOAD",
 	"name": "LuckyToad",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/28867/thumb/Coingecko_listing.png?1696527840",
 	"coingecko": "luckytoad",
 	"sources": [
 		"coingecko"

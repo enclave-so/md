@@ -1,10 +1,13 @@
 {
 	"chain": 8453,
 	"address": "0xD4a0e0b9149BCee3C920d2E00b5dE09138fd8bb7",
-	"symbol": "Aave v3 WETH",
-	"name": "Aave v3 WETH",
+	"symbol": "aBasWETH",
+	"name": "Aave Base WETH",
+	"decimals": 18,
+	"logo": "ipfs://QmUDc7LQN6zKHon9FChTqZc7WGFvGPZe698Bq5HbSYtfk9",
 	"coingecko": "aave-v3-weth",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"indexcoop"
 	]
 }

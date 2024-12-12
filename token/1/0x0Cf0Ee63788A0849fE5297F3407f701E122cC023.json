@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x0Cf0Ee63788A0849fE5297F3407f701E122cC023",
-	"symbol": "Streamr XDATA",
+	"symbol": "XDATA",
 	"name": "Streamr XDATA",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/1115/thumb/streamr.png?1696502210",
 	"coingecko": "streamr-xdata",
 	"sources": [
 		"coingecko"

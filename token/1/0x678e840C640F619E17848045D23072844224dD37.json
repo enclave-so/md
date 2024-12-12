@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x678e840C640F619E17848045D23072844224dD37",
-	"symbol": "Cratos",
+	"symbol": "CRTS",
 	"name": "Cratos",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/17322/thumb/cratos.png?1696516876",
 	"coingecko": "cratos",
 	"sources": [
 		"coingecko"

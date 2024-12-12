@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x054c9D4C6F4EA4E14391addD1812106c97D05690",
-	"symbol": "Liberland LLD",
+	"symbol": "LLD",
 	"name": "Liberland LLD",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/33625/thumb/Liberland_Dollar_Square_200px.png?1702532879",
 	"coingecko": "liberland-lld",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x011E128Ec62840186F4A07E85E3ACe28858c5606",
-	"symbol": "Valeria",
+	"symbol": "VAL",
 	"name": "Valeria",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/32558/thumb/A02QICI.png?1698504111",
 	"coingecko": "valeria",
 	"sources": [
 		"coingecko"

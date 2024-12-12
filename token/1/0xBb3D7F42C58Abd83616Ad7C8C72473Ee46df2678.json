@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xBb3D7F42C58Abd83616Ad7C8C72473Ee46df2678",
-	"symbol": "VectorChat.ai",
-	"name": "VectorChat.ai",
+	"symbol": "CHAT",
+	"name": "VectorChat ai",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/33969/thumb/gecko.png?1703576146",
 	"coingecko": "vectorchat-ai",
 	"sources": [
 		"coingecko"

@@ -1,0 +1,11 @@
+{
+	"chain": 56,
+	"address": "0x75E8ddB518bB757b4282cd5b83bb70d4101D12FB",
+	"symbol": "NFP",
+	"name": "NFPrompt Token",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x75E8ddB518bB757b4282cd5b83bb70d4101D12FB.png",
+	"sources": [
+		"pancakeswap"
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"chain": 10,
+	"address": "0x0E49ca6EA763190084C846d3Fc18f28BC2aC689a",
+	"symbol": "DUCK",
+	"name": "Unit protocol",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/DUCK/logo.png",
+	"sources": [
+		"optimism"
+	]
+}

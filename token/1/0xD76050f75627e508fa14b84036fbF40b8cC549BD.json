@@ -3,6 +3,8 @@
 	"address": "0xD76050f75627e508fa14b84036fbF40b8cC549BD",
 	"symbol": "SCRIV",
 	"name": "SCRIV",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/5684/thumb/Al7TZrAN_400x400.jpg?1696506143",
 	"coingecko": "scriv",
 	"sources": [
 		"coingecko"

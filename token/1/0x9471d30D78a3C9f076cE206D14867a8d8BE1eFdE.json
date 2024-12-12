@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x9471d30D78a3C9f076cE206D14867a8d8BE1eFdE",
-	"symbol": "ZENEX",
+	"symbol": "ZNX",
 	"name": "ZENEX",
+	"decimals": 6,
+	"logo": "https://assets.coingecko.com/coins/images/29638/thumb/znx-logo.png?1696528575",
 	"coingecko": "zenex",
 	"sources": [
 		"coingecko"

@@ -1,0 +1,11 @@
+{
+	"chain": 42161,
+	"address": "0xa05245Ade25cC1063EE50Cf7c083B4524c1C4302",
+	"symbol": "XSGD",
+	"name": "XSGD",
+	"decimals": 6,
+	"logo": "https://assets.coingecko.com/coins/images/12832/standard/StraitsX_Singapore_Dollar_%28XSGD%29_Token_Logo.png?1696512623",
+	"sources": [
+		"uniswap"
+	]
+}

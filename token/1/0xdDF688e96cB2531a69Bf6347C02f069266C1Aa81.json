@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xdDF688e96cB2531a69Bf6347C02f069266C1Aa81",
-	"symbol": "MEMEVENGERS",
+	"symbol": "MMVG",
 	"name": "MEMEVENGERS",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/32000/thumb/MMVG.jpg?1696530801",
 	"coingecko": "memevengers",
 	"sources": [
 		"coingecko"

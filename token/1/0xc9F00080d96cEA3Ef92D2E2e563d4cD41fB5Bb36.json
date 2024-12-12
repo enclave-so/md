@@ -3,6 +3,8 @@
 	"address": "0xc9F00080d96cEA3Ef92D2E2e563d4cD41fB5Bb36",
 	"symbol": "BLOX",
 	"name": "BLOX",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/33794/thumb/BLOXLOGO200x200.png?1702989708",
 	"coingecko": "blox-2",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x38A94e92A19E970c144DEd0B2DD47278CA11CC1F",
-	"symbol": "Falcon Nine",
+	"symbol": "F9",
 	"name": "Falcon Nine",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/16858/thumb/logo-f9.png?1696516425",
 	"coingecko": "falcon-nine",
 	"sources": [
 		"coingecko"

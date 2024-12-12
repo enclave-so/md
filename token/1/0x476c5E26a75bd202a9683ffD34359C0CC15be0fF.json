@@ -4,7 +4,7 @@
 	"symbol": "SRM",
 	"name": "Serum",
 	"decimals": 6,
-	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/srm.jpg",
+	"logo": "https://assets.coingecko.com/coins/images/11970/thumb/serum-logo.png?1696511829",
 	"coingecko": "serum",
 	"sources": [
 		"coingecko",

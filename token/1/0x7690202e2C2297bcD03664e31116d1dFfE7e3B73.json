@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x7690202e2C2297bcD03664e31116d1dFfE7e3B73",
-	"symbol": "Cat-in-a-Box Ether",
-	"name": "Cat-in-a-Box Ether",
+	"symbol": "BOXETH",
+	"name": "Cat in a Box Ether",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/29927/thumb/boxETH.png?1696528855",
 	"coingecko": "cat-in-a-box-ether",
 	"sources": [
 		"coingecko"

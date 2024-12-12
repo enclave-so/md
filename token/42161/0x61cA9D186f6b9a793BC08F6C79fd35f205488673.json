@@ -1,0 +1,11 @@
+{
+	"chain": 42161,
+	"address": "0x61cA9D186f6b9a793BC08F6C79fd35f205488673",
+	"symbol": "ILV",
+	"name": "Illuvium",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14468/large/ILV.JPG",
+	"sources": [
+		"uniswap"
+	]
+}

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x68aaa0D94eA163B9BBf659Dc3766dEFB4c0Ac7BE",
-	"symbol": "Andyman",
+	"symbol": "ANDYMAN",
 	"name": "Andyman",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/50943/thumb/output-onlinepngtools.png?1729584614",
 	"coingecko": "andyman",
 	"sources": [
 		"coingecko"

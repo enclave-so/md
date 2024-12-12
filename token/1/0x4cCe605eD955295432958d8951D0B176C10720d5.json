@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x4cCe605eD955295432958d8951D0B176C10720d5",
-	"symbol": "Novatti Australian Digital Dollar",
+	"symbol": "AUDD",
 	"name": "Novatti Australian Digital Dollar",
+	"decimals": 6,
+	"logo": "https://assets.coingecko.com/coins/images/33263/thumb/AUDD-Logo-Blue_512.png?1701319895",
 	"coingecko": "novatti-australian-digital-dollar",
 	"sources": [
 		"coingecko"

@@ -1,0 +1,11 @@
+{
+	"chain": 10,
+	"address": "0xAe31207aC34423C41576Ff59BFB4E036150f9cF7",
+	"symbol": "SDL",
+	"name": "Saddle DAO",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/SDL/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

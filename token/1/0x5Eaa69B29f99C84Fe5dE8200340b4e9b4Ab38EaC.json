@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x5Eaa69B29f99C84Fe5dE8200340b4e9b4Ab38EaC",
-	"symbol": "Raze Network",
+	"symbol": "RAZE",
 	"name": "Raze Network",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14767/thumb/logo-2.png?1696514437",
 	"coingecko": "raze-network",
 	"sources": [
 		"coingecko"

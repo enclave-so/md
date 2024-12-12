@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xd3E4Ba569045546D09CF021ECC5dFe42b1d7f6E4",
-	"symbol": "Morpheus Network",
+	"symbol": "MNW",
 	"name": "Morpheus Network",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/2379/thumb/MRPH_CoinGecko.png?1696503245",
 	"coingecko": "morpheus-network",
 	"sources": [
 		"coingecko"

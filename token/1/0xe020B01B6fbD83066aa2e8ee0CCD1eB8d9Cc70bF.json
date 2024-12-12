@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xe020B01B6fbD83066aa2e8ee0CCD1eB8d9Cc70bF",
-	"symbol": "Arcade",
+	"symbol": "ARCD",
 	"name": "Arcade",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/33112/thumb/OFFICIAL_ARCD_TOKEN_SYMBOL_64x64.png?1711190585",
 	"coingecko": "arcade-protocol",
 	"sources": [
 		"coingecko"

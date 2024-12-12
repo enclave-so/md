@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x6006FC2a849fEdABa8330ce36F5133DE01F96189",
-	"symbol": "Spaceswap SHAKE",
+	"symbol": "SHAKE",
 	"name": "Spaceswap SHAKE",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/12765/thumb/shake.png?1696512562",
 	"coingecko": "spaceswap-shake",
 	"sources": [
 		"coingecko"

@@ -1,10 +1,14 @@
 {
 	"chain": 56,
 	"address": "0x33d08D8C7a168333a85285a68C0042b39fC3741D",
-	"symbol": "AIOZ Network",
+	"symbol": "AIOZ",
 	"name": "AIOZ Network",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14631/thumb/aioz_logo.png?1617413126",
 	"coingecko": "aioz-network",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap",
+		"uniswap"
 	]
 }

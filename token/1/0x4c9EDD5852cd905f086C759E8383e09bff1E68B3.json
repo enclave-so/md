@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x4c9EDD5852cd905f086C759E8383e09bff1E68B3",
-	"symbol": "Ethena USDe",
+	"symbol": "USDE",
 	"name": "Ethena USDe",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/33613/thumb/usde.png?1733810059",
 	"coingecko": "ethena-usde",
 	"sources": [
 		"coingecko"

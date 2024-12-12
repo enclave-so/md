@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x4AdE2b180f65ed752B6F1296d0418AD21eb578C0",
-	"symbol": "Kekistan",
+	"symbol": "KEK",
 	"name": "Kekistan",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/50949/thumb/1000020931.png?1729585651",
 	"coingecko": "kekistan",
 	"sources": [
 		"coingecko"

@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0x0DF0587216a4a1bB7d5082fdc491d93d2dD4B413",
-	"symbol": "Cheems Token",
-	"name": "Cheems Token",
+	"symbol": "Cheems",
+	"name": "Cheems",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x0DF0587216a4a1bB7d5082fdc491d93d2dD4B413.png",
 	"coingecko": "cheems-token",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

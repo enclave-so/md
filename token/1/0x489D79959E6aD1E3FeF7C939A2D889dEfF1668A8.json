@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x489D79959E6aD1E3FeF7C939A2D889dEfF1668A8",
-	"symbol": "Hottie Froggie",
+	"symbol": "HOTTIE",
 	"name": "Hottie Froggie",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/37030/thumb/200x200.png?1713158526",
 	"coingecko": "hottie-froggie",
 	"sources": [
 		"coingecko"

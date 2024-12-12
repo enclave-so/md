@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0x5C1d9aA868a30795F92fAe903eDc9eFF269044bf",
-	"symbol": "Changer",
+	"symbol": "CNG",
 	"name": "Changer",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/21786/thumb/cng.png?1696521140",
 	"coingecko": "changer",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

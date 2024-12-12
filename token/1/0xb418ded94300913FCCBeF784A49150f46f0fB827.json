@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xb418ded94300913FCCBeF784A49150f46f0fB827",
-	"symbol": "TERRIER [OLD]",
-	"name": "TERRIER [OLD]",
+	"symbol": "BULL",
+	"name": "TERRIER  OLD ",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/36001/thumb/IMG_3130.jpeg?1710320533",
 	"coingecko": "terrier",
 	"sources": [
 		"coingecko"

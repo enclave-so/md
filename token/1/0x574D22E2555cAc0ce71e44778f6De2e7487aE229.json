@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x574D22E2555cAc0ce71e44778f6De2e7487aE229",
-	"symbol": "SoonVerse",
+	"symbol": "SOON",
 	"name": "SoonVerse",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/29448/thumb/1.png?1696528395",
 	"coingecko": "soonswap",
 	"sources": [
 		"coingecko"

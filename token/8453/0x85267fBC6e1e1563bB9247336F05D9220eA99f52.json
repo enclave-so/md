@@ -1,0 +1,11 @@
+{
+	"chain": 8453,
+	"address": "0x85267fBC6e1e1563bB9247336F05D9220eA99f52",
+	"symbol": "MPWR",
+	"name": "Empower Token",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/MPWR/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

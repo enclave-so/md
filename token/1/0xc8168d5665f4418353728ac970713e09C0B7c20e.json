@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0xc8168d5665f4418353728ac970713e09C0B7c20e",
-	"symbol": "Monke",
+	"symbol": "MONKE",
 	"name": "Monke",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/33492/thumb/hdhd.png?1715341582",
 	"coingecko": "monke-coin",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

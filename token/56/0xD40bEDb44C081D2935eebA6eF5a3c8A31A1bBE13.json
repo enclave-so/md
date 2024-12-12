@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0xD40bEDb44C081D2935eebA6eF5a3c8A31A1bBE13",
-	"symbol": "Metahero",
-	"name": "Metahero",
+	"symbol": "HERO",
+	"name": "MetaHero",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0xD40bEDb44C081D2935eebA6eF5a3c8A31A1bBE13.png",
 	"coingecko": "metahero",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x430EF9263E76DAE63c84292C3409D61c598E9682",
-	"symbol": "Vulcan Forged",
+	"symbol": "PYR",
 	"name": "Vulcan Forged",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14770/thumb/1617088937196.png?1696514439",
 	"coingecko": "vulcan-forged",
 	"sources": [
 		"coingecko"

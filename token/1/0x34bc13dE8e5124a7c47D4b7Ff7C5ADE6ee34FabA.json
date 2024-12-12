@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x34bc13dE8e5124a7c47D4b7Ff7C5ADE6ee34FabA",
-	"symbol": "Project Dojo",
+	"symbol": "DOJO",
 	"name": "Project Dojo",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/33156/thumb/Project_Dojo_logo_transparent_200x200.png?1700827030",
 	"coingecko": "project-dojo",
 	"sources": [
 		"coingecko"

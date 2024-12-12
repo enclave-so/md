@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x106538CC16F938776c7c180186975BCA23875287",
-	"symbol": "Basis Share",
+	"symbol": "BAS",
 	"name": "Basis Share",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/13251/thumb/BAS.png?1696513026",
 	"coingecko": "basis-share",
 	"sources": [
 		"coingecko"

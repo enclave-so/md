@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x2407D54b42A570AEb63819D433A63676163Cb6D6",
-	"symbol": "Renegade",
+	"symbol": "RNGD",
 	"name": "Renegade",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/35327/thumb/ren%28200_x_200_px%29.png?1708267655",
 	"coingecko": "renegade",
 	"sources": [
 		"coingecko"

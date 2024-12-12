@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x31C5DEc1F10Dc084B95c239734dEa0ADb9C97C9C",
-	"symbol": "VIMworld OJEE",
+	"symbol": "OJEE",
 	"name": "VIMworld OJEE",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/40061/thumb/OJEE.png?1725459098",
 	"coingecko": "vimworld-ojee",
 	"sources": [
 		"coingecko"

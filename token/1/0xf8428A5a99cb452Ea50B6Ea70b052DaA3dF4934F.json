@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xf8428A5a99cb452Ea50B6Ea70b052DaA3dF4934F",
-	"symbol": "zkRace",
+	"symbol": "ZERC",
 	"name": "zkRace",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/17438/thumb/zkRace-logomark-border.png?1716518566",
 	"coingecko": "derace",
 	"sources": [
 		"coingecko"

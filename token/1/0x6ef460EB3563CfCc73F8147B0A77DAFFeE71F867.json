@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x6ef460EB3563CfCc73F8147B0A77DAFFeE71F867",
-	"symbol": "Zeus AI",
+	"symbol": "ZEUS",
 	"name": "Zeus AI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/29593/thumb/ZEUS.png?1696528532",
 	"coingecko": "zeus-ai",
 	"sources": [
 		"coingecko"

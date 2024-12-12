@@ -2,12 +2,13 @@
 	"chain": 1,
 	"address": "0xDEf1CA1fb7FBcDC777520aa7f396b4E015F497aB",
 	"symbol": "COW",
-	"name": "CoW Protocol Token",
+	"name": "CoW Protocol",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xDEf1CA1fb7FBcDC777520aa7f396b4E015F497aB.jpg",
+	"logo": "https://assets.coingecko.com/coins/images/24384/large/CoW-token_logo.png?1719524382",
 	"coingecko": "cow-protocol",
 	"sources": [
 		"coingecko",
-		"sushiswap"
+		"sushiswap",
+		"uniswap"
 	]
 }

@@ -2,9 +2,12 @@
 	"chain": 56,
 	"address": "0x78F5d389F5CDCcFc41594aBaB4B0Ed02F31398b3",
 	"symbol": "APX",
-	"name": "APX",
+	"name": "ApolloX Token",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x78F5d389F5CDCcFc41594aBaB4B0Ed02F31398b3.png",
 	"coingecko": "apollox-2",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

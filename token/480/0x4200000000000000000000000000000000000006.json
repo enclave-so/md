@@ -1,10 +1,13 @@
 {
 	"chain": 480,
 	"address": "0x4200000000000000000000000000000000000006",
-	"symbol": "Wrapped ETH (World Chain)",
-	"name": "Wrapped ETH (World Chain)",
+	"symbol": "WETH",
+	"name": "Wrapped Ether",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
 	"coingecko": "wrapped-eth-world-chain",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"uniswap"
 	]
 }

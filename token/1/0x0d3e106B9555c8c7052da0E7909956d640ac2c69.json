@@ -3,6 +3,8 @@
 	"address": "0x0d3e106B9555c8c7052da0E7909956d640ac2c69",
 	"symbol": "POPKAT",
 	"name": "POPKAT",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/51287/thumb/Logo.png?1730569618",
 	"coingecko": "popkat",
 	"sources": [
 		"coingecko"

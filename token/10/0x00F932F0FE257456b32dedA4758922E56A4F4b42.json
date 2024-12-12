@@ -8,6 +8,7 @@
 	"coingecko": "dope-wars-paper",
 	"sources": [
 		"coingecko",
+		"optimism",
 		"sushiswap"
 	]
 }

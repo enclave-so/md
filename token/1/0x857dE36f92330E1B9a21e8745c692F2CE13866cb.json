@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x857dE36f92330E1B9a21e8745c692F2CE13866cb",
-	"symbol": "Meta Masters Guild Games",
+	"symbol": "MEMAGX",
 	"name": "Meta Masters Guild Games",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/36899/thumb/1000039355.jpg?1712677645",
 	"coingecko": "meta-masters-guild-games",
 	"sources": [
 		"coingecko"

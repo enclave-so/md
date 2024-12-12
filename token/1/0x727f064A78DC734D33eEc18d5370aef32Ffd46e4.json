@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x727f064A78DC734D33eEc18d5370aef32Ffd46e4",
-	"symbol": "Orion Money",
+	"symbol": "ORION",
 	"name": "Orion Money",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/18630/thumb/YtrqPIWc.png?1696518102",
 	"coingecko": "orion-money",
 	"sources": [
 		"coingecko"

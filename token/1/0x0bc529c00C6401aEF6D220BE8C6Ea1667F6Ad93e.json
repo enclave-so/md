@@ -2,12 +2,15 @@
 	"chain": 1,
 	"address": "0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e",
 	"symbol": "YFI",
-	"name": "yearn.finance",
+	"name": "yearn finance",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/yfi.jpg",
+	"logo": "https://assets.coingecko.com/coins/images/11849/thumb/yfi-192x192.png?1598325330",
 	"coingecko": "yearn-finance",
 	"sources": [
 		"coingecko",
-		"sushiswap"
+		"indexcoop",
+		"optimism",
+		"sushiswap",
+		"uniswap"
 	]
 }

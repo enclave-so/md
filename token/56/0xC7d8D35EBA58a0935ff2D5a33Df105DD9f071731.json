@@ -1,0 +1,11 @@
+{
+	"chain": 56,
+	"address": "0xC7d8D35EBA58a0935ff2D5a33Df105DD9f071731",
+	"symbol": "HGET",
+	"name": "Hedget",
+	"decimals": 6,
+	"logo": "https://tokens.pancakeswap.finance/images/0xC7d8D35EBA58a0935ff2D5a33Df105DD9f071731.png",
+	"sources": [
+		"pancakeswap"
+	]
+}

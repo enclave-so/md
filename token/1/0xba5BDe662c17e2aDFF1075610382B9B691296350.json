@@ -4,10 +4,11 @@
 	"symbol": "RARE",
 	"name": "SuperRare",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xba5BDe662c17e2aDFF1075610382B9B691296350/logo.png",
+	"logo": "https://assets.coingecko.com/coins/images/17753/thumb/RARE.jpg?1629220534",
 	"coingecko": "superrare",
 	"sources": [
 		"coingecko",
-		"sushiswap"
+		"sushiswap",
+		"uniswap"
 	]
 }

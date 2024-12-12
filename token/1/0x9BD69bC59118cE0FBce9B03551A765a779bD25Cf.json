@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x9BD69bC59118cE0FBce9B03551A765a779bD25Cf",
-	"symbol": "zkEra Finance",
+	"symbol": "ZKE",
 	"name": "zkEra Finance",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/33928/thumb/token_png.png?1715327053",
 	"coingecko": "zkera-finance",
 	"sources": [
 		"coingecko"

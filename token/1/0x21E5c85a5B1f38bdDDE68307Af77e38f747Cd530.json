@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x21E5c85a5B1f38bdDDE68307Af77e38f747Cd530",
-	"symbol": "Doggensnout Skeptic",
+	"symbol": "DOGS",
 	"name": "Doggensnout Skeptic",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/35772/thumb/DOGGENSNOUT_LOGO.jpg?1731814406",
 	"coingecko": "doggensnout-skeptic",
 	"sources": [
 		"coingecko"

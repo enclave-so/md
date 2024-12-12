@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xf67366e83cc9B115Ef8cCA93baeD1f03E6d3ca9A",
-	"symbol": "MindVerse",
+	"symbol": "MVERSE",
 	"name": "MindVerse",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35875/thumb/photo_2024-03-08_14.24.00.jpeg?1709981737",
 	"coingecko": "mindverse",
 	"sources": [
 		"coingecko"

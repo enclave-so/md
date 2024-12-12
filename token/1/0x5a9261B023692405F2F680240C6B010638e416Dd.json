@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x5a9261B023692405F2F680240C6B010638e416Dd",
-	"symbol": "Storm Warfare",
+	"symbol": "JAN",
 	"name": "Storm Warfare",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35045/thumb/janus_token.jpeg?1707201471",
 	"coingecko": "storm-warfare",
 	"sources": [
 		"coingecko"

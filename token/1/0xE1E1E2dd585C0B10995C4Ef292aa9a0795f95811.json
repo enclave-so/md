@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xE1E1E2dd585C0B10995C4Ef292aa9a0795f95811",
-	"symbol": "EigenElephant",
+	"symbol": "ELE",
 	"name": "EigenElephant",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/37832/thumb/Group_39.png?1715706473",
 	"coingecko": "eigenelephant",
 	"sources": [
 		"coingecko"

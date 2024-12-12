@@ -1,0 +1,11 @@
+{
+	"chain": 10,
+	"address": "0x3Eb398fEc5F7327C6b15099a9681d9568ded2e82",
+	"symbol": "TKN",
+	"name": "Token Name Service",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/TKN/logo.png",
+	"sources": [
+		"optimism"
+	]
+}

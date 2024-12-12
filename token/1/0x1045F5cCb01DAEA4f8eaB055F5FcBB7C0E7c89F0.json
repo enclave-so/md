@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x1045F5cCb01DAEA4f8eaB055F5FcBB7C0E7c89F0",
-	"symbol": "DeFiato",
+	"symbol": "DFIAT",
 	"name": "DeFiato",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/13386/thumb/Defiato.png?1696513149",
 	"coingecko": "defiato",
 	"sources": [
 		"coingecko"

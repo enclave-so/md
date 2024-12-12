@@ -3,6 +3,8 @@
 	"address": "0xD9c2D319Cd7e6177336b0a9c93c21cb48d84Fb54",
 	"symbol": "HAPI",
 	"name": "HAPI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14298/thumb/Hapi_logo_square_%281%29.png?1696513995",
 	"coingecko": "hapi",
 	"sources": [
 		"coingecko"

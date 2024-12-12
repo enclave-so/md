@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xeCbEE2fAE67709F718426DDC3bF770B26B95eD20",
-	"symbol": "Clips",
+	"symbol": "CLIPS",
 	"name": "Clips",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30151/thumb/clips-logo.png?1696529071",
 	"coingecko": "clips",
 	"sources": [
 		"coingecko"

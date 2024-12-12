@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x28fAc5334C9f7262b3A3Fe707e250E01053e07b5",
-	"symbol": "IdleUSDT (Risk Adjusted)",
-	"name": "IdleUSDT (Risk Adjusted)",
+	"symbol": "IDLEUSDTSAFE",
+	"name": "IdleUSDT  Risk Adjusted ",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/11931/thumb/idleusdt-safe.png?1696511792",
 	"coingecko": "idle-usdt-risk-adjusted",
 	"sources": [
 		"coingecko"

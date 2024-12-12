@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x5f5166C4fdb9055efB24A7E75Cc1A21Ca8ca61a3",
-	"symbol": "AI-X",
-	"name": "AI-X",
+	"symbol": "X",
+	"name": "AI X",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/30783/thumb/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20230616171447.jpg?1696529650",
 	"coingecko": "ai-x",
 	"sources": [
 		"coingecko"

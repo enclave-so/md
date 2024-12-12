@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x809826cceAb68c387726af962713b64Cb5Cb3CCA",
-	"symbol": "Nucleus Vision",
+	"symbol": "NCASH",
 	"name": "Nucleus Vision",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/3135/thumb/nv.jpg?1696503859",
 	"coingecko": "nucleus-vision",
 	"sources": [
 		"coingecko"

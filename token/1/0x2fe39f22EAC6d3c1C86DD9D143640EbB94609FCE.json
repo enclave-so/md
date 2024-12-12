@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x2fe39f22EAC6d3c1C86DD9D143640EbB94609FCE",
-	"symbol": "JD Coin",
+	"symbol": "JDC",
 	"name": "JD Coin",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/9958/thumb/Cv-2ca6p_400x400.jpg?1696509998",
 	"coingecko": "jd-coin",
 	"sources": [
 		"coingecko"

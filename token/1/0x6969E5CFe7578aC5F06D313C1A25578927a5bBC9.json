@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x6969E5CFe7578aC5F06D313C1A25578927a5bBC9",
-	"symbol": "Morti",
+	"symbol": "MORTI",
 	"name": "Morti",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/50477/thumb/morti_hd200X200.png?1727850651",
 	"coingecko": "morti",
 	"sources": [
 		"coingecko"

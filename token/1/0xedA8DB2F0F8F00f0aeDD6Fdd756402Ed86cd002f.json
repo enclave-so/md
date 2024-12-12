@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xedA8DB2F0F8F00f0aeDD6Fdd756402Ed86cd002f",
-	"symbol": "OpMentis",
+	"symbol": "OPM",
 	"name": "OpMentis",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/52179/thumb/Opmentis.png?1732686904",
 	"coingecko": "opmentis",
 	"sources": [
 		"coingecko"

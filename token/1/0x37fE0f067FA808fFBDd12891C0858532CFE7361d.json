@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x37fE0f067FA808fFBDd12891C0858532CFE7361d",
-	"symbol": "Civilization",
+	"symbol": "CIV",
 	"name": "Civilization",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/17626/thumb/civ-200x200.png?1696517157",
 	"coingecko": "civilization",
 	"sources": [
 		"coingecko"

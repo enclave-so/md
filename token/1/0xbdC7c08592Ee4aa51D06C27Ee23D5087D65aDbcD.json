@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xbdC7c08592Ee4aa51D06C27Ee23D5087D65aDbcD",
-	"symbol": "Lift Dollar",
+	"symbol": "USDL",
 	"name": "Lift Dollar",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/38484/thumb/USDL-Token-200px.png?1725022887",
 	"coingecko": "lift-dollar",
 	"sources": [
 		"coingecko"

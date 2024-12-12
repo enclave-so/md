@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x6c936D4AE98E6d2172dB18c16C4b601C99918EE6",
-	"symbol": "Life Crypto",
+	"symbol": "LIFE",
 	"name": "Life Crypto",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/18245/thumb/communityIcon_t3kzc5skazh81.png?1696517741",
 	"coingecko": "life-crypto",
 	"sources": [
 		"coingecko"

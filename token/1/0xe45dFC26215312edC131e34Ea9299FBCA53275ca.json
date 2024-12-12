@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xe45dFC26215312edC131e34Ea9299FBCA53275ca",
-	"symbol": "Relation Native Token",
+	"symbol": "REL",
 	"name": "Relation Native Token",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30656/thumb/2.png?1696529526",
 	"coingecko": "relation-native-token",
 	"sources": [
 		"coingecko"

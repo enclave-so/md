@@ -1,6 +1,26 @@
 [
 	{
 		"chain": 22776,
+		"address": "0x69C43364667cF6279016bbec76445174C78f142d",
+		"symbol": "HiveSwap",
+		"name": "HiveSwap",
+		"coingecko": "hiveswap",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 22776,
+		"address": "0x33DAba9618a75a7AFf103e53AfE530FbAcF4A3DD",
+		"symbol": "Mapped USDT",
+		"name": "Mapped USDT",
+		"coingecko": "mapped-usdt",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 22776,
 		"address": "0x9bD1E0a3A727D0d4F4e9A6d59022E071DDc79924",
 		"symbol": "Map Protocol Staked MAPO",
 		"name": "Map Protocol Staked MAPO",
@@ -25,26 +45,6 @@
 		"symbol": "Wrapped MAPO",
 		"name": "Wrapped MAPO",
 		"coingecko": "wrapped-mapo",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 22776,
-		"address": "0x69C43364667cF6279016bbec76445174C78f142d",
-		"symbol": "HiveSwap",
-		"name": "HiveSwap",
-		"coingecko": "hiveswap",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 22776,
-		"address": "0x33DAba9618a75a7AFf103e53AfE530FbAcF4A3DD",
-		"symbol": "Mapped USDT",
-		"name": "Mapped USDT",
-		"coingecko": "mapped-usdt",
 		"sources": [
 			"coingecko"
 		]

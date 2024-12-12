@@ -4,8 +4,9 @@
 	"symbol": "OG",
 	"name": "OG",
 	"decimals": 2,
-	"logo": "https://bscscan.com/token/images/ogfan_32.png",
+	"logo": "https://tokens.pancakeswap.finance/images/0xf05E45aD22150677a017Fbd94b84fBB63dc9b44c.png",
 	"sources": [
+		"pancakeswap",
 		"sushiswap"
 	]
 }

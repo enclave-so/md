@@ -1,0 +1,11 @@
+{
+	"chain": 137,
+	"address": "0x0Bf519071b02F22C17E7Ed5F4002ee1911f46729",
+	"symbol": "NMR",
+	"name": "Numeraire",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1776e1F26f98b1A5dF9cD347953a26dd3Cb46671/logo.png",
+	"sources": [
+		"uniswap"
+	]
+}

@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0xCE7de646e7208a4Ef112cb6ed5038FA6cC6b12e3",
-	"symbol": "TRON (BSC)",
-	"name": "TRON (BSC)",
+	"symbol": "TRX",
+	"name": "Tron V2",
+	"decimals": 6,
+	"logo": "https://tokens.pancakeswap.finance/images/0xCE7de646e7208a4Ef112cb6ed5038FA6cC6b12e3.png",
 	"coingecko": "tron-bsc",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

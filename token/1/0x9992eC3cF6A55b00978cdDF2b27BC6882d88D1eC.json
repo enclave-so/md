@@ -4,10 +4,11 @@
 	"symbol": "POLY",
 	"name": "Polymath",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x9992eC3cF6A55b00978cdDF2b27BC6882d88D1eC/logo.png",
+	"logo": "https://assets.coingecko.com/coins/images/2784/thumb/inKkF01.png?1605007034",
 	"coingecko": "polymath",
 	"sources": [
 		"coingecko",
-		"sushiswap"
+		"sushiswap",
+		"uniswap"
 	]
 }

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x19AF07B52E5FAa0C2B1e11721c52AA23172fe2F5",
-	"symbol": "Memes Street",
+	"symbol": "MEMES",
 	"name": "Memes Street",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/33604/thumb/Meme_St.png?1702510836",
 	"coingecko": "memes-street",
 	"sources": [
 		"coingecko"

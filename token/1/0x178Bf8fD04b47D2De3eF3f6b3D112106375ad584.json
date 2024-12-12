@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x178Bf8fD04b47D2De3eF3f6b3D112106375ad584",
-	"symbol": "Unagii Tether USD",
+	"symbol": "UUSDT",
 	"name": "Unagii Tether USD",
+	"decimals": 6,
+	"logo": "https://assets.coingecko.com/coins/images/13778/thumb/uUSDT.png?1696513519",
 	"coingecko": "unagii-tether-usd",
 	"sources": [
 		"coingecko"

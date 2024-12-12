@@ -3,6 +3,8 @@
 	"address": "0x3aaDA3e213aBf8529606924d8D1c55CbDc70Bf74",
 	"symbol": "XMON",
 	"name": "XMON",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14008/thumb/xmon_logo.png?1696513737",
 	"coingecko": "xmon",
 	"sources": [
 		"coingecko"

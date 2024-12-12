@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x668C50B1c7f46EFFBE3f242687071d7908AAB00A",
-	"symbol": "CoShi Inu",
+	"symbol": "COSHI",
 	"name": "CoShi Inu",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/15219/thumb/200.jpg?1696514874",
 	"coingecko": "coshi-inu",
 	"sources": [
 		"coingecko"

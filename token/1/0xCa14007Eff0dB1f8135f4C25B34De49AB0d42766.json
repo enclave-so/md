@@ -2,12 +2,13 @@
 	"chain": 1,
 	"address": "0xCa14007Eff0dB1f8135f4C25B34De49AB0d42766",
 	"symbol": "STRK",
-	"name": "StarkNet Token",
+	"name": "Starknet",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xCa14007Eff0dB1f8135f4C25B34De49AB0d42766.jpg",
+	"logo": "https://assets.coingecko.com/coins/images/26433/standard/starknet.png?1696525507",
 	"coingecko": "starknet",
 	"sources": [
 		"coingecko",
-		"sushiswap"
+		"sushiswap",
+		"uniswap"
 	]
 }

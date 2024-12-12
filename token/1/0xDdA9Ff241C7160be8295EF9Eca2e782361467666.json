@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xDdA9Ff241C7160be8295EF9Eca2e782361467666",
-	"symbol": "BonzAI DePIN",
+	"symbol": "BONZAI",
 	"name": "BonzAI DePIN",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/36032/thumb/bonzai.jpeg?1710394145",
 	"coingecko": "bonzai-depin",
 	"sources": [
 		"coingecko"

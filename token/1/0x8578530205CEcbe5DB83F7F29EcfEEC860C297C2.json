@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x8578530205CEcbe5DB83F7F29EcfEEC860C297C2",
-	"symbol": "smARTOFGIVING",
+	"symbol": "AOG",
 	"name": "smARTOFGIVING",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/6050/thumb/logo_%286%29.png?1696506459",
 	"coingecko": "smartofgiving",
 	"sources": [
 		"coingecko"

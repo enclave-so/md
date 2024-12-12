@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x0F3ADC247E91c3c50bC08721355A41037E89Bc20",
-	"symbol": "Anchor Protocol",
+	"symbol": "ANC",
 	"name": "Anchor Protocol",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14420/thumb/anchor_protocol_logo.jpg?1696514111",
 	"coingecko": "anchor-protocol",
 	"sources": [
 		"coingecko"

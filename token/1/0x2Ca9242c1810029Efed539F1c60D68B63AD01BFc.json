@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x2Ca9242c1810029Efed539F1c60D68B63AD01BFc",
-	"symbol": "Anvil",
+	"symbol": "ANVL",
 	"name": "Anvil",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/50825/thumb/anvil-logo_%281%29.png?1729240436",
 	"coingecko": "anvil",
 	"sources": [
 		"coingecko"

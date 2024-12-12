@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x0557E0d15aeC0b9026dD17aA874fDf7d182A2cEB",
-	"symbol": "CFX Quantum",
+	"symbol": "CFXQ",
 	"name": "CFX Quantum",
+	"decimals": 6,
+	"logo": "https://assets.coingecko.com/coins/images/15031/thumb/CFXQ_TOKEN_LOGO_200x200.png?1696514691",
 	"coingecko": "cfx-quantum",
 	"sources": [
 		"coingecko"

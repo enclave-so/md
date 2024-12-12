@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x6e0daDE58D2d89eBBe7aFc384e3E4f15b70b14D8",
-	"symbol": "QuiverX",
+	"symbol": "QRX",
 	"name": "QuiverX",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/12916/thumb/qrx_logo.png?1696512704",
 	"coingecko": "quiverx",
 	"sources": [
 		"coingecko"

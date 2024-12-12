@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0x90Ed8F1dc86388f14b64ba8fb4bbd23099f18240",
-	"symbol": "SingularityDAO",
-	"name": "SingularityDAO",
+	"symbol": "SDAO",
+	"name": "Singularity Dao",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x90Ed8F1dc86388f14b64ba8fb4bbd23099f18240.png",
 	"coingecko": "singularitydao",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

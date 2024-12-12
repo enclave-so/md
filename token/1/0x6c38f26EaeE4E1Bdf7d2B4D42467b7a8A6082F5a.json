@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x6c38f26EaeE4E1Bdf7d2B4D42467b7a8A6082F5a",
-	"symbol": "Shiro Neko CTO",
+	"symbol": "SHIRO",
 	"name": "Shiro Neko CTO",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/52459/thumb/IMG_7959.jpeg?1733397068",
 	"coingecko": "shiro-neko-cto",
 	"sources": [
 		"coingecko"

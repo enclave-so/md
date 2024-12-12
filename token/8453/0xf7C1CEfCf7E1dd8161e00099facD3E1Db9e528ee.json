@@ -1,10 +1,13 @@
 {
 	"chain": 8453,
 	"address": "0xf7C1CEfCf7E1dd8161e00099facD3E1Db9e528ee",
-	"symbol": "Tower",
-	"name": "Tower",
+	"symbol": "TOWER",
+	"name": "TOWER",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/TOWER/logo.svg",
 	"coingecko": "tower",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

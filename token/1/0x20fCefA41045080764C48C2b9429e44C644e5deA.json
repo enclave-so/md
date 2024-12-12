@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x20fCefA41045080764C48C2b9429e44C644e5deA",
-	"symbol": "Foox (Ordinals)",
-	"name": "Foox (Ordinals)",
+	"symbol": "FOOX",
+	"name": "Foox  Ordinals ",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/33692/thumb/Foox_Logo.png?1702796923",
 	"coingecko": "foox-ordinals",
 	"sources": [
 		"coingecko"

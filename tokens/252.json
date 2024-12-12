@@ -1,40 +1,10 @@
 [
 	{
 		"chain": 252,
-		"address": "0x4c0BD74Da8237c08840984Fdb33A84B4586aAEe6",
-		"symbol": "VNX EURO",
-		"name": "VNX EURO",
-		"coingecko": "vnx-euro",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 252,
-		"address": "0x418126BB59457aFDbA1eCF376f97400B4157425D",
-		"symbol": "VNX Swiss Franc",
-		"name": "VNX Swiss Franc",
-		"coingecko": "vnx-swiss-franc",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 252,
-		"address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
-		"symbol": "Axelar Bridged USDC",
-		"name": "Axelar Bridged USDC",
-		"coingecko": "axlusdc",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 252,
-		"address": "0x157743261C3ba961e92421b268A881AeCe450d41",
-		"symbol": "Inception Restaked sFRAX",
-		"name": "Inception Restaked sFRAX",
-		"coingecko": "inception-restaked-sfrax",
+		"address": "0xc84c0f36e42D0100c6FF5e1D04e2978f0A5B63Cf",
+		"symbol": "Real World Abs",
+		"name": "Real World Abs",
+		"coingecko": "real-world-abs",
 		"sources": [
 			"coingecko"
 		]
@@ -51,40 +21,30 @@
 	},
 	{
 		"chain": 252,
-		"address": "0xdeBb8a79B025B2Fc2CA506F0c69497B60B91235C",
-		"symbol": "Frax Doge",
-		"name": "Frax Doge",
-		"coingecko": "frax-doge",
+		"address": "0xCC15F0F1e81E4A90CC2fAA918842E19F2ea2EE03",
+		"symbol": "Krypto Fraxtal Chicken",
+		"name": "Krypto Fraxtal Chicken",
+		"coingecko": "krypto-fraxtal-chicken",
 		"sources": [
 			"coingecko"
 		]
 	},
 	{
 		"chain": 252,
-		"address": "0xFc00000000000000000000000000000000000002",
-		"symbol": "L2 Standard Bridged FXS (Fraxtal)",
-		"name": "L2 Standard Bridged FXS (Fraxtal)",
-		"coingecko": "l2-standard-bridged-fxs-fraxtal",
+		"address": "0x4c0BD74Da8237c08840984Fdb33A84B4586aAEe6",
+		"symbol": "VNX EURO",
+		"name": "VNX EURO",
+		"coingecko": "vnx-euro",
 		"sources": [
 			"coingecko"
 		]
 	},
 	{
 		"chain": 252,
-		"address": "0xc84c0f36e42D0100c6FF5e1D04e2978f0A5B63Cf",
-		"symbol": "Real World Abs",
-		"name": "Real World Abs",
-		"coingecko": "real-world-abs",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 252,
-		"address": "0xFC00000000000000000000000000000000000006",
-		"symbol": "Wrapped frxETH",
-		"name": "Wrapped frxETH",
-		"coingecko": "wrapped-frxeth",
+		"address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
+		"symbol": "Axelar Bridged USDC",
+		"name": "Axelar Bridged USDC",
+		"coingecko": "axlusdc",
 		"sources": [
 			"coingecko"
 		]
@@ -101,10 +61,40 @@
 	},
 	{
 		"chain": 252,
-		"address": "0xCC15F0F1e81E4A90CC2fAA918842E19F2ea2EE03",
-		"symbol": "Krypto Fraxtal Chicken",
-		"name": "Krypto Fraxtal Chicken",
-		"coingecko": "krypto-fraxtal-chicken",
+		"address": "0x418126BB59457aFDbA1eCF376f97400B4157425D",
+		"symbol": "VNX Swiss Franc",
+		"name": "VNX Swiss Franc",
+		"coingecko": "vnx-swiss-franc",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 252,
+		"address": "0xFC00000000000000000000000000000000000006",
+		"symbol": "Wrapped frxETH",
+		"name": "Wrapped frxETH",
+		"coingecko": "wrapped-frxeth",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 252,
+		"address": "0xdeBb8a79B025B2Fc2CA506F0c69497B60B91235C",
+		"symbol": "Frax Doge",
+		"name": "Frax Doge",
+		"coingecko": "frax-doge",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 252,
+		"address": "0xFC00000000000000000000000000000000000005",
+		"symbol": "L2 Standard Bridged sfrxETH (Fraxtal)",
+		"name": "L2 Standard Bridged sfrxETH (Fraxtal)",
+		"coingecko": "l2-standard-bridged-sfrxeth-fraxtal",
 		"sources": [
 			"coingecko"
 		]
@@ -121,10 +111,20 @@
 	},
 	{
 		"chain": 252,
-		"address": "0xFC00000000000000000000000000000000000005",
-		"symbol": "L2 Standard Bridged sfrxETH (Fraxtal)",
-		"name": "L2 Standard Bridged sfrxETH (Fraxtal)",
-		"coingecko": "l2-standard-bridged-sfrxeth-fraxtal",
+		"address": "0x157743261C3ba961e92421b268A881AeCe450d41",
+		"symbol": "Inception Restaked sFRAX",
+		"name": "Inception Restaked sFRAX",
+		"coingecko": "inception-restaked-sfrax",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 252,
+		"address": "0xFc00000000000000000000000000000000000002",
+		"symbol": "L2 Standard Bridged FXS (Fraxtal)",
+		"name": "L2 Standard Bridged FXS (Fraxtal)",
+		"coingecko": "l2-standard-bridged-fxs-fraxtal",
 		"sources": [
 			"coingecko"
 		]

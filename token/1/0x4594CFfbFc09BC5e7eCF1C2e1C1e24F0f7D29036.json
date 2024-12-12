@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x4594CFfbFc09BC5e7eCF1C2e1C1e24F0f7D29036",
-	"symbol": "0 Knowledge Network",
+	"symbol": "0KN",
 	"name": "0 Knowledge Network",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31626/thumb/200x200.png?1696530442",
 	"coingecko": "0-knowledge-network",
 	"sources": [
 		"coingecko"

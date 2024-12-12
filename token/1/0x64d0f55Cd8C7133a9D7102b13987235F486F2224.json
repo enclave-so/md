@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x64d0f55Cd8C7133a9D7102b13987235F486F2224",
-	"symbol": "SwissBorg",
+	"symbol": "BORG",
 	"name": "SwissBorg",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/2117/thumb/YJUrRy7r_400x400.png?1696503083",
 	"coingecko": "swissborg",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x47DA5456bC2e1ce391b645Ce80F2E97192e4976a",
-	"symbol": "PL^Gnet",
-	"name": "PL^Gnet",
+	"symbol": "PLUG",
+	"name": "PL Gnet",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/15824/thumb/PLUG_token.png?1696515442",
 	"coingecko": "plgnet",
 	"sources": [
 		"coingecko"

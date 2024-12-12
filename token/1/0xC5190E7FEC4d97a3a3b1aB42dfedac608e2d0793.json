@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xC5190E7FEC4d97a3a3b1aB42dfedac608e2d0793",
-	"symbol": "FX1Sports",
+	"symbol": "FXI",
 	"name": "FX1Sports",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30078/thumb/fx1_sports_logo.jpg?1696529003",
 	"coingecko": "fx1sports",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xdA816459F1AB5631232FE5e97a05BBBb94970c95",
-	"symbol": "yvDAI",
+	"symbol": "YVDAI",
 	"name": "yvDAI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/28743/thumb/yvdai.png?1696527723",
 	"coingecko": "yvdai",
 	"sources": [
 		"coingecko"

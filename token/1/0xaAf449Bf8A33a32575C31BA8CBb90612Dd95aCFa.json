@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xaAf449Bf8A33a32575C31BA8CBb90612Dd95aCFa",
-	"symbol": "MBD Financials",
+	"symbol": "MBD",
 	"name": "MBD Financials",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/25617/thumb/mbd.jpeg?1713954436",
 	"coingecko": "mbd-financials",
 	"sources": [
 		"coingecko"

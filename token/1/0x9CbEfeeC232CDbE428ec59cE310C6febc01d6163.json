@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x9CbEfeeC232CDbE428ec59cE310C6febc01d6163",
-	"symbol": "Flochi",
+	"symbol": "FLOCHI",
 	"name": "Flochi",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/38546/thumb/WhatsApp_Image_2024-06-05_at_23.27.39.jpeg?1717928697",
 	"coingecko": "flochi",
 	"sources": [
 		"coingecko"

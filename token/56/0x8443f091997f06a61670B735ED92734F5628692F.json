@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0x8443f091997f06a61670B735ED92734F5628692F",
-	"symbol": "Bella Protocol",
+	"symbol": "BEL",
 	"name": "Bella Protocol",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x8443f091997f06a61670B735ED92734F5628692F.png",
 	"coingecko": "bella-protocol",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

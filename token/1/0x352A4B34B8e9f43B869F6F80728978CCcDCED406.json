@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x352A4B34B8e9f43B869F6F80728978CCcDCED406",
-	"symbol": "SoundLinX",
+	"symbol": "SDLX",
 	"name": "SoundLinX",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/37299/thumb/200x200_logo.png?1713951254",
 	"coingecko": "sound-linx",
 	"sources": [
 		"coingecko"

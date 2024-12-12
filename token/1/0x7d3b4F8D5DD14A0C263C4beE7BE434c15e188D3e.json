@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x7d3b4F8D5DD14A0C263C4beE7BE434c15e188D3e",
-	"symbol": "Moe",
+	"symbol": "MOE",
 	"name": "Moe",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/32680/thumb/moe.png?1698934350",
 	"coingecko": "moe-2",
 	"sources": [
 		"coingecko"

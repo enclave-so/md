@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x0000000000300dd8B0230efcfEf136eCdF6ABCDE",
-	"symbol": "DegenX",
+	"symbol": "DGNX",
 	"name": "DegenX",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/27204/thumb/logo-200-200.png?1705413440",
 	"coingecko": "degenx",
 	"sources": [
 		"coingecko"

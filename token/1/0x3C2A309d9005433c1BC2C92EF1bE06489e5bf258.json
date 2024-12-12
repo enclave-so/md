@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x3C2A309d9005433c1BC2C92EF1bE06489e5bf258",
-	"symbol": "Wrapped Paycoin",
+	"symbol": "WPCI",
 	"name": "Wrapped Paycoin",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/24390/thumb/new_logo_square_%281%29.png?1696523573",
 	"coingecko": "wrapped-paycoin",
 	"sources": [
 		"coingecko"

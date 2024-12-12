@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xd7c302fc3ac829C7E896a32c4Bd126f3e8Bd0a1f",
-	"symbol": "Bit2Me",
+	"symbol": "B2M",
 	"name": "Bit2Me",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/19848/thumb/b2m-circle-solid-default.png?1696519271",
 	"coingecko": "bit2me",
 	"sources": [
 		"coingecko"

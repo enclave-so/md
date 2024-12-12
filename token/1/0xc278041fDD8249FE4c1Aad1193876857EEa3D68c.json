@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xc278041fDD8249FE4c1Aad1193876857EEa3D68c",
-	"symbol": "IdleTUSD (Best Yield)",
-	"name": "IdleTUSD (Best Yield)",
+	"symbol": "IDLETUSDYIELD",
+	"name": "IdleTUSD  Best Yield ",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/11935/thumb/idletusdv3mMaxyield_32.png?1696511796",
 	"coingecko": "idle-tusd-yield",
 	"sources": [
 		"coingecko"

@@ -1,0 +1,11 @@
+{
+	"chain": 56,
+	"address": "0xC762043E211571eB34f1ef377e5e8e76914962f9",
+	"symbol": "APE",
+	"name": "ApeCoin",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0xC762043E211571eB34f1ef377e5e8e76914962f9.png",
+	"sources": [
+		"pancakeswap"
+	]
+}

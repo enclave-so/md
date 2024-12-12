@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x2A79324c19Ef2B89Ea98b23BC669B7E7c9f8A517",
-	"symbol": "WAX",
+	"symbol": "WAXP",
 	"name": "WAX",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/1372/thumb/WAX_Coin_Tickers_P_512px.png?1696502430",
 	"coingecko": "wax",
 	"sources": [
 		"coingecko"

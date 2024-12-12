@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x30f271C9E86D2B7d00a6376Cd96A1cFBD5F0b9b3",
-	"symbol": "Decentr",
+	"symbol": "DEC",
 	"name": "Decentr",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/11816/thumb/Decentr.png?1696511689",
 	"coingecko": "decentr",
 	"sources": [
 		"coingecko"

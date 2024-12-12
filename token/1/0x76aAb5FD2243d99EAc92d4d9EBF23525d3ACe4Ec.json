@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x76aAb5FD2243d99EAc92d4d9EBF23525d3ACe4Ec",
-	"symbol": "GG MetaGame",
+	"symbol": "GGMT",
 	"name": "GG MetaGame",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/37040/thumb/200x200_GG_MetaGame.png?1713162096",
 	"coingecko": "gg-metagame",
 	"sources": [
 		"coingecko"

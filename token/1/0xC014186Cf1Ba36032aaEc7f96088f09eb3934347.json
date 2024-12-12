@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xC014186Cf1Ba36032aaEc7f96088f09eb3934347",
-	"symbol": "WeCoOwn",
+	"symbol": "WCX",
 	"name": "WeCoOwn",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14497/thumb/WCX-Token-Logo.png?1696514184",
 	"coingecko": "wecoown",
 	"sources": [
 		"coingecko"

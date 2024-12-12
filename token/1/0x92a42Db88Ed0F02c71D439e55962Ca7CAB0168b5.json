@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x92a42Db88Ed0F02c71D439e55962Ca7CAB0168b5",
-	"symbol": "TRDGtoken",
+	"symbol": "TRDG",
 	"name": "TRDGtoken",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/14371/thumb/200x200.png?1696514063",
 	"coingecko": "tardigrades-finance",
 	"sources": [
 		"coingecko"

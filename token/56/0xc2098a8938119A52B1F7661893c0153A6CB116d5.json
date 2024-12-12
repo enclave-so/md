@@ -1,0 +1,11 @@
+{
+	"chain": 56,
+	"address": "0xc2098a8938119A52B1F7661893c0153A6CB116d5",
+	"symbol": "RPGOLD",
+	"name": "Rangers Protocol Old",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0xc2098a8938119A52B1F7661893c0153A6CB116d5.png",
+	"sources": [
+		"pancakeswap"
+	]
+}

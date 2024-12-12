@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x8eD955a2b7d2C3a17a9d05dACa95E01818f8C11e",
-	"symbol": "APF coin",
+	"symbol": "APFC",
 	"name": "APF coin",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30990/thumb/photo_2023-10-28_09-48-25.jpg?1698518912",
 	"coingecko": "apf-coin",
 	"sources": [
 		"coingecko"

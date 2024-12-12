@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x628A3b2E302C7e896AcC432D2d0dD22B6cb9bc88",
-	"symbol": "LimeWire",
+	"symbol": "LMWR",
 	"name": "LimeWire",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30356/thumb/LimeWire_Logo_Icon_200x200_%281%29.png?1696529256",
 	"coingecko": "limewire-token",
 	"sources": [
 		"coingecko"

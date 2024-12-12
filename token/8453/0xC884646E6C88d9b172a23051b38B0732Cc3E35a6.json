@@ -1,0 +1,11 @@
+{
+	"chain": 8453,
+	"address": "0xC884646E6C88d9b172a23051b38B0732Cc3E35a6",
+	"symbol": "ETH2X",
+	"name": "Index Coop Ethereum 2x Index",
+	"decimals": 18,
+	"logo": "https://cdn.indexcoop.com/eth2x.svg",
+	"sources": [
+		"indexcoop"
+	]
+}

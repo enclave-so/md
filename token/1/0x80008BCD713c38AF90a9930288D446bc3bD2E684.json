@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x80008BCD713c38AF90a9930288D446bc3bD2E684",
-	"symbol": "Karate Combat",
+	"symbol": "KARATE",
 	"name": "Karate Combat",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30384/thumb/karate.jpg?1696529274",
 	"coingecko": "karate-combat",
 	"sources": [
 		"coingecko"

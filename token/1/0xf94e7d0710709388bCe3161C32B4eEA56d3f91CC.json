@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xf94e7d0710709388bCe3161C32B4eEA56d3f91CC",
-	"symbol": "Destra Network",
+	"symbol": "DSYNC",
 	"name": "Destra Network",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35996/thumb/Destra_Network.png?1710316001",
 	"coingecko": "destra-network",
 	"sources": [
 		"coingecko"

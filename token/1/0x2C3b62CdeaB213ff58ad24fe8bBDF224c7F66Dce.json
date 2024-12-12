@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x2C3b62CdeaB213ff58ad24fe8bBDF224c7F66Dce",
-	"symbol": "MusmeCoin",
+	"symbol": "MSM",
 	"name": "MusmeCoin",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/52485/thumb/ICN_01_ITEM_Coin_0001.png?1733427507",
 	"coingecko": "musmecoin",
 	"sources": [
 		"coingecko"

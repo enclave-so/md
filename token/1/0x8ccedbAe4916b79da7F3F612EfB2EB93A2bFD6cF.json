@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x8ccedbAe4916b79da7F3F612EfB2EB93A2bFD6cF",
-	"symbol": "MNEE USD Stablecoin",
+	"symbol": "MNEE",
 	"name": "MNEE USD Stablecoin",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/39459/thumb/MNEE_logo_no_BG.png?1725666891",
 	"coingecko": "mnee-usd-stablecoin",
 	"sources": [
 		"coingecko"

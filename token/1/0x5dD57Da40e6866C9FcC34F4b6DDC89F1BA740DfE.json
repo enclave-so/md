@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0x5dD57Da40e6866C9FcC34F4b6DDC89F1BA740DfE",
-	"symbol": "BrightID",
+	"symbol": "BRIGHT",
 	"name": "BrightID",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/18415/thumb/bright.PNG?1696517905",
 	"coingecko": "bright-token",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

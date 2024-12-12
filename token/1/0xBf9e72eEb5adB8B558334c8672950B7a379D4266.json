@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xBf9e72eEb5adB8B558334c8672950B7a379D4266",
-	"symbol": "CubToken",
+	"symbol": "CUBT",
 	"name": "CubToken",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/26197/thumb/photo-2022-04-20-13-35-28.jpg?1696525283",
 	"coingecko": "cubtoken",
 	"sources": [
 		"coingecko"

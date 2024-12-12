@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x9C0bD34beBc33A0E898554cFc91e8A84C728BF9F",
-	"symbol": "Pisscoin",
+	"symbol": "PISS",
 	"name": "Pisscoin",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30459/thumb/A7661040-68D2-4753-B20E-B7416A7F90C2.png?1696529346",
 	"coingecko": "pisscoin",
 	"sources": [
 		"coingecko"

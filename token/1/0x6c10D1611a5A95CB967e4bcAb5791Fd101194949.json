@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x6c10D1611a5A95CB967e4bcAb5791Fd101194949",
-	"symbol": "X Project ERC",
+	"symbol": "XERS",
 	"name": "X Project ERC",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35009/thumb/xofficiallogobluesky.jpg?1707101426",
 	"coingecko": "x-project-erc",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xb34e17562e4f1f63A2D4cF684eD8bC124e519771",
-	"symbol": "Nolus",
+	"symbol": "NLS",
 	"name": "Nolus",
+	"decimals": 6,
+	"logo": "https://assets.coingecko.com/coins/images/30786/thumb/nolus_logo_element.png?1696529653",
 	"coingecko": "nolus",
 	"sources": [
 		"coingecko"

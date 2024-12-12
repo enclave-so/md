@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x99A01A4d6a4D621094983050D9A2F10B2912e53D",
-	"symbol": "VirtuSwap",
+	"symbol": "VRSW",
 	"name": "VirtuSwap",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30629/thumb/VirtuSwap_Logo_Red_200x200.png?1696529502",
 	"coingecko": "virtuswap",
 	"sources": [
 		"coingecko"

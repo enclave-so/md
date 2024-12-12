@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x06113abCeF9D163C026441b112e70c82EE1c4A79",
-	"symbol": "Omira",
+	"symbol": "OMIRA",
 	"name": "Omira",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/52434/thumb/Logo200.jpeg?1733339919",
 	"coingecko": "omira",
 	"sources": [
 		"coingecko"

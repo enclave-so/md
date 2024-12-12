@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x2C06BA9e7F0dACcbC1f6A33EA67e85bb68fbEE3a",
-	"symbol": "Lends",
+	"symbol": "LENDS",
 	"name": "Lends",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35015/thumb/logo-200x200.png?1707107578",
 	"coingecko": "lends",
 	"sources": [
 		"coingecko"

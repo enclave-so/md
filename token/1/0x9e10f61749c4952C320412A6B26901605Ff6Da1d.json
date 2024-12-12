@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x9e10f61749c4952C320412A6B26901605Ff6Da1d",
-	"symbol": "Theos",
+	"symbol": "THEOS",
 	"name": "Theos",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/18150/thumb/theos_logo.png?1696517652",
 	"coingecko": "theos",
 	"sources": [
 		"coingecko"

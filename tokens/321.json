@@ -1,6 +1,36 @@
 [
 	{
 		"chain": 321,
+		"address": "0x4446Fc4eb47f2f6586f9fAAb68B3498F86C07521",
+		"symbol": "Wrapped KCS",
+		"name": "Wrapped KCS",
+		"coingecko": "wrapped-kcs",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 321,
+		"address": "0xf55aF137A98607F7ED2eFEfA4cd2DfE70E4253b1",
+		"symbol": "KCC Bridged WETH (Kucoin Community Chain)",
+		"name": "KCC Bridged WETH (Kucoin Community Chain)",
+		"coingecko": "kcc-bridged-weth-kucoin-community-chain",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 321,
+		"address": "0x980a5AfEf3D17aD98635F6C5aebCBAedEd3c3430",
+		"symbol": "Kucoin Bridged USDC (KuCoin Community Chain)",
+		"name": "Kucoin Bridged USDC (KuCoin Community Chain)",
+		"coingecko": "kucoin-bridged-usdc-kucoin-community-chain",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 321,
 		"address": "0x0039f574eE5cC39bdD162E9A88e3EB1f111bAF48",
 		"symbol": "KCC Bridged USDT (Kucoin Community Chain)",
 		"name": "KCC Bridged USDT (Kucoin Community Chain)",
@@ -45,36 +75,6 @@
 		"symbol": "Staked KCS",
 		"name": "Staked KCS",
 		"coingecko": "staked-kcs",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 321,
-		"address": "0x4446Fc4eb47f2f6586f9fAAb68B3498F86C07521",
-		"symbol": "Wrapped KCS",
-		"name": "Wrapped KCS",
-		"coingecko": "wrapped-kcs",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 321,
-		"address": "0xf55aF137A98607F7ED2eFEfA4cd2DfE70E4253b1",
-		"symbol": "KCC Bridged WETH (Kucoin Community Chain)",
-		"name": "KCC Bridged WETH (Kucoin Community Chain)",
-		"coingecko": "kcc-bridged-weth-kucoin-community-chain",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 321,
-		"address": "0x980a5AfEf3D17aD98635F6C5aebCBAedEd3c3430",
-		"symbol": "Kucoin Bridged USDC (KuCoin Community Chain)",
-		"name": "Kucoin Bridged USDC (KuCoin Community Chain)",
-		"coingecko": "kucoin-bridged-usdc-kucoin-community-chain",
 		"sources": [
 			"coingecko"
 		]

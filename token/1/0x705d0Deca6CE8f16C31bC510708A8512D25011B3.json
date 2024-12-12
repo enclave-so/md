@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x705d0Deca6CE8f16C31bC510708A8512D25011B3",
-	"symbol": "PALCOIN Venture Capital",
+	"symbol": "PALCOIN",
 	"name": "PALCOIN Venture Capital",
+	"decimals": 4,
+	"logo": "https://assets.coingecko.com/coins/images/51317/thumb/IMG_20241029_021655_516.jpg?1730707511",
 	"coingecko": "palcoin-venture-capital",
 	"sources": [
 		"coingecko"

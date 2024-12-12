@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x3a781d792ca81B52363F91b1f251F94a8eBA4B4b",
-	"symbol": "Power AI",
+	"symbol": "POWERAI",
 	"name": "Power AI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/50972/thumb/logo_%289%29.png?1729630896",
 	"coingecko": "power-ai",
 	"sources": [
 		"coingecko"

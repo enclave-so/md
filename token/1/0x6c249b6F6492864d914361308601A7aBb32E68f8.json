@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x6c249b6F6492864d914361308601A7aBb32E68f8",
-	"symbol": "Brillion",
+	"symbol": "DUA",
 	"name": "Brillion",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/27976/thumb/Screenshot_2023-06-13_at_11.58.02_AM.png?1696526994",
 	"coingecko": "dua-token",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xE46a5E19B19711332e33F33c2DB3eA143e86Bc10",
-	"symbol": "Eigenpie wBETH",
+	"symbol": "MWBETH",
 	"name": "Eigenpie wBETH",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/37164/thumb/mwBETH.png?1713505825",
 	"coingecko": "eigenpie-wbeth",
 	"sources": [
 		"coingecko"

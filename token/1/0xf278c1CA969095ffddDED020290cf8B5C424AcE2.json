@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xf278c1CA969095ffddDED020290cf8B5C424AcE2",
-	"symbol": "Ruff",
+	"symbol": "RUFF",
 	"name": "Ruff",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/2726/thumb/ruff.png?1696503504",
 	"coingecko": "ruff",
 	"sources": [
 		"coingecko"

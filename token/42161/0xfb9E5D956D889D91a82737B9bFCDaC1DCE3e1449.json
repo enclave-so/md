@@ -1,10 +1,13 @@
 {
 	"chain": 42161,
 	"address": "0xfb9E5D956D889D91a82737B9bFCDaC1DCE3e1449",
-	"symbol": "Liquity",
+	"symbol": "LQTY",
 	"name": "Liquity",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14665/thumb/200-lqty-icon.png?1617631180",
 	"coingecko": "liquity",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"uniswap"
 	]
 }

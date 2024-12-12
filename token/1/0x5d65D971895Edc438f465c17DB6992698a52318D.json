@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x5d65D971895Edc438f465c17DB6992698a52318D",
-	"symbol": "Nebulas",
+	"symbol": "NAS",
 	"name": "Nebulas",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/2431/thumb/193394331.png?1696503264",
 	"coingecko": "nebulas",
 	"sources": [
 		"coingecko"

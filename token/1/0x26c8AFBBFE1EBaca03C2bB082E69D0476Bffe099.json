@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x26c8AFBBFE1EBaca03C2bB082E69D0476Bffe099",
-	"symbol": "Cellframe",
+	"symbol": "CELL",
 	"name": "Cellframe",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14465/thumb/cellframe-coingecko.png?1696514152",
 	"coingecko": "cellframe",
 	"sources": [
 		"coingecko"

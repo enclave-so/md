@@ -4,10 +4,11 @@
 	"symbol": "BOB",
 	"name": "BOB",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xB0B195aEFA3650A6908f15CdaC7D92F8a5791B0B.jpg",
+	"logo": "https://assets.coingecko.com/coins/images/27266/thumb/Bob-logo.png?1696526318",
 	"coingecko": "bob",
 	"sources": [
 		"coingecko",
+		"optimism",
 		"sushiswap"
 	]
 }

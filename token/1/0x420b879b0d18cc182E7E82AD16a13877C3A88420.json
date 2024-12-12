@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x420b879b0d18cc182E7E82AD16a13877C3A88420",
-	"symbol": "Big Bud",
+	"symbol": "BUD",
 	"name": "Big Bud",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/38963/thumb/bigbud_%283%29_%281%29.png?1719710107",
 	"coingecko": "big-bud",
 	"sources": [
 		"coingecko"

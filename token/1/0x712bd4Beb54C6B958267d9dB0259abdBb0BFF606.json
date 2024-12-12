@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x712bd4Beb54C6B958267d9dB0259abdBb0BFF606",
-	"symbol": "Undeads Games",
+	"symbol": "UDS",
 	"name": "Undeads Games",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/36308/thumb/01_avatar.jpg?1711090303",
 	"coingecko": "undeads-games",
 	"sources": [
 		"coingecko"

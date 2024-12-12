@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x4c746Edf20762dC201aC40135e0C13e400d23D58",
-	"symbol": "GOD Coin",
+	"symbol": "GOD",
 	"name": "GOD Coin",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/33360/thumb/_kJ-LILu_400x400.jpg?1701603268",
 	"coingecko": "god-coin",
 	"sources": [
 		"coingecko"

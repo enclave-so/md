@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x3DBB00c9bE5A327E25CAf4f650844C5DbA81E34B",
-	"symbol": "StaFi Staked MATIC",
+	"symbol": "RMATIC",
 	"name": "StaFi Staked MATIC",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/29610/thumb/rMATIC.png?1696528546",
 	"coingecko": "stafi-staked-matic",
 	"sources": [
 		"coingecko"

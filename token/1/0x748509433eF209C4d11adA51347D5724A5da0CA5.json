@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x748509433eF209C4d11adA51347D5724A5da0CA5",
-	"symbol": "Andy on ETH",
+	"symbol": "ANDY",
 	"name": "Andy on ETH",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/37330/thumb/V7hhqYRg_311.png?1714028798",
 	"coingecko": "andy-on-eth",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x4674672BcDdDA2ea5300F5207E1158185c944bc0",
-	"symbol": "Gem Exchange and Trading",
+	"symbol": "GXT",
 	"name": "Gem Exchange and Trading",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/12226/thumb/a.png?1696512059",
 	"coingecko": "gem-exchange-and-trading",
 	"sources": [
 		"coingecko"

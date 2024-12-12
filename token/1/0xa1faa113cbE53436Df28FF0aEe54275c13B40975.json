@@ -2,12 +2,13 @@
 	"chain": 1,
 	"address": "0xa1faa113cbE53436Df28FF0aEe54275c13B40975",
 	"symbol": "ALPHA",
-	"name": "Alpha Finance",
+	"name": "Alpha Venture DAO",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xa1faa113cbE53436Df28FF0aEe54275c13B40975/logo.png",
+	"logo": "https://assets.coingecko.com/coins/images/12738/thumb/AlphaToken_256x256.png?1617160876",
 	"coingecko": "alpha-finance",
 	"sources": [
 		"coingecko",
-		"sushiswap"
+		"sushiswap",
+		"uniswap"
 	]
 }

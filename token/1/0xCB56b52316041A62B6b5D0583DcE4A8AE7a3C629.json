@@ -2,12 +2,13 @@
 	"chain": 1,
 	"address": "0xCB56b52316041A62B6b5D0583DcE4A8AE7a3C629",
 	"symbol": "CIG",
-	"name": "Cigarette Token",
+	"name": "Cigarette",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xCB56b52316041A62B6b5D0583DcE4A8AE7a3C629.jpg",
+	"logo": "https://assets.coingecko.com/coins/images/22145/thumb/logo200.png?1696521491",
 	"coingecko": "cigarette-token",
 	"sources": [
 		"coingecko",
+		"optimism",
 		"sushiswap"
 	]
 }

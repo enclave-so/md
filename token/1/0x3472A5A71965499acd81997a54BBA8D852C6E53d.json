@@ -4,10 +4,11 @@
 	"symbol": "BADGER",
 	"name": "Badger DAO",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/badger.jpg",
+	"logo": "https://assets.coingecko.com/coins/images/13287/thumb/badger_dao_logo.jpg?1607054976",
 	"coingecko": "badger-dao",
 	"sources": [
 		"coingecko",
-		"sushiswap"
+		"sushiswap",
+		"uniswap"
 	]
 }

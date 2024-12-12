@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xB870679a7Fa65b924026F496De7f27c1DD0e5C5F",
-	"symbol": "Hello Pets",
+	"symbol": "PET",
 	"name": "Hello Pets",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14354/thumb/hello_pets.jpg?1696514040",
 	"coingecko": "battle-pets",
 	"sources": [
 		"coingecko"

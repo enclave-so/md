@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x2d787D4f5005Bd66aC910c2E821241625c406ed5",
-	"symbol": "Berry",
+	"symbol": "BERRY",
 	"name": "Berry",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/11016/thumb/Berry_logo.png?1696510963",
 	"coingecko": "berry",
 	"sources": [
 		"coingecko"

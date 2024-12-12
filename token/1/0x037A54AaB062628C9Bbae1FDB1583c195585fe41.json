@@ -3,8 +3,12 @@
 	"address": "0x037A54AaB062628C9Bbae1FDB1583c195585fe41",
 	"symbol": "LCX",
 	"name": "LCX",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/9985/thumb/zRPSu_0o_400x400.jpg?1574327008",
 	"coingecko": "lcx",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism",
+		"uniswap"
 	]
 }

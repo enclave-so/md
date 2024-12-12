@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x14Da7b27b2E0FedEfe0a664118b0c9bc68e2E9AF",
-	"symbol": "Blockchain Cuties Universe Governance",
+	"symbol": "BCUG",
 	"name": "Blockchain Cuties Universe Governance",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14425/thumb/bcug_logo.png?1696514115",
 	"coingecko": "blockchain-cuties-universe-governance",
 	"sources": [
 		"coingecko"

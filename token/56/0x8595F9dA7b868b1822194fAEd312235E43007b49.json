@@ -1,13 +1,14 @@
 {
 	"chain": 56,
 	"address": "0x8595F9dA7b868b1822194fAEd312235E43007b49",
-	"symbol": "BTT",
-	"name": "BitTorrent",
+	"symbol": "BTTOLD",
+	"name": "Bittorrent Old",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0x8595F9dA7b868b1822194fAEd312235E43007b49.jpg",
+	"logo": "https://tokens.pancakeswap.finance/images/0x8595F9dA7b868b1822194fAEd312235E43007b49.png",
 	"coingecko": "bittorrent-old",
 	"sources": [
 		"coingecko",
+		"pancakeswap",
 		"sushiswap"
 	]
 }

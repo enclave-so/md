@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x6BC08509B36A98E829dFfAD49Fde5e412645d0a3",
-	"symbol": "WoofWork.io",
-	"name": "WoofWork.io",
+	"symbol": "WOOF",
+	"name": "WoofWork io",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/28903/thumb/WWlogoTransparent_200x200.png?1696527879",
 	"coingecko": "woofwork-io",
 	"sources": [
 		"coingecko"

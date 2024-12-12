@@ -2,9 +2,9 @@
 	"chain": 1,
 	"address": "0x0FD10b9899882a6f2fcb5c371E17e70FdEe00C38",
 	"symbol": "PUNDIX",
-	"name": "Pundi X Token",
+	"name": "Pundi X",
 	"decimals": 18,
-	"logo": "https://assets.coingecko.com/coins/images/14571/small/vDyefsXq_400x400.jpg?1617085003",
+	"logo": "https://assets.coingecko.com/coins/images/14571/thumb/vDyefsXq_400x400.jpg?1696514252",
 	"coingecko": "pundi-x-2",
 	"sources": [
 		"coingecko",

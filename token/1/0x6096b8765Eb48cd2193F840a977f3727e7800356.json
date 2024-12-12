@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x6096b8765Eb48cd2193F840a977f3727e7800356",
-	"symbol": "CRABBY",
+	"symbol": "CRAB",
 	"name": "CRABBY",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/39035/thumb/unnamed.jpg?1720038984",
 	"coingecko": "crabby",
 	"sources": [
 		"coingecko"

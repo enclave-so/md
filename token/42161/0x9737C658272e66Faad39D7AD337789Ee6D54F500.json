@@ -1,0 +1,11 @@
+{
+	"chain": 42161,
+	"address": "0x9737C658272e66Faad39D7AD337789Ee6D54F500",
+	"symbol": "DPI",
+	"name": "DeFi Pulse Index",
+	"decimals": 18,
+	"logo": "https://cdn.indexcoop.com/dpi.svg",
+	"sources": [
+		"indexcoop"
+	]
+}

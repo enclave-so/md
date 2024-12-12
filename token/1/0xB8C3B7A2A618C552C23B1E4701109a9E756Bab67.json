@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xB8C3B7A2A618C552C23B1E4701109a9E756Bab67",
-	"symbol": "1INCH yVault",
+	"symbol": "YV1INCH",
 	"name": "1INCH yVault",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/28795/thumb/yv1INCH-128-0xB8C3B7A2A618C552C23B1E4701109a9E756Bab67.png?1696527773",
 	"coingecko": "1inch-yvault",
 	"sources": [
 		"coingecko"

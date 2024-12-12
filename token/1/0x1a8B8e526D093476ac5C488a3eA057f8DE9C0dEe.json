@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x1a8B8e526D093476ac5C488a3eA057f8DE9C0dEe",
-	"symbol": "JEFFWorld Token",
+	"symbol": "JEFF",
 	"name": "JEFFWorld Token",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/33188/thumb/output-onlinepngtools_%283%29.png?1700954618",
 	"coingecko": "jeffworld-token",
 	"sources": [
 		"coingecko"

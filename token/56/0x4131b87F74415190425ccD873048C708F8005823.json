@@ -1,0 +1,11 @@
+{
+	"chain": 56,
+	"address": "0x4131b87F74415190425ccD873048C708F8005823",
+	"symbol": "bMXX",
+	"name": "Multiplier",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x4131b87F74415190425ccD873048C708F8005823.png",
+	"sources": [
+		"pancakeswap"
+	]
+}

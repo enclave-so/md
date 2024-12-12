@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x584a4Dd38d28fD1EA0E147bA7B70AEd29A37e335",
-	"symbol": "Bitcoin Inu",
+	"symbol": "BTCINU",
 	"name": "Bitcoin Inu",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/34794/thumb/1000005192.jpg?1706031950",
 	"coingecko": "bitcoin-inu",
 	"sources": [
 		"coingecko"

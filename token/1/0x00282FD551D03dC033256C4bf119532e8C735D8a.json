@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x00282FD551D03dC033256C4bf119532e8C735D8a",
-	"symbol": "Biaocoin",
+	"symbol": "BIAO",
 	"name": "Biaocoin",
+	"decimals": 2,
+	"logo": "https://assets.coingecko.com/coins/images/30602/thumb/biao_cmc.png?1696529472",
 	"coingecko": "biaocoin",
 	"sources": [
 		"coingecko"

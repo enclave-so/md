@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x8F081Eb884Fd47b79536D28E2DD9d4886773F783",
-	"symbol": "bePAY Finance",
+	"symbol": "BECOIN",
 	"name": "bePAY Finance",
+	"decimals": 6,
+	"logo": "https://assets.coingecko.com/coins/images/21275/thumb/logo-becoin.png?1696520646",
 	"coingecko": "bepay",
 	"sources": [
 		"coingecko"

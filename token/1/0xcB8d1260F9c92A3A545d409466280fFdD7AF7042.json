@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xcB8d1260F9c92A3A545d409466280fFdD7AF7042",
-	"symbol": "NFT Protocol",
+	"symbol": "NFT",
 	"name": "NFT Protocol",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/12174/thumb/nftprotocol_32.png?1696512011",
 	"coingecko": "nft-protocol",
 	"sources": [
 		"coingecko"

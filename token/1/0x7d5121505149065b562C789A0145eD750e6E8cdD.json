@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x7d5121505149065b562C789A0145eD750e6E8cdD",
-	"symbol": "Victoria VR",
+	"symbol": "VR",
 	"name": "Victoria VR",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/21178/thumb/vr.png?1696520554",
 	"coingecko": "victoria-vr",
 	"sources": [
 		"coingecko"

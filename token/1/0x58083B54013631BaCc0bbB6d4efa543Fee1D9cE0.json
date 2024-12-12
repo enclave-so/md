@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x58083B54013631BaCc0bbB6d4efa543Fee1D9cE0",
-	"symbol": "Force",
+	"symbol": "FRC",
 	"name": "Force",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30917/thumb/force_token_1000.png?1696529762",
 	"coingecko": "force-2",
 	"sources": [
 		"coingecko"

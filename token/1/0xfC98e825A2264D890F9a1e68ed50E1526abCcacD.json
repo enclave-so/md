@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0xfC98e825A2264D890F9a1e68ed50E1526abCcacD",
-	"symbol": "Moss Carbon Credit",
+	"symbol": "MCO2",
 	"name": "Moss Carbon Credit",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14414/thumb/ENtxnThA_400x400.jpg?1615948522",
 	"coingecko": "moss-carbon-credit",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"uniswap"
 	]
 }

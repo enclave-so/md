@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xA5269A8e31B93Ff27B887B56720A25F844db0529",
-	"symbol": "Morpho-Aave USD Coin",
-	"name": "Morpho-Aave USD Coin",
+	"symbol": "MAUSDC",
+	"name": "Morpho Aave USD Coin",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/29835/thumb/maUSDC.jpg?1696528762",
 	"coingecko": "mausdc",
 	"sources": [
 		"coingecko"

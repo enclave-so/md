@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x03dDe9e5BB31ee40A471476e2FCcF75C67921062",
-	"symbol": "EML Protocol",
+	"symbol": "EML",
 	"name": "EML Protocol",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30950/thumb/EML_LOGO.png?1696529788",
 	"coingecko": "eml-protocol",
 	"sources": [
 		"coingecko"

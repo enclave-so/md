@@ -2,12 +2,13 @@
 	"chain": 56,
 	"address": "0xcF6BB5389c92Bdda8a3747Ddb454cB7a64626C63",
 	"symbol": "XVS",
-	"name": "Venus",
+	"name": "Venus Token",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/xvs.jpg",
+	"logo": "https://tokens.pancakeswap.finance/images/0xcF6BB5389c92Bdda8a3747Ddb454cB7a64626C63.png",
 	"coingecko": "venus",
 	"sources": [
 		"coingecko",
+		"pancakeswap",
 		"sushiswap"
 	]
 }

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xAC20315350d7B59cBE846144f5Eb8a6D1DF1F5fC",
-	"symbol": "Dinari RDDT",
+	"symbol": "RDDTD",
 	"name": "Dinari RDDT",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/39618/thumb/Dinari-token-icon.png?1723148750",
 	"coingecko": "dinari-rddt",
 	"sources": [
 		"coingecko"

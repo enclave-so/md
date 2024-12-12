@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x7A771A90B8F2a10aFd9A75B8E49D646d1139Bb98",
-	"symbol": "Stealth Deals",
+	"symbol": "DEAL",
 	"name": "Stealth Deals",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/33562/thumb/Stealth-Deals-2.png?1702443551",
 	"coingecko": "stealth-deals",
 	"sources": [
 		"coingecko"

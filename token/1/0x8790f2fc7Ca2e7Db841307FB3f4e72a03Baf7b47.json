@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x8790f2fc7Ca2e7Db841307FB3f4e72a03Baf7b47",
-	"symbol": "Spillways",
+	"symbol": "SPILLWAYS",
 	"name": "Spillways",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/28358/thumb/1669791775144_%281%29.png?1696527362",
 	"coingecko": "spillways",
 	"sources": [
 		"coingecko"

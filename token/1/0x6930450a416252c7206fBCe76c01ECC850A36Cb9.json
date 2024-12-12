@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x6930450a416252c7206fBCe76c01ECC850A36Cb9",
-	"symbol": "SHEBOSHIS",
+	"symbol": "SHEB",
 	"name": "SHEBOSHIS",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/35291/thumb/SHEB_11200.jpg?1708080526",
 	"coingecko": "sheboshis",
 	"sources": [
 		"coingecko"

@@ -4,10 +4,12 @@
 	"symbol": "MANA",
 	"name": "Decentraland",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/mana.jpg",
+	"logo": "https://assets.coingecko.com/coins/images/878/thumb/decentraland-mana.png?1550108745",
 	"coingecko": "decentraland",
 	"sources": [
 		"coingecko",
-		"sushiswap"
+		"indexcoop",
+		"sushiswap",
+		"uniswap"
 	]
 }

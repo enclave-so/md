@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xaF8942831F3A096f708b8b31F191B8958Cf176c5",
-	"symbol": "Neural Radiance Field",
+	"symbol": "NERF",
 	"name": "Neural Radiance Field",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/29521/thumb/Neural_Radiance_Field.png?1696528464",
 	"coingecko": "neural-radiance-field",
 	"sources": [
 		"coingecko"

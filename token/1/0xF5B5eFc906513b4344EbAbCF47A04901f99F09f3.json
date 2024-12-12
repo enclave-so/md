@@ -1,8 +1,9 @@
 {
 	"chain": 1,
 	"address": "0xF5B5eFc906513b4344EbAbCF47A04901f99F09f3",
-	"symbol": "UBIX Network",
+	"symbol": "UBX",
 	"name": "UBIX Network",
+	"logo": "https://assets.coingecko.com/coins/images/13000/thumb/1.png?1696512789",
 	"coingecko": "ubix-network",
 	"sources": [
 		"coingecko"

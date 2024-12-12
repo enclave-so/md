@@ -4,7 +4,7 @@
 	"symbol": "VITE",
 	"name": "Vite",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xadd5E881984783dD432F80381Fb52F45B53f3e70/logo.png",
+	"logo": "https://assets.coingecko.com/coins/images/4513/thumb/VITE_new_logo_200px.png?1709175957",
 	"coingecko": "vite",
 	"sources": [
 		"coingecko",

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xeC5483804e637D45cDe22Fa0869656B64b5AB1ab",
-	"symbol": "Acent",
+	"symbol": "ACE",
 	"name": "Acent",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/15211/thumb/acent-logo.png?1696514867",
 	"coingecko": "acent",
 	"sources": [
 		"coingecko"

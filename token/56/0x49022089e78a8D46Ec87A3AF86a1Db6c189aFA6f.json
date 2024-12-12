@@ -1,0 +1,11 @@
+{
+	"chain": 56,
+	"address": "0x49022089e78a8D46Ec87A3AF86a1Db6c189aFA6f",
+	"symbol": "mCOIN",
+	"name": "Mirror COIN",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x49022089e78a8D46Ec87A3AF86a1Db6c189aFA6f.png",
+	"sources": [
+		"pancakeswap"
+	]
+}

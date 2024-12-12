@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x80f0C1c49891dcFDD40b6e0F960F84E6042bcB6F",
-	"symbol": "DBXen",
+	"symbol": "DXN",
 	"name": "DBXen",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/29838/thumb/DBXen.jpg?1696528765",
 	"coingecko": "dbxen",
 	"sources": [
 		"coingecko"

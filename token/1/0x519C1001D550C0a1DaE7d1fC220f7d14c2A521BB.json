@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x519C1001D550C0a1DaE7d1fC220f7d14c2A521BB",
-	"symbol": "Polkaswap",
+	"symbol": "PSWAP",
 	"name": "Polkaswap",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/15475/thumb/pswap-token-logomark-ticker-icon-200px-transparent-optimized.png?1696515120",
 	"coingecko": "polkaswap",
 	"sources": [
 		"coingecko"

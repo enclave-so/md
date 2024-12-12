@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x7e877b99897D514da01bD1d177E693EC639961Af",
-	"symbol": "Oggy Inu [ETH]",
-	"name": "Oggy Inu [ETH]",
+	"symbol": "OGGY",
+	"name": "Oggy Inu  ETH ",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/32619/thumb/Oggy_logo_200x200.png?1698756117",
 	"coingecko": "oggy-inu-2",
 	"sources": [
 		"coingecko"

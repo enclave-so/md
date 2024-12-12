@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x9eEC1A4814323a7396c938bc86aeC46b97F1BD82",
-	"symbol": "Toku",
+	"symbol": "TOKU",
 	"name": "Toku",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/29590/thumb/IMG_1137.jpeg?1720342559",
 	"coingecko": "toku",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xfC70CbB442D5c115eE1497d22b421B1f9Bd9f3Da",
-	"symbol": "Biblical Truth",
+	"symbol": "BTRU",
 	"name": "Biblical Truth",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/36677/thumb/BTRU_Logo.png?1712062960",
 	"coingecko": "biblical-truth",
 	"sources": [
 		"coingecko"

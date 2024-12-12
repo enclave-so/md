@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0x037838b556d9c9d654148a284682C55bB5f56eF4",
-	"symbol": "Lightning Protocol",
-	"name": "Lightning Protocol",
+	"symbol": "LIGHT",
+	"name": "Lightning",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x037838b556d9c9d654148a284682C55bB5f56eF4.png",
 	"coingecko": "lightning-protocol",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

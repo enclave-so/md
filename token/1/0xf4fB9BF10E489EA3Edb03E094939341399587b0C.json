@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xf4fB9BF10E489EA3Edb03E094939341399587b0C",
-	"symbol": "AirDAO",
+	"symbol": "AMB",
 	"name": "AirDAO",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/1041/thumb/amb.png?1696502148",
 	"coingecko": "amber",
 	"sources": [
 		"coingecko"

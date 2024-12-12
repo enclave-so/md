@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x1BB9b64927e0C5e207C9DB4093b3738Eef5D8447",
-	"symbol": "Vector Reserve",
+	"symbol": "VEC",
 	"name": "Vector Reserve",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/34876/thumb/vec200.png?1709644054",
 	"coingecko": "vector-reserve",
 	"sources": [
 		"coingecko"

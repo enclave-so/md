@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xE51b8Ab09008285a0380Dd2680cD9Dd5e13924D3",
-	"symbol": "BallSwap",
+	"symbol": "BSP",
 	"name": "BallSwap",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14050/thumb/bsp.png?1696513775",
 	"coingecko": "ballswap",
 	"sources": [
 		"coingecko"

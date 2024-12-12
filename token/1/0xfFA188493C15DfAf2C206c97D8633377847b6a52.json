@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xfFA188493C15DfAf2C206c97D8633377847b6a52",
-	"symbol": "Wefi",
+	"symbol": "WEFI",
 	"name": "Wefi",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30540/thumb/wefi.png?1696529412",
 	"coingecko": "wefi-finance",
 	"sources": [
 		"coingecko"

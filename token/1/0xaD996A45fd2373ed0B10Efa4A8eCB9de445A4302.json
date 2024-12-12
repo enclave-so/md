@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xaD996A45fd2373ed0B10Efa4A8eCB9de445A4302",
-	"symbol": "Shirtum",
+	"symbol": "SHI",
 	"name": "Shirtum",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/16955/thumb/4fWlpC0.png?1696516523",
 	"coingecko": "shirtum",
 	"sources": [
 		"coingecko"

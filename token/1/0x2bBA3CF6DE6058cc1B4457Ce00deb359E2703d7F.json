@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x2bBA3CF6DE6058cc1B4457Ce00deb359E2703d7F",
-	"symbol": "HashCoin",
+	"symbol": "HSC",
 	"name": "HashCoin",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/4989/thumb/hashfuture-logo.png?1696505523",
 	"coingecko": "hashcoin",
 	"sources": [
 		"coingecko"

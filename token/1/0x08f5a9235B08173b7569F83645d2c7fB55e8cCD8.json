@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x08f5a9235B08173b7569F83645d2c7fB55e8cCD8",
-	"symbol": "Tierion",
+	"symbol": "TNT",
 	"name": "Tierion",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/923/thumb/tierion.png?1696502044",
 	"coingecko": "tierion",
 	"sources": [
 		"coingecko"

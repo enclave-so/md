@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xFB19075D77a0F111796FB259819830F4780f1429",
-	"symbol": "Fenerbahçe",
-	"name": "Fenerbahçe",
+	"symbol": "FB",
+	"name": "Fenerbah e",
+	"decimals": 6,
+	"logo": "https://assets.coingecko.com/coins/images/17711/thumb/FB_Logo.png?1696517238",
 	"coingecko": "fenerbahce-token",
 	"sources": [
 		"coingecko"

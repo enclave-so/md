@@ -1,0 +1,11 @@
+{
+	"chain": 10,
+	"address": "0xDb9888b842408B0b8eFa1f5477bD9F351754999E",
+	"symbol": "BAXA",
+	"name": "BAXagent Coin",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/BAXA/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

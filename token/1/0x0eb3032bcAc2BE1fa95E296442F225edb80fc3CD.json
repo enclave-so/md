@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x0eb3032bcAc2BE1fa95E296442F225edb80fc3CD",
-	"symbol": "Aster",
+	"symbol": "ATC",
 	"name": "Aster",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/17325/thumb/atc.png?1696516878",
 	"coingecko": "aster",
 	"sources": [
 		"coingecko"

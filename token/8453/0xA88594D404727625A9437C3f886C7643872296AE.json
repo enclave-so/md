@@ -1,10 +1,13 @@
 {
 	"chain": 8453,
 	"address": "0xA88594D404727625A9437C3f886C7643872296AE",
-	"symbol": "Moonwell",
+	"symbol": "WELL",
 	"name": "Moonwell",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/26133/large/WELL.png?1696525221",
 	"coingecko": "moonwell-artemis",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"uniswap"
 	]
 }

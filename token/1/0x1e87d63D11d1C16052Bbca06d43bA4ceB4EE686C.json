@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x1e87d63D11d1C16052Bbca06d43bA4ceB4EE686C",
-	"symbol": "BRC on the ERC",
+	"symbol": "BRC20",
 	"name": "BRC on the ERC",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/33534/thumb/brcontheerc.jpg?1702354054",
 	"coingecko": "brc-on-the-erc",
 	"sources": [
 		"coingecko"

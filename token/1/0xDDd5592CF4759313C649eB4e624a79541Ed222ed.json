@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xDDd5592CF4759313C649eB4e624a79541Ed222ed",
-	"symbol": "PepeXL",
+	"symbol": "PEPEXL",
 	"name": "PepeXL",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30343/thumb/plogo200.png?1696529243",
 	"coingecko": "pepexl",
 	"sources": [
 		"coingecko"

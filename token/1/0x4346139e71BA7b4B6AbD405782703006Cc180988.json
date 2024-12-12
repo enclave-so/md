@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x4346139e71BA7b4B6AbD405782703006Cc180988",
-	"symbol": "TonGPU",
+	"symbol": "TGPU",
 	"name": "TonGPU",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/39193/thumb/logo.jpeg?1720991504",
 	"coingecko": "tongpu",
 	"sources": [
 		"coingecko"

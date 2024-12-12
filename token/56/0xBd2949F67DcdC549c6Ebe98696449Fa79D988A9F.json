@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0xBd2949F67DcdC549c6Ebe98696449Fa79D988A9F",
-	"symbol": "Meter Governance",
-	"name": "Meter Governance",
+	"symbol": "MTRG",
+	"name": "Meter",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0xBd2949F67DcdC549c6Ebe98696449Fa79D988A9F.png",
 	"coingecko": "meter",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

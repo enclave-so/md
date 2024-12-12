@@ -1,0 +1,11 @@
+{
+	"chain": 42161,
+	"address": "0x2A676eeAd159c4C8e8593471c6d666F02827FF8C",
+	"symbol": "GALA",
+	"name": "GALA",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/12493/standard/GALA-COINGECKO.png?1696512310",
+	"sources": [
+		"uniswap"
+	]
+}

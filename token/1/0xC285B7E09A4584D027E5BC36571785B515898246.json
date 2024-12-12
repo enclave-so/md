@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xC285B7E09A4584D027E5BC36571785B515898246",
-	"symbol": "Coin98 Dollar",
+	"symbol": "CUSD",
 	"name": "Coin98 Dollar",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/26588/thumb/CUSD-01.png?1696525663",
 	"coingecko": "coin98-dollar",
 	"sources": [
 		"coingecko"

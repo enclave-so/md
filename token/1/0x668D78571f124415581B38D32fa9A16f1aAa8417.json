@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x668D78571f124415581B38D32fa9A16f1aAa8417",
-	"symbol": "1ex",
+	"symbol": "1EX",
 	"name": "1ex",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/34927/thumb/1ex_logo_200%D1%85200.png?1706686304",
 	"coingecko": "1ex",
 	"sources": [
 		"coingecko"

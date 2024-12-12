@@ -3,6 +3,8 @@
 	"address": "0x5b52bfB8062Ce664D74bbCd4Cd6DC7Df53Fd7233",
 	"symbol": "ZENIQ",
 	"name": "ZENIQ",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/29284/thumb/zeniq.png?1696528236",
 	"coingecko": "zeniq",
 	"sources": [
 		"coingecko"

@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0xFceB31A79F71AC9CBDCF853519c1b12D379EdC46",
-	"symbol": "Lista DAO",
+	"symbol": "LISTA",
 	"name": "Lista DAO",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0xFceB31A79F71AC9CBDCF853519c1b12D379EdC46.png",
 	"coingecko": "lista",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

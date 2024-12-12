@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x62F03b52c377FeA3EB71D451a95ad86C818755D1",
-	"symbol": "DogeVerse",
+	"symbol": "DOGEVERSE",
 	"name": "DogeVerse",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/38495/thumb/DogeVerse_200x200.png?1717692269",
 	"coingecko": "dogeverse",
 	"sources": [
 		"coingecko"

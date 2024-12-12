@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x5B7533812759B45C2B44C19e320ba2cD2681b542",
-	"symbol": "SingularityNET",
+	"symbol": "AGIX",
 	"name": "SingularityNET",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/2138/thumb/singularitynet.png?1696503103",
 	"coingecko": "singularitynet",
 	"sources": [
 		"coingecko"

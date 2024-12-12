@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x3419875B4D3Bca7F3FddA2dB7a476A79fD31B4fE",
-	"symbol": "DizzyHavoc",
+	"symbol": "DZHV",
 	"name": "DizzyHavoc",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35575/thumb/dizzyhavoc_circle_3_200_200_transparentBg.png?1709194317",
 	"coingecko": "dizzyhavoc",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x6E79B51959CF968d87826592f46f819F92466615",
-	"symbol": "Hoppy",
+	"symbol": "HOPPY",
 	"name": "Hoppy",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/37197/thumb/Hoppy_200x200_.png?1724175711",
 	"coingecko": "hoppy-meme",
 	"sources": [
 		"coingecko"

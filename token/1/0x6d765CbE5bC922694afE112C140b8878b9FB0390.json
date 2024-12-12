@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x6d765CbE5bC922694afE112C140b8878b9FB0390",
-	"symbol": "SUSHI yVault",
+	"symbol": "YVSUSHI",
 	"name": "SUSHI yVault",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/28789/thumb/yvSUSHI-128-0x6d765CbE5bC922694afE112C140b8878b9FB0390.png?1696527767",
 	"coingecko": "sushi-yvault",
 	"sources": [
 		"coingecko"

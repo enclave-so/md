@@ -1,0 +1,11 @@
+{
+	"chain": 8453,
+	"address": "0xb008BDCF9CdFf9da684a190941dC3dCa8C2Cdd44",
+	"symbol": "FLUX",
+	"name": "Flux",
+	"decimals": 8,
+	"logo": "https://ethereum-optimism.github.io/data/FLUX/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

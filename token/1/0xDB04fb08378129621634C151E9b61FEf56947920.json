@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xDB04fb08378129621634C151E9b61FEf56947920",
-	"symbol": "LegendX",
+	"symbol": "LGNDX",
 	"name": "LegendX",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/40141/thumb/TLCG.PNG?1725992538",
 	"coingecko": "legendx",
 	"sources": [
 		"coingecko"

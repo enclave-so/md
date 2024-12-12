@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x40a7dF3dF8b56147B781353D379cB960120211D7",
-	"symbol": "Moby",
+	"symbol": "MOBY",
 	"name": "Moby",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35146/thumb/photo_2024-02-13_09-43-04.jpg?1707846594",
 	"coingecko": "moby",
 	"sources": [
 		"coingecko"

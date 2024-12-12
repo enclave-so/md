@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xFf19138b039D938db46bDDA0067DC4BA132ec71C",
-	"symbol": "Snetwork",
+	"symbol": "SNET",
 	"name": "Snetwork",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/5382/thumb/snetwork.png?1696505867",
 	"coingecko": "snetwork",
 	"sources": [
 		"coingecko"

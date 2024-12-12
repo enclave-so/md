@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x993864E43Caa7F7F12953AD6fEb1d1Ca635B875F",
-	"symbol": "SingularityDAO",
+	"symbol": "SDAO",
 	"name": "SingularityDAO",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/15385/thumb/200x200_logo.png?1696515032",
 	"coingecko": "singularitydao",
 	"sources": [
 		"coingecko"

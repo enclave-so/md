@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x517ABf1fCDBD76BC75B532683ada9113E313A128",
-	"symbol": "Doke Inu",
+	"symbol": "DOKE",
 	"name": "Doke Inu",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/29234/thumb/Doke_logo.jpg?1696528191",
 	"coingecko": "doke-inu",
 	"sources": [
 		"coingecko"

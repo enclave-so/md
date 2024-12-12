@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x0E9cc0F7E550BD43BD2af2214563C47699F96479",
-	"symbol": "UnleashClub",
+	"symbol": "UNLEASH",
 	"name": "UnleashClub",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30804/thumb/UnleashClub.png?1696529662",
 	"coingecko": "unleashclub",
 	"sources": [
 		"coingecko"

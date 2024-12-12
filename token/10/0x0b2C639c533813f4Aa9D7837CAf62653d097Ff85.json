@@ -2,12 +2,14 @@
 	"chain": 10,
 	"address": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85",
 	"symbol": "USDC",
-	"name": "USD Coin",
+	"name": "USDCoin",
 	"decimals": 6,
-	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/optimism/0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85.jpg",
+	"logo": "https://ethereum-optimism.github.io/data/USDC/logo.png",
 	"coingecko": "usd-coin",
 	"sources": [
 		"coingecko",
-		"sushiswap"
+		"optimism",
+		"sushiswap",
+		"uniswap"
 	]
 }

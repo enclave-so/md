@@ -1,0 +1,11 @@
+{
+	"chain": 8453,
+	"address": "0xd5b22dCfa9a919b28Afe164fc7Af10b832d4B022",
+	"symbol": "LORDS",
+	"name": "Lords",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/LORDS/logo.png",
+	"sources": [
+		"optimism"
+	]
+}

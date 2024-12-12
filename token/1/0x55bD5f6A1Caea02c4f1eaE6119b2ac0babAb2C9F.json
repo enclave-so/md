@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x55bD5f6A1Caea02c4f1eaE6119b2ac0babAb2C9F",
-	"symbol": "AgenTensor",
+	"symbol": "AGTS",
 	"name": "AgenTensor",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/52287/thumb/IMG_20241129_101608_043.jpg?1732954477",
 	"coingecko": "agentensor",
 	"sources": [
 		"coingecko"

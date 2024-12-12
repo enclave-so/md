@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0x04756126F044634C9a0f0E985e60c88a51ACC206",
-	"symbol": "Carbon Browser",
-	"name": "Carbon Browser",
+	"symbol": "CSIX",
+	"name": "Carbon",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x04756126F044634C9a0f0E985e60c88a51ACC206.png",
 	"coingecko": "carbon-browser",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

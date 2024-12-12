@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x6d57B2E05F26C26b549231c866bdd39779e4a488",
-	"symbol": "VNX Gold",
+	"symbol": "VNXAU",
 	"name": "VNX Gold",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/28019/thumb/VNX_Token_logo_%283%29.png?1696527035",
 	"coingecko": "vnx-gold",
 	"sources": [
 		"coingecko"

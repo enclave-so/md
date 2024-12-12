@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x499568c250Ab2a42292261d6121525d70691894b",
-	"symbol": "KROWN",
+	"symbol": "KRW",
 	"name": "KROWN",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/16530/thumb/KRW_token_logo_200x200.png?1696516093",
 	"coingecko": "krown",
 	"sources": [
 		"coingecko"

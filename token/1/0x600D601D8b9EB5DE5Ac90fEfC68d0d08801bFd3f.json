@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x600D601D8b9EB5DE5Ac90fEfC68d0d08801bFd3f",
-	"symbol": "Element",
+	"symbol": "ELMT",
 	"name": "Element",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/33775/thumb/ELMT_Logo_Mark_Filled_-_Neon_LG.png?1702970207",
 	"coingecko": "element",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x91dFbEE3965baAEE32784c2d546B7a0C62F268c9",
-	"symbol": "Forj",
+	"symbol": "BONDLY",
 	"name": "Forj",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/13322/thumb/FORJ_twitter_twitter-linked_in_profile_%281%29.png?1696513091",
 	"coingecko": "bondly",
 	"sources": [
 		"coingecko"

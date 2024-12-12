@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xBEEF01060047522408756E0000A90ce195A70000",
-	"symbol": "Aperture Finance",
+	"symbol": "APTR",
 	"name": "Aperture Finance",
+	"decimals": 6,
+	"logo": "https://assets.coingecko.com/coins/images/37940/thumb/icon_white.png?1715967425",
 	"coingecko": "aperture-finance",
 	"sources": [
 		"coingecko"

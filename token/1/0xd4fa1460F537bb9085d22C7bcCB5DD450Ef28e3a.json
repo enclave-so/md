@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xd4fa1460F537bb9085d22C7bcCB5DD450Ef28e3a",
-	"symbol": "Populous",
+	"symbol": "PPT",
 	"name": "Populous",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/753/thumb/populous.png?1696501907",
 	"coingecko": "populous",
 	"sources": [
 		"coingecko"

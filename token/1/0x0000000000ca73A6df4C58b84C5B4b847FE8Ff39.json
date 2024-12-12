@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x0000000000ca73A6df4C58b84C5B4b847FE8Ff39",
-	"symbol": "Asterix",
+	"symbol": "ASTX",
 	"name": "Asterix",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35257/thumb/Asterix_Logo_200x200.png?1708006538",
 	"coingecko": "asterix",
 	"sources": [
 		"coingecko"

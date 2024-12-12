@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x49642110B712C1FD7261Bc074105E9E44676c68F",
-	"symbol": "DinoLFG",
+	"symbol": "DINO",
 	"name": "DinoLFG",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/28239/thumb/DinoLFG.png?1716431744",
 	"coingecko": "dinolfg",
 	"sources": [
 		"coingecko"

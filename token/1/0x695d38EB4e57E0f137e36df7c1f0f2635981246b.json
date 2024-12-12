@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x695d38EB4e57E0f137e36df7c1f0f2635981246b",
-	"symbol": "Meme AI Coin",
+	"symbol": "MEMEAI",
 	"name": "Meme AI Coin",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/34356/thumb/MEMEAI.png?1704706407",
 	"coingecko": "meme-ai-coin",
 	"sources": [
 		"coingecko"

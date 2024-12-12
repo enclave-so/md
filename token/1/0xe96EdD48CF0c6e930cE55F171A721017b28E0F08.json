@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xe96EdD48CF0c6e930cE55F171A721017b28E0F08",
-	"symbol": "NexusAI",
+	"symbol": "NEXUSAI",
 	"name": "NexusAI",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/36238/thumb/NexusAI.png?1710918464",
 	"coingecko": "nexusai",
 	"sources": [
 		"coingecko"

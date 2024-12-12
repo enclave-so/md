@@ -3,6 +3,8 @@
 	"address": "0xc4b9e3aa1071741220A548832C887B39Cb621970",
 	"symbol": "FUG",
 	"name": "FUG",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/51370/thumb/Logo200.png?1730936162",
 	"coingecko": "fug",
 	"sources": [
 		"coingecko"

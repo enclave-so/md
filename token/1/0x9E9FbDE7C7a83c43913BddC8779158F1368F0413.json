@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x9E9FbDE7C7a83c43913BddC8779158F1368F0413",
-	"symbol": "Pandora",
+	"symbol": "PANDORA",
 	"name": "Pandora",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/34996/thumb/PandoraToken.png?1706954340",
 	"coingecko": "pandora",
 	"sources": [
 		"coingecko"

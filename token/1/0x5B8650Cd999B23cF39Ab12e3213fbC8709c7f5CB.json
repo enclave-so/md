@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x5B8650Cd999B23cF39Ab12e3213fbC8709c7f5CB",
-	"symbol": "MaziMatic",
+	"symbol": "MAZI",
 	"name": "MaziMatic",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30490/thumb/4de906d9d4104a16b4334d8ec8f75284.png?1696529377",
 	"coingecko": "mazimatic",
 	"sources": [
 		"coingecko"

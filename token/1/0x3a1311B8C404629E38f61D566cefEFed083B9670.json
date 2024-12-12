@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x3a1311B8C404629E38f61D566cefEFed083B9670",
-	"symbol": "Piccolo Inu",
+	"symbol": "PINU",
 	"name": "Piccolo Inu",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/19335/thumb/Piccolo-Inu.png?1696518776",
 	"coingecko": "piccolo-inu",
 	"sources": [
 		"coingecko"

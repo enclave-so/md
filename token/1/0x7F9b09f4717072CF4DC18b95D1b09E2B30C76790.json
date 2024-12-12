@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x7F9b09f4717072CF4DC18b95D1b09E2B30C76790",
-	"symbol": "Vault AI",
+	"symbol": "VAULT",
 	"name": "Vault AI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/32578/thumb/IMG_6957.jpeg?1698558686",
 	"coingecko": "vaulttech",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xC57F1d079c862b70AA12FAAb19293F827187aAf6",
-	"symbol": "Gilgeous",
+	"symbol": "GLG",
 	"name": "Gilgeous",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30241/thumb/GLG_200x200.jpg?1696529150",
 	"coingecko": "gilgeous",
 	"sources": [
 		"coingecko"

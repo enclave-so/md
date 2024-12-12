@@ -2,12 +2,14 @@
 	"chain": 1,
 	"address": "0x1494CA1F11D487c2bBe4543E90080AeBa4BA3C2b",
 	"symbol": "DPI",
-	"name": "Defi Pulse Index",
+	"name": "DeFi Pulse Index",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/dpi.jpg",
+	"logo": "https://assets.coingecko.com/coins/images/12465/thumb/defi_pulse_index_set.png?1600051053",
 	"coingecko": "defipulse-index",
 	"sources": [
 		"coingecko",
-		"sushiswap"
+		"indexcoop",
+		"sushiswap",
+		"uniswap"
 	]
 }

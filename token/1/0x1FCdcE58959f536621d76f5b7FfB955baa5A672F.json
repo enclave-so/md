@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x1FCdcE58959f536621d76f5b7FfB955baa5A672F",
-	"symbol": "ForTube",
+	"symbol": "FOR",
 	"name": "ForTube",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/8242/thumb/for.png?1606195375",
 	"coingecko": "force-protocol",
 	"sources": [
 		"coingecko"

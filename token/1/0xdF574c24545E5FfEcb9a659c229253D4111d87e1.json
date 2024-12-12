@@ -4,7 +4,7 @@
 	"symbol": "HUSD",
 	"name": "HUSD",
 	"decimals": 8,
-	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/husd.jpg",
+	"logo": "https://assets.coingecko.com/coins/images/9567/thumb/HUSD.jpg?1696509647",
 	"coingecko": "husd",
 	"sources": [
 		"coingecko",

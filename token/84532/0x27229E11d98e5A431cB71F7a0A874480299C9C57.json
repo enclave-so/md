@@ -1,0 +1,11 @@
+{
+	"chain": 84532,
+	"address": "0x27229E11d98e5A431cB71F7a0A874480299C9C57",
+	"symbol": "LOCG",
+	"name": "LOCGame",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/LOCG/logo.png",
+	"sources": [
+		"optimism"
+	]
+}

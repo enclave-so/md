@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x0bBCEfA5F3630Cae34842cb9D9b36BC0d4257a0d",
-	"symbol": "Kinetix Finance Token",
+	"symbol": "KAI",
 	"name": "Kinetix Finance Token",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/34031/thumb/KFI_Token_1.png?1703675672",
 	"coingecko": "kinetixfi",
 	"sources": [
 		"coingecko"

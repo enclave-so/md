@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xaeE433ADeBe0FBB88dAa47eF0C1A513CaA52EF02",
-	"symbol": "Pontoon",
+	"symbol": "TOON",
 	"name": "Pontoon",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/19575/thumb/pontoon.PNG?1696519007",
 	"coingecko": "pontoon",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x64A60493D888728Cf42616e034a0dfEAe38EFCF0",
-	"symbol": "OneLedger",
+	"symbol": "OLT",
 	"name": "OneLedger",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/3422/thumb/One_Ledger.jpeg?1696504117",
 	"coingecko": "one-ledger",
 	"sources": [
 		"coingecko"

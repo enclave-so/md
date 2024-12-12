@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x342f4CA388896E6300Bb899acA2d8619CBeFCECE",
-	"symbol": "Innovai",
+	"symbol": "INO",
 	"name": "Innovai",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/37307/thumb/InnovaiLogo200x200.png?1713952452",
 	"coingecko": "innovai",
 	"sources": [
 		"coingecko"

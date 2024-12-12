@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x69D9905B2e5f6F5433212b7F3c954433F23C1572",
-	"symbol": "Onooks",
+	"symbol": "OOKS",
 	"name": "Onooks",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/16281/thumb/onooks-logo.png?1696515879",
 	"coingecko": "onooks",
 	"sources": [
 		"coingecko"

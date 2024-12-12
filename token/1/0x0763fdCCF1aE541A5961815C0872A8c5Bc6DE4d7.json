@@ -3,8 +3,12 @@
 	"address": "0x0763fdCCF1aE541A5961815C0872A8c5Bc6DE4d7",
 	"symbol": "SUKU",
 	"name": "SUKU",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/11969/thumb/UmfW5S6f_400x400.jpg?1596602238",
 	"coingecko": "suku",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism",
+		"uniswap"
 	]
 }

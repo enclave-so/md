@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xb6EE9668771a79be7967ee29a63D4184F8097143",
-	"symbol": "CargoX",
+	"symbol": "CXO",
 	"name": "CargoX",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/2580/thumb/cargox.png?1696503384",
 	"coingecko": "cargox",
 	"sources": [
 		"coingecko"

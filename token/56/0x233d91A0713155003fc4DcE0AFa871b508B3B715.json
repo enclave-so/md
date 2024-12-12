@@ -4,8 +4,9 @@
 	"symbol": "DITTO",
 	"name": "Ditto",
 	"decimals": 9,
-	"logo": "https://assets.coingecko.com/coins/images/13463/small/ditto.png?1608766914",
+	"logo": "https://tokens.pancakeswap.finance/images/0x233d91A0713155003fc4DcE0AFa871b508B3B715.png",
 	"sources": [
+		"pancakeswap",
 		"sushiswap"
 	]
 }

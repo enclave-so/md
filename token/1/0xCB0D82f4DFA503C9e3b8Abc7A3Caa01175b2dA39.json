@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xCB0D82f4DFA503C9e3b8Abc7A3Caa01175b2dA39",
-	"symbol": "AurusX",
+	"symbol": "AX",
 	"name": "AurusX",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/27871/thumb/AurusX_token_2D.jpg?1696526889",
 	"coingecko": "aurusx",
 	"sources": [
 		"coingecko"

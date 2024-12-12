@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x79C6Ffe2ccBca761e9E289A69432bFfB0b744876",
-	"symbol": "Pineapple Owl",
+	"symbol": "PINEOWL",
 	"name": "Pineapple Owl",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/32089/thumb/Pineapple_Owl_Logo_Alt.png?1696530887",
 	"coingecko": "pineapple-owl",
 	"sources": [
 		"coingecko"

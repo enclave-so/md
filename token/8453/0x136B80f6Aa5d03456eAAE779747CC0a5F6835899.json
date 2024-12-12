@@ -1,0 +1,11 @@
+{
+	"chain": 8453,
+	"address": "0x136B80f6Aa5d03456eAAE779747CC0a5F6835899",
+	"symbol": "CTRAVL",
+	"name": "Travel Deals",
+	"decimals": 4,
+	"logo": "https://ethereum-optimism.github.io/data/CTRAVL/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

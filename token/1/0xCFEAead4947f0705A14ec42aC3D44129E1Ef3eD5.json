@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xCFEAead4947f0705A14ec42aC3D44129E1Ef3eD5",
-	"symbol": "Notional Finance",
+	"symbol": "NOTE",
 	"name": "Notional Finance",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/20282/thumb/NOTE-340x340.png?1696519687",
 	"coingecko": "notional-finance",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xff00644CA76DEF7a3F7501a281fFE45934AeFBfe",
-	"symbol": "Shadow Wizard Money Gang",
+	"symbol": "GANG",
 	"name": "Shadow Wizard Money Gang",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/32452/thumb/logo.png?1698240659",
 	"coingecko": "shadow-wizard-money-gang",
 	"sources": [
 		"coingecko"

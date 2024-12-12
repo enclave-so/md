@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x5d285F735998F36631F678FF41fb56A10A4d0429",
-	"symbol": "MixMarvel",
+	"symbol": "MIX",
 	"name": "MixMarvel",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/8222/thumb/8878caf93b1e3b6cfb3b414bda3b5250.png?1696508428",
 	"coingecko": "mixmarvel",
 	"sources": [
 		"coingecko"

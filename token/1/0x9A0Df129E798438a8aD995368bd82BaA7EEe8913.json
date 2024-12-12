@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x9A0Df129E798438a8aD995368bd82BaA7EEe8913",
-	"symbol": "BEEP Coin",
+	"symbol": "BEEP",
 	"name": "BEEP Coin",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30566/thumb/green.png?1696529437",
 	"coingecko": "beep-coin",
 	"sources": [
 		"coingecko"

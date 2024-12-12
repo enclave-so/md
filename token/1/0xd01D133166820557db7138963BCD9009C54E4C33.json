@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xd01D133166820557db7138963BCD9009C54E4C33",
-	"symbol": "ChainEx",
+	"symbol": "CEX",
 	"name": "ChainEx",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/33477/thumb/ChainEx-2.png?1702013835",
 	"coingecko": "chainex",
 	"sources": [
 		"coingecko"

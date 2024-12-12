@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xc4C75F2A0cB1a9ACc33929512dc9733EA1Fd6fde",
-	"symbol": "Martin Shkreli Inu",
+	"symbol": "MSI",
 	"name": "Martin Shkreli Inu",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/26365/thumb/jEYEUxUI_400x400.jpeg?1696525442",
 	"coingecko": "martin-shkreli-inu",
 	"sources": [
 		"coingecko"

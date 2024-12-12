@@ -3,6 +3,8 @@
 	"address": "0xE50365f5D679CB98a1dd62D6F6e58e59321BcdDf",
 	"symbol": "LA",
 	"name": "LA",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/1051/thumb/LA_token.png?1696502156",
 	"coingecko": "latoken",
 	"sources": [
 		"coingecko"

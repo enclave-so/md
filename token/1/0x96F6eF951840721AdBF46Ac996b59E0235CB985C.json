@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x96F6eF951840721AdBF46Ac996b59E0235CB985C",
-	"symbol": "Ondo US Dollar Yield",
+	"symbol": "USDY",
 	"name": "Ondo US Dollar Yield",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31700/thumb/usdy_%281%29.png?1696530524",
 	"coingecko": "ondo-us-dollar-yield",
 	"sources": [
 		"coingecko"

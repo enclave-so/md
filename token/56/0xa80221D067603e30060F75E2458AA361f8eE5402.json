@@ -1,0 +1,11 @@
+{
+	"chain": 56,
+	"address": "0xa80221D067603e30060F75E2458AA361f8eE5402",
+	"symbol": "IRL",
+	"name": "Rebase",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0xa80221D067603e30060F75E2458AA361f8eE5402.png",
+	"sources": [
+		"pancakeswap"
+	]
+}

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x5fA54fdDF1870C344DbFaBb37dFab8700Ec0Def1",
-	"symbol": "FrogeX",
+	"symbol": "FROGEX",
 	"name": "FrogeX",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/14775/thumb/-p8cz7Bk_400x400.png?1696514444",
 	"coingecko": "froge-finance",
 	"sources": [
 		"coingecko"

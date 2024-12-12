@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xF0187b76be05C1FCAa24f39C0a3aAB4434099c4f",
-	"symbol": "Aether Games",
+	"symbol": "AEG",
 	"name": "Aether Games",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/29916/thumb/coin_200x198.png?1708678337",
 	"coingecko": "aether-games",
 	"sources": [
 		"coingecko"

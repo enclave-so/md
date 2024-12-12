@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xd00065A096fF5fbAEAEc726cdEF3414D2c8a5116",
-	"symbol": "Emotional Support Dog",
+	"symbol": "MAGNUS",
 	"name": "Emotional Support Dog",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/52345/thumb/Magnus.jpg?1733132014",
 	"coingecko": "emotional-support-dog",
 	"sources": [
 		"coingecko"

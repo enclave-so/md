@@ -1,10 +1,13 @@
 {
 	"chain": 8453,
 	"address": "0x717d31A60a9e811469673429c9F8Ea24358990f1",
-	"symbol": "Everyworld",
+	"symbol": "EVERY",
 	"name": "Everyworld",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/EVERY/logo.svg",
 	"coingecko": "everyworld",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

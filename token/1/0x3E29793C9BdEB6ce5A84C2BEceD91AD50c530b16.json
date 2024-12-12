@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x3E29793C9BdEB6ce5A84C2BEceD91AD50c530b16",
-	"symbol": "ChainZoom",
+	"symbol": "ZOOM",
 	"name": "ChainZoom",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/37241/thumb/1000006617.jpg?1713859754",
 	"coingecko": "chainzoom",
 	"sources": [
 		"coingecko"

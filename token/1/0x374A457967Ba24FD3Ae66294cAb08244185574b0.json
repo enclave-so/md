@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x374A457967Ba24FD3Ae66294cAb08244185574b0",
-	"symbol": "Backed Microsoft",
+	"symbol": "BMSFT",
 	"name": "Backed Microsoft",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/38915/thumb/b-MSFT-200x200.png?1719474832",
 	"coingecko": "backed-microsoft",
 	"sources": [
 		"coingecko"

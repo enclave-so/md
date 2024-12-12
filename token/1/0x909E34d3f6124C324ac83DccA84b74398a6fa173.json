@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x909E34d3f6124C324ac83DccA84b74398a6fa173",
-	"symbol": "Panther Protocol",
+	"symbol": "ZKP",
 	"name": "Panther Protocol",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/18611/thumb/panther.jpg?1696518084",
 	"coingecko": "panther",
 	"sources": [
 		"coingecko"

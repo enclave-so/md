@@ -1,0 +1,11 @@
+{
+	"chain": 56,
+	"address": "0xE1d1F66215998786110Ba0102ef558b22224C016",
+	"symbol": "HOO",
+	"name": "Hoo",
+	"decimals": 8,
+	"logo": "https://tokens.pancakeswap.finance/images/0xE1d1F66215998786110Ba0102ef558b22224C016.png",
+	"sources": [
+		"pancakeswap"
+	]
+}

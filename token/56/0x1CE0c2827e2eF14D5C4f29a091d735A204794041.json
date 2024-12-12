@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0x1CE0c2827e2eF14D5C4f29a091d735A204794041",
-	"symbol": "Binance-Peg Avalanche",
-	"name": "Binance-Peg Avalanche",
+	"symbol": "AVAX",
+	"name": "Avalanche",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x1CE0c2827e2eF14D5C4f29a091d735A204794041.png",
 	"coingecko": "binance-peg-avalanche",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

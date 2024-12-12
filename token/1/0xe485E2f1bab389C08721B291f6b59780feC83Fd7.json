@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0xe485E2f1bab389C08721B291f6b59780feC83Fd7",
-	"symbol": "Shutter",
+	"symbol": "SHU",
 	"name": "Shutter",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35524/thumb/Shutter_logo.png?1709014167",
 	"coingecko": "shutter",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

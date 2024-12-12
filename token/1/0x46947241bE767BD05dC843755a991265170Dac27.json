@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x46947241bE767BD05dC843755a991265170Dac27",
-	"symbol": "Bandwidth AI",
+	"symbol": "BPS",
 	"name": "Bandwidth AI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/36962/thumb/Bandwidth_AI.png?1712907332",
 	"coingecko": "bandwidth-ai",
 	"sources": [
 		"coingecko"

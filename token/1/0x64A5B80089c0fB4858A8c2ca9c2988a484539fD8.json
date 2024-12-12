@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x64A5B80089c0fB4858A8c2ca9c2988a484539fD8",
-	"symbol": "Print Mining",
+	"symbol": "PRINT",
 	"name": "Print Mining",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/33606/thumb/Print_miner_%28Custom%29.jpg?1702511022",
 	"coingecko": "print-mining",
 	"sources": [
 		"coingecko"

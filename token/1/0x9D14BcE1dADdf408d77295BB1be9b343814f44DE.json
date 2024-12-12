@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x9D14BcE1dADdf408d77295BB1be9b343814f44DE",
-	"symbol": "Koi",
+	"symbol": "KOI",
 	"name": "Koi",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35766/thumb/Koi_logo.png?1709782399",
 	"coingecko": "koi-3",
 	"sources": [
 		"coingecko"

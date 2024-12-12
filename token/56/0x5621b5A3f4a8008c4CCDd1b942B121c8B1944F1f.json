@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0x5621b5A3f4a8008c4CCDd1b942B121c8B1944F1f",
-	"symbol": "Exeedme",
+	"symbol": "XED",
 	"name": "Exeedme",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x5621b5A3f4a8008c4CCDd1b942B121c8B1944F1f.png",
 	"coingecko": "exeedme",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

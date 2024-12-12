@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x0B7f0e51Cd1739D6C96982D55aD8fA634dd43A9C",
-	"symbol": "Dream Machine Token",
+	"symbol": "DMT",
 	"name": "Dream Machine Token",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30505/thumb/dmt.png?1696529391",
 	"coingecko": "dream-machine-token",
 	"sources": [
 		"coingecko"

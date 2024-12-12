@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x1AEe5EC60fc79B669f11FE368fDe789E267649e2",
-	"symbol": "Inception Restaked tBTC",
+	"symbol": "INTBTC",
 	"name": "Inception Restaked tBTC",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/50752/thumb/intBTC.png?1728959398",
 	"coingecko": "inception-restaked-tbtc",
 	"sources": [
 		"coingecko"

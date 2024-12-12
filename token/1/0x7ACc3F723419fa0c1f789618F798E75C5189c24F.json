@@ -3,6 +3,8 @@
 	"address": "0x7ACc3F723419fa0c1f789618F798E75C5189c24F",
 	"symbol": "DADA",
 	"name": "DADA",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/34999/thumb/Dada.png?1707068797",
 	"coingecko": "dada-3",
 	"sources": [
 		"coingecko"

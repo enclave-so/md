@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xdA5e1988097297dCdc1f90D4dFE7909e847CBeF6",
-	"symbol": "World Liberty Financial",
+	"symbol": "WLFI",
 	"name": "World Liberty Financial",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/50767/thumb/wlfi.jpg?1729123752",
 	"coingecko": "world-liberty-financial",
 	"sources": [
 		"coingecko"

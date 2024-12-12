@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xD87996Ff3D06858BFC20989aEF50cc5FCD4d84ca",
-	"symbol": "Golden Inu",
+	"symbol": "GOLDEN",
 	"name": "Golden Inu",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/31473/thumb/git-200x200.png?1704456922",
 	"coingecko": "golden-inu-token",
 	"sources": [
 		"coingecko"

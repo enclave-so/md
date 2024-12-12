@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x5e29CF3E3fEd4df50aCab95f8268e9ee26Ea36f2",
-	"symbol": "Dacxi",
+	"symbol": "DXI",
 	"name": "Dacxi",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/4466/thumb/dacxi.png?1696505057",
 	"coingecko": "dacxi",
 	"sources": [
 		"coingecko"

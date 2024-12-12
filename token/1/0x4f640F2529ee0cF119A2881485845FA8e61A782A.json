@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x4f640F2529ee0cF119A2881485845FA8e61A782A",
-	"symbol": "ORE Network",
+	"symbol": "ORE",
 	"name": "ORE Network",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/18917/thumb/ORE_FullColor.png?1696518374",
 	"coingecko": "ptokens-ore",
 	"sources": [
 		"coingecko"

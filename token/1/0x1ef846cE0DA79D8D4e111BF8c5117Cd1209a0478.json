@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x1ef846cE0DA79D8D4e111BF8c5117Cd1209a0478",
-	"symbol": "Ethereum Inu",
+	"symbol": "ETHINU",
 	"name": "Ethereum Inu",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/34875/thumb/favicon-origin_%281%29.png?1724039438",
 	"coingecko": "ethereum-inu",
 	"sources": [
 		"coingecko"

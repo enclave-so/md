@@ -3,6 +3,8 @@
 	"address": "0xC05d14442A510De4D3d71a3d316585aA0CE32b50",
 	"symbol": "LINA",
 	"name": "LINA",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/5412/thumb/3083.png?1696505898",
 	"coingecko": "lina",
 	"sources": [
 		"coingecko"

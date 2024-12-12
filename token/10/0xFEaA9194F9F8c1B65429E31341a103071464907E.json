@@ -4,8 +4,10 @@
 	"symbol": "LRC",
 	"name": "LoopringCoin V2",
 	"decimals": 18,
-	"logo": "https://ethereum-optimism.github.io/data/LRC/logo.png",
+	"logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xBBbbCA6A901c926F240b89EacB641d8Aec7AEafD/logo.png",
 	"sources": [
-		"sushiswap"
+		"optimism",
+		"sushiswap",
+		"uniswap"
 	]
 }

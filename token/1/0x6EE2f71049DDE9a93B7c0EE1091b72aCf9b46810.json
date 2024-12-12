@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x6EE2f71049DDE9a93B7c0EE1091b72aCf9b46810",
-	"symbol": "Liquid Mercury",
+	"symbol": "MERC",
 	"name": "Liquid Mercury",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/29297/thumb/cda56b6a-146c-4348-b4ff-5b87980c0f83.jpg?1696528249",
 	"coingecko": "liquid-mercury",
 	"sources": [
 		"coingecko"

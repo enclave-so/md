@@ -1,8 +1,9 @@
 {
 	"chain": 1,
 	"address": "0x42DAe489F1Ca3764AABE1907c22bC18776415FcD",
-	"symbol": "VibingCatToken",
+	"symbol": "VCT",
 	"name": "VibingCatToken",
+	"decimals": 18,
 	"coingecko": "vibingcattoken",
 	"sources": [
 		"coingecko"

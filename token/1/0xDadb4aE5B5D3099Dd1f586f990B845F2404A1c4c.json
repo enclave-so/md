@@ -3,6 +3,8 @@
 	"address": "0xDadb4aE5B5D3099Dd1f586f990B845F2404A1c4c",
 	"symbol": "Lenny Face",
 	"name": "Lenny Face",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/29138/thumb/Lenny_Face.png?1696528099",
 	"coingecko": "lenny-face",
 	"sources": [
 		"coingecko"

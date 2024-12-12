@@ -1,0 +1,11 @@
+{
+	"chain": 10,
+	"address": "0x6e4cc0Ab2B4d2eDAfa6723cFA1582229F1Dd1Be1",
+	"symbol": "ZUSD",
+	"name": "Z.com USD",
+	"decimals": 6,
+	"logo": "https://ethereum-optimism.github.io/data/ZUSD/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

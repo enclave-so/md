@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xCdeb595293511115d9D9d44B189Cc0Da4a08cfAf",
-	"symbol": "Jellyfish Mobile",
+	"symbol": "JFISH",
 	"name": "Jellyfish Mobile",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31879/thumb/jelly-fish-mix-white_%282%29.png?1696530691",
 	"coingecko": "jellyfish-mobile",
 	"sources": [
 		"coingecko"

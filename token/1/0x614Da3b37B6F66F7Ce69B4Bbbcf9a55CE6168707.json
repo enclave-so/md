@@ -3,6 +3,8 @@
 	"address": "0x614Da3b37B6F66F7Ce69B4Bbbcf9a55CE6168707",
 	"symbol": "MMX",
 	"name": "MMX",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/33161/thumb/mmx.png?1700830276",
 	"coingecko": "m2-global-wealth-limited-mmx",
 	"sources": [
 		"coingecko"

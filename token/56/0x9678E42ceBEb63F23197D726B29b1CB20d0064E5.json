@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0x9678E42ceBEb63F23197D726B29b1CB20d0064E5",
-	"symbol": "Binance-Peg IoTeX",
-	"name": "Binance-Peg IoTeX",
+	"symbol": "IOTX",
+	"name": "IoTeX",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x9678E42ceBEb63F23197D726B29b1CB20d0064E5.png",
 	"coingecko": "binance-peg-iotex",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

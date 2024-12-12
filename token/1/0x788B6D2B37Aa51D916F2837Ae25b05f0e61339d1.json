@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x788B6D2B37Aa51D916F2837Ae25b05f0e61339d1",
-	"symbol": "Metavault DAO",
+	"symbol": "MVD",
 	"name": "Metavault DAO",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/23899/thumb/MVD_Coin-simple.png?1696523099",
 	"coingecko": "metavault-dao",
 	"sources": [
 		"coingecko"

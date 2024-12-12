@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xD502F487e1841Fdc805130e13eae80c61186Bc98",
-	"symbol": "Integral",
+	"symbol": "ITGR",
 	"name": "Integral",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/18381/thumb/Integral_icon_purple.png?1704724515",
 	"coingecko": "integral",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x8B68F1D0246320d5CaF8CD9828faaB28D66BA749",
-	"symbol": "SmartHub",
+	"symbol": "SMART",
 	"name": "SmartHub",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/39990/thumb/WhatsApp_Image_2024-08-29_at_16_00_51_737cc708-photoaidcom-cropped.jpg?1725061040",
 	"coingecko": "smarthub",
 	"sources": [
 		"coingecko"

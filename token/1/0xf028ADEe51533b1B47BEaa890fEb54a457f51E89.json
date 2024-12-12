@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xf028ADEe51533b1B47BEaa890fEb54a457f51E89",
-	"symbol": "BMCHAIN",
+	"symbol": "BMT",
 	"name": "BMCHAIN",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/7419/thumb/bchain_logo.jpg?1696507693",
 	"coingecko": "bmchain-token",
 	"sources": [
 		"coingecko"

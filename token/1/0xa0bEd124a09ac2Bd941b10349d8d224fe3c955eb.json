@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xa0bEd124a09ac2Bd941b10349d8d224fe3c955eb",
-	"symbol": "DePay",
+	"symbol": "DEPAY",
 	"name": "DePay",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/13183/thumb/DEPAY.png?1696512965",
 	"coingecko": "depay",
 	"sources": [
 		"coingecko"

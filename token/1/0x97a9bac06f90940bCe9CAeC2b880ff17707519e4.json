@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x97a9bac06f90940bCe9CAeC2b880ff17707519e4",
-	"symbol": "Minato",
+	"symbol": "MNTO",
 	"name": "Minato",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/24622/thumb/MNTO_200x200.png?1696523794",
 	"coingecko": "minato",
 	"sources": [
 		"coingecko"

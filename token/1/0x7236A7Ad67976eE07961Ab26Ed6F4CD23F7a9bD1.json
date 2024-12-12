@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x7236A7Ad67976eE07961Ab26Ed6F4CD23F7a9bD1",
-	"symbol": "TXN Club",
+	"symbol": "TXN",
 	"name": "TXN Club",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/33157/thumb/200x200.png?1700827374",
 	"coingecko": "txn-club",
 	"sources": [
 		"coingecko"

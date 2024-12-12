@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x22987407FD1fC5A971e3FDA3B3e74C88666cDa91",
-	"symbol": "Smart Reward Token",
+	"symbol": "SRT",
 	"name": "Smart Reward Token",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/25035/thumb/me-44EyS_400x400.jpg?1696524187",
 	"coingecko": "smart-reward-token",
 	"sources": [
 		"coingecko"

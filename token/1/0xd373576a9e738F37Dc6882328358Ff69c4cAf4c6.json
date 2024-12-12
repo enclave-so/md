@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xd373576a9e738F37Dc6882328358Ff69c4cAf4c6",
-	"symbol": "Zam.io",
-	"name": "Zam.io",
+	"symbol": "ZAM",
+	"name": "Zam io",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/19522/thumb/zam.png?1696518956",
 	"coingecko": "zam-io",
 	"sources": [
 		"coingecko"

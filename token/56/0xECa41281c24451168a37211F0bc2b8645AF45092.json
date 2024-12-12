@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0xECa41281c24451168a37211F0bc2b8645AF45092",
-	"symbol": "TokenPocket Token",
-	"name": "TokenPocket Token",
+	"symbol": "TPT",
+	"name": "TokenPocket",
+	"decimals": 4,
+	"logo": "https://tokens.pancakeswap.finance/images/0xECa41281c24451168a37211F0bc2b8645AF45092.png",
 	"coingecko": "token-pocket",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

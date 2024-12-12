@@ -1,0 +1,11 @@
+{
+	"chain": 56,
+	"address": "0x2c44b726ADF1963cA47Af88B284C06f30380fC78",
+	"symbol": "PEOPLE",
+	"name": "ConstitutionDAO",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x2c44b726ADF1963cA47Af88B284C06f30380fC78.png",
+	"sources": [
+		"pancakeswap"
+	]
+}

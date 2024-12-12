@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0x477bC8d23c634C154061869478bce96BE6045D12",
-	"symbol": "Seedify.fund",
-	"name": "Seedify.fund",
+	"symbol": "SFUND",
+	"name": "Seedify",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x477bC8d23c634C154061869478bce96BE6045D12.png",
 	"coingecko": "seedify-fund",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

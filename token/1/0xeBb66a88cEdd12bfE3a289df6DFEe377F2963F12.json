@@ -3,6 +3,8 @@
 	"address": "0xeBb66a88cEdd12bfE3a289df6DFEe377F2963F12",
 	"symbol": "OSCAR",
 	"name": "OSCAR",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/50654/thumb/OscarLogo200X200.Png_%283%29cmc.Png?1728628946",
 	"coingecko": "oscar",
 	"sources": [
 		"coingecko"

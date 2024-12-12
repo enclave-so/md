@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xf1264873436A0771E440E2b28072FAfcC5EEBd01",
-	"symbol": "Kenshi",
+	"symbol": "KNS",
 	"name": "Kenshi",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30759/thumb/kenshi.jpg?1696529628",
 	"coingecko": "kenshi-2",
 	"sources": [
 		"coingecko"

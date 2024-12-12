@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x6439221D2b06a4CDf38F52A55294Ddc28e1Bed08",
-	"symbol": "Gnomy",
+	"symbol": "GNOMY",
 	"name": "Gnomy",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/39145/thumb/Gnomy.png?1720766134",
 	"coingecko": "gnomy",
 	"sources": [
 		"coingecko"

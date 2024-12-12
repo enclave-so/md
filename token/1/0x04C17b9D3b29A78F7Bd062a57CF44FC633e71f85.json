@@ -3,6 +3,8 @@
 	"address": "0x04C17b9D3b29A78F7Bd062a57CF44FC633e71f85",
 	"symbol": "IMPT",
 	"name": "IMPT",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/28486/thumb/IMPT_logo.png?1696527478",
 	"coingecko": "impt",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x62959c699A52eC647622c91e79CE73344e4099f5",
-	"symbol": "DeFine",
+	"symbol": "DFA",
 	"name": "DeFine",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/17579/thumb/define.PNG?1696517113",
 	"coingecko": "define",
 	"sources": [
 		"coingecko"

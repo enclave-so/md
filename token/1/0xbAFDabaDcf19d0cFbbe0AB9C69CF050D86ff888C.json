@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xbAFDabaDcf19d0cFbbe0AB9C69CF050D86ff888C",
-	"symbol": "Zedxion",
+	"symbol": "ZEDXION",
 	"name": "Zedxion",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/18841/thumb/ZEDXION.png?1696518302",
 	"coingecko": "zedxion",
 	"sources": [
 		"coingecko"

@@ -1,0 +1,11 @@
+{
+	"chain": 56,
+	"address": "0x9356f6d95b8E109F4b7Ce3E49D672967d3B48383",
+	"symbol": "kBTC",
+	"name": "Kinza Babylon Staked BTC",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x9356f6d95b8E109F4b7Ce3E49D672967d3B48383.png",
+	"sources": [
+		"pancakeswap"
+	]
+}

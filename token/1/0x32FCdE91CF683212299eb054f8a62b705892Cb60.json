@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x32FCdE91CF683212299eb054f8a62b705892Cb60",
-	"symbol": "Aurivis",
+	"symbol": "AURI",
 	"name": "Aurivis",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/50165/thumb/1000079438.png?1726136345",
 	"coingecko": "aurivis",
 	"sources": [
 		"coingecko"

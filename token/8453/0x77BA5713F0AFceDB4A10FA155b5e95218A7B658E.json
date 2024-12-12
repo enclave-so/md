@@ -1,0 +1,11 @@
+{
+	"chain": 8453,
+	"address": "0x77BA5713F0AFceDB4A10FA155b5e95218A7B658E",
+	"symbol": "SUDO",
+	"name": "SUDO GOVERNANCE TOKEN",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/SUDO/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

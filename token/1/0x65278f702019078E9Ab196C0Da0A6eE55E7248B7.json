@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x65278f702019078E9Ab196C0Da0A6eE55E7248B7",
-	"symbol": "Dione",
+	"symbol": "DIONE",
 	"name": "Dione",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/26931/thumb/Dione_Icon_2.png?1733262665",
 	"coingecko": "dione",
 	"sources": [
 		"coingecko"

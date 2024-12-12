@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xABD4C63d2616A5201454168269031355f4764337",
-	"symbol": "Orderly Network",
+	"symbol": "ORDER",
 	"name": "Orderly Network",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/38501/thumb/Orderly_Network_Coingecko_200*200.png?1717751359",
 	"coingecko": "orderly-network",
 	"sources": [
 		"coingecko"

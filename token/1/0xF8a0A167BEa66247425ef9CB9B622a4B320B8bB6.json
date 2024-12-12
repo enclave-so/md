@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xF8a0A167BEa66247425ef9CB9B622a4B320B8bB6",
-	"symbol": "Resonator",
+	"symbol": "RSN",
 	"name": "Resonator",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/50893/thumb/Frame_41_%283%29.png?1729504531",
 	"coingecko": "resonator",
 	"sources": [
 		"coingecko"

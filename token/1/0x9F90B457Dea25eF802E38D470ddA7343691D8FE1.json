@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x9F90B457Dea25eF802E38D470ddA7343691D8FE1",
-	"symbol": "Crosschain IOTX",
+	"symbol": "CIOTX",
 	"name": "Crosschain IOTX",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/18331/thumb/iotx.PNG?1696517822",
 	"coingecko": "crosschain-iotx",
 	"sources": [
 		"coingecko"

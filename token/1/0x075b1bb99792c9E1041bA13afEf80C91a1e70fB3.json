@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x075b1bb99792c9E1041bA13afEf80C91a1e70fB3",
-	"symbol": "Curve.fi renBTC/wBTC/sBTC",
-	"name": "Curve.fi renBTC/wBTC/sBTC",
+	"symbol": "CRVRENWSBTC",
+	"name": "Curve fi renBTC wBTC sBTC",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/11958/thumb/Curvefi_sbtcCrv_32.png?1696511818",
 	"coingecko": "curve-fi-renbtc-wbtc-sbtc",
 	"sources": [
 		"coingecko"

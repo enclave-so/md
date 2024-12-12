@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xC744df3419A8c9Bd4D6b9852A503eb1C5308A326",
-	"symbol": "RED TOKEN",
+	"symbol": "RED",
 	"name": "RED TOKEN",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/27153/thumb/red.png?1696526204",
 	"coingecko": "red-token",
 	"sources": [
 		"coingecko"

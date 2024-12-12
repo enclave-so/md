@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xcE682c89C63d2850Cb2ca898E44D6c7c30d897a6",
-	"symbol": "Yum",
+	"symbol": "YUM",
 	"name": "Yum",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/39116/thumb/yum.png?1720590184",
 	"coingecko": "yum",
 	"sources": [
 		"coingecko"

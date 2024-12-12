@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x07c904D8c04323EF9Fe6BF13AaEbA05b62c54825",
-	"symbol": "Eeyor",
+	"symbol": "EEYOR",
 	"name": "Eeyor",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31565/thumb/200eeyor.png?1696530378",
 	"coingecko": "eeyor",
 	"sources": [
 		"coingecko"

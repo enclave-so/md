@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xB44b653f147569d88a684cBf6549e1968E8B2A1d",
-	"symbol": "2DAI.io",
-	"name": "2DAI.io",
+	"symbol": "2DAI",
+	"name": "2DAI io",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30542/thumb/2dai.jpg?1696529414",
 	"coingecko": "2dai-io",
 	"sources": [
 		"coingecko"

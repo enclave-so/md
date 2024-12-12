@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x8f88cDE14d2d5A551618b1a7506e6137249D83Ad",
-	"symbol": "Make Frens",
+	"symbol": "MF",
 	"name": "Make Frens",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/40002/thumb/IMG_1802.jpeg?1725164618",
 	"coingecko": "make-frens",
 	"sources": [
 		"coingecko"

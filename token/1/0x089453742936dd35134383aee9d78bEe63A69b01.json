@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x089453742936dd35134383aee9d78bEe63A69b01",
-	"symbol": "Gold",
+	"symbol": "GOLD",
 	"name": "Gold",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31894/thumb/GOLD.png?1696530705",
 	"coingecko": "gold-2",
 	"sources": [
 		"coingecko"

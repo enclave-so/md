@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x8c088775e4139af116Ac1FA6f281Bbf71E8c1c73",
-	"symbol": "PUMLx",
+	"symbol": "PUMLX",
 	"name": "PUMLx",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/27253/thumb/pumlx.png?1696526302",
 	"coingecko": "pumlx",
 	"sources": [
 		"coingecko"

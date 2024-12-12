@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x9FDFb933Ee990955D3219d4F892FD1F786b47C9B",
-	"symbol": "Meme Kombat",
+	"symbol": "MK",
 	"name": "Meme Kombat",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35750/thumb/MKName_200.png?1709718615",
 	"coingecko": "meme-kombat",
 	"sources": [
 		"coingecko"

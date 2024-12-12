@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0x16faF9DAa401AA42506AF503Aa3d80B871c467A3",
-	"symbol": "DexCheck AI",
-	"name": "DexCheck AI",
+	"symbol": "DCK",
+	"name": "DexCheck",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x16faF9DAa401AA42506AF503Aa3d80B871c467A3.png",
 	"coingecko": "dexcheck",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

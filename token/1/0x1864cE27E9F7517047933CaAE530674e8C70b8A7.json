@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x1864cE27E9F7517047933CaAE530674e8C70b8A7",
-	"symbol": "Pibble",
+	"symbol": "PIB",
 	"name": "Pibble",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/2972/thumb/pibble.jpg?1696503713",
 	"coingecko": "pibble",
 	"sources": [
 		"coingecko"

@@ -4,10 +4,13 @@
 	"symbol": "UNI",
 	"name": "Uniswap",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/uni.jpg",
+	"logo": "ipfs://QmXttGpZrECX5qCyXbBQiqgQNytVGeZW5Anewvh2jc4psg",
 	"coingecko": "uniswap",
 	"sources": [
 		"coingecko",
-		"sushiswap"
+		"indexcoop",
+		"optimism",
+		"sushiswap",
+		"uniswap"
 	]
 }

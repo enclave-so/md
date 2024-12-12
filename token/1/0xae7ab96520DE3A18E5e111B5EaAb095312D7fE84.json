@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0xae7ab96520DE3A18E5e111B5EaAb095312D7fE84",
-	"symbol": "Lido Staked Ether",
+	"symbol": "STETH",
 	"name": "Lido Staked Ether",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/13442/thumb/steth_logo.png?1696513206",
 	"coingecko": "staked-ether",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"indexcoop"
 	]
 }

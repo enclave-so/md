@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xAd1A5B8538a866eCD56dDd328b50ed57cEd5D936",
-	"symbol": "Good Gensler",
+	"symbol": "GENSLR",
 	"name": "Good Gensler",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/29943/thumb/goodgg-logo-.png?1696528870",
 	"coingecko": "good-gensler",
 	"sources": [
 		"coingecko"

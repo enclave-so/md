@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xf9FBE825BFB2bF3E387af0Dc18caC8d87F29DEa8",
-	"symbol": "Radar",
+	"symbol": "RADAR",
 	"name": "Radar",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/13909/thumb/RADAR.png?1696513651",
 	"coingecko": "radar",
 	"sources": [
 		"coingecko"

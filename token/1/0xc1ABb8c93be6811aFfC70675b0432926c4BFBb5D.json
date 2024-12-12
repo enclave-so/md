@@ -3,6 +3,8 @@
 	"address": "0xc1ABb8c93be6811aFfC70675b0432926c4BFBb5D",
 	"symbol": "UERII",
 	"name": "UERII",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/29388/thumb/Avatar512.png?1696528334",
 	"coingecko": "uerii",
 	"sources": [
 		"coingecko"

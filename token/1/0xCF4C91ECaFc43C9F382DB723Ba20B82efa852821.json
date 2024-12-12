@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xCF4C91ECaFc43C9F382DB723Ba20B82efa852821",
-	"symbol": "Truth Inu",
+	"symbol": "TRUTH",
 	"name": "Truth Inu",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/38027/thumb/ZRSyw62O_400x400.jpg?1716318315",
 	"coingecko": "truth-inu",
 	"sources": [
 		"coingecko"

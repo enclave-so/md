@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0x837A130aED114300Bab4f9f1F4f500682f7efd48",
-	"symbol": "WeSendit",
+	"symbol": "WSI",
 	"name": "WeSendit",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x837A130aED114300Bab4f9f1F4f500682f7efd48.png",
 	"coingecko": "wesendit",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

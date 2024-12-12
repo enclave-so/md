@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x14A5f2872396802C3Cc8942A39Ab3E4118EE5038",
-	"symbol": "Backed Tesla",
+	"symbol": "BTSLA",
 	"name": "Backed Tesla",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/38916/thumb/b-TSLA-200x200.png?1719474888",
 	"coingecko": "backed-tesla",
 	"sources": [
 		"coingecko"

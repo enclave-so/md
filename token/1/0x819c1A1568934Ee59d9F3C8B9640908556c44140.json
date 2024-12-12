@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x819c1A1568934Ee59d9F3C8B9640908556c44140",
-	"symbol": "Hobbes [OLD]",
-	"name": "Hobbes [OLD]",
+	"symbol": "HOBBES",
+	"name": "Hobbes  OLD ",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/29541/thumb/Logo200x200.png?1696528483",
 	"coingecko": "hobbes",
 	"sources": [
 		"coingecko"

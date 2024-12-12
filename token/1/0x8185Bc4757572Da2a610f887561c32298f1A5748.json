@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x8185Bc4757572Da2a610f887561c32298f1A5748",
-	"symbol": "Aluna",
+	"symbol": "ALN",
 	"name": "Aluna",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14379/thumb/uaLoLU8c_400x400_%281%29.png?1696514071",
 	"coingecko": "aluna",
 	"sources": [
 		"coingecko"

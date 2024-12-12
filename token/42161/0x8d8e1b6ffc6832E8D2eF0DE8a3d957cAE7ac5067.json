@@ -1,0 +1,11 @@
+{
+	"chain": 42161,
+	"address": "0x8d8e1b6ffc6832E8D2eF0DE8a3d957cAE7ac5067",
+	"symbol": "PRIME",
+	"name": "Prime",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/29053/large/PRIMELOGOOO.png?1676976222",
+	"sources": [
+		"uniswap"
+	]
+}

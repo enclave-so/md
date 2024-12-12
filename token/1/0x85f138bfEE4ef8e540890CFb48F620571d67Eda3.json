@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x85f138bfEE4ef8e540890CFb48F620571d67Eda3",
-	"symbol": "Avalanche (Wormhole)",
-	"name": "Avalanche (Wormhole)",
+	"symbol": "AVAX",
+	"name": "Avalanche  Wormhole ",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/22943/thumb/AVAX_wh_small.png?1696522240",
 	"coingecko": "avalanche-wormhole",
 	"sources": [
 		"coingecko"

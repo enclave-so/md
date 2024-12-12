@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x3010ccb5419F1EF26D40a7cd3F0d707a0fa127Dc",
-	"symbol": "Gems VIP",
+	"symbol": "GEMS",
 	"name": "Gems VIP",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/38725/thumb/200x200.png?1718478016",
 	"coingecko": "gems-vip",
 	"sources": [
 		"coingecko"

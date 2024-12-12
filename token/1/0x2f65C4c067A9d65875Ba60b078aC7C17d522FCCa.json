@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x2f65C4c067A9d65875Ba60b078aC7C17d522FCCa",
-	"symbol": "TaxSolutions AI",
+	"symbol": "TSAI",
 	"name": "TaxSolutions AI",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/51017/thumb/logo.png?1729768294",
 	"coingecko": "taxsolutions-ai",
 	"sources": [
 		"coingecko"

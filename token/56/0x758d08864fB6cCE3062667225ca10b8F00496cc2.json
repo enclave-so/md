@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0x758d08864fB6cCE3062667225ca10b8F00496cc2",
-	"symbol": "NAOS Finance",
+	"symbol": "NAOS",
 	"name": "NAOS Finance",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x758d08864fB6cCE3062667225ca10b8F00496cc2.png",
 	"coingecko": "naos-finance",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

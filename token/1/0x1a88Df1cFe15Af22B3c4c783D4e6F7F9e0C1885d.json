@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x1a88Df1cFe15Af22B3c4c783D4e6F7F9e0C1885d",
-	"symbol": "Aave stkGHO",
+	"symbol": "STKGHO",
 	"name": "Aave stkGHO",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/34849/thumb/stkgho.png?1706260099",
 	"coingecko": "aave-stkgho",
 	"sources": [
 		"coingecko"

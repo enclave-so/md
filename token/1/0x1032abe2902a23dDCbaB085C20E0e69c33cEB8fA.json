@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x1032abe2902a23dDCbaB085C20E0e69c33cEB8fA",
-	"symbol": "Pepe Predator",
+	"symbol": "SNAKE",
 	"name": "Pepe Predator",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30205/thumb/Logo_FOR_CG.png?1696529116",
 	"coingecko": "pepe-predator",
 	"sources": [
 		"coingecko"

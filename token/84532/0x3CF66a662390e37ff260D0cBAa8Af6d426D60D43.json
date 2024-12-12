@@ -1,0 +1,11 @@
+{
+	"chain": 84532,
+	"address": "0x3CF66a662390e37ff260D0cBAa8Af6d426D60D43",
+	"symbol": "MORPHO",
+	"name": "Morpho Token",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/MORPHO/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

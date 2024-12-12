@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x2781246fe707bB15CeE3e5ea354e2154a2877B16",
-	"symbol": "ELYSIA",
+	"symbol": "EL",
 	"name": "ELYSIA",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/10887/thumb/elysia_logo_200.png?1718149410",
 	"coingecko": "elysia",
 	"sources": [
 		"coingecko"

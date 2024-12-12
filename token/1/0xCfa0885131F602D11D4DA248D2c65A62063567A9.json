@@ -3,6 +3,8 @@
 	"address": "0xCfa0885131F602D11D4DA248D2c65A62063567A9",
 	"symbol": "TORG",
 	"name": "TORG",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/17596/thumb/TORG_Logo_200x200.png?1696517129",
 	"coingecko": "torg",
 	"sources": [
 		"coingecko"

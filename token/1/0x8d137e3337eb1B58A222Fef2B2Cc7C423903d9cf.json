@@ -2,9 +2,9 @@
 	"chain": 1,
 	"address": "0x8d137e3337eb1B58A222Fef2B2Cc7C423903d9cf",
 	"symbol": "SQGL",
-	"name": "Chromie Squiggle",
+	"name": "SQGL Vault  NFTX ",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x8d137e3337eb1B58A222Fef2B2Cc7C423903d9cf.jpg",
+	"logo": "https://assets.coingecko.com/coins/images/17041/thumb/SQGL.png?1696516604",
 	"coingecko": "sqgl-vault-nftx",
 	"sources": [
 		"coingecko",

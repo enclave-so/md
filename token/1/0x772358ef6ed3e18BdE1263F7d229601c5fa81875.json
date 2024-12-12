@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x772358ef6ed3e18BdE1263F7d229601c5fa81875",
-	"symbol": "SNPad",
+	"symbol": "SNPAD",
 	"name": "SNPad",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/38468/thumb/logo-snpad-200.png?1717618702",
 	"coingecko": "snpad",
 	"sources": [
 		"coingecko"

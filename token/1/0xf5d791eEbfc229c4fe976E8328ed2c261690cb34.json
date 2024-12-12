@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xf5d791eEbfc229c4fe976E8328ed2c261690cb34",
-	"symbol": "Book Of Bitcoin",
+	"symbol": "BOOB",
 	"name": "Book Of Bitcoin",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/37624/thumb/IMG_9021.jpeg?1715068444",
 	"coingecko": "book-of-bitcoin",
 	"sources": [
 		"coingecko"

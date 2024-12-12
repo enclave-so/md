@@ -3,6 +3,8 @@
 	"address": "0x338Be6A72Db57a239F0d71d0Ec4e5B1e38762e9f",
 	"symbol": "LNDRY",
 	"name": "LNDRY",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/33357/thumb/IMG_5906.PNG?1721245448",
 	"coingecko": "lndry",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xD9812F24f34e0d727bbf6Ea7caAEe05B7f7a2603",
-	"symbol": "TensorSpace",
+	"symbol": "TPU",
 	"name": "TensorSpace",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35862/thumb/TensorSpace.png?1709969045",
 	"coingecko": "tensorspace",
 	"sources": [
 		"coingecko"

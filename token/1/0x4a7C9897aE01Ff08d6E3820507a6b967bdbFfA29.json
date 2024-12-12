@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x4a7C9897aE01Ff08d6E3820507a6b967bdbFfA29",
-	"symbol": "Wizard Cat",
+	"symbol": "WIZARD",
 	"name": "Wizard Cat",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/50761/thumb/1c46f0bf-021a-4528-9ef3-823ad6c6b8b6.jpeg?1729049951",
 	"coingecko": "wizard-cat",
 	"sources": [
 		"coingecko"

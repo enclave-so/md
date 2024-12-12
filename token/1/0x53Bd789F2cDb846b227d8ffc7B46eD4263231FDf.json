@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x53Bd789F2cDb846b227d8ffc7B46eD4263231FDf",
-	"symbol": "SimbCoin Swap",
+	"symbol": "SMBSWAP",
 	"name": "SimbCoin Swap",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/16808/thumb/smb.png?1696516378",
 	"coingecko": "simbcoin-swap",
 	"sources": [
 		"coingecko"

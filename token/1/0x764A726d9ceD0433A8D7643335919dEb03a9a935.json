@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x764A726d9ceD0433A8D7643335919dEb03a9a935",
-	"symbol": "Pocket Network",
+	"symbol": "POKT",
 	"name": "Pocket Network",
+	"decimals": 6,
+	"logo": "https://assets.coingecko.com/coins/images/22506/thumb/POKT.jpg?1703257310",
 	"coingecko": "pocket-network",
 	"sources": [
 		"coingecko"

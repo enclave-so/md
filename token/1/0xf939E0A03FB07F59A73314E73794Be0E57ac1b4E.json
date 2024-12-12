@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0xf939E0A03FB07F59A73314E73794Be0E57ac1b4E",
-	"symbol": "crvUSD",
+	"symbol": "CRVUSD",
 	"name": "crvUSD",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30118/thumb/0xf939e0a03fb07f59a73314e73794be0e57ac1b4e.png?1721097561",
 	"coingecko": "crvusd",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

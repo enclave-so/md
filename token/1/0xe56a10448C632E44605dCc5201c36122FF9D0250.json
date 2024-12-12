@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xe56a10448C632E44605dCc5201c36122FF9D0250",
-	"symbol": "HedgeFi",
+	"symbol": "HEDGE",
 	"name": "HedgeFi",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/50413/thumb/HedgeFi.png?1727677756",
 	"coingecko": "hedgefi",
 	"sources": [
 		"coingecko"

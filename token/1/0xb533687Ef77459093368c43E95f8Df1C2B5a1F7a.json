@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xb533687Ef77459093368c43E95f8Df1C2B5a1F7a",
-	"symbol": "Nekoverse: City of Greed Anima Spirit Gem",
-	"name": "Nekoverse: City of Greed Anima Spirit Gem",
+	"symbol": "ASG",
+	"name": "Nekoverse  City of Greed Anima Spirit G",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/32655/thumb/asg.png?1698895535",
 	"coingecko": "nekoverse-city-of-greed-anima-spirit-gem",
 	"sources": [
 		"coingecko"

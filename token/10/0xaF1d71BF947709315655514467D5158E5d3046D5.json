@@ -1,0 +1,11 @@
+{
+	"chain": 10,
+	"address": "0xaF1d71BF947709315655514467D5158E5d3046D5",
+	"symbol": "SHU",
+	"name": "Shutter Token",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/SHU/logo.png",
+	"sources": [
+		"optimism"
+	]
+}

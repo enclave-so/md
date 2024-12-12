@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x7ECbb21346C501Fd07eb165E406120fA32381C16",
-	"symbol": "Ecoreal Estate",
+	"symbol": "ECOREAL",
 	"name": "Ecoreal Estate",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/6431/thumb/golden_leave_in_200_x_200.png?1696506796",
 	"coingecko": "ecoreal-estate",
 	"sources": [
 		"coingecko"

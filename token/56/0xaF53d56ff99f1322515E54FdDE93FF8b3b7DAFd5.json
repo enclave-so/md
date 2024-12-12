@@ -4,10 +4,11 @@
 	"symbol": "PROM",
 	"name": "Prometeus",
 	"decimals": 18,
-	"logo": "https://bscscan.com/token/images/Prometeus_32.png",
+	"logo": "https://tokens.pancakeswap.finance/images/0xaF53d56ff99f1322515E54FdDE93FF8b3b7DAFd5.png",
 	"coingecko": "prometeus",
 	"sources": [
 		"coingecko",
+		"pancakeswap",
 		"sushiswap"
 	]
 }

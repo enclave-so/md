@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xFeeeef4D7b4Bf3cc8BD012D02D32Ba5fD3D51e31",
-	"symbol": "Tail",
+	"symbol": "TAIL",
 	"name": "Tail",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/28260/thumb/IMG_20221210_122215_723.jpg?1696527262",
 	"coingecko": "tail",
 	"sources": [
 		"coingecko"

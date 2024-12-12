@@ -1,8 +1,9 @@
 {
 	"chain": 1,
 	"address": "0x00281dFCe4cfD72c0b6FDA2AAaF077258743f9E8",
-	"symbol": "NuriFootBall",
+	"symbol": "NRFB",
 	"name": "NuriFootBall",
+	"logo": "https://assets.coingecko.com/coins/images/23360/thumb/pcMlP25e_400x400.jpg?1696522575",
 	"coingecko": "nurifootball",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xAEe5913FFd19dBcA4Fd1eF6F3925ed0414407d37",
-	"symbol": "Yelay",
+	"symbol": "YLAY",
 	"name": "Yelay",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/50915/thumb/yelay_icon_2.png?1729579311",
 	"coingecko": "yelay",
 	"sources": [
 		"coingecko"

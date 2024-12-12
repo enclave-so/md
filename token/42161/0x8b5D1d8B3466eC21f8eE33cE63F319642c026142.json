@@ -1,10 +1,13 @@
 {
 	"chain": 42161,
 	"address": "0x8b5D1d8B3466eC21f8eE33cE63F319642c026142",
-	"symbol": "High Yield ETH Index",
+	"symbol": "hyETH",
 	"name": "High Yield ETH Index",
+	"decimals": 18,
+	"logo": "https://cdn.indexcoop.com/hyeth.svg",
 	"coingecko": "high-yield-eth-index",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"indexcoop"
 	]
 }

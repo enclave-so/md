@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x34f797e7190C131cF630524655A618b5BD8738e7",
-	"symbol": "BaconDAO",
+	"symbol": "BACON",
 	"name": "BaconDAO",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/18059/thumb/xDV_bhdA_400x400.jpg?1696517567",
 	"coingecko": "bacondao",
 	"sources": [
 		"coingecko"

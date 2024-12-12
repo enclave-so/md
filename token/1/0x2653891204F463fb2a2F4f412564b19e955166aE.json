@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x2653891204F463fb2a2F4f412564b19e955166aE",
-	"symbol": "Gold Fever Native Gold",
+	"symbol": "NGL",
 	"name": "Gold Fever Native Gold",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/20633/thumb/2ypNydrG_400x400.jpg?1696520037",
 	"coingecko": "gold-fever-native-gold",
 	"sources": [
 		"coingecko"

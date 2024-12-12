@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xFA615809A56892B9a9A0d48Cf0A550dEB0b42521",
-	"symbol": "PNWR Token",
+	"symbol": "PNWR",
 	"name": "PNWR Token",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/50178/thumb/PNWR_Image.png?1726164752",
 	"coingecko": "pnwr-token",
 	"sources": [
 		"coingecko"

@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0x5F84ce30DC3cF7909101C69086c50De191895883",
-	"symbol": "Venus Reward",
-	"name": "Venus Reward",
+	"symbol": "VRT",
+	"name": "Venus Reward Token",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x5F84ce30DC3cF7909101C69086c50De191895883.png",
 	"coingecko": "venus-reward-token",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

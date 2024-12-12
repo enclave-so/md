@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x3C917054e03485808137EB306eAFA8DA0Ab695cd",
-	"symbol": "Deroute AI",
+	"symbol": "ORB",
 	"name": "Deroute AI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/24332/thumb/deroute.png?1733993569",
 	"coingecko": "klaycity-orb",
 	"sources": [
 		"coingecko"

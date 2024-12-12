@@ -3,6 +3,8 @@
 	"address": "0x6D7497751656618Fc38CfB5478994a20F7E235df",
 	"symbol": "SPYRO",
 	"name": "SPYRO",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35203/thumb/IMG_8253.jpeg?1707843227",
 	"coingecko": "spyro",
 	"sources": [
 		"coingecko"

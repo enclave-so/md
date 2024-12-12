@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x7df4122D3eAE29FC8Fb6BE58D9177e8E560Be4Fb",
-	"symbol": "BlockChainCoinX",
+	"symbol": "XCCX",
 	"name": "BlockChainCoinX",
+	"decimals": 6,
+	"logo": "https://assets.coingecko.com/coins/images/32276/thumb/xccxx.png?1697180263",
 	"coingecko": "blockchaincoinx",
 	"sources": [
 		"coingecko"

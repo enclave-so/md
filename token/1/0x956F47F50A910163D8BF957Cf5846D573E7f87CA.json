@@ -2,9 +2,9 @@
 	"chain": 1,
 	"address": "0x956F47F50A910163D8BF957Cf5846D573E7f87CA",
 	"symbol": "FEI",
-	"name": "Fei",
+	"name": "Fei USD",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x956F47F50A910163D8BF957Cf5846D573E7f87CA.jpg",
+	"logo": "https://assets.coingecko.com/coins/images/14570/thumb/ZqsF51Re_400x400.png?1696514251",
 	"coingecko": "fei-usd",
 	"sources": [
 		"coingecko",

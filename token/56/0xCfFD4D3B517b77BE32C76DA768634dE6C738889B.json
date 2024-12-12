@@ -1,0 +1,11 @@
+{
+	"chain": 56,
+	"address": "0xCfFD4D3B517b77BE32C76DA768634dE6C738889B",
+	"symbol": "ARENA",
+	"name": "ESPL ARENA",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0xCfFD4D3B517b77BE32C76DA768634dE6C738889B.png",
+	"sources": [
+		"pancakeswap"
+	]
+}

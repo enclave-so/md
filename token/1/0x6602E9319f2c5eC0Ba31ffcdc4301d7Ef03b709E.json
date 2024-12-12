@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x6602E9319f2c5eC0Ba31ffcdc4301d7Ef03b709E",
-	"symbol": "Wrapped OrdBridge",
+	"symbol": "WBRGE",
 	"name": "Wrapped OrdBridge",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/33682/thumb/ologo.jpg?1702719798",
 	"coingecko": "ordbridge",
 	"sources": [
 		"coingecko"

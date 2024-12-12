@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xEdb73D4ED90bE7A49D06d0D940055e6d181d22fa",
-	"symbol": "Blueprint oBLUE",
+	"symbol": "OBLUE",
 	"name": "Blueprint oBLUE",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35539/thumb/photo_2024-02-17_18-41-11.jpg?1709089813",
 	"coingecko": "blueprint-oblue",
 	"sources": [
 		"coingecko"

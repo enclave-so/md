@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x93181f0625329fc0F5C35d1670cEB541867aCc65",
-	"symbol": "Sentra",
+	"symbol": "STRA",
 	"name": "Sentra",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/51111/thumb/0x93181f0625329fc0f5c35d1670ceb541867acc65.jpg?1730116278",
 	"coingecko": "sentra",
 	"sources": [
 		"coingecko"

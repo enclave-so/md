@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xA771b49064Da011DF051052848477f18DbA1d2Ac",
-	"symbol": "Handshake",
+	"symbol": "HNS",
 	"name": "Handshake",
+	"decimals": 6,
+	"logo": "https://assets.coingecko.com/coins/images/10562/thumb/circle-handshakeLogo.png?1696510545",
 	"coingecko": "handshake",
 	"sources": [
 		"coingecko"

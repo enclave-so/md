@@ -2,12 +2,13 @@
 	"chain": 1,
 	"address": "0xd1d2Eb1B1e90B638588728b4130137D262C87cae",
 	"symbol": "GALA",
-	"name": "Gala",
+	"name": "GALA",
 	"decimals": 8,
-	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xd1d2Eb1B1e90B638588728b4130137D262C87cae.jpg",
+	"logo": "https://assets.coingecko.com/coins/images/12493/standard/GALA-COINGECKO.png?1696512310",
 	"coingecko": "gala",
 	"sources": [
 		"coingecko",
-		"sushiswap"
+		"sushiswap",
+		"uniswap"
 	]
 }

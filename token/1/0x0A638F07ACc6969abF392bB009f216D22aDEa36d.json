@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0x0A638F07ACc6969abF392bB009f216D22aDEa36d",
-	"symbol": "Brickken",
+	"symbol": "BKN",
 	"name": "Brickken",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/18474/thumb/brickken-coin.png?1696517960",
 	"coingecko": "brickken",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

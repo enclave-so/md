@@ -8,6 +8,7 @@
 	"coingecko": "oxbitcoin",
 	"sources": [
 		"coingecko",
+		"optimism",
 		"sushiswap"
 	]
 }

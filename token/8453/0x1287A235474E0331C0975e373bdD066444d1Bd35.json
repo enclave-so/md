@@ -1,10 +1,13 @@
 {
 	"chain": 8453,
 	"address": "0x1287A235474E0331C0975e373bdD066444d1Bd35",
-	"symbol": "TAIKAI",
-	"name": "TAIKAI",
+	"symbol": "TKAI",
+	"name": "TAIKAI Token",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/TKAI/logo.svg",
 	"coingecko": "taikai",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

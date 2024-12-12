@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x8Fc8f8269ebca376D046Ce292dC7eaC40c8D358A",
-	"symbol": "DeFiChain",
+	"symbol": "DFI",
 	"name": "DeFiChain",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/11757/thumb/symbol-defi-blockchain_200.png?1696511638",
 	"coingecko": "defichain",
 	"sources": [
 		"coingecko"

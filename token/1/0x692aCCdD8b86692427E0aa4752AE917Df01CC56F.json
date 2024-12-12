@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x692aCCdD8b86692427E0aa4752AE917Df01CC56F",
-	"symbol": "Sunrise",
+	"symbol": "SUNC",
 	"name": "Sunrise",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/17601/thumb/ticker_sunc_200_200.png?1696517134",
 	"coingecko": "sunrise",
 	"sources": [
 		"coingecko"

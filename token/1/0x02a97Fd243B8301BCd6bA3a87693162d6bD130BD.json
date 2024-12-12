@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x02a97Fd243B8301BCd6bA3a87693162d6bD130BD",
-	"symbol": "SempsunAi2.0",
-	"name": "SempsunAi2.0",
+	"symbol": "SMAI20",
+	"name": "SempsunAi2 0",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/35898/thumb/Artboard_14.png?1710164614",
 	"coingecko": "sempsunai2-0",
 	"sources": [
 		"coingecko"

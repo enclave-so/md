@@ -4,10 +4,12 @@
 	"symbol": "WBTC",
 	"name": "Wrapped BTC",
 	"decimals": 8,
-	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/btc.jpg",
+	"logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png",
 	"coingecko": "arbitrum-bridged-wbtc-arbitrum-one",
 	"sources": [
 		"coingecko",
-		"sushiswap"
+		"indexcoop",
+		"sushiswap",
+		"uniswap"
 	]
 }

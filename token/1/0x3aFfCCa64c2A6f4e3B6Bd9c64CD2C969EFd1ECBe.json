@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x3aFfCCa64c2A6f4e3B6Bd9c64CD2C969EFd1ECBe",
-	"symbol": "DSLA Protocol",
+	"symbol": "DSLA",
 	"name": "DSLA Protocol",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/6694/thumb/dsla_logo-squared_200x200.png?1696507035",
 	"coingecko": "stacktical",
 	"sources": [
 		"coingecko"

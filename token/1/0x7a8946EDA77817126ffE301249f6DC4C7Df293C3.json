@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x7a8946EDA77817126ffE301249f6DC4C7Df293C3",
-	"symbol": "Dyl",
+	"symbol": "DYL",
 	"name": "Dyl",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/32550/thumb/Dyl-pfp-200x.png?1698479973",
 	"coingecko": "dyl",
 	"sources": [
 		"coingecko"

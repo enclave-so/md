@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xa0F0546Eb5E3eE7e8cfC5DA12e5949F3AE622675",
-	"symbol": "Tokoin",
+	"symbol": "TOKO",
 	"name": "Tokoin",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/8807/thumb/TOKOIN_LOGO_%28no_text%29.png?1696508959",
 	"coingecko": "toko",
 	"sources": [
 		"coingecko"

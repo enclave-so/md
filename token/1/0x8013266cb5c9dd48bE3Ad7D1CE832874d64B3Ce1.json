@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x8013266cb5c9dd48bE3Ad7D1CE832874d64B3Ce1",
-	"symbol": "Boop",
+	"symbol": "BOOP",
 	"name": "Boop",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/27918/thumb/boop.png?1696526938",
 	"coingecko": "boop",
 	"sources": [
 		"coingecko"

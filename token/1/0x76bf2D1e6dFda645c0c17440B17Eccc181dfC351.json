@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x76bf2D1e6dFda645c0c17440B17Eccc181dfC351",
-	"symbol": "Veno Yield Bearing ETH",
+	"symbol": "YBETH",
 	"name": "Veno Yield Bearing ETH",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/39978/thumb/Rectangle_381.png?1724994497",
 	"coingecko": "veno-yield-bearing-eth",
 	"sources": [
 		"coingecko"

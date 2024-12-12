@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x792833B894775Bd769B3C602BA7172E59a83AB3f",
-	"symbol": "City Boys",
+	"symbol": "TOONS",
 	"name": "City Boys",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/32586/thumb/photo_2023-10-29_02.57.38.jpeg?1698564589",
 	"coingecko": "city-boys",
 	"sources": [
 		"coingecko"

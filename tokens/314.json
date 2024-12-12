@@ -1,6 +1,30 @@
 [
 	{
 		"chain": 314,
+		"address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
+		"symbol": "axlUSDC",
+		"name": "Axelar Wrapped USDC",
+		"decimals": 6,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/filecoin/0xEB466342C4d449BC9f53A865D5Cb90586f405215.jpg",
+		"coingecko": "axlusdc",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 314,
+		"address": "0x422849B355039bC58F2780cc4854919fC9cfaF94",
+		"symbol": "ceUSDT",
+		"name": "Celer Wrapped USDT",
+		"decimals": 6,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/filecoin/0x422849B355039bC58F2780cc4854919fC9cfaF94.jpg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 314,
 		"address": "0x97AAe66a1D2a41eAC573397B7a5656a9cF3E5616",
 		"symbol": "rSPD",
 		"name": "rSPD Token",
@@ -50,30 +74,6 @@
 		"name": "Axelar Wrapped DAI",
 		"decimals": 18,
 		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/filecoin/0x5C7e299CF531eb66f2A1dF637d37AbB78e6200C7.jpg",
-		"sources": [
-			"sushiswap"
-		]
-	},
-	{
-		"chain": 314,
-		"address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
-		"symbol": "axlUSDC",
-		"name": "Axelar Wrapped USDC",
-		"decimals": 6,
-		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/filecoin/0xEB466342C4d449BC9f53A865D5Cb90586f405215.jpg",
-		"coingecko": "axlusdc",
-		"sources": [
-			"coingecko",
-			"sushiswap"
-		]
-	},
-	{
-		"chain": 314,
-		"address": "0x422849B355039bC58F2780cc4854919fC9cfaF94",
-		"symbol": "ceUSDT",
-		"name": "Celer Wrapped USDT",
-		"decimals": 6,
-		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/filecoin/0x422849B355039bC58F2780cc4854919fC9cfaF94.jpg",
 		"sources": [
 			"sushiswap"
 		]

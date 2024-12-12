@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xdE7E34ad87bFC5d5906F334661110EB438aF718b",
-	"symbol": "OceanFund",
+	"symbol": "OF",
 	"name": "OceanFund",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/50961/thumb/resized_logo.png?1729592420",
 	"coingecko": "oceanfund",
 	"sources": [
 		"coingecko"

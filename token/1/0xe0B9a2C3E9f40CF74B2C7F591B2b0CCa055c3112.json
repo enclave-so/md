@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xe0B9a2C3E9f40CF74B2C7F591B2b0CCa055c3112",
-	"symbol": "Genesis Shards",
+	"symbol": "GS",
 	"name": "Genesis Shards",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14784/thumb/gs.png?1696514453",
 	"coingecko": "genesis-shards",
 	"sources": [
 		"coingecko"

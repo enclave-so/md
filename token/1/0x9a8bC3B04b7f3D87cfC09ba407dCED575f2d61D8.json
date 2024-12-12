@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x9a8bC3B04b7f3D87cfC09ba407dCED575f2d61D8",
-	"symbol": "MEV Capital wETH",
+	"symbol": "MCWETH",
 	"name": "MEV Capital wETH",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/52258/thumb/eth_coingecko.png?1732848464",
 	"coingecko": "mev-capital-weth",
 	"sources": [
 		"coingecko"

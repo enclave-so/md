@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x98E1f56B334438E3f0bDe22D92f5bfD746e0631f",
-	"symbol": "Illuminati",
+	"symbol": "ILUM",
 	"name": "Illuminati",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/32362/thumb/ILLUMINATI_200x200.png?1698067399",
 	"coingecko": "illuminati",
 	"sources": [
 		"coingecko"

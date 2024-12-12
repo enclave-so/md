@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xa20f77B7ad5A88badC48800C56507B7274c06Fdc",
-	"symbol": "Cherry Network",
+	"symbol": "CHER",
 	"name": "Cherry Network",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/21855/thumb/cherry.PNG?1696521209",
 	"coingecko": "cherry-network",
 	"sources": [
 		"coingecko"

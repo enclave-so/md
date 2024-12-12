@@ -1,0 +1,11 @@
+{
+	"chain": 8453,
+	"address": "0x998b3Fd0998bffF66D28aB03DfE417FC3B884188",
+	"symbol": "ARIA20",
+	"name": "ARIANEE",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/ARIA20/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x910c4DA718CAF4EE38cE5c2490CDDAEca689204e",
-	"symbol": "Waste Digital Coin",
+	"symbol": "WACO",
 	"name": "Waste Digital Coin",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/19035/thumb/waco.png?1696518487",
 	"coingecko": "waste-coin",
 	"sources": [
 		"coingecko"

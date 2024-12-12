@@ -3,8 +3,11 @@
 	"address": "0x45D9C101a3870Ca5024582fd788F4E1e8F7971c3",
 	"symbol": "MASQ",
 	"name": "MASQ",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/MASQ/logo.png",
 	"coingecko": "masq",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

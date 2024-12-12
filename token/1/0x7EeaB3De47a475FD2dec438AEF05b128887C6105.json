@@ -3,6 +3,8 @@
 	"address": "0x7EeaB3De47a475FD2dec438AEF05b128887C6105",
 	"symbol": "TROPPY",
 	"name": "TROPPY",
+	"decimals": 11,
+	"logo": "https://assets.coingecko.com/coins/images/52388/thumb/TROPPY_DARK_CLOSE_UP_PFP_%281%29_%281%29.jpg?1733268871",
 	"coingecko": "troppy",
 	"sources": [
 		"coingecko"

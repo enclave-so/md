@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x62d3c05b9C3d916FBC111819bbD3CEE52906C1Ae",
-	"symbol": "Every Game",
+	"symbol": "EGAME",
 	"name": "Every Game",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/20758/thumb/egame.png?1696520153",
 	"coingecko": "every-game",
 	"sources": [
 		"coingecko"

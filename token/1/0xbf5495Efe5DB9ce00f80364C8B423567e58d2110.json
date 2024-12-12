@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xbf5495Efe5DB9ce00f80364C8B423567e58d2110",
-	"symbol": "Renzo Restaked ETH",
+	"symbol": "EZETH",
 	"name": "Renzo Restaked ETH",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/34753/thumb/Ezeth_logo_circle.png?1713496404",
 	"coingecko": "renzo-restaked-eth",
 	"sources": [
 		"coingecko"

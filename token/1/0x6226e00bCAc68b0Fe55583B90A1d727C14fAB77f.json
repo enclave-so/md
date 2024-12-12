@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x6226e00bCAc68b0Fe55583B90A1d727C14fAB77f",
-	"symbol": "MultiVAC",
+	"symbol": "MTV",
 	"name": "MultiVAC",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/4937/thumb/MultiVAC.png?1696505477",
 	"coingecko": "multivac",
 	"sources": [
 		"coingecko"

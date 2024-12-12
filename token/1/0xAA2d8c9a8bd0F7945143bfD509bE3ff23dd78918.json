@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xAA2d8c9a8bd0F7945143bfD509bE3ff23dd78918",
-	"symbol": "Artizen",
+	"symbol": "ATNT",
 	"name": "Artizen",
+	"decimals": 3,
+	"logo": "https://assets.coingecko.com/coins/images/27263/thumb/ATNT-symbol_200.png?1696526315",
 	"coingecko": "artizen",
 	"sources": [
 		"coingecko"

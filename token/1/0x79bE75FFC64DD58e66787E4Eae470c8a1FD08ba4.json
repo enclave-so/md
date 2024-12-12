@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x79bE75FFC64DD58e66787E4Eae470c8a1FD08ba4",
-	"symbol": "Aave AMM DAI",
+	"symbol": "AAMMDAI",
 	"name": "Aave AMM DAI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/17197/thumb/aAMMDAI_2x.png?1696516754",
 	"coingecko": "aave-amm-dai",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xc9BC48c72154ef3e5425641a3c747242112a46AF",
-	"symbol": "Aave RAI",
+	"symbol": "ARAI",
 	"name": "Aave RAI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/17245/thumb/aRAI_2x.png?1696516802",
 	"coingecko": "aave-rai",
 	"sources": [
 		"coingecko"

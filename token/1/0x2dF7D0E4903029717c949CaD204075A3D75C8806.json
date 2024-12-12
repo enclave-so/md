@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x2dF7D0E4903029717c949CaD204075A3D75C8806",
-	"symbol": "Sweet",
+	"symbol": "SWEET",
 	"name": "Sweet",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/31959/thumb/0x2df7d0e4903029717c949cad204075a3d75c8806.png?1696530765",
 	"coingecko": "sweet",
 	"sources": [
 		"coingecko"

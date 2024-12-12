@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x4DA9b813057D04BAef4e5800E36083717b4a0341",
-	"symbol": "Aave TUSD v1",
+	"symbol": "ATUSD",
 	"name": "Aave TUSD v1",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/11724/thumb/aTUSD.png?1696511606",
 	"coingecko": "aave-tusd-v1",
 	"sources": [
 		"coingecko"

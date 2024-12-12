@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x38F9bf9dCe51833Ec7f03C9dC218197999999999",
-	"symbol": "Nya",
+	"symbol": "NYA",
 	"name": "Nya",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/40082/thumb/nya.jpg?1725523655",
 	"coingecko": "nya",
 	"sources": [
 		"coingecko"

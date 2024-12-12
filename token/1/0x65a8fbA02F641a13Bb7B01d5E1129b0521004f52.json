@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x65a8fbA02F641a13Bb7B01d5E1129b0521004f52",
-	"symbol": "Amasa",
+	"symbol": "AMAS",
 	"name": "Amasa",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/18799/thumb/agmqWjv8_400x400.png?1696518261",
 	"coingecko": "amasa",
 	"sources": [
 		"coingecko"

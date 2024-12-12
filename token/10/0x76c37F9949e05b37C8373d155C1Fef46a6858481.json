@@ -1,0 +1,11 @@
+{
+	"chain": 10,
+	"address": "0x76c37F9949e05b37C8373d155C1Fef46a6858481",
+	"symbol": "ePendle",
+	"name": "Equilibria Pendle",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/ePENDLE/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

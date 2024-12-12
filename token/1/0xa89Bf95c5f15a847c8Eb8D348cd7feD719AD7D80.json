@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xa89Bf95c5f15a847c8Eb8D348cd7feD719AD7D80",
-	"symbol": "Chat AI",
+	"symbol": "AI",
 	"name": "Chat AI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/29441/thumb/200.png?1696528389",
 	"coingecko": "chat-ai",
 	"sources": [
 		"coingecko"

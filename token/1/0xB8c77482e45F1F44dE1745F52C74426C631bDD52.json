@@ -3,6 +3,8 @@
 	"address": "0xB8c77482e45F1F44dE1745F52C74426C631bDD52",
 	"symbol": "BNB",
 	"name": "BNB",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/825/thumb/bnb-icon2_2x.png?1696501970",
 	"coingecko": "binancecoin",
 	"sources": [
 		"coingecko"

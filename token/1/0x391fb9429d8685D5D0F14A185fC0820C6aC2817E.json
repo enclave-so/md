@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x391fb9429d8685D5D0F14A185fC0820C6aC2817E",
-	"symbol": "NeonAI",
+	"symbol": "NEONAI",
 	"name": "NeonAI",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/35691/thumb/Untitled_design%282%29.png?1709535075",
 	"coingecko": "neonai",
 	"sources": [
 		"coingecko"

@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0x1FEE5588cb1De19c70B6aD5399152D8C643FAe7b",
+	"symbol": "PHTK",
+	"name": "PhunToken",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/PHTK/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

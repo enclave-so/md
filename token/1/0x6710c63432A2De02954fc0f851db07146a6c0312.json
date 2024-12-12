@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x6710c63432A2De02954fc0f851db07146a6c0312",
-	"symbol": "Smart MFG",
+	"symbol": "MFG",
 	"name": "Smart MFG",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/1842/thumb/Smart_MFG_Cropped_Logo.png?1696502841",
 	"coingecko": "smart-mfg",
 	"sources": [
 		"coingecko"

@@ -4,10 +4,12 @@
 	"symbol": "ACX",
 	"name": "Across Protocol Token",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x44108f0223A3C3028F5Fe7AEC7f9bb2E66beF82F.jpg",
+	"logo": "https://assets.coingecko.com/coins/images/28161/large/across-200x200.png?1696527165",
 	"coingecko": "across-protocol",
 	"sources": [
 		"coingecko",
-		"sushiswap"
+		"optimism",
+		"sushiswap",
+		"uniswap"
 	]
 }

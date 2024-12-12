@@ -1,0 +1,11 @@
+{
+	"chain": 8453,
+	"address": "0x224114c444e3C3d936532fE08351648700570909",
+	"symbol": "PAL",
+	"name": "Paladin Token",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/PAL/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x95Ed629B028Cf6AADd1408Bb988c6d1DAAbe4767",
-	"symbol": "Dork Lord",
+	"symbol": "DORKY",
 	"name": "Dork Lord",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/51191/thumb/Dork_lord_Logo_200X_%283%29.png?1730314832",
 	"coingecko": "dork-lord-2",
 	"sources": [
 		"coingecko"

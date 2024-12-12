@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xe3668873D944E4A949DA05fc8bDE419eFF543882",
-	"symbol": "Yearn yPRISMA",
+	"symbol": "YPRISMA",
 	"name": "Yearn yPRISMA",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/33481/thumb/Asset_yPRISMA__Type_Main.png?1702020049",
 	"coingecko": "yearn-yprisma",
 	"sources": [
 		"coingecko"

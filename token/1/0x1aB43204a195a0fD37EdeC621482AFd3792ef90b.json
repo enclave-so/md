@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x1aB43204a195a0fD37EdeC621482AFd3792ef90b",
-	"symbol": "Aurigami",
+	"symbol": "PLY",
 	"name": "Aurigami",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/24074/thumb/EbB5N8IN_400x400.jpg?1696523268",
 	"coingecko": "aurigami",
 	"sources": [
 		"coingecko"

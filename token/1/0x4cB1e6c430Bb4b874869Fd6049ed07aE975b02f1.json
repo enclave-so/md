@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x4cB1e6c430Bb4b874869Fd6049ed07aE975b02f1",
-	"symbol": "Bndr",
+	"symbol": "SWIPES",
 	"name": "Bndr",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/37491/thumb/IMG_20240731_005813_905.jpg?1731792519",
 	"coingecko": "bndr",
 	"sources": [
 		"coingecko"

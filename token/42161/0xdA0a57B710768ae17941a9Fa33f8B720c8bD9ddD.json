@@ -1,10 +1,13 @@
 {
 	"chain": 42161,
 	"address": "0xdA0a57B710768ae17941a9Fa33f8B720c8bD9ddD",
-	"symbol": "Marlin",
+	"symbol": "POND",
 	"name": "Marlin",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/8903/thumb/POND_200x200.png?1622515451",
 	"coingecko": "marlin",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"uniswap"
 	]
 }

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x9657477ac915F56ca87C253db1320218Ec2D5DDD",
-	"symbol": "Jake Newman Enterprises",
+	"symbol": "JNE",
 	"name": "Jake Newman Enterprises",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/32565/thumb/image-200x200.jpg?1698546675",
 	"coingecko": "jake-newman-enterprises",
 	"sources": [
 		"coingecko"

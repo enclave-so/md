@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x582d872A1B094FC48F5DE31D3B73F2D9bE47def1",
-	"symbol": "Toncoin",
+	"symbol": "TON",
 	"name": "Toncoin",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/17980/thumb/photo_2024-09-10_17.09.00.jpeg?1725963446",
 	"coingecko": "the-open-network",
 	"sources": [
 		"coingecko"

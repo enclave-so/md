@@ -1,242 +1,11 @@
 [
 	{
 		"chain": 66,
-		"address": "0xd0C6821aba4FCC65e8f1542589e64BAe9dE11228",
-		"symbol": "FLUX",
-		"name": "FLUXK",
+		"address": "0xaa27bADaa3C9ec9081b8f6C9cDd2bf375F143780",
+		"symbol": "SHIB",
+		"name": "SHIB",
 		"decimals": 18,
-		"logo": "https://assets.coingecko.com/coins/images/15002/small/logo.dabc411c.png?1619402947",
-		"coingecko": "flux-protocol",
-		"sources": [
-			"coingecko",
-			"sushiswap"
-		]
-	},
-	{
-		"chain": 66,
-		"address": "0x12BB890508c125661E03b09EC06E404bc9289040",
-		"symbol": "Radio Caca",
-		"name": "Radio Caca",
-		"coingecko": "radio-caca",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 66,
-		"address": "0x2c9a1d0E1226939EdB7BBb68C43a080c28743C5C",
-		"symbol": "VEMP",
-		"name": "VEMP",
-		"coingecko": "vempire-ddao",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 66,
-		"address": "0xEF71CA2EE68F45B9Ad6F72fbdb33d707b872315C",
-		"symbol": "ETH",
-		"name": "ETH",
-		"decimals": 18,
-		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/eth.jpg",
-		"sources": [
-			"sushiswap"
-		]
-	},
-	{
-		"chain": 66,
-		"address": "0x3F8969Be2FC0770dCc174968e4B4ff146E0ACDaF",
-		"symbol": "FIL",
-		"name": "FIL",
-		"decimals": 18,
-		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/fil.jpg",
-		"sources": [
-			"sushiswap"
-		]
-	},
-	{
-		"chain": 66,
-		"address": "0xdF54B6c6195EA4d948D03bfD818D365cf175cFC2",
-		"symbol": "OKB",
-		"name": "OKB",
-		"decimals": 18,
-		"logo": "https://static.bafang.com/cdn/explorer/okexchain/exchain_okb.png",
-		"coingecko": "okb",
-		"sources": [
-			"coingecko",
-			"sushiswap"
-		]
-	},
-	{
-		"chain": 66,
-		"address": "0x2218E0D5E0173769F5b4939a3aE423f7e5E4EAB7",
-		"symbol": "SUSHI",
-		"name": "SUSHI",
-		"decimals": 18,
-		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/sushi.jpg",
-		"sources": [
-			"sushiswap"
-		]
-	},
-	{
-		"chain": 66,
-		"address": "0xCD08D321f6Bc10a10f094e4b2E6C9b8bF9906401",
-		"symbol": "ZKS",
-		"name": "ZKS",
-		"decimals": 18,
-		"logo": "https://static.bafang.com/cdn/explorer/okexchain/exchain_zksk.png",
-		"sources": [
-			"sushiswap"
-		]
-	},
-	{
-		"chain": 66,
-		"address": "0x5Ab622494AB7C5e81911558c9552DBd517F403fb",
-		"symbol": "Celestial",
-		"name": "Celestial",
-		"coingecko": "celestial",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 66,
-		"address": "0x5427a224E50A9aF4d030AeeCD2a686D41F348DFE",
-		"symbol": "WOO",
-		"name": "WOO",
-		"coingecko": "woo-network",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 66,
-		"address": "0xfA520efC34C81bfC1E3DD48b7fE9fF326049f986",
-		"symbol": "LTC",
-		"name": "LTC",
-		"decimals": 18,
-		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/ltc.jpg",
-		"sources": [
-			"sushiswap"
-		]
-	},
-	{
-		"chain": 66,
-		"address": "0x8CD6e29d3686d24d3C2018CEe54621eA0f89313B",
-		"symbol": "NULS",
-		"name": "Nuls",
-		"decimals": 8,
-		"logo": "https://assets.coingecko.com/coins/images/1053/small/Nuls.png?1556868153",
-		"sources": [
-			"sushiswap"
-		]
-	},
-	{
-		"chain": 66,
-		"address": "0x506f731F7656e2FB34b587B912808f2a7aB640BD",
-		"symbol": "WBTC",
-		"name": "WBTC",
-		"decimals": 18,
-		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/btc.jpg",
-		"sources": [
-			"sushiswap"
-		]
-	},
-	{
-		"chain": 66,
-		"address": "0x65511cE6980418dB9dB829b669E7dFD653dae420",
-		"symbol": "Galaxy War",
-		"name": "Galaxy War",
-		"coingecko": "galaxy-war",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 66,
-		"address": "0x99970778E2715bBc9Cf8fb83D10dCBC2D2D551A3",
-		"symbol": "ETC",
-		"name": "ETC",
-		"decimals": 18,
-		"logo": "https://static.coinall.ltd/cdn/explorer/okexchain/exchain_etck.png",
-		"sources": [
-			"sushiswap"
-		]
-	},
-	{
-		"chain": 66,
-		"address": "0xdCAC52E001f5bd413aa6ea83956438F29098166b",
-		"symbol": "USDK",
-		"name": "USDK",
-		"decimals": 18,
-		"logo": "https://static.bafang.com/cdn/explorer/okexchain/exchain_usdk.png",
-		"sources": [
-			"sushiswap"
-		]
-	},
-	{
-		"chain": 66,
-		"address": "0x382bB369d343125BfB2117af9c149795C6C65C50",
-		"symbol": "USDT",
-		"name": "USDT",
-		"decimals": 18,
-		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdt.jpg",
-		"coingecko": "bridged-usdt",
-		"sources": [
-			"coingecko",
-			"sushiswap"
-		]
-	},
-	{
-		"chain": 66,
-		"address": "0xc9B6E036e94A316e4A9ea96F7D7FD8D632F66e7A",
-		"symbol": "Lumiii",
-		"name": "Lumiii",
-		"coingecko": "lumiiitoken",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 66,
-		"address": "0x21cDE7E32a6CAF4742d00d44B07279e7596d26B9",
-		"symbol": "DAI",
-		"name": "DAI",
-		"decimals": 18,
-		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/dai.jpg",
-		"sources": [
-			"sushiswap"
-		]
-	},
-	{
-		"chain": 66,
-		"address": "0xd1351Ec15E8511658C2Ba1e1e81e1E60aA39c9Cd",
-		"symbol": "NVT",
-		"name": "NerveNetwork",
-		"decimals": 18,
-		"logo": "https://assets.coingecko.com/coins/images/11873/small/NerveNetwork.png?1595541544",
-		"sources": [
-			"sushiswap"
-		]
-	},
-	{
-		"chain": 66,
-		"address": "0x8F8526dbfd6E38E3D8307702cA8469Bae6C56C15",
-		"symbol": "WOKT",
-		"name": "Wrapped OKExChain",
-		"decimals": 18,
-		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/okt.jpg",
-		"sources": [
-			"sushiswap"
-		]
-	},
-	{
-		"chain": 66,
-		"address": "0x9B99c3Ce751aA292320033f93a1376902d4bA58b",
-		"symbol": "LINK",
-		"name": "LINK",
-		"decimals": 18,
-		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/link.jpg",
+		"logo": "https://static.coinall.ltd/cdn/explorer/okexchain/exchain_shibk.png",
 		"sources": [
 			"sushiswap"
 		]
@@ -254,37 +23,33 @@
 	},
 	{
 		"chain": 66,
-		"address": "0x77Df6ebec3316792D4ea5bc0f8286c27905Aa8e8",
-		"symbol": "AUCTION",
-		"name": "AUCTION",
+		"address": "0x8F8526dbfd6E38E3D8307702cA8469Bae6C56C15",
+		"symbol": "WOKT",
+		"name": "Wrapped OKExChain",
 		"decimals": 18,
-		"logo": "https://static.bafang.com/cdn/explorer/okexchain/exchain_auctionk.png",
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/okt.jpg",
 		"sources": [
 			"sushiswap"
 		]
 	},
 	{
 		"chain": 66,
-		"address": "0xaa27bADaa3C9ec9081b8f6C9cDd2bf375F143780",
-		"symbol": "SHIB",
-		"name": "SHIB",
-		"decimals": 18,
-		"logo": "https://static.coinall.ltd/cdn/explorer/okexchain/exchain_shibk.png",
+		"address": "0x2c9a1d0E1226939EdB7BBb68C43a080c28743C5C",
+		"symbol": "VEMP",
+		"name": "VEMP",
+		"coingecko": "vempire-ddao",
 		"sources": [
-			"sushiswap"
+			"coingecko"
 		]
 	},
 	{
 		"chain": 66,
-		"address": "0xc946DAf81b08146B1C7A8Da2A851Ddf2B3EAaf85",
-		"symbol": "USDC",
-		"name": "USDC",
-		"decimals": 18,
-		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdc.jpg",
-		"coingecko": "bridged-usdc",
+		"address": "0x5427a224E50A9aF4d030AeeCD2a686D41F348DFE",
+		"symbol": "WOO",
+		"name": "WOO",
+		"coingecko": "woo-network",
 		"sources": [
-			"coingecko",
-			"sushiswap"
+			"coingecko"
 		]
 	},
 	{
@@ -311,6 +76,41 @@
 	},
 	{
 		"chain": 66,
+		"address": "0xd1351Ec15E8511658C2Ba1e1e81e1E60aA39c9Cd",
+		"symbol": "NVT",
+		"name": "NerveNetwork",
+		"decimals": 18,
+		"logo": "https://assets.coingecko.com/coins/images/11873/small/NerveNetwork.png?1595541544",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 66,
+		"address": "0xfA520efC34C81bfC1E3DD48b7fE9fF326049f986",
+		"symbol": "LTC",
+		"name": "LTC",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/ltc.jpg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 66,
+		"address": "0xdF54B6c6195EA4d948D03bfD818D365cf175cFC2",
+		"symbol": "OKB",
+		"name": "OKB",
+		"decimals": 18,
+		"logo": "https://static.bafang.com/cdn/explorer/okexchain/exchain_okb.png",
+		"coingecko": "okb",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 66,
 		"address": "0x3212606F74Cc59656E1EC6f587FCA61bA3B85eb0",
 		"symbol": "SFG",
 		"name": "SFG",
@@ -322,12 +122,14 @@
 	},
 	{
 		"chain": 66,
-		"address": "0x59D226BB0a4d74274D4354EBb6a0E1A1Aa5175B6",
-		"symbol": "UNI",
-		"name": "UNI",
+		"address": "0xc946DAf81b08146B1C7A8Da2A851Ddf2B3EAaf85",
+		"symbol": "USDC",
+		"name": "USDC",
 		"decimals": 18,
-		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/uni.jpg",
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdc.jpg",
+		"coingecko": "bridged-usdc",
 		"sources": [
+			"coingecko",
 			"sushiswap"
 		]
 	},
@@ -339,6 +141,140 @@
 		"coingecko": "o3-swap",
 		"sources": [
 			"coingecko"
+		]
+	},
+	{
+		"chain": 66,
+		"address": "0x77Df6ebec3316792D4ea5bc0f8286c27905Aa8e8",
+		"symbol": "AUCTION",
+		"name": "AUCTION",
+		"decimals": 18,
+		"logo": "https://static.bafang.com/cdn/explorer/okexchain/exchain_auctionk.png",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 66,
+		"address": "0xEF71CA2EE68F45B9Ad6F72fbdb33d707b872315C",
+		"symbol": "ETH",
+		"name": "ETH",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/eth.jpg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 66,
+		"address": "0x8D3573f24c0aa3819A2f5b02b2985dD82B487715",
+		"symbol": "FIN",
+		"name": "DeFiner",
+		"decimals": 18,
+		"logo": "https://assets.coingecko.com/coins/images/12780/small/PdaW8Lb.png?1602500407",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 66,
+		"address": "0x9B99c3Ce751aA292320033f93a1376902d4bA58b",
+		"symbol": "LINK",
+		"name": "LINK",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/link.jpg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 66,
+		"address": "0x382bB369d343125BfB2117af9c149795C6C65C50",
+		"symbol": "USDT",
+		"name": "USDT",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdt.jpg",
+		"coingecko": "bridged-usdt",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 66,
+		"address": "0x65511cE6980418dB9dB829b669E7dFD653dae420",
+		"symbol": "Galaxy War",
+		"name": "Galaxy War",
+		"coingecko": "galaxy-war",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 66,
+		"address": "0x2218E0D5E0173769F5b4939a3aE423f7e5E4EAB7",
+		"symbol": "SUSHI",
+		"name": "SUSHI",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/sushi.jpg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 66,
+		"address": "0xCD08D321f6Bc10a10f094e4b2E6C9b8bF9906401",
+		"symbol": "ZKS",
+		"name": "ZKS",
+		"decimals": 18,
+		"logo": "https://static.bafang.com/cdn/explorer/okexchain/exchain_zksk.png",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 66,
+		"address": "0x12BB890508c125661E03b09EC06E404bc9289040",
+		"symbol": "Radio Caca",
+		"name": "Radio Caca",
+		"coingecko": "radio-caca",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 66,
+		"address": "0x99970778E2715bBc9Cf8fb83D10dCBC2D2D551A3",
+		"symbol": "ETC",
+		"name": "ETC",
+		"decimals": 18,
+		"logo": "https://static.coinall.ltd/cdn/explorer/okexchain/exchain_etck.png",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 66,
+		"address": "0x3F8969Be2FC0770dCc174968e4B4ff146E0ACDaF",
+		"symbol": "FIL",
+		"name": "FIL",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/fil.jpg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 66,
+		"address": "0xd0C6821aba4FCC65e8f1542589e64BAe9dE11228",
+		"symbol": "FLUX",
+		"name": "FLUXK",
+		"decimals": 18,
+		"logo": "https://assets.coingecko.com/coins/images/15002/small/logo.dabc411c.png?1619402947",
+		"coingecko": "flux-protocol",
+		"sources": [
+			"coingecko",
+			"sushiswap"
 		]
 	},
 	{
@@ -356,11 +292,75 @@
 	},
 	{
 		"chain": 66,
-		"address": "0x8D3573f24c0aa3819A2f5b02b2985dD82B487715",
-		"symbol": "FIN",
-		"name": "DeFiner",
+		"address": "0xc9B6E036e94A316e4A9ea96F7D7FD8D632F66e7A",
+		"symbol": "Lumiii",
+		"name": "Lumiii",
+		"coingecko": "lumiiitoken",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 66,
+		"address": "0x59D226BB0a4d74274D4354EBb6a0E1A1Aa5175B6",
+		"symbol": "UNI",
+		"name": "UNI",
 		"decimals": 18,
-		"logo": "https://assets.coingecko.com/coins/images/12780/small/PdaW8Lb.png?1602500407",
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/uni.jpg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 66,
+		"address": "0xdCAC52E001f5bd413aa6ea83956438F29098166b",
+		"symbol": "USDK",
+		"name": "USDK",
+		"decimals": 18,
+		"logo": "https://static.bafang.com/cdn/explorer/okexchain/exchain_usdk.png",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 66,
+		"address": "0x506f731F7656e2FB34b587B912808f2a7aB640BD",
+		"symbol": "WBTC",
+		"name": "WBTC",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/btc.jpg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 66,
+		"address": "0x5Ab622494AB7C5e81911558c9552DBd517F403fb",
+		"symbol": "Celestial",
+		"name": "Celestial",
+		"coingecko": "celestial",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 66,
+		"address": "0x21cDE7E32a6CAF4742d00d44B07279e7596d26B9",
+		"symbol": "DAI",
+		"name": "DAI",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/dai.jpg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 66,
+		"address": "0x8CD6e29d3686d24d3C2018CEe54621eA0f89313B",
+		"symbol": "NULS",
+		"name": "Nuls",
+		"decimals": 8,
+		"logo": "https://assets.coingecko.com/coins/images/1053/small/Nuls.png?1556868153",
 		"sources": [
 			"sushiswap"
 		]

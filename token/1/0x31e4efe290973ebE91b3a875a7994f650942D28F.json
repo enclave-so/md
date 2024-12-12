@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x31e4efe290973ebE91b3a875a7994f650942D28F",
-	"symbol": "Shrapnel",
+	"symbol": "SHRAP",
 	"name": "Shrapnel",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/32793/thumb/shrapnel.png?1699441661",
 	"coingecko": "shrapnel-2",
 	"sources": [
 		"coingecko"

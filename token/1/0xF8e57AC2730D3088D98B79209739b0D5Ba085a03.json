@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xF8e57AC2730D3088D98B79209739b0D5Ba085a03",
-	"symbol": "Optopia AI",
+	"symbol": "OPAI",
 	"name": "Optopia AI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/39332/thumb/OPAI.jpg?1721777150",
 	"coingecko": "optopia-ai",
 	"sources": [
 		"coingecko"

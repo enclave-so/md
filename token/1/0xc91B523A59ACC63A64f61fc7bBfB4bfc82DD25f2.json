@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xc91B523A59ACC63A64f61fc7bBfB4bfc82DD25f2",
-	"symbol": "Multiverse",
+	"symbol": "AI",
 	"name": "Multiverse",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/16329/thumb/multiverse_logo_full_color_rgb_200px_72ppi.png?1696515930",
 	"coingecko": "multiverse",
 	"sources": [
 		"coingecko"

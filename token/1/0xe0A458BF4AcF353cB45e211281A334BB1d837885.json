@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xe0A458BF4AcF353cB45e211281A334BB1d837885",
-	"symbol": "4Chan",
+	"symbol": "4CHAN",
 	"name": "4Chan",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/30124/thumb/4CHAN.png?1696529046",
 	"coingecko": "4chan",
 	"sources": [
 		"coingecko"

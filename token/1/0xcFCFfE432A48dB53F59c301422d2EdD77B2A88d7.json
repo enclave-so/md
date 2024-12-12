@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xcFCFfE432A48dB53F59c301422d2EdD77B2A88d7",
-	"symbol": "Texan",
+	"symbol": "TEXAN",
 	"name": "Texan",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/28731/thumb/texan_logo_200x200.png?1696527711",
 	"coingecko": "texan",
 	"sources": [
 		"coingecko"

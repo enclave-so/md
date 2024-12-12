@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xe03B2642A5111aD0EFc0cbCe766498c2dd562Ae9",
-	"symbol": "Old Bitcoin",
+	"symbol": "BC",
 	"name": "Old Bitcoin",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/28832/thumb/bitcoinlogo.png?1696527808",
 	"coingecko": "old-bitcoin",
 	"sources": [
 		"coingecko"

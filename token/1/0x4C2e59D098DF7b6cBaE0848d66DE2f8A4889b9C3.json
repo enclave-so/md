@@ -2,9 +2,9 @@
 	"chain": 1,
 	"address": "0x4C2e59D098DF7b6cBaE0848d66DE2f8A4889b9C3",
 	"symbol": "FODL",
-	"name": "Fodl",
+	"name": "Fodl Finance",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x4C2e59D098DF7b6cBaE0848d66DE2f8A4889b9C3/logo.png",
+	"logo": "https://assets.coingecko.com/coins/images/19040/thumb/Fodl_Symbol_Gradient.png?1696518491",
 	"coingecko": "fodl-finance",
 	"sources": [
 		"coingecko",

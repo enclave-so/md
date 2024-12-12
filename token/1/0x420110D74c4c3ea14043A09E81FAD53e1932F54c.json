@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x420110D74c4c3ea14043A09E81FAD53e1932F54c",
-	"symbol": "Groggo By Matt Furie",
+	"symbol": "GROGGO",
 	"name": "Groggo By Matt Furie",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/50957/thumb/groggo.webp?1729587900",
 	"coingecko": "groggo-by-matt-furie",
 	"sources": [
 		"coingecko"

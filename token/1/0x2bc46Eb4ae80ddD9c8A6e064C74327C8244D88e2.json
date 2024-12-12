@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x2bc46Eb4ae80ddD9c8A6e064C74327C8244D88e2",
-	"symbol": "StratoVM",
+	"symbol": "SVM",
 	"name": "StratoVM",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/50465/thumb/Group_247_%282%29.png?1727843810",
 	"coingecko": "stratovm",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xc1C146E09640FE9e5D670288CC43C6269949D9a1",
-	"symbol": "Robotrade",
+	"symbol": "ROBO",
 	"name": "Robotrade",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/33256/thumb/photo_2023-11-28_09-42-35.jpg?1701313072",
 	"coingecko": "robotrade",
 	"sources": [
 		"coingecko"

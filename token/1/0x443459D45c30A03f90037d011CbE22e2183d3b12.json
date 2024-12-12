@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x443459D45c30A03f90037d011CbE22e2183d3b12",
-	"symbol": "TypeAI",
+	"symbol": "TYPE",
 	"name": "TypeAI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/34484/thumb/Type_AI_%28Custom%29.jpg?1705044610",
 	"coingecko": "typeai",
 	"sources": [
 		"coingecko"

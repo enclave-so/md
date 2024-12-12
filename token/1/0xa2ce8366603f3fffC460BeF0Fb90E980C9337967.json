@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xa2ce8366603f3fffC460BeF0Fb90E980C9337967",
-	"symbol": "BoostAI",
+	"symbol": "BOOST",
 	"name": "BoostAI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/38127/thumb/Profile_Picture_2.png?1716569588",
 	"coingecko": "boostai",
 	"sources": [
 		"coingecko"

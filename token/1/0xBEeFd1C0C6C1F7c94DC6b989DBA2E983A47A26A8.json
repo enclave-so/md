@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xBEeFd1C0C6C1F7c94DC6b989DBA2E983A47A26A8",
-	"symbol": "Steakhouse USDL Morpho Vault",
+	"symbol": "STEAKUSDL",
 	"name": "Steakhouse USDL Morpho Vault",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/52412/thumb/steak-USDL.png?1733304721",
 	"coingecko": "steakhouse-usdl-morpho-vault",
 	"sources": [
 		"coingecko"

@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0x374Ca32fd7934c5d43240E1e73fa9B2283468609",
-	"symbol": "Equilibria Finance",
-	"name": "Equilibria Finance",
+	"symbol": "EQB",
+	"name": "Equilibria Token",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x374Ca32fd7934c5d43240E1e73fa9B2283468609.png",
 	"coingecko": "equilibria-finance",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

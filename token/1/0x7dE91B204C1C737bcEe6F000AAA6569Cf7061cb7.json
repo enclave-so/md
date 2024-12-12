@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x7dE91B204C1C737bcEe6F000AAA6569Cf7061cb7",
-	"symbol": "Robonomics Network",
+	"symbol": "XRT",
 	"name": "Robonomics Network",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/7024/thumb/Robonomics-Network-logo.png?1696507330",
 	"coingecko": "robonomics-network",
 	"sources": [
 		"coingecko"

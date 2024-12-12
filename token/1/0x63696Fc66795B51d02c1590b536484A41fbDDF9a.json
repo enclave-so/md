@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x63696Fc66795B51d02c1590b536484A41fbDDF9a",
-	"symbol": "WELL3",
+	"symbol": "WELL",
 	"name": "WELL3",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/39028/thumb/WELL3_Icon_for_CoinGecko_200px.png?1720020178",
 	"coingecko": "well3",
 	"sources": [
 		"coingecko"

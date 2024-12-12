@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xd888A5460fFFA4B14340DD9Fe2710cbABd520659",
-	"symbol": "ProtoKOLs",
+	"symbol": "KOL",
 	"name": "ProtoKOLs",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/50923/thumb/token_logo_protokols.png?1729581216",
 	"coingecko": "protokols",
 	"sources": [
 		"coingecko"

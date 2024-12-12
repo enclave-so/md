@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x31ea904A7eca45122890dEb8dA3473A2081bc9d1",
-	"symbol": "Bonsai3",
+	"symbol": "SEED",
 	"name": "Bonsai3",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/33162/thumb/logo-bonsai3200x200.png?1700830408",
 	"coingecko": "bonsai3",
 	"sources": [
 		"coingecko"

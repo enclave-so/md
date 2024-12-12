@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0x4Ddc2D193948926D02f9B1fE9e1daa0718270ED5",
-	"symbol": "cETH",
+	"symbol": "CETH",
 	"name": "cETH",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/10643/thumb/ceth.png?1696510617",
 	"coingecko": "compound-ether",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"indexcoop"
 	]
 }

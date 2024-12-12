@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x77be1ba1Cd2D7a63BFfC772D361168cc327dd8bc",
-	"symbol": "Meow Meow Coin",
+	"symbol": "MEOW",
 	"name": "Meow Meow Coin",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/35079/thumb/meow.jpeg?1707301706",
 	"coingecko": "-3",
 	"sources": [
 		"coingecko"

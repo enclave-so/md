@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0xF98b660AdF2ed7d9d9D9dAACC2fb0CAce4F21835",
-	"symbol": "Symbiosis",
+	"symbol": "SIS",
 	"name": "Symbiosis",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0xF98b660AdF2ed7d9d9D9dAACC2fb0CAce4F21835.png",
 	"coingecko": "symbiosis-finance",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

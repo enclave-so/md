@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x4c11249814f11b9346808179Cf06e71ac328c1b5",
-	"symbol": "Oraichain",
+	"symbol": "ORAI",
 	"name": "Oraichain",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/12931/thumb/orai.png?1696512718",
 	"coingecko": "oraichain-token",
 	"sources": [
 		"coingecko"

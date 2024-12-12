@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x14cC8DfaF2258E1B8B2869300dBa1B734dc0fE43",
-	"symbol": "K-Tune",
-	"name": "K-Tune",
+	"symbol": "KTT",
+	"name": "K Tune",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/13939/thumb/KakaoTalk_20220928_162525453.png?1696513677",
 	"coingecko": "k-tune",
 	"sources": [
 		"coingecko"

@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0x7788A3538C5fc7F9c7C8A74EAC4c898fC8d87d92",
-	"symbol": "usdx.money Staked USDX",
-	"name": "usdx.money Staked USDX",
+	"symbol": "sUSDX",
+	"name": "Staked USDX",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x7788A3538C5fc7F9c7C8A74EAC4c898fC8d87d92.png",
 	"coingecko": "usdx-money-staked-usdx",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x85Cf7f10683C73359e7B06C082eef5851fF2956D",
-	"symbol": "LilAI",
+	"symbol": "LILAI",
 	"name": "LilAI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30621/thumb/LogoLilai_CoinGecko.png?1696529495",
 	"coingecko": "lilai",
 	"sources": [
 		"coingecko"

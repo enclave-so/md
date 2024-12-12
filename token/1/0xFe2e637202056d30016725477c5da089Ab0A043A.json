@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0xFe2e637202056d30016725477c5da089Ab0A043A",
-	"symbol": "sETH2",
+	"symbol": "SETH2",
 	"name": "sETH2",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/16569/thumb/emerald256.png?1696516130",
 	"coingecko": "seth2",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"indexcoop"
 	]
 }

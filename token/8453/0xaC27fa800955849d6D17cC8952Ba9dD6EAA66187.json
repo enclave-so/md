@@ -1,10 +1,13 @@
 {
 	"chain": 8453,
 	"address": "0xaC27fa800955849d6D17cC8952Ba9dD6EAA66187",
-	"symbol": "UnlockProtocolToken",
+	"symbol": "UP",
 	"name": "UnlockProtocolToken",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/UP/logo.svg",
 	"coingecko": "unlockprotocoltoken",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

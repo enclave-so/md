@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0x3C4B6E6e1eA3D4863700D7F76b36B7f3D3f13E3d",
-	"symbol": "VGX Token",
-	"name": "VGX Token",
+	"symbol": "VGX",
+	"name": "Voyager Token",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/794/thumb/Voyager-vgx.png?1575693595",
 	"coingecko": "ethos",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"uniswap"
 	]
 }

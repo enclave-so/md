@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x06DDb3a8BC0aBc14f85e974CF1A93a6f8d4909d9",
-	"symbol": "8Pay",
+	"symbol": "8PAY",
 	"name": "8Pay",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14667/thumb/8pay.jpeg?1696514342",
 	"coingecko": "8pay",
 	"sources": [
 		"coingecko"

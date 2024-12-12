@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x8929e9DbD2785e3BA16175E596CDD61520feE0D1",
-	"symbol": "Altitude",
+	"symbol": "ALTD",
 	"name": "Altitude",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30114/thumb/logo.png?1696529036",
 	"coingecko": "altitude",
 	"sources": [
 		"coingecko"

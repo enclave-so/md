@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x80eE5c641A8fFC607545219a3856562F56427FE9",
-	"symbol": "Brett ETH",
+	"symbol": "BRETT",
 	"name": "Brett ETH",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/36832/thumb/zD21_tw__400x400.jpg?1712559083",
 	"coingecko": "brett-eth",
 	"sources": [
 		"coingecko"

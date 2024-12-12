@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x808C16ACe7404777FE24a6777a9Cb2335Aa82451",
-	"symbol": "PERRO DINERO",
+	"symbol": "JOTCHUA",
 	"name": "PERRO DINERO",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35704/thumb/jotchua_pfp_cg.png?1709575242",
 	"coingecko": "perro-dinero",
 	"sources": [
 		"coingecko"

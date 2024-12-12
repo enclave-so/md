@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x73A15FeD60Bf67631dC6cd7Bc5B6e8da8190aCF5",
-	"symbol": "Usual USD",
+	"symbol": "USD0",
 	"name": "Usual USD",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/38272/thumb/USD0LOGO.png?1716962811",
 	"coingecko": "usual-usd",
 	"sources": [
 		"coingecko"

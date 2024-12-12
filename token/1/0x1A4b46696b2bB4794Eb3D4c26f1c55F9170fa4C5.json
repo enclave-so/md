@@ -4,10 +4,11 @@
 	"symbol": "BIT",
 	"name": "BitDAO",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x1A4b46696b2bB4794Eb3D4c26f1c55F9170fa4C5.jpg",
+	"logo": "https://assets.coingecko.com/coins/images/17627/thumb/rI_YptK8.png?1653983088",
 	"coingecko": "bitdao",
 	"sources": [
 		"coingecko",
-		"sushiswap"
+		"sushiswap",
+		"uniswap"
 	]
 }

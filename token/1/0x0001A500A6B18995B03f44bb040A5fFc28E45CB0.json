@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0x0001A500A6B18995B03f44bb040A5fFc28E45CB0",
-	"symbol": "Autonolas",
+	"symbol": "OLAS",
 	"name": "Autonolas",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31099/thumb/OLAS-token.png?1696529930",
 	"coingecko": "autonolas",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

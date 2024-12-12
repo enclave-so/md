@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x2b867efD2dE4Ad2B583Ca0CB3dF9C4040Ef4D329",
-	"symbol": "Lucky Block",
+	"symbol": "LBLOCK",
 	"name": "Lucky Block",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/23126/thumb/LB-Coin.png?1733917866",
 	"coingecko": "lucky-block",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x5DE8ab7E27f6E7A1fFf3E5B337584Aa43961BEeF",
-	"symbol": "SmarDex",
+	"symbol": "SDEX",
 	"name": "SmarDex",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/29470/thumb/SDEX_logo_transparent_outside_240x240.png?1696930070",
 	"coingecko": "smardex",
 	"sources": [
 		"coingecko"

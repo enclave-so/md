@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0xDD16eC0F66E54d453e6756713E533355989040E4",
-	"symbol": "Tokenomy",
+	"symbol": "TEN",
 	"name": "Tokenomy",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/2286/thumb/logo_%281%29.png?1696503190",
 	"coingecko": "tokenomy",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

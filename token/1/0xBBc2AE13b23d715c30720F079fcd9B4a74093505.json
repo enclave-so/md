@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0xBBc2AE13b23d715c30720F079fcd9B4a74093505",
-	"symbol": "Ethernity Chain",
+	"symbol": "ERN",
 	"name": "Ethernity Chain",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14238/thumb/LOGO_HIGH_QUALITY.png?1647831402",
 	"coingecko": "ethernity-chain",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"uniswap"
 	]
 }

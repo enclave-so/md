@@ -2,9 +2,12 @@
 	"chain": 56,
 	"address": "0x9eC02756A559700d8D9e79ECe56809f7bcC5dC27",
 	"symbol": "WHY",
-	"name": "WHY",
+	"name": "why",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x9eC02756A559700d8D9e79ECe56809f7bcC5dC27.png",
 	"coingecko": "why",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

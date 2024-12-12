@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xAdF7C35560035944e805D98fF17d58CDe2449389",
-	"symbol": "Spectral",
+	"symbol": "SPEC",
 	"name": "Spectral",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/36138/thumb/ls7wS7vf_400x400.jpg?1724975224",
 	"coingecko": "spectral",
 	"sources": [
 		"coingecko"

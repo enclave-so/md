@@ -3,6 +3,8 @@
 	"address": "0xD0dFCA0B404E866Dc9A3038BD2A545c6735D9fA9",
 	"symbol": "ABE",
 	"name": "ABE",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/50620/thumb/ABE.png?1728494431",
 	"coingecko": "abe",
 	"sources": [
 		"coingecko"

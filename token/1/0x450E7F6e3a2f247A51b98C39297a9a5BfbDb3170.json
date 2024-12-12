@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x450E7F6e3a2f247A51b98C39297a9a5BfbDb3170",
-	"symbol": "Elon GOAT",
+	"symbol": "EGT",
 	"name": "Elon GOAT",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/22301/thumb/ElonGoat.jpg?1696521647",
 	"coingecko": "elon-goat",
 	"sources": [
 		"coingecko"

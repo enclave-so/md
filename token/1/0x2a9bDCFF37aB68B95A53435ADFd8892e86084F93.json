@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x2a9bDCFF37aB68B95A53435ADFd8892e86084F93",
-	"symbol": "Alpha Quark",
+	"symbol": "AQT",
 	"name": "Alpha Quark",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/12872/thumb/alpha_quark_logo.png?1696512660",
 	"coingecko": "alpha-quark-token",
 	"sources": [
 		"coingecko"

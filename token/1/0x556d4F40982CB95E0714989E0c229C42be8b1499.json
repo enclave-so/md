@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x556d4F40982CB95E0714989E0c229C42be8b1499",
-	"symbol": "Golteum",
+	"symbol": "GLTM",
 	"name": "Golteum",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/28597/thumb/_GLTM-Token-Border200.png?1696527584",
 	"coingecko": "golteum",
 	"sources": [
 		"coingecko"

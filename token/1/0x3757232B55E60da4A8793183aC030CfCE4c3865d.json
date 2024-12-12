@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x3757232B55E60da4A8793183aC030CfCE4c3865d",
-	"symbol": "YDragon",
+	"symbol": "YDR",
 	"name": "YDragon",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/17807/thumb/icon.png?1696517328",
 	"coingecko": "ydragon",
 	"sources": [
 		"coingecko"

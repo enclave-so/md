@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xF898Bae008Cd85046431Ab0a75F00689D6Aa1b1C",
-	"symbol": "0xVPN.org",
-	"name": "0xVPN.org",
+	"symbol": "VPN",
+	"name": "0xVPN org",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/36921/thumb/0xf898bae008cd85046431ab0a75f00689d6aa1b1c.png?1712797462",
 	"coingecko": "0xvpn-org",
 	"sources": [
 		"coingecko"

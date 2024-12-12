@@ -1,10 +1,13 @@
 {
 	"chain": 8453,
 	"address": "0x0f1cFD0Bb452DB90a3bFC0848349463010419AB2",
-	"symbol": "Guru Network",
-	"name": "Guru Network",
+	"symbol": "GURU",
+	"name": "GURU Token",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/GURU/logo.svg",
 	"coingecko": "guru-network",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

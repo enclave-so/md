@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xAeE9bA9CE49fe810417A36408e34D9962b653E78",
-	"symbol": "Snibbu",
+	"symbol": "SNIBBU",
 	"name": "Snibbu",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/35933/thumb/photo_2023-05-02_14.17.15.jpeg?1710338968",
 	"coingecko": "snibbu",
 	"sources": [
 		"coingecko"

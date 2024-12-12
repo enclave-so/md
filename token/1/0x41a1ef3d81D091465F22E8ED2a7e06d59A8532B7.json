@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x41a1ef3d81D091465F22E8ED2a7e06d59A8532B7",
-	"symbol": "Fanatico",
+	"symbol": "FCO",
 	"name": "Fanatico",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/51540/thumb/fco.png?1731501660",
 	"coingecko": "fanatico",
 	"sources": [
 		"coingecko"

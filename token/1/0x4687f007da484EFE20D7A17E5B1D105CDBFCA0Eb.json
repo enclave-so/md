@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x4687f007da484EFE20D7A17E5B1D105CDBFCA0Eb",
-	"symbol": "Morpheus",
+	"symbol": "MORPH",
 	"name": "Morpheus",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/51470/thumb/Morpheus.win_Profile_Pic_%2849%29.jpg?1731384163",
 	"coingecko": "morpheus",
 	"sources": [
 		"coingecko"

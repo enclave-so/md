@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x8e57c27761EBBd381b0f9d09Bb92CeB51a358AbB",
-	"symbol": "extraDNA",
+	"symbol": "XDNA",
 	"name": "extraDNA",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/12667/thumb/Logo_coin_black.png?1696512473",
 	"coingecko": "extradna",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x9EEAD9ce15383CaEED975427340b3A369410CFBF",
-	"symbol": "Alloy Tether",
+	"symbol": "AUSDT",
 	"name": "Alloy Tether",
+	"decimals": 6,
+	"logo": "https://assets.coingecko.com/coins/images/38747/thumb/ausdt.png?1718681185",
 	"coingecko": "alloy-tether",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xb970E14Df2161c0A2f32EBA35901f2446581b482",
-	"symbol": "Reaktor",
+	"symbol": "RKR",
 	"name": "Reaktor",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/33291/thumb/REAKTOR.png?1701400698",
 	"coingecko": "reaktor",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x8f3470A7388c05eE4e7AF3d01D8C722b0FF52374",
-	"symbol": "Veritaseum",
+	"symbol": "VERI",
 	"name": "Veritaseum",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/695/thumb/veritaseum.png?1696501884",
 	"coingecko": "veritaseum",
 	"sources": [
 		"coingecko"

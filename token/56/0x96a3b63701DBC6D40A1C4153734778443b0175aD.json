@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0x96a3b63701DBC6D40A1C4153734778443b0175aD",
-	"symbol": "Cakedog",
-	"name": "Cakedog",
+	"symbol": "CAKEDOG",
+	"name": "CAKEDOG",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x96a3b63701DBC6D40A1C4153734778443b0175aD.png",
 	"coingecko": "cakedog",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

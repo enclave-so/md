@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xf45f6c8bB3d77eA762175b8f7ca4D251941649fA",
-	"symbol": "Lemond",
+	"symbol": "LEMD",
 	"name": "Lemond",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14964/thumb/D-smP_i-_400x400.png?1696514624",
 	"coingecko": "lemond",
 	"sources": [
 		"coingecko"

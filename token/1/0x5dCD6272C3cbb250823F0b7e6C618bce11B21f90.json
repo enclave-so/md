@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x5dCD6272C3cbb250823F0b7e6C618bce11B21f90",
-	"symbol": "Pear Swap",
+	"symbol": "PEAR",
 	"name": "Pear Swap",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30409/thumb/9zYlZj3H_400x400.jpg?1696529298",
 	"coingecko": "pear-swap",
 	"sources": [
 		"coingecko"

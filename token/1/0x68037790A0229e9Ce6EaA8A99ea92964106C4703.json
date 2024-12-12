@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x68037790A0229e9Ce6EaA8A99ea92964106C4703",
-	"symbol": "Parallel",
+	"symbol": "PAR",
 	"name": "Parallel",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14153/thumb/par_round_200.png?1696513872",
 	"coingecko": "par-stablecoin",
 	"sources": [
 		"coingecko"

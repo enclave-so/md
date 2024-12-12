@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x60BB16c4A931b1a0B8A7D945C651DD90f41D42Cf",
-	"symbol": "Finance Blocks",
+	"symbol": "FBX",
 	"name": "Finance Blocks",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/24117/thumb/financeblocksshadow.png?1696523309",
 	"coingecko": "finance-blocks",
 	"sources": [
 		"coingecko"

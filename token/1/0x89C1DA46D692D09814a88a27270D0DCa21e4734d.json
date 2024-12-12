@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x89C1DA46D692D09814a88a27270D0DCa21e4734d",
-	"symbol": "GM Frens",
+	"symbol": "GM",
 	"name": "GM Frens",
+	"decimals": 10,
+	"logo": "https://assets.coingecko.com/coins/images/50619/thumb/ovgVM9qf_400x400.jpg?1728490970",
 	"coingecko": "gm-frens",
 	"sources": [
 		"coingecko"

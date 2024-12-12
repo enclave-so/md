@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x7122985656e38BDC0302Db86685bb972b145bD3C",
-	"symbol": "StakeStone ETH",
+	"symbol": "STONE",
 	"name": "StakeStone ETH",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/33103/thumb/200_200.png?1702602672",
 	"coingecko": "stakestone-ether",
 	"sources": [
 		"coingecko"

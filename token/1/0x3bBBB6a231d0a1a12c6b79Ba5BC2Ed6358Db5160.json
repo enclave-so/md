@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x3bBBB6a231d0a1a12c6b79Ba5BC2Ed6358Db5160",
-	"symbol": "Zenith",
+	"symbol": "ZEN",
 	"name": "Zenith",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35861/thumb/o7lSBgbb_400x400.jpg?1709921042",
 	"coingecko": "zenith-2",
 	"sources": [
 		"coingecko"

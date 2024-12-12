@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x7E7Ef0ee0305c1C195fcAe22FD7b207a813EEF86",
-	"symbol": "Fiona",
+	"symbol": "FIONA",
 	"name": "Fiona",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/50612/thumb/1000000786.jpg?1728474937",
 	"coingecko": "fiona",
 	"sources": [
 		"coingecko"

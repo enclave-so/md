@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xA849cd6239906F23b63BA34441b73a5C6EbA8A00",
-	"symbol": "HashMind",
+	"symbol": "HASH",
 	"name": "HashMind",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35014/thumb/IMG_20240203_223037_717.jpg?1707107441",
 	"coingecko": "hashmind",
 	"sources": [
 		"coingecko"

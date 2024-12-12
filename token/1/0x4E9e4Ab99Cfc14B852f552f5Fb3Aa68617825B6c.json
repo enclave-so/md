@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x4E9e4Ab99Cfc14B852f552f5Fb3Aa68617825B6c",
-	"symbol": "Solarcoin",
+	"symbol": "SLR",
 	"name": "Solarcoin",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/152/thumb/solarcoin.png?1696501524",
 	"coingecko": "solarcoin",
 	"sources": [
 		"coingecko"

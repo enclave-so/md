@@ -1,0 +1,11 @@
+{
+	"chain": 8453,
+	"address": "0xCB3D15e352ceFA5Be4b63b5F3F08a9f2c3e9efF2",
+	"symbol": "WAD",
+	"name": "WardenSwap",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/WAD/logo.png",
+	"sources": [
+		"optimism"
+	]
+}

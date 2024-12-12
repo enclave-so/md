@@ -4,10 +4,11 @@
 	"symbol": "TUSD",
 	"name": "TrueUSD",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x0000000000085d4780B73119b644AE5ecd22b376.jpg",
+	"logo": "https://assets.coingecko.com/coins/images/3449/thumb/tusd.png?1696504140",
 	"coingecko": "true-usd",
 	"sources": [
 		"coingecko",
+		"optimism",
 		"sushiswap"
 	]
 }

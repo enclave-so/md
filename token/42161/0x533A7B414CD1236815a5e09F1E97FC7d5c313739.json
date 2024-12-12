@@ -1,0 +1,11 @@
+{
+	"chain": 42161,
+	"address": "0x533A7B414CD1236815a5e09F1E97FC7d5c313739",
+	"symbol": "MASK",
+	"name": "Mask Network",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14051/thumb/Mask_Network.jpg?1614050316",
+	"sources": [
+		"uniswap"
+	]
+}

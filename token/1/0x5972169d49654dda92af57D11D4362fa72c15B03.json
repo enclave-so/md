@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x5972169d49654dda92af57D11D4362fa72c15B03",
-	"symbol": "Zegent AI",
+	"symbol": "ZGEN",
 	"name": "Zegent AI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/50380/thumb/Logoversion3.png?1729478426",
 	"coingecko": "zegent-ai",
 	"sources": [
 		"coingecko"

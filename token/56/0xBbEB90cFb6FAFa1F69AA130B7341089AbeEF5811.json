@@ -1,0 +1,11 @@
+{
+	"chain": 56,
+	"address": "0xBbEB90cFb6FAFa1F69AA130B7341089AbeEF5811",
+	"symbol": "UBXT",
+	"name": "UpBots",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0xBbEB90cFb6FAFa1F69AA130B7341089AbeEF5811.png",
+	"sources": [
+		"pancakeswap"
+	]
+}

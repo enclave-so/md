@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xdA47862a83dac0c112BA89c6abC2159b95afd71C",
-	"symbol": "Prisma Governance Token",
+	"symbol": "PRISMA",
 	"name": "Prisma Governance Token",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31520/thumb/PRISMA_200.png?1696530330",
 	"coingecko": "prisma-governance-token",
 	"sources": [
 		"coingecko"

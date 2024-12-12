@@ -3,6 +3,8 @@
 	"address": "0x23b586C0e79fb291ccb0244D468847EaE9Bb90f6",
 	"symbol": "R4RE",
 	"name": "R4RE",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/36559/thumb/R4RE.png?1711902279",
 	"coingecko": "r4re",
 	"sources": [
 		"coingecko"

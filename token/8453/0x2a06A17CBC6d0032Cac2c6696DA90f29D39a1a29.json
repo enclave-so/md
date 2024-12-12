@@ -1,10 +1,13 @@
 {
 	"chain": 8453,
 	"address": "0x2a06A17CBC6d0032Cac2c6696DA90f29D39a1a29",
-	"symbol": "HarryPotterObamaSonic10Inu (ETH)",
-	"name": "HarryPotterObamaSonic10Inu (ETH)",
+	"symbol": "BITCOIN",
+	"name": "HarryPotterObamaSonic10Inu",
+	"decimals": 8,
+	"logo": "https://ethereum-optimism.github.io/data/BITCOIN/logo.svg",
 	"coingecko": "harrypotterobamasonic10in",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

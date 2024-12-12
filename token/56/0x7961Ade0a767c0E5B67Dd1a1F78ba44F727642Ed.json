@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0x7961Ade0a767c0E5B67Dd1a1F78ba44F727642Ed",
-	"symbol": "Quidd",
-	"name": "Quidd",
+	"symbol": "QUIDD",
+	"name": "Quidd Token",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x7961Ade0a767c0E5B67Dd1a1F78ba44F727642Ed.png",
 	"coingecko": "quidd",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

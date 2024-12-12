@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x8a6ACA71A218301c7081d4e96D64292D3B275ce0",
-	"symbol": "S.Finance",
-	"name": "S.Finance",
+	"symbol": "SFG",
+	"name": "S Finance",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/12605/thumb/Z7D8B4b.png?1696512414",
 	"coingecko": "s-finance",
 	"sources": [
 		"coingecko"

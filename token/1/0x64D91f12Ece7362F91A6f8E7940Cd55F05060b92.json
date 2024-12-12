@@ -3,8 +3,11 @@
 	"address": "0x64D91f12Ece7362F91A6f8E7940Cd55F05060b92",
 	"symbol": "ASH",
 	"name": "ASH",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/15714/thumb/omnPqaTY.png?1622820503",
 	"coingecko": "ash",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"uniswap"
 	]
 }

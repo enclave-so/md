@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x7A78c790250FEf60ce7E8Ef85557d67Cc4216A52",
-	"symbol": "Gluteus Maximus by Virtuals",
+	"symbol": "GLUTEU",
 	"name": "Gluteus Maximus by Virtuals",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/52177/thumb/gluteu.jpg?1732685854",
 	"coingecko": "gluteus-maximus-by-virtuals",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xa684EAf215ad323452e2B2bF6F817d4aa5C116ab",
-	"symbol": "Loop ETH",
+	"symbol": "LPETH",
 	"name": "Loop ETH",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/50842/thumb/lpETH_Copy.png?1729295905",
 	"coingecko": "loop-eth",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x024B6e7DC26F4d5579bDD936F8d7BC31f2339999",
-	"symbol": "Mithril Share",
+	"symbol": "MIS",
 	"name": "Mithril Share",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/13516/thumb/MIS.png?1696513277",
 	"coingecko": "mithril-share",
 	"sources": [
 		"coingecko"

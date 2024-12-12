@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0xA4fFdf3208F46898CE063e25c1C43056FA754739",
-	"symbol": "AthenaDAO",
+	"symbol": "ATH",
 	"name": "AthenaDAO",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/33349/thumb/ATH_Token_Black_Logo.png?1701981879",
 	"coingecko": "athenadao-token",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

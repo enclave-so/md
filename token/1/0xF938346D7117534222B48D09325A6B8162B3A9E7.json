@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xF938346D7117534222B48D09325A6B8162B3A9E7",
-	"symbol": "Choppy",
+	"symbol": "CHOPPY",
 	"name": "Choppy",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/35731/thumb/200x200.png?1709691279",
 	"coingecko": "choppy",
 	"sources": [
 		"coingecko"

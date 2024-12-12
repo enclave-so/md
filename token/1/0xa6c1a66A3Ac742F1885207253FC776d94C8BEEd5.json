@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xa6c1a66A3Ac742F1885207253FC776d94C8BEEd5",
-	"symbol": "Tereon",
+	"symbol": "TRN",
 	"name": "Tereon",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/52641/thumb/logo_%284%29.png?1733872077",
 	"coingecko": "tereon",
 	"sources": [
 		"coingecko"

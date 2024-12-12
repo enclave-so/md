@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x616ef40D55C0D2c506f4d6873Bda8090b79BF8fC",
-	"symbol": "Kounotori",
+	"symbol": "KTO",
 	"name": "Kounotori",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/21251/thumb/KTO.png?1696520624",
 	"coingecko": "kounotori",
 	"sources": [
 		"coingecko"

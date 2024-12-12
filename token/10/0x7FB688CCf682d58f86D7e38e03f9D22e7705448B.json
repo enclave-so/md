@@ -4,10 +4,12 @@
 	"symbol": "RAI",
 	"name": "Rai Reflex Index",
 	"decimals": 18,
-	"logo": "https://ethereum-optimism.github.io/data/RAI/logo.svg",
+	"logo": "https://assets.coingecko.com/coins/images/14004/thumb/RAI-logo-coin.png?1613592334",
 	"coingecko": "rai",
 	"sources": [
 		"coingecko",
-		"sushiswap"
+		"optimism",
+		"sushiswap",
+		"uniswap"
 	]
 }

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xa4335da338ec4C07C391Fc1A9bF75F306adadc08",
-	"symbol": "ARYZE eUSD",
+	"symbol": "EUSD",
 	"name": "ARYZE eUSD",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/32422/thumb/eUSD.png?1733063494",
 	"coingecko": "aryze-eusd",
 	"sources": [
 		"coingecko"

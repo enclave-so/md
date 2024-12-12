@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x4BE10dA47A07716af28Ad199FbE020501BddD7aF",
-	"symbol": "XT.com",
-	"name": "XT.com",
+	"symbol": "XT",
+	"name": "XT com",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/8391/thumb/20240701-155217.jpeg?1719895785",
 	"coingecko": "xtcom-token",
 	"sources": [
 		"coingecko"

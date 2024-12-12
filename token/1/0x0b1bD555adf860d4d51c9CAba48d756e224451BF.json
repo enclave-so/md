@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x0b1bD555adf860d4d51c9CAba48d756e224451BF",
-	"symbol": "Esportplayer",
+	"symbol": "ESPORT",
 	"name": "Esportplayer",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/52466/thumb/200x200.png?1733411059",
 	"coingecko": "esportplayer",
 	"sources": [
 		"coingecko"

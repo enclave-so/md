@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xFa14Fa6958401314851A17d6C5360cA29f74B57B",
-	"symbol": "Saito",
+	"symbol": "SAITO",
 	"name": "Saito",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14750/thumb/SAITO.png?1696514419",
 	"coingecko": "saito",
 	"sources": [
 		"coingecko"

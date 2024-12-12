@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x1cfa5641c01406aB8AC350dEd7d735ec41298372",
-	"symbol": "Convertible JPY Token",
+	"symbol": "CJPY",
 	"name": "Convertible JPY Token",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31356/thumb/CJPY_logo.png?1696530173",
 	"coingecko": "convertible-jpy-token",
 	"sources": [
 		"coingecko"

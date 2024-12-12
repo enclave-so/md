@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x70fD93fb088150e203d2243b9BD3190276f80C70",
-	"symbol": "Birddog",
+	"symbol": "BIRDDOG",
 	"name": "Birddog",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/37565/thumb/181D06EC-1826-454D-9564-BE83F96FF6D7.png?1714878440",
 	"coingecko": "birddog",
 	"sources": [
 		"coingecko"

@@ -1,0 +1,11 @@
+{
+	"chain": 8453,
+	"address": "0xF734eFdE0C424BA2B547b186586dE417b0954802",
+	"symbol": "Silo",
+	"name": "Silo Governance Token",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/Silo/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

@@ -2,9 +2,9 @@
 	"chain": 1,
 	"address": "0xa0ED3C520dC0632657AD2EaaF19E26C4fD431a84",
 	"symbol": "HPO",
-	"name": "Hippopotamus",
+	"name": "Hippo Wallet",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xa0ED3C520dC0632657AD2EaaF19E26C4fD431a84.jpg",
+	"logo": "https://assets.coingecko.com/coins/images/28089/thumb/b77170dd-1dd1-4581-91b2-e352794fa045.jpg?1696527099",
 	"coingecko": "hippopotamus",
 	"sources": [
 		"coingecko",

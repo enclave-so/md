@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x6D7187220f769bdE541FF51Dd37ee07416F861d2",
+	"symbol": "Nostra",
+	"name": "Nostra",
+	"coingecko": "nostra",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xc0F1728d9513EFC316D0E93A0758c992f88b0809",
-	"symbol": "SWTCoin",
+	"symbol": "SWAT",
 	"name": "SWTCoin",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/5985/thumb/swtcoin.jpg?1696506402",
 	"coingecko": "swtcoin",
 	"sources": [
 		"coingecko"

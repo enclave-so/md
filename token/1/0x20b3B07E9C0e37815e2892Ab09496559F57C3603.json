@@ -3,6 +3,8 @@
 	"address": "0x20b3B07E9C0e37815e2892Ab09496559F57C3603",
 	"symbol": "USDV",
 	"name": "USDV",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31806/thumb/200x200.png?1696530621",
 	"coingecko": "usdv-2",
 	"sources": [
 		"coingecko"

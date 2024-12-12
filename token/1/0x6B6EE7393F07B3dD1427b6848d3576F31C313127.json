@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x6B6EE7393F07B3dD1427b6848d3576F31C313127",
-	"symbol": "LollyBomb",
+	"symbol": "BOMB",
 	"name": "LollyBomb",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/38679/thumb/ee9u3nKM_400x400.jpg?1718314885",
 	"coingecko": "lollybomb",
 	"sources": [
 		"coingecko"

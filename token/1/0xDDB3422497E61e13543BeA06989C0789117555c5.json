@@ -3,8 +3,11 @@
 	"address": "0xDDB3422497E61e13543BeA06989C0789117555c5",
 	"symbol": "COTI",
 	"name": "COTI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/2962/thumb/Coti.png?1559653863",
 	"coingecko": "coti",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"uniswap"
 	]
 }

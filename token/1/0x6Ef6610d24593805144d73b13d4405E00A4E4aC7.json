@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x6Ef6610d24593805144d73b13d4405E00A4E4aC7",
-	"symbol": "Die Protocol",
+	"symbol": "DIE",
 	"name": "Die Protocol",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/27903/thumb/newlogo.jpg?1696526924",
 	"coingecko": "die-protocol",
 	"sources": [
 		"coingecko"

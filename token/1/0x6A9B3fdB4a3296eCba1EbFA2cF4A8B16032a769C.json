@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x6A9B3fdB4a3296eCba1EbFA2cF4A8B16032a769C",
-	"symbol": "bitSmiley",
+	"symbol": "SMILE",
 	"name": "bitSmiley",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/51309/thumb/Copy_of_Token_icon_White_background.png?1730635535",
 	"coingecko": "bitsmiley",
 	"sources": [
 		"coingecko"

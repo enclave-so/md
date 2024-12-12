@@ -3,8 +3,11 @@
 	"address": "0xA697e272a73744b343528C3Bc4702F2565b2F422",
 	"symbol": "Bonk",
 	"name": "Bonk",
+	"decimals": 5,
+	"logo": "https://tokens.pancakeswap.finance/images/0xA697e272a73744b343528C3Bc4702F2565b2F422.png",
 	"coingecko": "bonk",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

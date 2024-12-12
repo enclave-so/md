@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xeA46Bf7Fe6c9a2e29a97D2Da2775131067b4BA0C",
-	"symbol": "LE7EL",
+	"symbol": "L7L",
 	"name": "LE7EL",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/38363/thumb/LOGO_CG_CM.png?1727975824",
 	"coingecko": "le7el",
 	"sources": [
 		"coingecko"

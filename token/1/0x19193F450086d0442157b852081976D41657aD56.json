@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x19193F450086d0442157b852081976D41657aD56",
-	"symbol": "Nunu Spirits",
+	"symbol": "NNT",
 	"name": "Nunu Spirits",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/24378/thumb/NNT_99cc33.png?1696523561",
 	"coingecko": "nunu-spirits",
 	"sources": [
 		"coingecko"

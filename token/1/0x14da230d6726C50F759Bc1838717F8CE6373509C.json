@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x14da230d6726C50F759Bc1838717F8CE6373509C",
-	"symbol": "Kambria",
+	"symbol": "KAT",
 	"name": "Kambria",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/4784/thumb/kambria.png?1696505340",
 	"coingecko": "kambria",
 	"sources": [
 		"coingecko"

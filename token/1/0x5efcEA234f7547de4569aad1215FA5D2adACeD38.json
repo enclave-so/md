@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x5efcEA234f7547de4569aad1215FA5D2adACeD38",
-	"symbol": "Clown Pepe",
+	"symbol": "HONK",
 	"name": "Clown Pepe",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/29890/thumb/Honk.png?1696528814",
 	"coingecko": "clown-pepe",
 	"sources": [
 		"coingecko"

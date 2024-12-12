@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x8806926Ab68EB5a7b909DcAf6FdBe5d93271D6e2",
-	"symbol": "Uquid Coin",
+	"symbol": "UQC",
 	"name": "Uquid Coin",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/1341/thumb/uquid-coin.png?1696502403",
 	"coingecko": "uquid-coin",
 	"sources": [
 		"coingecko"

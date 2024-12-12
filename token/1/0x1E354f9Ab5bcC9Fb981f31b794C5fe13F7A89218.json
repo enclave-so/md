@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x1E354f9Ab5bcC9Fb981f31b794C5fe13F7A89218",
-	"symbol": "Neural Tensor Dynamics",
+	"symbol": "NTD",
 	"name": "Neural Tensor Dynamics",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/36532/thumb/Neural_Tensor_Dynamics.png?1711705100",
 	"coingecko": "neural-tensor-dynamics",
 	"sources": [
 		"coingecko"

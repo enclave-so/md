@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x4F08705FB8F33AffC231ed66e626B40E84A71870",
-	"symbol": "Flute",
+	"symbol": "FLUT",
 	"name": "Flute",
+	"decimals": 11,
+	"logo": "https://assets.coingecko.com/coins/images/29148/thumb/TheFlute200x200.png?1696528108",
 	"coingecko": "flute",
 	"sources": [
 		"coingecko"

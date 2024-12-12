@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x922e2708462c7a3d014D8344F7C4d92b27ECf332",
-	"symbol": "Neuroni AI",
+	"symbol": "NEURONI",
 	"name": "Neuroni AI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/28887/thumb/200X200.png?1696527864",
 	"coingecko": "neuroni-ai",
 	"sources": [
 		"coingecko"

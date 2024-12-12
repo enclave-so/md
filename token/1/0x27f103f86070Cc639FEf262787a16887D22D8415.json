@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x27f103f86070Cc639FEf262787a16887D22D8415",
-	"symbol": "FOFO Token",
+	"symbol": "FOFO",
 	"name": "FOFO Token",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30438/thumb/01_%281%29_copy.png?1696529326",
 	"coingecko": "fofo-token",
 	"sources": [
 		"coingecko"

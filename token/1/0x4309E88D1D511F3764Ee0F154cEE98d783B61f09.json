@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x4309E88D1D511F3764Ee0F154cEE98d783B61f09",
-	"symbol": "Onchain AI",
+	"symbol": "OCAI",
 	"name": "Onchain AI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31191/thumb/onchain_200.jpeg?1696530019",
 	"coingecko": "onchain-ai",
 	"sources": [
 		"coingecko"

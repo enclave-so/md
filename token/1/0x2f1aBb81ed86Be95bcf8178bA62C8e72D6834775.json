@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x2f1aBb81ed86Be95bcf8178bA62C8e72D6834775",
-	"symbol": "MEV Capital Pendle WBTC",
+	"symbol": "PWBTC",
 	"name": "MEV Capital Pendle WBTC",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/52393/thumb/pendlecoingecko.png?1733283222",
 	"coingecko": "mev-capital-pendle-wbtc",
 	"sources": [
 		"coingecko"

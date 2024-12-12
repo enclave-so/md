@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x0000000DE40dfa9B17854cBC7869D80f9F98D823",
-	"symbol": "delta.theta",
-	"name": "delta.theta",
+	"symbol": "DLTA",
+	"name": "delta theta",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/15697/thumb/logo-DT-square.png?1696515325",
 	"coingecko": "delta-theta",
 	"sources": [
 		"coingecko"

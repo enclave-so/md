@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xCF91b70017eABDE82c9671E30e5502D312eA6eb2",
-	"symbol": "I love puppies",
+	"symbol": "PUPPIES",
 	"name": "I love puppies",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/35708/thumb/1000005823.jpg?1709624357",
 	"coingecko": "i-love-puppies",
 	"sources": [
 		"coingecko"

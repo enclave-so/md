@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xE469699F617bfd0FBfFcd575970d34c2CeCfFA9f",
-	"symbol": "VuzzMind",
+	"symbol": "VUZZ",
 	"name": "VuzzMind",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/34294/thumb/tokenlogogecko.png?1704606291",
 	"coingecko": "vuzzmind",
 	"sources": [
 		"coingecko"

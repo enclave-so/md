@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xcBB8f1BDA10b9696c57E13BC128Fe674769DCEc0",
-	"symbol": "MorpheusAI",
+	"symbol": "MOR",
 	"name": "MorpheusAI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/37969/thumb/MOR200X200.png?1716327119",
 	"coingecko": "morpheusai",
 	"sources": [
 		"coingecko"

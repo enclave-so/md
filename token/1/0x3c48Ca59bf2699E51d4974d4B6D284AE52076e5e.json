@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x3c48Ca59bf2699E51d4974d4B6D284AE52076e5e",
-	"symbol": "Capital DAO Starter",
+	"symbol": "CDS",
 	"name": "Capital DAO Starter",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/20332/thumb/cds.png?1696519736",
 	"coingecko": "capital-dao-starter-token",
 	"sources": [
 		"coingecko"

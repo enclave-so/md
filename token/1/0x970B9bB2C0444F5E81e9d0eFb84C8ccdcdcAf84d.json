@@ -2,9 +2,9 @@
 	"chain": 1,
 	"address": "0x970B9bB2C0444F5E81e9d0eFb84C8ccdcdcAf84d",
 	"symbol": "FUSE",
-	"name": "Fuse Token",
+	"name": "Fuse",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x970B9bB2C0444F5E81e9d0eFb84C8ccdcdcAf84d.jpg",
+	"logo": "https://assets.coingecko.com/coins/images/10347/thumb/fuse.png?1696510348",
 	"coingecko": "fuse-network-token",
 	"sources": [
 		"coingecko",

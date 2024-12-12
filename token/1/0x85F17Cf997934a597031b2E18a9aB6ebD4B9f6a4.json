@@ -2,9 +2,9 @@
 	"chain": 1,
 	"address": "0x85F17Cf997934a597031b2E18a9aB6ebD4B9f6a4",
 	"symbol": "NEAR",
-	"name": "NEAR",
+	"name": "NEAR Protocol",
 	"decimals": 24,
-	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x85F17Cf997934a597031b2E18a9aB6ebD4B9f6a4/logo.png",
+	"logo": "https://assets.coingecko.com/coins/images/10365/thumb/near.jpg?1696510367",
 	"coingecko": "near",
 	"sources": [
 		"coingecko",

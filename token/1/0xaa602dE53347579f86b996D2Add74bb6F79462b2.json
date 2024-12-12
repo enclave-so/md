@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xaa602dE53347579f86b996D2Add74bb6F79462b2",
-	"symbol": "Zipmex",
+	"symbol": "ZMT",
 	"name": "Zipmex",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/13866/thumb/ZMT_Token.png?1696513611",
 	"coingecko": "zipmex-token",
 	"sources": [
 		"coingecko"

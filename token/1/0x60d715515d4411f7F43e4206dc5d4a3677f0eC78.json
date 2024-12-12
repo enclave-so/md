@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x60d715515d4411f7F43e4206dc5d4a3677f0eC78",
-	"symbol": "Re7 USDC",
+	"symbol": "RE7USDC",
 	"name": "Re7 USDC",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/51506/thumb/pngtree-usd-coin-usdc-digital-stablecoin-icon-technology-pay-web-vector-png-image_37843734.png?1731434195",
 	"coingecko": "re7-usdc",
 	"sources": [
 		"coingecko"

@@ -1,10 +1,13 @@
 {
 	"chain": 8453,
 	"address": "0x50dA645f148798F68EF2d7dB7C1CB22A6819bb2C",
-	"symbol": "SPX6900",
+	"symbol": "SPX",
 	"name": "SPX6900",
+	"decimals": 8,
+	"logo": "https://ethereum-optimism.github.io/data/SPX/logo.svg",
 	"coingecko": "spx6900",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

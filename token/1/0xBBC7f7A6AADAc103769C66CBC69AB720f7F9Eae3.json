@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xBBC7f7A6AADAc103769C66CBC69AB720f7F9Eae3",
-	"symbol": "INX Token",
+	"symbol": "INX",
 	"name": "INX Token",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/29241/thumb/Tc8Z6xAG_400x400.jpg?1696528197",
 	"coingecko": "inx-token-2",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x6c4a8973E6633dA2Da7187669479C27830c7b1c4",
-	"symbol": "BloomBeans BLOOM",
+	"symbol": "BLOOM",
 	"name": "BloomBeans BLOOM",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/40032/thumb/BLOOM.jpg?1725363577",
 	"coingecko": "bloombeans-bloom",
 	"sources": [
 		"coingecko"

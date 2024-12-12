@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xd075e95423C5c4BA1E122CaE0f4CdFA19b82881b",
-	"symbol": "OpesAI",
+	"symbol": "WPE",
 	"name": "OpesAI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/16647/thumb/ai.png?1696516208",
 	"coingecko": "opes-wrapped-pe",
 	"sources": [
 		"coingecko"

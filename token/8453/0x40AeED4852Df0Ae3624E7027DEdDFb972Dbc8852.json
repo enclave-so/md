@@ -1,0 +1,11 @@
+{
+	"chain": 8453,
+	"address": "0x40AeED4852Df0Ae3624E7027DEdDFb972Dbc8852",
+	"symbol": "zunETH",
+	"name": "Zunami ETH",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/zunETH/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

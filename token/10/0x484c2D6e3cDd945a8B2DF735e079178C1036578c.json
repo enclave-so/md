@@ -1,10 +1,13 @@
 {
 	"chain": 10,
 	"address": "0x484c2D6e3cDd945a8B2DF735e079178C1036578c",
-	"symbol": "Staked Frax Ether",
+	"symbol": "sfrxETH",
 	"name": "Staked Frax Ether",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/sfrxETH/logo.svg",
 	"coingecko": "staked-frax-ether",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0x4eA98c1999575aaadfb38237Dd015c5E773F75a2",
-	"symbol": "MAGA",
+	"symbol": "TRUMP",
 	"name": "MAGA",
+	"decimals": 9,
+	"logo": "https://tokens.pancakeswap.finance/images/0x4eA98c1999575aaadfb38237Dd015c5E773F75a2.png",
 	"coingecko": "maga",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

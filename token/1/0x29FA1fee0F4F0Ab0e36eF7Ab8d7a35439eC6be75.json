@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x29FA1fee0F4F0Ab0e36eF7Ab8d7a35439eC6be75",
-	"symbol": "SafeStake",
+	"symbol": "DVT",
 	"name": "SafeStake",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30016/thumb/SafeStake_Logo.jpg?1719524449",
 	"coingecko": "safestake",
 	"sources": [
 		"coingecko"

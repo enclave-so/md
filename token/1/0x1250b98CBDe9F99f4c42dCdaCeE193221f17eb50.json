@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x1250b98CBDe9F99f4c42dCdaCeE193221f17eb50",
-	"symbol": "ArtCoin",
+	"symbol": "AC",
 	"name": "ArtCoin",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/26127/thumb/ngiBSUT7_400x400.png?1696525216",
 	"coingecko": "artcoin",
 	"sources": [
 		"coingecko"

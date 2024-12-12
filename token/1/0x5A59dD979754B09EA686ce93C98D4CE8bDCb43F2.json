@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x5A59dD979754B09EA686ce93C98D4CE8bDCb43F2",
-	"symbol": "Cros",
+	"symbol": "CROS",
 	"name": "Cros",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/37695/thumb/Circle_-_Logomark_-_White.png?1732820116",
 	"coingecko": "cros",
 	"sources": [
 		"coingecko"

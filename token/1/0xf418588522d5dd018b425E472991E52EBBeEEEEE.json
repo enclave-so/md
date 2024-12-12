@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xf418588522d5dd018b425E472991E52EBBeEEEEE",
-	"symbol": "Push Protocol",
+	"symbol": "PUSH",
 	"name": "Push Protocol",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14769/thumb/aiOxYOJI_400x400.jpeg?1696514438",
 	"coingecko": "ethereum-push-notification-service",
 	"sources": [
 		"coingecko"

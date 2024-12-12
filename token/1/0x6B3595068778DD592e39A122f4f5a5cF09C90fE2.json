@@ -2,12 +2,14 @@
 	"chain": 1,
 	"address": "0x6B3595068778DD592e39A122f4f5a5cF09C90fE2",
 	"symbol": "SUSHI",
-	"name": "SushiSwap",
+	"name": "Sushi",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/sushi.jpg",
+	"logo": "https://assets.coingecko.com/coins/images/12271/thumb/512x512_Logo_no_chop.png?1606986688",
 	"coingecko": "sushi",
 	"sources": [
 		"coingecko",
-		"sushiswap"
+		"optimism",
+		"sushiswap",
+		"uniswap"
 	]
 }

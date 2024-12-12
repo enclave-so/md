@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0x570A5D26f7765Ecb712C0924E4De545B89fD43dF",
-	"symbol": "Wrapped SOL",
-	"name": "Wrapped SOL",
+	"symbol": "SOL",
+	"name": "SOLANA",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x570A5D26f7765Ecb712C0924E4De545B89fD43dF.png",
 	"coingecko": "wrapped-solana",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xc69996612249417Db3407D98EA5b534FAa0E90a7",
-	"symbol": "Decentrashop",
+	"symbol": "DXS",
 	"name": "Decentrashop",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/39018/thumb/logo_dxs_big.png?1719936824",
 	"coingecko": "decentrashop",
 	"sources": [
 		"coingecko"

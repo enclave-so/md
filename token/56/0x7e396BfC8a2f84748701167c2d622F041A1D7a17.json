@@ -1,0 +1,11 @@
+{
+	"chain": 56,
+	"address": "0x7e396BfC8a2f84748701167c2d622F041A1D7a17",
+	"symbol": "WMASS",
+	"name": "Wrapped MASS",
+	"decimals": 8,
+	"logo": "https://tokens.pancakeswap.finance/images/0x7e396BfC8a2f84748701167c2d622F041A1D7a17.png",
+	"sources": [
+		"pancakeswap"
+	]
+}

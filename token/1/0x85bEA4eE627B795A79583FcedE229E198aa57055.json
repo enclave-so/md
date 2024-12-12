@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x85bEA4eE627B795A79583FcedE229E198aa57055",
-	"symbol": "Marvin Inu",
+	"symbol": "MARVIN",
 	"name": "Marvin Inu",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/50295/thumb/1000000558.jpg?1726932121",
 	"coingecko": "marvin-inu-2",
 	"sources": [
 		"coingecko"

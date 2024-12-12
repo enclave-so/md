@@ -3,6 +3,8 @@
 	"address": "0xd87D72248093597df8D56d2a53C1ab7c1A0Cc8DA",
 	"symbol": "HAHA",
 	"name": "HAHA",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30070/thumb/2.png?1696528991",
 	"coingecko": "haha",
 	"sources": [
 		"coingecko"

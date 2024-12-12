@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xC91a71A1fFA3d8B22ba615BA1B9c01b2BBBf55ad",
-	"symbol": "ZigZag",
+	"symbol": "ZZ",
 	"name": "ZigZag",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/26141/thumb/zig_zag.?1696525229",
 	"coingecko": "zigzag-2",
 	"sources": [
 		"coingecko"

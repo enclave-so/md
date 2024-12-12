@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x04C154b66CB340F3Ae24111CC767e0184Ed00Cc6",
-	"symbol": "Dinero Staked ETH",
+	"symbol": "PXETH",
 	"name": "Dinero Staked ETH",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/33608/thumb/pxETH-icon-transbg_72dpi.png?1702512024",
 	"coingecko": "dinero-staked-eth",
 	"sources": [
 		"coingecko"

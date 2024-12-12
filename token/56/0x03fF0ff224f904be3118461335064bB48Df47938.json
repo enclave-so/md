@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0x03fF0ff224f904be3118461335064bB48Df47938",
-	"symbol": "Wrapped One",
-	"name": "Wrapped One",
+	"symbol": "ONE",
+	"name": "Harmony One",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x03fF0ff224f904be3118461335064bB48Df47938.png",
 	"coingecko": "wrapped-one",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

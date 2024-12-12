@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x9f04c2bD696a6191246144bA762456a24c457520",
-	"symbol": "AITaxBot",
+	"symbol": "AITAX",
 	"name": "AITaxBot",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/37613/thumb/AITaxBot.png?1715058483",
 	"coingecko": "aitaxbot",
 	"sources": [
 		"coingecko"

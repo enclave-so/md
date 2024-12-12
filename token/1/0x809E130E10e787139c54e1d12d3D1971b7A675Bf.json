@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x809E130E10e787139c54e1d12d3D1971b7A675Bf",
-	"symbol": "Minted",
+	"symbol": "MTD",
 	"name": "Minted",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/26893/thumb/MTD_Token_%282%29.png?1696525951",
 	"coingecko": "minted",
 	"sources": [
 		"coingecko"

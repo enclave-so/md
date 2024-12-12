@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x5F7827FDeb7c20b443265Fc2F40845B715385Ff2",
-	"symbol": "EUR CoinVertible",
+	"symbol": "EURCV",
 	"name": "EUR CoinVertible",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/33415/thumb/eurcv_%281%29.png?1701752017",
 	"coingecko": "societe-generale-forge-eurcv",
 	"sources": [
 		"coingecko"

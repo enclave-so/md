@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x26869045311FC5e5353EADCFA654CD47DDC20356",
-	"symbol": "Quantum DAO",
+	"symbol": "QTDAO",
 	"name": "Quantum DAO",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/39386/thumb/200x200.png?1721963420",
 	"coingecko": "quantum-dao",
 	"sources": [
 		"coingecko"

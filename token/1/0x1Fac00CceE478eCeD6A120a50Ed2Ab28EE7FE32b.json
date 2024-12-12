@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x1Fac00CceE478eCeD6A120a50Ed2Ab28EE7FE32b",
-	"symbol": "Bitune",
+	"symbol": "TUNE",
 	"name": "Bitune",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14112/thumb/bittune.png?1704793548",
 	"coingecko": "antimatter",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x6b96c78D4472031F1fBed2d1C4Bd3895e9212344",
-	"symbol": "TAOx",
+	"symbol": "TAOX",
 	"name": "TAOx",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35842/thumb/logo-taox.jpeg?1709889951",
 	"coingecko": "taox",
 	"sources": [
 		"coingecko"

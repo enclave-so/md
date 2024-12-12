@@ -4,10 +4,12 @@
 	"symbol": "USDT",
 	"name": "Tether USD",
 	"decimals": 6,
-	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdt.jpg",
+	"logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
 	"coingecko": "arbitrum-bridged-usdt-arbitrum",
 	"sources": [
 		"coingecko",
-		"sushiswap"
+		"indexcoop",
+		"sushiswap",
+		"uniswap"
 	]
 }

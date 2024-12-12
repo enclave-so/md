@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0xCF078DA6e85389de507ceeDE0E3d217e457B9d49",
-	"symbol": "Skillful AI",
+	"symbol": "SKAI",
 	"name": "Skillful AI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/38056/thumb/Vector.png?1716407390",
 	"coingecko": "skai",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

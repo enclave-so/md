@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x02D3A27Ac3f55d5D91Fb0f52759842696a864217",
-	"symbol": "Charged Particles",
+	"symbol": "IONX",
 	"name": "Charged Particles",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/15836/thumb/DrKjSQMH_400x400.png?1696515454",
 	"coingecko": "charged-particles",
 	"sources": [
 		"coingecko"

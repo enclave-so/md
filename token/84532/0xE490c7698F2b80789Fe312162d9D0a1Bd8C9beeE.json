@@ -1,0 +1,11 @@
+{
+	"chain": 84532,
+	"address": "0xE490c7698F2b80789Fe312162d9D0a1Bd8C9beeE",
+	"symbol": "BTRST",
+	"name": "BTRST",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/BTRST/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

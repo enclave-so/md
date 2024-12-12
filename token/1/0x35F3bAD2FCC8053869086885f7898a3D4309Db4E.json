@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x35F3bAD2FCC8053869086885f7898a3D4309Db4E",
-	"symbol": "Ember Sword",
+	"symbol": "EMBER",
 	"name": "Ember Sword",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/38422/thumb/EMBER.jpg?1717486263",
 	"coingecko": "ember-sword",
 	"sources": [
 		"coingecko"

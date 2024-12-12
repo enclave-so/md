@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xcdb8fc4Ef27dfEAbA9b31899a9d165398bF97b9e",
-	"symbol": "Ethos",
+	"symbol": "ETHOS",
 	"name": "Ethos",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/40116/thumb/Ethos-Icon-200x200-PNG-TRANS.png?1725834573",
 	"coingecko": "ethos-3",
 	"sources": [
 		"coingecko"

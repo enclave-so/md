@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x91fbB2503AC69702061f1AC6885759Fc853e6EaE",
-	"symbol": "K9 Finance DAO",
+	"symbol": "KNINE",
 	"name": "K9 Finance DAO",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35824/thumb/k9_200_X_200.png?1709886958",
 	"coingecko": "k9-finance-dao",
 	"sources": [
 		"coingecko"

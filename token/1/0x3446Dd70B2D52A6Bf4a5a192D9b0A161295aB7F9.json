@@ -2,12 +2,13 @@
 	"chain": 1,
 	"address": "0x3446Dd70B2D52A6Bf4a5a192D9b0A161295aB7F9",
 	"symbol": "SUDO",
-	"name": "Sudo Governance Token",
+	"name": "sudoswap",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x3446Dd70B2D52A6Bf4a5a192D9b0A161295aB7F9.jpg",
+	"logo": "https://assets.coingecko.com/coins/images/27151/thumb/sudo.png?1696526202",
 	"coingecko": "sudoswap",
 	"sources": [
 		"coingecko",
+		"optimism",
 		"sushiswap"
 	]
 }

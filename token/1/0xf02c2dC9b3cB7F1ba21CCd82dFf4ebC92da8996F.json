@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xf02c2dC9b3cB7F1ba21CCd82dFf4ebC92da8996F",
-	"symbol": "TensorScan AI",
+	"symbol": "TSA",
 	"name": "TensorScan AI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/36193/thumb/TensorScanAI_200x200.png?1710762625",
 	"coingecko": "tensorscan-ai",
 	"sources": [
 		"coingecko"

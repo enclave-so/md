@@ -1,76 +1,6 @@
 [
 	{
 		"chain": 14,
-		"address": "0x908BB3E15040801fd29E542221A31Baaa7A4bE19",
-		"symbol": "FrooDoo",
-		"name": "FrooDoo",
-		"coingecko": "froodoo",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 14,
-		"address": "0xE6505f92583103AF7ed9974DEC451A7Af4e3A3bE",
-		"symbol": "Joule",
-		"name": "Joule",
-		"coingecko": "joule-2",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 14,
-		"address": "0x932E691aA8c8306C4bB0b19F3f00a284371be8Ba",
-		"symbol": "Phili Inu",
-		"name": "Phili Inu",
-		"coingecko": "phili-inu",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 14,
-		"address": "0x0B38e83B86d491735fEaa0a791F65c2B99535396",
-		"symbol": "Stargate Bridged USDT (Flare Network)",
-		"name": "Stargate Bridged USDT (Flare Network)",
-		"coingecko": "stargate-bridged-usdt-flare-network",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 14,
-		"address": "0x5701113457375f8E78E46238533a27Ba3E375d76",
-		"symbol": "SuperFlare",
-		"name": "SuperFlare",
-		"coingecko": "superflare",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 14,
-		"address": "0x1D80c49BbBCd1C0911346656B529DF9E5c2F783d",
-		"symbol": "Wrapped Flare",
-		"name": "Wrapped Flare",
-		"coingecko": "wrapped-flare",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 14,
-		"address": "0xc6B19B06A92B337Cbca5f7334d29d45ec4d5E532",
-		"symbol": "Dog on Moon",
-		"name": "Dog on Moon",
-		"coingecko": "dog-on-moon",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 14,
 		"address": "0x96B41289D90444B8adD57e6F265DB5aE8651DF29",
 		"symbol": "Enosys USDT",
 		"name": "Enosys USDT",
@@ -81,10 +11,20 @@
 	},
 	{
 		"chain": 14,
-		"address": "0x4A771Cc1a39FDd8AA08B8EA51F7Fd412e73B3d2B",
-		"symbol": "Hex Trust USD",
-		"name": "Hex Trust USD",
-		"coingecko": "hex-trust-usdx",
+		"address": "0x22757fb83836e3F9F0F353126cACD3B1Dc82a387",
+		"symbol": "FlareFox",
+		"name": "FlareFox",
+		"coingecko": "flarefox",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 14,
+		"address": "0x932E691aA8c8306C4bB0b19F3f00a284371be8Ba",
+		"symbol": "Phili Inu",
+		"name": "Phili Inu",
+		"coingecko": "phili-inu",
 		"sources": [
 			"coingecko"
 		]
@@ -121,10 +61,50 @@
 	},
 	{
 		"chain": 14,
-		"address": "0x22757fb83836e3F9F0F353126cACD3B1Dc82a387",
-		"symbol": "FlareFox",
-		"name": "FlareFox",
-		"coingecko": "flarefox",
+		"address": "0x140D8d3649Ec605CF69018C627fB44cCC76eC89f",
+		"symbol": "Ēnosys",
+		"name": "Ēnosys",
+		"coingecko": "enosys",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 14,
+		"address": "0x908BB3E15040801fd29E542221A31Baaa7A4bE19",
+		"symbol": "FrooDoo",
+		"name": "FrooDoo",
+		"coingecko": "froodoo",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 14,
+		"address": "0xE6505f92583103AF7ed9974DEC451A7Af4e3A3bE",
+		"symbol": "Joule",
+		"name": "Joule",
+		"coingecko": "joule-2",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 14,
+		"address": "0x1D80c49BbBCd1C0911346656B529DF9E5c2F783d",
+		"symbol": "Wrapped Flare",
+		"name": "Wrapped Flare",
+		"coingecko": "wrapped-flare",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 14,
+		"address": "0xc6B19B06A92B337Cbca5f7334d29d45ec4d5E532",
+		"symbol": "Dog on Moon",
+		"name": "Dog on Moon",
+		"coingecko": "dog-on-moon",
 		"sources": [
 			"coingecko"
 		]
@@ -141,6 +121,16 @@
 	},
 	{
 		"chain": 14,
+		"address": "0x5701113457375f8E78E46238533a27Ba3E375d76",
+		"symbol": "SuperFlare",
+		"name": "SuperFlare",
+		"coingecko": "superflare",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 14,
 		"address": "0xe2bBf70A52Ee84837E9E2e245E5aFc560E259249",
 		"symbol": "Zoink",
 		"name": "Zoink",
@@ -151,10 +141,20 @@
 	},
 	{
 		"chain": 14,
-		"address": "0x140D8d3649Ec605CF69018C627fB44cCC76eC89f",
-		"symbol": "Ēnosys",
-		"name": "Ēnosys",
-		"coingecko": "enosys",
+		"address": "0x4A771Cc1a39FDd8AA08B8EA51F7Fd412e73B3d2B",
+		"symbol": "Hex Trust USD",
+		"name": "Hex Trust USD",
+		"coingecko": "hex-trust-usdx",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 14,
+		"address": "0x0B38e83B86d491735fEaa0a791F65c2B99535396",
+		"symbol": "Stargate Bridged USDT (Flare Network)",
+		"name": "Stargate Bridged USDT (Flare Network)",
+		"coingecko": "stargate-bridged-usdt-flare-network",
 		"sources": [
 			"coingecko"
 		]

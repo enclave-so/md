@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xB299751B088336E165dA313c33e3195B8c6663A6",
-	"symbol": "StarHeroes",
+	"symbol": "STAR",
 	"name": "StarHeroes",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/34147/thumb/Screenshot_2024-03-08_180444.png?1709892309",
 	"coingecko": "starheroes",
 	"sources": [
 		"coingecko"

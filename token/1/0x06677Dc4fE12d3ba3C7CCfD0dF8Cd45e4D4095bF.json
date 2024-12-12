@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x06677Dc4fE12d3ba3C7CCfD0dF8Cd45e4D4095bF",
-	"symbol": "Work Quest",
+	"symbol": "WQT",
 	"name": "Work Quest",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30040/thumb/WQT-1_%281%29.png?1696528963",
 	"coingecko": "work-quest-2",
 	"sources": [
 		"coingecko"

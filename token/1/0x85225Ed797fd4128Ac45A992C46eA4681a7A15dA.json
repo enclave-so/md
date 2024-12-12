@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x85225Ed797fd4128Ac45A992C46eA4681a7A15dA",
-	"symbol": "Hyperbolic Protocol",
+	"symbol": "HYPE",
 	"name": "Hyperbolic Protocol",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30743/thumb/HP_200x200.png?1696529613",
 	"coingecko": "hyperbolic-protocol",
 	"sources": [
 		"coingecko"

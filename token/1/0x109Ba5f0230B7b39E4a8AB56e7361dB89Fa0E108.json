@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x109Ba5f0230B7b39E4a8AB56e7361dB89Fa0E108",
-	"symbol": "TURBO.WIN",
-	"name": "TURBO.WIN",
+	"symbol": "TURBO",
+	"name": "TURBO WIN",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/52310/thumb/Turbo200x200.png?1733067695",
 	"coingecko": "turbo-win",
 	"sources": [
 		"coingecko"

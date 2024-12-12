@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xd8695414822e25Ab796C1d360914dDF510A01138",
-	"symbol": "Kreaitor",
+	"symbol": "KAI",
 	"name": "Kreaitor",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/34754/thumb/Kreaitor.png?1718690247",
 	"coingecko": "kreaitor",
 	"sources": [
 		"coingecko"

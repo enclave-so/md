@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x115eC79F1de567eC68B7AE7eDA501b406626478e",
-	"symbol": "Carry",
+	"symbol": "CRE",
 	"name": "Carry",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/3994/thumb/Carry.png?1696504635",
 	"coingecko": "carry",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x21f15966E07a10554C364b988e91DaB01D32794A",
-	"symbol": "SmartMesh",
+	"symbol": "SMT",
 	"name": "SmartMesh",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/1346/thumb/smartmesh.png?1696502406",
 	"coingecko": "smartmesh",
 	"sources": [
 		"coingecko"

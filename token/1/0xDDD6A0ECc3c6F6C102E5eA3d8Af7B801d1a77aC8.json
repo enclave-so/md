@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xDDD6A0ECc3c6F6C102E5eA3d8Af7B801d1a77aC8",
-	"symbol": "UniX",
+	"symbol": "UNIX",
 	"name": "UniX",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/20674/thumb/pfp.png?1733812025",
 	"coingecko": "unix",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xd2adC1C84443Ad06f0017aDCa346Bd9b6fc52CaB",
-	"symbol": "dFund",
+	"symbol": "DFND",
 	"name": "dFund",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/15286/thumb/1zbdX36.png?1696514937",
 	"coingecko": "dfund",
 	"sources": [
 		"coingecko"

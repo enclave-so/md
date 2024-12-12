@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x967Fb0D760ED3ce53AfE2f0A071674cccAe73550",
-	"symbol": "XANA",
+	"symbol": "XETA",
 	"name": "XANA",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/24379/thumb/XANA_Silver_Logo_%281%29.png?1729504384",
 	"coingecko": "xana",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xE5B826Ca2Ca02F09c1725e9bd98d9a8874C30532",
-	"symbol": "ZEON Network",
+	"symbol": "ZEON",
 	"name": "ZEON Network",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/4247/thumb/XZqXYc2j_400x400.jpg?1696504861",
 	"coingecko": "zeon",
 	"sources": [
 		"coingecko"

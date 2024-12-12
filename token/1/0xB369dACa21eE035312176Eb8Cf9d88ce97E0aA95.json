@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xB369dACa21eE035312176Eb8Cf9d88ce97E0aA95",
-	"symbol": "Skol",
+	"symbol": "SKOL",
 	"name": "Skol",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35934/thumb/skollogo_200x200.png?1710264034",
 	"coingecko": "skol",
 	"sources": [
 		"coingecko"

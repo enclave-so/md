@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x7AfD0d633e0A2b1db97506d97CAdc880C894EcA9",
-	"symbol": "Marutaro",
+	"symbol": "MARU",
 	"name": "Marutaro",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/52530/thumb/2024-11-19_02.51.33.jpg?1733568194",
 	"coingecko": "marutaro-2",
 	"sources": [
 		"coingecko"

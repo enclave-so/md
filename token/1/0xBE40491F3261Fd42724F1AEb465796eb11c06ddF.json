@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xBE40491F3261Fd42724F1AEb465796eb11c06ddF",
-	"symbol": "Re7 FRAX",
+	"symbol": "RE7FRAX",
 	"name": "Re7 FRAX",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/51505/thumb/free-frax-logo-icon-download-in-svg-png-gif-file-formats--coin-cryptocoin-exchange-crypto-coins-pack-science-technology-icons-4498155.png?1731434130",
 	"coingecko": "re7-frax",
 	"sources": [
 		"coingecko"

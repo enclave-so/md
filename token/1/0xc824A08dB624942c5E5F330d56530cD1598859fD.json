@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xc824A08dB624942c5E5F330d56530cD1598859fD",
-	"symbol": "High Growth ETH",
+	"symbol": "HGETH",
 	"name": "High Growth ETH",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/52281/thumb/hgETH.png?1732897068",
 	"coingecko": "high-growth-eth",
 	"sources": [
 		"coingecko"

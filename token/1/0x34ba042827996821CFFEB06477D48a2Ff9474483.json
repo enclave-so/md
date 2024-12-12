@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x34ba042827996821CFFEB06477D48a2Ff9474483",
-	"symbol": "Shib2.0",
-	"name": "Shib2.0",
+	"symbol": "SHIB20",
+	"name": "Shib2 0",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/30940/thumb/unnamed.jpg?1696529779",
 	"coingecko": "shib2-0",
 	"sources": [
 		"coingecko"

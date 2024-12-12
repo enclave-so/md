@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0x52242cbAb41e290E9E17CCC50Cc437bB60020a9d",
-	"symbol": "Wrapped NCG",
-	"name": "Wrapped NCG",
+	"symbol": "WNCG",
+	"name": "WrappedNCG",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x52242cbAb41e290E9E17CCC50Cc437bB60020a9d.png",
 	"coingecko": "wrapped-ncg",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xFE7290b932Cd0D5aEc29c57394E87cDaA41cC054",
-	"symbol": "Smart AI",
+	"symbol": "SMART",
 	"name": "Smart AI",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/37356/thumb/200x200.png?1714103604",
 	"coingecko": "smart-ai",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x0B2acaAF45Fc201d239c5915572730F4bFf1999f",
-	"symbol": "Goose",
+	"symbol": "GOOSE",
 	"name": "Goose",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/50369/thumb/goose_200x200.png?1727371468",
 	"coingecko": "goose",
 	"sources": [
 		"coingecko"

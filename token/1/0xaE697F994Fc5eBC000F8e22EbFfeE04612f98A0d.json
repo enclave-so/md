@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xaE697F994Fc5eBC000F8e22EbFfeE04612f98A0d",
-	"symbol": "LGCY Network",
+	"symbol": "LGCY",
 	"name": "LGCY Network",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/12181/thumb/LGCY_network.jpg?1696512018",
 	"coingecko": "lgcy-network",
 	"sources": [
 		"coingecko"

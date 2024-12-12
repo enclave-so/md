@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x740a5aC14D0096c81d331aDC1611cF2FD28AE317",
-	"symbol": "Plebz",
+	"symbol": "PLEB",
 	"name": "Plebz",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/36185/thumb/PLEBZ_CoinGecko_Profile.jpg?1719374399",
 	"coingecko": "plebz",
 	"sources": [
 		"coingecko"

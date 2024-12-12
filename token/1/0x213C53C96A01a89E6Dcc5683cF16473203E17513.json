@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x213C53C96A01a89E6Dcc5683cF16473203E17513",
-	"symbol": "Defi Shopping Stake",
+	"symbol": "DSS",
 	"name": "Defi Shopping Stake",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/12602/thumb/DSS.png?1696512411",
 	"coingecko": "defi-shopping-stake",
 	"sources": [
 		"coingecko"

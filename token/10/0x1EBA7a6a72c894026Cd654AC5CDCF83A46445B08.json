@@ -4,8 +4,10 @@
 	"symbol": "GTC",
 	"name": "Gitcoin",
 	"decimals": 18,
-	"logo": "https://ethereum-optimism.github.io/data/GTC/logo.svg",
+	"logo": "https://assets.coingecko.com/coins/images/15810/thumb/gitcoin.png?1621992929",
 	"sources": [
-		"sushiswap"
+		"optimism",
+		"sushiswap",
+		"uniswap"
 	]
 }

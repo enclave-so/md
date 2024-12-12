@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xEbee37Aaf2905b7BdA7E3b928043862e982E8F32",
-	"symbol": "Backed Alphabet Class A",
+	"symbol": "BGOOGL",
 	"name": "Backed Alphabet Class A",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/38913/thumb/b-GOOGL-200x200.png?1719474755",
 	"coingecko": "backed-alphabet-class-a",
 	"sources": [
 		"coingecko"

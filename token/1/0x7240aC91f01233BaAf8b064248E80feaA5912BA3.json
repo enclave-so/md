@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x7240aC91f01233BaAf8b064248E80feaA5912BA3",
-	"symbol": "OctoFi",
+	"symbol": "OCTO",
 	"name": "OctoFi",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/12594/thumb/octofi-256x256-radius-22percent.png?1696512403",
 	"coingecko": "octofi",
 	"sources": [
 		"coingecko"

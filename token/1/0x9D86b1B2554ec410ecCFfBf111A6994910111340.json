@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x9D86b1B2554ec410ecCFfBf111A6994910111340",
-	"symbol": "Open Platform",
+	"symbol": "OPEN",
 	"name": "Open Platform",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/2953/thumb/open-platform.png?1696503697",
 	"coingecko": "open-platform",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xb990d93C308A31c737Aa91839E8bA8eAF4017D7A",
-	"symbol": "PirateCash",
+	"symbol": "PIRATE",
 	"name": "PirateCash",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/7155/thumb/logo_%281%29.png?1696507453",
 	"coingecko": "piratecash",
 	"sources": [
 		"coingecko"

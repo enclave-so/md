@@ -1,10 +1,13 @@
 {
 	"chain": 8453,
 	"address": "0xc5102fE9359FD9a28f877a67E36B0F050d81a3CC",
-	"symbol": "Hop Protocol",
-	"name": "Hop Protocol",
+	"symbol": "HOP",
+	"name": "Hop",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/HOP/logo.svg",
 	"coingecko": "hop-protocol",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

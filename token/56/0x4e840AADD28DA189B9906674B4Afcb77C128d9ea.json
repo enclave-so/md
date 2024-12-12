@@ -1,0 +1,11 @@
+{
+	"chain": 56,
+	"address": "0x4e840AADD28DA189B9906674B4Afcb77C128d9ea",
+	"symbol": "HTB",
+	"name": "Hotbit",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x4e840AADD28DA189B9906674B4Afcb77C128d9ea.png",
+	"sources": [
+		"pancakeswap"
+	]
+}

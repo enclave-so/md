@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x3d234A9d23F01c5556AD3dfA88F470f8982ab1b4",
-	"symbol": "Vatra INU",
+	"symbol": "VATR",
 	"name": "Vatra INU",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/37225/thumb/vatra-200px.png?1713776351",
 	"coingecko": "vatra-inu",
 	"sources": [
 		"coingecko"

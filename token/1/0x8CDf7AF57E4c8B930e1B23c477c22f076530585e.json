@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0x8CDf7AF57E4c8B930e1B23c477c22f076530585e",
+	"symbol": "APT",
+	"name": "Aptos",
+	"decimals": 8,
+	"logo": "https://ethereum-optimism.github.io/data/APT/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

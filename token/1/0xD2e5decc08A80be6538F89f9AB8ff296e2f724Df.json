@@ -3,6 +3,8 @@
 	"address": "0xD2e5decc08A80be6538F89f9AB8ff296e2f724Df",
 	"symbol": "STIMA",
 	"name": "STIMA",
+	"decimals": 6,
+	"logo": "https://assets.coingecko.com/coins/images/26101/thumb/STIMA_200x200.png?1696525192",
 	"coingecko": "stima",
 	"sources": [
 		"coingecko"

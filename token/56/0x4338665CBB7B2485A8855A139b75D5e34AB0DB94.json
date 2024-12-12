@@ -4,10 +4,11 @@
 	"symbol": "LTC",
 	"name": "Litecoin Token",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/ltc.jpg",
+	"logo": "https://tokens.pancakeswap.finance/images/0x4338665CBB7B2485A8855A139b75D5e34AB0DB94.png",
 	"coingecko": "binance-peg-litecoin",
 	"sources": [
 		"coingecko",
+		"pancakeswap",
 		"sushiswap"
 	]
 }

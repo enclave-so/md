@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x8E0789d39db454DBE9f4a77aCEF6dc7c69f6D552",
-	"symbol": "Inception Restaked stETH Symbiotic",
+	"symbol": "INWSTETHS",
 	"name": "Inception Restaked stETH Symbiotic",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/52515/thumb/inwstETHs.png?1733499299",
 	"coingecko": "inception-restaked-steth-symbiotic",
 	"sources": [
 		"coingecko"

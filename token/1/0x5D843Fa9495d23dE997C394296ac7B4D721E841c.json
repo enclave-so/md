@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x5D843Fa9495d23dE997C394296ac7B4D721E841c",
-	"symbol": "Relay Chain",
+	"symbol": "RELAY",
 	"name": "Relay Chain",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/17816/thumb/relay-logo-200.png?1696517336",
 	"coingecko": "relay-token",
 	"sources": [
 		"coingecko"

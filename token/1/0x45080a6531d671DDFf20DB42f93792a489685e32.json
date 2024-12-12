@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x45080a6531d671DDFf20DB42f93792a489685e32",
-	"symbol": "Finance Vote",
+	"symbol": "FVT",
 	"name": "Finance Vote",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/13181/thumb/finance.png?1696512964",
 	"coingecko": "finance-vote",
 	"sources": [
 		"coingecko"

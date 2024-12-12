@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x6b15602f008a05D9694D777dEaD2F05586216cB4",
-	"symbol": "Cyclix Games",
+	"symbol": "CYG",
 	"name": "Cyclix Games",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/37247/thumb/CG_LOGO.png?1714070727",
 	"coingecko": "cyclix-games",
 	"sources": [
 		"coingecko"

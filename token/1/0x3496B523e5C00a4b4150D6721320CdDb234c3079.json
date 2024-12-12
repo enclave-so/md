@@ -2,9 +2,9 @@
 	"chain": 1,
 	"address": "0x3496B523e5C00a4b4150D6721320CdDb234c3079",
 	"symbol": "NUM",
-	"name": "NUM Token",
+	"name": "Numbers Protocol",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x3496B523e5C00a4b4150D6721320CdDb234c3079.jpg",
+	"logo": "https://assets.coingecko.com/coins/images/20495/thumb/NP_Social_media_profile_pic.png?1696519902",
 	"coingecko": "numbers-protocol",
 	"sources": [
 		"coingecko",

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xA75E7928d3de682e3F44dA60C26F33117c4E6C5c",
-	"symbol": "Propel",
+	"symbol": "PEL",
 	"name": "Propel",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/21290/thumb/img_circle_1.png?1696520660",
 	"coingecko": "propel-token",
 	"sources": [
 		"coingecko"

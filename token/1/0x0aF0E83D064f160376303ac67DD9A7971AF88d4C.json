@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x0aF0E83D064f160376303ac67DD9A7971AF88d4C",
-	"symbol": "Match Finance esLBR",
+	"symbol": "MESLBR",
 	"name": "Match Finance esLBR",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/34395/thumb/20240109-160040.png?1704795144",
 	"coingecko": "match-finance-eslbr",
 	"sources": [
 		"coingecko"

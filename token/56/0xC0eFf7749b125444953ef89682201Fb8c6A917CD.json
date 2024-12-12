@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0xC0eFf7749b125444953ef89682201Fb8c6A917CD",
-	"symbol": "Horizon Protocol",
+	"symbol": "HZN",
 	"name": "Horizon Protocol",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0xC0eFf7749b125444953ef89682201Fb8c6A917CD.png",
 	"coingecko": "horizon-protocol",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

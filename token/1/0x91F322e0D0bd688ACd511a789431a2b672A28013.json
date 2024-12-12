@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x91F322e0D0bd688ACd511a789431a2b672A28013",
-	"symbol": "Fisttrumppump",
+	"symbol": "FTP",
 	"name": "Fisttrumppump",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/51187/thumb/FTP_logo.jpg?1730313355",
 	"coingecko": "fisttrumppump",
 	"sources": [
 		"coingecko"

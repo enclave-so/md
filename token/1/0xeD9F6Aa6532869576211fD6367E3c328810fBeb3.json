@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xeD9F6Aa6532869576211fD6367E3c328810fBeb3",
-	"symbol": "GPTPlus",
+	"symbol": "GPTPLUS",
 	"name": "GPTPlus",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/34194/thumb/gptplus-icon.png?1704272397",
 	"coingecko": "gptplus",
 	"sources": [
 		"coingecko"

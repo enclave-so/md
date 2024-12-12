@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xC96dE26018A54D51c097160568752c4E3BD6C364",
-	"symbol": "Ignition FBTC",
+	"symbol": "FBTC",
 	"name": "Ignition FBTC",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/39182/thumb/FBTC_LOGO.png?1720850455",
 	"coingecko": "ignition-fbtc",
 	"sources": [
 		"coingecko"

@@ -1,10 +1,13 @@
 {
 	"chain": 10,
 	"address": "0xd3594E879B358F430E20F82bea61e83562d49D48",
-	"symbol": "ParaSwap",
+	"symbol": "PSP",
 	"name": "ParaSwap",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/PSP/logo.svg",
 	"coingecko": "paraswap",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

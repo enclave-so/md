@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x2904b9b16652d7d0408EcCfA23A19D4A3358230f",
-	"symbol": "Puriever",
+	"symbol": "PURE",
 	"name": "Puriever",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/12600/thumb/200x200_pure_logo.png?1696512409",
 	"coingecko": "puriever",
 	"sources": [
 		"coingecko"

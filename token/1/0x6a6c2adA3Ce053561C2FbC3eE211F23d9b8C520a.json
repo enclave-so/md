@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x6a6c2adA3Ce053561C2FbC3eE211F23d9b8C520a",
-	"symbol": "TON Community",
+	"symbol": "TON",
 	"name": "TON Community",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/12334/thumb/ton.jpg?1696512162",
 	"coingecko": "tontoken",
 	"sources": [
 		"coingecko"

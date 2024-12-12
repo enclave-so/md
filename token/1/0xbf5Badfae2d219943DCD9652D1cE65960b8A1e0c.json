@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xbf5Badfae2d219943DCD9652D1cE65960b8A1e0c",
-	"symbol": "PaleBlueDot",
+	"symbol": "EARTH",
 	"name": "PaleBlueDot",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/37816/thumb/IMG_20240412_095619_714.jpg?1715654576",
 	"coingecko": "palebluedot",
 	"sources": [
 		"coingecko"

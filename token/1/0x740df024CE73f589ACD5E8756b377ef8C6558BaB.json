@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x740df024CE73f589ACD5E8756b377ef8C6558BaB",
-	"symbol": "Holograph",
+	"symbol": "HLG",
 	"name": "Holograph",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/37721/thumb/File_%281%29.jpg?1715655225",
 	"coingecko": "holograph",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x34965f73Cfa05Bf8d8aF37cB4af64Fa950605Ea8",
-	"symbol": "CoinWind",
+	"symbol": "COW",
 	"name": "CoinWind",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/15766/thumb/logo.c3d2c062.png?1696515390",
 	"coingecko": "coinwind",
 	"sources": [
 		"coingecko"

@@ -1,0 +1,11 @@
+{
+	"chain": 56,
+	"address": "0x44a21B3577924DCD2e9C81A3347D204C36a55466",
+	"symbol": "EGO",
+	"name": "Paysenger EGO",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x44a21B3577924DCD2e9C81A3347D204C36a55466.png",
+	"sources": [
+		"pancakeswap"
+	]
+}

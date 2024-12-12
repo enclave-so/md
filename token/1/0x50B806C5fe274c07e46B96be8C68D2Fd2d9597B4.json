@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x50B806C5fe274c07e46B96be8C68D2Fd2d9597B4",
-	"symbol": "TUCKER CARLSON",
+	"symbol": "TUCKER",
 	"name": "TUCKER CARLSON",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/34804/thumb/tucker_logo_transparent.png?1706094592",
 	"coingecko": "tucker-carlson",
 	"sources": [
 		"coingecko"

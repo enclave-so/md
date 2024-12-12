@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x0c08638473CAfbCa3beb113616A1871F4bfaD4f9",
-	"symbol": "ZooCoin",
+	"symbol": "ZOO",
 	"name": "ZooCoin",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31230/thumb/ZOO.png?1696530056",
 	"coingecko": "zoocoin",
 	"sources": [
 		"coingecko"

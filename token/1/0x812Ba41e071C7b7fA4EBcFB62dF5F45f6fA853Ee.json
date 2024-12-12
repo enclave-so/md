@@ -3,8 +3,11 @@
 	"address": "0x812Ba41e071C7b7fA4EBcFB62dF5F45f6fA853Ee",
 	"symbol": "Neiro",
 	"name": "Neiro",
+	"decimals": 9,
+	"logo": "https://coin-images.coingecko.com/coins/images/39488/large/neiro.jpg?1731449567",
 	"coingecko": "neiro-3",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"uniswap"
 	]
 }

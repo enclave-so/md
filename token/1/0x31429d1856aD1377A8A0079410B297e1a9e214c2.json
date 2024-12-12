@@ -2,9 +2,9 @@
 	"chain": 1,
 	"address": "0x31429d1856aD1377A8A0079410B297e1a9e214c2",
 	"symbol": "ANGLE",
-	"name": "Angle",
+	"name": "ANGLE",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x31429d1856aD1377A8A0079410B297e1a9e214c2/logo.png",
+	"logo": "https://assets.coingecko.com/coins/images/19060/thumb/ANGLE_Token-light.png?1696518509",
 	"coingecko": "angle-protocol",
 	"sources": [
 		"coingecko",

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x8578a8716013c390b95db73065922f512783e2Cf",
-	"symbol": "Head of D.O.G.E",
-	"name": "Head of D.O.G.E",
+	"symbol": "VIVEK",
+	"name": "Head of D O G E",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/51597/thumb/vivek.jpg?1733109688",
 	"coingecko": "head-of-d-o-g-e",
 	"sources": [
 		"coingecko"

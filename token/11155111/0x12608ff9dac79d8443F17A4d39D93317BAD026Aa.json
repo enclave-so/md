@@ -1,0 +1,11 @@
+{
+	"chain": 11155111,
+	"address": "0x12608ff9dac79d8443F17A4d39D93317BAD026Aa",
+	"symbol": "OUTb",
+	"name": "OptimismUselessToken-Bridged",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/OUTb/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

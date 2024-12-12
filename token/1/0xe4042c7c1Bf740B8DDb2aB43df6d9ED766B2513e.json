@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xe4042c7c1Bf740B8DDb2aB43df6d9ED766B2513e",
-	"symbol": "Andy Alter Ego",
+	"symbol": "BADCAT",
 	"name": "Andy Alter Ego",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/38402/thumb/Bad_Cat_Logo_200x200_CG.png?1717459490",
 	"coingecko": "andy-alter-ego",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x6AA3EcEC75ceb388d2E929814EaD4Fc4CD0648fC",
-	"symbol": "Reversal",
+	"symbol": "RVSL",
 	"name": "Reversal",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35453/thumb/Reversal_Logo.png?1708665533",
 	"coingecko": "reversal",
 	"sources": [
 		"coingecko"

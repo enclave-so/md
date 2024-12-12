@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xb755506531786C8aC63B756BaB1ac387bACB0C04",
-	"symbol": "ZARP Stablecoin",
+	"symbol": "ZARP",
 	"name": "ZARP Stablecoin",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/27333/thumb/zarp_coin.png?1696526381",
 	"coingecko": "zarp-stablecoin",
 	"sources": [
 		"coingecko"

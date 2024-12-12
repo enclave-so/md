@@ -1,0 +1,11 @@
+{
+	"chain": 56,
+	"address": "0x8729438EB15e2C8B576fCc6AeCdA6A148776C0F5",
+	"symbol": "QI",
+	"name": "BENQI",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x8729438EB15e2C8B576fCc6AeCdA6A148776C0F5.png",
+	"sources": [
+		"pancakeswap"
+	]
+}

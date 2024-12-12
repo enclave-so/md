@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x39162D9f64C0f9d64D14EAC3B6d5a15D3D569Eea",
-	"symbol": "MrWeb Finance",
+	"symbol": "AMA",
 	"name": "MrWeb Finance",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/27173/thumb/jd0i3xri_400x400.jpeg?1696526223",
 	"coingecko": "mrweb-finance-2",
 	"sources": [
 		"coingecko"

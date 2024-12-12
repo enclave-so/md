@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xed4e879087ebD0e8A77d66870012B5e0dffd0Fa4",
-	"symbol": "AstroPepeX",
+	"symbol": "APX",
 	"name": "AstroPepeX",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31839/thumb/astropepexcoingecko.png?1731814766",
 	"coingecko": "astropepex",
 	"sources": [
 		"coingecko"

@@ -1,10 +1,14 @@
 {
 	"chain": 10,
 	"address": "0xF1a0DA3367BC7aa04F8D94BA57B862ff37CeD174",
-	"symbol": "ShapeShift FOX",
-	"name": "ShapeShift FOX",
+	"symbol": "FOX",
+	"name": "ShapeShift FOX Token",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/9988/thumb/FOX.png?1574330622",
 	"coingecko": "shapeshift-fox-token",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism",
+		"uniswap"
 	]
 }

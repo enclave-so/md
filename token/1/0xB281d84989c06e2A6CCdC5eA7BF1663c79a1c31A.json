@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xB281d84989c06e2A6CCdC5eA7BF1663c79a1c31A",
-	"symbol": "stoicDAO",
+	"symbol": "ZETA",
 	"name": "stoicDAO",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/33343/thumb/lCisSJAU_400x400.jpg?1701528682",
 	"coingecko": "stoicdao",
 	"sources": [
 		"coingecko"

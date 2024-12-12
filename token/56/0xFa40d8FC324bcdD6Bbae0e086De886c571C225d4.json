@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0xFa40d8FC324bcdD6Bbae0e086De886c571C225d4",
-	"symbol": "Wizardia",
-	"name": "Wizardia",
+	"symbol": "WZRD",
+	"name": "Wizardia Coin",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0xFa40d8FC324bcdD6Bbae0e086De886c571C225d4.png",
 	"coingecko": "wizardia",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

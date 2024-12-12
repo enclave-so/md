@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xA64dFe8D86963151E6496BEe513E366F6e42ED79",
-	"symbol": "Goku",
+	"symbol": "GOKU",
 	"name": "Goku",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/17947/thumb/goku.png?1696517467",
 	"coingecko": "goku",
 	"sources": [
 		"coingecko"

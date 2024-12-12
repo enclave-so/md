@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xE3B9CfB8EA8a4F1279fBC28D3E15B4d2d86f18A0",
-	"symbol": "Fottie",
+	"symbol": "FOTTIE",
 	"name": "Fottie",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/35860/thumb/fottie_logo_medium_%281%29.png?1709920764",
 	"coingecko": "fottie",
 	"sources": [
 		"coingecko"

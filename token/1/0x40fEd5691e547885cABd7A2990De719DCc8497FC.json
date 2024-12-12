@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x40fEd5691e547885cABd7A2990De719DCc8497FC",
-	"symbol": "Safe Haven",
+	"symbol": "SHA",
 	"name": "Safe Haven",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/2584/thumb/safehaven.png?1696503388",
 	"coingecko": "safe-haven",
 	"sources": [
 		"coingecko"

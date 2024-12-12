@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x5BDC32663Ec75E85ff4abc2CAe7ae8B606A2CFCa",
-	"symbol": "Cookies Protocol",
+	"symbol": "CP",
 	"name": "Cookies Protocol",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/28432/thumb/IMG_20221207_200805_897.jpg?1696527429",
 	"coingecko": "cookies-protocol",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xB1F1ee126e9c96231Cc3d3fAD7C08b4cf873b1f1",
-	"symbol": "Beefy",
+	"symbol": "BIFI",
 	"name": "Beefy",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/12704/thumb/bifi.png?1698202580",
 	"coingecko": "beefy-finance",
 	"sources": [
 		"coingecko"

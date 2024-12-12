@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0x724A32dFFF9769A0a0e1F0515c0012d1fB14c3bd",
-	"symbol": "Superpower Squad",
-	"name": "Superpower Squad",
+	"symbol": "SQUAD",
+	"name": "Token SQUAD",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x724A32dFFF9769A0a0e1F0515c0012d1fB14c3bd.png",
 	"coingecko": "squad",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

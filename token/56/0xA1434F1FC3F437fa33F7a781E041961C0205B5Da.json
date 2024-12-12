@@ -1,0 +1,11 @@
+{
+	"chain": 56,
+	"address": "0xA1434F1FC3F437fa33F7a781E041961C0205B5Da",
+	"symbol": "QKC",
+	"name": "QuarkChain Token",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0xA1434F1FC3F437fa33F7a781E041961C0205B5Da.png",
+	"sources": [
+		"pancakeswap"
+	]
+}

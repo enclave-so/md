@@ -1,0 +1,11 @@
+{
+	"chain": 42161,
+	"address": "0x6FEb262FEb0f775B5312D2e009923f7f58AE423E",
+	"symbol": "OGN",
+	"name": "Origin Protocol",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/3296/thumb/op.jpg?1547037878",
+	"sources": [
+		"uniswap"
+	]
+}

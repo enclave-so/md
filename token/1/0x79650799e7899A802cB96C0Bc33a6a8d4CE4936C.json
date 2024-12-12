@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x79650799e7899A802cB96C0Bc33a6a8d4CE4936C",
-	"symbol": "AICHAIN",
+	"symbol": "AIT",
 	"name": "AICHAIN",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/2525/thumb/aichain.png?1696503338",
 	"coingecko": "aichain",
 	"sources": [
 		"coingecko"

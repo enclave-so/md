@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x06576eB3B212d605B797dC15523d9Dc9F4F66DB4",
-	"symbol": "The Crypto Prophecies",
+	"symbol": "TCP",
 	"name": "The Crypto Prophecies",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/15054/thumb/tcp.PNG?1696514713",
 	"coingecko": "the-crypto-prophecies",
 	"sources": [
 		"coingecko"

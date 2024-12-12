@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x9D65fF81a3c488d585bBfb0Bfe3c7707c7917f54",
-	"symbol": "SSV Network",
+	"symbol": "SSV",
 	"name": "SSV Network",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/19155/thumb/ssv.png?1696518606",
 	"coingecko": "ssv-network",
 	"sources": [
 		"coingecko"

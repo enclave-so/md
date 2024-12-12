@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xeD89fc0F41d8Be2C98B13B7e3cd3E876D73f1d30",
-	"symbol": "Gou",
+	"symbol": "GOU",
 	"name": "Gou",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/39792/thumb/GOU_LOGO_V2_200x200.png?1727813622",
 	"coingecko": "gou",
 	"sources": [
 		"coingecko"

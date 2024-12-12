@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x4E452B391a86C9240e98DF7277CE0BeA5bE08e43",
-	"symbol": "Pax Unitas",
+	"symbol": "PAXU",
 	"name": "Pax Unitas",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31648/thumb/IMG_11C5EA8BD781-1.jpeg?1696530463",
 	"coingecko": "pax-unitas",
 	"sources": [
 		"coingecko"

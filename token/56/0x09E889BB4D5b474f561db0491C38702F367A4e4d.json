@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0x09E889BB4D5b474f561db0491C38702F367A4e4d",
-	"symbol": "Clover Finance",
+	"symbol": "CLV",
 	"name": "Clover Finance",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/15278/thumb/clover.png?1645084454",
 	"coingecko": "clover-finance",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"uniswap"
 	]
 }

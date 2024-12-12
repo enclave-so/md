@@ -1,8 +1,9 @@
 {
 	"chain": 1,
 	"address": "0x508B27902C6c14972a10a4e413B9cFA449e9ceDB",
-	"symbol": "AISignal",
+	"symbol": "AISIG",
 	"name": "AISignal",
+	"logo": "https://assets.coingecko.com/coins/images/33671/thumb/IMG_20231214_221614_575.png?1702701782",
 	"coingecko": "aisignal",
 	"sources": [
 		"coingecko"

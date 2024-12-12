@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x5165d24277cD063F5ac44Efd447B27025e888f37",
-	"symbol": "Aave YFI",
+	"symbol": "AYFI",
 	"name": "Aave YFI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/17257/thumb/aYFI_2x.png?1696516813",
 	"coingecko": "aave-yfi",
 	"sources": [
 		"coingecko"

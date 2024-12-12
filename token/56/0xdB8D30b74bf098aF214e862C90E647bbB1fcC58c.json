@@ -1,0 +1,11 @@
+{
+	"chain": 56,
+	"address": "0xdB8D30b74bf098aF214e862C90E647bbB1fcC58c",
+	"symbol": "BABYCAKE",
+	"name": "BabyCake",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0xdB8D30b74bf098aF214e862C90E647bbB1fcC58c.png",
+	"sources": [
+		"pancakeswap"
+	]
+}

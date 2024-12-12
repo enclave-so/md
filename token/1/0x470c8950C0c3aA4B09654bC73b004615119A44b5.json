@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x470c8950C0c3aA4B09654bC73b004615119A44b5",
-	"symbol": "Kizuna",
+	"symbol": "KIZUNA",
 	"name": "Kizuna",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/32113/thumb/IMG_9968.png?1696585475",
 	"coingecko": "kizuna",
 	"sources": [
 		"coingecko"

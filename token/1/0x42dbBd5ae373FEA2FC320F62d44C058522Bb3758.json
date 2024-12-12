@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x42dbBd5ae373FEA2FC320F62d44C058522Bb3758",
-	"symbol": "Memecoin",
+	"symbol": "MEM",
 	"name": "Memecoin",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/16370/thumb/mem_gold_200x200_copy.png?1696515969",
 	"coingecko": "memecoin",
 	"sources": [
 		"coingecko"

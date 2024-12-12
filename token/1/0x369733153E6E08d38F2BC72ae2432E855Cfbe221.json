@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x369733153E6E08d38F2BC72ae2432E855Cfbe221",
-	"symbol": "XALPHA.AI",
-	"name": "XALPHA.AI",
+	"symbol": "XALPHA",
+	"name": "XALPHA AI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/34503/thumb/XALPHA.png?1705367018",
 	"coingecko": "xalpha-ai",
 	"sources": [
 		"coingecko"

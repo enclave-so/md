@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x60e254E35Dd712394b3AbA7A1D19114732e143dD",
-	"symbol": "RivusDAO",
+	"symbol": "RIVUS",
 	"name": "RivusDAO",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/36965/thumb/IMG_0167.png?1712907932",
 	"coingecko": "rivusdao",
 	"sources": [
 		"coingecko"

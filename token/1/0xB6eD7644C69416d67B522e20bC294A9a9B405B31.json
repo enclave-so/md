@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0xB6eD7644C69416d67B522e20bC294A9a9B405B31",
-	"symbol": "0xBitcoin",
+	"symbol": "0XBTC",
 	"name": "0xBitcoin",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/4454/thumb/0xbtc.png?1696505045",
 	"coingecko": "oxbitcoin",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

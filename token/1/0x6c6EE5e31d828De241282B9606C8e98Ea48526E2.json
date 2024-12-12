@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x6c6EE5e31d828De241282B9606C8e98Ea48526E2",
-	"symbol": "Holo",
+	"symbol": "HOT",
 	"name": "Holo",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/3348/thumb/Holologo_Profile.png?1696504052",
 	"coingecko": "holotoken",
 	"sources": [
 		"coingecko"

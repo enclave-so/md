@@ -1,0 +1,11 @@
+{
+	"chain": 56,
+	"address": "0xB67754f5b4C704A24d2db68e661b2875a4dDD197",
+	"symbol": "MIX",
+	"name": "Mix",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0xB67754f5b4C704A24d2db68e661b2875a4dDD197.png",
+	"sources": [
+		"pancakeswap"
+	]
+}

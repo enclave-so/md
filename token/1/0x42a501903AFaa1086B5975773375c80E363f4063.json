@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x42a501903AFaa1086B5975773375c80E363f4063",
-	"symbol": "Cryptyk",
+	"symbol": "CTK",
 	"name": "Cryptyk",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/2729/thumb/Cryptyk_-1.PNG?1714721271",
 	"coingecko": "cryptyk",
 	"sources": [
 		"coingecko"

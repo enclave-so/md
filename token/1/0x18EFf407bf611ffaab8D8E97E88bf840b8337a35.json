@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x18EFf407bf611ffaab8D8E97E88bf840b8337a35",
-	"symbol": "Klear",
+	"symbol": "KLEAR",
 	"name": "Klear",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/52293/thumb/Clear_icon_Negative_on_Color.png?1732966429",
 	"coingecko": "klear",
 	"sources": [
 		"coingecko"

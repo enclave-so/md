@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x1236ea13c7339287Cd00AB196aAA8217006b04dc",
-	"symbol": "Epic League",
+	"symbol": "EPL",
 	"name": "Epic League",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/32139/thumb/epl_symbol_200.png?1696591947",
 	"coingecko": "epic-league",
 	"sources": [
 		"coingecko"

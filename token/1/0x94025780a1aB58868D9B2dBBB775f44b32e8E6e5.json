@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x94025780a1aB58868D9B2dBBB775f44b32e8E6e5",
-	"symbol": "BetSwirl",
+	"symbol": "BETS",
 	"name": "BetSwirl",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/26618/thumb/icon_200.png?1696525691",
 	"coingecko": "betswirl",
 	"sources": [
 		"coingecko"

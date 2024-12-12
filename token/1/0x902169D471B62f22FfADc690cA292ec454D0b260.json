@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x902169D471B62f22FfADc690cA292ec454D0b260",
-	"symbol": "Reboot World",
+	"symbol": "RBT",
 	"name": "Reboot World",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/36244/thumb/Reboot-Logo_200-1.png?1710921335",
 	"coingecko": "reboot-world",
 	"sources": [
 		"coingecko"

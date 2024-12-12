@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x6d3C9269BD1Bc9426798a752EcEBbD749E5eDaA8",
-	"symbol": "Lunex Network",
+	"symbol": "LNEX",
 	"name": "Lunex Network",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/50442/thumb/IMG_20240924_111415_429.jpg?1727769595",
 	"coingecko": "lunex",
 	"sources": [
 		"coingecko"

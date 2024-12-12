@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xD0b3A986FfF305854a7238A8e099Cce1ced01a3d",
-	"symbol": "Nova",
+	"symbol": "NOVA",
 	"name": "Nova",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30943/thumb/IMG_20230709_210803_010.jpg?1696529782",
 	"coingecko": "nova-2",
 	"sources": [
 		"coingecko"

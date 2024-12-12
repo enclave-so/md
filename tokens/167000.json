@@ -1,6 +1,26 @@
 [
 	{
 		"chain": 167000,
+		"address": "0x19e26B0638bf63aa9fa4d14c6baF8D52eBE86C5C",
+		"symbol": "Bridged USDC (Stargate)",
+		"name": "Bridged USDC (Stargate)",
+		"coingecko": "bridged-usdc-stargate",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 167000,
+		"address": "0xf7fB2DF9280eB0a76427Dc3b34761DB8b1441a49",
+		"symbol": "Merlin's Seal BTC",
+		"name": "Merlin's Seal BTC",
+		"coingecko": "merlin-s-seal-btc",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 167000,
 		"address": "0xA9d23408b9bA935c230493c40C73824Df71A0975",
 		"symbol": "Taiko",
 		"name": "Taiko",
@@ -45,26 +65,6 @@
 		"symbol": "Wrapped ETH (Taiko)",
 		"name": "Wrapped ETH (Taiko)",
 		"coingecko": "wrapped-eth-taiko",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 167000,
-		"address": "0x19e26B0638bf63aa9fa4d14c6baF8D52eBE86C5C",
-		"symbol": "Bridged USDC (Stargate)",
-		"name": "Bridged USDC (Stargate)",
-		"coingecko": "bridged-usdc-stargate",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 167000,
-		"address": "0xf7fB2DF9280eB0a76427Dc3b34761DB8b1441a49",
-		"symbol": "Merlin's Seal BTC",
-		"name": "Merlin's Seal BTC",
-		"coingecko": "merlin-s-seal-btc",
 		"sources": [
 			"coingecko"
 		]

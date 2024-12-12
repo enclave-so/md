@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x3209d14Ff61766359E64aceFf91877cEC2AD968E",
-	"symbol": "CouponBay",
+	"symbol": "CUP",
 	"name": "CouponBay",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/24696/thumb/logo_200.png?1696523862",
 	"coingecko": "couponbay",
 	"sources": [
 		"coingecko"

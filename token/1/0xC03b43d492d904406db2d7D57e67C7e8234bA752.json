@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xC03b43d492d904406db2d7D57e67C7e8234bA752",
-	"symbol": "Wrapped USDR",
+	"symbol": "WUSDR",
 	"name": "Wrapped USDR",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/28800/thumb/wUSDRlogo.png?1696527777",
 	"coingecko": "wrapped-usdr",
 	"sources": [
 		"coingecko"

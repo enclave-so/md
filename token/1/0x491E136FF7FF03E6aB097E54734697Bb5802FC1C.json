@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x491E136FF7FF03E6aB097E54734697Bb5802FC1C",
-	"symbol": "Kattana",
+	"symbol": "KTN",
 	"name": "Kattana",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14739/thumb/256-256-1.png?1696514409",
 	"coingecko": "kattana",
 	"sources": [
 		"coingecko"

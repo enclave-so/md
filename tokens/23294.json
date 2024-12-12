@@ -1,6 +1,16 @@
 [
 	{
 		"chain": 23294,
+		"address": "0x8Bc2B030b299964eEfb5e1e0b36991352E56D2D3",
+		"symbol": "Wrapped ROSE",
+		"name": "Wrapped ROSE",
+		"coingecko": "wrapped-rose",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 23294,
 		"address": "0xEd57966f1566dE1a90042d07403021Ea52ad4724",
 		"symbol": "Accumulated Finance Staked ROSE",
 		"name": "Accumulated Finance Staked ROSE",
@@ -35,16 +45,6 @@
 		"symbol": "Rosy",
 		"name": "Rosy",
 		"coingecko": "rosy",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 23294,
-		"address": "0x8Bc2B030b299964eEfb5e1e0b36991352E56D2D3",
-		"symbol": "Wrapped ROSE",
-		"name": "Wrapped ROSE",
-		"coingecko": "wrapped-rose",
 		"sources": [
 			"coingecko"
 		]

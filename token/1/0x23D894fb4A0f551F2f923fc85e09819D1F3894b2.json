@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x23D894fb4A0f551F2f923fc85e09819D1F3894b2",
-	"symbol": "Intellix",
+	"symbol": "ITX",
 	"name": "Intellix",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/34406/thumb/itx.jpeg?1704791991",
 	"coingecko": "intellix",
 	"sources": [
 		"coingecko"

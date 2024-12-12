@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xCfFCFDAda28ab44D5440301470dCD410E75C4765",
-	"symbol": "Parifi",
+	"symbol": "PRF",
 	"name": "Parifi",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/34710/thumb/parifi200x200.png?1705894380",
 	"coingecko": "parifi",
 	"sources": [
 		"coingecko"

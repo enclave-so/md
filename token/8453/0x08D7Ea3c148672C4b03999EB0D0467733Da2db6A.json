@@ -1,0 +1,13 @@
+{
+	"chain": 8453,
+	"address": "0x08D7Ea3c148672C4b03999EB0D0467733Da2db6A",
+	"symbol": "NSTR",
+	"name": "Nostra",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/NSTR/logo.svg",
+	"coingecko": "nostra",
+	"sources": [
+		"coingecko",
+		"optimism"
+	]
+}

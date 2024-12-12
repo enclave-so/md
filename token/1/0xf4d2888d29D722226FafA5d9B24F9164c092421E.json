@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xf4d2888d29D722226FafA5d9B24F9164c092421E",
-	"symbol": "LooksRare",
+	"symbol": "LOOKS",
 	"name": "LooksRare",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/22173/thumb/circle-black-256.png?1696521517",
 	"coingecko": "looksrare",
 	"sources": [
 		"coingecko"

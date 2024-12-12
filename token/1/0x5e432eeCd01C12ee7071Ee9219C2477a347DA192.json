@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x5e432eeCd01C12ee7071Ee9219C2477a347DA192",
-	"symbol": "ARQx AI",
+	"symbol": "ARQX",
 	"name": "ARQx AI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/37808/thumb/ARQX_GC.png?1715591796",
 	"coingecko": "arqx-ai",
 	"sources": [
 		"coingecko"

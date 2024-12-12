@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x2E2e7a1F05946ecB2b43B99e3Fc2984Fa7d7e3Bc",
-	"symbol": "Chinese Andy",
+	"symbol": "ANDWU",
 	"name": "Chinese Andy",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/39122/thumb/AndWu_Logo_Tsp_200x200.png?1720627160",
 	"coingecko": "chinese-andy",
 	"sources": [
 		"coingecko"

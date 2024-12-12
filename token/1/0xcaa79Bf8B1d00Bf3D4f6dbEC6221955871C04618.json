@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xcaa79Bf8B1d00Bf3D4f6dbEC6221955871C04618",
-	"symbol": "CrocBot",
+	"symbol": "CROC",
 	"name": "CrocBot",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31382/thumb/Frame_123.png?1696530199",
 	"coingecko": "crocbot",
 	"sources": [
 		"coingecko"

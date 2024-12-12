@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x90551c1795392094FE6D29B758EcCD233cFAa260",
-	"symbol": "Fluid Wrapped Ether",
+	"symbol": "FWETH",
 	"name": "Fluid Wrapped Ether",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/38033/thumb/fWETH.png?1716322882",
 	"coingecko": "fluid-wrapped-ether",
 	"sources": [
 		"coingecko"

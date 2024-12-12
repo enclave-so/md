@@ -3,6 +3,8 @@
 	"address": "0x1981E32C2154936741aB6541a737b87C68F13cE1",
 	"symbol": "DAII",
 	"name": "DAII",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/34459/thumb/IMG_8154.jpeg?1704952493",
 	"coingecko": "daii",
 	"sources": [
 		"coingecko"

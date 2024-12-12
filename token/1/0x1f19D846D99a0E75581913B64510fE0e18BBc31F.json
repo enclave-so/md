@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x1f19D846D99a0E75581913B64510fE0e18BBc31F",
-	"symbol": "Feels Good Man",
+	"symbol": "FGM",
 	"name": "Feels Good Man",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/37143/thumb/fgm200px.jpg?1713437673",
 	"coingecko": "feels-good-man-2",
 	"sources": [
 		"coingecko"

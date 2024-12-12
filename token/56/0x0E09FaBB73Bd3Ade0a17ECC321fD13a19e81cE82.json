@@ -1,13 +1,14 @@
 {
 	"chain": 56,
 	"address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
-	"symbol": "Cake",
+	"symbol": "CAKE",
 	"name": "PancakeSwap Token",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82.jpg",
+	"logo": "https://tokens.pancakeswap.finance/images/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82.png",
 	"coingecko": "pancakeswap-token",
 	"sources": [
 		"coingecko",
+		"pancakeswap",
 		"sushiswap"
 	]
 }

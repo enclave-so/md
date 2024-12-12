@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x358AA737e033F34df7c54306960a38d09AaBd523",
-	"symbol": "Ares Protocol",
+	"symbol": "ARES",
 	"name": "Ares Protocol",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/15153/thumb/Ares-logo.png?1696514809",
 	"coingecko": "ares-protocol",
 	"sources": [
 		"coingecko"

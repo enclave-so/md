@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xe9fa21E671BcfB04E6868784b89C19d5aa2424Ea",
-	"symbol": "EurocoinToken",
+	"symbol": "ECTE",
 	"name": "EurocoinToken",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/7634/thumb/logotoken200x200.png?1696507889",
 	"coingecko": "eurocoinpay",
 	"sources": [
 		"coingecko"

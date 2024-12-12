@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x5cAf454Ba92e6F2c929DF14667Ee360eD9fD5b26",
-	"symbol": "Dev Protocol",
+	"symbol": "DEV",
 	"name": "Dev Protocol",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/11560/thumb/Dev_Protocol__CoinGecko_Logo___Jan.18.2021_.png?1696511459",
 	"coingecko": "dev-protocol",
 	"sources": [
 		"coingecko"

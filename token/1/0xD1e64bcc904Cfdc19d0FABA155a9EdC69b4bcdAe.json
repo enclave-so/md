@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xD1e64bcc904Cfdc19d0FABA155a9EdC69b4bcdAe",
-	"symbol": "Pikamoon",
+	"symbol": "PIKA",
 	"name": "Pikamoon",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/36366/thumb/Pikamoon.png?1711336684",
 	"coingecko": "pikamoon",
 	"sources": [
 		"coingecko"

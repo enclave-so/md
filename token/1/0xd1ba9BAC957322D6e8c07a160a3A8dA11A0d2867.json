@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xd1ba9BAC957322D6e8c07a160a3A8dA11A0d2867",
-	"symbol": "HUMAN Protocol",
+	"symbol": "HMT",
 	"name": "HUMAN Protocol",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/16412/thumb/Nh7yr7Ly_400x400.png?1733640655",
 	"coingecko": "human-protocol",
 	"sources": [
 		"coingecko"

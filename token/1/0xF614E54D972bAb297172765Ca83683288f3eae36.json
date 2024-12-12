@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xF614E54D972bAb297172765Ca83683288f3eae36",
-	"symbol": "RawBlock",
+	"symbol": "RWB",
 	"name": "RawBlock",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/36819/thumb/photo_2024-03-18_04-07-55_%281%29-removebg-preview.jpg?1712551052",
 	"coingecko": "rawblock",
 	"sources": [
 		"coingecko"

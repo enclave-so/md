@@ -1,0 +1,11 @@
+{
+	"chain": 8453,
+	"address": "0xE0742c2d2Bdbb3c138Ce81Bc5589DC07865f0a49",
+	"symbol": "❤️",
+	"name": "LikeButton.eth",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/LIKE/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

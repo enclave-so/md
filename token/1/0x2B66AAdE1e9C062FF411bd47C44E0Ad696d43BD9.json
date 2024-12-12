@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x2B66AAdE1e9C062FF411bd47C44E0Ad696d43BD9",
-	"symbol": "sUSDa",
+	"symbol": "SUSDA",
 	"name": "sUSDa",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/51821/thumb/USDA.png?1732035172",
 	"coingecko": "susda",
 	"sources": [
 		"coingecko"

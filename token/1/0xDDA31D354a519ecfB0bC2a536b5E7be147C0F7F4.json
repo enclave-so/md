@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xDDA31D354a519ecfB0bC2a536b5E7be147C0F7F4",
-	"symbol": "Everlodge",
+	"symbol": "ELDG",
 	"name": "Everlodge",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35532/thumb/1000034240.png?1709032461",
 	"coingecko": "everlodge",
 	"sources": [
 		"coingecko"

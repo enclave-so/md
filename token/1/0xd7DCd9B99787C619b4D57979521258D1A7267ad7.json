@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xd7DCd9B99787C619b4D57979521258D1A7267ad7",
-	"symbol": "Evrynet",
+	"symbol": "EVRY",
 	"name": "Evrynet",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/19194/thumb/evry.png?1696518642",
 	"coingecko": "evrynet",
 	"sources": [
 		"coingecko"

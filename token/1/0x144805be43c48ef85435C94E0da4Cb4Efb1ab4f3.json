@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x144805be43c48ef85435C94E0da4Cb4Efb1ab4f3",
-	"symbol": "MetaBlox",
+	"symbol": "MBX",
 	"name": "MetaBlox",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/32988/thumb/Artboard_1_copy_4.png?1700099624",
 	"coingecko": "metablox",
 	"sources": [
 		"coingecko"

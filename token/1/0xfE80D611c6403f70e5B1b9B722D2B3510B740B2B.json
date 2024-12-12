@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0xfE80D611c6403f70e5B1b9B722D2B3510B740B2B",
-	"symbol": "Equilibria Finance",
+	"symbol": "EQB",
 	"name": "Equilibria Finance",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30645/thumb/QLLK8pmR_400x400.jpg?1696529516",
 	"coingecko": "equilibria-finance",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

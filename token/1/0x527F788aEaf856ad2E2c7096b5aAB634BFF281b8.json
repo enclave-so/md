@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x527F788aEaf856ad2E2c7096b5aAB634BFF281b8",
-	"symbol": "MUA DAO",
+	"symbol": "MUA",
 	"name": "MUA DAO",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/50662/thumb/mua.jpg?1728653935",
 	"coingecko": "mua-dao",
 	"sources": [
 		"coingecko"

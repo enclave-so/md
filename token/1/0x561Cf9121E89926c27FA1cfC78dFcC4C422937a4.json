@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x561Cf9121E89926c27FA1cfC78dFcC4C422937a4",
-	"symbol": "Squid Game",
+	"symbol": "SQUID",
 	"name": "Squid Game",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/33074/thumb/photo_2023-11-17_14.18.23.jpeg?1700542677",
 	"coingecko": "squid-game-2",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x2105465Ab589B74747B01AfdAF606d058Fb082BE",
-	"symbol": "DEV SMASHED HIS KEYBOARD",
+	"symbol": "HIXOKDKEKJCJDKSICND",
 	"name": "DEV SMASHED HIS KEYBOARD",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/32630/thumb/DEV_SMASHED_HIS_KEYBOARD.png?1698824159",
 	"coingecko": "dev-smashed-his-keyboard",
 	"sources": [
 		"coingecko"

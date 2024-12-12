@@ -4,10 +4,11 @@
 	"symbol": "UST",
 	"name": "UST Token",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/ust.jpg",
+	"logo": "https://tokens.pancakeswap.finance/images/0x23396cF899Ca06c4472205fC903bDB4de249D6fC.png",
 	"coingecko": "wrapped-ust",
 	"sources": [
 		"coingecko",
+		"pancakeswap",
 		"sushiswap"
 	]
 }

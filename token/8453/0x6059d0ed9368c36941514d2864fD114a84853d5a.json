@@ -1,0 +1,11 @@
+{
+	"chain": 8453,
+	"address": "0x6059d0ed9368c36941514d2864fD114a84853d5a",
+	"symbol": "FOAM",
+	"name": "FOAM Token",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/FOAM/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

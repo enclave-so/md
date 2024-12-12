@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xA34C5e0AbE843E10461E2C9586Ea03E55Dbcc495",
-	"symbol": "Backed NVIDIA",
+	"symbol": "BNVDA",
 	"name": "Backed NVIDIA",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/38911/thumb/b-NVDA-200x200.png?1719474429",
 	"coingecko": "bndva-backed-nvidia",
 	"sources": [
 		"coingecko"

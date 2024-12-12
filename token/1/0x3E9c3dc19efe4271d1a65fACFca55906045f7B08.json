@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x3E9c3dc19efe4271d1a65fACFca55906045f7B08",
-	"symbol": "Frogs",
+	"symbol": "FROGS",
 	"name": "Frogs",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/50999/thumb/QPl-0YZn_400x400.jpg?1729682571",
 	"coingecko": "frogs",
 	"sources": [
 		"coingecko"

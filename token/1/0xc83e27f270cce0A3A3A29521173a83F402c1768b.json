@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0xc83e27f270cce0A3A3A29521173a83F402c1768b",
-	"symbol": "Quantoz USDQ",
+	"symbol": "USDQ",
 	"name": "Quantoz USDQ",
+	"decimals": 6,
+	"logo": "https://coin-images.coingecko.com/coins/images/51852/large/USDQ_1000px_Color.png?1732071232",
 	"coingecko": "quantoz-usdq",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"uniswap"
 	]
 }

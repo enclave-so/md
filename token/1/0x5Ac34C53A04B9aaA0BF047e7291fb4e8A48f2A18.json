@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x5Ac34C53A04B9aaA0BF047e7291fb4e8A48f2A18",
-	"symbol": "Nuklai",
+	"symbol": "NAI",
 	"name": "Nuklai",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/36904/thumb/nuklai_-_full_color_SQ_200.png?1712711676",
 	"coingecko": "nuklai",
 	"sources": [
 		"coingecko"

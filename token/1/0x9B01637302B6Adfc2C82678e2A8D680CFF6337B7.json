@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x9B01637302B6Adfc2C82678e2A8D680CFF6337B7",
-	"symbol": "Fit",
+	"symbol": "FIT",
 	"name": "Fit",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30918/thumb/FIT_Token_1000.png?1696529763",
 	"coingecko": "snkrz-fit",
 	"sources": [
 		"coingecko"

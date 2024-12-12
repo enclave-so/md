@@ -1,0 +1,11 @@
+{
+	"chain": 10,
+	"address": "0x5465145a47260D5E715733997333A175D97285Bb",
+	"symbol": "HAIR",
+	"name": "HairDAO Token",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/HAIR/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x90D1964873dDD741f49eD3Ca9c47CEb470313A09",
-	"symbol": "Henlo [OLD]",
-	"name": "Henlo [OLD]",
+	"symbol": "HENLO",
+	"name": "Henlo  OLD ",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/51673/thumb/Henlo_Kart_5.png?1731774479",
 	"coingecko": "henlo",
 	"sources": [
 		"coingecko"

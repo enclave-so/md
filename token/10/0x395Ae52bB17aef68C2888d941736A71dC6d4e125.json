@@ -8,6 +8,7 @@
 	"coingecko": "pooltogether",
 	"sources": [
 		"coingecko",
+		"optimism",
 		"sushiswap"
 	]
 }

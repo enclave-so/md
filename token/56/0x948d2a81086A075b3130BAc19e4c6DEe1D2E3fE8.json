@@ -4,10 +4,11 @@
 	"symbol": "Helmet",
 	"name": "Helmet.insure",
 	"decimals": 18,
-	"logo": "https://assets.coingecko.com/coins/images/13680/small/ZMdK-1J4_400x400.png?1610834469",
+	"logo": "https://tokens.pancakeswap.finance/images/0x948d2a81086A075b3130BAc19e4c6DEe1D2E3fE8.png",
 	"coingecko": "helmet-insure",
 	"sources": [
 		"coingecko",
+		"pancakeswap",
 		"sushiswap"
 	]
 }

@@ -1,10 +1,13 @@
 {
 	"chain": 10,
 	"address": "0xBC7B1Ff1c6989f006a1185318eD4E7b5796e66E1",
-	"symbol": "Pendle",
+	"symbol": "PENDLE",
 	"name": "Pendle",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/PENDLE/logo.png",
 	"coingecko": "pendle",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

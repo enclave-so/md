@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x8Af78f0c818302164F73B2365fE152C2D1FE80e1",
-	"symbol": "Financie Token",
+	"symbol": "FNCT",
 	"name": "Financie Token",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/29099/thumb/VcJQzCWT_400x400.jpg?1696528062",
 	"coingecko": "financie-token",
 	"sources": [
 		"coingecko"

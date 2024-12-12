@@ -3,6 +3,8 @@
 	"address": "0xa7a0B3Fe94121E366D774d60D075F6386F750884",
 	"symbol": "USDFI",
 	"name": "USDFI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31149/thumb/USDFI_200.png?1696529977",
 	"coingecko": "usdfi",
 	"sources": [
 		"coingecko"

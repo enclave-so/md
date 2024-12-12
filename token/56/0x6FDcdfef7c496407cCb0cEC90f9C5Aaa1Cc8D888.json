@@ -1,0 +1,11 @@
+{
+	"chain": 56,
+	"address": "0x6FDcdfef7c496407cCb0cEC90f9C5Aaa1Cc8D888",
+	"symbol": "VET",
+	"name": "VeChain",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x6FDcdfef7c496407cCb0cEC90f9C5Aaa1Cc8D888.png",
+	"sources": [
+		"pancakeswap"
+	]
+}

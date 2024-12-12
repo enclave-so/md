@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xfd418e42783382E86Ae91e445406600Ba144D162",
-	"symbol": "Zircuit",
+	"symbol": "ZRC",
 	"name": "Zircuit",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35960/thumb/zircuit_token_icon_2.png?1732502352",
 	"coingecko": "zircuit",
 	"sources": [
 		"coingecko"

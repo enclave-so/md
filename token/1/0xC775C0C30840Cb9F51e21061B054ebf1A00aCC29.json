@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xC775C0C30840Cb9F51e21061B054ebf1A00aCC29",
-	"symbol": "Pastel",
+	"symbol": "PSL",
 	"name": "Pastel",
+	"decimals": 5,
+	"logo": "https://assets.coingecko.com/coins/images/14293/thumb/A4qGwEij_400x400.jpg?1696513990",
 	"coingecko": "pastel",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x240Cd7b53d364a208eD41f8cEd4965D11F571B7a",
-	"symbol": "Doggo",
+	"symbol": "DOGGO",
 	"name": "Doggo",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/50316/thumb/doggo-fotor-200200.png?1727110207",
 	"coingecko": "doggo-3",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xEc505C81D6a7567b5BDE804870b1038832fE6Da1",
-	"symbol": "Coinhound",
+	"symbol": "CND",
 	"name": "Coinhound",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30056/thumb/%28200x200%29_Coinhound_Icon.png?1696528977",
 	"coingecko": "coinhound",
 	"sources": [
 		"coingecko"

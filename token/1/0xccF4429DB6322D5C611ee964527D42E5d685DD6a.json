@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0xccF4429DB6322D5C611ee964527D42E5d685DD6a",
-	"symbol": "cWBTC",
+	"symbol": "CWBTC",
 	"name": "cWBTC",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/10823/thumb/cwbtc.png?1696510780",
 	"coingecko": "compound-wrapped-btc",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"indexcoop"
 	]
 }

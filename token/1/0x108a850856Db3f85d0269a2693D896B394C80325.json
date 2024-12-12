@@ -2,9 +2,9 @@
 	"chain": 1,
 	"address": "0x108a850856Db3f85d0269a2693D896B394C80325",
 	"symbol": "TGT",
-	"name": "THORWallet Governance Token",
+	"name": "THORWallet DEX",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x108a850856Db3f85d0269a2693D896B394C80325/logo.png",
+	"logo": "https://assets.coingecko.com/coins/images/21843/thumb/tgt_logo.png?1696521198",
 	"coingecko": "thorwallet",
 	"sources": [
 		"coingecko",

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x9155EF3F1A5B5fb43a1bbEb198CC0a7DaF482679",
-	"symbol": "Onyx (∑, ∆)",
-	"name": "Onyx (∑, ∆)",
+	"symbol": "ONYX",
+	"name": "Onyx       ",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/50502/thumb/IMG_20241003_141732_688.png?1727975639",
 	"coingecko": "onyx-2",
 	"sources": [
 		"coingecko"

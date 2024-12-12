@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x2eDf094dB69d6Dcd487f1B3dB9febE2eeC0dd4c5",
-	"symbol": "ZeroSwap",
+	"symbol": "ZEE",
 	"name": "ZeroSwap",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/12861/thumb/logo.?1696512650",
 	"coingecko": "zeroswap",
 	"sources": [
 		"coingecko"

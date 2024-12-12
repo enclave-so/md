@@ -3,6 +3,8 @@
 	"address": "0xfc10CD3895F2C66D6639eC33ae6360D6cfca7d6d",
 	"symbol": "YES",
 	"name": "YES",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/32939/thumb/yeslogo2.jpg?1707169040",
 	"coingecko": "yes-3",
 	"sources": [
 		"coingecko"

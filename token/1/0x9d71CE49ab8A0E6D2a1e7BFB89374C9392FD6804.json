@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x9d71CE49ab8A0E6D2a1e7BFB89374C9392FD6804",
-	"symbol": "NvirWorld",
+	"symbol": "NVIR",
 	"name": "NvirWorld",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/21359/thumb/Nvir_symbol.png?1696520724",
 	"coingecko": "nvirworld",
 	"sources": [
 		"coingecko"

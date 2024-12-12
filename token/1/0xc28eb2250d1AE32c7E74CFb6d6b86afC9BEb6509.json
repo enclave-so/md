@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0xc28eb2250d1AE32c7E74CFb6d6b86afC9BEb6509",
-	"symbol": "OPEN Ticketing Ecosystem",
+	"symbol": "OPN",
 	"name": "OPEN Ticketing Ecosystem",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/36612/thumb/TOKEN.png?1711975511",
 	"coingecko": "open-ticketing-ecosystem",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xb92ba0A6a843379499770dE82Aa936d6bA0fd8CA",
-	"symbol": "Youwho",
+	"symbol": "YOU",
 	"name": "Youwho",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/25353/thumb/youwho_200.png?1696524487",
 	"coingecko": "youwho",
 	"sources": [
 		"coingecko"

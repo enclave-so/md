@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xeBB1AFb0A4ddC9b1f84D9Aa72FF956cD1c1Eb4be",
-	"symbol": "The Emerald Company",
+	"symbol": "EMRLD",
 	"name": "The Emerald Company",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/36554/thumb/emrld_logo_200x200px.png?1711898920",
 	"coingecko": "the-emerald-company",
 	"sources": [
 		"coingecko"

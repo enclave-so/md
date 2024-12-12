@@ -4,10 +4,11 @@
 	"symbol": "WBTC",
 	"name": "Wrapped BTC",
 	"decimals": 8,
-	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0x50b7545627a5162F82A992c33b87aDc75187B218.jpg",
+	"logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png",
 	"coingecko": "avalanche-old-bridged-wbtc-avalanche",
 	"sources": [
 		"coingecko",
-		"sushiswap"
+		"sushiswap",
+		"uniswap"
 	]
 }

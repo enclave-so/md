@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xf56842Af3B56Fd72d17cB103f92d027bBa912e89",
-	"symbol": "Bamboo DeFi",
+	"symbol": "BAMBOO",
 	"name": "Bamboo DeFi",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/13856/thumb/LOGO_BAMBOO_PNG.png?1696513602",
 	"coingecko": "bamboo-defi",
 	"sources": [
 		"coingecko"

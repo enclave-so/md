@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xEEe0fE52299f2DE8e2eD5111CD521aB67Dcf0Faf",
-	"symbol": "The QWAN",
+	"symbol": "QWAN",
 	"name": "The QWAN",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30613/thumb/qwan.jpg?1696529482",
 	"coingecko": "the-qwan",
 	"sources": [
 		"coingecko"

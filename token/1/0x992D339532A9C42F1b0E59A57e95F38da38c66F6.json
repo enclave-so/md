@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x992D339532A9C42F1b0E59A57e95F38da38c66F6",
-	"symbol": "Soulsaver",
+	"symbol": "SOUL",
 	"name": "Soulsaver",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/27494/thumb/SOUL_LOGO.png?1696526534",
 	"coingecko": "soulsaver",
 	"sources": [
 		"coingecko"

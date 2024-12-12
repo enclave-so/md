@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xb72E76cCf005313868DB7b48070901a44629da98",
-	"symbol": "SquidGrow",
+	"symbol": "SQGROW",
 	"name": "SquidGrow",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/50187/thumb/cmc_200x200.png?1733729546",
 	"coingecko": "squidgrow-2",
 	"sources": [
 		"coingecko"

@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0xFe0c30065B384F05761f15d0CC899D4F9F9Cc0eB",
-	"symbol": "Ether.fi",
+	"symbol": "ETHFI",
 	"name": "Ether.fi",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35958/standard/etherfi.jpeg",
 	"coingecko": "ether-fi",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"uniswap"
 	]
 }

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xeAeBb6cd3a1f9b9cAD725D0189BA5BfEA25A9d76",
-	"symbol": "BloxSIM",
+	"symbol": "BSIM",
 	"name": "BloxSIM",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/50545/thumb/Logo_Circle.png?1728286059",
 	"coingecko": "bloxsim",
 	"sources": [
 		"coingecko"

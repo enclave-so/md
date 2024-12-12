@@ -1,0 +1,11 @@
+{
+	"chain": 8453,
+	"address": "0xA5649B56AA4e74d8661Ee9656130072df7666784",
+	"symbol": "SPC",
+	"name": "SpaceChainV2",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/SPC/logo.png",
+	"sources": [
+		"optimism"
+	]
+}

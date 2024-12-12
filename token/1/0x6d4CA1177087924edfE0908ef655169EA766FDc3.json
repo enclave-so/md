@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x6d4CA1177087924edfE0908ef655169EA766FDc3",
-	"symbol": "Hedgehog",
+	"symbol": "HEDGEHOG",
 	"name": "Hedgehog",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/28552/thumb/hedgie.png?1696527543",
 	"coingecko": "hedgehog",
 	"sources": [
 		"coingecko"

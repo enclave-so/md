@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x7D225c4cc612E61d26523B099b0718d03152eDEf",
-	"symbol": "FlokiFork",
+	"symbol": "FORK",
 	"name": "FlokiFork",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35048/thumb/floki-inu-floki-logo200x200.png?1707206165",
 	"coingecko": "flokifork",
 	"sources": [
 		"coingecko"

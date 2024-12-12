@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0x9aFa9999e45484Adf5d8EED8D9Dfe0693BACd838",
-	"symbol": "Everyworld",
+	"symbol": "EVERY",
 	"name": "Everyworld",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/36799/thumb/coin_gecko.png?1714459237",
 	"coingecko": "everyworld",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

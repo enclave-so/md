@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x9ed7E4B1BFF939ad473dA5E7a218C771D1569456",
-	"symbol": "Reunit Wallet",
+	"symbol": "REUNI",
 	"name": "Reunit Wallet",
+	"decimals": 6,
+	"logo": "https://assets.coingecko.com/coins/images/29492/thumb/reunit_200.png?1696528436",
 	"coingecko": "reunit-wallet",
 	"sources": [
 		"coingecko"

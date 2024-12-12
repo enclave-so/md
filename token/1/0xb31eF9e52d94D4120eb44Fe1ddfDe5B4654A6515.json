@@ -3,8 +3,11 @@
 	"address": "0xb31eF9e52d94D4120eb44Fe1ddfDe5B4654A6515",
 	"symbol": "DOSE",
 	"name": "DOSE",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/18847/thumb/dose.PNG?1696518308",
 	"coingecko": "dose-token",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

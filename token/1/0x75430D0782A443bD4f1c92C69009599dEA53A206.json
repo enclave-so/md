@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x75430D0782A443bD4f1c92C69009599dEA53A206",
-	"symbol": "Pick Or Rick",
+	"symbol": "RICK",
 	"name": "Pick Or Rick",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/30653/thumb/Untitled_Artwork_8_%283%29_%281%29.png?1696529523",
 	"coingecko": "pick-or-rick",
 	"sources": [
 		"coingecko"

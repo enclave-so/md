@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x59E69094398AfbEA632F8Bd63033BdD2443a3Be1",
+	"symbol": "Wise Monkey",
+	"name": "Wise Monkey",
+	"coingecko": "wise-monkey",
+	"sources": [
+		"coingecko"
+	]
+}

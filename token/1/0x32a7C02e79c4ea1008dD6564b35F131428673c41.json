@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x32a7C02e79c4ea1008dD6564b35F131428673c41",
-	"symbol": "Crust Network",
+	"symbol": "CRU",
 	"name": "Crust Network",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/12549/thumb/sAB3KVzD_400x400.jpg?1696512360",
 	"coingecko": "crust-network",
 	"sources": [
 		"coingecko"

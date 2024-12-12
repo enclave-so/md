@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xe1A3864DbF62Fb94834B108Ff6Bf439cE70183Ac",
-	"symbol": "vXDEFI",
+	"symbol": "VXDEFI",
 	"name": "vXDEFI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30479/thumb/vXDEFI.jpg?1696529365",
 	"coingecko": "vxdefi",
 	"sources": [
 		"coingecko"

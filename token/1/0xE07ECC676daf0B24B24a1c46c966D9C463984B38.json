@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xE07ECC676daf0B24B24a1c46c966D9C463984B38",
-	"symbol": "Nexus Pro USEU",
+	"symbol": "USEU",
 	"name": "Nexus Pro USEU",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/39079/thumb/useu.png?1720270389",
 	"coingecko": "nexus-pro-useu",
 	"sources": [
 		"coingecko"

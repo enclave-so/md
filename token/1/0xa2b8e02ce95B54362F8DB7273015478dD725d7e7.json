@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xa2b8e02ce95B54362F8DB7273015478dD725d7e7",
-	"symbol": "MEME CUP",
+	"symbol": "MEMECUP",
 	"name": "MEME CUP",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/38807/thumb/MEME_CUP.png?1719003892",
 	"coingecko": "meme-cup",
 	"sources": [
 		"coingecko"

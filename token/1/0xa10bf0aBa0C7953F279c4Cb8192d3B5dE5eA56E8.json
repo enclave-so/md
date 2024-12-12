@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xa10bf0aBa0C7953F279c4Cb8192d3B5dE5eA56E8",
-	"symbol": "Tarot",
+	"symbol": "TAROT",
 	"name": "Tarot",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31800/thumb/TAROT.jpg?1696530615",
 	"coingecko": "tarot-2",
 	"sources": [
 		"coingecko"

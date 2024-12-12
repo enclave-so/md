@@ -4,10 +4,11 @@
 	"symbol": "XRP",
 	"name": "XRP Token",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/xrp.jpg",
+	"logo": "https://tokens.pancakeswap.finance/images/0x1D2F0da169ceB9fC7B3144628dB156f3F6c60dBE.png",
 	"coingecko": "binance-peg-xrp",
 	"sources": [
 		"coingecko",
+		"pancakeswap",
 		"sushiswap"
 	]
 }

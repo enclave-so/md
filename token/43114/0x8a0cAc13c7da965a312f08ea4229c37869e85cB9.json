@@ -1,10 +1,13 @@
 {
 	"chain": 43114,
 	"address": "0x8a0cAc13c7da965a312f08ea4229c37869e85cB9",
-	"symbol": "The Graph",
+	"symbol": "GRT",
 	"name": "The Graph",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/13397/thumb/Graph_Token.png?1608145566",
 	"coingecko": "the-graph",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"uniswap"
 	]
 }

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x5AC83BfbFcebb3397A40fD259dBE7a4bE04237d3",
-	"symbol": "Lyfebloc",
+	"symbol": "LBT",
 	"name": "Lyfebloc",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30021/thumb/LBT_Token.png?1696528945",
 	"coingecko": "lyfebloc",
 	"sources": [
 		"coingecko"

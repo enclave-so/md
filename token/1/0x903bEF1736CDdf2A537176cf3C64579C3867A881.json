@@ -2,9 +2,9 @@
 	"chain": 1,
 	"address": "0x903bEF1736CDdf2A537176cf3C64579C3867A881",
 	"symbol": "ICHI",
-	"name": "ichi.farm",
+	"name": "Legacy ICHI",
 	"decimals": 9,
-	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x903bEF1736CDdf2A537176cf3C64579C3867A881/logo.png",
+	"logo": "https://assets.coingecko.com/coins/images/26004/thumb/legacy.png?1696525081",
 	"coingecko": "legacy-ichi",
 	"sources": [
 		"coingecko",

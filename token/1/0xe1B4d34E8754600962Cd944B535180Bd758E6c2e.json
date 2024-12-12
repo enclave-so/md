@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xe1B4d34E8754600962Cd944B535180Bd758E6c2e",
-	"symbol": "Kelp Gain",
+	"symbol": "AGETH",
 	"name": "Kelp Gain",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/39677/thumb/Icon___Dark.png?1723610897",
 	"coingecko": "kelp-gain",
 	"sources": [
 		"coingecko"

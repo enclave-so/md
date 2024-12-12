@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x90edf25B14393350f0C1b5B12B6Cb3cD3781Fb4A",
-	"symbol": "CoreConnect",
+	"symbol": "CORE",
 	"name": "CoreConnect",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/39857/thumb/CoreConnect.png?1724372995",
 	"coingecko": "coreconnect",
 	"sources": [
 		"coingecko"

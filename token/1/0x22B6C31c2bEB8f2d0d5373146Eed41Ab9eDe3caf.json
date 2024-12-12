@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x22B6C31c2bEB8f2d0d5373146Eed41Ab9eDe3caf",
-	"symbol": "The Cocktailbar",
+	"symbol": "COC",
 	"name": "The Cocktailbar",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/13121/thumb/Cocktail_Bar_logo_%281%29_%281%29.png?1696512909",
 	"coingecko": "cocktailbar",
 	"sources": [
 		"coingecko"

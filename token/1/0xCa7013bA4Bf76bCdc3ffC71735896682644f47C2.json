@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xCa7013bA4Bf76bCdc3ffC71735896682644f47C2",
-	"symbol": "Degen",
+	"symbol": "DGN",
 	"name": "Degen",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31606/thumb/Degen.png?1696530422",
 	"coingecko": "degen-2",
 	"sources": [
 		"coingecko"

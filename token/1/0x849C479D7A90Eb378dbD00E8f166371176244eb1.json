@@ -3,6 +3,8 @@
 	"address": "0x849C479D7A90Eb378dbD00E8f166371176244eb1",
 	"symbol": "MUU",
 	"name": "MUU",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/25620/thumb/muu.jpg?1696524754",
 	"coingecko": "muu-inu",
 	"sources": [
 		"coingecko"

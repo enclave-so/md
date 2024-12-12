@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xBc188B5dbb155B6eA693D46D98Bf60b8482939B9",
-	"symbol": "Apollo FTW",
+	"symbol": "FTW",
 	"name": "Apollo FTW",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/37526/thumb/apollo-ftw-cmc.png?1714639185",
 	"coingecko": "apollo-ftw",
 	"sources": [
 		"coingecko"

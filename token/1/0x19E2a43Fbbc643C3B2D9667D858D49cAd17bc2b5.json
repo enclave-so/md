@@ -3,6 +3,8 @@
 	"address": "0x19E2a43Fbbc643C3B2D9667D858D49cAd17bc2b5",
 	"symbol": "BNS",
 	"name": "BNS",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/25150/thumb/bitbns_logo.png?1696524299",
 	"coingecko": "bns-token",
 	"sources": [
 		"coingecko"

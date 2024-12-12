@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x4ad434b8CDC3AA5AC97932D6BD18b5d313aB0f6f",
-	"symbol": "EverMoon ERC",
+	"symbol": "EVERMOON",
 	"name": "EverMoon ERC",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30720/thumb/evermoon.png?1696529591",
 	"coingecko": "evermoon-erc",
 	"sources": [
 		"coingecko"

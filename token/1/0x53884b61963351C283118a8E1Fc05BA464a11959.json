@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x53884b61963351C283118a8E1Fc05BA464a11959",
-	"symbol": "Monnos",
+	"symbol": "MNS",
 	"name": "Monnos",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/11640/thumb/logo_%2880%29.png?1696511533",
 	"coingecko": "monnos",
 	"sources": [
 		"coingecko"

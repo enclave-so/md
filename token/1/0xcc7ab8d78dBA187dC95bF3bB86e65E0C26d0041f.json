@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xcc7ab8d78dBA187dC95bF3bB86e65E0C26d0041f",
-	"symbol": "Spacelens",
+	"symbol": "SPACE",
 	"name": "Spacelens",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/16979/thumb/SPACE___Spacelens.png?1696516545",
 	"coingecko": "spacelens",
 	"sources": [
 		"coingecko"

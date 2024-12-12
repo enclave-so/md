@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0x85Eee30c52B0b379b046Fb0F85F4f3Dc3009aFEC",
-	"symbol": "Keep Network",
+	"symbol": "KEEP",
 	"name": "Keep Network",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/3373/thumb/IuNzUb5b_400x400.jpg?1589526336",
 	"coingecko": "keep-network",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"uniswap"
 	]
 }

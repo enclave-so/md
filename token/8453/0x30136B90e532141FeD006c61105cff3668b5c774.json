@@ -1,0 +1,11 @@
+{
+	"chain": 8453,
+	"address": "0x30136B90e532141FeD006c61105cff3668b5c774",
+	"symbol": "BLUE",
+	"name": "BlueSwap",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/BLUE/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x730BCBe5Cdc1a3061Dfe700774b7B8dd1d4173DB",
-	"symbol": "DaVinci",
+	"symbol": "WTF",
 	"name": "DaVinci",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35734/thumb/IMG_8820.png?1709693722",
 	"coingecko": "davinci",
 	"sources": [
 		"coingecko"

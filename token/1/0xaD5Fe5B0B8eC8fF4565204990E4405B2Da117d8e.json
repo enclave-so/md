@@ -1,8 +1,9 @@
 {
 	"chain": 1,
 	"address": "0xaD5Fe5B0B8eC8fF4565204990E4405B2Da117d8e",
-	"symbol": "TronClassic",
+	"symbol": "TRXC",
 	"name": "TronClassic",
+	"logo": "https://assets.coingecko.com/coins/images/4626/thumb/trxc.png?1696505197",
 	"coingecko": "tronclassic",
 	"sources": [
 		"coingecko"

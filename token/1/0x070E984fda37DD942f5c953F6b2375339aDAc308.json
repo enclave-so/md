@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x070E984fda37DD942f5c953F6b2375339aDAc308",
-	"symbol": "Axe Cap",
+	"symbol": "AXE",
 	"name": "Axe Cap",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31339/thumb/axe_cap_icon_200x200.png?1696530157",
 	"coingecko": "axe-cap",
 	"sources": [
 		"coingecko"

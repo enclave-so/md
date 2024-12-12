@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x9B73Ff728D7D4A423e2166a8dFaa1E79D30cddE9",
-	"symbol": "Wooooo! Coin",
-	"name": "Wooooo! Coin",
+	"symbol": "WOOOOO",
+	"name": "Wooooo  Coin",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/50198/thumb/WOOOOO!.png?1726242274",
 	"coingecko": "wooooo-coin",
 	"sources": [
 		"coingecko"

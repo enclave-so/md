@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x2d9996f3b9D2E73540FDbfDfE81d71e9e08cBF03",
-	"symbol": "BoysClub",
+	"symbol": "BOYSCLUB",
 	"name": "BoysClub",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/37262/thumb/1000006430.jpg?1713866548",
 	"coingecko": "boysclub",
 	"sources": [
 		"coingecko"

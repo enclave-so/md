@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x89d24A6b4CcB1B6fAA2625fE562bDD9a23260359",
-	"symbol": "Sai",
+	"symbol": "SAI",
 	"name": "Sai",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/1442/thumb/dai.png?1696502492",
 	"coingecko": "sai",
 	"sources": [
 		"coingecko"

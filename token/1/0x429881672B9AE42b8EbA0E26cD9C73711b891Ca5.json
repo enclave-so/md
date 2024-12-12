@@ -2,9 +2,9 @@
 	"chain": 1,
 	"address": "0x429881672B9AE42b8EbA0E26cD9C73711b891Ca5",
 	"symbol": "PICKLE",
-	"name": "Pickle Token",
+	"name": "Pickle Finance",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/pickle.jpg",
+	"logo": "https://assets.coingecko.com/coins/images/12435/thumb/0M4W6Yr6_400x400.jpg?1696512255",
 	"coingecko": "pickle-finance",
 	"sources": [
 		"coingecko",

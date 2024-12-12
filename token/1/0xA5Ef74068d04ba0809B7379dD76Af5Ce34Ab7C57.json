@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xA5Ef74068d04ba0809B7379dD76Af5Ce34Ab7C57",
-	"symbol": "LunaChow",
+	"symbol": "LUCHOW",
 	"name": "LunaChow",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/18805/thumb/J-MwYfhD_400x400.jpg?1696518267",
 	"coingecko": "lunachow",
 	"sources": [
 		"coingecko"

@@ -8,6 +8,7 @@
 	"coingecko": "bridged-trueusd",
 	"sources": [
 		"coingecko",
+		"optimism",
 		"sushiswap"
 	]
 }

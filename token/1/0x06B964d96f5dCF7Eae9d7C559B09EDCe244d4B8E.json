@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x06B964d96f5dCF7Eae9d7C559B09EDCe244d4B8E",
-	"symbol": "USUALx",
+	"symbol": "USUALX",
 	"name": "USUALx",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/52435/thumb/USUALx_logo.png?1733340437",
 	"coingecko": "usualx",
 	"sources": [
 		"coingecko"

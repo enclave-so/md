@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x8a053350ca5F9352a16deD26ab333e2D251DAd7c",
-	"symbol": "Eigenpie mETH",
+	"symbol": "MMETH",
 	"name": "Eigenpie mETH",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/37161/thumb/mmETH.png?1713504066",
 	"coingecko": "eigenpie-meth",
 	"sources": [
 		"coingecko"

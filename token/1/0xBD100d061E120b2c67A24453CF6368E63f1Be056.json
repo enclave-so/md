@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xBD100d061E120b2c67A24453CF6368E63f1Be056",
-	"symbol": "iDypius",
+	"symbol": "IDYP",
 	"name": "iDypius",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/21976/thumb/iDYP-200x200px.png?1696521324",
 	"coingecko": "idefiyieldprotocol",
 	"sources": [
 		"coingecko"

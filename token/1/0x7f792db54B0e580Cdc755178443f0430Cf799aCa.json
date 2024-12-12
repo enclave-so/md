@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x7f792db54B0e580Cdc755178443f0430Cf799aCa",
-	"symbol": "Volt Inu",
+	"symbol": "VOLT",
 	"name": "Volt Inu",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/25201/thumb/logo200.png?1696524344",
 	"coingecko": "volt-inu-2",
 	"sources": [
 		"coingecko"

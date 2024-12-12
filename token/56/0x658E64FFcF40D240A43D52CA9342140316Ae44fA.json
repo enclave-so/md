@@ -1,0 +1,11 @@
+{
+	"chain": 56,
+	"address": "0x658E64FFcF40D240A43D52CA9342140316Ae44fA",
+	"symbol": "OIN",
+	"name": "Oin Finance",
+	"decimals": 8,
+	"logo": "https://tokens.pancakeswap.finance/images/0x658E64FFcF40D240A43D52CA9342140316Ae44fA.png",
+	"sources": [
+		"pancakeswap"
+	]
+}

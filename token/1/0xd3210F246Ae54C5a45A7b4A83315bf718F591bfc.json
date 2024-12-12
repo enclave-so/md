@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xd3210F246Ae54C5a45A7b4A83315bf718F591bfc",
-	"symbol": "ArkiTech",
+	"symbol": "ARKI",
 	"name": "ArkiTech",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/33426/thumb/200.png?1711371418",
 	"coingecko": "arkitech",
 	"sources": [
 		"coingecko"

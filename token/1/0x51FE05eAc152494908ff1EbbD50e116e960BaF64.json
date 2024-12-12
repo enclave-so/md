@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x51FE05eAc152494908ff1EbbD50e116e960BaF64",
-	"symbol": "X-GPT",
-	"name": "X-GPT",
+	"symbol": "XGPT",
+	"name": "X GPT",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31559/thumb/XGPT_Logo.png?1696530372",
 	"coingecko": "x-gpt",
 	"sources": [
 		"coingecko"

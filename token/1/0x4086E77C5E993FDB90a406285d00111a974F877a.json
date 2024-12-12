@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x4086E77C5E993FDB90a406285d00111a974F877a",
-	"symbol": "Blockchain Brawlers",
+	"symbol": "BRWL",
 	"name": "Blockchain Brawlers",
+	"decimals": 4,
+	"logo": "https://assets.coingecko.com/coins/images/24701/thumb/fuDdvI8Y_400x400.png?1696523867",
 	"coingecko": "blockchain-brawlers",
 	"sources": [
 		"coingecko"

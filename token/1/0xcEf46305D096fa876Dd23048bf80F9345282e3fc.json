@@ -1,8 +1,9 @@
 {
 	"chain": 1,
 	"address": "0xcEf46305D096fa876Dd23048bf80F9345282e3fc",
-	"symbol": "Banque Universal",
+	"symbol": "CBU",
 	"name": "Banque Universal",
+	"logo": "https://assets.coingecko.com/coins/images/8112/thumb/png_tr.png?1696508329",
 	"coingecko": "banque-universal",
 	"sources": [
 		"coingecko"

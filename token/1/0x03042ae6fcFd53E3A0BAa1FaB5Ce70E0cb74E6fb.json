@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x03042ae6fcFd53E3A0BAa1FaB5Ce70E0cb74E6fb",
-	"symbol": "Ten Best Coins",
+	"symbol": "TBC",
 	"name": "Ten Best Coins",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/27312/thumb/tbc.png?1696526362",
 	"coingecko": "ten-best-coins",
 	"sources": [
 		"coingecko"

@@ -1,0 +1,11 @@
+{
+	"chain": 7777777,
+	"address": "0xCccCCccc7021b32EBb4e8C08314bD62F7c653EC4",
+	"symbol": "USDzC",
+	"name": "USD Coin (Bridged from Ethereum)",
+	"decimals": 6,
+	"logo": "https://assets.coingecko.com/coins/images/35218/large/USDC_Icon.png?1707908537",
+	"sources": [
+		"uniswap"
+	]
+}

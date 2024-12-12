@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x96aDD417293a49E80f024734e96CFd8b355bCc14",
-	"symbol": "LiquidLayer",
+	"symbol": "LILA",
 	"name": "LiquidLayer",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/32547/thumb/photo_2023-10-08_12-09-02.jpg?1698474657",
 	"coingecko": "liquidlayer",
 	"sources": [
 		"coingecko"

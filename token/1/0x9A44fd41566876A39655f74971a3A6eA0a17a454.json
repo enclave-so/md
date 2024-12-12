@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x9A44fd41566876A39655f74971a3A6eA0a17a454",
-	"symbol": "Aave v3 LDO",
+	"symbol": "ALDO",
 	"name": "Aave v3 LDO",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/32895/thumb/LDO.png?1699790151",
 	"coingecko": "aave-v3-ldo",
 	"sources": [
 		"coingecko"

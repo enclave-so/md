@@ -2,12 +2,14 @@
 	"chain": 10,
 	"address": "0x76FB31fb4af56892A25e32cFC43De717950c9278",
 	"symbol": "AAVE",
-	"name": "Aave Token",
+	"name": "Aave",
 	"decimals": 18,
-	"logo": "https://ethereum-optimism.github.io/data/AAVE/logo.svg",
+	"logo": "https://assets.coingecko.com/coins/images/12645/thumb/AAVE.png?1601374110",
 	"coingecko": "aave",
 	"sources": [
 		"coingecko",
-		"sushiswap"
+		"optimism",
+		"sushiswap",
+		"uniswap"
 	]
 }

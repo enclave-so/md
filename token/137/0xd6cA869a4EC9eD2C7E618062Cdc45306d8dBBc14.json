@@ -1,0 +1,11 @@
+{
+	"chain": 137,
+	"address": "0xd6cA869a4EC9eD2C7E618062Cdc45306d8dBBc14",
+	"symbol": "BTC2x-FLI-P",
+	"name": "Bitcoin 2x Flexible Leverage Index",
+	"decimals": 18,
+	"logo": "https://cdn.indexcoop.com/btc2xflip.svg",
+	"sources": [
+		"indexcoop"
+	]
+}

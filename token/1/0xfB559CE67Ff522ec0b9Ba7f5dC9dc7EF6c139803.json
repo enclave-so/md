@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xfB559CE67Ff522ec0b9Ba7f5dC9dc7EF6c139803",
-	"symbol": "Probit",
+	"symbol": "PROB",
 	"name": "Probit",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/6765/thumb/ProBit-Exchange-logo.png?1696507099",
 	"coingecko": "probit-exchange",
 	"sources": [
 		"coingecko"

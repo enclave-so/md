@@ -4,10 +4,11 @@
 	"symbol": "TOKE",
 	"name": "Tokemak",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x2e9d63788249371f1DFC918a52f8d799F4a38C94/logo.png",
+	"logo": "https://assets.coingecko.com/coins/images/17495/thumb/tokemak-avatar-200px-black.png?1628131614",
 	"coingecko": "tokemak",
 	"sources": [
 		"coingecko",
-		"sushiswap"
+		"sushiswap",
+		"uniswap"
 	]
 }

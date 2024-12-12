@@ -1,10 +1,14 @@
 {
 	"chain": 8453,
 	"address": "0xBCBAf311ceC8a4EAC0430193A528d9FF27ae38C1",
-	"symbol": "IoTeX",
+	"symbol": "IOTX",
 	"name": "IoTeX",
+	"decimals": 18,
+	"logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2777.png",
 	"coingecko": "iotex",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism",
+		"uniswap"
 	]
 }

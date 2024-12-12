@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xFc4b4ec763722B71eB1D729749B447A9645f5F30",
-	"symbol": "DumbMoney",
+	"symbol": "GME",
 	"name": "DumbMoney",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/32058/thumb/DumbMoney_-_GME_-_Official_Logo_200x200px.png?1696530855",
 	"coingecko": "dumbmoney",
 	"sources": [
 		"coingecko"

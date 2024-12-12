@@ -1,0 +1,11 @@
+{
+	"chain": 42161,
+	"address": "0xeF6124368c0B56556667e0de77eA008DfC0a71d1",
+	"symbol": "ALI",
+	"name": "Alethea Artificial Liquid Intelligence",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/22062/thumb/alethea-logo-transparent-colored.png?1642748848",
+	"sources": [
+		"uniswap"
+	]
+}

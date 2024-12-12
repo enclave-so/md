@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x777BE1c6075c20184C4fd76344b7b0B7c858fe6B",
-	"symbol": "Gold Standard",
+	"symbol": "BAR",
 	"name": "Gold Standard",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/39374/thumb/BAR.jpg?1721956351",
 	"coingecko": "gold-standard",
 	"sources": [
 		"coingecko"

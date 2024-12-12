@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xFD20E1B78C353877a25274C85Fb5566277e5F60E",
-	"symbol": "HighNoon",
+	"symbol": "NOON",
 	"name": "HighNoon",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/33867/thumb/Noon200x200.png?1703130601",
 	"coingecko": "highnoon",
 	"sources": [
 		"coingecko"

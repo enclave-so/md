@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xC5bA042BF8832999b17c9036E8212f49DCE0501A",
-	"symbol": "YOUR AI",
+	"symbol": "YOURAI",
 	"name": "YOUR AI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/36260/thumb/yourai-ticker_%281%29.png?1710929542",
 	"coingecko": "your-ai",
 	"sources": [
 		"coingecko"

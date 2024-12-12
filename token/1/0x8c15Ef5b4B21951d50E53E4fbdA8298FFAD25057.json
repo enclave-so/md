@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0x8c15Ef5b4B21951d50E53E4fbdA8298FFAD25057",
-	"symbol": "Function X",
+	"symbol": "FX",
 	"name": "Function X",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/8186/thumb/47271330_590071468072434_707260356350705664_n.jpg?1556096683",
 	"coingecko": "fx-coin",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"uniswap"
 	]
 }

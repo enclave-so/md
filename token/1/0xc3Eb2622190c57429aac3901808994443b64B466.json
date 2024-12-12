@@ -3,6 +3,8 @@
 	"address": "0xc3Eb2622190c57429aac3901808994443b64B466",
 	"symbol": "ORO",
 	"name": "ORO",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/13114/thumb/oro_logo.png?1696512899",
 	"coingecko": "oro",
 	"sources": [
 		"coingecko"

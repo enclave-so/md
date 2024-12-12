@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xB69100340A5947E856D873463694aE2186146C43",
-	"symbol": "Baby Pepe on ETH",
+	"symbol": "PEPER",
 	"name": "Baby Pepe on ETH",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/38904/thumb/PEPER200.png?1719470358",
 	"coingecko": "baby-pepe-on-eth",
 	"sources": [
 		"coingecko"

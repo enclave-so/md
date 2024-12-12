@@ -1,0 +1,11 @@
+{
+	"chain": 8453,
+	"address": "0xe0231bb166D09A3f0739F7AFAd68438C0fA142a5",
+	"symbol": "PNDR",
+	"name": "Ponder",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/PNDR/logo.png",
+	"sources": [
+		"optimism"
+	]
+}

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x53229609F907be495704fCa99Ad0835C5f3abd3A",
-	"symbol": "Rintaro",
+	"symbol": "RINTARO",
 	"name": "Rintaro",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/50273/thumb/_lseaRSN_400x400.jpg?1726765973",
 	"coingecko": "rintaro",
 	"sources": [
 		"coingecko"

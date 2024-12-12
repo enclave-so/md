@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xd3CC9d8f3689B83c91b7B59cAB4946B063EB894A",
-	"symbol": "Venus",
+	"symbol": "XVS",
 	"name": "Venus",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/12677/thumb/XVS_Token.jpg?1727454303",
 	"coingecko": "venus",
 	"sources": [
 		"coingecko"

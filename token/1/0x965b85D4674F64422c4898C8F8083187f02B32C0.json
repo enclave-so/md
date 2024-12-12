@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x965b85D4674F64422c4898C8F8083187f02B32C0",
-	"symbol": "Filecoin Standard Full Hashrate",
+	"symbol": "SFIL",
 	"name": "Filecoin Standard Full Hashrate",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/21669/thumb/_70BfuBY_400x400.jpg?1696521026",
 	"coingecko": "filecoin-standard-full-hashrate",
 	"sources": [
 		"coingecko"

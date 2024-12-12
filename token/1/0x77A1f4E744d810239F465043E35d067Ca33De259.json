@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x77A1f4E744d810239F465043E35d067Ca33De259",
-	"symbol": "Voice Street",
+	"symbol": "VST",
 	"name": "Voice Street",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/23147/thumb/LbMUkaD9_400x400.jpg?1696522439",
 	"coingecko": "voice-street",
 	"sources": [
 		"coingecko"

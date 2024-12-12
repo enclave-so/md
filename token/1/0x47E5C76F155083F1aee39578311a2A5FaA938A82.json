@@ -3,6 +3,8 @@
 	"address": "0x47E5C76F155083F1aee39578311a2A5FaA938A82",
 	"symbol": "TNQ",
 	"name": "TNQ",
+	"decimals": 6,
+	"logo": "https://assets.coingecko.com/coins/images/36533/thumb/TNQ_LOGO.png?1711705168",
 	"coingecko": "trinique",
 	"sources": [
 		"coingecko"

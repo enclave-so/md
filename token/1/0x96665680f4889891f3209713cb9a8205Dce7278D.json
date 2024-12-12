@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x96665680f4889891f3209713cb9a8205Dce7278D",
-	"symbol": "Nyx Cipher",
+	"symbol": "NXCP",
 	"name": "Nyx Cipher",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/50323/thumb/IMG_5182.jpeg?1727161877",
 	"coingecko": "nyx-cipher",
 	"sources": [
 		"coingecko"

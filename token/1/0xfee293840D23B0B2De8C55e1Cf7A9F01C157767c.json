@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xfee293840D23B0B2De8C55e1Cf7A9F01C157767c",
-	"symbol": "Degen (Base)",
-	"name": "Degen (Base)",
+	"symbol": "DEGEN",
+	"name": "Degen  Base ",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/34515/thumb/android-chrome-512x512.png?1706198225",
 	"coingecko": "degen-base",
 	"sources": [
 		"coingecko"

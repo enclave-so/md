@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x0058C8581B9FEd6864faa654505bC89890cdB2dd",
-	"symbol": "BabySmurf9000",
+	"symbol": "BS9000",
 	"name": "BabySmurf9000",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/32088/thumb/logo2.png?1701897911",
 	"coingecko": "babysmurf9000",
 	"sources": [
 		"coingecko"

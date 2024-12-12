@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x0aA8A7D1fB4c64B3b1DcEa9A7ADe81C59C25b95b",
-	"symbol": "AstraAI",
+	"symbol": "ASTRA",
 	"name": "AstraAI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/33138/thumb/Astra_logo_circle1_%281%29.png?1717245288",
 	"coingecko": "astraai",
 	"sources": [
 		"coingecko"

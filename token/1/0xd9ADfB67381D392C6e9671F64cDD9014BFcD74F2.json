@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xd9ADfB67381D392C6e9671F64cDD9014BFcD74F2",
-	"symbol": "Morra",
+	"symbol": "MORRA",
 	"name": "Morra",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/33180/thumb/ICON.png?1723081184",
 	"coingecko": "morra",
 	"sources": [
 		"coingecko"

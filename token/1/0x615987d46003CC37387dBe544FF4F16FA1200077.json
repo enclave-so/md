@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x615987d46003CC37387dBe544FF4F16FA1200077",
-	"symbol": "Nasdaq420",
+	"symbol": "NASDAQ420",
 	"name": "Nasdaq420",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/50928/thumb/tt-profile-photo-200-x-200-img_0447-png_custom_resized.png?1730372025",
 	"coingecko": "nasdaq420",
 	"sources": [
 		"coingecko"

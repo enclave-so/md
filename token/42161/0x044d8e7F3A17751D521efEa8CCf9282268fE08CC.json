@@ -1,0 +1,11 @@
+{
+	"chain": 42161,
+	"address": "0x044d8e7F3A17751D521efEa8CCf9282268fE08CC",
+	"symbol": "POL",
+	"name": "Polygon Ecosystem Token",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/32440/large/polygon.png?1698233684",
+	"sources": [
+		"uniswap"
+	]
+}

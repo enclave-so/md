@@ -4,10 +4,12 @@
 	"symbol": "GRT",
 	"name": "The Graph",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/grt.jpg",
+	"logo": "https://assets.coingecko.com/coins/images/13397/thumb/Graph_Token.png?1608145566",
 	"coingecko": "the-graph",
 	"sources": [
 		"coingecko",
-		"sushiswap"
+		"optimism",
+		"sushiswap",
+		"uniswap"
 	]
 }

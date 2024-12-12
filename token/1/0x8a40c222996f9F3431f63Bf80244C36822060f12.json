@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x8a40c222996f9F3431f63Bf80244C36822060f12",
-	"symbol": "FINXFLO",
+	"symbol": "FXF",
 	"name": "FINXFLO",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/13916/thumb/raVh1Iw.png?1696513657",
 	"coingecko": "finxflo",
 	"sources": [
 		"coingecko"

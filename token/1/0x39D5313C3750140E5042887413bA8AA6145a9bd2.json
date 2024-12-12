@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x39D5313C3750140E5042887413bA8AA6145a9bd2",
-	"symbol": "Empyreal",
+	"symbol": "EMP",
 	"name": "Empyreal",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31374/thumb/logomainblacktransparent.png?1719953450",
 	"coingecko": "empyreal",
 	"sources": [
 		"coingecko"

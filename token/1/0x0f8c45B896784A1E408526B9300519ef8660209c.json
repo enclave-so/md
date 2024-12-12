@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x0f8c45B896784A1E408526B9300519ef8660209c",
-	"symbol": "XMax",
+	"symbol": "XMX",
 	"name": "XMax",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/4643/thumb/xmx.png?1696505211",
 	"coingecko": "xmax",
 	"sources": [
 		"coingecko"

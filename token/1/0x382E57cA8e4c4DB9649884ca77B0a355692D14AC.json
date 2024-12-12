@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x382E57cA8e4c4DB9649884ca77B0a355692D14AC",
-	"symbol": "Xyxyx",
+	"symbol": "XYXYX",
 	"name": "Xyxyx",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35483/thumb/xyxyx_logo.png?1708850265",
 	"coingecko": "xyxyx",
 	"sources": [
 		"coingecko"

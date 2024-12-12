@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x0138f5E99cfdFfBACF36e543800c19EF16fa294b",
-	"symbol": "Prophet",
+	"symbol": "PROPHT",
 	"name": "Prophet",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/52211/thumb/prophetbots.jpg?1732897642",
 	"coingecko": "prophet-3",
 	"sources": [
 		"coingecko"

@@ -4,10 +4,11 @@
 	"symbol": "BUSD",
 	"name": "Binance USD",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/busd.jpg",
+	"logo": "https://assets.coingecko.com/coins/images/9576/thumb/BUSD.png?1568947766",
 	"coingecko": "binance-usd",
 	"sources": [
 		"coingecko",
-		"sushiswap"
+		"sushiswap",
+		"uniswap"
 	]
 }

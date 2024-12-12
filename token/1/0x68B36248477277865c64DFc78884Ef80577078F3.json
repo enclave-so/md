@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x68B36248477277865c64DFc78884Ef80577078F3",
-	"symbol": "Everybody",
+	"symbol": "HOLD",
 	"name": "Everybody",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/32272/thumb/New_Logo.png?1730878917",
 	"coingecko": "everybody",
 	"sources": [
 		"coingecko"

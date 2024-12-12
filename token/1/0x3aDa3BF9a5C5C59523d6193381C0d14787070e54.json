@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x3aDa3BF9a5C5C59523d6193381C0d14787070e54",
-	"symbol": "Neva",
+	"symbol": "NEVA",
 	"name": "Neva",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/38642/thumb/nevalogogreen.png?1718209917",
 	"coingecko": "neva",
 	"sources": [
 		"coingecko"

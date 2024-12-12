@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x6873C95307e13bEB58Fb8FCdDf9a99667655c9e4",
-	"symbol": "zkGUN",
+	"symbol": "ZKGUN",
 	"name": "zkGUN",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/38492/thumb/pFlA_a6-_400x400.jpg?1717688716",
 	"coingecko": "zkgun",
 	"sources": [
 		"coingecko"

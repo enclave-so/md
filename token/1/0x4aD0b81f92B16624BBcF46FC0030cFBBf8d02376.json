@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x4aD0b81f92B16624BBcF46FC0030cFBBf8d02376",
-	"symbol": "Unagii Dai",
+	"symbol": "UDAI",
 	"name": "Unagii Dai",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/13782/thumb/uDAI.png?1696513523",
 	"coingecko": "unagii-dai",
 	"sources": [
 		"coingecko"

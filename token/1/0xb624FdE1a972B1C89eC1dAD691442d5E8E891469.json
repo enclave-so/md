@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xb624FdE1a972B1C89eC1dAD691442d5E8E891469",
-	"symbol": "SporkDAO",
+	"symbol": "SPORK",
 	"name": "SporkDAO",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/23358/thumb/sporkdao.PNG?1696522573",
 	"coingecko": "sporkdao",
 	"sources": [
 		"coingecko"

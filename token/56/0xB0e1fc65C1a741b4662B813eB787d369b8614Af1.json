@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0xB0e1fc65C1a741b4662B813eB787d369b8614Af1",
-	"symbol": "Impossible Finance",
+	"symbol": "IF",
 	"name": "Impossible Finance",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0xB0e1fc65C1a741b4662B813eB787d369b8614Af1.png",
 	"coingecko": "impossible-finance",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

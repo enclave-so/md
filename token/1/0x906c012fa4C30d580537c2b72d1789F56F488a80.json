@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0x906c012fa4C30d580537c2b72d1789F56F488a80",
-	"symbol": "Pog Coin",
+	"symbol": "POGS",
 	"name": "Pog Coin",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/37524/thumb/Untitled_design_%2860%29.png?1731815368",
 	"coingecko": "pog-digital",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

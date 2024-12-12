@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x5D56B6581D2e7e7574aDce2Dc593f499A53D7505",
-	"symbol": "Church of the Machina",
+	"symbol": "MACHINA",
 	"name": "Church of the Machina",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/34720/thumb/machina_logo.png?1705916393",
 	"coingecko": "church-of-the-machina",
 	"sources": [
 		"coingecko"

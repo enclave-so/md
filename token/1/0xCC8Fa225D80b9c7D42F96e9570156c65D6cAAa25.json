@@ -1,10 +1,12 @@
 {
 	"chain": 1,
 	"address": "0xCC8Fa225D80b9c7D42F96e9570156c65D6cAAa25",
-	"symbol": "Smooth Love Potion",
+	"symbol": "SLP",
 	"name": "Smooth Love Potion",
+	"logo": "https://assets.coingecko.com/coins/images/10366/thumb/SLP.png?1578640057",
 	"coingecko": "smooth-love-potion",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"uniswap"
 	]
 }

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xbdab72602e9AD40FC6a6852CAf43258113B8F7a5",
-	"symbol": "Sovryn",
+	"symbol": "SOV",
 	"name": "Sovryn",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/16248/thumb/sovryn_logo_orange.png?1709174299",
 	"coingecko": "sovryn",
 	"sources": [
 		"coingecko"

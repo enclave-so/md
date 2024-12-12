@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x294559FA758C88D639Fd085751e463FEe7806eab",
-	"symbol": "Metal Blockchain",
+	"symbol": "METAL",
 	"name": "Metal Blockchain",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/27222/thumb/MB-Logo.png?1710514210",
 	"coingecko": "metal-blockchain",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x388D819724dD6d71760A38F00dc01D310d879771",
-	"symbol": "JustMoney",
+	"symbol": "JM",
 	"name": "JustMoney",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/25450/thumb/jm.png?1696524581",
 	"coingecko": "justmoney-2",
 	"sources": [
 		"coingecko"

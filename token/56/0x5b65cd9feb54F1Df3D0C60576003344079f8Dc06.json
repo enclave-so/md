@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0x5b65cd9feb54F1Df3D0C60576003344079f8Dc06",
-	"symbol": "Uniwhale",
-	"name": "Uniwhale",
+	"symbol": "UNW",
+	"name": "Uniwhale Token",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x5b65cd9feb54F1Df3D0C60576003344079f8Dc06.png",
 	"coingecko": "uniwhale",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

@@ -1,0 +1,11 @@
+{
+	"chain": 8453,
+	"address": "0xf1095aa7DC127ed45441aCfb742694d6a0261b00",
+	"symbol": "BEPRO",
+	"name": "Bepro Token",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/BEPRO/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

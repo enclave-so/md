@@ -1,10 +1,14 @@
 {
 	"chain": 1,
 	"address": "0x9E46A38F5DaaBe8683E10793b06749EEF7D733d1",
-	"symbol": "PolySwarm",
+	"symbol": "NCT",
 	"name": "PolySwarm",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/2843/thumb/ImcYCVfX_400x400.jpg?1628519767",
 	"coingecko": "polyswarm",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism",
+		"uniswap"
 	]
 }

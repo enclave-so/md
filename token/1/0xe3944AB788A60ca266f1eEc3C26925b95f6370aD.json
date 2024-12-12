@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xe3944AB788A60ca266f1eEc3C26925b95f6370aD",
-	"symbol": "Precipitate.ai",
-	"name": "Precipitate.ai",
+	"symbol": "RAIN",
+	"name": "Precipitate ai",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/32405/thumb/RAIN_200-removebg-preview.png?1711371589",
 	"coingecko": "precipitate-ai",
 	"sources": [
 		"coingecko"

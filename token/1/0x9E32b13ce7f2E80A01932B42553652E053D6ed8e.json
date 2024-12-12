@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0x9E32b13ce7f2E80A01932B42553652E053D6ed8e",
-	"symbol": "Metis",
+	"symbol": "METIS",
 	"name": "Metis",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/15595/thumb/metis.jpeg?1660285312",
 	"coingecko": "metis-token",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"uniswap"
 	]
 }

@@ -1,0 +1,11 @@
+{
+	"chain": 56,
+	"address": "0xa75d9ca2a0a1D547409D82e1B06618EC284A2CeD",
+	"symbol": "WMX",
+	"name": "Wombex Token",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0xa75d9ca2a0a1D547409D82e1B06618EC284A2CeD.png",
+	"sources": [
+		"pancakeswap"
+	]
+}

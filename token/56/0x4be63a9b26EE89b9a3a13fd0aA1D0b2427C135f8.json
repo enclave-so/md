@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0x4be63a9b26EE89b9a3a13fd0aA1D0b2427C135f8",
-	"symbol": "XCarnival",
+	"symbol": "XCV",
 	"name": "XCarnival",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x4be63a9b26EE89b9a3a13fd0aA1D0b2427C135f8.png",
 	"coingecko": "xcarnival",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

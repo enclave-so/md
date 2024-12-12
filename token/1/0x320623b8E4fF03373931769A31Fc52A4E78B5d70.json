@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0x320623b8E4fF03373931769A31Fc52A4E78B5d70",
-	"symbol": "Reserve Rights",
+	"symbol": "RSR",
 	"name": "Reserve Rights",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/8365/thumb/RSR_Blue_Circle_1000.png?1721777856",
 	"coingecko": "reserve-rights-token",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

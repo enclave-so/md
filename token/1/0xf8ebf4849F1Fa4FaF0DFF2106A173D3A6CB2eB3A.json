@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xf8ebf4849F1Fa4FaF0DFF2106A173D3A6CB2eB3A",
-	"symbol": "Troll",
+	"symbol": "TROLL",
 	"name": "Troll",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/29897/thumb/TROLL.jpeg?1696528821",
 	"coingecko": "troll",
 	"sources": [
 		"coingecko"

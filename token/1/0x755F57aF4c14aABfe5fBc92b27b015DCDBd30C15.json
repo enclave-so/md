@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x755F57aF4c14aABfe5fBc92b27b015DCDBd30C15",
-	"symbol": "Accord AI",
+	"symbol": "ACCORD",
 	"name": "Accord AI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/39741/thumb/Accord_ai.jpg?1723780240",
 	"coingecko": "accord-ai",
 	"sources": [
 		"coingecko"

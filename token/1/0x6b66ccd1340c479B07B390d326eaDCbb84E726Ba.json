@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0x6b66ccd1340c479B07B390d326eaDCbb84E726Ba",
-	"symbol": "Seamless Protocol",
+	"symbol": "SEAM",
 	"name": "Seamless Protocol",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/33480/thumb/Seamless_Logo_Black_Transparent.png?1702019657",
 	"coingecko": "seamless-protocol",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

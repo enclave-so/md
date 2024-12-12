@@ -4,10 +4,13 @@
 	"symbol": "LDO",
 	"name": "Lido DAO",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x5A98FcBEA516Cf06857215779Fd812CA3beF1B32/logo.png",
+	"logo": "https://assets.coingecko.com/coins/images/13573/thumb/Lido_DAO.png?1609873644",
 	"coingecko": "lido-dao",
 	"sources": [
 		"coingecko",
-		"sushiswap"
+		"indexcoop",
+		"optimism",
+		"sushiswap",
+		"uniswap"
 	]
 }

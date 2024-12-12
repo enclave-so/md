@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x42726d074BBa68Ccc15200442B72Afa2D495A783",
-	"symbol": "Isiklar Coin",
+	"symbol": "ISIKC",
 	"name": "Isiklar Coin",
+	"decimals": 4,
+	"logo": "https://assets.coingecko.com/coins/images/10992/thumb/logo_%2866%29.png?1696510941",
 	"coingecko": "isiklar-coin",
 	"sources": [
 		"coingecko"

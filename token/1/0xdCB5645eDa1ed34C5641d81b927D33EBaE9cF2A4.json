@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xdCB5645eDa1ed34C5641d81b927D33EBaE9cF2A4",
-	"symbol": "PayB",
+	"symbol": "PAYB",
 	"name": "PayB",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/25805/thumb/logo_payb_200_x_200.png?1696524891",
 	"coingecko": "payb",
 	"sources": [
 		"coingecko"

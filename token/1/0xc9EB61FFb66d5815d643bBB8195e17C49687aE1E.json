@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xc9EB61FFb66d5815d643bBB8195e17C49687aE1E",
-	"symbol": "Morpheus Infrastructure Node",
+	"symbol": "MIND",
 	"name": "Morpheus Infrastructure Node",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/3164/thumb/x-avatar.png?1729069128",
 	"coingecko": "morpheus-labs",
 	"sources": [
 		"coingecko"

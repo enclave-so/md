@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xba58444C8050Ed9385b7417533A73644036d21Eb",
-	"symbol": "Lord of Dragons",
+	"symbol": "LOGT",
 	"name": "Lord of Dragons",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/29471/thumb/sym_1000.png?1696528416",
 	"coingecko": "lord-of-dragons",
 	"sources": [
 		"coingecko"

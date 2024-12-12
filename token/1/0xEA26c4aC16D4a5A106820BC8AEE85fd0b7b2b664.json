@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xEA26c4aC16D4a5A106820BC8AEE85fd0b7b2b664",
-	"symbol": "QuarkChain",
+	"symbol": "QKC",
 	"name": "QuarkChain",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/3849/thumb/QuarkChain.jpg?1730964236",
 	"coingecko": "quark-chain",
 	"sources": [
 		"coingecko"

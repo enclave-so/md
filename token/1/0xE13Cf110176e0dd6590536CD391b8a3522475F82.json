@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xE13Cf110176e0dd6590536CD391b8a3522475F82",
-	"symbol": "RentAI",
+	"symbol": "RENT",
 	"name": "RentAI",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/36421/thumb/RENT_TRANSPARENT_200.png?1711428441",
 	"coingecko": "rentai",
 	"sources": [
 		"coingecko"

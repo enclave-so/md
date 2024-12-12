@@ -3,6 +3,8 @@
 	"address": "0x6325Cf7B3b645de6355E37e0e88F6fF0030f9e97",
 	"symbol": "CROW",
 	"name": "CROW",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35968/thumb/Crow.png?1710265161",
 	"coingecko": "night-crows",
 	"sources": [
 		"coingecko"

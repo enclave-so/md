@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x9A594F5ed8D119B73525dfE23aDBCeCa77fD828D",
-	"symbol": "dancing triangle",
+	"symbol": "TRIANGLE",
 	"name": "dancing triangle",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/50941/thumb/pfp-animated_copy.png?1729584483",
 	"coingecko": "dancing-triangle-2",
 	"sources": [
 		"coingecko"

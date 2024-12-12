@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x9ff58067Bd8D239000010c154C6983A325Df138E",
-	"symbol": "Propchain",
+	"symbol": "PROPC",
 	"name": "Propchain",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30451/thumb/prop_%281%29.png?1702322253",
 	"coingecko": "propchain",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xd1A6616F56221A9f27eB9476867b5bDB2B2d101d",
-	"symbol": "Artificial General Intelligence",
+	"symbol": "AGI",
 	"name": "Artificial General Intelligence",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/51509/thumb/Bildschirmfoto_2024-10-19_um_15.19.17.png?1731436067",
 	"coingecko": "artificial-general-intelligence",
 	"sources": [
 		"coingecko"

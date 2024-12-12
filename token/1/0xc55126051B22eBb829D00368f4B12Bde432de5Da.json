@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xc55126051B22eBb829D00368f4B12Bde432de5Da",
-	"symbol": "Redacted",
+	"symbol": "BTRFLY",
 	"name": "Redacted",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/26745/thumb/redacted_v2.jpg?1696525813",
 	"coingecko": "redacted",
 	"sources": [
 		"coingecko"

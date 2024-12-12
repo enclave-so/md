@@ -11,20 +11,10 @@
 	},
 	{
 		"chain": 388,
-		"address": "0x18d40Bd95e34d1a4fcaf9027Db11F6988e5B860A",
-		"symbol": "AgentFun.AI",
-		"name": "AgentFun.AI",
-		"coingecko": "agentfun-ai",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 388,
-		"address": "0xD65E5DbA71231D35A5802bA83dC6cB6746c9758d",
-		"symbol": "Cronos zkEVM Bridged WBTC (Cronos zkEVM)",
-		"name": "Cronos zkEVM Bridged WBTC (Cronos zkEVM)",
-		"coingecko": "cronos-zkevm-bridged-wbtc-cronos-zkevm",
+		"address": "0xaa5b845F8C9c047779bEDf64829601d8B264076c",
+		"symbol": "Cronos zkEVM Bridged USDC (Cronos zkEVM)",
+		"name": "Cronos zkEVM Bridged USDC (Cronos zkEVM)",
+		"coingecko": "cronos-zkevm-bridged-usdc-cronos-zkevm",
 		"sources": [
 			"coingecko"
 		]
@@ -41,20 +31,20 @@
 	},
 	{
 		"chain": 388,
-		"address": "0xb1Ece5b548766215272BAFCfa36396B06Cd9e4C9",
-		"symbol": "Veno Yield Bearing USD",
-		"name": "Veno Yield Bearing USD",
-		"coingecko": "veno-bridged-ybusd",
+		"address": "0x271602A97027ee1dd03b1E6e5dB153eB659A80b1",
+		"symbol": "Veno ETH",
+		"name": "Veno ETH",
+		"coingecko": "veno-eth",
 		"sources": [
 			"coingecko"
 		]
 	},
 	{
 		"chain": 388,
-		"address": "0x271602A97027ee1dd03b1E6e5dB153eB659A80b1",
-		"symbol": "Veno ETH",
-		"name": "Veno ETH",
-		"coingecko": "veno-eth",
+		"address": "0xf226a595b83056ff3D26b827e3d5b0896E4392a9",
+		"symbol": "Veno Yield Bearing ETH",
+		"name": "Veno Yield Bearing ETH",
+		"coingecko": "veno-yield-bearing-eth",
 		"sources": [
 			"coingecko"
 		]
@@ -71,50 +61,10 @@
 	},
 	{
 		"chain": 388,
-		"address": "0xC1bF55EE54E16229d9b369a5502Bfe5fC9F20b6d",
-		"symbol": "Wrapped zkCRO",
-		"name": "Wrapped zkCRO",
-		"coingecko": "wrapped-zkcro",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 388,
-		"address": "0xaa5b845F8C9c047779bEDf64829601d8B264076c",
-		"symbol": "Cronos zkEVM Bridged USDC (Cronos zkEVM)",
-		"name": "Cronos zkEVM Bridged USDC (Cronos zkEVM)",
-		"coingecko": "cronos-zkevm-bridged-usdc-cronos-zkevm",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 388,
-		"address": "0xcaf2fd3f47e7F46E99f74be579b2cc2233f33ef8",
-		"symbol": "H2 Finance",
-		"name": "H2 Finance",
-		"coingecko": "h2",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 388,
-		"address": "0xC80B437c4c0f9C74CFb2e2D063A58ffB4F82D4F0",
-		"symbol": "Moonflow",
-		"name": "Moonflow",
-		"coingecko": "moonflow",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 388,
-		"address": "0x5b91e29Ae5A71d9052620Acb813d5aC25eC7a4A2",
-		"symbol": "Veno USD",
-		"name": "Veno USD",
-		"coingecko": "veno-usd",
+		"address": "0x18d40Bd95e34d1a4fcaf9027Db11F6988e5B860A",
+		"symbol": "AgentFun.AI",
+		"name": "AgentFun.AI",
+		"coingecko": "agentfun-ai",
 		"sources": [
 			"coingecko"
 		]
@@ -141,10 +91,10 @@
 	},
 	{
 		"chain": 388,
-		"address": "0xf226a595b83056ff3D26b827e3d5b0896E4392a9",
-		"symbol": "Veno Yield Bearing ETH",
-		"name": "Veno Yield Bearing ETH",
-		"coingecko": "veno-yield-bearing-eth",
+		"address": "0xb1Ece5b548766215272BAFCfa36396B06Cd9e4C9",
+		"symbol": "Veno Yield Bearing USD",
+		"name": "Veno Yield Bearing USD",
+		"coingecko": "veno-bridged-ybusd",
 		"sources": [
 			"coingecko"
 		]
@@ -155,6 +105,56 @@
 		"symbol": "Cronos zkEVM Bridged CRO (Cronos zkEVM)",
 		"name": "Cronos zkEVM Bridged CRO (Cronos zkEVM)",
 		"coingecko": "cronos-zkevm-bridged-cro-cronos-zkevm",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 388,
+		"address": "0xcaf2fd3f47e7F46E99f74be579b2cc2233f33ef8",
+		"symbol": "H2 Finance",
+		"name": "H2 Finance",
+		"coingecko": "h2",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 388,
+		"address": "0xC80B437c4c0f9C74CFb2e2D063A58ffB4F82D4F0",
+		"symbol": "Moonflow",
+		"name": "Moonflow",
+		"coingecko": "moonflow",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 388,
+		"address": "0xD65E5DbA71231D35A5802bA83dC6cB6746c9758d",
+		"symbol": "Cronos zkEVM Bridged WBTC (Cronos zkEVM)",
+		"name": "Cronos zkEVM Bridged WBTC (Cronos zkEVM)",
+		"coingecko": "cronos-zkevm-bridged-wbtc-cronos-zkevm",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 388,
+		"address": "0x5b91e29Ae5A71d9052620Acb813d5aC25eC7a4A2",
+		"symbol": "Veno USD",
+		"name": "Veno USD",
+		"coingecko": "veno-usd",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 388,
+		"address": "0xC1bF55EE54E16229d9b369a5502Bfe5fC9F20b6d",
+		"symbol": "Wrapped zkCRO",
+		"name": "Wrapped zkCRO",
+		"coingecko": "wrapped-zkcro",
 		"sources": [
 			"coingecko"
 		]

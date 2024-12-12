@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0xffEecbf8D7267757c2dc3d13D730E97E15BfdF7F",
-	"symbol": "BoringDAO",
+	"symbol": "BORING",
 	"name": "BoringDAO",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0xffEecbf8D7267757c2dc3d13D730E97E15BfdF7F.png",
 	"coingecko": "boringdao",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

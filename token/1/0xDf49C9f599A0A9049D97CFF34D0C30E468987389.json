@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xDf49C9f599A0A9049D97CFF34D0C30E468987389",
-	"symbol": "SaTT",
+	"symbol": "SATT",
 	"name": "SaTT",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/4070/thumb/r3s9XKk.png?1696504702",
 	"coingecko": "satt",
 	"sources": [
 		"coingecko"

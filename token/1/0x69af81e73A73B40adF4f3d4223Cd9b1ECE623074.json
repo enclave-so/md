@@ -4,10 +4,12 @@
 	"symbol": "MASK",
 	"name": "Mask Network",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x69af81e73A73B40adF4f3d4223Cd9b1ECE623074/logo.png",
+	"logo": "https://assets.coingecko.com/coins/images/14051/thumb/Mask_Network.jpg?1614050316",
 	"coingecko": "mask-network",
 	"sources": [
 		"coingecko",
-		"sushiswap"
+		"optimism",
+		"sushiswap",
+		"uniswap"
 	]
 }

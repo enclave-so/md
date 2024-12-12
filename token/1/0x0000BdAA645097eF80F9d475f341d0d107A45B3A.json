@@ -3,6 +3,8 @@
 	"address": "0x0000BdAA645097eF80F9d475f341d0d107A45B3A",
 	"symbol": "BRAINLET",
 	"name": "BRAINLET",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/39255/thumb/Projekt_bez_nazwy%2835%29.png?1721326478",
 	"coingecko": "brainlet",
 	"sources": [
 		"coingecko"

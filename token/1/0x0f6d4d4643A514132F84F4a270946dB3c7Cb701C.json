@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x0f6d4d4643A514132F84F4a270946dB3c7Cb701C",
-	"symbol": "Lovely Inu Finance",
+	"symbol": "LOVELY",
 	"name": "Lovely Inu Finance",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/19053/thumb/lovely-inu-logo-new.png?1696518503",
 	"coingecko": "lovely-inu-finance",
 	"sources": [
 		"coingecko"

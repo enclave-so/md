@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x004E9C3EF86bc1ca1f0bB5C7662861Ee93350568",
-	"symbol": "Universal BTC",
+	"symbol": "UNIBTC",
 	"name": "Universal BTC",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/39599/thumb/uniBTC_200px.png?1723064455",
 	"coingecko": "universal-btc",
 	"sources": [
 		"coingecko"

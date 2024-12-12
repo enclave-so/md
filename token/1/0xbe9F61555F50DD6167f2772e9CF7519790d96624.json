@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xbe9F61555F50DD6167f2772e9CF7519790d96624",
-	"symbol": "SX Network",
+	"symbol": "SX",
 	"name": "SX Network",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/34934/thumb/sx-ntework.jpeg?1706699134",
 	"coingecko": "sx-network-2",
 	"sources": [
 		"coingecko"

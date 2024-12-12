@@ -4,10 +4,12 @@
 	"symbol": "AMP",
 	"name": "Amp",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/amp.jpg",
+	"logo": "https://assets.coingecko.com/coins/images/12409/thumb/amp-200x200.png?1599625397",
 	"coingecko": "amp-token",
 	"sources": [
 		"coingecko",
-		"sushiswap"
+		"optimism",
+		"sushiswap",
+		"uniswap"
 	]
 }

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x6d60A8dFb16D09F67D46fcd36A0Cd310078257ca",
-	"symbol": "Centurion Invest",
+	"symbol": "CIX",
 	"name": "Centurion Invest",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/28483/thumb/PHOTO-2022-05-27-11-34-42.jpg?1696527476",
 	"coingecko": "centurion-invest",
 	"sources": [
 		"coingecko"

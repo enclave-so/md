@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xf0610eb7d8EE12D59412DA32625d5e273E78FF0b",
-	"symbol": "MasterDEX",
+	"symbol": "MDEX",
 	"name": "MasterDEX",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/32311/thumb/MASTERDEX_logo-02_%282%29.png?1697188983",
 	"coingecko": "masterdex",
 	"sources": [
 		"coingecko"

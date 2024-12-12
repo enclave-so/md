@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x2fb652314C3d850E9049057bBE9813F1eEe882d3",
-	"symbol": "RocketX Exchange",
+	"symbol": "RVF",
 	"name": "RocketX Exchange",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14728/thumb/RocketX.png?1731506757",
 	"coingecko": "rocketx",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x77776b40C3d75cb07ce54dEA4b2Fd1D07F865222",
-	"symbol": "BounceBit USD",
+	"symbol": "BBUSD",
 	"name": "BounceBit USD",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/37931/thumb/bbusd_icon.png?1715939661",
 	"coingecko": "bouncebit-usd",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xD6c67B93a7b248dF608a653d82a100556144c5DA",
-	"symbol": "ExNetwork",
+	"symbol": "EXNT",
 	"name": "ExNetwork",
+	"decimals": 16,
+	"logo": "https://assets.coingecko.com/coins/images/12328/thumb/exnt_logo.png?1696512156",
 	"coingecko": "exnetwork-token",
 	"sources": [
 		"coingecko"

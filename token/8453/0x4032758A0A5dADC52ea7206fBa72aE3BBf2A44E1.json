@@ -1,0 +1,11 @@
+{
+	"chain": 8453,
+	"address": "0x4032758A0A5dADC52ea7206fBa72aE3BBf2A44E1",
+	"symbol": "GIGACHAD",
+	"name": "GigaChad",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/GIGACHAD/logo.png",
+	"sources": [
+		"optimism"
+	]
+}

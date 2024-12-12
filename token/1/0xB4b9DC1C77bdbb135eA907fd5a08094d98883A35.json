@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xB4b9DC1C77bdbb135eA907fd5a08094d98883A35",
-	"symbol": "Sweat Economy",
+	"symbol": "SWEAT",
 	"name": "Sweat Economy",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/25057/thumb/fhD9Xs16_400x400.jpg?1696524208",
 	"coingecko": "sweatcoin",
 	"sources": [
 		"coingecko"

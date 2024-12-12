@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xE9b7B5D5e8d2BCC78884F9F9099bfA42A9e5c1A5",
-	"symbol": "Zenland",
+	"symbol": "ZENF",
 	"name": "Zenland",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/29477/thumb/tokenicon200px.png?1696528421",
 	"coingecko": "zenland",
 	"sources": [
 		"coingecko"

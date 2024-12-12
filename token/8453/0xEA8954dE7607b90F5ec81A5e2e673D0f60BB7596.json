@@ -1,0 +1,11 @@
+{
+	"chain": 8453,
+	"address": "0xEA8954dE7607b90F5ec81A5e2e673D0f60BB7596",
+	"symbol": "MVI",
+	"name": "Metaverse Index",
+	"decimals": 18,
+	"logo": "https://cdn.indexcoop.com/mvi.svg",
+	"sources": [
+		"indexcoop"
+	]
+}

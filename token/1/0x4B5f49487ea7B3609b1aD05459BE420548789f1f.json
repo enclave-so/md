@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x4B5f49487ea7B3609b1aD05459BE420548789f1f",
-	"symbol": "LeverFi",
+	"symbol": "LEVER",
 	"name": "LeverFi",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/26205/thumb/WI72SpBl_400x400.jpeg?1696525291",
 	"coingecko": "lever",
 	"sources": [
 		"coingecko"

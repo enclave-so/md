@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x26EbB8213fb8D66156F1Af8908d43f7e3e367C1d",
-	"symbol": "Retik Finance",
+	"symbol": "RETIK",
 	"name": "Retik Finance",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/34450/thumb/round200x200.png?1704900125",
 	"coingecko": "retik-finance",
 	"sources": [
 		"coingecko"

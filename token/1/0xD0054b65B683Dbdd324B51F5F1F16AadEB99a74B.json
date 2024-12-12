@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xD0054b65B683Dbdd324B51F5F1F16AadEB99a74B",
-	"symbol": "Hemera",
+	"symbol": "HEM",
 	"name": "Hemera",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/39961/thumb/IMG_6095.jpeg?1724908383",
 	"coingecko": "hemera",
 	"sources": [
 		"coingecko"

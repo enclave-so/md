@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x46b2a4075420bDb6Fe643075748487B27f354390",
-	"symbol": "Bitgrok AI",
+	"symbol": "BGAI",
 	"name": "Bitgrok AI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/38536/thumb/200x200.png?1717829356",
 	"coingecko": "bitgrok-ai",
 	"sources": [
 		"coingecko"

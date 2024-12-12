@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x878fCC2bdccCFf8c56812607b9a58F29b274C4f0",
-	"symbol": "Derp Coin",
+	"symbol": "DERP",
 	"name": "Derp Coin",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30262/thumb/logo-200x200-transparent.png?1696529170",
 	"coingecko": "derp-coin",
 	"sources": [
 		"coingecko"

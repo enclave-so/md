@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xbAbE3ce7835665464228dF00B03246115C30730A",
-	"symbol": "Baby Neiro Token",
+	"symbol": "BABYNEIRO",
 	"name": "Baby Neiro Token",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/50622/thumb/babyneirologo2_%282%29.jpg?1728495006",
 	"coingecko": "baby-neiro-token",
 	"sources": [
 		"coingecko"

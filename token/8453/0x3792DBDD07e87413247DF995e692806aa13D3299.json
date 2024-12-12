@@ -1,10 +1,13 @@
 {
 	"chain": 8453,
 	"address": "0x3792DBDD07e87413247DF995e692806aa13D3299",
-	"symbol": "ECOMI",
-	"name": "ECOMI",
+	"symbol": "OMI",
+	"name": "OMI Token",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/OMI/logo.svg",
 	"coingecko": "ecomi",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

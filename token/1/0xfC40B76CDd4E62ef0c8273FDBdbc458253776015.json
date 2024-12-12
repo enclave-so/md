@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xfC40B76CDd4E62ef0c8273FDBdbc458253776015",
-	"symbol": "PEAR AI",
+	"symbol": "PEAR",
 	"name": "PEAR AI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/52461/thumb/IMG_20241204_130503_398.jpg?1733401240",
 	"coingecko": "pear-ai",
 	"sources": [
 		"coingecko"

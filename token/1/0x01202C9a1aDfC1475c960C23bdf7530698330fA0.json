@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x01202C9a1aDfC1475c960C23bdf7530698330fA0",
-	"symbol": "Judge AI",
+	"symbol": "JUDGE",
 	"name": "Judge AI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/34959/thumb/4MUdYI7V_200x200.jpg?1706774333",
 	"coingecko": "judge-ai",
 	"sources": [
 		"coingecko"

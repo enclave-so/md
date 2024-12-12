@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x42069026EAC8Eee0Fd9b5f7aDFa4f6E6D69a2B39",
-	"symbol": "MSTR2100",
+	"symbol": "MSTR",
 	"name": "MSTR2100",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/50600/thumb/MSTR2100.png?1728446322",
 	"coingecko": "mstr2100",
 	"sources": [
 		"coingecko"

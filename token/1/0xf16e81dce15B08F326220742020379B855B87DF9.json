@@ -2,9 +2,9 @@
 	"chain": 1,
 	"address": "0xf16e81dce15B08F326220742020379B855B87DF9",
 	"symbol": "ICE",
-	"name": "IceToken",
+	"name": "Popsicle Finance",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/ice.jpg",
+	"logo": "https://assets.coingecko.com/coins/images/14586/thumb/ice.png?1696514266",
 	"coingecko": "ice-token",
 	"sources": [
 		"coingecko",

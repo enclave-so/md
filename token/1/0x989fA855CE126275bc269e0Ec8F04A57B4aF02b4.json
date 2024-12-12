@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x989fA855CE126275bc269e0Ec8F04A57B4aF02b4",
-	"symbol": "Trailblaze",
+	"symbol": "XBLAZE",
 	"name": "Trailblaze",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/36742/thumb/New_Project.jpg?1712211985",
 	"coingecko": "trailblaze",
 	"sources": [
 		"coingecko"

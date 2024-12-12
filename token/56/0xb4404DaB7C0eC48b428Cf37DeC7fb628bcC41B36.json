@@ -1,0 +1,11 @@
+{
+	"chain": 56,
+	"address": "0xb4404DaB7C0eC48b428Cf37DeC7fb628bcC41B36",
+	"symbol": "GEAR",
+	"name": "MetaGear Token",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0xb4404DaB7C0eC48b428Cf37DeC7fb628bcC41B36.png",
+	"sources": [
+		"pancakeswap"
+	]
+}

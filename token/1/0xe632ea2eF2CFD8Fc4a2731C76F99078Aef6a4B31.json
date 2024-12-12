@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0xe632ea2eF2CFD8Fc4a2731C76F99078Aef6a4B31",
-	"symbol": "THX Network",
+	"symbol": "THX",
 	"name": "THX Network",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/21323/thumb/logo-thx-resized-200-200.png?1696520690",
 	"coingecko": "thx-network",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

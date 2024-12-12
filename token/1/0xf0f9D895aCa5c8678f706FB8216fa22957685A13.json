@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xf0f9D895aCa5c8678f706FB8216fa22957685A13",
-	"symbol": "Cult DAO",
+	"symbol": "CULT",
 	"name": "Cult DAO",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/23331/thumb/quxZPrbC_400x400.jpg?1696522547",
 	"coingecko": "cult-dao",
 	"sources": [
 		"coingecko"

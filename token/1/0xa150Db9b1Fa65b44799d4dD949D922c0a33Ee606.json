@@ -1,8 +1,9 @@
 {
 	"chain": 1,
 	"address": "0xa150Db9b1Fa65b44799d4dD949D922c0a33Ee606",
-	"symbol": "Digital Reserve Currency",
+	"symbol": "DRC",
 	"name": "Digital Reserve Currency",
+	"logo": "https://assets.coingecko.com/coins/images/12802/thumb/DRC_Logo.jpg?1696512595",
 	"coingecko": "digital-reserve-currency",
 	"sources": [
 		"coingecko"

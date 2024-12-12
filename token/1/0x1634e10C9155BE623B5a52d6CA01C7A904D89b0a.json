@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x1634e10C9155BE623B5a52d6CA01C7A904D89b0a",
-	"symbol": "This Is Fine - Ethereum",
-	"name": "This Is Fine - Ethereum",
+	"symbol": "FINE",
+	"name": "This Is Fine   Ethereum",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/50699/thumb/This_Is_Fine.png?1728784353",
 	"coingecko": "this-is-fine-ethereum",
 	"sources": [
 		"coingecko"

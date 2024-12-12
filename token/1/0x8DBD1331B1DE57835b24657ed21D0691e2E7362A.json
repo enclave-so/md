@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x8DBD1331B1DE57835b24657ed21D0691e2E7362A",
-	"symbol": "SentimentAI",
+	"symbol": "SENT",
 	"name": "SentimentAI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/34817/thumb/sentlogo.jpg?1706175707",
 	"coingecko": "sentimentai",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xE7C6BF469e97eEB0bFB74C8dbFF5BD47D4C1C98a",
-	"symbol": "HashKey Platform Token",
+	"symbol": "HSK",
 	"name": "HashKey Platform Token",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/29779/thumb/HSKlogo.jpg?1719445510",
 	"coingecko": "hashkey-ecopoints",
 	"sources": [
 		"coingecko"

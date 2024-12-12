@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xa0769f7A8fC65e47dE93797b4e21C073c117Fc80",
-	"symbol": "Spiko EU T-Bills Money Market Fund",
-	"name": "Spiko EU T-Bills Money Market Fund",
+	"symbol": "EUTBL",
+	"name": "Spiko EU T Bills Money Market Fund",
+	"decimals": 5,
+	"logo": "https://assets.coingecko.com/coins/images/39657/thumb/EUTBL.png?1723517425",
 	"coingecko": "eutbl",
 	"sources": [
 		"coingecko"

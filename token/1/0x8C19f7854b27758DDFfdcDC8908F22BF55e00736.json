@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x8C19f7854b27758DDFfdcDC8908F22BF55e00736",
-	"symbol": "YieldStone",
+	"symbol": "YIELD",
 	"name": "YieldStone",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/38766/thumb/CoinGecko_Logo.png?1718763237",
 	"coingecko": "yieldstone",
 	"sources": [
 		"coingecko"

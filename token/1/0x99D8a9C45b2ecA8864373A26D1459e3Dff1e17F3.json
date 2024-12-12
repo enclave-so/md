@@ -4,10 +4,11 @@
 	"symbol": "MIM",
 	"name": "Magic Internet Money",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/mim.jpg",
+	"logo": "https://assets.coingecko.com/coins/images/16786/thumb/mimlogopng.png?1624979612",
 	"coingecko": "magic-internet-money",
 	"sources": [
 		"coingecko",
-		"sushiswap"
+		"sushiswap",
+		"uniswap"
 	]
 }

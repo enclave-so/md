@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x179f782d7FBE745f40b20e0c7dbB6205D43Fa4B9",
-	"symbol": "Inspire AI",
+	"symbol": "INSP",
 	"name": "Inspire AI",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/35540/thumb/VJwHPSjF_200x200.jpg?1709092810",
 	"coingecko": "inspire-ai",
 	"sources": [
 		"coingecko"

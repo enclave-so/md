@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x9138C8779A0Ac8a84D69617D5715BD8AFa23C650",
-	"symbol": "Floor Cheese Burger",
+	"symbol": "FLRBRG",
 	"name": "Floor Cheese Burger",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31526/thumb/YvPr4oRZ_400x400.jpg?1696530335",
 	"coingecko": "floor-cheese-burger",
 	"sources": [
 		"coingecko"

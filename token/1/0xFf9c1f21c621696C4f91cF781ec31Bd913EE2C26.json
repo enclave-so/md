@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xFf9c1f21c621696C4f91cF781ec31Bd913EE2C26",
-	"symbol": ".com (Ordinals)",
-	"name": ".com (Ordinals)",
+	"symbol": "COM",
+	"name": " com  Ordinals ",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/33700/thumb/com200.jpg?1702823408",
 	"coingecko": "com-ordinals",
 	"sources": [
 		"coingecko"

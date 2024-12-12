@@ -1,0 +1,11 @@
+{
+	"chain": 56,
+	"address": "0xB64E638E60D154B43f660a6BF8fD8a3b249a6a21",
+	"symbol": "WAULTx",
+	"name": "Wault",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0xB64E638E60D154B43f660a6BF8fD8a3b249a6a21.png",
+	"sources": [
+		"pancakeswap"
+	]
+}

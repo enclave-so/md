@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x8d65a2eaBDE4B31cbD7E43F27E47559d1CCec86c",
-	"symbol": "Xeon Protocol",
+	"symbol": "XEON",
 	"name": "Xeon Protocol",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/38877/thumb/xeon-color-logo-black-bg-200x200.png?1719337798",
 	"coingecko": "xeon-protocol",
 	"sources": [
 		"coingecko"

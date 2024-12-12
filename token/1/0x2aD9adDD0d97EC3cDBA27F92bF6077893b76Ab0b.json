@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x2aD9adDD0d97EC3cDBA27F92bF6077893b76Ab0b",
-	"symbol": "Planet Token",
+	"symbol": "PLANET",
 	"name": "Planet Token",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30767/thumb/Logo-Planet.png?1696529635",
 	"coingecko": "planet-token",
 	"sources": [
 		"coingecko"

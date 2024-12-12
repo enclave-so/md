@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xc4B7aF50644c661e270FBb8da770049C9FC0bBE1",
-	"symbol": "Gelios",
+	"symbol": "GOS",
 	"name": "Gelios",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/2324/thumb/Gelios_Coingecko.png?1711380304",
 	"coingecko": "gelios",
 	"sources": [
 		"coingecko"

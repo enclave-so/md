@@ -2,9 +2,9 @@
 	"chain": 1,
 	"address": "0x9EA3b5b4EC044b70375236A281986106457b20EF",
 	"symbol": "DELTA",
-	"name": "DELTA",
+	"name": "Delta Financial",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x9EA3b5b4EC044b70375236A281986106457b20EF/logo.png",
+	"logo": "https://assets.coingecko.com/coins/images/14564/thumb/Delta_logo.png?1696514246",
 	"coingecko": "delta-financial",
 	"sources": [
 		"coingecko",

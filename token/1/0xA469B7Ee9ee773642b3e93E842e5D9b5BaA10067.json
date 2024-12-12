@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xA469B7Ee9ee773642b3e93E842e5D9b5BaA10067",
-	"symbol": "Anzen USDz",
+	"symbol": "USDZ",
 	"name": "Anzen USDz",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/38039/thumb/usdz-image-200x200.png?1716334412",
 	"coingecko": "anzen-usdz",
 	"sources": [
 		"coingecko"

@@ -3,6 +3,8 @@
 	"address": "0xc8388e437031B09B2c61FC4277469091382A1B13",
 	"symbol": "SHOG",
 	"name": "SHOG",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/39328/thumb/149291639.png?1721742924",
 	"coingecko": "shog",
 	"sources": [
 		"coingecko"

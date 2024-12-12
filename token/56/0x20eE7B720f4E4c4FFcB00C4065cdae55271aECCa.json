@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0x20eE7B720f4E4c4FFcB00C4065cdae55271aECCa",
-	"symbol": "APENFT",
+	"symbol": "NFT",
 	"name": "APENFT",
+	"decimals": 6,
+	"logo": "https://tokens.pancakeswap.finance/images/0x20eE7B720f4E4c4FFcB00C4065cdae55271aECCa.png",
 	"coingecko": "apenft",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

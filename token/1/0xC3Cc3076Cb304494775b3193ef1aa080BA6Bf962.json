@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xC3Cc3076Cb304494775b3193ef1aa080BA6Bf962",
-	"symbol": "OrdiGen",
+	"symbol": "ODGN",
 	"name": "OrdiGen",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/34881/thumb/ODGN.jpg?1706499113",
 	"coingecko": "ordigen",
 	"sources": [
 		"coingecko"

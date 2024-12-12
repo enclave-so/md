@@ -3,6 +3,8 @@
 	"address": "0xD22a61e8503Bea5842e5e0126ca9fFC4dd492084",
 	"symbol": "Strawberry Elephant",
 	"name": "Strawberry Elephant",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31819/thumb/photo_2023-09-15_23-44-10.jpg?1696530633",
 	"coingecko": "strawberry-elephant",
 	"sources": [
 		"coingecko"

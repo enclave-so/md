@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x94b2D91aa89BA30f2E080205C14E83fcdeE310DD",
-	"symbol": "World Earn \u0026 Play Community",
-	"name": "World Earn \u0026 Play Community",
+	"symbol": "WEPC",
+	"name": "World Earn   Play Community",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/50209/thumb/200_200_logo.png?1726396076",
 	"coingecko": "world-earn-play-community",
 	"sources": [
 		"coingecko"

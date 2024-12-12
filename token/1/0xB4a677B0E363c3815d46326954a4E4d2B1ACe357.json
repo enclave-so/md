@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xB4a677B0E363c3815d46326954a4E4d2B1ACe357",
-	"symbol": "THENODE",
+	"symbol": "THE",
 	"name": "THENODE",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/10292/thumb/thenode_logo.png?1696510297",
 	"coingecko": "the-node",
 	"sources": [
 		"coingecko"

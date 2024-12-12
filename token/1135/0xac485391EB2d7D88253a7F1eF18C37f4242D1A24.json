@@ -1,10 +1,13 @@
 {
 	"chain": 1135,
 	"address": "0xac485391EB2d7D88253a7F1eF18C37f4242D1A24",
-	"symbol": "Lisk",
+	"symbol": "LSK",
 	"name": "Lisk",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/LSK/logo.svg",
 	"coingecko": "lisk",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

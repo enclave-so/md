@@ -1,0 +1,11 @@
+{
+	"chain": 42161,
+	"address": "0x84F5c2cFba754E76DD5aE4fB369CfC920425E12b",
+	"symbol": "CTX",
+	"name": "Cryptex Finance",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14932/thumb/glossy_icon_-_C200px.png?1619073171",
+	"sources": [
+		"uniswap"
+	]
+}

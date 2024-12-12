@@ -1,10 +1,13 @@
 {
 	"chain": 10,
 	"address": "0x929B939f8524c3Be977af57A4A0aD3fb1E374b50",
-	"symbol": "mStable Governance: Meta",
-	"name": "mStable Governance: Meta",
+	"symbol": "MTA",
+	"name": "Meta",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/MTA/logo.svg",
 	"coingecko": "meta",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

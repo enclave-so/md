@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x41C21693e60FC1a5dBb7c50e54E7A6016aA44C99",
-	"symbol": "SO-COL",
-	"name": "SO-COL",
+	"symbol": "SIMP",
+	"name": "SO COL",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/28760/thumb/Frame_427318605.png?1696527739",
 	"coingecko": "socol",
 	"sources": [
 		"coingecko"

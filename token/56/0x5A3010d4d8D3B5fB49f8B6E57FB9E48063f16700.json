@@ -2,9 +2,12 @@
 	"chain": 56,
 	"address": "0x5A3010d4d8D3B5fB49f8B6E57FB9E48063f16700",
 	"symbol": "BSCPAD",
-	"name": "BSCPAD",
+	"name": "BSCPad",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x5A3010d4d8D3B5fB49f8B6E57FB9E48063f16700.png",
 	"coingecko": "bscpad",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

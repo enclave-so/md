@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x159A1dFAe19057de57dFfFcbB3DA1aE784678965",
-	"symbol": "Reflex",
+	"symbol": "RFX",
 	"name": "Reflex",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/12745/thumb/2MKGMRCT_400x400.png?1696512543",
 	"coingecko": "reflex",
 	"sources": [
 		"coingecko"

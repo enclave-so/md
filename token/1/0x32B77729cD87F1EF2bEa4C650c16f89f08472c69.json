@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x32B77729cD87F1EF2bEa4C650c16f89f08472c69",
-	"symbol": "DeBox",
+	"symbol": "BOX",
 	"name": "DeBox",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/50224/thumb/v6TSd2dN_400x400.jpg?1726521525",
 	"coingecko": "debox",
 	"sources": [
 		"coingecko"

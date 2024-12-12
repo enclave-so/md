@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0x2B5D9ADea07B590b638FFc165792b2C610EdA649",
-	"symbol": "Cakepie",
+	"symbol": "CKP",
 	"name": "Cakepie",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x2B5D9ADea07B590b638FFc165792b2C610EdA649.png",
 	"coingecko": "cakepie-xyz",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

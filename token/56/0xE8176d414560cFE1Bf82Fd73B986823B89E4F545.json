@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0xE8176d414560cFE1Bf82Fd73B986823B89E4F545",
-	"symbol": "Step Hero",
-	"name": "Step Hero",
+	"symbol": "HERO",
+	"name": "StepHero",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0xE8176d414560cFE1Bf82Fd73B986823B89E4F545.png",
 	"coingecko": "step-hero",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

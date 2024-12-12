@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xa1817B6d8D890F3943b61648992730373B71f156",
-	"symbol": "Mongoose",
+	"symbol": "MONGOOSE",
 	"name": "Mongoose",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/21456/thumb/61b142508fba4235f29d57eb_Frame_24_%281%29.png?1696520818",
 	"coingecko": "mongoose",
 	"sources": [
 		"coingecko"

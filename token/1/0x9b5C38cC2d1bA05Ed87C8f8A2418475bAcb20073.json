@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x9b5C38cC2d1bA05Ed87C8f8A2418475bAcb20073",
-	"symbol": "Vector Space Biosciences, Inc.",
-	"name": "Vector Space Biosciences, Inc.",
+	"symbol": "SBIO",
+	"name": "Vector Space Biosciences  Inc ",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31837/thumb/Hex.png?1696530651",
 	"coingecko": "vector-space-biosciences-inc",
 	"sources": [
 		"coingecko"

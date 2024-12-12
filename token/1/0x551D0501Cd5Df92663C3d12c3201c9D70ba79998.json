@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x551D0501Cd5Df92663C3d12c3201c9D70ba79998",
-	"symbol": "All Your Base",
+	"symbol": "YOBASE",
 	"name": "All Your Base",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/33595/thumb/Group_48095820logo_cmc.png?1702476376",
 	"coingecko": "all-your-base",
 	"sources": [
 		"coingecko"

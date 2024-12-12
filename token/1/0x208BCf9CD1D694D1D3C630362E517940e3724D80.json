@@ -3,6 +3,8 @@
 	"address": "0x208BCf9CD1D694D1D3C630362E517940e3724D80",
 	"symbol": "ORACLE",
 	"name": "ORACLE",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/32234/thumb/qlasify_%281%29.jpg?1696936966",
 	"coingecko": "oracle-2",
 	"sources": [
 		"coingecko"

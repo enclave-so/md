@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xfC385A1dF85660a7e041423DB512f779070FCede",
-	"symbol": "zkLink",
+	"symbol": "ZKL",
 	"name": "zkLink",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/34982/thumb/Logo1.png?1714980729",
 	"coingecko": "zklink",
 	"sources": [
 		"coingecko"

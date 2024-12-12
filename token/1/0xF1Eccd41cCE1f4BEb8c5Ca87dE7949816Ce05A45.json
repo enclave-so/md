@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xF1Eccd41cCE1f4BEb8c5Ca87dE7949816Ce05A45",
-	"symbol": "Mock Capital",
+	"symbol": "MOCK",
 	"name": "Mock Capital",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/50415/thumb/rsz_img_20240928_020103_164.jpg?1727678379",
 	"coingecko": "mock-capital",
 	"sources": [
 		"coingecko"

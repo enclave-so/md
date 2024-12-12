@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x80D55c03180349Fff4a229102F62328220A96444",
-	"symbol": "Opulous",
+	"symbol": "OPUL",
 	"name": "Opulous",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/16548/thumb/opulous.PNG?1696516110",
 	"coingecko": "opulous",
 	"sources": [
 		"coingecko"

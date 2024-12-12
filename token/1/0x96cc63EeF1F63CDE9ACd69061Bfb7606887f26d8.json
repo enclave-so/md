@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x96cc63EeF1F63CDE9ACd69061Bfb7606887f26d8",
-	"symbol": "Basketballverse",
+	"symbol": "BVR",
 	"name": "Basketballverse",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/50190/thumb/160x160_BVR_token.png?1726206107",
 	"coingecko": "basketballverse-2",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xbDcD291C32e06bBf2d7B1fFc823959E3258E3583",
-	"symbol": "WASD Studios",
+	"symbol": "WASD",
 	"name": "WASD Studios",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/36442/thumb/logo200.png?1711440765",
 	"coingecko": "wasd-studios",
 	"sources": [
 		"coingecko"

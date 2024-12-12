@@ -3,6 +3,8 @@
 	"address": "0xc033f6932f71c6ff1DE3177F90dfF24B70E50618",
 	"symbol": "SANDY",
 	"name": "SANDY",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/37196/thumb/photo_2024-04-16_15-20-28.jpg?1713677445",
 	"coingecko": "sandy",
 	"sources": [
 		"coingecko"

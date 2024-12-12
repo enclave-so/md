@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x0352557B007A4Aae1511C114409b932F06F9E2f4",
-	"symbol": "sRUNE",
+	"symbol": "SRUNE",
 	"name": "sRUNE",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14953/thumb/sRUNE.png?1696514611",
 	"coingecko": "srune",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xC237868a9c5729bdF3173dDDacaa336a0a5BB6e0",
-	"symbol": "Wagerr",
+	"symbol": "WGR",
 	"name": "Wagerr",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/759/thumb/syGKmAT.png?1696501912",
 	"coingecko": "wagerr",
 	"sources": [
 		"coingecko"

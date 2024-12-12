@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x2a961D752eAa791CBfF05991e4613290Aec0D9AC",
-	"symbol": "Patton",
+	"symbol": "PATTON",
 	"name": "Patton",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/37755/thumb/PATOON200.jpg?1715446479",
 	"coingecko": "patton",
 	"sources": [
 		"coingecko"

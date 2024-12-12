@@ -1,0 +1,11 @@
+{
+	"chain": 8453,
+	"address": "0x37f0c2915CeCC7e977183B8543Fc0864d03E064C",
+	"symbol": "HUNT",
+	"name": "HuntToken",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/HUNT/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

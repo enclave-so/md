@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x04C46E830Bb56ce22735d5d8Fc9CB90309317d0f",
-	"symbol": "Ekubo Protocol",
+	"symbol": "EKUBO",
 	"name": "Ekubo Protocol",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/37715/thumb/135474885.png?1715330450",
 	"coingecko": "ekubo-protocol",
 	"sources": [
 		"coingecko"

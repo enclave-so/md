@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xD7B2C1a7F3c67fB0EA57a7ef29bC1F18D7bE3195",
-	"symbol": "VoluMint",
+	"symbol": "VMINT",
 	"name": "VoluMint",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/33745/thumb/volumint_200x200px_clearbg.png?1702924153",
 	"coingecko": "volumint",
 	"sources": [
 		"coingecko"

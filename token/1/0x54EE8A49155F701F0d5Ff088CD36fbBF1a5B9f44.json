@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0x54EE8A49155F701F0d5Ff088CD36fbBF1a5B9f44",
+	"symbol": "icUSD",
+	"name": "The USDC Yield Index",
+	"decimals": 18,
+	"logo": "https://cdn.indexcoop.com/icusd.svg",
+	"sources": [
+		"indexcoop"
+	]
+}

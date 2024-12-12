@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x77EbCf0659BBf4e68d8ce6D84bb25c5CdE207b97",
-	"symbol": "MOOxMOO",
+	"symbol": "MOOX",
 	"name": "MOOxMOO",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/32493/thumb/MOOX.jpg?1698293551",
 	"coingecko": "mooxmoo",
 	"sources": [
 		"coingecko"

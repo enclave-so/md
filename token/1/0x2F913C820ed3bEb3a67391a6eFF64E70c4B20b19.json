@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x2F913C820ed3bEb3a67391a6eFF64E70c4B20b19",
-	"symbol": "Merlin's Seal BTC",
-	"name": "Merlin's Seal BTC",
+	"symbol": "M-BTC",
+	"name": "Merlin s Seal BTC",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/36566/thumb/photo_2024-03-25_22-04-42.jpg?1711936162",
 	"coingecko": "merlin-s-seal-btc",
 	"sources": [
 		"coingecko"

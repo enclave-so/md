@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x6b785a0322126826d8226d77e173d75DAfb84d11",
-	"symbol": "Bankroll Vault",
+	"symbol": "VLT",
 	"name": "Bankroll Vault",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/11638/thumb/vlt-200.png?1696511531",
 	"coingecko": "bankroll-vault",
 	"sources": [
 		"coingecko"

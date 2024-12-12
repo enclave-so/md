@@ -1,0 +1,11 @@
+{
+	"chain": 8453,
+	"address": "0x2578CDD1603A5a7Db9DF46998d2E13d0e51db527",
+	"symbol": "SALD",
+	"name": "Salad",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/SALD/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

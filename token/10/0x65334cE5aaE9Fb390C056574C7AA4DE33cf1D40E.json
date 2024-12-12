@@ -1,0 +1,11 @@
+{
+	"chain": 10,
+	"address": "0x65334cE5aaE9Fb390C056574C7AA4DE33cf1D40E",
+	"symbol": "BRIGHT",
+	"name": "Bright",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/BRIGHT/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

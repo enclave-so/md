@@ -2,9 +2,9 @@
 	"chain": 1,
 	"address": "0x7cA4408137eb639570F8E647d9bD7B7E8717514A",
 	"symbol": "ALPA",
-	"name": "Alpaca",
+	"name": "Alpaca City",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x7cA4408137eb639570F8E647d9bD7B7E8717514A/logo.png",
+	"logo": "https://assets.coingecko.com/coins/images/13070/thumb/alpaca_logo.png?1696512859",
 	"coingecko": "alpaca",
 	"sources": [
 		"coingecko",

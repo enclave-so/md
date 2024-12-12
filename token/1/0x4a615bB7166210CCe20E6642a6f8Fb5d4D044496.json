@@ -2,9 +2,9 @@
 	"chain": 1,
 	"address": "0x4a615bB7166210CCe20E6642a6f8Fb5d4D044496",
 	"symbol": "NAOS",
-	"name": "NaosToken",
+	"name": "NAOS Finance",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x4a615bB7166210CCe20E6642a6f8Fb5d4D044496/logo.png",
+	"logo": "https://assets.coingecko.com/coins/images/15144/thumb/bafybeibkztkshitabrf7yqqkqtbjqestjknpgv7lsjfzdsa3ufspagqs2e.ipfs.infura-ipfs.io.png?1696514800",
 	"coingecko": "naos-finance",
 	"sources": [
 		"coingecko",

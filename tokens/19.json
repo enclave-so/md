@@ -1,6 +1,16 @@
 [
 	{
 		"chain": 19,
+		"address": "0xC348F894d0E939FE72c467156E6d7DcbD6f16e21",
+		"symbol": "Flare Finance",
+		"name": "Flare Finance",
+		"coingecko": "flare-finance",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 19,
 		"address": "0x4A771Cc1a39FDd8AA08B8EA51F7Fd412e73B3d2B",
 		"symbol": "Hex Trust USD",
 		"name": "Hex Trust USD",
@@ -65,16 +75,6 @@
 		"symbol": "Wrapped Songbird",
 		"name": "Wrapped Songbird",
 		"coingecko": "wrapped-songbird",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 19,
-		"address": "0xC348F894d0E939FE72c467156E6d7DcbD6f16e21",
-		"symbol": "Flare Finance",
-		"name": "Flare Finance",
-		"coingecko": "flare-finance",
 		"sources": [
 			"coingecko"
 		]

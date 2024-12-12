@@ -4,10 +4,11 @@
 	"symbol": "KP3R",
 	"name": "Keep3rV1",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/kp3r.jpg",
+	"logo": "https://assets.coingecko.com/coins/images/12966/thumb/kp3r_logo.jpg?1607057458",
 	"coingecko": "keep3rv1",
 	"sources": [
 		"coingecko",
-		"sushiswap"
+		"sushiswap",
+		"uniswap"
 	]
 }

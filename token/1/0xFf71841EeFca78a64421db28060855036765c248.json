@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xFf71841EeFca78a64421db28060855036765c248",
-	"symbol": "Cove YFI",
+	"symbol": "COVEYFI",
 	"name": "Cove YFI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/38133/thumb/coveyfi.png?1716570267",
 	"coingecko": "cove-yfi",
 	"sources": [
 		"coingecko"

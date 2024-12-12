@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0xB17548c7B510427baAc4e267BEa62e800b247173",
-	"symbol": "Swarm Markets",
+	"symbol": "SMT",
 	"name": "Swarm Markets",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/17488/thumb/swarm-SMT-token-symbol_200x200.png?1696517029",
 	"coingecko": "swarm-markets",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

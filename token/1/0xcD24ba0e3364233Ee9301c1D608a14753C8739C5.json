@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xcD24ba0e3364233Ee9301c1D608a14753C8739C5",
-	"symbol": "DeepSouth AI",
+	"symbol": "SOUTH",
 	"name": "DeepSouth AI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/34348/thumb/CGpng.png?1704701256",
 	"coingecko": "deepsouth-ai",
 	"sources": [
 		"coingecko"

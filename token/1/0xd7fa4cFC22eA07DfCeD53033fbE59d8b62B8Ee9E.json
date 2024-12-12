@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xd7fa4cFC22eA07DfCeD53033fbE59d8b62B8Ee9E",
-	"symbol": "VYPER.WIN",
-	"name": "VYPER.WIN",
+	"symbol": "VYPER",
+	"name": "VYPER WIN",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/51398/thumb/VYPER200x200.png?1731084074",
 	"coingecko": "vyper-win",
 	"sources": [
 		"coingecko"

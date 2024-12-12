@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xf3768D6e78E65FC64b8F12ffc824452130BD5394",
-	"symbol": "Kerosene",
+	"symbol": "KEROSENE",
 	"name": "Kerosene",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/36603/thumb/kerosene1711610252200.png?1727287792",
 	"coingecko": "kerosene",
 	"sources": [
 		"coingecko"

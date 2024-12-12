@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x95AC17CE4021417E25B8eDF807366fC3bE091B5E",
-	"symbol": "Zaar",
+	"symbol": "ZAAR",
 	"name": "Zaar",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30901/thumb/zaar.jpeg?1713753409",
 	"coingecko": "protectorate-protocol",
 	"sources": [
 		"coingecko"

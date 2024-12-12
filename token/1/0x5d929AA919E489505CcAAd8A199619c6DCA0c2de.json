@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x5d929AA919E489505CcAAd8A199619c6DCA0c2de",
-	"symbol": "BaaSid",
+	"symbol": "BAAS",
 	"name": "BaaSid",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/5463/thumb/baasid.png?1696505940",
 	"coingecko": "baasid",
 	"sources": [
 		"coingecko"

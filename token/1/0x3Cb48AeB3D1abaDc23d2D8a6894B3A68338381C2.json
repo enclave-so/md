@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x3Cb48AeB3D1abaDc23d2D8a6894B3A68338381C2",
-	"symbol": "PaladinAI",
+	"symbol": "PALAI",
 	"name": "PaladinAI",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/33703/thumb/Design_sans_titre_%288%29_%282%29.png?1702826502",
 	"coingecko": "paladinai",
 	"sources": [
 		"coingecko"

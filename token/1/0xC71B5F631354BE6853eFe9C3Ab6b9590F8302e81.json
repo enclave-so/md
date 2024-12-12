@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xC71B5F631354BE6853eFe9C3Ab6b9590F8302e81",
-	"symbol": "Polyhedra Network",
+	"symbol": "ZKJ",
 	"name": "Polyhedra Network",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/36198/thumb/ZK.jpg?1710812518",
 	"coingecko": "polyhedra-network",
 	"sources": [
 		"coingecko"

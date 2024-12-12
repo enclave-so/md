@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0x43a8cab15D06d3a5fE5854D714C37E7E9246F170",
-	"symbol": "Orbs",
-	"name": "Orbs",
+	"symbol": "ORBS",
+	"name": "Token Orbs",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x43a8cab15D06d3a5fE5854D714C37E7E9246F170.png",
 	"coingecko": "orbs",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

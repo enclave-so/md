@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x495e02A6E3aa2283d736EdC3bcaC67224054E394",
-	"symbol": "Runner",
+	"symbol": "RUNNER",
 	"name": "Runner",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/50211/thumb/1000334872.jpg?1726429515",
 	"coingecko": "runner-2",
 	"sources": [
 		"coingecko"

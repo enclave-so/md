@@ -1,8 +1,9 @@
 {
 	"chain": 1,
 	"address": "0x961D4921e1718E633BAC8Ded88c4a1cAe44b785a",
-	"symbol": "Thunderhead Staked FLIP",
+	"symbol": "STFLIP",
 	"name": "Thunderhead Staked FLIP",
+	"decimals": 18,
 	"coingecko": "thunderhead-staked-flip",
 	"sources": [
 		"coingecko"

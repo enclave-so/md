@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x93eEB426782BD88fCD4B48D7b0368CF061044928",
-	"symbol": "The Rug Game",
+	"symbol": "TRG",
 	"name": "The Rug Game",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/28750/thumb/TRG_Logo_Circular_200px.png?1696527729",
 	"coingecko": "the-rug-game",
 	"sources": [
 		"coingecko"

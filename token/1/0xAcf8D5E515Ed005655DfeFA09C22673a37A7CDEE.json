@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xAcf8D5E515Ed005655DfeFA09C22673a37A7CDEE",
-	"symbol": "FunFi",
+	"symbol": "FNF",
 	"name": "FunFi",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/25872/thumb/FNF-200x200.png?1696524955",
 	"coingecko": "funfi",
 	"sources": [
 		"coingecko"

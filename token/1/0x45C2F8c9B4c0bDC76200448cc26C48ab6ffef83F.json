@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x45C2F8c9B4c0bDC76200448cc26C48ab6ffef83F",
-	"symbol": "Domi",
+	"symbol": "DOMI",
 	"name": "Domi",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/21633/thumb/Transparent_Circle_Logo_2.png?1696520993",
 	"coingecko": "domi",
 	"sources": [
 		"coingecko"

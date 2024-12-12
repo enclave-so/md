@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x07baC35846e5eD502aA91AdF6A9e7aA210F2DcbE",
-	"symbol": "Sifchain",
+	"symbol": "EROWAN",
 	"name": "Sifchain",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14044/thumb/EROWAN.png?1696513770",
 	"coingecko": "sifchain",
 	"sources": [
 		"coingecko"

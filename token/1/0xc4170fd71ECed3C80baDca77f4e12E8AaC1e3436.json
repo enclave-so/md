@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xc4170fd71ECed3C80baDca77f4e12E8AaC1e3436",
-	"symbol": "Kryptomon",
+	"symbol": "KMON",
 	"name": "Kryptomon",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/17886/thumb/kryptomon.png?1696517407",
 	"coingecko": "kryptomon",
 	"sources": [
 		"coingecko"

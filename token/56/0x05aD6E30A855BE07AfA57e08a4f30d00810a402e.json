@@ -1,0 +1,11 @@
+{
+	"chain": 56,
+	"address": "0x05aD6E30A855BE07AfA57e08a4f30d00810a402e",
+	"symbol": "TINC",
+	"name": "Tiny Coin",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x05aD6E30A855BE07AfA57e08a4f30d00810a402e.png",
+	"sources": [
+		"pancakeswap"
+	]
+}

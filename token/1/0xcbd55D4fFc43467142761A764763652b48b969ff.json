@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xcbd55D4fFc43467142761A764763652b48b969ff",
-	"symbol": "AstroTools",
+	"symbol": "ASTRO",
 	"name": "AstroTools",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/12345/thumb/AT-flat-purple_logo.png?1696512172",
 	"coingecko": "astrotools",
 	"sources": [
 		"coingecko"

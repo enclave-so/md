@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x24B47299E756aF0571F512232A3629E0DaBb52Ed",
-	"symbol": "concertVR",
+	"symbol": "CVT",
 	"name": "concertVR",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/2914/thumb/cvt.png?1696503662",
 	"coingecko": "concertvr",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x7a786DAC1f315C8A0e9962172AD8AE0C04d9c9b6",
-	"symbol": "MemeDAO",
+	"symbol": "MEMD",
 	"name": "MemeDAO",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30468/thumb/memeDAO_200x200.png?1696529354",
 	"coingecko": "memedao",
 	"sources": [
 		"coingecko"

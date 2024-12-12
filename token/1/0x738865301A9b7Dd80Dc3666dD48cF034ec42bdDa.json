@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x738865301A9b7Dd80Dc3666dD48cF034ec42bdDa",
-	"symbol": "Agoras: Tau Net",
-	"name": "Agoras: Tau Net",
+	"symbol": "AGRS",
+	"name": "Agoras  Tau Net",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/399/thumb/agrs.png?1696501692",
 	"coingecko": "agoras-currency-of-tau",
 	"sources": [
 		"coingecko"

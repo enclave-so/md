@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x62431dE84c503e152A8957ff51c8945aaAA7D929",
-	"symbol": "BlastAI",
+	"symbol": "BLAST",
 	"name": "BlastAI",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/35858/thumb/Design_sans_titre_%2818%29_15.51.23.png?1709896264",
 	"coingecko": "blastai",
 	"sources": [
 		"coingecko"

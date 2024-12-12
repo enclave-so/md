@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x7D36F7D8e9220F021305B8F13414C87DF688aa8B",
-	"symbol": "Seamoon Protocol",
+	"symbol": "SMP",
 	"name": "Seamoon Protocol",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/39885/thumb/SMP_Logo.png?1724647800",
 	"coingecko": "seamoon-protocol",
 	"sources": [
 		"coingecko"

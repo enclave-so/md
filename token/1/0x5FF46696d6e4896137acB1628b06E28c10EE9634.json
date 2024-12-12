@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x5FF46696d6e4896137acB1628b06E28c10EE9634",
-	"symbol": "Janny",
+	"symbol": "JANNY",
 	"name": "Janny",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/38751/thumb/photo_2024-08-16_12-01-54.jpg?1723835094",
 	"coingecko": "janny",
 	"sources": [
 		"coingecko"

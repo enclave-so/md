@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xfA93660C3f6a848556Bb8E265f994160A1F2B289",
-	"symbol": "Community Business Token",
+	"symbol": "CBT",
 	"name": "Community Business Token",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14701/thumb/CBT-Token-Small.png?1696514372",
 	"coingecko": "community-business-token",
 	"sources": [
 		"coingecko"

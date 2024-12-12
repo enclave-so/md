@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x285DB79fa7e0e89E822786F48A7c98C6c1dC1c7d",
-	"symbol": "Magic Internet Cash",
+	"symbol": "MIC",
 	"name": "Magic Internet Cash",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31405/thumb/MICsmall.png?1696530221",
 	"coingecko": "magic-internet-cash",
 	"sources": [
 		"coingecko"

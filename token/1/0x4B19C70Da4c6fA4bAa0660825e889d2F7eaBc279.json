@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x4B19C70Da4c6fA4bAa0660825e889d2F7eaBc279",
-	"symbol": "Gamium",
+	"symbol": "GMM",
 	"name": "Gamium",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/22749/thumb/gamium_logotype_social_media.png?1713382179",
 	"coingecko": "gamium",
 	"sources": [
 		"coingecko"

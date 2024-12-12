@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x3235B13708F178Af6F110dE7177ED5De10c1093d",
-	"symbol": "Mongol NFT",
+	"symbol": "MNFT",
 	"name": "Mongol NFT",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/23718/thumb/swI93LWg_400x400.jpg?1696522918",
 	"coingecko": "mongol-nft",
 	"sources": [
 		"coingecko"

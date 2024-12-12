@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x5b502e3796385E1e9755d7043B9C945C3aCCeC9C",
-	"symbol": "Aave v3 KNC",
+	"symbol": "AKNC",
 	"name": "Aave v3 KNC",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/32908/thumb/kyber.png?1699817281",
 	"coingecko": "aave-v3-knc",
 	"sources": [
 		"coingecko"

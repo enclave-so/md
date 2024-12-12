@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xC289C2D57e2bA371f40D594705DBf9331A2da47d",
-	"symbol": "First Meme",
+	"symbol": "LOLCAT",
 	"name": "First Meme",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/50393/thumb/logo200x.png?1727583313",
 	"coingecko": "first-meme",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x1e971b5b21367888239f00Da16F0A6b0efFeCb03",
-	"symbol": "LEEROY JENKINS",
+	"symbol": "LEEROY",
 	"name": "LEEROY JENKINS",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/32774/thumb/LJ_logo_2_%281%29.png?1718153770",
 	"coingecko": "leeroy-jenkins",
 	"sources": [
 		"coingecko"

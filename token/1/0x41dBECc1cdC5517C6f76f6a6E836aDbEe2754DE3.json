@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x41dBECc1cdC5517C6f76f6a6E836aDbEe2754DE3",
-	"symbol": "Medicalchain",
+	"symbol": "MTN",
 	"name": "Medicalchain",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/2850/thumb/medicalchain.png?1696503608",
 	"coingecko": "medicalchain",
 	"sources": [
 		"coingecko"

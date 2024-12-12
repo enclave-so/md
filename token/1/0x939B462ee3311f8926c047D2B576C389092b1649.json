@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x939B462ee3311f8926c047D2B576C389092b1649",
-	"symbol": "LiquidApps",
+	"symbol": "DAPP",
 	"name": "LiquidApps",
+	"decimals": 4,
+	"logo": "https://assets.coingecko.com/coins/images/8116/thumb/dapp-logo.jpg?1696508334",
 	"coingecko": "dapp",
 	"sources": [
 		"coingecko"

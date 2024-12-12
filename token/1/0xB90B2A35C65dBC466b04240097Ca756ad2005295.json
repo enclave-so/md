@@ -2,12 +2,13 @@
 	"chain": 1,
 	"address": "0xB90B2A35C65dBC466b04240097Ca756ad2005295",
 	"symbol": "BOBO",
-	"name": "BOBO",
+	"name": "BOBO Coin",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xB90B2A35C65dBC466b04240097Ca756ad2005295.jpg",
+	"logo": "https://assets.coingecko.com/coins/images/30388/thumb/bobologo_200x200.png?1725466815",
 	"coingecko": "bobo-coin",
 	"sources": [
 		"coingecko",
+		"optimism",
 		"sushiswap"
 	]
 }

@@ -1,10 +1,13 @@
 {
 	"chain": 8453,
 	"address": "0x58D75a1c4477914f9a98A8708fEaeD1DbE40b8a3",
-	"symbol": "AthenaDAO",
-	"name": "AthenaDAO",
+	"symbol": "ATH",
+	"name": "AthenaDAO Token",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/ATH/logo.svg",
 	"coingecko": "athenadao-token",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

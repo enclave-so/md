@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x34DF29Dd880e9fe2cec0f85f7658B75606fB2870",
-	"symbol": "Navy seal",
+	"symbol": "NAVYSEAL",
 	"name": "Navy seal",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/31406/thumb/Navyseal.jpg?1696530222",
 	"coingecko": "navy-seal",
 	"sources": [
 		"coingecko"

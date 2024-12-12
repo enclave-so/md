@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xd945d2031b4C63C0E363304FB771F709b502DC0a",
-	"symbol": "BountyMarketCap",
+	"symbol": "BMC",
 	"name": "BountyMarketCap",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/13472/thumb/bmc-logo-200.png?1696513233",
 	"coingecko": "bountymarketcap",
 	"sources": [
 		"coingecko"

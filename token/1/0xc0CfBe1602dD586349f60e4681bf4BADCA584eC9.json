@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xc0CfBe1602dD586349f60e4681bf4BADCA584eC9",
-	"symbol": "Etheism",
+	"symbol": "E",
 	"name": "Etheism",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/40087/thumb/image_2024-09-04_19-01-35_%281%29.png?1725561053",
 	"coingecko": "etheism",
 	"sources": [
 		"coingecko"

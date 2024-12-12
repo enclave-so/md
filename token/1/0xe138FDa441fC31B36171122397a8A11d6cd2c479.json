@@ -1,8 +1,9 @@
 {
 	"chain": 1,
 	"address": "0xe138FDa441fC31B36171122397a8A11d6cd2c479",
-	"symbol": "Global Trust Coin",
+	"symbol": "GTC",
 	"name": "Global Trust Coin",
+	"logo": "https://assets.coingecko.com/coins/images/7752/thumb/gtib.png?1696507996",
 	"coingecko": "global-trust-coin",
 	"sources": [
 		"coingecko"

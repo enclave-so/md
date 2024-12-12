@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x4D9B0B7a6dB042CB990D36A0df5aA2960e552F16",
-	"symbol": "Hpohs888inu",
+	"symbol": "TETHER",
 	"name": "Hpohs888inu",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/31355/thumb/200xlogo.png?1696530172",
 	"coingecko": "hpohs888inu",
 	"sources": [
 		"coingecko"

@@ -3,6 +3,8 @@
 	"address": "0x288741b45AD4042f7b124E38b53cEc5E9ccA0376",
 	"symbol": "KOLZ",
 	"name": "KOLZ",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/51235/thumb/KOLZ.png?1730447667",
 	"coingecko": "kolz",
 	"sources": [
 		"coingecko"

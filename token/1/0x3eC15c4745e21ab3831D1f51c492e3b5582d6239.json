@@ -3,6 +3,8 @@
 	"address": "0x3eC15c4745e21ab3831D1f51c492e3b5582d6239",
 	"symbol": "PICKLE",
 	"name": "PICKLE",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31717/thumb/ezgif.com-resize_%287%29.png?1696530538",
 	"coingecko": "pickle",
 	"sources": [
 		"coingecko"

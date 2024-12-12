@@ -4,7 +4,7 @@
 	"symbol": "BMI",
 	"name": "Bridge Mutual",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x725C263e32c72dDC3A19bEa12C5a0479a81eE688/logo.png",
+	"logo": "https://assets.coingecko.com/coins/images/13808/thumb/bmi_logo.png?1696513554",
 	"coingecko": "bridge-mutual",
 	"sources": [
 		"coingecko",

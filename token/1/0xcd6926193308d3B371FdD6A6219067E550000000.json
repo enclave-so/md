@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xcd6926193308d3B371FdD6A6219067E550000000",
-	"symbol": "Nest Protocol",
+	"symbol": "NEST",
 	"name": "Nest Protocol",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/11284/thumb/52954052.png?1696511207",
 	"coingecko": "nest",
 	"sources": [
 		"coingecko"

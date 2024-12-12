@@ -3,6 +3,8 @@
 	"address": "0x07E98F367aAde7f81Ddc90189d5D045c78E611D5",
 	"symbol": "VISTADOG",
 	"name": "VISTADOG",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/40092/thumb/1000000366.jpg?1725592618",
 	"coingecko": "vistadog",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xD1F17B7a6bfF962659ED608bCD6D318bB5fBb249",
-	"symbol": "Zuzalu Inu",
+	"symbol": "ZUZALU",
 	"name": "Zuzalu Inu",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/34552/thumb/zuzalu_0xd1f17b7a6bff962659ed608bcd6d318bb5fbb2491705497250930.jpg?1706250673",
 	"coingecko": "zuzalu-inu",
 	"sources": [
 		"coingecko"

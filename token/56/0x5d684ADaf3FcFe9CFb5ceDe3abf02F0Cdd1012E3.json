@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0x5d684ADaf3FcFe9CFb5ceDe3abf02F0Cdd1012E3",
-	"symbol": "Lien",
+	"symbol": "LIEN",
 	"name": "Lien",
+	"decimals": 8,
+	"logo": "https://tokens.pancakeswap.finance/images/0x5d684ADaf3FcFe9CFb5ceDe3abf02F0Cdd1012E3.png",
 	"coingecko": "lien",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

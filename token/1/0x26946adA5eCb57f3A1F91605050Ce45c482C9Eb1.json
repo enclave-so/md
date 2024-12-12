@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x26946adA5eCb57f3A1F91605050Ce45c482C9Eb1",
-	"symbol": "BitcoinSoV",
+	"symbol": "BSOV",
 	"name": "BitcoinSoV",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/9205/thumb/bsov.png?1696509323",
 	"coingecko": "bitcoinsov",
 	"sources": [
 		"coingecko"

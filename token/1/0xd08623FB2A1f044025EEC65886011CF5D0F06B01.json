@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xd08623FB2A1f044025EEC65886011CF5D0F06B01",
-	"symbol": "Larry",
+	"symbol": "LARRY",
 	"name": "Larry",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30460/thumb/Safeimagekit-resized-img.png?1696529347",
 	"coingecko": "larry",
 	"sources": [
 		"coingecko"

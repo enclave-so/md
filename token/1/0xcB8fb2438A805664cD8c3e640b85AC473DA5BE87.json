@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xcB8fb2438A805664cD8c3e640b85AC473DA5BE87",
-	"symbol": "ClinTex CTi",
+	"symbol": "CTI",
 	"name": "ClinTex CTi",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/13266/thumb/CTI.png?1696513039",
 	"coingecko": "clintex-cti",
 	"sources": [
 		"coingecko"

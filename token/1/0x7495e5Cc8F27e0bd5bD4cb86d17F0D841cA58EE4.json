@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x7495e5Cc8F27e0bd5bD4cb86d17F0D841cA58EE4",
-	"symbol": "Arnoya classic",
+	"symbol": "ARNC",
 	"name": "Arnoya classic",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/28194/thumb/ARNC_200.png?1696527197",
 	"coingecko": "arnoya-classic",
 	"sources": [
 		"coingecko"

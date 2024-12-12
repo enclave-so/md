@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xf90924B4064D88fdf9189D6FfD737ED85C01B9B7",
-	"symbol": "GameFinity",
+	"symbol": "GFN",
 	"name": "GameFinity",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/40111/thumb/Gamefinity_Logo_JPG.jpg?1725826614",
 	"coingecko": "gamefinity",
 	"sources": [
 		"coingecko"

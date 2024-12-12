@@ -1,0 +1,11 @@
+{
+	"chain": 42161,
+	"address": "0xe7dcD50836d0A28c959c72D72122fEDB8E245A6C",
+	"symbol": "ALEPH",
+	"name": "Aleph im",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/11676/thumb/Monochram-aleph.png?1608483725",
+	"sources": [
+		"uniswap"
+	]
+}

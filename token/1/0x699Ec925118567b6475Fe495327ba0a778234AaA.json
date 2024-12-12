@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x699Ec925118567b6475Fe495327ba0a778234AaA",
-	"symbol": "Ducky",
+	"symbol": "DUCKY",
 	"name": "Ducky",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/51397/thumb/Ducky200.jpg?1731056662",
 	"coingecko": "ducky",
 	"sources": [
 		"coingecko"

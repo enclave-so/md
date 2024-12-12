@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x1E053D89E08c24aA2CE5C5B4206744Dc2D7BD8F5",
-	"symbol": "ThunderCore",
+	"symbol": "TT",
 	"name": "ThunderCore",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/4375/thumb/ThunderCore_Logo_Mark_Gradient_%283%29.png?1696504974",
 	"coingecko": "thunder-token",
 	"sources": [
 		"coingecko"

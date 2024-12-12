@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xb624960AAaD05d433075a5C9E760aDEc26036934",
-	"symbol": "Monke Coin",
+	"symbol": "MONKE",
 	"name": "Monke Coin",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/37761/thumb/200photo_2024-05-10_12-47-45.jpg?1715478071",
 	"coingecko": "monke-coin-eth",
 	"sources": [
 		"coingecko"

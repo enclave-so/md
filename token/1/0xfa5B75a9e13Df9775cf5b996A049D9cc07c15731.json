@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xfa5B75a9e13Df9775cf5b996A049D9cc07c15731",
-	"symbol": "28VCK",
+	"symbol": "VCK",
 	"name": "28VCK",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/20063/thumb/9435.png?1696519481",
 	"coingecko": "28vck",
 	"sources": [
 		"coingecko"

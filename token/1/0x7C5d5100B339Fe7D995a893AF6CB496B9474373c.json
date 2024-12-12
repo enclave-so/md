@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x7C5d5100B339Fe7D995a893AF6CB496B9474373c",
-	"symbol": "Loon Network",
+	"symbol": "LOON",
 	"name": "Loon Network",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/11673/thumb/ErUvUA2D4Q8hPWXxZBIuiI8MD0nrU2rDEY56d6EtVzJDTqlflAFXa2bgJ_kFwb8OtotfAvESvm-dik7d_SeJJh23f6RosUJ0AzU64QcKk5H3fu300KOJjFDFsntpRWARFKI5S4Cc8F3pcRPBkFIw6oPF58mKi83sa2DJPl-E5JMqmj6rJh5acb7Fvi80kfziWv3DHhhpg1YJYMP.jpg?1696511563",
 	"coingecko": "loon-network",
 	"sources": [
 		"coingecko"

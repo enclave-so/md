@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x149D8290F653dEB8e34c037D239d3d8EeE9de5aD",
-	"symbol": "Kingdomverse",
+	"symbol": "KING",
 	"name": "Kingdomverse",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/28607/thumb/_King_logo_%28Color%29.png?1696527593",
 	"coingecko": "kingdomverse",
 	"sources": [
 		"coingecko"

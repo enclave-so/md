@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xCf16287A869ac8397815ABa9b8c962C0f18bA6ea",
-	"symbol": "Vox Royale",
+	"symbol": "VXR",
 	"name": "Vox Royale",
+	"decimals": 4,
+	"logo": "https://assets.coingecko.com/coins/images/39314/thumb/VoxRoyaleLogo_%283%29.png?1721707447",
 	"coingecko": "vox-royale",
 	"sources": [
 		"coingecko"

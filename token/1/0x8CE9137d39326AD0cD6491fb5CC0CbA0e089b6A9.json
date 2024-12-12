@@ -4,10 +4,11 @@
 	"symbol": "SXP",
 	"name": "Swipe",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/sxp.jpg",
+	"logo": "https://assets.coingecko.com/coins/images/9368/thumb/swipe.png?1566792311",
 	"coingecko": "swipe",
 	"sources": [
 		"coingecko",
-		"sushiswap"
+		"sushiswap",
+		"uniswap"
 	]
 }

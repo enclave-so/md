@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xf74751c07c92b668f02527d0E1384eE6D68aC90E",
-	"symbol": "AltCTRL",
+	"symbol": "CTRL",
 	"name": "AltCTRL",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/35472/thumb/200x200.png?1708770112",
 	"coingecko": "altctrl",
 	"sources": [
 		"coingecko"

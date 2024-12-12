@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x5BEfBB272290dD5b8521D4a938f6c4757742c430",
-	"symbol": "Xfinance",
+	"symbol": "XFI",
 	"name": "Xfinance",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/12449/thumb/go.png?1696512268",
 	"coingecko": "xfinance",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x725024200Cd4e1f259FCF2b7153d37Fb477e139C",
-	"symbol": "Flovi Inu",
+	"symbol": "FLOVI",
 	"name": "Flovi Inu",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/36734/thumb/1000038565.jpg?1712171719",
 	"coingecko": "flovi-inu",
 	"sources": [
 		"coingecko"

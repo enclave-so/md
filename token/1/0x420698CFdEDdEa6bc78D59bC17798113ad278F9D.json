@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x420698CFdEDdEa6bc78D59bC17798113ad278F9D",
-	"symbol": "Towelie",
+	"symbol": "TOWELI",
 	"name": "Towelie",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/38842/thumb/photo_2024-06-22_18-43-45.jpg?1719201855",
 	"coingecko": "towelie",
 	"sources": [
 		"coingecko"

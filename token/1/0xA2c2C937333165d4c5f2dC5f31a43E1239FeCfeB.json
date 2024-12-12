@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xA2c2C937333165d4c5f2dC5f31a43E1239FeCfeB",
-	"symbol": "Hera Finance",
+	"symbol": "HERA",
 	"name": "Hera Finance",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/24751/thumb/heraLogo-200px.png?1721043422",
 	"coingecko": "hera-finance",
 	"sources": [
 		"coingecko"

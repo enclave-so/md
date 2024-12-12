@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xE6829d9a7eE3040e1276Fa75293Bde931859e8fA",
-	"symbol": "Mantle Restaked ETH",
+	"symbol": "CMETH",
 	"name": "Mantle Restaked ETH",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/51114/thumb/symbol.png?1730117724",
 	"coingecko": "mantle-restaked-eth",
 	"sources": [
 		"coingecko"

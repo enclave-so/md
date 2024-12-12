@@ -1,10 +1,13 @@
 {
 	"chain": 42161,
 	"address": "0x0D81E50bC677fa67341c44D7eaA9228DEE64A4e1",
-	"symbol": "BarnBridge",
+	"symbol": "BOND",
 	"name": "BarnBridge",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/12811/thumb/barnbridge.jpg?1602728853",
 	"coingecko": "barnbridge",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"uniswap"
 	]
 }

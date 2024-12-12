@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x7A65CB87F596Caf31a4932f074c59c0592bE77D7",
-	"symbol": "Zypto Token",
+	"symbol": "ZYPTO",
 	"name": "Zypto Token",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/19089/thumb/image_2024-02-23_172710251.png?1708680432",
 	"coingecko": "french-connection-finance",
 	"sources": [
 		"coingecko"

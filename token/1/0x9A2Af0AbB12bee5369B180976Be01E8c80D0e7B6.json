@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x9A2Af0AbB12bee5369B180976Be01E8c80D0e7B6",
-	"symbol": "Empire",
+	"symbol": "EMPIRE",
 	"name": "Empire",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/16390/thumb/pb_ranDy_400x400.png?1696515988",
 	"coingecko": "empire-token",
 	"sources": [
 		"coingecko"

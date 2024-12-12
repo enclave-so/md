@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x4D2eE5DAe46C86DA2FF521F7657dad98834f97b8",
-	"symbol": "Pepemon Pepeballs",
+	"symbol": "PPBLZ",
 	"name": "Pepemon Pepeballs",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/12823/thumb/200pepebball-BIG.png?1696512615",
 	"coingecko": "pepemon-pepeballs",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,9 @@
 {
 	"chain": 1,
 	"address": "0xdacD69347dE42baBfAEcD09dC88958378780FB62",
-	"symbol": "Atari",
+	"symbol": "ATRI",
 	"name": "Atari",
+	"logo": "https://assets.coingecko.com/coins/images/12992/thumb/AtariLogoPS_200x200_%281%29.png?1696512782",
 	"coingecko": "atari",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xD7EFB00d12C2c13131FD319336Fdf952525dA2af",
-	"symbol": "XPR Network",
+	"symbol": "XPR",
 	"name": "XPR Network",
+	"decimals": 4,
+	"logo": "https://assets.coingecko.com/coins/images/10941/thumb/XPR.jpg?1696510891",
 	"coingecko": "proton",
 	"sources": [
 		"coingecko"

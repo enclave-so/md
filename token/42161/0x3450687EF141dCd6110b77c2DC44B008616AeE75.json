@@ -1,0 +1,11 @@
+{
+	"chain": 42161,
+	"address": "0x3450687EF141dCd6110b77c2DC44B008616AeE75",
+	"symbol": "BAT",
+	"name": "Basic Attention Token",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/677/thumb/basic-attention-token.png?1547034427",
+	"sources": [
+		"uniswap"
+	]
+}

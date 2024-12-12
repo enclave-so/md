@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x43A96962254855F16b925556f9e97BE436A43448",
-	"symbol": "Hord",
+	"symbol": "HORD",
 	"name": "Hord",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14972/thumb/HORD_TOKEN_%281%29_1.png?1705414356",
 	"coingecko": "hord",
 	"sources": [
 		"coingecko"

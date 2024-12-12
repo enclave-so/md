@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x641927E970222B10b2E8CDBC96b1B4F427316f16",
-	"symbol": "MEEB Vault (NFTX)",
-	"name": "MEEB Vault (NFTX)",
+	"symbol": "MEEB",
+	"name": "MEEB Vault  NFTX ",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/17044/thumb/Meebs.png?1696516607",
 	"coingecko": "meeb-vault-nftx",
 	"sources": [
 		"coingecko"

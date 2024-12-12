@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x296233E84c1D7bfF11121BF6D60f0FFA39C3f0cf",
-	"symbol": "No One",
+	"symbol": "NOONE",
 	"name": "No One",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/19393/thumb/logo-200x200_%289%29.png?1696518833",
 	"coingecko": "no-one",
 	"sources": [
 		"coingecko"

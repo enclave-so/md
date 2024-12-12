@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xE0C98605f279e4D7946d25B75869c69802823763",
-	"symbol": "Re7 WBTC Morpho Vault",
+	"symbol": "RE7WBTC",
 	"name": "Re7 WBTC Morpho Vault",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/51337/thumb/wrapped_bitcoin_wbtc.png?1730814801",
 	"coingecko": "re7-wbtc-morpho-vault",
 	"sources": [
 		"coingecko"

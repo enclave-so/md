@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xA0d69E286B938e21CBf7E51D71F6A4c8918f482F",
-	"symbol": "Electronic USD",
+	"symbol": "EUSD",
 	"name": "Electronic USD",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/28445/thumb/0xa0d69e286b938e21cbf7e51d71f6a4c8918f482f.png?1696527441",
 	"coingecko": "electronic-usd",
 	"sources": [
 		"coingecko"

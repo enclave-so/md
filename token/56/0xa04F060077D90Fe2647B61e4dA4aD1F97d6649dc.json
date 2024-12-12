@@ -4,8 +4,9 @@
 	"symbol": "mNFLX",
 	"name": "Mirror NFLX Token",
 	"decimals": 18,
-	"logo": "https://bscscan.com/token/images/mirror-nflx_32.png",
+	"logo": "https://tokens.pancakeswap.finance/images/0xa04F060077D90Fe2647B61e4dA4aD1F97d6649dc.png",
 	"sources": [
+		"pancakeswap",
 		"sushiswap"
 	]
 }

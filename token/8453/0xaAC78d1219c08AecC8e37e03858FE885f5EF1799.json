@@ -1,10 +1,14 @@
 {
 	"chain": 8453,
 	"address": "0xaAC78d1219c08AecC8e37e03858FE885f5EF1799",
-	"symbol": "Yield Guild Games",
+	"symbol": "YGG",
 	"name": "Yield Guild Games",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/17358/thumb/le1nzlO6_400x400.jpg?1632465691",
 	"coingecko": "yield-guild-games",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism",
+		"uniswap"
 	]
 }

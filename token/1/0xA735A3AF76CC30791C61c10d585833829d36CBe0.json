@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0xA735A3AF76CC30791C61c10d585833829d36CBe0",
-	"symbol": "imgnAI",
+	"symbol": "IMGNAI",
 	"name": "imgnAI",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/28666/thumb/imgnai-200x200.png?1698476572",
 	"coingecko": "imgnai",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

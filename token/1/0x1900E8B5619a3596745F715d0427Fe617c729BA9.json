@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x1900E8B5619a3596745F715d0427Fe617c729BA9",
-	"symbol": "Chainbing",
+	"symbol": "CBG",
 	"name": "Chainbing",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/18052/thumb/j3saoPU.png?1696517564",
 	"coingecko": "chainbing",
 	"sources": [
 		"coingecko"

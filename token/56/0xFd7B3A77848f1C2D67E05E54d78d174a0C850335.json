@@ -4,10 +4,11 @@
 	"symbol": "ONT",
 	"name": "Ontology Token",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/ont.jpg",
+	"logo": "https://tokens.pancakeswap.finance/images/0xFd7B3A77848f1C2D67E05E54d78d174a0C850335.png",
 	"coingecko": "binance-peg-ontology",
 	"sources": [
 		"coingecko",
+		"pancakeswap",
 		"sushiswap"
 	]
 }

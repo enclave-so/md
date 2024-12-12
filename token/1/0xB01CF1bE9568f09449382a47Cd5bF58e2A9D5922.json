@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xB01CF1bE9568f09449382a47Cd5bF58e2A9D5922",
-	"symbol": "Lightspeed",
+	"symbol": "SPEED",
 	"name": "Lightspeed",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/51401/thumb/lightspeed-round-200.png?1731085512",
 	"coingecko": "lightspeed",
 	"sources": [
 		"coingecko"

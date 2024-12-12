@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x9d1A7A3191102e9F900Faa10540837ba84dCBAE7",
-	"symbol": "Eurite",
+	"symbol": "EURI",
 	"name": "Eurite",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/39952/thumb/EURI.jpg?1724902829",
 	"coingecko": "eurite",
 	"sources": [
 		"coingecko"

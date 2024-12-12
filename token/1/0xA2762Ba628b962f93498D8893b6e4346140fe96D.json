@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xA2762Ba628b962f93498D8893b6e4346140fe96D",
-	"symbol": "Intrepid Token",
+	"symbol": "INT",
 	"name": "Intrepid Token",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/33229/thumb/int.png?1701257932",
 	"coingecko": "intrepid-token",
 	"sources": [
 		"coingecko"

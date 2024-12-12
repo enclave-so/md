@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x90b7E285ab6cf4e3A2487669dba3E339dB8a3320",
-	"symbol": "Yellow Duckies",
+	"symbol": "DUCKIES",
 	"name": "Yellow Duckies",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/27630/thumb/duckies_logo.png?1706528164",
 	"coingecko": "duckies",
 	"sources": [
 		"coingecko"

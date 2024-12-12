@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x8110AF6BD2aF3f5c4586032ff813c8934451aBBe",
-	"symbol": "Cypher AI",
+	"symbol": "CYPHER",
 	"name": "Cypher AI",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/35946/thumb/IMG_3059.jpeg?1710234192",
 	"coingecko": "cypher-ai",
 	"sources": [
 		"coingecko"

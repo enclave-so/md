@@ -1,10 +1,13 @@
 {
 	"chain": 34443,
 	"address": "0xf0F161fDA2712DB8b566946122a5af183995e2eD",
-	"symbol": "Mode Bridged USDT (Mode)",
-	"name": "Mode Bridged USDT (Mode)",
+	"symbol": "USDT",
+	"name": "Tether USD",
+	"decimals": 6,
+	"logo": "https://ethereum-optimism.github.io/data/USDT/logo.png",
 	"coingecko": "mode-bridged-usdt-mode",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

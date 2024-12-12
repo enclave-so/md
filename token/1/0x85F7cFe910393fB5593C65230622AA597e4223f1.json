@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x85F7cFe910393fB5593C65230622AA597e4223f1",
-	"symbol": "Nitefeeder",
+	"symbol": "NITEFEEDER",
 	"name": "Nitefeeder",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/37126/thumb/2024-08-26_21.20.50_%281%29_%282%29.jpg?1724789129",
 	"coingecko": "nitefeeder",
 	"sources": [
 		"coingecko"

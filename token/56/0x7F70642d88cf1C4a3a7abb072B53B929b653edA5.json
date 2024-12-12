@@ -4,8 +4,9 @@
 	"symbol": "YFII",
 	"name": "YFII.finance Token",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/yfii.jpg",
+	"logo": "https://tokens.pancakeswap.finance/images/0x7F70642d88cf1C4a3a7abb072B53B929b653edA5.png",
 	"sources": [
+		"pancakeswap",
 		"sushiswap"
 	]
 }

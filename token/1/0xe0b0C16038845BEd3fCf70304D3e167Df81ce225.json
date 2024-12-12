@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xe0b0C16038845BEd3fCf70304D3e167Df81ce225",
-	"symbol": "CrossSwap",
+	"symbol": "CSWAP",
 	"name": "CrossSwap",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/18002/thumb/cross.png?1696517518",
 	"coingecko": "crossswap",
 	"sources": [
 		"coingecko"

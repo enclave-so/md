@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x76c4ec0068923Da13Ee11527d6cF9b7521000049",
-	"symbol": "Hat",
+	"symbol": "HAT",
 	"name": "Hat",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/39394/thumb/Black_circle_%281%29.png?1721976884",
 	"coingecko": "hat",
 	"sources": [
 		"coingecko"

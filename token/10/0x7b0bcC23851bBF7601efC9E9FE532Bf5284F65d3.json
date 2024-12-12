@@ -6,6 +6,7 @@
 	"decimals": 18,
 	"logo": "https://ethereum-optimism.github.io/data/EST/logo.png",
 	"sources": [
+		"optimism",
 		"sushiswap"
 	]
 }

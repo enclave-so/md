@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xd2bA23dE8a19316A638dc1e7a9ADdA1d74233368",
-	"symbol": "Quickswap",
+	"symbol": "QUICK",
 	"name": "Quickswap",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/25393/thumb/quickswap.png?1696524525",
 	"coingecko": "quickswap",
 	"sources": [
 		"coingecko"

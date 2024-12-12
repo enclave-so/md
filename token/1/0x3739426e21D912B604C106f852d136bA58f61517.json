@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x3739426e21D912B604C106f852d136bA58f61517",
-	"symbol": "Doggo Inu",
+	"symbol": "DOGGO",
 	"name": "Doggo Inu",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/50541/thumb/FINAL_DOGGO_LOGO_%281%29.png?1733172524",
 	"coingecko": "doggo-inu",
 	"sources": [
 		"coingecko"

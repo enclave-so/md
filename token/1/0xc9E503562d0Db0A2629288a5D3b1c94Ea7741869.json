@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xc9E503562d0Db0A2629288a5D3b1c94Ea7741869",
-	"symbol": "MetalCore",
+	"symbol": "MCG",
 	"name": "MetalCore",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/38886/thumb/MetalCore_MCG_Token_logo_200x200.png?1719378997",
 	"coingecko": "metalcore",
 	"sources": [
 		"coingecko"

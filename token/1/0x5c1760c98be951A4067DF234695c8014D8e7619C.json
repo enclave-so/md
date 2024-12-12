@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0x5c1760c98be951A4067DF234695c8014D8e7619C",
+	"symbol": "NOUNS",
+	"name": "Nouns",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/NOUNS/logo.png",
+	"sources": [
+		"optimism"
+	]
+}

@@ -3,6 +3,8 @@
 	"address": "0x7AB7D54f8cb054141142f04BA0B3D41AC4c4D61c",
 	"symbol": "NOTHING",
 	"name": "NOTHING",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/33931/thumb/IMG_7800.jpeg?1703418739",
 	"coingecko": "nothing-2",
 	"sources": [
 		"coingecko"

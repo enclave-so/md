@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xb8e3bB633F7276cc17735D86154E0ad5ec9928C0",
-	"symbol": "VelasPad",
+	"symbol": "VLXPAD",
 	"name": "VelasPad",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/18535/thumb/11654.png?1696518015",
 	"coingecko": "velaspad",
 	"sources": [
 		"coingecko"

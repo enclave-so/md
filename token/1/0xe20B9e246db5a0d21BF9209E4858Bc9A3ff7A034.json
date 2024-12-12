@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xe20B9e246db5a0d21BF9209E4858Bc9A3ff7A034",
-	"symbol": "Wrapped Banano",
+	"symbol": "WBAN",
 	"name": "Wrapped Banano",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/32617/thumb/WBAN.jpg?1698749253",
 	"coingecko": "wrapped-banano",
 	"sources": [
 		"coingecko"

@@ -1,10 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x674C6Ad92Fd080e4004b2312b45f796a192D27a0",
-	"symbol": "USDN",
-	"name": "Neutrino USD",
+	"symbol": "XTN",
+	"name": "Neutrino Index Token",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x674C6Ad92Fd080e4004b2312b45f796a192D27a0/logo.png",
+	"logo": "https://assets.coingecko.com/coins/images/10117/thumb/XTN.png?1712339473",
 	"coingecko": "neutrino",
 	"sources": [
 		"coingecko",

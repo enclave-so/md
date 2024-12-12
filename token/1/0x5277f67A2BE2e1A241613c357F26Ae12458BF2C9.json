@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x5277f67A2BE2e1A241613c357F26Ae12458BF2C9",
-	"symbol": "FAT GUY",
+	"symbol": "FATGUY",
 	"name": "FAT GUY",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/39762/thumb/Fatguy_%281%29.png?1723904089",
 	"coingecko": "fat-guy",
 	"sources": [
 		"coingecko"

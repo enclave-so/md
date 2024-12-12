@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x6977597bBBdcc453636BD67A161a96d85098f327",
-	"symbol": "Pipi on ETH",
+	"symbol": "PIPI",
 	"name": "Pipi on ETH",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/38581/thumb/Pipi_CoinGecko_logo.png?1718087534",
 	"coingecko": "pipi-on-eth",
 	"sources": [
 		"coingecko"

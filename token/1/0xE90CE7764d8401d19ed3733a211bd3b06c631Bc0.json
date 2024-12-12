@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xE90CE7764d8401d19ed3733a211bd3b06c631Bc0",
-	"symbol": "The Other Party",
+	"symbol": "POD",
 	"name": "The Other Party",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/33478/thumb/Twitter_header_-_4.png?1702017433",
 	"coingecko": "the-other-party",
 	"sources": [
 		"coingecko"

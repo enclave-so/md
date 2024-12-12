@@ -3,8 +3,11 @@
 	"address": "0x1e4746dC744503b53b4A082cB3607B169a289090",
 	"symbol": "IPOR",
 	"name": "IPOR",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/28373/thumb/IPOR-token-200x200.png?1696527376",
 	"coingecko": "ipor",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

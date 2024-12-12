@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xc813EA5e3b48BEbeedb796ab42A30C5599b01740",
-	"symbol": "Autonio",
+	"symbol": "NIOX",
 	"name": "Autonio",
+	"decimals": 4,
+	"logo": "https://assets.coingecko.com/coins/images/1122/thumb/NewLogo.png?1696502216",
 	"coingecko": "autonio",
 	"sources": [
 		"coingecko"

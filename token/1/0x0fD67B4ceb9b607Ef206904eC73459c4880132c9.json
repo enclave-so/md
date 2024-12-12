@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x0fD67B4ceb9b607Ef206904eC73459c4880132c9",
-	"symbol": "ShoeFy",
+	"symbol": "SHOE",
 	"name": "ShoeFy",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/19082/thumb/SHOEFY.jpg?1696518532",
 	"coingecko": "shoefy",
 	"sources": [
 		"coingecko"

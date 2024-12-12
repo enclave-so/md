@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xcB50350aB555Ed5d56265E096288536E8Cac41Eb",
-	"symbol": "0xCoco",
+	"symbol": "COCO",
 	"name": "0xCoco",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31102/thumb/FL1-g3Ns_400x400.jpg?1696529933",
 	"coingecko": "0xcoco",
 	"sources": [
 		"coingecko"

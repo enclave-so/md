@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xCbfef8fdd706cde6F208460f2Bf39Aa9c785F05D",
-	"symbol": "Kine Protocol",
+	"symbol": "KINE",
 	"name": "Kine Protocol",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14339/thumb/kine.jpg?1696514026",
 	"coingecko": "kine-protocol",
 	"sources": [
 		"coingecko"

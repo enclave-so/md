@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xDE5ed76E7c05eC5e4572CfC88d1ACEA165109E44",
-	"symbol": "DEUS Finance",
+	"symbol": "DEUS",
 	"name": "DEUS Finance",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/18778/thumb/Black_Background_200x200.png?1696518242",
 	"coingecko": "deus-finance-2",
 	"sources": [
 		"coingecko"

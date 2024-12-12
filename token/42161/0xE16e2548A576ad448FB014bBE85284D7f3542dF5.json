@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0xE16e2548A576ad448FB014bBE85284D7f3542dF5",
+	"symbol": "Lumoz",
+	"name": "Lumoz",
+	"coingecko": "lumoz",
+	"sources": [
+		"coingecko"
+	]
+}

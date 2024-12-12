@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0xe550a593d09FBC8DCD557b5C88Cea6946A8b404A",
-	"symbol": "τDoge",
-	"name": "τDoge",
+	"symbol": "tDOGE",
+	"name": "Tau DOGE",
+	"decimals": 8,
+	"logo": "https://tokens.pancakeswap.finance/images/0xe550a593d09FBC8DCD557b5C88Cea6946A8b404A.png",
 	"coingecko": "tdoge",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

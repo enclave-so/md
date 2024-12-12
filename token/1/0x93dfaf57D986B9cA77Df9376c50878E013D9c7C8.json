@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x93dfaf57D986B9cA77Df9376c50878E013D9c7C8",
-	"symbol": "Unique One",
+	"symbol": "RARE",
 	"name": "Unique One",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/13458/thumb/Logo_Unique.png?1696513221",
 	"coingecko": "unique-one",
 	"sources": [
 		"coingecko"

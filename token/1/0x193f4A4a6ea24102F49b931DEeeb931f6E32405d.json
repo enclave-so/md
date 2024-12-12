@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x193f4A4a6ea24102F49b931DEeeb931f6E32405d",
-	"symbol": "Telos",
+	"symbol": "TLOS",
 	"name": "Telos",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/7588/thumb/tlos_png.png?1722391289",
 	"coingecko": "telos",
 	"sources": [
 		"coingecko"

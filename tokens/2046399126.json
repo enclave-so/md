@@ -1,25 +1,12 @@
 [
 	{
 		"chain": 2046399126,
-		"address": "0xCfEBA92BD362B2F76fC30a89C433DE50a1D62BcA",
-		"symbol": "EXD",
-		"name": "Exorde Network Token",
+		"address": "0xD2Aaa00700000000000000000000000000000000",
+		"symbol": "ETH",
+		"name": "Ether",
 		"decimals": 18,
-		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/skale-europa/0xCfEBA92BD362B2F76fC30a89C433DE50a1D62BcA.jpg",
-		"coingecko": "exorde",
-		"sources": [
-			"coingecko",
-			"sushiswap"
-		]
-	},
-	{
-		"chain": 2046399126,
-		"address": "0x57A3d5FAa172F5984cdcd4885fd4F0baAC88e558",
-		"symbol": "HMKR",
-		"name": "Europa HITMAKR",
-		"decimals": 9,
-		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/skale-europa/0x57A3d5FAa172F5984cdcd4885fd4F0baAC88e558.jpg",
-		"coingecko": "hitmakr",
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/skale-europa/0xD2Aaa00700000000000000000000000000000000.jpg",
+		"coingecko": "wrapped-eth-skale",
 		"sources": [
 			"coingecko",
 			"sushiswap"
@@ -38,23 +25,25 @@
 	},
 	{
 		"chain": 2046399126,
-		"address": "0x28c6ac22aB738BB01FC6CBA75804dC088aae6193",
-		"symbol": "BRAWL",
-		"name": "Block Brawlers BRAWL",
-		"decimals": 18,
-		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/skale-europa/0x28c6ac22aB738BB01FC6CBA75804dC088aae6193.jpg",
-		"sources": [
-			"sushiswap"
-		]
-	},
-	{
-		"chain": 2046399126,
 		"address": "0x73d22d8a2D1f59Bf5Bcf62cA382481a2073FAF58",
 		"symbol": "USDP",
 		"name": "Pax Dollar",
 		"decimals": 18,
 		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/skale-europa/0x73d22d8a2D1f59Bf5Bcf62cA382481a2073FAF58.jpg",
 		"coingecko": "skale-ima-bridged-usdp",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 2046399126,
+		"address": "0x5F795bb52dAC3085f578f4877D450e2929D2F13d",
+		"symbol": "USDC",
+		"name": "USD Coin",
+		"decimals": 6,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/skale-europa/0x5F795bb52dAC3085f578f4877D450e2929D2F13d.jpg",
+		"coingecko": "ima-bridged-usdc-skale",
 		"sources": [
 			"coingecko",
 			"sushiswap"
@@ -75,19 +64,6 @@
 	},
 	{
 		"chain": 2046399126,
-		"address": "0xcb011E86DF014a46F4e3AC3F3cbB114A4EB80870",
-		"symbol": "WBTC",
-		"name": "Wrapped WBTC",
-		"decimals": 8,
-		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/skale-europa/0xcb011E86DF014a46F4e3AC3F3cbB114A4EB80870.jpg",
-		"coingecko": "skale-ima-bridged-wbtc",
-		"sources": [
-			"coingecko",
-			"sushiswap"
-		]
-	},
-	{
-		"chain": 2046399126,
 		"address": "0x883CFBd30bD076a063A453335414909545186275",
 		"symbol": "Cryptopia",
 		"name": "Cryptopia",
@@ -98,38 +74,23 @@
 	},
 	{
 		"chain": 2046399126,
-		"address": "0x31E0B85Eff93fc3cb5423cd3E23868F5B18fF0bB",
-		"symbol": "CMPS",
-		"name": "Compass",
+		"address": "0x28c6ac22aB738BB01FC6CBA75804dC088aae6193",
+		"symbol": "BRAWL",
+		"name": "Block Brawlers BRAWL",
 		"decimals": 18,
-		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/skale-europa/0x31E0B85Eff93fc3cb5423cd3E23868F5B18fF0bB.jpg",
-		"coingecko": "haven-s-compass",
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/skale-europa/0x28c6ac22aB738BB01FC6CBA75804dC088aae6193.jpg",
 		"sources": [
-			"coingecko",
 			"sushiswap"
 		]
 	},
 	{
 		"chain": 2046399126,
-		"address": "0xD2Aaa00700000000000000000000000000000000",
-		"symbol": "ETH",
-		"name": "Ether",
+		"address": "0xCfEBA92BD362B2F76fC30a89C433DE50a1D62BcA",
+		"symbol": "EXD",
+		"name": "Exorde Network Token",
 		"decimals": 18,
-		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/skale-europa/0xD2Aaa00700000000000000000000000000000000.jpg",
-		"coingecko": "wrapped-eth-skale",
-		"sources": [
-			"coingecko",
-			"sushiswap"
-		]
-	},
-	{
-		"chain": 2046399126,
-		"address": "0xcdF030a3E65f917DFa8d74555A64a5eC5303c88e",
-		"symbol": "FLAG",
-		"name": "ForLootAndGlory",
-		"decimals": 18,
-		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/skale-europa/0xcdF030a3E65f917DFa8d74555A64a5eC5303c88e.jpg",
-		"coingecko": "for-loot-and-glory",
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/skale-europa/0xCfEBA92BD362B2F76fC30a89C433DE50a1D62BcA.jpg",
+		"coingecko": "exorde",
 		"sources": [
 			"coingecko",
 			"sushiswap"
@@ -148,12 +109,25 @@
 	},
 	{
 		"chain": 2046399126,
-		"address": "0xE0595a049d02b7674572b0d59cd4880Db60EDC50",
-		"symbol": "SKL",
-		"name": "SKALE",
+		"address": "0xcb011E86DF014a46F4e3AC3F3cbB114A4EB80870",
+		"symbol": "WBTC",
+		"name": "Wrapped WBTC",
+		"decimals": 8,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/skale-europa/0xcb011E86DF014a46F4e3AC3F3cbB114A4EB80870.jpg",
+		"coingecko": "skale-ima-bridged-wbtc",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 2046399126,
+		"address": "0x31E0B85Eff93fc3cb5423cd3E23868F5B18fF0bB",
+		"symbol": "CMPS",
+		"name": "Compass",
 		"decimals": 18,
-		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/skale-europa/0xE0595a049d02b7674572b0d59cd4880Db60EDC50.jpg",
-		"coingecko": "skale",
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/skale-europa/0x31E0B85Eff93fc3cb5423cd3E23868F5B18fF0bB.jpg",
+		"coingecko": "haven-s-compass",
 		"sources": [
 			"coingecko",
 			"sushiswap"
@@ -174,12 +148,38 @@
 	},
 	{
 		"chain": 2046399126,
-		"address": "0x5F795bb52dAC3085f578f4877D450e2929D2F13d",
-		"symbol": "USDC",
-		"name": "USD Coin",
-		"decimals": 6,
-		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/skale-europa/0x5F795bb52dAC3085f578f4877D450e2929D2F13d.jpg",
-		"coingecko": "ima-bridged-usdc-skale",
+		"address": "0xcdF030a3E65f917DFa8d74555A64a5eC5303c88e",
+		"symbol": "FLAG",
+		"name": "ForLootAndGlory",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/skale-europa/0xcdF030a3E65f917DFa8d74555A64a5eC5303c88e.jpg",
+		"coingecko": "for-loot-and-glory",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 2046399126,
+		"address": "0x57A3d5FAa172F5984cdcd4885fd4F0baAC88e558",
+		"symbol": "HMKR",
+		"name": "Europa HITMAKR",
+		"decimals": 9,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/skale-europa/0x57A3d5FAa172F5984cdcd4885fd4F0baAC88e558.jpg",
+		"coingecko": "hitmakr",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 2046399126,
+		"address": "0xE0595a049d02b7674572b0d59cd4880Db60EDC50",
+		"symbol": "SKL",
+		"name": "SKALE",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/skale-europa/0xE0595a049d02b7674572b0d59cd4880Db60EDC50.jpg",
+		"coingecko": "skale",
 		"sources": [
 			"coingecko",
 			"sushiswap"

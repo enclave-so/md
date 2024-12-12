@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x53C8395465A84955c95159814461466053DedEDE",
-	"symbol": "DeGate",
+	"symbol": "DG",
 	"name": "DeGate",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14415/thumb/DG_token_brand_web_rgb_blue.png?1696514106",
 	"coingecko": "degate",
 	"sources": [
 		"coingecko"

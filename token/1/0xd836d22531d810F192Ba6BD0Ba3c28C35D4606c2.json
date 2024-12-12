@@ -3,6 +3,8 @@
 	"address": "0xd836d22531d810F192Ba6BD0Ba3c28C35D4606c2",
 	"symbol": "BONKBEST",
 	"name": "BONKBEST",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/34421/thumb/IMG_20240108_204110_824.jpg?1704821712",
 	"coingecko": "bonkbest",
 	"sources": [
 		"coingecko"

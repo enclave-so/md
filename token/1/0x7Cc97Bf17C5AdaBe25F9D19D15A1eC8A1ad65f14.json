@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x7Cc97Bf17C5AdaBe25F9D19D15A1eC8A1ad65f14",
-	"symbol": "Wolverinu",
+	"symbol": "WOLVERINU",
 	"name": "Wolverinu",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/27872/thumb/LOGO3232.jpg?1696526890",
 	"coingecko": "wolverinu-2",
 	"sources": [
 		"coingecko"

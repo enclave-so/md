@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x102dC1840f0C3C179670f21fa63597E82df34e60",
-	"symbol": "Virtucloud",
+	"symbol": "VIRTU",
 	"name": "Virtucloud",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35610/thumb/1000004130.png?1709281192",
 	"coingecko": "virtucloud",
 	"sources": [
 		"coingecko"

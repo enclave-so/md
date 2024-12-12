@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xB459F7204A8Ac84F9e7758d6d839eBD01670E35C",
-	"symbol": "Lotty",
+	"symbol": "LOTTY",
 	"name": "Lotty",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31018/thumb/download.png?1696529854",
 	"coingecko": "lotty",
 	"sources": [
 		"coingecko"

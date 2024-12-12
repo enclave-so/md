@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x814A870726EdB7Dfc4798300ae1ce3E5Da0Ac467",
-	"symbol": "daCat",
+	"symbol": "DACAT",
 	"name": "daCat",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/34801/thumb/200x200.png?1706075099",
 	"coingecko": "dacat",
 	"sources": [
 		"coingecko"

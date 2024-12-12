@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xE5097D9baeAFB89f9bcB78C9290d545dB5f9e9CB",
-	"symbol": "Hummingbot",
+	"symbol": "HBOT",
 	"name": "Hummingbot",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/21717/thumb/PDPuf0tJ_400x400.jpg?1696521072",
 	"coingecko": "hummingbot",
 	"sources": [
 		"coingecko"

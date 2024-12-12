@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xBa25B2281214300E4e649feAd9A6d6acD25f1c0a",
-	"symbol": "Tree",
+	"symbol": "TREE",
 	"name": "Tree",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/33727/thumb/circle_green.png?1709894067",
 	"coingecko": "tree-capital",
 	"sources": [
 		"coingecko"

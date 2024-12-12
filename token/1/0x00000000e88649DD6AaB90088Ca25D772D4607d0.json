@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x00000000e88649DD6AaB90088Ca25D772D4607d0",
-	"symbol": "Underworld",
+	"symbol": "UDW",
 	"name": "Underworld",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/36704/thumb/UDW-HR-Ticker.jpg?1712125179",
 	"coingecko": "underworld",
 	"sources": [
 		"coingecko"

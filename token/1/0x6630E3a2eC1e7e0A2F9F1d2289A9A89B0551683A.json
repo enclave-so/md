@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x6630E3a2eC1e7e0A2F9F1d2289A9A89B0551683A",
-	"symbol": "dogwifsaudihat",
+	"symbol": "WIFSA",
 	"name": "dogwifsaudihat",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/36885/thumb/Qr2lN8au_400x400.jpg?1712649792",
 	"coingecko": "dogwifsaudihat",
 	"sources": [
 		"coingecko"

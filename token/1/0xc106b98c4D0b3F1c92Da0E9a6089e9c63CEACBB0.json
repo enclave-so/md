@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xc106b98c4D0b3F1c92Da0E9a6089e9c63CEACBB0",
-	"symbol": "TrendAppend",
+	"symbol": "TRND",
 	"name": "TrendAppend",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/35190/thumb/avatar-clear.PNG?1716877224",
 	"coingecko": "trendappend",
 	"sources": [
 		"coingecko"

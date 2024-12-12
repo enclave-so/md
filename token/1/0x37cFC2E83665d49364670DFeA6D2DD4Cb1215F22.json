@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x37cFC2E83665d49364670DFeA6D2DD4Cb1215F22",
-	"symbol": "Astrid Restaked rETH",
+	"symbol": "RRETH",
 	"name": "Astrid Restaked rETH",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/32267/thumb/astridlogo_copy.png?1697166279",
 	"coingecko": "astrid-restaked-reth",
 	"sources": [
 		"coingecko"

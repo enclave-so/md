@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0x9840652DC04fb9db2C43853633f0F62BE6f00f98",
-	"symbol": "ChainGPT",
+	"symbol": "CGPT",
 	"name": "ChainGPT",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x9840652DC04fb9db2C43853633f0F62BE6f00f98.png",
 	"coingecko": "chaingpt",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

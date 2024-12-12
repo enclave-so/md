@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0x2c9084E65D046146d6CFc26Bf45F5b80042b90EB",
+	"symbol": "THING",
+	"name": "Current Thing",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/THING/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

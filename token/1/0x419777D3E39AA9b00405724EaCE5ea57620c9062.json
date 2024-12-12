@@ -3,6 +3,8 @@
 	"address": "0x419777D3E39AA9b00405724EaCE5ea57620c9062",
 	"symbol": "PAW",
 	"name": "PAW",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/32118/thumb/photo1701025138-removebg-preview__5_-removebg-preview.png?1701386426",
 	"coingecko": "paw-2",
 	"sources": [
 		"coingecko"

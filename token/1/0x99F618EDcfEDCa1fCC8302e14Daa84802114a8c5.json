@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x99F618EDcfEDCa1fCC8302e14Daa84802114a8c5",
-	"symbol": "DecentraBNB",
+	"symbol": "DBNB",
 	"name": "DecentraBNB",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/26544/thumb/Screenshot_2022-07-22_at_18.16.11.png?1696525617",
 	"coingecko": "decentrabnb",
 	"sources": [
 		"coingecko"

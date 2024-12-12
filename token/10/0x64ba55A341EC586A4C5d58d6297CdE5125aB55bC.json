@@ -1,0 +1,11 @@
+{
+	"chain": 10,
+	"address": "0x64ba55A341EC586A4C5d58d6297CdE5125aB55bC",
+	"symbol": "SCRY",
+	"name": "Scry Protocol",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/SCRY/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

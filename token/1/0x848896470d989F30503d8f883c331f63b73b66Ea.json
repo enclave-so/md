@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x848896470d989F30503d8f883c331f63b73b66Ea",
-	"symbol": "Medicle",
+	"symbol": "MDI",
 	"name": "Medicle",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31082/thumb/Medicle%28MDI%29_NEW_.png?1696529915",
 	"coingecko": "medicle",
 	"sources": [
 		"coingecko"

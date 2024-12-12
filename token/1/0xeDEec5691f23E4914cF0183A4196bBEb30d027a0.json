@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xeDEec5691f23E4914cF0183A4196bBEb30d027a0",
-	"symbol": "Wrapped Statera",
+	"symbol": "WSTA",
 	"name": "Wrapped Statera",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/13599/thumb/wsta_logo.png?1696513350",
 	"coingecko": "wrapped-statera",
 	"sources": [
 		"coingecko"

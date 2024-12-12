@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xF107edABF59ba696E38DE62Ad5327415Bd4D4236",
-	"symbol": "CatSlap",
+	"symbol": "SLAP",
 	"name": "CatSlap",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/51985/thumb/Cat_Slap_200x200_Logo_1.png?1732292609",
 	"coingecko": "catslap",
 	"sources": [
 		"coingecko"

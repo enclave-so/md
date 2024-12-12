@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0xDd1Ad9A21Ce722C151A836373baBe42c868cE9a4",
-	"symbol": "Universal Basic Income",
+	"symbol": "UBI",
 	"name": "Universal Basic Income",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/15269/thumb/ubi.png?1696514921",
 	"coingecko": "universal-basic-income",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xBe92B510007bD3eC0AdB3d1FCA338DD631E98De7",
-	"symbol": "DegensTogether",
+	"symbol": "DEGEN",
 	"name": "DegensTogether",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30487/thumb/degen_logo_twit.png?1696529373",
 	"coingecko": "degenstogether",
 	"sources": [
 		"coingecko"

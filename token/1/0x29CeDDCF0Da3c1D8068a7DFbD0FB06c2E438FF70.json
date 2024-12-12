@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x29CeDDCF0Da3c1D8068a7DFbD0FB06c2E438FF70",
-	"symbol": "Freela",
+	"symbol": "FREL",
 	"name": "Freela",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/15856/thumb/freela.PNG?1696515472",
 	"coingecko": "freela",
 	"sources": [
 		"coingecko"

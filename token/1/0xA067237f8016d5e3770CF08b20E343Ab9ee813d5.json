@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xA067237f8016d5e3770CF08b20E343Ab9ee813d5",
-	"symbol": "Greelance",
+	"symbol": "GRL",
 	"name": "Greelance",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/31387/thumb/G-logo.jpg?1696530204",
 	"coingecko": "greelance",
 	"sources": [
 		"coingecko"

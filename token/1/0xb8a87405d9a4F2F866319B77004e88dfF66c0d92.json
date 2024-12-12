@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xb8a87405d9a4F2F866319B77004e88dfF66c0d92",
-	"symbol": "Sora AI",
+	"symbol": "SORA",
 	"name": "Sora AI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35293/thumb/IMG_20240315_205215_106.jpg?1710729039",
 	"coingecko": "sora-ai",
 	"sources": [
 		"coingecko"

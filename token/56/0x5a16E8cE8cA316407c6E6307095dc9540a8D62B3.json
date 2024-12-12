@@ -1,0 +1,11 @@
+{
+	"chain": 56,
+	"address": "0x5a16E8cE8cA316407c6E6307095dc9540a8D62B3",
+	"symbol": "BTR",
+	"name": "Bittrue",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x5a16E8cE8cA316407c6E6307095dc9540a8D62B3.png",
+	"sources": [
+		"pancakeswap"
+	]
+}

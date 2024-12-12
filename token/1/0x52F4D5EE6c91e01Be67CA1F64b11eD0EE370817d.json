@@ -3,6 +3,8 @@
 	"address": "0x52F4D5EE6c91e01Be67CA1F64b11eD0EE370817d",
 	"symbol": "CIA",
 	"name": "CIA",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/21569/thumb/Untitled-design-24.png?1696520929",
 	"coingecko": "cia",
 	"sources": [
 		"coingecko"

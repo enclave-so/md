@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xC8EF1460277EA47d179dEc66D1c5f8b7f7aE5a28",
-	"symbol": "Rikkei Finance",
+	"symbol": "RIFI",
 	"name": "Rikkei Finance",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/21309/thumb/rikkei-finance.jpeg?1696520678",
 	"coingecko": "rikkei-finance",
 	"sources": [
 		"coingecko"

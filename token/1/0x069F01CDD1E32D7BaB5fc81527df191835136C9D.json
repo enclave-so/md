@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x069F01CDD1E32D7BaB5fc81527df191835136C9D",
-	"symbol": "Apu Gurl",
+	"symbol": "APUGURL",
 	"name": "Apu Gurl",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/38445/thumb/Apu_Gurl200.png?1717555433",
 	"coingecko": "apu-gurl",
 	"sources": [
 		"coingecko"

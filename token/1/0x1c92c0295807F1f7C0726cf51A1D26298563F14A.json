@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x1c92c0295807F1f7C0726cf51A1D26298563F14A",
-	"symbol": "Coinracer Reloaded",
+	"symbol": "CRACER",
 	"name": "Coinracer Reloaded",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35901/thumb/rnJCJjcJ_400x400.jpg?1710170518",
 	"coingecko": "coinracer-reloaded",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xa89B728708Be04f57c7a33C6f790B6F077298e26",
-	"symbol": "ReptilianZuckerBidenBartcoin",
+	"symbol": "BART",
 	"name": "ReptilianZuckerBidenBartcoin",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/32599/thumb/bart.png?1698724602",
 	"coingecko": "reptilianzuckerbidenbartcoin",
 	"sources": [
 		"coingecko"

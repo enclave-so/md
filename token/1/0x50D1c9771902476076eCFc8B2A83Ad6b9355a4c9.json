@@ -2,9 +2,9 @@
 	"chain": 1,
 	"address": "0x50D1c9771902476076eCFc8B2A83Ad6b9355a4c9",
 	"symbol": "FTT",
-	"name": "FTX Token",
+	"name": "FTX",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x50D1c9771902476076eCFc8B2A83Ad6b9355a4c9/logo.png",
+	"logo": "https://assets.coingecko.com/coins/images/9026/thumb/F.png?1696509161",
 	"coingecko": "ftx-token",
 	"sources": [
 		"coingecko",

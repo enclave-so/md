@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x2d869aE129e308F94Cc47E66eaefb448CEe0d03e",
-	"symbol": "OraiDEX",
+	"symbol": "ORAIX",
 	"name": "OraiDEX",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/28104/thumb/oraix.png?1696527113",
 	"coingecko": "oraidex",
 	"sources": [
 		"coingecko"

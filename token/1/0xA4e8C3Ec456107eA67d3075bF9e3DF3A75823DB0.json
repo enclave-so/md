@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0xA4e8C3Ec456107eA67d3075bF9e3DF3A75823DB0",
-	"symbol": "Loom Network (OLD)",
-	"name": "Loom Network (OLD)",
+	"symbol": "LOOM",
+	"name": "Loom Network",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA4e8C3Ec456107eA67d3075bF9e3DF3A75823DB0/logo.png",
 	"coingecko": "loom-network",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"uniswap"
 	]
 }

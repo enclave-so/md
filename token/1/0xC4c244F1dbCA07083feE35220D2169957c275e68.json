@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xC4c244F1dbCA07083feE35220D2169957c275e68",
-	"symbol": "Steak",
+	"symbol": "STEAK",
 	"name": "Steak",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/36597/thumb/Small_STEAK_Token_Logo_%28200_x_200_px%29.png?1711950525",
 	"coingecko": "steak",
 	"sources": [
 		"coingecko"

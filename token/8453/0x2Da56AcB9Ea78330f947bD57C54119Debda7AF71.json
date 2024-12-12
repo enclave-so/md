@@ -1,10 +1,14 @@
 {
 	"chain": 8453,
 	"address": "0x2Da56AcB9Ea78330f947bD57C54119Debda7AF71",
-	"symbol": "Mog Coin",
+	"symbol": "MOG",
 	"name": "Mog Coin",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31059/large/MOG_LOGO_200x200.png",
 	"coingecko": "mog-coin",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism",
+		"uniswap"
 	]
 }

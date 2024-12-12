@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x93c5a00b41FB5f3906b421b2399Ac64b79fdBD42",
-	"symbol": "Voidz",
+	"symbol": "VDZ",
 	"name": "Voidz",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/36474/thumb/XcJAYXs7_400x400.jpg?1711527406",
 	"coingecko": "voidz",
 	"sources": [
 		"coingecko"

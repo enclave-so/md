@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xB14eBF566511B9e6002bB286016AB2497B9b9c9D",
-	"symbol": "Hypersign Identity",
+	"symbol": "HID",
 	"name": "Hypersign Identity",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/16158/thumb/hypersign.png?1696515762",
 	"coingecko": "hypersign-identity-token",
 	"sources": [
 		"coingecko"

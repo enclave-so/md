@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xc690F7C7FcfFA6a82b79faB7508c466FEfdfc8c5",
-	"symbol": "Lympo",
+	"symbol": "LYM",
 	"name": "Lympo",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/2620/thumb/lympo_token.png?1696503417",
 	"coingecko": "lympo",
 	"sources": [
 		"coingecko"

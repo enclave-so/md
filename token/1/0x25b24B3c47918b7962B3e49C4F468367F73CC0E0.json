@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x25b24B3c47918b7962B3e49C4F468367F73CC0E0",
-	"symbol": "AXL INU",
+	"symbol": "AXL",
 	"name": "AXL INU",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/22191/thumb/Original_Logo-01.png?1696521535",
 	"coingecko": "axl-inu",
 	"sources": [
 		"coingecko"

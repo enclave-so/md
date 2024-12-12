@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x0880164084017b8d49Baa0A33F545aD55914E9Fd",
-	"symbol": "DT Inu",
+	"symbol": "DTI",
 	"name": "DT Inu",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/38246/thumb/DTI_Avatar_CG.png?1716890507",
 	"coingecko": "dt-inu",
 	"sources": [
 		"coingecko"

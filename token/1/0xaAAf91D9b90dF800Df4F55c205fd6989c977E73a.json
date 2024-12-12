@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xaAAf91D9b90dF800Df4F55c205fd6989c977E73a",
-	"symbol": "Monolith",
+	"symbol": "TKN",
 	"name": "Monolith",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/675/thumb/Monolith.png?1696501865",
 	"coingecko": "tokencard",
 	"sources": [
 		"coingecko"

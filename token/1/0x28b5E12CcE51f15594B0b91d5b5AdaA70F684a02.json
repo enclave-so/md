@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x28b5E12CcE51f15594B0b91d5b5AdaA70F684a02",
-	"symbol": "Napoleon X",
+	"symbol": "NPX",
 	"name": "Napoleon X",
+	"decimals": 2,
+	"logo": "https://assets.coingecko.com/coins/images/1471/thumb/napoleon-x.jpg?1696502517",
 	"coingecko": "napoleon-x",
 	"sources": [
 		"coingecko"

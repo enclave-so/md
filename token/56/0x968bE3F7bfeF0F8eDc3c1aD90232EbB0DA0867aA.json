@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0x968bE3F7bfeF0F8eDc3c1aD90232EbB0DA0867aA",
-	"symbol": "Seedworld",
+	"symbol": "SWORLD",
 	"name": "Seedworld",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x968bE3F7bfeF0F8eDc3c1aD90232EbB0DA0867aA.png",
 	"coingecko": "seedworld",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

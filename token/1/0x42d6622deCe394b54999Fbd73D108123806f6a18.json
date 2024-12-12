@@ -2,10 +2,11 @@
 	"chain": 1,
 	"address": "0x42d6622deCe394b54999Fbd73D108123806f6a18",
 	"symbol": "SPANK",
-	"name": "SpankChain",
+	"name": "SPANK",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x42d6622deCe394b54999Fbd73D108123806f6a18/logo.png",
+	"logo": "https://ethereum-optimism.github.io/data/SPANK/logo.png",
 	"sources": [
+		"optimism",
 		"sushiswap"
 	]
 }

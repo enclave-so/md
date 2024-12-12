@@ -1,10 +1,14 @@
 {
 	"chain": 8453,
 	"address": "0xBAa5CC21fd487B8Fcc2F632f3F4E8D37262a0842",
-	"symbol": "Morpho",
-	"name": "Morpho",
+	"symbol": "MORPHO",
+	"name": "Morpho Token",
+	"decimals": 18,
+	"logo": "https://coin-images.coingecko.com/coins/images/29837/large/Morpho-token-icon.png?1726771230",
 	"coingecko": "morpho",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism",
+		"uniswap"
 	]
 }

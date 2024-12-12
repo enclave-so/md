@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x1BeEF31946fbbb40B877a72E4ae04a8D1A5Cee06",
-	"symbol": "Parachute",
+	"symbol": "PAR",
 	"name": "Parachute",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/7590/thumb/Parachute_Logo.png?1696507850",
 	"coingecko": "parachute",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x46b2DeAe6eFf3011008EA27EA36b7c27255ddFA9",
-	"symbol": "dYdX",
+	"symbol": "WETHDYDX",
 	"name": "dYdX",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/32595/thumb/dydx.png?1698673699",
 	"coingecko": "dydx-wethdydx",
 	"sources": [
 		"coingecko"

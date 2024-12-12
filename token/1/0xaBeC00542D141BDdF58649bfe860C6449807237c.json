@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xaBeC00542D141BDdF58649bfe860C6449807237c",
-	"symbol": "CruxDecussata",
+	"symbol": "X",
 	"name": "CruxDecussata",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31246/thumb/Asset_1.png?1696530071",
 	"coingecko": "x-com",
 	"sources": [
 		"coingecko"

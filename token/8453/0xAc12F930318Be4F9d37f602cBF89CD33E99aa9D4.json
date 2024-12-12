@@ -1,10 +1,13 @@
 {
 	"chain": 8453,
 	"address": "0xAc12F930318Be4F9d37f602cBF89CD33E99aa9D4",
-	"symbol": "Wexo",
-	"name": "Wexo",
+	"symbol": "WEXO",
+	"name": "WEXO",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/WEXO/logo.png",
 	"coingecko": "wexo",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

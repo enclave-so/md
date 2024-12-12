@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xFAce851a4921ce59e912d19329929CE6da6EB0c7",
-	"symbol": "cLINK",
+	"symbol": "CLINK",
 	"name": "cLINK",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/23943/thumb/iShot2022-02-25_14.35.54.png?1696523139",
 	"coingecko": "compound-chainlink-token",
 	"sources": [
 		"coingecko"

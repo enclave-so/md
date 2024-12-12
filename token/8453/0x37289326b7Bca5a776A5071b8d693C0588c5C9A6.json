@@ -1,0 +1,11 @@
+{
+	"chain": 8453,
+	"address": "0x37289326b7Bca5a776A5071b8d693C0588c5C9A6",
+	"symbol": "NFD",
+	"name": "Feisty Doge",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/NFD/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

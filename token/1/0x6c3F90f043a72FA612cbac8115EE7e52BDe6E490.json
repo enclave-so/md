@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x6c3F90f043a72FA612cbac8115EE7e52BDe6E490",
-	"symbol": "LP 3pool Curve",
+	"symbol": "3CRV",
 	"name": "LP 3pool Curve",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/12972/thumb/3pool_128.png?1696512759",
 	"coingecko": "lp-3pool-curve",
 	"sources": [
 		"coingecko"

@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0xCb9f85730f57732fc899fb158164b9Ed60c77D49",
+	"symbol": "stkLYRA",
+	"name": "Staked Lyra",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/stkLYRA/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

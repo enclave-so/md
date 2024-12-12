@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x3d9a4D8ab4F5bd1D5D08Ae3A95e8ED8BB4d7e3B9",
-	"symbol": "STONKSDAO",
+	"symbol": "STONKS",
 	"name": "STONKSDAO",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/29976/thumb/Final_Logo_%281%29_%281%29.png?1696528901",
 	"coingecko": "stonksdao",
 	"sources": [
 		"coingecko"

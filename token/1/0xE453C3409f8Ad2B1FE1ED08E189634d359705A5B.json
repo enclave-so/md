@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xE453C3409f8Ad2B1FE1ED08E189634d359705A5B",
-	"symbol": "DGI Game",
+	"symbol": "DGI",
 	"name": "DGI Game",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/34658/thumb/DGI_Game.png?1705633633",
 	"coingecko": "dgi-game",
 	"sources": [
 		"coingecko"

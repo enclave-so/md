@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x6307B25A665Efc992EC1C1bC403c38F3dDd7c661",
-	"symbol": "Global Coin Research",
+	"symbol": "GCR",
 	"name": "Global Coin Research",
+	"decimals": 4,
+	"logo": "https://assets.coingecko.com/coins/images/14815/thumb/gcr.jpeg?1696514483",
 	"coingecko": "global-coin-research",
 	"sources": [
 		"coingecko"

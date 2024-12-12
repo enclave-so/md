@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x1a3A8Cf347b2bF5890D3D6A1B981c4f4432C8661",
-	"symbol": "Flying Avocado Cat",
+	"symbol": "FAC",
 	"name": "Flying Avocado Cat",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/34223/thumb/Flying_Avocado_Cat.jpg?1704298390",
 	"coingecko": "flying-avocado-cat",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xB668473944d2E25B6aF6D46917Eb0233DBaC53ae",
-	"symbol": "Neton",
+	"symbol": "NTO",
 	"name": "Neton",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/25418/thumb/lqT0CJNj_400x400.jpg?1696524549",
 	"coingecko": "neton",
 	"sources": [
 		"coingecko"

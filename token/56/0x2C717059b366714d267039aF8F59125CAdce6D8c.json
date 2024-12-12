@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0x2C717059b366714d267039aF8F59125CAdce6D8c",
-	"symbol": "MetaShooter",
+	"symbol": "MHUNT",
 	"name": "MetaShooter",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x2C717059b366714d267039aF8F59125CAdce6D8c.png",
 	"coingecko": "metashooter",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

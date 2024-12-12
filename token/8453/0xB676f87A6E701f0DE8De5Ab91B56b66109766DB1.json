@@ -1,10 +1,14 @@
 {
 	"chain": 8453,
 	"address": "0xB676f87A6E701f0DE8De5Ab91B56b66109766DB1",
-	"symbol": "BLOCKLORDS",
+	"symbol": "LRDS",
 	"name": "BLOCKLORDS",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/34775/standard/LRDS_PNG.png",
 	"coingecko": "blocklords",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism",
+		"uniswap"
 	]
 }

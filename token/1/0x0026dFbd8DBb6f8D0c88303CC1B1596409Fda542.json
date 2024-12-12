@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x0026dFbd8DBb6f8D0c88303CC1B1596409Fda542",
-	"symbol": "SANSHU!",
-	"name": "SANSHU!",
+	"symbol": "SANSHU",
+	"name": "SANSHU ",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35739/thumb/blobid0.png?1710233593",
 	"coingecko": "sanshu",
 	"sources": [
 		"coingecko"

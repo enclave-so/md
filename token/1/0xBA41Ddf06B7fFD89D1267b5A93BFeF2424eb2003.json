@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xBA41Ddf06B7fFD89D1267b5A93BFeF2424eb2003",
-	"symbol": "Mythos",
+	"symbol": "MYTH",
 	"name": "Mythos",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/28045/thumb/Mythos_Logos_200x200.png?1696527059",
 	"coingecko": "mythos",
 	"sources": [
 		"coingecko"

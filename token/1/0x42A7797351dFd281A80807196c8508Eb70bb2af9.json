@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x42A7797351dFd281A80807196c8508Eb70bb2af9",
-	"symbol": "AISociety",
+	"symbol": "AIS",
 	"name": "AISociety",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/32861/thumb/AIS_Symbol.png?1699669819",
 	"coingecko": "aisociety",
 	"sources": [
 		"coingecko"

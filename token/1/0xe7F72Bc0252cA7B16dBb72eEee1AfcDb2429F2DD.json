@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xe7F72Bc0252cA7B16dBb72eEee1AfcDb2429F2DD",
-	"symbol": "NFTLaunch",
+	"symbol": "NFTL",
 	"name": "NFTLaunch",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/18140/thumb/nftl.PNG?1696517643",
 	"coingecko": "nftlaunch",
 	"sources": [
 		"coingecko"

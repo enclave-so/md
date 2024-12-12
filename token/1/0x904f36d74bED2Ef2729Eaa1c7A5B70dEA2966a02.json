@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x904f36d74bED2Ef2729Eaa1c7A5B70dEA2966a02",
-	"symbol": "Blueberry",
+	"symbol": "BLB",
 	"name": "Blueberry",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35312/thumb/Blueberry_Logoblack.png?1718261965",
 	"coingecko": "blueberry",
 	"sources": [
 		"coingecko"

@@ -1,0 +1,11 @@
+{
+	"chain": 8453,
+	"address": "0xB5617AC8918CDC0e877c9Fb7e75B9dF62DBD539B",
+	"symbol": "ZUN",
+	"name": "Zunami Governance Token",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/ZUN/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

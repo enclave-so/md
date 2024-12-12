@@ -1,10 +1,13 @@
 {
 	"chain": 10,
 	"address": "0x73cb180bf0521828d8849bc8CF2B920918e23032",
-	"symbol": "Overnight.fi USD+ (Optimism)",
-	"name": "Overnight.fi USD+ (Optimism)",
+	"symbol": "USD+",
+	"name": "USD+",
+	"decimals": 6,
+	"logo": "https://ethereum-optimism.github.io/data/USDplus/logo.svg",
 	"coingecko": "overnight-fi-usd-optimism",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

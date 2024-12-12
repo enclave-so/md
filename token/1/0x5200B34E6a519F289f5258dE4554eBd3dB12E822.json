@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x5200B34E6a519F289f5258dE4554eBd3dB12E822",
-	"symbol": "Goatseus Maximus",
+	"symbol": "GOAT",
 	"name": "Goatseus Maximus",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/50775/thumb/1000023040.jpg?1731154675",
 	"coingecko": "goatseus-maximus-on-eth",
 	"sources": [
 		"coingecko"

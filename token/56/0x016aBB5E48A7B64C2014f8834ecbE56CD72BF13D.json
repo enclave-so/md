@@ -1,0 +1,11 @@
+{
+	"chain": 56,
+	"address": "0x016aBB5E48A7B64C2014f8834ecbE56CD72BF13D",
+	"symbol": "esRDNT",
+	"name": "Radpie esRDNT",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x016aBB5E48A7B64C2014f8834ecbE56CD72BF13D.png",
+	"sources": [
+		"pancakeswap"
+	]
+}

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x1142866f451d9d5281C5C8349a332bD338e552a1",
-	"symbol": "SuperMarioPorsche911Inu",
+	"symbol": "SILKROAD",
 	"name": "SuperMarioPorsche911Inu",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31649/thumb/smp911i_logo400x400_%283%29.jpg?1696530464",
 	"coingecko": "supermarioporsche911inu",
 	"sources": [
 		"coingecko"

@@ -4,10 +4,12 @@
 	"symbol": "sUSD",
 	"name": "Synth sUSD",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/optimism/0x8c6f28f2F1A3C87F0f938b96d27520d9751ec8d9.jpg",
+	"logo": "https://assets.coingecko.com/coins/images/5013/thumb/sUSD.png?1616150765",
 	"coingecko": "susd-optimism",
 	"sources": [
 		"coingecko",
-		"sushiswap"
+		"optimism",
+		"sushiswap",
+		"uniswap"
 	]
 }

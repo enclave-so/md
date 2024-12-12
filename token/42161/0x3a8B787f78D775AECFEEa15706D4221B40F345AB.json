@@ -2,12 +2,13 @@
 	"chain": 42161,
 	"address": "0x3a8B787f78D775AECFEEa15706D4221B40F345AB",
 	"symbol": "CELR",
-	"name": "CelerToken",
+	"name": "Celer Network",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/celr.jpg",
+	"logo": "https://assets.coingecko.com/coins/images/4379/thumb/Celr.png?1554705437",
 	"coingecko": "celer-network",
 	"sources": [
 		"coingecko",
-		"sushiswap"
+		"sushiswap",
+		"uniswap"
 	]
 }

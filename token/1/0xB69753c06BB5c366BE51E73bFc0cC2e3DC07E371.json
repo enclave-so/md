@@ -3,6 +3,8 @@
 	"address": "0xB69753c06BB5c366BE51E73bFc0cC2e3DC07E371",
 	"symbol": "POOH",
 	"name": "POOH",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30091/thumb/Pooh-icon.png?1696529015",
 	"coingecko": "pooh",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x7340eA46360576DC46Ef49bcE99Bc5072c32421d",
-	"symbol": "DollarSqueeze",
+	"symbol": "DSQ",
 	"name": "DollarSqueeze",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30764/thumb/DS.png?1696529632",
 	"coingecko": "dollarsqueeze",
 	"sources": [
 		"coingecko"

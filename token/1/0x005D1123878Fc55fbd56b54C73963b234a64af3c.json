@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x005D1123878Fc55fbd56b54C73963b234a64af3c",
-	"symbol": "Kiba Inu",
+	"symbol": "KIBA",
 	"name": "Kiba Inu",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/19525/thumb/kiba.png?1696518959",
 	"coingecko": "kiba-inu",
 	"sources": [
 		"coingecko"

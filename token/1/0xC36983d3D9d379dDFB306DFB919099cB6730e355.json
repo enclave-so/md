@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xC36983d3D9d379dDFB306DFB919099cB6730e355",
-	"symbol": "Colle AI",
+	"symbol": "COLLE",
 	"name": "Colle AI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/36676/thumb/E9Yq4waZ.png?1712062887",
 	"coingecko": "colle-ai",
 	"sources": [
 		"coingecko"

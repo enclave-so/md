@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x8A0cdfaB62eD35b836DC0633482798421C81b3Ec",
-	"symbol": "Spherium",
+	"symbol": "SPHRI",
 	"name": "Spherium",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/17787/thumb/Group_15.png?1696517311",
 	"coingecko": "spherium",
 	"sources": [
 		"coingecko"

@@ -1,10 +1,14 @@
 {
 	"chain": 1,
 	"address": "0xB98d4C97425d9908E66E53A6fDf673ACcA0BE986",
-	"symbol": "Arcblock",
+	"symbol": "ABT",
 	"name": "Arcblock",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/2341/thumb/arcblock.png?1547036543",
 	"coingecko": "arcblock",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism",
+		"uniswap"
 	]
 }

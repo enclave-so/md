@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x4740735AA98Dc8aa232BD049f8F0210458E7fCa3",
-	"symbol": "Ridotto",
+	"symbol": "RDT",
 	"name": "Ridotto",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/18671/thumb/200x200_%2832%29.png?1696518141",
 	"coingecko": "ridotto",
 	"sources": [
 		"coingecko"

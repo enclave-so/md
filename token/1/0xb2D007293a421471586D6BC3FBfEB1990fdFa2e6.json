@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xb2D007293a421471586D6BC3FBfEB1990fdFa2e6",
-	"symbol": "Governance VEC",
+	"symbol": "GVEC",
 	"name": "Governance VEC",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/36215/thumb/200x200.png?1710836830",
 	"coingecko": "governance-vec",
 	"sources": [
 		"coingecko"

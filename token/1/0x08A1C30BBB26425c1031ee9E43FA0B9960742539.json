@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x08A1C30BBB26425c1031ee9E43FA0B9960742539",
-	"symbol": "LandX Governance Token",
+	"symbol": "LNDX",
 	"name": "LandX Governance Token",
+	"decimals": 6,
+	"logo": "https://assets.coingecko.com/coins/images/33565/thumb/LNDX-200.png?1702445947",
 	"coingecko": "landx-governance-token",
 	"sources": [
 		"coingecko"

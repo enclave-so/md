@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x518c54fDC12bA593617160eca423F4c2cd3ecac3",
-	"symbol": "STI6900",
+	"symbol": "STI",
 	"name": "STI6900",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/50672/thumb/STI6900.png?1728682324",
 	"coingecko": "sti6900",
 	"sources": [
 		"coingecko"

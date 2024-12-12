@@ -1,0 +1,11 @@
+{
+	"chain": 56,
+	"address": "0x8BDd8DBcBDf0C066cA5f3286d33673aA7A553C10",
+	"symbol": "KART",
+	"name": "Dragon Kart",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x8BDd8DBcBDf0C066cA5f3286d33673aA7A553C10.png",
+	"sources": [
+		"pancakeswap"
+	]
+}

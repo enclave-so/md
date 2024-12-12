@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xc8D3DCb63C38607Cb0c9d3F55E8eccE628A01C36",
-	"symbol": "Matrix Labs",
+	"symbol": "MATRIX",
 	"name": "Matrix Labs",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/18297/thumb/matrixlabs.png?1696517789",
 	"coingecko": "matrixswap",
 	"sources": [
 		"coingecko"

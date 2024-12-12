@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xc3960227e41c3F54E9b399cE216149dEa5315c34",
-	"symbol": "Changpeng Zhao",
+	"symbol": "CZ",
 	"name": "Changpeng Zhao",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/33193/thumb/IMG_20231204_224120_835.jpg?1701798785",
 	"coingecko": "changpeng-zhao",
 	"sources": [
 		"coingecko"

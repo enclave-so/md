@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xF2ec4a773ef90c58d98ea734c0eBDB538519b988",
-	"symbol": "Doge 2.0",
-	"name": "Doge 2.0",
+	"symbol": "DOGE20",
+	"name": "Doge 2 0",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/30902/thumb/2DOGE_200.jpg?1696529747",
 	"coingecko": "doge-2-0",
 	"sources": [
 		"coingecko"

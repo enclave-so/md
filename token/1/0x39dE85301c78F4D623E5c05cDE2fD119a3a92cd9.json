@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x39dE85301c78F4D623E5c05cDE2fD119a3a92cd9",
-	"symbol": "blobs",
+	"symbol": "BLOBS",
 	"name": "blobs",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/35964/thumb/blobs200tnps.png?1710259853",
 	"coingecko": "blobs",
 	"sources": [
 		"coingecko"

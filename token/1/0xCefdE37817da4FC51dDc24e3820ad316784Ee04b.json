@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xCefdE37817da4FC51dDc24e3820ad316784Ee04b",
-	"symbol": "Sonata Network",
+	"symbol": "SONA",
 	"name": "Sonata Network",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/34486/thumb/IMG_20240111_220818_164.png?1705044900",
 	"coingecko": "sonata-network",
 	"sources": [
 		"coingecko"

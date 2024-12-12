@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x9609b540e5Dedddb147AbBF9812ADE06b1e61B2C",
-	"symbol": "Steamboat Willie",
+	"symbol": "MICKEY",
 	"name": "Steamboat Willie",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35349/thumb/100x100_steamboatwillie.png?1729578560",
 	"coingecko": "steamboat-willie",
 	"sources": [
 		"coingecko"

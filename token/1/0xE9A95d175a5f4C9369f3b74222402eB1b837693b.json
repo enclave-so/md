@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xE9A95d175a5f4C9369f3b74222402eB1b837693b",
-	"symbol": "ChangeNOW",
+	"symbol": "NOW",
 	"name": "ChangeNOW",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/8224/thumb/now.png?1696508430",
 	"coingecko": "changenow",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xa11bD36801d8fa4448F0ac4ea7A62e3634cE8C7C",
-	"symbol": "Allbridge",
+	"symbol": "ABR",
 	"name": "Allbridge",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/18690/thumb/logo.png?1701737985",
 	"coingecko": "allbridge",
 	"sources": [
 		"coingecko"

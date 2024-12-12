@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xA15865D9de09CB96aAa3A9081B3dFC8481f07d33",
-	"symbol": "PopeCoin",
+	"symbol": "POPE",
 	"name": "PopeCoin",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30239/thumb/photo_2023-05-01_11.25.54.jpeg?1696529149",
 	"coingecko": "popecoin",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xaD86b91A1D1Db15A4CD34D0634bbD4eCAcB5b61a",
-	"symbol": "Daram",
+	"symbol": "DARAM",
 	"name": "Daram",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/50866/thumb/1000062670.jpg?1734005779",
 	"coingecko": "daram",
 	"sources": [
 		"coingecko"

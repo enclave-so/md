@@ -1,0 +1,11 @@
+{
+	"chain": 56,
+	"address": "0x26c5e01524d2E6280A48F2c50fF6De7e52E9611C",
+	"symbol": "wstETH",
+	"name": "Wrapped liquid staked Ether 2.0",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x26c5e01524d2E6280A48F2c50fF6De7e52E9611C.png",
+	"sources": [
+		"pancakeswap"
+	]
+}

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x122303734c898e9d233afFc234271f04E42E77aD",
-	"symbol": "Maxwell the spinning cat",
+	"symbol": "CAT",
 	"name": "Maxwell the spinning cat",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35859/thumb/maxwell-cg.png?1709896910",
 	"coingecko": "maxwell-the-spinning-cat",
 	"sources": [
 		"coingecko"

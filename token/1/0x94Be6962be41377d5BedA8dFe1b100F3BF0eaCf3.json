@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x94Be6962be41377d5BedA8dFe1b100F3BF0eaCf3",
-	"symbol": "DORK LORD (ETH)",
-	"name": "DORK LORD (ETH)",
+	"symbol": "DORKL",
+	"name": "DORK LORD  ETH ",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31654/thumb/%E1%97%AAO%E1%96%87K_%E1%92%AAO%E1%96%87%E1%97%AA.png?1696530469",
 	"coingecko": "dork-lord",
 	"sources": [
 		"coingecko"

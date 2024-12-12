@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x4B7fFCB2b92fB4890f22f62a52Fb7A180eaB818e",
-	"symbol": "DIVA Protocol",
+	"symbol": "DIVA",
 	"name": "DIVA Protocol",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31467/thumb/DIVA-200px-square.png?1696530280",
 	"coingecko": "diva-protocol",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x4dAeb4a06F70f4b1A5C329115731fE4b89C0B227",
-	"symbol": "Quasacoin",
+	"symbol": "QUA",
 	"name": "Quasacoin",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/21965/thumb/coin_200.png?1696521314",
 	"coingecko": "quasacoin",
 	"sources": [
 		"coingecko"

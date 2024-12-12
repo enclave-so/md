@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0xFA99A87b14B02e2240C79240C5a20F945ca5EF76",
-	"symbol": "GG",
+	"symbol": "GGTK",
 	"name": "GG",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/13666/thumb/ggtk.png?1696513416",
 	"coingecko": "gg-token",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

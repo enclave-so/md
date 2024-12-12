@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x872952d3c1Caf944852c5ADDa65633F1Ef218A26",
-	"symbol": "Reddex",
+	"symbol": "LQDX",
 	"name": "Reddex",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/33627/thumb/reddex.jpg?1725950677",
 	"coingecko": "liquid-crypto",
 	"sources": [
 		"coingecko"

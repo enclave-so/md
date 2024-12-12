@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x3c3a81e81dc49A522A592e7622A7E711c06bf354",
-	"symbol": "Mantle",
+	"symbol": "MNT",
 	"name": "Mantle",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30980/thumb/token-logo.png?1696529819",
 	"coingecko": "mantle",
 	"sources": [
 		"coingecko"

@@ -4,10 +4,12 @@
 	"symbol": "INDEX",
 	"name": "Index Cooperative",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x0954906da0Bf32d5479e25f46056d22f08464cab/logo.png",
+	"logo": "https://assets.coingecko.com/coins/images/12729/thumb/index.png?1634894321",
 	"coingecko": "index-cooperative",
 	"sources": [
 		"coingecko",
-		"sushiswap"
+		"indexcoop",
+		"sushiswap",
+		"uniswap"
 	]
 }

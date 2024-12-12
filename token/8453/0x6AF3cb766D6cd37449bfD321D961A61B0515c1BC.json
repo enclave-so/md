@@ -1,0 +1,11 @@
+{
+	"chain": 8453,
+	"address": "0x6AF3cb766D6cd37449bfD321D961A61B0515c1BC",
+	"symbol": "RAZOR",
+	"name": "RAZOR",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/RAZOR/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

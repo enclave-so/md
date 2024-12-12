@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x3Da932456D082CBa208FEB0B096d49b202Bf89c8",
-	"symbol": "Dego Finance",
+	"symbol": "DEGO",
 	"name": "Dego Finance",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/12503/thumb/Token.png?1733381203",
 	"coingecko": "dego-finance",
 	"sources": [
 		"coingecko"

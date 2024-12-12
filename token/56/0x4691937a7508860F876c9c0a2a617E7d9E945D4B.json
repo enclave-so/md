@@ -2,9 +2,13 @@
 	"chain": 56,
 	"address": "0x4691937a7508860F876c9c0a2a617E7d9E945D4B",
 	"symbol": "WOO",
-	"name": "WOO",
+	"name": "WOO Network",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/12921/thumb/w2UiemF__400x400.jpg?1603670367",
 	"coingecko": "woo-network",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap",
+		"uniswap"
 	]
 }

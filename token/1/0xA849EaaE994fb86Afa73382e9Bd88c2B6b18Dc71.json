@@ -3,6 +3,8 @@
 	"address": "0xA849EaaE994fb86Afa73382e9Bd88c2B6b18Dc71",
 	"symbol": "MVL",
 	"name": "MVL",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/3476/thumb/CoinGecko.png?1711620384",
 	"coingecko": "mass-vehicle-ledger",
 	"sources": [
 		"coingecko"

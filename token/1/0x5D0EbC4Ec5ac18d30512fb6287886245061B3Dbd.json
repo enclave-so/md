@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x5D0EbC4Ec5ac18d30512fb6287886245061B3Dbd",
-	"symbol": "Gatsby Inu",
+	"symbol": "GATSBY",
 	"name": "Gatsby Inu",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/30578/thumb/gatsby.jpeg?1696529442",
 	"coingecko": "gatsby-inu-new",
 	"sources": [
 		"coingecko"

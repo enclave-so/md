@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x9F5F3CFD7a32700C93F971637407ff17b91c7342",
-	"symbol": "Scry.info",
-	"name": "Scry.info",
+	"symbol": "DDD",
+	"name": "Scry info",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/2569/thumb/Scry.info.jpg?1696503374",
 	"coingecko": "scry-info",
 	"sources": [
 		"coingecko"

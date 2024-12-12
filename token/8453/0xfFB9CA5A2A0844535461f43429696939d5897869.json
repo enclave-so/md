@@ -1,0 +1,11 @@
+{
+	"chain": 8453,
+	"address": "0xfFB9CA5A2A0844535461f43429696939d5897869",
+	"symbol": "LIF3",
+	"name": "LIF3",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/LIF3/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

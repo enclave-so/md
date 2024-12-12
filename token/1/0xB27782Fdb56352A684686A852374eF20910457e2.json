@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xB27782Fdb56352A684686A852374eF20910457e2",
-	"symbol": "DeSend Ai",
+	"symbol": "DSAI",
 	"name": "DeSend Ai",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/38318/thumb/logo_icon_dark_2_%281%29.png?1717053662",
 	"coingecko": "desend-ai",
 	"sources": [
 		"coingecko"

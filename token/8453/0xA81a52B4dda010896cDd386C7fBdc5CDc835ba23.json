@@ -1,0 +1,12 @@
+{
+	"chain": 8453,
+	"address": "0xA81a52B4dda010896cDd386C7fBdc5CDc835ba23",
+	"symbol": "TRAC",
+	"name": "OriginTrail",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/1877/thumb/TRAC.jpg?1635134367",
+	"sources": [
+		"optimism",
+		"uniswap"
+	]
+}

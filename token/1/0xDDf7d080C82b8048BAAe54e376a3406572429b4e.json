@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xDDf7d080C82b8048BAAe54e376a3406572429b4e",
-	"symbol": "GODDOG",
+	"symbol": "OOOOOO",
 	"name": "GODDOG",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/38157/thumb/Goddog_logo_for_Coingecko_200x200.png?1716669510",
 	"coingecko": "goddog",
 	"sources": [
 		"coingecko"

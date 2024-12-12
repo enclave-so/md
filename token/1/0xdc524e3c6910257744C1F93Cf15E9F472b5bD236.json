@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xdc524e3c6910257744C1F93Cf15E9F472b5bD236",
-	"symbol": "Witch Token",
+	"symbol": "WITCH",
 	"name": "Witch Token",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/17205/thumb/download_%2829%29.png?1696516761",
 	"coingecko": "witch-token",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x77E06c9eCCf2E797fd462A92B6D7642EF85b0A44",
-	"symbol": "Wrapped TAO",
+	"symbol": "WTAO",
 	"name": "Wrapped TAO",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/29087/thumb/wtao.png?1696528051",
 	"coingecko": "wrapped-tao",
 	"sources": [
 		"coingecko"

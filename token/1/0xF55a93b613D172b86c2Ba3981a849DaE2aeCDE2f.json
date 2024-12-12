@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0xF55a93b613D172b86c2Ba3981a849DaE2aeCDE2f",
-	"symbol": "Your Futures Exchange",
+	"symbol": "YFX",
 	"name": "Your Futures Exchange",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/15654/thumb/yfx.PNG?1696515285",
 	"coingecko": "yfx",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

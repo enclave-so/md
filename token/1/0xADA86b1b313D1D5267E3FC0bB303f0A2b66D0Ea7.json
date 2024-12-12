@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xADA86b1b313D1D5267E3FC0bB303f0A2b66D0Ea7",
-	"symbol": "Covesting",
+	"symbol": "COV",
 	"name": "Covesting",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/1950/thumb/covesting.png?1696502933",
 	"coingecko": "covesting",
 	"sources": [
 		"coingecko"

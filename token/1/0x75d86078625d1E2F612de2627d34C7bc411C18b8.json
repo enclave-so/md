@@ -3,6 +3,8 @@
 	"address": "0x75d86078625d1E2F612de2627d34C7bc411C18b8",
 	"symbol": "AGII",
 	"name": "AGII",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/32371/thumb/AGII.png?1699534856",
 	"coingecko": "agii",
 	"sources": [
 		"coingecko"

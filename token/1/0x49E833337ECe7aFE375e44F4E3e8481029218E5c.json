@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x49E833337ECe7aFE375e44F4E3e8481029218E5c",
-	"symbol": "Value DeFi",
+	"symbol": "VALUE",
 	"name": "Value DeFi",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/12525/thumb/value_logo_-_500x500.png?1696512338",
 	"coingecko": "value-liquidity",
 	"sources": [
 		"coingecko"

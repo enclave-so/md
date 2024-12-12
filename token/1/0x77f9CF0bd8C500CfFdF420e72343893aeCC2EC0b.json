@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x77f9CF0bd8C500CfFdF420e72343893aeCC2EC0b",
-	"symbol": "Laika",
+	"symbol": "LAIKA",
 	"name": "Laika",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/26717/thumb/Laikacmcfinal.png?1696525787",
 	"coingecko": "laika",
 	"sources": [
 		"coingecko"

@@ -1,36 +1,6 @@
 [
 	{
 		"chain": 111188,
-		"address": "0x90c6E93849E06EC7478ba24522329d14A5954Df4",
-		"symbol": "Wrapped Real Ether",
-		"name": "Wrapped Real Ether",
-		"coingecko": "wrapped-real-ether",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 111188,
-		"address": "0xAEC9e50e3397f9ddC635C6c429C8C7eca418a143",
-		"symbol": "Arcana arcUSD",
-		"name": "Arcana arcUSD",
-		"coingecko": "arcana-2",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 111188,
-		"address": "0xc518A88c67CECA8B3f24c4562CB71deeB2AF86B7",
-		"symbol": "LayerZero Bridged USDC (re.al)",
-		"name": "LayerZero Bridged USDC (re.al)",
-		"coingecko": "bridged-usdc-re-al",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 111188,
 		"address": "0xCE1581d7b4bA40176f0e219b2CaC30088Ad50C7A",
 		"symbol": "Pearl",
 		"name": "Pearl",
@@ -41,20 +11,20 @@
 	},
 	{
 		"chain": 111188,
-		"address": "0x835d3E1C0aA079C6164AAd21DCb23E60eb71AF48",
-		"symbol": "UK Real Estate",
-		"name": "UK Real Estate",
-		"coingecko": "uk-real-estate",
+		"address": "0x83feDBc0B85c6e29B589aA6BdefB1Cc581935ECD",
+		"symbol": "Re.al US T-Bill",
+		"name": "Re.al US T-Bill",
+		"coingecko": "real-us-t-bill",
 		"sources": [
 			"coingecko"
 		]
 	},
 	{
 		"chain": 111188,
-		"address": "0x25ea98ac87A38142561eA70143fd44c4772A16b6",
-		"symbol": "Stack",
-		"name": "Stack",
-		"coingecko": "stack-2",
+		"address": "0xAEC9e50e3397f9ddC635C6c429C8C7eca418a143",
+		"symbol": "Arcana arcUSD",
+		"name": "Arcana arcUSD",
+		"coingecko": "arcana-2",
 		"sources": [
 			"coingecko"
 		]
@@ -91,10 +61,40 @@
 	},
 	{
 		"chain": 111188,
-		"address": "0x83feDBc0B85c6e29B589aA6BdefB1Cc581935ECD",
-		"symbol": "Re.al US T-Bill",
-		"name": "Re.al US T-Bill",
-		"coingecko": "real-us-t-bill",
+		"address": "0x25ea98ac87A38142561eA70143fd44c4772A16b6",
+		"symbol": "Stack",
+		"name": "Stack",
+		"coingecko": "stack-2",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 111188,
+		"address": "0x835d3E1C0aA079C6164AAd21DCb23E60eb71AF48",
+		"symbol": "UK Real Estate",
+		"name": "UK Real Estate",
+		"coingecko": "uk-real-estate",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 111188,
+		"address": "0x90c6E93849E06EC7478ba24522329d14A5954Df4",
+		"symbol": "Wrapped Real Ether",
+		"name": "Wrapped Real Ether",
+		"coingecko": "wrapped-real-ether",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 111188,
+		"address": "0xc518A88c67CECA8B3f24c4562CB71deeB2AF86B7",
+		"symbol": "LayerZero Bridged USDC (re.al)",
+		"name": "LayerZero Bridged USDC (re.al)",
+		"coingecko": "bridged-usdc-re-al",
 		"sources": [
 			"coingecko"
 		]

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xB893A8049f250b57eFA8C62D51527a22404D7c9A",
-	"symbol": "American Shiba",
+	"symbol": "USHIBA",
 	"name": "American Shiba",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/15650/thumb/american_shiba.PNG?1696515282",
 	"coingecko": "american-shiba",
 	"sources": [
 		"coingecko"

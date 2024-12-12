@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x8E01397163b21F64ceC1f06cA6cC7d9aA8F718e9",
-	"symbol": "LIF3 LSHARE",
+	"symbol": "LSHARE",
 	"name": "LIF3 LSHARE",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31575/thumb/LSHARE.png?1696530392",
 	"coingecko": "lif3-lshare-new",
 	"sources": [
 		"coingecko"

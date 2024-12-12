@@ -4,7 +4,7 @@
 	"symbol": "ANY",
 	"name": "Anyswap",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xf99d58e463A2E07e5692127302C20A191861b4D6/logo.png",
+	"logo": "https://assets.coingecko.com/coins/images/12242/thumb/anyswap.jpg?1696512074",
 	"coingecko": "anyswap",
 	"sources": [
 		"coingecko",

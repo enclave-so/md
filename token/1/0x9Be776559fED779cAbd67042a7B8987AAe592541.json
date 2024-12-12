@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x9Be776559fED779cAbd67042a7B8987AAe592541",
-	"symbol": "Bull Market",
+	"symbol": "BULL",
 	"name": "Bull Market",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/29977/thumb/bull.jpg?1696528902",
 	"coingecko": "bull-market",
 	"sources": [
 		"coingecko"

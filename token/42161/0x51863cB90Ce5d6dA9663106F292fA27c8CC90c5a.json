@@ -1,0 +1,11 @@
+{
+	"chain": 42161,
+	"address": "0x51863cB90Ce5d6dA9663106F292fA27c8CC90c5a",
+	"symbol": "DYDX",
+	"name": "dYdX",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/17500/thumb/hjnIm9bV.jpg?1628009360",
+	"sources": [
+		"uniswap"
+	]
+}

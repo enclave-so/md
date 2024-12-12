@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x888C1A341ce9D9ae9c2D2a75a72A7f0d2551A2dc",
-	"symbol": "CSI888",
+	"symbol": "CSI",
 	"name": "CSI888",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/50526/thumb/CSI888.png?1728161142",
 	"coingecko": "csi888",
 	"sources": [
 		"coingecko"

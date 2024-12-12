@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x54D2252757e1672EEaD234D27B1270728fF90581",
-	"symbol": "Bitget Token",
+	"symbol": "BGB",
 	"name": "Bitget Token",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/11610/thumb/icon_colour.png?1696511504",
 	"coingecko": "bitget-token",
 	"sources": [
 		"coingecko"

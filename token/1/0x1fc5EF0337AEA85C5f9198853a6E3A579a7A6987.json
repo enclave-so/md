@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x1fc5EF0337AEA85C5f9198853a6E3A579a7A6987",
-	"symbol": "ReapChain",
+	"symbol": "REAP",
 	"name": "ReapChain",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/13109/thumb/REAP.jpg?1696512894",
 	"coingecko": "reapchain",
 	"sources": [
 		"coingecko"

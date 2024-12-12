@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x43E54C2E7b3e294De3A155785F52AB49d87B9922",
-	"symbol": "Aladdin sdCRV",
+	"symbol": "ASDCRV",
 	"name": "Aladdin sdCRV",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31428/thumb/asdCRV_logo.jpg?1696530243",
 	"coingecko": "aladdin-sdcrv",
 	"sources": [
 		"coingecko"

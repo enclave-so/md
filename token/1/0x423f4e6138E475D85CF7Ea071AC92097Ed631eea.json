@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x423f4e6138E475D85CF7Ea071AC92097Ed631eea",
-	"symbol": "PondCoin",
+	"symbol": "PNDC",
 	"name": "PondCoin",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31215/thumb/pond-coin.jpeg?1696530042",
 	"coingecko": "pond-coin",
 	"sources": [
 		"coingecko"

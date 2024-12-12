@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x87B46212e805A3998B7e8077E9019c90759Ea88C",
-	"symbol": "AgoraHub",
+	"symbol": "AGA",
 	"name": "AgoraHub",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/38230/thumb/agora-avatar-black.png?1716828738",
 	"coingecko": "agorahub",
 	"sources": [
 		"coingecko"

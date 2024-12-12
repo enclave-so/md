@@ -1,0 +1,11 @@
+{
+	"chain": 8453,
+	"address": "0x1c4076e33D1A165636f89F1A2025271e238C25d7",
+	"symbol": "LIZ",
+	"name": "Theranos Coin",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/LIZ/logo.png",
+	"sources": [
+		"optimism"
+	]
+}

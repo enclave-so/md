@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x5AFFF9876C1F98b7d2b53bCB69EB57e92408319F",
-	"symbol": "metavisa",
+	"symbol": "MESA",
 	"name": "metavisa",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/23246/thumb/twitteravatar_circle.png?1696522466",
 	"coingecko": "metavisa",
 	"sources": [
 		"coingecko"

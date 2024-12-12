@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xEaA260c1D247135cEc29Ec10fB6aCeDf2A55dC6b",
-	"symbol": "TheADA",
+	"symbol": "TADA",
 	"name": "TheADA",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/33782/thumb/200x200.jpg?1702980786",
 	"coingecko": "theada",
 	"sources": [
 		"coingecko"

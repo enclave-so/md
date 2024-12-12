@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x849A226f327b89E3133D9930d927F9EB9346F8C9",
-	"symbol": "Crypto Global United",
+	"symbol": "CGU",
 	"name": "Crypto Global United",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/20751/thumb/2022_CGU-MG_RGB.png?1696520148",
 	"coingecko": "crypto-global-united",
 	"sources": [
 		"coingecko"

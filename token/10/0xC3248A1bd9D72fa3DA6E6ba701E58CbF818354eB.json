@@ -1,10 +1,13 @@
 {
 	"chain": 10,
 	"address": "0xC3248A1bd9D72fa3DA6E6ba701E58CbF818354eB",
-	"symbol": "HANePlatform",
+	"symbol": "HANeP",
 	"name": "HANePlatform",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/HANeP/logo.svg",
 	"coingecko": "haneplatform",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

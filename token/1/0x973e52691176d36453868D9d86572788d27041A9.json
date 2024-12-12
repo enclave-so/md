@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x973e52691176d36453868D9d86572788d27041A9",
-	"symbol": "DxChain",
+	"symbol": "DX",
 	"name": "DxChain",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/4700/thumb/VdZwy0Pv_400x400.png?1696505265",
 	"coingecko": "dxchain",
 	"sources": [
 		"coingecko"

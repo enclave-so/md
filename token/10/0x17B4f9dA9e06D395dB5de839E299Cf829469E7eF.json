@@ -1,0 +1,11 @@
+{
+	"chain": 10,
+	"address": "0x17B4f9dA9e06D395dB5de839E299Cf829469E7eF",
+	"symbol": "VUSD",
+	"name": "VUSD",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/VUSD/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

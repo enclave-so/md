@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x1265a81d42d513Df40d0031f8f2e1346954d665a",
-	"symbol": "MEV Capital Elixir USDC",
+	"symbol": "MCEUSDC",
 	"name": "MEV Capital Elixir USDC",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/52392/thumb/elixirm.png?1733282940",
 	"coingecko": "mev-capital-elixir-usdc",
 	"sources": [
 		"coingecko"

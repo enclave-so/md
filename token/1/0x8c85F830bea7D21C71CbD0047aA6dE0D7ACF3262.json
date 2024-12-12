@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x8c85F830bea7D21C71CbD0047aA6dE0D7ACF3262",
-	"symbol": "RuniGun",
+	"symbol": "RNG",
 	"name": "RuniGun",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/39291/thumb/RUNIGUN_LOGO_TWITTER_WHITE_OUTLINE.png?1721591407",
 	"coingecko": "runigun",
 	"sources": [
 		"coingecko"

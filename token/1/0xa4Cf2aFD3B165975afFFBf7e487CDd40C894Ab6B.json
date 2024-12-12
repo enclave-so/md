@@ -1,8 +1,9 @@
 {
 	"chain": 1,
 	"address": "0xa4Cf2aFD3B165975afFFBf7e487CDd40C894Ab6B",
-	"symbol": "Shibaken Finance",
+	"symbol": "SHIBAKEN",
 	"name": "Shibaken Finance",
+	"logo": "https://assets.coingecko.com/coins/images/15413/thumb/shibak.png?1696515059",
 	"coingecko": "shibaken-finance",
 	"sources": [
 		"coingecko"

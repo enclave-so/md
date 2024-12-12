@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0xC9849E6fdB743d08fAeE3E34dd2D1bc69EA11a51",
-	"symbol": "Pancake Bunny",
-	"name": "Pancake Bunny",
+	"symbol": "BUNNY",
+	"name": "Bunny Token",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0xC9849E6fdB743d08fAeE3E34dd2D1bc69EA11a51.png",
 	"coingecko": "pancake-bunny",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x6953Dcedb9fdFA31Fe630d3Dd1E9BCF893060260",
-	"symbol": "Goatseus Act II",
+	"symbol": "GOATSEUS",
 	"name": "Goatseus Act II",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/51539/thumb/download_%281%29.png?1731501204",
 	"coingecko": "goatseus-act-ii",
 	"sources": [
 		"coingecko"

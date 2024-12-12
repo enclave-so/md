@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xD8E163967FED76806Df0097B704bA721B9b37656",
-	"symbol": "Cope Coin",
+	"symbol": "COPE",
 	"name": "Cope Coin",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/29912/thumb/QxzD6QZa_400x400_1_200x200.jpg?1696528840",
 	"coingecko": "cope-coin",
 	"sources": [
 		"coingecko"

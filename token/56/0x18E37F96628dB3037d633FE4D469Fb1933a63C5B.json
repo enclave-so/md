@@ -1,0 +1,11 @@
+{
+	"chain": 56,
+	"address": "0x18E37F96628dB3037d633FE4D469Fb1933a63C5B",
+	"symbol": "MBL",
+	"name": "MovieBloc",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x18E37F96628dB3037d633FE4D469Fb1933a63C5B.png",
+	"sources": [
+		"pancakeswap"
+	]
+}

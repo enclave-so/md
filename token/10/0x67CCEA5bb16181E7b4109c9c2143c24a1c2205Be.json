@@ -4,8 +4,10 @@
 	"symbol": "FXS",
 	"name": "Frax Share",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/fxs.jpg",
+	"logo": "https://assets.coingecko.com/coins/images/13423/thumb/frax_share.png?1608478989",
 	"sources": [
-		"sushiswap"
+		"optimism",
+		"sushiswap",
+		"uniswap"
 	]
 }

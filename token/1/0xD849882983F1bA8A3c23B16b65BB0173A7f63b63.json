@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xD849882983F1bA8A3c23B16b65BB0173A7f63b63",
-	"symbol": "De Layer",
+	"symbol": "DEAI",
 	"name": "De Layer",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35879/thumb/Frame_1_%2816%29.png?1709983222",
 	"coingecko": "de-layer",
 	"sources": [
 		"coingecko"

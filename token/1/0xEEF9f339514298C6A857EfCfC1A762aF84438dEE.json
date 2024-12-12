@@ -4,7 +4,7 @@
 	"symbol": "HEZ",
 	"name": "Hermez Network",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xEEF9f339514298C6A857EfCfC1A762aF84438dEE/logo.png",
+	"logo": "https://assets.coingecko.com/coins/images/12826/thumb/hermez_logo.png?1696512617",
 	"coingecko": "hermez-network-token",
 	"sources": [
 		"coingecko",

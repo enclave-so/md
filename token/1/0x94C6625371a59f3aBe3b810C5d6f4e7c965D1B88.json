@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x94C6625371a59f3aBe3b810C5d6f4e7c965D1B88",
-	"symbol": "INSORA AI",
+	"symbol": "INSORA",
 	"name": "INSORA AI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/50456/thumb/output-onlinepngtools.png?1727795157",
 	"coingecko": "insora-ai",
 	"sources": [
 		"coingecko"

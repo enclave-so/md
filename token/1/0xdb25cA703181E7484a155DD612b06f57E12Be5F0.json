@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xdb25cA703181E7484a155DD612b06f57E12Be5F0",
-	"symbol": "YFI yVault",
+	"symbol": "YVYFI",
 	"name": "YFI yVault",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/28785/thumb/yvYFI-128-0xE14d13d8B3b85aF791b2AADD661cDBd5E6097Db1.png?1696527764",
 	"coingecko": "yfi-yvault",
 	"sources": [
 		"coingecko"

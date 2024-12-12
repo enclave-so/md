@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xF6650117017FFD48B725B4EC5A00B414097108A7",
-	"symbol": "Xido Finance",
+	"symbol": "XIDO",
 	"name": "Xido Finance",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/16161/thumb/KJw4clj.png?1696515765",
 	"coingecko": "xido-finance",
 	"sources": [
 		"coingecko"

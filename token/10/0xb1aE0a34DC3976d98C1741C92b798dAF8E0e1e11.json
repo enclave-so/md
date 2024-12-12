@@ -1,0 +1,11 @@
+{
+	"chain": 10,
+	"address": "0xb1aE0a34DC3976d98C1741C92b798dAF8E0e1e11",
+	"symbol": "TRX",
+	"name": "TRON",
+	"decimals": 6,
+	"logo": "https://ethereum-optimism.github.io/data/TRX/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

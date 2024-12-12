@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x04E0Af0af1b7f0023c6B12af5a94Df59B0e8cF59",
-	"symbol": "Sensitrust",
+	"symbol": "SETS",
 	"name": "Sensitrust",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/15035/thumb/SETS-token-logo-200.png?1696514695",
 	"coingecko": "sensitrust",
 	"sources": [
 		"coingecko"

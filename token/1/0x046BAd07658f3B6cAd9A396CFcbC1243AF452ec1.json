@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x046BAd07658f3B6cAd9A396CFcbC1243AF452ec1",
-	"symbol": "ArchLoot",
+	"symbol": "AL",
 	"name": "ArchLoot",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/28919/thumb/7.png?1696527894",
 	"coingecko": "archloot",
 	"sources": [
 		"coingecko"

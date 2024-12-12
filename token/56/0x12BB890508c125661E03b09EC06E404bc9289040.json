@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0x12BB890508c125661E03b09EC06E404bc9289040",
-	"symbol": "Radio Caca",
-	"name": "Radio Caca",
+	"symbol": "RACA",
+	"name": "Radio Caca V2",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x12BB890508c125661E03b09EC06E404bc9289040.png",
 	"coingecko": "radio-caca",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

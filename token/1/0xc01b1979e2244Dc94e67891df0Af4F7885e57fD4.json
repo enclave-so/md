@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xc01b1979e2244Dc94e67891df0Af4F7885e57fD4",
-	"symbol": "Lanify",
+	"symbol": "LAN",
 	"name": "Lanify",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/36404/thumb/logo200x200.png?1711369836",
 	"coingecko": "lanify",
 	"sources": [
 		"coingecko"

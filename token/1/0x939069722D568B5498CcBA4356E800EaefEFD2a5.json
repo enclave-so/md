@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x939069722D568B5498CcBA4356E800EaefEFD2a5",
-	"symbol": "Finanx AI",
+	"symbol": "FNXAI",
 	"name": "Finanx AI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/51119/thumb/200x200.png?1730126766",
 	"coingecko": "finanx-ai",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x9393fdc77090F31c7db989390D43F454B1A6E7F3",
-	"symbol": "Dark Energy Crystals",
+	"symbol": "DEC",
 	"name": "Dark Energy Crystals",
+	"decimals": 3,
+	"logo": "https://assets.coingecko.com/coins/images/12923/thumb/DEC_token.png?1696512711",
 	"coingecko": "dark-energy-crystals",
 	"sources": [
 		"coingecko"

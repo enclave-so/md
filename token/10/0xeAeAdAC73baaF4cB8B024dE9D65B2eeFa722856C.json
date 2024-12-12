@@ -1,0 +1,11 @@
+{
+	"chain": 10,
+	"address": "0xeAeAdAC73baaF4cB8B024dE9D65B2eeFa722856C",
+	"symbol": "RFWSTETH",
+	"name": "Respawn Finance Wrapped Staked Ethereum",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/RFWSTETH/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

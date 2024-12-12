@@ -3,6 +3,8 @@
 	"address": "0xb538d9f3e1Ae450827618519ACd96086Fc4C0a59",
 	"symbol": "GIZMO",
 	"name": "GIZMO",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/39993/thumb/a12.jpg?1725065734",
 	"coingecko": "gizmo",
 	"sources": [
 		"coingecko"

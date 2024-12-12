@@ -1,0 +1,11 @@
+{
+	"chain": 8453,
+	"address": "0x2809ee30C77d7887e4F77394a1Ac0E49De0E397F",
+	"symbol": "SMURFCAT",
+	"name": "Real Smurf Cat",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/SMURFCAT/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

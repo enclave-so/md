@@ -1,0 +1,11 @@
+{
+	"chain": 8453,
+	"address": "0xcC2a24405480242f8EE5d9b0aE27861D801d7FFA",
+	"symbol": "wOpenX",
+	"name": "OpenX Optimism",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/wOpenX/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

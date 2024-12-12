@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0x232FB065D9d24c34708eeDbF03724f2e95ABE768",
-	"symbol": "Sheesha Finance (BEP20)",
-	"name": "Sheesha Finance (BEP20)",
+	"symbol": "SHEESHA",
+	"name": "Sheesha Finance",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x232FB065D9d24c34708eeDbF03724f2e95ABE768.png",
 	"coingecko": "sheesha-finance",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

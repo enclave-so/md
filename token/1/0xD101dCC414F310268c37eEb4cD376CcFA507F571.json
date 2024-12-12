@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0xD101dCC414F310268c37eEb4cD376CcFA507F571",
-	"symbol": "ResearchCoin",
+	"symbol": "RSC",
 	"name": "ResearchCoin",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/28146/thumb/RH_BOTTLE_CLEAN_Aug_2024_1.png?1732742001",
 	"coingecko": "researchcoin",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

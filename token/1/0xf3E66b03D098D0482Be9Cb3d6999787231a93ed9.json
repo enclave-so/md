@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xf3E66b03D098D0482Be9Cb3d6999787231a93ed9",
-	"symbol": "PromptIDE",
+	"symbol": "PROMPTIDE",
 	"name": "PromptIDE",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/32753/thumb/PromptIDE_Logo_%283%29.jpg?1707469846",
 	"coingecko": "promptide",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x9CE07410673206c693BCEC9b07710767637A564c",
-	"symbol": "Monkeys Token",
+	"symbol": "MONKEYS",
 	"name": "Monkeys Token",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/29782/thumb/200x200_Monkeys_Logo.png?1696528712",
 	"coingecko": "monkeys-token",
 	"sources": [
 		"coingecko"

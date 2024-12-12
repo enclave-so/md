@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x78132543D8E20D2417d8a07D9ae199D458A0D581",
-	"symbol": "Luna Inu",
+	"symbol": "LINU",
 	"name": "Luna Inu",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/25623/thumb/output-onlinepngtools.png?1696524757",
 	"coingecko": "luna-inu",
 	"sources": [
 		"coingecko"

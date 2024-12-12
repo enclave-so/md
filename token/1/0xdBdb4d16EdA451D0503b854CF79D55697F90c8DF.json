@@ -4,10 +4,11 @@
 	"symbol": "ALCX",
 	"name": "Alchemix",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/alcx.jpg",
+	"logo": "https://assets.coingecko.com/coins/images/14113/thumb/Alchemix.png?1614409874",
 	"coingecko": "alchemix",
 	"sources": [
 		"coingecko",
-		"sushiswap"
+		"sushiswap",
+		"uniswap"
 	]
 }

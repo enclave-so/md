@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x15F9EB4b9BEaFa9Db35341c5694c0b6573809808",
-	"symbol": "DedaCoin",
+	"symbol": "DEDA",
 	"name": "DedaCoin",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/40133/thumb/DEDA_%281%29.jpg?1725968896",
 	"coingecko": "dedacoin",
 	"sources": [
 		"coingecko"

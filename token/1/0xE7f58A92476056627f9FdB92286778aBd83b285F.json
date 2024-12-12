@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xE7f58A92476056627f9FdB92286778aBd83b285F",
-	"symbol": "DecentraWeb",
+	"symbol": "DWEB",
 	"name": "DecentraWeb",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/18971/thumb/dweb-logo-transparent.png?1696518425",
 	"coingecko": "decentraweb",
 	"sources": [
 		"coingecko"

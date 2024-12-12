@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x5eeecb13a98e2019aaacA47DF17683431F5CAb04",
-	"symbol": "SpunkySDX",
+	"symbol": "SSDX",
 	"name": "SpunkySDX",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/52469/thumb/spunkysdx.png?1733412208",
 	"coingecko": "spunkysdx",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xCD4Ee6c8052Df6742e4B342cF720FF3ac74F415e",
-	"symbol": "StellaryAI",
+	"symbol": "STELAI",
 	"name": "StellaryAI",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/36170/thumb/200x200.png?1710746923",
 	"coingecko": "stellaryai",
 	"sources": [
 		"coingecko"

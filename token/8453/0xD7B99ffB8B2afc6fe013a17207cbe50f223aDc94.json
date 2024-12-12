@@ -1,0 +1,12 @@
+{
+	"chain": 8453,
+	"address": "0xD7B99ffB8B2afc6fe013a17207cbe50f223aDc94",
+	"symbol": "XYO",
+	"name": "XYO Network",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/4519/thumb/XYO_Network-logo.png?1547039819",
+	"sources": [
+		"optimism",
+		"uniswap"
+	]
+}

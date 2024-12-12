@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xB30240d48C05A4B950C470e2D6aeFC9117A50624",
-	"symbol": "Ruby Protocol",
+	"symbol": "RUBY",
 	"name": "Ruby Protocol",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/38412/thumb/ruby.jpeg?1717471660",
 	"coingecko": "ruby-protocol",
 	"sources": [
 		"coingecko"

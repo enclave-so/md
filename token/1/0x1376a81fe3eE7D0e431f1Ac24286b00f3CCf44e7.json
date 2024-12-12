@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x1376a81fe3eE7D0e431f1Ac24286b00f3CCf44e7",
-	"symbol": "Welle",
+	"symbol": "WELLE",
 	"name": "Welle",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/32715/thumb/WELLE-TKN-1.png?1699000890",
 	"coingecko": "riverex-welle",
 	"sources": [
 		"coingecko"

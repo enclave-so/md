@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0x5582a479f0c403E207D2578963CceF5D03BA636f",
-	"symbol": "Salad",
+	"symbol": "SALD",
 	"name": "Salad",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/29936/thumb/RJV4r-hN_400x400.jpg?1696528864",
 	"coingecko": "salad",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

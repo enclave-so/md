@@ -1,0 +1,11 @@
+{
+	"chain": 42161,
+	"address": "0x77F69104145f94a81cEC55747C7a0Fc9CB7712C3",
+	"symbol": "BTC2xETH",
+	"name": "Index Coop 2x BTC Short 1x ETH Ratio",
+	"decimals": 18,
+	"logo": "https://cdn.indexcoop.com/btc2xeth.svg",
+	"sources": [
+		"indexcoop"
+	]
+}

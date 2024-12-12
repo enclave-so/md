@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xFAe103DC9cf190eD75350761e95403b7b8aFa6c0",
-	"symbol": "Restaked Swell ETH",
+	"symbol": "RSWETH",
 	"name": "Restaked Swell ETH",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/34489/thumb/rswETH_Icon.png?1706865484",
 	"coingecko": "restaked-swell-eth",
 	"sources": [
 		"coingecko"

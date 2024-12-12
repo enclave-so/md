@@ -1,0 +1,11 @@
+{
+	"chain": 10,
+	"address": "0xBB6BBaa0F6D839A00c82B10747aBc3b7E2eEcc82",
+	"symbol": "IBEX",
+	"name": "Impermax",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/IBEX/logo.png",
+	"sources": [
+		"optimism"
+	]
+}

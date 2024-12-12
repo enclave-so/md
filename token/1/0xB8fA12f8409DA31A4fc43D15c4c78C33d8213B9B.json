@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xB8fA12f8409DA31A4fc43D15c4c78C33d8213B9B",
-	"symbol": "CaliCoin",
+	"symbol": "CALI",
 	"name": "CaliCoin",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14998/thumb/cropped-Logo-transparent-background-1.png?1696514662",
 	"coingecko": "calicoin",
 	"sources": [
 		"coingecko"

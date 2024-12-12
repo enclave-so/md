@@ -1,0 +1,11 @@
+{
+	"chain": 11155111,
+	"address": "0xE6E15Ffc71AbDAe8D34D65bB695959fbd6c15435",
+	"symbol": "SQT",
+	"name": "SubQueryToken",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/SQT/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

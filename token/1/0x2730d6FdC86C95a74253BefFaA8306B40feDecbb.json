@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x2730d6FdC86C95a74253BefFaA8306B40feDecbb",
-	"symbol": "UNICORN",
+	"symbol": "UNI",
 	"name": "UNICORN",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/9383/thumb/54231438.png?1696509482",
 	"coingecko": "unicorn-token",
 	"sources": [
 		"coingecko"

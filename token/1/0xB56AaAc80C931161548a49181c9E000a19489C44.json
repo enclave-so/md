@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xB56AaAc80C931161548a49181c9E000a19489C44",
-	"symbol": "ABDS Token",
+	"symbol": "ABDS",
 	"name": "ABDS Token",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/40154/thumb/photo_2024-09-10_20-06-22.jpg?1726075708",
 	"coingecko": "abds-token",
 	"sources": [
 		"coingecko"

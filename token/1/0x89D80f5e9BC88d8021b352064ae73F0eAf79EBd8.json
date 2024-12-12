@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x89D80f5e9BC88d8021b352064ae73F0eAf79EBd8",
-	"symbol": "Re7 USDA",
+	"symbol": "RE7USDA",
 	"name": "Re7 USDA",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/51507/thumb/angle-usd.png?1731434236",
 	"coingecko": "re7-usda",
 	"sources": [
 		"coingecko"

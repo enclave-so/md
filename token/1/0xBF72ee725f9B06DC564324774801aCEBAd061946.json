@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xBF72ee725f9B06DC564324774801aCEBAd061946",
-	"symbol": "DApp AI",
+	"symbol": "DAP",
 	"name": "DApp AI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35741/thumb/Dapp_profile-picture.png?1713897886",
 	"coingecko": "dapp-ai",
 	"sources": [
 		"coingecko"

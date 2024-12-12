@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xa7d48da33cF6AC74Ed2Ba71b7E33005DC51ADbB7",
-	"symbol": "KanzzAI",
+	"symbol": "KAAI",
 	"name": "KanzzAI",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/51818/thumb/logo_blackbg.png?1732034730",
 	"coingecko": "kanzzai",
 	"sources": [
 		"coingecko"

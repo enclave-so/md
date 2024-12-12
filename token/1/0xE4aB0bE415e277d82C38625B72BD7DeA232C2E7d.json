@@ -3,6 +3,8 @@
 	"address": "0xE4aB0bE415e277d82C38625B72BD7DeA232C2E7d",
 	"symbol": "XRP20",
 	"name": "XRP20",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31435/thumb/xrp20_logo_resize.png?1696530250",
 	"coingecko": "xrp20",
 	"sources": [
 		"coingecko"

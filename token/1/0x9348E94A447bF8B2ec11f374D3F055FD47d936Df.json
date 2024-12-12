@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x9348E94A447bF8B2ec11f374D3F055FD47d936Df",
-	"symbol": "For Loot And Glory",
+	"symbol": "FLAG",
 	"name": "For Loot And Glory",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/20726/thumb/token_logo.ico?1696520124",
 	"coingecko": "for-loot-and-glory",
 	"sources": [
 		"coingecko"

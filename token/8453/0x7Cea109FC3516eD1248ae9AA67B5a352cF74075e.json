@@ -1,10 +1,13 @@
 {
 	"chain": 8453,
 	"address": "0x7Cea109FC3516eD1248ae9AA67B5a352cF74075e",
-	"symbol": "Nova DAO",
+	"symbol": "NOVA",
 	"name": "Nova DAO",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/NOVA/logo.png",
 	"coingecko": "nova-dao",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

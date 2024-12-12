@@ -1,0 +1,11 @@
+{
+	"chain": 137,
+	"address": "0x130cE4E4F76c2265f94a961D70618562de0bb8d2",
+	"symbol": "iBTC-FLI-P",
+	"name": "Inverse BTC Flexible Leverage Index",
+	"decimals": 18,
+	"logo": "https://cdn.indexcoop.com/ibtcflip.svg",
+	"sources": [
+		"indexcoop"
+	]
+}

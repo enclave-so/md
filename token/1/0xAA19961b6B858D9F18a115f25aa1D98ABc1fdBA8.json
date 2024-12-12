@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xAA19961b6B858D9F18a115f25aa1D98ABc1fdBA8",
-	"symbol": "LocalCoinSwap",
+	"symbol": "LCS",
 	"name": "LocalCoinSwap",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/3998/thumb/LocalCoinSwap.png?1696504639",
 	"coingecko": "localcoinswap",
 	"sources": [
 		"coingecko"

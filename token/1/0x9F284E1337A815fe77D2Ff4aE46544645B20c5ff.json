@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x9F284E1337A815fe77D2Ff4aE46544645B20c5ff",
-	"symbol": "Darwinia Commitment",
+	"symbol": "KTON",
 	"name": "Darwinia Commitment",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/11895/thumb/KTON.png?1696511761",
 	"coingecko": "darwinia-commitment-token",
 	"sources": [
 		"coingecko"

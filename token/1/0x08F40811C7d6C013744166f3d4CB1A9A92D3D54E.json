@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x08F40811C7d6C013744166f3d4CB1A9A92D3D54E",
-	"symbol": "NightVerse Game",
+	"symbol": "NVG",
 	"name": "NightVerse Game",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/29059/thumb/nvg.png?1696528026",
 	"coingecko": "nightverse-game",
 	"sources": [
 		"coingecko"

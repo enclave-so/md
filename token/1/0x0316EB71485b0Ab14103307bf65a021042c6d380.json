@@ -4,7 +4,7 @@
 	"symbol": "HBTC",
 	"name": "Huobi BTC",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x0316EB71485b0Ab14103307bf65a021042c6d380/logo.png",
+	"logo": "https://assets.coingecko.com/coins/images/12407/thumb/hbtc.png?1696512229",
 	"coingecko": "huobi-btc",
 	"sources": [
 		"coingecko",

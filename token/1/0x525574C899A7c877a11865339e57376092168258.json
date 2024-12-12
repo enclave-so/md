@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0x525574C899A7c877a11865339e57376092168258",
-	"symbol": "Guru Network",
+	"symbol": "GURU",
 	"name": "Guru Network",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/38583/thumb/tGURU_token_circle.png?1718087986",
 	"coingecko": "guru-network",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

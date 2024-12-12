@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xa52bfFAD02B1FE3f86A543a4e81962d3B3bB01A7",
-	"symbol": "Duckereum",
+	"symbol": "DUCKER",
 	"name": "Duckereum",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/26325/thumb/coin.png?1696525407",
 	"coingecko": "duckereum",
 	"sources": [
 		"coingecko"

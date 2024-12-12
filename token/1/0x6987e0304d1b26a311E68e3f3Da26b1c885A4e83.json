@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x6987e0304d1b26a311E68e3f3Da26b1c885A4e83",
-	"symbol": "Kaeru The Frog",
+	"symbol": "KAERU",
 	"name": "Kaeru The Frog",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/38640/thumb/kaeru-meme-logo2.jpg?1718209155",
 	"coingecko": "kaeru-the-frog",
 	"sources": [
 		"coingecko"

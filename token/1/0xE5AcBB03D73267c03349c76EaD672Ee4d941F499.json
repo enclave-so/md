@@ -3,6 +3,8 @@
 	"address": "0xE5AcBB03D73267c03349c76EaD672Ee4d941F499",
 	"symbol": "BEAM",
 	"name": "BEAM",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/7339/thumb/BEAM.png?1696507623",
 	"coingecko": "beam",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xc4058f6A829DDD684E1b7589b33312827f0A47Bb",
-	"symbol": "aNDY",
+	"symbol": "ANDY",
 	"name": "aNDY",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/37076/thumb/IMG_1087.jpeg?1713248763",
 	"coingecko": "andy-erc",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x8fc17671D853341D9e8B001F5Fc3C892d09CB53A",
-	"symbol": "BlockGames",
+	"symbol": "BLOCK",
 	"name": "BlockGames",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/36976/thumb/Group_1903671126_%281%29.png?1715198638",
 	"coingecko": "blockgames",
 	"sources": [
 		"coingecko"

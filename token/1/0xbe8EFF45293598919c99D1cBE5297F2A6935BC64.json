@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xbe8EFF45293598919c99D1cBE5297F2A6935BC64",
-	"symbol": "Tigra",
+	"symbol": "TIGRA",
 	"name": "Tigra",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/36271/thumb/tr1.jpg?1711003565",
 	"coingecko": "tigra",
 	"sources": [
 		"coingecko"

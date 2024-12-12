@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x2AF5D2aD76741191D15Dfe7bF6aC92d4Bd912Ca3",
-	"symbol": "LEO Token",
+	"symbol": "LEO",
 	"name": "LEO Token",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/8418/thumb/leo-token.png?1696508607",
 	"coingecko": "leo-token",
 	"sources": [
 		"coingecko"

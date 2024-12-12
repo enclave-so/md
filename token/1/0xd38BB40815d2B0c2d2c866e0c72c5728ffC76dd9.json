@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xd38BB40815d2B0c2d2c866e0c72c5728ffC76dd9",
-	"symbol": "Symbiosis",
+	"symbol": "SIS",
 	"name": "Symbiosis",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/20805/thumb/SymbiosisFinance_logo-150x150.jpeg?1696520198",
 	"coingecko": "symbiosis-finance",
 	"sources": [
 		"coingecko"

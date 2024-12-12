@@ -1,0 +1,11 @@
+{
+	"chain": 42161,
+	"address": "0x91b468Fe3dce581D7a6cFE34189F1314b6862eD6",
+	"symbol": "MXC",
+	"name": "MXC",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/4604/thumb/mxc.png?1655534336",
+	"sources": [
+		"uniswap"
+	]
+}

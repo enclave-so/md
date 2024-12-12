@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0x3910db0600eA925F63C36DdB1351aB6E2c6eb102",
-	"symbol": "Spartan Protocol",
-	"name": "Spartan Protocol",
+	"symbol": "SPARTA",
+	"name": "SPARTAN PROTOCOL TOKEN",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x3910db0600eA925F63C36DdB1351aB6E2c6eb102.png",
 	"coingecko": "spartan-protocol-token",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

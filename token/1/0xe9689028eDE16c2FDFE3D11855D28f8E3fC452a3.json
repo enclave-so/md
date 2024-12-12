@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xe9689028eDE16c2FDFE3D11855D28f8E3fC452a3",
-	"symbol": "Imaginary Ones",
+	"symbol": "BUBBLE",
 	"name": "Imaginary Ones",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/37706/thumb/imaginary_ones.jpeg?1715255717",
 	"coingecko": "imaginary-ones",
 	"sources": [
 		"coingecko"

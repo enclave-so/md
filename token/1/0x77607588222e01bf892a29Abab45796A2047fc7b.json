@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x77607588222e01bf892a29Abab45796A2047fc7b",
-	"symbol": "Unagii ETH",
+	"symbol": "UETH",
 	"name": "Unagii ETH",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14624/thumb/uETH.png?1696514302",
 	"coingecko": "unagii-eth",
 	"sources": [
 		"coingecko"

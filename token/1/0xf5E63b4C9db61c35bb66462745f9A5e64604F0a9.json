@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xf5E63b4C9db61c35bb66462745f9A5e64604F0a9",
-	"symbol": "Ethereum Origins",
+	"symbol": "LAPUTA",
 	"name": "Ethereum Origins",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/50464/thumb/IMG_20240930_030017_474.jpg?1727842544",
 	"coingecko": "ethereum-origins",
 	"sources": [
 		"coingecko"

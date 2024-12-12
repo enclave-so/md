@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xCe6E54DaA1ea95fb3530859d69D4bdb978dd821b",
-	"symbol": "Ordibank",
+	"symbol": "ORBK",
 	"name": "Ordibank",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35736/thumb/Artboard_OrdiBank_200.png?1715651793",
 	"coingecko": "ordibank",
 	"sources": [
 		"coingecko"

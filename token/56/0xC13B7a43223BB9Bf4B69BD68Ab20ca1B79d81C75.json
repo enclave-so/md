@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0xC13B7a43223BB9Bf4B69BD68Ab20ca1B79d81C75",
-	"symbol": "Juggernaut",
-	"name": "Juggernaut",
+	"symbol": "JGN",
+	"name": "Juggernaut Finance",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0xC13B7a43223BB9Bf4B69BD68Ab20ca1B79d81C75.png",
 	"coingecko": "juggernaut",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

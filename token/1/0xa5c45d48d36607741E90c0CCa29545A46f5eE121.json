@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xa5c45d48d36607741E90c0CCa29545A46f5eE121",
-	"symbol": "Chiba Wan",
+	"symbol": "CHIB",
 	"name": "Chiba Wan",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/50894/thumb/face.png?1729505202",
 	"coingecko": "chiba-wan",
 	"sources": [
 		"coingecko"

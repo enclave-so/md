@@ -6,6 +6,7 @@
 	"decimals": 16,
 	"logo": "https://ethereum-optimism.github.io/data/TheDAO/logo.svg",
 	"sources": [
+		"optimism",
 		"sushiswap"
 	]
 }

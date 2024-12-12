@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xa71d0588EAf47f12B13cF8eC750430d21DF04974",
-	"symbol": "Shiba Predator",
+	"symbol": "QOM",
 	"name": "Shiba Predator",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/24430/thumb/l1KzMcL.png?1696523611",
 	"coingecko": "shiba-predator",
 	"sources": [
 		"coingecko"

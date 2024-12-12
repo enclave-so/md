@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x6c3D78E55FC939dA4CA94760F6B27c3425a7A865",
-	"symbol": "MEGADEATH (PEPE)",
-	"name": "MEGADEATH (PEPE)",
+	"symbol": "MEGADEATH",
+	"name": "MEGADEATH  PEPE ",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/38075/thumb/Megadeth_Logo_200x200_PNG.png?1716449151",
 	"coingecko": "megadeath-pepe",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x487d62468282Bd04ddf976631C23128A425555EE",
-	"symbol": "UPCX",
+	"symbol": "UPC",
 	"name": "UPCX",
+	"decimals": 5,
+	"logo": "https://assets.coingecko.com/coins/images/33308/thumb/02_UPC_logo_RGB_black_200_200.png?1701409035",
 	"coingecko": "upcx",
 	"sources": [
 		"coingecko"

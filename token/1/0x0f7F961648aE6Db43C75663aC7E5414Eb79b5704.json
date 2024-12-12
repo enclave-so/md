@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x0f7F961648aE6Db43C75663aC7E5414Eb79b5704",
-	"symbol": "Blockzero Labs",
+	"symbol": "XIO",
 	"name": "Blockzero Labs",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/10029/thumb/blockzero.jpg?1696510062",
 	"coingecko": "xio",
 	"sources": [
 		"coingecko"

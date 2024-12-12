@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x27B5739e22ad9033bcBf192059122d163b60349D",
-	"symbol": "Staked Yearn CRV Vault",
+	"symbol": "ST-YCRV",
 	"name": "Staked Yearn CRV Vault",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/27623/thumb/st-yCRV-128-0x27B5739e22ad9033bcBf192059122d163b60349D.png?1696526654",
 	"coingecko": "staked-yearn-crv-vault",
 	"sources": [
 		"coingecko"

@@ -4,10 +4,11 @@
 	"symbol": "FLOKI",
 	"name": "FLOKI",
 	"decimals": 9,
-	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xcf0C122c6b73ff809C693DB761e7BaeBe62b6a2E.jpg",
+	"logo": "https://assets.coingecko.com/coins/images/16746/standard/PNG_image.png?1696516318",
 	"coingecko": "floki",
 	"sources": [
 		"coingecko",
-		"sushiswap"
+		"sushiswap",
+		"uniswap"
 	]
 }

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xBEF26Bd568e421D6708CCA55Ad6e35f8bfA0C406",
-	"symbol": "bitsCrunch Token",
+	"symbol": "BCUT",
 	"name": "bitsCrunch Token",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/34832/thumb/logo-256_%281%29.png?1710244462",
 	"coingecko": "bitscrunch-token",
 	"sources": [
 		"coingecko"

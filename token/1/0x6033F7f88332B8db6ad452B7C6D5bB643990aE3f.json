@@ -1,10 +1,14 @@
 {
 	"chain": 1,
 	"address": "0x6033F7f88332B8db6ad452B7C6D5bB643990aE3f",
-	"symbol": "Lisk",
+	"symbol": "LSK",
 	"name": "Lisk",
+	"decimals": 18,
+	"logo": "https://coin-images.coingecko.com/coins/images/385/large/Lisk_logo.png?1722338450",
 	"coingecko": "lisk",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism",
+		"uniswap"
 	]
 }

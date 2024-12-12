@@ -1,0 +1,11 @@
+{
+	"chain": 56,
+	"address": "0xF027E525D491ef6ffCC478555FBb3CFabB3406a6",
+	"symbol": "rBNB",
+	"name": "StaFi rBNB",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0xF027E525D491ef6ffCC478555FBb3CFabB3406a6.png",
+	"sources": [
+		"pancakeswap"
+	]
+}

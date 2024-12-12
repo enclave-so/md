@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xd98F75b1A3261dab9eEd4956c93F33749027a964",
-	"symbol": "Share",
+	"symbol": "SHR",
 	"name": "Share",
+	"decimals": 2,
+	"logo": "https://assets.coingecko.com/coins/images/3609/thumb/74586729_2443914875881351_2785018663453851648_n.png?1696504289",
 	"coingecko": "sharering",
 	"sources": [
 		"coingecko"

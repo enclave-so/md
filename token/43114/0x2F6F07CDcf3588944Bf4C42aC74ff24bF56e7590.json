@@ -2,12 +2,13 @@
 	"chain": 43114,
 	"address": "0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590",
 	"symbol": "STG",
-	"name": "StargateToken",
+	"name": "Stargate Finance",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590.jpg",
+	"logo": "https://assets.coingecko.com/coins/images/24413/thumb/STG_LOGO.png?1647654518",
 	"coingecko": "stargate-finance",
 	"sources": [
 		"coingecko",
-		"sushiswap"
+		"sushiswap",
+		"uniswap"
 	]
 }

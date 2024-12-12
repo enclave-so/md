@@ -1,0 +1,11 @@
+{
+	"chain": 84532,
+	"address": "0x3011F9ef02c27A6a678e0099584C1c5Be64134A1",
+	"symbol": "OM",
+	"name": "MANTRA DAO",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/OM/logo.png",
+	"sources": [
+		"optimism"
+	]
+}

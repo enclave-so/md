@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x381AB19e04BD9dc333794A9F4d343daeEe3B7069",
-	"symbol": "Dolan Duk",
+	"symbol": "DOLAN",
 	"name": "Dolan Duk",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/50723/thumb/Dolan_Duk.png?1728888827",
 	"coingecko": "dolan-duk",
 	"sources": [
 		"coingecko"

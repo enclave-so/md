@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x53fD2342B43eCD24AEf1535BC3797F509616Ce8c",
-	"symbol": "Anarchy",
+	"symbol": "ANARCHY",
 	"name": "Anarchy",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/26583/thumb/90EWu8yp_400x400.jpg?1696525658",
 	"coingecko": "anarchy",
 	"sources": [
 		"coingecko"

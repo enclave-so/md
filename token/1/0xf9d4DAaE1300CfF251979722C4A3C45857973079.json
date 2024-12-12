@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xf9d4DAaE1300CfF251979722C4A3C45857973079",
-	"symbol": "bitcastle",
+	"symbol": "CASTLE",
 	"name": "bitcastle",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/26551/thumb/blue_logo03.png?1696525624",
 	"coingecko": "bitcastle",
 	"sources": [
 		"coingecko"

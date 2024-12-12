@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xea3983Fc6D0fbbC41fb6F6091f68F3e08894dC06",
-	"symbol": "Unido",
+	"symbol": "UDO",
 	"name": "Unido",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14176/thumb/unido.jpg?1696513894",
 	"coingecko": "unido-ep",
 	"sources": [
 		"coingecko"

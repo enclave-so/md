@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x0ab87046fBb341D058F17CBC4c1133F25a20a52f",
-	"symbol": "Governance OHM",
+	"symbol": "GOHM",
 	"name": "Governance OHM",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/21129/thumb/token_wsOHM_logo.png?1696520508",
 	"coingecko": "governance-ohm",
 	"sources": [
 		"coingecko"

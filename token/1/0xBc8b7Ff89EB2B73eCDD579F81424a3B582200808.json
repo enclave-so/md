@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xBc8b7Ff89EB2B73eCDD579F81424a3B582200808",
-	"symbol": "Curve Inu",
+	"symbol": "CRVY",
 	"name": "Curve Inu",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31759/thumb/0x7ojNgl_400x400.jpg?1696530578",
 	"coingecko": "curve-inu",
 	"sources": [
 		"coingecko"

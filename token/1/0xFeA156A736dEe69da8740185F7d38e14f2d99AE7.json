@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xFeA156A736dEe69da8740185F7d38e14f2d99AE7",
-	"symbol": "Querio",
+	"symbol": "QRO",
 	"name": "Querio",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/33820/thumb/querio.jpeg?1703047270",
 	"coingecko": "qro",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xA1E770be76BDe604F8Ebb66f640250a787B9422B",
-	"symbol": "AndUsChain",
+	"symbol": "DEB",
 	"name": "AndUsChain",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/20842/thumb/DEB.png?1696520234",
 	"coingecko": "anduschain",
 	"sources": [
 		"coingecko"

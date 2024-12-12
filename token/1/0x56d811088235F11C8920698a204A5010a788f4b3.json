@@ -2,9 +2,9 @@
 	"chain": 1,
 	"address": "0x56d811088235F11C8920698a204A5010a788f4b3",
 	"symbol": "BZRX",
-	"name": "bZx Protocol Token",
+	"name": "bZx Protocol",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/bzrx.jpg",
+	"logo": "https://assets.coingecko.com/coins/images/11811/thumb/bzrx.png?1696511684",
 	"coingecko": "bzx-protocol",
 	"sources": [
 		"coingecko",

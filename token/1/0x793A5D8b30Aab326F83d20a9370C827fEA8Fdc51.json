@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x793A5D8b30Aab326F83d20a9370C827fEA8Fdc51",
-	"symbol": "Gorilla In A Coupe",
+	"symbol": "GIAC",
 	"name": "Gorilla In A Coupe",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/36016/thumb/Gorilla_In_A_Coupe.png?1710326800",
 	"coingecko": "gorilla-in-a-coupe",
 	"sources": [
 		"coingecko"

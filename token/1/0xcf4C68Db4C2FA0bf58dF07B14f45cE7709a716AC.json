@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xcf4C68Db4C2FA0bf58dF07B14f45cE7709a716AC",
-	"symbol": "Dejitaru Shirudo",
+	"symbol": "SHIELD",
 	"name": "Dejitaru Shirudo",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/28500/thumb/200x200_3.PNG?1703024361",
 	"coingecko": "dejitaru-shirudo",
 	"sources": [
 		"coingecko"

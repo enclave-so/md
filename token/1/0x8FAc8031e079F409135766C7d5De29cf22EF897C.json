@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x8FAc8031e079F409135766C7d5De29cf22EF897C",
-	"symbol": "Humans.ai",
-	"name": "Humans.ai",
+	"symbol": "HEART",
+	"name": "Humans ai",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/21273/thumb/h_logo_1x.png?1696520644",
 	"coingecko": "humans-ai",
 	"sources": [
 		"coingecko"

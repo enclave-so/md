@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x23d7Ff057c696fEE679c60cEf61Fee6614218f04",
-	"symbol": "Unipoly",
+	"symbol": "UNP",
 	"name": "Unipoly",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/32510/thumb/20231018_231410.png?1698398961",
 	"coingecko": "unipoly",
 	"sources": [
 		"coingecko"

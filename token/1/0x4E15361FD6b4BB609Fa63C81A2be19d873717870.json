@@ -2,12 +2,13 @@
 	"chain": 1,
 	"address": "0x4E15361FD6b4BB609Fa63C81A2be19d873717870",
 	"symbol": "FTM",
-	"name": "Fantom Token",
+	"name": "Fantom",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/ftm.jpg",
+	"logo": "https://assets.coingecko.com/coins/images/4001/thumb/Fantom.png?1558015016",
 	"coingecko": "wrapped-fantom",
 	"sources": [
 		"coingecko",
-		"sushiswap"
+		"sushiswap",
+		"uniswap"
 	]
 }

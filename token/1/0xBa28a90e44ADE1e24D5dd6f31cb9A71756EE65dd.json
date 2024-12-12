@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xBa28a90e44ADE1e24D5dd6f31cb9A71756EE65dd",
-	"symbol": "Gasify AI",
+	"symbol": "GSFY",
 	"name": "Gasify AI",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/38152/thumb/Gasify_drop_clear_200_200.png?1716667959",
 	"coingecko": "gasify-ai",
 	"sources": [
 		"coingecko"

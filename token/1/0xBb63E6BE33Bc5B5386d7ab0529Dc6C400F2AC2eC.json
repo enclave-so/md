@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xBb63E6BE33Bc5B5386d7ab0529Dc6C400F2AC2eC",
-	"symbol": "Cuckadoodledoo",
+	"symbol": "CUCK",
 	"name": "Cuckadoodledoo",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31631/thumb/Cuckman__%281%29.png?1696530447",
 	"coingecko": "cuckadoodledoo",
 	"sources": [
 		"coingecko"

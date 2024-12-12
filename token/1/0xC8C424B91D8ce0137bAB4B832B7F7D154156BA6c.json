@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xC8C424B91D8ce0137bAB4B832B7F7D154156BA6c",
-	"symbol": "apM Coin",
+	"symbol": "APM",
 	"name": "apM Coin",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/10069/thumb/PvDCvh5h_400x400.png?1696510100",
 	"coingecko": "apm-coin",
 	"sources": [
 		"coingecko"

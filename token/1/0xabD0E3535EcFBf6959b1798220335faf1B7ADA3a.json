@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xabD0E3535EcFBf6959b1798220335faf1B7ADA3a",
-	"symbol": "Predict Crypto",
+	"symbol": "PREAI",
 	"name": "Predict Crypto",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/37361/thumb/main_%282%29.png?1722962258",
 	"coingecko": "predict-crypto",
 	"sources": [
 		"coingecko"

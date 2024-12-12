@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xa0Cc4428FbB652C396F28DcE8868B8743742A71c",
-	"symbol": "Purple AI",
+	"symbol": "PAI",
 	"name": "Purple AI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/34193/thumb/Purple_AI.png?1704272332",
 	"coingecko": "purple-ai",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x697a79AF2De4Af9E9aA0D08905374556AD1353bB",
-	"symbol": "NinaPumps",
+	"symbol": "NINA",
 	"name": "NinaPumps",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31910/thumb/pqT9YDIi_400x400-removebg-preview_%281%29.png?1696530718",
 	"coingecko": "ninapumps",
 	"sources": [
 		"coingecko"

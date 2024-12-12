@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x07040971246a73ebDa9Cf29ea1306bB47C7C4e76",
-	"symbol": "American Pepe",
+	"symbol": "USPEPE",
 	"name": "American Pepe",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/39158/thumb/GR2g3RBWYAAXbCh.jpeg?1720775910",
 	"coingecko": "american-pepe",
 	"sources": [
 		"coingecko"

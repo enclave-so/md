@@ -2,9 +2,9 @@
 	"chain": 1,
 	"address": "0x77777FeDdddFfC19Ff86DB637967013e6C6A116C",
 	"symbol": "TORN",
-	"name": "TORN Token",
+	"name": "Tornado Cash",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x77777FeDdddFfC19Ff86DB637967013e6C6A116C/logo.png",
+	"logo": "https://assets.coingecko.com/coins/images/13496/thumb/ZINt8NSB_400x400.jpg?1696513257",
 	"coingecko": "tornado-cash",
 	"sources": [
 		"coingecko",

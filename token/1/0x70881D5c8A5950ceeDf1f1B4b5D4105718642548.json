@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x70881D5c8A5950ceeDf1f1B4b5D4105718642548",
-	"symbol": "Bagholder",
+	"symbol": "BAG",
 	"name": "Bagholder",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30503/thumb/rsz_bagholdrpepecut-sq%281%29.png?1696529389",
 	"coingecko": "bagholder",
 	"sources": [
 		"coingecko"

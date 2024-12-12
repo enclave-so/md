@@ -2,9 +2,9 @@
 	"chain": 1,
 	"address": "0x8eEF5a82E6Aa222a60F009ac18c24EE12dBf4b41",
 	"symbol": "TXL",
-	"name": "Tixl Token",
+	"name": "Autobahn Network",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x8eEF5a82E6Aa222a60F009ac18c24EE12dBf4b41/logo.png",
+	"logo": "https://assets.coingecko.com/coins/images/12432/thumb/txl.png?1696512252",
 	"coingecko": "autobahn-network",
 	"sources": [
 		"coingecko",

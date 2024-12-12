@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x420698Ebc9B7C225731c02D887D0729057339d39",
-	"symbol": "Chuck",
+	"symbol": "CHUCK",
 	"name": "Chuck",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/36750/thumb/IMG_0741.jpeg?1712218300",
 	"coingecko": "chuck-on-eth",
 	"sources": [
 		"coingecko"

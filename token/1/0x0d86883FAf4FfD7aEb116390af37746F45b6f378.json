@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0x0d86883FAf4FfD7aEb116390af37746F45b6f378",
-	"symbol": "Web 3 Dollar",
+	"symbol": "USD3",
 	"name": "Web 3 Dollar",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/38073/thumb/usd3%28200_x_200_px%29.png?1716449060",
 	"coingecko": "web-3-dollar",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x36C79f0B8a2e8A3C0230c254C452973E7a3BA155",
-	"symbol": "BetAI",
+	"symbol": "BAI",
 	"name": "BetAI",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/35714/thumb/betai.jpg?1709630399",
 	"coingecko": "betai",
 	"sources": [
 		"coingecko"

@@ -1,13 +1,14 @@
 {
 	"chain": 43114,
 	"address": "0xd586E7F844cEa2F87f50152665BCbc2C279D8d70",
-	"symbol": "DAI",
-	"name": "Dai Stablecoin",
+	"symbol": "DAI.e",
+	"name": "DAI.e Token",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0xd586E7F844cEa2F87f50152665BCbc2C279D8d70.jpg",
+	"logo": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/avalanchec/assets/0xd586E7F844cEa2F87f50152665BCbc2C279D8d70/logo.png",
 	"coingecko": "avalanche-bridged-dai-avalanche",
 	"sources": [
 		"coingecko",
-		"sushiswap"
+		"sushiswap",
+		"uniswap"
 	]
 }

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x28Cca76f6e8eC81e4550ecd761f899110b060E97",
-	"symbol": "ArGoApp",
+	"symbol": "ARGO",
 	"name": "ArGoApp",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/15477/thumb/Group_118.png?1696515122",
 	"coingecko": "argo",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xd166b7D9824cc5359360B47389AbA9341cE12619",
-	"symbol": "PhenX",
+	"symbol": "PNX",
 	"name": "PhenX",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/39740/thumb/phenxlogo_%282%29.png?1723780104",
 	"coingecko": "phenx",
 	"sources": [
 		"coingecko"

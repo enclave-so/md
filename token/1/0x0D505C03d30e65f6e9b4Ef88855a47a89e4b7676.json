@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0x0D505C03d30e65f6e9b4Ef88855a47a89e4b7676",
-	"symbol": "Zoomer",
+	"symbol": "ZOOMER",
 	"name": "Zoomer",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30894/thumb/zoooooooooomer.jpg?1696529740",
 	"coingecko": "zoomer",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

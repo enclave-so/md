@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x42496acd2c7b52CE90Ed65adA6CafB0e893e2474",
-	"symbol": "BitSwap",
+	"symbol": "BITS",
 	"name": "BitSwap",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/36633/thumb/BitSwapLogo_%282%29.png?1712022617",
 	"coingecko": "bitswap",
 	"sources": [
 		"coingecko"

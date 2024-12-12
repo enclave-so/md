@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x7DF18E4eFD6e6f73cfb462937dAC40FE42533016",
-	"symbol": "ZKitty Bot",
+	"symbol": "ZKITTY",
 	"name": "ZKitty Bot",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31474/thumb/AnN0reNi_400x400.jpg?1696530286",
 	"coingecko": "zkitty-bot",
 	"sources": [
 		"coingecko"

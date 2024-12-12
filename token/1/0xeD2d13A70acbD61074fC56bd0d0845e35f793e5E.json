@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xeD2d13A70acbD61074fC56bd0d0845e35f793e5E",
-	"symbol": "Planet Mojo",
+	"symbol": "MOJO",
 	"name": "Planet Mojo",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/36670/thumb/MOJOIcon.jpg?1712061269",
 	"coingecko": "planet-mojo",
 	"sources": [
 		"coingecko"

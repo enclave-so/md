@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x68f108FB7141FFe36B832c5c225D9e7e474BD664",
-	"symbol": "Pepinu",
+	"symbol": "PEPINU",
 	"name": "Pepinu",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/36133/thumb/PEPINU_CG.png?1714673869",
 	"coingecko": "pepinu",
 	"sources": [
 		"coingecko"

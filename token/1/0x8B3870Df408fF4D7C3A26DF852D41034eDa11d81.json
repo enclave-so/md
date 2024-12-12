@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x8B3870Df408fF4D7C3A26DF852D41034eDa11d81",
-	"symbol": "IOI Token",
+	"symbol": "IOI",
 	"name": "IOI Token",
+	"decimals": 6,
+	"logo": "https://assets.coingecko.com/coins/images/15952/thumb/IOI_new_logo.png?1696515564",
 	"coingecko": "ioi-token",
 	"sources": [
 		"coingecko"

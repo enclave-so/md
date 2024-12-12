@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xbcd4D5AC29E06e4973a1dDcd782cd035d04BC0b7",
-	"symbol": "Quick Intel",
+	"symbol": "QKNTL",
 	"name": "Quick Intel",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/29605/thumb/IMG_6589D0616DF1-1.jpeg?1696528542",
 	"coingecko": "quick-intel",
 	"sources": [
 		"coingecko"

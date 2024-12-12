@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x191557728e4d8CAa4Ac94f86af842148c0FA8F7E",
-	"symbol": "Ormeus Ecosystem",
+	"symbol": "ECO",
 	"name": "Ormeus Ecosystem",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/8923/thumb/logo_eco_low.png?1696509072",
 	"coingecko": "ormeus-ecosystem",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x87DE305311D5788e8da38D19bb427645b09CB4e5",
-	"symbol": "Verox",
+	"symbol": "VRX",
 	"name": "Verox",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/13669/thumb/IMG-20210115-000024.png?1696513419",
 	"coingecko": "verox",
 	"sources": [
 		"coingecko"

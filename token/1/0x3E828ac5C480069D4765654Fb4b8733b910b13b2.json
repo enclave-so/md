@@ -2,9 +2,9 @@
 	"chain": 1,
 	"address": "0x3E828ac5C480069D4765654Fb4b8733b910b13b2",
 	"symbol": "CLNY",
-	"name": "Colony Network Token",
+	"name": "Colony Network",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x3E828ac5C480069D4765654Fb4b8733b910b13b2.jpg",
+	"logo": "https://assets.coingecko.com/coins/images/23269/thumb/Logo.png?1696522489",
 	"coingecko": "colony-network-token",
 	"sources": [
 		"coingecko",

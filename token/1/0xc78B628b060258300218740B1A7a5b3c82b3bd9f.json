@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xc78B628b060258300218740B1A7a5b3c82b3bd9f",
-	"symbol": "Commune AI",
+	"symbol": "COMAI",
 	"name": "Commune AI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35013/thumb/new_logo.png?1723769759",
 	"coingecko": "commune-ai",
 	"sources": [
 		"coingecko"

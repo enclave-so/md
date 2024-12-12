@@ -3,6 +3,8 @@
 	"address": "0x116c4B65e14449947bC6fa1bbe844CB16A162d53",
 	"symbol": "BMAX",
 	"name": "BMAX",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/26427/thumb/BMAX_logo.png?1696525501",
 	"coingecko": "bmax",
 	"sources": [
 		"coingecko"

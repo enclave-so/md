@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x554fb3b6C1cf4a3Cef49779ced321Ca51c667D7d",
-	"symbol": "Arata AGI",
+	"symbol": "ARATA",
 	"name": "Arata AGI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/51555/thumb/500px.png?1731517839",
 	"coingecko": "arata-agi",
 	"sources": [
 		"coingecko"

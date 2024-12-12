@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xbA6B0dbb2bA8dAA8F5D6817946393Aef8D3A4487",
-	"symbol": "Hillstone Finance",
+	"symbol": "HSF",
 	"name": "Hillstone Finance",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/22335/thumb/logo_-_2022-01-07T094430.368.png?1696521679",
 	"coingecko": "hillstone",
 	"sources": [
 		"coingecko"

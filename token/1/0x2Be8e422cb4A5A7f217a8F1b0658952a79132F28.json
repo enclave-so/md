@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x2Be8e422cb4A5A7f217a8F1b0658952a79132F28",
-	"symbol": "Monkey Shit Inu",
+	"symbol": "MSI",
 	"name": "Monkey Shit Inu",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/39077/thumb/IMG_8769.jpeg?1720249643",
 	"coingecko": "monkey-shit-inu",
 	"sources": [
 		"coingecko"

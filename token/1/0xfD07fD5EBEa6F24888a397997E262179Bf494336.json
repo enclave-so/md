@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xfD07fD5EBEa6F24888a397997E262179Bf494336",
-	"symbol": "Inception osETH",
+	"symbol": "INOSETH",
 	"name": "Inception osETH",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/34955/thumb/osETH.png?1706773564",
 	"coingecko": "inception-restaked-oseth",
 	"sources": [
 		"coingecko"

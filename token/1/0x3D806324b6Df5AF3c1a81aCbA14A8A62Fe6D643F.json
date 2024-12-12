@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x3D806324b6Df5AF3c1a81aCbA14A8A62Fe6D643F",
-	"symbol": "BarbieCrashBandicootRFK88",
+	"symbol": "SOLANA",
 	"name": "BarbieCrashBandicootRFK88",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31247/thumb/logo_200px.jpg?1696530072",
 	"coingecko": "barbiecrashbandicootrfk88",
 	"sources": [
 		"coingecko"

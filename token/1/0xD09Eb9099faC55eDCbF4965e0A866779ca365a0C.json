@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xD09Eb9099faC55eDCbF4965e0A866779ca365a0C",
-	"symbol": "Colon",
+	"symbol": "COLON",
 	"name": "Colon",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/39738/thumb/logo2.jpg?1723779701",
 	"coingecko": "colon",
 	"sources": [
 		"coingecko"

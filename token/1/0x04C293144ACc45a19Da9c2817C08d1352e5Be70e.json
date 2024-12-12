@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x04C293144ACc45a19Da9c2817C08d1352e5Be70e",
-	"symbol": "Mugi",
+	"symbol": "MUGI",
 	"name": "Mugi",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/50253/thumb/Mugi_Coin_logo.png?1727813763",
 	"coingecko": "mugi",
 	"sources": [
 		"coingecko"

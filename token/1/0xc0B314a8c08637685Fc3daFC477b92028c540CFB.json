@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xc0B314a8c08637685Fc3daFC477b92028c540CFB",
-	"symbol": "Wombat Exchange",
+	"symbol": "WOM",
 	"name": "Wombat Exchange",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/26946/thumb/Wombat_Token.png?1696526001",
 	"coingecko": "wombat-exchange",
 	"sources": [
 		"coingecko"

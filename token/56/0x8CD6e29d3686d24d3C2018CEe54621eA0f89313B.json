@@ -4,8 +4,9 @@
 	"symbol": "NULS",
 	"name": "Nuls",
 	"decimals": 8,
-	"logo": "https://assets.coingecko.com/coins/images/1053/small/Nuls.png?1556868153",
+	"logo": "https://tokens.pancakeswap.finance/images/0x8CD6e29d3686d24d3C2018CEe54621eA0f89313B.png",
 	"sources": [
+		"pancakeswap",
 		"sushiswap"
 	]
 }

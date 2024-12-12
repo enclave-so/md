@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x490Bd60a5d3E1207fbA9b699017561434Cc8C675",
-	"symbol": "Bugs Bunny",
+	"symbol": "BUGS",
 	"name": "Bugs Bunny",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/33398/thumb/Bugs_200x200.png?1701684815",
 	"coingecko": "bugs-bunny",
 	"sources": [
 		"coingecko"

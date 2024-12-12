@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x1341A2257fa7b770420Ef70616f888056f90926c",
-	"symbol": "Zoo",
+	"symbol": "ZOOT",
 	"name": "Zoo",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/15629/thumb/gyzERsO.png?1696515262",
 	"coingecko": "zoo-token",
 	"sources": [
 		"coingecko"

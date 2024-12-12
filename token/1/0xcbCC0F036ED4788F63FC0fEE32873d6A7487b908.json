@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xcbCC0F036ED4788F63FC0fEE32873d6A7487b908",
-	"symbol": "Humaniq",
+	"symbol": "HMQ",
 	"name": "Humaniq",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/647/thumb/humaniq.jpg?1696501841",
 	"coingecko": "humaniq",
 	"sources": [
 		"coingecko"

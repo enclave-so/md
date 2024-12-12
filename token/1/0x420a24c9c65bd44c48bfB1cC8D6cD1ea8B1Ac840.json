@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x420a24c9c65bd44c48bfB1cC8D6cD1ea8B1Ac840",
-	"symbol": "JumpToken",
+	"symbol": "JMPT",
 	"name": "JumpToken",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/22603/thumb/200x200.png?1696521919",
 	"coingecko": "jumptoken",
 	"sources": [
 		"coingecko"

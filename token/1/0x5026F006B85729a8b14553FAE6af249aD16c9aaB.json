@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x5026F006B85729a8b14553FAE6af249aD16c9aaB",
-	"symbol": "Wojak",
+	"symbol": "WOJAK",
 	"name": "Wojak",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/29856/thumb/wojak.png?1696528782",
 	"coingecko": "wojak",
 	"sources": [
 		"coingecko"

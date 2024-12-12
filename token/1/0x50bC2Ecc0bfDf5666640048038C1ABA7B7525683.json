@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x50bC2Ecc0bfDf5666640048038C1ABA7B7525683",
-	"symbol": "carVertical",
+	"symbol": "CV",
 	"name": "carVertical",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/2098/thumb/carvertical.png?1696503065",
 	"coingecko": "carvertical",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x267eB2A9a13DC304a9dEFf4277abE850d0852c5F",
-	"symbol": "Trace AI",
+	"symbol": "TAI",
 	"name": "Trace AI",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/31058/thumb/200x200.png?1696529892",
 	"coingecko": "trace-ai",
 	"sources": [
 		"coingecko"

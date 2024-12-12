@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xd9788f3931Ede4D5018184E198699dC6d66C1915",
-	"symbol": "Aave yVault",
+	"symbol": "YVAAVE",
 	"name": "Aave yVault",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/28784/thumb/yvAAVE-128-0xd9788f3931Ede4D5018184E198699dC6d66C1915.png?1696527763",
 	"coingecko": "aave-yvault",
 	"sources": [
 		"coingecko"

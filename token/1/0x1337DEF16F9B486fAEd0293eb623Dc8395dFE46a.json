@@ -2,9 +2,9 @@
 	"chain": 1,
 	"address": "0x1337DEF16F9B486fAEd0293eb623Dc8395dFE46a",
 	"symbol": "ARMOR",
-	"name": "Armor",
+	"name": "ARMOR",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x1337DEF16F9B486fAEd0293eb623Dc8395dFE46a/logo.png",
+	"logo": "https://assets.coingecko.com/coins/images/13748/thumb/armor.png?1696513491",
 	"coingecko": "armor",
 	"sources": [
 		"coingecko",

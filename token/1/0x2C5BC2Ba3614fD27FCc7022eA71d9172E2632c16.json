@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x2C5BC2Ba3614fD27FCc7022eA71d9172E2632c16",
-	"symbol": "Shib Original Vision",
+	"symbol": "SOV",
 	"name": "Shib Original Vision",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/29601/thumb/photo_2023-03-19_19-07-40_2.png?1696528539",
 	"coingecko": "shib-original-vision",
 	"sources": [
 		"coingecko"

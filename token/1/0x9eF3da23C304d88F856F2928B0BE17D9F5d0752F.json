@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x9eF3da23C304d88F856F2928B0BE17D9F5d0752F",
-	"symbol": "Multipool",
+	"symbol": "MUL",
 	"name": "Multipool",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/38256/thumb/multipool_200x200.png?1716926694",
 	"coingecko": "multipool",
 	"sources": [
 		"coingecko"

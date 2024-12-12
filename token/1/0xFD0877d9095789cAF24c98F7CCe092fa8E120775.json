@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xFD0877d9095789cAF24c98F7CCe092fa8E120775",
-	"symbol": "TUSD yVault",
+	"symbol": "YVTUSD",
 	"name": "TUSD yVault",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/28790/thumb/yvTUSD-128-0xFD0877d9095789cAF24c98F7CCe092fa8E120775.png?1696527768",
 	"coingecko": "tusd-yvault",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x9Fda7cEeC4c18008096C2fE2B85F05dc300F94d0",
-	"symbol": "Gaj Finance",
+	"symbol": "GAJ",
 	"name": "Gaj Finance",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/15257/thumb/logo200x200.png?1696514910",
 	"coingecko": "gaj",
 	"sources": [
 		"coingecko"

@@ -2,9 +2,13 @@
 	"chain": 1,
 	"address": "0xBA50933C268F567BDC86E1aC131BE072C6B0b71a",
 	"symbol": "ARPA",
-	"name": "ARPA",
+	"name": "ARPA Chain",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/8506/thumb/9u0a23XY_400x400.jpg?1559027357",
 	"coingecko": "arpa",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism",
+		"uniswap"
 	]
 }

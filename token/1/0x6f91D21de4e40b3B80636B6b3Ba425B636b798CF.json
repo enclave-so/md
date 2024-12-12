@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x6f91D21de4e40b3B80636B6b3Ba425B636b798CF",
-	"symbol": "Wall Street Bets",
+	"symbol": "WSB",
 	"name": "Wall Street Bets",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/32095/thumb/GOoZ5azT_400x400.jpg?1696530893",
 	"coingecko": "wall-street-bets",
 	"sources": [
 		"coingecko"

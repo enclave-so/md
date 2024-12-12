@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x9dc7094530cB1bcf5442c3b9389ee386738A190c",
-	"symbol": "Morpho-Aave Curve DAO Token",
-	"name": "Morpho-Aave Curve DAO Token",
+	"symbol": "MACRV",
+	"name": "Morpho Aave Curve DAO Token",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/29874/thumb/maCRV.jpg?1696528799",
 	"coingecko": "morpho-aave-curve-dao-token",
 	"sources": [
 		"coingecko"

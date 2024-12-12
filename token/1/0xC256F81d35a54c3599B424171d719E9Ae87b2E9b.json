@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xC256F81d35a54c3599B424171d719E9Ae87b2E9b",
-	"symbol": "Zoopia",
+	"symbol": "ZOOA",
 	"name": "Zoopia",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/33955/thumb/twitter_D8EKrscj_400x400.jpg?1703561621",
 	"coingecko": "zoopia",
 	"sources": [
 		"coingecko"

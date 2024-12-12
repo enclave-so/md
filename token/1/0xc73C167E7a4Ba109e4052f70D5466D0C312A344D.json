@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xc73C167E7a4Ba109e4052f70D5466D0C312A344D",
-	"symbol": "Sanshu Inu (OLD)",
-	"name": "Sanshu Inu (OLD)",
+	"symbol": "SANSHU",
+	"name": "Sanshu Inu  OLD ",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/15370/thumb/m9DgRlXY.jpg?1696515018",
 	"coingecko": "sanshu-inu",
 	"sources": [
 		"coingecko"

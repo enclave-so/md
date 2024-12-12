@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xDF8ef8FeF6fA5489d097652DEDfB6617Ce28A0d6",
-	"symbol": "dump.trade",
-	"name": "dump.trade",
+	"symbol": "DUMP",
+	"name": "dump trade",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/36984/thumb/logo.png?1712945749",
 	"coingecko": "dump-trade",
 	"sources": [
 		"coingecko"

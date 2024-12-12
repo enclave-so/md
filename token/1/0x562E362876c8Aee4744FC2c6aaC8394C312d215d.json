@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x562E362876c8Aee4744FC2c6aaC8394C312d215d",
-	"symbol": "Optimus AI",
+	"symbol": "OPTI",
 	"name": "Optimus AI",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/29328/thumb/photo_2024-06-03_15-45-57.jpg?1717625575",
 	"coingecko": "optimus-ai",
 	"sources": [
 		"coingecko"

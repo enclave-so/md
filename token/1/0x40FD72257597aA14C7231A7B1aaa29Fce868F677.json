@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x40FD72257597aA14C7231A7B1aaa29Fce868F677",
-	"symbol": "Sora",
+	"symbol": "XOR",
 	"name": "Sora",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/11093/thumb/sora_logo_cg_white.png?1696511034",
 	"coingecko": "sora",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x4b7C762Af92dBD917d159Eb282B85aa13E955739",
-	"symbol": "Poodl Inu",
+	"symbol": "POODL",
 	"name": "Poodl Inu",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/37100/thumb/Poodl_Inu.png?1713290212",
 	"coingecko": "poodl-inu",
 	"sources": [
 		"coingecko"

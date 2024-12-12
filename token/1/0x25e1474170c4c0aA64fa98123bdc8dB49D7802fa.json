@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x25e1474170c4c0aA64fa98123bdc8dB49D7802fa",
-	"symbol": "Bidao",
+	"symbol": "BID",
 	"name": "Bidao",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/12596/thumb/bidao.png?1696512405",
 	"coingecko": "bidao",
 	"sources": [
 		"coingecko"

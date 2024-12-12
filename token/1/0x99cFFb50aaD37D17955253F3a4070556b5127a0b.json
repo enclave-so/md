@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x99cFFb50aaD37D17955253F3a4070556b5127a0b",
-	"symbol": "MEGALODON",
+	"symbol": "MEGA",
 	"name": "MEGALODON",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/33371/thumb/mega.jpg?1701620157",
 	"coingecko": "megalodon",
 	"sources": [
 		"coingecko"

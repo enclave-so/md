@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x2dE509bf0014ddF697b220bE628213034d320EcE",
-	"symbol": "Don't Buy Inu",
-	"name": "Don't Buy Inu",
+	"symbol": "DBI",
+	"name": "Don t Buy Inu",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/28058/thumb/1Artboard_1_%282%29.png?1696527070",
 	"coingecko": "don-t-buy-inu",
 	"sources": [
 		"coingecko"

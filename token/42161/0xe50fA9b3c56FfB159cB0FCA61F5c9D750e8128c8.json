@@ -1,10 +1,13 @@
 {
 	"chain": 42161,
 	"address": "0xe50fA9b3c56FfB159cB0FCA61F5c9D750e8128c8",
-	"symbol": "Aave v3 WETH",
-	"name": "Aave v3 WETH",
+	"symbol": "aArbWETH",
+	"name": "Aave Arbitrum WETH",
+	"decimals": 18,
+	"logo": "ipfs://QmUDc7LQN6zKHon9FChTqZc7WGFvGPZe698Bq5HbSYtfk9",
 	"coingecko": "aave-v3-weth",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"indexcoop"
 	]
 }

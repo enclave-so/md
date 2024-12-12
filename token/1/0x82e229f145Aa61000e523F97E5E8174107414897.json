@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x82e229f145Aa61000e523F97E5E8174107414897",
-	"symbol": "Ryno AI",
+	"symbol": "RYNO",
 	"name": "Ryno AI",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/50345/thumb/coingecko.png?1727247804",
 	"coingecko": "ryno-ai",
 	"sources": [
 		"coingecko"

@@ -1,10 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x55C08ca52497e2f1534B59E2917BF524D4765257",
-	"symbol": "UwU",
+	"symbol": "UWU",
 	"name": "UwU Lend",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x55C08ca52497e2f1534B59E2917BF524D4765257.jpg",
+	"logo": "https://assets.coingecko.com/coins/images/27408/thumb/uwu_logo_no-bg_1024.png?1696526449",
 	"coingecko": "uwu-lend",
 	"sources": [
 		"coingecko",

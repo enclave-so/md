@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x1e4E46b7BF03ECE908c88FF7cC4975560010893A",
-	"symbol": "Internet of Energy Network",
+	"symbol": "IOEN",
 	"name": "Internet of Energy Network",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/19095/thumb/12799.png?1696518548",
 	"coingecko": "internet-of-energy-network",
 	"sources": [
 		"coingecko"

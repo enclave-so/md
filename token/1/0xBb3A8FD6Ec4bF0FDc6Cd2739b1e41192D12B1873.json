@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xBb3A8FD6Ec4bF0FDc6Cd2739b1e41192D12B1873",
-	"symbol": "Orbofi AI",
+	"symbol": "OBI",
 	"name": "Orbofi AI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30216/thumb/new_V_test2.png?1696529127",
 	"coingecko": "orbofi-ai",
 	"sources": [
 		"coingecko"

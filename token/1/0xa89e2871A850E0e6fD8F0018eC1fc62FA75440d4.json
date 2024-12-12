@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xa89e2871A850E0e6fD8F0018eC1fc62FA75440d4",
-	"symbol": "Ready to Fight",
+	"symbol": "RTF",
 	"name": "Ready to Fight",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/37322/thumb/Frame_21313315692.png?1714002508",
 	"coingecko": "ready-to-fight",
 	"sources": [
 		"coingecko"

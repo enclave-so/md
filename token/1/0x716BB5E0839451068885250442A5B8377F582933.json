@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x716BB5E0839451068885250442A5B8377F582933",
-	"symbol": "Fofar0x71",
+	"symbol": "FOFAR",
 	"name": "Fofar0x71",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/38392/thumb/20240601_012800.jpg?1717421870",
 	"coingecko": "fofar0x71",
 	"sources": [
 		"coingecko"

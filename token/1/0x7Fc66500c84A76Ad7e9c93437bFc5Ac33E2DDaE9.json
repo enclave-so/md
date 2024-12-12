@@ -2,12 +2,15 @@
 	"chain": 1,
 	"address": "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9",
 	"symbol": "AAVE",
-	"name": "AAVE",
+	"name": "Aave",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/aave.jpg",
+	"logo": "https://assets.coingecko.com/coins/images/12645/thumb/AAVE.png?1601374110",
 	"coingecko": "aave",
 	"sources": [
 		"coingecko",
-		"sushiswap"
+		"indexcoop",
+		"optimism",
+		"sushiswap",
+		"uniswap"
 	]
 }

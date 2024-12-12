@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xA1B0edF4460CC4d8bFAA18Ed871bFF15E5b57Eb4",
-	"symbol": "Aave AMM UniBATWETH",
+	"symbol": "AAMMUNIBATWETH",
 	"name": "Aave AMM UniBATWETH",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/17217/thumb/aAmmUniBATWETH.png?1696516773",
 	"coingecko": "aave-amm-unibatweth",
 	"sources": [
 		"coingecko"

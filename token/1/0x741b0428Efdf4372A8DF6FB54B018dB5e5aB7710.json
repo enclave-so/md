@@ -3,6 +3,8 @@
 	"address": "0x741b0428Efdf4372A8DF6FB54B018dB5e5aB7710",
 	"symbol": "ARTX",
 	"name": "ARTX",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14652/thumb/ARTX.png?1708198632",
 	"coingecko": "artx",
 	"sources": [
 		"coingecko"

@@ -3,8 +3,11 @@
 	"address": "0xc11158c5dA9db1D553ED28f0C2BA1CbEDD42CFcb",
 	"symbol": "PAW",
 	"name": "PAW",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/28946/thumb/PawLogo.png?1699394612",
 	"coingecko": "pawswap",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

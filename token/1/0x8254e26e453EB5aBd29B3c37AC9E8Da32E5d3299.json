@@ -3,6 +3,8 @@
 	"address": "0x8254e26e453EB5aBd29B3c37AC9E8Da32E5d3299",
 	"symbol": "RBX",
 	"name": "RBX",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/19253/thumb/output-onlinepngtools-9.png?1696518698",
 	"coingecko": "rbx-token",
 	"sources": [
 		"coingecko"

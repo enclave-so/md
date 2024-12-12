@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x5B685863494C33F344081F75e5430C260c224A32",
-	"symbol": "CORE MultiChain",
+	"symbol": "CMCX",
 	"name": "CORE MultiChain",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/18848/thumb/O4IzY2CQ_400x400.png?1696518309",
 	"coingecko": "core",
 	"sources": [
 		"coingecko"

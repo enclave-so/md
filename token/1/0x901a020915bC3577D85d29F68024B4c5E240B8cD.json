@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x901a020915bC3577D85d29F68024B4c5E240B8cD",
-	"symbol": "BlastUP",
+	"symbol": "BLASTUP",
 	"name": "BlastUP",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/36054/thumb/blastup_icon_logo.png?1710403683",
 	"coingecko": "blastup",
 	"sources": [
 		"coingecko"

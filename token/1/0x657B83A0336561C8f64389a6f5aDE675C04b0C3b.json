@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x657B83A0336561C8f64389a6f5aDE675C04b0C3b",
-	"symbol": "Playcent",
+	"symbol": "PCNT",
 	"name": "Playcent",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14335/thumb/1_B5bFcgBld5poUj_c-_K1Jw.png?1696514023",
 	"coingecko": "playcent",
 	"sources": [
 		"coingecko"

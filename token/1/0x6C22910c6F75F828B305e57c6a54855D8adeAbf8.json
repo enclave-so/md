@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x6C22910c6F75F828B305e57c6a54855D8adeAbf8",
-	"symbol": "Satoshis Vision",
+	"symbol": "SATS",
 	"name": "Satoshis Vision",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/29303/thumb/SATS_123-removebg-preview_%281%29.png?1696528255",
 	"coingecko": "satoshis-vision",
 	"sources": [
 		"coingecko"

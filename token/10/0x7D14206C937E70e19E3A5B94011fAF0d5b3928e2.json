@@ -1,0 +1,11 @@
+{
+	"chain": 10,
+	"address": "0x7D14206C937E70e19E3A5B94011fAF0d5b3928e2",
+	"symbol": "VITA",
+	"name": "VitaDAO Token",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/VITA/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x969786c4A8884013d1c9fF18dCCA2aeDbbBfAa8F",
-	"symbol": "Gamerse",
+	"symbol": "LFG",
 	"name": "Gamerse",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/19582/thumb/gamerse.PNG?1696519013",
 	"coingecko": "gamerse",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x5c59a5B139B0538CB106D775a022caD98Dd14b5a",
-	"symbol": "XREATORS",
+	"symbol": "ORT",
 	"name": "XREATORS",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/25678/thumb/XREATORS_ORT_Logo.png?1696524806",
 	"coingecko": "xreators",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xD7fC610F6595b3aA6E24466b5cA166D10a0fbdcb",
-	"symbol": "Kernel",
+	"symbol": "KERN",
 	"name": "Kernel",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/39083/thumb/Kernel.png?1720456906",
 	"coingecko": "kernel",
 	"sources": [
 		"coingecko"

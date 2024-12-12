@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xa7DE087329BFcda5639247F96140f9DAbe3DeED1",
-	"symbol": "Statera",
+	"symbol": "STA",
 	"name": "Statera",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/11472/thumb/Statera.png?1696511379",
 	"coingecko": "statera",
 	"sources": [
 		"coingecko"

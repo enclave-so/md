@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xF1e345Ea7c33fd6c05F5512a780Eb5839EE31674",
-	"symbol": "Telefy",
+	"symbol": "TELE",
 	"name": "Telefy",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/26485/thumb/WhatsApp_Image_2022-07-20_at_2.51.42_AM.jpeg?1696525558",
 	"coingecko": "telefy",
 	"sources": [
 		"coingecko"

@@ -2,12 +2,14 @@
 	"chain": 1,
 	"address": "0x8207c1FfC5B6804F6024322CcF34F29c3541Ae26",
 	"symbol": "OGN",
-	"name": "OriginToken",
+	"name": "Origin Protocol",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x8207c1FfC5B6804F6024322CcF34F29c3541Ae26/logo.png",
+	"logo": "https://assets.coingecko.com/coins/images/3296/thumb/op.jpg?1547037878",
 	"coingecko": "origin-protocol",
 	"sources": [
 		"coingecko",
-		"sushiswap"
+		"optimism",
+		"sushiswap",
+		"uniswap"
 	]
 }

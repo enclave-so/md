@@ -2,9 +2,9 @@
 	"chain": 1,
 	"address": "0x99fE3B1391503A1bC1788051347A1324bff41452",
 	"symbol": "SX",
-	"name": "SportX",
+	"name": "SX Network  OLD ",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x99fE3B1391503A1bC1788051347A1324bff41452/logo.png",
+	"logo": "https://assets.coingecko.com/coins/images/13779/thumb/sx.png?1696513520",
 	"coingecko": "sx-network",
 	"sources": [
 		"coingecko",

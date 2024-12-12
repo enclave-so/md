@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x63f584FA56E60e4D0fE8802b27C7e6E3b33E007f",
-	"symbol": "ContentBox",
+	"symbol": "BOX",
 	"name": "ContentBox",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/4929/thumb/contentbox.png?1696505470",
 	"coingecko": "contentbox",
 	"sources": [
 		"coingecko"

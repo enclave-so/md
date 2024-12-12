@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x18bC66F0C15e27179DD8E2277C1c9c056Df0a14d",
-	"symbol": "Deep Whales AI",
+	"symbol": "DEEPAI",
 	"name": "Deep Whales AI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/50788/thumb/CMCweblogo_copy.png?1730967763",
 	"coingecko": "deep-whales-ai",
 	"sources": [
 		"coingecko"

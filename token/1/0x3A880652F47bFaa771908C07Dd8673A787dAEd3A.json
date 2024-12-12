@@ -4,10 +4,11 @@
 	"symbol": "DDX",
 	"name": "DerivaDAO",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x3A880652F47bFaa771908C07Dd8673A787dAEd3A/logo.png",
+	"logo": "https://assets.coingecko.com/coins/images/13453/thumb/ddx_logo.png?1608741641",
 	"coingecko": "derivadao",
 	"sources": [
 		"coingecko",
-		"sushiswap"
+		"sushiswap",
+		"uniswap"
 	]
 }

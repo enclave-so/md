@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x92F419fB7a750aeD295B0ddF536276bf5a40124F",
-	"symbol": "Tatsu",
+	"symbol": "TATSU",
 	"name": "Tatsu",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35581/thumb/download.png?1709202359",
 	"coingecko": "tatsu",
 	"sources": [
 		"coingecko"

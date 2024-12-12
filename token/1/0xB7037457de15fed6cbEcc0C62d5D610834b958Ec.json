@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xB7037457de15fed6cbEcc0C62d5D610834b958Ec",
-	"symbol": "Whirl",
+	"symbol": "WHIRL",
 	"name": "Whirl",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/34966/thumb/CG_LOGO.png?1706806621",
 	"coingecko": "whirl-privacy",
 	"sources": [
 		"coingecko"

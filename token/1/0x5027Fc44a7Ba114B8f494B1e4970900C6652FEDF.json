@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x5027Fc44a7Ba114B8f494B1e4970900C6652FEDF",
-	"symbol": "Arcana Network",
+	"symbol": "XAR",
 	"name": "Arcana Network",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/23373/thumb/Arcana_-_Logomark_-_White_on_Pink_2x.png?1712340381",
 	"coingecko": "arcana-token",
 	"sources": [
 		"coingecko"

@@ -3,6 +3,8 @@
 	"address": "0xeC21890967a8CEb3e55a3F79dAc4E90673ba3C2E",
 	"symbol": "BEBE",
 	"name": "BEBE",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/34932/thumb/1000003129.jpg?1706694024",
 	"coingecko": "bebe",
 	"sources": [
 		"coingecko"

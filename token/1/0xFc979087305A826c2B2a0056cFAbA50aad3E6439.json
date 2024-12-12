@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xFc979087305A826c2B2a0056cFAbA50aad3E6439",
-	"symbol": "Dafi Protocol",
+	"symbol": "DAFI",
 	"name": "Dafi Protocol",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14428/thumb/Dafi_Black_Icon.png?1696514118",
 	"coingecko": "dafi-protocol",
 	"sources": [
 		"coingecko"

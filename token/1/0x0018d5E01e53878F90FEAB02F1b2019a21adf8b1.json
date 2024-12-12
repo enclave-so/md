@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x0018d5E01e53878F90FEAB02F1b2019a21adf8b1",
-	"symbol": "Shadowcats",
+	"symbol": "SHADOWCATS",
 	"name": "Shadowcats",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/29140/thumb/Shadowcats.png?1696528101",
 	"coingecko": "shadowcats",
 	"sources": [
 		"coingecko"

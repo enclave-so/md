@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x1ffEFD8036409Cb6d652bd610DE465933b226917",
-	"symbol": "Everscale",
+	"symbol": "EVER",
 	"name": "Everscale",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/12783/thumb/everscale_badge_main_round_1x.png?1696512578",
 	"coingecko": "everscale",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x4aa41bC1649C9C3177eD16CaaA11482295fC7441",
-	"symbol": "XFai",
+	"symbol": "XFIT",
 	"name": "XFai",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14904/thumb/XFAI_Logo200x200.jpg?1696514567",
 	"coingecko": "xfit",
 	"sources": [
 		"coingecko"

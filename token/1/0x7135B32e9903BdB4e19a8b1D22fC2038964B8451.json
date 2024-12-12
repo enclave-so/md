@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x7135B32e9903BdB4e19a8b1D22fC2038964B8451",
-	"symbol": "EarlyFans",
+	"symbol": "EARLY",
 	"name": "EarlyFans",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/37614/thumb/Logo_200x200.png?1715061001",
 	"coingecko": "early",
 	"sources": [
 		"coingecko"

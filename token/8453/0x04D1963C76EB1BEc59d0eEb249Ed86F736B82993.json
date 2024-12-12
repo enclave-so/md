@@ -1,0 +1,11 @@
+{
+	"chain": 8453,
+	"address": "0x04D1963C76EB1BEc59d0eEb249Ed86F736B82993",
+	"symbol": "SOFT",
+	"name": "SoftDAO",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/SOFT/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

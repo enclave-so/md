@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0xa184088a740c695E156F91f5cC086a06bb78b827",
-	"symbol": "Auto",
-	"name": "Auto",
+	"symbol": "AUTO",
+	"name": "AUTOv2",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0xa184088a740c695E156F91f5cC086a06bb78b827.png",
 	"coingecko": "auto",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

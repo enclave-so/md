@@ -2,9 +2,9 @@
 	"chain": 1,
 	"address": "0xD23Ac27148aF6A2f339BD82D0e3CFF380b5093de",
 	"symbol": "SI",
-	"name": "SIREN",
+	"name": "Siren",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xD23Ac27148aF6A2f339BD82D0e3CFF380b5093de/logo.png",
+	"logo": "https://assets.coingecko.com/coins/images/13955/thumb/siren_token_200x200.png?1696513692",
 	"coingecko": "siren",
 	"sources": [
 		"coingecko",

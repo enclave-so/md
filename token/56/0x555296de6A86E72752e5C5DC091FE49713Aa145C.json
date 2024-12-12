@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0x555296de6A86E72752e5C5DC091FE49713Aa145C",
-	"symbol": "Grape Coin",
-	"name": "Grape Coin",
+	"symbol": "GRAPE",
+	"name": "Grape coin",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x555296de6A86E72752e5C5DC091FE49713Aa145C.png",
 	"coingecko": "the-grapes-grape-coin",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

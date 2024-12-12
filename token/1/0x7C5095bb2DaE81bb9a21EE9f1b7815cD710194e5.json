@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x7C5095bb2DaE81bb9a21EE9f1b7815cD710194e5",
-	"symbol": "Obama6900",
+	"symbol": "OBX",
 	"name": "Obama6900",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/32378/thumb/obamasmall.jpg?1698036300",
 	"coingecko": "obama6900",
 	"sources": [
 		"coingecko"

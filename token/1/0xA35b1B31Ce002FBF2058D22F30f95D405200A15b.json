@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0xA35b1B31Ce002FBF2058D22F30f95D405200A15b",
-	"symbol": "Stader ETHx",
+	"symbol": "ETHX",
 	"name": "Stader ETHx",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30870/thumb/staderx.png?1696529717",
 	"coingecko": "stader-ethx",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"indexcoop"
 	]
 }

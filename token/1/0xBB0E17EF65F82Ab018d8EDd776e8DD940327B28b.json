@@ -2,12 +2,13 @@
 	"chain": 1,
 	"address": "0xBB0E17EF65F82Ab018d8EDd776e8DD940327B28b",
 	"symbol": "AXS",
-	"name": "Axie Infinity Shard",
+	"name": "Axie Infinity",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xBB0E17EF65F82Ab018d8EDd776e8DD940327B28b/logo.png",
+	"logo": "https://assets.coingecko.com/coins/images/13029/thumb/axie_infinity_logo.png?1604471082",
 	"coingecko": "axie-infinity",
 	"sources": [
 		"coingecko",
-		"sushiswap"
+		"sushiswap",
+		"uniswap"
 	]
 }

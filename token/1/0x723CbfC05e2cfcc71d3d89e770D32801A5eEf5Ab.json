@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x723CbfC05e2cfcc71d3d89e770D32801A5eEf5Ab",
-	"symbol": "Bitcoin Pro",
+	"symbol": "BTCP",
 	"name": "Bitcoin Pro",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/3545/thumb/DSiD9ZhWsAE_8cS.png?1696504231",
 	"coingecko": "bitcoin-pro",
 	"sources": [
 		"coingecko"

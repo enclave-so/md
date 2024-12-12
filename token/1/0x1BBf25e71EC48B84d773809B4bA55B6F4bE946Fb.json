@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x1BBf25e71EC48B84d773809B4bA55B6F4bE946Fb",
-	"symbol": "Vow",
+	"symbol": "VOW",
 	"name": "Vow",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/18202/thumb/72Nd63R0_400x400.png?1696517701",
 	"coingecko": "vow",
 	"sources": [
 		"coingecko"

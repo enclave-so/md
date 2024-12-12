@@ -1,0 +1,11 @@
+{
+	"chain": 8453,
+	"address": "0xE2B21D4684b2bA62F3BE1FE286eacb90D26E394d",
+	"symbol": "COC",
+	"name": "CryptoOracle Collective",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/COC/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

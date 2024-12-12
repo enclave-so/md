@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0xeD35af169aF46a02eE13b9d79Eb57d6D68C1749e",
-	"symbol": "ECOMI",
+	"symbol": "OMI",
 	"name": "ECOMI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/4428/thumb/ECOMI.png?1696505023",
 	"coingecko": "ecomi",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

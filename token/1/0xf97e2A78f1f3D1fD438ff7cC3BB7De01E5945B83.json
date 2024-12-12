@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xf97e2A78f1f3D1fD438ff7cC3BB7De01E5945B83",
-	"symbol": "holoride",
+	"symbol": "RIDE",
 	"name": "holoride",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/21626/thumb/RIDE_Token_Symbol_MASTER.png?1696520986",
 	"coingecko": "holoride",
 	"sources": [
 		"coingecko"

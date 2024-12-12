@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xb6d78683a4E54B91031ACB41510BD8E144FED025",
-	"symbol": "CoinForge",
+	"symbol": "CNFRG",
 	"name": "CoinForge",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35490/thumb/CoinForge.png?1708884142",
 	"coingecko": "coinforge",
 	"sources": [
 		"coingecko"

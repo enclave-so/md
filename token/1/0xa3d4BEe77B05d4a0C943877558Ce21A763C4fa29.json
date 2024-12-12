@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xa3d4BEe77B05d4a0C943877558Ce21A763C4fa29",
-	"symbol": "The Root Network",
+	"symbol": "ROOT",
 	"name": "The Root Network",
+	"decimals": 6,
+	"logo": "https://assets.coingecko.com/coins/images/33122/thumb/6T1Tapl__400x400.jpg?1700740439",
 	"coingecko": "the-root-network",
 	"sources": [
 		"coingecko"

@@ -3,6 +3,8 @@
 	"address": "0xF0c5831EC3Da15f3696B4DAd8B21c7Ce2f007f28",
 	"symbol": "AXIS",
 	"name": "AXIS",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/16972/thumb/lUeFYUeu_400x400.png?1696516538",
 	"coingecko": "axis-token",
 	"sources": [
 		"coingecko"

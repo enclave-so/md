@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xf976fC699Eb81a302a29BaC6590D1565E8e5DA0d",
-	"symbol": "RAKUICHI Token",
+	"symbol": "RKC",
 	"name": "RAKUICHI Token",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/40065/thumb/_RKC_token_icon_S.png?1725483324",
 	"coingecko": "rakuichi-token",
 	"sources": [
 		"coingecko"

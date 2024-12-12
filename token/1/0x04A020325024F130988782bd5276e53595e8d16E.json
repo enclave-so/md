@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x04A020325024F130988782bd5276e53595e8d16E",
-	"symbol": "Herbalist",
+	"symbol": "HERB",
 	"name": "Herbalist",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/6892/thumb/herbalist-token-twitter.png?1696507211",
 	"coingecko": "herbalist-token",
 	"sources": [
 		"coingecko"

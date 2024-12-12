@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x0262E9374E95B9667B78136C3897Cb4e4Ef7f0c2",
-	"symbol": "Medifakt",
+	"symbol": "FAKT",
 	"name": "Medifakt",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/25248/thumb/fxOi9ZYI_400x400.png?1696524389",
 	"coingecko": "medifakt",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x8EEdEFe828A0f16C8fc80e46a87Bc0f1De2d960c",
-	"symbol": "DigiMetaverse",
+	"symbol": "DGMV",
 	"name": "DigiMetaverse",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/23701/thumb/DigiCorpLabs_token.png?1696522902",
 	"coingecko": "digimetaverse",
 	"sources": [
 		"coingecko"

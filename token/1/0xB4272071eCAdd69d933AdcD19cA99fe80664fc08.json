@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0xB4272071eCAdd69d933AdcD19cA99fe80664fc08",
-	"symbol": "CryptoFranc",
+	"symbol": "XCHF",
 	"name": "CryptoFranc",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/8465/thumb/WhuiuJBc_400x400.jpg?1696508650",
 	"coingecko": "cryptofranc",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

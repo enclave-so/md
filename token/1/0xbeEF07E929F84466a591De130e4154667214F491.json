@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xbeEF07E929F84466a591De130e4154667214F491",
-	"symbol": "Steakhouse EURCV Morpho Vault",
+	"symbol": "STEAKEURCV",
 	"name": "Steakhouse EURCV Morpho Vault",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/52409/thumb/steakEURcv-wrapper.png?1733304439",
 	"coingecko": "steakhouse-eurcv-morpho-vault",
 	"sources": [
 		"coingecko"

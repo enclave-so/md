@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xb0E99627bC29adEf1178f16117BF495351E81997",
-	"symbol": "Dex-Trade Coin",
-	"name": "Dex-Trade Coin",
+	"symbol": "DXC",
+	"name": "Dex Trade Coin",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/15025/thumb/R1A63oDx_400x400.jpg?1696514686",
 	"coingecko": "dex-trade-coin",
 	"sources": [
 		"coingecko"

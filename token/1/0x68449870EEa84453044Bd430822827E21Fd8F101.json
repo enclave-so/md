@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x68449870EEa84453044Bd430822827E21Fd8F101",
-	"symbol": "Zaibot",
+	"symbol": "ZAI",
 	"name": "Zaibot",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35781/thumb/zai.jpeg?1709795384",
 	"coingecko": "zaibot",
 	"sources": [
 		"coingecko"

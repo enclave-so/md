@@ -3,6 +3,8 @@
 	"address": "0xd20523b39fAF1D6e9023a4D6085f87B7b0DE7926",
 	"symbol": "OATH",
 	"name": "OATH",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/24075/thumb/OATH.png?1698051304",
 	"coingecko": "oath",
 	"sources": [
 		"coingecko"

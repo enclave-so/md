@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xD69F306549e9d96f183B1AecA30B8f4353c2ECC3",
-	"symbol": "MCH Coin",
+	"symbol": "MCHC",
 	"name": "MCH Coin",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/15399/thumb/MCHC.jpg?1696515045",
 	"coingecko": "mch-coin",
 	"sources": [
 		"coingecko"

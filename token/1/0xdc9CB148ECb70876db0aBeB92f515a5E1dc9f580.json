@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xdc9CB148ECb70876db0aBeB92f515a5E1dc9f580",
-	"symbol": "Green Bitcoin",
+	"symbol": "GBTC",
 	"name": "Green Bitcoin",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/37001/thumb/Green_Bitcoin.png?1713070667",
 	"coingecko": "green-bitcoin",
 	"sources": [
 		"coingecko"

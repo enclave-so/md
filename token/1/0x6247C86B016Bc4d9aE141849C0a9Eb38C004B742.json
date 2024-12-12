@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x6247C86B016Bc4d9aE141849C0a9Eb38C004B742",
-	"symbol": "Hotelium",
+	"symbol": "HTL",
 	"name": "Hotelium",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/8812/thumb/hotelium.PNG?1696508966",
 	"coingecko": "hotelium",
 	"sources": [
 		"coingecko"

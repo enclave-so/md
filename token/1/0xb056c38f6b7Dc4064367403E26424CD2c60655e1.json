@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xb056c38f6b7Dc4064367403E26424CD2c60655e1",
-	"symbol": "CEEK Smart VR",
+	"symbol": "CEEK",
 	"name": "CEEK Smart VR",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/2581/thumb/ceek-smart-vr-token-logo.png?1696503385",
 	"coingecko": "ceek",
 	"sources": [
 		"coingecko"

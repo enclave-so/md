@@ -2,9 +2,9 @@
 	"chain": 1,
 	"address": "0xB62132e35a6c13ee1EE0f84dC5d40bad8d815206",
 	"symbol": "NEXO",
-	"name": "Nexo",
+	"name": "NEXO",
 	"decimals": 18,
-	"logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2694.png",
+	"logo": "https://assets.coingecko.com/coins/images/3695/thumb/CG-nexo-token-200x200_2x.png?1730414360",
 	"coingecko": "nexo",
 	"sources": [
 		"coingecko",

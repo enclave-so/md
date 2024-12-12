@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xb478c6245e3D85D6EC3486B62ea872128d562541",
-	"symbol": "LootBot",
+	"symbol": "LOOT",
 	"name": "LootBot",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30985/thumb/K7dMTTKi_400x400.png?1696529824",
 	"coingecko": "lootbot",
 	"sources": [
 		"coingecko"

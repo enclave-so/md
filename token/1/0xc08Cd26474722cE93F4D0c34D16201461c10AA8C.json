@@ -3,6 +3,8 @@
 	"address": "0xc08Cd26474722cE93F4D0c34D16201461c10AA8C",
 	"symbol": "CARV",
 	"name": "CARV",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/37689/thumb/CARV_%281%29.png?1728418485",
 	"coingecko": "carv",
 	"sources": [
 		"coingecko"

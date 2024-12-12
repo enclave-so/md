@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x1039BaE6254178EE2f6123cD64CDE9e4CA79D779",
-	"symbol": "Wukong Musk",
+	"symbol": "WUKONG",
 	"name": "Wukong Musk",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/40129/thumb/WUKONG.jpg?1725942422",
 	"coingecko": "wukong-musk",
 	"sources": [
 		"coingecko"

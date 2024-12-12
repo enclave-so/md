@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x3A856d4effa670C54585a5D523e96513e148e95d",
-	"symbol": "TriasLab",
+	"symbol": "TRIAS",
 	"name": "TriasLab",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/13963/thumb/5ELqtwp__400x400_%281%29.jpg?1696513699",
 	"coingecko": "trias-token",
 	"sources": [
 		"coingecko"

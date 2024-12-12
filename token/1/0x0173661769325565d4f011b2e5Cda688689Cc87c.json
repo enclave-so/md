@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x0173661769325565d4f011b2e5Cda688689Cc87c",
-	"symbol": "Quantland",
+	"symbol": "QLT",
 	"name": "Quantland",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/24536/thumb/8jYfKBTk_400x400.jpg?1696523713",
 	"coingecko": "quantland",
 	"sources": [
 		"coingecko"

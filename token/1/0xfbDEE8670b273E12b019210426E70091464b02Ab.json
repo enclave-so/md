@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xfbDEE8670b273E12b019210426E70091464b02Ab",
-	"symbol": "MEV Capital M^0 Morpho Vault",
-	"name": "MEV Capital M^0 Morpho Vault",
+	"symbol": "MCWM",
+	"name": "MEV Capital M 0 Morpho Vault",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/51335/thumb/m0-vault-mev.png?1730814418",
 	"coingecko": "mev-capital-m-0-morpho-vault",
 	"sources": [
 		"coingecko"

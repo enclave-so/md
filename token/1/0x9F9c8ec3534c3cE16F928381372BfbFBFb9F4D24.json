@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x9F9c8ec3534c3cE16F928381372BfbFBFb9F4D24",
-	"symbol": "GraphLinq Chain",
+	"symbol": "GLQ",
 	"name": "GraphLinq Chain",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14474/thumb/Logo_Dex_4_correct__%282%29.png?1712018526",
 	"coingecko": "graphlinq-protocol",
 	"sources": [
 		"coingecko"

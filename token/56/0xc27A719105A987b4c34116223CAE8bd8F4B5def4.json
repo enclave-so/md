@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0xc27A719105A987b4c34116223CAE8bd8F4B5def4",
-	"symbol": "Fusionist",
-	"name": "Fusionist",
+	"symbol": "ACE",
+	"name": "ACEToken",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0xc27A719105A987b4c34116223CAE8bd8F4B5def4.png",
 	"coingecko": "endurance",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

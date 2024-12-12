@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0x6e15A54B5EcAc17e58daDedDbe8506a7560252F9",
-	"symbol": "SynFutures",
+	"symbol": "F",
 	"name": "SynFutures",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/52186/thumb/synfutures_f_token_light_200.png?1732722899",
 	"coingecko": "synfutures",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

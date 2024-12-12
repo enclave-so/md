@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x1A688D3d294ee7BcC1f59011DE93d608Dc21c377",
-	"symbol": "Archethic",
+	"symbol": "UCO",
 	"name": "Archethic",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/12330/thumb/Archethic_Logo.png?1719358185",
 	"coingecko": "archethic",
 	"sources": [
 		"coingecko"

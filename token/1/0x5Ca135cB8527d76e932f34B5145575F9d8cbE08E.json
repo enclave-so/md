@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0x5Ca135cB8527d76e932f34B5145575F9d8cbE08E",
-	"symbol": "Frax Price Index",
+	"symbol": "FPI",
 	"name": "Frax Price Index",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/24945/thumb/FPI_icon.png?1696524100",
 	"coingecko": "frax-price-index",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

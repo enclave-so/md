@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x7717f2828fE4daC8558d23eE4CdfED9544E9321F",
-	"symbol": "OTX EXCHANGE",
+	"symbol": "OTX",
 	"name": "OTX EXCHANGE",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/33128/thumb/otx_logo.jpg?1700795823",
 	"coingecko": "otx-exchange",
 	"sources": [
 		"coingecko"

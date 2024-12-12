@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xa1e349faC47e50b42Cd323C4285EF4622b60a5e0",
-	"symbol": "Pepy coin",
+	"symbol": "PEPY",
 	"name": "Pepy coin",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/36966/thumb/pepy_cr_%281%29.jpg?1712908045",
 	"coingecko": "pepy-coin",
 	"sources": [
 		"coingecko"

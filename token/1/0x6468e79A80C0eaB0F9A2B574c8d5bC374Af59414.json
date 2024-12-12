@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x6468e79A80C0eaB0F9A2B574c8d5bC374Af59414",
-	"symbol": "e-Radix",
-	"name": "e-Radix",
+	"symbol": "EXRD",
+	"name": "e Radix",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/13145/thumb/exrd_logo.png?1696512931",
 	"coingecko": "e-radix",
 	"sources": [
 		"coingecko"

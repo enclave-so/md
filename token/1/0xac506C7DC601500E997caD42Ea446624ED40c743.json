@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xac506C7DC601500E997caD42Ea446624ED40c743",
-	"symbol": "XCeption",
+	"symbol": "XCEPT",
 	"name": "XCeption",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/33298/thumb/IMG_20240730_132245_113.png?1722374106",
 	"coingecko": "xception",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xf5cB350b40726B5BcF170d12e162B6193b291B41",
-	"symbol": "Bismuth",
+	"symbol": "BIS",
 	"name": "Bismuth",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/974/thumb/bis200px.png?1696502089",
 	"coingecko": "bismuth",
 	"sources": [
 		"coingecko"

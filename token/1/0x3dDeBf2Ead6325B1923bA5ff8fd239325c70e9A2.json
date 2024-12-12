@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x3dDeBf2Ead6325B1923bA5ff8fd239325c70e9A2",
-	"symbol": "Sebra AI",
+	"symbol": "BRAIN",
 	"name": "Sebra AI",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/38549/thumb/Group_810sa.png?1717935407",
 	"coingecko": "sebra-ai",
 	"sources": [
 		"coingecko"

@@ -4,10 +4,11 @@
 	"symbol": "axlUSDC",
 	"name": "Axelar Wrapped USDC",
 	"decimals": 6,
-	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0x4268B8F0B87b6Eae5d897996E6b845ddbD99Adf3.jpg",
+	"logo": "https://tokens.pancakeswap.finance/images/0x4268B8F0B87b6Eae5d897996E6b845ddbD99Adf3.png",
 	"coingecko": "axlusdc",
 	"sources": [
 		"coingecko",
+		"pancakeswap",
 		"sushiswap"
 	]
 }

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xD3999188fF689b99d8097A4876f61E70b22F7881",
-	"symbol": "Spurdo Spärde",
-	"name": "Spurdo Spärde",
+	"symbol": "SPURDO",
+	"name": "Spurdo Sp rde",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/38383/thumb/spurdo200.png?1717386253",
 	"coingecko": "spurdo-sparde-on-eth",
 	"sources": [
 		"coingecko"

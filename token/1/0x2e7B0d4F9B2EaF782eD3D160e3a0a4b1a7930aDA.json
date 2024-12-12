@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x2e7B0d4F9B2EaF782eD3D160e3a0a4b1a7930aDA",
-	"symbol": "Ceres",
+	"symbol": "CERES",
 	"name": "Ceres",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/17959/thumb/sQLDgqx.png?1696517478",
 	"coingecko": "ceres",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xA700b4eB416Be35b2911fd5Dee80678ff64fF6C9",
-	"symbol": "Aave v3 AAVE",
+	"symbol": "AAAVE",
 	"name": "Aave v3 AAVE",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/32887/thumb/aave.png?1699773604",
 	"coingecko": "aave-v3-aave",
 	"sources": [
 		"coingecko"

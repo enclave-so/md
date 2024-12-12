@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xF587f2e8AfF7D76618d3B6B4626621860FbD54e3",
-	"symbol": "cbBTC Core Morpho Vault",
+	"symbol": "GTCBBTCC",
 	"name": "cbBTC Core Morpho Vault",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/51336/thumb/cbbtc.png?1730814747",
 	"coingecko": "cbbtc-core-morpho-vault",
 	"sources": [
 		"coingecko"

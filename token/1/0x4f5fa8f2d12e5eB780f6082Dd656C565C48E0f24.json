@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x4f5fa8f2d12e5eB780f6082Dd656C565C48E0f24",
-	"symbol": "Gourmet Galaxy",
+	"symbol": "GUM",
 	"name": "Gourmet Galaxy",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/13846/thumb/gum.png?1696513592",
 	"coingecko": "gourmetgalaxy",
 	"sources": [
 		"coingecko"

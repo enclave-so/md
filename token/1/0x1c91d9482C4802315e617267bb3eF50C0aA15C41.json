@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x1c91d9482C4802315e617267bb3eF50C0aA15C41",
-	"symbol": "Davos Protocol Staked DUSD",
+	"symbol": "SDUSD",
 	"name": "Davos Protocol Staked DUSD",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/37909/thumb/image_%281%29.png?1715934988",
 	"coingecko": "davos-protocol-staked-dusd",
 	"sources": [
 		"coingecko"

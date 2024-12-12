@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xB2ee0aDBe0EF1281025d0676511bB1df14600f4D",
-	"symbol": "FORE Protocol",
+	"symbol": "FORE",
 	"name": "FORE Protocol",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31001/thumb/EXCHANGE_LOGO_FORE.png?1696529839",
 	"coingecko": "fore-protocol",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x46b7Cb31A4A6375C69A6D0B9ed9261fB649ADb83",
-	"symbol": "0xPrivacy",
+	"symbol": "0XP",
 	"name": "0xPrivacy",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/50591/thumb/photo_2024-09-30_13-46-26.jpg?1728443504",
 	"coingecko": "0xprivacy",
 	"sources": [
 		"coingecko"

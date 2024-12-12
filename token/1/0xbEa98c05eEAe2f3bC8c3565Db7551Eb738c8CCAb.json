@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0xbEa98c05eEAe2f3bC8c3565Db7551Eb738c8CCAb",
-	"symbol": "Geyser",
+	"symbol": "GYSR",
 	"name": "Geyser",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/12995/thumb/logo_padded_shifted.png?1696512785",
 	"coingecko": "geyser",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

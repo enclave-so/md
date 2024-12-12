@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x2BE056e595110B30ddd5eaF674BdAC54615307d9",
-	"symbol": "Airpuff",
+	"symbol": "APUFF",
 	"name": "Airpuff",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/36622/thumb/Airpuff_Icon.jpeg?1711980913",
 	"coingecko": "airpuff",
 	"sources": [
 		"coingecko"

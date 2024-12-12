@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x73C9275c3a2Dd84b5741fD59AEbF102C91Eb033F",
-	"symbol": "Bitball Treasure",
+	"symbol": "BTRS",
 	"name": "Bitball Treasure",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/7273/thumb/btrs.png?1696507565",
 	"coingecko": "bitball-treasure",
 	"sources": [
 		"coingecko"

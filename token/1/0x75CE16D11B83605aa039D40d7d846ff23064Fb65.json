@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x75CE16D11B83605aa039D40d7d846ff23064Fb65",
-	"symbol": "DUBX",
+	"symbol": "DUB",
 	"name": "DUBX",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/31605/thumb/dubx200*200.png?1696530421",
 	"coingecko": "dubx",
 	"sources": [
 		"coingecko"

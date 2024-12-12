@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x017E9Db34fC69Af0dC7c7b4b33511226971cDdc7",
-	"symbol": "On-Chain Dynamics",
-	"name": "On-Chain Dynamics",
+	"symbol": "OCD",
+	"name": "On Chain Dynamics",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31639/thumb/Screenshot_2023-09-01_010740.png?1696530455",
 	"coingecko": "on-chain-dynamics",
 	"sources": [
 		"coingecko"

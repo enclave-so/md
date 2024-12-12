@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xba0Dda8762C24dA9487f5FA026a9B64b695A07Ea",
-	"symbol": "OX Coin",
+	"symbol": "OX",
 	"name": "OX Coin",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35365/thumb/9.png?1727331352",
 	"coingecko": "ox-fun",
 	"sources": [
 		"coingecko"

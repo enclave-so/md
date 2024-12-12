@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xA876f27F13A9eB6E621202cEFDD5AFc4a90E6457",
-	"symbol": "Icy",
+	"symbol": "IC",
 	"name": "Icy",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/29666/thumb/1200.png?1696528601",
 	"coingecko": "icy",
 	"sources": [
 		"coingecko"

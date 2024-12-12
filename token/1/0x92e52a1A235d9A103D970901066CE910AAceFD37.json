@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x92e52a1A235d9A103D970901066CE910AAceFD37",
-	"symbol": "U.CASH",
-	"name": "U.CASH",
+	"symbol": "UCASH",
+	"name": "U CASH",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/2901/thumb/ucash.png?1696503651",
 	"coingecko": "ucash",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xdFC3829b127761a3218bFceE7fc92e1232c9D116",
-	"symbol": "PRivaCY Coin",
+	"symbol": "PRCY",
 	"name": "PRivaCY Coin",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/14151/thumb/prcy.png?1696513870",
 	"coingecko": "prcy-coin",
 	"sources": [
 		"coingecko"

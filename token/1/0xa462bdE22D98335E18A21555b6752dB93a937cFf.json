@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xa462bdE22D98335E18A21555b6752dB93a937cFf",
-	"symbol": "Kennedy Memecoin",
+	"symbol": "BOBBY",
 	"name": "Kennedy Memecoin",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/37105/thumb/Token_Image.png?1721025878",
 	"coingecko": "independence-token",
 	"sources": [
 		"coingecko"

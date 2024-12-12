@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0xC1f33e0cf7e40a67375007104B929E49a581bafE",
-	"symbol": "Spot",
+	"symbol": "SPOT",
 	"name": "Spot",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/28426/thumb/SPOT_Logo_200x200_sq_small_centered.png?1696527423",
 	"coingecko": "spot",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

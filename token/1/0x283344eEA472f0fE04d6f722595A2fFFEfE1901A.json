@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x283344eEA472f0fE04d6f722595A2fFFEfE1901A",
-	"symbol": "Code Token",
+	"symbol": "CODE",
 	"name": "Code Token",
+	"decimals": 13,
+	"logo": "https://assets.coingecko.com/coins/images/39512/thumb/logopng.png?1722659773",
 	"coingecko": "code-token",
 	"sources": [
 		"coingecko"

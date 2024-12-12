@@ -1,0 +1,11 @@
+{
+	"chain": 8453,
+	"address": "0x82c8F48AC694841360dE84d649a0d48d239B61F8",
+	"symbol": "ZYN",
+	"name": "ZynCoin",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/ZYN/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xD487892BB4C57edBe7aB401d9fe801c8FE6473f5",
-	"symbol": "Uhive",
+	"symbol": "HVE2",
 	"name": "Uhive",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/3811/thumb/hve2.png?1696504483",
 	"coingecko": "uhive",
 	"sources": [
 		"coingecko"

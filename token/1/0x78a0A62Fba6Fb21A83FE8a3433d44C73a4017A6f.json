@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x78a0A62Fba6Fb21A83FE8a3433d44C73a4017A6f",
-	"symbol": "Open Exchange Token",
+	"symbol": "OXOLD",
 	"name": "Open Exchange Token",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30604/thumb/Logo2.png?1696529473",
 	"coingecko": "open-exchange-token",
 	"sources": [
 		"coingecko"

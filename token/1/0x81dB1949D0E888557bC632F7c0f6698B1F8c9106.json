@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x81dB1949D0E888557bC632F7c0f6698B1F8c9106",
-	"symbol": "d/acc",
-	"name": "d/acc",
+	"symbol": "D/ACC",
+	"name": "d acc",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/33313/thumb/dddd.png?1701412963",
 	"coingecko": "d-acc",
 	"sources": [
 		"coingecko"

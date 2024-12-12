@@ -3,6 +3,8 @@
 	"address": "0x4cd1B2874e020C5bf08c4bE18Ab69ca86EC25fEf",
 	"symbol": "CRYORAT",
 	"name": "CRYORAT",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/52533/thumb/cryorat-tp.png?1733583635",
 	"coingecko": "cryorat",
 	"sources": [
 		"coingecko"

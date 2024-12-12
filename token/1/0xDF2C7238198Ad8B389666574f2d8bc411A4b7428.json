@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xDF2C7238198Ad8B389666574f2d8bc411A4b7428",
-	"symbol": "Mainframe",
+	"symbol": "MFT",
 	"name": "Mainframe",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/3293/thumb/Mainframe_Token_Logo.png?1696504003",
 	"coingecko": "mainframe",
 	"sources": [
 		"coingecko"

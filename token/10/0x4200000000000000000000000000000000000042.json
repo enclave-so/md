@@ -8,6 +8,8 @@
 	"coingecko": "optimism",
 	"sources": [
 		"coingecko",
-		"sushiswap"
+		"optimism",
+		"sushiswap",
+		"uniswap"
 	]
 }

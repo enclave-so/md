@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x0aA7eFE4945Db24d95cA6E117BBa65Ed326e291A",
-	"symbol": "Ojamu",
+	"symbol": "OJA",
 	"name": "Ojamu",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/18947/thumb/ojamu-icon-PNK.png?1696518402",
 	"coingecko": "ojamu",
 	"sources": [
 		"coingecko"

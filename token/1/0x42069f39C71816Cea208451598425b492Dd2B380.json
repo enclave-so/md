@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x42069f39C71816Cea208451598425b492Dd2B380",
-	"symbol": "Goompy",
+	"symbol": "GOOMPY",
 	"name": "Goompy",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/51678/thumb/IMG_0205.jpeg?1731779137",
 	"coingecko": "goompy",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xbf52F2ab39e26E0951d2a02b49B7702aBe30406a",
-	"symbol": "ODEM",
+	"symbol": "ODE",
 	"name": "ODEM",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/3752/thumb/odem.png?1696504428",
 	"coingecko": "odem",
 	"sources": [
 		"coingecko"

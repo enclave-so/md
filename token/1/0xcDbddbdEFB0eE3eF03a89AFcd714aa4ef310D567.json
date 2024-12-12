@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xcDbddbdEFB0eE3eF03a89AFcd714aa4ef310D567",
-	"symbol": "Vertical AI",
+	"symbol": "VERTAI",
 	"name": "Vertical AI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/51520/thumb/favicon.png?1731449166",
 	"coingecko": "vertical-ai",
 	"sources": [
 		"coingecko"

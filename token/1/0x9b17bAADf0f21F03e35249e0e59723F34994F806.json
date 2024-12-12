@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x9b17bAADf0f21F03e35249e0e59723F34994F806",
-	"symbol": "NFTmall",
+	"symbol": "GEM",
 	"name": "NFTmall",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/16217/thumb/Icon-1000x1000.png?1696515817",
 	"coingecko": "nftmall",
 	"sources": [
 		"coingecko"

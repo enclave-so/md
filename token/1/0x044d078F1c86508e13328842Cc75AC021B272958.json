@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x044d078F1c86508e13328842Cc75AC021B272958",
-	"symbol": "Peercoin",
+	"symbol": "PPC",
 	"name": "Peercoin",
+	"decimals": 6,
+	"logo": "https://assets.coingecko.com/coins/images/4/thumb/peercoin-icon-green-transparent_6x.png?1696501402",
 	"coingecko": "peercoin",
 	"sources": [
 		"coingecko"

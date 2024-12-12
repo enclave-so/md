@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0x6f80310CA7F2C654691D1383149Fa1A57d8AB1f8",
-	"symbol": "Silo Finance",
+	"symbol": "SILO",
 	"name": "Silo Finance",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/21454/thumb/y0iYKZOv_400x400.png?1696520816",
 	"coingecko": "silo-finance",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

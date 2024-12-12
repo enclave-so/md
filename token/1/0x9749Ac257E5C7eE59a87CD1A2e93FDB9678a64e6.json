@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x9749Ac257E5C7eE59a87CD1A2e93FDB9678a64e6",
-	"symbol": "Retard Coin",
+	"symbol": "RETARD",
 	"name": "Retard Coin",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/37744/thumb/tardcoin.png.jpg?1715369548",
 	"coingecko": "retard-coin",
 	"sources": [
 		"coingecko"

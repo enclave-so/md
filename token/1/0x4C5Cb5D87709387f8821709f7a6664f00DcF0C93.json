@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x4C5Cb5D87709387f8821709f7a6664f00DcF0C93",
-	"symbol": "Raft",
+	"symbol": "RAFT",
 	"name": "Raft",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30915/thumb/Logomark_Transparent_Background_200x200.png?1696529760",
 	"coingecko": "raft",
 	"sources": [
 		"coingecko"

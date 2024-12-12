@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xF6cCFD6EF2850E84B73AdEaCE9A075526C5910D4",
-	"symbol": "THE•RUNIX•TOKEN",
-	"name": "THE•RUNIX•TOKEN",
+	"symbol": "RUNIX",
+	"name": "THE RUNIX TOKEN",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/37294/thumb/logo-withText-whiteOnBlack.png?1713948942",
 	"coingecko": "the-runix-token",
 	"sources": [
 		"coingecko"

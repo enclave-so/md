@@ -2,9 +2,9 @@
 	"chain": 1,
 	"address": "0xEe7527841A932d2912224E20a405e1a1FF747084",
 	"symbol": "SHX",
-	"name": "Stronghold SHx",
+	"name": "Stronghold",
 	"decimals": 7,
-	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xEe7527841A932d2912224E20a405e1a1FF747084.jpg",
+	"logo": "https://assets.coingecko.com/coins/images/7427/thumb/Blue_Mark_-_White_BG.png?1696507700",
 	"coingecko": "stronghold-token",
 	"sources": [
 		"coingecko",

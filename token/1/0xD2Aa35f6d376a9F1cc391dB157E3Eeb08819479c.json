@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xD2Aa35f6d376a9F1cc391dB157E3Eeb08819479c",
-	"symbol": "BrAIngent",
+	"symbol": "BRAIN",
 	"name": "BrAIngent",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/38431/thumb/BrAIngent.png?1717521023",
 	"coingecko": "braingent",
 	"sources": [
 		"coingecko"

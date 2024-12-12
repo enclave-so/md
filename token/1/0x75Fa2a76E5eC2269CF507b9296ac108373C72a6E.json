@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x75Fa2a76E5eC2269CF507b9296ac108373C72a6E",
-	"symbol": "Nugget Rush",
+	"symbol": "NUGX",
 	"name": "Nugget Rush",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/40028/thumb/NUGX.jpg?1725353880",
 	"coingecko": "nugget-rush",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x70401dFD142A16dC7031c56E862Fc88Cb9537Ce0",
-	"symbol": "Bird.Money",
-	"name": "Bird.Money",
+	"symbol": "BIRD",
+	"name": "Bird Money",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/13260/thumb/favicon-180x180.png?1696513035",
 	"coingecko": "bird-money",
 	"sources": [
 		"coingecko"

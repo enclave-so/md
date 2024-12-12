@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x3E985250CB137fc1Ff55922116934C5982d29F85",
-	"symbol": "ZENTU",
+	"symbol": "ZENT",
 	"name": "ZENTU",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/40039/thumb/Zentu-logo-200x200.png?1725391708",
 	"coingecko": "zentu",
 	"sources": [
 		"coingecko"

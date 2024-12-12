@@ -3,6 +3,8 @@
 	"address": "0xa8c08D8bB15A2D1a4d3B78Def9c635EF1E340E16",
 	"symbol": "SERBIAN DANCING LADY",
 	"name": "SERBIAN DANCING LADY",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/32688/thumb/IMG_20231101_105021_023.jpg?1698938977",
 	"coingecko": "serbian-dancing-lady",
 	"sources": [
 		"coingecko"

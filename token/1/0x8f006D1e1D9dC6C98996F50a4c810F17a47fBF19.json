@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x8f006D1e1D9dC6C98996F50a4c810F17a47fBF19",
-	"symbol": "Pleasure Coin",
+	"symbol": "NSFW",
 	"name": "Pleasure Coin",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/15315/thumb/pleasurecoin-icon.png?1696514965",
 	"coingecko": "pleasure-coin",
 	"sources": [
 		"coingecko"

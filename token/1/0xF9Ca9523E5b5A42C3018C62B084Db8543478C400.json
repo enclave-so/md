@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xF9Ca9523E5b5A42C3018C62B084Db8543478C400",
-	"symbol": "Data Lake",
+	"symbol": "LAKE",
 	"name": "Data Lake",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/29279/thumb/VWlCfLlX_400x400.jpeg?1696528232",
 	"coingecko": "data-lake",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xf0259b72c74D97B3BE6C4C48a9a1B111eFA3ddAf",
-	"symbol": "Depicted",
+	"symbol": "DPT",
 	"name": "Depicted",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/51069/thumb/IMG_3092.png?1729961663",
 	"coingecko": "depicted",
 	"sources": [
 		"coingecko"

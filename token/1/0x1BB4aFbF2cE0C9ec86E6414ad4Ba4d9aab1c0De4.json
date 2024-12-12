@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x1BB4aFbF2cE0C9ec86E6414ad4Ba4d9aab1c0De4",
-	"symbol": "TORA NEKO",
+	"symbol": "TORA",
 	"name": "TORA NEKO",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/50250/thumb/YaRSKn4Q_400x400.jpg?1726693699",
 	"coingecko": "tora-neko",
 	"sources": [
 		"coingecko"

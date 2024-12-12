@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0x19e6BfC1A6e4B042Fb20531244D47E252445df01",
-	"symbol": "Templar DAO",
-	"name": "Templar DAO",
+	"symbol": "TEM",
+	"name": "TemplarDAO",
+	"decimals": 9,
+	"logo": "https://tokens.pancakeswap.finance/images/0x19e6BfC1A6e4B042Fb20531244D47E252445df01.png",
 	"coingecko": "templardao",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

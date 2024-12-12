@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x24dA31e7BB182cb2cABfEF1d88db19C2AE1f5572",
-	"symbol": "Shikoku",
+	"symbol": "SHIK",
 	"name": "Shikoku",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/28560/thumb/shikoku_inu02.png?1696527550",
 	"coingecko": "shikoku",
 	"sources": [
 		"coingecko"

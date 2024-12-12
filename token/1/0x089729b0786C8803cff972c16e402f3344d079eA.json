@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x089729b0786C8803cff972c16e402f3344d079eA",
-	"symbol": "BlockGPT",
+	"symbol": "BGPT",
 	"name": "BlockGPT",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30872/thumb/BLOCKEM_%282%29.png?1707925988",
 	"coingecko": "blockgpt",
 	"sources": [
 		"coingecko"

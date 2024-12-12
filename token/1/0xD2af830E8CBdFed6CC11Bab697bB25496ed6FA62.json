@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xD2af830E8CBdFed6CC11Bab697bB25496ed6FA62",
-	"symbol": "Wrapped OUSD",
+	"symbol": "WOUSD",
 	"name": "Wrapped OUSD",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/34355/thumb/wousd-200x200.png?1714796664",
 	"coingecko": "wrapped-ousd",
 	"sources": [
 		"coingecko"

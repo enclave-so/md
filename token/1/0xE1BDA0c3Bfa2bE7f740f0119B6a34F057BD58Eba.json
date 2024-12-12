@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xE1BDA0c3Bfa2bE7f740f0119B6a34F057BD58Eba",
-	"symbol": "Winkies",
+	"symbol": "WNK",
 	"name": "Winkies",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/22260/thumb/wnk.png?1696521605",
 	"coingecko": "the-winkyverse",
 	"sources": [
 		"coingecko"

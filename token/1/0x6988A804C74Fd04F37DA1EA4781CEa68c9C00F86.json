@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x6988A804C74Fd04F37DA1EA4781CEa68c9C00F86",
-	"symbol": "Tribal Token",
+	"symbol": "TRIBL",
 	"name": "Tribal Token",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/27774/thumb/PFP_black_%281%29.png?1696526795",
 	"coingecko": "tribal-token",
 	"sources": [
 		"coingecko"

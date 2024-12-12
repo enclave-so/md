@@ -1,0 +1,11 @@
+{
+	"chain": 56,
+	"address": "0x0555E30da8f98308EdB960aa94C0Db47230d2B9c",
+	"symbol": "WBTC",
+	"name": "Wrapped BTC",
+	"decimals": 8,
+	"logo": "https://tokens.pancakeswap.finance/images/0x0555E30da8f98308EdB960aa94C0Db47230d2B9c.png",
+	"sources": [
+		"pancakeswap"
+	]
+}

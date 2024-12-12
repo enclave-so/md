@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xC28E27870558cF22ADD83540d2126da2e4b464c2",
-	"symbol": "Sashimi",
+	"symbol": "SASHIMI",
 	"name": "Sashimi",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/12427/thumb/SashimiSwap-200x200.png?1696512248",
 	"coingecko": "sashimi",
 	"sources": [
 		"coingecko"

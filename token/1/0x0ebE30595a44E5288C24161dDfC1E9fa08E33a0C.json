@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x0ebE30595a44E5288C24161dDfC1E9fa08E33a0C",
-	"symbol": "Nyan Meme Coin",
+	"symbol": "NYAN",
 	"name": "Nyan Meme Coin",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30197/thumb/n0z-571z_400x400.png?1696529112",
 	"coingecko": "nyan-meme-coin",
 	"sources": [
 		"coingecko"

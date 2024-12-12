@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xE46091dCE9c67691bCf22768bBEe0BC9E20d4Beb",
-	"symbol": "WSB Classic",
+	"symbol": "WSBC",
 	"name": "WSB Classic",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/30165/thumb/photo_2023-05-05_07-44-23.jpg?1696529085",
 	"coingecko": "wsb-classic",
 	"sources": [
 		"coingecko"

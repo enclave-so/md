@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x62760e76DCe6b500349EC5F6119228d047913350",
-	"symbol": "Tomwifhat",
+	"symbol": "TWIF",
 	"name": "Tomwifhat",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/37972/thumb/IMG_20240520_025422_580.png?1716194512",
 	"coingecko": "tomwifhat",
 	"sources": [
 		"coingecko"

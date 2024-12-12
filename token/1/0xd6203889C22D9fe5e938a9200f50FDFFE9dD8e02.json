@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xd6203889C22D9fe5e938a9200f50FDFFE9dD8e02",
-	"symbol": "Strategic Bitcoin Reserve",
+	"symbol": "SBR",
 	"name": "Strategic Bitcoin Reserve",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/51391/thumb/IMG_5476.png?1731507074",
 	"coingecko": "strategic-bitcoin-reserve",
 	"sources": [
 		"coingecko"

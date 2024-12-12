@@ -1,0 +1,11 @@
+{
+	"chain": 8453,
+	"address": "0xFEE5178BB6aD41E7D5BBC7f6145fEB27460dD1Ed",
+	"symbol": "TSC",
+	"name": "The Secret Coin",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/TSC/logo.png",
+	"sources": [
+		"optimism"
+	]
+}

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xab306326bC72c2335Bd08F42cbec383691eF8446",
-	"symbol": "PPizza",
+	"symbol": "PPIZZA",
 	"name": "PPizza",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30063/thumb/iconArtboard_1_10x.png?1696528985",
 	"coingecko": "ppizza",
 	"sources": [
 		"coingecko"

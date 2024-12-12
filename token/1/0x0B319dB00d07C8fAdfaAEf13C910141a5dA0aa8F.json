@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x0B319dB00d07C8fAdfaAEf13C910141a5dA0aa8F",
-	"symbol": "Fluid TUSD",
+	"symbol": "FTUSD",
 	"name": "Fluid TUSD",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/28474/thumb/fTUSD-200x200.png?1696527468",
 	"coingecko": "fluid-tusd",
 	"sources": [
 		"coingecko"

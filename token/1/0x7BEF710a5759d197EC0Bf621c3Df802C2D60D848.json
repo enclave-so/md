@@ -3,6 +3,8 @@
 	"address": "0x7BEF710a5759d197EC0Bf621c3Df802C2D60D848",
 	"symbol": "SHOPX",
 	"name": "SHOPX",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14600/thumb/SHOPX2024-Profilpic256.png?1718798100",
 	"coingecko": "splyt",
 	"sources": [
 		"coingecko"

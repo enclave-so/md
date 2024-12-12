@@ -1,10 +1,13 @@
 {
 	"chain": 8453,
 	"address": "0x64cc19A52f4D631eF5BE07947CABA14aE00c52Eb",
-	"symbol": "Kibble",
+	"symbol": "KIBBLE",
 	"name": "Kibble",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/KIBBLE/logo.svg",
 	"coingecko": "kibble",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

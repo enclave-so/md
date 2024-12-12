@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xe9A53C43a0B58706e67341C4055de861e29Ee943",
-	"symbol": "Element 280",
+	"symbol": "ELMNT",
 	"name": "Element 280",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/51869/thumb/Logo.png?1732095523",
 	"coingecko": "element-280",
 	"sources": [
 		"coingecko"

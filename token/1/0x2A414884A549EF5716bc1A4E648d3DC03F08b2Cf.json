@@ -3,6 +3,8 @@
 	"address": "0x2A414884A549EF5716bc1A4E648d3DC03F08b2Cf",
 	"symbol": "PERQ",
 	"name": "PERQ",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/51486/thumb/coin-gecko-200.png?1731405387",
 	"coingecko": "perq",
 	"sources": [
 		"coingecko"

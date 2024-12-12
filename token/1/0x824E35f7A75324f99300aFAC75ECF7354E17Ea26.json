@@ -3,6 +3,8 @@
 	"address": "0x824E35f7A75324f99300aFAC75ECF7354E17Ea26",
 	"symbol": "TIA",
 	"name": "TIA",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/23994/thumb/tia.png?1696523188",
 	"coingecko": "tia",
 	"sources": [
 		"coingecko"

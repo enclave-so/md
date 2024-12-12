@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0x003d87d02A2A01E9E8a20f507C83E15DD83A33d1",
-	"symbol": "GT Protocol",
+	"symbol": "GTAI",
 	"name": "GT Protocol",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x003d87d02A2A01E9E8a20f507C83E15DD83A33d1.png",
 	"coingecko": "gt-protocol",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

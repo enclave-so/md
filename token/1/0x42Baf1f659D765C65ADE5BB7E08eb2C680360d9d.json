@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x42Baf1f659D765C65ADE5BB7E08eb2C680360d9d",
-	"symbol": "Cornucopias",
+	"symbol": "COPI",
 	"name": "Cornucopias",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/21452/thumb/g56WwJDA_400x400.jpg?1696520814",
 	"coingecko": "cornucopias",
 	"sources": [
 		"coingecko"

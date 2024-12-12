@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x004626A008B1aCdC4c74ab51644093b155e59A23",
-	"symbol": "Angle Staked EURA",
+	"symbol": "STEUR",
 	"name": "Angle Staked EURA",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/32036/thumb/stEUR-x4.png?1696530832",
 	"coingecko": "staked-ageur",
 	"sources": [
 		"coingecko"

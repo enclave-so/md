@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xC9bCa88B04581699fAb5aa276CCafF7Df957cbbf",
-	"symbol": "Ethervista",
+	"symbol": "VISTA",
 	"name": "Ethervista",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/40014/thumb/ethervista.jpg?1725289970",
 	"coingecko": "ethervista",
 	"sources": [
 		"coingecko"

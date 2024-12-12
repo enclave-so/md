@@ -4,10 +4,11 @@
 	"symbol": "WAVAX",
 	"name": "Wrapped AVAX",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7.jpg",
+	"logo": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/avalanchec/assets/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png",
 	"coingecko": "wrapped-avax",
 	"sources": [
 		"coingecko",
-		"sushiswap"
+		"sushiswap",
+		"uniswap"
 	]
 }

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x9e5BD9D9fAd182ff0A93bA8085b664bcab00fA68",
-	"symbol": "Dinger",
+	"symbol": "DINGER",
 	"name": "Dinger",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/19443/thumb/dinger.png?1696518881",
 	"coingecko": "dinger-token",
 	"sources": [
 		"coingecko"

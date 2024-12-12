@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0x3C513dB8Bdc3806e4489d62C3d549A5Aaf6A4e97",
+	"symbol": "BitBTC",
+	"name": "BitBTC",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/BitBTC/logo.png",
+	"sources": [
+		"optimism"
+	]
+}

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x467Bccd9d29f223BcE8043b84E8C8B282827790F",
-	"symbol": "Telcoin",
+	"symbol": "TEL",
 	"name": "Telcoin",
+	"decimals": 2,
+	"logo": "https://assets.coingecko.com/coins/images/1899/thumb/tel.png?1696502892",
 	"coingecko": "telcoin",
 	"sources": [
 		"coingecko"

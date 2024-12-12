@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xe1590A6FA0CFf9C960181cb77d8a873601772f64",
-	"symbol": "WallStreetBets DApp",
+	"symbol": "WSB",
 	"name": "WallStreetBets DApp",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/15093/thumb/Pe1mrDu.png?1696514751",
 	"coingecko": "wall-street-bets-dapp",
 	"sources": [
 		"coingecko"

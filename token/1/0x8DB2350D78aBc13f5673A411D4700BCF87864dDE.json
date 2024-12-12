@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x8DB2350D78aBc13f5673A411D4700BCF87864dDE",
-	"symbol": "Swell Restaked BTC",
+	"symbol": "SWBTC",
 	"name": "Swell Restaked BTC",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/39682/thumb/swBTC200x200.png?1723652322",
 	"coingecko": "swell-restaked-btc",
 	"sources": [
 		"coingecko"

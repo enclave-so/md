@@ -3,6 +3,8 @@
 	"address": "0x98c26b1768e95D40cc77Ace1b6fa77A13FfFD963",
 	"symbol": "DASIA",
 	"name": "DASIA",
+	"decimals": 4,
+	"logo": "https://assets.coingecko.com/coins/images/39487/thumb/DASIA_Logo_200x200.png?1722483471",
 	"coingecko": "dasia",
 	"sources": [
 		"coingecko"

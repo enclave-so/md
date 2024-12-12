@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x7b66E84Be78772a3afAF5ba8c1993a1B5D05F9C2",
-	"symbol": "VitaRNA",
+	"symbol": "VITARNA",
 	"name": "VitaRNA",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/38565/thumb/VITARNA_512px.png?1718005667",
 	"coingecko": "vitarna",
 	"sources": [
 		"coingecko"

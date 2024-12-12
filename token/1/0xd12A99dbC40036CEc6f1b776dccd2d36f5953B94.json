@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xd12A99dbC40036CEc6f1b776dccd2d36f5953B94",
-	"symbol": "Draggy CTO",
+	"symbol": "DRAGGY",
 	"name": "Draggy CTO",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/38851/thumb/logo_%282%29.png?1727295415",
 	"coingecko": "draggy-cto",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xE0C28A5A2da3920946E8Bf821F61F7BEA311048b",
-	"symbol": "Stakehouse kETH",
+	"symbol": "KETH",
 	"name": "Stakehouse kETH",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/33656/thumb/kETH.png?1702597766",
 	"coingecko": "stakehouse-keth",
 	"sources": [
 		"coingecko"

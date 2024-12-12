@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x3797C46db697c24a983222c335F17Ba28e8c5b69",
-	"symbol": "UBS USD Money Market Investment Fund Token",
-	"name": "UBS USD Money Market Investment Fund Token",
+	"symbol": "UMINT",
+	"name": "UBS USD Money Market Investment Fund To",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/51913/thumb/%E5%9B%BE%E5%83%8F.png?1732678510",
 	"coingecko": "ubs_umint_eth",
 	"sources": [
 		"coingecko"

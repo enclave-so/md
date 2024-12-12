@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0xa693B19d2931d498c5B318dF961919BB4aee87a5",
-	"symbol": "TerraUSD (Wormhole)",
-	"name": "TerraUSD (Wormhole)",
+	"symbol": "UST",
+	"name": "TerraUSD  Wormhole ",
+	"decimals": 6,
+	"logo": "https://assets.coingecko.com/coins/images/21150/thumb/UST_wh_small.png?1696520528",
 	"coingecko": "terrausd-wormhole",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

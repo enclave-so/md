@@ -1,30 +1,30 @@
 [
 	{
 		"chain": 245022934,
-		"address": "0x96e636d3Ef60ee9745945120010c73619144632C",
-		"symbol": "2080",
-		"name": "2080",
-		"coingecko": "2080",
+		"address": "0x5f38248f339Bf4e84A2caf4e4c0552862dC9F82a",
+		"symbol": "NeonPass Bridged SOL (Neon EVM)",
+		"name": "NeonPass Bridged SOL (Neon EVM)",
+		"coingecko": "neonpass-bridged-sol-neon-evm",
 		"sources": [
 			"coingecko"
 		]
 	},
 	{
 		"chain": 245022934,
-		"address": "0x6d12eAA69f8e4902D3F83d546B31F7318717014C",
-		"symbol": "Mango",
-		"name": "Mango",
-		"coingecko": "mango-markets",
+		"address": "0x5f0155d08eF4aaE2B500AefB64A3419dA8bB611a",
+		"symbol": "Neonpass Bridged USDT (Neon)",
+		"name": "Neonpass Bridged USDT (Neon)",
+		"coingecko": "neonpass-bridged-usdt-neon",
 		"sources": [
 			"coingecko"
 		]
 	},
 	{
 		"chain": 245022934,
-		"address": "0x0575dD4AFD93B7522fEE4e0179f243ecA3856137",
-		"symbol": "Pyth Network",
-		"name": "Pyth Network",
-		"coingecko": "pyth-network",
+		"address": "0x2043191e10a2A4b4601F5123D6C94E000b5d915F",
+		"symbol": "Mora",
+		"name": "Mora",
+		"coingecko": "mora",
 		"sources": [
 			"coingecko"
 		]
@@ -51,10 +51,20 @@
 	},
 	{
 		"chain": 245022934,
-		"address": "0xD4B6520f7Fb78E1EE75639F3376c581a71bcdb0E",
-		"symbol": "Bonk",
-		"name": "Bonk",
-		"coingecko": "bonk",
+		"address": "0xFA8fB7e3bd299B2A9693B1BFDCf5DD13Ab57007E",
+		"symbol": "Jito Staked SOL",
+		"name": "Jito Staked SOL",
+		"coingecko": "jito-staked-sol",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 245022934,
+		"address": "0x6d12eAA69f8e4902D3F83d546B31F7318717014C",
+		"symbol": "Mango",
+		"name": "Mango",
+		"coingecko": "mango-markets",
 		"sources": [
 			"coingecko"
 		]
@@ -71,10 +81,10 @@
 	},
 	{
 		"chain": 245022934,
-		"address": "0xFA8fB7e3bd299B2A9693B1BFDCf5DD13Ab57007E",
-		"symbol": "Jito Staked SOL",
-		"name": "Jito Staked SOL",
-		"coingecko": "jito-staked-sol",
+		"address": "0x14CCfFC97aC156A7f1E3183adAa8E7CC888AD162",
+		"symbol": "Liquid Staking Token",
+		"name": "Liquid Staking Token",
+		"coingecko": "liquid-staking-token",
 		"sources": [
 			"coingecko"
 		]
@@ -91,16 +101,6 @@
 	},
 	{
 		"chain": 245022934,
-		"address": "0x5f0155d08eF4aaE2B500AefB64A3419dA8bB611a",
-		"symbol": "Neonpass Bridged USDT (Neon)",
-		"name": "Neonpass Bridged USDT (Neon)",
-		"coingecko": "neonpass-bridged-usdt-neon",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 245022934,
 		"address": "0x432B39E097d9faA2CBAa86F8D36Bcf3b8019fE9f",
 		"symbol": "NeoPepe",
 		"name": "NeoPepe",
@@ -111,30 +111,30 @@
 	},
 	{
 		"chain": 245022934,
-		"address": "0x14CCfFC97aC156A7f1E3183adAa8E7CC888AD162",
-		"symbol": "Liquid Staking Token",
-		"name": "Liquid Staking Token",
-		"coingecko": "liquid-staking-token",
+		"address": "0x0575dD4AFD93B7522fEE4e0179f243ecA3856137",
+		"symbol": "Pyth Network",
+		"name": "Pyth Network",
+		"coingecko": "pyth-network",
 		"sources": [
 			"coingecko"
 		]
 	},
 	{
 		"chain": 245022934,
-		"address": "0x2043191e10a2A4b4601F5123D6C94E000b5d915F",
-		"symbol": "Mora",
-		"name": "Mora",
-		"coingecko": "mora",
+		"address": "0x96e636d3Ef60ee9745945120010c73619144632C",
+		"symbol": "2080",
+		"name": "2080",
+		"coingecko": "2080",
 		"sources": [
 			"coingecko"
 		]
 	},
 	{
 		"chain": 245022934,
-		"address": "0x5f38248f339Bf4e84A2caf4e4c0552862dC9F82a",
-		"symbol": "NeonPass Bridged SOL (Neon EVM)",
-		"name": "NeonPass Bridged SOL (Neon EVM)",
-		"coingecko": "neonpass-bridged-sol-neon-evm",
+		"address": "0xD4B6520f7Fb78E1EE75639F3376c581a71bcdb0E",
+		"symbol": "Bonk",
+		"name": "Bonk",
+		"coingecko": "bonk",
 		"sources": [
 			"coingecko"
 		]

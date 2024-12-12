@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x9cdf242Ef7975D8c68D5C1F5B6905801699b1940",
-	"symbol": "WhiteRock",
+	"symbol": "WHITE",
 	"name": "WhiteRock",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/52513/thumb/logo_%2827%29.png?1733497755",
 	"coingecko": "whiterock",
 	"sources": [
 		"coingecko"

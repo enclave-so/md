@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x4c4A50A61BEd3b9024D8FFc1F1d168DC8Cb1c689",
-	"symbol": "The Blu Arctic Water Comp",
+	"symbol": "BARC",
 	"name": "The Blu Arctic Water Comp",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/34467/thumb/BARC_200x200.png?1704967819",
 	"coingecko": "the-blu-arctic-water-comp",
 	"sources": [
 		"coingecko"

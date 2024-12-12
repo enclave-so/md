@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x8070dEe687Fc754B55101374E3cA6e4Fd024A39e",
-	"symbol": "Sentinel AI",
+	"symbol": "SENAI",
 	"name": "Sentinel AI",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/36711/thumb/photo_2024-04-01_16-55-33-removebg-preview.png?1712127331",
 	"coingecko": "sentinel-ai",
 	"sources": [
 		"coingecko"

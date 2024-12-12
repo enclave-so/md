@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x4e51A6b3cC6d5Ae69A0D44dB9de846aEb5a582Dd",
-	"symbol": "Gyoza",
+	"symbol": "GYOZA",
 	"name": "Gyoza",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/31083/thumb/logorecized_new.png?1696529916",
 	"coingecko": "gyoza",
 	"sources": [
 		"coingecko"

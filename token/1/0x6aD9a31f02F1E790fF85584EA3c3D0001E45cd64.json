@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x6aD9a31f02F1E790fF85584EA3c3D0001E45cd64",
-	"symbol": "Ethane",
+	"symbol": "C2H6",
 	"name": "Ethane",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/31118/thumb/ethanelogo4.png?1725067574",
 	"coingecko": "ethane",
 	"sources": [
 		"coingecko"

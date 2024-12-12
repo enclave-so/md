@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x137dDB47Ee24EaA998a535Ab00378d6BFa84F893",
-	"symbol": "Radiant Capital",
+	"symbol": "RDNT",
 	"name": "Radiant Capital",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/26536/thumb/Radiant-Logo-200x200.png?1696525610",
 	"coingecko": "radiant-capital",
 	"sources": [
 		"coingecko"

@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0x2565ae0385659badCada1031DB704442E1b69982",
-	"symbol": "Assemble Protocol",
+	"symbol": "ASM",
 	"name": "Assemble Protocol",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/11605/thumb/gpvrlkSq_400x400_%281%29.jpg?1591775789",
 	"coingecko": "assemble-protocol",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"uniswap"
 	]
 }

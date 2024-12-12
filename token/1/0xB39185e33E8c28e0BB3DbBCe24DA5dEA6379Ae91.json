@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xB39185e33E8c28e0BB3DbBCe24DA5dEA6379Ae91",
-	"symbol": "PHUNK Vault (NFTX)",
-	"name": "PHUNK Vault (NFTX)",
+	"symbol": "PHUNK",
+	"name": "PHUNK Vault  NFTX ",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/17074/thumb/Phunks.png?1696516636",
 	"coingecko": "phunk-vault-nftx",
 	"sources": [
 		"coingecko"

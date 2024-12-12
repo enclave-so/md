@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x8260328d0C405D9Ca061D80199102DdC9089e43C",
-	"symbol": "Dojo Supercomputer",
+	"symbol": "DOJO",
 	"name": "Dojo Supercomputer",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/29728/thumb/Dojo_super.jpeg?1696528658",
 	"coingecko": "dojo-supercomputer",
 	"sources": [
 		"coingecko"

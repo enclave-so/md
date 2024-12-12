@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0x44754455564474A89358B2C2265883DF993b12F0",
-	"symbol": "ZeroSwap",
-	"name": "ZeroSwap",
+	"symbol": "ZEE",
+	"name": "ZeroSwapToken",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x44754455564474A89358B2C2265883DF993b12F0.png",
 	"coingecko": "zeroswap",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

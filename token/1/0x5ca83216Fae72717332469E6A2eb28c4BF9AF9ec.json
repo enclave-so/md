@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x5ca83216Fae72717332469E6A2eb28c4BF9AF9ec",
-	"symbol": "0xCalls",
+	"symbol": "0XC",
 	"name": "0xCalls",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/34257/thumb/0xcall.jpeg?1713250285",
 	"coingecko": "callhub",
 	"sources": [
 		"coingecko"

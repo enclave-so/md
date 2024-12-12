@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x69cd13d248830602A60B1f20ab11F5049385877D",
-	"symbol": "Baby Pepe",
+	"symbol": "BABYPEPE",
 	"name": "Baby Pepe",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31417/thumb/output-onlinepngtools_%281%29.png?1696530232",
 	"coingecko": "baby-pepe-erc20",
 	"sources": [
 		"coingecko"

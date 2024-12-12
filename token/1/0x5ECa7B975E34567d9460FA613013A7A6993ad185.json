@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x5ECa7B975E34567d9460FA613013A7A6993ad185",
-	"symbol": "Blacksmith Token",
+	"symbol": "BS",
 	"name": "Blacksmith Token",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30806/thumb/roGLhC57_400x400.jpg?1696529664",
 	"coingecko": "blacksmith-token",
 	"sources": [
 		"coingecko"

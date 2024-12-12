@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0xF700D4c708C2be1463E355F337603183D20E0808",
-	"symbol": "Blink Galaxy",
-	"name": "Blink Galaxy",
+	"symbol": "GQ",
+	"name": "Galactic Quadrant",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0xF700D4c708C2be1463E355F337603183D20E0808.png",
 	"coingecko": "outer-ring",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

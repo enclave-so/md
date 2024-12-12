@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x337AF08bb6980Ecb68389C5ed8876D08643aBF8a",
-	"symbol": "NOVAWCHI",
+	"symbol": "VACHI",
 	"name": "NOVAWCHI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/29761/thumb/novawchi-infinity-of-nevoverse-coinmarketcap-logo.png?1696528692",
 	"coingecko": "novawchi",
 	"sources": [
 		"coingecko"

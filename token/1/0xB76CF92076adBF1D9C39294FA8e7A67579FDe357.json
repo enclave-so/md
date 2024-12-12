@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xB76CF92076adBF1D9C39294FA8e7A67579FDe357",
-	"symbol": "Aave v3 RPL",
+	"symbol": "ARPL",
 	"name": "Aave v3 RPL",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/32909/thumb/RPL.png?1699817497",
 	"coingecko": "aave-v3-rpl",
 	"sources": [
 		"coingecko"

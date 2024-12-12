@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xf3AE5d769e153Ef72b4e3591aC004E89F48107a1",
-	"symbol": "Deeper Network",
+	"symbol": "DPR",
 	"name": "Deeper Network",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14748/thumb/deeper.png?1696514418",
 	"coingecko": "deeper-network",
 	"sources": [
 		"coingecko"

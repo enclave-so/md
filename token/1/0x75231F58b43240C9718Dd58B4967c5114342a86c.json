@@ -3,6 +3,8 @@
 	"address": "0x75231F58b43240C9718Dd58B4967c5114342a86c",
 	"symbol": "OKB",
 	"name": "OKB",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/4463/thumb/WeChat_Image_20220118095654.png?1696505053",
 	"coingecko": "okb",
 	"sources": [
 		"coingecko"

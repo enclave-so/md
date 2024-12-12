@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xc0dB17Bc219C5ca8746C29ee47862ee3Ad742F4a",
-	"symbol": "ScottyTheAi",
+	"symbol": "SCOTTY",
 	"name": "ScottyTheAi",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35052/thumb/scotty_logo_200_x_200.png?1707305097",
 	"coingecko": "scottyai",
 	"sources": [
 		"coingecko"

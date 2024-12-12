@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0x0c90C57aaf95A3A87eadda6ec3974c99D786511F",
-	"symbol": "HanChain",
+	"symbol": "HAN",
 	"name": "HanChain",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/27374/thumb/logo_200.png?1696526418",
 	"coingecko": "hanchain",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

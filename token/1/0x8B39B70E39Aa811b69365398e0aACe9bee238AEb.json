@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x8B39B70E39Aa811b69365398e0aACe9bee238AEb",
-	"symbol": "Red Kite",
+	"symbol": "PKF",
 	"name": "Red Kite",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14422/thumb/red_kite.png?1696514112",
 	"coingecko": "polkafoundry",
 	"sources": [
 		"coingecko"

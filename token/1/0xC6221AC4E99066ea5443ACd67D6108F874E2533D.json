@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xC6221AC4E99066ea5443ACd67D6108F874E2533D",
-	"symbol": "Decentralized Cloud Infra",
+	"symbol": "DCI",
 	"name": "Decentralized Cloud Infra",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/36575/thumb/dci.jpeg?1711943349",
 	"coingecko": "decentralized-cloud-infra",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x320eD4c7243E35A00F9Ca30a1aE60929d15eAE37",
-	"symbol": "The Blox Project",
+	"symbol": "BLOX",
 	"name": "The Blox Project",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/32397/thumb/blox.png?1698054451",
 	"coingecko": "the-blox-project",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x2E95Cea14dd384429EB3c4331B776c4CFBB6FCD9",
-	"symbol": "Throne",
+	"symbol": "THN",
 	"name": "Throne",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/16965/thumb/aXhD3i_g_400x400.jpg?1696516531",
 	"coingecko": "throne",
 	"sources": [
 		"coingecko"

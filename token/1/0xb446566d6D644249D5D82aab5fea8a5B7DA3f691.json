@@ -1,8 +1,9 @@
 {
 	"chain": 1,
 	"address": "0xb446566d6D644249D5D82aab5fea8a5B7DA3f691",
-	"symbol": "Aktionariat TBo c/o Comon Accelerator Holding AG Tokenized Shares",
-	"name": "Aktionariat TBo c/o Comon Accelerator Holding AG Tokenized Shares",
+	"symbol": "TBOS",
+	"name": "Aktionariat TBo c o Comon Accelerator H",
+	"logo": "https://assets.coingecko.com/coins/images/33332/thumb/TBOS.png?1701518908",
 	"coingecko": "aktionariat-tbo-co-comon-accelerator-holding-ag-tokenized-shares",
 	"sources": [
 		"coingecko"

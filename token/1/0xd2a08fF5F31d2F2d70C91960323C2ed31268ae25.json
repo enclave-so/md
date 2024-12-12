@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xd2a08fF5F31d2F2d70C91960323C2ed31268ae25",
-	"symbol": "Neos.ai",
-	"name": "Neos.ai",
+	"symbol": "NEOS",
+	"name": "Neos ai",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/52441/thumb/NEOS.png?1733350936",
 	"coingecko": "neos-ai",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x23A2164d482Fd2fec9C2d0B66528D42feE7b8817",
-	"symbol": "met a meta metameme",
+	"symbol": "METAMEME",
 	"name": "met a meta metameme",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/33679/thumb/logo200x200.jpg?1702718320",
 	"coingecko": "met-a-meta-metameme",
 	"sources": [
 		"coingecko"

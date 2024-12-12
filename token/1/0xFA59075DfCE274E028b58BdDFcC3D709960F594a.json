@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xFA59075DfCE274E028b58BdDFcC3D709960F594a",
-	"symbol": "Veno Yield Bearing USD",
+	"symbol": "YBUSD",
 	"name": "Veno Yield Bearing USD",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/39977/thumb/Rectangle_381.png?1724994276",
 	"coingecko": "veno-bridged-ybusd",
 	"sources": [
 		"coingecko"

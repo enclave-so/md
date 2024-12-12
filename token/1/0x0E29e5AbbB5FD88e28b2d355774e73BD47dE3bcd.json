@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x0E29e5AbbB5FD88e28b2d355774e73BD47dE3bcd",
-	"symbol": "Hakka Finance",
+	"symbol": "HAKKA",
 	"name": "Hakka Finance",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/12163/thumb/Hakka-icon.png?1696512001",
 	"coingecko": "hakka-finance",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xd1679946ba555eBF5cb38e8b089EF1E1e5D2ABB1",
-	"symbol": "GuardAI",
+	"symbol": "GUARDAI",
 	"name": "GuardAI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/36588/thumb/huzFrv2d_400x400.jpg?1711948345",
 	"coingecko": "guardai",
 	"sources": [
 		"coingecko"

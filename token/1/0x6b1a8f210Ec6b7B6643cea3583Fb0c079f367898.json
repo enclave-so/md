@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x6b1a8f210Ec6b7B6643cea3583Fb0c079f367898",
-	"symbol": "Baanx",
+	"symbol": "BXX",
 	"name": "Baanx",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/17108/thumb/BXX_Token_logo.png?1696516669",
 	"coingecko": "baanx",
 	"sources": [
 		"coingecko"

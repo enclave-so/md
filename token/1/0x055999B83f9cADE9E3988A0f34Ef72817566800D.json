@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x055999B83f9cADE9E3988A0f34Ef72817566800D",
-	"symbol": "Roundtable",
+	"symbol": "RTB",
 	"name": "Roundtable",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/23715/thumb/roundtable.jpeg?1718700017",
 	"coingecko": "bbs-network",
 	"sources": [
 		"coingecko"

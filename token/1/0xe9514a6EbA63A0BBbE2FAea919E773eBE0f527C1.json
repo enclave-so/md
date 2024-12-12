@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xe9514a6EbA63A0BBbE2FAea919E773eBE0f527C1",
-	"symbol": "Kekcoin (ETH)",
-	"name": "Kekcoin (ETH)",
+	"symbol": "KEK",
+	"name": "Kekcoin  ETH ",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/33224/thumb/Kekcoin_BTC.png?1701089230",
 	"coingecko": "kekcoin-eth",
 	"sources": [
 		"coingecko"

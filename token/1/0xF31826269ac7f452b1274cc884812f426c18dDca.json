@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xF31826269ac7f452b1274cc884812f426c18dDca",
-	"symbol": "MILK Coin",
+	"symbol": "MILK",
 	"name": "MILK Coin",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35240/thumb/MILK_logo_Background_Removed.png?1707969987",
 	"coingecko": "milk-coin",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x4957805230831401CaaD5b690AA138143B711358",
-	"symbol": "Dora Factory",
+	"symbol": "DORA",
 	"name": "Dora Factory",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31552/thumb/DORA.jpg?1696530364",
 	"coingecko": "dora-factory-2",
 	"sources": [
 		"coingecko"

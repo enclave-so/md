@@ -3,6 +3,8 @@
 	"address": "0x75Ecb52e403C617679FBd3e77A50f9d10A842387",
 	"symbol": "CSR",
 	"name": "CSR",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/25585/thumb/CSR-LOGO-200x200-1.png?1696524717",
 	"coingecko": "csr",
 	"sources": [
 		"coingecko"

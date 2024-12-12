@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x1294f4183763743c7c9519Bec51773fb3aCD78FD",
-	"symbol": "Fideum",
+	"symbol": "FI",
 	"name": "Fideum",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/33758/thumb/Fideum-token.png?1702955199",
 	"coingecko": "fideum",
 	"sources": [
 		"coingecko"

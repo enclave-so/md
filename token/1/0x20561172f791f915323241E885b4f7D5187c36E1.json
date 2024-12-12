@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x20561172f791f915323241E885b4f7D5187c36E1",
-	"symbol": "Calcium",
+	"symbol": "CAL",
 	"name": "Calcium",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31971/thumb/callogo.jpg?1696530776",
 	"coingecko": "calcium",
 	"sources": [
 		"coingecko"

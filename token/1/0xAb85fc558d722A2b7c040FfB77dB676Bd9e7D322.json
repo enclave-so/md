@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xAb85fc558d722A2b7c040FfB77dB676Bd9e7D322",
-	"symbol": "MOROS NET",
+	"symbol": "MOROS",
 	"name": "MOROS NET",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/33147/thumb/Moros.jpg?1700822187",
 	"coingecko": "moros-net",
 	"sources": [
 		"coingecko"

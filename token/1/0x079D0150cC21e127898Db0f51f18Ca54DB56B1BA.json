@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x079D0150cC21e127898Db0f51f18Ca54DB56B1BA",
-	"symbol": "BITCOIN Act",
+	"symbol": "BTCACT",
 	"name": "BITCOIN Act",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/51636/thumb/BITCOIN_Act.png?1731687056",
 	"coingecko": "bitcoin-act",
 	"sources": [
 		"coingecko"

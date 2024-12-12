@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x614D7f40701132E25fe6fc17801Fbd34212d2Eda",
-	"symbol": "SafeBlast",
+	"symbol": "BLAST",
 	"name": "SafeBlast",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/15686/thumb/safeblast.png?1696515315",
 	"coingecko": "safeblast",
 	"sources": [
 		"coingecko"

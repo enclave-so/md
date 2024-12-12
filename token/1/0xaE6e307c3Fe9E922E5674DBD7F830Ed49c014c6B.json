@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xaE6e307c3Fe9E922E5674DBD7F830Ed49c014c6B",
-	"symbol": "Credefi",
+	"symbol": "CREDI",
 	"name": "Credefi",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/21396/thumb/e1QbZ4qQ_400x400.jpg?1696520760",
 	"coingecko": "credefi",
 	"sources": [
 		"coingecko"

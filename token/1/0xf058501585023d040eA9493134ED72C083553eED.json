@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xf058501585023d040eA9493134ED72C083553eED",
-	"symbol": "Dymmax",
+	"symbol": "DMX",
 	"name": "Dymmax",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/13476/thumb/dmmx.png?1696513237",
 	"coingecko": "dymmax",
 	"sources": [
 		"coingecko"

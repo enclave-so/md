@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x333A4823466879eeF910A04D473505da62142069",
-	"symbol": "Nation3",
+	"symbol": "NATION",
 	"name": "Nation3",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/25106/thumb/orb-white-256.png?1709559789",
 	"coingecko": "nation3",
 	"sources": [
 		"coingecko"

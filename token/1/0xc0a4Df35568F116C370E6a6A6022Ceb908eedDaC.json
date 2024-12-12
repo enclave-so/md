@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xc0a4Df35568F116C370E6a6A6022Ceb908eedDaC",
-	"symbol": "UX Chain",
+	"symbol": "UX",
 	"name": "UX Chain",
+	"decimals": 6,
+	"logo": "https://assets.coingecko.com/coins/images/20635/thumb/yArLkbL.png?1696520039",
 	"coingecko": "umee",
 	"sources": [
 		"coingecko"

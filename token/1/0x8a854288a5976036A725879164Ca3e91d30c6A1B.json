@@ -2,9 +2,9 @@
 	"chain": 1,
 	"address": "0x8a854288a5976036A725879164Ca3e91d30c6A1B",
 	"symbol": "GET",
-	"name": "Guaranteed Entrance Token",
+	"name": "GET Protocol",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x8a854288a5976036A725879164Ca3e91d30c6A1B/logo.png",
+	"logo": "https://assets.coingecko.com/coins/images/1927/thumb/GET_Protocol.png?1696502916",
 	"coingecko": "get-token",
 	"sources": [
 		"coingecko",

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x5d3a4F62124498092Ce665f865E0b38fF6F5FbEa",
-	"symbol": "Ideaology",
+	"symbol": "IDEA",
 	"name": "Ideaology",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/13938/thumb/idea_logo.png?1696513676",
 	"coingecko": "ideaology",
 	"sources": [
 		"coingecko"

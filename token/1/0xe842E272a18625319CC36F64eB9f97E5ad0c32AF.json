@@ -3,6 +3,8 @@
 	"address": "0xe842E272a18625319CC36F64eB9f97E5ad0c32AF",
 	"symbol": "YAK",
 	"name": "YAK",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/35674/thumb/cg.png?1709509096",
 	"coingecko": "yak",
 	"sources": [
 		"coingecko"

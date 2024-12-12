@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x1416946162B1C2c871A73B07E932D2fB6C932069",
-	"symbol": "Energi",
+	"symbol": "NRG",
 	"name": "Energi",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/5795/thumb/3218.png?1696506239",
 	"coingecko": "energi",
 	"sources": [
 		"coingecko"

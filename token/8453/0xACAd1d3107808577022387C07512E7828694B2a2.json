@@ -1,0 +1,11 @@
+{
+	"chain": 8453,
+	"address": "0xACAd1d3107808577022387C07512E7828694B2a2",
+	"symbol": "ETHIX",
+	"name": "Ethix",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/ETHIX/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

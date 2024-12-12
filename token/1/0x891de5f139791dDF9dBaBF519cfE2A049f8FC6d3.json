@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x891de5f139791dDF9dBaBF519cfE2A049f8FC6d3",
-	"symbol": "Dibbles",
+	"symbol": "DIBBLE",
 	"name": "Dibbles",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/34860/thumb/dibbles_logo.png?1706351813",
 	"coingecko": "dibbles",
 	"sources": [
 		"coingecko"

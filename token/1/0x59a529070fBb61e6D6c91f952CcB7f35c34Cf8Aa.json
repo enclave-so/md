@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x59a529070fBb61e6D6c91f952CcB7f35c34Cf8Aa",
-	"symbol": "Asymmetry Finance",
+	"symbol": "ASF",
 	"name": "Asymmetry Finance",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/51638/thumb/ASF-200x200.png?1731687627",
 	"coingecko": "asymmetry-finance",
 	"sources": [
 		"coingecko"

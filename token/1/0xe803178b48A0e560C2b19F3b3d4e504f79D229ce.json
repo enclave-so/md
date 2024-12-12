@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xe803178b48A0e560C2b19F3b3d4e504f79D229ce",
-	"symbol": "Bobcoin",
+	"symbol": "BOBC",
 	"name": "Bobcoin",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/24264/thumb/bobc.png?1696523448",
 	"coingecko": "bobcoin",
 	"sources": [
 		"coingecko"

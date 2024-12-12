@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x4BDCb66B968060D9390C1D12bd29734496205581",
-	"symbol": "Acquire.Fi",
-	"name": "Acquire.Fi",
+	"symbol": "ACQ",
+	"name": "Acquire Fi",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/27199/thumb/ACQisotypeSept2022_1000x1000px.png?1696526248",
 	"coingecko": "acquire-fi",
 	"sources": [
 		"coingecko"

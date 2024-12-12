@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xBFA7Cb34879167e982206fAbf6Ced5e2Ba5CD496",
-	"symbol": "Squirry",
+	"symbol": "SQUIRRY",
 	"name": "Squirry",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/39109/thumb/200x200.png?1720585805",
 	"coingecko": "squirry",
 	"sources": [
 		"coingecko"

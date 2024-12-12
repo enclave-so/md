@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x74D1984A64F447371Be4019920180b52A33aDAdD",
-	"symbol": "Inception Restaked slisBNB",
+	"symbol": "INSLISBNB",
 	"name": "Inception Restaked slisBNB",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/51973/thumb/inslisBNB.png?1732282282",
 	"coingecko": "inception-restaked-slisbnb",
 	"sources": [
 		"coingecko"

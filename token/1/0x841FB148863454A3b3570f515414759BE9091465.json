@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x841FB148863454A3b3570f515414759BE9091465",
-	"symbol": "Shih Tzu",
+	"symbol": "SHIH",
 	"name": "Shih Tzu",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/15309/thumb/shit.PNG?1696514959",
 	"coingecko": "shih-tzu",
 	"sources": [
 		"coingecko"

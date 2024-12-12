@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xd7f0cC50AD69408aE58be033F4f85D2367C2e468",
-	"symbol": "Vera",
+	"symbol": "VERA",
 	"name": "Vera",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/18519/thumb/JJXTVFOE_400x400.png?1696518000",
 	"coingecko": "vera",
 	"sources": [
 		"coingecko"

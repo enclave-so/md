@@ -3,6 +3,8 @@
 	"address": "0xb612bFC5cE2FB1337Bd29F5Af24ca85DbB181cE2",
 	"symbol": "KLAUS",
 	"name": "KLAUS",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/50656/thumb/KlausCMC-2.png?1728631696",
 	"coingecko": "klaus",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x9cf98Eb8A8B28c83E8612046cf55701Ce3Eb0063",
-	"symbol": "Unreal Finance",
+	"symbol": "UGT",
 	"name": "Unreal Finance",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/17943/thumb/11292.png?1696517464",
 	"coingecko": "unreal-finance",
 	"sources": [
 		"coingecko"

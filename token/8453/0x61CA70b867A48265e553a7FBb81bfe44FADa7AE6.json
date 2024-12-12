@@ -1,0 +1,11 @@
+{
+	"chain": 8453,
+	"address": "0x61CA70b867A48265e553a7FBb81bfe44FADa7AE6",
+	"symbol": "ARC",
+	"name": "ARC",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/ARC/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

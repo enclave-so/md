@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xAf91E8aFbe87642dC628786188a54B78580A4d76",
-	"symbol": "Fund Of Yours",
+	"symbol": "FOY",
 	"name": "Fund Of Yours",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/16648/thumb/foy200.png?1696516209",
 	"coingecko": "fund-of-yours",
 	"sources": [
 		"coingecko"

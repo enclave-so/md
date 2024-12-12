@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x033BbDe722EA3Cdcec73cFFEA6581DF9F9C257de",
-	"symbol": "Velar",
+	"symbol": "VELAR",
 	"name": "Velar",
+	"decimals": 6,
+	"logo": "https://assets.coingecko.com/coins/images/35763/thumb/200.png?1710245034",
 	"coingecko": "velar",
 	"sources": [
 		"coingecko"

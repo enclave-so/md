@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x048Fe49BE32adfC9ED68C37D32B5ec9Df17b3603",
-	"symbol": "Skrumble Network",
+	"symbol": "SKM",
 	"name": "Skrumble Network",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/3826/thumb/skrumble-network.png?1696504495",
 	"coingecko": "skrumble-network",
 	"sources": [
 		"coingecko"

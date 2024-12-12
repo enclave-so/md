@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x80034F803afb1C6864E3cA481eF1362c54D094b9",
-	"symbol": "Non-Playable Inu",
-	"name": "Non-Playable Inu",
+	"symbol": "NPI",
+	"name": "Non Playable Inu",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/38748/thumb/unnamed_%283%29.jpg?1718681702",
 	"coingecko": "non-playable-inu",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x6dc469A3Ef387AD9619df7774388aE26439ac8D4",
-	"symbol": "PAPI (ETH)",
-	"name": "PAPI (ETH)",
+	"symbol": "PAPI",
+	"name": "PAPI  ETH ",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/38443/thumb/2024-06-02_13.55.12-2_%281%29.jpg?1717552345",
 	"coingecko": "papi-eth",
 	"sources": [
 		"coingecko"

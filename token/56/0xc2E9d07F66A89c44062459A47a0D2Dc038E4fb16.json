@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0xc2E9d07F66A89c44062459A47a0D2Dc038E4fb16",
-	"symbol": "pSTAKE Staked BNB",
-	"name": "pSTAKE Staked BNB",
+	"symbol": "stkBNB",
+	"name": "Staked BNB",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0xc2E9d07F66A89c44062459A47a0D2Dc038E4fb16.png",
 	"coingecko": "pstake-staked-bnb",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

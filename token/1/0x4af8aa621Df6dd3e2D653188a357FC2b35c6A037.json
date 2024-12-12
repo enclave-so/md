@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x4af8aa621Df6dd3e2D653188a357FC2b35c6A037",
-	"symbol": "SELFCrypto",
+	"symbol": "SELF",
 	"name": "SELFCrypto",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30805/thumb/Isotype_1_200x200.png?1696529663",
 	"coingecko": "selfcrypto",
 	"sources": [
 		"coingecko"

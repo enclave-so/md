@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xE18ab3568Fa19e0eD38BC1d974EDDD501E61E12d",
-	"symbol": "BANK AI",
+	"symbol": "BANK",
 	"name": "BANK AI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31407/thumb/bankai.jpeg?1713247357",
 	"coingecko": "bank",
 	"sources": [
 		"coingecko"

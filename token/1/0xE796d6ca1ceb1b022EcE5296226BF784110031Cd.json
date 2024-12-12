@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xE796d6ca1ceb1b022EcE5296226BF784110031Cd",
-	"symbol": "Blind Boxes",
+	"symbol": "BLES",
 	"name": "Blind Boxes",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14537/thumb/BLES-Logo-BW.png?1696514221",
 	"coingecko": "blind-boxes",
 	"sources": [
 		"coingecko"

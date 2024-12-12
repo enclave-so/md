@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x56978E609F2cab06F77c5C8Fd75166FcD8f09BD8",
-	"symbol": "GenieBot",
+	"symbol": "GENIE",
 	"name": "GenieBot",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30874/thumb/IMG_0334.jpeg?1696529722",
 	"coingecko": "geniebot",
 	"sources": [
 		"coingecko"

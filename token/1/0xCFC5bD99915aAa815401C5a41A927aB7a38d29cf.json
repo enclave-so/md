@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xCFC5bD99915aAa815401C5a41A927aB7a38d29cf",
-	"symbol": "Threshold USD",
+	"symbol": "THUSD",
 	"name": "Threshold USD",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/32274/thumb/thusd.png?1697180081",
 	"coingecko": "threshold-usd",
 	"sources": [
 		"coingecko"

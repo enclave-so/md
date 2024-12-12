@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xBD7e92Cf6F857be8541FCa6abfB72aeF8e16c307",
-	"symbol": "Prodigy Bot",
+	"symbol": "PRO",
 	"name": "Prodigy Bot",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31171/thumb/PRODIGY_LOGO_clean_%283%29.png?1696529999",
 	"coingecko": "prodigy-bot",
 	"sources": [
 		"coingecko"

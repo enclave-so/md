@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x9cA8530CA349c966Fe9ef903Df17a75B8A778927",
-	"symbol": "Lightchain AI",
+	"symbol": "LCAI",
 	"name": "Lightchain AI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/52588/thumb/200x200.png?1733713860",
 	"coingecko": "lightchain-ai",
 	"sources": [
 		"coingecko"

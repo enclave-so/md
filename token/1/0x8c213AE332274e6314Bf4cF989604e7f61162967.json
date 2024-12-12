@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x8c213AE332274e6314Bf4cF989604e7f61162967",
-	"symbol": "Dongo AI",
+	"symbol": "DONGO",
 	"name": "Dongo AI",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/36058/thumb/pfp.png?1712164948",
 	"coingecko": "dongo-ai",
 	"sources": [
 		"coingecko"

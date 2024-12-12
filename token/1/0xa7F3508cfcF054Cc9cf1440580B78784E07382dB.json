@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xa7F3508cfcF054Cc9cf1440580B78784E07382dB",
-	"symbol": "PairedWorld",
+	"symbol": "PAIRED",
 	"name": "PairedWorld",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/37998/thumb/PAIRED.jpg?1716258168",
 	"coingecko": "pairedworld",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x3BE7bF1A5F23BD8336787D0289B70602f1940875",
-	"symbol": "VIDT DAO",
+	"symbol": "VIDT",
 	"name": "VIDT DAO",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/27552/thumb/VIDTDAO_logo.png?1696526588",
 	"coingecko": "vidt-dao",
 	"sources": [
 		"coingecko"

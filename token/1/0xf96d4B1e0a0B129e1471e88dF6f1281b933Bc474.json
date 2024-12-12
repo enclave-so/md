@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xf96d4B1e0a0B129e1471e88dF6f1281b933Bc474",
-	"symbol": "Spectrum ETH",
+	"symbol": "SPETH",
 	"name": "Spectrum ETH",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/38605/thumb/spETH_%281%29.png?1718098938",
 	"coingecko": "spectrum-eth",
 	"sources": [
 		"coingecko"

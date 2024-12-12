@@ -4,10 +4,11 @@
 	"symbol": "GMX",
 	"name": "GMX",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0x62edc0692BD897D2295872a9FFCac5425011c661.jpg",
+	"logo": "https://assets.coingecko.com/coins/images/18323/large/arbit.png?1631532468",
 	"coingecko": "gmx",
 	"sources": [
 		"coingecko",
-		"sushiswap"
+		"sushiswap",
+		"uniswap"
 	]
 }

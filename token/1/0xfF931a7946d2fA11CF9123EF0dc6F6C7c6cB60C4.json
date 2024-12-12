@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xfF931a7946d2fA11CF9123EF0dc6F6C7c6cB60C4",
-	"symbol": "Dancing Baby",
+	"symbol": "BABY",
 	"name": "Dancing Baby",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/32641/thumb/IMG_20231101_135519_737.jpg?1698889030",
 	"coingecko": "dancing-baby",
 	"sources": [
 		"coingecko"

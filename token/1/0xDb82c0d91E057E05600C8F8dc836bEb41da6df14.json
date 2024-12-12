@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xDb82c0d91E057E05600C8F8dc836bEb41da6df14",
-	"symbol": "Smart Layer Network",
+	"symbol": "SLN",
 	"name": "Smart Layer Network",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35397/thumb/sln.jpeg?1708488815",
 	"coingecko": "smart-layer-network",
 	"sources": [
 		"coingecko"

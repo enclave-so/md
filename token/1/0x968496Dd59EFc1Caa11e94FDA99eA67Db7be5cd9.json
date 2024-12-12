@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x968496Dd59EFc1Caa11e94FDA99eA67Db7be5cd9",
-	"symbol": "TrumpChain",
+	"symbol": "DJT",
 	"name": "TrumpChain",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/50794/thumb/Trumpchain_Logo_200x200.png?1729234183",
 	"coingecko": "trumpchain",
 	"sources": [
 		"coingecko"

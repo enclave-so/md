@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x569424c5EE13884A193773fDC5d1c5f79C443a51",
-	"symbol": "Pine",
+	"symbol": "PINE",
 	"name": "Pine",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/25660/thumb/Logomark-Colour.png?1696524788",
 	"coingecko": "pine",
 	"sources": [
 		"coingecko"

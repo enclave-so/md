@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x7d4A7be025652995364E0E232063abd9e8d65e6E",
-	"symbol": "Meta Monopoly",
+	"symbol": "MONOPOLY",
 	"name": "Meta Monopoly",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/32129/thumb/OUR_LOGO_200X200.png?1696588281",
 	"coingecko": "meta-monopoly",
 	"sources": [
 		"coingecko"

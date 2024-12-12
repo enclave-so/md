@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xD7CFDb3cdc33dBeb9e9A4C95b61953Cf12A008b3",
-	"symbol": "Bruh",
+	"symbol": "BRUH",
 	"name": "Bruh",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/39992/thumb/qde5osjQ_400x400.jpg?1725065185",
 	"coingecko": "bruh-2",
 	"sources": [
 		"coingecko"

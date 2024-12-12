@@ -6,6 +6,7 @@
 	"decimals": 18,
 	"logo": "ipfs://QmXttGpZrECX5qCyXbBQiqgQNytVGeZW5Anewvh2jc4psg",
 	"sources": [
-		"sushiswap"
+		"sushiswap",
+		"uniswap"
 	]
 }

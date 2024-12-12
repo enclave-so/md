@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0xA2120b9e674d3fC3875f415A7DF52e382F141225",
-	"symbol": "Automata",
+	"symbol": "ATA",
 	"name": "Automata",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/15985/thumb/ATA.jpg?1622535745",
 	"coingecko": "automata",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"uniswap"
 	]
 }

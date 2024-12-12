@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x45448E05020576929fcDEabC228E35b420098840",
-	"symbol": "Idavoll DAO",
+	"symbol": "IDV",
 	"name": "Idavoll DAO",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14229/thumb/71922199.png?1696513943",
 	"coingecko": "idavoll-network",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x62Dc4817588d53a056cBbD18231d91ffCcd34b2A",
-	"symbol": "DeHive",
+	"symbol": "DHV",
 	"name": "DeHive",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14926/thumb/logo_200x200.png?1696514587",
 	"coingecko": "dehive",
 	"sources": [
 		"coingecko"

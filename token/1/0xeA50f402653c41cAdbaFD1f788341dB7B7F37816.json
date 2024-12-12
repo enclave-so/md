@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xeA50f402653c41cAdbaFD1f788341dB7B7F37816",
-	"symbol": "sGYD",
+	"symbol": "SGYD",
 	"name": "sGYD",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/51171/thumb/sGYD_Logo_Large.png?1730268578",
 	"coingecko": "sgyd",
 	"sources": [
 		"coingecko"

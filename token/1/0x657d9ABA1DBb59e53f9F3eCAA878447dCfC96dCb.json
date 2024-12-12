@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x657d9ABA1DBb59e53f9F3eCAA878447dCfC96dCb",
-	"symbol": "ynETH MAX",
+	"symbol": "YNETHX",
 	"name": "ynETH MAX",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/51623/thumb/ynETHx.png?1731659494",
 	"coingecko": "yneth-max",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x4db57D585fa82Ca32d25086DDc069d899f08D455",
-	"symbol": "Enoch",
+	"symbol": "ENOCH",
 	"name": "Enoch",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30810/thumb/20230619_001351.png?1696529667",
 	"coingecko": "enoch",
 	"sources": [
 		"coingecko"

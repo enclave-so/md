@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x73C6A7491d0dB90Bdb0060308CDE0F49dfD1D0B0",
-	"symbol": "DogeBonk",
+	"symbol": "DOBO",
 	"name": "DogeBonk",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31455/thumb/200x200.png?1696530269",
 	"coingecko": "dogebonk-eth",
 	"sources": [
 		"coingecko"

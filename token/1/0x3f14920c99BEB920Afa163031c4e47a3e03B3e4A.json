@@ -1,10 +1,12 @@
 {
 	"chain": 1,
 	"address": "0x3f14920c99BEB920Afa163031c4e47a3e03B3e4A",
-	"symbol": "/send",
-	"name": "/send",
+	"symbol": "SEND",
+	"name": " send",
+	"logo": "https://assets.coingecko.com/coins/images/30847/thumb/avatar.png?1716654949",
 	"coingecko": "send-token",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

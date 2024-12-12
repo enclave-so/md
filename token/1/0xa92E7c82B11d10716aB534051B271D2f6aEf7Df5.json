@@ -2,9 +2,9 @@
 	"chain": 1,
 	"address": "0xa92E7c82B11d10716aB534051B271D2f6aEf7Df5",
 	"symbol": "ARA",
-	"name": "Ara Token",
+	"name": "Ara",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xa92E7c82B11d10716aB534051B271D2f6aEf7Df5.jpg",
+	"logo": "https://assets.coingecko.com/coins/images/13877/thumb/ara-icon-200.png?1696513621",
 	"coingecko": "ara-token",
 	"sources": [
 		"coingecko",

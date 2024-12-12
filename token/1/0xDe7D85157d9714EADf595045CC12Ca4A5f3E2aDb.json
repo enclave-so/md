@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xDe7D85157d9714EADf595045CC12Ca4A5f3E2aDb",
-	"symbol": "STP",
+	"symbol": "STPT",
 	"name": "STP",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/8713/thumb/STP.png?1696508875",
 	"coingecko": "stp-network",
 	"sources": [
 		"coingecko"

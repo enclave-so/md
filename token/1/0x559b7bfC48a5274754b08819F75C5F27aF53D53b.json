@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x559b7bfC48a5274754b08819F75C5F27aF53D53b",
-	"symbol": "Qi Dao",
+	"symbol": "QI",
 	"name": "Qi Dao",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/15329/thumb/qidao.jpeg?1697093140",
 	"coingecko": "qi-dao",
 	"sources": [
 		"coingecko"

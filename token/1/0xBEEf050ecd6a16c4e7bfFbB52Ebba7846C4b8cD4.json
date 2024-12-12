@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xBEEf050ecd6a16c4e7bfFbB52Ebba7846C4b8cD4",
-	"symbol": "Steakhouse ETH Morpho Vault",
+	"symbol": "STEAKETH",
 	"name": "Steakhouse ETH Morpho Vault",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/51382/thumb/ethereum.png?1730966831",
 	"coingecko": "steakhouse-eth-morpho-vault",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xfA3E941D1F6B7b10eD84A0C211bfA8aeE907965e",
-	"symbol": "HayCoin",
+	"symbol": "HAY",
 	"name": "HayCoin",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/32336/thumb/haycoin.jpeg?1698308493",
 	"coingecko": "haycoin",
 	"sources": [
 		"coingecko"

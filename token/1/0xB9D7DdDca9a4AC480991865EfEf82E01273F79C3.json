@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xB9D7DdDca9a4AC480991865EfEf82E01273F79C3",
-	"symbol": "Boosted LUSD",
+	"symbol": "BLUSD",
 	"name": "Boosted LUSD",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/27681/thumb/bLUSD_logo.png?1696526709",
 	"coingecko": "boosted-lusd",
 	"sources": [
 		"coingecko"

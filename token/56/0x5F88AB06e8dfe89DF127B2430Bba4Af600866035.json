@@ -4,8 +4,9 @@
 	"symbol": "KAVA",
 	"name": "KAVA",
 	"decimals": 6,
-	"logo": "https://assets.coingecko.com/coins/images/9761/small/Kava-icon.png?1585636197",
+	"logo": "https://tokens.pancakeswap.finance/images/0x5F88AB06e8dfe89DF127B2430Bba4Af600866035.png",
 	"sources": [
+		"pancakeswap",
 		"sushiswap"
 	]
 }

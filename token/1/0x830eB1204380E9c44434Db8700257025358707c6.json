@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x830eB1204380E9c44434Db8700257025358707c6",
-	"symbol": "Goons of Balatroon",
+	"symbol": "GOB",
 	"name": "Goons of Balatroon",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/27104/thumb/TokenLogo200x200.png?1702250134",
 	"coingecko": "goons-of-balatroon",
 	"sources": [
 		"coingecko"

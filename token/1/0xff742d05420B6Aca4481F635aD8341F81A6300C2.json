@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xff742d05420B6Aca4481F635aD8341F81A6300C2",
-	"symbol": "AscendEx",
+	"symbol": "ASD",
 	"name": "AscendEx",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/5003/thumb/bitmax.png?1696505535",
 	"coingecko": "asd",
 	"sources": [
 		"coingecko"

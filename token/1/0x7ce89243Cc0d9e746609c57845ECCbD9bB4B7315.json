@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x7ce89243Cc0d9e746609c57845ECCbD9bB4B7315",
-	"symbol": "Lily's Coin",
-	"name": "Lily's Coin",
+	"symbol": "LILY",
+	"name": "Lily s Coin",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/51093/thumb/Coingecko.png?1730040242",
 	"coingecko": "lily-s-coin",
 	"sources": [
 		"coingecko"

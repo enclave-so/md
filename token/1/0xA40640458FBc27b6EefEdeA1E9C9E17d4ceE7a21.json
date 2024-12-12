@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xA40640458FBc27b6EefEdeA1E9C9E17d4ceE7a21",
-	"symbol": "Anchored Coins AEUR",
+	"symbol": "AEUR",
 	"name": "Anchored Coins AEUR",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/33469/thumb/aeur-icon2.png?1701944612",
 	"coingecko": "anchored-coins-eur",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x94e496474F1725f1c1824cB5BDb92d7691A4F03a",
-	"symbol": "Banana",
+	"symbol": "BANANA",
 	"name": "Banana",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/17521/thumb/banana-token-cg.png?1696517059",
 	"coingecko": "banana",
 	"sources": [
 		"coingecko"

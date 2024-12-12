@@ -3,6 +3,8 @@
 	"address": "0xb48Eb8368c9C6e9b0734de1Ef4ceB9f484B80b9C",
 	"symbol": "VMPX",
 	"name": "VMPX",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/32001/thumb/VMPX_ICON_2.png?1732309699",
 	"coingecko": "vmpx-erc20",
 	"sources": [
 		"coingecko"

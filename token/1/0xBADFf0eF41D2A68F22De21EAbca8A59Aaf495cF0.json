@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xBADFf0eF41D2A68F22De21EAbca8A59Aaf495cF0",
-	"symbol": "Kabosu Inu",
+	"symbol": "KABOSU",
 	"name": "Kabosu Inu",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/28619/thumb/Kabosu_Inu.png?1696527604",
 	"coingecko": "kabosu-inu",
 	"sources": [
 		"coingecko"

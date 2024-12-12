@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x0808E6C4400BdE1d70Db0d02170b67DE05E07eF5",
-	"symbol": "Wrapped LYX (SigmaSwap)",
-	"name": "Wrapped LYX (SigmaSwap)",
+	"symbol": "WLYX",
+	"name": "Wrapped LYX  SigmaSwap ",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/34338/thumb/wLYX.png?1704679928",
 	"coingecko": "wrapped-lyx-sigmaswap",
 	"sources": [
 		"coingecko"

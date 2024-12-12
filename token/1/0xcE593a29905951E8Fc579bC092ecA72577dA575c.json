@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xcE593a29905951E8Fc579bC092ecA72577dA575c",
-	"symbol": "GROM",
+	"symbol": "GR",
 	"name": "GROM",
+	"decimals": 6,
+	"logo": "https://assets.coingecko.com/coins/images/13216/thumb/gr.png?1696512995",
 	"coingecko": "grom",
 	"sources": [
 		"coingecko"

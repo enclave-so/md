@@ -3,6 +3,8 @@
 	"address": "0x446C9033E7516D820cc9a2ce2d0B7328b579406F",
 	"symbol": "SOLVE",
 	"name": "SOLVE",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/1768/thumb/Solve.Token_logo_200_200_wiyhout_BG.png?1696502776",
 	"coingecko": "solve-care",
 	"sources": [
 		"coingecko"

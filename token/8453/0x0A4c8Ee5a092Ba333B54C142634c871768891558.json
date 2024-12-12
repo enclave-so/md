@@ -1,0 +1,11 @@
+{
+	"chain": 8453,
+	"address": "0x0A4c8Ee5a092Ba333B54C142634c871768891558",
+	"symbol": "RIZE",
+	"name": "GenRize",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/RIZE/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xbC404429558292eE2D769E57d57D6E74bbd2792d",
-	"symbol": "Savings USX",
+	"symbol": "SUSX",
 	"name": "Savings USX",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/39895/thumb/IMG_7024.png?1724724019",
 	"coingecko": "savings-usx",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xE95076d9fe7155c17b455ac49497E78912c4AB65",
-	"symbol": "Dollar",
+	"symbol": "DOLLAR",
 	"name": "Dollar",
+	"decimals": 6,
+	"logo": "https://assets.coingecko.com/coins/images/39312/thumb/pfp_200x200.png?1721706165",
 	"coingecko": "dollar-2",
 	"sources": [
 		"coingecko"

@@ -4,10 +4,11 @@
 	"symbol": "DOLA",
 	"name": "Dola USD Stablecoin",
 	"decimals": 18,
-	"logo": "https://s2.coinmarketcap.com/static/img/coins/128x128/19191.png",
+	"logo": "https://ethereum-optimism.github.io/data/DOLA/logo.svg",
 	"coingecko": "dola-usd",
 	"sources": [
 		"coingecko",
+		"optimism",
 		"sushiswap"
 	]
 }

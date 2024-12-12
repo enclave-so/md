@@ -1,0 +1,11 @@
+{
+	"chain": 42161,
+	"address": "0xeb5bE62e6770137beaA0cC712741165C594F59D7",
+	"symbol": "BTC2X",
+	"name": "Index Coop Bitcoin 2x Index",
+	"decimals": 18,
+	"logo": "https://cdn.indexcoop.com/btc2x.svg",
+	"sources": [
+		"indexcoop"
+	]
+}

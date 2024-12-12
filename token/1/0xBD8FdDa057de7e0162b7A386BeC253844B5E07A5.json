@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xBD8FdDa057de7e0162b7A386BeC253844B5E07A5",
-	"symbol": "Jarvis",
+	"symbol": "JARVIS",
 	"name": "Jarvis",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35812/thumb/jarvis.png?1709873633",
 	"coingecko": "jarvis-2",
 	"sources": [
 		"coingecko"

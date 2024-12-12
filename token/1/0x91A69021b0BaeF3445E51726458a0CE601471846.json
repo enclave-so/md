@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x91A69021b0BaeF3445E51726458a0CE601471846",
-	"symbol": "Ethos Reserve Note",
+	"symbol": "ERN",
 	"name": "Ethos Reserve Note",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/29744/thumb/ERN200x200.png?1696528676",
 	"coingecko": "ethos-reserve-note",
 	"sources": [
 		"coingecko"

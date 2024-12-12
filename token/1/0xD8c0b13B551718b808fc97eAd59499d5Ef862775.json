@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xD8c0b13B551718b808fc97eAd59499d5Ef862775",
-	"symbol": "Gala Music",
+	"symbol": "MUSIC",
 	"name": "Gala Music",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/33472/thumb/gmusic.jpeg?1701947141",
 	"coingecko": "gala-music",
 	"sources": [
 		"coingecko"

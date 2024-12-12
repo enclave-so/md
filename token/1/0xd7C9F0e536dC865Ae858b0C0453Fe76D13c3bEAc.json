@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xd7C9F0e536dC865Ae858b0C0453Fe76D13c3bEAc",
-	"symbol": "XAI Stablecoin",
+	"symbol": "XAI",
 	"name": "XAI Stablecoin",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/28254/thumb/Xai_logo.png?1696527256",
 	"coingecko": "xai",
 	"sources": [
 		"coingecko"

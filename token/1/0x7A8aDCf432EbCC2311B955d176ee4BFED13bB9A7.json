@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x7A8aDCf432EbCC2311B955d176ee4BFED13bB9A7",
-	"symbol": "MandoX",
+	"symbol": "MANDOX",
 	"name": "MandoX",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/24968/thumb/NmqN8g7.png?1696524121",
 	"coingecko": "mandox-2",
 	"sources": [
 		"coingecko"

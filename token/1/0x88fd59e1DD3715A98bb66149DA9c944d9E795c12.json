@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x88fd59e1DD3715A98bb66149DA9c944d9E795c12",
-	"symbol": "Mogul Productions",
+	"symbol": "MOGUL",
 	"name": "Mogul Productions",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/39631/thumb/mogul.jpg?1723187346",
 	"coingecko": "mogul-productions-2",
 	"sources": [
 		"coingecko"

@@ -3,6 +3,8 @@
 	"address": "0x6cb25129314123BCD5aDCdc844cEaEEAd65A0896",
 	"symbol": "CULTUR",
 	"name": "CULTUR",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/51977/thumb/-Cultur_Logo.jpg?1732287043",
 	"coingecko": "cultur",
 	"sources": [
 		"coingecko"

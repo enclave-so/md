@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0x0100546F2cD4C9D97f798fFC9755E47865FF7Ee6",
-	"symbol": "Alchemix ETH",
+	"symbol": "ALETH",
 	"name": "Alchemix ETH",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/16271/thumb/aleth.png?1696515869",
 	"coingecko": "alchemix-eth",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

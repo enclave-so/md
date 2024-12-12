@@ -2,12 +2,13 @@
 	"chain": 1,
 	"address": "0x4e3FBD56CD56c3e72c1403e103b45Db9da5B9D2B",
 	"symbol": "CVX",
-	"name": "Convex Token",
+	"name": "Convex Finance",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x4e3FBD56CD56c3e72c1403e103b45Db9da5B9D2B/logo.png",
+	"logo": "https://assets.coingecko.com/coins/images/15585/thumb/convex.png?1621256328",
 	"coingecko": "convex-finance",
 	"sources": [
 		"coingecko",
-		"sushiswap"
+		"sushiswap",
+		"uniswap"
 	]
 }

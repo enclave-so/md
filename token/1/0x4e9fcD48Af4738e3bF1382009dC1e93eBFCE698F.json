@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x4e9fcD48Af4738e3bF1382009dC1e93eBFCE698F",
-	"symbol": "TAO INU",
+	"symbol": "TAONU",
 	"name": "TAO INU",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/33145/thumb/656b24d78397f73bfbadb752_TAONU_Logo_100x100.jpg?1701861274",
 	"coingecko": "tao-inu",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x396c95abE154b3b2eD204Cf45c8726AA7ad47A4D",
-	"symbol": "Gradient Protocol",
+	"symbol": "GDT",
 	"name": "Gradient Protocol",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/37305/thumb/1000199694.jpg?1713952287",
 	"coingecko": "gradient-protocol",
 	"sources": [
 		"coingecko"

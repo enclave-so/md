@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x7567d006f6be77E3D87Aa831855CB4102E37b17D",
-	"symbol": "Three Hundred AI",
+	"symbol": "THND",
 	"name": "Three Hundred AI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/34184/thumb/Untitled_design_%284%29_%281%29.png?1717718756",
 	"coingecko": "three-hundred-ai",
 	"sources": [
 		"coingecko"

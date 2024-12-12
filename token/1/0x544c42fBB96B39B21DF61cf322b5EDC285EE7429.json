@@ -4,7 +4,7 @@
 	"symbol": "INSUR",
 	"name": "InsurAce",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x544c42fBB96B39B21DF61cf322b5EDC285EE7429/logo.png",
+	"logo": "https://assets.coingecko.com/coins/images/14226/thumb/insur.png?1696513941",
 	"coingecko": "insurace",
 	"sources": [
 		"coingecko",

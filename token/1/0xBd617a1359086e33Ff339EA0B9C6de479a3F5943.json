@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xBd617a1359086e33Ff339EA0B9C6de479a3F5943",
-	"symbol": "Ide.x.ai",
-	"name": "Ide.x.ai",
+	"symbol": "IDE",
+	"name": "Ide x ai",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/33240/thumb/logo_ide-1-150x150.png?1701148159",
 	"coingecko": "ide-x-ai",
 	"sources": [
 		"coingecko"

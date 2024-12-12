@@ -2,9 +2,9 @@
 	"chain": 1,
 	"address": "0x888888888889C00c67689029D7856AAC1065eC11",
 	"symbol": "OPIUM",
-	"name": "Opium Governance Token",
+	"name": "Opium",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x888888888889C00c67689029D7856AAC1065eC11/logo.png",
+	"logo": "https://assets.coingecko.com/coins/images/13758/thumb/opium-token-black_%281%29.png?1696513500",
 	"coingecko": "opium",
 	"sources": [
 		"coingecko",

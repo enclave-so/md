@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xfaE30394A76796dc3DF37c2714f5Fc12083DFDb0",
-	"symbol": "NakaChain",
+	"symbol": "NAKA",
 	"name": "NakaChain",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/36269/thumb/1CR4up2C_400x400.jpg?1711003041",
 	"coingecko": "nakachain",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xa6C0c097741D55ECd9a3A7DeF3A8253fD022ceB9",
-	"symbol": "AVA (Travala)",
-	"name": "AVA (Travala)",
+	"symbol": "AVA",
+	"name": "AVA  Travala ",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/3014/thumb/AVA_Logo_160x160px_Black.png?1696503750",
 	"coingecko": "concierge-io",
 	"sources": [
 		"coingecko"

@@ -1,0 +1,11 @@
+{
+	"chain": 43114,
+	"address": "0x20CF1b6E9d856321ed4686877CF4538F2C84B4dE",
+	"symbol": "ANKR",
+	"name": "Ankr",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/4324/thumb/U85xTl2.png?1608111978",
+	"sources": [
+		"uniswap"
+	]
+}

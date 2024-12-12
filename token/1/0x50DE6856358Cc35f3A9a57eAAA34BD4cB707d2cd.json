@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0x50DE6856358Cc35f3A9a57eAAA34BD4cB707d2cd",
-	"symbol": "Razor Network",
+	"symbol": "RAZOR",
 	"name": "Razor Network",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/13797/thumb/icon.png?1696513545",
 	"coingecko": "razor-network",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

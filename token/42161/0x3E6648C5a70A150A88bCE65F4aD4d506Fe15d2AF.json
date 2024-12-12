@@ -4,10 +4,11 @@
 	"symbol": "SPELL",
 	"name": "Spell Token",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x3E6648C5a70A150A88bCE65F4aD4d506Fe15d2AF.jpg",
+	"logo": "https://assets.coingecko.com/coins/images/15861/thumb/abracadabra-3.png?1622544862",
 	"coingecko": "spell-token",
 	"sources": [
 		"coingecko",
-		"sushiswap"
+		"sushiswap",
+		"uniswap"
 	]
 }

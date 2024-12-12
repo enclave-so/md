@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xa02120696c7B8fE16C09C749E4598819b2B0E915",
-	"symbol": "WXT Token",
+	"symbol": "WXT",
 	"name": "WXT Token",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/8835/thumb/Wirex.jpg?1696508988",
 	"coingecko": "wirex",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xf2CDF38e24738bA379ffa38D47bc88a941dF5627",
-	"symbol": "Ally",
+	"symbol": "ALY",
 	"name": "Ally",
+	"decimals": 2,
+	"logo": "https://assets.coingecko.com/coins/images/9619/thumb/BTf_sTXi_400x400.jpg?1696509692",
 	"coingecko": "ally",
 	"sources": [
 		"coingecko"

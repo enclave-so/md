@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x83869DE76B9Ad8125e22b857f519F001588c0f62",
-	"symbol": "EXMO Coin",
+	"symbol": "EXM",
 	"name": "EXMO Coin",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/9154/thumb/200x200.png?1696509276",
 	"coingecko": "exmo-coin",
 	"sources": [
 		"coingecko"

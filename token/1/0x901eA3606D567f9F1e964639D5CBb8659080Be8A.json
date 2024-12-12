@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x901eA3606D567f9F1e964639D5CBb8659080Be8A",
-	"symbol": "CoinW",
+	"symbol": "CWT",
 	"name": "CoinW",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31999/thumb/cwt_%281%29.jpeg?1696530800",
 	"coingecko": "coinw",
 	"sources": [
 		"coingecko"

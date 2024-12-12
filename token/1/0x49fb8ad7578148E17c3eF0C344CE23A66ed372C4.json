@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x49fb8ad7578148E17c3eF0C344CE23A66ed372C4",
-	"symbol": "tao.bot",
-	"name": "tao.bot",
+	"symbol": "TAOBOT",
+	"name": "tao bot",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35829/thumb/taobot200.png?1709887868",
 	"coingecko": "tao-bot",
 	"sources": [
 		"coingecko"

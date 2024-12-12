@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xe3818504c1B32bF1557b16C238B2E01Fd3149C17",
-	"symbol": "Pillar",
+	"symbol": "PLR",
 	"name": "Pillar",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/809/thumb/v2logo-1.png?1696501958",
 	"coingecko": "pillar",
 	"sources": [
 		"coingecko"

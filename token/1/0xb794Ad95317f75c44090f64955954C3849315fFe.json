@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xb794Ad95317f75c44090f64955954C3849315fFe",
-	"symbol": "Ribbit Meme",
+	"symbol": "RIBBIT",
 	"name": "Ribbit Meme",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30145/thumb/ribbit-logo.png?1696529066",
 	"coingecko": "ribbit-meme",
 	"sources": [
 		"coingecko"

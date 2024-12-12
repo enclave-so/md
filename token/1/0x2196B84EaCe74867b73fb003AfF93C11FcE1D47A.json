@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x2196B84EaCe74867b73fb003AfF93C11FcE1D47A",
-	"symbol": "PsyDAO",
+	"symbol": "PSY",
 	"name": "PsyDAO",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/52352/thumb/9EKVxeyM_400x400.jpg?1733167323",
 	"coingecko": "psydao",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x55c3A56e638e96C91F98735CC86F60a6820e6A44",
-	"symbol": "GavCoin",
+	"symbol": "GAV",
 	"name": "GavCoin",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/37525/thumb/GAV200.jpg?1714637917",
 	"coingecko": "gavcoin",
 	"sources": [
 		"coingecko"

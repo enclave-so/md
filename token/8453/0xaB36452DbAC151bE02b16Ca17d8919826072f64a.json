@@ -1,10 +1,13 @@
 {
 	"chain": 8453,
 	"address": "0xaB36452DbAC151bE02b16Ca17d8919826072f64a",
-	"symbol": "Reserve Rights",
+	"symbol": "RSR",
 	"name": "Reserve Rights",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/RSR/logo.png",
 	"coingecko": "reserve-rights-token",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

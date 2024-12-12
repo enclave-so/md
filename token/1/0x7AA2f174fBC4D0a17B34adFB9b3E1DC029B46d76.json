@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x7AA2f174fBC4D0a17B34adFB9b3E1DC029B46d76",
-	"symbol": "RADA Foundation",
+	"symbol": "RADA",
 	"name": "RADA Foundation",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31645/thumb/1.png?1696530461",
 	"coingecko": "rada-foundation",
 	"sources": [
 		"coingecko"

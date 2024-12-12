@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0xF95a5532D67C944dfa7EDDD2f8c358Fe0dc7FAc2",
-	"symbol": "Marblex",
-	"name": "Marblex",
+	"symbol": "MBX",
+	"name": "MARBLEX on BNB",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0xF95a5532D67C944dfa7EDDD2f8c358Fe0dc7FAc2.png",
 	"coingecko": "marblex",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

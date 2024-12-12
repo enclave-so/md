@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xa711BCC2b6f5c4fc3DFaCcc2a01148765CBbAb1C",
-	"symbol": "Grok1.5",
-	"name": "Grok1.5",
+	"symbol": "GROK15",
+	"name": "Grok1 5",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/34838/thumb/IMG_20240123_045540_147.jpg?1706240605",
 	"coingecko": "grok1-5",
 	"sources": [
 		"coingecko"

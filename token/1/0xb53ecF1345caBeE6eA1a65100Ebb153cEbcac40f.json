@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xb53ecF1345caBeE6eA1a65100Ebb153cEbcac40f",
-	"symbol": "Childhoods End",
+	"symbol": "O",
 	"name": "Childhoods End",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/25670/thumb/photo_2022-05-27_12-45-29.jpg?1696524798",
 	"coingecko": "childhoods-end",
 	"sources": [
 		"coingecko"

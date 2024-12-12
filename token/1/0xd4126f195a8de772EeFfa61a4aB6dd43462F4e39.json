@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xd4126f195a8de772EeFfa61a4aB6dd43462F4e39",
-	"symbol": "Hikari Protocol",
+	"symbol": "HIKARI",
 	"name": "Hikari Protocol",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/28953/thumb/HIKARI.png?1696527926",
 	"coingecko": "hikari-protocol",
 	"sources": [
 		"coingecko"

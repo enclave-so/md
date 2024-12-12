@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xf7e945FcE8F19302AaCc7E1418b0A0bdef89327B",
-	"symbol": "Galvan",
+	"symbol": "IZE",
 	"name": "Galvan",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/29442/thumb/Galvan_%28IZE%29.png?1696528389",
 	"coingecko": "galvan",
 	"sources": [
 		"coingecko"

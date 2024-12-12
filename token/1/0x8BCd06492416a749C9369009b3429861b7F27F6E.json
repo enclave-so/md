@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x8BCd06492416a749C9369009b3429861b7F27F6E",
-	"symbol": "BlackHat Coin",
+	"symbol": "BLKC",
 	"name": "BlackHat Coin",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/15987/thumb/logo_light.png?1696515600",
 	"coingecko": "blackhat-coin",
 	"sources": [
 		"coingecko"

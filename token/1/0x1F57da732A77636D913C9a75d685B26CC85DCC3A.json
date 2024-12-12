@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0x1F57da732A77636D913C9a75d685B26CC85DCC3A",
-	"symbol": "OPENLOOT",
+	"symbol": "OL",
 	"name": "OPENLOOT",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/51801/thumb/_OPENLOOT_token-icon_black_%282%29.png?1731989426",
 	"coingecko": "open-loot",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

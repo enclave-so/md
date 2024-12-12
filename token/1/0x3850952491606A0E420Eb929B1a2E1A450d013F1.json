@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x3850952491606A0E420Eb929B1a2E1A450d013F1",
-	"symbol": "PanoVerse",
+	"symbol": "PANO",
 	"name": "PanoVerse",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/32812/thumb/1000366603.jpg?1719371841",
 	"coingecko": "panoverse",
 	"sources": [
 		"coingecko"

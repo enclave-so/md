@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0x7aE1D57b58fA6411F32948314BadD83583eE0e8C",
-	"symbol": "Dope Wars Paper",
+	"symbol": "PAPER",
 	"name": "Dope Wars Paper",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/18166/thumb/EQHGcBO__400x400.jpeg?1696517667",
 	"coingecko": "dope-wars-paper",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

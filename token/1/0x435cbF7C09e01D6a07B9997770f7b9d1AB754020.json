@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x435cbF7C09e01D6a07B9997770f7b9d1AB754020",
-	"symbol": "Magnificent 7777",
+	"symbol": "MAGIC",
 	"name": "Magnificent 7777",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/51163/thumb/fc-k3Kh-_400x400.jpg?1730265401",
 	"coingecko": "magnificent-7777",
 	"sources": [
 		"coingecko"

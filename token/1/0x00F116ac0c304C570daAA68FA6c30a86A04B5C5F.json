@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x00F116ac0c304C570daAA68FA6c30a86A04B5C5F",
-	"symbol": "INFERNO",
+	"symbol": "INF",
 	"name": "INFERNO",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/50522/thumb/INFcg.PNG?1728142791",
 	"coingecko": "inferno-2",
 	"sources": [
 		"coingecko"

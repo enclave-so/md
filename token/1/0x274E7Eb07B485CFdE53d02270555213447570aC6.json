@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x274E7Eb07B485CFdE53d02270555213447570aC6",
-	"symbol": "SubDAO",
+	"symbol": "GOV",
 	"name": "SubDAO",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/28379/thumb/gov.png?1696527379",
 	"coingecko": "subdao",
 	"sources": [
 		"coingecko"

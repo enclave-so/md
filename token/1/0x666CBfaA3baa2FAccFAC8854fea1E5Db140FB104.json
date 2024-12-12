@@ -3,6 +3,8 @@
 	"address": "0x666CBfaA3baa2FAccFAC8854fea1E5Db140FB104",
 	"symbol": "PLUMS",
 	"name": "PLUMS",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30097/thumb/logoPlums.png?1696529021",
 	"coingecko": "plums",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x1B6e9c73beE68102d9dd4A2627f97bFf4183ab0A",
-	"symbol": "OpenLeverage",
+	"symbol": "OLE",
 	"name": "OpenLeverage",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/26098/thumb/256x256_OLE_Token_Logo.png?1696525189",
 	"coingecko": "openleverage",
 	"sources": [
 		"coingecko"

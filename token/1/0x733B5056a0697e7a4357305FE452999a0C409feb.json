@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x733B5056a0697e7a4357305FE452999a0C409feb",
-	"symbol": "IMVU",
+	"symbol": "VCORE",
 	"name": "IMVU",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30682/thumb/VCORE_Logo_200x200.png?1696529551",
 	"coingecko": "vcore",
 	"sources": [
 		"coingecko"

@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x1EB7bd905855c483dB19F53C8c4d42Db42A159Fc",
-	"symbol": "Nordic Ai",
+	"symbol": "NRDC",
 	"name": "Nordic Ai",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/36793/thumb/NordicAI_logo_%281%29.png?1712421635",
 	"coingecko": "nordic-ai",
 	"sources": [
 		"coingecko"

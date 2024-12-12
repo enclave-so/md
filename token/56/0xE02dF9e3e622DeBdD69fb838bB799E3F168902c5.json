@@ -4,10 +4,11 @@
 	"symbol": "BAKE",
 	"name": "Bakery Token",
 	"decimals": 18,
-	"logo": "https://bscscan.com/token/images/bakeryswap_32.png",
+	"logo": "https://tokens.pancakeswap.finance/images/0xE02dF9e3e622DeBdD69fb838bB799E3F168902c5.png",
 	"coingecko": "bakerytoken",
 	"sources": [
 		"coingecko",
+		"pancakeswap",
 		"sushiswap"
 	]
 }

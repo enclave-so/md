@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xFE67A4450907459c3e1FFf623aA927dD4e28c67a",
-	"symbol": "Everclear",
+	"symbol": "NEXT",
 	"name": "Everclear",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31293/thumb/photo_2024-06-03_12-14-59.png?1717638614",
 	"coingecko": "connext",
 	"sources": [
 		"coingecko"

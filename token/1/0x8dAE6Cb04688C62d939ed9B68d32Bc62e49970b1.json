@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x8dAE6Cb04688C62d939ed9B68d32Bc62e49970b1",
-	"symbol": "Aave CRV",
+	"symbol": "ACRV",
 	"name": "Aave CRV",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/17250/thumb/aCRV_2x.png?1696516806",
 	"coingecko": "aave-crv",
 	"sources": [
 		"coingecko"

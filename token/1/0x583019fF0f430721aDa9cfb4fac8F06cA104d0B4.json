@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x583019fF0f430721aDa9cfb4fac8F06cA104d0B4",
-	"symbol": "Staked Yearn Ether",
+	"symbol": "ST-YETH",
 	"name": "Staked Yearn Ether",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/32222/thumb/st-yETH-128px.png?1696914941",
 	"coingecko": "staked-yearn-ether",
 	"sources": [
 		"coingecko"

@@ -2,12 +2,14 @@
 	"chain": 1,
 	"address": "0x967da4048cD07aB37855c090aAF366e4ce1b9F48",
 	"symbol": "OCEAN",
-	"name": "Ocean Token",
+	"name": "Ocean Protocol",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/ocean.jpg",
+	"logo": "https://assets.coingecko.com/coins/images/3687/thumb/ocean-protocol-logo.jpg?1547038686",
 	"coingecko": "ocean-protocol",
 	"sources": [
 		"coingecko",
-		"sushiswap"
+		"optimism",
+		"sushiswap",
+		"uniswap"
 	]
 }

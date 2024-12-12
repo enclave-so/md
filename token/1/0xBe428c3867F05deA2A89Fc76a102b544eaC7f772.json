@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xBe428c3867F05deA2A89Fc76a102b544eaC7f772",
-	"symbol": "CyberVein",
+	"symbol": "CVT",
 	"name": "CyberVein",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/3886/thumb/CyberVein_LOGO.png?1696504547",
 	"coingecko": "cybervein",
 	"sources": [
 		"coingecko"

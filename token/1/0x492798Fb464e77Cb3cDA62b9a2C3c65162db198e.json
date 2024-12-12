@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x492798Fb464e77Cb3cDA62b9a2C3c65162db198e",
-	"symbol": "AmpliFi DAO",
+	"symbol": "AGG",
 	"name": "AmpliFi DAO",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/29137/thumb/original-icon-transparent.png?1696528098",
 	"coingecko": "amplifi-dao",
 	"sources": [
 		"coingecko"

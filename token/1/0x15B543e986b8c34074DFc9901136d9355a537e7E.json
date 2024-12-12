@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x15B543e986b8c34074DFc9901136d9355a537e7E",
-	"symbol": "Student Coin",
+	"symbol": "STC",
 	"name": "Student Coin",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/6260/thumb/logo_in_circle_%281%29.png?1696506642",
 	"coingecko": "student-coin",
 	"sources": [
 		"coingecko"

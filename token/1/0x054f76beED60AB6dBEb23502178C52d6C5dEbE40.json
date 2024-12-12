@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x054f76beED60AB6dBEb23502178C52d6C5dEbE40",
-	"symbol": "DeFiner",
+	"symbol": "FIN",
 	"name": "DeFiner",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/12780/thumb/PdaW8Lb.png?1696512575",
 	"coingecko": "definer",
 	"sources": [
 		"coingecko"

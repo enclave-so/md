@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xC135A4bBf0D5005f4dB3b79B84e8861d22003752",
-	"symbol": "Titan",
+	"symbol": "TITAN",
 	"name": "Titan",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/50371/thumb/1000326830.jpg?1727371869",
 	"coingecko": "titan-2",
 	"sources": [
 		"coingecko"

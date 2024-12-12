@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x683C8e87E74F3f8f27C0D2EBd4350Fe4DbA814eF",
-	"symbol": "0xGen",
+	"symbol": "XGN",
 	"name": "0xGen",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/38722/thumb/logo-200.png?1718477413",
 	"coingecko": "0xgen",
 	"sources": [
 		"coingecko"

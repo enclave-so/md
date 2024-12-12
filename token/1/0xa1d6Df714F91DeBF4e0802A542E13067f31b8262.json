@@ -3,6 +3,8 @@
 	"address": "0xa1d6Df714F91DeBF4e0802A542E13067f31b8262",
 	"symbol": "RFOX",
 	"name": "RFOX",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/12956/thumb/rfox.png?1696512744",
 	"coingecko": "redfox-labs-2",
 	"sources": [
 		"coingecko"

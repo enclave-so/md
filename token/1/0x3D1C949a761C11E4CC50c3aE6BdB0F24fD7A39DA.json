@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x3D1C949a761C11E4CC50c3aE6BdB0F24fD7A39DA",
-	"symbol": "Neurahub",
+	"symbol": "NEURA",
 	"name": "Neurahub",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/36471/thumb/Neurahub_Twitter-PFP_400x400_A.png?1725897976",
 	"coingecko": "neurahub",
 	"sources": [
 		"coingecko"

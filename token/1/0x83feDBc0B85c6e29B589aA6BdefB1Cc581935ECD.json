@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x83feDBc0B85c6e29B589aA6BdefB1Cc581935ECD",
-	"symbol": "Re.al US T-Bill",
-	"name": "Re.al US T-Bill",
+	"symbol": "USTB",
+	"name": "Re al US T Bill",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/38174/thumb/ustb.png?1716780607",
 	"coingecko": "real-us-t-bill",
 	"sources": [
 		"coingecko"

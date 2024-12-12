@@ -1,10 +1,13 @@
 {
 	"chain": 1,
 	"address": "0xbD9908b0Cdd50386F92efCC8e1d71766C2782Df0",
-	"symbol": "DAOSquare",
+	"symbol": "RICE",
 	"name": "DAOSquare",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/19084/thumb/tw5gu1dW_400x400.jpeg?1696518537",
 	"coingecko": "daosquare",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

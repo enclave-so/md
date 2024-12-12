@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x8BB97A618211695f5a6a889faC3546D1a573ea77",
-	"symbol": "NexusBTC",
+	"symbol": "NBTC",
 	"name": "NexusBTC",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/52630/thumb/NBTC-logo.png?1733837414",
 	"coingecko": "nexusbtc",
 	"sources": [
 		"coingecko"

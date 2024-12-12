@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x7ceEc758dfe5EF8C32cDe7b2259CC79B1891E8ED",
-	"symbol": "Evire",
+	"symbol": "EVIRE",
 	"name": "Evire",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/38922/thumb/200x200.png?1719517028",
 	"coingecko": "evire",
 	"sources": [
 		"coingecko"

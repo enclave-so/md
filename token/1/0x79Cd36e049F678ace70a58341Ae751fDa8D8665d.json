@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x79Cd36e049F678ace70a58341Ae751fDa8D8665d",
-	"symbol": "Fren Pepe",
+	"symbol": "FREPE",
 	"name": "Fren Pepe",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/38315/thumb/photo_2024-05-29_21-46-16_%281%29_%281%29.jpg?1717053262",
 	"coingecko": "fren-pepe",
 	"sources": [
 		"coingecko"

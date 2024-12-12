@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x666d875C600AA06AC1cf15641361dEC3b00432Ef",
-	"symbol": "BTSE Token",
+	"symbol": "BTSE",
 	"name": "BTSE Token",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/10807/thumb/BTSE_logo_Square.jpeg?1696510765",
 	"coingecko": "btse-token",
 	"sources": [
 		"coingecko"

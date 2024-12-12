@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x97D2FC7d16BC34121c3311f2e2E05D298c19956f",
-	"symbol": "WoofOracle",
+	"symbol": "WFO",
 	"name": "WoofOracle",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35788/thumb/Android.png?1709799277",
 	"coingecko": "wooforacle",
 	"sources": [
 		"coingecko"

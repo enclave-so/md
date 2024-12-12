@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x84018071282d4B2996272659D9C01cB08DD7327F",
-	"symbol": "Blendr Network",
+	"symbol": "BLENDR",
 	"name": "Blendr Network",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35765/thumb/Blendr_Network.png?1709752266",
 	"coingecko": "blendr-network",
 	"sources": [
 		"coingecko"

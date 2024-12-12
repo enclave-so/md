@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0xf280B16EF293D8e534e370794ef26bF312694126",
-	"symbol": "Asteroid Shiba",
+	"symbol": "ASTEROID",
 	"name": "Asteroid Shiba",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/50333/thumb/IMG_0728.jpeg?1727384521",
 	"coingecko": "asteroid-shiba",
 	"sources": [
 		"coingecko"

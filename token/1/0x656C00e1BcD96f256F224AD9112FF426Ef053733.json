@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x656C00e1BcD96f256F224AD9112FF426Ef053733",
-	"symbol": "Efinity",
+	"symbol": "EFI",
 	"name": "Efinity",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/16558/thumb/efi-200px_%281%29.png?1696516119",
 	"coingecko": "efinity",
 	"sources": [
 		"coingecko"

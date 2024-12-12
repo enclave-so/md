@@ -1,8 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x8f828a0644f12Fa352888E645a90333d30f6FD7D",
-	"symbol": "Rinia Inu",
+	"symbol": "RINIA",
 	"name": "Rinia Inu",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/29466/thumb/rinia.png?1696528411",
 	"coingecko": "rinia-inu",
 	"sources": [
 		"coingecko"
