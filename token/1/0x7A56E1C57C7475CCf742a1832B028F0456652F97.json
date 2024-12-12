@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x7A56E1C57C7475CCf742a1832B028F0456652F97",
+	"symbol": "Solv Protocol SolvBTC",
+	"name": "Solv Protocol SolvBTC",
+	"coingecko": "solv-btc",
+	"sources": [
+		"coingecko"
+	]
+}

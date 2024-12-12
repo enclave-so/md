@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x06DDb3a8BC0aBc14f85e974CF1A93a6f8d4909d9",
+	"symbol": "8Pay",
+	"name": "8Pay",
+	"coingecko": "8pay",
+	"sources": [
+		"coingecko"
+	]
+}

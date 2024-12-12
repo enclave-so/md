@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xFB0489e9753B045DdB35e39c6B0Cc02EC6b99AC5",
+	"symbol": "AGG",
+	"name": "AGG",
+	"coingecko": "agg",
+	"sources": [
+		"coingecko"
+	]
+}

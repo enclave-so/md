@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xE6f3bE5b52b5de0156148A4AAB2E6674e7C1F5D0",
+	"symbol": "CODA",
+	"name": "CODA",
+	"coingecko": "coda",
+	"sources": [
+		"coingecko"
+	]
+}

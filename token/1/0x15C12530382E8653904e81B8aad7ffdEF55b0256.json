@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x15C12530382E8653904e81B8aad7ffdEF55b0256",
+	"symbol": "Auction Light",
+	"name": "Auction Light",
+	"coingecko": "auction-light",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0xf091867EC603A6628eD83D274E835539D82e9cc8",
+	"symbol": "ZETA",
+	"name": "Zeta",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xf091867EC603A6628eD83D274E835539D82e9cc8.jpg",
+	"coingecko": "zetachain",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

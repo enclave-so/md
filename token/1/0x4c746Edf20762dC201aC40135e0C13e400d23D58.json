@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x4c746Edf20762dC201aC40135e0C13e400d23D58",
+	"symbol": "GOD Coin",
+	"name": "GOD Coin",
+	"coingecko": "god-coin",
+	"sources": [
+		"coingecko"
+	]
+}

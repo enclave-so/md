@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x4E241A9EC66832a16bceaeB9156E524487f061D7",
+	"symbol": "ETF Rocks",
+	"name": "ETF Rocks",
+	"coingecko": "etf-rocks",
+	"sources": [
+		"coingecko"
+	]
+}

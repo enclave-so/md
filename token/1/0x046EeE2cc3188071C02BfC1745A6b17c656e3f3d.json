@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x046EeE2cc3188071C02BfC1745A6b17c656e3f3d",
+	"symbol": "Rollbit Coin",
+	"name": "Rollbit Coin",
+	"coingecko": "rollbit-coin",
+	"sources": [
+		"coingecko"
+	]
+}

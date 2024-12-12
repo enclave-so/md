@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x364C65347Bdd77e6196FAD96D42dBbD6d55cf719",
+	"symbol": "BRK690k",
+	"name": "BRK690k",
+	"coingecko": "brk690k",
+	"sources": [
+		"coingecko"
+	]
+}

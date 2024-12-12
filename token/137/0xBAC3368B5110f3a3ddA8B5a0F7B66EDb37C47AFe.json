@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xBAC3368B5110f3a3ddA8B5a0F7B66EDb37C47AFe",
+	"symbol": "AI PEPE KING",
+	"name": "AI PEPE KING",
+	"coingecko": "ai-pepe-king",
+	"sources": [
+		"coingecko"
+	]
+}

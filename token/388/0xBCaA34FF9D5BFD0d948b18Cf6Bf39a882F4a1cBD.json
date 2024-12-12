@@ -1,0 +1,10 @@
+{
+	"chain": 388,
+	"address": "0xBCaA34FF9D5BFD0d948b18Cf6Bf39a882F4a1cBD",
+	"symbol": "Cronos zkEVM Bridged CRO (Cronos zkEVM)",
+	"name": "Cronos zkEVM Bridged CRO (Cronos zkEVM)",
+	"coingecko": "cronos-zkevm-bridged-cro-cronos-zkevm",
+	"sources": [
+		"coingecko"
+	]
+}

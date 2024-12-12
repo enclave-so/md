@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xEFeE2de82343BE622Dcb4E545f75a3b9f50c272D",
+	"symbol": "TryHards",
+	"name": "TryHards",
+	"coingecko": "tryhards",
+	"sources": [
+		"coingecko"
+	]
+}

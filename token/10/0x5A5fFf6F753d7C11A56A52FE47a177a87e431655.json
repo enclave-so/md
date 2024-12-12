@@ -1,0 +1,10 @@
+{
+	"chain": 10,
+	"address": "0x5A5fFf6F753d7C11A56A52FE47a177a87e431655",
+	"symbol": "Synapse",
+	"name": "Synapse",
+	"coingecko": "synapse-2",
+	"sources": [
+		"coingecko"
+	]
+}

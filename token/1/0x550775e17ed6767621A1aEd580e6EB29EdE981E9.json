@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x550775e17ed6767621A1aEd580e6EB29EdE981E9",
+	"symbol": "Agnus AI",
+	"name": "Agnus AI",
+	"coingecko": "agnus-ai",
+	"sources": [
+		"coingecko"
+	]
+}

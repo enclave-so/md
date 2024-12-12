@@ -1,0 +1,10 @@
+{
+	"chain": 369,
+	"address": "0xe9f84d418B008888A992Ff8c6D22389C2C3504e0",
+	"symbol": "Maximus BASE",
+	"name": "Maximus BASE",
+	"coingecko": "maximus-base",
+	"sources": [
+		"coingecko"
+	]
+}

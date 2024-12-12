@@ -1,0 +1,10 @@
+{
+	"chain": 369,
+	"address": "0x207e6b4529840A4fd518f73c68bc9c19B2A15944",
+	"symbol": "Mintra",
+	"name": "Mintra",
+	"coingecko": "mintra",
+	"sources": [
+		"coingecko"
+	]
+}

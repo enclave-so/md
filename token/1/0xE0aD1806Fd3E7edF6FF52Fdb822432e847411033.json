@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0xE0aD1806Fd3E7edF6FF52Fdb822432e847411033",
+	"symbol": "ONX",
+	"name": "OnX.finance",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xE0aD1806Fd3E7edF6FF52Fdb822432e847411033/logo.png",
+	"coingecko": "onx-finance",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

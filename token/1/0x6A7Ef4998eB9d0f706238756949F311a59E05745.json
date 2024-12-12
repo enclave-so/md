@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x6A7Ef4998eB9d0f706238756949F311a59E05745",
+	"symbol": "Keysians Network",
+	"name": "Keysians Network",
+	"coingecko": "keysians-network",
+	"sources": [
+		"coingecko"
+	]
+}

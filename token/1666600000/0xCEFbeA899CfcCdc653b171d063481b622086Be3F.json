@@ -1,0 +1,10 @@
+{
+	"chain": 1666600000,
+	"address": "0xCEFbeA899CfcCdc653b171d063481b622086Be3F",
+	"symbol": "Rupiah Token",
+	"name": "Rupiah Token",
+	"coingecko": "rupiah-token",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x60215DB40B04Fe029C42c56fF2E02221c1F288ef",
+	"symbol": "Just a chill guy (ETH)",
+	"name": "Just a chill guy (ETH)",
+	"coingecko": "just-a-chill-guy",
+	"sources": [
+		"coingecko"
+	]
+}

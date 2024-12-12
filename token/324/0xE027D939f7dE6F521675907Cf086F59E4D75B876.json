@@ -1,0 +1,10 @@
+{
+	"chain": 324,
+	"address": "0xE027D939f7dE6F521675907Cf086F59E4D75B876",
+	"symbol": "Solarcoin",
+	"name": "Solarcoin",
+	"coingecko": "solarcoin",
+	"sources": [
+		"coingecko"
+	]
+}

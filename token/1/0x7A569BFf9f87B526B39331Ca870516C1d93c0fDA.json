@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x7A569BFf9f87B526B39331Ca870516C1d93c0fDA",
+	"symbol": "Project Mullet",
+	"name": "Project Mullet",
+	"coingecko": "project-mullet",
+	"sources": [
+		"coingecko"
+	]
+}

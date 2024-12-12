@@ -1,0 +1,13 @@
+{
+	"chain": 2046399126,
+	"address": "0x57A3d5FAa172F5984cdcd4885fd4F0baAC88e558",
+	"symbol": "HMKR",
+	"name": "Europa HITMAKR",
+	"decimals": 9,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/skale-europa/0x57A3d5FAa172F5984cdcd4885fd4F0baAC88e558.jpg",
+	"coingecko": "hitmakr",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

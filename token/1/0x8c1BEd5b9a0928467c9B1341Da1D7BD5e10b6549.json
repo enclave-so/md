@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x8c1BEd5b9a0928467c9B1341Da1D7BD5e10b6549",
+	"symbol": "Liquid Staked ETH",
+	"name": "Liquid Staked ETH",
+	"coingecko": "liquid-staked-ethereum",
+	"sources": [
+		"coingecko"
+	]
+}

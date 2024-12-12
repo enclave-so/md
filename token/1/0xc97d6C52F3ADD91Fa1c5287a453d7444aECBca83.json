@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xc97d6C52F3ADD91Fa1c5287a453d7444aECBca83",
+	"symbol": "Degen Zoo",
+	"name": "Degen Zoo",
+	"coingecko": "degen-zoo",
+	"sources": [
+		"coingecko"
+	]
+}

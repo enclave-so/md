@@ -1,0 +1,10 @@
+{
+	"chain": 25,
+	"address": "0x2Ba01269EaFCe04c8DCCC4A9887884AB66E4Bcb1",
+	"symbol": "CronosVerse",
+	"name": "CronosVerse",
+	"coingecko": "cronosverse",
+	"sources": [
+		"coingecko"
+	]
+}

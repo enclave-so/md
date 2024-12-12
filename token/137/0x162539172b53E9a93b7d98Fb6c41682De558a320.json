@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x162539172b53E9a93b7d98Fb6c41682De558a320",
+	"symbol": "Gone",
+	"name": "Gone",
+	"coingecko": "gone",
+	"sources": [
+		"coingecko"
+	]
+}

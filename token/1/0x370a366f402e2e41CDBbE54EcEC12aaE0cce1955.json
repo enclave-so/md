@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x370a366f402e2e41CDBbE54EcEC12aaE0cce1955",
+	"symbol": "Toad Killer",
+	"name": "Toad Killer",
+	"coingecko": "toad-killer",
+	"sources": [
+		"coingecko"
+	]
+}

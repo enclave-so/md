@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x078c4aDf3fEE52Eb77f6018D9805DFC69E911d39",
+	"symbol": "Eternity GLORY Token",
+	"name": "Eternity GLORY Token",
+	"coingecko": "eternity-glory-token",
+	"sources": [
+		"coingecko"
+	]
+}

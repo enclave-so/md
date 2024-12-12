@@ -1,0 +1,13 @@
+{
+	"chain": 25,
+	"address": "0xae620DC4B9b6e44FBeb4a949F63AC957Cc43b5dD",
+	"symbol": "AUTOS",
+	"name": "AutoSingle",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xae620DC4B9b6e44FBeb4a949F63AC957Cc43b5dD.jpg",
+	"coingecko": "autosingle",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

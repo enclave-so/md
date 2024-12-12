@@ -1,0 +1,10 @@
+{
+	"chain": 10,
+	"address": "0x887d1c6A4f3548279c2a8A9D0FA61B5D458d14fC",
+	"symbol": "Ionic Protocol",
+	"name": "Ionic Protocol",
+	"coingecko": "ionic-protocol",
+	"sources": [
+		"coingecko"
+	]
+}

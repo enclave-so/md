@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x069d89974f4edaBde69450f9cF5CF7D8Cbd2568D",
+	"symbol": "BVM",
+	"name": "BVM",
+	"coingecko": "bvm",
+	"sources": [
+		"coingecko"
+	]
+}

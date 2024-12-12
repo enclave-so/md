@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xcE899f26928a2B21c6a2Fddd393EF37c61dbA918",
+	"symbol": "Museum of Crypto Art",
+	"name": "Museum of Crypto Art",
+	"coingecko": "museum-of-crypto-art",
+	"sources": [
+		"coingecko"
+	]
+}

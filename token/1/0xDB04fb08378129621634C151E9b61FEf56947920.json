@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xDB04fb08378129621634C151E9b61FEf56947920",
+	"symbol": "LegendX",
+	"name": "LegendX",
+	"coingecko": "legendx",
+	"sources": [
+		"coingecko"
+	]
+}

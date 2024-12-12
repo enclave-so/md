@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0xb4bebD34f6DaaFd808f73De0d10235a92Fbb6c3D",
+	"symbol": "YETI",
+	"name": "Yearn Ecosystem Token Index",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xb4bebD34f6DaaFd808f73De0d10235a92Fbb6c3D/logo.png",
+	"sources": [
+		"sushiswap"
+	]
+}

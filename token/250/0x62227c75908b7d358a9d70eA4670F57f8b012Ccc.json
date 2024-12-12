@@ -1,0 +1,10 @@
+{
+	"chain": 250,
+	"address": "0x62227c75908b7d358a9d70eA4670F57f8b012Ccc",
+	"symbol": "Millennium Club Staked FTM",
+	"name": "Millennium Club Staked FTM",
+	"coingecko": "millennium-club-staked-ftm",
+	"sources": [
+		"coingecko"
+	]
+}

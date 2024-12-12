@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xBb6cF73a00f480d0951bA979a7606857cDDe626B",
+	"symbol": "Arix",
+	"name": "Arix",
+	"coingecko": "arix",
+	"sources": [
+		"coingecko"
+	]
+}

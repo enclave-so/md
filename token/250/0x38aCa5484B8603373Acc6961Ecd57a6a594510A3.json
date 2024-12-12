@@ -1,0 +1,10 @@
+{
+	"chain": 250,
+	"address": "0x38aCa5484B8603373Acc6961Ecd57a6a594510A3",
+	"symbol": "Geist WBTC",
+	"name": "Geist WBTC",
+	"coingecko": "geist-wbtc",
+	"sources": [
+		"coingecko"
+	]
+}

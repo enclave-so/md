@@ -1,0 +1,11 @@
+{
+	"chain": 122,
+	"address": "0x7F59aE3a787C0d1D640F99883d0e48c22188C54f",
+	"symbol": "OM",
+	"name": "MANTRA DAO",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/om.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

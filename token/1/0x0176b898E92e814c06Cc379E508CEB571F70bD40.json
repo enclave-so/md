@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x0176b898E92e814c06Cc379E508CEB571F70bD40",
+	"symbol": "Tipcoin",
+	"name": "Tipcoin",
+	"coingecko": "tipcoin",
+	"sources": [
+		"coingecko"
+	]
+}

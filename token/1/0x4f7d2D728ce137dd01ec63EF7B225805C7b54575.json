@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x4f7d2D728ce137dd01ec63EF7B225805C7b54575",
+	"symbol": "Emotional Support Alligator",
+	"name": "Emotional Support Alligator",
+	"coingecko": "emotional-support-alligator",
+	"sources": [
+		"coingecko"
+	]
+}

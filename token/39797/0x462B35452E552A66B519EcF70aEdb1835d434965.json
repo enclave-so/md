@@ -1,0 +1,10 @@
+{
+	"chain": 39797,
+	"address": "0x462B35452E552A66B519EcF70aEdb1835d434965",
+	"symbol": "Quant",
+	"name": "Quant",
+	"coingecko": "quant-network",
+	"sources": [
+		"coingecko"
+	]
+}

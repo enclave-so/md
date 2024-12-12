@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xf280B16EF293D8e534e370794ef26bF312694126",
+	"symbol": "Asteroid Shiba",
+	"name": "Asteroid Shiba",
+	"coingecko": "asteroid-shiba",
+	"sources": [
+		"coingecko"
+	]
+}

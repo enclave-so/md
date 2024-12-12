@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0xa117000000f279D81A1D3cc75430fAA017FA5A2e",
+	"symbol": "ANT",
+	"name": "Aragon",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/ant.jpg",
+	"coingecko": "aragon",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

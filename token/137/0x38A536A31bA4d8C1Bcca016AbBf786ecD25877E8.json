@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x38A536A31bA4d8C1Bcca016AbBf786ecD25877E8",
+	"symbol": "AssetMantle",
+	"name": "AssetMantle",
+	"coingecko": "assetmantle",
+	"sources": [
+		"coingecko"
+	]
+}

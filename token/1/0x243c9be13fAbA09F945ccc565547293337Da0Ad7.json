@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x243c9be13fAbA09F945ccc565547293337Da0Ad7",
+	"symbol": "Truflation",
+	"name": "Truflation",
+	"coingecko": "truflation",
+	"sources": [
+		"coingecko"
+	]
+}

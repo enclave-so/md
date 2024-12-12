@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xd4fcde9bb1d746Dd7e5463b01Dd819EE06aF25db",
+	"symbol": "Renzo Restaked EIGEN",
+	"name": "Renzo Restaked EIGEN",
+	"coingecko": "renzo-restaked-eigen",
+	"sources": [
+		"coingecko"
+	]
+}

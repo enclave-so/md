@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xC1543024DC71247888a7e139c644F44E75E96d38",
+	"symbol": "Battle World",
+	"name": "Battle World",
+	"coingecko": "battle-world",
+	"sources": [
+		"coingecko"
+	]
+}

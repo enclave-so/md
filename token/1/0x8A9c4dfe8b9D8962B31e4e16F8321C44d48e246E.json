@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0x8A9c4dfe8b9D8962B31e4e16F8321C44d48e246E",
+	"symbol": "NCT",
+	"name": "NameChangeToken",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x8A9c4dfe8b9D8962B31e4e16F8321C44d48e246E/logo.png",
+	"sources": [
+		"sushiswap"
+	]
+}

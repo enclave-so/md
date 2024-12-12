@@ -1,0 +1,13 @@
+{
+	"chain": 10,
+	"address": "0xcB59a0A753fDB7491d5F3D794316F1adE197B21E",
+	"symbol": "TUSD",
+	"name": "TrueUSD",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/TUSD/logo.png",
+	"coingecko": "bridged-trueusd",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0xB858e614779f148992949A3b15E6127dDA204ca4",
+	"symbol": "SRM",
+	"name": "Serum",
+	"decimals": 6,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xB858e614779f148992949A3b15E6127dDA204ca4.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x84DaD4E4A4d1510052D39e916330372db8cD1238",
+	"symbol": "DEEZ NUTS",
+	"name": "DEEZ NUTS",
+	"coingecko": "deez-nuts-2",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xfe5F141Bf94fE84bC28deD0AB966c16B17490657",
+	"symbol": "Libra Credit",
+	"name": "Libra Credit",
+	"coingecko": "libra-credit",
+	"sources": [
+		"coingecko"
+	]
+}

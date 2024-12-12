@@ -1,0 +1,11 @@
+{
+	"chain": 1666600000,
+	"address": "0x0aB43550A6915F9f67d0c454C2E90385E6497EaA",
+	"symbol": "bscBUSD",
+	"name": "BUSD Token",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/busd.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

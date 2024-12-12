@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x2fb652314C3d850E9049057bBE9813F1eEe882d3",
+	"symbol": "RocketX Exchange",
+	"name": "RocketX Exchange",
+	"coingecko": "rocketx",
+	"sources": [
+		"coingecko"
+	]
+}

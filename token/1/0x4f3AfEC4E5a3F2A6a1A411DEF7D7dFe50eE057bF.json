@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x4f3AfEC4E5a3F2A6a1A411DEF7D7dFe50eE057bF",
+	"symbol": "Digix Gold",
+	"name": "Digix Gold",
+	"coingecko": "digix-gold",
+	"sources": [
+		"coingecko"
+	]
+}

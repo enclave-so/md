@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xE729B15dE141944abCEA3Cceb8E4407ce0dAFA08",
+	"symbol": "Mojo Meme",
+	"name": "Mojo Meme",
+	"coingecko": "mojo-meme",
+	"sources": [
+		"coingecko"
+	]
+}

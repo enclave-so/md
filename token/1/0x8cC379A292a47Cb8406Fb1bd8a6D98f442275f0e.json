@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x8cC379A292a47Cb8406Fb1bd8a6D98f442275f0e",
+	"symbol": "Uranium3o8",
+	"name": "Uranium3o8",
+	"coingecko": "uranium3o8",
+	"sources": [
+		"coingecko"
+	]
+}

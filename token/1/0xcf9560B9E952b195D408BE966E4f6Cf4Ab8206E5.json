@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xcf9560B9E952b195D408BE966E4f6Cf4Ab8206E5",
+	"symbol": "Doctor Evil",
+	"name": "Doctor Evil",
+	"coingecko": "doctor-evil",
+	"sources": [
+		"coingecko"
+	]
+}

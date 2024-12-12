@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x80f0C1c49891dcFDD40b6e0F960F84E6042bcB6F",
+	"symbol": "DBXen",
+	"name": "DBXen",
+	"coingecko": "dbxen",
+	"sources": [
+		"coingecko"
+	]
+}

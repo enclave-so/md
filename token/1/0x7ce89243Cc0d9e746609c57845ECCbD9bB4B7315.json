@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x7ce89243Cc0d9e746609c57845ECCbD9bB4B7315",
+	"symbol": "Lily's Coin",
+	"name": "Lily's Coin",
+	"coingecko": "lily-s-coin",
+	"sources": [
+		"coingecko"
+	]
+}

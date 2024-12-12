@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xDc0327D50E6C73db2F8117760592C8BBf1CDCF38",
+	"symbol": "Stronger",
+	"name": "Stronger",
+	"coingecko": "stronger",
+	"sources": [
+		"coingecko"
+	]
+}

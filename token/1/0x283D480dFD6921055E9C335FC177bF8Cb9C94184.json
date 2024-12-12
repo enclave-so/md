@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x283D480dFD6921055E9C335FC177bF8Cb9C94184",
+	"symbol": "VIX777",
+	"name": "VIX777",
+	"coingecko": "vix777",
+	"sources": [
+		"coingecko"
+	]
+}

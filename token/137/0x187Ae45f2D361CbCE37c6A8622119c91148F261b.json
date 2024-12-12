@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x187Ae45f2D361CbCE37c6A8622119c91148F261b",
+	"symbol": "Polylastic",
+	"name": "Polylastic",
+	"coingecko": "polylastic",
+	"sources": [
+		"coingecko"
+	]
+}

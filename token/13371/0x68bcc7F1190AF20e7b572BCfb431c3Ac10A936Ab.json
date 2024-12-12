@@ -1,0 +1,10 @@
+{
+	"chain": 13371,
+	"address": "0x68bcc7F1190AF20e7b572BCfb431c3Ac10A936Ab",
+	"symbol": "Immutable Toolkit Bridged USDT (Immutable zkEVM)",
+	"name": "Immutable Toolkit Bridged USDT (Immutable zkEVM)",
+	"coingecko": "bridged-usdt-immutable-zkevm",
+	"sources": [
+		"coingecko"
+	]
+}

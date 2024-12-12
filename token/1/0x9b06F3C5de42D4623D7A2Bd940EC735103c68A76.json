@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x9b06F3C5de42D4623D7A2Bd940EC735103c68A76",
+	"symbol": "Volta Club",
+	"name": "Volta Club",
+	"coingecko": "volta-club",
+	"sources": [
+		"coingecko"
+	]
+}

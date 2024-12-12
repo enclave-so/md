@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xC28e931814725BbEB9e670676FaBBCb694Fe7DF2",
+	"symbol": "Quadrant Protocol",
+	"name": "Quadrant Protocol",
+	"coingecko": "quadrant-protocol",
+	"sources": [
+		"coingecko"
+	]
+}

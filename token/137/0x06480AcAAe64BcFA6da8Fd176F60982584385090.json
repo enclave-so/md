@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x06480AcAAe64BcFA6da8Fd176F60982584385090",
+	"symbol": "IVY Trading System",
+	"name": "IVY Trading System",
+	"coingecko": "ivy-trading-system",
+	"sources": [
+		"coingecko"
+	]
+}

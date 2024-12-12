@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xe26cda27c13f4f87cFFc2F437C5900b27eBb5bbB",
+	"symbol": "Rebel Bots",
+	"name": "Rebel Bots",
+	"coingecko": "rebel-bots",
+	"sources": [
+		"coingecko"
+	]
+}

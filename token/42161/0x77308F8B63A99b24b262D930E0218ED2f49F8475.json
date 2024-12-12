@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x77308F8B63A99b24b262D930E0218ED2f49F8475",
+	"symbol": "Dinari MSFT",
+	"name": "Dinari MSFT",
+	"coingecko": "dinari-msft-dshares",
+	"sources": [
+		"coingecko"
+	]
+}

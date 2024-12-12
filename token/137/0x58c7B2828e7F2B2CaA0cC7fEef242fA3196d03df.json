@@ -1,0 +1,13 @@
+{
+	"chain": 137,
+	"address": "0x58c7B2828e7F2B2CaA0cC7fEef242fA3196d03df",
+	"symbol": "fxA3A",
+	"name": "3A Utility Token (FXERC20)",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x58c7B2828e7F2B2CaA0cC7fEef242fA3196d03df.jpg",
+	"coingecko": "3a-lending-protocol",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

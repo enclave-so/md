@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x164F12C8d7D16b905cc4f11E819a9Fc5b183EF71",
+	"symbol": "Dmarketplace",
+	"name": "Dmarketplace",
+	"coingecko": "dmarketplace",
+	"sources": [
+		"coingecko"
+	]
+}

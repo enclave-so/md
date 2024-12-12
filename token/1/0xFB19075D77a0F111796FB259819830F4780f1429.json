@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xFB19075D77a0F111796FB259819830F4780f1429",
+	"symbol": "Fenerbahçe",
+	"name": "Fenerbahçe",
+	"coingecko": "fenerbahce-token",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"chain": 1116,
+	"address": "0xda31D0d1Bc934fC34F7189E38A413ca0A5e8b44F",
+	"symbol": "BSSB",
+	"name": "BSSB",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/core/0xda31D0d1Bc934fC34F7189E38A413ca0A5e8b44F.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

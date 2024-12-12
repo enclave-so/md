@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x95CcffaE3Eb8767D4a941Ec43280961dde89F4dE",
+	"symbol": "TaoBank",
+	"name": "TaoBank",
+	"coingecko": "taobank",
+	"sources": [
+		"coingecko"
+	]
+}

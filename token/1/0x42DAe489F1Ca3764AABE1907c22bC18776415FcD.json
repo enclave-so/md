@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x42DAe489F1Ca3764AABE1907c22bC18776415FcD",
+	"symbol": "VibingCatToken",
+	"name": "VibingCatToken",
+	"coingecko": "vibingcattoken",
+	"sources": [
+		"coingecko"
+	]
+}

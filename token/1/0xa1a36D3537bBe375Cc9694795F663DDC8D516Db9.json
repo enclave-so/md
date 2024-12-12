@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xa1a36D3537bBe375Cc9694795F663DDC8D516Db9",
+	"symbol": "Polinate",
+	"name": "Polinate",
+	"coingecko": "polinate",
+	"sources": [
+		"coingecko"
+	]
+}

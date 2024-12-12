@@ -1,0 +1,10 @@
+{
+	"chain": 321,
+	"address": "0x2cA48b4eeA5A731c2B54e7C3944DBDB87c0CFB6F",
+	"symbol": "MojitoSwap",
+	"name": "MojitoSwap",
+	"coingecko": "mojitoswap",
+	"sources": [
+		"coingecko"
+	]
+}

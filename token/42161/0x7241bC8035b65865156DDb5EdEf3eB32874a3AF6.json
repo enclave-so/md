@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x7241bC8035b65865156DDb5EdEf3eB32874a3AF6",
+	"symbol": "Jones GLP",
+	"name": "Jones GLP",
+	"coingecko": "jones-glp",
+	"sources": [
+		"coingecko"
+	]
+}

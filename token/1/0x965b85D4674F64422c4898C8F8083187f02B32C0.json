@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x965b85D4674F64422c4898C8F8083187f02B32C0",
+	"symbol": "Filecoin Standard Full Hashrate",
+	"name": "Filecoin Standard Full Hashrate",
+	"coingecko": "filecoin-standard-full-hashrate",
+	"sources": [
+		"coingecko"
+	]
+}

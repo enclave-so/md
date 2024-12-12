@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0xBfEB8B6813491bb4fB823b8f451b62eF535420D1",
+	"symbol": "Zunami USD",
+	"name": "Zunami USD",
+	"coingecko": "zunami-usd",
+	"sources": [
+		"coingecko"
+	]
+}

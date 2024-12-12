@@ -1,0 +1,10 @@
+{
+	"chain": 369,
+	"address": "0xB971a3429c04d96F8a75EDaC7bc79e7C4672b4E6",
+	"symbol": "XenBitcoin",
+	"name": "XenBitcoin",
+	"coingecko": "xenbitcoin",
+	"sources": [
+		"coingecko"
+	]
+}

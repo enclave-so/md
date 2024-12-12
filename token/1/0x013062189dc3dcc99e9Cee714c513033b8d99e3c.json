@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x013062189dc3dcc99e9Cee714c513033b8d99e3c",
+	"symbol": "Bware",
+	"name": "Bware",
+	"coingecko": "bware-infra",
+	"sources": [
+		"coingecko"
+	]
+}

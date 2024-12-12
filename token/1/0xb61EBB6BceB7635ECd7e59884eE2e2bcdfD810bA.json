@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xb61EBB6BceB7635ECd7e59884eE2e2bcdfD810bA",
+	"symbol": "XSHIB",
+	"name": "XSHIB",
+	"coingecko": "xshib",
+	"sources": [
+		"coingecko"
+	]
+}

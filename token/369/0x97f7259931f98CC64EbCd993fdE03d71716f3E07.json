@@ -1,0 +1,10 @@
+{
+	"chain": 369,
+	"address": "0x97f7259931f98CC64EbCd993fdE03d71716f3E07",
+	"symbol": "Nuts",
+	"name": "Nuts",
+	"coingecko": "nuts",
+	"sources": [
+		"coingecko"
+	]
+}

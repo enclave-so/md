@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x29e9B047d506F75085533b7B7F53e8DE6B43B86F",
+	"symbol": "Hokkaido Ken",
+	"name": "Hokkaido Ken",
+	"coingecko": "hokkaido-ken",
+	"sources": [
+		"coingecko"
+	]
+}

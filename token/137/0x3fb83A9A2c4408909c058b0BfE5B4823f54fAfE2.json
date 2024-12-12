@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x3fb83A9A2c4408909c058b0BfE5B4823f54fAfE2",
+	"symbol": "bitsCrunch Token",
+	"name": "bitsCrunch Token",
+	"coingecko": "bitscrunch-token",
+	"sources": [
+		"coingecko"
+	]
+}

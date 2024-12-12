@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xEE1CeA7665bA7aa97e982EdeaeCb26B59a04d035",
+	"symbol": "ORAO Network",
+	"name": "ORAO Network",
+	"coingecko": "orao-network",
+	"sources": [
+		"coingecko"
+	]
+}

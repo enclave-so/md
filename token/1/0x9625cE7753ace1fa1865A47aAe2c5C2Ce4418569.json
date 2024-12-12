@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x9625cE7753ace1fa1865A47aAe2c5C2Ce4418569",
+	"symbol": "KAP Games",
+	"name": "KAP Games",
+	"coingecko": "kapital-dao",
+	"sources": [
+		"coingecko"
+	]
+}

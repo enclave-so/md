@@ -1,0 +1,10 @@
+{
+	"chain": 10,
+	"address": "0x48a9f8b4b65a55CC46eA557a610acf227454Ab09",
+	"symbol": "OP Chads",
+	"name": "OP Chads",
+	"coingecko": "op-chads",
+	"sources": [
+		"coingecko"
+	]
+}

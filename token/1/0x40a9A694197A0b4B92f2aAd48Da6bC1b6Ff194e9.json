@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x40a9A694197A0b4B92f2aAd48Da6bC1b6Ff194e9",
+	"symbol": "LFG",
+	"name": "LFG",
+	"coingecko": "lfg",
+	"sources": [
+		"coingecko"
+	]
+}

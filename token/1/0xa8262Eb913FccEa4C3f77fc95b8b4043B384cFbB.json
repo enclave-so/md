@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xa8262Eb913FccEa4C3f77fc95b8b4043B384cFbB",
+	"symbol": "Krypton Galaxy Coin",
+	"name": "Krypton Galaxy Coin",
+	"coingecko": "krypton-token",
+	"sources": [
+		"coingecko"
+	]
+}

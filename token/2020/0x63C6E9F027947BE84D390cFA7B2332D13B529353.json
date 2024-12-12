@@ -1,0 +1,10 @@
+{
+	"chain": 2020,
+	"address": "0x63C6E9F027947BE84D390cFA7B2332D13B529353",
+	"symbol": "Philippine Peso Coin",
+	"name": "Philippine Peso Coin",
+	"coingecko": "philippine-peso-coin",
+	"sources": [
+		"coingecko"
+	]
+}

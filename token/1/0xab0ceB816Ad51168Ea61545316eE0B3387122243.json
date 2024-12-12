@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xab0ceB816Ad51168Ea61545316eE0B3387122243",
+	"symbol": "Speculate DAO",
+	"name": "Speculate DAO",
+	"coingecko": "speculate-dao",
+	"sources": [
+		"coingecko"
+	]
+}

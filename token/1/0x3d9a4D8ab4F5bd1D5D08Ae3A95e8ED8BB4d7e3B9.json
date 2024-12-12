@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x3d9a4D8ab4F5bd1D5D08Ae3A95e8ED8BB4d7e3B9",
+	"symbol": "STONKSDAO",
+	"name": "STONKSDAO",
+	"coingecko": "stonksdao",
+	"sources": [
+		"coingecko"
+	]
+}

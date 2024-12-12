@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x337AF08bb6980Ecb68389C5ed8876D08643aBF8a",
+	"symbol": "NOVAWCHI",
+	"name": "NOVAWCHI",
+	"coingecko": "novawchi",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xD2c869382C7AC9f87Ff73548d029d67C0F9Dee31",
+	"symbol": "Wagie Bot",
+	"name": "Wagie Bot",
+	"coingecko": "wagie-bot",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xC6221AC4E99066ea5443ACd67D6108F874E2533D",
+	"symbol": "Decentralized Cloud Infra",
+	"name": "Decentralized Cloud Infra",
+	"coingecko": "decentralized-cloud-infra",
+	"sources": [
+		"coingecko"
+	]
+}

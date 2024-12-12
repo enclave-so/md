@@ -1,0 +1,10 @@
+{
+	"chain": 250,
+	"address": "0x1e2Ea3f3209D66647f959CF00627107e079B870d",
+	"symbol": "Fantom Money Market",
+	"name": "Fantom Money Market",
+	"coingecko": "fantom-money-market",
+	"sources": [
+		"coingecko"
+	]
+}

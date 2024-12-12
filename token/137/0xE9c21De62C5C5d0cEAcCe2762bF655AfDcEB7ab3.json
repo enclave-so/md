@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xE9c21De62C5C5d0cEAcCe2762bF655AfDcEB7ab3",
+	"symbol": "Arkreen Token",
+	"name": "Arkreen Token",
+	"coingecko": "arkreen-token",
+	"sources": [
+		"coingecko"
+	]
+}

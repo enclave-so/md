@@ -1,0 +1,10 @@
+{
+	"chain": 39797,
+	"address": "0x79786Ed8a70ccEC6C7A31debC7FeFc5119f9dc95",
+	"symbol": "Ampleforth",
+	"name": "Ampleforth",
+	"coingecko": "ampleforth",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x97de57eC338AB5d51557DA3434828C5DbFaDA371",
+	"symbol": "eUSD (OLD)",
+	"name": "eUSD (OLD)",
+	"coingecko": "eusd-27a558b0-8b5b-4225-a614-63539da936f4",
+	"sources": [
+		"coingecko"
+	]
+}

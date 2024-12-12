@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x4D08EF733CF27b4CD37810cF9b72A82d2A135549",
+	"symbol": "DEAR Token",
+	"name": "DEAR Token",
+	"coingecko": "dear-token",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xA1F3aca66403D29b909605040C30ae1F1245d14c",
+	"symbol": "Adapt3r Digital Treasury Bill Fund",
+	"name": "Adapt3r Digital Treasury Bill Fund",
+	"coingecko": "adapt3r-digital-treasury-bill-fund",
+	"sources": [
+		"coingecko"
+	]
+}

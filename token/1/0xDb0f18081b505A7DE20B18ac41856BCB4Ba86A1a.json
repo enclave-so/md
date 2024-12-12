@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0xDb0f18081b505A7DE20B18ac41856BCB4Ba86A1a",
+	"symbol": "pWING",
+	"name": "Poly Ontology Wing Token",
+	"decimals": 9,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/pwing.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

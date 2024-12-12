@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xb624960AAaD05d433075a5C9E760aDEc26036934",
+	"symbol": "Monke Coin",
+	"name": "Monke Coin",
+	"coingecko": "monke-coin-eth",
+	"sources": [
+		"coingecko"
+	]
+}

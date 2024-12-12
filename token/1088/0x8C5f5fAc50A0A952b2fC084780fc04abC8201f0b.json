@@ -1,0 +1,11 @@
+{
+	"chain": 1088,
+	"address": "0x8C5f5fAc50A0A952b2fC084780fc04abC8201f0b",
+	"symbol": "WMONKEX",
+	"name": "Wrapped Monkex",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/metis/0x8C5f5fAc50A0A952b2fC084780fc04abC8201f0b.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

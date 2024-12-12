@@ -1,0 +1,10 @@
+{
+	"chain": 25,
+	"address": "0x8F857Af6Ea31447Bb502fE0E3F4e4340CDFCfc6C",
+	"symbol": "IcyCRO",
+	"name": "IcyCRO",
+	"coingecko": "icycro",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x7777Cec341E7434126864195adEf9B05DCC3489C",
+	"symbol": "Onigiri",
+	"name": "Onigiri",
+	"coingecko": "onigiri-2",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xa34Ee6108Fe427f91edce0D6520d9fEc0E64F67b",
+	"symbol": "Pepe Le Pew Coin",
+	"name": "Pepe Le Pew Coin",
+	"coingecko": "pepe-le-pew-coin",
+	"sources": [
+		"coingecko"
+	]
+}

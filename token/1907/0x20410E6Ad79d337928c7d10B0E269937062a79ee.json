@@ -1,0 +1,10 @@
+{
+	"chain": 1907,
+	"address": "0x20410E6Ad79d337928c7d10B0E269937062a79ee",
+	"symbol": "Baskonia Fan Token",
+	"name": "Baskonia Fan Token",
+	"coingecko": "baskonia-fan-token",
+	"sources": [
+		"coingecko"
+	]
+}

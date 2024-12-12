@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x3001f57F8308b189EB412a64322Aad5eF9951290",
+	"symbol": "Geometric Energy Corporation",
+	"name": "Geometric Energy Corporation",
+	"coingecko": "geometric-energy-corporation",
+	"sources": [
+		"coingecko"
+	]
+}

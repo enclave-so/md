@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xb6d78683a4E54B91031ACB41510BD8E144FED025",
+	"symbol": "CoinForge",
+	"name": "CoinForge",
+	"coingecko": "coinforge",
+	"sources": [
+		"coingecko"
+	]
+}

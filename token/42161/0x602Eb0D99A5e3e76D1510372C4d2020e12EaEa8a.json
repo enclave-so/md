@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x602Eb0D99A5e3e76D1510372C4d2020e12EaEa8a",
+	"symbol": "TridentDAO",
+	"name": "TridentDAO",
+	"coingecko": "tridentdao",
+	"sources": [
+		"coingecko"
+	]
+}

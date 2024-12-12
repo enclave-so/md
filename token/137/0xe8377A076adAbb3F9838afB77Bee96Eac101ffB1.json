@@ -1,0 +1,13 @@
+{
+	"chain": 137,
+	"address": "0xe8377A076adAbb3F9838afB77Bee96Eac101ffB1",
+	"symbol": "MSU",
+	"name": "MetaSoccer Universe",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xe8377A076adAbb3F9838afB77Bee96Eac101ffB1/logo.png",
+	"coingecko": "metasoccer",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"chain": 314,
+	"address": "0x60E1773636CF5E4A227d9AC24F20fEca034ee25A",
+	"symbol": "WFIL",
+	"name": "Wrapped Filecoin",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/filecoin/0x60E1773636CF5E4A227d9AC24F20fEca034ee25A.jpg",
+	"coingecko": "wrapped-fil",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

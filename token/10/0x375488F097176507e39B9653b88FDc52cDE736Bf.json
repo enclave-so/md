@@ -1,0 +1,10 @@
+{
+	"chain": 10,
+	"address": "0x375488F097176507e39B9653b88FDc52cDE736Bf",
+	"symbol": "Tarot V1",
+	"name": "Tarot V1",
+	"coingecko": "tarot",
+	"sources": [
+		"coingecko"
+	]
+}

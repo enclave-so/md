@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x4D01397994aA636bDCC65c9e8024bC497498c3bb",
+	"symbol": "Mchain Network",
+	"name": "Mchain Network",
+	"coingecko": "mchain-network",
+	"sources": [
+		"coingecko"
+	]
+}

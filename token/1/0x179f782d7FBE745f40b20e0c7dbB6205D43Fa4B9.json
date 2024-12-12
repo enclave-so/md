@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x179f782d7FBE745f40b20e0c7dbB6205D43Fa4B9",
+	"symbol": "Inspire AI",
+	"name": "Inspire AI",
+	"coingecko": "inspire-ai",
+	"sources": [
+		"coingecko"
+	]
+}

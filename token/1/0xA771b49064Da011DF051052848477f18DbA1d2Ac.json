@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xA771b49064Da011DF051052848477f18DbA1d2Ac",
+	"symbol": "Handshake",
+	"name": "Handshake",
+	"coingecko": "handshake",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1996,
+	"address": "0xe78A3857593083dD6e1F7859e1B711401FC6f2cc",
+	"symbol": "Smoke The Ticker",
+	"name": "Smoke The Ticker",
+	"coingecko": "smoke-the-ticker",
+	"sources": [
+		"coingecko"
+	]
+}

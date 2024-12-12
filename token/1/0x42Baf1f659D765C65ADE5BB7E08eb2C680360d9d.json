@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x42Baf1f659D765C65ADE5BB7E08eb2C680360d9d",
+	"symbol": "Cornucopias",
+	"name": "Cornucopias",
+	"coingecko": "cornucopias",
+	"sources": [
+		"coingecko"
+	]
+}

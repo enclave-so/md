@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xE0c05ec44775e4AD62CDC2eEcdF337aA7A143363",
+	"symbol": "Mancium",
+	"name": "Mancium",
+	"coingecko": "mancium",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0x3Ff6184f97104323B5FD0d186F8B8bE91A91cE27",
+	"symbol": "WOO",
+	"name": "WOO Network",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x3Ff6184f97104323B5FD0d186F8B8bE91A91cE27.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

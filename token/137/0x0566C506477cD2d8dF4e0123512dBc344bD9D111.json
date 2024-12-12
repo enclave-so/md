@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x0566C506477cD2d8dF4e0123512dBc344bD9D111",
+	"symbol": "My Lovely Coin",
+	"name": "My Lovely Coin",
+	"coingecko": "my-lovely-coin",
+	"sources": [
+		"coingecko"
+	]
+}

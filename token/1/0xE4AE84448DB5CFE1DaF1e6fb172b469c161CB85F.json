@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0xE4AE84448DB5CFE1DaF1e6fb172b469c161CB85F",
+	"symbol": "UOP",
+	"name": "Utopia Genesis Foundation",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xE4AE84448DB5CFE1DaF1e6fb172b469c161CB85F/logo.png",
+	"sources": [
+		"sushiswap"
+	]
+}

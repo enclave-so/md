@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x01194726B1B55bBf99cb083ba8E5dCC0834aDBC3",
+	"symbol": "ArcadeFi",
+	"name": "ArcadeFi",
+	"coingecko": "arcadefi",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x352F4bF396a7353A0877f99e99757E5d294Df374",
+	"symbol": "Sundae the Dog",
+	"name": "Sundae the Dog",
+	"coingecko": "sundae-the-dog",
+	"sources": [
+		"coingecko"
+	]
+}

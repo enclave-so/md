@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0x62437579887178BEa81A182DB627427BB8E71766",
+	"symbol": "GOLD",
+	"name": "GOLD",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x62437579887178BEa81A182DB627427BB8E71766.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

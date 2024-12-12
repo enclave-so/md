@@ -1,0 +1,10 @@
+{
+	"chain": 199,
+	"address": "0x18fA72e0EE4C580a129b0CE5bD0694d716C7443E",
+	"symbol": "Bridged Kyber Network Crystal (BSC)",
+	"name": "Bridged Kyber Network Crystal (BSC)",
+	"coingecko": "bridged-kyber-network-crystal-bsc",
+	"sources": [
+		"coingecko"
+	]
+}

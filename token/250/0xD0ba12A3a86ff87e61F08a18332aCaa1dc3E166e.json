@@ -1,0 +1,10 @@
+{
+	"chain": 250,
+	"address": "0xD0ba12A3a86ff87e61F08a18332aCaa1dc3E166e",
+	"symbol": "SonicSoda",
+	"name": "SonicSoda",
+	"coingecko": "sonicsoda",
+	"sources": [
+		"coingecko"
+	]
+}

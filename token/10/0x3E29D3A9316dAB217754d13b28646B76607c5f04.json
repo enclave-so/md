@@ -1,0 +1,10 @@
+{
+	"chain": 10,
+	"address": "0x3E29D3A9316dAB217754d13b28646B76607c5f04",
+	"symbol": "Alchemix ETH",
+	"name": "Alchemix ETH",
+	"coingecko": "alchemix-eth",
+	"sources": [
+		"coingecko"
+	]
+}

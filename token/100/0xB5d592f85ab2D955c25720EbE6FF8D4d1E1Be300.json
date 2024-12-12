@@ -1,0 +1,10 @@
+{
+	"chain": 100,
+	"address": "0xB5d592f85ab2D955c25720EbE6FF8D4d1E1Be300",
+	"symbol": "Particle",
+	"name": "Particle",
+	"coingecko": "particle-2",
+	"sources": [
+		"coingecko"
+	]
+}

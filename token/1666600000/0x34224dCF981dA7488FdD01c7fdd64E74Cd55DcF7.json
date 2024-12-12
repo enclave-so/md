@@ -1,0 +1,10 @@
+{
+	"chain": 1666600000,
+	"address": "0x34224dCF981dA7488FdD01c7fdd64E74Cd55DcF7",
+	"symbol": "Binance Bitcoin",
+	"name": "Binance Bitcoin",
+	"coingecko": "binance-bitcoin",
+	"sources": [
+		"coingecko"
+	]
+}

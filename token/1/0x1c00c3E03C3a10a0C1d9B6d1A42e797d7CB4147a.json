@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x1c00c3E03C3a10a0C1d9B6d1A42e797d7CB4147a",
+	"symbol": "Legend of Arcadia",
+	"name": "Legend of Arcadia",
+	"coingecko": "arca",
+	"sources": [
+		"coingecko"
+	]
+}

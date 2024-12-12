@@ -1,0 +1,10 @@
+{
+	"chain": 1030,
+	"address": "0xF1F6e3Aa98Bac6C13230051e452065DF299a78A7",
+	"symbol": "SHUI",
+	"name": "SHUI",
+	"coingecko": "shui",
+	"sources": [
+		"coingecko"
+	]
+}

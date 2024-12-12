@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x84F171f4c7b43966231847cc6e60416E6C3A7360",
+	"symbol": "EVA Intelligence",
+	"name": "EVA Intelligence",
+	"coingecko": "eva-intelligence",
+	"sources": [
+		"coingecko"
+	]
+}

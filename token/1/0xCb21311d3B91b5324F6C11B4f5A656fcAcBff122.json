@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xCb21311d3B91b5324F6C11B4f5A656fcAcBff122",
+	"symbol": "QuantixAI",
+	"name": "QuantixAI",
+	"coingecko": "quantixai",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x31ea904A7eca45122890dEb8dA3473A2081bc9d1",
+	"symbol": "Bonsai3",
+	"name": "Bonsai3",
+	"coingecko": "bonsai3",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x8e42FE26FC1697f57076C9f2A8d1FF69Cf7F6Fda",
+	"symbol": "Aguri-Chan",
+	"name": "Aguri-Chan",
+	"coingecko": "aguri-chan",
+	"sources": [
+		"coingecko"
+	]
+}

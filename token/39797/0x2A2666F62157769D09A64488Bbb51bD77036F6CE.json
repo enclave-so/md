@@ -1,0 +1,10 @@
+{
+	"chain": 39797,
+	"address": "0x2A2666F62157769D09A64488Bbb51bD77036F6CE",
+	"symbol": "Augur",
+	"name": "Augur",
+	"coingecko": "augur",
+	"sources": [
+		"coingecko"
+	]
+}

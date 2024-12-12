@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x8C7AC134ED985367EADC6F727d79E8295E11435c",
+	"symbol": "The Balkan Dwarf",
+	"name": "The Balkan Dwarf",
+	"coingecko": "the-balkan-dwarf",
+	"sources": [
+		"coingecko"
+	]
+}

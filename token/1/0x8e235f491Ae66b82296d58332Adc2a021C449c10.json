@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x8e235f491Ae66b82296d58332Adc2a021C449c10",
+	"symbol": "Tipja",
+	"name": "Tipja",
+	"coingecko": "tipja",
+	"sources": [
+		"coingecko"
+	]
+}

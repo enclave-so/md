@@ -1,0 +1,10 @@
+{
+	"chain": 122,
+	"address": "0xCE86a1cf3cFf48139598De6bf9B1dF2E0f79F86F",
+	"symbol": "Fuse Dollar V3",
+	"name": "Fuse Dollar V3",
+	"coingecko": "fuse-dollar",
+	"sources": [
+		"coingecko"
+	]
+}

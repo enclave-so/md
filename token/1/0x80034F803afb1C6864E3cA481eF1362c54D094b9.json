@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x80034F803afb1C6864E3cA481eF1362c54D094b9",
+	"symbol": "Non-Playable Inu",
+	"name": "Non-Playable Inu",
+	"coingecko": "non-playable-inu",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xE1C8d908f0e495Cf6D8459547d1d28B72bF04bf2",
+	"symbol": "TesseractAI",
+	"name": "TesseractAI",
+	"coingecko": "tesseractai",
+	"sources": [
+		"coingecko"
+	]
+}

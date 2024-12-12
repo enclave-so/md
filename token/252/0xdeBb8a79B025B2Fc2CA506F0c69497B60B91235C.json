@@ -1,0 +1,10 @@
+{
+	"chain": 252,
+	"address": "0xdeBb8a79B025B2Fc2CA506F0c69497B60B91235C",
+	"symbol": "Frax Doge",
+	"name": "Frax Doge",
+	"coingecko": "frax-doge",
+	"sources": [
+		"coingecko"
+	]
+}

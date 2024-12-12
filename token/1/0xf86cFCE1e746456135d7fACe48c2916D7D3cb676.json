@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xf86cFCE1e746456135d7fACe48c2916D7D3cb676",
+	"symbol": "Everflow Token",
+	"name": "Everflow Token",
+	"coingecko": "everflow-token",
+	"sources": [
+		"coingecko"
+	]
+}

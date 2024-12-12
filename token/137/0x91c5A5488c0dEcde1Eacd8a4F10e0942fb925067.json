@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x91c5A5488c0dEcde1Eacd8a4F10e0942fb925067",
+	"symbol": "Auditchain",
+	"name": "Auditchain",
+	"coingecko": "auditchain",
+	"sources": [
+		"coingecko"
+	]
+}

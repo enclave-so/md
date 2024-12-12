@@ -1,0 +1,10 @@
+{
+	"chain": 250,
+	"address": "0x3bc34d8Ace32D768a3F76e17AAEF2B1D8f261e1D",
+	"symbol": "Cekke Cronje",
+	"name": "Cekke Cronje",
+	"coingecko": "cekke-cronje",
+	"sources": [
+		"coingecko"
+	]
+}

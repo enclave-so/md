@@ -1,0 +1,10 @@
+{
+	"chain": 369,
+	"address": "0x57fde0a71132198BBeC939B98976993d8D89D225",
+	"symbol": "Pulsechain Bridged HEX (Pulsechain)",
+	"name": "Pulsechain Bridged HEX (Pulsechain)",
+	"coingecko": "pulsechain-bridged-hex-pulsechain",
+	"sources": [
+		"coingecko"
+	]
+}

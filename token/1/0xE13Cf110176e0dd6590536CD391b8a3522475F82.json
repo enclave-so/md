@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xE13Cf110176e0dd6590536CD391b8a3522475F82",
+	"symbol": "RentAI",
+	"name": "RentAI",
+	"coingecko": "rentai",
+	"sources": [
+		"coingecko"
+	]
+}

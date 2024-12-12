@@ -1,0 +1,10 @@
+{
+	"chain": 10,
+	"address": "0xEd9B52E6D2DF4ad9FC258254e1E5ef5Ad0B3cA3C",
+	"symbol": "Aktionariat Fieldoo AG Tokenized Shares",
+	"name": "Aktionariat Fieldoo AG Tokenized Shares",
+	"coingecko": "aktionariat-fieldoo-ag-tokenized-shares",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xF36f79feb5d97e18C69078d8D13d941CaE447A04",
+	"symbol": "b0rder1ess",
+	"name": "b0rder1ess",
+	"coingecko": "b0rder1ess",
+	"sources": [
+		"coingecko"
+	]
+}

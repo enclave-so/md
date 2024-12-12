@@ -1,0 +1,11 @@
+{
+	"chain": 128,
+	"address": "0x2AAFe3c9118DB36A20dd4A942b6ff3e78981dce1",
+	"symbol": "GOF",
+	"name": "Heco-Peg GOF Token",
+	"decimals": 18,
+	"logo": "https://hecoinfo.com/images/main/empty-token.png",
+	"sources": [
+		"sushiswap"
+	]
+}

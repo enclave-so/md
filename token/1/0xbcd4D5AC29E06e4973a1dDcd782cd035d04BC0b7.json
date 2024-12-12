@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xbcd4D5AC29E06e4973a1dDcd782cd035d04BC0b7",
+	"symbol": "Quick Intel",
+	"name": "Quick Intel",
+	"coingecko": "quick-intel",
+	"sources": [
+		"coingecko"
+	]
+}

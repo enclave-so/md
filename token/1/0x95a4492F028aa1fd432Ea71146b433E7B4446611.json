@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x95a4492F028aa1fd432Ea71146b433E7B4446611",
+	"symbol": "APY.Finance",
+	"name": "APY.Finance",
+	"coingecko": "apy-finance",
+	"sources": [
+		"coingecko"
+	]
+}

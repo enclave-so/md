@@ -1,0 +1,13 @@
+{
+	"chain": 100,
+	"address": "0x4f4F9b8D5B4d0Dc10506e5551B0513B61fD59e75",
+	"symbol": "GIV",
+	"name": "Giveth from Mainnet",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/xdai/0x4f4F9b8D5B4d0Dc10506e5551B0513B61fD59e75.jpg",
+	"coingecko": "giveth",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

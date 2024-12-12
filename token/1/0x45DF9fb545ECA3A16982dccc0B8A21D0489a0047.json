@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x45DF9fb545ECA3A16982dccc0B8A21D0489a0047",
+	"symbol": "Voy Finance",
+	"name": "Voy Finance",
+	"coingecko": "voy-finance",
+	"sources": [
+		"coingecko"
+	]
+}

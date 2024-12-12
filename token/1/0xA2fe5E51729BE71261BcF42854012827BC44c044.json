@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xA2fe5E51729BE71261BcF42854012827BC44c044",
+	"symbol": "BURN",
+	"name": "BURN",
+	"coingecko": "shiba-doge-burn",
+	"sources": [
+		"coingecko"
+	]
+}

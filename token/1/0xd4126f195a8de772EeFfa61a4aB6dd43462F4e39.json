@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xd4126f195a8de772EeFfa61a4aB6dd43462F4e39",
+	"symbol": "Hikari Protocol",
+	"name": "Hikari Protocol",
+	"coingecko": "hikari-protocol",
+	"sources": [
+		"coingecko"
+	]
+}

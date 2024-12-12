@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x83869DE76B9Ad8125e22b857f519F001588c0f62",
+	"symbol": "EXMO Coin",
+	"name": "EXMO Coin",
+	"coingecko": "exmo-coin",
+	"sources": [
+		"coingecko"
+	]
+}

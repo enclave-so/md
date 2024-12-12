@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x61b34A012646cD7357f58eE9c0160c6d0021fA41",
+	"symbol": "Elosys",
+	"name": "Elosys",
+	"coingecko": "elosys",
+	"sources": [
+		"coingecko"
+	]
+}

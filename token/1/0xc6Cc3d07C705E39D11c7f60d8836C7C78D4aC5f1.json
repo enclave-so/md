@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xc6Cc3d07C705E39D11c7f60d8836C7C78D4aC5f1",
+	"symbol": "Olea Token",
+	"name": "Olea Token",
+	"coingecko": "athena-returns-olea",
+	"sources": [
+		"coingecko"
+	]
+}

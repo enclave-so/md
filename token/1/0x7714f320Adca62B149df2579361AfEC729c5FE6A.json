@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x7714f320Adca62B149df2579361AfEC729c5FE6A",
+	"symbol": "Tenup",
+	"name": "Tenup",
+	"coingecko": "tenup",
+	"sources": [
+		"coingecko"
+	]
+}

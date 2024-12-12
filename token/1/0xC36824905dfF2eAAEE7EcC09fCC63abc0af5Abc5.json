@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0xC36824905dfF2eAAEE7EcC09fCC63abc0af5Abc5",
+	"symbol": "BAB",
+	"name": "Basis Bond",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xC36824905dfF2eAAEE7EcC09fCC63abc0af5Abc5/logo.png",
+	"sources": [
+		"sushiswap"
+	]
+}

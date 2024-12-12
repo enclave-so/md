@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x864cb5194722d5a1596F4BE8B899916d30daD8d8",
+	"symbol": "LEDOG (DOG)",
+	"name": "LEDOG (DOG)",
+	"coingecko": "ledog-dog",
+	"sources": [
+		"coingecko"
+	]
+}

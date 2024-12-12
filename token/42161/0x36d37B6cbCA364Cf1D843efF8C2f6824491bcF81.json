@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x36d37B6cbCA364Cf1D843efF8C2f6824491bcF81",
+	"symbol": "Dinari TSLA",
+	"name": "Dinari TSLA",
+	"coingecko": "dinari-tsla-dshares",
+	"sources": [
+		"coingecko"
+	]
+}

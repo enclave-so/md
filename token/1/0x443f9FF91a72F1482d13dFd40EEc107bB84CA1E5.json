@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x443f9FF91a72F1482d13dFd40EEc107bB84CA1E5",
+	"symbol": "FarmBot",
+	"name": "FarmBot",
+	"coingecko": "farmbot",
+	"sources": [
+		"coingecko"
+	]
+}

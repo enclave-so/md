@@ -1,0 +1,10 @@
+{
+	"chain": 122,
+	"address": "0x2931B47c2cEE4fEBAd348ba3d322cb4A17662C34",
+	"symbol": "Bridged Wrapped stETH (Fuse)",
+	"name": "Bridged Wrapped stETH (Fuse)",
+	"coingecko": "bridged-wrapped-steth-fuse",
+	"sources": [
+		"coingecko"
+	]
+}

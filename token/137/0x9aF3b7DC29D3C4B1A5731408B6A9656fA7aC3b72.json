@@ -1,0 +1,13 @@
+{
+	"chain": 137,
+	"address": "0x9aF3b7DC29D3C4B1A5731408B6A9656fA7aC3b72",
+	"symbol": "PUSD",
+	"name": "PUSD",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x9aF3b7DC29D3C4B1A5731408B6A9656fA7aC3b72/logo.png",
+	"coingecko": "pusd",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

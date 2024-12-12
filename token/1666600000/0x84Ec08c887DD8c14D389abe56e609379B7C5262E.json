@@ -1,0 +1,10 @@
+{
+	"chain": 1666600000,
+	"address": "0x84Ec08c887DD8c14D389abe56e609379B7C5262E",
+	"symbol": "Chain Games",
+	"name": "Chain Games",
+	"coingecko": "chain-games",
+	"sources": [
+		"coingecko"
+	]
+}

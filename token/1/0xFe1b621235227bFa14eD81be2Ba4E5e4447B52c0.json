@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xFe1b621235227bFa14eD81be2Ba4E5e4447B52c0",
+	"symbol": "ORDINAL TOOLS",
+	"name": "ORDINAL TOOLS",
+	"coingecko": "ordinal-tools",
+	"sources": [
+		"coingecko"
+	]
+}

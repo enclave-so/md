@@ -1,0 +1,10 @@
+{
+	"chain": 2222,
+	"address": "0xE5274E38E91b615D8822e8512a29A16FF1B9C4Af",
+	"symbol": "Pinjam.Kava",
+	"name": "Pinjam.Kava",
+	"coingecko": "pinjam-kava",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"chain": 1666600000,
+	"address": "0x7d0546dBb1Dca8108d99Aa389A8e9Ce0C40B2370",
+	"symbol": "LMA",
+	"name": "LMA-Art-Gallery",
+	"decimals": 18,
+	"logo": "https://swoop-exchange.s3-us-west-1.amazonaws.com/tokens/LMA.png",
+	"sources": [
+		"sushiswap"
+	]
+}

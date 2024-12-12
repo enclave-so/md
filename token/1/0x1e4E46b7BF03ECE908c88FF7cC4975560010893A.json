@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x1e4E46b7BF03ECE908c88FF7cC4975560010893A",
+	"symbol": "Internet of Energy Network",
+	"name": "Internet of Energy Network",
+	"coingecko": "internet-of-energy-network",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xf434908dCf8206691bb99cae9232d4833ec257D4",
+	"symbol": "Blackjack.fun",
+	"name": "Blackjack.fun",
+	"coingecko": "blackjack-fun",
+	"sources": [
+		"coingecko"
+	]
+}

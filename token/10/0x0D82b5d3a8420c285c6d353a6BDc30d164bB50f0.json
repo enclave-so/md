@@ -1,0 +1,10 @@
+{
+	"chain": 10,
+	"address": "0x0D82b5d3a8420c285c6d353a6BDc30d164bB50f0",
+	"symbol": "Aktionariat Sportsparadise Switzerland AG Tokenized Shares",
+	"name": "Aktionariat Sportsparadise Switzerland AG Tokenized Shares",
+	"coingecko": "aktionariat-sportsparadise-switzerland-ag-tokenized-shares",
+	"sources": [
+		"coingecko"
+	]
+}

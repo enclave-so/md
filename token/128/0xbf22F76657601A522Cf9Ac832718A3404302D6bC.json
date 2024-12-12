@@ -1,0 +1,11 @@
+{
+	"chain": 128,
+	"address": "0xbf22F76657601A522Cf9Ac832718A3404302D6bC",
+	"symbol": "LRC",
+	"name": "Heco-Peg LRC Token",
+	"decimals": 18,
+	"logo": "https://hecoinfo.com/images/main/empty-token.png",
+	"sources": [
+		"sushiswap"
+	]
+}

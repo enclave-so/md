@@ -1,0 +1,10 @@
+{
+	"chain": 4200,
+	"address": "0x7717D5BD6b20b817D6B0fF7078460fD620D3FdA9",
+	"symbol": "MerlinUniverse Egg",
+	"name": "MerlinUniverse Egg",
+	"coingecko": "merlinuniverse-egg",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xd166b7D9824cc5359360B47389AbA9341cE12619",
+	"symbol": "PhenX",
+	"name": "PhenX",
+	"coingecko": "phenx",
+	"sources": [
+		"coingecko"
+	]
+}

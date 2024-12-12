@@ -1,0 +1,11 @@
+{
+	"chain": 10,
+	"address": "0xc5Db22719A06418028A40A9B5E9A7c02959D0d08",
+	"symbol": "sLINK",
+	"name": "Synthetic Chainlink",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/sLINK/logo.svg",
+	"sources": [
+		"sushiswap"
+	]
+}

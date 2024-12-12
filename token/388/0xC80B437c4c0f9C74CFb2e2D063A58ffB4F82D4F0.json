@@ -1,0 +1,10 @@
+{
+	"chain": 388,
+	"address": "0xC80B437c4c0f9C74CFb2e2D063A58ffB4F82D4F0",
+	"symbol": "Moonflow",
+	"name": "Moonflow",
+	"coingecko": "moonflow",
+	"sources": [
+		"coingecko"
+	]
+}

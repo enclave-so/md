@@ -1,0 +1,10 @@
+{
+	"chain": 1116,
+	"address": "0xe04d21d999FaEDf1e72AdE6629e20A11a1ed14FA",
+	"symbol": "Free Bridged SolvBTC.m (Core)",
+	"name": "Free Bridged SolvBTC.m (Core)",
+	"coingecko": "free-bridged-solvbtc-m-core",
+	"sources": [
+		"coingecko"
+	]
+}

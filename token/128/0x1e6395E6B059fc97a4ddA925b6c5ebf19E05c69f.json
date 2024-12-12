@@ -1,0 +1,11 @@
+{
+	"chain": 128,
+	"address": "0x1e6395E6B059fc97a4ddA925b6c5ebf19E05c69f",
+	"symbol": "CAN",
+	"name": "Channels",
+	"decimals": 18,
+	"logo": "https://hecoinfo.com/images/main/empty-token.png",
+	"sources": [
+		"sushiswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xa2CA40DBe72028D3Ac78B5250a8CB8c404e7Fb8C",
+	"symbol": "FEAR",
+	"name": "FEAR",
+	"coingecko": "fear",
+	"sources": [
+		"coingecko"
+	]
+}

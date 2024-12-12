@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xa23C1194d421F252b4e6D5edcc3205F7650a4eBE",
+	"symbol": "LaunchBlock",
+	"name": "LaunchBlock",
+	"coingecko": "launchblock",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x649a2DA7B28E0D54c13D5eFf95d3A660652742cC",
+	"symbol": "IDRX",
+	"name": "IDRX",
+	"coingecko": "idrx",
+	"sources": [
+		"coingecko"
+	]
+}

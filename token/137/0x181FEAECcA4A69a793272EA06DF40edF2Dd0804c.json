@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x181FEAECcA4A69a793272EA06DF40edF2Dd0804c",
+	"symbol": "Ares3 Network",
+	"name": "Ares3 Network",
+	"coingecko": "ares3-network",
+	"sources": [
+		"coingecko"
+	]
+}

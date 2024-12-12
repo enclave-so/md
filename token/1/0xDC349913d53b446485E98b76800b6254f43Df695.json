@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xDC349913d53b446485E98b76800b6254f43Df695",
+	"symbol": "Bezoge Earth",
+	"name": "Bezoge Earth",
+	"coingecko": "bezoge-earth",
+	"sources": [
+		"coingecko"
+	]
+}

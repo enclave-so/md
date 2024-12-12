@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xe7c8537F92b4fEEFdc19bd6b4023dFe79400cb30",
+	"symbol": "Bones",
+	"name": "Bones",
+	"coingecko": "bones",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x72953a5C32413614d24C29c84a66AE4B59581Bbf",
+	"symbol": "CLever",
+	"name": "CLever",
+	"coingecko": "clever-token",
+	"sources": [
+		"coingecko"
+	]
+}

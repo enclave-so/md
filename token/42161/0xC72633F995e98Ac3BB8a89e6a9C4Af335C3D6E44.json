@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0xC72633F995e98Ac3BB8a89e6a9C4Af335C3D6E44",
+	"symbol": "Omnisea",
+	"name": "Omnisea",
+	"coingecko": "omnisea",
+	"sources": [
+		"coingecko"
+	]
+}

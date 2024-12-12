@@ -1,0 +1,10 @@
+{
+	"chain": 25,
+	"address": "0xe0c41FF9a7032de445771E12C14868CbE061C993",
+	"symbol": "DexPad",
+	"name": "DexPad",
+	"coingecko": "dexpad",
+	"sources": [
+		"coingecko"
+	]
+}

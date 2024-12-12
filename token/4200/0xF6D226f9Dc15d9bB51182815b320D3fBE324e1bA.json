@@ -1,0 +1,10 @@
+{
+	"chain": 4200,
+	"address": "0xF6D226f9Dc15d9bB51182815b320D3fBE324e1bA",
+	"symbol": "Merlin Chain Bridged Wrapped BTC (Merlin)",
+	"name": "Merlin Chain Bridged Wrapped BTC (Merlin)",
+	"coingecko": "merlin-chain-bridged-wrapped-btc-merlin",
+	"sources": [
+		"coingecko"
+	]
+}

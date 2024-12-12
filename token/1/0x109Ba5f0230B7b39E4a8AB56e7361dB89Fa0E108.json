@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x109Ba5f0230B7b39E4a8AB56e7361dB89Fa0E108",
+	"symbol": "TURBO.WIN",
+	"name": "TURBO.WIN",
+	"coingecko": "turbo-win",
+	"sources": [
+		"coingecko"
+	]
+}

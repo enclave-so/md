@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xD09124e8a1e3D620E8807aD1d968021A5495CEe8",
+	"symbol": "Eigenpie cbETH",
+	"name": "Eigenpie cbETH",
+	"coingecko": "eigenpie-cbeth",
+	"sources": [
+		"coingecko"
+	]
+}

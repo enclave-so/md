@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xc961Da88bB5E8Ee2BA7dfd4c62a875eF80f7202F",
+	"symbol": "Haram",
+	"name": "Haram",
+	"coingecko": "haram",
+	"sources": [
+		"coingecko"
+	]
+}

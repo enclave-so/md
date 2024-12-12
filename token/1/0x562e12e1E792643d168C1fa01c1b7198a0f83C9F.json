@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x562e12e1E792643d168C1fa01c1b7198a0f83C9F",
+	"symbol": "BookieBot",
+	"name": "BookieBot",
+	"coingecko": "bookiebot",
+	"sources": [
+		"coingecko"
+	]
+}

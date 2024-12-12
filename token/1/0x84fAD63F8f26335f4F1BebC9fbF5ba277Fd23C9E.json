@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x84fAD63F8f26335f4F1BebC9fbF5ba277Fd23C9E",
+	"symbol": "Arma Block",
+	"name": "Arma Block",
+	"coingecko": "arma-block",
+	"sources": [
+		"coingecko"
+	]
+}

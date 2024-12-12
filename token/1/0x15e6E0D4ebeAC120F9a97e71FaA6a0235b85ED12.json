@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x15e6E0D4ebeAC120F9a97e71FaA6a0235b85ED12",
+	"symbol": "SatoshiVM",
+	"name": "SatoshiVM",
+	"coingecko": "satoshivm",
+	"sources": [
+		"coingecko"
+	]
+}

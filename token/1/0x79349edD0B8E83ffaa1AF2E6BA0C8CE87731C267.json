@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x79349edD0B8E83ffaa1AF2E6BA0C8CE87731C267",
+	"symbol": "WcDonalds",
+	"name": "WcDonalds",
+	"coingecko": "wcdonalds",
+	"sources": [
+		"coingecko"
+	]
+}

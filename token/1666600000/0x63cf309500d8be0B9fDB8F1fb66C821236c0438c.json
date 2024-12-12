@@ -1,0 +1,13 @@
+{
+	"chain": 1666600000,
+	"address": "0x63cf309500d8be0B9fDB8F1fb66C821236c0438c",
+	"symbol": "YGG",
+	"name": "Yield Guild Games Token",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/harmony/assets/0x63cf309500d8be0B9fDB8F1fb66C821236c0438c/logo.png",
+	"coingecko": "yield-guild-games",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

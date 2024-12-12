@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xB7037457de15fed6cbEcc0C62d5D610834b958Ec",
+	"symbol": "Whirl",
+	"name": "Whirl",
+	"coingecko": "whirl-privacy",
+	"sources": [
+		"coingecko"
+	]
+}

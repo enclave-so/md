@@ -1,0 +1,10 @@
+{
+	"chain": 39797,
+	"address": "0x02C6c53930B20BCEd86Ddf64007BEBcd923e1093",
+	"symbol": "QuarkChain",
+	"name": "QuarkChain",
+	"coingecko": "quark-chain",
+	"sources": [
+		"coingecko"
+	]
+}

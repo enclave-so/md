@@ -1,0 +1,10 @@
+{
+	"chain": 148,
+	"address": "0x4794Aeafa5Efe2fC1F6f5eb745798aaF39A81D3e",
+	"symbol": "ShimmerSea Lum",
+	"name": "ShimmerSea Lum",
+	"coingecko": "shimmersea-lum",
+	"sources": [
+		"coingecko"
+	]
+}

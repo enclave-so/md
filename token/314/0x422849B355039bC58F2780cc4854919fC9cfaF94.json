@@ -1,0 +1,11 @@
+{
+	"chain": 314,
+	"address": "0x422849B355039bC58F2780cc4854919fC9cfaF94",
+	"symbol": "ceUSDT",
+	"name": "Celer Wrapped USDT",
+	"decimals": 6,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/filecoin/0x422849B355039bC58F2780cc4854919fC9cfaF94.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

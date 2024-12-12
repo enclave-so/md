@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x8349314651eDe274f8c5FeF01Aa65fF8da75E57c",
+	"symbol": "Go Game Token",
+	"name": "Go Game Token",
+	"coingecko": "go-game-token",
+	"sources": [
+		"coingecko"
+	]
+}

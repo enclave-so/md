@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xd3210F246Ae54C5a45A7b4A83315bf718F591bfc",
+	"symbol": "ArkiTech",
+	"name": "ArkiTech",
+	"coingecko": "arkitech",
+	"sources": [
+		"coingecko"
+	]
+}

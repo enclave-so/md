@@ -1,0 +1,10 @@
+{
+	"chain": 1666600000,
+	"address": "0xE88699AD32d5A610987a3BA8519C06289549cCa7",
+	"symbol": "UniLayer",
+	"name": "UniLayer",
+	"coingecko": "unilayer",
+	"sources": [
+		"coingecko"
+	]
+}

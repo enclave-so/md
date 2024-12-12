@@ -1,0 +1,10 @@
+{
+	"chain": 10,
+	"address": "0xD0CF4dE352aC8dccE00bD6B93EE73D3Cb272edC3",
+	"symbol": "PCM",
+	"name": "PCM",
+	"coingecko": "pcm",
+	"sources": [
+		"coingecko"
+	]
+}

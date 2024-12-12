@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xD60DebA014459F07BBcC077a5B817f31DaFD5229",
+	"symbol": "Croatian FF Fan Token",
+	"name": "Croatian FF Fan Token",
+	"coingecko": "croatian-ff-fan-token",
+	"sources": [
+		"coingecko"
+	]
+}

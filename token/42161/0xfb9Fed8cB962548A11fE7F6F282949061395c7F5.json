@@ -1,0 +1,13 @@
+{
+	"chain": 42161,
+	"address": "0xfb9Fed8cB962548A11fE7F6F282949061395c7F5",
+	"symbol": "NUON",
+	"name": "NUON",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xfb9Fed8cB962548A11fE7F6F282949061395c7F5.jpg",
+	"coingecko": "nuon",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

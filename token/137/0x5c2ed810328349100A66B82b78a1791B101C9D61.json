@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x5c2ed810328349100A66B82b78a1791B101C9D61",
+	"symbol": "Aave Polygon WBTC",
+	"name": "Aave Polygon WBTC",
+	"coingecko": "aave-polygon-wbtc",
+	"sources": [
+		"coingecko"
+	]
+}

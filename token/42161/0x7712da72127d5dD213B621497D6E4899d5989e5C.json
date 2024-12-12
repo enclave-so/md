@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x7712da72127d5dD213B621497D6E4899d5989e5C",
+	"symbol": "Ryze",
+	"name": "Ryze",
+	"coingecko": "ryze",
+	"sources": [
+		"coingecko"
+	]
+}

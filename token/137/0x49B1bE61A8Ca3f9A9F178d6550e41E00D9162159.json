@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x49B1bE61A8Ca3f9A9F178d6550e41E00D9162159",
+	"symbol": "GG",
+	"name": "GG",
+	"coingecko": "gg-token",
+	"sources": [
+		"coingecko"
+	]
+}

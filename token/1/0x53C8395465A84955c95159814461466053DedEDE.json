@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x53C8395465A84955c95159814461466053DedEDE",
+	"symbol": "DeGate",
+	"name": "DeGate",
+	"coingecko": "degate",
+	"sources": [
+		"coingecko"
+	]
+}

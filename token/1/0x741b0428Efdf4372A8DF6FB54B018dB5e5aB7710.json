@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x741b0428Efdf4372A8DF6FB54B018dB5e5aB7710",
+	"symbol": "ARTX",
+	"name": "ARTX",
+	"coingecko": "artx",
+	"sources": [
+		"coingecko"
+	]
+}

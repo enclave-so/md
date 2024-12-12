@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x1f16D41f9B3dB03b462BDD6c92245ee708D1C103",
+	"symbol": "Rangers Protocol Gas",
+	"name": "Rangers Protocol Gas",
+	"coingecko": "rangers-protocol-gas",
+	"sources": [
+		"coingecko"
+	]
+}

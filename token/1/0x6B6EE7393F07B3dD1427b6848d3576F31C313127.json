@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x6B6EE7393F07B3dD1427b6848d3576F31C313127",
+	"symbol": "LollyBomb",
+	"name": "LollyBomb",
+	"coingecko": "lollybomb",
+	"sources": [
+		"coingecko"
+	]
+}

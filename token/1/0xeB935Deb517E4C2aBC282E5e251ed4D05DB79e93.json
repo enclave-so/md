@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xeB935Deb517E4C2aBC282E5e251ed4D05DB79e93",
+	"symbol": "Fort Block Games",
+	"name": "Fort Block Games",
+	"coingecko": "fort-block-games",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x4022754bf8857395383c63326391f289d1BB14B9",
+	"symbol": "DRIVE3",
+	"name": "DRIVE3",
+	"coingecko": "drive3",
+	"sources": [
+		"coingecko"
+	]
+}

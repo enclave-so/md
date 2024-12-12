@@ -1,0 +1,10 @@
+{
+	"chain": 1285,
+	"address": "0x5c22ba65F65ADfFADFc0947382f2E7C286A0Fe45",
+	"symbol": "Moonscape",
+	"name": "Moonscape",
+	"coingecko": "moonscape",
+	"sources": [
+		"coingecko"
+	]
+}

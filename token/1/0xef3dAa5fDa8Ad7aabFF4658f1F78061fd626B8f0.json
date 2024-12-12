@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xef3dAa5fDa8Ad7aabFF4658f1F78061fd626B8f0",
+	"symbol": "MUZZLE",
+	"name": "MUZZLE",
+	"coingecko": "muzzle",
+	"sources": [
+		"coingecko"
+	]
+}

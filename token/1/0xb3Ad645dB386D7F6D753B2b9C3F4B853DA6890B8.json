@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xb3Ad645dB386D7F6D753B2b9C3F4B853DA6890B8",
+	"symbol": "Concentrator",
+	"name": "Concentrator",
+	"coingecko": "concentrator",
+	"sources": [
+		"coingecko"
+	]
+}

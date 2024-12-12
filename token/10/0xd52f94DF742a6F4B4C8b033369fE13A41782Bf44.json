@@ -1,0 +1,10 @@
+{
+	"chain": 10,
+	"address": "0xd52f94DF742a6F4B4C8b033369fE13A41782Bf44",
+	"symbol": "Layer2DAO",
+	"name": "Layer2DAO",
+	"coingecko": "layer2dao",
+	"sources": [
+		"coingecko"
+	]
+}

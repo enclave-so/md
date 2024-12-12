@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x889CF9B647039C4D06754896BfcAb0E21d28FB75",
+	"symbol": "Gambit Capital",
+	"name": "Gambit Capital",
+	"coingecko": "gambit-capital",
+	"sources": [
+		"coingecko"
+	]
+}

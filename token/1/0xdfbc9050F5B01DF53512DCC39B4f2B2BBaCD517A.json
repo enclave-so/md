@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xdfbc9050F5B01DF53512DCC39B4f2B2BBaCD517A",
+	"symbol": "Jobchain",
+	"name": "Jobchain",
+	"coingecko": "jobchain",
+	"sources": [
+		"coingecko"
+	]
+}

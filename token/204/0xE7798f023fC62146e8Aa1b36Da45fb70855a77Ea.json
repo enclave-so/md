@@ -1,0 +1,10 @@
+{
+	"chain": 204,
+	"address": "0xE7798f023fC62146e8Aa1b36Da45fb70855a77Ea",
+	"symbol": "Bridged Binance-Peg Ethereum (opBNB)",
+	"name": "Bridged Binance-Peg Ethereum (opBNB)",
+	"coingecko": "bridged-binance-peg-ethereum-opbnb",
+	"sources": [
+		"coingecko"
+	]
+}

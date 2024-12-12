@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0xeEa3311250FE4c3268F8E684f7C87A82fF183Ec1",
+	"symbol": "ibETHv2",
+	"name": "Interest Bearing Ether v2",
+	"decimals": 8,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/ibethv2.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x27f103f86070Cc639FEf262787a16887D22D8415",
+	"symbol": "FOFO Token",
+	"name": "FOFO Token",
+	"coingecko": "fofo-token",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 199,
+	"address": "0x195Ca22A177e6ED905c469f4F64Cf67e819f49c2",
+	"symbol": "InfiniTORR",
+	"name": "InfiniTORR",
+	"coingecko": "infinitorr",
+	"sources": [
+		"coingecko"
+	]
+}

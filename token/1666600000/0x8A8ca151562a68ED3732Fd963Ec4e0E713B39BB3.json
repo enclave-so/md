@@ -1,0 +1,10 @@
+{
+	"chain": 1666600000,
+	"address": "0x8A8ca151562a68ED3732Fd963Ec4e0E713B39BB3",
+	"symbol": "LUKSO [OLD]",
+	"name": "LUKSO [OLD]",
+	"coingecko": "lukso-token",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x0534D7272a8E4F24D269b56605F2BF6cf3271891",
+	"symbol": "U Coin",
+	"name": "U Coin",
+	"coingecko": "u-coin",
+	"sources": [
+		"coingecko"
+	]
+}

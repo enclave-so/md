@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x45e82579792DDDF08cb3a037086604C262D78065",
+	"symbol": "illumineX",
+	"name": "illumineX",
+	"coingecko": "illuminex",
+	"sources": [
+		"coingecko"
+	]
+}

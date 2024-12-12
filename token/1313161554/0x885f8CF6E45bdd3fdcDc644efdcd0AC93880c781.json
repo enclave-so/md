@@ -1,0 +1,10 @@
+{
+	"chain": 1313161554,
+	"address": "0x885f8CF6E45bdd3fdcDc644efdcd0AC93880c781",
+	"symbol": "Pad.Fi",
+	"name": "Pad.Fi",
+	"coingecko": "nearpad",
+	"sources": [
+		"coingecko"
+	]
+}

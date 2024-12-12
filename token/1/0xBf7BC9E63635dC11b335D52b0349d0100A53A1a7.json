@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xBf7BC9E63635dC11b335D52b0349d0100A53A1a7",
+	"symbol": "LinkTao",
+	"name": "LinkTao",
+	"coingecko": "linktoa",
+	"sources": [
+		"coingecko"
+	]
+}

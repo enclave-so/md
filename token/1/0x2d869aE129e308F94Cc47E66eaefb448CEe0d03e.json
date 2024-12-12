@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x2d869aE129e308F94Cc47E66eaefb448CEe0d03e",
+	"symbol": "OraiDEX",
+	"name": "OraiDEX",
+	"coingecko": "oraidex",
+	"sources": [
+		"coingecko"
+	]
+}

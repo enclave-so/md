@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x0563DCe613D559a47877fFD1593549fb9d3510D6",
+	"symbol": "SuperBid",
+	"name": "SuperBid",
+	"coingecko": "superbid",
+	"sources": [
+		"coingecko"
+	]
+}

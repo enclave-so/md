@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0xC7937B44532bf4C0a1f0de3a46c79DdDb6dD169d",
+	"symbol": "DN",
+	"name": "Deez Nuts",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xC7937B44532bf4C0a1f0de3a46c79DdDb6dD169d.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

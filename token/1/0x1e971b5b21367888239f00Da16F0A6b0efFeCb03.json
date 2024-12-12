@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x1e971b5b21367888239f00Da16F0A6b0efFeCb03",
+	"symbol": "LEEROY JENKINS",
+	"name": "LEEROY JENKINS",
+	"coingecko": "leeroy-jenkins",
+	"sources": [
+		"coingecko"
+	]
+}

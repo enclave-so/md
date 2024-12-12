@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x270B7748CdF8243bFe68FaCE7230ef0fCE695389",
+	"symbol": "Hinkal Staked ETH",
+	"name": "Hinkal Staked ETH",
+	"coingecko": "hinkal-staked-eth",
+	"sources": [
+		"coingecko"
+	]
+}

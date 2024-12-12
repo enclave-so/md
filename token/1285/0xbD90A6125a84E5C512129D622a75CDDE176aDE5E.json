@@ -1,0 +1,10 @@
+{
+	"chain": 1285,
+	"address": "0xbD90A6125a84E5C512129D622a75CDDE176aDE5E",
+	"symbol": "RiverBoat",
+	"name": "RiverBoat",
+	"coingecko": "riverboat",
+	"sources": [
+		"coingecko"
+	]
+}

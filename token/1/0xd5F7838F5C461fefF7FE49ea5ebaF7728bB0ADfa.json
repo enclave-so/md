@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xd5F7838F5C461fefF7FE49ea5ebaF7728bB0ADfa",
+	"symbol": "Mantle Staked Ether",
+	"name": "Mantle Staked Ether",
+	"coingecko": "mantle-staked-ether",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x95640a134721475bc78594c8Ea66C0182C7B9A50",
+	"symbol": "Metroxynth",
+	"name": "Metroxynth",
+	"coingecko": "metroxynth",
+	"sources": [
+		"coingecko"
+	]
+}

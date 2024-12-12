@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x446F2A8A39Cc730ef378Be759A3c57f1a3fE824c",
+	"symbol": "NanoByte",
+	"name": "NanoByte",
+	"coingecko": "nanobyte",
+	"sources": [
+		"coingecko"
+	]
+}

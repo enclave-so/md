@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x6b1a8f210Ec6b7B6643cea3583Fb0c079f367898",
+	"symbol": "Baanx",
+	"name": "Baanx",
+	"coingecko": "baanx",
+	"sources": [
+		"coingecko"
+	]
+}

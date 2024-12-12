@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x94025780a1aB58868D9B2dBBB775f44b32e8E6e5",
+	"symbol": "BetSwirl",
+	"name": "BetSwirl",
+	"coingecko": "betswirl",
+	"sources": [
+		"coingecko"
+	]
+}

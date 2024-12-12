@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x56072C95FAA701256059aa122697B133aDEd9279",
+	"symbol": "Sky",
+	"name": "Sky",
+	"coingecko": "sky",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x0B4663216B812e4a2f0Fc2029ff1232958f4bf8c",
+	"symbol": "IUCN Coin",
+	"name": "IUCN Coin",
+	"coingecko": "iucn-coin",
+	"sources": [
+		"coingecko"
+	]
+}

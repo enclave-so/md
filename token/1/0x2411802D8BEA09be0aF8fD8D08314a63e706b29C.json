@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x2411802D8BEA09be0aF8fD8D08314a63e706b29C",
+	"symbol": "Fluid Wrapped Staked ETH",
+	"name": "Fluid Wrapped Staked ETH",
+	"coingecko": "fluid-wrapped-staked-eth",
+	"sources": [
+		"coingecko"
+	]
+}

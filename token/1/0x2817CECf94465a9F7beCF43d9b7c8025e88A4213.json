@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x2817CECf94465a9F7beCF43d9b7c8025e88A4213",
+	"symbol": "Weave6",
+	"name": "Weave6",
+	"coingecko": "weave6",
+	"sources": [
+		"coingecko"
+	]
+}

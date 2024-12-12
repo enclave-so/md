@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xBA25B552C8A098AFdf276324C32C71fE28e0Ad40",
+	"symbol": "MacaronSwap",
+	"name": "MacaronSwap",
+	"coingecko": "macaronswap",
+	"sources": [
+		"coingecko"
+	]
+}

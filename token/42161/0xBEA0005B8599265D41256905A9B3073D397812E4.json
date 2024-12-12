@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0xBEA0005B8599265D41256905A9B3073D397812E4",
+	"symbol": "Bean",
+	"name": "Bean",
+	"coingecko": "bean",
+	"sources": [
+		"coingecko"
+	]
+}

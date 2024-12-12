@@ -1,0 +1,13 @@
+{
+	"chain": 137,
+	"address": "0xe20B9e246db5a0d21BF9209E4858Bc9A3ff7A034",
+	"symbol": "wBAN",
+	"name": "Wrapped Banano",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xe20B9e246db5a0d21BF9209E4858Bc9A3ff7A034/logo.png",
+	"coingecko": "wrapped-banano",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

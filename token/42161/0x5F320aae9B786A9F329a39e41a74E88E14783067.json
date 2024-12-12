@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x5F320aae9B786A9F329a39e41a74E88E14783067",
+	"symbol": "PEPEX",
+	"name": "PEPEX",
+	"coingecko": "pepex",
+	"sources": [
+		"coingecko"
+	]
+}

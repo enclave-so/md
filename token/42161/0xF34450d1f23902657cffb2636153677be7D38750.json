@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0xF34450d1f23902657cffb2636153677be7D38750",
+	"symbol": "Equinox Ecosystem",
+	"name": "Equinox Ecosystem",
+	"coingecko": "equinox-ecosystem",
+	"sources": [
+		"coingecko"
+	]
+}

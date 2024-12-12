@@ -1,0 +1,11 @@
+{
+	"chain": 137,
+	"address": "0xcE829A89d4A55a63418bcC43F00145adef0eDB8E",
+	"symbol": "renDOGE",
+	"name": "Ren DOGE",
+	"decimals": 8,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xcE829A89d4A55a63418bcC43F00145adef0eDB8E/logo.png",
+	"sources": [
+		"sushiswap"
+	]
+}

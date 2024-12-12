@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xDc7AC5d5d4a9C3B5d8F3183058A92776Dc12f4f3",
+	"symbol": "Monkas",
+	"name": "Monkas",
+	"coingecko": "monkas",
+	"sources": [
+		"coingecko"
+	]
+}

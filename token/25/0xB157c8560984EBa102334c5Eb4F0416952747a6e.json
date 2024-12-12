@@ -1,0 +1,10 @@
+{
+	"chain": 25,
+	"address": "0xB157c8560984EBa102334c5Eb4F0416952747a6e",
+	"symbol": "Ballz of Steel",
+	"name": "Ballz of Steel",
+	"coingecko": "ballz-of-steel",
+	"sources": [
+		"coingecko"
+	]
+}

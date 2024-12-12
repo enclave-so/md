@@ -1,0 +1,11 @@
+{
+	"chain": 250,
+	"address": "0x078EEF5A2fb533e1a4d487ef64b27DF113d12C32",
+	"symbol": "fBAND",
+	"name": "fBAND",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/band.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1234,
+	"address": "0xB44a9B6905aF7c801311e8F4E76932ee959c663C",
+	"symbol": "Step Bridged WBTC (Step Network)",
+	"name": "Step Bridged WBTC (Step Network)",
+	"coingecko": "step-bridged-wbtc-step-network",
+	"sources": [
+		"coingecko"
+	]
+}

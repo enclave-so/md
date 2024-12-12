@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x53206BF5B6B8872c1Bb0b3c533E06FDE2F7e22E4",
+	"symbol": "Blepe",
+	"name": "Blepe",
+	"coingecko": "blepe",
+	"sources": [
+		"coingecko"
+	]
+}

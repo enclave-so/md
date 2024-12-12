@@ -1,0 +1,11 @@
+{
+	"chain": 137,
+	"address": "0xb8cb8a7F4C2885C03e57E973C74827909Fdc2032",
+	"symbol": "YFI",
+	"name": "yearn.finance",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/yfi.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

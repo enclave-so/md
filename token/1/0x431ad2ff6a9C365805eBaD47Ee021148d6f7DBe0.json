@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x431ad2ff6a9C365805eBaD47Ee021148d6f7DBe0",
+	"symbol": "dForce",
+	"name": "dForce",
+	"coingecko": "dforce-token",
+	"sources": [
+		"coingecko"
+	]
+}

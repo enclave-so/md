@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x1b900b2cDe13B384F89d6DD697dc03ac61C702BB",
+	"symbol": "What the Duck",
+	"name": "What the Duck",
+	"coingecko": "what-the-duck",
+	"sources": [
+		"coingecko"
+	]
+}

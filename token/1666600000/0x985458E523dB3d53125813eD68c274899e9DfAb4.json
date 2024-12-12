@@ -1,0 +1,13 @@
+{
+	"chain": 1666600000,
+	"address": "0x985458E523dB3d53125813eD68c274899e9DfAb4",
+	"symbol": "USDC",
+	"name": "USD Coin",
+	"decimals": 6,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdc.jpg",
+	"coingecko": "harmony-horizen-bridged-usdc-harmony",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

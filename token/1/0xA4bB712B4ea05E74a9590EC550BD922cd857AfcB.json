@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xA4bB712B4ea05E74a9590EC550BD922cd857AfcB",
+	"symbol": "ReFi Protocol",
+	"name": "ReFi Protocol",
+	"coingecko": "refi-protocol",
+	"sources": [
+		"coingecko"
+	]
+}

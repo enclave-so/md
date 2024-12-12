@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x2BA8349123de45E931a8C8264c332E6e9CF593F9",
+	"symbol": "Blockchain Monster Hunt",
+	"name": "Blockchain Monster Hunt",
+	"coingecko": "blockchain-monster-hunt",
+	"sources": [
+		"coingecko"
+	]
+}

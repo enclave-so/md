@@ -1,0 +1,10 @@
+{
+	"chain": 250,
+	"address": "0x4272dD51961A5181AcE0DC7EB6f9807311345559",
+	"symbol": "Pepedex",
+	"name": "Pepedex",
+	"coingecko": "pepedex",
+	"sources": [
+		"coingecko"
+	]
+}

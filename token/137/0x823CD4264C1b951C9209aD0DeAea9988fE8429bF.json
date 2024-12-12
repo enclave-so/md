@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x823CD4264C1b951C9209aD0DeAea9988fE8429bF",
+	"symbol": "Matic Aave Interest Bearing AAVE",
+	"name": "Matic Aave Interest Bearing AAVE",
+	"coingecko": "matic-aave-aave",
+	"sources": [
+		"coingecko"
+	]
+}

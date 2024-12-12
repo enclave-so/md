@@ -1,0 +1,10 @@
+{
+	"chain": 1030,
+	"address": "0x19AAe9E4269AB47FF291125b5C0c2f7296A635AB",
+	"symbol": "Goledo",
+	"name": "Goledo",
+	"coingecko": "goledo-2",
+	"sources": [
+		"coingecko"
+	]
+}

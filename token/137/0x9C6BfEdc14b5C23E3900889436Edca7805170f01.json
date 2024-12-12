@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x9C6BfEdc14b5C23E3900889436Edca7805170f01",
+	"symbol": "Phoenix Finance",
+	"name": "Phoenix Finance",
+	"coingecko": "phoenix-token",
+	"sources": [
+		"coingecko"
+	]
+}

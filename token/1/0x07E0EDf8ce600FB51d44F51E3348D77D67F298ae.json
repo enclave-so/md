@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x07E0EDf8ce600FB51d44F51E3348D77D67F298ae",
+	"symbol": "HarryPotterObamaPacMan8Inu",
+	"name": "HarryPotterObamaPacMan8Inu",
+	"coingecko": "harrypotterobamapacman8inu",
+	"sources": [
+		"coingecko"
+	]
+}

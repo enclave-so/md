@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x6d60A8dFb16D09F67D46fcd36A0Cd310078257ca",
+	"symbol": "Centurion Invest",
+	"name": "Centurion Invest",
+	"coingecko": "centurion-invest",
+	"sources": [
+		"coingecko"
+	]
+}

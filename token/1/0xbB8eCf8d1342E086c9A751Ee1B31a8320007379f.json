@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xbB8eCf8d1342E086c9A751Ee1B31a8320007379f",
+	"symbol": "Nexara",
+	"name": "Nexara",
+	"coingecko": "nexara",
+	"sources": [
+		"coingecko"
+	]
+}

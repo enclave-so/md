@@ -1,0 +1,10 @@
+{
+	"chain": 1907,
+	"address": "0x10E2accD09091CCe859EE82D1C9C84B7dBe91552",
+	"symbol": "Blok Token",
+	"name": "Blok Token",
+	"coingecko": "bitci-blok",
+	"sources": [
+		"coingecko"
+	]
+}

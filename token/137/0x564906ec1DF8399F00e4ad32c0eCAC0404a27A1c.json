@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x564906ec1DF8399F00e4ad32c0eCAC0404a27A1c",
+	"symbol": "Ambire Wallet",
+	"name": "Ambire Wallet",
+	"coingecko": "ambire-wallet",
+	"sources": [
+		"coingecko"
+	]
+}

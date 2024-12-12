@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0xfFffFffF2ba8F66D4e51811C5190992176930278",
+	"symbol": "COMBO",
+	"name": "Furucombo",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xfFffFffF2ba8F66D4e51811C5190992176930278/logo.png",
+	"coingecko": "furucombo",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

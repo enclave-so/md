@@ -1,0 +1,13 @@
+{
+	"chain": 137,
+	"address": "0x750e4C4984a9e0f12978eA6742Bc1c5D248f40ed",
+	"symbol": "axlUSDC",
+	"name": "Axelar Wrapped USDC",
+	"decimals": 6,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x750e4C4984a9e0f12978eA6742Bc1c5D248f40ed.jpg",
+	"coingecko": "axlusdc",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

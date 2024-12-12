@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x1a88Df1cFe15Af22B3c4c783D4e6F7F9e0C1885d",
+	"symbol": "Aave stkGHO",
+	"name": "Aave stkGHO",
+	"coingecko": "aave-stkgho",
+	"sources": [
+		"coingecko"
+	]
+}

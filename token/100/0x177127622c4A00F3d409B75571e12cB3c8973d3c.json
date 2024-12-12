@@ -1,0 +1,10 @@
+{
+	"chain": 100,
+	"address": "0x177127622c4A00F3d409B75571e12cB3c8973d3c",
+	"symbol": "CoW Protocol",
+	"name": "CoW Protocol",
+	"coingecko": "cow-protocol",
+	"sources": [
+		"coingecko"
+	]
+}

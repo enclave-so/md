@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xd2adC1C84443Ad06f0017aDCa346Bd9b6fc52CaB",
+	"symbol": "dFund",
+	"name": "dFund",
+	"coingecko": "dfund",
+	"sources": [
+		"coingecko"
+	]
+}

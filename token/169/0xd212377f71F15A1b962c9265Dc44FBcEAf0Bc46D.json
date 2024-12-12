@@ -1,0 +1,10 @@
+{
+	"chain": 169,
+	"address": "0xd212377f71F15A1b962c9265Dc44FBcEAf0Bc46D",
+	"symbol": "Deri Protocol",
+	"name": "Deri Protocol",
+	"coingecko": "deri-protocol",
+	"sources": [
+		"coingecko"
+	]
+}

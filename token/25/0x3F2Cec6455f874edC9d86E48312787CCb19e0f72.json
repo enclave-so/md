@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0x3F2Cec6455f874edC9d86E48312787CCb19e0f72",
+	"symbol": "VTHO",
+	"name": "VeThor Token",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x3F2Cec6455f874edC9d86E48312787CCb19e0f72.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

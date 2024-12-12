@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xb478c6245e3D85D6EC3486B62ea872128d562541",
+	"symbol": "LootBot",
+	"name": "LootBot",
+	"coingecko": "lootbot",
+	"sources": [
+		"coingecko"
+	]
+}

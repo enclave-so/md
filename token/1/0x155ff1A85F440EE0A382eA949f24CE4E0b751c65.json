@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x155ff1A85F440EE0A382eA949f24CE4E0b751c65",
+	"symbol": "Behodler",
+	"name": "Behodler",
+	"coingecko": "beholder",
+	"sources": [
+		"coingecko"
+	]
+}

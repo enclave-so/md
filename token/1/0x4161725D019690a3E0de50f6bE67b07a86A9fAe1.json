@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x4161725D019690a3E0de50f6bE67b07a86A9fAe1",
+	"symbol": "TokenPocket Token",
+	"name": "TokenPocket Token",
+	"coingecko": "token-pocket",
+	"sources": [
+		"coingecko"
+	]
+}

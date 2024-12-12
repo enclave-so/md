@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x00CBcF7B3d37844e44b888Bc747bDd75FCf4E555",
+	"symbol": "xPet.tech",
+	"name": "xPet.tech",
+	"coingecko": "xpet-tech",
+	"sources": [
+		"coingecko"
+	]
+}

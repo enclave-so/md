@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x96e99106d9c58573171dd6C19d767d2aE7ec0435",
+	"symbol": "Pyges",
+	"name": "Pyges",
+	"coingecko": "pyges",
+	"sources": [
+		"coingecko"
+	]
+}

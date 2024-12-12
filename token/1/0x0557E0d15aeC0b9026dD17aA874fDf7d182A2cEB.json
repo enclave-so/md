@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x0557E0d15aeC0b9026dD17aA874fDf7d182A2cEB",
+	"symbol": "CFX Quantum",
+	"name": "CFX Quantum",
+	"coingecko": "cfx-quantum",
+	"sources": [
+		"coingecko"
+	]
+}

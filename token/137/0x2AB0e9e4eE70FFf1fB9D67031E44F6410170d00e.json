@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x2AB0e9e4eE70FFf1fB9D67031E44F6410170d00e",
+	"symbol": "Xen Crypto (MATIC)",
+	"name": "Xen Crypto (MATIC)",
+	"coingecko": "xen-crypto-matic",
+	"sources": [
+		"coingecko"
+	]
+}

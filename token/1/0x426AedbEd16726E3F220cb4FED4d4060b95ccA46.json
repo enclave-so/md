@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x426AedbEd16726E3F220cb4FED4d4060b95ccA46",
+	"symbol": "Bahamas",
+	"name": "Bahamas",
+	"coingecko": "bahamas",
+	"sources": [
+		"coingecko"
+	]
+}

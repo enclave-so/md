@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xBA41Ddf06B7fFD89D1267b5A93BFeF2424eb2003",
+	"symbol": "Mythos",
+	"name": "Mythos",
+	"coingecko": "mythos",
+	"sources": [
+		"coingecko"
+	]
+}

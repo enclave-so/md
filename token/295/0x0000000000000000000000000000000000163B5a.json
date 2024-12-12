@@ -1,0 +1,10 @@
+{
+	"chain": 295,
+	"address": "0x0000000000000000000000000000000000163B5a",
+	"symbol": "Wrapped HBAR (SaucerSwap)",
+	"name": "Wrapped HBAR (SaucerSwap)",
+	"coingecko": "wrapped-hbar",
+	"sources": [
+		"coingecko"
+	]
+}

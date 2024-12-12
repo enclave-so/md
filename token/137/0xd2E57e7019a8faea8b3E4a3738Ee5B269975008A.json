@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xd2E57e7019a8faea8b3E4a3738Ee5B269975008A",
+	"symbol": "THAT",
+	"name": "THAT",
+	"coingecko": "that",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 39797,
+	"address": "0x87Ce5dDe0595d9306db44dC0BAa9703ace18C415",
+	"symbol": "RARI",
+	"name": "RARI",
+	"coingecko": "rarible",
+	"sources": [
+		"coingecko"
+	]
+}

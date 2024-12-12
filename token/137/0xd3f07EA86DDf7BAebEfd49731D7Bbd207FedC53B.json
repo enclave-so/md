@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xd3f07EA86DDf7BAebEfd49731D7Bbd207FedC53B",
+	"symbol": "Polly DeFi Nest",
+	"name": "Polly DeFi Nest",
+	"coingecko": "polly-defi-nest",
+	"sources": [
+		"coingecko"
+	]
+}

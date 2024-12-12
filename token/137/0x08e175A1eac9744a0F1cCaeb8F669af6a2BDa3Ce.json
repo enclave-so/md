@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x08e175A1eac9744a0F1cCaeb8F669af6a2BDa3Ce",
+	"symbol": "Energy8",
+	"name": "Energy8",
+	"coingecko": "energy8",
+	"sources": [
+		"coingecko"
+	]
+}

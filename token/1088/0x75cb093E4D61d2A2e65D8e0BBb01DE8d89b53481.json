@@ -1,0 +1,13 @@
+{
+	"chain": 1088,
+	"address": "0x75cb093E4D61d2A2e65D8e0BBb01DE8d89b53481",
+	"symbol": "WMETIS",
+	"name": "Wrapped Metis",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/metis.svg",
+	"coingecko": "wmetis",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 196,
+	"address": "0x5A77f1443D16ee5761d310e38b62f77f726bC71c",
+	"symbol": "x Layer Bridged WETH (x Layer)",
+	"name": "x Layer Bridged WETH (x Layer)",
+	"coingecko": "bridged-wrapped-ether-x-layer",
+	"sources": [
+		"coingecko"
+	]
+}

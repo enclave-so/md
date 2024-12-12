@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x1fc5EF0337AEA85C5f9198853a6E3A579a7A6987",
+	"symbol": "ReapChain",
+	"name": "ReapChain",
+	"coingecko": "reapchain",
+	"sources": [
+		"coingecko"
+	]
+}

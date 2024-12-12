@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x9B4a69dE6CA0deFDD02c0c4ce6Cb84de5202944E",
+	"symbol": "PROOF Platform",
+	"name": "PROOF Platform",
+	"coingecko": "proof-platform",
+	"sources": [
+		"coingecko"
+	]
+}

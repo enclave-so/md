@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xB9dF5FDa1c435cD4017a1F1F9111996520b64439",
+	"symbol": "IBS",
+	"name": "IBS",
+	"coingecko": "ibs-2",
+	"sources": [
+		"coingecko"
+	]
+}

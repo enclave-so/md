@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0xFA2562da1Bba7B954f26C74725dF51fb62646313",
+	"symbol": "ASSY",
+	"name": "ASSY Index",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xFA2562da1Bba7B954f26C74725dF51fb62646313/logo.png",
+	"sources": [
+		"sushiswap"
+	]
+}

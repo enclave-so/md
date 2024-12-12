@@ -1,0 +1,11 @@
+{
+	"chain": 10,
+	"address": "0xab7bAdEF82E9Fe11f6f33f87BC9bC2AA27F2fCB5",
+	"symbol": "MKR",
+	"name": "Maker",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/MKR/logo.png",
+	"sources": [
+		"sushiswap"
+	]
+}

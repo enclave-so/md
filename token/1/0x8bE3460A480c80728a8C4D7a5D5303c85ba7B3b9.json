@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x8bE3460A480c80728a8C4D7a5D5303c85ba7B3b9",
+	"symbol": "Ethena Staked ENA",
+	"name": "Ethena Staked ENA",
+	"coingecko": "ethena-staked-ena",
+	"sources": [
+		"coingecko"
+	]
+}

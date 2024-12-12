@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x28fAc5334C9f7262b3A3Fe707e250E01053e07b5",
+	"symbol": "IdleUSDT (Risk Adjusted)",
+	"name": "IdleUSDT (Risk Adjusted)",
+	"coingecko": "idle-usdt-risk-adjusted",
+	"sources": [
+		"coingecko"
+	]
+}

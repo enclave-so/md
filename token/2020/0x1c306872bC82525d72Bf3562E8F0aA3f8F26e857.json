@@ -1,0 +1,10 @@
+{
+	"chain": 2020,
+	"address": "0x1c306872bC82525d72Bf3562E8F0aA3f8F26e857",
+	"symbol": "Yield Guild Games",
+	"name": "Yield Guild Games",
+	"coingecko": "yield-guild-games",
+	"sources": [
+		"coingecko"
+	]
+}

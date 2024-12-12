@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0x831091dA075665168E01898c6DAC004A867f1e1B",
+	"symbol": "GFARM2",
+	"name": "Gains Farm v2",
+	"decimals": 18,
+	"logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/8444.png",
+	"sources": [
+		"sushiswap"
+	]
+}

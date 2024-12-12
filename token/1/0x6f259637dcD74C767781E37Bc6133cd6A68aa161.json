@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x6f259637dcD74C767781E37Bc6133cd6A68aa161",
+	"symbol": "Huobi",
+	"name": "Huobi",
+	"coingecko": "huobi-token",
+	"sources": [
+		"coingecko"
+	]
+}

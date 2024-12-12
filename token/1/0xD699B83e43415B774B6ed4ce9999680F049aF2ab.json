@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xD699B83e43415B774B6ed4ce9999680F049aF2ab",
+	"symbol": "Bubsy AI",
+	"name": "Bubsy AI",
+	"coingecko": "bubsy-ai",
+	"sources": [
+		"coingecko"
+	]
+}

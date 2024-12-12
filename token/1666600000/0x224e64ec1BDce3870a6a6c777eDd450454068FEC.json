@@ -1,0 +1,13 @@
+{
+	"chain": 1666600000,
+	"address": "0x224e64ec1BDce3870a6a6c777eDd450454068FEC",
+	"symbol": "UST",
+	"name": "TerraUSD",
+	"decimals": 18,
+	"logo": "https://github.com/sushiswap/icons/blob/master/token/ust.jpg",
+	"coingecko": "wrapped-ust",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

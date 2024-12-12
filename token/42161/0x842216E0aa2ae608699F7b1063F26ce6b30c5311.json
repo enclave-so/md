@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x842216E0aa2ae608699F7b1063F26ce6b30c5311",
+	"symbol": "UrDEX Finance",
+	"name": "UrDEX Finance",
+	"coingecko": "urdex-finance",
+	"sources": [
+		"coingecko"
+	]
+}

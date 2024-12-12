@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0x0e99cC0535BB6251F6679Fa6E65d6d3b430e840B",
+	"symbol": "MFB",
+	"name": "Mirrored Facebook",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/mfb.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

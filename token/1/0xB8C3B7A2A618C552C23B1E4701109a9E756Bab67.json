@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xB8C3B7A2A618C552C23B1E4701109a9E756Bab67",
+	"symbol": "1INCH yVault",
+	"name": "1INCH yVault",
+	"coingecko": "1inch-yvault",
+	"sources": [
+		"coingecko"
+	]
+}

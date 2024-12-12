@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x556d4F40982CB95E0714989E0c229C42be8b1499",
+	"symbol": "Golteum",
+	"name": "Golteum",
+	"coingecko": "golteum",
+	"sources": [
+		"coingecko"
+	]
+}

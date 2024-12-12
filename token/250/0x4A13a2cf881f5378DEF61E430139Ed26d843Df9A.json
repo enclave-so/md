@@ -1,0 +1,10 @@
+{
+	"chain": 250,
+	"address": "0x4A13a2cf881f5378DEF61E430139Ed26d843Df9A",
+	"symbol": "Beluga.fi",
+	"name": "Beluga.fi",
+	"coingecko": "beluga-fi",
+	"sources": [
+		"coingecko"
+	]
+}

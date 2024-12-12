@@ -1,0 +1,11 @@
+{
+	"chain": 128,
+	"address": "0xB1F80844a1B84c61ab80CafD88B1f8c09f9342e1",
+	"symbol": "BEE",
+	"name": "BEE",
+	"decimals": 8,
+	"logo": "https://hecoinfo.com/images/main/empty-token.png",
+	"sources": [
+		"sushiswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xc8F69A9B46B235DE8d0b77c355FFf7994F1B090f",
+	"symbol": "Speedy",
+	"name": "Speedy",
+	"coingecko": "speedy-2",
+	"sources": [
+		"coingecko"
+	]
+}

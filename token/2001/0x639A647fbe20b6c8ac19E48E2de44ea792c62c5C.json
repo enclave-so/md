@@ -1,0 +1,10 @@
+{
+	"chain": 2001,
+	"address": "0x639A647fbe20b6c8ac19E48E2de44ea792c62c5C",
+	"symbol": "Bridged DAI",
+	"name": "Bridged DAI",
+	"coingecko": "bridged-dai",
+	"sources": [
+		"coingecko"
+	]
+}

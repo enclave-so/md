@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x92098551e613dFDcd4D7c7b2C35615709e4E0397",
+	"symbol": "ArtemisAI",
+	"name": "ArtemisAI",
+	"coingecko": "artemisai",
+	"sources": [
+		"coingecko"
+	]
+}

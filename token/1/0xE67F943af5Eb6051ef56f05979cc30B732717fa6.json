@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xE67F943af5Eb6051ef56f05979cc30B732717fa6",
+	"symbol": "WATTTON",
+	"name": "WATTTON",
+	"coingecko": "wattton",
+	"sources": [
+		"coingecko"
+	]
+}

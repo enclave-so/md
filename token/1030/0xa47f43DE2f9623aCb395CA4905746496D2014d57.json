@@ -1,0 +1,10 @@
+{
+	"chain": 1030,
+	"address": "0xa47f43DE2f9623aCb395CA4905746496D2014d57",
+	"symbol": "Celer Bridged WETH (Conflux)",
+	"name": "Celer Bridged WETH (Conflux)",
+	"coingecko": "celer-bridged-weth-conflux",
+	"sources": [
+		"coingecko"
+	]
+}

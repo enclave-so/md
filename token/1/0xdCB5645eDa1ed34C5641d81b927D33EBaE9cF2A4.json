@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xdCB5645eDa1ed34C5641d81b927D33EBaE9cF2A4",
+	"symbol": "PayB",
+	"name": "PayB",
+	"coingecko": "payb",
+	"sources": [
+		"coingecko"
+	]
+}

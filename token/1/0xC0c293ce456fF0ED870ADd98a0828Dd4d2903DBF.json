@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xC0c293ce456fF0ED870ADd98a0828Dd4d2903DBF",
+	"symbol": "Aura Finance",
+	"name": "Aura Finance",
+	"coingecko": "aura-finance",
+	"sources": [
+		"coingecko"
+	]
+}

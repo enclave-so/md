@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x0F359FD18BDa75e9c49bC027E7da59a4b01BF32a",
+	"symbol": "Relend USDC",
+	"name": "Relend USDC",
+	"coingecko": "relend-usdc",
+	"sources": [
+		"coingecko"
+	]
+}

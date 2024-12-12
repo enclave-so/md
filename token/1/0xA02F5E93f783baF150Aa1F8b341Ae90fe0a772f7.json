@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xA02F5E93f783baF150Aa1F8b341Ae90fe0a772f7",
+	"symbol": "Re7 cbBTC",
+	"name": "Re7 cbBTC",
+	"coingecko": "re7-cbbtc",
+	"sources": [
+		"coingecko"
+	]
+}

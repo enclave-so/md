@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xC014186Cf1Ba36032aaEc7f96088f09eb3934347",
+	"symbol": "WeCoOwn",
+	"name": "WeCoOwn",
+	"coingecko": "wecoown",
+	"sources": [
+		"coingecko"
+	]
+}

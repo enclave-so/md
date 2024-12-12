@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x2b41806CBf1FFB3D9e31A9ECE6B738Bf9D6f645F",
+	"symbol": "ENO",
+	"name": "ENO",
+	"coingecko": "eno",
+	"sources": [
+		"coingecko"
+	]
+}

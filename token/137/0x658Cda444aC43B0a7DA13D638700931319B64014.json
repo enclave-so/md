@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x658Cda444aC43B0a7DA13D638700931319B64014",
+	"symbol": "Smartmall Token",
+	"name": "Smartmall Token",
+	"coingecko": "smartmall-token",
+	"sources": [
+		"coingecko"
+	]
+}

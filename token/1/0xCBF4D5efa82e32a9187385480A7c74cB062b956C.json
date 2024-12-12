@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xCBF4D5efa82e32a9187385480A7c74cB062b956C",
+	"symbol": "Satoshi Nakamoto",
+	"name": "Satoshi Nakamoto",
+	"coingecko": "satoshi-nakamoto",
+	"sources": [
+		"coingecko"
+	]
+}

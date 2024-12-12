@@ -1,0 +1,10 @@
+{
+	"chain": 39797,
+	"address": "0x1e3EEd9c1eba5e5114D4c185DC71d13c3C66dd84",
+	"symbol": "Origin Token",
+	"name": "Origin Token",
+	"coingecko": "origin-protocol",
+	"sources": [
+		"coingecko"
+	]
+}

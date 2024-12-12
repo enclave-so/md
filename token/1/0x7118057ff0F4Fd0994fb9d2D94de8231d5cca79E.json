@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0x7118057ff0F4Fd0994fb9d2D94de8231d5cca79E",
+	"symbol": "SOURCE",
+	"name": "Source",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x7118057ff0F4Fd0994fb9d2D94de8231d5cca79E/logo.png",
+	"coingecko": "resource-protocol",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

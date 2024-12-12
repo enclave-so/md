@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0x22EF9d73EA90E774CfB21fADDF84b37BD54FE7a6",
+	"symbol": "FLOW",
+	"name": "Flow",
+	"decimals": 8,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x22EF9d73EA90E774CfB21fADDF84b37BD54FE7a6.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

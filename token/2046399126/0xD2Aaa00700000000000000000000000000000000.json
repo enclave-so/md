@@ -1,0 +1,13 @@
+{
+	"chain": 2046399126,
+	"address": "0xD2Aaa00700000000000000000000000000000000",
+	"symbol": "ETH",
+	"name": "Ether",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/skale-europa/0xD2Aaa00700000000000000000000000000000000.jpg",
+	"coingecko": "wrapped-eth-skale",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

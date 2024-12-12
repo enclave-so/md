@@ -1,0 +1,13 @@
+{
+	"chain": 128,
+	"address": "0x25D2e80cB6B86881Fd7e07dd263Fb79f4AbE033c",
+	"symbol": "MDX",
+	"name": "MDX Token",
+	"decimals": 18,
+	"logo": "https://hecoinfo.com/token/images/mdex_32.png",
+	"coingecko": "mdex",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

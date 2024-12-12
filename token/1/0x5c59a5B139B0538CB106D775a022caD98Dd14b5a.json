@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x5c59a5B139B0538CB106D775a022caD98Dd14b5a",
+	"symbol": "XREATORS",
+	"name": "XREATORS",
+	"coingecko": "xreators",
+	"sources": [
+		"coingecko"
+	]
+}

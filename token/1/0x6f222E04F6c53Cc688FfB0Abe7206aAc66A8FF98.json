@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x6f222E04F6c53Cc688FfB0Abe7206aAc66A8FF98",
+	"symbol": "Roko Network",
+	"name": "Roko Network",
+	"coingecko": "roko-network",
+	"sources": [
+		"coingecko"
+	]
+}

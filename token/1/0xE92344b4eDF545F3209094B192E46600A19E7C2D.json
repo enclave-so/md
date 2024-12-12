@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xE92344b4eDF545F3209094B192E46600A19E7C2D",
+	"symbol": "zKML",
+	"name": "zKML",
+	"coingecko": "zkml",
+	"sources": [
+		"coingecko"
+	]
+}

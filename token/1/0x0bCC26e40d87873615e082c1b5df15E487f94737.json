@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x0bCC26e40d87873615e082c1b5df15E487f94737",
+	"symbol": "SpecialMetalX",
+	"name": "SpecialMetalX",
+	"coingecko": "specialmetalx",
+	"sources": [
+		"coingecko"
+	]
+}

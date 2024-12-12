@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0xe9F84dE264E91529aF07Fa2C746e934397810334",
+	"symbol": "SAK3",
+	"name": "Sake",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xe9F84dE264E91529aF07Fa2C746e934397810334/logo.png",
+	"sources": [
+		"sushiswap"
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"chain": 137,
+	"address": "0xc48F61a288A08F1B80c2edd74652e1276B6A168c",
+	"symbol": "GYSR",
+	"name": "Geyser",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xc48F61a288A08F1B80c2edd74652e1276B6A168c/logo.png",
+	"coingecko": "geyser",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

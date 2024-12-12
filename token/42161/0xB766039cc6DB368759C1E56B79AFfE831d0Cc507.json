@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0xB766039cc6DB368759C1E56B79AFfE831d0Cc507",
+	"symbol": "Rocket Pool",
+	"name": "Rocket Pool",
+	"coingecko": "rocket-pool",
+	"sources": [
+		"coingecko"
+	]
+}

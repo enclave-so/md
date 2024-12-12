@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x56694577564FdD577a0ABB20FE95C1E2756C2a11",
+	"symbol": "AdaSwap",
+	"name": "AdaSwap",
+	"coingecko": "adaswap",
+	"sources": [
+		"coingecko"
+	]
+}

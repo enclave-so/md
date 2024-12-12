@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x689f8e5913C158fFB5Ac5aeb83b3C875F5d20309",
+	"symbol": "Snook",
+	"name": "Snook",
+	"coingecko": "snook",
+	"sources": [
+		"coingecko"
+	]
+}

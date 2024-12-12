@@ -1,0 +1,10 @@
+{
+	"chain": 361,
+	"address": "0x1336739B05C7Ab8a526D40DCC0d04a826b5f8B03",
+	"symbol": "ThetaDrop",
+	"name": "ThetaDrop",
+	"coingecko": "thetadrop",
+	"sources": [
+		"coingecko"
+	]
+}

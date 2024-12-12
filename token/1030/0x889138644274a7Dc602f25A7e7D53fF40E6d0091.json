@@ -1,0 +1,10 @@
+{
+	"chain": 1030,
+	"address": "0x889138644274a7Dc602f25A7e7D53fF40E6d0091",
+	"symbol": "Nucleon xCFX",
+	"name": "Nucleon xCFX",
+	"coingecko": "nucleon-xcfx",
+	"sources": [
+		"coingecko"
+	]
+}

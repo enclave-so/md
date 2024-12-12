@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0xeDd6cA8A4202d4a36611e2fff109648c4863ae19",
+	"symbol": "Maha",
+	"name": "Maha",
+	"coingecko": "mahadao",
+	"sources": [
+		"coingecko"
+	]
+}

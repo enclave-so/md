@@ -1,0 +1,10 @@
+{
+	"chain": 250,
+	"address": "0xb5Fd949436772E07CbBF35Fb6524e79924c54CB3",
+	"symbol": "Blacky",
+	"name": "Blacky",
+	"coingecko": "blacky",
+	"sources": [
+		"coingecko"
+	]
+}

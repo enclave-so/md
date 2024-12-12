@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x21a00838E6b2D4aa3ac4BbC11111Be011E1ca111",
+	"symbol": "GREENGOLD",
+	"name": "GREENGOLD",
+	"coingecko": "greengold",
+	"sources": [
+		"coingecko"
+	]
+}

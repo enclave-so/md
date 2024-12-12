@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x0fCed30234C3ea94A7B47cC88006ECb7A39Dc30E",
+	"symbol": "BITmarkets Token",
+	"name": "BITmarkets Token",
+	"coingecko": "bitmarkets-token",
+	"sources": [
+		"coingecko"
+	]
+}

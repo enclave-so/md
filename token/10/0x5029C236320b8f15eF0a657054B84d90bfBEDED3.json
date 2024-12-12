@@ -1,0 +1,11 @@
+{
+	"chain": 10,
+	"address": "0x5029C236320b8f15eF0a657054B84d90bfBEDED3",
+	"symbol": "BitANT",
+	"name": "BitANT",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/BitANT/logo.png",
+	"sources": [
+		"sushiswap"
+	]
+}

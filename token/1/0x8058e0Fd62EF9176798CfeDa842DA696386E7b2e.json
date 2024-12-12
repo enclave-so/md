@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x8058e0Fd62EF9176798CfeDa842DA696386E7b2e",
+	"symbol": "Game Integrated AI Coin",
+	"name": "Game Integrated AI Coin",
+	"coingecko": "game-integrated-ai-coin",
+	"sources": [
+		"coingecko"
+	]
+}

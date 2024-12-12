@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x7039cd6D7966672F194E8139074C3D5c4e6DCf65",
+	"symbol": "Super Trump",
+	"name": "Super Trump",
+	"coingecko": "super-trump",
+	"sources": [
+		"coingecko"
+	]
+}

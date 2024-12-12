@@ -1,0 +1,10 @@
+{
+	"chain": 324,
+	"address": "0xbe9f8C0d6f0Fd7e46CDaCCA340747EA2f247991D",
+	"symbol": "Impermax",
+	"name": "Impermax",
+	"coingecko": "impermax-2",
+	"sources": [
+		"coingecko"
+	]
+}

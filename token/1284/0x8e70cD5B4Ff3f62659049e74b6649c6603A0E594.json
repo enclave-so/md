@@ -1,0 +1,11 @@
+{
+	"chain": 1284,
+	"address": "0x8e70cD5B4Ff3f62659049e74b6649c6603A0E594",
+	"symbol": "nomadUSDT",
+	"name": "Tether USD",
+	"decimals": 6,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdt.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

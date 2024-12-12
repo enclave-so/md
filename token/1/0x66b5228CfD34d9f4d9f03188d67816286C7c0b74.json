@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x66b5228CfD34d9f4d9f03188d67816286C7c0b74",
+	"symbol": "VOLT.WIN",
+	"name": "VOLT.WIN",
+	"coingecko": "volt-win",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"chain": 42161,
+	"address": "0xa0b862F60edEf4452F25B4160F177db44DeB6Cf1",
+	"symbol": "GNO",
+	"name": "Gnosis Token",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/gno.jpg",
+	"coingecko": "gnosis",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

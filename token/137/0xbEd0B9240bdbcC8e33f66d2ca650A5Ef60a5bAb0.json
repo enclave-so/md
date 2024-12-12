@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xbEd0B9240bdbcC8e33f66d2ca650A5Ef60a5bAb0",
+	"symbol": "Matr1x",
+	"name": "Matr1x",
+	"coingecko": "matr1x",
+	"sources": [
+		"coingecko"
+	]
+}

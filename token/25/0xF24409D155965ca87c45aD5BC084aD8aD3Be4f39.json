@@ -1,0 +1,10 @@
+{
+	"chain": 25,
+	"address": "0xF24409D155965ca87c45aD5BC084aD8aD3Be4f39",
+	"symbol": "Capybara Nation",
+	"name": "Capybara Nation",
+	"coingecko": "capybara-nation",
+	"sources": [
+		"coingecko"
+	]
+}

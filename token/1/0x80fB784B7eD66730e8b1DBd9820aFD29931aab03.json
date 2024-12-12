@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0x80fB784B7eD66730e8b1DBd9820aFD29931aab03",
+	"symbol": "LEND",
+	"name": "EthLend",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/lend.jpg",
+	"coingecko": "ethlend",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x626E8036dEB333b408Be468F951bdB42433cBF18",
+	"symbol": "AIOZ Network",
+	"name": "AIOZ Network",
+	"coingecko": "aioz-network",
+	"sources": [
+		"coingecko"
+	]
+}

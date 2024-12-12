@@ -1,0 +1,10 @@
+{
+	"chain": 369,
+	"address": "0xAeC4C07537B03E3E62fc066EC62401Aed5Fdd361",
+	"symbol": "TETRA",
+	"name": "TETRA",
+	"coingecko": "tetra",
+	"sources": [
+		"coingecko"
+	]
+}

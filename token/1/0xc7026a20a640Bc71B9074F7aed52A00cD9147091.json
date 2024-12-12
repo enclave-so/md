@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xc7026a20a640Bc71B9074F7aed52A00cD9147091",
+	"symbol": "Tegro",
+	"name": "Tegro",
+	"coingecko": "tegro",
+	"sources": [
+		"coingecko"
+	]
+}

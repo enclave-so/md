@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x4CEBdBCB286101A17D3eA1f7fe7bbDeD2B2053dd",
+	"symbol": "Yield App",
+	"name": "Yield App",
+	"coingecko": "yield-app",
+	"sources": [
+		"coingecko"
+	]
+}

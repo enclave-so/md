@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x697a79AF2De4Af9E9aA0D08905374556AD1353bB",
+	"symbol": "NinaPumps",
+	"name": "NinaPumps",
+	"coingecko": "ninapumps",
+	"sources": [
+		"coingecko"
+	]
+}

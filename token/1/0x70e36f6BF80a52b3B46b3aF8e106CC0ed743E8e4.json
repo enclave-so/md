@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x70e36f6BF80a52b3B46b3aF8e106CC0ed743E8e4",
+	"symbol": "cCOMP",
+	"name": "cCOMP",
+	"coingecko": "ccomp",
+	"sources": [
+		"coingecko"
+	]
+}

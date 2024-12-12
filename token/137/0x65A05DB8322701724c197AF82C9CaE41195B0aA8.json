@@ -1,0 +1,13 @@
+{
+	"chain": 137,
+	"address": "0x65A05DB8322701724c197AF82C9CaE41195B0aA8",
+	"symbol": "FOX",
+	"name": "ShapeShift FOX Token",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x65A05DB8322701724c197AF82C9CaE41195B0aA8/logo.png",
+	"coingecko": "shapeshift-fox-token",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

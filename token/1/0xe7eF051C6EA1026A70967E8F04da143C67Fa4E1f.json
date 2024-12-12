@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xe7eF051C6EA1026A70967E8F04da143C67Fa4E1f",
+	"symbol": "VetMe",
+	"name": "VetMe",
+	"coingecko": "vetme",
+	"sources": [
+		"coingecko"
+	]
+}

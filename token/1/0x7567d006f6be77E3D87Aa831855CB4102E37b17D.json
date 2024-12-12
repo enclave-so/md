@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x7567d006f6be77E3D87Aa831855CB4102E37b17D",
+	"symbol": "Three Hundred AI",
+	"name": "Three Hundred AI",
+	"coingecko": "three-hundred-ai",
+	"sources": [
+		"coingecko"
+	]
+}

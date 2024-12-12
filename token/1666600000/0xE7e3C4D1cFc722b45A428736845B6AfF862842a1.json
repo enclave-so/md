@@ -1,0 +1,13 @@
+{
+	"chain": 1666600000,
+	"address": "0xE7e3C4D1cFc722b45A428736845B6AfF862842a1",
+	"symbol": "WISE",
+	"name": "Wise Token",
+	"decimals": 18,
+	"logo": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/1WISE.png",
+	"coingecko": "wise-token11",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

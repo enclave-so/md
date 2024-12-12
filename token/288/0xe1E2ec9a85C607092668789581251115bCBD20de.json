@@ -1,0 +1,10 @@
+{
+	"chain": 288,
+	"address": "0xe1E2ec9a85C607092668789581251115bCBD20de",
+	"symbol": "OMG Network",
+	"name": "OMG Network",
+	"coingecko": "omisego",
+	"sources": [
+		"coingecko"
+	]
+}

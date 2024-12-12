@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x8dAE6Cb04688C62d939ed9B68d32Bc62e49970b1",
+	"symbol": "Aave CRV",
+	"name": "Aave CRV",
+	"coingecko": "aave-crv",
+	"sources": [
+		"coingecko"
+	]
+}

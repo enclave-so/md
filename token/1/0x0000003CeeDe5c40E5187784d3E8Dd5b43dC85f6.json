@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x0000003CeeDe5c40E5187784d3E8Dd5b43dC85f6",
+	"symbol": "Cultel",
+	"name": "Cultel",
+	"coingecko": "cultel",
+	"sources": [
+		"coingecko"
+	]
+}

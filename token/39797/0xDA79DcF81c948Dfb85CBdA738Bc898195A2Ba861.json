@@ -1,0 +1,10 @@
+{
+	"chain": 39797,
+	"address": "0xDA79DcF81c948Dfb85CBdA738Bc898195A2Ba861",
+	"symbol": "FTX",
+	"name": "FTX",
+	"coingecko": "ftx-token",
+	"sources": [
+		"coingecko"
+	]
+}

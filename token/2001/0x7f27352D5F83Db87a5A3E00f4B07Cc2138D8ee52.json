@@ -1,0 +1,10 @@
+{
+	"chain": 2001,
+	"address": "0x7f27352D5F83Db87a5A3E00f4B07Cc2138D8ee52",
+	"symbol": "Wrapped BNB - Celer",
+	"name": "Wrapped BNB - Celer",
+	"coingecko": "wrapped-bnb-celer",
+	"sources": [
+		"coingecko"
+	]
+}

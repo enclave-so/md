@@ -1,0 +1,10 @@
+{
+	"chain": 1329,
+	"address": "0x67DA7010C6c231AD620E3940e707adB6c1a08f23",
+	"symbol": "SeiWhale",
+	"name": "SeiWhale",
+	"coingecko": "seiwhale",
+	"sources": [
+		"coingecko"
+	]
+}

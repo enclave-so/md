@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0x46EfE38eC0558C48352e2eBc85AF3bd2E87Fb2A1",
+	"symbol": "ALICE",
+	"name": "My Neighbor Alice",
+	"decimals": 6,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x46EfE38eC0558C48352e2eBc85AF3bd2E87Fb2A1.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

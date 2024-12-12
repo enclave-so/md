@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xD692Cb29Aa3958A7f5C583323Be2990903A57977",
+	"symbol": "QUANT",
+	"name": "QUANT",
+	"coingecko": "quant",
+	"sources": [
+		"coingecko"
+	]
+}

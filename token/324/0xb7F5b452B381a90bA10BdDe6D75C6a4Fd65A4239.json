@@ -1,0 +1,10 @@
+{
+	"chain": 324,
+	"address": "0xb7F5b452B381a90bA10BdDe6D75C6a4Fd65A4239",
+	"symbol": "Rogue MAV",
+	"name": "Rogue MAV",
+	"coingecko": "rogue-mav",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x740a5aC14D0096c81d331aDC1611cF2FD28AE317",
+	"symbol": "Plebz",
+	"name": "Plebz",
+	"coingecko": "plebz",
+	"sources": [
+		"coingecko"
+	]
+}

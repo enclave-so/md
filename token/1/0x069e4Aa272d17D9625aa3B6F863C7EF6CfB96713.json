@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x069e4Aa272d17D9625aa3B6F863C7EF6CfB96713",
+	"symbol": "Bulei",
+	"name": "Bulei",
+	"coingecko": "bulei",
+	"sources": [
+		"coingecko"
+	]
+}

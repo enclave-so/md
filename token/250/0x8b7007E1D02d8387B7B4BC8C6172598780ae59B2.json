@@ -1,0 +1,10 @@
+{
+	"chain": 250,
+	"address": "0x8b7007E1D02d8387B7B4BC8C6172598780ae59B2",
+	"symbol": "FlamingGhost",
+	"name": "FlamingGhost",
+	"coingecko": "flamingghost",
+	"sources": [
+		"coingecko"
+	]
+}

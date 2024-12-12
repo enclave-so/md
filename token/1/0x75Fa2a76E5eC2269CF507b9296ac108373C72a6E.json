@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x75Fa2a76E5eC2269CF507b9296ac108373C72a6E",
+	"symbol": "Nugget Rush",
+	"name": "Nugget Rush",
+	"coingecko": "nugget-rush",
+	"sources": [
+		"coingecko"
+	]
+}

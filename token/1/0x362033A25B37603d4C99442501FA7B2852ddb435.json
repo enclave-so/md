@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x362033A25B37603d4C99442501FA7B2852ddb435",
+	"symbol": "MATRIX",
+	"name": "MATRIX",
+	"coingecko": "matrix-3",
+	"sources": [
+		"coingecko"
+	]
+}

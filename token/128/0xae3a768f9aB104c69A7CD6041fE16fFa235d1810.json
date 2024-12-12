@@ -1,0 +1,11 @@
+{
+	"chain": 128,
+	"address": "0xae3a768f9aB104c69A7CD6041fE16fFa235d1810",
+	"symbol": "HFIL",
+	"name": "Heco-Peg HFIL Token",
+	"decimals": 18,
+	"logo": "https://hecoinfo.com/token/images/HFIL_32.png",
+	"sources": [
+		"sushiswap"
+	]
+}

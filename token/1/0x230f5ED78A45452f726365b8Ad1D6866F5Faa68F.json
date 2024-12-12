@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x230f5ED78A45452f726365b8Ad1D6866F5Faa68F",
+	"symbol": "Cryptoforce",
+	"name": "Cryptoforce",
+	"coingecko": "cryptoforce",
+	"sources": [
+		"coingecko"
+	]
+}

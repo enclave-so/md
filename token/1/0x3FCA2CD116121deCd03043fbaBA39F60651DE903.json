@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x3FCA2CD116121deCd03043fbaBA39F60651DE903",
+	"symbol": "Fuxion Labs",
+	"name": "Fuxion Labs",
+	"coingecko": "fuxion-labs",
+	"sources": [
+		"coingecko"
+	]
+}

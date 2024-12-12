@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xEA1132120ddcDDA2F119e99Fa7A27a0d036F7Ac9",
+	"symbol": "Aave v3 stMATIC",
+	"name": "Aave v3 stMATIC",
+	"coingecko": "aave-v3-stmatic",
+	"sources": [
+		"coingecko"
+	]
+}

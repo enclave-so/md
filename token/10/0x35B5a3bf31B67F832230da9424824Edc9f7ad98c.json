@@ -1,0 +1,10 @@
+{
+	"chain": 10,
+	"address": "0x35B5a3bf31B67F832230da9424824Edc9f7ad98c",
+	"symbol": "Phemex Token",
+	"name": "Phemex Token",
+	"coingecko": "phemex",
+	"sources": [
+		"coingecko"
+	]
+}

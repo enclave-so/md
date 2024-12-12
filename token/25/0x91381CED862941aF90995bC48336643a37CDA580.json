@@ -1,0 +1,10 @@
+{
+	"chain": 25,
+	"address": "0x91381CED862941aF90995bC48336643a37CDA580",
+	"symbol": "Phenix Finance (Cronos)",
+	"name": "Phenix Finance (Cronos)",
+	"coingecko": "phenix-finance-2",
+	"sources": [
+		"coingecko"
+	]
+}

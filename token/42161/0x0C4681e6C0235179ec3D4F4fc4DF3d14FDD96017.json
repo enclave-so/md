@@ -1,0 +1,11 @@
+{
+	"chain": 42161,
+	"address": "0x0C4681e6C0235179ec3D4F4fc4DF3d14FDD96017",
+	"symbol": "RDNT",
+	"name": "Radiant",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x0C4681e6C0235179ec3D4F4fc4DF3d14FDD96017.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

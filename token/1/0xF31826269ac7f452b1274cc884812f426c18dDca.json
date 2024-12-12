@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xF31826269ac7f452b1274cc884812f426c18dDca",
+	"symbol": "MILK Coin",
+	"name": "MILK Coin",
+	"coingecko": "milk-coin",
+	"sources": [
+		"coingecko"
+	]
+}

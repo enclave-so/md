@@ -1,0 +1,10 @@
+{
+	"chain": 321,
+	"address": "0x4446Fc4eb47f2f6586f9fAAb68B3498F86C07521",
+	"symbol": "Wrapped KCS",
+	"name": "Wrapped KCS",
+	"coingecko": "wrapped-kcs",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x181f2cBDa1AD44De56bAacBb41c8Fe448a2036fe",
+	"symbol": "Wiggly Willy",
+	"name": "Wiggly Willy",
+	"coingecko": "wiggly-willy",
+	"sources": [
+		"coingecko"
+	]
+}

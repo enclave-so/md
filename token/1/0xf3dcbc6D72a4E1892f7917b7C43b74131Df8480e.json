@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xf3dcbc6D72a4E1892f7917b7C43b74131Df8480e",
+	"symbol": "Big Data Protocol",
+	"name": "Big Data Protocol",
+	"coingecko": "big-data-protocol",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x01b317bC5eD573FAa112eF64DD029F407CecB155",
+	"symbol": "Charged Particles",
+	"name": "Charged Particles",
+	"coingecko": "charged-particles",
+	"sources": [
+		"coingecko"
+	]
+}

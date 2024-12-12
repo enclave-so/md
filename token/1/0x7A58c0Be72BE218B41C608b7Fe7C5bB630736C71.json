@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x7A58c0Be72BE218B41C608b7Fe7C5bB630736C71",
+	"symbol": "ConstitutionDAO",
+	"name": "ConstitutionDAO",
+	"coingecko": "constitutiondao",
+	"sources": [
+		"coingecko"
+	]
+}

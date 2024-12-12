@@ -1,0 +1,10 @@
+{
+	"chain": 1890,
+	"address": "0xd9d7123552fA2bEdB2348bB562576D67f6E8e96E",
+	"symbol": "LightLink",
+	"name": "LightLink",
+	"coingecko": "lightlink",
+	"sources": [
+		"coingecko"
+	]
+}

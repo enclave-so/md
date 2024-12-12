@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0x16c52CeeCE2ed57dAd87319D91B5e3637d50aFa4",
+	"symbol": "TCAP",
+	"name": "Total Crypto Market Cap Token",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x16c52CeeCE2ed57dAd87319D91B5e3637d50aFa4/logo.png",
+	"sources": [
+		"sushiswap"
+	]
+}

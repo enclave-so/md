@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xE453C3409f8Ad2B1FE1ED08E189634d359705A5B",
+	"symbol": "DGI Game",
+	"name": "DGI Game",
+	"coingecko": "dgi-game",
+	"sources": [
+		"coingecko"
+	]
+}

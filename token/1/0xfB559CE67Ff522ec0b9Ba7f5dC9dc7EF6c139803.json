@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xfB559CE67Ff522ec0b9Ba7f5dC9dc7EF6c139803",
+	"symbol": "Probit",
+	"name": "Probit",
+	"coingecko": "probit-exchange",
+	"sources": [
+		"coingecko"
+	]
+}

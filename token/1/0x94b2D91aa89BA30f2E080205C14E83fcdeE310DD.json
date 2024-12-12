@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x94b2D91aa89BA30f2E080205C14E83fcdeE310DD",
+	"symbol": "World Earn \u0026 Play Community",
+	"name": "World Earn \u0026 Play Community",
+	"coingecko": "world-earn-play-community",
+	"sources": [
+		"coingecko"
+	]
+}

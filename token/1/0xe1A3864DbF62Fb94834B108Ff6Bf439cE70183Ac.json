@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xe1A3864DbF62Fb94834B108Ff6Bf439cE70183Ac",
+	"symbol": "vXDEFI",
+	"name": "vXDEFI",
+	"coingecko": "vxdefi",
+	"sources": [
+		"coingecko"
+	]
+}

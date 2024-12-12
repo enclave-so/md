@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0x39fBBABf11738317a448031930706cd3e612e1B9",
+	"symbol": "WXRP",
+	"name": "Wrapped XRP",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x39fBBABf11738317a448031930706cd3e612e1B9/logo.png",
+	"coingecko": "wrapped-xrp",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

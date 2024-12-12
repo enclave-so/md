@@ -1,0 +1,10 @@
+{
+	"chain": 324,
+	"address": "0xaf08a9d918f16332F22cf8Dc9ABE9D9E14DdcbC2",
+	"symbol": "Holdstation USDC",
+	"name": "Holdstation USDC",
+	"coingecko": "holdstation-usd-coin",
+	"sources": [
+		"coingecko"
+	]
+}

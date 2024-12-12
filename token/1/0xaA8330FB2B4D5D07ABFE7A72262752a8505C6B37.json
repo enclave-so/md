@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xaA8330FB2B4D5D07ABFE7A72262752a8505C6B37",
+	"symbol": "Polkacity",
+	"name": "Polkacity",
+	"coingecko": "polka-city",
+	"sources": [
+		"coingecko"
+	]
+}

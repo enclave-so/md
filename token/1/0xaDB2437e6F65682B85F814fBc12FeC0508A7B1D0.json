@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xaDB2437e6F65682B85F814fBc12FeC0508A7B1D0",
+	"symbol": "UNCX Network",
+	"name": "UNCX Network",
+	"coingecko": "unicrypt-2",
+	"sources": [
+		"coingecko"
+	]
+}

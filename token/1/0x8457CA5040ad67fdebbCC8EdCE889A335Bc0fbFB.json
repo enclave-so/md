@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x8457CA5040ad67fdebbCC8EdCE889A335Bc0fbFB",
+	"symbol": "AltLayer",
+	"name": "AltLayer",
+	"coingecko": "altlayer",
+	"sources": [
+		"coingecko"
+	]
+}

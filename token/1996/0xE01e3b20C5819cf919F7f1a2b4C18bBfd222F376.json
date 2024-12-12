@@ -1,0 +1,10 @@
+{
+	"chain": 1996,
+	"address": "0xE01e3b20C5819cf919F7f1a2b4C18bBfd222F376",
+	"symbol": "Sanko Bridged WETH (Sanko)",
+	"name": "Sanko Bridged WETH (Sanko)",
+	"coingecko": "sanko-bridged-weth-sanko",
+	"sources": [
+		"coingecko"
+	]
+}

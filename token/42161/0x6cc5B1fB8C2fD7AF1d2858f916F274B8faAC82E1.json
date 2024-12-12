@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x6cc5B1fB8C2fD7AF1d2858f916F274B8faAC82E1",
+	"symbol": "Ojamu",
+	"name": "Ojamu",
+	"coingecko": "ojamu",
+	"sources": [
+		"coingecko"
+	]
+}

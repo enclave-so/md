@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xccF4429DB6322D5C611ee964527D42E5d685DD6a",
+	"symbol": "cWBTC",
+	"name": "cWBTC",
+	"coingecko": "compound-wrapped-btc",
+	"sources": [
+		"coingecko"
+	]
+}

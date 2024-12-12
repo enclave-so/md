@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xF2ec4a773ef90c58d98ea734c0eBDB538519b988",
+	"symbol": "Doge 2.0",
+	"name": "Doge 2.0",
+	"coingecko": "doge-2-0",
+	"sources": [
+		"coingecko"
+	]
+}

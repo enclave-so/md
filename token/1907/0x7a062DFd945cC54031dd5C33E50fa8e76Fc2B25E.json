@@ -1,0 +1,10 @@
+{
+	"chain": 1907,
+	"address": "0x7a062DFd945cC54031dd5C33E50fa8e76Fc2B25E",
+	"symbol": "Çağdaş Bodrumspor Fan Token",
+	"name": "Çağdaş Bodrumspor Fan Token",
+	"coingecko": "cagdas-bodrumspor-fan-token",
+	"sources": [
+		"coingecko"
+	]
+}

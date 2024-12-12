@@ -1,0 +1,10 @@
+{
+	"chain": 324,
+	"address": "0x60E7FE7AE4461B535Bb9Eb40C20424C7c61063D0",
+	"symbol": "Zeekwifhat",
+	"name": "Zeekwifhat",
+	"coingecko": "zeekwifhat",
+	"sources": [
+		"coingecko"
+	]
+}

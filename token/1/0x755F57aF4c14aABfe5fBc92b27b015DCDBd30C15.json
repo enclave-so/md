@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x755F57aF4c14aABfe5fBc92b27b015DCDBd30C15",
+	"symbol": "Accord AI",
+	"name": "Accord AI",
+	"coingecko": "accord-ai",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0xcAaa93712BDAc37f736C323C93D4D5fDEFCc31CC",
+	"symbol": "CRD",
+	"name": "CRD Network",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/2859/small/CRD.png?1623397651",
+	"sources": [
+		"sushiswap"
+	]
+}

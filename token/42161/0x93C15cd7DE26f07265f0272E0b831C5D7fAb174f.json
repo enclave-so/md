@@ -1,0 +1,13 @@
+{
+	"chain": 42161,
+	"address": "0x93C15cd7DE26f07265f0272E0b831C5D7fAb174f",
+	"symbol": "LIQD",
+	"name": "Liquid",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x93C15cd7DE26f07265f0272E0b831C5D7fAb174f.jpg",
+	"coingecko": "liquid-finance",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

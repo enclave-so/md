@@ -1,0 +1,10 @@
+{
+	"chain": 369,
+	"address": "0x9159f1D2a9f51998Fc9Ab03fbd8f265ab14A1b3B",
+	"symbol": "Liquid Loans",
+	"name": "Liquid Loans",
+	"coingecko": "liquid-loans",
+	"sources": [
+		"coingecko"
+	]
+}

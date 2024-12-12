@@ -1,0 +1,10 @@
+{
+	"chain": 369,
+	"address": "0x96E035ae0905EFaC8F733f133462f971Cfa45dB1",
+	"symbol": "Phiat Protocol",
+	"name": "Phiat Protocol",
+	"coingecko": "phiat-protocol",
+	"sources": [
+		"coingecko"
+	]
+}

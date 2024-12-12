@@ -1,0 +1,11 @@
+{
+	"chain": 42161,
+	"address": "0x41b94c5867f7F6217C9a30520Cb3e793B1ee1b97",
+	"symbol": "axlTIA",
+	"name": "Axelar Wrapped TIA",
+	"decimals": 6,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x41b94c5867f7F6217C9a30520Cb3e793B1ee1b97.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

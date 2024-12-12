@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0xD6b3d81868770083307840F513A3491960b95cb6",
+	"symbol": "Credbull",
+	"name": "Credbull",
+	"coingecko": "credbull",
+	"sources": [
+		"coingecko"
+	]
+}

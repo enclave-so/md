@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0xADc234a4e90E2045f353F5d4fCdE66144d23b458",
+	"symbol": "fUSDT",
+	"name": "Fluid USDT",
+	"decimals": 6,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xADc234a4e90E2045f353F5d4fCdE66144d23b458.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

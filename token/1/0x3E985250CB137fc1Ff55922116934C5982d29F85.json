@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x3E985250CB137fc1Ff55922116934C5982d29F85",
+	"symbol": "ZENTU",
+	"name": "ZENTU",
+	"coingecko": "zentu",
+	"sources": [
+		"coingecko"
+	]
+}

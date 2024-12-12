@@ -1,0 +1,13 @@
+{
+	"chain": 250,
+	"address": "0x44B26E839eB3572c5E959F994804A5De66600349",
+	"symbol": "HEGIC",
+	"name": "Hegic",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/hegic.jpg",
+	"coingecko": "hegic",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

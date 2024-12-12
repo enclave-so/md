@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xdc9CB148ECb70876db0aBeB92f515a5E1dc9f580",
+	"symbol": "Green Bitcoin",
+	"name": "Green Bitcoin",
+	"coingecko": "green-bitcoin",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x05fE069626543842439Ef90D9FA1633640c50cF1",
+	"symbol": "Eve AI",
+	"name": "Eve AI",
+	"coingecko": "eve-ai",
+	"sources": [
+		"coingecko"
+	]
+}

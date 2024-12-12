@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xD3c51de3E6DD9b53D7f37699AFB3EE3Bf9B9b3F4",
+	"symbol": "MContent",
+	"name": "MContent",
+	"coingecko": "mcontent",
+	"sources": [
+		"coingecko"
+	]
+}

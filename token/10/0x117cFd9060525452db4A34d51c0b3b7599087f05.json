@@ -1,0 +1,11 @@
+{
+	"chain": 10,
+	"address": "0x117cFd9060525452db4A34d51c0b3b7599087f05",
+	"symbol": "GYSR",
+	"name": "Geyser",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/GYSR/logo.png",
+	"sources": [
+		"sushiswap"
+	]
+}

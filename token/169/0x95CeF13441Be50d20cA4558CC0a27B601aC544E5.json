@@ -1,0 +1,10 @@
+{
+	"chain": 169,
+	"address": "0x95CeF13441Be50d20cA4558CC0a27B601aC544E5",
+	"symbol": "Manta Network",
+	"name": "Manta Network",
+	"coingecko": "manta-network",
+	"sources": [
+		"coingecko"
+	]
+}

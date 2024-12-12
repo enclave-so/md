@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xAeE9bA9CE49fe810417A36408e34D9962b653E78",
+	"symbol": "Snibbu",
+	"name": "Snibbu",
+	"coingecko": "snibbu",
+	"sources": [
+		"coingecko"
+	]
+}

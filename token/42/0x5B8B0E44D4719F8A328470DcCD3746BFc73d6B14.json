@@ -1,0 +1,10 @@
+{
+	"chain": 42,
+	"address": "0x5B8B0E44D4719F8A328470DcCD3746BFc73d6B14",
+	"symbol": "chill",
+	"name": "chill",
+	"coingecko": "chillwhales",
+	"sources": [
+		"coingecko"
+	]
+}

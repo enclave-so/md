@@ -1,0 +1,10 @@
+{
+	"chain": 169,
+	"address": "0xe68874E57224D1e4E6D4C6B4cF5AF7Ca51867611",
+	"symbol": "Ceto Swap Burned CETO",
+	"name": "Ceto Swap Burned CETO",
+	"coingecko": "ceto-swap-burned-ceto",
+	"sources": [
+		"coingecko"
+	]
+}

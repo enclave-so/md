@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xf4CD3d3Fda8d7Fd6C5a500203e38640A70Bf9577",
+	"symbol": "YfDAI.finance",
+	"name": "YfDAI.finance",
+	"coingecko": "yfdai-finance",
+	"sources": [
+		"coingecko"
+	]
+}

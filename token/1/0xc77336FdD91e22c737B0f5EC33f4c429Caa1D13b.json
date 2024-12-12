@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xc77336FdD91e22c737B0f5EC33f4c429Caa1D13b",
+	"symbol": "BALTO",
+	"name": "BALTO",
+	"coingecko": "balto",
+	"sources": [
+		"coingecko"
+	]
+}

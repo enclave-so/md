@@ -1,0 +1,11 @@
+{
+	"chain": 137,
+	"address": "0xEde1B77C0Ccc45BFa949636757cd2cA7eF30137F",
+	"symbol": "wFIL",
+	"name": "Wrapped Filecoin",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/fil.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

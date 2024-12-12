@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x58D97B57BB95320F9a05dC918Aef65434969c2B2",
+	"symbol": "Morpho",
+	"name": "Morpho",
+	"coingecko": "morpho",
+	"sources": [
+		"coingecko"
+	]
+}

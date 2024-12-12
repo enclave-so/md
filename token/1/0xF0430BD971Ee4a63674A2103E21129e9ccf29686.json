@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xF0430BD971Ee4a63674A2103E21129e9ccf29686",
+	"symbol": "Elons Pet Snail",
+	"name": "Elons Pet Snail",
+	"coingecko": "elons-pet-snail",
+	"sources": [
+		"coingecko"
+	]
+}

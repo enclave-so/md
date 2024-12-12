@@ -1,0 +1,10 @@
+{
+	"chain": 1907,
+	"address": "0x35D2B083c854071600995a933C06e91f1b20ff99",
+	"symbol": "GalaxiaVerse",
+	"name": "GalaxiaVerse",
+	"coingecko": "galaxiaverse",
+	"sources": [
+		"coingecko"
+	]
+}

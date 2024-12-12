@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x2e5D4e2A2336045471BFE446CAA407f0C3A2419C",
+	"symbol": "RedSonic Vault Tether USD",
+	"name": "RedSonic Vault Tether USD",
+	"coingecko": "redsonic-vault-tether-usd",
+	"sources": [
+		"coingecko"
+	]
+}

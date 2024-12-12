@@ -1,0 +1,13 @@
+{
+	"chain": 42161,
+	"address": "0xf7693c6fD9a7172D537FA75D133D309501Cbd657",
+	"symbol": "W3N",
+	"name": "Web3 No Value",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xf7693c6fD9a7172D537FA75D133D309501Cbd657.jpg",
+	"coingecko": "web3-no-value",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

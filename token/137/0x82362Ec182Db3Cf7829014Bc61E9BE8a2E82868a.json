@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x82362Ec182Db3Cf7829014Bc61E9BE8a2E82868a",
+	"symbol": "Meshswap Protocol",
+	"name": "Meshswap Protocol",
+	"coingecko": "meshswap-protocol",
+	"sources": [
+		"coingecko"
+	]
+}

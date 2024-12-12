@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xCf66EB3D546F0415b368d98A95EAF56DeD7aA752",
+	"symbol": "dForce USD",
+	"name": "dForce USD",
+	"coingecko": "token-dforce-usd",
+	"sources": [
+		"coingecko"
+	]
+}

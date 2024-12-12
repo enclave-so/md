@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xa922a70569a7555518bF4DED5094661a965E23cA",
+	"symbol": "MN Bridge",
+	"name": "MN Bridge",
+	"coingecko": "mn-bridge",
+	"sources": [
+		"coingecko"
+	]
+}

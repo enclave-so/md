@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xD14D1e501b2b52D6134dB1aD0857Aa91f9BFe2dd",
+	"symbol": "shuts Wave",
+	"name": "shuts Wave",
+	"coingecko": "shuts-wave",
+	"sources": [
+		"coingecko"
+	]
+}

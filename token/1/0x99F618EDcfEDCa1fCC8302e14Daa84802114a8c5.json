@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x99F618EDcfEDCa1fCC8302e14Daa84802114a8c5",
+	"symbol": "DecentraBNB",
+	"name": "DecentraBNB",
+	"coingecko": "decentrabnb",
+	"sources": [
+		"coingecko"
+	]
+}

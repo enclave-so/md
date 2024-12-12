@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xA187927C9185108458647AEEC193ef4A62d3bd80",
+	"symbol": "Meta Minigames",
+	"name": "Meta Minigames",
+	"coingecko": "meta-minigames",
+	"sources": [
+		"coingecko"
+	]
+}

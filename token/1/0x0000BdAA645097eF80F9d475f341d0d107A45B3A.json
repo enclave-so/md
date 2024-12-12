@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x0000BdAA645097eF80F9d475f341d0d107A45B3A",
+	"symbol": "BRAINLET",
+	"name": "BRAINLET",
+	"coingecko": "brainlet",
+	"sources": [
+		"coingecko"
+	]
+}

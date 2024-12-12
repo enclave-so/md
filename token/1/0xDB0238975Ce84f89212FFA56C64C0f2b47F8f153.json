@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xDB0238975Ce84f89212FFA56C64C0f2b47F8f153",
+	"symbol": "Flork",
+	"name": "Flork",
+	"coingecko": "flork",
+	"sources": [
+		"coingecko"
+	]
+}

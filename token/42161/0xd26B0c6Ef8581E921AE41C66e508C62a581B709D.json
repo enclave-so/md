@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0xd26B0c6Ef8581E921AE41C66e508C62a581B709D",
+	"symbol": "Sexone",
+	"name": "Sexone",
+	"coingecko": "sexone",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xC3f8143212871014B472EA83285aF7f25928DeE4",
+	"symbol": "SOHOTRN",
+	"name": "SOHOTRN",
+	"coingecko": "sohotrn",
+	"sources": [
+		"coingecko"
+	]
+}

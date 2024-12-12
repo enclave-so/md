@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x0DdE4811C4DD68Dc740A1D7997F33fF46CD186a9",
+	"symbol": "LILLIUS",
+	"name": "LILLIUS",
+	"coingecko": "lillius",
+	"sources": [
+		"coingecko"
+	]
+}

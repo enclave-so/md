@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xa247C6d23c8C7d223420700d16d189cFF9357F38",
+	"symbol": "Cheesed",
+	"name": "Cheesed",
+	"coingecko": "cheesed",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 100,
+	"address": "0x7eF541E2a22058048904fE5744f9c7E4C57AF717",
+	"symbol": "Balancer",
+	"name": "Balancer",
+	"coingecko": "balancer",
+	"sources": [
+		"coingecko"
+	]
+}

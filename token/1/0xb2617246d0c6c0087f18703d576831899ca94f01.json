@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xb2617246d0c6c0087f18703d576831899ca94f01",
+	"symbol": "Zignaly",
+	"name": "Zignaly",
+	"coingecko": "zignaly",
+	"sources": [
+		"coingecko"
+	]
+}

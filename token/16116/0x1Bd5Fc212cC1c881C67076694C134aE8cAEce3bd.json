@@ -1,0 +1,10 @@
+{
+	"chain": 16116,
+	"address": "0x1Bd5Fc212cC1c881C67076694C134aE8cAEce3bd",
+	"symbol": "Chain Colosseum Phoenix",
+	"name": "Chain Colosseum Phoenix",
+	"coingecko": "chainccolosseumphoenix",
+	"sources": [
+		"coingecko"
+	]
+}

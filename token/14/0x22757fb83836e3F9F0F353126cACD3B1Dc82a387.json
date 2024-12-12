@@ -1,0 +1,10 @@
+{
+	"chain": 14,
+	"address": "0x22757fb83836e3F9F0F353126cACD3B1Dc82a387",
+	"symbol": "FlareFox",
+	"name": "FlareFox",
+	"coingecko": "flarefox",
+	"sources": [
+		"coingecko"
+	]
+}

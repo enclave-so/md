@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x3F3Cd642E81d030D7b514a2aB5e3a5536bEb90Ec",
+	"symbol": "Rho",
+	"name": "Rho",
+	"coingecko": "rho-token",
+	"sources": [
+		"coingecko"
+	]
+}

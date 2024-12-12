@@ -1,0 +1,13 @@
+{
+	"chain": 42161,
+	"address": "0x346c574C56e1A4aAa8dc88Cda8F7EB12b39947aB",
+	"symbol": "SolvBTC.BBN",
+	"name": "SolvBTC Babylon",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x346c574C56e1A4aAa8dc88Cda8F7EB12b39947aB.jpg",
+	"coingecko": "solv-protocol-solvbtc-bbn",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

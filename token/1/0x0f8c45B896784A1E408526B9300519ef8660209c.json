@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x0f8c45B896784A1E408526B9300519ef8660209c",
+	"symbol": "XMax",
+	"name": "XMax",
+	"coingecko": "xmax",
+	"sources": [
+		"coingecko"
+	]
+}

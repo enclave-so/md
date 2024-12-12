@@ -1,0 +1,11 @@
+{
+	"chain": 42161,
+	"address": "0x739ca6D71365a08f584c8FC4e1029045Fa8ABC4B",
+	"symbol": "wsOHM",
+	"name": "Wrapped sOHM",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/arbitrum/assets/0x739ca6D71365a08f584c8FC4e1029045Fa8ABC4B/logo.png",
+	"sources": [
+		"sushiswap"
+	]
+}

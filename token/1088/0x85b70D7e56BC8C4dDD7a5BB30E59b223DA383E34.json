@@ -1,0 +1,10 @@
+{
+	"chain": 1088,
+	"address": "0x85b70D7e56BC8C4dDD7a5BB30E59b223DA383E34",
+	"symbol": "AraFi",
+	"name": "AraFi",
+	"coingecko": "arafi",
+	"sources": [
+		"coingecko"
+	]
+}

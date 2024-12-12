@@ -1,0 +1,11 @@
+{
+	"chain": 128,
+	"address": "0xA2c49cEe16a5E5bDEFDe931107dc1fae9f7773E3",
+	"symbol": "HDOT",
+	"name": "Heco-Peg HDOT Token",
+	"decimals": 18,
+	"logo": "https://hecoinfo.com/token/images/HDOT_32.png",
+	"sources": [
+		"sushiswap"
+	]
+}

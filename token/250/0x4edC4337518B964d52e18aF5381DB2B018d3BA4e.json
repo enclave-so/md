@@ -1,0 +1,10 @@
+{
+	"chain": 250,
+	"address": "0x4edC4337518B964d52e18aF5381DB2B018d3BA4e",
+	"symbol": "Pyro",
+	"name": "Pyro",
+	"coingecko": "pyro-2",
+	"sources": [
+		"coingecko"
+	]
+}

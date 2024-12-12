@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xd6203889C22D9fe5e938a9200f50FDFFE9dD8e02",
+	"symbol": "Strategic Bitcoin Reserve",
+	"name": "Strategic Bitcoin Reserve",
+	"coingecko": "strategic-bitcoin-reserve",
+	"sources": [
+		"coingecko"
+	]
+}

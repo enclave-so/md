@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0xCA5d8F8a8d49439357d3CF46Ca2e720702F132b8",
+	"symbol": "Gyroscope GYD",
+	"name": "Gyroscope GYD",
+	"coingecko": "gyroscope-gyd",
+	"sources": [
+		"coingecko"
+	]
+}

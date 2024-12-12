@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x1945E804B8A25b98ab140e58295404d768cA3F6B",
+	"symbol": "MOTION",
+	"name": "MOTION",
+	"coingecko": "motion-2",
+	"sources": [
+		"coingecko"
+	]
+}

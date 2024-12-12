@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x728f30fa2f100742C7949D1961804FA8E0B1387d",
+	"symbol": "GamerCoin",
+	"name": "GamerCoin",
+	"coingecko": "gamercoin",
+	"sources": [
+		"coingecko"
+	]
+}

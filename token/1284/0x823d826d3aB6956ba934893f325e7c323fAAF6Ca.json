@@ -1,0 +1,10 @@
+{
+	"chain": 1284,
+	"address": "0x823d826d3aB6956ba934893f325e7c323fAAF6Ca",
+	"symbol": "Hippo Wallet",
+	"name": "Hippo Wallet",
+	"coingecko": "hippopotamus",
+	"sources": [
+		"coingecko"
+	]
+}

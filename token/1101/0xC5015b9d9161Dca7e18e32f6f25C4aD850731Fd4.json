@@ -1,0 +1,13 @@
+{
+	"chain": 1101,
+	"address": "0xC5015b9d9161Dca7e18e32f6f25C4aD850731Fd4",
+	"symbol": "DAI",
+	"name": "Dai Stablecoin",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/polygon-zkevm/0xC5015b9d9161Dca7e18e32f6f25C4aD850731Fd4.jpg",
+	"coingecko": "polygon-zkevm-bridged-dai-polygon-zkevm",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

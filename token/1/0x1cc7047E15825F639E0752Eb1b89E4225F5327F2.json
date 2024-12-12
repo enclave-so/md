@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x1cc7047E15825F639E0752Eb1b89E4225F5327F2",
+	"symbol": "Pullix",
+	"name": "Pullix",
+	"coingecko": "pullix",
+	"sources": [
+		"coingecko"
+	]
+}

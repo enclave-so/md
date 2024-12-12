@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x24BfF4fE25B5807BAD49b2C08D79bB271766e68a",
+	"symbol": "Alea",
+	"name": "Alea",
+	"coingecko": "alea",
+	"sources": [
+		"coingecko"
+	]
+}

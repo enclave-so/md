@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0x114f1388fAB456c4bA31B1850b244Eedcd024136",
+	"symbol": "COOL",
+	"name": "Cool Cats",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x114f1388fAB456c4bA31B1850b244Eedcd024136.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

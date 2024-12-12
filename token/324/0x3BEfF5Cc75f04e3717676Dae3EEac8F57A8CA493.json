@@ -1,0 +1,10 @@
+{
+	"chain": 324,
+	"address": "0x3BEfF5Cc75f04e3717676Dae3EEac8F57A8CA493",
+	"symbol": "Basmati",
+	"name": "Basmati",
+	"coingecko": "basmati",
+	"sources": [
+		"coingecko"
+	]
+}

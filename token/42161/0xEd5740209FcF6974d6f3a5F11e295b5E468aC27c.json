@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0xEd5740209FcF6974d6f3a5F11e295b5E468aC27c",
+	"symbol": "KEWL EXCHANGE",
+	"name": "KEWL EXCHANGE",
+	"coingecko": "kewl-exchange",
+	"sources": [
+		"coingecko"
+	]
+}

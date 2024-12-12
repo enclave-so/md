@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xdDF7Fd345D54ff4B40079579d4C4670415DbfD0A",
+	"symbol": "SocialGood",
+	"name": "SocialGood",
+	"coingecko": "social-good-project",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1135,
+	"address": "0xF242275d3a6527d877f2c927a82D9b057609cc71",
+	"symbol": "Lisk Bridged USDC (Lisk)",
+	"name": "Lisk Bridged USDC (Lisk)",
+	"coingecko": "lisk-bridged-usdc",
+	"sources": [
+		"coingecko"
+	]
+}

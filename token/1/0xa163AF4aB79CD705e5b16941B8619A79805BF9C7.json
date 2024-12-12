@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xa163AF4aB79CD705e5b16941B8619A79805BF9C7",
+	"symbol": "BabyMarvin Inu",
+	"name": "BabyMarvin Inu",
+	"coingecko": "babymarvin-inu",
+	"sources": [
+		"coingecko"
+	]
+}

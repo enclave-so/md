@@ -1,0 +1,11 @@
+{
+	"chain": 137,
+	"address": "0x66d7FDCc7403f18cAE9b0e2e8385649D2AcBC12A",
+	"symbol": "ETH2x-FLI",
+	"name": "ETH 2x Flexible Leverage Index PoS",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x66d7FDCc7403f18cAE9b0e2e8385649D2AcBC12A/logo.png",
+	"sources": [
+		"sushiswap"
+	]
+}

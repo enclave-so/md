@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0x0BD48A8A9565385649D9d7f1c945D1d0C4543E26",
+	"symbol": "KSM",
+	"name": "Kusama",
+	"decimals": 12,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x0BD48A8A9565385649D9d7f1c945D1d0C4543E26.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

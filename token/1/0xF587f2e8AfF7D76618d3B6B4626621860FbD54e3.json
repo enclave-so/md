@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xF587f2e8AfF7D76618d3B6B4626621860FbD54e3",
+	"symbol": "cbBTC Core Morpho Vault",
+	"name": "cbBTC Core Morpho Vault",
+	"coingecko": "cbbtc-core-morpho-vault",
+	"sources": [
+		"coingecko"
+	]
+}

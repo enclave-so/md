@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xB36cF340a35f9860D0Bb59AFb0355580f0000DAD",
+	"symbol": "Padre",
+	"name": "Padre",
+	"coingecko": "padre",
+	"sources": [
+		"coingecko"
+	]
+}

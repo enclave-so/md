@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x8143182a775C54578c8B7b3Ef77982498866945D",
+	"symbol": "Wrapped QUIL",
+	"name": "Wrapped QUIL",
+	"coingecko": "wrapped-quil",
+	"sources": [
+		"coingecko"
+	]
+}

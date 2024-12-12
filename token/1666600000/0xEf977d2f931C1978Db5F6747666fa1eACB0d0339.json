@@ -1,0 +1,13 @@
+{
+	"chain": 1666600000,
+	"address": "0xEf977d2f931C1978Db5F6747666fa1eACB0d0339",
+	"symbol": "DAI",
+	"name": "Dai Stablecoin",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/dai.jpg",
+	"coingecko": "harmony-horizon-bridged-dai-harmony-shard-0",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 25,
+	"address": "0xC8AEa3858738A90B36b3D6eA4174702cfa2329f9",
+	"symbol": "Wabbit Hole",
+	"name": "Wabbit Hole",
+	"coingecko": "wabbit-hole",
+	"sources": [
+		"coingecko"
+	]
+}

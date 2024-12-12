@@ -1,0 +1,10 @@
+{
+	"chain": 1907,
+	"address": "0x0f5cA17123fE7E3f793c06351d6e0a679Af8047f",
+	"symbol": "Baby AlienB",
+	"name": "Baby AlienB",
+	"coingecko": "baby-alienb",
+	"sources": [
+		"coingecko"
+	]
+}

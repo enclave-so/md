@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x00a0d4f2fE50e023AEC0648271cE1a6616c702E2",
+	"symbol": "TOKHIT",
+	"name": "TOKHIT",
+	"coingecko": "tokhit",
+	"sources": [
+		"coingecko"
+	]
+}

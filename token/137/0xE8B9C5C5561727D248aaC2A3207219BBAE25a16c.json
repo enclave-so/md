@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xE8B9C5C5561727D248aaC2A3207219BBAE25a16c",
+	"symbol": "ShowPlus Chain 2.0",
+	"name": "ShowPlus Chain 2.0",
+	"coingecko": "show-plus-chain",
+	"sources": [
+		"coingecko"
+	]
+}

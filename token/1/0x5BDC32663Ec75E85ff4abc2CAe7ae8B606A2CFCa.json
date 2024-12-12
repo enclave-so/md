@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x5BDC32663Ec75E85ff4abc2CAe7ae8B606A2CFCa",
+	"symbol": "Cookies Protocol",
+	"name": "Cookies Protocol",
+	"coingecko": "cookies-protocol",
+	"sources": [
+		"coingecko"
+	]
+}

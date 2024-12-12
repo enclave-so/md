@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x0a2C375553e6965b42C135bb8B15a8914B08de0c",
+	"symbol": "Frog on ETH",
+	"name": "Frog on ETH",
+	"coingecko": "frog-on-eth",
+	"sources": [
+		"coingecko"
+	]
+}

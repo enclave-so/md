@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x82a0E6c02b91eC9f6ff943C0A933c03dBaa19689",
+	"symbol": "Wicrypt",
+	"name": "Wicrypt",
+	"coingecko": "wicrypt",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x98E1f56B334438E3f0bDe22D92f5bfD746e0631f",
+	"symbol": "Illuminati",
+	"name": "Illuminati",
+	"coingecko": "illuminati",
+	"sources": [
+		"coingecko"
+	]
+}

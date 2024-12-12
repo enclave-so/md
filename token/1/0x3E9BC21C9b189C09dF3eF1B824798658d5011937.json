@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0x3E9BC21C9b189C09dF3eF1B824798658d5011937",
+	"symbol": "LINA",
+	"name": "Linear Token",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x3E9BC21C9b189C09dF3eF1B824798658d5011937/logo.png",
+	"coingecko": "linear",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

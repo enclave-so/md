@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x7865eC47bEF9823AD0010c4970Ed90A5E8107E53",
+	"symbol": "NeoAudit AI",
+	"name": "NeoAudit AI",
+	"coingecko": "neoaudit-ai",
+	"sources": [
+		"coingecko"
+	]
+}

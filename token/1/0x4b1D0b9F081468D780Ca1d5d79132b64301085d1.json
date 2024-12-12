@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x4b1D0b9F081468D780Ca1d5d79132b64301085d1",
+	"symbol": "Lumerin",
+	"name": "Lumerin",
+	"coingecko": "lumerin",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x66186008C1050627F979d464eABb258860563dbE",
+	"symbol": "MediShares",
+	"name": "MediShares",
+	"coingecko": "medishares",
+	"sources": [
+		"coingecko"
+	]
+}

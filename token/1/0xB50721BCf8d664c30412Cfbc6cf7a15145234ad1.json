@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0xB50721BCf8d664c30412Cfbc6cf7a15145234ad1",
+	"symbol": "ARB",
+	"name": "Arbitrum",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network-logos/arbitrum.jpg",
+	"coingecko": "arbitrum",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

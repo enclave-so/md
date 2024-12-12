@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xBb63E6BE33Bc5B5386d7ab0529Dc6C400F2AC2eC",
+	"symbol": "Cuckadoodledoo",
+	"name": "Cuckadoodledoo",
+	"coingecko": "cuckadoodledoo",
+	"sources": [
+		"coingecko"
+	]
+}

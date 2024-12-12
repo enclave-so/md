@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x41EA5d41EEACc2D5c4072260945118a13bb7EbCE",
+	"symbol": "Creso",
+	"name": "Creso",
+	"coingecko": "creso-2",
+	"sources": [
+		"coingecko"
+	]
+}

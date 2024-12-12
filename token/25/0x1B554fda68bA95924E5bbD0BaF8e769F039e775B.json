@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0x1B554fda68bA95924E5bbD0BaF8e769F039e775B",
+	"symbol": "SPS",
+	"name": "SPS",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x1B554fda68bA95924E5bbD0BaF8e769F039e775B.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

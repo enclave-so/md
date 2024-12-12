@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xaa4fBC6809a8E1924520FC85282aC4C76A7671d7",
+	"symbol": "Unfettered Ecosystem",
+	"name": "Unfettered Ecosystem",
+	"coingecko": "the-unfettered-souls",
+	"sources": [
+		"coingecko"
+	]
+}

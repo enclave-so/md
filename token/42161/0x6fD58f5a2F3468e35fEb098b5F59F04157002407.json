@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x6fD58f5a2F3468e35fEb098b5F59F04157002407",
+	"symbol": "POGAI",
+	"name": "POGAI",
+	"coingecko": "pogai",
+	"sources": [
+		"coingecko"
+	]
+}

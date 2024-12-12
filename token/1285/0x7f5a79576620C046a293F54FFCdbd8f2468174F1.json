@@ -1,0 +1,13 @@
+{
+	"chain": 1285,
+	"address": "0x7f5a79576620C046a293F54FFCdbd8f2468174F1",
+	"symbol": "MAI",
+	"name": "Mai MiMatic",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xa3Fa99A148fA48D14Ed51d610c367C61876997F1/logo.png",
+	"coingecko": "mimatic",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

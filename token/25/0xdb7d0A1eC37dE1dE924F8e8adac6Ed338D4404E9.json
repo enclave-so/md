@@ -1,0 +1,13 @@
+{
+	"chain": 25,
+	"address": "0xdb7d0A1eC37dE1dE924F8e8adac6Ed338D4404E9",
+	"symbol": "VNO",
+	"name": "Veno",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xdb7d0A1eC37dE1dE924F8e8adac6Ed338D4404E9.jpg",
+	"coingecko": "veno-finance",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

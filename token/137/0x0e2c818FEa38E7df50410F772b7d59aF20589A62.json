@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x0e2c818FEa38E7df50410F772b7d59aF20589A62",
+	"symbol": "Dominium",
+	"name": "Dominium",
+	"coingecko": "dominium-2",
+	"sources": [
+		"coingecko"
+	]
+}

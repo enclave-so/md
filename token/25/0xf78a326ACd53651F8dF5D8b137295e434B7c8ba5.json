@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0xf78a326ACd53651F8dF5D8b137295e434B7c8ba5",
+	"symbol": "MATIC",
+	"name": "MATIC",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xf78a326ACd53651F8dF5D8b137295e434B7c8ba5.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

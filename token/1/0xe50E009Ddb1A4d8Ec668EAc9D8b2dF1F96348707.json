@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xe50E009Ddb1A4d8Ec668EAc9D8b2dF1F96348707",
+	"symbol": "Ctrl",
+	"name": "Ctrl",
+	"coingecko": "ctrl-wallet",
+	"sources": [
+		"coingecko"
+	]
+}

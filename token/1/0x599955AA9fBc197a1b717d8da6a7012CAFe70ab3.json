@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x599955AA9fBc197a1b717d8da6a7012CAFe70ab3",
+	"symbol": "Book of Pepe",
+	"name": "Book of Pepe",
+	"coingecko": "book-of-pepe",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x057153eb8ad87BD483Ff9EC4E411B8C3BcE90FF0",
+	"symbol": "Octopus Coin",
+	"name": "Octopus Coin",
+	"coingecko": "octopus-coin",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 324,
+	"address": "0x47EF4A5641992A72CFd57b9406c9D9cefEE8e0C4",
+	"symbol": "zkApes Token",
+	"name": "zkApes Token",
+	"coingecko": "zkapes-token",
+	"sources": [
+		"coingecko"
+	]
+}

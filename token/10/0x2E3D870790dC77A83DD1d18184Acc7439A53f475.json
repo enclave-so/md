@@ -1,0 +1,13 @@
+{
+	"chain": 10,
+	"address": "0x2E3D870790dC77A83DD1d18184Acc7439A53f475",
+	"symbol": "FRAX",
+	"name": "Frax",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/ZRX/logo.png",
+	"coingecko": "frax",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

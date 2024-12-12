@@ -1,0 +1,10 @@
+{
+	"chain": 1666600000,
+	"address": "0x9500A1FbEF7014dbD384633fD20bb1e6916d6Fca",
+	"symbol": "SparkPoint",
+	"name": "SparkPoint",
+	"coingecko": "sparkpoint",
+	"sources": [
+		"coingecko"
+	]
+}

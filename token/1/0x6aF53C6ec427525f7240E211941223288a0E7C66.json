@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x6aF53C6ec427525f7240E211941223288a0E7C66",
+	"symbol": "Warped Games",
+	"name": "Warped Games",
+	"coingecko": "warped-games",
+	"sources": [
+		"coingecko"
+	]
+}

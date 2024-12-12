@@ -1,0 +1,11 @@
+{
+	"chain": 199,
+	"address": "0x6E626c62D54554737697E633eF9578ac3C4Ba4Ea",
+	"symbol": "BUSD.e",
+	"name": "Binance USD Ethereum",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bttc/0x6E626c62D54554737697E633eF9578ac3C4Ba4Ea.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

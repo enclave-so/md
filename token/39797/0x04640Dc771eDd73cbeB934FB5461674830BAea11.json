@@ -1,0 +1,10 @@
+{
+	"chain": 39797,
+	"address": "0x04640Dc771eDd73cbeB934FB5461674830BAea11",
+	"symbol": "NEXO",
+	"name": "NEXO",
+	"coingecko": "nexo",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1666600000,
+	"address": "0x0000000000000000000000000000000000000000",
+	"symbol": "Wrapped AVAX",
+	"name": "Wrapped AVAX",
+	"coingecko": "wrapped-avax",
+	"sources": [
+		"coingecko"
+	]
+}

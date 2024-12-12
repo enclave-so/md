@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x9d3D07439069C9bbC8d626397cf98CB343aC0a72",
+	"symbol": "Technology Metal Network Global",
+	"name": "Technology Metal Network Global",
+	"coingecko": "technology-metal-network-global",
+	"sources": [
+		"coingecko"
+	]
+}

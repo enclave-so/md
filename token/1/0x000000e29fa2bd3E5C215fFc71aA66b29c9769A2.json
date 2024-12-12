@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x000000e29fa2bd3E5C215fFc71aA66b29c9769A2",
+	"symbol": "Ethereum Express",
+	"name": "Ethereum Express",
+	"coingecko": "ethereum-express",
+	"sources": [
+		"coingecko"
+	]
+}

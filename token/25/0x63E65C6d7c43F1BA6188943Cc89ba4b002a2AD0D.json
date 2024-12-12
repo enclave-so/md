@@ -1,0 +1,10 @@
+{
+	"chain": 25,
+	"address": "0x63E65C6d7c43F1BA6188943Cc89ba4b002a2AD0D",
+	"symbol": "Metaverse Hub",
+	"name": "Metaverse Hub",
+	"coingecko": "metaverse-hub",
+	"sources": [
+		"coingecko"
+	]
+}

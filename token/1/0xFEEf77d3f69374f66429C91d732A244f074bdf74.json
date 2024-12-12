@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xFEEf77d3f69374f66429C91d732A244f074bdf74",
+	"symbol": "Convex FXS",
+	"name": "Convex FXS",
+	"coingecko": "convex-fxs",
+	"sources": [
+		"coingecko"
+	]
+}

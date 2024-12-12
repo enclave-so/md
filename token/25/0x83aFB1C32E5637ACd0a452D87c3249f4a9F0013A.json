@@ -1,0 +1,13 @@
+{
+	"chain": 25,
+	"address": "0x83aFB1C32E5637ACd0a452D87c3249f4a9F0013A",
+	"symbol": "FUL",
+	"name": "Fulcrom",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x83aFB1C32E5637ACd0a452D87c3249f4a9F0013A.jpg",
+	"coingecko": "fulcrom",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

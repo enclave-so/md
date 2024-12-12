@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x701C244b988a513c945973dEFA05de933b23Fe1D",
+	"symbol": "OAX",
+	"name": "OAX",
+	"coingecko": "openanx",
+	"sources": [
+		"coingecko"
+	]
+}

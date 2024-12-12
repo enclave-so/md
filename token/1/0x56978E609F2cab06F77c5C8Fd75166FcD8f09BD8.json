@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x56978E609F2cab06F77c5C8Fd75166FcD8f09BD8",
+	"symbol": "GenieBot",
+	"name": "GenieBot",
+	"coingecko": "geniebot",
+	"sources": [
+		"coingecko"
+	]
+}

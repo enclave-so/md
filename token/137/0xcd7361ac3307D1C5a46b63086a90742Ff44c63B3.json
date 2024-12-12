@@ -1,0 +1,13 @@
+{
+	"chain": 137,
+	"address": "0xcd7361ac3307D1C5a46b63086a90742Ff44c63B3",
+	"symbol": "RAIDER",
+	"name": "Crypto Raider",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xcd7361ac3307D1C5a46b63086a90742Ff44c63B3/logo.png",
+	"coingecko": "crypto-raiders",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x3b21418081528845a6DF4e970bD2185545b712ba",
+	"symbol": "Chi Protocol",
+	"name": "Chi Protocol",
+	"coingecko": "chi-protocol",
+	"sources": [
+		"coingecko"
+	]
+}

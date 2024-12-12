@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xB281d84989c06e2A6CCdC5eA7BF1663c79a1c31A",
+	"symbol": "stoicDAO",
+	"name": "stoicDAO",
+	"coingecko": "stoicdao",
+	"sources": [
+		"coingecko"
+	]
+}

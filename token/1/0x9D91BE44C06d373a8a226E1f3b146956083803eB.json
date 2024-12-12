@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x9D91BE44C06d373a8a226E1f3b146956083803eB",
+	"symbol": "Aave KNC v1",
+	"name": "Aave KNC v1",
+	"coingecko": "aave-knc-v1",
+	"sources": [
+		"coingecko"
+	]
+}

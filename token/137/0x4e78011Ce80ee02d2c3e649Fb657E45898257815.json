@@ -1,0 +1,13 @@
+{
+	"chain": 137,
+	"address": "0x4e78011Ce80ee02d2c3e649Fb657E45898257815",
+	"symbol": "KLIMA",
+	"name": "KlimaDAO",
+	"decimals": 9,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x4e78011Ce80ee02d2c3e649Fb657E45898257815.jpg",
+	"coingecko": "klima-dao",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

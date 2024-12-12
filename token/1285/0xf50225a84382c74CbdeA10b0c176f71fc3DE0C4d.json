@@ -1,0 +1,11 @@
+{
+	"chain": 1285,
+	"address": "0xf50225a84382c74CbdeA10b0c176f71fc3DE0C4d",
+	"symbol": "WMOVR",
+	"name": "Wrapped Moonriver",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/movr.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 19,
+	"address": "0x9E2E6c16803878C18E54Ed74F05AeafCCe464626",
+	"symbol": "sFortuna Token",
+	"name": "sFortuna Token",
+	"coingecko": "sfortuna-token",
+	"sources": [
+		"coingecko"
+	]
+}

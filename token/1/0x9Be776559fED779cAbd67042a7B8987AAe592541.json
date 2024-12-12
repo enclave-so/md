@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x9Be776559fED779cAbd67042a7B8987AAe592541",
+	"symbol": "Bull Market",
+	"name": "Bull Market",
+	"coingecko": "bull-market",
+	"sources": [
+		"coingecko"
+	]
+}

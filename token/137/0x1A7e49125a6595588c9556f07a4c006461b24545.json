@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x1A7e49125a6595588c9556f07a4c006461b24545",
+	"symbol": "Aki Network",
+	"name": "Aki Network",
+	"coingecko": "aki-protocol",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x38E68A37E401F7271568CecaAc63c6B1e19130B4",
+	"symbol": "Banana Gun",
+	"name": "Banana Gun",
+	"coingecko": "banana-gun",
+	"sources": [
+		"coingecko"
+	]
+}

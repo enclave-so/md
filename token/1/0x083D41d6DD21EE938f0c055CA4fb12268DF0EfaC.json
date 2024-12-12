@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x083D41d6DD21EE938f0c055CA4fb12268DF0EfaC",
+	"symbol": "GogolCoin",
+	"name": "GogolCoin",
+	"coingecko": "gogolcoin",
+	"sources": [
+		"coingecko"
+	]
+}

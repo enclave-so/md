@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xd7c302fc3ac829C7E896a32c4Bd126f3e8Bd0a1f",
+	"symbol": "Bit2Me",
+	"name": "Bit2Me",
+	"coingecko": "bit2me",
+	"sources": [
+		"coingecko"
+	]
+}

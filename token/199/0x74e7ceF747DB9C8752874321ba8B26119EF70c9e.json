@@ -1,0 +1,11 @@
+{
+	"chain": 199,
+	"address": "0x74e7ceF747DB9C8752874321ba8B26119EF70c9e",
+	"symbol": "USDD.b",
+	"name": "Decentralized USD BSC",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bttc/0x17F235FD5974318E4E2a5e37919a209f7c37A6d1.jpgg",
+	"sources": [
+		"sushiswap"
+	]
+}

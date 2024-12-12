@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xf34B1Db61ACa1a371fE97BAd2606c9f534fb9D7D",
+	"symbol": "ArbiSmart",
+	"name": "ArbiSmart",
+	"coingecko": "arbismart-token",
+	"sources": [
+		"coingecko"
+	]
+}

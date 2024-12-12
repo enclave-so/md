@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xc4058f6A829DDD684E1b7589b33312827f0A47Bb",
+	"symbol": "aNDY",
+	"name": "aNDY",
+	"coingecko": "andy-erc",
+	"sources": [
+		"coingecko"
+	]
+}

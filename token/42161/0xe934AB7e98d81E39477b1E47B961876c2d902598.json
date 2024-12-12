@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0xe934AB7e98d81E39477b1E47B961876c2d902598",
+	"symbol": "Nola",
+	"name": "Nola",
+	"coingecko": "nola-2",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"chain": 137,
+	"address": "0x6985884C4392D348587B19cb9eAAf157F13271cd",
+	"symbol": "ZRO",
+	"name": "LayerZero",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x6985884C4392D348587B19cb9eAAf157F13271cd.jpg",
+	"coingecko": "layerzero",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

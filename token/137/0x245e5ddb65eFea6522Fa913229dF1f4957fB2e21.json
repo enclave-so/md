@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x245e5ddb65eFea6522Fa913229dF1f4957fB2e21",
+	"symbol": "LoserChick EGG",
+	"name": "LoserChick EGG",
+	"coingecko": "loserchick-egg",
+	"sources": [
+		"coingecko"
+	]
+}

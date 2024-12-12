@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x6e15A54B5EcAc17e58daDedDbe8506a7560252F9",
+	"symbol": "SynFutures",
+	"name": "SynFutures",
+	"coingecko": "synfutures",
+	"sources": [
+		"coingecko"
+	]
+}

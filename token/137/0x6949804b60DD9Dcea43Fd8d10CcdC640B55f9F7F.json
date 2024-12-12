@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x6949804b60DD9Dcea43Fd8d10CcdC640B55f9F7F",
+	"symbol": "BreederDAO",
+	"name": "BreederDAO",
+	"coingecko": "breederdao",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xDaA7699352AC8709f3D2fD092226d3DD7DA40474",
+	"symbol": "OPCAT",
+	"name": "OPCAT",
+	"coingecko": "opcat",
+	"sources": [
+		"coingecko"
+	]
+}

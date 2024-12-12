@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x4594CFfbFc09BC5e7eCF1C2e1C1e24F0f7D29036",
+	"symbol": "0 Knowledge Network",
+	"name": "0 Knowledge Network",
+	"coingecko": "0-knowledge-network",
+	"sources": [
+		"coingecko"
+	]
+}

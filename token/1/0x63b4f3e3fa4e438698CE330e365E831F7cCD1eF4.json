@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x63b4f3e3fa4e438698CE330e365E831F7cCD1eF4",
+	"symbol": "CyberFi",
+	"name": "CyberFi",
+	"coingecko": "cyberfi",
+	"sources": [
+		"coingecko"
+	]
+}

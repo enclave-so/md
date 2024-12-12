@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xFC4B8ED459e00e5400be803A9BB3954234FD50e3",
+	"symbol": "Aave WBTC v1",
+	"name": "Aave WBTC v1",
+	"coingecko": "aave-wbtc-v1",
+	"sources": [
+		"coingecko"
+	]
+}

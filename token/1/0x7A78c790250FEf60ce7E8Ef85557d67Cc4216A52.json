@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x7A78c790250FEf60ce7E8Ef85557d67Cc4216A52",
+	"symbol": "Gluteus Maximus by Virtuals",
+	"name": "Gluteus Maximus by Virtuals",
+	"coingecko": "gluteus-maximus-by-virtuals",
+	"sources": [
+		"coingecko"
+	]
+}

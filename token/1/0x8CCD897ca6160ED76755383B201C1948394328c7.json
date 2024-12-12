@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x8CCD897ca6160ED76755383B201C1948394328c7",
+	"symbol": "Balance AI",
+	"name": "Balance AI",
+	"coingecko": "balance-ai",
+	"sources": [
+		"coingecko"
+	]
+}

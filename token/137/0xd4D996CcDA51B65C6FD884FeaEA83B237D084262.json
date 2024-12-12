@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xd4D996CcDA51B65C6FD884FeaEA83B237D084262",
+	"symbol": "Algorix (ALOR)",
+	"name": "Algorix (ALOR)",
+	"coingecko": "algorix-alor",
+	"sources": [
+		"coingecko"
+	]
+}

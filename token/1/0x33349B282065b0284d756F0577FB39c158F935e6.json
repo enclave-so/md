@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x33349B282065b0284d756F0577FB39c158F935e6",
+	"symbol": "Maple",
+	"name": "Maple",
+	"coingecko": "maple",
+	"sources": [
+		"coingecko"
+	]
+}

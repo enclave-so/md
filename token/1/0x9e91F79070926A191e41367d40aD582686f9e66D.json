@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x9e91F79070926A191e41367d40aD582686f9e66D",
+	"symbol": "STYLE Token",
+	"name": "STYLE Token",
+	"coingecko": "style-protocol-2",
+	"sources": [
+		"coingecko"
+	]
+}

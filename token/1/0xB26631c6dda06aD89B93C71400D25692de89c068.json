@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xB26631c6dda06aD89B93C71400D25692de89c068",
+	"symbol": "Minds",
+	"name": "Minds",
+	"coingecko": "minds",
+	"sources": [
+		"coingecko"
+	]
+}

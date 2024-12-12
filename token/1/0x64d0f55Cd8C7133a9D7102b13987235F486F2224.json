@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x64d0f55Cd8C7133a9D7102b13987235F486F2224",
+	"symbol": "SwissBorg",
+	"name": "SwissBorg",
+	"coingecko": "swissborg",
+	"sources": [
+		"coingecko"
+	]
+}

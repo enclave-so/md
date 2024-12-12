@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x44AF2390d7ed22966D3E570BFfB648817E4335f0",
+	"symbol": "Kaarigar Connect",
+	"name": "Kaarigar Connect",
+	"coingecko": "kaarigar-connect",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x069F01CDD1E32D7BaB5fc81527df191835136C9D",
+	"symbol": "Apu Gurl",
+	"name": "Apu Gurl",
+	"coingecko": "apu-gurl",
+	"sources": [
+		"coingecko"
+	]
+}

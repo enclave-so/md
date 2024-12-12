@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x6EE2f71049DDE9a93B7c0EE1091b72aCf9b46810",
+	"symbol": "Liquid Mercury",
+	"name": "Liquid Mercury",
+	"coingecko": "liquid-mercury",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"chain": 250,
+	"address": "0x9E8862e39496BD336565Dd15cE2C0B90bc7dc121",
+	"symbol": "FOUR",
+	"name": "FourCoin",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/fantom/0x9E8862e39496BD336565Dd15cE2C0B90bc7dc121.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

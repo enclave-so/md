@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x74d2d73B455540B037298c0e0925BC702AEDbE4a",
+	"symbol": "Schrodinger",
+	"name": "Schrodinger",
+	"coingecko": "schrodinger",
+	"sources": [
+		"coingecko"
+	]
+}

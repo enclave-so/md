@@ -1,0 +1,10 @@
+{
+	"chain": 1313161554,
+	"address": "0x291C8FCeAcA3342B29CC36171DEB98106f712C66",
+	"symbol": "Pickle Finance",
+	"name": "Pickle Finance",
+	"coingecko": "pickle-finance",
+	"sources": [
+		"coingecko"
+	]
+}

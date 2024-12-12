@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x708383ae0e80E75377d664E4D6344404dede119A",
+	"symbol": "EarthMeta",
+	"name": "EarthMeta",
+	"coingecko": "earthmeta",
+	"sources": [
+		"coingecko"
+	]
+}

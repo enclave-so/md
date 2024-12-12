@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0x0c7D5ae016f806603CB1782bEa29AC69471CAb9c",
+	"symbol": "BFC",
+	"name": "Bifrost",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x0c7D5ae016f806603CB1782bEa29AC69471CAb9c/logo.png",
+	"coingecko": "bifrost",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

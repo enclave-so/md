@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xbe0Ed4138121EcFC5c0E56B40517da27E6c5226B",
+	"symbol": "Aethir",
+	"name": "Aethir",
+	"coingecko": "aethir",
+	"sources": [
+		"coingecko"
+	]
+}

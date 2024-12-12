@@ -1,0 +1,10 @@
+{
+	"chain": 321,
+	"address": "0x0039f574eE5cC39bdD162E9A88e3EB1f111bAF48",
+	"symbol": "KCC Bridged USDT (Kucoin Community Chain)",
+	"name": "KCC Bridged USDT (Kucoin Community Chain)",
+	"coingecko": "kucoin-bridged-usdt-kucoin-community-chain",
+	"sources": [
+		"coingecko"
+	]
+}

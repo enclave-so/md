@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0x747d6C858168B8cD6e537160320b5dE58FD3367C",
+	"symbol": "XLM",
+	"name": "XLM",
+	"decimals": 7,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x747d6C858168B8cD6e537160320b5dE58FD3367C.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

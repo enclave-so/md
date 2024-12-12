@@ -1,0 +1,10 @@
+{
+	"chain": 1116,
+	"address": "0xB555A396446570Ac2f4a62fFfb64b4b0D43F5B74",
+	"symbol": "CoreDaoSwap",
+	"name": "CoreDaoSwap",
+	"coingecko": "coredaoswap",
+	"sources": [
+		"coingecko"
+	]
+}

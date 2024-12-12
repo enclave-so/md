@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0xdE70AeD3d14d39b4955147EfcF272334bdB75AB5",
+	"symbol": "YachtingVerse",
+	"name": "YachtingVerse",
+	"coingecko": "yachtingverse-old",
+	"sources": [
+		"coingecko"
+	]
+}

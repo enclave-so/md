@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xA2c2C937333165d4c5f2dC5f31a43E1239FeCfeB",
+	"symbol": "Hera Finance",
+	"name": "Hera Finance",
+	"coingecko": "hera-finance",
+	"sources": [
+		"coingecko"
+	]
+}

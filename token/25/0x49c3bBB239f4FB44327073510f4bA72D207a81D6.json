@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0x49c3bBB239f4FB44327073510f4bA72D207a81D6",
+	"symbol": "PENDLE",
+	"name": "Pendle",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x49c3bBB239f4FB44327073510f4bA72D207a81D6.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

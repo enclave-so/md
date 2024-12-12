@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xB9D27Bc093ed0A3B7c18366266704CfE5E7Af77B",
+	"symbol": "Carbify",
+	"name": "Carbify",
+	"coingecko": "carbify",
+	"sources": [
+		"coingecko"
+	]
+}

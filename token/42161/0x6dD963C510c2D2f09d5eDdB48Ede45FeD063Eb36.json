@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x6dD963C510c2D2f09d5eDdB48Ede45FeD063Eb36",
+	"symbol": "Factor",
+	"name": "Factor",
+	"coingecko": "factor",
+	"sources": [
+		"coingecko"
+	]
+}

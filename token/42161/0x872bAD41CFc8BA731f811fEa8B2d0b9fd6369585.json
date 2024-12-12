@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x872bAD41CFc8BA731f811fEa8B2d0b9fd6369585",
+	"symbol": "BattleFly",
+	"name": "BattleFly",
+	"coingecko": "battlefly",
+	"sources": [
+		"coingecko"
+	]
+}

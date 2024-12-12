@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x8790f2fc7Ca2e7Db841307FB3f4e72a03Baf7b47",
+	"symbol": "Spillways",
+	"name": "Spillways",
+	"coingecko": "spillways",
+	"sources": [
+		"coingecko"
+	]
+}

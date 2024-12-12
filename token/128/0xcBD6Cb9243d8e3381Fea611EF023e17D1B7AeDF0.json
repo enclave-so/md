@@ -1,0 +1,10 @@
+{
+	"chain": 128,
+	"address": "0xcBD6Cb9243d8e3381Fea611EF023e17D1B7AeDF0",
+	"symbol": "BXH",
+	"name": "BXH",
+	"coingecko": "bxh",
+	"sources": [
+		"coingecko"
+	]
+}

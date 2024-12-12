@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x508df5aa4746bE37b5b6A69684DfD8BDC322219d",
+	"symbol": "Crafting Finance",
+	"name": "Crafting Finance",
+	"coingecko": "crafting-finance",
+	"sources": [
+		"coingecko"
+	]
+}

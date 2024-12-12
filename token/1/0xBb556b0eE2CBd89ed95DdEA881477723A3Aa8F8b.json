@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xBb556b0eE2CBd89ed95DdEA881477723A3Aa8F8b",
+	"symbol": "AliceNet",
+	"name": "AliceNet",
+	"coingecko": "alicenet",
+	"sources": [
+		"coingecko"
+	]
+}

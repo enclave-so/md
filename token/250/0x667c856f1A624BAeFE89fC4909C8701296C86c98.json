@@ -1,0 +1,10 @@
+{
+	"chain": 250,
+	"address": "0x667c856f1A624BAeFE89fC4909C8701296C86c98",
+	"symbol": "ONINO",
+	"name": "ONINO",
+	"coingecko": "oni-token",
+	"sources": [
+		"coingecko"
+	]
+}

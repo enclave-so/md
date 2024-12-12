@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0xEC13336bbd50790a00CDc0fEddF11287eaF92529",
+	"symbol": "gmUSD",
+	"name": "gmUSD",
+	"coingecko": "gmusd",
+	"sources": [
+		"coingecko"
+	]
+}

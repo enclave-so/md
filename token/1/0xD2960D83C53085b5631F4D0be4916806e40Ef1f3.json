@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xD2960D83C53085b5631F4D0be4916806e40Ef1f3",
+	"symbol": "OOFP",
+	"name": "OOFP",
+	"coingecko": "oofp",
+	"sources": [
+		"coingecko"
+	]
+}

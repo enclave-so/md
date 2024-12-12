@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xE749Ea14A2D18E361eD092EbefbA64D77a8B4EaC",
+	"symbol": "Digitex",
+	"name": "Digitex",
+	"coingecko": "digitex-futures-exchange",
+	"sources": [
+		"coingecko"
+	]
+}

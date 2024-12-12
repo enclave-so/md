@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0xd07d35368e04a839deE335e213302b21ef14Bb4a",
+	"symbol": "Crystal",
+	"name": "Crystal",
+	"coingecko": "crystal-erc404",
+	"sources": [
+		"coingecko"
+	]
+}

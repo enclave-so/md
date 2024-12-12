@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0x0acC0FEE1D86D2cD5AF372615bf59b298D50cd69",
+	"symbol": "ILSI",
+	"name": "Invest Like Stakeborg Index",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x0acC0FEE1D86D2cD5AF372615bf59b298D50cd69.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

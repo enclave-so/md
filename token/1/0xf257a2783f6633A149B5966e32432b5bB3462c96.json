@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xf257a2783f6633A149B5966e32432b5bB3462c96",
+	"symbol": "RagingElonMarsCoin",
+	"name": "RagingElonMarsCoin",
+	"coingecko": "ragingelonmarscoin",
+	"sources": [
+		"coingecko"
+	]
+}

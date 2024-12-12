@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x986df267Bb88A0a0be06DD4a1052E1BdEC1a6172",
+	"symbol": "HyperQuant",
+	"name": "HyperQuant",
+	"coingecko": "hyperquant-2",
+	"sources": [
+		"coingecko"
+	]
+}

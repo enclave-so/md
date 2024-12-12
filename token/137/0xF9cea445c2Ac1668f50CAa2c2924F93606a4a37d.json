@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xF9cea445c2Ac1668f50CAa2c2924F93606a4a37d",
+	"symbol": "Calvaria: DoE",
+	"name": "Calvaria: DoE",
+	"coingecko": "calvaria-doe",
+	"sources": [
+		"coingecko"
+	]
+}

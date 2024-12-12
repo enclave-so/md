@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x8A944BB731E302FDB3571350513F149F15fCBE34",
+	"symbol": "RIZZ",
+	"name": "RIZZ",
+	"coingecko": "rizz",
+	"sources": [
+		"coingecko"
+	]
+}

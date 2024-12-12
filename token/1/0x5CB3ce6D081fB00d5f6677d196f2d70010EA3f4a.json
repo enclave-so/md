@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x5CB3ce6D081fB00d5f6677d196f2d70010EA3f4a",
+	"symbol": "Busy",
+	"name": "Busy",
+	"coingecko": "busy-dao",
+	"sources": [
+		"coingecko"
+	]
+}

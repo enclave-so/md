@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xd9a9B4d466747E1Ebcb7aEb42784452F40452367",
+	"symbol": "Active Token",
+	"name": "Active Token",
+	"coingecko": "active-token",
+	"sources": [
+		"coingecko"
+	]
+}

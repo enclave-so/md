@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xBb3D7F42C58Abd83616Ad7C8C72473Ee46df2678",
+	"symbol": "VectorChat.ai",
+	"name": "VectorChat.ai",
+	"coingecko": "vectorchat-ai",
+	"sources": [
+		"coingecko"
+	]
+}

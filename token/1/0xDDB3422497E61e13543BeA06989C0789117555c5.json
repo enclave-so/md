@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xDDB3422497E61e13543BeA06989C0789117555c5",
+	"symbol": "COTI",
+	"name": "COTI",
+	"coingecko": "coti",
+	"sources": [
+		"coingecko"
+	]
+}

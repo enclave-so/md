@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x821A278dFff762c76410264303F25bF42e195C0C",
+	"symbol": "pETH",
+	"name": "pETH",
+	"coingecko": "peth",
+	"sources": [
+		"coingecko"
+	]
+}

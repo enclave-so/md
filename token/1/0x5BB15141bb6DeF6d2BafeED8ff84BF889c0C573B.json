@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x5BB15141bb6DeF6d2BafeED8ff84BF889c0C573B",
+	"symbol": "LakeViewMeta",
+	"name": "LakeViewMeta",
+	"coingecko": "lakeviewmeta",
+	"sources": [
+		"coingecko"
+	]
+}

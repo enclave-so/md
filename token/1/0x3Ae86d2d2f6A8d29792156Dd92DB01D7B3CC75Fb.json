@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x3Ae86d2d2f6A8d29792156Dd92DB01D7B3CC75Fb",
+	"symbol": "StakeEase Restaked ETH",
+	"name": "StakeEase Restaked ETH",
+	"coingecko": "stakeease-restaked-eth",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xed11c9BCF69fdD2EEFd9Fe751BfcA32f171D53Ae",
+	"symbol": "Koinos",
+	"name": "Koinos",
+	"coingecko": "koinos",
+	"sources": [
+		"coingecko"
+	]
+}

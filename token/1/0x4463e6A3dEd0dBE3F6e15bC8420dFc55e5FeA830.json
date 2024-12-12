@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x4463e6A3dEd0dBE3F6e15bC8420dFc55e5FeA830",
+	"symbol": "TXA",
+	"name": "TXA",
+	"coingecko": "txa",
+	"sources": [
+		"coingecko"
+	]
+}

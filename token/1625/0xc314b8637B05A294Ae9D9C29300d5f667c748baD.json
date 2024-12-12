@@ -1,0 +1,10 @@
+{
+	"chain": 1625,
+	"address": "0xc314b8637B05A294Ae9D9C29300d5f667c748baD",
+	"symbol": "Latch Staked ETH",
+	"name": "Latch Staked ETH",
+	"coingecko": "latch-staked-eth",
+	"sources": [
+		"coingecko"
+	]
+}

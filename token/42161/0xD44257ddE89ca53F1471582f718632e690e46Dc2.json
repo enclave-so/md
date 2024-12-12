@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0xD44257ddE89ca53F1471582f718632e690e46Dc2",
+	"symbol": "S",
+	"name": "S",
+	"coingecko": "s",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x3742f3Fcc56B2d46c7B8CA77c23be60Cd43Ca80a",
+	"symbol": "Deq Staked AVAIL",
+	"name": "Deq Staked AVAIL",
+	"coingecko": "staked-avail",
+	"sources": [
+		"coingecko"
+	]
+}

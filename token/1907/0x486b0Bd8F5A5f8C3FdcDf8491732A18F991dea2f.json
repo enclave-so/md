@@ -1,0 +1,10 @@
+{
+	"chain": 1907,
+	"address": "0x486b0Bd8F5A5f8C3FdcDf8491732A18F991dea2f",
+	"symbol": "GasChameleon",
+	"name": "GasChameleon",
+	"coingecko": "gaschameleon",
+	"sources": [
+		"coingecko"
+	]
+}

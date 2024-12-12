@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x75Ecb52e403C617679FBd3e77A50f9d10A842387",
+	"symbol": "CSR",
+	"name": "CSR",
+	"coingecko": "csr",
+	"sources": [
+		"coingecko"
+	]
+}

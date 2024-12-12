@@ -1,0 +1,10 @@
+{
+	"chain": 2222,
+	"address": "0xCe82db637A2D750380ef27063518eAa263fbe10E",
+	"symbol": "Hover",
+	"name": "Hover",
+	"coingecko": "hover",
+	"sources": [
+		"coingecko"
+	]
+}

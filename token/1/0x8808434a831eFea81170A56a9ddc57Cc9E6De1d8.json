@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x8808434a831eFea81170A56a9ddc57Cc9E6De1d8",
+	"symbol": "Bork on Ethereum",
+	"name": "Bork on Ethereum",
+	"coingecko": "bork-on-ethereum",
+	"sources": [
+		"coingecko"
+	]
+}

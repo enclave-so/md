@@ -1,0 +1,10 @@
+{
+	"chain": 1907,
+	"address": "0x6b60afC542bA9669377a54734CF7D322BacFb261",
+	"symbol": "FC Sion Fan Token",
+	"name": "FC Sion Fan Token",
+	"coingecko": "fc-sion-fan-token",
+	"sources": [
+		"coingecko"
+	]
+}

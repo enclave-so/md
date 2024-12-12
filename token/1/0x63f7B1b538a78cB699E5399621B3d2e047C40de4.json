@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x63f7B1b538a78cB699E5399621B3d2e047C40de4",
+	"symbol": "Maxity",
+	"name": "Maxity",
+	"coingecko": "maxity",
+	"sources": [
+		"coingecko"
+	]
+}

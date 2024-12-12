@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x149D8290F653dEB8e34c037D239d3d8EeE9de5aD",
+	"symbol": "Kingdomverse",
+	"name": "Kingdomverse",
+	"coingecko": "kingdomverse",
+	"sources": [
+		"coingecko"
+	]
+}

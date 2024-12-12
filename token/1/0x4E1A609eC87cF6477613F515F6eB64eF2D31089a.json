@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x4E1A609eC87cF6477613F515F6eB64eF2D31089a",
+	"symbol": "Aktionariat Green Consensus AG Tokenized Shares",
+	"name": "Aktionariat Green Consensus AG Tokenized Shares",
+	"coingecko": "aktionariat-green-consensus-ag-tokenized-shares",
+	"sources": [
+		"coingecko"
+	]
+}

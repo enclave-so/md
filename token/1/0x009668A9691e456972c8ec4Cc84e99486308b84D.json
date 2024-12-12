@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x009668A9691e456972c8ec4Cc84e99486308b84D",
+	"symbol": "Terareum [OLD]",
+	"name": "Terareum [OLD]",
+	"coingecko": "terareum",
+	"sources": [
+		"coingecko"
+	]
+}

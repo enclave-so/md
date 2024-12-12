@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x5dE869E3E62B0FB2c15573246BA3Bb3Fd97a2275",
+	"symbol": "Sheboshis",
+	"name": "Sheboshis",
+	"coingecko": "sheboshis-2",
+	"sources": [
+		"coingecko"
+	]
+}

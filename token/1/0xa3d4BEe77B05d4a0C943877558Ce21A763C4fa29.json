@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xa3d4BEe77B05d4a0C943877558Ce21A763C4fa29",
+	"symbol": "The Root Network",
+	"name": "The Root Network",
+	"coingecko": "the-root-network",
+	"sources": [
+		"coingecko"
+	]
+}

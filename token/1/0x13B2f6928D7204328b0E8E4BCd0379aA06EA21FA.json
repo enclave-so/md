@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x13B2f6928D7204328b0E8E4BCd0379aA06EA21FA",
+	"symbol": "Aave AMM WBTC",
+	"name": "Aave AMM WBTC",
+	"coingecko": "aave-amm-wbtc",
+	"sources": [
+		"coingecko"
+	]
+}

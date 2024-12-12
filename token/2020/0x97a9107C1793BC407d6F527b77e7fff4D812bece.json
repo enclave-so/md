@@ -1,0 +1,10 @@
+{
+	"chain": 2020,
+	"address": "0x97a9107C1793BC407d6F527b77e7fff4D812bece",
+	"symbol": "Axie Infinity",
+	"name": "Axie Infinity",
+	"coingecko": "axie-infinity",
+	"sources": [
+		"coingecko"
+	]
+}

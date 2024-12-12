@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x3C1e2CcE6Af05d4ADF0a9D40a64f1A3dBB47a7b0",
+	"symbol": "Pizza",
+	"name": "Pizza",
+	"coingecko": "pizza-on-eth",
+	"sources": [
+		"coingecko"
+	]
+}

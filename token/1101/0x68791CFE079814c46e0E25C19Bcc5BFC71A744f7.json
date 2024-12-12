@@ -1,0 +1,11 @@
+{
+	"chain": 1101,
+	"address": "0x68791CFE079814c46e0E25C19Bcc5BFC71A744f7",
+	"symbol": "AAVE",
+	"name": "AAVE",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/polygon-zkevm/0x68791CFE079814c46e0E25C19Bcc5BFC71A744f7.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

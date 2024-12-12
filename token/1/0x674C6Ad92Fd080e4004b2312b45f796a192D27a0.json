@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0x674C6Ad92Fd080e4004b2312b45f796a192D27a0",
+	"symbol": "USDN",
+	"name": "Neutrino USD",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x674C6Ad92Fd080e4004b2312b45f796a192D27a0/logo.png",
+	"coingecko": "neutrino",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

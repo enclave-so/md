@@ -1,0 +1,11 @@
+{
+	"chain": 250,
+	"address": "0x2b9C073Ec670b70F417bbaf3BbB052AA563A0a23",
+	"symbol": "fKRW",
+	"name": "fKRW",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/fkrw.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

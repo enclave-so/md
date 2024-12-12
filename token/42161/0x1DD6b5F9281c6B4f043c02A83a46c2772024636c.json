@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x1DD6b5F9281c6B4f043c02A83a46c2772024636c",
+	"symbol": "Lumi Finance LUAUSD",
+	"name": "Lumi Finance LUAUSD",
+	"coingecko": "lumi-finance-luausd",
+	"sources": [
+		"coingecko"
+	]
+}

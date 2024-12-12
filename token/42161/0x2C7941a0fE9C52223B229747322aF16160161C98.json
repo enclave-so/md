@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x2C7941a0fE9C52223B229747322aF16160161C98",
+	"symbol": "Jarvis",
+	"name": "Jarvis",
+	"coingecko": "jarvis-2",
+	"sources": [
+		"coingecko"
+	]
+}

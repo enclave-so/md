@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x6F3Cc27E17a0f2e52D8e7693FF0d892Cea1854bF",
+	"symbol": "Gooeys",
+	"name": "Gooeys",
+	"coingecko": "gooeys",
+	"sources": [
+		"coingecko"
+	]
+}

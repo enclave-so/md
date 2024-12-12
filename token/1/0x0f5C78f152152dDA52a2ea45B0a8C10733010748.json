@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x0f5C78f152152dDA52a2ea45B0a8C10733010748",
+	"symbol": "XOX Labs",
+	"name": "XOX Labs",
+	"coingecko": "xox-labs",
+	"sources": [
+		"coingecko"
+	]
+}

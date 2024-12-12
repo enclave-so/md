@@ -1,0 +1,10 @@
+{
+	"chain": 1285,
+	"address": "0x9A92B5EBf1F6F6f7d93696FCD44e5Cf75035A756",
+	"symbol": "Huckleberry",
+	"name": "Huckleberry",
+	"coingecko": "huckleberry",
+	"sources": [
+		"coingecko"
+	]
+}

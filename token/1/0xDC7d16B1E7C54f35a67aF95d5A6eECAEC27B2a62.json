@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xDC7d16B1E7C54f35a67aF95d5A6eECAEC27B2a62",
+	"symbol": "Pulse AI",
+	"name": "Pulse AI",
+	"coingecko": "pulse-ai",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 39797,
+	"address": "0x2483a716A4A5476da5E657be13A37Cf62b608AB6",
+	"symbol": "Populous",
+	"name": "Populous",
+	"coingecko": "populous",
+	"sources": [
+		"coingecko"
+	]
+}

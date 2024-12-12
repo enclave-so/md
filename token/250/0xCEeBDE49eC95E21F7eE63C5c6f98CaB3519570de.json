@@ -1,0 +1,10 @@
+{
+	"chain": 250,
+	"address": "0xCEeBDE49eC95E21F7eE63C5c6f98CaB3519570de",
+	"symbol": "Wrapped Statera",
+	"name": "Wrapped Statera",
+	"coingecko": "wrapped-statera",
+	"sources": [
+		"coingecko"
+	]
+}

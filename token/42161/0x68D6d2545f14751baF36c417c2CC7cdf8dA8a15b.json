@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x68D6d2545f14751baF36c417c2CC7cdf8dA8a15b",
+	"symbol": "Plutus SYK",
+	"name": "Plutus SYK",
+	"coingecko": "plutus-syk",
+	"sources": [
+		"coingecko"
+	]
+}

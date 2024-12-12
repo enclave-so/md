@@ -1,0 +1,10 @@
+{
+	"chain": 39797,
+	"address": "0x204a90B57d15417864080df1Cd6e907831c206A6",
+	"symbol": "Enjin Coin",
+	"name": "Enjin Coin",
+	"coingecko": "enjincoin",
+	"sources": [
+		"coingecko"
+	]
+}

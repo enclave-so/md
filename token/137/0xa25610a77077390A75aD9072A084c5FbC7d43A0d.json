@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xa25610a77077390A75aD9072A084c5FbC7d43A0d",
+	"symbol": "Monsoon Finance",
+	"name": "Monsoon Finance",
+	"coingecko": "monsoon-finance",
+	"sources": [
+		"coingecko"
+	]
+}

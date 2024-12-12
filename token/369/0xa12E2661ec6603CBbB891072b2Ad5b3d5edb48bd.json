@@ -1,0 +1,10 @@
+{
+	"chain": 369,
+	"address": "0xa12E2661ec6603CBbB891072b2Ad5b3d5edb48bd",
+	"symbol": "Pulse Inu",
+	"name": "Pulse Inu",
+	"coingecko": "pulse-inu-2",
+	"sources": [
+		"coingecko"
+	]
+}

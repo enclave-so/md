@@ -1,0 +1,10 @@
+{
+	"chain": 324,
+	"address": "0xE75A17b4F5c4F844688d5670B684515d7c785E63",
+	"symbol": "Veno Finance",
+	"name": "Veno Finance",
+	"coingecko": "veno-finance",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 361,
+	"address": "0x71dC74256d1acB42A216CC5c3c097B8dA71026b0",
+	"symbol": "Pog Coin",
+	"name": "Pog Coin",
+	"coingecko": "pog-digital",
+	"sources": [
+		"coingecko"
+	]
+}

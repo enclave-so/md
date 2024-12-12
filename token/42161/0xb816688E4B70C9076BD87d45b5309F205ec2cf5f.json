@@ -1,0 +1,11 @@
+{
+	"chain": 42161,
+	"address": "0xb816688E4B70C9076BD87d45b5309F205ec2cf5f",
+	"symbol": "pOIL",
+	"name": "Poison.Finance Oil Potion",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xb816688E4B70C9076BD87d45b5309F205ec2cf5f.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 10,
+	"address": "0x15e770B95Edd73fD96b02EcE0266247D50895E76",
+	"symbol": "Jarvis Reward",
+	"name": "Jarvis Reward",
+	"coingecko": "jarvis-reward-token",
+	"sources": [
+		"coingecko"
+	]
+}

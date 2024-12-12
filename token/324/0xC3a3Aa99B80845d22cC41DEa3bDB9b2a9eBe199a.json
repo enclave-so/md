@@ -1,0 +1,10 @@
+{
+	"chain": 324,
+	"address": "0xC3a3Aa99B80845d22cC41DEa3bDB9b2a9eBe199a",
+	"symbol": "ZKDX",
+	"name": "ZKDX",
+	"coingecko": "zkdx",
+	"sources": [
+		"coingecko"
+	]
+}

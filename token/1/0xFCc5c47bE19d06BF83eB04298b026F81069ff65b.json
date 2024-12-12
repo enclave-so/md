@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xFCc5c47bE19d06BF83eB04298b026F81069ff65b",
+	"symbol": "Yearn CRV",
+	"name": "Yearn CRV",
+	"coingecko": "yearn-crv",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x154e35c2b0024B3e079c5c5e4fC31c979c189cCB",
+	"symbol": "Raid",
+	"name": "Raid",
+	"coingecko": "raid-token",
+	"sources": [
+		"coingecko"
+	]
+}

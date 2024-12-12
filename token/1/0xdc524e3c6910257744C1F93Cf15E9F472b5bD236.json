@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xdc524e3c6910257744C1F93Cf15E9F472b5bD236",
+	"symbol": "Witch Token",
+	"name": "Witch Token",
+	"coingecko": "witch-token",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xFD26e39807772251c3BB90fb1fCD9CE5b80c5C24",
+	"symbol": "Codex Multichain",
+	"name": "Codex Multichain",
+	"coingecko": "codex-multichain",
+	"sources": [
+		"coingecko"
+	]
+}

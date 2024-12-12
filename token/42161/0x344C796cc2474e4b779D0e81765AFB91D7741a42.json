@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x344C796cc2474e4b779D0e81765AFB91D7741a42",
+	"symbol": "Garffeldo",
+	"name": "Garffeldo",
+	"coingecko": "garffeldo",
+	"sources": [
+		"coingecko"
+	]
+}

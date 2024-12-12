@@ -1,0 +1,10 @@
+{
+	"chain": 10,
+	"address": "0x81C9A7B55A4df39A9B7B5F781ec0e53539694873",
+	"symbol": "Exactly USD.e Coin",
+	"name": "Exactly USD.e Coin",
+	"coingecko": "exactly-usdc",
+	"sources": [
+		"coingecko"
+	]
+}

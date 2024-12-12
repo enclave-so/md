@@ -1,0 +1,10 @@
+{
+	"chain": 16507,
+	"address": "0xF8213760f3A91C8092bc9D6c877b5623610f2913",
+	"symbol": "Shitcats",
+	"name": "Shitcats",
+	"coingecko": "shitcats",
+	"sources": [
+		"coingecko"
+	]
+}

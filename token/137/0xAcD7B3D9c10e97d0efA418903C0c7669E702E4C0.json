@@ -1,0 +1,11 @@
+{
+	"chain": 137,
+	"address": "0xAcD7B3D9c10e97d0efA418903C0c7669E702E4C0",
+	"symbol": "ELE",
+	"name": "Eleven.finance",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xAcD7B3D9c10e97d0efA418903C0c7669E702E4C0/logo.png",
+	"sources": [
+		"sushiswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x7137e8a3b069C3F787c4fFbb901b91E4bA47d082",
+	"symbol": "Zeus",
+	"name": "Zeus",
+	"coingecko": "zeuspepesdog",
+	"sources": [
+		"coingecko"
+	]
+}

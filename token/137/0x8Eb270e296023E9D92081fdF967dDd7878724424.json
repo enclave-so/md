@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x8Eb270e296023E9D92081fdF967dDd7878724424",
+	"symbol": "Aave v3 GHST",
+	"name": "Aave v3 GHST",
+	"coingecko": "aave-v3-ghst",
+	"sources": [
+		"coingecko"
+	]
+}

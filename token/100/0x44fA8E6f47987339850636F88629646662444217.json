@@ -1,0 +1,10 @@
+{
+	"chain": 100,
+	"address": "0x44fA8E6f47987339850636F88629646662444217",
+	"symbol": "OmniBridge Bridged DAI (Gnosis Chain)",
+	"name": "OmniBridge Bridged DAI (Gnosis Chain)",
+	"coingecko": "omnibridge-bridged-dai-gnosis-chain",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xF868939Ee81F04f463010BC52EAb91c0839eF08c",
+	"symbol": "Attack Wagon",
+	"name": "Attack Wagon",
+	"coingecko": "attack-wagon",
+	"sources": [
+		"coingecko"
+	]
+}

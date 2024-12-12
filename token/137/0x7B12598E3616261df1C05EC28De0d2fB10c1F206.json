@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x7B12598E3616261df1C05EC28De0d2fB10c1F206",
+	"symbol": "COCA",
+	"name": "COCA",
+	"coingecko": "coca",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xCa4B70BEcCAbcE29efa5bC5C86311E5D38461842",
+	"symbol": "Sybulls",
+	"name": "Sybulls",
+	"coingecko": "sybulls",
+	"sources": [
+		"coingecko"
+	]
+}

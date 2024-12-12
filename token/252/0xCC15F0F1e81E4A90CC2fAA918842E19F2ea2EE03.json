@@ -1,0 +1,10 @@
+{
+	"chain": 252,
+	"address": "0xCC15F0F1e81E4A90CC2fAA918842E19F2ea2EE03",
+	"symbol": "Krypto Fraxtal Chicken",
+	"name": "Krypto Fraxtal Chicken",
+	"coingecko": "krypto-fraxtal-chicken",
+	"sources": [
+		"coingecko"
+	]
+}

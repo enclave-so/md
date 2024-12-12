@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x7189fb5B6504bbfF6a852B13B7B82a3c118fDc27",
+	"symbol": "Ether.fi",
+	"name": "Ether.fi",
+	"coingecko": "ether-fi",
+	"sources": [
+		"coingecko"
+	]
+}

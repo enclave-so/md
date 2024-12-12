@@ -1,0 +1,10 @@
+{
+	"chain": 1116,
+	"address": "0x496Bb259D0117E89B2e73433524e9838c3073e60",
+	"symbol": "UnityCore",
+	"name": "UnityCore",
+	"coingecko": "unitycore",
+	"sources": [
+		"coingecko"
+	]
+}

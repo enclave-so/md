@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x6ab4E20f36ca48B61ECd66c0450fDf665Fa130be",
+	"symbol": "DOLZ.io",
+	"name": "DOLZ.io",
+	"coingecko": "dolz-io",
+	"sources": [
+		"coingecko"
+	]
+}

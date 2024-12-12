@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x8d65a2eaBDE4B31cbD7E43F27E47559d1CCec86c",
+	"symbol": "Xeon Protocol",
+	"name": "Xeon Protocol",
+	"coingecko": "xeon-protocol",
+	"sources": [
+		"coingecko"
+	]
+}

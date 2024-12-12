@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xf0Ee6b27b759C9893Ce4f094b49ad28fd15A23e4",
+	"symbol": "Enigma",
+	"name": "Enigma",
+	"coingecko": "enigma",
+	"sources": [
+		"coingecko"
+	]
+}

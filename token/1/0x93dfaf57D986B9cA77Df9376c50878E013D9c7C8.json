@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x93dfaf57D986B9cA77Df9376c50878E013D9c7C8",
+	"symbol": "Unique One",
+	"name": "Unique One",
+	"coingecko": "unique-one",
+	"sources": [
+		"coingecko"
+	]
+}

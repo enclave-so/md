@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x00e5646f60AC6Fb446f621d146B6E1886f002905",
+	"symbol": "Rai Reflex Index",
+	"name": "Rai Reflex Index",
+	"coingecko": "rai",
+	"sources": [
+		"coingecko"
+	]
+}

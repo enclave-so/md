@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xde654f497A563dd7A121c176a125dD2F11F13a83",
+	"symbol": "WeatherXM",
+	"name": "WeatherXM",
+	"coingecko": "weatherxm-network",
+	"sources": [
+		"coingecko"
+	]
+}

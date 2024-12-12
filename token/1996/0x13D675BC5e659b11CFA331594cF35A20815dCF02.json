@@ -1,0 +1,10 @@
+{
+	"chain": 1996,
+	"address": "0x13D675BC5e659b11CFA331594cF35A20815dCF02",
+	"symbol": "Sanko Bridged USDC (Sanko)",
+	"name": "Sanko Bridged USDC (Sanko)",
+	"coingecko": "sanko-bridged-usdc-sanko",
+	"sources": [
+		"coingecko"
+	]
+}

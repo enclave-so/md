@@ -1,0 +1,13 @@
+{
+	"chain": 2046399126,
+	"address": "0xE0595a049d02b7674572b0d59cd4880Db60EDC50",
+	"symbol": "SKL",
+	"name": "SKALE",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/skale-europa/0xE0595a049d02b7674572b0d59cd4880Db60EDC50.jpg",
+	"coingecko": "skale",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 39797,
+	"address": "0x1833e138fadf220Eb951A8590B8BA9058785DDDe",
+	"symbol": "Celer Network",
+	"name": "Celer Network",
+	"coingecko": "celer-network",
+	"sources": [
+		"coingecko"
+	]
+}

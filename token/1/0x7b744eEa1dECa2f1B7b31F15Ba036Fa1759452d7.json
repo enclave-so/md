@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x7b744eEa1dECa2f1B7b31F15Ba036Fa1759452d7",
+	"symbol": "El Hippo",
+	"name": "El Hippo",
+	"coingecko": "el-hippo",
+	"sources": [
+		"coingecko"
+	]
+}

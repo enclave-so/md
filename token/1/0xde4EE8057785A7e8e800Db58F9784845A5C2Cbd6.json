@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xde4EE8057785A7e8e800Db58F9784845A5C2Cbd6",
+	"symbol": "DeXe",
+	"name": "DeXe",
+	"coingecko": "dexe",
+	"sources": [
+		"coingecko"
+	]
+}

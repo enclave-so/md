@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xa76cec201e939660F8afb1FB8d5865D069dF0750",
+	"symbol": "Wanna Bot",
+	"name": "Wanna Bot",
+	"coingecko": "wanna-bot",
+	"sources": [
+		"coingecko"
+	]
+}

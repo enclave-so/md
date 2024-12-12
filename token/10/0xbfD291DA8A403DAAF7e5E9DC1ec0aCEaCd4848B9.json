@@ -1,0 +1,13 @@
+{
+	"chain": 10,
+	"address": "0xbfD291DA8A403DAAF7e5E9DC1ec0aCEaCd4848B9",
+	"symbol": "USX",
+	"name": "dForce USD",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/USX/logo.svg",
+	"coingecko": "token-dforce-usd",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

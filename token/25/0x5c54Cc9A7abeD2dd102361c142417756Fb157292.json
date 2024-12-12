@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0x5c54Cc9A7abeD2dd102361c142417756Fb157292",
+	"symbol": "EGLD",
+	"name": "Elrond",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x5c54Cc9A7abeD2dd102361c142417756Fb157292.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

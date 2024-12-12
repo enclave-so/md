@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xcC98d9587786E06Fcfd94597a078a1D0389e8A15",
+	"symbol": "Infinect",
+	"name": "Infinect",
+	"coingecko": "infinect",
+	"sources": [
+		"coingecko"
+	]
+}

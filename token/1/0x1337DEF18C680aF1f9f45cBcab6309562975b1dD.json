@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0x1337DEF18C680aF1f9f45cBcab6309562975b1dD",
+	"symbol": "arNXM",
+	"name": "Armor NXM",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/arnxm.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

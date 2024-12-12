@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x2f75113b13D136F861d212Fa9b572F2C79Ac81C4",
+	"symbol": "Ekta",
+	"name": "Ekta",
+	"coingecko": "ekta-2",
+	"sources": [
+		"coingecko"
+	]
+}

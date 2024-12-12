@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x7d51888C5ABb7CDfa9cdd6A50673c7F8afAccD7F",
+	"symbol": "DuckDAO",
+	"name": "DuckDAO",
+	"coingecko": "duckdao",
+	"sources": [
+		"coingecko"
+	]
+}

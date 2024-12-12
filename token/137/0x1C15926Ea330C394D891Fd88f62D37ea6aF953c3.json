@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x1C15926Ea330C394D891Fd88f62D37ea6aF953c3",
+	"symbol": "Affi Network",
+	"name": "Affi Network",
+	"coingecko": "affi-network",
+	"sources": [
+		"coingecko"
+	]
+}

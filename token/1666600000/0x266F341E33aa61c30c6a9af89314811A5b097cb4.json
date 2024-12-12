@@ -1,0 +1,10 @@
+{
+	"chain": 1666600000,
+	"address": "0x266F341E33aa61c30c6a9af89314811A5b097cb4",
+	"symbol": "Storj",
+	"name": "Storj",
+	"coingecko": "storj",
+	"sources": [
+		"coingecko"
+	]
+}

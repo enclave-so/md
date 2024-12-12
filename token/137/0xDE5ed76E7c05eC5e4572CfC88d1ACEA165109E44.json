@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xDE5ed76E7c05eC5e4572CfC88d1ACEA165109E44",
+	"symbol": "DEUS Finance",
+	"name": "DEUS Finance",
+	"coingecko": "deus-finance-2",
+	"sources": [
+		"coingecko"
+	]
+}

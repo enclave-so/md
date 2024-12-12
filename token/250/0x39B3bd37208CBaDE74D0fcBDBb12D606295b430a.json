@@ -1,0 +1,10 @@
+{
+	"chain": 250,
+	"address": "0x39B3bd37208CBaDE74D0fcBDBb12D606295b430a",
+	"symbol": "Geist FTM",
+	"name": "Geist FTM",
+	"coingecko": "geist-ftm",
+	"sources": [
+		"coingecko"
+	]
+}

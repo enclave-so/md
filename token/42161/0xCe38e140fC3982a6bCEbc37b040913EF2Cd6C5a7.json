@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0xCe38e140fC3982a6bCEbc37b040913EF2Cd6C5a7",
+	"symbol": "Dinari AAPL",
+	"name": "Dinari AAPL",
+	"coingecko": "dinari-aapl-dshares",
+	"sources": [
+		"coingecko"
+	]
+}

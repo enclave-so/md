@@ -1,0 +1,10 @@
+{
+	"chain": 1088,
+	"address": "0x1affBc17938a25d245e1B7eC6f2fc949df8E9760",
+	"symbol": "Paper",
+	"name": "Paper",
+	"coingecko": "paper-fantom",
+	"sources": [
+		"coingecko"
+	]
+}

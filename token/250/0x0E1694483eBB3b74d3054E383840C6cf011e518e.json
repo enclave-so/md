@@ -1,0 +1,13 @@
+{
+	"chain": 250,
+	"address": "0x0E1694483eBB3b74d3054E383840C6cf011e518e",
+	"symbol": "sUSD",
+	"name": "Synth sUSD",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/susd.jpg",
+	"coingecko": "nusd",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

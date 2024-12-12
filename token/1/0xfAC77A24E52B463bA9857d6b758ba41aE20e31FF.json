@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xfAC77A24E52B463bA9857d6b758ba41aE20e31FF",
+	"symbol": "LSDx Finance",
+	"name": "LSDx Finance",
+	"coingecko": "lsdx-finance",
+	"sources": [
+		"coingecko"
+	]
+}

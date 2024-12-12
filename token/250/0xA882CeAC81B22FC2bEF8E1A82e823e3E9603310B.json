@@ -1,0 +1,10 @@
+{
+	"chain": 250,
+	"address": "0xA882CeAC81B22FC2bEF8E1A82e823e3E9603310B",
+	"symbol": "PanicSwap",
+	"name": "PanicSwap",
+	"coingecko": "panicswap",
+	"sources": [
+		"coingecko"
+	]
+}

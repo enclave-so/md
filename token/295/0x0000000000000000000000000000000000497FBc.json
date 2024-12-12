@@ -1,0 +1,10 @@
+{
+	"chain": 295,
+	"address": "0x0000000000000000000000000000000000497FBc",
+	"symbol": "HBARbarian",
+	"name": "HBARbarian",
+	"coingecko": "hbarbarian",
+	"sources": [
+		"coingecko"
+	]
+}

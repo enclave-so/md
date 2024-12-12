@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xeaf61FC150CD5c3BeA75744e830D916E60EA5A9F",
+	"symbol": "Typerium",
+	"name": "Typerium",
+	"coingecko": "typerium",
+	"sources": [
+		"coingecko"
+	]
+}

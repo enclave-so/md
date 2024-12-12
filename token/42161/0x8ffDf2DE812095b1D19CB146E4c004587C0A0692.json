@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x8ffDf2DE812095b1D19CB146E4c004587C0A0692",
+	"symbol": "Aave v3 LUSD",
+	"name": "Aave v3 LUSD",
+	"coingecko": "aave-v3-lusd",
+	"sources": [
+		"coingecko"
+	]
+}

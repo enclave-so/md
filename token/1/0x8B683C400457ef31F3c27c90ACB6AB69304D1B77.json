@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x8B683C400457ef31F3c27c90ACB6AB69304D1B77",
+	"symbol": "Zydio AI",
+	"name": "Zydio AI",
+	"coingecko": "zydio-ai",
+	"sources": [
+		"coingecko"
+	]
+}

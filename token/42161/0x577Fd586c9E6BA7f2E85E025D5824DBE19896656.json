@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x577Fd586c9E6BA7f2E85E025D5824DBE19896656",
+	"symbol": "Synonym Finance",
+	"name": "Synonym Finance",
+	"coingecko": "synonym-finance",
+	"sources": [
+		"coingecko"
+	]
+}

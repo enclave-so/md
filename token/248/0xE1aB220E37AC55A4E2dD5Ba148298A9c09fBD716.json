@@ -1,0 +1,10 @@
+{
+	"chain": 248,
+	"address": "0xE1aB220E37AC55A4E2dD5Ba148298A9c09fBD716",
+	"symbol": "Celer Bridged USDC (Oasys)",
+	"name": "Celer Bridged USDC (Oasys)",
+	"coingecko": "celer-bridged-usdc-oasys",
+	"sources": [
+		"coingecko"
+	]
+}

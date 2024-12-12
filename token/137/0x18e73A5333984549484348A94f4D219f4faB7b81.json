@@ -1,0 +1,13 @@
+{
+	"chain": 137,
+	"address": "0x18e73A5333984549484348A94f4D219f4faB7b81",
+	"symbol": "DUCKIES",
+	"name": "Yellow Duckies",
+	"decimals": 8,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x18e73A5333984549484348A94f4D219f4faB7b81.jpg",
+	"coingecko": "duckies",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

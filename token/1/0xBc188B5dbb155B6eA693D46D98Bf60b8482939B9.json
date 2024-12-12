@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xBc188B5dbb155B6eA693D46D98Bf60b8482939B9",
+	"symbol": "Apollo FTW",
+	"name": "Apollo FTW",
+	"coingecko": "apollo-ftw",
+	"sources": [
+		"coingecko"
+	]
+}

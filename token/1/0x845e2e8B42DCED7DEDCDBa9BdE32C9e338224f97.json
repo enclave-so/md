@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x845e2e8B42DCED7DEDCDBa9BdE32C9e338224f97",
+	"symbol": "Satozhi",
+	"name": "Satozhi",
+	"coingecko": "satozhi",
+	"sources": [
+		"coingecko"
+	]
+}

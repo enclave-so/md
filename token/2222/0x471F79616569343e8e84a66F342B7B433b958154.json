@@ -1,0 +1,10 @@
+{
+	"chain": 2222,
+	"address": "0x471F79616569343e8e84a66F342B7B433b958154",
+	"symbol": "Tiger Scrub Money",
+	"name": "Tiger Scrub Money",
+	"coingecko": "tiger-scrub-money-2",
+	"sources": [
+		"coingecko"
+	]
+}

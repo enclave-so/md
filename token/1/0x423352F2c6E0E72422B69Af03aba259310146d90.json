@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x423352F2c6E0E72422B69Af03aba259310146d90",
+	"symbol": "Reality Metaverse",
+	"name": "Reality Metaverse",
+	"coingecko": "reality-metaverse",
+	"sources": [
+		"coingecko"
+	]
+}

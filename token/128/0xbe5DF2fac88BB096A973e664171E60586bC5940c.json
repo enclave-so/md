@@ -1,0 +1,11 @@
+{
+	"chain": 128,
+	"address": "0xbe5DF2fac88BB096A973e664171E60586bC5940c",
+	"symbol": "CIR",
+	"name": "CircleSwap Governance Token",
+	"decimals": 18,
+	"logo": "https://hecoinfo.com/images/main/empty-token.png",
+	"sources": [
+		"sushiswap"
+	]
+}

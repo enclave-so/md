@@ -1,0 +1,13 @@
+{
+	"chain": 30,
+	"address": "0x2AcC95758f8b5F583470ba265EB685a8F45fC9D5",
+	"symbol": "RIF",
+	"name": "RIF",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/rootstock/0x2AcC95758f8b5F583470ba265EB685a8F45fC9D5.jpg",
+	"coingecko": "rif-token",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x4bceA5E4d0F6eD53cf45e7a28FebB2d3621D7438",
+	"symbol": "Modex",
+	"name": "Modex",
+	"coingecko": "modex",
+	"sources": [
+		"coingecko"
+	]
+}

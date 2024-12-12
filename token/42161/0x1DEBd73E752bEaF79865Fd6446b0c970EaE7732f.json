@@ -1,0 +1,13 @@
+{
+	"chain": 42161,
+	"address": "0x1DEBd73E752bEaF79865Fd6446b0c970EaE7732f",
+	"symbol": "cbETH",
+	"name": "Coinbase Wrapped Staked ETH",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x1DEBd73E752bEaF79865Fd6446b0c970EaE7732f.jpg",
+	"coingecko": "coinbase-wrapped-staked-eth",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

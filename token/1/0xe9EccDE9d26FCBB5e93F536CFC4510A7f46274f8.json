@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xe9EccDE9d26FCBB5e93F536CFC4510A7f46274f8",
+	"symbol": "infraX",
+	"name": "infraX",
+	"coingecko": "infrax",
+	"sources": [
+		"coingecko"
+	]
+}

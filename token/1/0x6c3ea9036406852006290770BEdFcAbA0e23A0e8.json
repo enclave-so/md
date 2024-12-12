@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x6c3ea9036406852006290770BEdFcAbA0e23A0e8",
+	"symbol": "PayPal USD",
+	"name": "PayPal USD",
+	"coingecko": "paypal-usd",
+	"sources": [
+		"coingecko"
+	]
+}

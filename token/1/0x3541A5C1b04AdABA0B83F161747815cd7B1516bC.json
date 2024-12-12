@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x3541A5C1b04AdABA0B83F161747815cd7B1516bC",
+	"symbol": "CitaDAO",
+	"name": "CitaDAO",
+	"coingecko": "citadao",
+	"sources": [
+		"coingecko"
+	]
+}

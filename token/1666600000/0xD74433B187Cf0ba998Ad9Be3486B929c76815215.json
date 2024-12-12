@@ -1,0 +1,10 @@
+{
+	"chain": 1666600000,
+	"address": "0xD74433B187Cf0ba998Ad9Be3486B929c76815215",
+	"symbol": "Artemis",
+	"name": "Artemis",
+	"coingecko": "artemis",
+	"sources": [
+		"coingecko"
+	]
+}

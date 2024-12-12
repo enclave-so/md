@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xF519381791C03DD7666C142D4E49Fd94d3536011",
+	"symbol": "Asia Coin",
+	"name": "Asia Coin",
+	"coingecko": "asia-coin",
+	"sources": [
+		"coingecko"
+	]
+}

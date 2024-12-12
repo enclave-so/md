@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x7e877b99897D514da01bD1d177E693EC639961Af",
+	"symbol": "Oggy Inu [ETH]",
+	"name": "Oggy Inu [ETH]",
+	"coingecko": "oggy-inu-2",
+	"sources": [
+		"coingecko"
+	]
+}

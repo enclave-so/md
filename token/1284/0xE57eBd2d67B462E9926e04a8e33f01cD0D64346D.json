@@ -1,0 +1,11 @@
+{
+	"chain": 1284,
+	"address": "0xE57eBd2d67B462E9926e04a8e33f01cD0D64346D",
+	"symbol": "wh.WBTC",
+	"name": "Wrapped BTC (Wormhole)",
+	"decimals": 8,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/moonbeam/0xE57eBd2d67B462E9926e04a8e33f01cD0D64346D.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

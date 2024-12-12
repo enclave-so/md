@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x274E7Eb07B485CFdE53d02270555213447570aC6",
+	"symbol": "SubDAO",
+	"name": "SubDAO",
+	"coingecko": "subdao",
+	"sources": [
+		"coingecko"
+	]
+}

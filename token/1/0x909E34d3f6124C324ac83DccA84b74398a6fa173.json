@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x909E34d3f6124C324ac83DccA84b74398a6fa173",
+	"symbol": "Panther Protocol",
+	"name": "Panther Protocol",
+	"coingecko": "panther",
+	"sources": [
+		"coingecko"
+	]
+}

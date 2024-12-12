@@ -1,0 +1,10 @@
+{
+	"chain": 248,
+	"address": "0x9A340A0dE81B23eCd37ba9c4845dff5850A7e7a4",
+	"symbol": "Brave Power Crystal",
+	"name": "Brave Power Crystal",
+	"coingecko": "brave-power-crystal",
+	"sources": [
+		"coingecko"
+	]
+}

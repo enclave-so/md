@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xe0a6136F866684c0F19936c0C42a8C181C066f1b",
+	"symbol": "Tidalflats",
+	"name": "Tidalflats",
+	"coingecko": "tidalflats",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0x85D7bdfc9c3426b33A684241eEEE70385Bc42820",
+	"symbol": "WKDA",
+	"name": "Wrapped Kadena",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x85D7bdfc9c3426b33A684241eEEE70385Bc42820/logo.png",
+	"sources": [
+		"sushiswap"
+	]
+}

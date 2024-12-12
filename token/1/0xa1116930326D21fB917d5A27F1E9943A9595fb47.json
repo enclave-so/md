@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xa1116930326D21fB917d5A27F1E9943A9595fb47",
+	"symbol": "Staked Aave Balancer Pool Token",
+	"name": "Staked Aave Balancer Pool Token",
+	"coingecko": "staked-aave-balancer-pool-token",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x8A66794E1aaEBC7018A7B75F61f384e30ae3b159",
+	"symbol": "BlueSale",
+	"name": "BlueSale",
+	"coingecko": "bluesale",
+	"sources": [
+		"coingecko"
+	]
+}

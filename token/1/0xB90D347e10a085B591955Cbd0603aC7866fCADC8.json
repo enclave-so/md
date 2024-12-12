@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xB90D347e10a085B591955Cbd0603aC7866fCADC8",
+	"symbol": "Leveraged CVX",
+	"name": "Leveraged CVX",
+	"coingecko": "leveraged-cvx",
+	"sources": [
+		"coingecko"
+	]
+}

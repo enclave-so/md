@@ -1,0 +1,10 @@
+{
+	"chain": 2222,
+	"address": "0xbd10F04B8b5027761fCAAd42421aD5d0787211Ee",
+	"symbol": "Truefeedback",
+	"name": "Truefeedback",
+	"coingecko": "truefeedbackchain",
+	"sources": [
+		"coingecko"
+	]
+}

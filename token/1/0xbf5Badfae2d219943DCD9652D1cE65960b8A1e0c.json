@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xbf5Badfae2d219943DCD9652D1cE65960b8A1e0c",
+	"symbol": "PaleBlueDot",
+	"name": "PaleBlueDot",
+	"coingecko": "palebluedot",
+	"sources": [
+		"coingecko"
+	]
+}

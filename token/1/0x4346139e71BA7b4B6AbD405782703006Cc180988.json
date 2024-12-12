@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x4346139e71BA7b4B6AbD405782703006Cc180988",
+	"symbol": "TonGPU",
+	"name": "TonGPU",
+	"coingecko": "tongpu",
+	"sources": [
+		"coingecko"
+	]
+}

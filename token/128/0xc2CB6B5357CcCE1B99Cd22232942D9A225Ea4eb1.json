@@ -1,0 +1,11 @@
+{
+	"chain": 128,
+	"address": "0xc2CB6B5357CcCE1B99Cd22232942D9A225Ea4eb1",
+	"symbol": "HBSV",
+	"name": "Heco-Peg HBSV Token",
+	"decimals": 18,
+	"logo": "https://hecoinfo.com/token/images/HBSV_32.png",
+	"sources": [
+		"sushiswap"
+	]
+}

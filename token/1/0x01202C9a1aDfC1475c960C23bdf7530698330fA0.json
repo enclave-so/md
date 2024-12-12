@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x01202C9a1aDfC1475c960C23bdf7530698330fA0",
+	"symbol": "Judge AI",
+	"name": "Judge AI",
+	"coingecko": "judge-ai",
+	"sources": [
+		"coingecko"
+	]
+}

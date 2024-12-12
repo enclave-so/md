@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x2F3E306d9F02ee8e8850F9040404918d0b345207",
+	"symbol": "Dogami",
+	"name": "Dogami",
+	"coingecko": "dogami",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"chain": 11297108109,
+	"address": "0x726138359C17F1E56bA8c4F737a7CAf724F6010b",
+	"symbol": "WETH",
+	"name": "Wrapped Ether",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/eth.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0x26dcFbFa8Bc267b250432c01C982Eaf81cC5480C",
+	"symbol": "aMATICc",
+	"name": "Ankr Reward Bearing MATIC",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x26dcFbFa8Bc267b250432c01C982Eaf81cC5480C.jpg",
+	"coingecko": "ankr-reward-earning-matic",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

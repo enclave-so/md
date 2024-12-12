@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xdF290B162a7D3E0A328cF198308D421954f08b94",
+	"symbol": "Beyond Protocol",
+	"name": "Beyond Protocol",
+	"coingecko": "beyond-protocol",
+	"sources": [
+		"coingecko"
+	]
+}

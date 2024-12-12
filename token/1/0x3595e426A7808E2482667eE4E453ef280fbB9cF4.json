@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x3595e426A7808E2482667eE4E453ef280fbB9cF4",
+	"symbol": "Nose Candy",
+	"name": "Nose Candy",
+	"coingecko": "nose-candy",
+	"sources": [
+		"coingecko"
+	]
+}

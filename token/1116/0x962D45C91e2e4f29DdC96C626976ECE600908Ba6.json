@@ -1,0 +1,10 @@
+{
+	"chain": 1116,
+	"address": "0x962D45C91e2e4f29DdC96C626976ECE600908Ba6",
+	"symbol": "ArcherSwap Hunter",
+	"name": "ArcherSwap Hunter",
+	"coingecko": "archerswap-hunter",
+	"sources": [
+		"coingecko"
+	]
+}

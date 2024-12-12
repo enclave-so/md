@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xe0a189C975e4928222978A74517442239a0b86ff",
+	"symbol": "Keys",
+	"name": "Keys",
+	"coingecko": "keys-token",
+	"sources": [
+		"coingecko"
+	]
+}

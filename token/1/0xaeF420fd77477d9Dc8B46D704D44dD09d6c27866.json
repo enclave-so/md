@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xaeF420fd77477d9Dc8B46D704D44dD09d6c27866",
+	"symbol": "Cogito Finance",
+	"name": "Cogito Finance",
+	"coingecko": "cogito-protocol",
+	"sources": [
+		"coingecko"
+	]
+}

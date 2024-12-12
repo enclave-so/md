@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xd566C529B33ECF15170F600d4B1aB12468c8efC6",
+	"symbol": "UERII",
+	"name": "UERII",
+	"coingecko": "uerii",
+	"sources": [
+		"coingecko"
+	]
+}

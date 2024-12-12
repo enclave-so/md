@@ -1,0 +1,10 @@
+{
+	"chain": 324,
+	"address": "0x5FD37F12029511F17C1898477f7fb685cF6C0C0f",
+	"symbol": "KZ Token",
+	"name": "KZ Token",
+	"coingecko": "kz-token",
+	"sources": [
+		"coingecko"
+	]
+}

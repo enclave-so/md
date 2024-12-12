@@ -1,0 +1,10 @@
+{
+	"chain": 1666600000,
+	"address": "0x22FB638a010e922D53Fd2671a598a3334C228B62",
+	"symbol": "Speed Star JOC",
+	"name": "Speed Star JOC",
+	"coingecko": "speed-star-joc",
+	"sources": [
+		"coingecko"
+	]
+}

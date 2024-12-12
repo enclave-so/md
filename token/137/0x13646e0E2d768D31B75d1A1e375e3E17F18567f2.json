@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x13646e0E2d768D31B75d1A1e375e3E17F18567f2",
+	"symbol": "Nodewaves",
+	"name": "Nodewaves",
+	"coingecko": "nodewaves",
+	"sources": [
+		"coingecko"
+	]
+}

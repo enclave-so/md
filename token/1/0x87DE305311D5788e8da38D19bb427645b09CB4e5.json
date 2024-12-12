@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x87DE305311D5788e8da38D19bb427645b09CB4e5",
+	"symbol": "Verox",
+	"name": "Verox",
+	"coingecko": "verox",
+	"sources": [
+		"coingecko"
+	]
+}

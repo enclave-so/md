@@ -1,0 +1,10 @@
+{
+	"chain": 4200,
+	"address": "0x9458eA21932515dd0E82543891068F065B88A98a",
+	"symbol": "Bridged LOBO•THE•WOLF•PUP (Merlin Chain)",
+	"name": "Bridged LOBO•THE•WOLF•PUP (Merlin Chain)",
+	"coingecko": "bridged-lobo-the-wolf-pup",
+	"sources": [
+		"coingecko"
+	]
+}

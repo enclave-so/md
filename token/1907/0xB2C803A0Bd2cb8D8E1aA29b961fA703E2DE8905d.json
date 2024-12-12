@@ -1,0 +1,10 @@
+{
+	"chain": 1907,
+	"address": "0xB2C803A0Bd2cb8D8E1aA29b961fA703E2DE8905d",
+	"symbol": "Afyonspor Fan Token",
+	"name": "Afyonspor Fan Token",
+	"coingecko": "afyonspor-fan-token",
+	"sources": [
+		"coingecko"
+	]
+}

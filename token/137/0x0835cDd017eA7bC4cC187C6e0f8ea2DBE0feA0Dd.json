@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x0835cDd017eA7bC4cC187C6e0f8ea2DBE0feA0Dd",
+	"symbol": "KOHENOOR",
+	"name": "KOHENOOR",
+	"coingecko": "kohenoor",
+	"sources": [
+		"coingecko"
+	]
+}

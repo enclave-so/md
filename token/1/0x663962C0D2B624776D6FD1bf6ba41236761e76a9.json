@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x663962C0D2B624776D6FD1bf6ba41236761e76a9",
+	"symbol": "IVEX",
+	"name": "IVEX",
+	"coingecko": "ivex",
+	"sources": [
+		"coingecko"
+	]
+}

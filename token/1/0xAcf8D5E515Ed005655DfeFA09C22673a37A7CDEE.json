@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xAcf8D5E515Ed005655DfeFA09C22673a37A7CDEE",
+	"symbol": "FunFi",
+	"name": "FunFi",
+	"coingecko": "funfi",
+	"sources": [
+		"coingecko"
+	]
+}

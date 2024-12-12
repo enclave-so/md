@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xbD32bEC7C76D28aA054Fc0C907D601b9263E22c7",
+	"symbol": "PE",
+	"name": "PE",
+	"coingecko": "pe",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x1BB4aFbF2cE0C9ec86E6414ad4Ba4d9aab1c0De4",
+	"symbol": "TORA NEKO",
+	"name": "TORA NEKO",
+	"coingecko": "tora-neko",
+	"sources": [
+		"coingecko"
+	]
+}

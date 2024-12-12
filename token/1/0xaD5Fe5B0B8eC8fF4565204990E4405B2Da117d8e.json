@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xaD5Fe5B0B8eC8fF4565204990E4405B2Da117d8e",
+	"symbol": "TronClassic",
+	"name": "TronClassic",
+	"coingecko": "tronclassic",
+	"sources": [
+		"coingecko"
+	]
+}

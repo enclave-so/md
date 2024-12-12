@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x30D20208d987713f46DFD34EF128Bb16C404D10f",
+	"symbol": "Stader",
+	"name": "Stader",
+	"coingecko": "stader",
+	"sources": [
+		"coingecko"
+	]
+}

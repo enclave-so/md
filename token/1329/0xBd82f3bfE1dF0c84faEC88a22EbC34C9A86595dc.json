@@ -1,0 +1,10 @@
+{
+	"chain": 1329,
+	"address": "0xBd82f3bfE1dF0c84faEC88a22EbC34C9A86595dc",
+	"symbol": "Chips",
+	"name": "Chips",
+	"coingecko": "chips-2",
+	"sources": [
+		"coingecko"
+	]
+}

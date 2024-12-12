@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xb44377B74Ef1773639B663d0754cB8410A847d02",
+	"symbol": "Dream",
+	"name": "Dream",
+	"coingecko": "dream-token",
+	"sources": [
+		"coingecko"
+	]
+}

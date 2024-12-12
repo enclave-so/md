@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0xdb3de0AAC8A39490932FA19c2e32F179368Ab840",
+	"symbol": "SUSHI",
+	"name": "SushiSwap",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xdb3de0AAC8A39490932FA19c2e32F179368Ab840.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

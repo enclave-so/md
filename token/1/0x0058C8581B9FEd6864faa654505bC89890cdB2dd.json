@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x0058C8581B9FEd6864faa654505bC89890cdB2dd",
+	"symbol": "BabySmurf9000",
+	"name": "BabySmurf9000",
+	"coingecko": "babysmurf9000",
+	"sources": [
+		"coingecko"
+	]
+}

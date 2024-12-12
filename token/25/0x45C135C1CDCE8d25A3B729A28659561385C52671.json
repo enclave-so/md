@@ -1,0 +1,13 @@
+{
+	"chain": 25,
+	"address": "0x45C135C1CDCE8d25A3B729A28659561385C52671",
+	"symbol": "ALI",
+	"name": "Alethea AI",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x45C135C1CDCE8d25A3B729A28659561385C52671.jpg",
+	"coingecko": "alethea-artificial-liquid-intelligence-token",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

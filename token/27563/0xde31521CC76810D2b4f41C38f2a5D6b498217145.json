@@ -1,0 +1,10 @@
+{
+	"chain": 27563,
+	"address": "0xde31521CC76810D2b4f41C38f2a5D6b498217145",
+	"symbol": "Onchain Coin",
+	"name": "Onchain Coin",
+	"coingecko": "onchain-coin",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xA469B7Ee9ee773642b3e93E842e5D9b5BaA10067",
+	"symbol": "Anzen USDz",
+	"name": "Anzen USDz",
+	"coingecko": "anzen-usdz",
+	"sources": [
+		"coingecko"
+	]
+}

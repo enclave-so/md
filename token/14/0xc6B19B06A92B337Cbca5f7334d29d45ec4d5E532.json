@@ -1,0 +1,10 @@
+{
+	"chain": 14,
+	"address": "0xc6B19B06A92B337Cbca5f7334d29d45ec4d5E532",
+	"symbol": "Dog on Moon",
+	"name": "Dog on Moon",
+	"coingecko": "dog-on-moon",
+	"sources": [
+		"coingecko"
+	]
+}

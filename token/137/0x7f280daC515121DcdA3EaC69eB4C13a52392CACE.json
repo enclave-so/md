@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x7f280daC515121DcdA3EaC69eB4C13a52392CACE",
+	"symbol": "Fancy Games",
+	"name": "Fancy Games",
+	"coingecko": "fancy-games",
+	"sources": [
+		"coingecko"
+	]
+}

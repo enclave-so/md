@@ -1,0 +1,10 @@
+{
+	"chain": 369,
+	"address": "0x6a44bE19d96f087494Bafa66EE5DF1bf7AAF220f",
+	"symbol": "Blastar",
+	"name": "Blastar",
+	"coingecko": "blastar",
+	"sources": [
+		"coingecko"
+	]
+}

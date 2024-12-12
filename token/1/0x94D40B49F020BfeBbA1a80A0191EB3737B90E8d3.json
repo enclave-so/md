@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x94D40B49F020BfeBbA1a80A0191EB3737B90E8d3",
+	"symbol": "Mintera",
+	"name": "Mintera",
+	"coingecko": "mintera",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xc2eB40516Ecaac04aE9964934983D1E9EbDF51FD",
+	"symbol": "99 Bitcoins",
+	"name": "99 Bitcoins",
+	"coingecko": "99-bitcoins",
+	"sources": [
+		"coingecko"
+	]
+}

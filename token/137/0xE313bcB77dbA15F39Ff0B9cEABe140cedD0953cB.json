@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xE313bcB77dbA15F39Ff0B9cEABe140cedD0953cB",
+	"symbol": "JUGNI",
+	"name": "JUGNI",
+	"coingecko": "jugni",
+	"sources": [
+		"coingecko"
+	]
+}

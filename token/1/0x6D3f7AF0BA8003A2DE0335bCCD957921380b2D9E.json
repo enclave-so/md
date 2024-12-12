@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x6D3f7AF0BA8003A2DE0335bCCD957921380b2D9E",
+	"symbol": "LimoncelloAI",
+	"name": "LimoncelloAI",
+	"coingecko": "limoncelloai",
+	"sources": [
+		"coingecko"
+	]
+}

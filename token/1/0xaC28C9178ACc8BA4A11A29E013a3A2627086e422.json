@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xaC28C9178ACc8BA4A11A29E013a3A2627086e422",
+	"symbol": "Backed MicroStrategy",
+	"name": "Backed MicroStrategy",
+	"coingecko": "backed-microstrategy",
+	"sources": [
+		"coingecko"
+	]
+}

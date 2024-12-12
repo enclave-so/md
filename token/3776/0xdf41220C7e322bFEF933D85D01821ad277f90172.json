@@ -1,0 +1,10 @@
+{
+	"chain": 3776,
+	"address": "0xdf41220C7e322bFEF933D85D01821ad277f90172",
+	"symbol": "Stargate Bridged ASTR (Astar zkEVM)",
+	"name": "Stargate Bridged ASTR (Astar zkEVM)",
+	"coingecko": "stargate-bridged-astr-astar-zkevm",
+	"sources": [
+		"coingecko"
+	]
+}

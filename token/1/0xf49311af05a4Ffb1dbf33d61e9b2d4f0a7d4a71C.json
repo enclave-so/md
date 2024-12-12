@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xf49311af05a4Ffb1dbf33d61e9b2d4f0a7d4a71C",
+	"symbol": "CompanionBot",
+	"name": "CompanionBot",
+	"coingecko": "companionbot",
+	"sources": [
+		"coingecko"
+	]
+}

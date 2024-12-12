@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x0052074d3eB1429F39E5eA529b54a650C21F5AA4",
+	"symbol": "RetaFi",
+	"name": "RetaFi",
+	"coingecko": "retafi",
+	"sources": [
+		"coingecko"
+	]
+}

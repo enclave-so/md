@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x3f6b3595ecF70735D3f48D69b09C4E4506DB3F47",
+	"symbol": "GameStation",
+	"name": "GameStation",
+	"coingecko": "gamestation",
+	"sources": [
+		"coingecko"
+	]
+}

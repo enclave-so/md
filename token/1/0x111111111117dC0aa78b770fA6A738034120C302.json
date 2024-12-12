@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0x111111111117dC0aa78b770fA6A738034120C302",
+	"symbol": "1INCH",
+	"name": "1inch Exchange",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/1inch.jpg",
+	"coingecko": "1inch",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

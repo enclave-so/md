@@ -1,0 +1,10 @@
+{
+	"chain": 10,
+	"address": "0x10B3667304130eCc9C972008459249E8141CeD97",
+	"symbol": "Aktionariat Clever Forever Education AG Tokenized Shares",
+	"name": "Aktionariat Clever Forever Education AG Tokenized Shares",
+	"coingecko": "aktionariat-clever-forever-education-ag-tokenized-shares",
+	"sources": [
+		"coingecko"
+	]
+}

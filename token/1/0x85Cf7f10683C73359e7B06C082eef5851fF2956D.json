@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x85Cf7f10683C73359e7B06C082eef5851fF2956D",
+	"symbol": "LilAI",
+	"name": "LilAI",
+	"coingecko": "lilai",
+	"sources": [
+		"coingecko"
+	]
+}

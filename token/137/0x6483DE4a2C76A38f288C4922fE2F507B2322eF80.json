@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x6483DE4a2C76A38f288C4922fE2F507B2322eF80",
+	"symbol": "Larissa Blockchain",
+	"name": "Larissa Blockchain",
+	"coingecko": "larissa-blockchain",
+	"sources": [
+		"coingecko"
+	]
+}

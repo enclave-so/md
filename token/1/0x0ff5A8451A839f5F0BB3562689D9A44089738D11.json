@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x0ff5A8451A839f5F0BB3562689D9A44089738D11",
+	"symbol": "Dopex Rebate",
+	"name": "Dopex Rebate",
+	"coingecko": "dopex-rebate-token",
+	"sources": [
+		"coingecko"
+	]
+}

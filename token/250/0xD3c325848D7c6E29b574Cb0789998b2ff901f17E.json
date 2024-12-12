@@ -1,0 +1,10 @@
+{
+	"chain": 250,
+	"address": "0xD3c325848D7c6E29b574Cb0789998b2ff901f17E",
+	"symbol": "OneArt",
+	"name": "OneArt",
+	"coingecko": "1art",
+	"sources": [
+		"coingecko"
+	]
+}

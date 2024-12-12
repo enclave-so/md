@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x0294D8eB7857D43FEb1210Db72456d41481f9Ede",
+	"symbol": "LiquidDriver",
+	"name": "LiquidDriver",
+	"coingecko": "liquiddriver",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0xF763fa322Dc58dEe588252fAFee5f448e863b633",
+	"symbol": "Carbon Protocol",
+	"name": "Carbon Protocol",
+	"coingecko": "switcheo",
+	"sources": [
+		"coingecko"
+	]
+}

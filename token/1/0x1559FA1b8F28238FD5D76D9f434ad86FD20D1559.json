@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0x1559FA1b8F28238FD5D76D9f434ad86FD20D1559",
+	"symbol": "EDEN",
+	"name": "Eden",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/eden.jpg",
+	"coingecko": "eden",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xF1Eccd41cCE1f4BEb8c5Ca87dE7949816Ce05A45",
+	"symbol": "Mock Capital",
+	"name": "Mock Capital",
+	"coingecko": "mock-capital",
+	"sources": [
+		"coingecko"
+	]
+}

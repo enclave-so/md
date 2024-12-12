@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x9ff58067Bd8D239000010c154C6983A325Df138E",
+	"symbol": "Propchain",
+	"name": "Propchain",
+	"coingecko": "propchain",
+	"sources": [
+		"coingecko"
+	]
+}

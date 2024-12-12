@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xCdb4A8742ed7D0259b51E3454C46C9D6C48d5e88",
+	"symbol": "GPT Protocol",
+	"name": "GPT Protocol",
+	"coingecko": "gpt-protocol",
+	"sources": [
+		"coingecko"
+	]
+}

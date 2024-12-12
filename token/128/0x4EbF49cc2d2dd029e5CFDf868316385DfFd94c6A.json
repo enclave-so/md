@@ -1,0 +1,10 @@
+{
+	"chain": 128,
+	"address": "0x4EbF49cc2d2dd029e5CFDf868316385DfFd94c6A",
+	"symbol": "HOKK Finance",
+	"name": "HOKK Finance",
+	"coingecko": "hokkaidu-inu",
+	"sources": [
+		"coingecko"
+	]
+}

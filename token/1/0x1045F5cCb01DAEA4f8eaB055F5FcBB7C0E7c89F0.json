@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x1045F5cCb01DAEA4f8eaB055F5FcBB7C0E7c89F0",
+	"symbol": "DeFiato",
+	"name": "DeFiato",
+	"coingecko": "defiato",
+	"sources": [
+		"coingecko"
+	]
+}

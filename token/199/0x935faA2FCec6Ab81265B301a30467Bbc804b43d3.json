@@ -1,0 +1,11 @@
+{
+	"chain": 199,
+	"address": "0x935faA2FCec6Ab81265B301a30467Bbc804b43d3",
+	"symbol": "USDC.t",
+	"name": "USD Coin BSC",
+	"decimals": 6,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bttc/0x935faA2FCec6Ab81265B301a30467Bbc804b43d3.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

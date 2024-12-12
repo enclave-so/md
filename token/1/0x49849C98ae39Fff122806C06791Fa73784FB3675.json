@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x49849C98ae39Fff122806C06791Fa73784FB3675",
+	"symbol": "LP renBTC Curve",
+	"name": "LP renBTC Curve",
+	"coingecko": "lp-renbtc-curve",
+	"sources": [
+		"coingecko"
+	]
+}

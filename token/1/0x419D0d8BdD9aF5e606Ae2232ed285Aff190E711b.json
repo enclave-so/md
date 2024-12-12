@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x419D0d8BdD9aF5e606Ae2232ed285Aff190E711b",
+	"symbol": "FUNToken",
+	"name": "FUNToken",
+	"coingecko": "funfair",
+	"sources": [
+		"coingecko"
+	]
+}

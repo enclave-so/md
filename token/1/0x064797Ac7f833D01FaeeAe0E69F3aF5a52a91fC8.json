@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x064797Ac7f833D01FaeeAe0E69F3aF5a52a91fC8",
+	"symbol": "Smol Su",
+	"name": "Smol Su",
+	"coingecko": "smol-su",
+	"sources": [
+		"coingecko"
+	]
+}

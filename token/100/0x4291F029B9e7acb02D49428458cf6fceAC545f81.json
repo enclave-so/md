@@ -1,0 +1,10 @@
+{
+	"chain": 100,
+	"address": "0x4291F029B9e7acb02D49428458cf6fceAC545f81",
+	"symbol": "1Hive Water",
+	"name": "1Hive Water",
+	"coingecko": "1hive-water",
+	"sources": [
+		"coingecko"
+	]
+}

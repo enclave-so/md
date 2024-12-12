@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x9cfB13E6c11054ac9fcB92BA89644F30775436e4",
+	"symbol": "Bridged Wrapped stETH (Axelar)",
+	"name": "Bridged Wrapped stETH (Axelar)",
+	"coingecko": "bridged-wrapped-steth-axelar",
+	"sources": [
+		"coingecko"
+	]
+}

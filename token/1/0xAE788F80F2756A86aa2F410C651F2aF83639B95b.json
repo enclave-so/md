@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xAE788F80F2756A86aa2F410C651F2aF83639B95b",
+	"symbol": "GensoKishi Metaverse",
+	"name": "GensoKishi Metaverse",
+	"coingecko": "gensokishis-metaverse",
+	"sources": [
+		"coingecko"
+	]
+}

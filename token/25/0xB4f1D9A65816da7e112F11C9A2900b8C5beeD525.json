@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0xB4f1D9A65816da7e112F11C9A2900b8C5beeD525",
+	"symbol": "AURORA",
+	"name": "Aurora",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xB4f1D9A65816da7e112F11C9A2900b8C5beeD525.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

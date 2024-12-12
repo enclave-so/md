@@ -1,0 +1,10 @@
+{
+	"chain": 324,
+	"address": "0xbFB4b5616044Eded03e5b1AD75141f0D9Cb1499b",
+	"symbol": "zkDoge",
+	"name": "zkDoge",
+	"coingecko": "zkdoge",
+	"sources": [
+		"coingecko"
+	]
+}

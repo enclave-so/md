@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0xEf04804E1e474D3F9B73184D7ef5D786F3Fce930",
+	"symbol": "Wall Street Games",
+	"name": "Wall Street Games",
+	"coingecko": "wall-street-games-2",
+	"sources": [
+		"coingecko"
+	]
+}

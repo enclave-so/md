@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x198d7387Fa97A73F05b8578CdEFf8F2A1f34Cd1F",
+	"symbol": "Wrapped Jones AURA",
+	"name": "Wrapped Jones AURA",
+	"coingecko": "wrapped-jones-aura",
+	"sources": [
+		"coingecko"
+	]
+}

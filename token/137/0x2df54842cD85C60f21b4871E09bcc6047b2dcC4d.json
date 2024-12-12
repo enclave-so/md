@@ -1,0 +1,11 @@
+{
+	"chain": 137,
+	"address": "0x2df54842cD85C60f21b4871E09bcc6047b2dcC4d",
+	"symbol": "IMRTL",
+	"name": "Immortl",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x2df54842cD85C60f21b4871E09bcc6047b2dcC4d.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

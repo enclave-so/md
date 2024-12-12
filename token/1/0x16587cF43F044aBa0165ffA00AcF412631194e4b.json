@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x16587cF43F044aBa0165ffA00AcF412631194e4b",
+	"symbol": "Simracer Coin",
+	"name": "Simracer Coin",
+	"coingecko": "simracer-coin",
+	"sources": [
+		"coingecko"
+	]
+}

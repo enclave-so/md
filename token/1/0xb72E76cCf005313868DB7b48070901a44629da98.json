@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xb72E76cCf005313868DB7b48070901a44629da98",
+	"symbol": "SquidGrow",
+	"name": "SquidGrow",
+	"coingecko": "squidgrow-2",
+	"sources": [
+		"coingecko"
+	]
+}

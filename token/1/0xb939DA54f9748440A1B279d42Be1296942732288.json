@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xb939DA54f9748440A1B279d42Be1296942732288",
+	"symbol": "Fonzy",
+	"name": "Fonzy",
+	"coingecko": "fonzy",
+	"sources": [
+		"coingecko"
+	]
+}

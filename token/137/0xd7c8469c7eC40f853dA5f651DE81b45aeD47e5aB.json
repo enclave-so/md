@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xd7c8469c7eC40f853dA5f651DE81b45aeD47e5aB",
+	"symbol": "Potcoin",
+	"name": "Potcoin",
+	"coingecko": "potcoin",
+	"sources": [
+		"coingecko"
+	]
+}

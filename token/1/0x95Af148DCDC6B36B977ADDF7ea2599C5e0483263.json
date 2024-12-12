@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x95Af148DCDC6B36B977ADDF7ea2599C5e0483263",
+	"symbol": "Hachiko Inu",
+	"name": "Hachiko Inu",
+	"coingecko": "hachiko-inu-meme",
+	"sources": [
+		"coingecko"
+	]
+}

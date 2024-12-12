@@ -1,0 +1,10 @@
+{
+	"chain": 369,
+	"address": "0xc42945a98Eaaae8FaFBc76baCE473C90D8100967",
+	"symbol": "Magic Carpet Ride",
+	"name": "Magic Carpet Ride",
+	"coingecko": "magic-carpet-ride",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x455ad1Bc4E18fD4e369234b6e11D88acBC416758",
+	"symbol": "BRC App",
+	"name": "BRC App",
+	"coingecko": "brc-app",
+	"sources": [
+		"coingecko"
+	]
+}

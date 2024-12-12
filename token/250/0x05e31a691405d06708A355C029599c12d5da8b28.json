@@ -1,0 +1,13 @@
+{
+	"chain": 250,
+	"address": "0x05e31a691405d06708A355C029599c12d5da8b28",
+	"symbol": "fSONIC",
+	"name": "FANTOMSONICINU",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/fantom/0x05e31a691405d06708A355C029599c12d5da8b28.jpg",
+	"coingecko": "fantomsonicinu",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xB131F337C45D386cEeC234e194b2663D5c3d9dCF",
+	"symbol": "iCommunity",
+	"name": "iCommunity",
+	"coingecko": "icommunity",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 250,
+	"address": "0x3129662808bEC728a27Ab6a6b9AFd3cBacA8A43c",
+	"symbol": "DOLA",
+	"name": "DOLA",
+	"coingecko": "dola-usd",
+	"sources": [
+		"coingecko"
+	]
+}

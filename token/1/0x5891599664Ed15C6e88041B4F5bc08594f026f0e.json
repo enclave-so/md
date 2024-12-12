@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x5891599664Ed15C6e88041B4F5bc08594f026f0e",
+	"symbol": "JPGoldCoin",
+	"name": "JPGoldCoin",
+	"coingecko": "jpgoldcoin",
+	"sources": [
+		"coingecko"
+	]
+}

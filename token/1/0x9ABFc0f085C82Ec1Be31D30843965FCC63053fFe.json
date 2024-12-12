@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x9ABFc0f085C82Ec1Be31D30843965FCC63053fFe",
+	"symbol": "QSTAR",
+	"name": "QSTAR",
+	"coingecko": "qstar",
+	"sources": [
+		"coingecko"
+	]
+}

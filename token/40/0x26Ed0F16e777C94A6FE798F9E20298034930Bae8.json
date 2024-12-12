@@ -1,0 +1,11 @@
+{
+	"chain": 40,
+	"address": "0x26Ed0F16e777C94A6FE798F9E20298034930Bae8",
+	"symbol": "BNB",
+	"name": "Binance Coin",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/telos/0x26Ed0F16e777C94A6FE798F9E20298034930Bae8.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 2222,
+	"address": "0xd86C8d4279CCaFbec840c782BcC50D201f277419",
+	"symbol": "Mare Finance",
+	"name": "Mare Finance",
+	"coingecko": "mare-finance",
+	"sources": [
+		"coingecko"
+	]
+}

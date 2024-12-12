@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x9B3B0703D392321AD24338Ff1f846650437A43C9",
+	"symbol": "Boson Protocol",
+	"name": "Boson Protocol",
+	"coingecko": "boson-protocol",
+	"sources": [
+		"coingecko"
+	]
+}

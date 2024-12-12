@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x1580bfe88F772116FD59b042189746aF8F78F00D",
+	"symbol": "Degen.Food",
+	"name": "Degen.Food",
+	"coingecko": "degen-food",
+	"sources": [
+		"coingecko"
+	]
+}

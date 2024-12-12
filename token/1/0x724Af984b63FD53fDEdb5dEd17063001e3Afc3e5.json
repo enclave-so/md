@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x724Af984b63FD53fDEdb5dEd17063001e3Afc3e5",
+	"symbol": "ROCK",
+	"name": "ROCK",
+	"coingecko": "rock-3",
+	"sources": [
+		"coingecko"
+	]
+}

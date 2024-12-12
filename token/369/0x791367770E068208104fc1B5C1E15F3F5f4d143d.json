@@ -1,0 +1,10 @@
+{
+	"chain": 369,
+	"address": "0x791367770E068208104fc1B5C1E15F3F5f4d143d",
+	"symbol": "Skol",
+	"name": "Skol",
+	"coingecko": "skol",
+	"sources": [
+		"coingecko"
+	]
+}

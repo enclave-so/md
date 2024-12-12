@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x504624040e0642921C2c266a9aC37CafBd8cDa4e",
+	"symbol": "Love Power Coin",
+	"name": "Love Power Coin",
+	"coingecko": "love-power-coin",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x6bB61215298F296C55b19Ad842D3Df69021DA2ef",
+	"symbol": "Drops Ownership Power",
+	"name": "Drops Ownership Power",
+	"coingecko": "drops-ownership-power",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 250,
+	"address": "0xb715F8DcE2F0E9b894c753711bd55eE3C04dcA4E",
+	"symbol": "ShibaPoconk",
+	"name": "ShibaPoconk",
+	"coingecko": "shibapoconk",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x9511FF502f982643935a39206F98a6C18D4527CF",
+	"symbol": "BlockDefend AI",
+	"name": "BlockDefend AI",
+	"coingecko": "blockdefend-ai",
+	"sources": [
+		"coingecko"
+	]
+}

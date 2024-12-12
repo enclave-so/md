@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x78E3b2ee11950df78a35FD924E92fbB8d1403780",
+	"symbol": "Helga Inu",
+	"name": "Helga Inu",
+	"coingecko": "helga-inu",
+	"sources": [
+		"coingecko"
+	]
+}

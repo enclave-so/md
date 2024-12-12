@@ -1,0 +1,10 @@
+{
+	"chain": 10,
+	"address": "0xB9243C495117343981EC9f8AA2ABfFEe54396Fc0",
+	"symbol": "Perpetual Delta Neutral Yield (Optimism)",
+	"name": "Perpetual Delta Neutral Yield (Optimism)",
+	"coingecko": "perpetual-delta-neutral-yield-optimism",
+	"sources": [
+		"coingecko"
+	]
+}

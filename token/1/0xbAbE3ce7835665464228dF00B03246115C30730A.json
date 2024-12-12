@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xbAbE3ce7835665464228dF00B03246115C30730A",
+	"symbol": "Baby Neiro Token",
+	"name": "Baby Neiro Token",
+	"coingecko": "baby-neiro-token",
+	"sources": [
+		"coingecko"
+	]
+}

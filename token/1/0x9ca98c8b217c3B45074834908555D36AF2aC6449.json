@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x9ca98c8b217c3B45074834908555D36AF2aC6449",
+	"symbol": "SatsBridge",
+	"name": "SatsBridge",
+	"coingecko": "satsbridge",
+	"sources": [
+		"coingecko"
+	]
+}

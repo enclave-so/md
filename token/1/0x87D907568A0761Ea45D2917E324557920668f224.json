@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x87D907568A0761Ea45D2917E324557920668f224",
+	"symbol": "Grok2.0",
+	"name": "Grok2.0",
+	"coingecko": "grok2-0",
+	"sources": [
+		"coingecko"
+	]
+}

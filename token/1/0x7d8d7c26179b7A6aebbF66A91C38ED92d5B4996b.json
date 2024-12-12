@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x7d8d7c26179b7A6aebbF66A91C38ED92d5B4996b",
+	"symbol": "Teh Fund",
+	"name": "Teh Fund",
+	"coingecko": "teh-fund",
+	"sources": [
+		"coingecko"
+	]
+}

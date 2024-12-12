@@ -1,0 +1,11 @@
+{
+	"chain": 137,
+	"address": "0x6d5f5317308C6fE7D6CE16930353a8Dfd92Ba4D7",
+	"symbol": "ABI",
+	"name": "Abachi",
+	"decimals": 9,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x6d5f5317308C6fE7D6CE16930353a8Dfd92Ba4D7/logo.png",
+	"sources": [
+		"sushiswap"
+	]
+}

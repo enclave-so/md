@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x054c9D4C6F4EA4E14391addD1812106c97D05690",
+	"symbol": "Liberland LLD",
+	"name": "Liberland LLD",
+	"coingecko": "liberland-lld",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"chain": 250,
+	"address": "0x6a07A792ab2965C72a5B8088d3a069A7aC3a993B",
+	"symbol": "AAVE",
+	"name": "Aave",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/aave.jpg",
+	"coingecko": "aave",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

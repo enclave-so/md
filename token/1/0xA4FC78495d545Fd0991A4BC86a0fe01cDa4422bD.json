@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xA4FC78495d545Fd0991A4BC86a0fe01cDa4422bD",
+	"symbol": "Ketamine",
+	"name": "Ketamine",
+	"coingecko": "ketamine",
+	"sources": [
+		"coingecko"
+	]
+}

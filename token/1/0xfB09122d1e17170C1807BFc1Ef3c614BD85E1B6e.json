@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xfB09122d1e17170C1807BFc1Ef3c614BD85E1B6e",
+	"symbol": "CCC Protocol",
+	"name": "CCC Protocol",
+	"coingecko": "ccc-protocol",
+	"sources": [
+		"coingecko"
+	]
+}

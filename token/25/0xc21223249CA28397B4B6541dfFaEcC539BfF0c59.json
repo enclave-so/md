@@ -1,0 +1,13 @@
+{
+	"chain": 25,
+	"address": "0xc21223249CA28397B4B6541dfFaEcC539BfF0c59",
+	"symbol": "USDC",
+	"name": "USDC Token",
+	"decimals": 6,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xc21223249CA28397B4B6541dfFaEcC539BfF0c59.jpg",
+	"coingecko": "cronos-bridged-usdc-cronos",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

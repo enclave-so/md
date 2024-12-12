@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x6d57B2E05F26C26b549231c866bdd39779e4a488",
+	"symbol": "VNX Gold",
+	"name": "VNX Gold",
+	"coingecko": "vnx-gold",
+	"sources": [
+		"coingecko"
+	]
+}

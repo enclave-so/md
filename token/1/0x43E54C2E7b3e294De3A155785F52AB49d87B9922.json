@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x43E54C2E7b3e294De3A155785F52AB49d87B9922",
+	"symbol": "Aladdin sdCRV",
+	"name": "Aladdin sdCRV",
+	"coingecko": "aladdin-sdcrv",
+	"sources": [
+		"coingecko"
+	]
+}

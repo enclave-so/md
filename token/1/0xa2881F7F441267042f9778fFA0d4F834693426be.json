@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xa2881F7F441267042f9778fFA0d4F834693426be",
+	"symbol": "The HUSL",
+	"name": "The HUSL",
+	"coingecko": "the-husl",
+	"sources": [
+		"coingecko"
+	]
+}

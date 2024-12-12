@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0xe1d3495717f9534Db67A6A8d4940Dd17435b6A9E",
+	"symbol": "Locus Finance",
+	"name": "Locus Finance",
+	"coingecko": "locus-finance",
+	"sources": [
+		"coingecko"
+	]
+}

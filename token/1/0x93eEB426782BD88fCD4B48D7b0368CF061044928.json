@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x93eEB426782BD88fCD4B48D7b0368CF061044928",
+	"symbol": "The Rug Game",
+	"name": "The Rug Game",
+	"coingecko": "the-rug-game",
+	"sources": [
+		"coingecko"
+	]
+}

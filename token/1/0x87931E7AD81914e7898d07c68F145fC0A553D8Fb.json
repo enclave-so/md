@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x87931E7AD81914e7898d07c68F145fC0A553D8Fb",
+	"symbol": "WIZARD Vault (NFTX)",
+	"name": "WIZARD Vault (NFTX)",
+	"coingecko": "wizard-vault-nftx",
+	"sources": [
+		"coingecko"
+	]
+}

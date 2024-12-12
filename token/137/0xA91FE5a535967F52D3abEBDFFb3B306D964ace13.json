@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xA91FE5a535967F52D3abEBDFFb3B306D964ace13",
+	"symbol": "Sandclock",
+	"name": "Sandclock",
+	"coingecko": "sandclock",
+	"sources": [
+		"coingecko"
+	]
+}

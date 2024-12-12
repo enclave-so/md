@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xd075e95423C5c4BA1E122CaE0f4CdFA19b82881b",
+	"symbol": "OpesAI",
+	"name": "OpesAI",
+	"coingecko": "opes-wrapped-pe",
+	"sources": [
+		"coingecko"
+	]
+}

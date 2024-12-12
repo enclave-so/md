@@ -1,0 +1,10 @@
+{
+	"chain": 100,
+	"address": "0x2086f52651837600180dE173B09470F54EF74910",
+	"symbol": "Balancer Stable USD",
+	"name": "Balancer Stable USD",
+	"coingecko": "balancer-stable-usd",
+	"sources": [
+		"coingecko"
+	]
+}

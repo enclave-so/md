@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xB668473944d2E25B6aF6D46917Eb0233DBaC53ae",
+	"symbol": "Neton",
+	"name": "Neton",
+	"coingecko": "neton",
+	"sources": [
+		"coingecko"
+	]
+}

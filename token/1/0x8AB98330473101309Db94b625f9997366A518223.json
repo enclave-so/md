@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x8AB98330473101309Db94b625f9997366A518223",
+	"symbol": "PlasticHero",
+	"name": "PlasticHero",
+	"coingecko": "plastichero",
+	"sources": [
+		"coingecko"
+	]
+}

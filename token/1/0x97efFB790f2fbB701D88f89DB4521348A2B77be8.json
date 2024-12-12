@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x97efFB790f2fbB701D88f89DB4521348A2B77be8",
+	"symbol": "Convergence Finance",
+	"name": "Convergence Finance",
+	"coingecko": "convergence-finance",
+	"sources": [
+		"coingecko"
+	]
+}

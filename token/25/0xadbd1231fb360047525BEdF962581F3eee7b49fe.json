@@ -1,0 +1,10 @@
+{
+	"chain": 25,
+	"address": "0xadbd1231fb360047525BEdF962581F3eee7b49fe",
+	"symbol": "CronaSwap",
+	"name": "CronaSwap",
+	"coingecko": "cronaswap",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x59d1e836F7b7210A978b25a855085cc46fd090B5",
+	"symbol": "AssangeDAO",
+	"name": "AssangeDAO",
+	"coingecko": "assangedao",
+	"sources": [
+		"coingecko"
+	]
+}

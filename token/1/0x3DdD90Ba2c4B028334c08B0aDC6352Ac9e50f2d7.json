@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x3DdD90Ba2c4B028334c08B0aDC6352Ac9e50f2d7",
+	"symbol": "OpenGRID",
+	"name": "OpenGRID",
+	"coingecko": "opengrid",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 4200,
+	"address": "0x7a677e59dC2C8a42d6aF3a62748c5595034A008b",
+	"symbol": "Huhu Cat",
+	"name": "Huhu Cat",
+	"coingecko": "huhu-cat",
+	"sources": [
+		"coingecko"
+	]
+}

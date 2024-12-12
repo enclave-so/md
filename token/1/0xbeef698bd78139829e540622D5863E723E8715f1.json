@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xbeef698bd78139829e540622D5863E723E8715f1",
+	"symbol": "PepeBull",
+	"name": "PepeBull",
+	"coingecko": "pepebull",
+	"sources": [
+		"coingecko"
+	]
+}

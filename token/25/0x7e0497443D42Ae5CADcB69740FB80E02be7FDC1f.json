@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0x7e0497443D42Ae5CADcB69740FB80E02be7FDC1f",
+	"symbol": "SNT",
+	"name": "Status Network Token",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x7e0497443D42Ae5CADcB69740FB80E02be7FDC1f.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

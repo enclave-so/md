@@ -1,0 +1,10 @@
+{
+	"chain": 295,
+	"address": "0x0000000000000000000000000000000000101aF0",
+	"symbol": "Bridged Tether (Hashport)",
+	"name": "Bridged Tether (Hashport)",
+	"coingecko": "bridged-tether-hashport",
+	"sources": [
+		"coingecko"
+	]
+}

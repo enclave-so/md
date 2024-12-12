@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x998013798440d44C1dD4c767bdD9580E16E46e28",
+	"symbol": "ITSBLOC",
+	"name": "ITSBLOC",
+	"coingecko": "itsbloc",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x1a6658F40e51b372E593B7d2144c1402d5cf33E8",
+	"symbol": "PUBLC",
+	"name": "PUBLC",
+	"coingecko": "publc",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x6dB6FDb5182053EECeC778aFec95E0814172A474",
+	"symbol": "TaxFarm.ing",
+	"name": "TaxFarm.ing",
+	"coingecko": "taxfarm-ing",
+	"sources": [
+		"coingecko"
+	]
+}

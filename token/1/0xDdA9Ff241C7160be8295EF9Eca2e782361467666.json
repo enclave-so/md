@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xDdA9Ff241C7160be8295EF9Eca2e782361467666",
+	"symbol": "BonzAI DePIN",
+	"name": "BonzAI DePIN",
+	"coingecko": "bonzai-depin",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0xD0660cD418a64a1d44E9214ad8e459324D8157f1",
+	"symbol": "WOOFY",
+	"name": "Woofy",
+	"decimals": 12,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/woofy.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

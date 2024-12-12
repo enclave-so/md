@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x08F7be99ED83369541501d60f4e66F8e34c3F736",
+	"symbol": "Cryptoku",
+	"name": "Cryptoku",
+	"coingecko": "cryptoku",
+	"sources": [
+		"coingecko"
+	]
+}

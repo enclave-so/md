@@ -1,0 +1,10 @@
+{
+	"chain": 39797,
+	"address": "0xf3ff3bF1d1afCbeBD98A304482c4099Dc953E9a8",
+	"symbol": "Golem",
+	"name": "Golem",
+	"coingecko": "golem",
+	"sources": [
+		"coingecko"
+	]
+}

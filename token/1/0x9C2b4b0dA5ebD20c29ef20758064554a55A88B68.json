@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x9C2b4b0dA5ebD20c29ef20758064554a55A88B68",
+	"symbol": "ByteAI",
+	"name": "ByteAI",
+	"coingecko": "byteai",
+	"sources": [
+		"coingecko"
+	]
+}

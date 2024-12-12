@@ -1,0 +1,10 @@
+{
+	"chain": 34443,
+	"address": "0x3120B4907851cc9D780eef9aF88ae4d5360175Fd",
+	"symbol": "Ionic Tether USD",
+	"name": "Ionic Tether USD",
+	"coingecko": "ionic-tether-usd",
+	"sources": [
+		"coingecko"
+	]
+}

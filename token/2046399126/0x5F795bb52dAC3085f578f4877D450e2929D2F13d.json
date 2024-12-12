@@ -1,0 +1,13 @@
+{
+	"chain": 2046399126,
+	"address": "0x5F795bb52dAC3085f578f4877D450e2929D2F13d",
+	"symbol": "USDC",
+	"name": "USD Coin",
+	"decimals": 6,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/skale-europa/0x5F795bb52dAC3085f578f4877D450e2929D2F13d.jpg",
+	"coingecko": "ima-bridged-usdc-skale",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

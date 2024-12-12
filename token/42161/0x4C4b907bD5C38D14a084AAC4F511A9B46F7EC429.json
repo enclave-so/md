@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x4C4b907bD5C38D14a084AAC4F511A9B46F7EC429",
+	"symbol": "RB Share",
+	"name": "RB Share",
+	"coingecko": "rb-share",
+	"sources": [
+		"coingecko"
+	]
+}

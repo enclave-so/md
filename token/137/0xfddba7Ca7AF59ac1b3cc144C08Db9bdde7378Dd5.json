@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xfddba7Ca7AF59ac1b3cc144C08Db9bdde7378Dd5",
+	"symbol": "Rubber Ducky",
+	"name": "Rubber Ducky",
+	"coingecko": "rubber-ducky",
+	"sources": [
+		"coingecko"
+	]
+}

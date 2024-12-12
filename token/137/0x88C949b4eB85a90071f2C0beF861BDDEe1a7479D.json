@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x88C949b4eB85a90071f2C0beF861BDDEe1a7479D",
+	"symbol": "Sheesha Finance Polygon",
+	"name": "Sheesha Finance Polygon",
+	"coingecko": "sheesha-finance-polygon",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 167000,
+	"address": "0x19e26B0638bf63aa9fa4d14c6baF8D52eBE86C5C",
+	"symbol": "Bridged USDC (Stargate)",
+	"name": "Bridged USDC (Stargate)",
+	"coingecko": "bridged-usdc-stargate",
+	"sources": [
+		"coingecko"
+	]
+}

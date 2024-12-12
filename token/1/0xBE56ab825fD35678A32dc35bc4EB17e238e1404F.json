@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xBE56ab825fD35678A32dc35bc4EB17e238e1404F",
+	"symbol": "Digits DAO",
+	"name": "Digits DAO",
+	"coingecko": "digits-dao",
+	"sources": [
+		"coingecko"
+	]
+}

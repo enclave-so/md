@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x230EA9AEd5d08AfDb22Cd3c06c47cf24aD501301",
+	"symbol": "SPX6900 2.0",
+	"name": "SPX6900 2.0",
+	"coingecko": "spx6900-2-0",
+	"sources": [
+		"coingecko"
+	]
+}

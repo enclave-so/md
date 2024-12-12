@@ -1,0 +1,10 @@
+{
+	"chain": 1030,
+	"address": "0x6963EfED0aB40F6C3d7BdA44A05dcf1437C44372",
+	"symbol": "Celer Bridged USDC (Conflux)",
+	"name": "Celer Bridged USDC (Conflux)",
+	"coingecko": "celer-bridged-usdc-conflux",
+	"sources": [
+		"coingecko"
+	]
+}

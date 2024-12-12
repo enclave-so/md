@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0xD46bA6D942050d489DBd938a2C909A5d5039A161",
+	"symbol": "AMPL",
+	"name": "Ampleforth",
+	"decimals": 9,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/ampl.jpg",
+	"coingecko": "ampleforth",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

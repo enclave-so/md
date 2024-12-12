@@ -1,0 +1,11 @@
+{
+	"chain": 137,
+	"address": "0x8c059898ca6274750b6bF1cf38F2848347C490cc",
+	"symbol": "SOS",
+	"name": "SOS (PoS)",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x8c059898ca6274750b6bF1cf38F2848347C490cc.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

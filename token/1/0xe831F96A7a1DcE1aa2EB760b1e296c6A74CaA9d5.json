@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xe831F96A7a1DcE1aa2EB760b1e296c6A74CaA9d5",
+	"symbol": "Nexum",
+	"name": "Nexum",
+	"coingecko": "nexum",
+	"sources": [
+		"coingecko"
+	]
+}

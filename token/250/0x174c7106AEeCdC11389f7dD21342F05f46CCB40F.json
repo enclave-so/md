@@ -1,0 +1,10 @@
+{
+	"chain": 250,
+	"address": "0x174c7106AEeCdC11389f7dD21342F05f46CCB40F",
+	"symbol": "Devil Finance",
+	"name": "Devil Finance",
+	"coingecko": "devil-finance",
+	"sources": [
+		"coingecko"
+	]
+}

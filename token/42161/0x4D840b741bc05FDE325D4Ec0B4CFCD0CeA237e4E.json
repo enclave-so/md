@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x4D840b741bc05FDE325D4Ec0B4CFCD0CeA237e4E",
+	"symbol": "Quantlytica",
+	"name": "Quantlytica",
+	"coingecko": "quantlytica",
+	"sources": [
+		"coingecko"
+	]
+}

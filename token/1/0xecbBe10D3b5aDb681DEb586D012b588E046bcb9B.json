@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xecbBe10D3b5aDb681DEb586D012b588E046bcb9B",
+	"symbol": "Fiber Network",
+	"name": "Fiber Network",
+	"coingecko": "fiber-network",
+	"sources": [
+		"coingecko"
+	]
+}

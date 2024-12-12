@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x0632AfF522A581B9FfdEC2fC2b0E99245A917057",
+	"symbol": "Andy's Cat",
+	"name": "Andy's Cat",
+	"coingecko": "andy-s-cat",
+	"sources": [
+		"coingecko"
+	]
+}

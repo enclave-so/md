@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0x74232704659ef37c08995e386A2E26cc27a8d7B1",
+	"symbol": "STRK",
+	"name": "Strike Token",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x74232704659ef37c08995e386A2E26cc27a8d7B1.jpg",
+	"coingecko": "strike",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

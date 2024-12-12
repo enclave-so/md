@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x5516AC1aaCa7BB2fD5b7bDDE1549Ef1Ea242953d",
+	"symbol": "Decentralized ETF",
+	"name": "Decentralized ETF",
+	"coingecko": "decentralized-etf",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x2E1cb26689a0B8763d15fFE9d7B1c637cd9282D4",
+	"symbol": "OPTA Global",
+	"name": "OPTA Global",
+	"coingecko": "opta-global",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x513c7E3a9c69cA3e22550eF58AC1C0088e918FFf",
+	"symbol": "Aave v3 wstETH",
+	"name": "Aave v3 wstETH",
+	"coingecko": "aave-v3-wsteth",
+	"sources": [
+		"coingecko"
+	]
+}

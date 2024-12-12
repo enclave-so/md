@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0x5fdbFE38E050829374001630B8710BDd05Ea55C0",
+	"symbol": "VOXEL",
+	"name": "VOXEL",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x5fdbFE38E050829374001630B8710BDd05Ea55C0.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

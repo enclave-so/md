@@ -1,0 +1,11 @@
+{
+	"chain": 1666700000,
+	"address": "0x0E80905676226159cC3FF62B1876C907C91F7395",
+	"symbol": "1BUSD",
+	"name": "OneBUSD",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/9576/small/BUSD.png",
+	"sources": [
+		"sushiswap"
+	]
+}

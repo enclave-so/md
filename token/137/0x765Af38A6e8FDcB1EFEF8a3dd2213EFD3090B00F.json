@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x765Af38A6e8FDcB1EFEF8a3dd2213EFD3090B00F",
+	"symbol": "Vendetta",
+	"name": "Vendetta",
+	"coingecko": "vendetta",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0x0b38210ea11411557c13457D4dA7dC6ea731B88a",
+	"symbol": "API3",
+	"name": "API3",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x0b38210ea11411557c13457D4dA7dC6ea731B88a/logo.png",
+	"coingecko": "api3",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

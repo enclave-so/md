@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x695AfdB42EDFf97AF470a15920a66dF81a234c0e",
+	"symbol": "Wrapped MOXY",
+	"name": "Wrapped MOXY",
+	"coingecko": "wrapped-moxy",
+	"sources": [
+		"coingecko"
+	]
+}

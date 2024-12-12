@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x59F4F336Bf3D0C49dBfbA4A74eBD2a6aCE40539A",
+	"symbol": "Catcoin",
+	"name": "Catcoin",
+	"coingecko": "catcoin-cash",
+	"sources": [
+		"coingecko"
+	]
+}

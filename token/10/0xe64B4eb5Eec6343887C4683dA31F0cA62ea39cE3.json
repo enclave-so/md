@@ -1,0 +1,10 @@
+{
+	"chain": 10,
+	"address": "0xe64B4eb5Eec6343887C4683dA31F0cA62ea39cE3",
+	"symbol": "Aktionariat BEE Digital Growth AG Tokenized Shares",
+	"name": "Aktionariat BEE Digital Growth AG Tokenized Shares",
+	"coingecko": "aktionariat-bee-digital-growth-ag-tokenized-shares",
+	"sources": [
+		"coingecko"
+	]
+}

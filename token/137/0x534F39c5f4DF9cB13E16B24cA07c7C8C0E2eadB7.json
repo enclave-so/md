@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x534F39c5f4DF9cB13E16B24cA07c7C8C0E2eadB7",
+	"symbol": "Safe Haven",
+	"name": "Safe Haven",
+	"coingecko": "safe-haven",
+	"sources": [
+		"coingecko"
+	]
+}

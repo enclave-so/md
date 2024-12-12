@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xe1CAd79759243934Db8E36C605261f37f9b141Bd",
+	"symbol": "Peach",
+	"name": "Peach",
+	"coingecko": "peach-2",
+	"sources": [
+		"coingecko"
+	]
+}

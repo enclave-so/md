@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xbA745513ACEbcBb977497C569D4F7d340f2A936B",
+	"symbol": "Mainstream For The Underground",
+	"name": "Mainstream For The Underground",
+	"coingecko": "mainstream-for-the-underground",
+	"sources": [
+		"coingecko"
+	]
+}

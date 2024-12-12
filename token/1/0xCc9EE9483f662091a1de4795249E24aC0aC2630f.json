@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xCc9EE9483f662091a1de4795249E24aC0aC2630f",
+	"symbol": "Aave v3 rETH",
+	"name": "Aave v3 rETH",
+	"coingecko": "aave-v3-reth",
+	"sources": [
+		"coingecko"
+	]
+}

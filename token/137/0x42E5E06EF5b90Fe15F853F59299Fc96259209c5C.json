@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x42E5E06EF5b90Fe15F853F59299Fc96259209c5C",
+	"symbol": "Aavegotchi KEK",
+	"name": "Aavegotchi KEK",
+	"coingecko": "aavegotchi-kek",
+	"sources": [
+		"coingecko"
+	]
+}

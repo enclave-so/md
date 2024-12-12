@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xC3C7d422809852031b44ab29EEC9F1EfF2A58756",
+	"symbol": "Lido DAO",
+	"name": "Lido DAO",
+	"coingecko": "lido-dao",
+	"sources": [
+		"coingecko"
+	]
+}

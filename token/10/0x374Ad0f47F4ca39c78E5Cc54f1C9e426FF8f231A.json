@@ -1,0 +1,13 @@
+{
+	"chain": 10,
+	"address": "0x374Ad0f47F4ca39c78E5Cc54f1C9e426FF8f231A",
+	"symbol": "PREMIA",
+	"name": "Premia",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/PREMIA/logo.svg",
+	"coingecko": "premia",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

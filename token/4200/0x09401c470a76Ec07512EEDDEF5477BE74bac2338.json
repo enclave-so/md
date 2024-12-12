@@ -1,0 +1,10 @@
+{
+	"chain": 4200,
+	"address": "0x09401c470a76Ec07512EEDDEF5477BE74bac2338",
+	"symbol": "Merlin Starter",
+	"name": "Merlin Starter",
+	"coingecko": "merlin-starter",
+	"sources": [
+		"coingecko"
+	]
+}

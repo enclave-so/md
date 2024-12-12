@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x8697841B82C71fcbd9E58C15F6dE68CD1C63Fd02",
+	"symbol": "NutCoin",
+	"name": "NutCoin",
+	"coingecko": "nutcoin-meme",
+	"sources": [
+		"coingecko"
+	]
+}

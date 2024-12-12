@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x225e5b78F289C6D7d7757ad2B9d23b6ab31A5EEA",
+	"symbol": "MAGA Trump",
+	"name": "MAGA Trump",
+	"coingecko": "maga-trump",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x7c28F627eA3aEc8B882b51eb1935f66e5b875714",
+	"symbol": "MurAll",
+	"name": "MurAll",
+	"coingecko": "paint",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 248,
+	"address": "0xdDB07cc0f2F9fB7899DbA5a21964f3C6D2740e44",
+	"symbol": "TCG Verse",
+	"name": "TCG Verse",
+	"coingecko": "tcg-verse",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x565d3902d6A5A2D5CE28ff427423E88933334DD2",
+	"symbol": "Adult Playground",
+	"name": "Adult Playground",
+	"coingecko": "adult-playground",
+	"sources": [
+		"coingecko"
+	]
+}

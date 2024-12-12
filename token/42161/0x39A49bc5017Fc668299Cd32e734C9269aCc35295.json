@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x39A49bc5017Fc668299Cd32e734C9269aCc35295",
+	"symbol": "Phonon DAO",
+	"name": "Phonon DAO",
+	"coingecko": "phonon-dao",
+	"sources": [
+		"coingecko"
+	]
+}

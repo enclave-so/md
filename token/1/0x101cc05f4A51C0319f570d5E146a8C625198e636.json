@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x101cc05f4A51C0319f570d5E146a8C625198e636",
+	"symbol": "Aave TUSD",
+	"name": "Aave TUSD",
+	"coingecko": "aave-tusd",
+	"sources": [
+		"coingecko"
+	]
+}

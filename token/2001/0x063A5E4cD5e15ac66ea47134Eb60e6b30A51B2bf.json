@@ -1,0 +1,10 @@
+{
+	"chain": 2001,
+	"address": "0x063A5E4cD5e15ac66ea47134Eb60e6b30A51B2bf",
+	"symbol": "MilkySwap",
+	"name": "MilkySwap",
+	"coingecko": "milkyswap",
+	"sources": [
+		"coingecko"
+	]
+}

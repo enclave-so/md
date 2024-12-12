@@ -1,0 +1,11 @@
+{
+	"chain": 42161,
+	"address": "0x78055dAA07035Aa5EBC3e5139C281Ce6312E1b22",
+	"symbol": "PPEGG",
+	"name": "Parrot Egg",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/arbitrum/assets/0x78055dAA07035Aa5EBC3e5139C281Ce6312E1b22/logo.png",
+	"sources": [
+		"sushiswap"
+	]
+}

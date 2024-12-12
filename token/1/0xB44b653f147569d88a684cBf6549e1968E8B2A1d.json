@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xB44b653f147569d88a684cBf6549e1968E8B2A1d",
+	"symbol": "2DAI.io",
+	"name": "2DAI.io",
+	"coingecko": "2dai-io",
+	"sources": [
+		"coingecko"
+	]
+}

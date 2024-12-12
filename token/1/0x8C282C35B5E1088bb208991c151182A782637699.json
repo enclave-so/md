@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x8C282C35B5E1088bb208991c151182A782637699",
+	"symbol": "Monai",
+	"name": "Monai",
+	"coingecko": "monai",
+	"sources": [
+		"coingecko"
+	]
+}

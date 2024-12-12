@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xaF8942831F3A096f708b8b31F191B8958Cf176c5",
+	"symbol": "Neural Radiance Field",
+	"name": "Neural Radiance Field",
+	"coingecko": "neural-radiance-field",
+	"sources": [
+		"coingecko"
+	]
+}

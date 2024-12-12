@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x6F87D756DAf0503d08Eb8993686c7Fc01Dc44fB1",
+	"symbol": "Unitrade",
+	"name": "Unitrade",
+	"coingecko": "unitrade",
+	"sources": [
+		"coingecko"
+	]
+}

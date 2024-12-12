@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0xf6726cEBd173CF30926B69087179E18489183422",
+	"symbol": "ICX",
+	"name": "ICON",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xf6726cEBd173CF30926B69087179E18489183422.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

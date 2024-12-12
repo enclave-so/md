@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x680447595e8b7b3Aa1B43beB9f6098C79ac2Ab3f",
+	"symbol": "USDD",
+	"name": "USDD",
+	"coingecko": "usdd",
+	"sources": [
+		"coingecko"
+	]
+}

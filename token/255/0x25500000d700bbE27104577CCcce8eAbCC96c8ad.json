@@ -1,0 +1,10 @@
+{
+	"chain": 255,
+	"address": "0x25500000d700bbE27104577CCcce8eAbCC96c8ad",
+	"symbol": "Kroma",
+	"name": "Kroma",
+	"coingecko": "kroma",
+	"sources": [
+		"coingecko"
+	]
+}

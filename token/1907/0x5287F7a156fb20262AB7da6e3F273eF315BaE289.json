@@ -1,0 +1,10 @@
+{
+	"chain": 1907,
+	"address": "0x5287F7a156fb20262AB7da6e3F273eF315BaE289",
+	"symbol": "Petshop.io",
+	"name": "Petshop.io",
+	"coingecko": "petshop-io",
+	"sources": [
+		"coingecko"
+	]
+}

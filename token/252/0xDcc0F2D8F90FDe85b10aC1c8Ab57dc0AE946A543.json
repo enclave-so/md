@@ -1,0 +1,10 @@
+{
+	"chain": 252,
+	"address": "0xDcc0F2D8F90FDe85b10aC1c8Ab57dc0AE946A543",
+	"symbol": "Fraxtal Bridged USDC (Fraxtal)",
+	"name": "Fraxtal Bridged USDC (Fraxtal)",
+	"coingecko": "fraxtal-bridged-usdc-fraxtal",
+	"sources": [
+		"coingecko"
+	]
+}

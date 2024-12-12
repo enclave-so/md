@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x69420cB71f5Fa439A84545e79557977c0600c46E",
+	"symbol": "TrumpEffect69420",
+	"name": "TrumpEffect69420",
+	"coingecko": "trumpeffect69420",
+	"sources": [
+		"coingecko"
+	]
+}

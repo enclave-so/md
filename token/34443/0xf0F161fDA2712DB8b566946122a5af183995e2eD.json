@@ -1,0 +1,10 @@
+{
+	"chain": 34443,
+	"address": "0xf0F161fDA2712DB8b566946122a5af183995e2eD",
+	"symbol": "Mode Bridged USDT (Mode)",
+	"name": "Mode Bridged USDT (Mode)",
+	"coingecko": "mode-bridged-usdt-mode",
+	"sources": [
+		"coingecko"
+	]
+}

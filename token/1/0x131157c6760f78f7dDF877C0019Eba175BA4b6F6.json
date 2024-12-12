@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x131157c6760f78f7dDF877C0019Eba175BA4b6F6",
+	"symbol": "BigShortBets",
+	"name": "BigShortBets",
+	"coingecko": "bigshortbets",
+	"sources": [
+		"coingecko"
+	]
+}

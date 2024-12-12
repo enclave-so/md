@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x50bC2Ecc0bfDf5666640048038C1ABA7B7525683",
+	"symbol": "carVertical",
+	"name": "carVertical",
+	"coingecko": "carvertical",
+	"sources": [
+		"coingecko"
+	]
+}

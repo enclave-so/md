@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x8E677CA17065eD74675BC27bCaBadB7Eef10A292",
+	"symbol": "Rain Coin",
+	"name": "Rain Coin",
+	"coingecko": "rain-coin",
+	"sources": [
+		"coingecko"
+	]
+}

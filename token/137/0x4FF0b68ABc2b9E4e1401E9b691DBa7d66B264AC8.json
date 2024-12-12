@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x4FF0b68ABc2b9E4e1401E9b691DBa7d66B264AC8",
+	"symbol": "Riot Racers",
+	"name": "Riot Racers",
+	"coingecko": "riot-racers",
+	"sources": [
+		"coingecko"
+	]
+}

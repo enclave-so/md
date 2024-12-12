@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xF8a0A167BEa66247425ef9CB9B622a4B320B8bB6",
+	"symbol": "Resonator",
+	"name": "Resonator",
+	"coingecko": "resonator",
+	"sources": [
+		"coingecko"
+	]
+}

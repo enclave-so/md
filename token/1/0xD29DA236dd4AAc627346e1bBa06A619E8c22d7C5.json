@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xD29DA236dd4AAc627346e1bBa06A619E8c22d7C5",
+	"symbol": "MAGA Hat",
+	"name": "MAGA Hat",
+	"coingecko": "maga-hat",
+	"sources": [
+		"coingecko"
+	]
+}

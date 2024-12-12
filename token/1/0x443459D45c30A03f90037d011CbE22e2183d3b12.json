@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x443459D45c30A03f90037d011CbE22e2183d3b12",
+	"symbol": "TypeAI",
+	"name": "TypeAI",
+	"coingecko": "typeai",
+	"sources": [
+		"coingecko"
+	]
+}

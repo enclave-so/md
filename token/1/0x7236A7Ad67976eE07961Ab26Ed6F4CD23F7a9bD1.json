@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x7236A7Ad67976eE07961Ab26Ed6F4CD23F7a9bD1",
+	"symbol": "TXN Club",
+	"name": "TXN Club",
+	"coingecko": "txn-club",
+	"sources": [
+		"coingecko"
+	]
+}

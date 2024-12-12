@@ -1,0 +1,10 @@
+{
+	"chain": 324,
+	"address": "0x06662147240414cc0Dc25E6414100750D346Bc44",
+	"symbol": "Flashdash",
+	"name": "Flashdash",
+	"coingecko": "flashdash",
+	"sources": [
+		"coingecko"
+	]
+}

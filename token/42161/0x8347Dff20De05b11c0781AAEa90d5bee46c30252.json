@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x8347Dff20De05b11c0781AAEa90d5bee46c30252",
+	"symbol": "Playahh App",
+	"name": "Playahh App",
+	"coingecko": "playahh-app",
+	"sources": [
+		"coingecko"
+	]
+}

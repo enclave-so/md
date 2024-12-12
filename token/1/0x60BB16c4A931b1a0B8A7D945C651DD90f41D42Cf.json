@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x60BB16c4A931b1a0B8A7D945C651DD90f41D42Cf",
+	"symbol": "Finance Blocks",
+	"name": "Finance Blocks",
+	"coingecko": "finance-blocks",
+	"sources": [
+		"coingecko"
+	]
+}

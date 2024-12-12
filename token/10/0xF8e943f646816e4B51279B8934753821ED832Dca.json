@@ -1,0 +1,10 @@
+{
+	"chain": 10,
+	"address": "0xF8e943f646816e4B51279B8934753821ED832Dca",
+	"symbol": "Cthulhu Finance",
+	"name": "Cthulhu Finance",
+	"coingecko": "cthulhu-finance",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"chain": 137,
+	"address": "0x50B728D8D964fd00C2d0AAD81718b71311feF68a",
+	"symbol": "SNX",
+	"name": "Synthetix Network Token",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/snx.jpg",
+	"coingecko": "havven",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

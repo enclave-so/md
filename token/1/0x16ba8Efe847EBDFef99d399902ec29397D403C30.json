@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x16ba8Efe847EBDFef99d399902ec29397D403C30",
+	"symbol": "Oh! Finance",
+	"name": "Oh! Finance",
+	"coingecko": "oh-finance",
+	"sources": [
+		"coingecko"
+	]
+}

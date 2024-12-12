@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x6aBAf438f098F75C5892E1FABF08B1896C805967",
+	"symbol": "Bloodboy",
+	"name": "Bloodboy",
+	"coingecko": "bloodboy",
+	"sources": [
+		"coingecko"
+	]
+}

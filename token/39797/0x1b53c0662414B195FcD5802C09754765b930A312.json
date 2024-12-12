@@ -1,0 +1,10 @@
+{
+	"chain": 39797,
+	"address": "0x1b53c0662414B195FcD5802C09754765b930A312",
+	"symbol": "Celsius Network",
+	"name": "Celsius Network",
+	"coingecko": "celsius-degree-token",
+	"sources": [
+		"coingecko"
+	]
+}

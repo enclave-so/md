@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x95Ed629B028Cf6AADd1408Bb988c6d1DAAbe4767",
+	"symbol": "Dork Lord",
+	"name": "Dork Lord",
+	"coingecko": "dork-lord-2",
+	"sources": [
+		"coingecko"
+	]
+}

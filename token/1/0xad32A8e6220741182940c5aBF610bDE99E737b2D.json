@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0xad32A8e6220741182940c5aBF610bDE99E737b2D",
+	"symbol": "DOUGH",
+	"name": "PieDAO",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xad32A8e6220741182940c5aBF610bDE99E737b2D/logo.png",
+	"sources": [
+		"sushiswap"
+	]
+}

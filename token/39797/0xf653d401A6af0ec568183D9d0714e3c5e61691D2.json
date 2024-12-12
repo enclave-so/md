@@ -1,0 +1,10 @@
+{
+	"chain": 39797,
+	"address": "0xf653d401A6af0ec568183D9d0714e3c5e61691D2",
+	"symbol": "Rook",
+	"name": "Rook",
+	"coingecko": "rook",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xe75F2AcaFbA1aD56C5eD712ffbc1d31910e74396",
+	"symbol": "Komputai",
+	"name": "Komputai",
+	"coingecko": "komputai",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x7272a5a8BD39f204bF773E8b74BB01E31681Ad1D",
+	"symbol": "Open Meta City",
+	"name": "Open Meta City",
+	"coingecko": "open-meta-city",
+	"sources": [
+		"coingecko"
+	]
+}

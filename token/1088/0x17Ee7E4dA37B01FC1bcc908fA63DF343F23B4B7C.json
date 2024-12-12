@@ -1,0 +1,11 @@
+{
+	"chain": 1088,
+	"address": "0x17Ee7E4dA37B01FC1bcc908fA63DF343F23B4B7C",
+	"symbol": "m.SUSHI",
+	"name": "SushiToken",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/metis/0x17Ee7E4dA37B01FC1bcc908fA63DF343F23B4B7C.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x8f9E8e833A69Aa467E42c46cCA640da84DD4585f",
+	"symbol": "NFT Champions",
+	"name": "NFT Champions",
+	"coingecko": "nft-champions",
+	"sources": [
+		"coingecko"
+	]
+}

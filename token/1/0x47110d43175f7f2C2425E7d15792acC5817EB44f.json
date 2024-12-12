@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0x47110d43175f7f2C2425E7d15792acC5817EB44f",
+	"symbol": "GMI",
+	"name": "Bankless DeFi Innovation Index",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x47110d43175f7f2C2425E7d15792acC5817EB44f/logo.png",
+	"sources": [
+		"sushiswap"
+	]
+}

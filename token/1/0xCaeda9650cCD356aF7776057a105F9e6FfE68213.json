@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xCaeda9650cCD356aF7776057a105F9e6FfE68213",
+	"symbol": "Loong",
+	"name": "Loong",
+	"coingecko": "loong",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0xafE8107123EeFd62469474DEC9680860B890e5B6",
+	"symbol": "Oil Token",
+	"name": "Oil Token",
+	"coingecko": "oil-token",
+	"sources": [
+		"coingecko"
+	]
+}

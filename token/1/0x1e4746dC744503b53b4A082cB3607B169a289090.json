@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x1e4746dC744503b53b4A082cB3607B169a289090",
+	"symbol": "IPOR",
+	"name": "IPOR",
+	"coingecko": "ipor",
+	"sources": [
+		"coingecko"
+	]
+}

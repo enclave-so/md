@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xdB25f211AB05b1c97D595516F45794528a807ad8",
+	"symbol": "STASIS EURO",
+	"name": "STASIS EURO",
+	"coingecko": "stasis-eurs",
+	"sources": [
+		"coingecko"
+	]
+}

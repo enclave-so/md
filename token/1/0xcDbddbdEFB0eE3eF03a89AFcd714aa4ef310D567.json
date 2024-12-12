@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xcDbddbdEFB0eE3eF03a89AFcd714aa4ef310D567",
+	"symbol": "Vertical AI",
+	"name": "Vertical AI",
+	"coingecko": "vertical-ai",
+	"sources": [
+		"coingecko"
+	]
+}

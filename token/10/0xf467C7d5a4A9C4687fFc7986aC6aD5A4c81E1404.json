@@ -1,0 +1,10 @@
+{
+	"chain": 10,
+	"address": "0xf467C7d5a4A9C4687fFc7986aC6aD5A4c81E1404",
+	"symbol": "Kite",
+	"name": "Kite",
+	"coingecko": "kite",
+	"sources": [
+		"coingecko"
+	]
+}

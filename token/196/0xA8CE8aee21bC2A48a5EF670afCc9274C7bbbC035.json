@@ -1,0 +1,10 @@
+{
+	"chain": 196,
+	"address": "0xA8CE8aee21bC2A48a5EF670afCc9274C7bbbC035",
+	"symbol": "X Layer Bridged USDC (X Layer)",
+	"name": "X Layer Bridged USDC (X Layer)",
+	"coingecko": "bridged-usdc-x-layer",
+	"sources": [
+		"coingecko"
+	]
+}

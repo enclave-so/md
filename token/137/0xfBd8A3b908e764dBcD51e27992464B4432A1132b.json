@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xfBd8A3b908e764dBcD51e27992464B4432A1132b",
+	"symbol": "Index Cooperative",
+	"name": "Index Cooperative",
+	"coingecko": "index-cooperative",
+	"sources": [
+		"coingecko"
+	]
+}

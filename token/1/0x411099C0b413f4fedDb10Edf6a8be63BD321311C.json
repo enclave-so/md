@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x411099C0b413f4fedDb10Edf6a8be63BD321311C",
+	"symbol": "HELLO",
+	"name": "HELLO",
+	"coingecko": "hello-labs",
+	"sources": [
+		"coingecko"
+	]
+}

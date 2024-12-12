@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x5f0e650708e060cbe092547f53dFaF1E17f0B371",
+	"symbol": "Fox Europe",
+	"name": "Fox Europe",
+	"coingecko": "fox-europe",
+	"sources": [
+		"coingecko"
+	]
+}

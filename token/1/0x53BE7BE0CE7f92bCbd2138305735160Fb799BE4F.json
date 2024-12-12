@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x53BE7BE0CE7f92bCbd2138305735160Fb799BE4F",
+	"symbol": "Neutaro",
+	"name": "Neutaro",
+	"coingecko": "neutaro",
+	"sources": [
+		"coingecko"
+	]
+}

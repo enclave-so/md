@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x8d1566569d5b695d44a9a234540f68D393cDC40D",
+	"symbol": "GameCredits",
+	"name": "GameCredits",
+	"coingecko": "gamecredits",
+	"sources": [
+		"coingecko"
+	]
+}

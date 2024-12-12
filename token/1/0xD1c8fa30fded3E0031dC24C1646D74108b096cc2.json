@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xD1c8fa30fded3E0031dC24C1646D74108b096cc2",
+	"symbol": "Luckyinu",
+	"name": "Luckyinu",
+	"coingecko": "luckyinu",
+	"sources": [
+		"coingecko"
+	]
+}

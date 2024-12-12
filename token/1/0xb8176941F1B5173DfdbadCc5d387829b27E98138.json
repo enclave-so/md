@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xb8176941F1B5173DfdbadCc5d387829b27E98138",
+	"symbol": "DeOrbit Network",
+	"name": "DeOrbit Network",
+	"coingecko": "deorbit-network",
+	"sources": [
+		"coingecko"
+	]
+}

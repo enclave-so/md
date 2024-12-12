@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x505a84a03e382331A1Be487b632Cf357748b65d6",
+	"symbol": "SHIBGF",
+	"name": "SHIBGF",
+	"coingecko": "shibgf",
+	"sources": [
+		"coingecko"
+	]
+}

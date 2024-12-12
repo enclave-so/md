@@ -1,0 +1,10 @@
+{
+	"chain": 39797,
+	"address": "0x881145b61c604D4d27B8969B917BC4844Cc8A9dC",
+	"symbol": "Energiswap SOL (Energi)",
+	"name": "Energiswap SOL (Energi)",
+	"coingecko": "energiswap-sol-energi",
+	"sources": [
+		"coingecko"
+	]
+}

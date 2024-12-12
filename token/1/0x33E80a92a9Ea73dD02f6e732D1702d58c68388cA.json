@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x33E80a92a9Ea73dD02f6e732D1702d58c68388cA",
+	"symbol": "XBANKING",
+	"name": "XBANKING",
+	"coingecko": "xbanking",
+	"sources": [
+		"coingecko"
+	]
+}

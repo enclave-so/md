@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x420698CFdEDdEa6bc78D59bC17798113ad278F9D",
+	"symbol": "Towelie",
+	"name": "Towelie",
+	"coingecko": "towelie",
+	"sources": [
+		"coingecko"
+	]
+}

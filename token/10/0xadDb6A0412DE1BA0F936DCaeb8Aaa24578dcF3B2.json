@@ -1,0 +1,13 @@
+{
+	"chain": 10,
+	"address": "0xadDb6A0412DE1BA0F936DCaeb8Aaa24578dcF3B2",
+	"symbol": "cbETH",
+	"name": "Coinbase Wrapped Staked ETH",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/optimism/0xadDb6A0412DE1BA0F936DCaeb8Aaa24578dcF3B2.jpg",
+	"coingecko": "coinbase-wrapped-staked-eth",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

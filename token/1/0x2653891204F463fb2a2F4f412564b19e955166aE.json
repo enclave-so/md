@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x2653891204F463fb2a2F4f412564b19e955166aE",
+	"symbol": "Gold Fever Native Gold",
+	"name": "Gold Fever Native Gold",
+	"coingecko": "gold-fever-native-gold",
+	"sources": [
+		"coingecko"
+	]
+}

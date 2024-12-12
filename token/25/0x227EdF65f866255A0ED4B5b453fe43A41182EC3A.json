@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0x227EdF65f866255A0ED4B5b453fe43A41182EC3A",
+	"symbol": "JASMY",
+	"name": "JasmyCoin",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x227EdF65f866255A0ED4B5b453fe43A41182EC3A.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

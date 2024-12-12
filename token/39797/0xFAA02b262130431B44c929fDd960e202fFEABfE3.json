@@ -1,0 +1,10 @@
+{
+	"chain": 39797,
+	"address": "0xFAA02b262130431B44c929fDd960e202fFEABfE3",
+	"symbol": "Trust Wallet",
+	"name": "Trust Wallet",
+	"coingecko": "trust-wallet-token",
+	"sources": [
+		"coingecko"
+	]
+}

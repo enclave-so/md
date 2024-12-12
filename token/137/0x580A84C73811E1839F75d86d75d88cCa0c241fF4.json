@@ -1,0 +1,11 @@
+{
+	"chain": 137,
+	"address": "0x580A84C73811E1839F75d86d75d88cCa0c241fF4",
+	"symbol": "Qi",
+	"name": "Qi Dao",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x580A84C73811E1839F75d86d75d88cCa0c241fF4/logo.png",
+	"sources": [
+		"sushiswap"
+	]
+}

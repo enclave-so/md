@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x39903a1A6f289A67E0DE94096915c4ccD506Ab2a",
+	"symbol": "Multi Asset Investment Vehicle",
+	"name": "Multi Asset Investment Vehicle",
+	"coingecko": "multi-asset-investment-vehicle",
+	"sources": [
+		"coingecko"
+	]
+}

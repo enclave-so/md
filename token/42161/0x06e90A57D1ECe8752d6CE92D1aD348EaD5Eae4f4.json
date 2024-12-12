@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x06e90A57D1ECe8752d6CE92D1aD348EaD5Eae4f4",
+	"symbol": "Real Smurf Cat",
+	"name": "Real Smurf Cat",
+	"coingecko": "real-smurf-cat",
+	"sources": [
+		"coingecko"
+	]
+}

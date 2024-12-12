@@ -1,0 +1,13 @@
+{
+	"chain": 25,
+	"address": "0x288898a6057d2D4989c533E96Cb3bc30843c91D7",
+	"symbol": "PUUSH",
+	"name": "Puush da Button",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x288898a6057d2D4989c533E96Cb3bc30843c91D7.jpg",
+	"coingecko": "puush-da-button",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

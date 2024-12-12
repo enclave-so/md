@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x8c85F830bea7D21C71CbD0047aA6dE0D7ACF3262",
+	"symbol": "RuniGun",
+	"name": "RuniGun",
+	"coingecko": "runigun",
+	"sources": [
+		"coingecko"
+	]
+}

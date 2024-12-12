@@ -1,0 +1,10 @@
+{
+	"chain": 25,
+	"address": "0x6D6D6ba0c7e7DBaFffeC82b1ddF92e271650a63A",
+	"symbol": "ToxicDeer Finance",
+	"name": "ToxicDeer Finance",
+	"coingecko": "toxicdeer-finance",
+	"sources": [
+		"coingecko"
+	]
+}

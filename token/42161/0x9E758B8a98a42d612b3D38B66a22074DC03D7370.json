@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x9E758B8a98a42d612b3D38B66a22074DC03D7370",
+	"symbol": "Symbiosis",
+	"name": "Symbiosis",
+	"coingecko": "symbiosis-finance",
+	"sources": [
+		"coingecko"
+	]
+}

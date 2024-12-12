@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0x69fa0feE221AD11012BAb0FdB45d444D3D2Ce71c",
+	"symbol": "XRUNE",
+	"name": "XRUNE Token",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x69fa0feE221AD11012BAb0FdB45d444D3D2Ce71c/logo.png",
+	"coingecko": "thorstarter",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

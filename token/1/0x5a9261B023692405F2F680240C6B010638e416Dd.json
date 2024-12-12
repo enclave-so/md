@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x5a9261B023692405F2F680240C6B010638e416Dd",
+	"symbol": "Storm Warfare",
+	"name": "Storm Warfare",
+	"coingecko": "storm-warfare",
+	"sources": [
+		"coingecko"
+	]
+}

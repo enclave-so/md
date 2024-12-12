@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x352A4B34B8e9f43B869F6F80728978CCcDCED406",
+	"symbol": "SoundLinX",
+	"name": "SoundLinX",
+	"coingecko": "sound-linx",
+	"sources": [
+		"coingecko"
+	]
+}

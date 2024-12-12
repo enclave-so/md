@@ -1,0 +1,10 @@
+{
+	"chain": 250,
+	"address": "0x911da02C1232A3c3E1418B834A311921143B04d7",
+	"symbol": "veDAO",
+	"name": "veDAO",
+	"coingecko": "vedao",
+	"sources": [
+		"coingecko"
+	]
+}

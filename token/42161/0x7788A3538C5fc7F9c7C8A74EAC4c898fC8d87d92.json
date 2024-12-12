@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x7788A3538C5fc7F9c7C8A74EAC4c898fC8d87d92",
+	"symbol": "usdx.money Staked USDX",
+	"name": "usdx.money Staked USDX",
+	"coingecko": "usdx-money-staked-usdx",
+	"sources": [
+		"coingecko"
+	]
+}

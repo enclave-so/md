@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0xf98AB0874b13a7Fdc39D7295DEdd49850A5D426B",
+	"symbol": "KIRA",
+	"name": "KIRA",
+	"decimals": 8,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xf98AB0874b13a7Fdc39D7295DEdd49850A5D426B.jpg",
+	"coingecko": "kira",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

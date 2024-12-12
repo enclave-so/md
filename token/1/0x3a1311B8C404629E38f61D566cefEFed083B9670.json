@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x3a1311B8C404629E38f61D566cefEFed083B9670",
+	"symbol": "Piccolo Inu",
+	"name": "Piccolo Inu",
+	"coingecko": "piccolo-inu",
+	"sources": [
+		"coingecko"
+	]
+}

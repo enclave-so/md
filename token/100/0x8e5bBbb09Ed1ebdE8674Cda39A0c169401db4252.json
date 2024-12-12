@@ -1,0 +1,13 @@
+{
+	"chain": 100,
+	"address": "0x8e5bBbb09Ed1ebdE8674Cda39A0c169401db4252",
+	"symbol": "WBTC",
+	"name": "Wrapped BTC on xDai",
+	"decimals": 8,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/0x8e5bBbb09Ed1ebdE8674Cda39A0c169401db4252.jpg",
+	"coingecko": "gnosis-xdai-bridged-wbtc-gnosis-chain",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

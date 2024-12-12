@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x24B47299E756aF0571F512232A3629E0DaBb52Ed",
+	"symbol": "concertVR",
+	"name": "concertVR",
+	"coingecko": "concertvr",
+	"sources": [
+		"coingecko"
+	]
+}

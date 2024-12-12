@@ -1,0 +1,10 @@
+{
+	"chain": 169,
+	"address": "0x95D1b0f2A751010083BF12E29e7A2F13429F7143",
+	"symbol": "EZswap Protocol",
+	"name": "EZswap Protocol",
+	"coingecko": "ezswap-protocol",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xD85a6Ae55a7f33B0ee113C234d2EE308EdeAF7fD",
+	"symbol": "Cobak",
+	"name": "Cobak",
+	"coingecko": "cobak-token",
+	"sources": [
+		"coingecko"
+	]
+}

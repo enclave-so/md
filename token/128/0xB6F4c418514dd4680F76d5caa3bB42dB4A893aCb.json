@@ -1,0 +1,11 @@
+{
+	"chain": 128,
+	"address": "0xB6F4c418514dd4680F76d5caa3bB42dB4A893aCb",
+	"symbol": "BETH",
+	"name": "Heco-Peg BETH Token",
+	"decimals": 18,
+	"logo": "https://hecoinfo.com/images/main/empty-token.png",
+	"sources": [
+		"sushiswap"
+	]
+}

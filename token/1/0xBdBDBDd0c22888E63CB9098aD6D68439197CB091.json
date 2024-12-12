@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xBdBDBDd0c22888E63CB9098aD6D68439197CB091",
+	"symbol": "Bondex",
+	"name": "Bondex",
+	"coingecko": "bondex",
+	"sources": [
+		"coingecko"
+	]
+}

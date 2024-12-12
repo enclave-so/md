@@ -1,0 +1,13 @@
+{
+	"chain": 25,
+	"address": "0x02DCcaf514C98451320a9365C5b46C61d3246ff3",
+	"symbol": "ELON",
+	"name": "Dogelon Mars",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x02DCcaf514C98451320a9365C5b46C61d3246ff3.jpg",
+	"coingecko": "dogelon-mars",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

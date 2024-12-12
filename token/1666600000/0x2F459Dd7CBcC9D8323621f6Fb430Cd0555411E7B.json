@@ -1,0 +1,11 @@
+{
+	"chain": 1666600000,
+	"address": "0x2F459Dd7CBcC9D8323621f6Fb430Cd0555411E7B",
+	"symbol": "JENN",
+	"name": "TokenJenny",
+	"decimals": 18,
+	"logo": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/JENN.png",
+	"sources": [
+		"sushiswap"
+	]
+}

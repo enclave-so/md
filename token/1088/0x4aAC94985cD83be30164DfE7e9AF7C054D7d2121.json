@@ -1,0 +1,10 @@
+{
+	"chain": 1088,
+	"address": "0x4aAC94985cD83be30164DfE7e9AF7C054D7d2121",
+	"symbol": "Hummus",
+	"name": "Hummus",
+	"coingecko": "hummus",
+	"sources": [
+		"coingecko"
+	]
+}

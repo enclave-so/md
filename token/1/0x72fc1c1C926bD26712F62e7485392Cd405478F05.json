@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x72fc1c1C926bD26712F62e7485392Cd405478F05",
+	"symbol": "Bark Gas Token",
+	"name": "Bark Gas Token",
+	"coingecko": "bark-gas-token",
+	"sources": [
+		"coingecko"
+	]
+}

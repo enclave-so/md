@@ -1,0 +1,11 @@
+{
+	"chain": 10,
+	"address": "0xBA28feb4b6A6b81e3F26F08b83a19E715C4294fd",
+	"symbol": "UST",
+	"name": "UST (Wormhole)",
+	"decimals": 6,
+	"logo": "https://ethereum-optimism.github.io/data/UST/logo.png",
+	"sources": [
+		"sushiswap"
+	]
+}

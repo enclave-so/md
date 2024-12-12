@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x431402e8b9dE9aa016C743880e04E517074D8cEC",
+	"symbol": "Hegic",
+	"name": "Hegic",
+	"coingecko": "hegic",
+	"sources": [
+		"coingecko"
+	]
+}

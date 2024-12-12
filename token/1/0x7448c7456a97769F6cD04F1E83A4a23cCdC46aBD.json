@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x7448c7456a97769F6cD04F1E83A4a23cCdC46aBD",
+	"symbol": "Maverick Protocol",
+	"name": "Maverick Protocol",
+	"coingecko": "maverick-protocol",
+	"sources": [
+		"coingecko"
+	]
+}

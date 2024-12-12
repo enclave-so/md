@@ -1,0 +1,11 @@
+{
+	"chain": 1116,
+	"address": "0xa0E125F5108A8BC99D38DE75A807a36E1067C43B",
+	"symbol": "GM",
+	"name": "GM",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/core/0xa0E125F5108A8BC99D38DE75A807a36E1067C43B.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

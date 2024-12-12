@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x6733F0283711F225A447e759D859a70b0c0Fd2bC",
+	"symbol": "Vector Reserve Staked vETH",
+	"name": "Vector Reserve Staked vETH",
+	"coingecko": "staked-veth",
+	"sources": [
+		"coingecko"
+	]
+}

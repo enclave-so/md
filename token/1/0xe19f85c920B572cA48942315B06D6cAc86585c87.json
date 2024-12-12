@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xe19f85c920B572cA48942315B06D6cAc86585c87",
+	"symbol": "PLEB Token",
+	"name": "PLEB Token",
+	"coingecko": "pleb-token",
+	"sources": [
+		"coingecko"
+	]
+}

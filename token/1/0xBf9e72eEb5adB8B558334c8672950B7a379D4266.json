@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xBf9e72eEb5adB8B558334c8672950B7a379D4266",
+	"symbol": "CubToken",
+	"name": "CubToken",
+	"coingecko": "cubtoken",
+	"sources": [
+		"coingecko"
+	]
+}

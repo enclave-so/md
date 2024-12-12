@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x4DD40ec670722067241b4396dBD253c38dd820b5",
+	"symbol": "MTMS Network",
+	"name": "MTMS Network",
+	"coingecko": "mtms-network",
+	"sources": [
+		"coingecko"
+	]
+}

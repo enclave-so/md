@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x31b2c59d760058cfe57e59472E7542f776d987FB",
+	"symbol": "EDEN",
+	"name": "EDEN",
+	"coingecko": "eden-2",
+	"sources": [
+		"coingecko"
+	]
+}

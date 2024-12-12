@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x0c2e08E459fC43dDD1E2718C122F566473f59665",
+	"symbol": "Crypto Burger",
+	"name": "Crypto Burger",
+	"coingecko": "crypto-burger",
+	"sources": [
+		"coingecko"
+	]
+}

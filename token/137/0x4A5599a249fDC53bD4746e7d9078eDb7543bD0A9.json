@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x4A5599a249fDC53bD4746e7d9078eDb7543bD0A9",
+	"symbol": "16DAO",
+	"name": "16DAO",
+	"coingecko": "16dao",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0xd7a892f28dEdC74E6b7b33F93BE08abfC394a360",
+	"symbol": "Crypto Index Pool",
+	"name": "Crypto Index Pool",
+	"coingecko": "crypto-index-pool",
+	"sources": [
+		"coingecko"
+	]
+}

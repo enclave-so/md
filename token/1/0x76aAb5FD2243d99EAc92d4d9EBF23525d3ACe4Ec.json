@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x76aAb5FD2243d99EAc92d4d9EBF23525d3ACe4Ec",
+	"symbol": "GG MetaGame",
+	"name": "GG MetaGame",
+	"coingecko": "gg-metagame",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x564A80d0123Bdd750fb6A9993834968fc595C09A",
+	"symbol": "Super Best Friends",
+	"name": "Super Best Friends",
+	"coingecko": "super-best-friends",
+	"sources": [
+		"coingecko"
+	]
+}

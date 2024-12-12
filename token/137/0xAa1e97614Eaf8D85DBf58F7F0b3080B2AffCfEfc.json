@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xAa1e97614Eaf8D85DBf58F7F0b3080B2AffCfEfc",
+	"symbol": "Flappy Bird Evolution",
+	"name": "Flappy Bird Evolution",
+	"coingecko": "flappy-bird-evolution",
+	"sources": [
+		"coingecko"
+	]
+}

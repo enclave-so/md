@@ -1,0 +1,13 @@
+{
+	"chain": 199,
+	"address": "0x17F235FD5974318E4E2a5e37919a209f7c37A6d1",
+	"symbol": "USDD.t",
+	"name": "Decentralized USD Tron",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bttc/0x17F235FD5974318E4E2a5e37919a209f7c37A6d1.jpg",
+	"coingecko": "usdd",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

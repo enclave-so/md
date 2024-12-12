@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xCfd748B9De538c9f5b1805e8db9e1d4671f7F2ec",
+	"symbol": "Ripple USD",
+	"name": "Ripple USD",
+	"coingecko": "ripple-usd",
+	"sources": [
+		"coingecko"
+	]
+}

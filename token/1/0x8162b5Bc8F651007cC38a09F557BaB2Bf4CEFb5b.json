@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x8162b5Bc8F651007cC38a09F557BaB2Bf4CEFb5b",
+	"symbol": "Streamer Inu",
+	"name": "Streamer Inu",
+	"coingecko": "streamer-inu",
+	"sources": [
+		"coingecko"
+	]
+}

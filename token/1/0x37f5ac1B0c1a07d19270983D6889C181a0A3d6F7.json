@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x37f5ac1B0c1a07d19270983D6889C181a0A3d6F7",
+	"symbol": "Kronos Bot",
+	"name": "Kronos Bot",
+	"coingecko": "kronos-bot",
+	"sources": [
+		"coingecko"
+	]
+}

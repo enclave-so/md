@@ -1,0 +1,10 @@
+{
+	"chain": 1907,
+	"address": "0xfA69694a8b49384e4EdEbB8b46373dB2ba729BbB",
+	"symbol": "Astro",
+	"name": "Astro",
+	"coingecko": "astro-2",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x071AC29d569a47EbfFB9e57517F855Cb577DCc4C",
+	"symbol": "Galaxy Fight Club",
+	"name": "Galaxy Fight Club",
+	"coingecko": "galaxy-fight-club",
+	"sources": [
+		"coingecko"
+	]
+}

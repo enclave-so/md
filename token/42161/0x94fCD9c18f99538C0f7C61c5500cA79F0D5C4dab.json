@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x94fCD9c18f99538C0f7C61c5500cA79F0D5C4dab",
+	"symbol": "Kima Network",
+	"name": "Kima Network",
+	"coingecko": "kima",
+	"sources": [
+		"coingecko"
+	]
+}

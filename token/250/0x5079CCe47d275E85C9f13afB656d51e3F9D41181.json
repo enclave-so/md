@@ -1,0 +1,10 @@
+{
+	"chain": 250,
+	"address": "0x5079CCe47d275E85C9f13afB656d51e3F9D41181",
+	"symbol": "Jefe",
+	"name": "Jefe",
+	"coingecko": "jefe",
+	"sources": [
+		"coingecko"
+	]
+}

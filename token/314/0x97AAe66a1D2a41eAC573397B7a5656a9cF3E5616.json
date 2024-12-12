@@ -1,0 +1,11 @@
+{
+	"chain": 314,
+	"address": "0x97AAe66a1D2a41eAC573397B7a5656a9cF3E5616",
+	"symbol": "rSPD",
+	"name": "rSPD Token",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/filecoin/0x97AAe66a1D2a41eAC573397B7a5656a9cF3E5616.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

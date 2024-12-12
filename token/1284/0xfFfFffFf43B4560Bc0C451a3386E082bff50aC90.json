@@ -1,0 +1,10 @@
+{
+	"chain": 1284,
+	"address": "0xfFfFffFf43B4560Bc0C451a3386E082bff50aC90",
+	"symbol": "Subsocial",
+	"name": "Subsocial",
+	"coingecko": "subsocial",
+	"sources": [
+		"coingecko"
+	]
+}

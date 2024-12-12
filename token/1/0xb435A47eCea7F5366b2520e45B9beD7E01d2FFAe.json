@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xb435A47eCea7F5366b2520e45B9beD7E01d2FFAe",
+	"symbol": "The Nemesis",
+	"name": "The Nemesis",
+	"coingecko": "the-nemesis",
+	"sources": [
+		"coingecko"
+	]
+}

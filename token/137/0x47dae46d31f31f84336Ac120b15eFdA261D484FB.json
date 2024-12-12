@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x47dae46d31f31f84336Ac120b15eFdA261D484FB",
+	"symbol": "Bund V2",
+	"name": "Bund V2",
+	"coingecko": "bundles",
+	"sources": [
+		"coingecko"
+	]
+}

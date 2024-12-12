@@ -1,0 +1,11 @@
+{
+	"chain": 250,
+	"address": "0xc2A45FE7d40bCAc8369371B08419DDAFd3131b4a",
+	"symbol": "LCD",
+	"name": "Lucidao Token",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/fantom/0xc2A45FE7d40bCAc8369371B08419DDAFd3131b4a.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

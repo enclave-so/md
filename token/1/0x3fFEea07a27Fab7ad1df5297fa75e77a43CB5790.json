@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x3fFEea07a27Fab7ad1df5297fa75e77a43CB5790",
+	"symbol": "PeiPei",
+	"name": "PeiPei",
+	"coingecko": "peipeicoin-vip",
+	"sources": [
+		"coingecko"
+	]
+}

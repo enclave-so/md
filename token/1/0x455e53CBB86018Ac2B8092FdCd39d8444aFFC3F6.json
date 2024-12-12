@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x455e53CBB86018Ac2B8092FdCd39d8444aFFC3F6",
+	"symbol": "POL (ex-MATIC)",
+	"name": "POL (ex-MATIC)",
+	"coingecko": "polygon-ecosystem-token",
+	"sources": [
+		"coingecko"
+	]
+}

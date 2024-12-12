@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xA3f751662e282E83EC3cBc387d225Ca56dD63D3A",
+	"symbol": "Ape and Pepe",
+	"name": "Ape and Pepe",
+	"coingecko": "ape-and-pepe",
+	"sources": [
+		"coingecko"
+	]
+}

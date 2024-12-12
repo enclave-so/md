@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x9AaF731799e824a74a4D3a14e6B00bcc28c327dB",
+	"symbol": "Jable",
+	"name": "Jable",
+	"coingecko": "jable",
+	"sources": [
+		"coingecko"
+	]
+}

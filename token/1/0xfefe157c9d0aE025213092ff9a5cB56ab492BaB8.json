@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xfefe157c9d0aE025213092ff9a5cB56ab492BaB8",
+	"symbol": "Fefe",
+	"name": "Fefe",
+	"coingecko": "fefe-on-eth",
+	"sources": [
+		"coingecko"
+	]
+}

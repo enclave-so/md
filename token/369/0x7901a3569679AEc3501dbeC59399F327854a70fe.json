@@ -1,0 +1,10 @@
+{
+	"chain": 369,
+	"address": "0x7901a3569679AEc3501dbeC59399F327854a70fe",
+	"symbol": "Hex Orange Address",
+	"name": "Hex Orange Address",
+	"coingecko": "hex-orange-address",
+	"sources": [
+		"coingecko"
+	]
+}

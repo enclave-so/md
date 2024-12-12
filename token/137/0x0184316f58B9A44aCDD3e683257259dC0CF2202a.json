@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x0184316f58B9A44aCDD3e683257259dC0CF2202a",
+	"symbol": "PolyGold",
+	"name": "PolyGold",
+	"coingecko": "polygold",
+	"sources": [
+		"coingecko"
+	]
+}

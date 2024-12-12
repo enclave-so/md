@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x9c354503C38481a7A7a51629142963F98eCC12D0",
+	"symbol": "Origin DeFi Governance",
+	"name": "Origin DeFi Governance",
+	"coingecko": "origin-dollar-governance",
+	"sources": [
+		"coingecko"
+	]
+}

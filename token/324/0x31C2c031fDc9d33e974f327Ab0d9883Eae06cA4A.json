@@ -1,0 +1,10 @@
+{
+	"chain": 324,
+	"address": "0x31C2c031fDc9d33e974f327Ab0d9883Eae06cA4A",
+	"symbol": "zkSwap Finance",
+	"name": "zkSwap Finance",
+	"coingecko": "zkswap-finance",
+	"sources": [
+		"coingecko"
+	]
+}

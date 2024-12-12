@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x922e2708462c7a3d014D8344F7C4d92b27ECf332",
+	"symbol": "Neuroni AI",
+	"name": "Neuroni AI",
+	"coingecko": "neuroni-ai",
+	"sources": [
+		"coingecko"
+	]
+}

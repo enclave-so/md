@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x6E109E9dD7Fa1a58BC3eff667e8e41fC3cc07AEF",
+	"symbol": "CNH Tether",
+	"name": "CNH Tether",
+	"coingecko": "cnh-tether",
+	"sources": [
+		"coingecko"
+	]
+}

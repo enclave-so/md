@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x61107a409fFFe1965126aa456Af679719695C69C",
+	"symbol": "Umi Digital",
+	"name": "Umi Digital",
+	"coingecko": "umi-digital",
+	"sources": [
+		"coingecko"
+	]
+}

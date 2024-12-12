@@ -1,0 +1,11 @@
+{
+	"chain": 1285,
+	"address": "0xE6a991Ffa8CfE62B0bf6BF72959A3d4f11B2E0f5",
+	"symbol": "WBTC.eth",
+	"name": "Wrapped Bitcoin - Meter",
+	"decimals": 8,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/btc.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

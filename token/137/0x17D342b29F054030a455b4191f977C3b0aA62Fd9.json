@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x17D342b29F054030a455b4191f977C3b0aA62Fd9",
+	"symbol": "Kanga Exchange",
+	"name": "Kanga Exchange",
+	"coingecko": "kanga-exchange",
+	"sources": [
+		"coingecko"
+	]
+}

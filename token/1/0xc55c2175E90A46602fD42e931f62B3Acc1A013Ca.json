@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xc55c2175E90A46602fD42e931f62B3Acc1A013Ca",
+	"symbol": "Mogul Productions [OLD]",
+	"name": "Mogul Productions [OLD]",
+	"coingecko": "mogul-productions",
+	"sources": [
+		"coingecko"
+	]
+}

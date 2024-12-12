@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0xb0eCc6ac0073c063DCFC026cCdC9039Cae2998E1",
+	"symbol": "A3S",
+	"name": "A3S",
+	"coingecko": "a3s",
+	"sources": [
+		"coingecko"
+	]
+}

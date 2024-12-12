@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x7cB683151A83c2B10A30cBB003CDA9996228a2bA",
+	"symbol": "IYKYK",
+	"name": "IYKYK",
+	"coingecko": "iykyk",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0x45e007750Cc74B1D2b4DD7072230278d9602C499",
+	"symbol": "stkXPRT",
+	"name": "pSTAKE Staked XPRT",
+	"decimals": 6,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x45e007750Cc74B1D2b4DD7072230278d9602C499/logo.png",
+	"sources": [
+		"sushiswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 122,
+	"address": "0x68c9736781E9316ebf5c3d49FE0C1f45D2D104Cd",
+	"symbol": "Bridged Tether (Fuse)",
+	"name": "Bridged Tether (Fuse)",
+	"coingecko": "bridged-tether-fuse",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xee7666aACAEFaa6efeeF62ea40176d3eB21953B9",
+	"symbol": "MCH Coin",
+	"name": "MCH Coin",
+	"coingecko": "mch-coin",
+	"sources": [
+		"coingecko"
+	]
+}

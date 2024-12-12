@@ -1,0 +1,10 @@
+{
+	"chain": 39797,
+	"address": "0x241eBDFDfbED02c6e727562777C902E54eEE53c3",
+	"symbol": "Wrapped Kava",
+	"name": "Wrapped Kava",
+	"coingecko": "wrapped-kava",
+	"sources": [
+		"coingecko"
+	]
+}

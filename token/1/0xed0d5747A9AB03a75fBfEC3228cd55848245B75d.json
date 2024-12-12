@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xed0d5747A9AB03a75fBfEC3228cd55848245B75d",
+	"symbol": "e-Money",
+	"name": "e-Money",
+	"coingecko": "e-money",
+	"sources": [
+		"coingecko"
+	]
+}

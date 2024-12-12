@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x2c852D3334188BE136bFC540EF2bB8C37b590BAD",
+	"symbol": "MagicLand",
+	"name": "MagicLand",
+	"coingecko": "magic-token",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x610dBd98A28EbbA525e9926b6aaF88f9159edbfd",
+	"symbol": "Nostra",
+	"name": "Nostra",
+	"coingecko": "nostra",
+	"sources": [
+		"coingecko"
+	]
+}

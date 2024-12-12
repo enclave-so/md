@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xf8676DEe37a9Ad404ff58eD03b1a145ad66836bb",
+	"symbol": "Rixen Finance",
+	"name": "Rixen Finance",
+	"coingecko": "rixen-finance",
+	"sources": [
+		"coingecko"
+	]
+}

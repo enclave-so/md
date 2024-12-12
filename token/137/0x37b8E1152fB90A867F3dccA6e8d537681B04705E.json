@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x37b8E1152fB90A867F3dccA6e8d537681B04705E",
+	"symbol": "Proto Gyro Dollar",
+	"name": "Proto Gyro Dollar",
+	"coingecko": "proto-gyro-dollar",
+	"sources": [
+		"coingecko"
+	]
+}

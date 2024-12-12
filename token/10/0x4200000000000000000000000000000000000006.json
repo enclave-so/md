@@ -1,0 +1,13 @@
+{
+	"chain": 10,
+	"address": "0x4200000000000000000000000000000000000006",
+	"symbol": "WETH",
+	"name": "Wrapped Ether",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/optimism/0x4200000000000000000000000000000000000006.jpg",
+	"coingecko": "l2-standard-bridged-weth-optimism",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

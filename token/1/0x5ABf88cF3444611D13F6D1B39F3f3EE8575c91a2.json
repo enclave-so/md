@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x5ABf88cF3444611D13F6D1B39F3f3EE8575c91a2",
+	"symbol": "Super Athletes Token",
+	"name": "Super Athletes Token",
+	"coingecko": "super-athletes-token",
+	"sources": [
+		"coingecko"
+	]
+}

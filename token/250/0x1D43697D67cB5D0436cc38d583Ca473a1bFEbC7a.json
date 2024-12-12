@@ -1,0 +1,10 @@
+{
+	"chain": 250,
+	"address": "0x1D43697D67cB5D0436cc38d583Ca473a1bFEbC7a",
+	"symbol": "Fantom Doge",
+	"name": "Fantom Doge",
+	"coingecko": "fantom-doge",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xc064F4F215B6A1E4e7F39bD8530C4dE0fC43ee9D",
+	"symbol": "LeisureMeta",
+	"name": "LeisureMeta",
+	"coingecko": "leisuremeta",
+	"sources": [
+		"coingecko"
+	]
+}

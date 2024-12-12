@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x8eEF5a82E6Aa222a60F009ac18c24EE12dBf4b41",
+	"symbol": "Autobahn Network",
+	"name": "Autobahn Network",
+	"coingecko": "autobahn-network",
+	"sources": [
+		"coingecko"
+	]
+}

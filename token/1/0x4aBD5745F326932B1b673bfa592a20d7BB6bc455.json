@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x4aBD5745F326932B1b673bfa592a20d7BB6bc455",
+	"symbol": "Pink Hood Froglicker",
+	"name": "Pink Hood Froglicker",
+	"coingecko": "pink-hood-froglicker",
+	"sources": [
+		"coingecko"
+	]
+}

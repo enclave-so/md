@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x46b2a4075420bDb6Fe643075748487B27f354390",
+	"symbol": "Bitgrok AI",
+	"name": "Bitgrok AI",
+	"coingecko": "bitgrok-ai",
+	"sources": [
+		"coingecko"
+	]
+}

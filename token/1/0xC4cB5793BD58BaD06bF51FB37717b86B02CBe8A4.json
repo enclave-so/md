@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xC4cB5793BD58BaD06bF51FB37717b86B02CBe8A4",
+	"symbol": "PROXI DeFi",
+	"name": "PROXI DeFi",
+	"coingecko": "credit-2",
+	"sources": [
+		"coingecko"
+	]
+}

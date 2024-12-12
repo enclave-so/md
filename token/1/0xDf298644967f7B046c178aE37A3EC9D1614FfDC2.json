@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xDf298644967f7B046c178aE37A3EC9D1614FfDC2",
+	"symbol": "MBA Platform",
+	"name": "MBA Platform",
+	"coingecko": "mba-platform",
+	"sources": [
+		"coingecko"
+	]
+}

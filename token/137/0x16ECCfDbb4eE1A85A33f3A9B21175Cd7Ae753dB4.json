@@ -1,0 +1,13 @@
+{
+	"chain": 137,
+	"address": "0x16ECCfDbb4eE1A85A33f3A9B21175Cd7Ae753dB4",
+	"symbol": "ROUTE",
+	"name": "Router Protocol",
+	"decimals": 18,
+	"logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/8292.png",
+	"coingecko": "route",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

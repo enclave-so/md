@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xB009BFaAF85e53F55d8657781Eb69feAaed83672",
+	"symbol": "EdgeSwap",
+	"name": "EdgeSwap",
+	"coingecko": "edgeswap",
+	"sources": [
+		"coingecko"
+	]
+}

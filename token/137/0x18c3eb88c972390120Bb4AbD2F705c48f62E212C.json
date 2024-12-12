@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x18c3eb88c972390120Bb4AbD2F705c48f62E212C",
+	"symbol": "Defiway",
+	"name": "Defiway",
+	"coingecko": "defiway",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xa69d14d6369E414a32a5C7E729B7afbAfd285965",
+	"symbol": "Global Coin Research",
+	"name": "Global Coin Research",
+	"coingecko": "global-coin-research",
+	"sources": [
+		"coingecko"
+	]
+}

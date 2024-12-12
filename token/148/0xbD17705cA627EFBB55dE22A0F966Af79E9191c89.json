@@ -1,0 +1,10 @@
+{
+	"chain": 148,
+	"address": "0xbD17705cA627EFBB55dE22A0F966Af79E9191c89",
+	"symbol": "Rusty Robot Country Club",
+	"name": "Rusty Robot Country Club",
+	"coingecko": "rusty-robot-country-club",
+	"sources": [
+		"coingecko"
+	]
+}

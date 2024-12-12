@@ -1,0 +1,13 @@
+{
+	"chain": 288,
+	"address": "0x66a2A913e447d6b4BF33EFbec43aAeF87890FBbc",
+	"symbol": "USDC",
+	"name": "USD Coin",
+	"decimals": 6,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdc.jpg",
+	"coingecko": "bridged-usdc",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

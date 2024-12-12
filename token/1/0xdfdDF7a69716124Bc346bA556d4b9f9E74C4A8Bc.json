@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xdfdDF7a69716124Bc346bA556d4b9f9E74C4A8Bc",
+	"symbol": "Succession",
+	"name": "Succession",
+	"coingecko": "succession",
+	"sources": [
+		"coingecko"
+	]
+}

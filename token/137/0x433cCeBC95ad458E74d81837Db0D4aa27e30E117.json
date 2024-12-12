@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x433cCeBC95ad458E74d81837Db0D4aa27e30E117",
+	"symbol": "UDAO",
+	"name": "UDAO",
+	"coingecko": "udao",
+	"sources": [
+		"coingecko"
+	]
+}

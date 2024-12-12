@@ -1,0 +1,13 @@
+{
+	"chain": 25,
+	"address": "0x7a7c9db510aB29A2FC362a4c34260BEcB5cE3446",
+	"symbol": "CDCETH",
+	"name": "Crypto.com Wrapped Staked ETH",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x7a7c9db510aB29A2FC362a4c34260BEcB5cE3446.jpg",
+	"coingecko": "crypto-com-staked-eth",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

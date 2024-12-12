@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xFD1eEb2f3399872735f3Df735816c4FC607E12C4",
+	"symbol": "PCO Metaverse",
+	"name": "PCO Metaverse",
+	"coingecko": "pco-metaverse",
+	"sources": [
+		"coingecko"
+	]
+}

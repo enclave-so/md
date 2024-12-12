@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x8C6778023C3D4FD79DdD14810079F64c39e9E43d",
+	"symbol": "0xAISwap",
+	"name": "0xAISwap",
+	"coingecko": "0xaiswap",
+	"sources": [
+		"coingecko"
+	]
+}

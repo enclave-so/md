@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0x52d87F22192131636F93c5AB18d0127Ea52CB641",
+	"symbol": "renLUNA",
+	"name": "renLUNA",
+	"decimals": 6,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x52d87F22192131636F93c5AB18d0127Ea52CB641/logo.png",
+	"sources": [
+		"sushiswap"
+	]
+}

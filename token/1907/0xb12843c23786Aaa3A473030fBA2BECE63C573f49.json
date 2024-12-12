@@ -1,0 +1,10 @@
+{
+	"chain": 1907,
+	"address": "0xb12843c23786Aaa3A473030fBA2BECE63C573f49",
+	"symbol": "Extreme",
+	"name": "Extreme",
+	"coingecko": "extreme",
+	"sources": [
+		"coingecko"
+	]
+}

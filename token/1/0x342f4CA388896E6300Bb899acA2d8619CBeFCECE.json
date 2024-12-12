@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x342f4CA388896E6300Bb899acA2d8619CBeFCECE",
+	"symbol": "Innovai",
+	"name": "Innovai",
+	"coingecko": "innovai",
+	"sources": [
+		"coingecko"
+	]
+}

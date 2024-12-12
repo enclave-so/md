@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xFDb15e5E6799Be72798b1ccFAEcbF186Bf73A0c4",
+	"symbol": "NitroEX",
+	"name": "NitroEX",
+	"coingecko": "nitroex",
+	"sources": [
+		"coingecko"
+	]
+}

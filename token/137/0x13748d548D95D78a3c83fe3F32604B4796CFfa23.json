@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x13748d548D95D78a3c83fe3F32604B4796CFfa23",
+	"symbol": "KogeCoin",
+	"name": "KogeCoin",
+	"coingecko": "kogecoin",
+	"sources": [
+		"coingecko"
+	]
+}

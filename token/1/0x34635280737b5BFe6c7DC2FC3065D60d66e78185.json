@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x34635280737b5BFe6c7DC2FC3065D60d66e78185",
+	"symbol": "Convex Prisma",
+	"name": "Convex Prisma",
+	"coingecko": "convex-prisma",
+	"sources": [
+		"coingecko"
+	]
+}

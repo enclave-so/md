@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x00000000e88649DD6AaB90088Ca25D772D4607d0",
+	"symbol": "Underworld",
+	"name": "Underworld",
+	"coingecko": "underworld",
+	"sources": [
+		"coingecko"
+	]
+}

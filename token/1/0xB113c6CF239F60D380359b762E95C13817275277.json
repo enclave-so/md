@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xB113c6CF239F60D380359b762E95C13817275277",
+	"symbol": "BitMEX",
+	"name": "BitMEX",
+	"coingecko": "bitmex-token",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 100,
+	"address": "0x0AA1e96D2a46Ec6beB2923dE1E61Addf5F5f1dce",
+	"symbol": "RealToken Ecosystem Governance",
+	"name": "RealToken Ecosystem Governance",
+	"coingecko": "realtoken-ecosystem-governance",
+	"sources": [
+		"coingecko"
+	]
+}

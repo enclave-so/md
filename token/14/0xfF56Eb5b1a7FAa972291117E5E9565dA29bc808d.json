@@ -1,0 +1,10 @@
+{
+	"chain": 14,
+	"address": "0xfF56Eb5b1a7FAa972291117E5E9565dA29bc808d",
+	"symbol": "Apsis",
+	"name": "Apsis",
+	"coingecko": "apsis",
+	"sources": [
+		"coingecko"
+	]
+}

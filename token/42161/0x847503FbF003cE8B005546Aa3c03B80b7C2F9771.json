@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x847503FbF003cE8B005546Aa3c03B80b7C2F9771",
+	"symbol": "Byte",
+	"name": "Byte",
+	"coingecko": "byte",
+	"sources": [
+		"coingecko"
+	]
+}

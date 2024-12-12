@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0xa1faa113cbE53436Df28FF0aEe54275c13B40975",
+	"symbol": "ALPHA",
+	"name": "Alpha Finance",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xa1faa113cbE53436Df28FF0aEe54275c13B40975/logo.png",
+	"coingecko": "alpha-finance",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

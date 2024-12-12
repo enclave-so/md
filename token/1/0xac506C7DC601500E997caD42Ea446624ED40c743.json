@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xac506C7DC601500E997caD42Ea446624ED40c743",
+	"symbol": "XCeption",
+	"name": "XCeption",
+	"coingecko": "xception",
+	"sources": [
+		"coingecko"
+	]
+}

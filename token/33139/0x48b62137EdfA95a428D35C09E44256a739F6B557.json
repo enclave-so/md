@@ -1,0 +1,10 @@
+{
+	"chain": 33139,
+	"address": "0x48b62137EdfA95a428D35C09E44256a739F6B557",
+	"symbol": "Wrapped ApeCoin",
+	"name": "Wrapped ApeCoin",
+	"coingecko": "wrapped-apecoin",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x0df0f72EE0e5c9B7ca761ECec42754992B2Da5BF",
+	"symbol": "Automata",
+	"name": "Automata",
+	"coingecko": "automata",
+	"sources": [
+		"coingecko"
+	]
+}

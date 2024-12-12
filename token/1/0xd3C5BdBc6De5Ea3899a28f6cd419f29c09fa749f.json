@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xd3C5BdBc6De5Ea3899a28f6cd419f29c09fa749f",
+	"symbol": "Sanin",
+	"name": "Sanin",
+	"coingecko": "sanin",
+	"sources": [
+		"coingecko"
+	]
+}

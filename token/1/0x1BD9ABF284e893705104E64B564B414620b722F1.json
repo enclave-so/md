@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x1BD9ABF284e893705104E64B564B414620b722F1",
+	"symbol": "acmFinance",
+	"name": "acmFinance",
+	"coingecko": "acmfinance",
+	"sources": [
+		"coingecko"
+	]
+}

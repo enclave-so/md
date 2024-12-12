@@ -1,0 +1,10 @@
+{
+	"chain": 14,
+	"address": "0x140D8d3649Ec605CF69018C627fB44cCC76eC89f",
+	"symbol": "Ēnosys",
+	"name": "Ēnosys",
+	"coingecko": "enosys",
+	"sources": [
+		"coingecko"
+	]
+}

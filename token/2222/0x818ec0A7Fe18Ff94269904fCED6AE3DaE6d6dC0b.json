@@ -1,0 +1,13 @@
+{
+	"chain": 2222,
+	"address": "0x818ec0A7Fe18Ff94269904fCED6AE3DaE6d6dC0b",
+	"symbol": "anyWBTC",
+	"name": "Wrapped Bitcoin",
+	"decimals": 8,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/btc.jpg",
+	"coingecko": "multichain-bridged-wbtc-kava",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

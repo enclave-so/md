@@ -1,0 +1,10 @@
+{
+	"chain": 333000333,
+	"address": "0x333000991af20009D049bAB8218De04d70811c04",
+	"symbol": "Meld Bridged ADA (Meld)",
+	"name": "Meld Bridged ADA (Meld)",
+	"coingecko": "meld-bridged-ada-meld",
+	"sources": [
+		"coingecko"
+	]
+}

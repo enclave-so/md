@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xE2432110C32D0717E33c245fe0CFA2B26c07f47a",
+	"symbol": "AGIX",
+	"name": "AGIX",
+	"coingecko": "aigentx",
+	"sources": [
+		"coingecko"
+	]
+}

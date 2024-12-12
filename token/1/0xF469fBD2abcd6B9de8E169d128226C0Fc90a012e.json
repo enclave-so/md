@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xF469fBD2abcd6B9de8E169d128226C0Fc90a012e",
+	"symbol": "pumpBTC",
+	"name": "pumpBTC",
+	"coingecko": "pumpbtc",
+	"sources": [
+		"coingecko"
+	]
+}

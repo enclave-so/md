@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xDA5fab7affC6dFFD24d60e23153D241a3D9f9603",
+	"symbol": "Cryptiq browser",
+	"name": "Cryptiq browser",
+	"coingecko": "cryptiq-web3",
+	"sources": [
+		"coingecko"
+	]
+}

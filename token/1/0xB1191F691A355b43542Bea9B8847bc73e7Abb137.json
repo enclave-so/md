@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xB1191F691A355b43542Bea9B8847bc73e7Abb137",
+	"symbol": "KIRO",
+	"name": "KIRO",
+	"coingecko": "kirobo",
+	"sources": [
+		"coingecko"
+	]
+}

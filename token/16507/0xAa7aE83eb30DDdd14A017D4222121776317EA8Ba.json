@@ -1,0 +1,10 @@
+{
+	"chain": 16507,
+	"address": "0xAa7aE83eb30DDdd14A017D4222121776317EA8Ba",
+	"symbol": "Wrapped GSYS (BlueLotusDAO)",
+	"name": "Wrapped GSYS (BlueLotusDAO)",
+	"coingecko": "wrapped-gsys-bluelotusdao",
+	"sources": [
+		"coingecko"
+	]
+}

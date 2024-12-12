@@ -1,0 +1,11 @@
+{
+	"chain": 42161,
+	"address": "0xAeEBa475eDC438f8Eeb6BFBc3164c1C7716Fb304",
+	"symbol": "DICE",
+	"name": "Party Dice",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xAeEBa475eDC438f8Eeb6BFBc3164c1C7716Fb304.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

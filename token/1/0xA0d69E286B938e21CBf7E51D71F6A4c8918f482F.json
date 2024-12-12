@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xA0d69E286B938e21CBf7E51D71F6A4c8918f482F",
+	"symbol": "Electronic USD",
+	"name": "Electronic USD",
+	"coingecko": "electronic-usd",
+	"sources": [
+		"coingecko"
+	]
+}

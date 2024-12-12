@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x9ed7E4B1BFF939ad473dA5E7a218C771D1569456",
+	"symbol": "Reunit Wallet",
+	"name": "Reunit Wallet",
+	"coingecko": "reunit-wallet",
+	"sources": [
+		"coingecko"
+	]
+}

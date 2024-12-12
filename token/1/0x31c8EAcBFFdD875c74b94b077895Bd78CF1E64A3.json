@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x31c8EAcBFFdD875c74b94b077895Bd78CF1E64A3",
+	"symbol": "Radworks",
+	"name": "Radworks",
+	"coingecko": "radicle",
+	"sources": [
+		"coingecko"
+	]
+}

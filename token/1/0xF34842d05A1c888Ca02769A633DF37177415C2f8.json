@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xF34842d05A1c888Ca02769A633DF37177415C2f8",
+	"symbol": "IdleUSDT (Yield)",
+	"name": "IdleUSDT (Yield)",
+	"coingecko": "idle-usdt-yield",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xb4357054c3dA8D46eD642383F03139aC7f090343",
+	"symbol": "Port3 Network",
+	"name": "Port3 Network",
+	"coingecko": "port3-network",
+	"sources": [
+		"coingecko"
+	]
+}

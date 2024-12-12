@@ -1,0 +1,10 @@
+{
+	"chain": 1907,
+	"address": "0x0B37A4E31Bf13C0EbD48357E9c9c87040544A5EC",
+	"symbol": "Türkiye Motosiklet Federasyonu Fan Token",
+	"name": "Türkiye Motosiklet Federasyonu Fan Token",
+	"coingecko": "turkiye-motosiklet-federasyonu-fan-token",
+	"sources": [
+		"coingecko"
+	]
+}

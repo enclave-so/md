@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x77571a64342667f7818520eF004b2b91F47a266b",
+	"symbol": "SnailMoon",
+	"name": "SnailMoon",
+	"coingecko": "snailmoon",
+	"sources": [
+		"coingecko"
+	]
+}

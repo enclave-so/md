@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xf9d4DAaE1300CfF251979722C4A3C45857973079",
+	"symbol": "bitcastle",
+	"name": "bitcastle",
+	"coingecko": "bitcastle",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x100891Bf73ba8274C234Aa34621BC626ED6ECA8e",
+	"symbol": "HACHI-KUN",
+	"name": "HACHI-KUN",
+	"coingecko": "hachi-kun",
+	"sources": [
+		"coingecko"
+	]
+}

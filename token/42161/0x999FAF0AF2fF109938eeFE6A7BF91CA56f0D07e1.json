@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x999FAF0AF2fF109938eeFE6A7BF91CA56f0D07e1",
+	"symbol": "Ledgity Token",
+	"name": "Ledgity Token",
+	"coingecko": "ledgity-token",
+	"sources": [
+		"coingecko"
+	]
+}

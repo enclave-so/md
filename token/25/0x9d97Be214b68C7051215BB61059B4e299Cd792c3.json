@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0x9d97Be214b68C7051215BB61059B4e299Cd792c3",
+	"symbol": "LTC",
+	"name": "Litecoin",
+	"decimals": 8,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x9d97Be214b68C7051215BB61059B4e299Cd792c3.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

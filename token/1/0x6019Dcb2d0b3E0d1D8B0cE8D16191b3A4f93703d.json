@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x6019Dcb2d0b3E0d1D8B0cE8D16191b3A4f93703d",
+	"symbol": "Quantum Fusion",
+	"name": "Quantum Fusion",
+	"coingecko": "quantum-fusion",
+	"sources": [
+		"coingecko"
+	]
+}

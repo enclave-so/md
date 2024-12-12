@@ -1,0 +1,10 @@
+{
+	"chain": 34443,
+	"address": "0x8b2EeA0999876AAB1E7955fe01A5D261b570452C",
+	"symbol": "BMX: Wrapped Mode Liquidity Token",
+	"name": "BMX: Wrapped Mode Liquidity Token",
+	"coingecko": "bmx-wrapped-mode-liquidity-token",
+	"sources": [
+		"coingecko"
+	]
+}

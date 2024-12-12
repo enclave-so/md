@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xC9bCa88B04581699fAb5aa276CCafF7Df957cbbf",
+	"symbol": "Ethervista",
+	"name": "Ethervista",
+	"coingecko": "ethervista",
+	"sources": [
+		"coingecko"
+	]
+}

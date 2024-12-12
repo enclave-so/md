@@ -1,0 +1,10 @@
+{
+	"chain": 1907,
+	"address": "0x13Dd78E8078ca3278bf001fE0C21aEd6684c611B",
+	"symbol": "Mergen",
+	"name": "Mergen",
+	"coingecko": "mergen",
+	"sources": [
+		"coingecko"
+	]
+}

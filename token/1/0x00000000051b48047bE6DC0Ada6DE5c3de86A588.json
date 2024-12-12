@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x00000000051b48047bE6DC0Ada6DE5c3de86A588",
+	"symbol": "Baby Shiba Inu",
+	"name": "Baby Shiba Inu",
+	"coingecko": "baby-shiba-inu-erc",
+	"sources": [
+		"coingecko"
+	]
+}

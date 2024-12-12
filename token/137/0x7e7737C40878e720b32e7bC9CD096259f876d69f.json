@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x7e7737C40878e720b32e7bC9CD096259f876d69f",
+	"symbol": "Catheon Gaming",
+	"name": "Catheon Gaming",
+	"coingecko": "catheon-gaming",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"chain": 250,
+	"address": "0x81740D647493a61329E1c574A11ee7577659fb14",
+	"symbol": "fCHF",
+	"name": "fCHF",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/fchf.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

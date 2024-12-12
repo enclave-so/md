@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x3F382DbD960E3a9bbCeaE22651E88158d2791550",
+	"symbol": "Aavegotchi",
+	"name": "Aavegotchi",
+	"coingecko": "aavegotchi",
+	"sources": [
+		"coingecko"
+	]
+}

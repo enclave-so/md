@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0xFca59Cd816aB1eaD66534D82bc21E7515cE441CF",
+	"symbol": "RARI",
+	"name": "Rarible",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/rari.jpg",
+	"coingecko": "rarible",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

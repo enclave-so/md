@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x48fd84c0dFC47F1b61eD6a86367895AaA6ad2a45",
+	"symbol": "Twin Protocol",
+	"name": "Twin Protocol",
+	"coingecko": "twin-protocol",
+	"sources": [
+		"coingecko"
+	]
+}

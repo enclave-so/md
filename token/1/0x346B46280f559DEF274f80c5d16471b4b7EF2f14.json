@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x346B46280f559DEF274f80c5d16471b4b7EF2f14",
+	"symbol": "StorageChain",
+	"name": "StorageChain",
+	"coingecko": "storagechain",
+	"sources": [
+		"coingecko"
+	]
+}

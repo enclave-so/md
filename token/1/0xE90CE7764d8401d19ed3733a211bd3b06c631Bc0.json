@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xE90CE7764d8401d19ed3733a211bd3b06c631Bc0",
+	"symbol": "The Other Party",
+	"name": "The Other Party",
+	"coingecko": "the-other-party",
+	"sources": [
+		"coingecko"
+	]
+}

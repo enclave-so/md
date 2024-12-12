@@ -1,0 +1,13 @@
+{
+	"chain": 25,
+	"address": "0xdcC261c03cD2f33eBea404318Cdc1D9f8b78e1AD",
+	"symbol": "VSHARE",
+	"name": "VSHARE",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xdcC261c03cD2f33eBea404318Cdc1D9f8b78e1AD.jpg",
+	"coingecko": "v3s-share",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

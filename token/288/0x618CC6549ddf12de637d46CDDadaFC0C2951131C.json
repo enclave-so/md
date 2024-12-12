@@ -1,0 +1,10 @@
+{
+	"chain": 288,
+	"address": "0x618CC6549ddf12de637d46CDDadaFC0C2951131C",
+	"symbol": "Kōyō",
+	"name": "Kōyō",
+	"coingecko": "koyo",
+	"sources": [
+		"coingecko"
+	]
+}

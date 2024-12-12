@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xd57187E56e5B31B4d7813D7CEEa1E9f9b97ee82F",
+	"symbol": "zkInfra",
+	"name": "zkInfra",
+	"coingecko": "zkinfra",
+	"sources": [
+		"coingecko"
+	]
+}

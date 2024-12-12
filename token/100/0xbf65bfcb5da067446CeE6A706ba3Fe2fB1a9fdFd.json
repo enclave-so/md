@@ -1,0 +1,10 @@
+{
+	"chain": 100,
+	"address": "0xbf65bfcb5da067446CeE6A706ba3Fe2fB1a9fdFd",
+	"symbol": "yearn.finance",
+	"name": "yearn.finance",
+	"coingecko": "yearn-finance",
+	"sources": [
+		"coingecko"
+	]
+}

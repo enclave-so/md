@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x04A020325024F130988782bd5276e53595e8d16E",
+	"symbol": "Herbalist",
+	"name": "Herbalist",
+	"coingecko": "herbalist-token",
+	"sources": [
+		"coingecko"
+	]
+}

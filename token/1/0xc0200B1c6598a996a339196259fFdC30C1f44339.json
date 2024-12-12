@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xc0200B1c6598a996a339196259fFdC30C1f44339",
+	"symbol": "El Risitas",
+	"name": "El Risitas",
+	"coingecko": "el-risitas",
+	"sources": [
+		"coingecko"
+	]
+}

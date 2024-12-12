@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xb146823Fb8EA064d14bA1a52e3E55CdE09AFfF2D",
+	"symbol": "EyeTech",
+	"name": "EyeTech",
+	"coingecko": "chartai",
+	"sources": [
+		"coingecko"
+	]
+}

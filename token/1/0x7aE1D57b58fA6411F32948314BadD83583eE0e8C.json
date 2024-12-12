@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x7aE1D57b58fA6411F32948314BadD83583eE0e8C",
+	"symbol": "Dope Wars Paper",
+	"name": "Dope Wars Paper",
+	"coingecko": "dope-wars-paper",
+	"sources": [
+		"coingecko"
+	]
+}

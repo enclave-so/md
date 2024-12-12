@@ -1,0 +1,10 @@
+{
+	"chain": 100,
+	"address": "0x9fB1d52596c44603198fB0aee434fac3a679f702",
+	"symbol": "Jarvis Synthetic Euro",
+	"name": "Jarvis Synthetic Euro",
+	"coingecko": "jarvis-synthetic-euro",
+	"sources": [
+		"coingecko"
+	]
+}

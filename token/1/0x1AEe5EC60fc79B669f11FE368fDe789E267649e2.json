@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x1AEe5EC60fc79B669f11FE368fDe789E267649e2",
+	"symbol": "Inception Restaked tBTC",
+	"name": "Inception Restaked tBTC",
+	"coingecko": "inception-restaked-tbtc",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1907,
+	"address": "0xcb2263b182131DbB9824Bf406c8F8AcB65B54808",
+	"symbol": "Kripto",
+	"name": "Kripto",
+	"coingecko": "kripto",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 39797,
+	"address": "0xE66FC8B066d3BAC4E8D1B53A5929Bd0cA85E1639",
+	"symbol": "Wrapped Wan",
+	"name": "Wrapped Wan",
+	"coingecko": "wrapped-wan",
+	"sources": [
+		"coingecko"
+	]
+}

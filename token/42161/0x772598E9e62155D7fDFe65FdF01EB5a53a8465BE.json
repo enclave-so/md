@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x772598E9e62155D7fDFe65FdF01EB5a53a8465BE",
+	"symbol": "Empyreal",
+	"name": "Empyreal",
+	"coingecko": "empyreal",
+	"sources": [
+		"coingecko"
+	]
+}

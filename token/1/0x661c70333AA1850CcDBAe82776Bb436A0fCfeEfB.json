@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x661c70333AA1850CcDBAe82776Bb436A0fCfeEfB",
+	"symbol": "eBTC",
+	"name": "eBTC",
+	"coingecko": "ebtc",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x1c74d8C8FE37B0fA47deBc82E0AB6925A3DC4a2F",
+	"symbol": "Strike Protocol",
+	"name": "Strike Protocol",
+	"coingecko": "strike-protocol",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xfF33A6b3dC0127862eEdD3978609404b22298A54",
+	"symbol": "GorplesCoin",
+	"name": "GorplesCoin",
+	"coingecko": "borpatoken",
+	"sources": [
+		"coingecko"
+	]
+}

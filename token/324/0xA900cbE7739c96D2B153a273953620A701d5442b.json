@@ -1,0 +1,10 @@
+{
+	"chain": 324,
+	"address": "0xA900cbE7739c96D2B153a273953620A701d5442b",
+	"symbol": "Wrapped USDM",
+	"name": "Wrapped USDM",
+	"coingecko": "wrapped-usdm",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x09C5a4BCA808bD1ba2b8E6B3aAF7442046B4ca5B",
+	"symbol": "Vesper Finance",
+	"name": "Vesper Finance",
+	"coingecko": "vesper-finance",
+	"sources": [
+		"coingecko"
+	]
+}

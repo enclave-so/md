@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xc0e10854ab40b2E59A5519C481161a090f1162A0",
+	"symbol": "Cairo",
+	"name": "Cairo",
+	"coingecko": "cairo",
+	"sources": [
+		"coingecko"
+	]
+}

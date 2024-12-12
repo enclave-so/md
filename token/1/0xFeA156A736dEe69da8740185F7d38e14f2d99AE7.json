@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xFeA156A736dEe69da8740185F7d38e14f2d99AE7",
+	"symbol": "Querio",
+	"name": "Querio",
+	"coingecko": "qro",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x148255a3b10666D9788Ec48BC61Ea3e48974bf2C",
+	"symbol": "Decentralized Music Chain",
+	"name": "Decentralized Music Chain",
+	"coingecko": "decentralized-music-chain",
+	"sources": [
+		"coingecko"
+	]
+}

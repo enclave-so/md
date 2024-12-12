@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x683989aFc948477fd38567F8327F501562C955ac",
+	"symbol": "Morph AI",
+	"name": "Morph AI",
+	"coingecko": "morph-ai",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 250,
+	"address": "0x2F733095B80A04b38b0D10cC884524a3d09b836a",
+	"symbol": "Wormhole Bridged USDC (Fantom)",
+	"name": "Wormhole Bridged USDC (Fantom)",
+	"coingecko": "wormhole-bridged-usdc-fantom",
+	"sources": [
+		"coingecko"
+	]
+}

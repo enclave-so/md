@@ -1,0 +1,10 @@
+{
+	"chain": 1666600000,
+	"address": "0xB55106308974CEbe299A0f0505435C47b404b9a6",
+	"symbol": "ParadiseFi",
+	"name": "ParadiseFi",
+	"coingecko": "paradisefi",
+	"sources": [
+		"coingecko"
+	]
+}

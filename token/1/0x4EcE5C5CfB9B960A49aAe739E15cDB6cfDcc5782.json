@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x4EcE5C5CfB9B960A49aAe739E15cDB6cfDcc5782",
+	"symbol": "Doont Buy",
+	"name": "Doont Buy",
+	"coingecko": "doont-buy",
+	"sources": [
+		"coingecko"
+	]
+}

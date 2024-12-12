@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0xed7f000eE335B8199b004cCA1c6f36d188CF6cb8",
+	"symbol": "D2 Finance",
+	"name": "D2 Finance",
+	"coingecko": "d2-token",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x5dCD6272C3cbb250823F0b7e6C618bce11B21f90",
+	"symbol": "Pear Swap",
+	"name": "Pear Swap",
+	"coingecko": "pear-swap",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x1fd6cF265fd3428F655378a803658942095b4C4e",
+	"symbol": "PolyYeld",
+	"name": "PolyYeld",
+	"coingecko": "polyyeld-token",
+	"sources": [
+		"coingecko"
+	]
+}

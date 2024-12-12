@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xA045Fe936E26e1e1e1Fb27C1f2Ae3643acde0171",
+	"symbol": "Kai Ken",
+	"name": "Kai Ken",
+	"coingecko": "kai-ken",
+	"sources": [
+		"coingecko"
+	]
+}

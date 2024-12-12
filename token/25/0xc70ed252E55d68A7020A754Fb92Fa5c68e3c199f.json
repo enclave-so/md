@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0xc70ed252E55d68A7020A754Fb92Fa5c68e3c199f",
+	"symbol": "ZIL",
+	"name": "Zilliqa",
+	"decimals": 12,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xc70ed252E55d68A7020A754Fb92Fa5c68e3c199f.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

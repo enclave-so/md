@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0xcD303c638812291f9df0C18a2f32F2F0ec8fdb60",
+	"symbol": "CHI",
+	"name": "ChiToken",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xcD303c638812291f9df0C18a2f32F2F0ec8fdb60.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

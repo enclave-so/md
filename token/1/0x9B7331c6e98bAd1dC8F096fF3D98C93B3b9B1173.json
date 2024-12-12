@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x9B7331c6e98bAd1dC8F096fF3D98C93B3b9B1173",
+	"symbol": "Mumu the Bull",
+	"name": "Mumu the Bull",
+	"coingecko": "mumu-the-bull-2",
+	"sources": [
+		"coingecko"
+	]
+}

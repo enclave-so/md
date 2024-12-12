@@ -1,0 +1,11 @@
+{
+	"chain": 11297108109,
+	"address": "0x4C1f6fCBd233241bF2f4D02811E3bF8429BC27B8",
+	"symbol": "DAI",
+	"name": "Dai Stablecoin",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/dai.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

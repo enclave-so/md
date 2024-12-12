@@ -1,0 +1,10 @@
+{
+	"chain": 13371,
+	"address": "0xb00ed913aAFf8280C17BfF33CcE82fE6D79e85e8",
+	"symbol": "Guild of Guardians",
+	"name": "Guild of Guardians",
+	"coingecko": "guild-of-guardians",
+	"sources": [
+		"coingecko"
+	]
+}

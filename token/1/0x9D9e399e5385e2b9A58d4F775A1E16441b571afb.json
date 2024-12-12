@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x9D9e399e5385e2b9A58d4F775A1E16441b571afb",
+	"symbol": "Metano",
+	"name": "Metano",
+	"coingecko": "metano",
+	"sources": [
+		"coingecko"
+	]
+}

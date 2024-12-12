@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x6977597bBBdcc453636BD67A161a96d85098f327",
+	"symbol": "Pipi on ETH",
+	"name": "Pipi on ETH",
+	"coingecko": "pipi-on-eth",
+	"sources": [
+		"coingecko"
+	]
+}

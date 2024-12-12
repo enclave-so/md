@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xeA4170A365952c666A9f34950771E51841732de9",
+	"symbol": "Filter AI",
+	"name": "Filter AI",
+	"coingecko": "filter-ai",
+	"sources": [
+		"coingecko"
+	]
+}

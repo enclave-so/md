@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x5f5166C4fdb9055efB24A7E75Cc1A21Ca8ca61a3",
+	"symbol": "AI-X",
+	"name": "AI-X",
+	"coingecko": "ai-x",
+	"sources": [
+		"coingecko"
+	]
+}

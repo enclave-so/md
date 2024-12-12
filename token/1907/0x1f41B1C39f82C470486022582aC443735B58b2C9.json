@@ -1,0 +1,10 @@
+{
+	"chain": 1907,
+	"address": "0x1f41B1C39f82C470486022582aC443735B58b2C9",
+	"symbol": "MetaGuard",
+	"name": "MetaGuard",
+	"coingecko": "metaguard",
+	"sources": [
+		"coingecko"
+	]
+}

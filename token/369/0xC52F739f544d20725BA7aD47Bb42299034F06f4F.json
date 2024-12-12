@@ -1,0 +1,10 @@
+{
+	"chain": 369,
+	"address": "0xC52F739f544d20725BA7aD47Bb42299034F06f4F",
+	"symbol": "PulsePot",
+	"name": "PulsePot",
+	"coingecko": "pulsepot",
+	"sources": [
+		"coingecko"
+	]
+}

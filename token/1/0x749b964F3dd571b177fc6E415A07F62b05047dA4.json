@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0x749b964F3dd571b177fc6E415A07F62b05047dA4",
+	"symbol": "LSD",
+	"name": "Bad Trip",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/lsd.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

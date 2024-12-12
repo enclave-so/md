@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x1776B223FF636D0d76aDF2290821f176421DD889",
+	"symbol": "America1776",
+	"name": "America1776",
+	"coingecko": "america1776",
+	"sources": [
+		"coingecko"
+	]
+}

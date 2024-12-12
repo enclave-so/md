@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0xFb930D1A28990820C98144201637C99beA8cB91c",
+	"symbol": "Bumper",
+	"name": "Bumper",
+	"coingecko": "bumper",
+	"sources": [
+		"coingecko"
+	]
+}

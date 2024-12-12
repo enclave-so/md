@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xb0AC2b5a73da0e67A8e5489Ba922B3f8d582e058",
+	"symbol": "Shiro Neko",
+	"name": "Shiro Neko",
+	"coingecko": "shiro-neko-2",
+	"sources": [
+		"coingecko"
+	]
+}

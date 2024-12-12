@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0xcdee9300A1527E0000b054320D371A9C8c4a8AF6",
+	"symbol": "CHR",
+	"name": "Chromia",
+	"decimals": 6,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xcdee9300A1527E0000b054320D371A9C8c4a8AF6.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"chain": 10,
+	"address": "0x9Bcef72be871e61ED4fBbc7630889beE758eb81D",
+	"symbol": "rETH",
+	"name": "Rocket Pool ETH",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/rETH/logo.png",
+	"coingecko": "rocket-pool-eth",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

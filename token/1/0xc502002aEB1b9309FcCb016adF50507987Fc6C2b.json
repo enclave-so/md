@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xc502002aEB1b9309FcCb016adF50507987Fc6C2b",
+	"symbol": "GNFT",
+	"name": "GNFT",
+	"coingecko": "gnft",
+	"sources": [
+		"coingecko"
+	]
+}

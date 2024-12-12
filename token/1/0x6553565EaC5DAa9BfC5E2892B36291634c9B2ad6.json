@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x6553565EaC5DAa9BfC5E2892B36291634c9B2ad6",
+	"symbol": "Rake.com",
+	"name": "Rake.com",
+	"coingecko": "rake-com",
+	"sources": [
+		"coingecko"
+	]
+}

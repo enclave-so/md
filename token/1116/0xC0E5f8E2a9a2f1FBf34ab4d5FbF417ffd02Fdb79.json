@@ -1,0 +1,11 @@
+{
+	"chain": 1116,
+	"address": "0xC0E5f8E2a9a2f1FBf34ab4d5FbF417ffd02Fdb79",
+	"symbol": "PEPE",
+	"name": "Pepe",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/core/0xC0E5f8E2a9a2f1FBf34ab4d5FbF417ffd02Fdb79.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

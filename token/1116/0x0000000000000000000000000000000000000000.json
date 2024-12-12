@@ -1,0 +1,10 @@
+{
+	"chain": 1116,
+	"address": "0x0000000000000000000000000000000000000000",
+	"symbol": "Moondogs",
+	"name": "Moondogs",
+	"coingecko": "moondogs",
+	"sources": [
+		"coingecko"
+	]
+}

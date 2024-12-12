@@ -1,0 +1,11 @@
+{
+	"chain": 10,
+	"address": "0xB548f63D4405466B36C0c0aC3318a22fDcec711a",
+	"symbol": "RGT",
+	"name": "Rari Governance Token",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/RGT/logo.png",
+	"sources": [
+		"sushiswap"
+	]
+}

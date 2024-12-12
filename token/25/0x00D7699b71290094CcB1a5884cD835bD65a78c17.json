@@ -1,0 +1,13 @@
+{
+	"chain": 25,
+	"address": "0x00D7699b71290094CcB1a5884cD835bD65a78c17",
+	"symbol": "VERSA",
+	"name": "VersaGames",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x00D7699b71290094CcB1a5884cD835bD65a78c17.jpg",
+	"coingecko": "versagames",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

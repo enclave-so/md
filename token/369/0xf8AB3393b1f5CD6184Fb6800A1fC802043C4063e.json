@@ -1,0 +1,10 @@
+{
+	"chain": 369,
+	"address": "0xf8AB3393b1f5CD6184Fb6800A1fC802043C4063e",
+	"symbol": "Monat Money",
+	"name": "Monat Money",
+	"coingecko": "monat-money",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xe657d49ABAe3EA21618bb481F1Dab4322855f60E",
+	"symbol": "Rainbow",
+	"name": "Rainbow",
+	"coingecko": "rainbow-2",
+	"sources": [
+		"coingecko"
+	]
+}

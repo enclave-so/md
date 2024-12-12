@@ -1,0 +1,11 @@
+{
+	"chain": 137,
+	"address": "0xb74f2220Ad34A03730400c9C97Bd10863bBc4130",
+	"symbol": "CHECK",
+	"name": "Check Token",
+	"decimals": 6,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0xb74f2220Ad34A03730400c9C97Bd10863bBc4130.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

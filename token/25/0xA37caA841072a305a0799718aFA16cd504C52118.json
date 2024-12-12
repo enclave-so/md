@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0xA37caA841072a305a0799718aFA16cd504C52118",
+	"symbol": "EOS",
+	"name": "EOS",
+	"decimals": 4,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xA37caA841072a305a0799718aFA16cd504C52118.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

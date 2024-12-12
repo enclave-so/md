@@ -1,0 +1,10 @@
+{
+	"chain": 1329,
+	"address": "0xC18b6a15FB0ceaf5eb18696EeFCb5bc7b9107149",
+	"symbol": "Popo The Cat",
+	"name": "Popo The Cat",
+	"coingecko": "popo-the-cat",
+	"sources": [
+		"coingecko"
+	]
+}

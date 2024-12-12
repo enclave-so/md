@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xfc05987bd2be489ACCF0f509E44B0145d68240f7",
+	"symbol": "Essentia",
+	"name": "Essentia",
+	"coingecko": "essentia",
+	"sources": [
+		"coingecko"
+	]
+}

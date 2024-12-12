@@ -1,0 +1,10 @@
+{
+	"chain": 1088,
+	"address": "0x4651B38e7ec14BB3db731369BFE5B08F2466Bd0A",
+	"symbol": "Elevate Bridged DAI (Metis Andromeda)",
+	"name": "Elevate Bridged DAI (Metis Andromeda)",
+	"coingecko": "elevate-bridged-dai-metis-andromeda",
+	"sources": [
+		"coingecko"
+	]
+}

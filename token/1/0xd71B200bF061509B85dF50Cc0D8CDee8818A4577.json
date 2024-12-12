@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xd71B200bF061509B85dF50Cc0D8CDee8818A4577",
+	"symbol": "Dinari COIN",
+	"name": "Dinari COIN",
+	"coingecko": "dinari-coin",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 10,
+	"address": "0xD42Fe55e8A43b546aA75fdA6483073be1d7EF74c",
+	"symbol": "NEROX AI",
+	"name": "NEROX AI",
+	"coingecko": "nerox-ai",
+	"sources": [
+		"coingecko"
+	]
+}

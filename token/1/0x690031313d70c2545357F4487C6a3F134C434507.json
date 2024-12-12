@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x690031313d70c2545357F4487C6a3F134C434507",
+	"symbol": "QQQ6900",
+	"name": "QQQ6900",
+	"coingecko": "qqq6900",
+	"sources": [
+		"coingecko"
+	]
+}

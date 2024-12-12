@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x8b8f9419ED9Fd8C168128bf05C5d5FE7B17fE11D",
+	"symbol": "Milo Token",
+	"name": "Milo Token",
+	"coingecko": "milo-token",
+	"sources": [
+		"coingecko"
+	]
+}

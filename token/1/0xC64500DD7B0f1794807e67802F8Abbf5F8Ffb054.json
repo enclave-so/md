@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xC64500DD7B0f1794807e67802F8Abbf5F8Ffb054",
+	"symbol": "Locus Chain",
+	"name": "Locus Chain",
+	"coingecko": "locus-chain",
+	"sources": [
+		"coingecko"
+	]
+}

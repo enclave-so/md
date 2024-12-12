@@ -1,0 +1,10 @@
+{
+	"chain": 1666600000,
+	"address": "0x85FD5f8dBD0c9Ef1806E6c7d4B787d438621C1dC",
+	"symbol": "Iris",
+	"name": "Iris",
+	"coingecko": "iris-token-2",
+	"sources": [
+		"coingecko"
+	]
+}

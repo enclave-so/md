@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0x465e07d6028830124BE2E4aA551fBe12805dB0f5",
+	"symbol": "WXMR",
+	"name": "Wrapped XMR",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/wxmr.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

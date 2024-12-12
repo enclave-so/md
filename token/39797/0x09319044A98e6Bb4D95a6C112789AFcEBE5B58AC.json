@@ -1,0 +1,10 @@
+{
+	"chain": 39797,
+	"address": "0x09319044A98e6Bb4D95a6C112789AFcEBE5B58AC",
+	"symbol": "saffron.finance",
+	"name": "saffron.finance",
+	"coingecko": "saffron-finance",
+	"sources": [
+		"coingecko"
+	]
+}

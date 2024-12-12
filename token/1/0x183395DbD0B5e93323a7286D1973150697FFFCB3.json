@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x183395DbD0B5e93323a7286D1973150697FFFCB3",
+	"symbol": "Convex FXN",
+	"name": "Convex FXN",
+	"coingecko": "convex-fxn",
+	"sources": [
+		"coingecko"
+	]
+}

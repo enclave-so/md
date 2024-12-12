@@ -1,0 +1,10 @@
+{
+	"chain": 25,
+	"address": "0xa0C3c184493f2Fae7d2f2Bd83F195a1c300FA353",
+	"symbol": "Croissant Games",
+	"name": "Croissant Games",
+	"coingecko": "croissant-games",
+	"sources": [
+		"coingecko"
+	]
+}

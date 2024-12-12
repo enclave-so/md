@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xee5BB31fDf28b5d64f5a5605085Cc4e3649aa624",
+	"symbol": "Websea",
+	"name": "Websea",
+	"coingecko": "websea",
+	"sources": [
+		"coingecko"
+	]
+}

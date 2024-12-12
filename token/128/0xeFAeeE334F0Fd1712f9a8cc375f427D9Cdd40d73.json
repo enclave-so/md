@@ -1,0 +1,13 @@
+{
+	"chain": 128,
+	"address": "0xeFAeeE334F0Fd1712f9a8cc375f427D9Cdd40d73",
+	"symbol": "WOW",
+	"name": "WOWSwap",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x3405A1bd46B85c5C029483FbECf2F3E611026e45/logo.png",
+	"coingecko": "wowswap",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

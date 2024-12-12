@@ -1,0 +1,10 @@
+{
+	"chain": 39797,
+	"address": "0xdf13537f5a8c697bdeCB4870B249a1a9158b54c6",
+	"symbol": "Wrapped CRO",
+	"name": "Wrapped CRO",
+	"coingecko": "wrapped-cro",
+	"sources": [
+		"coingecko"
+	]
+}

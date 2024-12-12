@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x1F2b426417663Ac76eB92149a037753a45969F31",
+	"symbol": "RWA Finance",
+	"name": "RWA Finance",
+	"coingecko": "rwa-finance",
+	"sources": [
+		"coingecko"
+	]
+}

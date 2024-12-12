@@ -1,0 +1,13 @@
+{
+	"chain": 137,
+	"address": "0xE111178A87A3BFf0c8d18DECBa5798827539Ae99",
+	"symbol": "EURS",
+	"name": "STASIS EURS Token (PoS)",
+	"decimals": 2,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0xE111178A87A3BFf0c8d18DECBa5798827539Ae99.jpg",
+	"coingecko": "stasis-eurs",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

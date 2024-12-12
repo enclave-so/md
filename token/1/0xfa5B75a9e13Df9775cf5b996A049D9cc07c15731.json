@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xfa5B75a9e13Df9775cf5b996A049D9cc07c15731",
+	"symbol": "28VCK",
+	"name": "28VCK",
+	"coingecko": "28vck",
+	"sources": [
+		"coingecko"
+	]
+}

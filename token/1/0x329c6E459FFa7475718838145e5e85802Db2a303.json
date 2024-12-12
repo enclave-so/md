@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x329c6E459FFa7475718838145e5e85802Db2a303",
+	"symbol": "MaidSafeCoin",
+	"name": "MaidSafeCoin",
+	"coingecko": "maidsafecoin",
+	"sources": [
+		"coingecko"
+	]
+}

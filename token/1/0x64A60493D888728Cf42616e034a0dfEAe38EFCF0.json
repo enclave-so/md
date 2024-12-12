@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x64A60493D888728Cf42616e034a0dfEAe38EFCF0",
+	"symbol": "OneLedger",
+	"name": "OneLedger",
+	"coingecko": "one-ledger",
+	"sources": [
+		"coingecko"
+	]
+}

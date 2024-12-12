@@ -1,0 +1,10 @@
+{
+	"chain": 324,
+	"address": "0x5A7d6b2F92C77FAD6CCaBd7EE0624E64907Eaf3E",
+	"symbol": "ZKsync",
+	"name": "ZKsync",
+	"coingecko": "zksync",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 34443,
+	"address": "0xDfc7C877a950e49D2610114102175A06C2e3167a",
+	"symbol": "Mode",
+	"name": "Mode",
+	"coingecko": "mode",
+	"sources": [
+		"coingecko"
+	]
+}

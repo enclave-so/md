@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xBe00734799A67a62Af2819825580318aC1B1E4Ec",
+	"symbol": "ordinex",
+	"name": "ordinex",
+	"coingecko": "ordinex",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xbe9F61555F50DD6167f2772e9CF7519790d96624",
+	"symbol": "SX Network",
+	"name": "SX Network",
+	"coingecko": "sx-network-2",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x5EeAA2DCb23056F4E8654a349E57eBE5e76b5e6e",
+	"symbol": "Virtue Poker Points",
+	"name": "Virtue Poker Points",
+	"coingecko": "virtue-poker",
+	"sources": [
+		"coingecko"
+	]
+}

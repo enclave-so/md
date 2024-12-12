@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0x9AB7bb7FdC60f4357ECFef43986818A2A3569c62",
+	"symbol": "GOG",
+	"name": "Guild of Guardians",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x9AB7bb7FdC60f4357ECFef43986818A2A3569c62/logo.png",
+	"coingecko": "guild-of-guardians",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

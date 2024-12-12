@@ -1,0 +1,11 @@
+{
+	"chain": 250,
+	"address": "0xe297e06761a5489380538A0308B6F9b4A53Bea45",
+	"symbol": "fWTIOIL",
+	"name": "fWTI Oil",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/fwtioil.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

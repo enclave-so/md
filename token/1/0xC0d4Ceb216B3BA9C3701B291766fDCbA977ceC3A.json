@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0xC0d4Ceb216B3BA9C3701B291766fDCbA977ceC3A",
+	"symbol": "BTRFLY",
+	"name": "Redacted Cartel",
+	"decimals": 9,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xC0d4Ceb216B3BA9C3701B291766fDCbA977ceC3A.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

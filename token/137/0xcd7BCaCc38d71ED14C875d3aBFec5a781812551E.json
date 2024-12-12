@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xcd7BCaCc38d71ED14C875d3aBFec5a781812551E",
+	"symbol": "MetaVirus",
+	"name": "MetaVirus",
+	"coingecko": "metavirus",
+	"sources": [
+		"coingecko"
+	]
+}

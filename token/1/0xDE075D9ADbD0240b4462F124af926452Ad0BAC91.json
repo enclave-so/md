@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xDE075D9ADbD0240b4462F124af926452Ad0BAC91",
+	"symbol": "Bubblefong",
+	"name": "Bubblefong",
+	"coingecko": "bubblefong",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xE97dB8503dd3E3eB0286AAFC50327C598EFDb578",
+	"symbol": "Jinko AI",
+	"name": "Jinko AI",
+	"coingecko": "jinko-ai",
+	"sources": [
+		"coingecko"
+	]
+}

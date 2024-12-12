@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0xb4bbfE92702730ef7F1d28e4b9E42381182F48a5",
+	"symbol": "Hold VIP",
+	"name": "Hold VIP",
+	"coingecko": "hold-vip",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x7E7a7C916c19a45769f6BDAF91087f93c6C12F78",
+	"symbol": "Eigenpie",
+	"name": "Eigenpie",
+	"coingecko": "eigenpie",
+	"sources": [
+		"coingecko"
+	]
+}

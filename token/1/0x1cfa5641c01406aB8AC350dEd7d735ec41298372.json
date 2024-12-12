@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x1cfa5641c01406aB8AC350dEd7d735ec41298372",
+	"symbol": "Convertible JPY Token",
+	"name": "Convertible JPY Token",
+	"coingecko": "convertible-jpy-token",
+	"sources": [
+		"coingecko"
+	]
+}

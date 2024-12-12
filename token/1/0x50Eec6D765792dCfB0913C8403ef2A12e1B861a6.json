@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x50Eec6D765792dCfB0913C8403ef2A12e1B861a6",
+	"symbol": "Z-Cubed",
+	"name": "Z-Cubed",
+	"coingecko": "z-cubed",
+	"sources": [
+		"coingecko"
+	]
+}

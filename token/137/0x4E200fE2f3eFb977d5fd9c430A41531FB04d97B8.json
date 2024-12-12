@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x4E200fE2f3eFb977d5fd9c430A41531FB04d97B8",
+	"symbol": "Orderly Network",
+	"name": "Orderly Network",
+	"coingecko": "orderly-network",
+	"sources": [
+		"coingecko"
+	]
+}

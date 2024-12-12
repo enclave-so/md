@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xb17C88bDA07D28B3838E0c1dE6a30eAfBCF52D85",
+	"symbol": "Shyft Network",
+	"name": "Shyft Network",
+	"coingecko": "shyft-network-2",
+	"sources": [
+		"coingecko"
+	]
+}

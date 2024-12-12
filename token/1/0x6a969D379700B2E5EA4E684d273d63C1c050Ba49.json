@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x6a969D379700B2E5EA4E684d273d63C1c050Ba49",
+	"symbol": "Pacific",
+	"name": "Pacific",
+	"coingecko": "pacific",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xC382e04099A435439725BB40647e2B32dC136806",
+	"symbol": "Cogecoin",
+	"name": "Cogecoin",
+	"coingecko": "cogecoin",
+	"sources": [
+		"coingecko"
+	]
+}

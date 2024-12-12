@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x1D6405138A335cE5FD7364086334EfB3E4F28B59",
+	"symbol": "ClearCryptos",
+	"name": "ClearCryptos",
+	"coingecko": "clearcryptos",
+	"sources": [
+		"coingecko"
+	]
+}

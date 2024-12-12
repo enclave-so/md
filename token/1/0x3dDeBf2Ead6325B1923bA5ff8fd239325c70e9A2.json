@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x3dDeBf2Ead6325B1923bA5ff8fd239325c70e9A2",
+	"symbol": "Sebra AI",
+	"name": "Sebra AI",
+	"coingecko": "sebra-ai",
+	"sources": [
+		"coingecko"
+	]
+}

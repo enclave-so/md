@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0xB90B2A35C65dBC466b04240097Ca756ad2005295",
+	"symbol": "BOBO",
+	"name": "BOBO",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xB90B2A35C65dBC466b04240097Ca756ad2005295.jpg",
+	"coingecko": "bobo-coin",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

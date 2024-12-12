@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x272F97b7a56a387aE942350bBC7Df5700f8a4576",
+	"symbol": "Aave BAL",
+	"name": "Aave BAL",
+	"coingecko": "aave-bal",
+	"sources": [
+		"coingecko"
+	]
+}

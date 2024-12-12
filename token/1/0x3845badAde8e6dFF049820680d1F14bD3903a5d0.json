@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x3845badAde8e6dFF049820680d1F14bD3903a5d0",
+	"symbol": "The Sandbox",
+	"name": "The Sandbox",
+	"coingecko": "the-sandbox",
+	"sources": [
+		"coingecko"
+	]
+}

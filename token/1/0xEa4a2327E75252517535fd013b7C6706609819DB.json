@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xEa4a2327E75252517535fd013b7C6706609819DB",
+	"symbol": "Shibarium Name Service",
+	"name": "Shibarium Name Service",
+	"coingecko": "shibarium-name-service",
+	"sources": [
+		"coingecko"
+	]
+}

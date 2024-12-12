@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x67f3086F7823eaF35f5aAADfB2E9b9c5B09578CF",
+	"symbol": "InsightX",
+	"name": "InsightX",
+	"coingecko": "insightx",
+	"sources": [
+		"coingecko"
+	]
+}

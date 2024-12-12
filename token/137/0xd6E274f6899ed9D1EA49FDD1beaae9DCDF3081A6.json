@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xd6E274f6899ed9D1EA49FDD1beaae9DCDF3081A6",
+	"symbol": "NW Fit AI",
+	"name": "NW Fit AI",
+	"coingecko": "ninja-warriors",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 122,
+	"address": "0xb1DD0B683d9A56525cC096fbF5eec6E60FE79871",
+	"symbol": "Liquid staked FUSE",
+	"name": "Liquid staked FUSE",
+	"coingecko": "liquid-staked-fuse",
+	"sources": [
+		"coingecko"
+	]
+}

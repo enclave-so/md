@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x26c75c7d815efe6bF5a6decd17d20D1fdad96A08",
+	"symbol": "OctopusWallet",
+	"name": "OctopusWallet",
+	"coingecko": "octopuswallet",
+	"sources": [
+		"coingecko"
+	]
+}

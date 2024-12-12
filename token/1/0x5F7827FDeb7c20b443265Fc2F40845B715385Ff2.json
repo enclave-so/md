@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x5F7827FDeb7c20b443265Fc2F40845B715385Ff2",
+	"symbol": "EUR CoinVertible",
+	"name": "EUR CoinVertible",
+	"coingecko": "societe-generale-forge-eurcv",
+	"sources": [
+		"coingecko"
+	]
+}

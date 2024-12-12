@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x3cBb7f5d7499Af626026E96a2f05df806F2200DC",
+	"symbol": "PandaDAO",
+	"name": "PandaDAO",
+	"coingecko": "pandadao",
+	"sources": [
+		"coingecko"
+	]
+}

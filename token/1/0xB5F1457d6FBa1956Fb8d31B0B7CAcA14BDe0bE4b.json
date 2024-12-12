@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xB5F1457d6FBa1956Fb8d31B0B7CAcA14BDe0bE4b",
+	"symbol": "Stilton",
+	"name": "Stilton",
+	"coingecko": "stilton",
+	"sources": [
+		"coingecko"
+	]
+}

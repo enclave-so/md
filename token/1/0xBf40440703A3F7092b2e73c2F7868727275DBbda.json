@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xBf40440703A3F7092b2e73c2F7868727275DBbda",
+	"symbol": "Keep Finance",
+	"name": "Keep Finance",
+	"coingecko": "keep-finance",
+	"sources": [
+		"coingecko"
+	]
+}

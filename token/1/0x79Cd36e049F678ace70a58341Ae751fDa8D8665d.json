@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x79Cd36e049F678ace70a58341Ae751fDa8D8665d",
+	"symbol": "Fren Pepe",
+	"name": "Fren Pepe",
+	"coingecko": "fren-pepe",
+	"sources": [
+		"coingecko"
+	]
+}

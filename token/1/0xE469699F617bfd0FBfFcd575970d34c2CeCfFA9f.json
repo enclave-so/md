@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xE469699F617bfd0FBfFcd575970d34c2CeCfFA9f",
+	"symbol": "VuzzMind",
+	"name": "VuzzMind",
+	"coingecko": "vuzzmind",
+	"sources": [
+		"coingecko"
+	]
+}

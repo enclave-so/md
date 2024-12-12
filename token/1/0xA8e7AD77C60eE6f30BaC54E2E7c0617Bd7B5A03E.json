@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0xA8e7AD77C60eE6f30BaC54E2E7c0617Bd7B5A03E",
+	"symbol": "ZLOT",
+	"name": "zLot Finance",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/zlot.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

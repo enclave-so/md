@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x3D3af44cf092a49280e316f09c8f20ecf97BC933",
+	"symbol": "UCX",
+	"name": "UCX",
+	"coingecko": "ucx",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x438e48ed4ce6beECF503D43b9dbD3C30d516e7FD",
+	"symbol": "UWON",
+	"name": "UWON",
+	"coingecko": "uwon",
+	"sources": [
+		"coingecko"
+	]
+}

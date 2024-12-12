@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xBbff34E47E559ef680067a6B1c980639EEb64D24",
+	"symbol": "Leverj Gluon",
+	"name": "Leverj Gluon",
+	"coingecko": "leverj-gluon",
+	"sources": [
+		"coingecko"
+	]
+}

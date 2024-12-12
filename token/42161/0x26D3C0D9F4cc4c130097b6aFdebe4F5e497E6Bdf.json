@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x26D3C0D9F4cc4c130097b6aFdebe4F5e497E6Bdf",
+	"symbol": "Mynth",
+	"name": "Mynth",
+	"coingecko": "mynth",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x5640E0560e6AfD6A9f4dDb41230D0201d181FEA7",
+	"symbol": "dark maga",
+	"name": "dark maga",
+	"coingecko": "dark-maga-2",
+	"sources": [
+		"coingecko"
+	]
+}

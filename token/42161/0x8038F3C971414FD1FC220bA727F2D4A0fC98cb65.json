@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x8038F3C971414FD1FC220bA727F2D4A0fC98cb65",
+	"symbol": "dHEDGE DAO",
+	"name": "dHEDGE DAO",
+	"coingecko": "dhedge-dao",
+	"sources": [
+		"coingecko"
+	]
+}

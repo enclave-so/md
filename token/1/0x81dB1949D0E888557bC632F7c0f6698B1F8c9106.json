@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x81dB1949D0E888557bC632F7c0f6698B1F8c9106",
+	"symbol": "d/acc",
+	"name": "d/acc",
+	"coingecko": "d-acc",
+	"sources": [
+		"coingecko"
+	]
+}

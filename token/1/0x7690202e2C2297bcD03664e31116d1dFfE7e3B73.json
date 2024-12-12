@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x7690202e2C2297bcD03664e31116d1dFfE7e3B73",
+	"symbol": "Cat-in-a-Box Ether",
+	"name": "Cat-in-a-Box Ether",
+	"coingecko": "cat-in-a-box-ether",
+	"sources": [
+		"coingecko"
+	]
+}

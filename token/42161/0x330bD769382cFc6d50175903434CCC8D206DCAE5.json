@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x330bD769382cFc6d50175903434CCC8D206DCAE5",
+	"symbol": "Kleros",
+	"name": "Kleros",
+	"coingecko": "kleros",
+	"sources": [
+		"coingecko"
+	]
+}

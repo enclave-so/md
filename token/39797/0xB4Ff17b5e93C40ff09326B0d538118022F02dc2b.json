@@ -1,0 +1,10 @@
+{
+	"chain": 39797,
+	"address": "0xB4Ff17b5e93C40ff09326B0d538118022F02dc2b",
+	"symbol": "iExec RLC",
+	"name": "iExec RLC",
+	"coingecko": "iexec-rlc",
+	"sources": [
+		"coingecko"
+	]
+}

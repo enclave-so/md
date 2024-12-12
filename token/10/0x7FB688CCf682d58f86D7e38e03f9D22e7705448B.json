@@ -1,0 +1,13 @@
+{
+	"chain": 10,
+	"address": "0x7FB688CCf682d58f86D7e38e03f9D22e7705448B",
+	"symbol": "RAI",
+	"name": "Rai Reflex Index",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/RAI/logo.svg",
+	"coingecko": "rai",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

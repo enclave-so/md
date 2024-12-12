@@ -1,0 +1,11 @@
+{
+	"chain": 2222,
+	"address": "0x5C7e299CF531eb66f2A1dF637d37AbB78e6200C7",
+	"symbol": "axlDAI",
+	"name": "Axler Wrapped DAI",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/kava/0x5C7e299CF531eb66f2A1dF637d37AbB78e6200C7.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

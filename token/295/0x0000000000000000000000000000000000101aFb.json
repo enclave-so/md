@@ -1,0 +1,10 @@
+{
+	"chain": 295,
+	"address": "0x0000000000000000000000000000000000101aFb",
+	"symbol": "Bridged Wrapped Bitcoin (Hashport)",
+	"name": "Bridged Wrapped Bitcoin (Hashport)",
+	"coingecko": "bridged-wrapped-bitcoin-hashport",
+	"sources": [
+		"coingecko"
+	]
+}

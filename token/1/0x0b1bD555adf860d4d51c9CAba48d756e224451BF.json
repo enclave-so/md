@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x0b1bD555adf860d4d51c9CAba48d756e224451BF",
+	"symbol": "Esportplayer",
+	"name": "Esportplayer",
+	"coingecko": "esportplayer",
+	"sources": [
+		"coingecko"
+	]
+}

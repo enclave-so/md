@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xD9a1070f832Cc02ff9d839500EEf6E8c64983726",
+	"symbol": "Batic",
+	"name": "Batic",
+	"coingecko": "batic",
+	"sources": [
+		"coingecko"
+	]
+}

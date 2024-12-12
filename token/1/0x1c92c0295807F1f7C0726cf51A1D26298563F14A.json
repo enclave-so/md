@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x1c92c0295807F1f7C0726cf51A1D26298563F14A",
+	"symbol": "Coinracer Reloaded",
+	"name": "Coinracer Reloaded",
+	"coingecko": "coinracer-reloaded",
+	"sources": [
+		"coingecko"
+	]
+}

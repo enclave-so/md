@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x21E5c85a5B1f38bdDDE68307Af77e38f747Cd530",
+	"symbol": "Doggensnout Skeptic",
+	"name": "Doggensnout Skeptic",
+	"coingecko": "doggensnout-skeptic",
+	"sources": [
+		"coingecko"
+	]
+}

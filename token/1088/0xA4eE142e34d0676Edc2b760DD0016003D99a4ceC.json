@@ -1,0 +1,10 @@
+{
+	"chain": 1088,
+	"address": "0xA4eE142e34d0676Edc2b760DD0016003D99a4ceC",
+	"symbol": "Athena Finance",
+	"name": "Athena Finance",
+	"coingecko": "athena-finance",
+	"sources": [
+		"coingecko"
+	]
+}

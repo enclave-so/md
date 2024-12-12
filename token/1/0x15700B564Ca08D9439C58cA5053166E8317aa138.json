@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x15700B564Ca08D9439C58cA5053166E8317aa138",
+	"symbol": "Elixir deUSD",
+	"name": "Elixir deUSD",
+	"coingecko": "elixir-deusd",
+	"sources": [
+		"coingecko"
+	]
+}

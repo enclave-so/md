@@ -1,0 +1,13 @@
+{
+	"chain": 42161,
+	"address": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
+	"symbol": "USDC.e",
+	"name": "Bridged USDC",
+	"decimals": 6,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdc.jpg",
+	"coingecko": "usd-coin-ethereum-bridged",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

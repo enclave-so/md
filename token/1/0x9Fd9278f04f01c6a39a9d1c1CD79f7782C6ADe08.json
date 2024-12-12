@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x9Fd9278f04f01c6a39a9d1c1CD79f7782C6ADe08",
+	"symbol": "Biaoqing",
+	"name": "Biaoqing",
+	"coingecko": "biaoqing",
+	"sources": [
+		"coingecko"
+	]
+}

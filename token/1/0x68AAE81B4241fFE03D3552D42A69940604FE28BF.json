@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x68AAE81B4241fFE03D3552D42A69940604FE28BF",
+	"symbol": "Muffin",
+	"name": "Muffin",
+	"coingecko": "muffin",
+	"sources": [
+		"coingecko"
+	]
+}

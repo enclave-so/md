@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xD015422879A1308ba557510345E944B912b9aB73",
+	"symbol": "FreeTrump",
+	"name": "FreeTrump",
+	"coingecko": "freetrump",
+	"sources": [
+		"coingecko"
+	]
+}

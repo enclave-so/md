@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x20e7125677311Fca903A8897042b9983f22Ea295",
+	"symbol": "Freeway",
+	"name": "Freeway",
+	"coingecko": "freeway",
+	"sources": [
+		"coingecko"
+	]
+}

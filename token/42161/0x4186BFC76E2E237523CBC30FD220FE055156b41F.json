@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x4186BFC76E2E237523CBC30FD220FE055156b41F",
+	"symbol": "KelpDAO Bridged rsETH (Arbitrum)",
+	"name": "KelpDAO Bridged rsETH (Arbitrum)",
+	"coingecko": "kelpdao-bridged-rseth-arbitrum",
+	"sources": [
+		"coingecko"
+	]
+}

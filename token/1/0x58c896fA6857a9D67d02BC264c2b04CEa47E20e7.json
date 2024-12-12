@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x58c896fA6857a9D67d02BC264c2b04CEa47E20e7",
+	"symbol": "The GameHub",
+	"name": "The GameHub",
+	"coingecko": "the-gamehub",
+	"sources": [
+		"coingecko"
+	]
+}

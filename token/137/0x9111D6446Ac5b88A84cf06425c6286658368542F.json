@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x9111D6446Ac5b88A84cf06425c6286658368542F",
+	"symbol": "For Loot And Glory",
+	"name": "For Loot And Glory",
+	"coingecko": "for-loot-and-glory",
+	"sources": [
+		"coingecko"
+	]
+}

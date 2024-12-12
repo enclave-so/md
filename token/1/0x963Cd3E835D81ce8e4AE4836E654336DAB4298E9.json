@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x963Cd3E835D81ce8e4AE4836E654336DAB4298E9",
+	"symbol": "Tuition Coin",
+	"name": "Tuition Coin",
+	"coingecko": "tuition-coin",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0x83E8B8C435C594e0aBa30910f725c5186B2455a0",
+	"symbol": "CANTO",
+	"name": "CANTO",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x83E8B8C435C594e0aBa30910f725c5186B2455a0.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

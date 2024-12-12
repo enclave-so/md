@@ -1,0 +1,10 @@
+{
+	"chain": 324,
+	"address": "0x7D54a311D56957fa3c9a3e397CA9dC6061113ab3",
+	"symbol": "ZKPEPE",
+	"name": "ZKPEPE",
+	"coingecko": "zkpepe-2",
+	"sources": [
+		"coingecko"
+	]
+}

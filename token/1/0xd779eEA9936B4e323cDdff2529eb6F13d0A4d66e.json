@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0xd779eEA9936B4e323cDdff2529eb6F13d0A4d66e",
+	"symbol": "ENTR",
+	"name": "ENTER Governance Token",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xd779eEA9936B4e323cDdff2529eb6F13d0A4d66e/logo.png",
+	"coingecko": "enterdao",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

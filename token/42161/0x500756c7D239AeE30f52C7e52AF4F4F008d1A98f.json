@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x500756c7D239AeE30f52C7e52AF4F4F008d1A98f",
+	"symbol": "Petroleum OIL",
+	"name": "Petroleum OIL",
+	"coingecko": "petroleum-oil",
+	"sources": [
+		"coingecko"
+	]
+}

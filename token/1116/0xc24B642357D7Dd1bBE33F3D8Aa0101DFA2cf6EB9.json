@@ -1,0 +1,10 @@
+{
+	"chain": 1116,
+	"address": "0xc24B642357D7Dd1bBE33F3D8Aa0101DFA2cf6EB9",
+	"symbol": "Core Stake Token",
+	"name": "Core Stake Token",
+	"coingecko": "core-stake-token",
+	"sources": [
+		"coingecko"
+	]
+}

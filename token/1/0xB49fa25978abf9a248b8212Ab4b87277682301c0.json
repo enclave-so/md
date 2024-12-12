@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xB49fa25978abf9a248b8212Ab4b87277682301c0",
+	"symbol": "RAI Finance",
+	"name": "RAI Finance",
+	"coingecko": "rai-finance",
+	"sources": [
+		"coingecko"
+	]
+}

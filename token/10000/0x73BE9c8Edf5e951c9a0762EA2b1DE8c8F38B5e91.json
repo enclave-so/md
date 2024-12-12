@@ -1,0 +1,10 @@
+{
+	"chain": 10000,
+	"address": "0x73BE9c8Edf5e951c9a0762EA2b1DE8c8F38B5e91",
+	"symbol": "TangoSwap",
+	"name": "TangoSwap",
+	"coingecko": "tangoswap",
+	"sources": [
+		"coingecko"
+	]
+}

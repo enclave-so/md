@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xFf9c1f21c621696C4f91cF781ec31Bd913EE2C26",
+	"symbol": ".com (Ordinals)",
+	"name": ".com (Ordinals)",
+	"coingecko": "com-ordinals",
+	"sources": [
+		"coingecko"
+	]
+}

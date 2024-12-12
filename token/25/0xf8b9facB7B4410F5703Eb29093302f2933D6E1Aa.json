@@ -1,0 +1,10 @@
+{
+	"chain": 25,
+	"address": "0xf8b9facB7B4410F5703Eb29093302f2933D6E1Aa",
+	"symbol": "Meerkat Shares",
+	"name": "Meerkat Shares",
+	"coingecko": "meerkat-shares",
+	"sources": [
+		"coingecko"
+	]
+}

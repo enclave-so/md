@@ -1,0 +1,13 @@
+{
+	"chain": 128,
+	"address": "0x56f95662E71f30b333b456439248c6dE589082a4",
+	"symbol": "Lava",
+	"name": "Lavaswap",
+	"decimals": 18,
+	"logo": "https://hecoinfo.com/images/main/empty-token.png",
+	"coingecko": "lavaswap",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

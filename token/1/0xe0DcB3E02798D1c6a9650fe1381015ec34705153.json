@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xe0DcB3E02798D1c6a9650fe1381015ec34705153",
+	"symbol": "Match Token",
+	"name": "Match Token",
+	"coingecko": "match-token",
+	"sources": [
+		"coingecko"
+	]
+}

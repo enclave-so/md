@@ -1,0 +1,13 @@
+{
+	"chain": 108,
+	"address": "0x4f3C8E20942461e2c3Bdd8311AC57B0c222f2b82",
+	"symbol": "TT-USDT",
+	"name": "USDT",
+	"decimals": 6,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/thundercore/0x4f3C8E20942461e2c3Bdd8311AC57B0c222f2b82.jpg",
+	"coingecko": "thundercore-bridged-usdt-thundercore",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

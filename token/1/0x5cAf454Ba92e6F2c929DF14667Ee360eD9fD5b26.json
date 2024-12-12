@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x5cAf454Ba92e6F2c929DF14667Ee360eD9fD5b26",
+	"symbol": "Dev Protocol",
+	"name": "Dev Protocol",
+	"coingecko": "dev-protocol",
+	"sources": [
+		"coingecko"
+	]
+}

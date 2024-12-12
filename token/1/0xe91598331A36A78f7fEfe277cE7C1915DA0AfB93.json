@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xe91598331A36A78f7fEfe277cE7C1915DA0AfB93",
+	"symbol": "RunesBridge",
+	"name": "RunesBridge",
+	"coingecko": "runesbridge",
+	"sources": [
+		"coingecko"
+	]
+}

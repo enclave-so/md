@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xE5c6F5fEF89B64f36BfcCb063962820136bAc42F",
+	"symbol": "Hoppy The Frog",
+	"name": "Hoppy The Frog",
+	"coingecko": "hoppy-the-frog",
+	"sources": [
+		"coingecko"
+	]
+}

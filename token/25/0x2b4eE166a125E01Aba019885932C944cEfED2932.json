@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0x2b4eE166a125E01Aba019885932C944cEfED2932",
+	"symbol": "REN",
+	"name": "Ren",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x2b4eE166a125E01Aba019885932C944cEfED2932.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

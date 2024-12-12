@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x5d4974F8543Bc78D43Fd1044ECFdB9D85482aA21",
+	"symbol": "Bitbama",
+	"name": "Bitbama",
+	"coingecko": "bitbama",
+	"sources": [
+		"coingecko"
+	]
+}

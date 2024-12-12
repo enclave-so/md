@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x50B806C5fe274c07e46B96be8C68D2Fd2d9597B4",
+	"symbol": "TUCKER CARLSON",
+	"name": "TUCKER CARLSON",
+	"coingecko": "tucker-carlson",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 2222,
+	"address": "0x38481Fdc1aF61E6E72E0Ff46F069315A59779C65",
+	"symbol": "Bear Scrub Money",
+	"name": "Bear Scrub Money",
+	"coingecko": "bear-scrub-money",
+	"sources": [
+		"coingecko"
+	]
+}

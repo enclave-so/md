@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xC229c69eB3BB51828D0cAA3509A05a51083898dd",
+	"symbol": "Pintu",
+	"name": "Pintu",
+	"coingecko": "pintu-token",
+	"sources": [
+		"coingecko"
+	]
+}

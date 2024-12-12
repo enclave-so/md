@@ -1,0 +1,10 @@
+{
+	"chain": 1666600000,
+	"address": "0x7202ADF025CbD1cC9411fd56E3Cc8EF2E9dFFA9D",
+	"symbol": "YAM",
+	"name": "YAM",
+	"coingecko": "yam-2",
+	"sources": [
+		"coingecko"
+	]
+}

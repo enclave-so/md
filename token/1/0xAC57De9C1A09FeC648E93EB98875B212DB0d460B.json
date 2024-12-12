@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xAC57De9C1A09FeC648E93EB98875B212DB0d460B",
+	"symbol": "Baby Doge Coin",
+	"name": "Baby Doge Coin",
+	"coingecko": "baby-doge-coin",
+	"sources": [
+		"coingecko"
+	]
+}

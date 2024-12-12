@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xF401E2c1ce8F252947b60BFB92578f84217A1545",
+	"symbol": "Arch Balanced Portfolio",
+	"name": "Arch Balanced Portfolio",
+	"coingecko": "arch-balanced-portfolio",
+	"sources": [
+		"coingecko"
+	]
+}

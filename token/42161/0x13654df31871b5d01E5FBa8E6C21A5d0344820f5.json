@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x13654df31871b5d01E5FBa8E6C21A5d0344820f5",
+	"symbol": "Cane Corso",
+	"name": "Cane Corso",
+	"coingecko": "cane-corso",
+	"sources": [
+		"coingecko"
+	]
+}

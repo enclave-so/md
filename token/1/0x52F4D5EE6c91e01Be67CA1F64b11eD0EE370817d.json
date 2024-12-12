@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x52F4D5EE6c91e01Be67CA1F64b11eD0EE370817d",
+	"symbol": "CIA",
+	"name": "CIA",
+	"coingecko": "cia",
+	"sources": [
+		"coingecko"
+	]
+}

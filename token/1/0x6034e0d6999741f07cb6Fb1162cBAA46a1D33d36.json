@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x6034e0d6999741f07cb6Fb1162cBAA46a1D33d36",
+	"symbol": "Molecules of Korolchuk IP-NFT",
+	"name": "Molecules of Korolchuk IP-NFT",
+	"coingecko": "molecules-of-korolchuk-ip-nft",
+	"sources": [
+		"coingecko"
+	]
+}

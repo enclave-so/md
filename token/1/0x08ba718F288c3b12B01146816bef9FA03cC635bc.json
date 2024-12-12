@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x08ba718F288c3b12B01146816bef9FA03cC635bc",
+	"symbol": "Centaurify",
+	"name": "Centaurify",
+	"coingecko": "centaurify",
+	"sources": [
+		"coingecko"
+	]
+}

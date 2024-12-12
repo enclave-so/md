@@ -1,0 +1,11 @@
+{
+	"chain": 1666700000,
+	"address": "0x1E120B3b4aF96e7F394ECAF84375b1C661830013",
+	"symbol": "1ETH",
+	"name": "OneETH",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/279/small/ethereum.png",
+	"sources": [
+		"sushiswap"
+	]
+}

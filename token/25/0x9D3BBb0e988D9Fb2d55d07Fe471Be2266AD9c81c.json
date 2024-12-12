@@ -1,0 +1,13 @@
+{
+	"chain": 25,
+	"address": "0x9D3BBb0e988D9Fb2d55d07Fe471Be2266AD9c81c",
+	"symbol": "SKY",
+	"name": "DarkCrypto Share",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x9D3BBb0e988D9Fb2d55d07Fe471Be2266AD9c81c.jpg",
+	"coingecko": "darkcrypto-share",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

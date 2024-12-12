@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xf3768D6e78E65FC64b8F12ffc824452130BD5394",
+	"symbol": "Kerosene",
+	"name": "Kerosene",
+	"coingecko": "kerosene",
+	"sources": [
+		"coingecko"
+	]
+}

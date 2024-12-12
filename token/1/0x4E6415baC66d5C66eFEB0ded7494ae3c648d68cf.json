@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x4E6415baC66d5C66eFEB0ded7494ae3c648d68cf",
+	"symbol": "REECOIN",
+	"name": "REECOIN",
+	"coingecko": "reecoin-2",
+	"sources": [
+		"coingecko"
+	]
+}

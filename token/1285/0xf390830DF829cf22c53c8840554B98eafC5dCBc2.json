@@ -1,0 +1,11 @@
+{
+	"chain": 1285,
+	"address": "0xf390830DF829cf22c53c8840554B98eafC5dCBc2",
+	"symbol": "anySUSHI",
+	"name": "SushiToken - AnySwap",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/sushi.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

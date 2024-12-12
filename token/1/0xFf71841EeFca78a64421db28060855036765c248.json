@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xFf71841EeFca78a64421db28060855036765c248",
+	"symbol": "Cove YFI",
+	"name": "Cove YFI",
+	"coingecko": "cove-yfi",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x3AD63B3C0eA6d7A093ff98fdE040baddc389EcDc",
+	"symbol": "Dinari NFLX",
+	"name": "Dinari NFLX",
+	"coingecko": "dinari-nflx-dshares",
+	"sources": [
+		"coingecko"
+	]
+}

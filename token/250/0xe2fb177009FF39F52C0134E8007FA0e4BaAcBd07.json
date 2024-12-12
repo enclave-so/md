@@ -1,0 +1,10 @@
+{
+	"chain": 250,
+	"address": "0xe2fb177009FF39F52C0134E8007FA0e4BaAcBd07",
+	"symbol": "Soul Swap",
+	"name": "Soul Swap",
+	"coingecko": "soul-swap",
+	"sources": [
+		"coingecko"
+	]
+}

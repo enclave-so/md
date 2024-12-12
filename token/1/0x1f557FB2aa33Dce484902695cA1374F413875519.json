@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x1f557FB2aa33Dce484902695cA1374F413875519",
+	"symbol": "Vestate",
+	"name": "Vestate",
+	"coingecko": "vestate",
+	"sources": [
+		"coingecko"
+	]
+}

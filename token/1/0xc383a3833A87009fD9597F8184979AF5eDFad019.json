@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xc383a3833A87009fD9597F8184979AF5eDFad019",
+	"symbol": "iETH v1",
+	"name": "iETH v1",
+	"coingecko": "instadapp-eth",
+	"sources": [
+		"coingecko"
+	]
+}

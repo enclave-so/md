@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x55aF5865807b196bD0197e0902746F31FBcCFa58",
+	"symbol": "Spookyswap",
+	"name": "Spookyswap",
+	"coingecko": "spookyswap",
+	"sources": [
+		"coingecko"
+	]
+}

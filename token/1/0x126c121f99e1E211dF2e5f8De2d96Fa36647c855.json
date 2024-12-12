@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0x126c121f99e1E211dF2e5f8De2d96Fa36647c855",
+	"symbol": "DEGEN",
+	"name": "DEGEN Index",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x126c121f99e1E211dF2e5f8De2d96Fa36647c855/logo.png",
+	"sources": [
+		"sushiswap"
+	]
+}

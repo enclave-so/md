@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0x41BbEDd7286dAab5910a1f15d12CBda839852BD7",
+	"symbol": "MMSFT",
+	"name": "Mirrored Microsoft",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/mmsft.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x32fb7D6E0cBEb9433772689aA4647828Cc7cbBA8",
+	"symbol": "Cove DAO",
+	"name": "Cove DAO",
+	"coingecko": "cove-dao",
+	"sources": [
+		"coingecko"
+	]
+}

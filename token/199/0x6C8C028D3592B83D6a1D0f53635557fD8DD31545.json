@@ -1,0 +1,10 @@
+{
+	"chain": 199,
+	"address": "0x6C8C028D3592B83D6a1D0f53635557fD8DD31545",
+	"symbol": "UpStable",
+	"name": "UpStable",
+	"coingecko": "upstabletoken",
+	"sources": [
+		"coingecko"
+	]
+}

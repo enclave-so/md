@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x944824290CC12F31ae18Ef51216A223Ba4063092",
+	"symbol": "Masa",
+	"name": "Masa",
+	"coingecko": "masa-finance",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0x5DE7Cc4BcBCa31c473F6D2F27825Cfb09cc0Bb16",
+	"symbol": "XBE",
+	"name": "XBE",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x5DE7Cc4BcBCa31c473F6D2F27825Cfb09cc0Bb16/logo.png",
+	"sources": [
+		"sushiswap"
+	]
+}

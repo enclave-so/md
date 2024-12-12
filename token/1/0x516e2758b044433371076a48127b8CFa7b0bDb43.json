@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x516e2758b044433371076a48127b8CFa7b0bDb43",
+	"symbol": "Smudge Lord",
+	"name": "Smudge Lord",
+	"coingecko": "smudge-lord",
+	"sources": [
+		"coingecko"
+	]
+}

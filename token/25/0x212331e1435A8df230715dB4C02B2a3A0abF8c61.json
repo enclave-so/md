@@ -1,0 +1,10 @@
+{
+	"chain": 25,
+	"address": "0x212331e1435A8df230715dB4C02B2a3A0abF8c61",
+	"symbol": "MAD Bucks",
+	"name": "MAD Bucks",
+	"coingecko": "mad-bucks",
+	"sources": [
+		"coingecko"
+	]
+}

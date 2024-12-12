@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xAc1D3D7A8878E655cBb063D58E453540641f4117",
+	"symbol": "Acid Toad",
+	"name": "Acid Toad",
+	"coingecko": "acid-toad",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x8861cfF2366C1128fd699B68304aD99a0764Ef9a",
+	"symbol": "Cyclone Protocol",
+	"name": "Cyclone Protocol",
+	"coingecko": "cyclone-protocol",
+	"sources": [
+		"coingecko"
+	]
+}

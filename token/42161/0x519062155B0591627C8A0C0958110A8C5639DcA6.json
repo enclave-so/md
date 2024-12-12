@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x519062155B0591627C8A0C0958110A8C5639DcA6",
+	"symbol": "Dinari META",
+	"name": "Dinari META",
+	"coingecko": "dinari-meta-dshare",
+	"sources": [
+		"coingecko"
+	]
+}

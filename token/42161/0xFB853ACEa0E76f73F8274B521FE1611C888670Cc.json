@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0xFB853ACEa0E76f73F8274B521FE1611C888670Cc",
+	"symbol": "PLEXUS",
+	"name": "PLEXUS",
+	"coingecko": "plexus-app",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 204,
+	"address": "0x9d94A7fF461e83F161c8c040E78557e31d8Cba72",
+	"symbol": "Thena",
+	"name": "Thena",
+	"coingecko": "thena",
+	"sources": [
+		"coingecko"
+	]
+}

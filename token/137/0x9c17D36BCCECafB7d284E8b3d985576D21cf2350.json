@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x9c17D36BCCECafB7d284E8b3d985576D21cf2350",
+	"symbol": "OBS World",
+	"name": "OBS World",
+	"coingecko": "obs-world",
+	"sources": [
+		"coingecko"
+	]
+}

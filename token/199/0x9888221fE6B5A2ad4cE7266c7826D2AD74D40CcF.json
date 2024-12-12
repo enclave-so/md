@@ -1,0 +1,11 @@
+{
+	"chain": 199,
+	"address": "0x9888221fE6B5A2ad4cE7266c7826D2AD74D40CcF",
+	"symbol": "WBTC.e",
+	"name": "Wrapped BTC Ethereum",
+	"decimals": 8,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bttc/0x9888221fE6B5A2ad4cE7266c7826D2AD74D40CcF.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

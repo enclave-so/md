@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xbd31EA8212119f94A611FA969881CBa3EA06Fa3d",
+	"symbol": "Terra Classic (Wormhole)",
+	"name": "Terra Classic (Wormhole)",
+	"coingecko": "luna-wormhole",
+	"sources": [
+		"coingecko"
+	]
+}

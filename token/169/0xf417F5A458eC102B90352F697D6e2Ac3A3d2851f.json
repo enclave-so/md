@@ -1,0 +1,10 @@
+{
+	"chain": 169,
+	"address": "0xf417F5A458eC102B90352F697D6e2Ac3A3d2851f",
+	"symbol": "Bridged Tether (Manta Pacific)",
+	"name": "Bridged Tether (Manta Pacific)",
+	"coingecko": "bridged-tether-manta-pacific",
+	"sources": [
+		"coingecko"
+	]
+}

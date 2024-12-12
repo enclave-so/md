@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xE55d97A97ae6A17706ee281486E98A84095d8AAf",
+	"symbol": "AIPad",
+	"name": "AIPad",
+	"coingecko": "aipad",
+	"sources": [
+		"coingecko"
+	]
+}

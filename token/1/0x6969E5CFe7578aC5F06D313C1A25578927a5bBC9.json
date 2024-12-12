@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x6969E5CFe7578aC5F06D313C1A25578927a5bBC9",
+	"symbol": "Morti",
+	"name": "Morti",
+	"coingecko": "morti",
+	"sources": [
+		"coingecko"
+	]
+}

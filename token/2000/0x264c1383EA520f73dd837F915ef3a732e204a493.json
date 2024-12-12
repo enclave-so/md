@@ -1,0 +1,10 @@
+{
+	"chain": 2000,
+	"address": "0x264c1383EA520f73dd837F915ef3a732e204a493",
+	"symbol": "Duckereum",
+	"name": "Duckereum",
+	"coingecko": "duckereum",
+	"sources": [
+		"coingecko"
+	]
+}

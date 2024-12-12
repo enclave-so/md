@@ -1,0 +1,10 @@
+{
+	"chain": 250,
+	"address": "0x112dF7E3b4B7Ab424F07319D4E92F41e6608c48B",
+	"symbol": "pFTM",
+	"name": "pFTM",
+	"coingecko": "pftm",
+	"sources": [
+		"coingecko"
+	]
+}

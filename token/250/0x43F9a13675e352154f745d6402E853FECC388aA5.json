@@ -1,0 +1,10 @@
+{
+	"chain": 250,
+	"address": "0x43F9a13675e352154f745d6402E853FECC388aA5",
+	"symbol": "Sonic Goat",
+	"name": "Sonic Goat",
+	"coingecko": "sonic-goat",
+	"sources": [
+		"coingecko"
+	]
+}

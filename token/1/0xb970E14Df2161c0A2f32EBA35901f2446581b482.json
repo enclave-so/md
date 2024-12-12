@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xb970E14Df2161c0A2f32EBA35901f2446581b482",
+	"symbol": "Reaktor",
+	"name": "Reaktor",
+	"coingecko": "reaktor",
+	"sources": [
+		"coingecko"
+	]
+}

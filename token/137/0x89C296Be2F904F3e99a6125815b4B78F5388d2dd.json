@@ -1,0 +1,11 @@
+{
+	"chain": 137,
+	"address": "0x89C296Be2F904F3e99a6125815b4B78F5388d2dd",
+	"symbol": "RCN",
+	"name": "RipioCreditNetwork",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/rcn.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

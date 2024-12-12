@@ -1,0 +1,10 @@
+{
+	"chain": 39797,
+	"address": "0x591C19DC0821704BEDAA5Bbc6A66fee277d9437e",
+	"symbol": "0x Protocol",
+	"name": "0x Protocol",
+	"coingecko": "0x",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 25,
+	"address": "0x50c0C5bda591bc7e89A342A3eD672FB59b3C46a7",
+	"symbol": "Mad Meerkat Optimizer",
+	"name": "Mad Meerkat Optimizer",
+	"coingecko": "mad-meerkat-optimizer",
+	"sources": [
+		"coingecko"
+	]
+}

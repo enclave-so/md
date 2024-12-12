@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x58aEA10748a00D1781D6651f9d78A414EA32CA46",
+	"symbol": "Vector Smart Gas",
+	"name": "Vector Smart Gas",
+	"coingecko": "vitalik-smart-gas",
+	"sources": [
+		"coingecko"
+	]
+}

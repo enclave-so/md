@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x696733cE8F387C7A648443D9E21c6C1EE8519b94",
+	"symbol": "SUKI",
+	"name": "SUKI",
+	"coingecko": "suki",
+	"sources": [
+		"coingecko"
+	]
+}

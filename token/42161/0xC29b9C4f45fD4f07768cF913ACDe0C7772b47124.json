@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0xC29b9C4f45fD4f07768cF913ACDe0C7772b47124",
+	"symbol": "Post.Tech",
+	"name": "Post.Tech",
+	"coingecko": "post-tech",
+	"sources": [
+		"coingecko"
+	]
+}

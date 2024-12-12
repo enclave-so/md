@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x969786c4A8884013d1c9fF18dCCA2aeDbbBfAa8F",
+	"symbol": "Gamerse",
+	"name": "Gamerse",
+	"coingecko": "gamerse",
+	"sources": [
+		"coingecko"
+	]
+}

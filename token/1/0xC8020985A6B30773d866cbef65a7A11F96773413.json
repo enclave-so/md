@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xC8020985A6B30773d866cbef65a7A11F96773413",
+	"symbol": "Envi Coin",
+	"name": "Envi Coin",
+	"coingecko": "envi-foundation",
+	"sources": [
+		"coingecko"
+	]
+}

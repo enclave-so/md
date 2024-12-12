@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xEC56840be7C495CBf98c0157B458cD207Ff85Da1",
+	"symbol": "Wrapped RUNI",
+	"name": "Wrapped RUNI",
+	"coingecko": "wrapped-runi",
+	"sources": [
+		"coingecko"
+	]
+}

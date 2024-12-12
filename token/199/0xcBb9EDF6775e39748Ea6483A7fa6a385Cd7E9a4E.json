@@ -1,0 +1,11 @@
+{
+	"chain": 199,
+	"address": "0xcBb9EDF6775e39748Ea6483A7fa6a385Cd7E9a4E",
+	"symbol": "BTT.b",
+	"name": "Wrapped BitTorrent BSC",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bttc/0xcBb9EDF6775e39748Ea6483A7fa6a385Cd7E9a4E.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x1EB7bd905855c483dB19F53C8c4d42Db42A159Fc",
+	"symbol": "Nordic Ai",
+	"name": "Nordic Ai",
+	"coingecko": "nordic-ai",
+	"sources": [
+		"coingecko"
+	]
+}

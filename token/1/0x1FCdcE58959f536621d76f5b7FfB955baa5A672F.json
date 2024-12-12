@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x1FCdcE58959f536621d76f5b7FfB955baa5A672F",
+	"symbol": "ForTube",
+	"name": "ForTube",
+	"coingecko": "force-protocol",
+	"sources": [
+		"coingecko"
+	]
+}

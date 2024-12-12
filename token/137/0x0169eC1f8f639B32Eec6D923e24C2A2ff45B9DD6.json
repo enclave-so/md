@@ -1,0 +1,11 @@
+{
+	"chain": 137,
+	"address": "0x0169eC1f8f639B32Eec6D923e24C2A2ff45B9DD6",
+	"symbol": "ALGB",
+	"name": "Algebra",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x0169eC1f8f639B32Eec6D923e24C2A2ff45B9DD6/logo.png",
+	"sources": [
+		"sushiswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xb5e0CFe1B4dB501aC003B740665bf43192cC7853",
+	"symbol": "Ghost",
+	"name": "Ghost",
+	"coingecko": "ghost-by-mcafee",
+	"sources": [
+		"coingecko"
+	]
+}

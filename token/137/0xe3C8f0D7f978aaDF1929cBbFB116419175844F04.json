@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xe3C8f0D7f978aaDF1929cBbFB116419175844F04",
+	"symbol": "Sowaka",
+	"name": "Sowaka",
+	"coingecko": "sowaka",
+	"sources": [
+		"coingecko"
+	]
+}

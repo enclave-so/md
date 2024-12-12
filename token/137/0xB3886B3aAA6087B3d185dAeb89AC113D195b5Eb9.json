@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xB3886B3aAA6087B3d185dAeb89AC113D195b5Eb9",
+	"symbol": "RoboHero",
+	"name": "RoboHero",
+	"coingecko": "robohero-2",
+	"sources": [
+		"coingecko"
+	]
+}

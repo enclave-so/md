@@ -1,0 +1,13 @@
+{
+	"chain": 288,
+	"address": "0xdc0486f8bf31DF57a952bcd3c1d3e166e3d9eC8b",
+	"symbol": "WBTC",
+	"name": "Wrapped Bitcoin",
+	"decimals": 8,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/btc.jpg",
+	"coingecko": "boba-standard-bridged-wbtc-boba-network",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

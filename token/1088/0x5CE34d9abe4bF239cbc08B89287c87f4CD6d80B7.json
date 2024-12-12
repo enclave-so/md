@@ -1,0 +1,10 @@
+{
+	"chain": 1088,
+	"address": "0x5CE34d9abe4bF239cbc08B89287c87f4CD6d80B7",
+	"symbol": "WOWswap",
+	"name": "WOWswap",
+	"coingecko": "wowswap",
+	"sources": [
+		"coingecko"
+	]
+}

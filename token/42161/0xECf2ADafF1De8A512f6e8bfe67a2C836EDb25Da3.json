@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0xECf2ADafF1De8A512f6e8bfe67a2C836EDb25Da3",
+	"symbol": "Wonderful Memories",
+	"name": "Wonderful Memories",
+	"coingecko": "wrapped-memory",
+	"sources": [
+		"coingecko"
+	]
+}

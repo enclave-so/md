@@ -1,0 +1,10 @@
+{
+	"chain": 324,
+	"address": "0x2039bb4116B4EFc145Ec4f0e2eA75012D6C0f181",
+	"symbol": "Celer Bridged BUSD (zkSync)",
+	"name": "Celer Bridged BUSD (zkSync)",
+	"coingecko": "celer-bridged-busd-zksync",
+	"sources": [
+		"coingecko"
+	]
+}

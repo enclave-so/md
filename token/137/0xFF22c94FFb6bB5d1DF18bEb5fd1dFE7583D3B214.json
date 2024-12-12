@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xFF22c94FFb6bB5d1DF18bEb5fd1dFE7583D3B214",
+	"symbol": "IPMB",
+	"name": "IPMB",
+	"coingecko": "ipmb",
+	"sources": [
+		"coingecko"
+	]
+}

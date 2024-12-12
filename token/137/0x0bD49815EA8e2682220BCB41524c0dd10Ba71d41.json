@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x0bD49815EA8e2682220BCB41524c0dd10Ba71d41",
+	"symbol": "Playermon",
+	"name": "Playermon",
+	"coingecko": "playermon",
+	"sources": [
+		"coingecko"
+	]
+}

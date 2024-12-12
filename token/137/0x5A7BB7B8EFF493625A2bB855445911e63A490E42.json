@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x5A7BB7B8EFF493625A2bB855445911e63A490E42",
+	"symbol": "TSUBASA Utilitiy Token",
+	"name": "TSUBASA Utilitiy Token",
+	"coingecko": "tsubasa-utilitiy-token",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x6522f491Df42651cf5E6636B7261Adaa096d095F",
+	"symbol": "Asap Sniper Bot",
+	"name": "Asap Sniper Bot",
+	"coingecko": "asap-sniper-bot",
+	"sources": [
+		"coingecko"
+	]
+}

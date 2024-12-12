@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x888C1A341ce9D9ae9c2D2a75a72A7f0d2551A2dc",
+	"symbol": "CSI888",
+	"name": "CSI888",
+	"coingecko": "csi888",
+	"sources": [
+		"coingecko"
+	]
+}

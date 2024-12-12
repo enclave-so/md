@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xc555D625828c4527d477e595fF1Dd5801B4a600e",
+	"symbol": "MON Protocol",
+	"name": "MON Protocol",
+	"coingecko": "mon-protocol",
+	"sources": [
+		"coingecko"
+	]
+}

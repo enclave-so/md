@@ -1,0 +1,10 @@
+{
+	"chain": 169,
+	"address": "0x0d613B80f9afB3cEF99Fe26702227d74B0178740",
+	"symbol": "Minu the Manta",
+	"name": "Minu the Manta",
+	"coingecko": "minu-the-manta",
+	"sources": [
+		"coingecko"
+	]
+}

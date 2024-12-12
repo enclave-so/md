@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x12A4CeBF81F8671fAF1AB0aCEa4e3429E42869e7",
+	"symbol": "Homeety",
+	"name": "Homeety",
+	"coingecko": "hom",
+	"sources": [
+		"coingecko"
+	]
+}

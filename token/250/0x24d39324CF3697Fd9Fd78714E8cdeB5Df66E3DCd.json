@@ -1,0 +1,11 @@
+{
+	"chain": 250,
+	"address": "0x24d39324CF3697Fd9Fd78714E8cdeB5Df66E3DCd",
+	"symbol": "fCNY",
+	"name": "fCNY",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/fcny.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

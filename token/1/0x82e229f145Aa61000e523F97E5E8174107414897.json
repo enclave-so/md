@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x82e229f145Aa61000e523F97E5E8174107414897",
+	"symbol": "Ryno AI",
+	"name": "Ryno AI",
+	"coingecko": "ryno-ai",
+	"sources": [
+		"coingecko"
+	]
+}

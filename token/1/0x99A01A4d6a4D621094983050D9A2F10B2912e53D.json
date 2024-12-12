@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x99A01A4d6a4D621094983050D9A2F10B2912e53D",
+	"symbol": "VirtuSwap",
+	"name": "VirtuSwap",
+	"coingecko": "virtuswap",
+	"sources": [
+		"coingecko"
+	]
+}

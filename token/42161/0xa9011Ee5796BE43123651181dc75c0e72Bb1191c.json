@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0xa9011Ee5796BE43123651181dc75c0e72Bb1191c",
+	"symbol": "NeuroPulse AI",
+	"name": "NeuroPulse AI",
+	"coingecko": "neuropulse-ai",
+	"sources": [
+		"coingecko"
+	]
+}

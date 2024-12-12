@@ -1,0 +1,10 @@
+{
+	"chain": 250,
+	"address": "0x3028b4395F98777123C7da327010c40f3c7Cc4Ef",
+	"symbol": "Premia",
+	"name": "Premia",
+	"coingecko": "premia",
+	"sources": [
+		"coingecko"
+	]
+}

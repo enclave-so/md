@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xE5a3229CCb22b6484594973A03a3851dCd948756",
+	"symbol": "Receive Access Ecosystem",
+	"name": "Receive Access Ecosystem",
+	"coingecko": "rae-token",
+	"sources": [
+		"coingecko"
+	]
+}

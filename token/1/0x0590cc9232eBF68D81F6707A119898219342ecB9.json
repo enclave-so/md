@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x0590cc9232eBF68D81F6707A119898219342ecB9",
+	"symbol": "BananaCat",
+	"name": "BananaCat",
+	"coingecko": "bananacat",
+	"sources": [
+		"coingecko"
+	]
+}

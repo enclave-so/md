@@ -1,0 +1,13 @@
+{
+	"chain": 137,
+	"address": "0x840195888Db4D6A99ED9F73FcD3B225Bb3cB1A79",
+	"symbol": "SX",
+	"name": "SportX",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x840195888Db4D6A99ED9F73FcD3B225Bb3cB1A79/logo.png",
+	"coingecko": "sx-network",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

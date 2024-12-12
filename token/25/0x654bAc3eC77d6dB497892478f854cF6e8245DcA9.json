@@ -1,0 +1,10 @@
+{
+	"chain": 25,
+	"address": "0x654bAc3eC77d6dB497892478f854cF6e8245DcA9",
+	"symbol": "Savanna",
+	"name": "Savanna",
+	"coingecko": "savanna",
+	"sources": [
+		"coingecko"
+	]
+}

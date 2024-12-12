@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0x33564807CC70c6422124d867B344D7b90bF21A76",
+	"symbol": "UMA",
+	"name": "UMA",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x33564807CC70c6422124d867B344D7b90bF21A76.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

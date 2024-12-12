@@ -1,0 +1,13 @@
+{
+	"chain": 25,
+	"address": "0x34aceA6Cc02578aF041a5E976b7289ca23cCB7A8",
+	"symbol": "RIP",
+	"name": "RIP",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x34aceA6Cc02578aF041a5E976b7289ca23cCB7A8.jpg",
+	"coingecko": "skull-with-ripped-hood",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

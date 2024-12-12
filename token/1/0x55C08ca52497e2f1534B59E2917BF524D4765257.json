@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0x55C08ca52497e2f1534B59E2917BF524D4765257",
+	"symbol": "UwU",
+	"name": "UwU Lend",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x55C08ca52497e2f1534B59E2917BF524D4765257.jpg",
+	"coingecko": "uwu-lend",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

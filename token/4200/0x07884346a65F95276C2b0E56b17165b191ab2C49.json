@@ -1,0 +1,10 @@
+{
+	"chain": 4200,
+	"address": "0x07884346a65F95276C2b0E56b17165b191ab2C49",
+	"symbol": "Influpia",
+	"name": "Influpia",
+	"coingecko": "influpia",
+	"sources": [
+		"coingecko"
+	]
+}

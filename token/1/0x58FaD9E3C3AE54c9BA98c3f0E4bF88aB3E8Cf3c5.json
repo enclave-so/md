@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x58FaD9E3C3AE54c9BA98c3f0E4bF88aB3E8Cf3c5",
+	"symbol": "SpaceY 2025",
+	"name": "SpaceY 2025",
+	"coingecko": "spacey-2025",
+	"sources": [
+		"coingecko"
+	]
+}

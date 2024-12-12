@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0x91Af0fBB28ABA7E31403Cb457106Ce79397FD4E6",
+	"symbol": "AERGO",
+	"name": "Aergo",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x91Af0fBB28ABA7E31403Cb457106Ce79397FD4E6/logo.png",
+	"coingecko": "aergo",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

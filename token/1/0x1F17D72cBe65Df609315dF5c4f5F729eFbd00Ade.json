@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x1F17D72cBe65Df609315dF5c4f5F729eFbd00Ade",
+	"symbol": "GYOSHI",
+	"name": "GYOSHI",
+	"coingecko": "gyoshi",
+	"sources": [
+		"coingecko"
+	]
+}

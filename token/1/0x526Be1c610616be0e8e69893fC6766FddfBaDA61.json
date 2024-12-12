@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x526Be1c610616be0e8e69893fC6766FddfBaDA61",
+	"symbol": "Rolling T-bill",
+	"name": "Rolling T-bill",
+	"coingecko": "rolling-t-bill",
+	"sources": [
+		"coingecko"
+	]
+}

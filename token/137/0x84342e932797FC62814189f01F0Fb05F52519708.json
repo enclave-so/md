@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x84342e932797FC62814189f01F0Fb05F52519708",
+	"symbol": "Neighbourhoods",
+	"name": "Neighbourhoods",
+	"coingecko": "neighbourhoods",
+	"sources": [
+		"coingecko"
+	]
+}

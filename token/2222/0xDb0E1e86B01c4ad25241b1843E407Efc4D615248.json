@@ -1,0 +1,10 @@
+{
+	"chain": 2222,
+	"address": "0xDb0E1e86B01c4ad25241b1843E407Efc4D615248",
+	"symbol": "dForce USD",
+	"name": "dForce USD",
+	"coingecko": "token-dforce-usd",
+	"sources": [
+		"coingecko"
+	]
+}

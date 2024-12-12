@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x36a0e44c73E5A6A7727817377c0127f320a9456E",
+	"symbol": "Wrapped MPC",
+	"name": "Wrapped MPC",
+	"coingecko": "wrapped-mpc",
+	"sources": [
+		"coingecko"
+	]
+}

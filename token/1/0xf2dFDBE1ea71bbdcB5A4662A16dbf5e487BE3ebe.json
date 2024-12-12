@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xf2dFDBE1ea71bbdcB5A4662A16dbf5e487BE3ebe",
+	"symbol": "DeCloud",
+	"name": "DeCloud",
+	"coingecko": "decloud",
+	"sources": [
+		"coingecko"
+	]
+}

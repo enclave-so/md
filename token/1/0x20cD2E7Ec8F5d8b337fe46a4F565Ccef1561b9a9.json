@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x20cD2E7Ec8F5d8b337fe46a4F565Ccef1561b9a9",
+	"symbol": "ESG",
+	"name": "ESG",
+	"coingecko": "esg",
+	"sources": [
+		"coingecko"
+	]
+}

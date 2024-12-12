@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xAC0F66379A6d7801D7726d5a943356A172549Adb",
+	"symbol": "Geodnet",
+	"name": "Geodnet",
+	"coingecko": "geodnet",
+	"sources": [
+		"coingecko"
+	]
+}

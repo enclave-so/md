@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x3ce1327867077B551ae9A6987bF10C9fd08edCE1",
+	"symbol": "SwissCheese",
+	"name": "SwissCheese",
+	"coingecko": "swisscheese",
+	"sources": [
+		"coingecko"
+	]
+}

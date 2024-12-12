@@ -1,0 +1,10 @@
+{
+	"chain": 100,
+	"address": "0xFECB3F7c54E2CAAE9dC6Ac9060A822D47E053760",
+	"symbol": "BRLA Digital BRLA",
+	"name": "BRLA Digital BRLA",
+	"coingecko": "brla-digital-brla",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0xA29EB0318F522ca98FdB5cEdc0c7549526625517",
+	"symbol": "V3TONIC",
+	"name": "V3S-Peg Tectonic",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xA29EB0318F522ca98FdB5cEdc0c7549526625517.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

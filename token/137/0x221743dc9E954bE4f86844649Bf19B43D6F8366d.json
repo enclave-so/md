@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x221743dc9E954bE4f86844649Bf19B43D6F8366d",
+	"symbol": "Obortech",
+	"name": "Obortech",
+	"coingecko": "obortech",
+	"sources": [
+		"coingecko"
+	]
+}

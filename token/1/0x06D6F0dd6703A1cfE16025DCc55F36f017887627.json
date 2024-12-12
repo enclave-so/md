@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x06D6F0dd6703A1cfE16025DCc55F36f017887627",
+	"symbol": "Montage Token",
+	"name": "Montage Token",
+	"coingecko": "montage-token",
+	"sources": [
+		"coingecko"
+	]
+}

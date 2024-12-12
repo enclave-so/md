@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xb9d4B6DC1e1Ee3577CC442dE015CC11F238B35ed",
+	"symbol": "Magnum",
+	"name": "Magnum",
+	"coingecko": "magnum-2",
+	"sources": [
+		"coingecko"
+	]
+}

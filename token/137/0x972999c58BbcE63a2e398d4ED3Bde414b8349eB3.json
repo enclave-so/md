@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x972999c58BbcE63a2e398d4ED3Bde414b8349eB3",
+	"symbol": "Purpose",
+	"name": "Purpose",
+	"coingecko": "purpose",
+	"sources": [
+		"coingecko"
+	]
+}

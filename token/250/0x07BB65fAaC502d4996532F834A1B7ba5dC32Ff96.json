@@ -1,0 +1,10 @@
+{
+	"chain": 250,
+	"address": "0x07BB65fAaC502d4996532F834A1B7ba5dC32Ff96",
+	"symbol": "Fantom Velocimeter",
+	"name": "Fantom Velocimeter",
+	"coingecko": "fantom-velocimeter",
+	"sources": [
+		"coingecko"
+	]
+}

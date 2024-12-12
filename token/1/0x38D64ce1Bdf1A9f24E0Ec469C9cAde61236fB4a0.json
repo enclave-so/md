@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x38D64ce1Bdf1A9f24E0Ec469C9cAde61236fB4a0",
+	"symbol": "Vector ETH",
+	"name": "Vector ETH",
+	"coingecko": "vector-eth",
+	"sources": [
+		"coingecko"
+	]
+}

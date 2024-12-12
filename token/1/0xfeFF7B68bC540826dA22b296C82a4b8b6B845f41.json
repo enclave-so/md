@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xfeFF7B68bC540826dA22b296C82a4b8b6B845f41",
+	"symbol": "United Emirates Of Fun",
+	"name": "United Emirates Of Fun",
+	"coingecko": "united-emirates-of-fun",
+	"sources": [
+		"coingecko"
+	]
+}

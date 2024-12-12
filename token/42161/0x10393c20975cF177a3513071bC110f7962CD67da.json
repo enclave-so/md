@@ -1,0 +1,13 @@
+{
+	"chain": 42161,
+	"address": "0x10393c20975cF177a3513071bC110f7962CD67da",
+	"symbol": "JONES",
+	"name": "Jones DAO",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x10393c20975cF177a3513071bC110f7962CD67da.jpg",
+	"coingecko": "jones-dao",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

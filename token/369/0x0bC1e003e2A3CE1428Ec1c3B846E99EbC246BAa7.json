@@ -1,0 +1,10 @@
+{
+	"chain": 369,
+	"address": "0x0bC1e003e2A3CE1428Ec1c3B846E99EbC246BAa7",
+	"symbol": "Enki",
+	"name": "Enki",
+	"coingecko": "enki-2",
+	"sources": [
+		"coingecko"
+	]
+}

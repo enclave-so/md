@@ -1,0 +1,11 @@
+{
+	"chain": 42,
+	"address": "0x4a92E71227D294F041BD82dd8f78591B75140d63",
+	"symbol": "cUSDC",
+	"name": "Compound USD Coin",
+	"decimals": 8,
+	"logo": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/ctoken_usdc.svg",
+	"sources": [
+		"sushiswap"
+	]
+}

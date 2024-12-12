@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xdA251891E21e6EDB0E6828E77621C7b98ea4E8ba",
+	"symbol": "Meme Moguls",
+	"name": "Meme Moguls",
+	"coingecko": "meme-moguls",
+	"sources": [
+		"coingecko"
+	]
+}

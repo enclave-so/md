@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xbAFDabaDcf19d0cFbbe0AB9C69CF050D86ff888C",
+	"symbol": "Zedxion",
+	"name": "Zedxion",
+	"coingecko": "zedxion",
+	"sources": [
+		"coingecko"
+	]
+}

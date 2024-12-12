@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x12BB890508c125661E03b09EC06E404bc9289040",
+	"symbol": "Radio Caca",
+	"name": "Radio Caca",
+	"coingecko": "radio-caca",
+	"sources": [
+		"coingecko"
+	]
+}

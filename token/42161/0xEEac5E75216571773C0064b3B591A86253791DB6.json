@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0xEEac5E75216571773C0064b3B591A86253791DB6",
+	"symbol": "ELLERIUM",
+	"name": "ELLERIUM",
+	"coingecko": "ellerium",
+	"sources": [
+		"coingecko"
+	]
+}

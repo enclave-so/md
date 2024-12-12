@@ -1,0 +1,10 @@
+{
+	"chain": 1666600000,
+	"address": "0x9b68BF4bF89c115c721105eaf6BD5164aFcc51E4",
+	"symbol": "GameFi Crossing",
+	"name": "GameFi Crossing",
+	"coingecko": "freyala",
+	"sources": [
+		"coingecko"
+	]
+}

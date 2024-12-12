@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0xBBEa044f9e7c0520195e49Ad1e561572E7E1B948",
+	"symbol": "Mizar",
+	"name": "Mizar",
+	"coingecko": "mizar",
+	"sources": [
+		"coingecko"
+	]
+}

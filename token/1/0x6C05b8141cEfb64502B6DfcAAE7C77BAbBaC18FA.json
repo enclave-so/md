@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x6C05b8141cEfb64502B6DfcAAE7C77BAbBaC18FA",
+	"symbol": "FU Money",
+	"name": "FU Money",
+	"coingecko": "fu-money",
+	"sources": [
+		"coingecko"
+	]
+}

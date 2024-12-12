@@ -1,0 +1,10 @@
+{
+	"chain": 369,
+	"address": "0xb513038BbFdF9D40B676F41606f4F61D4b02c4A2",
+	"symbol": "POWERCITY Earn Protocol",
+	"name": "POWERCITY Earn Protocol",
+	"coingecko": "powercity-earn-protocol",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x93109Af5638bE68ed2D0E094F618777ff1051d28",
+	"symbol": "UNIT DAO",
+	"name": "UNIT DAO",
+	"coingecko": "unit-dao",
+	"sources": [
+		"coingecko"
+	]
+}

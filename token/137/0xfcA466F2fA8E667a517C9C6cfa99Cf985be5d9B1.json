@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xfcA466F2fA8E667a517C9C6cfa99Cf985be5d9B1",
+	"symbol": "Saiyan PEPE",
+	"name": "Saiyan PEPE",
+	"coingecko": "saiyan-pepe",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x32dF62dc3aEd2cD6224193052Ce665DC18165841",
+	"symbol": "Balancer 80 RDNT 20 WETH",
+	"name": "Balancer 80 RDNT 20 WETH",
+	"coingecko": "balancer-80-rdnt-20-weth",
+	"sources": [
+		"coingecko"
+	]
+}

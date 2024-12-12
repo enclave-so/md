@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x70881D5c8A5950ceeDf1f1B4b5D4105718642548",
+	"symbol": "Bagholder",
+	"name": "Bagholder",
+	"coingecko": "bagholder",
+	"sources": [
+		"coingecko"
+	]
+}

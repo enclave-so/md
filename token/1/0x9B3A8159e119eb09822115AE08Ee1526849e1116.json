@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x9B3A8159e119eb09822115AE08Ee1526849e1116",
+	"symbol": "Meme Alliance",
+	"name": "Meme Alliance",
+	"coingecko": "meme-alliance",
+	"sources": [
+		"coingecko"
+	]
+}

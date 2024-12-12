@@ -1,0 +1,13 @@
+{
+	"chain": 10,
+	"address": "0x4200000000000000000000000000000000000042",
+	"symbol": "OP",
+	"name": "Optimism",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/OP/logo.png",
+	"coingecko": "optimism",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

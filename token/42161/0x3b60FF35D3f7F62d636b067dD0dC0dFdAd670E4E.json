@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x3b60FF35D3f7F62d636b067dD0dC0dFdAd670E4E",
+	"symbol": "Milady Meme Coin",
+	"name": "Milady Meme Coin",
+	"coingecko": "milady-meme-coin",
+	"sources": [
+		"coingecko"
+	]
+}

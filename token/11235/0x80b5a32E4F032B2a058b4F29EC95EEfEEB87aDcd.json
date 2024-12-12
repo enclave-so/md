@@ -1,0 +1,11 @@
+{
+	"chain": 11235,
+	"address": "0x80b5a32E4F032B2a058b4F29EC95EEfEEB87aDcd",
+	"symbol": "axlUSDC",
+	"name": "Axelar Wrapped USD Coin",
+	"decimals": 6,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/haqq/0x80b5a32E4F032B2a058b4F29EC95EEfEEB87aDcd.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

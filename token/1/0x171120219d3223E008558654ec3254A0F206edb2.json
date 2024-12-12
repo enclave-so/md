@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x171120219d3223E008558654ec3254A0F206edb2",
+	"symbol": "XX Network",
+	"name": "XX Network",
+	"coingecko": "xxcoin",
+	"sources": [
+		"coingecko"
+	]
+}

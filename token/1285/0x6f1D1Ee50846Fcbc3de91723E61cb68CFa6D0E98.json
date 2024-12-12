@@ -1,0 +1,13 @@
+{
+	"chain": 1285,
+	"address": "0x6f1D1Ee50846Fcbc3de91723E61cb68CFa6D0E98",
+	"symbol": "FXS",
+	"name": "Frax Share",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/moonriver/0x6f1D1Ee50846Fcbc3de91723E61cb68CFa6D0E98.jpg",
+	"coingecko": "frax-share",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

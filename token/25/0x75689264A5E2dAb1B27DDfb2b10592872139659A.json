@@ -1,0 +1,13 @@
+{
+	"chain": 25,
+	"address": "0x75689264A5E2dAb1B27DDfb2b10592872139659A",
+	"symbol": "LOAF",
+	"name": "LOAF",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x75689264A5E2dAb1B27DDfb2b10592872139659A.jpg",
+	"coingecko": "loaf-token",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

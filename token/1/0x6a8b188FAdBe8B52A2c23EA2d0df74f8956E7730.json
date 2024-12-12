@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x6a8b188FAdBe8B52A2c23EA2d0df74f8956E7730",
+	"symbol": "Quantum Network",
+	"name": "Quantum Network",
+	"coingecko": "quantum-network",
+	"sources": [
+		"coingecko"
+	]
+}

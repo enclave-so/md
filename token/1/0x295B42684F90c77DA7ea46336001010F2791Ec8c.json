@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x295B42684F90c77DA7ea46336001010F2791Ec8c",
+	"symbol": "Xi",
+	"name": "Xi",
+	"coingecko": "xi-token",
+	"sources": [
+		"coingecko"
+	]
+}

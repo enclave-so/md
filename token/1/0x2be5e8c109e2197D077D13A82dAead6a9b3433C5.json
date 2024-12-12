@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x2be5e8c109e2197D077D13A82dAead6a9b3433C5",
+	"symbol": "Tokamak Network",
+	"name": "Tokamak Network",
+	"coingecko": "tokamak-network",
+	"sources": [
+		"coingecko"
+	]
+}

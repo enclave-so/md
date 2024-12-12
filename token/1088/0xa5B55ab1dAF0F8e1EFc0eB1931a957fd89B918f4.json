@@ -1,0 +1,13 @@
+{
+	"chain": 1088,
+	"address": "0xa5B55ab1dAF0F8e1EFc0eB1931a957fd89B918f4",
+	"symbol": "WBTC",
+	"name": "Wrapped BTC",
+	"decimals": 8,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/metis/0xa5B55ab1dAF0F8e1EFc0eB1931a957fd89B918f4.jpg",
+	"coingecko": "metis-bridged-wbtc-metis-andromeda",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

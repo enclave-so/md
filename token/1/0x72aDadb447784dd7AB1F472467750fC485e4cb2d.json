@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x72aDadb447784dd7AB1F472467750fC485e4cb2d",
+	"symbol": "Worldcore [OLD]",
+	"name": "Worldcore [OLD]",
+	"coingecko": "worldcore",
+	"sources": [
+		"coingecko"
+	]
+}

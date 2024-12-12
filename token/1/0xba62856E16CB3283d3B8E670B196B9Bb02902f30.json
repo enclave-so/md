@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xba62856E16CB3283d3B8E670B196B9Bb02902f30",
+	"symbol": "Vatican Mascot",
+	"name": "Vatican Mascot",
+	"coingecko": "vatican-mascot",
+	"sources": [
+		"coingecko"
+	]
+}

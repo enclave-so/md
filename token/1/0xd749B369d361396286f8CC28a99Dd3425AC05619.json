@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xd749B369d361396286f8CC28a99Dd3425AC05619",
+	"symbol": "Brettei",
+	"name": "Brettei",
+	"coingecko": "brettei",
+	"sources": [
+		"coingecko"
+	]
+}

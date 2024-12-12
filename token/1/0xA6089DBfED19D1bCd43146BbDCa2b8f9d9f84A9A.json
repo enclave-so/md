@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xA6089DBfED19D1bCd43146BbDCa2b8f9d9f84A9A",
+	"symbol": "UGOLD Inc.",
+	"name": "UGOLD Inc.",
+	"coingecko": "ugold-inc",
+	"sources": [
+		"coingecko"
+	]
+}

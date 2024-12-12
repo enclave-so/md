@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x5D56B6581D2e7e7574aDce2Dc593f499A53D7505",
+	"symbol": "Church of the Machina",
+	"name": "Church of the Machina",
+	"coingecko": "church-of-the-machina",
+	"sources": [
+		"coingecko"
+	]
+}

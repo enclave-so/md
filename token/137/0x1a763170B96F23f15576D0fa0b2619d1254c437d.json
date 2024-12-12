@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x1a763170B96F23f15576D0fa0b2619d1254c437d",
+	"symbol": "AurusX",
+	"name": "AurusX",
+	"coingecko": "aurusx",
+	"sources": [
+		"coingecko"
+	]
+}

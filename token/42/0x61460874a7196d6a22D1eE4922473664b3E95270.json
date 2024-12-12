@@ -1,0 +1,11 @@
+{
+	"chain": 42,
+	"address": "0x61460874a7196d6a22D1eE4922473664b3E95270",
+	"symbol": "COMP",
+	"name": "Compound",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_COMP.svg",
+	"sources": [
+		"sushiswap"
+	]
+}

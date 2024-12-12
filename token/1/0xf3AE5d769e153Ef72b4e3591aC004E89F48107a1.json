@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xf3AE5d769e153Ef72b4e3591aC004E89F48107a1",
+	"symbol": "Deeper Network",
+	"name": "Deeper Network",
+	"coingecko": "deeper-network",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"chain": 42,
+	"address": "0x4F96Fe3b7A6Cf9725f59d353F723c1bDb64CA6Aa",
+	"symbol": "DAI",
+	"name": "Dai Stablecoin",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_DAI.svg",
+	"sources": [
+		"sushiswap"
+	]
+}

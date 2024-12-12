@@ -1,0 +1,13 @@
+{
+	"chain": 1285,
+	"address": "0xAd7F1844696652ddA7959a49063BfFccafafEfe7",
+	"symbol": "RELAY",
+	"name": "Relay",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/solarbeamio/assets/master/blockchains/moonriver/assets/0xAd7F1844696652ddA7959a49063BfFccafafEfe7/logo.png",
+	"coingecko": "relay-token",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

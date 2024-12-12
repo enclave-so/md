@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x4e4a47cAC6A28A62dcC20990ed2cdA9BC659469F",
+	"symbol": "I will poop it NFT",
+	"name": "I will poop it NFT",
+	"coingecko": "i-will-poop-it-nft",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x25578065bdD4EBd68E7fFeeDFc4e6614f3f0057F",
+	"symbol": "Game Meteor Coin",
+	"name": "Game Meteor Coin",
+	"coingecko": "game-meteor-coin",
+	"sources": [
+		"coingecko"
+	]
+}

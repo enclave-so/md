@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x90b7E285ab6cf4e3A2487669dba3E339dB8a3320",
+	"symbol": "Yellow Duckies",
+	"name": "Yellow Duckies",
+	"coingecko": "duckies",
+	"sources": [
+		"coingecko"
+	]
+}

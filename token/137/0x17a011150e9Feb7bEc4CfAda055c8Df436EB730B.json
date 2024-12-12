@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x17a011150e9Feb7bEc4CfAda055c8Df436EB730B",
+	"symbol": "TDEX Token",
+	"name": "TDEX Token",
+	"coingecko": "metatdex",
+	"sources": [
+		"coingecko"
+	]
+}

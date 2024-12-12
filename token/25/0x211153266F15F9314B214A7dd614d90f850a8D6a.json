@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0x211153266F15F9314B214A7dd614d90f850a8D6a",
+	"symbol": "XYO",
+	"name": "XY Oracle",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x211153266F15F9314B214A7dd614d90f850a8D6a.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

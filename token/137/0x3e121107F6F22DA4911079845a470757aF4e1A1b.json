@@ -1,0 +1,11 @@
+{
+	"chain": 137,
+	"address": "0x3e121107F6F22DA4911079845a470757aF4e1A1b",
+	"symbol": "polyFXS",
+	"name": "Poly Frax Share",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x3e121107F6F22DA4911079845a470757aF4e1A1b/logo.png",
+	"sources": [
+		"sushiswap"
+	]
+}

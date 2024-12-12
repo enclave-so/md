@@ -1,0 +1,9 @@
+{
+	"chain": 324,
+	"address": "0x0000000000000000000000000000000000000000",
+	"symbol": "ETH",
+	"name": "Ethereum",
+	"decimals": 18,
+	"logo": "https://token-icons.s3.amazonaws.com/eth.png",
+	"coingecko": "ethereum"
+}

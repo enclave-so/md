@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x72e4f9F808C49A2a61dE9C5896298920Dc4EEEa9",
+	"symbol": "HarryPotterObamaSonic10Inu (ETH)",
+	"name": "HarryPotterObamaSonic10Inu (ETH)",
+	"coingecko": "harrypotterobamasonic10in",
+	"sources": [
+		"coingecko"
+	]
+}

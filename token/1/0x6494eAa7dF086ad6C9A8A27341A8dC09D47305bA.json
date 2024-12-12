@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x6494eAa7dF086ad6C9A8A27341A8dC09D47305bA",
+	"symbol": "smol.game",
+	"name": "smol.game",
+	"coingecko": "smol-game",
+	"sources": [
+		"coingecko"
+	]
+}

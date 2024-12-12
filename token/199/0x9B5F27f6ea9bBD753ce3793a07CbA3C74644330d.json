@@ -1,0 +1,11 @@
+{
+	"chain": 199,
+	"address": "0x9B5F27f6ea9bBD753ce3793a07CbA3C74644330d",
+	"symbol": "USDT.b",
+	"name": "Tether USD BSC",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bttc/0x9B5F27f6ea9bBD753ce3793a07CbA3C74644330d.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

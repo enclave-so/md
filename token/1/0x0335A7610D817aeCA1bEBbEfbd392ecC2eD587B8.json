@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x0335A7610D817aeCA1bEBbEfbd392ecC2eD587B8",
+	"symbol": "Nitro League",
+	"name": "Nitro League",
+	"coingecko": "nitro-league",
+	"sources": [
+		"coingecko"
+	]
+}

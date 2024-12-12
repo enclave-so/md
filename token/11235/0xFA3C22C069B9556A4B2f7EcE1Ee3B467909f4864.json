@@ -1,0 +1,11 @@
+{
+	"chain": 11235,
+	"address": "0xFA3C22C069B9556A4B2f7EcE1Ee3B467909f4864",
+	"symbol": "ATOM",
+	"name": "Native token CosmosHub network",
+	"decimals": 6,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/haqq/0xFA3C22C069B9556A4B2f7EcE1Ee3B467909f4864.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

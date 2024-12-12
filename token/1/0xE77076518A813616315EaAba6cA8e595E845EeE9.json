@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xE77076518A813616315EaAba6cA8e595E845EeE9",
+	"symbol": "ether.fi Staked EIGEN",
+	"name": "ether.fi Staked EIGEN",
+	"coingecko": "ether-fi-staked-eigen",
+	"sources": [
+		"coingecko"
+	]
+}

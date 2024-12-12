@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x3eD4c2D63DEf617F436EB031BAcAE16f478f3B00",
+	"symbol": "DPEX",
+	"name": "DPEX",
+	"coingecko": "dpex",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0x9d1555d8cB3C846Bb4f7D5B1B1080872c3166676",
+	"symbol": "MSLV",
+	"name": "Mirrored iShares Si",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/mslv.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

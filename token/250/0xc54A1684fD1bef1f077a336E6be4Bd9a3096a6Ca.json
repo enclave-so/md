@@ -1,0 +1,10 @@
+{
+	"chain": 250,
+	"address": "0xc54A1684fD1bef1f077a336E6be4Bd9a3096a6Ca",
+	"symbol": "2SHARE",
+	"name": "2SHARE",
+	"coingecko": "2share",
+	"sources": [
+		"coingecko"
+	]
+}

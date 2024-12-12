@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x65517425AC3Ce259A34400bB67cEB39ff3dDC0BD",
+	"symbol": "Num ARS",
+	"name": "Num ARS",
+	"coingecko": "num-ars",
+	"sources": [
+		"coingecko"
+	]
+}

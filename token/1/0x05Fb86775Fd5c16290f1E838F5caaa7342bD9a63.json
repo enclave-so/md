@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x05Fb86775Fd5c16290f1E838F5caaa7342bD9a63",
+	"symbol": "Hacken",
+	"name": "Hacken",
+	"coingecko": "hackenai",
+	"sources": [
+		"coingecko"
+	]
+}

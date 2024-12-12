@@ -1,0 +1,10 @@
+{
+	"chain": 128,
+	"address": "0x0E0BA709A042618Eb0D1ad8109B5f0E7dFB6A6C3",
+	"symbol": "TrustBase",
+	"name": "TrustBase",
+	"coingecko": "trustbase",
+	"sources": [
+		"coingecko"
+	]
+}

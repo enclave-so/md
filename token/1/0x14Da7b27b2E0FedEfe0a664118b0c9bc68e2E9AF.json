@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x14Da7b27b2E0FedEfe0a664118b0c9bc68e2E9AF",
+	"symbol": "Blockchain Cuties Universe Governance",
+	"name": "Blockchain Cuties Universe Governance",
+	"coingecko": "blockchain-cuties-universe-governance",
+	"sources": [
+		"coingecko"
+	]
+}

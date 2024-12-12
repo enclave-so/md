@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x8254e26e453EB5aBd29B3c37AC9E8Da32E5d3299",
+	"symbol": "RBX",
+	"name": "RBX",
+	"coingecko": "rbx-token",
+	"sources": [
+		"coingecko"
+	]
+}

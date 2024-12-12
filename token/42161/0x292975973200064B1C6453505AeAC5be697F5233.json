@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x292975973200064B1C6453505AeAC5be697F5233",
+	"symbol": "Lumi to da moon",
+	"name": "Lumi to da moon",
+	"coingecko": "lumi-to-da-moon",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"chain": 137,
+	"address": "0x7cC15fEf543f205Bf21018F038F591C6BaDa941c",
+	"symbol": "POLYCUB",
+	"name": "PolyCub",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x7cC15fEf543f205Bf21018F038F591C6BaDa941c.jpg",
+	"coingecko": "polycub",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

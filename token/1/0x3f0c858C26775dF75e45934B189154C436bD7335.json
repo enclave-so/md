@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x3f0c858C26775dF75e45934B189154C436bD7335",
+	"symbol": "SuperFrank",
+	"name": "SuperFrank",
+	"coingecko": "superfrank",
+	"sources": [
+		"coingecko"
+	]
+}

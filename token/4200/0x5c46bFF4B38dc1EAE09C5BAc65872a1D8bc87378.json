@@ -1,0 +1,10 @@
+{
+	"chain": 4200,
+	"address": "0x5c46bFF4B38dc1EAE09C5BAc65872a1D8bc87378",
+	"symbol": "Merlin Chain",
+	"name": "Merlin Chain",
+	"coingecko": "merlin-chain",
+	"sources": [
+		"coingecko"
+	]
+}

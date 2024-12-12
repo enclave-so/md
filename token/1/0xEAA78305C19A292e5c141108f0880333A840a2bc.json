@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xEAA78305C19A292e5c141108f0880333A840a2bc",
+	"symbol": "BitNasdaq",
+	"name": "BitNasdaq",
+	"coingecko": "bitnasdaq",
+	"sources": [
+		"coingecko"
+	]
+}

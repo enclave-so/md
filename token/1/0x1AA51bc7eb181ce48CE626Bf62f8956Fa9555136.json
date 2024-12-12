@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x1AA51bc7eb181ce48CE626Bf62f8956Fa9555136",
+	"symbol": "PAWZONE",
+	"name": "PAWZONE",
+	"coingecko": "pawzone",
+	"sources": [
+		"coingecko"
+	]
+}

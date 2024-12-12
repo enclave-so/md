@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x5362Ca75aa3c0E714bc628296640C43dc5cb9ED6",
+	"symbol": "Dejitaru Hoshi",
+	"name": "Dejitaru Hoshi",
+	"coingecko": "dejitaru-hoshi",
+	"sources": [
+		"coingecko"
+	]
+}

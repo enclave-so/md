@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x338Be6A72Db57a239F0d71d0Ec4e5B1e38762e9f",
+	"symbol": "LNDRY",
+	"name": "LNDRY",
+	"coingecko": "lndry",
+	"sources": [
+		"coingecko"
+	]
+}

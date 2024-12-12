@@ -1,0 +1,10 @@
+{
+	"chain": 2020,
+	"address": "0xF80132FC0A86ADd011BffCe3AedD60A86E3d704D",
+	"symbol": "Anima",
+	"name": "Anima",
+	"coingecko": "apeiron-anima",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x8DB2350D78aBc13f5673A411D4700BCF87864dDE",
+	"symbol": "Swell Restaked BTC",
+	"name": "Swell Restaked BTC",
+	"coingecko": "swell-restaked-btc",
+	"sources": [
+		"coingecko"
+	]
+}

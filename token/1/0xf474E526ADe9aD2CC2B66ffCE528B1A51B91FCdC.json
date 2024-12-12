@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0xf474E526ADe9aD2CC2B66ffCE528B1A51B91FCdC",
+	"symbol": "LEVX",
+	"name": "LevX DAO",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xf474E526ADe9aD2CC2B66ffCE528B1A51B91FCdC.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

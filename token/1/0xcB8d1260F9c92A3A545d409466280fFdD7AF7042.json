@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xcB8d1260F9c92A3A545d409466280fFdD7AF7042",
+	"symbol": "NFT Protocol",
+	"name": "NFT Protocol",
+	"coingecko": "nft-protocol",
+	"sources": [
+		"coingecko"
+	]
+}

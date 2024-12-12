@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x9155EF3F1A5B5fb43a1bbEb198CC0a7DaF482679",
+	"symbol": "Onyx (∑, ∆)",
+	"name": "Onyx (∑, ∆)",
+	"coingecko": "onyx-2",
+	"sources": [
+		"coingecko"
+	]
+}

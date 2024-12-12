@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x8052327F1BAF94A9DC8B26b9100f211eE3774f54",
+	"symbol": "A2DAO",
+	"name": "A2DAO",
+	"coingecko": "catapult",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x2008e3057BD734e10AD13c9EAe45Ff132aBc1722",
+	"symbol": "Zebi",
+	"name": "Zebi",
+	"coingecko": "zebi",
+	"sources": [
+		"coingecko"
+	]
+}

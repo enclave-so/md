@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x7E331B55E4fbBa7Cb9C1Fc855eD0dAc2983E7798",
+	"symbol": "KOI",
+	"name": "KOI",
+	"coingecko": "koi-4",
+	"sources": [
+		"coingecko"
+	]
+}

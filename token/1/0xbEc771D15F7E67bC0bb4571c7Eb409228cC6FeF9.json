@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xbEc771D15F7E67bC0bb4571c7Eb409228cC6FeF9",
+	"symbol": "BribeAI",
+	"name": "BribeAI",
+	"coingecko": "bribeai",
+	"sources": [
+		"coingecko"
+	]
+}

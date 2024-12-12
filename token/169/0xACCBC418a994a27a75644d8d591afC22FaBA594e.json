@@ -1,0 +1,10 @@
+{
+	"chain": 169,
+	"address": "0xACCBC418a994a27a75644d8d591afC22FaBA594e",
+	"symbol": "Manta mETH",
+	"name": "Manta mETH",
+	"coingecko": "manta-meth",
+	"sources": [
+		"coingecko"
+	]
+}

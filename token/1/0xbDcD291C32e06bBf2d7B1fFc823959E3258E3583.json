@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xbDcD291C32e06bBf2d7B1fFc823959E3258E3583",
+	"symbol": "WASD Studios",
+	"name": "WASD Studios",
+	"coingecko": "wasd-studios",
+	"sources": [
+		"coingecko"
+	]
+}

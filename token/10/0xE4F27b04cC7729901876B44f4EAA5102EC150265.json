@@ -1,0 +1,11 @@
+{
+	"chain": 10,
+	"address": "0xE4F27b04cC7729901876B44f4EAA5102EC150265",
+	"symbol": "XCHF",
+	"name": "CryptoFranc",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/XCHF/logo.png",
+	"sources": [
+		"sushiswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x46ccA329970B33e1a007DD4ef0594A1cedb3E72a",
+	"symbol": "Yesports",
+	"name": "Yesports",
+	"coingecko": "yesports",
+	"sources": [
+		"coingecko"
+	]
+}

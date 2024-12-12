@@ -1,0 +1,13 @@
+{
+	"chain": 137,
+	"address": "0xA0e4c84693266a9d3BBef2f394B33712c76599Ab",
+	"symbol": "EURO3",
+	"name": "EURO3",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0xA0e4c84693266a9d3BBef2f394B33712c76599Ab.jpg",
+	"coingecko": "euro3",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xBEF26Bd568e421D6708CCA55Ad6e35f8bfA0C406",
+	"symbol": "bitsCrunch Token",
+	"name": "bitsCrunch Token",
+	"coingecko": "bitscrunch-token",
+	"sources": [
+		"coingecko"
+	]
+}

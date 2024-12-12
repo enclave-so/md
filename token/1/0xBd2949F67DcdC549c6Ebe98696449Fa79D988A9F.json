@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xBd2949F67DcdC549c6Ebe98696449Fa79D988A9F",
+	"symbol": "Meter Governance mapped by Meter.io",
+	"name": "Meter Governance mapped by Meter.io",
+	"coingecko": "meter-governance-mapped-by-meter-io",
+	"sources": [
+		"coingecko"
+	]
+}

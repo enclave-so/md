@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x3B604747ad1720C01ded0455728b62c0d2F100F0",
+	"symbol": "WAGMI Games",
+	"name": "WAGMI Games",
+	"coingecko": "wagmi-game-2",
+	"sources": [
+		"coingecko"
+	]
+}

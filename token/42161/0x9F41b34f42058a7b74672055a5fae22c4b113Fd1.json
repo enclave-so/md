@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x9F41b34f42058a7b74672055a5fae22c4b113Fd1",
+	"symbol": "Yum",
+	"name": "Yum",
+	"coingecko": "yum",
+	"sources": [
+		"coingecko"
+	]
+}

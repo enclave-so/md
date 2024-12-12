@@ -1,0 +1,10 @@
+{
+	"chain": 245022934,
+	"address": "0x432B39E097d9faA2CBAa86F8D36Bcf3b8019fE9f",
+	"symbol": "NeoPepe",
+	"name": "NeoPepe",
+	"coingecko": "neopepe",
+	"sources": [
+		"coingecko"
+	]
+}

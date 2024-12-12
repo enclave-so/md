@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x64669032f612Ae608671853fF8871dF0889870A9",
+	"symbol": "INUGAMES",
+	"name": "INUGAMES",
+	"coingecko": "inugames",
+	"sources": [
+		"coingecko"
+	]
+}

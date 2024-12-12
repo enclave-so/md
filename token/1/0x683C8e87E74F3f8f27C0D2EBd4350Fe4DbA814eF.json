@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x683C8e87E74F3f8f27C0D2EBd4350Fe4DbA814eF",
+	"symbol": "0xGen",
+	"name": "0xGen",
+	"coingecko": "0xgen",
+	"sources": [
+		"coingecko"
+	]
+}

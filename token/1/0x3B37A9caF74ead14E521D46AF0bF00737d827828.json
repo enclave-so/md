@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x3B37A9caF74ead14E521D46AF0bF00737d827828",
+	"symbol": "History of Pepe",
+	"name": "History of Pepe",
+	"coingecko": "history-of-pepe",
+	"sources": [
+		"coingecko"
+	]
+}

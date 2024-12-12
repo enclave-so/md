@@ -1,0 +1,13 @@
+{
+	"chain": 1088,
+	"address": "0x420000000000000000000000000000000000000A",
+	"symbol": "WETH",
+	"name": "Wrapped Ethereum",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/eth.jpg",
+	"coingecko": "metis-bridged-weth-metis-andromeda",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

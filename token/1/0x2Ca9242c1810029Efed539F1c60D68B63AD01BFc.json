@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x2Ca9242c1810029Efed539F1c60D68B63AD01BFc",
+	"symbol": "Anvil",
+	"name": "Anvil",
+	"coingecko": "anvil",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xDe466831fdE62e5141d49BA9d962D3fa3fAe466F",
+	"symbol": "DystoWorld AI",
+	"name": "DystoWorld AI",
+	"coingecko": "dystoworld-ai",
+	"sources": [
+		"coingecko"
+	]
+}

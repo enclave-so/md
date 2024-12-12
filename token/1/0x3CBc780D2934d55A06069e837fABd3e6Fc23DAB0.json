@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x3CBc780D2934d55A06069e837fABd3e6Fc23DAB0",
+	"symbol": "DBX",
+	"name": "DBX",
+	"coingecko": "dbx-2",
+	"sources": [
+		"coingecko"
+	]
+}

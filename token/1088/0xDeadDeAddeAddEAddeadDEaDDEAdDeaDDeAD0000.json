@@ -1,0 +1,10 @@
+{
+	"chain": 1088,
+	"address": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000",
+	"symbol": "Metis",
+	"name": "Metis",
+	"coingecko": "metis-token",
+	"sources": [
+		"coingecko"
+	]
+}

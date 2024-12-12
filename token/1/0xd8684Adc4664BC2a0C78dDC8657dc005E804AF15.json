@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xd8684Adc4664BC2a0C78dDC8657dc005E804AF15",
+	"symbol": "Copycat DAO",
+	"name": "Copycat DAO",
+	"coingecko": "copycat-dao",
+	"sources": [
+		"coingecko"
+	]
+}

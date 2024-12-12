@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x9F891b5ECbd89DD8A5Ee4d1D80EfC3fE78b306CB",
+	"symbol": "SONIK",
+	"name": "SONIK",
+	"coingecko": "sonik",
+	"sources": [
+		"coingecko"
+	]
+}

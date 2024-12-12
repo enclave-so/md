@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x4939ac5C1855302891c5888634b2f65Cc30B9155",
+	"symbol": "Epoch Island",
+	"name": "Epoch Island",
+	"coingecko": "epoch-island",
+	"sources": [
+		"coingecko"
+	]
+}

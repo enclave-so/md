@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x86ed939B500E121C0C5f493F399084Db596dAd20",
+	"symbol": "SpaceChain (ERC-20)",
+	"name": "SpaceChain (ERC-20)",
+	"coingecko": "spacechain-erc-20",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x2BE056e595110B30ddd5eaF674BdAC54615307d9",
+	"symbol": "Airpuff",
+	"name": "Airpuff",
+	"coingecko": "airpuff",
+	"sources": [
+		"coingecko"
+	]
+}

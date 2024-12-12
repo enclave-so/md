@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x49218282042072e054AfDc90e552e832735F8316",
+	"symbol": "Cerebro",
+	"name": "Cerebro",
+	"coingecko": "cerebro",
+	"sources": [
+		"coingecko"
+	]
+}

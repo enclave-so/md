@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xb10cc888cB2CcE7036F4c7ECAd8a57Da16161338",
+	"symbol": "Switch Token",
+	"name": "Switch Token",
+	"coingecko": "switch-token",
+	"sources": [
+		"coingecko"
+	]
+}

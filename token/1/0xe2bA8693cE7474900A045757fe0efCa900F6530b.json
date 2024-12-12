@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xe2bA8693cE7474900A045757fe0efCa900F6530b",
+	"symbol": "Flux DAI",
+	"name": "Flux DAI",
+	"coingecko": "flux-dai",
+	"sources": [
+		"coingecko"
+	]
+}

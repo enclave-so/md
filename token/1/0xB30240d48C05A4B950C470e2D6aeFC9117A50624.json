@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xB30240d48C05A4B950C470e2D6aeFC9117A50624",
+	"symbol": "Ruby Protocol",
+	"name": "Ruby Protocol",
+	"coingecko": "ruby-protocol",
+	"sources": [
+		"coingecko"
+	]
+}

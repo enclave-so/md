@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x2E6a60492fB5b58F5b5D08c7cAFc75e740E6Dc8e",
+	"symbol": "Tsutsuji Doge's Sister",
+	"name": "Tsutsuji Doge's Sister",
+	"coingecko": "tsutsuji-doge-s-sister",
+	"sources": [
+		"coingecko"
+	]
+}

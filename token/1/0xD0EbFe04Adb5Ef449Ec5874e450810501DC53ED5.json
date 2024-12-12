@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xD0EbFe04Adb5Ef449Ec5874e450810501DC53ED5",
+	"symbol": "Brume",
+	"name": "Brume",
+	"coingecko": "brume",
+	"sources": [
+		"coingecko"
+	]
+}

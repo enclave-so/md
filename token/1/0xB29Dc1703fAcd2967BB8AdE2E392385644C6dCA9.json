@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xB29Dc1703fAcd2967BB8AdE2E392385644C6dCA9",
+	"symbol": "Gaga (Pepe)",
+	"name": "Gaga (Pepe)",
+	"coingecko": "gaga-pepe",
+	"sources": [
+		"coingecko"
+	]
+}

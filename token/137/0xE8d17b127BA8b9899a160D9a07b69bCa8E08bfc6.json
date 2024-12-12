@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xE8d17b127BA8b9899a160D9a07b69bCa8E08bfc6",
+	"symbol": "NASDEX",
+	"name": "NASDEX",
+	"coingecko": "nasdex-token",
+	"sources": [
+		"coingecko"
+	]
+}

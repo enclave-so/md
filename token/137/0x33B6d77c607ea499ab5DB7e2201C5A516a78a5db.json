@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x33B6d77c607ea499ab5DB7e2201C5A516a78a5db",
+	"symbol": "AIMX",
+	"name": "AIMX",
+	"coingecko": "aimedis-new",
+	"sources": [
+		"coingecko"
+	]
+}

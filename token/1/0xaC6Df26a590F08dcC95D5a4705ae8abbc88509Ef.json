@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xaC6Df26a590F08dcC95D5a4705ae8abbc88509Ef",
+	"symbol": "Aave ENJ",
+	"name": "Aave ENJ",
+	"coingecko": "aave-enj",
+	"sources": [
+		"coingecko"
+	]
+}

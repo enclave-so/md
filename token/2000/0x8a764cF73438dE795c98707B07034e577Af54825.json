@@ -1,0 +1,10 @@
+{
+	"chain": 2000,
+	"address": "0x8a764cF73438dE795c98707B07034e577Af54825",
+	"symbol": "Doge Inu",
+	"name": "Doge Inu",
+	"coingecko": "doge-inu",
+	"sources": [
+		"coingecko"
+	]
+}

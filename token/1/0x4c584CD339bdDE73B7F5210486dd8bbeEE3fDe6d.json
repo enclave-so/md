@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x4c584CD339bdDE73B7F5210486dd8bbeEE3fDe6d",
+	"symbol": "ShibElon",
+	"name": "ShibElon",
+	"coingecko": "shibelon",
+	"sources": [
+		"coingecko"
+	]
+}

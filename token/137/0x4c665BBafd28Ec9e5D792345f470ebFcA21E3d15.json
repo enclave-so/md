@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x4c665BBafd28Ec9e5D792345f470ebFcA21E3d15",
+	"symbol": "SKYPlay",
+	"name": "SKYPlay",
+	"coingecko": "skyplay",
+	"sources": [
+		"coingecko"
+	]
+}

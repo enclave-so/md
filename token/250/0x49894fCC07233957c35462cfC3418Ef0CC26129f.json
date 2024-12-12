@@ -1,0 +1,10 @@
+{
+	"chain": 250,
+	"address": "0x49894fCC07233957c35462cfC3418Ef0CC26129f",
+	"symbol": "FANG",
+	"name": "FANG",
+	"coingecko": "fang-token",
+	"sources": [
+		"coingecko"
+	]
+}

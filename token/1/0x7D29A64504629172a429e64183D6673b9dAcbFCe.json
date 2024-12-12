@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x7D29A64504629172a429e64183D6673b9dAcbFCe",
+	"symbol": "Vectorspace AI",
+	"name": "Vectorspace AI",
+	"coingecko": "vectorspace",
+	"sources": [
+		"coingecko"
+	]
+}

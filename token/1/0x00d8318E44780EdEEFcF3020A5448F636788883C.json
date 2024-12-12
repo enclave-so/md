@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x00d8318E44780EdEEFcF3020A5448F636788883C",
+	"symbol": "dAppstore",
+	"name": "dAppstore",
+	"coingecko": "dappstore",
+	"sources": [
+		"coingecko"
+	]
+}

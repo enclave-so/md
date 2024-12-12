@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xaD5FdC8c3C18d50315331fCa7f66eFE5033F6C4C",
+	"symbol": "Crazy Frog Coin",
+	"name": "Crazy Frog Coin",
+	"coingecko": "crazy-frog",
+	"sources": [
+		"coingecko"
+	]
+}

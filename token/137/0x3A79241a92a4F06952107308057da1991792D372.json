@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x3A79241a92a4F06952107308057da1991792D372",
+	"symbol": "Zenland",
+	"name": "Zenland",
+	"coingecko": "zenland",
+	"sources": [
+		"coingecko"
+	]
+}

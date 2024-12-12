@@ -1,0 +1,13 @@
+{
+	"chain": 42161,
+	"address": "0x123389C2f0e9194d9bA98c21E63c375B67614108",
+	"symbol": "EMAX",
+	"name": "EthereumMax",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x123389C2f0e9194d9bA98c21E63c375B67614108.jpg",
+	"coingecko": "ethereummax",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

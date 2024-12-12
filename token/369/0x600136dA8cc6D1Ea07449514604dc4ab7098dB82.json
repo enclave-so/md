@@ -1,0 +1,10 @@
+{
+	"chain": 369,
+	"address": "0x600136dA8cc6D1Ea07449514604dc4ab7098dB82",
+	"symbol": "Coast CST",
+	"name": "Coast CST",
+	"coingecko": "coast-cst",
+	"sources": [
+		"coingecko"
+	]
+}

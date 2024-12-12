@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xc4B7aF50644c661e270FBb8da770049C9FC0bBE1",
+	"symbol": "Gelios",
+	"name": "Gelios",
+	"coingecko": "gelios",
+	"sources": [
+		"coingecko"
+	]
+}

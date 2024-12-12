@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x1B8568FbB47708E9E9D31Ff303254f748805bF21",
+	"symbol": "Scarcity",
+	"name": "Scarcity",
+	"coingecko": "scarcity",
+	"sources": [
+		"coingecko"
+	]
+}

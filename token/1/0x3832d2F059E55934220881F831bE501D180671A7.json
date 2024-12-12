@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0x3832d2F059E55934220881F831bE501D180671A7",
+	"symbol": "renDOGE",
+	"name": "renDOGE",
+	"decimals": 8,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/rendoge.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

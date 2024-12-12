@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xCaE0DD4BDA7Ff3E700355C7629b24d5D728bD2cE",
+	"symbol": "Bowie",
+	"name": "Bowie",
+	"coingecko": "bowie",
+	"sources": [
+		"coingecko"
+	]
+}

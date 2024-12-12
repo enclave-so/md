@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xf56842Af3B56Fd72d17cB103f92d027bBa912e89",
+	"symbol": "Bamboo DeFi",
+	"name": "Bamboo DeFi",
+	"coingecko": "bamboo-defi",
+	"sources": [
+		"coingecko"
+	]
+}

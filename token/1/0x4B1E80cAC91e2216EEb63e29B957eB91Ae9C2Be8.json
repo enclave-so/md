@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x4B1E80cAC91e2216EEb63e29B957eB91Ae9C2Be8",
+	"symbol": "Jupiter Project",
+	"name": "Jupiter Project",
+	"coingecko": "jupiter",
+	"sources": [
+		"coingecko"
+	]
+}

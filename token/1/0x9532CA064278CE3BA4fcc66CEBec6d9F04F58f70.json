@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x9532CA064278CE3BA4fcc66CEBec6d9F04F58f70",
+	"symbol": "Bot Compiler",
+	"name": "Bot Compiler",
+	"coingecko": "bot-compiler",
+	"sources": [
+		"coingecko"
+	]
+}

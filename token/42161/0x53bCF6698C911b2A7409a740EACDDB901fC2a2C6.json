@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x53bCF6698C911b2A7409a740EACDDB901fC2a2C6",
+	"symbol": "Kabosu (Arbitrum)",
+	"name": "Kabosu (Arbitrum)",
+	"coingecko": "kabosu-arbitrum",
+	"sources": [
+		"coingecko"
+	]
+}

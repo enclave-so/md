@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x6612CE012ba5574A2ECEa3a825c1ddf641F78623",
+	"symbol": "Dorado Finance",
+	"name": "Dorado Finance",
+	"coingecko": "dorado-finance",
+	"sources": [
+		"coingecko"
+	]
+}

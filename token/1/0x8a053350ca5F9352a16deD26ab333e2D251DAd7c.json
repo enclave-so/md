@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x8a053350ca5F9352a16deD26ab333e2D251DAd7c",
+	"symbol": "Eigenpie mETH",
+	"name": "Eigenpie mETH",
+	"coingecko": "eigenpie-meth",
+	"sources": [
+		"coingecko"
+	]
+}

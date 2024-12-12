@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x28E67eB7aAa8F5dd9cb7BE2B2E3daD6b25EdB1Ab",
+	"symbol": "Freaky KEKE",
+	"name": "Freaky KEKE",
+	"coingecko": "freaky-keke",
+	"sources": [
+		"coingecko"
+	]
+}

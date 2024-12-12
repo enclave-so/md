@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x0d86883FAf4FfD7aEb116390af37746F45b6f378",
+	"symbol": "Web 3 Dollar",
+	"name": "Web 3 Dollar",
+	"coingecko": "web-3-dollar",
+	"sources": [
+		"coingecko"
+	]
+}

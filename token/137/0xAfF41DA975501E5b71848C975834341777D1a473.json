@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xAfF41DA975501E5b71848C975834341777D1a473",
+	"symbol": "BlockchainSpace",
+	"name": "BlockchainSpace",
+	"coingecko": "blockchainspace",
+	"sources": [
+		"coingecko"
+	]
+}

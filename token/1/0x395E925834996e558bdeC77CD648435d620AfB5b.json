@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x395E925834996e558bdeC77CD648435d620AfB5b",
+	"symbol": "ThreeFold",
+	"name": "ThreeFold",
+	"coingecko": "threefold-token",
+	"sources": [
+		"coingecko"
+	]
+}

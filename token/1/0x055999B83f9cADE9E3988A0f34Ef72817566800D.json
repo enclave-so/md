@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x055999B83f9cADE9E3988A0f34Ef72817566800D",
+	"symbol": "Roundtable",
+	"name": "Roundtable",
+	"coingecko": "bbs-network",
+	"sources": [
+		"coingecko"
+	]
+}

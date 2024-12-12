@@ -1,0 +1,10 @@
+{
+	"chain": 324,
+	"address": "0x4B9eb6c0b6ea15176BBF62841C6B2A8a398cb656",
+	"symbol": "ZKsync ERC20 Bridged DAI (zkSync)",
+	"name": "ZKsync ERC20 Bridged DAI (zkSync)",
+	"coingecko": "zksync-erc20-bridged-dai-zksync",
+	"sources": [
+		"coingecko"
+	]
+}

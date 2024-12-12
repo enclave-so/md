@@ -1,0 +1,10 @@
+{
+	"chain": 1907,
+	"address": "0x02b8efDFfe96218a1FE5d3A815Db3D3Ee292498a",
+	"symbol": "E.C. Vitoria Fan Token",
+	"name": "E.C. Vitoria Fan Token",
+	"coingecko": "e-c-vitoria-fan-token",
+	"sources": [
+		"coingecko"
+	]
+}

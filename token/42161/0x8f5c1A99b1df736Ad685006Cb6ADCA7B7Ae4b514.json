@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x8f5c1A99b1df736Ad685006Cb6ADCA7B7Ae4b514",
+	"symbol": "Enzyme",
+	"name": "Enzyme",
+	"coingecko": "melon",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"chain": 137,
+	"address": "0xEE800B277A96B0f490a1A732e1D6395FAD960A26",
+	"symbol": "ARPA",
+	"name": "ARPA Token",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xEE800B277A96B0f490a1A732e1D6395FAD960A26/logo.png",
+	"coingecko": "arpa",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

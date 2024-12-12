@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x9A4Eb698e5DE3D3Df0a68F681789072DE1E50222",
+	"symbol": "Fidira",
+	"name": "Fidira",
+	"coingecko": "fidira",
+	"sources": [
+		"coingecko"
+	]
+}

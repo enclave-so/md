@@ -1,0 +1,13 @@
+{
+	"chain": 100,
+	"address": "0x6A023CCd1ff6F2045C3309768eAd9E68F978f6e1",
+	"symbol": "WETH",
+	"name": "Wrapped Ether on xDai",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/0x6A023CCd1ff6F2045C3309768eAd9E68F978f6e1.jpg",
+	"coingecko": "gnosis-xdai-bridged-weth-gnosis-chain",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

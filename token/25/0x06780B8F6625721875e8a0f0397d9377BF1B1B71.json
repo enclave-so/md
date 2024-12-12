@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0x06780B8F6625721875e8a0f0397d9377BF1B1B71",
+	"symbol": "ZED",
+	"name": "ZED RUN",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x06780B8F6625721875e8a0f0397d9377BF1B1B71.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

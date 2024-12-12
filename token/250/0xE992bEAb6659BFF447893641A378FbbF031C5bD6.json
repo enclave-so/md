@@ -1,0 +1,10 @@
+{
+	"chain": 250,
+	"address": "0xE992bEAb6659BFF447893641A378FbbF031C5bD6",
+	"symbol": "WigoSwap",
+	"name": "WigoSwap",
+	"coingecko": "wigoswap",
+	"sources": [
+		"coingecko"
+	]
+}

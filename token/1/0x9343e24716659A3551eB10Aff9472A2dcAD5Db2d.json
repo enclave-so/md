@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x9343e24716659A3551eB10Aff9472A2dcAD5Db2d",
+	"symbol": "STFX",
+	"name": "STFX",
+	"coingecko": "stfx",
+	"sources": [
+		"coingecko"
+	]
+}

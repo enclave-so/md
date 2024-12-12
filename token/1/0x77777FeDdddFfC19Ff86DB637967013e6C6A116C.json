@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0x77777FeDdddFfC19Ff86DB637967013e6C6A116C",
+	"symbol": "TORN",
+	"name": "TORN Token",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x77777FeDdddFfC19Ff86DB637967013e6C6A116C/logo.png",
+	"coingecko": "tornado-cash",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

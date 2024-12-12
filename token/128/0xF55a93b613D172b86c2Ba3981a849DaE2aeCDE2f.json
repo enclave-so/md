@@ -1,0 +1,10 @@
+{
+	"chain": 128,
+	"address": "0xF55a93b613D172b86c2Ba3981a849DaE2aeCDE2f",
+	"symbol": "Your Futures Exchange",
+	"name": "Your Futures Exchange",
+	"coingecko": "yfx",
+	"sources": [
+		"coingecko"
+	]
+}

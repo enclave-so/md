@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x3802c218221390025BCEABBaD5D8C59F40eB74B8",
+	"symbol": "Guarded Ether",
+	"name": "Guarded Ether",
+	"coingecko": "guarded-ether",
+	"sources": [
+		"coingecko"
+	]
+}

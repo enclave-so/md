@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x306fD3e7b169Aa4ee19412323e1a5995B8c1a1f4",
+	"symbol": "Black Agnus",
+	"name": "Black Agnus",
+	"coingecko": "black-agnus",
+	"sources": [
+		"coingecko"
+	]
+}

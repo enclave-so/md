@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x84412819AE69b10250D0D54d58f454018F1c8A42",
+	"symbol": "Scarab Tools",
+	"name": "Scarab Tools",
+	"coingecko": "scarab-tools",
+	"sources": [
+		"coingecko"
+	]
+}

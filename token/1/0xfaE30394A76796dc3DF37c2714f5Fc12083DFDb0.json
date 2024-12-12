@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xfaE30394A76796dc3DF37c2714f5Fc12083DFDb0",
+	"symbol": "NakaChain",
+	"name": "NakaChain",
+	"coingecko": "nakachain",
+	"sources": [
+		"coingecko"
+	]
+}

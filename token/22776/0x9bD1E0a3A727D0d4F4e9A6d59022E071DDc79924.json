@@ -1,0 +1,10 @@
+{
+	"chain": 22776,
+	"address": "0x9bD1E0a3A727D0d4F4e9A6d59022E071DDc79924",
+	"symbol": "Map Protocol Staked MAPO",
+	"name": "Map Protocol Staked MAPO",
+	"coingecko": "map-protocol-staked-mapo",
+	"sources": [
+		"coingecko"
+	]
+}

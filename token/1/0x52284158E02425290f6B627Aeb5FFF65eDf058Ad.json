@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x52284158E02425290f6B627Aeb5FFF65eDf058Ad",
+	"symbol": "FlappyMoonbird",
+	"name": "FlappyMoonbird",
+	"coingecko": "flappymoonbird",
+	"sources": [
+		"coingecko"
+	]
+}

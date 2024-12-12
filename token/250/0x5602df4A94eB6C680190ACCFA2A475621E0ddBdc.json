@@ -1,0 +1,10 @@
+{
+	"chain": 250,
+	"address": "0x5602df4A94eB6C680190ACCFA2A475621E0ddBdc",
+	"symbol": "Spartacus",
+	"name": "Spartacus",
+	"coingecko": "spartacus",
+	"sources": [
+		"coingecko"
+	]
+}

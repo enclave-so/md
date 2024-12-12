@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0xEea900FE18F77593C7D7C105fBa9bd714164AC95",
+	"symbol": "1INCH",
+	"name": "1INCH Token",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xEea900FE18F77593C7D7C105fBa9bd714164AC95.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x8EE325AE3E54e83956eF2d5952d3C8Bc1fa6ec27",
+	"symbol": "Fable Of The Dragon",
+	"name": "Fable Of The Dragon",
+	"coingecko": "fable-of-the-dragon",
+	"sources": [
+		"coingecko"
+	]
+}

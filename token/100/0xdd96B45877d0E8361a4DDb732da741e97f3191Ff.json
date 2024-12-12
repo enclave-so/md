@@ -1,0 +1,10 @@
+{
+	"chain": 100,
+	"address": "0xdd96B45877d0E8361a4DDb732da741e97f3191Ff",
+	"symbol": "Bridged BUSD",
+	"name": "Bridged BUSD",
+	"coingecko": "bridged-busd",
+	"sources": [
+		"coingecko"
+	]
+}

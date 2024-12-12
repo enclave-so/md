@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xa6b37fC85d870711C56FbcB8afe2f8dB049AE774",
+	"symbol": "Pillar",
+	"name": "Pillar",
+	"coingecko": "pillar",
+	"sources": [
+		"coingecko"
+	]
+}

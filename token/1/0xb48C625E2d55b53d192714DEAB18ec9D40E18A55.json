@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xb48C625E2d55b53d192714DEAB18ec9D40E18A55",
+	"symbol": "Galaxify",
+	"name": "Galaxify",
+	"coingecko": "galaxify",
+	"sources": [
+		"coingecko"
+	]
+}

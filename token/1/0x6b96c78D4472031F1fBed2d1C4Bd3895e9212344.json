@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x6b96c78D4472031F1fBed2d1C4Bd3895e9212344",
+	"symbol": "TAOx",
+	"name": "TAOx",
+	"coingecko": "taox",
+	"sources": [
+		"coingecko"
+	]
+}

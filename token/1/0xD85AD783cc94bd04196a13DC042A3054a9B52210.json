@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xD85AD783cc94bd04196a13DC042A3054a9B52210",
+	"symbol": "TribeOne",
+	"name": "TribeOne",
+	"coingecko": "tribeone",
+	"sources": [
+		"coingecko"
+	]
+}

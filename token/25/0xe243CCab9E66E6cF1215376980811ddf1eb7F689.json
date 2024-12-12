@@ -1,0 +1,10 @@
+{
+	"chain": 25,
+	"address": "0xe243CCab9E66E6cF1215376980811ddf1eb7F689",
+	"symbol": "Crodex",
+	"name": "Crodex",
+	"coingecko": "crodex",
+	"sources": [
+		"coingecko"
+	]
+}

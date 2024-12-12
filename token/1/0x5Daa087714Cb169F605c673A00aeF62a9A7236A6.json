@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x5Daa087714Cb169F605c673A00aeF62a9A7236A6",
+	"symbol": "REWARD",
+	"name": "REWARD",
+	"coingecko": "reward",
+	"sources": [
+		"coingecko"
+	]
+}

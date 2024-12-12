@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xCeED2671d8634e3ee65000EDbbEe66139b132fBf",
+	"symbol": "Bridged Tether (Axelar)",
+	"name": "Bridged Tether (Axelar)",
+	"coingecko": "axelar-usdt",
+	"sources": [
+		"coingecko"
+	]
+}

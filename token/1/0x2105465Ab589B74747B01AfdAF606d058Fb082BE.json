@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x2105465Ab589B74747B01AfdAF606d058Fb082BE",
+	"symbol": "DEV SMASHED HIS KEYBOARD",
+	"name": "DEV SMASHED HIS KEYBOARD",
+	"coingecko": "dev-smashed-his-keyboard",
+	"sources": [
+		"coingecko"
+	]
+}

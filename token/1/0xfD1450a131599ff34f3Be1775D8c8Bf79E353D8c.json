@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xfD1450a131599ff34f3Be1775D8c8Bf79E353D8c",
+	"symbol": "Shiba",
+	"name": "Shiba",
+	"coingecko": "shiba",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 25,
+	"address": "0xB8Df27c687c6af9aFE845A2aFAD2D01e199f4878",
+	"symbol": "Mad Meerkat ETF",
+	"name": "Mad Meerkat ETF",
+	"coingecko": "mad-meerkat-etf",
+	"sources": [
+		"coingecko"
+	]
+}

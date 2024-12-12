@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xc6920888988cAcEeA7ACCA0c96f2D65b05eE22Ba",
+	"symbol": "Ethernity Cloud",
+	"name": "Ethernity Cloud",
+	"coingecko": "ethernity-cloud",
+	"sources": [
+		"coingecko"
+	]
+}

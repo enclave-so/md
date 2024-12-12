@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x9e523234D36973f9e38642886197D023C88e307e",
+	"symbol": "Darwinia Network",
+	"name": "Darwinia Network",
+	"coingecko": "darwinia-network-native-token",
+	"sources": [
+		"coingecko"
+	]
+}

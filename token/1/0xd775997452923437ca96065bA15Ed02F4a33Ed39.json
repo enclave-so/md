@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xd775997452923437ca96065bA15Ed02F4a33Ed39",
+	"symbol": "dragon wif hat",
+	"name": "dragon wif hat",
+	"coingecko": "dragon-wif-hat",
+	"sources": [
+		"coingecko"
+	]
+}

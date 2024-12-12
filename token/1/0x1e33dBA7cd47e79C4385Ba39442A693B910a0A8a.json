@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0x1e33dBA7cd47e79C4385Ba39442A693B910a0A8a",
+	"symbol": "CELO",
+	"name": "Celo native",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/celo.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

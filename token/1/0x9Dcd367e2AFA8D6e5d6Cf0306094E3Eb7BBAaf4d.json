@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x9Dcd367e2AFA8D6e5d6Cf0306094E3Eb7BBAaf4d",
+	"symbol": "Crypto Bros",
+	"name": "Crypto Bros",
+	"coingecko": "crypto-bros",
+	"sources": [
+		"coingecko"
+	]
+}

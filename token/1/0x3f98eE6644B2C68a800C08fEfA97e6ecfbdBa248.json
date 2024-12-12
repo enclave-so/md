@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x3f98eE6644B2C68a800C08fEfA97e6ecfbdBa248",
+	"symbol": "WhatAI",
+	"name": "WhatAI",
+	"coingecko": "whatai",
+	"sources": [
+		"coingecko"
+	]
+}

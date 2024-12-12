@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x4b7C762Af92dBD917d159Eb282B85aa13E955739",
+	"symbol": "Poodl Inu",
+	"name": "Poodl Inu",
+	"coingecko": "poodl-inu",
+	"sources": [
+		"coingecko"
+	]
+}

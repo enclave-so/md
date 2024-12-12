@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x7FB7EDe54259Cb3D4E1EaF230C7e2b1FfC951E9A",
+	"symbol": "Numa",
+	"name": "Numa",
+	"coingecko": "numa",
+	"sources": [
+		"coingecko"
+	]
+}

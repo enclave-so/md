@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xc8871267e07408b89aA5aEcc58AdCA5E574557F8",
+	"symbol": "Instadapp USDC",
+	"name": "Instadapp USDC",
+	"coingecko": "instadapp-usdc",
+	"sources": [
+		"coingecko"
+	]
+}

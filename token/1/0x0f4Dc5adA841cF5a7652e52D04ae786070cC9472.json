@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x0f4Dc5adA841cF5a7652e52D04ae786070cC9472",
+	"symbol": "Aktionariat Green Monkey Club AG Tokenized Shares",
+	"name": "Aktionariat Green Monkey Club AG Tokenized Shares",
+	"coingecko": "aktionariat-green-monkey-club-ag-tokenized-shares",
+	"sources": [
+		"coingecko"
+	]
+}

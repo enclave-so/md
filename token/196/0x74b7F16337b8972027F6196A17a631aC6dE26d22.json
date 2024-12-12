@@ -1,0 +1,10 @@
+{
+	"chain": 196,
+	"address": "0x74b7F16337b8972027F6196A17a631aC6dE26d22",
+	"symbol": "Polygon Hermez Bridged USDC (x Layer)",
+	"name": "Polygon Hermez Bridged USDC (x Layer)",
+	"coingecko": "polygon-hermez-bridged-usdc-x-layer",
+	"sources": [
+		"coingecko"
+	]
+}

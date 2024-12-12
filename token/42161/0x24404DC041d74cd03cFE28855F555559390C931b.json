@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x24404DC041d74cd03cFE28855F555559390C931b",
+	"symbol": "r/CryptoCurrency Moons",
+	"name": "r/CryptoCurrency Moons",
+	"coingecko": "moon",
+	"sources": [
+		"coingecko"
+	]
+}

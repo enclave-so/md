@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0xa0ED3C520dC0632657AD2EaaF19E26C4fD431a84",
+	"symbol": "HPO",
+	"name": "Hippopotamus",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xa0ED3C520dC0632657AD2EaaF19E26C4fD431a84.jpg",
+	"coingecko": "hippopotamus",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

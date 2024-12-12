@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x4956b52aE2fF65D74CA2d61207523288e4528f96",
+	"symbol": "Resolv RLP",
+	"name": "Resolv RLP",
+	"coingecko": "resolv-rlp",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xc14B4d4CA66f40F352d7a50fd230EF8b2Fb3b8d4",
+	"symbol": "Blocktools",
+	"name": "Blocktools",
+	"coingecko": "blocktools",
+	"sources": [
+		"coingecko"
+	]
+}

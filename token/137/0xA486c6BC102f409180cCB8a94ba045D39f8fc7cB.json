@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xA486c6BC102f409180cCB8a94ba045D39f8fc7cB",
+	"symbol": "Nash",
+	"name": "Nash",
+	"coingecko": "neon-exchange",
+	"sources": [
+		"coingecko"
+	]
+}

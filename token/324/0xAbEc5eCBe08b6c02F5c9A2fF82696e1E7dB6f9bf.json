@@ -1,0 +1,10 @@
+{
+	"chain": 324,
+	"address": "0xAbEc5eCBe08b6c02F5c9A2fF82696e1E7dB6f9bf",
+	"symbol": "Heurist",
+	"name": "Heurist",
+	"coingecko": "heurist",
+	"sources": [
+		"coingecko"
+	]
+}

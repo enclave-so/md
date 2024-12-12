@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x62a872d9977Db171d9e213A5dc2b782e72ca0033",
+	"symbol": "NEUY",
+	"name": "NEUY",
+	"coingecko": "neuy",
+	"sources": [
+		"coingecko"
+	]
+}

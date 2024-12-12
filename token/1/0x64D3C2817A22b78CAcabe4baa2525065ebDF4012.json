@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x64D3C2817A22b78CAcabe4baa2525065ebDF4012",
+	"symbol": "RaidSharksBot",
+	"name": "RaidSharksBot",
+	"coingecko": "raidsharksbot",
+	"sources": [
+		"coingecko"
+	]
+}

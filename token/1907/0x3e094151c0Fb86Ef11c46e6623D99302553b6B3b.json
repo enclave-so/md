@@ -1,0 +1,10 @@
+{
+	"chain": 1907,
+	"address": "0x3e094151c0Fb86Ef11c46e6623D99302553b6B3b",
+	"symbol": "Ebabil IO",
+	"name": "Ebabil IO",
+	"coingecko": "ebabil-io",
+	"sources": [
+		"coingecko"
+	]
+}

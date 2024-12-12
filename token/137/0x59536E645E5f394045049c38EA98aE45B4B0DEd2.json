@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x59536E645E5f394045049c38EA98aE45B4B0DEd2",
+	"symbol": "Dongdaemun Token",
+	"name": "Dongdaemun Token",
+	"coingecko": "dongdaemun-token",
+	"sources": [
+		"coingecko"
+	]
+}

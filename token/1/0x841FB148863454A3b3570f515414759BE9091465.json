@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x841FB148863454A3b3570f515414759BE9091465",
+	"symbol": "Shih Tzu",
+	"name": "Shih Tzu",
+	"coingecko": "shih-tzu",
+	"sources": [
+		"coingecko"
+	]
+}

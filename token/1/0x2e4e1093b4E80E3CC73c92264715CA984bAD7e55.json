@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x2e4e1093b4E80E3CC73c92264715CA984bAD7e55",
+	"symbol": "ZionWallet",
+	"name": "ZionWallet",
+	"coingecko": "zionwallet",
+	"sources": [
+		"coingecko"
+	]
+}

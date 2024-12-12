@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x89Fb927240750c1B15d4743cd58440fc5f14A11C",
+	"symbol": "Attila",
+	"name": "Attila",
+	"coingecko": "attila",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"chain": 1666700000,
+	"address": "0x2C6e26B2faD89bc52d043e78E3D980A08af0Ce88",
+	"symbol": "1LINK",
+	"name": "OneChainlink",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/877/small/chainlink-new-logo.png",
+	"sources": [
+		"sushiswap"
+	]
+}

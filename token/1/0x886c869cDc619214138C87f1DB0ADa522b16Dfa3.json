@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x886c869cDc619214138C87f1DB0ADa522b16Dfa3",
+	"symbol": "WIF on ETH",
+	"name": "WIF on ETH",
+	"coingecko": "wif-on-eth",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x866f8a50A64e68ca66E97e032c5Da99538B3F942",
+	"symbol": "eBlockStock",
+	"name": "eBlockStock",
+	"coingecko": "eblockstock",
+	"sources": [
+		"coingecko"
+	]
+}

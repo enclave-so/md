@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0x820802Fa8a99901F52e39acD21177b0BE6EE2974",
+	"symbol": "EUROe",
+	"name": "EUROe Stablecoin",
+	"decimals": 6,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/euroe.jpg",
+	"coingecko": "euroe-stablecoin",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

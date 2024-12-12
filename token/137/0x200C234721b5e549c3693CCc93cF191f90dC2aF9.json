@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x200C234721b5e549c3693CCc93cF191f90dC2aF9",
+	"symbol": "Badmad Robots",
+	"name": "Badmad Robots",
+	"coingecko": "drunk-robots",
+	"sources": [
+		"coingecko"
+	]
+}

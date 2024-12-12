@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0x888888888889C00c67689029D7856AAC1065eC11",
+	"symbol": "OPIUM",
+	"name": "Opium Governance Token",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x888888888889C00c67689029D7856AAC1065eC11/logo.png",
+	"coingecko": "opium",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 25,
+	"address": "0xAC974ee7fc5d083112c809cCb3FCe4a4F385750D",
+	"symbol": "Liquid ATOM",
+	"name": "Liquid ATOM",
+	"coingecko": "liquid-atom",
+	"sources": [
+		"coingecko"
+	]
+}

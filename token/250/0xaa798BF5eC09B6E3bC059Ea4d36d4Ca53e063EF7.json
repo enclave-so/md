@@ -1,0 +1,10 @@
+{
+	"chain": 250,
+	"address": "0xaa798BF5eC09B6E3bC059Ea4d36d4Ca53e063EF7",
+	"symbol": "Bridged Curve.Fi USD Stablecoin (Stargate)",
+	"name": "Bridged Curve.Fi USD Stablecoin (Stargate)",
+	"coingecko": "curve-fi-usd-stablecoin-stargate",
+	"sources": [
+		"coingecko"
+	]
+}

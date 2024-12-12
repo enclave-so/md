@@ -1,0 +1,10 @@
+{
+	"chain": 14,
+	"address": "0x932E691aA8c8306C4bB0b19F3f00a284371be8Ba",
+	"symbol": "Phili Inu",
+	"name": "Phili Inu",
+	"coingecko": "phili-inu",
+	"sources": [
+		"coingecko"
+	]
+}

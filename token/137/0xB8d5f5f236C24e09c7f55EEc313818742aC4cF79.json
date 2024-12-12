@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xB8d5f5f236C24e09c7f55EEc313818742aC4cF79",
+	"symbol": "Versus-X",
+	"name": "Versus-X",
+	"coingecko": "versus-x",
+	"sources": [
+		"coingecko"
+	]
+}

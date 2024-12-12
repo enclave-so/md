@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xB475332D25d34b59176F5c1D94cb9Bc9B5E3954A",
+	"symbol": "Hobbes",
+	"name": "Hobbes",
+	"coingecko": "hobbes-new",
+	"sources": [
+		"coingecko"
+	]
+}

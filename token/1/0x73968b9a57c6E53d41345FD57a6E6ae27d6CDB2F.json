@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0x73968b9a57c6E53d41345FD57a6E6ae27d6CDB2F",
+	"symbol": "SDT",
+	"name": "Stake DAO",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x73968b9a57c6E53d41345FD57a6E6ae27d6CDB2F/logo.png",
+	"coingecko": "stake-dao",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

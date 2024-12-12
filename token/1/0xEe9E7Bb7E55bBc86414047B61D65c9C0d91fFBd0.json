@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xEe9E7Bb7E55bBc86414047B61D65c9C0d91fFBd0",
+	"symbol": "Fracton Protocol",
+	"name": "Fracton Protocol",
+	"coingecko": "fracton-protocol",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x9A2Af0AbB12bee5369B180976Be01E8c80D0e7B6",
+	"symbol": "Empire",
+	"name": "Empire",
+	"coingecko": "empire-token",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x5a1bcFa16e3EDFF07DFA60427BD0b51736ea8d37",
+	"symbol": "Mgga",
+	"name": "Mgga",
+	"coingecko": "mgga",
+	"sources": [
+		"coingecko"
+	]
+}

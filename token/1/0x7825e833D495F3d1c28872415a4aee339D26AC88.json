@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0x7825e833D495F3d1c28872415a4aee339D26AC88",
+	"symbol": "TLOS",
+	"name": "Telos",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x7825e833D495F3d1c28872415a4aee339D26AC88.jpg",
+	"coingecko": "wrapped-telos",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

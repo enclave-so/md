@@ -1,0 +1,10 @@
+{
+	"chain": 252,
+	"address": "0xFC00000000000000000000000000000000000006",
+	"symbol": "Wrapped frxETH",
+	"name": "Wrapped frxETH",
+	"coingecko": "wrapped-frxeth",
+	"sources": [
+		"coingecko"
+	]
+}

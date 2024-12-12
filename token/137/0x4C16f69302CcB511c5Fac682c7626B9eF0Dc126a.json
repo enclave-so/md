@@ -1,0 +1,13 @@
+{
+	"chain": 137,
+	"address": "0x4C16f69302CcB511c5Fac682c7626B9eF0Dc126a",
+	"symbol": "polyBUNNY",
+	"name": "Polygon Bunny Token",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x4C16f69302CcB511c5Fac682c7626B9eF0Dc126a/logo.png",
+	"coingecko": "bunny-token-polygon",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xB60acD2057067DC9ed8c083f5aa227a244044fD6",
+	"symbol": "Tensorplex Staked TAO",
+	"name": "Tensorplex Staked TAO",
+	"coingecko": "tensorplex-staked-tao",
+	"sources": [
+		"coingecko"
+	]
+}

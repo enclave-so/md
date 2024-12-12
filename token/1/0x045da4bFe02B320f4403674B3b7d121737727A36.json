@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x045da4bFe02B320f4403674B3b7d121737727A36",
+	"symbol": "DeFi Franc",
+	"name": "DeFi Franc",
+	"coingecko": "defi-franc",
+	"sources": [
+		"coingecko"
+	]
+}

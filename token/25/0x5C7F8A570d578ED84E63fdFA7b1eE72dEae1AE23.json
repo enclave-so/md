@@ -1,0 +1,13 @@
+{
+	"chain": 25,
+	"address": "0x5C7F8A570d578ED84E63fdFA7b1eE72dEae1AE23",
+	"symbol": "WCRO",
+	"name": "WCRO Token",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x5C7F8A570d578ED84E63fdFA7b1eE72dEae1AE23.jpg",
+	"coingecko": "wrapped-cro",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

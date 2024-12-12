@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xc3960227e41c3F54E9b399cE216149dEa5315c34",
+	"symbol": "Changpeng Zhao",
+	"name": "Changpeng Zhao",
+	"coingecko": "changpeng-zhao",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x7ACc3F723419fa0c1f789618F798E75C5189c24F",
+	"symbol": "DADA",
+	"name": "DADA",
+	"coingecko": "dada-3",
+	"sources": [
+		"coingecko"
+	]
+}

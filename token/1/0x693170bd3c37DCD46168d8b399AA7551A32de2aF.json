@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x693170bd3c37DCD46168d8b399AA7551A32de2aF",
+	"symbol": "TAO Subnet Sharding",
+	"name": "TAO Subnet Sharding",
+	"coingecko": "tao-subnet-sharding",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x03f61137BFb86be07394f0FD07a33984020F96D8",
+	"symbol": "Xpendium",
+	"name": "Xpendium",
+	"coingecko": "xpendium",
+	"sources": [
+		"coingecko"
+	]
+}

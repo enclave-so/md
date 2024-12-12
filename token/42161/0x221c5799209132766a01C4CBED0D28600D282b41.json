@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x221c5799209132766a01C4CBED0D28600D282b41",
+	"symbol": "Bitrium",
+	"name": "Bitrium",
+	"coingecko": "bitrium",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xbb1EE07d6c7BAeB702949904080eb61f5D5e7732",
+	"symbol": "Dogey-Inu",
+	"name": "Dogey-Inu",
+	"coingecko": "dogey-inu",
+	"sources": [
+		"coingecko"
+	]
+}

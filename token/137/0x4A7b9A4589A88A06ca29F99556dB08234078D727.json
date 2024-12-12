@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x4A7b9A4589A88A06ca29F99556dB08234078D727",
+	"symbol": "NFTmall",
+	"name": "NFTmall",
+	"coingecko": "nftmall",
+	"sources": [
+		"coingecko"
+	]
+}

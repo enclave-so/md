@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0x26cF82e4aE43D31eA51e72B663d26e26a75AF729",
+	"symbol": "mbBASED",
+	"name": "Moonbase",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/mbbased.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

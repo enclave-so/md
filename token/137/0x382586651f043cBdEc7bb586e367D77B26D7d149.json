@@ -1,0 +1,11 @@
+{
+	"chain": 137,
+	"address": "0x382586651f043cBdEc7bb586e367D77B26D7d149",
+	"symbol": "WGC",
+	"name": "Wild Goat Coin",
+	"decimals": 6,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x382586651f043cBdEc7bb586e367D77B26D7d149.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

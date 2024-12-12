@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x39207D2E2fEEF178FBdA8083914554C59D9f8c00",
+	"symbol": "MultiPlanetary Inus",
+	"name": "MultiPlanetary Inus",
+	"coingecko": "multiplanetary-inus",
+	"sources": [
+		"coingecko"
+	]
+}

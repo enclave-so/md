@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x68AD75469DB9181a1144E769c16Adf47f2F32Cae",
+	"symbol": "Max on ETH",
+	"name": "Max on ETH",
+	"coingecko": "max-on-eth",
+	"sources": [
+		"coingecko"
+	]
+}

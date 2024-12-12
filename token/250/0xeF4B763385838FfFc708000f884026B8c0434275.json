@@ -1,0 +1,10 @@
+{
+	"chain": 250,
+	"address": "0xeF4B763385838FfFc708000f884026B8c0434275",
+	"symbol": "Xen Crypto (Fantom)",
+	"name": "Xen Crypto (Fantom)",
+	"coingecko": "xen-crypto-fantom",
+	"sources": [
+		"coingecko"
+	]
+}

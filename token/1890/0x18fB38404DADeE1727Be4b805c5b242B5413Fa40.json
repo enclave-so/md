@@ -1,0 +1,10 @@
+{
+	"chain": 1890,
+	"address": "0x18fB38404DADeE1727Be4b805c5b242B5413Fa40",
+	"symbol": "Lightlink Bridged USDC (Lightlink)",
+	"name": "Lightlink Bridged USDC (Lightlink)",
+	"coingecko": "bridged-usdc-lightlink",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"chain": 137,
+	"address": "0x9a71012B13CA4d3D0Cdc72A177DF3ef03b0E76A3",
+	"symbol": "BAL",
+	"name": "Balancer",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x9a71012B13CA4d3D0Cdc72A177DF3ef03b0E76A3/logo.png",
+	"coingecko": "balancer",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

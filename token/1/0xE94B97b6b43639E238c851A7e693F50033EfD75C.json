@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xE94B97b6b43639E238c851A7e693F50033EfD75C",
+	"symbol": "HaloDAO",
+	"name": "HaloDAO",
+	"coingecko": "rainbow-token",
+	"sources": [
+		"coingecko"
+	]
+}

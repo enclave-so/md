@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x4D243E8F511045f0d5f9d0288BC628737b10c079",
+	"symbol": "Jason (Eth)",
+	"name": "Jason (Eth)",
+	"coingecko": "jason-eth",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 295,
+	"address": "0x00000000000000000000000000000000001a88b2",
+	"symbol": "Pangolin Hedera",
+	"name": "Pangolin Hedera",
+	"coingecko": "pangolin-hedera",
+	"sources": [
+		"coingecko"
+	]
+}

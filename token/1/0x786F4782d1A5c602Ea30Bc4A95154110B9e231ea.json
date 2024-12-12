@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x786F4782d1A5c602Ea30Bc4A95154110B9e231ea",
+	"symbol": "ShezmuBTC",
+	"name": "ShezmuBTC",
+	"coingecko": "shezmubtc",
+	"sources": [
+		"coingecko"
+	]
+}

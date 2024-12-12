@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x8baEF8c9568c21B1a2b2fd048F8b4Da835691fD0",
+	"symbol": "USD ZEE",
+	"name": "USD ZEE",
+	"coingecko": "usd-zee",
+	"sources": [
+		"coingecko"
+	]
+}

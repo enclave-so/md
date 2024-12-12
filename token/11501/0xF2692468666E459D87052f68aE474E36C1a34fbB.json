@@ -1,0 +1,10 @@
+{
+	"chain": 11501,
+	"address": "0xF2692468666E459D87052f68aE474E36C1a34fbB",
+	"symbol": "Satoshi Stablecoin",
+	"name": "Satoshi Stablecoin",
+	"coingecko": "satoshi-stablecoin",
+	"sources": [
+		"coingecko"
+	]
+}

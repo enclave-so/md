@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x0000000000c5dc95539589fbD24BE07c6C14eCa4",
+	"symbol": "Milady Cult Coin",
+	"name": "Milady Cult Coin",
+	"coingecko": "milady-cult-coin",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x3c72fca8523686fd9e5740b0826FA4bB376E0241",
+	"symbol": "300FIT",
+	"name": "300FIT",
+	"coingecko": "300fit",
+	"sources": [
+		"coingecko"
+	]
+}

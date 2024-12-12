@@ -1,0 +1,11 @@
+{
+	"chain": 137,
+	"address": "0x263026E7e53DBFDce5ae55Ade22493f828922965",
+	"symbol": "RIC",
+	"name": "RIC",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x263026E7e53DBFDce5ae55Ade22493f828922965/logo.png",
+	"sources": [
+		"sushiswap"
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"chain": 1285,
+	"address": "0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D",
+	"symbol": "anyUSDC",
+	"name": "USD Coin - AnySwap",
+	"decimals": 6,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdc.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

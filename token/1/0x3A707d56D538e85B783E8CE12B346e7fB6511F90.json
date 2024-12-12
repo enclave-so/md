@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x3A707d56D538e85B783E8CE12B346e7fB6511F90",
+	"symbol": "Inverse Ethereum Volatility Index Token",
+	"name": "Inverse Ethereum Volatility Index Token",
+	"coingecko": "inverse-ethereum-volatility-index-token",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x2c0687215Aca7F5e2792d956E170325e92A02aCA",
+	"symbol": "Earth 2 Essence",
+	"name": "Earth 2 Essence",
+	"coingecko": "earth-2-essence",
+	"sources": [
+		"coingecko"
+	]
+}

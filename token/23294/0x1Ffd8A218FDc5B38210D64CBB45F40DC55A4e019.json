@@ -1,0 +1,10 @@
+{
+	"chain": 23294,
+	"address": "0x1Ffd8A218FDc5B38210D64CBB45F40DC55A4e019",
+	"symbol": "Private Wrapped wROSE",
+	"name": "Private Wrapped wROSE",
+	"coingecko": "private-wrapped-wrose",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x6096b8765Eb48cd2193F840a977f3727e7800356",
+	"symbol": "CRABBY",
+	"name": "CRABBY",
+	"coingecko": "crabby",
+	"sources": [
+		"coingecko"
+	]
+}

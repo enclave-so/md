@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xAa6E8127831c9DE45ae56bB1b0d4D4Da6e5665BD",
+	"symbol": "Index Coop - ETH 2x Flexible Leverage Index",
+	"name": "Index Coop - ETH 2x Flexible Leverage Index",
+	"coingecko": "eth-2x-flexible-leverage-index",
+	"sources": [
+		"coingecko"
+	]
+}

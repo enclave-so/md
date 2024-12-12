@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x7CA5af5bA3472AF6049F63c1AbC324475D44EFC1",
+	"symbol": "KONDUX",
+	"name": "KONDUX",
+	"coingecko": "kondux-v2",
+	"sources": [
+		"coingecko"
+	]
+}

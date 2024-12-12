@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x3E5A19c91266aD8cE2477B91585d1856B84062dF",
+	"symbol": "Ancient8",
+	"name": "Ancient8",
+	"coingecko": "ancient8",
+	"sources": [
+		"coingecko"
+	]
+}

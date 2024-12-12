@@ -1,0 +1,10 @@
+{
+	"chain": 1135,
+	"address": "0xac485391EB2d7D88253a7F1eF18C37f4242D1A24",
+	"symbol": "Lisk",
+	"name": "Lisk",
+	"coingecko": "lisk",
+	"sources": [
+		"coingecko"
+	]
+}

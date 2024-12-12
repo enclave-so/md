@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x70e29b7E036B14D496431b77e0B6EB0008be6165",
+	"symbol": "Captain Tsubasa",
+	"name": "Captain Tsubasa",
+	"coingecko": "captain-tsubasa",
+	"sources": [
+		"coingecko"
+	]
+}

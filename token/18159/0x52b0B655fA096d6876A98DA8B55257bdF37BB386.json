@@ -1,0 +1,10 @@
+{
+	"chain": 18159,
+	"address": "0x52b0B655fA096d6876A98DA8B55257bdF37BB386",
+	"symbol": "Proof Of Gorila",
+	"name": "Proof Of Gorila",
+	"coingecko": "proof-of-gorila",
+	"sources": [
+		"coingecko"
+	]
+}

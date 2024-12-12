@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xc4BB7277A74678f053259CB1F96140347efbfd46",
+	"symbol": "Coin of the champions",
+	"name": "Coin of the champions",
+	"coingecko": "coin-of-the-champions",
+	"sources": [
+		"coingecko"
+	]
+}

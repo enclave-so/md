@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xC7a2572fA8FDB0f7E81d6D3c4e3CCF78FB0DC374",
+	"symbol": "Ben's Finale",
+	"name": "Ben's Finale",
+	"coingecko": "ben-s-finale",
+	"sources": [
+		"coingecko"
+	]
+}

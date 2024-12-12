@@ -1,0 +1,11 @@
+{
+	"chain": 10,
+	"address": "0x298B9B95708152ff6968aafd889c6586e9169f1D",
+	"symbol": "sBTC",
+	"name": "Synthetic Bitcoin",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/sBTC/logo.svg",
+	"sources": [
+		"sushiswap"
+	]
+}

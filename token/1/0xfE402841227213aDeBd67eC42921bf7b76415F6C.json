@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xfE402841227213aDeBd67eC42921bf7b76415F6C",
+	"symbol": "GoLondon",
+	"name": "GoLondon",
+	"coingecko": "golondon",
+	"sources": [
+		"coingecko"
+	]
+}

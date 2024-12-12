@@ -1,0 +1,10 @@
+{
+	"chain": 2020,
+	"address": "0xc99a6A985eD2Cac1ef41640596C5A5f9F4E19Ef5",
+	"symbol": "Ronin Bridged WETH (Ronin)",
+	"name": "Ronin Bridged WETH (Ronin)",
+	"coingecko": "ronin-bridged-weth-ronin",
+	"sources": [
+		"coingecko"
+	]
+}

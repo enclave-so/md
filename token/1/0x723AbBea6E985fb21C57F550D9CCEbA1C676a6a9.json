@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x723AbBea6E985fb21C57F550D9CCEbA1C676a6a9",
+	"symbol": "Smoking Chicken Fish",
+	"name": "Smoking Chicken Fish",
+	"coingecko": "smokingchickenfisheth",
+	"sources": [
+		"coingecko"
+	]
+}

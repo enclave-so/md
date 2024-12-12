@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x618E75Ac90b12c6049Ba3b27f5d5F8651b0037F6",
+	"symbol": "QASH",
+	"name": "QASH",
+	"coingecko": "qash",
+	"sources": [
+		"coingecko"
+	]
+}

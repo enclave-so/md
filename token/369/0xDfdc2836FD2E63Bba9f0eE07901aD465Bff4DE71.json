@@ -1,0 +1,10 @@
+{
+	"chain": 369,
+	"address": "0xDfdc2836FD2E63Bba9f0eE07901aD465Bff4DE71",
+	"symbol": "POWERCITY WATT",
+	"name": "POWERCITY WATT",
+	"coingecko": "powercity-watt",
+	"sources": [
+		"coingecko"
+	]
+}

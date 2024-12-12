@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xef3A930e1FfFFAcd2fc13434aC81bD278B0ecC8d",
+	"symbol": "Stafi",
+	"name": "Stafi",
+	"coingecko": "stafi",
+	"sources": [
+		"coingecko"
+	]
+}

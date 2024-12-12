@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0x0258F474786DdFd37ABCE6df6BBb1Dd5dfC4434a",
+	"symbol": "ORN",
+	"name": "Orion Protocol",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/11841/small/orion_logo.png?1594943318",
+	"coingecko": "orion-protocol",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

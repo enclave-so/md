@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xFA615809A56892B9a9A0d48Cf0A550dEB0b42521",
+	"symbol": "PNWR Token",
+	"name": "PNWR Token",
+	"coingecko": "pnwr-token",
+	"sources": [
+		"coingecko"
+	]
+}

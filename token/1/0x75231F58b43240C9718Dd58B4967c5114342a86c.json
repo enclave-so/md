@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x75231F58b43240C9718Dd58B4967c5114342a86c",
+	"symbol": "OKB",
+	"name": "OKB",
+	"coingecko": "okb",
+	"sources": [
+		"coingecko"
+	]
+}

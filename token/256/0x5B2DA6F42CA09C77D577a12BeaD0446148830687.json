@@ -1,0 +1,11 @@
+{
+	"chain": 256,
+	"address": "0x5B2DA6F42CA09C77D577a12BeaD0446148830687",
+	"symbol": "WHT",
+	"name": "Wrapped HT",
+	"decimals": 18,
+	"logo": "https://hecoinfo.com/token/images/HT_32.png",
+	"sources": [
+		"sushiswap"
+	]
+}

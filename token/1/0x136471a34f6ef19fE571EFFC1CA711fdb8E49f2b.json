@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x136471a34f6ef19fE571EFFC1CA711fdb8E49f2b",
+	"symbol": "Hashnote USYC",
+	"name": "Hashnote USYC",
+	"coingecko": "hashnote-usyc",
+	"sources": [
+		"coingecko"
+	]
+}

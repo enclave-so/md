@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0x17525E4f4Af59fbc29551bC4eCe6AB60Ed49CE31",
+	"symbol": "YPIE",
+	"name": "PieDAO Yearn Ecosystem Pie",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/ypie.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

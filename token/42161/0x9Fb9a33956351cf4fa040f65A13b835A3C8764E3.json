@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x9Fb9a33956351cf4fa040f65A13b835A3C8764E3",
+	"symbol": "Multichain",
+	"name": "Multichain",
+	"coingecko": "multichain",
+	"sources": [
+		"coingecko"
+	]
+}

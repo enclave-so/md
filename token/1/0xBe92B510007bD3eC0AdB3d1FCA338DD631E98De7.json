@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xBe92B510007bD3eC0AdB3d1FCA338DD631E98De7",
+	"symbol": "DegensTogether",
+	"name": "DegensTogether",
+	"coingecko": "degenstogether",
+	"sources": [
+		"coingecko"
+	]
+}

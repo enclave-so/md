@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xd6d3B4254B4526c3095d8AB00B75f186c56dD72C",
+	"symbol": "Lithium Ventures",
+	"name": "Lithium Ventures",
+	"coingecko": "lithium-ventures",
+	"sources": [
+		"coingecko"
+	]
+}

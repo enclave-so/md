@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x77C6E4a580c0dCE4E5c7a17d0bc077188a83A059",
+	"symbol": "Swerve.fi USD",
+	"name": "Swerve.fi USD",
+	"coingecko": "swusd",
+	"sources": [
+		"coingecko"
+	]
+}

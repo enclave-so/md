@@ -1,0 +1,10 @@
+{
+	"chain": 39797,
+	"address": "0x9594E7431144e80178B1Bc6849eDcbA7D2D5bb27",
+	"symbol": "Mainframe",
+	"name": "Mainframe",
+	"coingecko": "mainframe",
+	"sources": [
+		"coingecko"
+	]
+}

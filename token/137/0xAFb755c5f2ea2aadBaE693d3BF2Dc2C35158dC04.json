@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xAFb755c5f2ea2aadBaE693d3BF2Dc2C35158dC04",
+	"symbol": "Morkie",
+	"name": "Morkie",
+	"coingecko": "morkie",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xaE5B2aA98532C0c27C88f2085D66b5263F4B9feE",
+	"symbol": "IntelliSecure Systems",
+	"name": "IntelliSecure Systems",
+	"coingecko": "intellisecure-systems",
+	"sources": [
+		"coingecko"
+	]
+}

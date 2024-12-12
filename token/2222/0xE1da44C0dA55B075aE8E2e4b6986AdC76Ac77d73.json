@@ -1,0 +1,10 @@
+{
+	"chain": 2222,
+	"address": "0xE1da44C0dA55B075aE8E2e4b6986AdC76Ac77d73",
+	"symbol": "Equilibre",
+	"name": "Equilibre",
+	"coingecko": "equilibre",
+	"sources": [
+		"coingecko"
+	]
+}

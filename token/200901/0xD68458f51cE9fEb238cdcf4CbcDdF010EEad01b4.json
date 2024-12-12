@@ -1,0 +1,10 @@
+{
+	"chain": 200901,
+	"address": "0xD68458f51cE9fEb238cdcf4CbcDdF010EEad01b4",
+	"symbol": "Pika Protocol",
+	"name": "Pika Protocol",
+	"coingecko": "pika-protocol-2",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x3F66aE0c8E9Fb57f661aF4Ba8C8445D36ec5d7F7",
+	"symbol": "Cryptify AI",
+	"name": "Cryptify AI",
+	"coingecko": "cryptify-ai",
+	"sources": [
+		"coingecko"
+	]
+}

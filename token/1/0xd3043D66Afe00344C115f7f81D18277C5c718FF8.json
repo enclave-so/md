@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xd3043D66Afe00344C115f7f81D18277C5c718FF8",
+	"symbol": "OpenMoney USD",
+	"name": "OpenMoney USD",
+	"coingecko": "openmoney-usd",
+	"sources": [
+		"coingecko"
+	]
+}

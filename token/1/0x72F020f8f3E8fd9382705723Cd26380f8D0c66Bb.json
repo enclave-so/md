@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x72F020f8f3E8fd9382705723Cd26380f8D0c66Bb",
+	"symbol": "PlotX",
+	"name": "PlotX",
+	"coingecko": "plotx",
+	"sources": [
+		"coingecko"
+	]
+}

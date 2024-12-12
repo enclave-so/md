@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x9f4909Cc95FB870BF48C128C1Fdbb5F482797632",
+	"symbol": "Guzzler",
+	"name": "Guzzler",
+	"coingecko": "guzzler",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x430EF9263E76DAE63c84292C3409D61c598E9682",
+	"symbol": "Vulcan Forged",
+	"name": "Vulcan Forged",
+	"coingecko": "vulcan-forged",
+	"sources": [
+		"coingecko"
+	]
+}

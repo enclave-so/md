@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x14feE680690900BA0ccCfC76AD70Fd1b95D10e16",
+	"symbol": "PAAL AI",
+	"name": "PAAL AI",
+	"coingecko": "paal-ai",
+	"sources": [
+		"coingecko"
+	]
+}

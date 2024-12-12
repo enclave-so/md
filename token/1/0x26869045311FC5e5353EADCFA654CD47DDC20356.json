@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x26869045311FC5e5353EADCFA654CD47DDC20356",
+	"symbol": "Quantum DAO",
+	"name": "Quantum DAO",
+	"coingecko": "quantum-dao",
+	"sources": [
+		"coingecko"
+	]
+}

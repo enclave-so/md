@@ -1,0 +1,10 @@
+{
+	"chain": 388,
+	"address": "0x271602A97027ee1dd03b1E6e5dB153eB659A80b1",
+	"symbol": "Veno ETH",
+	"name": "Veno ETH",
+	"coingecko": "veno-eth",
+	"sources": [
+		"coingecko"
+	]
+}

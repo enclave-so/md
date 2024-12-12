@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x12652C6d93FDB6F4f37d48A8687783C782BB0d10",
+	"symbol": "Entangle",
+	"name": "Entangle",
+	"coingecko": "entangle",
+	"sources": [
+		"coingecko"
+	]
+}

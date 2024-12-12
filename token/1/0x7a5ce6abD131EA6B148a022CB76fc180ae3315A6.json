@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x7a5ce6abD131EA6B148a022CB76fc180ae3315A6",
+	"symbol": "bAlpha",
+	"name": "bAlpha",
+	"coingecko": "balpha",
+	"sources": [
+		"coingecko"
+	]
+}

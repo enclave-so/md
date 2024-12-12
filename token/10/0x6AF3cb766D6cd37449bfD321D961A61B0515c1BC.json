@@ -1,0 +1,10 @@
+{
+	"chain": 10,
+	"address": "0x6AF3cb766D6cd37449bfD321D961A61B0515c1BC",
+	"symbol": "Ethereans",
+	"name": "Ethereans",
+	"coingecko": "ethereans",
+	"sources": [
+		"coingecko"
+	]
+}

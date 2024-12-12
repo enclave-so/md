@@ -1,0 +1,13 @@
+{
+	"chain": 137,
+	"address": "0xD86b5923F3AD7b585eD81B448170ae026c65ae9a",
+	"symbol": "IRON",
+	"name": "IRON Stablecoin",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xD86b5923F3AD7b585eD81B448170ae026c65ae9a/logo.png",
+	"coingecko": "iron-stablecoin",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

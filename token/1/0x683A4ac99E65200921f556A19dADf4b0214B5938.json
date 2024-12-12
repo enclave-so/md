@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x683A4ac99E65200921f556A19dADf4b0214B5938",
+	"symbol": "MAGA Pepe",
+	"name": "MAGA Pepe",
+	"coingecko": "maga-pepe-2",
+	"sources": [
+		"coingecko"
+	]
+}

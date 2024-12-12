@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0xA23e44aEa714fbBc08ef28340D78067B9A8Cad73",
+	"symbol": "Lybra",
+	"name": "Lybra",
+	"coingecko": "lybra-finance",
+	"sources": [
+		"coingecko"
+	]
+}

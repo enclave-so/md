@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xaA68FD12A3B0f7AeA66FE8f7111ae3f8D9ac5058",
+	"symbol": "Tweety",
+	"name": "Tweety",
+	"coingecko": "tweety",
+	"sources": [
+		"coingecko"
+	]
+}

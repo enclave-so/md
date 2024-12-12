@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xcFe2cF35D2bDDE84967e67d00aD74237e234CE59",
+	"symbol": "PolyPup",
+	"name": "PolyPup",
+	"coingecko": "polypup",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xE2Aa7db6dA1dAE97C5f5C6914d285fBfCC32A128",
+	"symbol": "Parallel",
+	"name": "Parallel",
+	"coingecko": "par-stablecoin",
+	"sources": [
+		"coingecko"
+	]
+}

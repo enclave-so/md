@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xC135A4bBf0D5005f4dB3b79B84e8861d22003752",
+	"symbol": "Titan",
+	"name": "Titan",
+	"coingecko": "titan-2",
+	"sources": [
+		"coingecko"
+	]
+}

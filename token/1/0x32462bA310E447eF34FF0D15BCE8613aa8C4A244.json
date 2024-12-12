@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x32462bA310E447eF34FF0D15BCE8613aa8C4A244",
+	"symbol": "Dohrnii",
+	"name": "Dohrnii",
+	"coingecko": "dohrnii",
+	"sources": [
+		"coingecko"
+	]
+}

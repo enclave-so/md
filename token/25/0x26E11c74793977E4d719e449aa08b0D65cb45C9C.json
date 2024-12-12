@@ -1,0 +1,13 @@
+{
+	"chain": 25,
+	"address": "0x26E11c74793977E4d719e449aa08b0D65cb45C9C",
+	"symbol": "LFC",
+	"name": "LetsCRO",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x26E11c74793977E4d719e449aa08b0D65cb45C9C.jpg",
+	"coingecko": "letscro",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x8E3fA615392688ddD9bf8F25D1f8Dc744ac1A12C",
+	"symbol": "DumbMoney",
+	"name": "DumbMoney",
+	"coingecko": "dumbmoney-2",
+	"sources": [
+		"coingecko"
+	]
+}

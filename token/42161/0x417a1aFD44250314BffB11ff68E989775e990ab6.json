@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x417a1aFD44250314BffB11ff68E989775e990ab6",
+	"symbol": "Volta Protocol",
+	"name": "Volta Protocol",
+	"coingecko": "volta-protocol",
+	"sources": [
+		"coingecko"
+	]
+}

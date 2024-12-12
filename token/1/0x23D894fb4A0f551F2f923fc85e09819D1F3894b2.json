@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x23D894fb4A0f551F2f923fc85e09819D1F3894b2",
+	"symbol": "Intellix",
+	"name": "Intellix",
+	"coingecko": "intellix",
+	"sources": [
+		"coingecko"
+	]
+}

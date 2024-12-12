@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xCE722f60F35C37aB295adc4E6bA45bCC7ca89Dd6",
+	"symbol": "JPEG'd",
+	"name": "JPEG'd",
+	"coingecko": "jpeg-d-2",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x6f80310CA7F2C654691D1383149Fa1A57d8AB1f8",
+	"symbol": "Silo Finance",
+	"name": "Silo Finance",
+	"coingecko": "silo-finance",
+	"sources": [
+		"coingecko"
+	]
+}

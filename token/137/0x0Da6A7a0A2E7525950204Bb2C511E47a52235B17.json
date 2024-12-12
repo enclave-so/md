@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x0Da6A7a0A2E7525950204Bb2C511E47a52235B17",
+	"symbol": "MT Tower",
+	"name": "MT Tower",
+	"coingecko": "mt-token",
+	"sources": [
+		"coingecko"
+	]
+}

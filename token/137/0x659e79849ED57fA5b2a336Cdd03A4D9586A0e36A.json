@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x659e79849ED57fA5b2a336Cdd03A4D9586A0e36A",
+	"symbol": "Akiverse Governance Token",
+	"name": "Akiverse Governance Token",
+	"coingecko": "akiverse-governance-token",
+	"sources": [
+		"coingecko"
+	]
+}

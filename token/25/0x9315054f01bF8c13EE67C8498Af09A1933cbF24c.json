@@ -1,0 +1,10 @@
+{
+	"chain": 25,
+	"address": "0x9315054f01bF8c13EE67C8498Af09A1933cbF24c",
+	"symbol": "xCRX",
+	"name": "xCRX",
+	"coingecko": "xcrx",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x7A771A90B8F2a10aFd9A75B8E49D646d1139Bb98",
+	"symbol": "Stealth Deals",
+	"name": "Stealth Deals",
+	"coingecko": "stealth-deals",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x657d9ABA1DBb59e53f9F3eCAA878447dCfC96dCb",
+	"symbol": "ynETH MAX",
+	"name": "ynETH MAX",
+	"coingecko": "yneth-max",
+	"sources": [
+		"coingecko"
+	]
+}

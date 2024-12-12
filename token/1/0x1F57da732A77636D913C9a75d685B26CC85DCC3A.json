@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x1F57da732A77636D913C9a75d685B26CC85DCC3A",
+	"symbol": "OPENLOOT",
+	"name": "OPENLOOT",
+	"coingecko": "open-loot",
+	"sources": [
+		"coingecko"
+	]
+}

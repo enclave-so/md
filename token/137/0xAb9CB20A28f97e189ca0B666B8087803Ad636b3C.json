@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xAb9CB20A28f97e189ca0B666B8087803Ad636b3C",
+	"symbol": "MEDIEUS",
+	"name": "MEDIEUS",
+	"coingecko": "medieus",
+	"sources": [
+		"coingecko"
+	]
+}

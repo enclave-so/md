@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x4309E88D1D511F3764Ee0F154cEE98d783B61f09",
+	"symbol": "Onchain AI",
+	"name": "Onchain AI",
+	"coingecko": "onchain-ai",
+	"sources": [
+		"coingecko"
+	]
+}

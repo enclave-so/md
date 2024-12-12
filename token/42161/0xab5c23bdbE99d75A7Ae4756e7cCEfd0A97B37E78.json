@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0xab5c23bdbE99d75A7Ae4756e7cCEfd0A97B37E78",
+	"symbol": "stXAI",
+	"name": "stXAI",
+	"coingecko": "stxai",
+	"sources": [
+		"coingecko"
+	]
+}

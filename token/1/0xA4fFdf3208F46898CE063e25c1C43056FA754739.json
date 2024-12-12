@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xA4fFdf3208F46898CE063e25c1C43056FA754739",
+	"symbol": "AthenaDAO",
+	"name": "AthenaDAO",
+	"coingecko": "athenadao-token",
+	"sources": [
+		"coingecko"
+	]
+}

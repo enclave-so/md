@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x67B66C99D3Eb37Fa76Aa3Ed1ff33E8e39F0b9c7A",
+	"symbol": "Interest Bearing ETH",
+	"name": "Interest Bearing ETH",
+	"coingecko": "interest-bearing-eth",
+	"sources": [
+		"coingecko"
+	]
+}

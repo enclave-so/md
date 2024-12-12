@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x2Be8e422cb4A5A7f217a8F1b0658952a79132F28",
+	"symbol": "Monkey Shit Inu",
+	"name": "Monkey Shit Inu",
+	"coingecko": "monkey-shit-inu",
+	"sources": [
+		"coingecko"
+	]
+}

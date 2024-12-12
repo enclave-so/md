@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x328a268b191ef593B72498a9e8a481C086EB21be",
+	"symbol": "MetaZero",
+	"name": "MetaZero",
+	"coingecko": "metazero",
+	"sources": [
+		"coingecko"
+	]
+}

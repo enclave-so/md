@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xA685406eFF334b1368318D0325FC2CDC0E7086f1",
+	"symbol": "PARTY",
+	"name": "PARTY",
+	"coingecko": "party",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x68C85B9f78F30A0df5aC5723e4e700037f185415",
+	"symbol": "AiWork",
+	"name": "AiWork",
+	"coingecko": "aiwork",
+	"sources": [
+		"coingecko"
+	]
+}

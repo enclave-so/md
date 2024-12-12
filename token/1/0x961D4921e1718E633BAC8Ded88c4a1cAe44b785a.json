@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x961D4921e1718E633BAC8Ded88c4a1cAe44b785a",
+	"symbol": "Thunderhead Staked FLIP",
+	"name": "Thunderhead Staked FLIP",
+	"coingecko": "thunderhead-staked-flip",
+	"sources": [
+		"coingecko"
+	]
+}

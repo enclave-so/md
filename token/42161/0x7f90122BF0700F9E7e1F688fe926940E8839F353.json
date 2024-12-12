@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x7f90122BF0700F9E7e1F688fe926940E8839F353",
+	"symbol": "Curve.fi USDC/USDT",
+	"name": "Curve.fi USDC/USDT",
+	"coingecko": "curve-fi-usdc-usdt",
+	"sources": [
+		"coingecko"
+	]
+}

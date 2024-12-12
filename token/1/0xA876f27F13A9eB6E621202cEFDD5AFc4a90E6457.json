@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xA876f27F13A9eB6E621202cEFDD5AFc4a90E6457",
+	"symbol": "Icy",
+	"name": "Icy",
+	"coingecko": "icy",
+	"sources": [
+		"coingecko"
+	]
+}

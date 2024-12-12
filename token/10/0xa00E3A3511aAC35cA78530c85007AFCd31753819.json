@@ -1,0 +1,13 @@
+{
+	"chain": 10,
+	"address": "0xa00E3A3511aAC35cA78530c85007AFCd31753819",
+	"symbol": "KNC",
+	"name": "Kyber Network Crystal v2",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/KNC/logo.png",
+	"coingecko": "kyber-network-crystal",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

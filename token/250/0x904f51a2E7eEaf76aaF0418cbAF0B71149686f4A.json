@@ -1,0 +1,10 @@
+{
+	"chain": 250,
+	"address": "0x904f51a2E7eEaf76aaF0418cbAF0B71149686f4A",
+	"symbol": "Fantom Maker",
+	"name": "Fantom Maker",
+	"coingecko": "fantom-maker",
+	"sources": [
+		"coingecko"
+	]
+}

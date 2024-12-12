@@ -1,0 +1,13 @@
+{
+	"chain": 2046399126,
+	"address": "0x31E0B85Eff93fc3cb5423cd3E23868F5B18fF0bB",
+	"symbol": "CMPS",
+	"name": "Compass",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/skale-europa/0x31E0B85Eff93fc3cb5423cd3E23868F5B18fF0bB.jpg",
+	"coingecko": "haven-s-compass",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

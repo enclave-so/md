@@ -1,0 +1,10 @@
+{
+	"chain": 250,
+	"address": "0xea97c7c1c89d4084e0BFB88284FA90243779da9f",
+	"symbol": "Paper",
+	"name": "Paper",
+	"coingecko": "paper-fantom",
+	"sources": [
+		"coingecko"
+	]
+}

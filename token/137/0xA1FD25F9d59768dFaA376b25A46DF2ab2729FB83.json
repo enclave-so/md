@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xA1FD25F9d59768dFaA376b25A46DF2ab2729FB83",
+	"symbol": "5mc",
+	"name": "5mc",
+	"coingecko": "5mc",
+	"sources": [
+		"coingecko"
+	]
+}

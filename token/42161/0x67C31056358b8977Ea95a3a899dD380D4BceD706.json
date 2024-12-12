@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x67C31056358b8977Ea95a3a899dD380D4BceD706",
+	"symbol": "ETHforestAI",
+	"name": "ETHforestAI",
+	"coingecko": "ethforestai",
+	"sources": [
+		"coingecko"
+	]
+}

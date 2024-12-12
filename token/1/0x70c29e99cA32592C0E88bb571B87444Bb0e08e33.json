@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x70c29e99cA32592C0E88bb571B87444Bb0e08e33",
+	"symbol": "The Martian Dog",
+	"name": "The Martian Dog",
+	"coingecko": "the-martian-dog",
+	"sources": [
+		"coingecko"
+	]
+}

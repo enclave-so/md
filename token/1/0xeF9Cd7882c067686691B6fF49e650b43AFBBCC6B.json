@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0xeF9Cd7882c067686691B6fF49e650b43AFBBCC6B",
+	"symbol": "FNX",
+	"name": "FinNexus",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xeF9Cd7882c067686691B6fF49e650b43AFBBCC6B/logo.png",
+	"sources": [
+		"sushiswap"
+	]
+}

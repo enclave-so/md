@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xB6c3DC857845a713d3531cea5ac546F6767992F4",
+	"symbol": "Advertise Coin",
+	"name": "Advertise Coin",
+	"coingecko": "advertise-coin",
+	"sources": [
+		"coingecko"
+	]
+}

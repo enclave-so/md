@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xa0e7626287Bd02Cbe3531C65148261Bf0c0Ed98b",
+	"symbol": "Shill Guard Token",
+	"name": "Shill Guard Token",
+	"coingecko": "shill-guard-token",
+	"sources": [
+		"coingecko"
+	]
+}

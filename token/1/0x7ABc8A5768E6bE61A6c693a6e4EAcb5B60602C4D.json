@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x7ABc8A5768E6bE61A6c693a6e4EAcb5B60602C4D",
+	"symbol": "Covalent X Token",
+	"name": "Covalent X Token",
+	"coingecko": "covalent-x-token",
+	"sources": [
+		"coingecko"
+	]
+}

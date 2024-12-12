@@ -1,0 +1,10 @@
+{
+	"chain": 33139,
+	"address": "0xfC7B0bAdb1404412a747bC9bb6232E25098bE303",
+	"symbol": "Ape On ApeChain",
+	"name": "Ape On ApeChain",
+	"coingecko": "ape-on-apechain",
+	"sources": [
+		"coingecko"
+	]
+}

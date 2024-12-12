@@ -1,0 +1,10 @@
+{
+	"chain": 1907,
+	"address": "0xa3225ae74E9a92f8deEf5b857100B31259B998db",
+	"symbol": "Türkiye Basketbol Federasyonu Fan Token",
+	"name": "Türkiye Basketbol Federasyonu Fan Token",
+	"coingecko": "turkiye-basketbol-federasyonu-token",
+	"sources": [
+		"coingecko"
+	]
+}

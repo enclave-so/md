@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xC89d9aa9D9E54bb196319c6195AEA1038d2bc936",
+	"symbol": "Trend X",
+	"name": "Trend X",
+	"coingecko": "trend-x",
+	"sources": [
+		"coingecko"
+	]
+}

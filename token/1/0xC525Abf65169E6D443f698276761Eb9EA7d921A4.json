@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xC525Abf65169E6D443f698276761Eb9EA7d921A4",
+	"symbol": "Bitnex AI",
+	"name": "Bitnex AI",
+	"coingecko": "bitnex-ai",
+	"sources": [
+		"coingecko"
+	]
+}

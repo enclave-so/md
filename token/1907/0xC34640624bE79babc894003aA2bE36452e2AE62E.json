@@ -1,0 +1,10 @@
+{
+	"chain": 1907,
+	"address": "0xC34640624bE79babc894003aA2bE36452e2AE62E",
+	"symbol": "Bodrumspor Fan Token",
+	"name": "Bodrumspor Fan Token",
+	"coingecko": "bodrumspor-fan-token",
+	"sources": [
+		"coingecko"
+	]
+}

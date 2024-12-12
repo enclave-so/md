@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x3209d14Ff61766359E64aceFf91877cEC2AD968E",
+	"symbol": "CouponBay",
+	"name": "CouponBay",
+	"coingecko": "couponbay",
+	"sources": [
+		"coingecko"
+	]
+}

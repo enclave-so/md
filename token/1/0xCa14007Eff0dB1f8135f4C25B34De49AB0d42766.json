@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0xCa14007Eff0dB1f8135f4C25B34De49AB0d42766",
+	"symbol": "STRK",
+	"name": "StarkNet Token",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xCa14007Eff0dB1f8135f4C25B34De49AB0d42766.jpg",
+	"coingecko": "starknet",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 369,
+	"address": "0x43eaba2E2d2F32f1207A11a18679287Dc7700015",
+	"symbol": "Real BIG Coin",
+	"name": "Real BIG Coin",
+	"coingecko": "real-big-coin",
+	"sources": [
+		"coingecko"
+	]
+}

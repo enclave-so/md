@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x6C22910c6F75F828B305e57c6a54855D8adeAbf8",
+	"symbol": "Satoshis Vision",
+	"name": "Satoshis Vision",
+	"coingecko": "satoshis-vision",
+	"sources": [
+		"coingecko"
+	]
+}

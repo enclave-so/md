@@ -1,0 +1,10 @@
+{
+	"chain": 250,
+	"address": "0x37F5dae6039C8eC4c32ad7D3e2a07aCaa55C08f9",
+	"symbol": "CrossCurve BTC",
+	"name": "CrossCurve BTC",
+	"coingecko": "crosscurve-btc",
+	"sources": [
+		"coingecko"
+	]
+}

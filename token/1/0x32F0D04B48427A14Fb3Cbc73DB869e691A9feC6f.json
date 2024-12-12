@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x32F0D04B48427A14Fb3Cbc73DB869e691A9feC6f",
+	"symbol": "E C Inu",
+	"name": "E C Inu",
+	"coingecko": "e-c-inu",
+	"sources": [
+		"coingecko"
+	]
+}

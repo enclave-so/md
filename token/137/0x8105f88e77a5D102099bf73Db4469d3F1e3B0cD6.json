@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x8105f88e77a5D102099bf73Db4469d3F1e3B0cD6",
+	"symbol": "JennyCo",
+	"name": "JennyCo",
+	"coingecko": "jennyco",
+	"sources": [
+		"coingecko"
+	]
+}

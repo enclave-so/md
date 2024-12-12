@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x8DBD1331B1DE57835b24657ed21D0691e2E7362A",
+	"symbol": "SentimentAI",
+	"name": "SentimentAI",
+	"coingecko": "sentimentai",
+	"sources": [
+		"coingecko"
+	]
+}

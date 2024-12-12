@@ -1,0 +1,10 @@
+{
+	"chain": 1907,
+	"address": "0xFe56F9063F4B2c852E60Ef4c9F34377fe276D155",
+	"symbol": "Bitci EDU",
+	"name": "Bitci EDU",
+	"coingecko": "bitci-edu",
+	"sources": [
+		"coingecko"
+	]
+}

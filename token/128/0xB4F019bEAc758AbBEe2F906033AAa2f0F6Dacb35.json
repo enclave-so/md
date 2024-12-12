@@ -1,0 +1,13 @@
+{
+	"chain": 128,
+	"address": "0xB4F019bEAc758AbBEe2F906033AAa2f0F6Dacb35",
+	"symbol": "YFI",
+	"name": "Heco-Peg YFI Token",
+	"decimals": 18,
+	"logo": "https://hecoinfo.com/images/main/empty-token.png",
+	"coingecko": "yearn-finance",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x78a0A62Fba6Fb21A83FE8a3433d44C73a4017A6f",
+	"symbol": "Open Exchange Token",
+	"name": "Open Exchange Token",
+	"coingecko": "open-exchange-token",
+	"sources": [
+		"coingecko"
+	]
+}

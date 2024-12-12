@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x0DB56f603E754F3539157e2B207eFf10A4ebd641",
+	"symbol": "Whispers Of Decay",
+	"name": "Whispers Of Decay",
+	"coingecko": "whispers-of-decay",
+	"sources": [
+		"coingecko"
+	]
+}

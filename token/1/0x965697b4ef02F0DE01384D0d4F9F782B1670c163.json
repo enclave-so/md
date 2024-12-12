@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x965697b4ef02F0DE01384D0d4F9F782B1670c163",
+	"symbol": "Oxygen",
+	"name": "Oxygen",
+	"coingecko": "oxygen",
+	"sources": [
+		"coingecko"
+	]
+}

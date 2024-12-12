@@ -1,0 +1,11 @@
+{
+	"chain": 108,
+	"address": "0xC3C857a9E5Be042C8acF4F2827Aa053e93b5d039",
+	"symbol": "veTT",
+	"name": "veTT",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/thundercore/0xC3C857a9E5Be042C8acF4F2827Aa053e93b5d039.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

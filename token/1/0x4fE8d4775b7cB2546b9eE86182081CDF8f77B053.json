@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x4fE8d4775b7cB2546b9eE86182081CDF8f77B053",
+	"symbol": "KAIJUNO8",
+	"name": "KAIJUNO8",
+	"coingecko": "kaijuno8",
+	"sources": [
+		"coingecko"
+	]
+}

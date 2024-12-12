@@ -1,0 +1,10 @@
+{
+	"chain": 2016,
+	"address": "0x322eD5c386Ae1b3ba77dd4188250e46F581f6C2C",
+	"symbol": "ZINU",
+	"name": "ZINU",
+	"coingecko": "zombie-inu-2",
+	"sources": [
+		"coingecko"
+	]
+}

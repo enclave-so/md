@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x463fAe8f3c63AF7c40E50DF3BA28469BF9942f69",
+	"symbol": "Sabai Protocol",
+	"name": "Sabai Protocol",
+	"coingecko": "sabai-ecovers",
+	"sources": [
+		"coingecko"
+	]
+}

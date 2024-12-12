@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xb71Bdc7014F3740d0267d41D632cAB8371F8ba3C",
+	"symbol": "MILEI",
+	"name": "MILEI",
+	"coingecko": "milei",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x9f23562ec47249761222EF7Ac02b327a8C45Ba7D",
+	"symbol": "Leverage WBTC",
+	"name": "Leverage WBTC",
+	"coingecko": "leverage-wbtc",
+	"sources": [
+		"coingecko"
+	]
+}

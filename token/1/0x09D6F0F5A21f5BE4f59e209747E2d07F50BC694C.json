@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x09D6F0F5A21f5BE4f59e209747E2d07F50BC694C",
+	"symbol": "NFTFI",
+	"name": "NFTFI",
+	"coingecko": "nftfi",
+	"sources": [
+		"coingecko"
+	]
+}

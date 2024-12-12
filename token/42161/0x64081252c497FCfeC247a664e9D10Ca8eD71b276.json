@@ -1,0 +1,11 @@
+{
+	"chain": 42161,
+	"address": "0x64081252c497FCfeC247a664e9D10Ca8eD71b276",
+	"symbol": "ArbiFLUX",
+	"name": "ArbiFLUX",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x64081252c497FCfeC247a664e9D10Ca8eD71b276.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

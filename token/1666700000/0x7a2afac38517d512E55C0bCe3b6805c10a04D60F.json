@@ -1,0 +1,11 @@
+{
+	"chain": 1666700000,
+	"address": "0x7a2afac38517d512E55C0bCe3b6805c10a04D60F",
+	"symbol": "WONE",
+	"name": "Wrapped ONE",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/4344/small/Y88JAze.png",
+	"sources": [
+		"sushiswap"
+	]
+}

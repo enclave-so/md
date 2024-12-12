@@ -1,0 +1,13 @@
+{
+	"chain": 25,
+	"address": "0x66e428c3f67a68878562e79A0234c1F83c208770",
+	"symbol": "USDT",
+	"name": "Tether USD",
+	"decimals": 6,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x66e428c3f67a68878562e79A0234c1F83c208770.jpg",
+	"coingecko": "cronos-bridged-usdt-cronos",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

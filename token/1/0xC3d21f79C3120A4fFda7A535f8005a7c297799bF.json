@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xC3d21f79C3120A4fFda7A535f8005a7c297799bF",
+	"symbol": "Term Finance",
+	"name": "Term Finance",
+	"coingecko": "term-finance",
+	"sources": [
+		"coingecko"
+	]
+}

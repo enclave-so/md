@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x9dA913f4DCa9B210a232d588113047685a4ed4B1",
+	"symbol": "Dinari BRK.A",
+	"name": "Dinari BRK.A",
+	"coingecko": "dinari-brk-a-d",
+	"sources": [
+		"coingecko"
+	]
+}

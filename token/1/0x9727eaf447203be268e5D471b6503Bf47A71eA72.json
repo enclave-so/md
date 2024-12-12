@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x9727eaf447203be268e5D471b6503Bf47A71eA72",
+	"symbol": "Arky",
+	"name": "Arky",
+	"coingecko": "arky",
+	"sources": [
+		"coingecko"
+	]
+}

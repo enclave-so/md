@@ -1,0 +1,11 @@
+{
+	"chain": 1666600000,
+	"address": "0xF9565E8c4E13862f677F144B3cdC8700D9c4BA31",
+	"symbol": "HVILLE",
+	"name": "Harmonyville",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/harmony/0xF9565E8c4E13862f677F144B3cdC8700D9c4BA31.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

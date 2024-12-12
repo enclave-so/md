@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x4bD70556ae3F8a6eC6C4080A0C327B24325438f3",
+	"symbol": "HXRO",
+	"name": "HXRO",
+	"coingecko": "hxro",
+	"sources": [
+		"coingecko"
+	]
+}

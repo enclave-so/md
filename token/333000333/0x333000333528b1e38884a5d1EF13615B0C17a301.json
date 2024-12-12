@@ -1,0 +1,10 @@
+{
+	"chain": 333000333,
+	"address": "0x333000333528b1e38884a5d1EF13615B0C17a301",
+	"symbol": "MELD",
+	"name": "MELD",
+	"coingecko": "meld-2",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x11a819Beb0AA3327E39f52F90d65Cc9bCA499F33",
+	"symbol": "Scaleswap",
+	"name": "Scaleswap",
+	"coingecko": "scaleswap-token",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 167000,
+	"address": "0xA9d23408b9bA935c230493c40C73824Df71A0975",
+	"symbol": "Taiko",
+	"name": "Taiko",
+	"coingecko": "taiko",
+	"sources": [
+		"coingecko"
+	]
+}

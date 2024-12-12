@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x68d009F251FF3a271477F77aCb704C3b0F32a0c0",
+	"symbol": "CHAD",
+	"name": "CHAD",
+	"coingecko": "chad",
+	"sources": [
+		"coingecko"
+	]
+}

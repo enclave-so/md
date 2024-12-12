@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xa62cc35625B0C8dc1fAEA39d33625Bb4C15bD71C",
+	"symbol": "StormX",
+	"name": "StormX",
+	"coingecko": "storm",
+	"sources": [
+		"coingecko"
+	]
+}

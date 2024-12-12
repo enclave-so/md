@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x39162D9f64C0f9d64D14EAC3B6d5a15D3D569Eea",
+	"symbol": "MrWeb Finance",
+	"name": "MrWeb Finance",
+	"coingecko": "mrweb-finance-2",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x2C110867CA90e43D372C1C2E92990B00EA32818b",
+	"symbol": "Stabilize",
+	"name": "Stabilize",
+	"coingecko": "stabilize",
+	"sources": [
+		"coingecko"
+	]
+}

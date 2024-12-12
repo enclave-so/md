@@ -1,0 +1,10 @@
+{
+	"chain": 250,
+	"address": "0xC7aE4aB742F6b0b203f6710C87677005Bc45ad01",
+	"symbol": "Bridged Curve DAO Token (Stargate)",
+	"name": "Bridged Curve DAO Token (Stargate)",
+	"coingecko": "bridged-curve-dao-token-stargate",
+	"sources": [
+		"coingecko"
+	]
+}

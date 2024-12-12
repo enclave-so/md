@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0xc4010CfB5172D82A348bcBC8cD543733c1e9BF89",
+	"symbol": "HOT",
+	"name": "Holo",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xc4010CfB5172D82A348bcBC8cD543733c1e9BF89.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

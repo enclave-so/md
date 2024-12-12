@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x7Cc97Bf17C5AdaBe25F9D19D15A1eC8A1ad65f14",
+	"symbol": "Wolverinu",
+	"name": "Wolverinu",
+	"coingecko": "wolverinu-2",
+	"sources": [
+		"coingecko"
+	]
+}

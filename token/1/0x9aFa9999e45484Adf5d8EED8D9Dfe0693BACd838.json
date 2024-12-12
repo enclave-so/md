@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x9aFa9999e45484Adf5d8EED8D9Dfe0693BACd838",
+	"symbol": "Everyworld",
+	"name": "Everyworld",
+	"coingecko": "everyworld",
+	"sources": [
+		"coingecko"
+	]
+}

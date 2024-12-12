@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x08c32b0726C5684024ea6e141C50aDe9690bBdcc",
+	"symbol": "Stratos",
+	"name": "Stratos",
+	"coingecko": "stratos",
+	"sources": [
+		"coingecko"
+	]
+}

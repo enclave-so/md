@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xBFAbdE619ed5C4311811cF422562709710DB587d",
+	"symbol": "Diva Staking",
+	"name": "Diva Staking",
+	"coingecko": "diva-staking",
+	"sources": [
+		"coingecko"
+	]
+}

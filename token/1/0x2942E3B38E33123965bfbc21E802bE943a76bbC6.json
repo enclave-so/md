@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x2942E3B38E33123965bfbc21E802bE943a76bbC6",
+	"symbol": "EHash",
+	"name": "EHash",
+	"coingecko": "ehash",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0xBE5ACfd64358805616b5cbD5277B9A85011d7Cf1",
+	"symbol": "Pichi Finance",
+	"name": "Pichi Finance",
+	"coingecko": "pichi-finance",
+	"sources": [
+		"coingecko"
+	]
+}

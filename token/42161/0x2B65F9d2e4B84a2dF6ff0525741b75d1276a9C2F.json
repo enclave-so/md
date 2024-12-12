@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x2B65F9d2e4B84a2dF6ff0525741b75d1276a9C2F",
+	"symbol": "Staked USD0",
+	"name": "Staked USD0",
+	"coingecko": "usd0-liquid-bond",
+	"sources": [
+		"coingecko"
+	]
+}

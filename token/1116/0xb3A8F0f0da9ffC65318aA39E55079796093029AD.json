@@ -1,0 +1,10 @@
+{
+	"chain": 1116,
+	"address": "0xb3A8F0f0da9ffC65318aA39E55079796093029AD",
+	"symbol": "CoreDAO Staked CORE",
+	"name": "CoreDAO Staked CORE",
+	"coingecko": "coredao-staked-core",
+	"sources": [
+		"coingecko"
+	]
+}

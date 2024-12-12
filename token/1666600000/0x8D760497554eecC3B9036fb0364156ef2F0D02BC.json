@@ -1,0 +1,10 @@
+{
+	"chain": 1666600000,
+	"address": "0x8D760497554eecC3B9036fb0364156ef2F0D02BC",
+	"symbol": "HolyGrail",
+	"name": "HolyGrail",
+	"coingecko": "holygrail",
+	"sources": [
+		"coingecko"
+	]
+}

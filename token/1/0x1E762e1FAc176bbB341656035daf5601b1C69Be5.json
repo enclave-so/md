@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x1E762e1FAc176bbB341656035daf5601b1C69Be5",
+	"symbol": "Welshare Health Token",
+	"name": "Welshare Health Token",
+	"coingecko": "welshare-health-token",
+	"sources": [
+		"coingecko"
+	]
+}

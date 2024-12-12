@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x225C119fFaf1CaddCfCDb493283eDF4b816Bf773",
+	"symbol": "MEV Capital Usual Boosted USDT",
+	"name": "MEV Capital Usual Boosted USDT",
+	"coingecko": "mev-capital-usual-boosted-usdt",
+	"sources": [
+		"coingecko"
+	]
+}

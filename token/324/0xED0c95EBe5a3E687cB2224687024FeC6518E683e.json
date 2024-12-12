@@ -1,0 +1,10 @@
+{
+	"chain": 324,
+	"address": "0xED0c95EBe5a3E687cB2224687024FeC6518E683e",
+	"symbol": "Symbiosis Bridged BTC (zkSync)",
+	"name": "Symbiosis Bridged BTC (zkSync)",
+	"coingecko": "symbiosis-bridged-btc-zksync",
+	"sources": [
+		"coingecko"
+	]
+}

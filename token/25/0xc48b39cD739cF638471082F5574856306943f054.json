@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0xc48b39cD739cF638471082F5574856306943f054",
+	"symbol": "REP",
+	"name": "Augur",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xc48b39cD739cF638471082F5574856306943f054.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

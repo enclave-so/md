@@ -1,0 +1,10 @@
+{
+	"chain": 250,
+	"address": "0x477a9D5dF9bedA06F6b021136a2efe7BE242fCC9",
+	"symbol": "Trava Finance",
+	"name": "Trava Finance",
+	"coingecko": "trava-finance",
+	"sources": [
+		"coingecko"
+	]
+}

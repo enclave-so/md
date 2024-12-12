@@ -1,0 +1,10 @@
+{
+	"chain": 369,
+	"address": "0x02Dff78fDeDaF86D9dfbe9B3132aA3Ea72Ed1680",
+	"symbol": "Cola Token",
+	"name": "Cola Token",
+	"coingecko": "cola-token-2",
+	"sources": [
+		"coingecko"
+	]
+}

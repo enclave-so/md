@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x6cb25129314123BCD5aDCdc844cEaEEAd65A0896",
+	"symbol": "CULTUR",
+	"name": "CULTUR",
+	"coingecko": "cultur",
+	"sources": [
+		"coingecko"
+	]
+}

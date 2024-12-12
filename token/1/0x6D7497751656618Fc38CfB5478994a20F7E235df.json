@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x6D7497751656618Fc38CfB5478994a20F7E235df",
+	"symbol": "SPYRO",
+	"name": "SPYRO",
+	"coingecko": "spyro",
+	"sources": [
+		"coingecko"
+	]
+}

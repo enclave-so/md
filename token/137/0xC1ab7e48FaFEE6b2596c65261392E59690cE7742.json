@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xC1ab7e48FaFEE6b2596c65261392E59690cE7742",
+	"symbol": "Evercraft Ecotechnologies",
+	"name": "Evercraft Ecotechnologies",
+	"coingecko": "evercraft-ecotechnologies",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xd4Cce747e623CE2D72322892e5DB238e2A5eb4F3",
+	"symbol": "HumansCareFoundationWater",
+	"name": "HumansCareFoundationWater",
+	"coingecko": "humanscarefoundationwater",
+	"sources": [
+		"coingecko"
+	]
+}

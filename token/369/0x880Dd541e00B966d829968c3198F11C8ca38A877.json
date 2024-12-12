@@ -1,0 +1,10 @@
+{
+	"chain": 369,
+	"address": "0x880Dd541e00B966d829968c3198F11C8ca38A877",
+	"symbol": "PulseTrailerPark",
+	"name": "PulseTrailerPark",
+	"coingecko": "pulsetrailerpark",
+	"sources": [
+		"coingecko"
+	]
+}

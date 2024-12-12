@@ -1,0 +1,13 @@
+{
+	"chain": 137,
+	"address": "0x25788a1a171ec66Da6502f9975a15B609fF54CF6",
+	"symbol": "POOL",
+	"name": "PoolTogether",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x25788a1a171ec66Da6502f9975a15B609fF54CF6/logo.png",
+	"coingecko": "pooltogether",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

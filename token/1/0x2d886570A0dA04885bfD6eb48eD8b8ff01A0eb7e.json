@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x2d886570A0dA04885bfD6eb48eD8b8ff01A0eb7e",
+	"symbol": "Blockchain Bets",
+	"name": "Blockchain Bets",
+	"coingecko": "blockchain-bets",
+	"sources": [
+		"coingecko"
+	]
+}

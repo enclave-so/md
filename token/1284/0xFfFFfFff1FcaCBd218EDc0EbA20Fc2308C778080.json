@@ -1,0 +1,10 @@
+{
+	"chain": 1284,
+	"address": "0xFfFFfFff1FcaCBd218EDc0EbA20Fc2308C778080",
+	"symbol": "xcDOT",
+	"name": "xcDOT",
+	"coingecko": "xcdot",
+	"sources": [
+		"coingecko"
+	]
+}

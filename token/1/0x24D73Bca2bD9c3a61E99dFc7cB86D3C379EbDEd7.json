@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x24D73Bca2bD9c3a61E99dFc7cB86D3C379EbDEd7",
+	"symbol": "Micro AI",
+	"name": "Micro AI",
+	"coingecko": "micro-ai",
+	"sources": [
+		"coingecko"
+	]
+}

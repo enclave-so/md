@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x89C49A3fA372920aC23ce757A029e6936c0b8e02",
+	"symbol": "Crypto Unicorns",
+	"name": "Crypto Unicorns",
+	"coingecko": "crypto-unicorns",
+	"sources": [
+		"coingecko"
+	]
+}

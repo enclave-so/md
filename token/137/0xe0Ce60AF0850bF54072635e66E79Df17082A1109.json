@@ -1,0 +1,13 @@
+{
+	"chain": 137,
+	"address": "0xe0Ce60AF0850bF54072635e66E79Df17082A1109",
+	"symbol": "Propel",
+	"name": "Propel",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xe0ce60af0850bf54072635e66e79df17082a1109/logo.png",
+	"coingecko": "payrue",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

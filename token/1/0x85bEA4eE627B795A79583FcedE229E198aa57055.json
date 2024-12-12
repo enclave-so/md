@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x85bEA4eE627B795A79583FcedE229E198aa57055",
+	"symbol": "Marvin Inu",
+	"name": "Marvin Inu",
+	"coingecko": "marvin-inu-2",
+	"sources": [
+		"coingecko"
+	]
+}

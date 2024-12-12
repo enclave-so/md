@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x40379a439D4F6795B6fc9aa5687dB461677A2dBa",
+	"symbol": "Real USD",
+	"name": "Real USD",
+	"coingecko": "real-usd",
+	"sources": [
+		"coingecko"
+	]
+}

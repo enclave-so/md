@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x41A3Dba3D677E573636BA691a70ff2D606c29666",
+	"symbol": "BlockWallet",
+	"name": "BlockWallet",
+	"coingecko": "blank",
+	"sources": [
+		"coingecko"
+	]
+}

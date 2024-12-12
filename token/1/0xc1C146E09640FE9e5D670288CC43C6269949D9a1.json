@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xc1C146E09640FE9e5D670288CC43C6269949D9a1",
+	"symbol": "Robotrade",
+	"name": "Robotrade",
+	"coingecko": "robotrade",
+	"sources": [
+		"coingecko"
+	]
+}

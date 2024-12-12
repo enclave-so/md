@@ -1,0 +1,13 @@
+{
+	"chain": 137,
+	"address": "0x839F1a22A59eAAf26c85958712aB32F80FEA23d9",
+	"symbol": "AXN",
+	"name": "Axion",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x839F1a22A59eAAf26c85958712aB32F80FEA23d9/logo.png",
+	"coingecko": "axion",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

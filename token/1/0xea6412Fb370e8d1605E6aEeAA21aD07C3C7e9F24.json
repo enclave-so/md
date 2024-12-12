@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0xea6412Fb370e8d1605E6aEeAA21aD07C3C7e9F24",
+	"symbol": "Mush",
+	"name": "Mushroom",
+	"decimals": 18,
+	"logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/8502.png",
+	"sources": [
+		"sushiswap"
+	]
+}

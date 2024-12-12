@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x798bcB35D2d48C8cE7eF8171860B8d53A98b361d",
+	"symbol": "Meta Pool DAO",
+	"name": "Meta Pool DAO",
+	"coingecko": "meta-pool",
+	"sources": [
+		"coingecko"
+	]
+}

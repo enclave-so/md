@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xF47245e9A3Ba3dCa8B004E34afc1290B1d435a52",
+	"symbol": "Magical Blocks",
+	"name": "Magical Blocks",
+	"coingecko": "magical-blocks",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x6BC08509B36A98E829dFfAD49Fde5e412645d0a3",
+	"symbol": "WoofWork.io",
+	"name": "WoofWork.io",
+	"coingecko": "woofwork-io",
+	"sources": [
+		"coingecko"
+	]
+}

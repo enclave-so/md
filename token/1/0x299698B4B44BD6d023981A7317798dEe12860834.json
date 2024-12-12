@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0x299698B4B44BD6d023981A7317798dEe12860834",
+	"symbol": "NFP",
+	"name": "New Frontier Presents",
+	"decimals": 9,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x299698B4B44BD6d023981A7317798dEe12860834.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

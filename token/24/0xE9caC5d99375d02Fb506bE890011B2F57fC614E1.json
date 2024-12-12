@@ -1,0 +1,10 @@
+{
+	"chain": 24,
+	"address": "0xE9caC5d99375d02Fb506bE890011B2F57fC614E1",
+	"symbol": "Kaidex",
+	"name": "Kaidex",
+	"coingecko": "kaidex",
+	"sources": [
+		"coingecko"
+	]
+}

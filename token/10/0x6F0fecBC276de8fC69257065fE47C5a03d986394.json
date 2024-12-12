@@ -1,0 +1,10 @@
+{
+	"chain": 10,
+	"address": "0x6F0fecBC276de8fC69257065fE47C5a03d986394",
+	"symbol": "Popcorn",
+	"name": "Popcorn",
+	"coingecko": "popcorn",
+	"sources": [
+		"coingecko"
+	]
+}

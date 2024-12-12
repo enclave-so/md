@@ -1,0 +1,10 @@
+{
+	"chain": 1111,
+	"address": "0xB3c3530C3e54914df9F4c5875fb682e547eeCbe2",
+	"symbol": "PLAY Token",
+	"name": "PLAY Token",
+	"coingecko": "play-token-2",
+	"sources": [
+		"coingecko"
+	]
+}

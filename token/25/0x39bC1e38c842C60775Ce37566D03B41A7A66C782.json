@@ -1,0 +1,13 @@
+{
+	"chain": 25,
+	"address": "0x39bC1e38c842C60775Ce37566D03B41A7A66C782",
+	"symbol": "FER",
+	"name": "Ferro Token",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x39bC1e38c842C60775Ce37566D03B41A7A66C782.jpg",
+	"coingecko": "ferro",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

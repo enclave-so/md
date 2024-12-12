@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x14E5386f47466A463f85D151653E1736c0c50Fc3",
+	"symbol": "Arrland RUM",
+	"name": "Arrland RUM",
+	"coingecko": "arrland-rum",
+	"sources": [
+		"coingecko"
+	]
+}

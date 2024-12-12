@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x8dCE83ECa4af45dbe618Da1779F9Aaca43201084",
+	"symbol": "AlphaKEK.AI",
+	"name": "AlphaKEK.AI",
+	"coingecko": "alphakek-ai",
+	"sources": [
+		"coingecko"
+	]
+}

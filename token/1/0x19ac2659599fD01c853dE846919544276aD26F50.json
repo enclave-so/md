@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x19ac2659599fD01c853dE846919544276aD26F50",
+	"symbol": "Covenant",
+	"name": "Covenant",
+	"coingecko": "covenant-child",
+	"sources": [
+		"coingecko"
+	]
+}

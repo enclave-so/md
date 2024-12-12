@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xE86DF1970055e9CaEe93Dae9B7D5fD71595d0e18",
+	"symbol": "Bitcoin20",
+	"name": "Bitcoin20",
+	"coingecko": "bitcoin20",
+	"sources": [
+		"coingecko"
+	]
+}

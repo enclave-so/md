@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x7E7Ef0ee0305c1C195fcAe22FD7b207a813EEF86",
+	"symbol": "Fiona",
+	"name": "Fiona",
+	"coingecko": "fiona",
+	"sources": [
+		"coingecko"
+	]
+}

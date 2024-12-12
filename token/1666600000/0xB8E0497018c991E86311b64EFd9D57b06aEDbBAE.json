@@ -1,0 +1,11 @@
+{
+	"chain": 1666600000,
+	"address": "0xB8E0497018c991E86311b64EFd9D57b06aEDbBAE",
+	"symbol": "VINCI",
+	"name": "DaVinci Token",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/harmony/assets/0xB8E0497018c991E86311b64EFd9D57b06aEDbBAE/logo.png",
+	"sources": [
+		"sushiswap"
+	]
+}

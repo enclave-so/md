@@ -1,0 +1,10 @@
+{
+	"chain": 295,
+	"address": "0x00000000000000000000000000000000001E4d82",
+	"symbol": "XSGD",
+	"name": "XSGD",
+	"coingecko": "xsgd",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0xA0913e0D7A85954e89452e7Ccb8d1235db74C330",
+	"symbol": "ENS",
+	"name": "Ethereum Name Service",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xA0913e0D7A85954e89452e7Ccb8d1235db74C330.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

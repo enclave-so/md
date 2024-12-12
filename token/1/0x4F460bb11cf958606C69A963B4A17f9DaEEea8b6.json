@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x4F460bb11cf958606C69A963B4A17f9DaEEea8b6",
+	"symbol": "f(x) Protocol Morpho USDC",
+	"name": "f(x) Protocol Morpho USDC",
+	"coingecko": "f-x-protocol-morpho-usdc",
+	"sources": [
+		"coingecko"
+	]
+}

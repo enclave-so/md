@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x3F374ed3C8e61A0d250f275609be2219005c021e",
+	"symbol": "Arcadium",
+	"name": "Arcadium",
+	"coingecko": "arcadium",
+	"sources": [
+		"coingecko"
+	]
+}

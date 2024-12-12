@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x61aEe582896064ecD5D85D66a32DDEB5574A699D",
+	"symbol": "Hyve",
+	"name": "Hyve",
+	"coingecko": "hyve",
+	"sources": [
+		"coingecko"
+	]
+}

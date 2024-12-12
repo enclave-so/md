@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xc71A7e46266A9a78212a5d87b030F8D1Ce942Efd",
+	"symbol": "Coinbet Finance",
+	"name": "Coinbet Finance",
+	"coingecko": "coinbet-finance",
+	"sources": [
+		"coingecko"
+	]
+}

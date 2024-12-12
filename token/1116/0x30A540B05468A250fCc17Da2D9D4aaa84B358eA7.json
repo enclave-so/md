@@ -1,0 +1,10 @@
+{
+	"chain": 1116,
+	"address": "0x30A540B05468A250fCc17Da2D9D4aaa84B358eA7",
+	"symbol": "Colend",
+	"name": "Colend",
+	"coingecko": "colend",
+	"sources": [
+		"coingecko"
+	]
+}

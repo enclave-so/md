@@ -1,0 +1,13 @@
+{
+	"chain": 25,
+	"address": "0x276E28664DEC4982F892A5B836e11F23040b6995",
+	"symbol": "LTIA",
+	"name": "Liquid Tia",
+	"decimals": 6,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x276E28664DEC4982F892A5B836e11F23040b6995.jpg",
+	"coingecko": "veno-staked-tia",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

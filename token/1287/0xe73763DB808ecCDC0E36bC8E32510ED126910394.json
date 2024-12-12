@@ -1,0 +1,11 @@
+{
+	"chain": 1287,
+	"address": "0xe73763DB808ecCDC0E36bC8E32510ED126910394",
+	"symbol": "WGLMR",
+	"name": "Wrapped Glimmer",
+	"decimals": 18,
+	"logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/6836.png",
+	"sources": [
+		"sushiswap"
+	]
+}

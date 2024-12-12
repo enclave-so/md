@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x9778ac3D5A2f916aA9aBf1eb85C207d990ca2655",
+	"symbol": "OG SMINEM",
+	"name": "OG SMINEM",
+	"coingecko": "og-sminem",
+	"sources": [
+		"coingecko"
+	]
+}

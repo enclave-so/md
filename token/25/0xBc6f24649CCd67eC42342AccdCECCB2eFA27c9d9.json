@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0xBc6f24649CCd67eC42342AccdCECCB2eFA27c9d9",
+	"symbol": "LINK",
+	"name": "LINK",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xBc6f24649CCd67eC42342AccdCECCB2eFA27c9d9.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

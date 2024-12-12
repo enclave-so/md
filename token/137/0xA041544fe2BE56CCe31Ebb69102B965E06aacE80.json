@@ -1,0 +1,11 @@
+{
+	"chain": 137,
+	"address": "0xA041544fe2BE56CCe31Ebb69102B965E06aacE80",
+	"symbol": "BOND",
+	"name": "BarnBridge Governance Token",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xA041544fe2BE56CCe31Ebb69102B965E06aacE80/logo.png",
+	"sources": [
+		"sushiswap"
+	]
+}

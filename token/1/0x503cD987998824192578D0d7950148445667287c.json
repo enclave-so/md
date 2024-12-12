@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x503cD987998824192578D0d7950148445667287c",
+	"symbol": "FOGnet",
+	"name": "FOGnet",
+	"coingecko": "fognet",
+	"sources": [
+		"coingecko"
+	]
+}

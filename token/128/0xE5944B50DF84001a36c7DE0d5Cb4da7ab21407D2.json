@@ -1,0 +1,10 @@
+{
+	"chain": 128,
+	"address": "0xE5944B50DF84001a36c7DE0d5Cb4da7ab21407D2",
+	"symbol": "xNFT Protocol",
+	"name": "xNFT Protocol",
+	"coingecko": "xnft",
+	"sources": [
+		"coingecko"
+	]
+}

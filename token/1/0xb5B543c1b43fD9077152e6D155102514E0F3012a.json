@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xb5B543c1b43fD9077152e6D155102514E0F3012a",
+	"symbol": "SAM",
+	"name": "SAM",
+	"coingecko": "sam",
+	"sources": [
+		"coingecko"
+	]
+}

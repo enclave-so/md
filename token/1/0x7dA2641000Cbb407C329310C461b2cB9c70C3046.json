@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x7dA2641000Cbb407C329310C461b2cB9c70C3046",
+	"symbol": "Delysium",
+	"name": "Delysium",
+	"coingecko": "delysium",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x738865301A9b7Dd80Dc3666dD48cF034ec42bdDa",
+	"symbol": "Agoras: Tau Net",
+	"name": "Agoras: Tau Net",
+	"coingecko": "agoras-currency-of-tau",
+	"sources": [
+		"coingecko"
+	]
+}

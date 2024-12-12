@@ -1,0 +1,10 @@
+{
+	"chain": 333000333,
+	"address": "0x333008CfcBFBEfffbB546Abf237ADc4061331c01",
+	"symbol": "Meld Bridged BTC (Meld)",
+	"name": "Meld Bridged BTC (Meld)",
+	"coingecko": "meld-bridged-btc-meld",
+	"sources": [
+		"coingecko"
+	]
+}

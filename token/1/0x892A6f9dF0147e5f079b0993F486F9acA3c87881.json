@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x892A6f9dF0147e5f079b0993F486F9acA3c87881",
+	"symbol": "xFUND",
+	"name": "xFUND",
+	"coingecko": "xfund",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x3fE7940616e5Bc47b0775a0dccf6237893353bB4",
+	"symbol": "IdleDAI (Best Yield)",
+	"name": "IdleDAI (Best Yield)",
+	"coingecko": "idle-dai-yield",
+	"sources": [
+		"coingecko"
+	]
+}

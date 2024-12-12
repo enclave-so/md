@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x6968676661Ac9851C38907bDfcC22d5Dd77b564d",
+	"symbol": "Matt Furie's Boys Club",
+	"name": "Matt Furie's Boys Club",
+	"coingecko": "matt-furie-s-boys-club",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x7c28310CC0b8d898c57b93913098e74a3ba23228",
+	"symbol": "PEACE COIN",
+	"name": "PEACE COIN",
+	"coingecko": "peace-coin",
+	"sources": [
+		"coingecko"
+	]
+}

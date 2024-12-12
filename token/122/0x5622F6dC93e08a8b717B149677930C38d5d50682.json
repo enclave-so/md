@@ -1,0 +1,10 @@
+{
+	"chain": 122,
+	"address": "0x5622F6dC93e08a8b717B149677930C38d5d50682",
+	"symbol": "Bridged Wrapped Ether (Fuse)",
+	"name": "Bridged Wrapped Ether (Fuse)",
+	"coingecko": "bridged-wrapped-ether-fuse",
+	"sources": [
+		"coingecko"
+	]
+}

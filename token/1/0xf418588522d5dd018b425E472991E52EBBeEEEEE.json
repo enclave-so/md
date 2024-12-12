@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xf418588522d5dd018b425E472991E52EBBeEEEEE",
+	"symbol": "Push Protocol",
+	"name": "Push Protocol",
+	"coingecko": "ethereum-push-notification-service",
+	"sources": [
+		"coingecko"
+	]
+}

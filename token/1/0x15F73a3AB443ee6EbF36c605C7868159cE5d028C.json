@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x15F73a3AB443ee6EbF36c605C7868159cE5d028C",
+	"symbol": "SmartsetToken",
+	"name": "SmartsetToken",
+	"coingecko": "smartsettoken",
+	"sources": [
+		"coingecko"
+	]
+}

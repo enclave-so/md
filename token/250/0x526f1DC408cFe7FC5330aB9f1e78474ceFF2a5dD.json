@@ -1,0 +1,10 @@
+{
+	"chain": 250,
+	"address": "0x526f1DC408cFe7FC5330aB9f1e78474ceFF2a5dD",
+	"symbol": "VEMP",
+	"name": "VEMP",
+	"coingecko": "vempire-ddao",
+	"sources": [
+		"coingecko"
+	]
+}

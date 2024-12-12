@@ -1,0 +1,10 @@
+{
+	"chain": 250,
+	"address": "0xC758295Cd1A564cdb020a78a681a838CF8e0627D",
+	"symbol": "FantomStarter",
+	"name": "FantomStarter",
+	"coingecko": "fantomstarter",
+	"sources": [
+		"coingecko"
+	]
+}

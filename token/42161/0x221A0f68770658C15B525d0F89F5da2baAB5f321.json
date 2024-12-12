@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x221A0f68770658C15B525d0F89F5da2baAB5f321",
+	"symbol": "Open Dollar",
+	"name": "Open Dollar",
+	"coingecko": "open-dollar",
+	"sources": [
+		"coingecko"
+	]
+}

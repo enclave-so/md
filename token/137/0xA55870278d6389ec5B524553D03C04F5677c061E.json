@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xA55870278d6389ec5B524553D03C04F5677c061E",
+	"symbol": "XCAD Network",
+	"name": "XCAD Network",
+	"coingecko": "xcad-network",
+	"sources": [
+		"coingecko"
+	]
+}

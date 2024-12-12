@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xf8E9F10c22840b613cdA05A0c5Fdb59A4d6cd7eF",
+	"symbol": "Dogs Of Elon",
+	"name": "Dogs Of Elon",
+	"coingecko": "dogsofelon",
+	"sources": [
+		"coingecko"
+	]
+}

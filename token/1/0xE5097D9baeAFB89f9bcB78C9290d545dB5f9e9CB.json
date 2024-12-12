@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xE5097D9baeAFB89f9bcB78C9290d545dB5f9e9CB",
+	"symbol": "Hummingbot",
+	"name": "Hummingbot",
+	"coingecko": "hummingbot",
+	"sources": [
+		"coingecko"
+	]
+}

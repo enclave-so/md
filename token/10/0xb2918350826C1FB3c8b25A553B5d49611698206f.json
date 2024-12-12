@@ -1,0 +1,10 @@
+{
+	"chain": 10,
+	"address": "0xb2918350826C1FB3c8b25A553B5d49611698206f",
+	"symbol": "Ionic Tether USD",
+	"name": "Ionic Tether USD",
+	"coingecko": "ionic-tether-usd",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x947AEb02304391f8fbE5B25D7D98D649b57b1788",
+	"symbol": "Mandala Exchange",
+	"name": "Mandala Exchange",
+	"coingecko": "mandala-exchange-token",
+	"sources": [
+		"coingecko"
+	]
+}

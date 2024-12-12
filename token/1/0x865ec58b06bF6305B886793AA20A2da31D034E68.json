@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x865ec58b06bF6305B886793AA20A2da31D034E68",
+	"symbol": "Mossland",
+	"name": "Mossland",
+	"coingecko": "mossland",
+	"sources": [
+		"coingecko"
+	]
+}

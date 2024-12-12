@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0x0DdB6540aFD29b14F7E02D1292BD675b5Ceea896",
+	"symbol": "LMWR",
+	"name": "LimeWire",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x0DdB6540aFD29b14F7E02D1292BD675b5Ceea896.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

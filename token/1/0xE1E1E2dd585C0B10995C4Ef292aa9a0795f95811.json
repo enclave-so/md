@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xE1E1E2dd585C0B10995C4Ef292aa9a0795f95811",
+	"symbol": "EigenElephant",
+	"name": "EigenElephant",
+	"coingecko": "eigenelephant",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x96543ef8d2C75C26387c1a319ae69c0BEE6f3fe7",
+	"symbol": "Kujira",
+	"name": "Kujira",
+	"coingecko": "kujira",
+	"sources": [
+		"coingecko"
+	]
+}

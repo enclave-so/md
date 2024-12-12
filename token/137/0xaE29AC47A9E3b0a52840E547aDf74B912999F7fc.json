@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xaE29AC47A9E3b0a52840E547aDf74B912999F7fc",
+	"symbol": "EVE",
+	"name": "EVE",
+	"coingecko": "eve-exchange",
+	"sources": [
+		"coingecko"
+	]
+}

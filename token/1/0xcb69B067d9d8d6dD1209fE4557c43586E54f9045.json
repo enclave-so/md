@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xcb69B067d9d8d6dD1209fE4557c43586E54f9045",
+	"symbol": "Possum",
+	"name": "Possum",
+	"coingecko": "possum",
+	"sources": [
+		"coingecko"
+	]
+}

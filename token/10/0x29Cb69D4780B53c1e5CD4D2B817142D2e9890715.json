@@ -1,0 +1,10 @@
+{
+	"chain": 10,
+	"address": "0x29Cb69D4780B53c1e5CD4D2B817142D2e9890715",
+	"symbol": "PoolTogether Prize WETH - Aave",
+	"name": "PoolTogether Prize WETH - Aave",
+	"coingecko": "pooltogether-prize-weth-aave",
+	"sources": [
+		"coingecko"
+	]
+}

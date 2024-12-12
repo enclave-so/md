@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x88d50B466BE55222019D71F9E8fAe17f5f45FCA1",
+	"symbol": "Cryptaur",
+	"name": "Cryptaur",
+	"coingecko": "cryptaur",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x01d1a890D40d890d59795aFCce22F5AdbB511A3a",
+	"symbol": "KUMA Protocol Wrapped FRK",
+	"name": "KUMA Protocol Wrapped FRK",
+	"coingecko": "kuma-protocol-wrapped-frk",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"chain": 25,
+	"address": "0x9Ea69FD44a7BD7265d5B19AE8cb2E19F80DA059c",
+	"symbol": "EARN",
+	"name": "EARN NETWORK",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x9Ea69FD44a7BD7265d5B19AE8cb2E19F80DA059c.jpg",
+	"coingecko": "earn-network-2",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

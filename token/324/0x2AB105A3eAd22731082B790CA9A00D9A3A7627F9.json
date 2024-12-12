@@ -1,0 +1,10 @@
+{
+	"chain": 324,
+	"address": "0x2AB105A3eAd22731082B790CA9A00D9A3A7627F9",
+	"symbol": "Sygnum FIUSD Liquidity Fund",
+	"name": "Sygnum FIUSD Liquidity Fund",
+	"coingecko": "sygnum-fiusd-liquidity-fund",
+	"sources": [
+		"coingecko"
+	]
+}

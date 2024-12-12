@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0xC9C4fd7579133701FA2769b6955e7E56bb386DB1",
+	"symbol": "Bridge Oracle",
+	"name": "Bridge Oracle",
+	"coingecko": "bridge-oracle",
+	"sources": [
+		"coingecko"
+	]
+}

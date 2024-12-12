@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x1D1498166DDCEeE616a6d99868e1E0677300056f",
+	"symbol": "Space Token",
+	"name": "Space Token",
+	"coingecko": "space-token-bsc",
+	"sources": [
+		"coingecko"
+	]
+}

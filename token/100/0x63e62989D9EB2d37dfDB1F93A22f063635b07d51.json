@@ -1,0 +1,10 @@
+{
+	"chain": 100,
+	"address": "0x63e62989D9EB2d37dfDB1F93A22f063635b07d51",
+	"symbol": "Minerva Wallet",
+	"name": "Minerva Wallet",
+	"coingecko": "minerva-wallet",
+	"sources": [
+		"coingecko"
+	]
+}

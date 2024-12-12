@@ -1,0 +1,13 @@
+{
+	"chain": 25,
+	"address": "0x181cC996Eea445212e61bD45FF742b88c3907287",
+	"symbol": "KREES",
+	"name": "Krees Coin",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x181cC996Eea445212e61bD45FF742b88c3907287.jpg",
+	"coingecko": "krees",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

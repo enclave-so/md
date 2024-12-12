@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xd0929d411954c47438dc1d871dd6081F5C5e149c",
+	"symbol": "Refereum",
+	"name": "Refereum",
+	"coingecko": "refereum",
+	"sources": [
+		"coingecko"
+	]
+}

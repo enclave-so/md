@@ -1,0 +1,10 @@
+{
+	"chain": 19,
+	"address": "0xD7565b16b65376e2Ddb6c71E7971c7185A7Ff3Ff",
+	"symbol": "OracleSwap",
+	"name": "OracleSwap",
+	"coingecko": "oracleswap",
+	"sources": [
+		"coingecko"
+	]
+}

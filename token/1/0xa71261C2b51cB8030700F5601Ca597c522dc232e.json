@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xa71261C2b51cB8030700F5601Ca597c522dc232e",
+	"symbol": "Sage Market",
+	"name": "Sage Market",
+	"coingecko": "sage-market",
+	"sources": [
+		"coingecko"
+	]
+}

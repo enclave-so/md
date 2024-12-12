@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x2BcbEC0296cDDDa988eA88031e43Fe247fa6D341",
+	"symbol": "Moo Tun",
+	"name": "Moo Tun",
+	"coingecko": "moo-tun",
+	"sources": [
+		"coingecko"
+	]
+}

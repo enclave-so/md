@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0x982b59aaE4f0BC66960b4BF06d6fE96b9F33d3F7",
+	"symbol": "TIA",
+	"name": "TIA",
+	"decimals": 6,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x982b59aaE4f0BC66960b4BF06d6fE96b9F33d3F7.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

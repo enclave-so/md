@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xE07C41E9CDf7e0a7800e4bbF90d414654fD6413D",
+	"symbol": "CBDC",
+	"name": "CBDC",
+	"coingecko": "cbdc",
+	"sources": [
+		"coingecko"
+	]
+}

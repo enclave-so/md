@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x8c15Ef5b4B21951d50E53E4fbdA8298FFAD25057",
+	"symbol": "Function X",
+	"name": "Function X",
+	"coingecko": "fx-coin",
+	"sources": [
+		"coingecko"
+	]
+}

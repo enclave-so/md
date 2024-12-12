@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0xafA5676a6EF790F08290dd4a45e0ec2a5cC5cdaB",
+	"symbol": "Cat \u0026 Mouse",
+	"name": "Cat \u0026 Mouse",
+	"coingecko": "cat-mouse",
+	"sources": [
+		"coingecko"
+	]
+}

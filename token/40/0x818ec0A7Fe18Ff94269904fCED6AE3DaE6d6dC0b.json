@@ -1,0 +1,13 @@
+{
+	"chain": 40,
+	"address": "0x818ec0A7Fe18Ff94269904fCED6AE3DaE6d6dC0b",
+	"symbol": "anyUSDC",
+	"name": "USD Coin (Anyswap)",
+	"decimals": 6,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/telos/0x818ec0A7Fe18Ff94269904fCED6AE3DaE6d6dC0b.jpg",
+	"coingecko": "multichain-bridged-usdc-telos",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x7995ab36bB307Afa6A683C24a25d90Dc1Ea83566",
+	"symbol": "HitChain",
+	"name": "HitChain",
+	"coingecko": "hitchain",
+	"sources": [
+		"coingecko"
+	]
+}

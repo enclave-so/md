@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0x798D1bE841a82a273720CE31c822C61a67a601C3",
+	"symbol": "DIGG",
+	"name": "Digg",
+	"decimals": 9,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x798D1bE841a82a273720CE31c822C61a67a601C3/logo.png",
+	"coingecko": "digg",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

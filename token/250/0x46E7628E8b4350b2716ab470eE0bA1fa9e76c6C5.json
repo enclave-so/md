@@ -1,0 +1,13 @@
+{
+	"chain": 250,
+	"address": "0x46E7628E8b4350b2716ab470eE0bA1fa9e76c6C5",
+	"symbol": "BAND",
+	"name": "Band",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/band.jpg",
+	"coingecko": "band-protocol",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

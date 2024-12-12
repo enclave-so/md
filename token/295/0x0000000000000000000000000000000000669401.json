@@ -1,0 +1,10 @@
+{
+	"chain": 295,
+	"address": "0x0000000000000000000000000000000000669401",
+	"symbol": "Hedera Guild Game",
+	"name": "Hedera Guild Game",
+	"coingecko": "hedera-guild-game",
+	"sources": [
+		"coingecko"
+	]
+}

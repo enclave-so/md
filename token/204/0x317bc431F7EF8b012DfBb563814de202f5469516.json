@@ -1,0 +1,10 @@
+{
+	"chain": 204,
+	"address": "0x317bc431F7EF8b012DfBb563814de202f5469516",
+	"symbol": "WalkMining Governance",
+	"name": "WalkMining Governance",
+	"coingecko": "walkmining-governance",
+	"sources": [
+		"coingecko"
+	]
+}

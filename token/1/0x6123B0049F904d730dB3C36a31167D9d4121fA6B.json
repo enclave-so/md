@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x6123B0049F904d730dB3C36a31167D9d4121fA6B",
+	"symbol": "Ribbon Finance",
+	"name": "Ribbon Finance",
+	"coingecko": "ribbon-finance",
+	"sources": [
+		"coingecko"
+	]
+}

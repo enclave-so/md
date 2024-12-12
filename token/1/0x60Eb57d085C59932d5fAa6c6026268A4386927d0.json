@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x60Eb57d085C59932d5fAa6c6026268A4386927d0",
+	"symbol": "LOCG",
+	"name": "LOCG",
+	"coingecko": "locgame",
+	"sources": [
+		"coingecko"
+	]
+}

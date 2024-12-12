@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xF921ae2DAC5fa128DC0F6168Bf153ea0943d2D43",
+	"symbol": "Fire Protocol",
+	"name": "Fire Protocol",
+	"coingecko": "fire-protocol",
+	"sources": [
+		"coingecko"
+	]
+}

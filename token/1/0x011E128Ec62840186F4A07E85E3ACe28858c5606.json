@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x011E128Ec62840186F4A07E85E3ACe28858c5606",
+	"symbol": "Valeria",
+	"name": "Valeria",
+	"coingecko": "valeria",
+	"sources": [
+		"coingecko"
+	]
+}

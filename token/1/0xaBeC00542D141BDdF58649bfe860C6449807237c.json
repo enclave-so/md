@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xaBeC00542D141BDdF58649bfe860C6449807237c",
+	"symbol": "CruxDecussata",
+	"name": "CruxDecussata",
+	"coingecko": "x-com",
+	"sources": [
+		"coingecko"
+	]
+}

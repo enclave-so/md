@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xb990d93C308A31c737Aa91839E8bA8eAF4017D7A",
+	"symbol": "PirateCash",
+	"name": "PirateCash",
+	"coingecko": "piratecash",
+	"sources": [
+		"coingecko"
+	]
+}

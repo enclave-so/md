@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x6873C95307e13bEB58Fb8FCdDf9a99667655c9e4",
+	"symbol": "zkGUN",
+	"name": "zkGUN",
+	"coingecko": "zkgun",
+	"sources": [
+		"coingecko"
+	]
+}

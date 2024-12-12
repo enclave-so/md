@@ -1,0 +1,10 @@
+{
+	"chain": 1285,
+	"address": "0xBb8d88bcD9749636BC4D2bE22aaC4Bb3B01A58F1",
+	"symbol": "Moonwell Apollo",
+	"name": "Moonwell Apollo",
+	"coingecko": "moonwell",
+	"sources": [
+		"coingecko"
+	]
+}

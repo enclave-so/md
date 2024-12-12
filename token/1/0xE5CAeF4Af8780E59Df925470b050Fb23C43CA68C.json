@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xE5CAeF4Af8780E59Df925470b050Fb23C43CA68C",
+	"symbol": "Ferrum Network",
+	"name": "Ferrum Network",
+	"coingecko": "ferrum-network",
+	"sources": [
+		"coingecko"
+	]
+}

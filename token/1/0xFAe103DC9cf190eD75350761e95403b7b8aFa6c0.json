@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xFAe103DC9cf190eD75350761e95403b7b8aFa6c0",
+	"symbol": "Restaked Swell ETH",
+	"name": "Restaked Swell ETH",
+	"coingecko": "restaked-swell-eth",
+	"sources": [
+		"coingecko"
+	]
+}

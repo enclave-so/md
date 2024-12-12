@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x808C16ACe7404777FE24a6777a9Cb2335Aa82451",
+	"symbol": "PERRO DINERO",
+	"name": "PERRO DINERO",
+	"coingecko": "perro-dinero",
+	"sources": [
+		"coingecko"
+	]
+}

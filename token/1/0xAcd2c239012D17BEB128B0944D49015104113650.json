@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xAcd2c239012D17BEB128B0944D49015104113650",
+	"symbol": "Karrat",
+	"name": "Karrat",
+	"coingecko": "karrat",
+	"sources": [
+		"coingecko"
+	]
+}

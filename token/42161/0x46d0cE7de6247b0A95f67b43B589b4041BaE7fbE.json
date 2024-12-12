@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x46d0cE7de6247b0A95f67b43B589b4041BaE7fbE",
+	"symbol": "Loopring",
+	"name": "Loopring",
+	"coingecko": "loopring",
+	"sources": [
+		"coingecko"
+	]
+}

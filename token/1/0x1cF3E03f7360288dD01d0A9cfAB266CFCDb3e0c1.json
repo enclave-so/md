@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x1cF3E03f7360288dD01d0A9cfAB266CFCDb3e0c1",
+	"symbol": "EchoLink",
+	"name": "EchoLink",
+	"coingecko": "echolink-2",
+	"sources": [
+		"coingecko"
+	]
+}

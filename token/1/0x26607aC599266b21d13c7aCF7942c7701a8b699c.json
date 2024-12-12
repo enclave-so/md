@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0x26607aC599266b21d13c7aCF7942c7701a8b699c",
+	"symbol": "PIPT",
+	"name": "Power Index Pool Token",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x26607aC599266b21d13c7aCF7942c7701a8b699c/logo.png",
+	"sources": [
+		"sushiswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x559b7bfC48a5274754b08819F75C5F27aF53D53b",
+	"symbol": "Qi Dao",
+	"name": "Qi Dao",
+	"coingecko": "qi-dao",
+	"sources": [
+		"coingecko"
+	]
+}

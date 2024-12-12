@@ -1,0 +1,10 @@
+{
+	"chain": 388,
+	"address": "0xFB3338E2cA713B344D6A45B36525c3db156e492F",
+	"symbol": "Fulcrom",
+	"name": "Fulcrom",
+	"coingecko": "fulcrom",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xEf89c37fe9E5c906b404cd7Edae4a2992b5d25Fa",
+	"symbol": "Time Alliance Guild Time",
+	"name": "Time Alliance Guild Time",
+	"coingecko": "time-alliance-guild-time",
+	"sources": [
+		"coingecko"
+	]
+}

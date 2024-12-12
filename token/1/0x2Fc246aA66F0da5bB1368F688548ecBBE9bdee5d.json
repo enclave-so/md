@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x2Fc246aA66F0da5bB1368F688548ecBBE9bdee5d",
+	"symbol": "TEMCO",
+	"name": "TEMCO",
+	"coingecko": "temco",
+	"sources": [
+		"coingecko"
+	]
+}

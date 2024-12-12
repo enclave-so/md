@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xeB51D9A39AD5EEF215dC0Bf39a8821ff804A0F01",
+	"symbol": "Origin LGNS",
+	"name": "Origin LGNS",
+	"coingecko": "origin-lgns",
+	"sources": [
+		"coingecko"
+	]
+}

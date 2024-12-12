@@ -1,0 +1,13 @@
+{
+	"chain": 137,
+	"address": "0xd8cA34fd379d9ca3C6Ee3b3905678320F5b45195",
+	"symbol": "gOHM",
+	"name": "Governance Ohm",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xd8cA34fd379d9ca3C6Ee3b3905678320F5b45195/logo.png",
+	"coingecko": "governance-ohm",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

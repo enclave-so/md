@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x9cA8530CA349c966Fe9ef903Df17a75B8A778927",
+	"symbol": "Lightchain AI",
+	"name": "Lightchain AI",
+	"coingecko": "lightchain-ai",
+	"sources": [
+		"coingecko"
+	]
+}

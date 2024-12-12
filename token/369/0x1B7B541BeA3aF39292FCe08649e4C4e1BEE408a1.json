@@ -1,0 +1,10 @@
+{
+	"chain": 369,
+	"address": "0x1B7B541BeA3aF39292FCe08649e4C4e1BEE408a1",
+	"symbol": "Alien",
+	"name": "Alien",
+	"coingecko": "alien",
+	"sources": [
+		"coingecko"
+	]
+}

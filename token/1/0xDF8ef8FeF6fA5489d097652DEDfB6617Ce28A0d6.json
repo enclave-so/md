@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xDF8ef8FeF6fA5489d097652DEDfB6617Ce28A0d6",
+	"symbol": "dump.trade",
+	"name": "dump.trade",
+	"coingecko": "dump-trade",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xaADE1D6701173Bd924c9de2d56a00eF4e3d9de4d",
+	"symbol": "Blockchain Web Services",
+	"name": "Blockchain Web Services",
+	"coingecko": "blockchain-web-services",
+	"sources": [
+		"coingecko"
+	]
+}

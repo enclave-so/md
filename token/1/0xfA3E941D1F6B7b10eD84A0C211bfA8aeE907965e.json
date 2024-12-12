@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xfA3E941D1F6B7b10eD84A0C211bfA8aeE907965e",
+	"symbol": "HayCoin",
+	"name": "HayCoin",
+	"coingecko": "haycoin",
+	"sources": [
+		"coingecko"
+	]
+}

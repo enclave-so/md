@@ -1,0 +1,10 @@
+{
+	"chain": 39797,
+	"address": "0x0702bf2aBBB53f8fEB101A71199965b891dbAE97",
+	"symbol": "MAPS",
+	"name": "MAPS",
+	"coingecko": "maps",
+	"sources": [
+		"coingecko"
+	]
+}

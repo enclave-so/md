@@ -1,0 +1,13 @@
+{
+	"chain": 1285,
+	"address": "0x14a0243C333A5b238143068dC3A7323Ba4C30ECB",
+	"symbol": "AVAX",
+	"name": "Avax - AnySwap",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/avax.jpg",
+	"coingecko": "wrapped-avax",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

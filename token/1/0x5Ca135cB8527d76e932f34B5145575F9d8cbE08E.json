@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x5Ca135cB8527d76e932f34B5145575F9d8cbE08E",
+	"symbol": "Frax Price Index",
+	"name": "Frax Price Index",
+	"coingecko": "frax-price-index",
+	"sources": [
+		"coingecko"
+	]
+}

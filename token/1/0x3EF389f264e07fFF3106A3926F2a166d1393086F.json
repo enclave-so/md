@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x3EF389f264e07fFF3106A3926F2a166d1393086F",
+	"symbol": "Sator",
+	"name": "Sator",
+	"coingecko": "sator",
+	"sources": [
+		"coingecko"
+	]
+}

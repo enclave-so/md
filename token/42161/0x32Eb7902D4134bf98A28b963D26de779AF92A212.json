@@ -1,0 +1,13 @@
+{
+	"chain": 42161,
+	"address": "0x32Eb7902D4134bf98A28b963D26de779AF92A212",
+	"symbol": "RDPX",
+	"name": "Dopex Rebate Token",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x32Eb7902D4134bf98A28b963D26de779AF92A212.jpg",
+	"coingecko": "dopex-rebate-token",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

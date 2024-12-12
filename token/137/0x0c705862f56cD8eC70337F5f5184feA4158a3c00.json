@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x0c705862f56cD8eC70337F5f5184feA4158a3c00",
+	"symbol": "Abyss World",
+	"name": "Abyss World",
+	"coingecko": "abyss-world",
+	"sources": [
+		"coingecko"
+	]
+}

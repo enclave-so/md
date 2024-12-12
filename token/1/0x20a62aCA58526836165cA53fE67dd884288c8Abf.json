@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x20a62aCA58526836165cA53fE67dd884288c8Abf",
+	"symbol": "Rentible",
+	"name": "Rentible",
+	"coingecko": "rentible",
+	"sources": [
+		"coingecko"
+	]
+}

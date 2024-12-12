@@ -1,0 +1,11 @@
+{
+	"chain": 100,
+	"address": "0x82dFe19164729949fD66Da1a37BC70dD6c4746ce",
+	"symbol": "BAO",
+	"name": "BaoToken on xDai",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/xdai/0x82dFe19164729949fD66Da1a37BC70dD6c4746ce.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 324,
+	"address": "0x533b5F887383196C6bc642f83338a69596465307",
+	"symbol": "Snark Launch",
+	"name": "Snark Launch",
+	"coingecko": "snark-launch",
+	"sources": [
+		"coingecko"
+	]
+}

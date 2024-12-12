@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x8497842420cFdbc97896C2353D75d89Fc8D5Be5D",
+	"symbol": "VersaGames",
+	"name": "VersaGames",
+	"coingecko": "versagames",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1907,
+	"address": "0xb428b0d491516aAD256386180945C52423907A61",
+	"symbol": "Denizlispor Fan Token",
+	"name": "Denizlispor Fan Token",
+	"coingecko": "denizlispor-fan-token",
+	"sources": [
+		"coingecko"
+	]
+}

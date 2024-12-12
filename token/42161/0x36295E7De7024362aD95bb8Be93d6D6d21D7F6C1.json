@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x36295E7De7024362aD95bb8Be93d6D6d21D7F6C1",
+	"symbol": "XGPU AI",
+	"name": "XGPU AI",
+	"coingecko": "xgpu-ai",
+	"sources": [
+		"coingecko"
+	]
+}

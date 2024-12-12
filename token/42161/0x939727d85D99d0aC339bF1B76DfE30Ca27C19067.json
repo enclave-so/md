@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x939727d85D99d0aC339bF1B76DfE30Ca27C19067",
+	"symbol": "SIZE",
+	"name": "SIZE",
+	"coingecko": "size-2",
+	"sources": [
+		"coingecko"
+	]
+}

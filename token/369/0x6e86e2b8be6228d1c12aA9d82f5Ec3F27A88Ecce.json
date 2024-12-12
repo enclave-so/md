@@ -1,0 +1,10 @@
+{
+	"chain": 369,
+	"address": "0x6e86e2b8be6228d1c12aA9d82f5Ec3F27A88Ecce",
+	"symbol": "GIFFORDwear",
+	"name": "GIFFORDwear",
+	"coingecko": "giffordwear",
+	"sources": [
+		"coingecko"
+	]
+}

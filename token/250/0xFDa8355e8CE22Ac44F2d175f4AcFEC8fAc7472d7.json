@@ -1,0 +1,10 @@
+{
+	"chain": 250,
+	"address": "0xFDa8355e8CE22Ac44F2d175f4AcFEC8fAc7472d7",
+	"symbol": "MetaGaming Guild",
+	"name": "MetaGaming Guild",
+	"coingecko": "metagaming-guild",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1116,
+	"address": "0x42077e348702f13Ea80CE6a6A38b8b60fbb37B5d",
+	"symbol": "cDAO",
+	"name": "cDAO",
+	"coingecko": "cdao",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1284,
+	"address": "0xfA9343C3897324496A05fC75abeD6bAC29f8A40f",
+	"symbol": "Multichain Bridged WETH (Moonbeam)",
+	"name": "Multichain Bridged WETH (Moonbeam)",
+	"coingecko": "multichain-bridged-weth-moonbeam",
+	"sources": [
+		"coingecko"
+	]
+}

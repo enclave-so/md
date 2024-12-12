@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x2f1aBb81ed86Be95bcf8178bA62C8e72D6834775",
+	"symbol": "MEV Capital Pendle WBTC",
+	"name": "MEV Capital Pendle WBTC",
+	"coingecko": "mev-capital-pendle-wbtc",
+	"sources": [
+		"coingecko"
+	]
+}

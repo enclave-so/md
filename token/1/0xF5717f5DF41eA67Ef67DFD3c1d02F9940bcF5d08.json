@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xF5717f5DF41eA67Ef67DFD3c1d02F9940bcF5d08",
+	"symbol": "SeChain",
+	"name": "SeChain",
+	"coingecko": "sechain",
+	"sources": [
+		"coingecko"
+	]
+}

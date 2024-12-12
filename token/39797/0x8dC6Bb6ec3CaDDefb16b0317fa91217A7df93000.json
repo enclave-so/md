@@ -1,0 +1,10 @@
+{
+	"chain": 39797,
+	"address": "0x8dC6Bb6ec3CaDDefb16b0317fa91217A7df93000",
+	"symbol": "district0x",
+	"name": "district0x",
+	"coingecko": "district0x",
+	"sources": [
+		"coingecko"
+	]
+}

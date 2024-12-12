@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0x16CDA4028e9E872a38AcB903176719299beAed87",
+	"symbol": "MARS4",
+	"name": "MARS4",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x16CDA4028e9E872a38AcB903176719299beAed87/logo.png",
+	"coingecko": "mars4",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

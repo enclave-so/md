@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x709D140925272ee606825781b1bEF7bE6b1412CD",
+	"symbol": "Crypto Global United",
+	"name": "Crypto Global United",
+	"coingecko": "crypto-global-united",
+	"sources": [
+		"coingecko"
+	]
+}

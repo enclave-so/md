@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x38A232CABb8A7f745c7D6E0A5bf300E3499aa8A6",
+	"symbol": "PIVN",
+	"name": "PIVN",
+	"coingecko": "pivn",
+	"sources": [
+		"coingecko"
+	]
+}

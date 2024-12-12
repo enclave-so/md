@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x8503a7b00B4b52692cC6c14e5b96F142E30547b7",
+	"symbol": "Meeds DAO",
+	"name": "Meeds DAO",
+	"coingecko": "meeds-dao",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x42496acd2c7b52CE90Ed65adA6CafB0e893e2474",
+	"symbol": "BitSwap",
+	"name": "BitSwap",
+	"coingecko": "bitswap",
+	"sources": [
+		"coingecko"
+	]
+}

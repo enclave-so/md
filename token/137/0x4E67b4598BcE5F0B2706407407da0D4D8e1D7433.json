@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x4E67b4598BcE5F0B2706407407da0D4D8e1D7433",
+	"symbol": "Aventis Metaverse",
+	"name": "Aventis Metaverse",
+	"coingecko": "aventis-metaverse",
+	"sources": [
+		"coingecko"
+	]
+}

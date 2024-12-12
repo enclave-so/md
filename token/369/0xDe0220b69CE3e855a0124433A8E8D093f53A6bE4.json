@@ -1,0 +1,10 @@
+{
+	"chain": 369,
+	"address": "0xDe0220b69CE3e855a0124433A8E8D093f53A6bE4",
+	"symbol": "Where Did The ETH Go? (Pulsechain)",
+	"name": "Where Did The ETH Go? (Pulsechain)",
+	"coingecko": "where-did-the-eth-go-pulsechain",
+	"sources": [
+		"coingecko"
+	]
+}

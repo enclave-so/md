@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xB69100340A5947E856D873463694aE2186146C43",
+	"symbol": "Baby Pepe on ETH",
+	"name": "Baby Pepe on ETH",
+	"coingecko": "baby-pepe-on-eth",
+	"sources": [
+		"coingecko"
+	]
+}

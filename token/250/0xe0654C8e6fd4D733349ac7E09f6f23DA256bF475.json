@@ -1,0 +1,10 @@
+{
+	"chain": 250,
+	"address": "0xe0654C8e6fd4D733349ac7E09f6f23DA256bF475",
+	"symbol": "Scream",
+	"name": "Scream",
+	"coingecko": "scream",
+	"sources": [
+		"coingecko"
+	]
+}

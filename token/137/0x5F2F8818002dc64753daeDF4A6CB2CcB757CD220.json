@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x5F2F8818002dc64753daeDF4A6CB2CcB757CD220",
+	"symbol": "Wisdomise AI",
+	"name": "Wisdomise AI",
+	"coingecko": "wisdomise",
+	"sources": [
+		"coingecko"
+	]
+}

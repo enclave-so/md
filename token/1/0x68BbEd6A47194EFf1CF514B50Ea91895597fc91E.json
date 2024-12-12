@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x68BbEd6A47194EFf1CF514B50Ea91895597fc91E",
+	"symbol": "ANDY ETH",
+	"name": "ANDY ETH",
+	"coingecko": "andy-the-wisguy",
+	"sources": [
+		"coingecko"
+	]
+}

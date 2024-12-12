@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xE77aBB1E75D2913B2076DD16049992FFeACa5235",
+	"symbol": "Decentrawood",
+	"name": "Decentrawood",
+	"coingecko": "decentrawood",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0xD3BB5C6961157eB4eb03658Dc5D4144808828168",
+	"symbol": "AGLD",
+	"name": "Adventure Gold",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xD3BB5C6961157eB4eb03658Dc5D4144808828168.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

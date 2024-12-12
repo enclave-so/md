@@ -1,0 +1,10 @@
+{
+	"chain": 324,
+	"address": "0x5756A28E2aAe01F600FC2C01358395F5C1f8ad3A",
+	"symbol": "veSync",
+	"name": "veSync",
+	"coingecko": "vesync",
+	"sources": [
+		"coingecko"
+	]
+}

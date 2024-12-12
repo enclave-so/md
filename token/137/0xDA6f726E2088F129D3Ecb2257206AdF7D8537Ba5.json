@@ -1,0 +1,11 @@
+{
+	"chain": 137,
+	"address": "0xDA6f726E2088F129D3Ecb2257206AdF7D8537Ba5",
+	"symbol": "NCR",
+	"name": "Neos Credits",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xDA6f726E2088F129D3Ecb2257206AdF7D8537Ba5.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

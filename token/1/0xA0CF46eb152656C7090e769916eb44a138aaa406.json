@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xA0CF46eb152656C7090e769916eb44a138aaa406",
+	"symbol": "Spheroid Universe",
+	"name": "Spheroid Universe",
+	"coingecko": "spheroid-universe",
+	"sources": [
+		"coingecko"
+	]
+}

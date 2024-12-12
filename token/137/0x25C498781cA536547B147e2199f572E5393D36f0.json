@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x25C498781cA536547B147e2199f572E5393D36f0",
+	"symbol": "AirTnT",
+	"name": "AirTnT",
+	"coingecko": "airtnt",
+	"sources": [
+		"coingecko"
+	]
+}

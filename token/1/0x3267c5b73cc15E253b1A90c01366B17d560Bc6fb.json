@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x3267c5b73cc15E253b1A90c01366B17d560Bc6fb",
+	"symbol": "President Ron DeSantis",
+	"name": "President Ron DeSantis",
+	"coingecko": "president-ron-desantis",
+	"sources": [
+		"coingecko"
+	]
+}

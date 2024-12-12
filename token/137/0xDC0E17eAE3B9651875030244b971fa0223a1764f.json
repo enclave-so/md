@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xDC0E17eAE3B9651875030244b971fa0223a1764f",
+	"symbol": "PERI Finance",
+	"name": "PERI Finance",
+	"coingecko": "peri-finance",
+	"sources": [
+		"coingecko"
+	]
+}

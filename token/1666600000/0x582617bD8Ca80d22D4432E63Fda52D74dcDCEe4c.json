@@ -1,0 +1,13 @@
+{
+	"chain": 1666600000,
+	"address": "0x582617bD8Ca80d22D4432E63Fda52D74dcDCEe4c",
+	"symbol": "bscADA",
+	"name": "Cardano Token",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/ada.jpg",
+	"coingecko": "binance-peg-cardano",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 14,
+	"address": "0xC18f99CE6DD6278BE2D3f1e738Ed11623444aE33",
+	"symbol": "Poodlecoin",
+	"name": "Poodlecoin",
+	"coingecko": "poodlecoin",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xaa602dE53347579f86b996D2Add74bb6F79462b2",
+	"symbol": "Zipmex",
+	"name": "Zipmex",
+	"coingecko": "zipmex-token",
+	"sources": [
+		"coingecko"
+	]
+}

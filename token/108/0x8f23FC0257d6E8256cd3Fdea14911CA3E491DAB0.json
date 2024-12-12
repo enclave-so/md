@@ -1,0 +1,11 @@
+{
+	"chain": 108,
+	"address": "0x8f23FC0257d6E8256cd3Fdea14911CA3E491DAB0",
+	"symbol": "Prize",
+	"name": "Prize",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/thundercore/0x8f23FC0257d6E8256cd3Fdea14911CA3E491DAB0.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

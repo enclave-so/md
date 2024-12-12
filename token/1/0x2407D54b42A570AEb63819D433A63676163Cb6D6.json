@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x2407D54b42A570AEb63819D433A63676163Cb6D6",
+	"symbol": "Renegade",
+	"name": "Renegade",
+	"coingecko": "renegade",
+	"sources": [
+		"coingecko"
+	]
+}

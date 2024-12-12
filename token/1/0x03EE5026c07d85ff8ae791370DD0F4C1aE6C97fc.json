@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x03EE5026c07d85ff8ae791370DD0F4C1aE6C97fc",
+	"symbol": "0x Leverage",
+	"name": "0x Leverage",
+	"coingecko": "0x-leverage",
+	"sources": [
+		"coingecko"
+	]
+}

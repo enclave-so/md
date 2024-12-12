@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x0BFFDD787C83235f6F0afa0Faed42061a4619B7a",
+	"symbol": "Virtual USD",
+	"name": "Virtual USD",
+	"coingecko": "virtual-usd",
+	"sources": [
+		"coingecko"
+	]
+}

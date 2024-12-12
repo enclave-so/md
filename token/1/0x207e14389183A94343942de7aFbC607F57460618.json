@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x207e14389183A94343942de7aFbC607F57460618",
+	"symbol": "AngelBlock",
+	"name": "AngelBlock",
+	"coingecko": "thol-token",
+	"sources": [
+		"coingecko"
+	]
+}

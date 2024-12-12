@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x88417754Ff7062c10F4E3A4AB7E9F9D9cbDa6023",
+	"symbol": "Peepa",
+	"name": "Peepa",
+	"coingecko": "peepa",
+	"sources": [
+		"coingecko"
+	]
+}

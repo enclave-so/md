@@ -1,0 +1,10 @@
+{
+	"chain": 250,
+	"address": "0x1F7216fdB338247512Ec99715587bb97BBf96eae",
+	"symbol": "Badger Sett Badger",
+	"name": "Badger Sett Badger",
+	"coingecko": "badger-sett-badger",
+	"sources": [
+		"coingecko"
+	]
+}

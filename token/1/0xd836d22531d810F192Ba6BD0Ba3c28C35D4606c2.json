@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xd836d22531d810F192Ba6BD0Ba3c28C35D4606c2",
+	"symbol": "BONKBEST",
+	"name": "BONKBEST",
+	"coingecko": "bonkbest",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x436dA116249044E8B4464F0Cf21Dd93311d88190",
+	"symbol": "Colizeum",
+	"name": "Colizeum",
+	"coingecko": "colizeum",
+	"sources": [
+		"coingecko"
+	]
+}

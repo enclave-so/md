@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0x39B9f8B9c0F37766dB1592F0294E01a39B52D46c",
+	"symbol": "BEAT",
+	"name": "BEAT",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x39B9f8B9c0F37766dB1592F0294E01a39B52D46c.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

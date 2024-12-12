@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x4957805230831401CaaD5b690AA138143B711358",
+	"symbol": "Dora Factory",
+	"name": "Dora Factory",
+	"coingecko": "dora-factory-2",
+	"sources": [
+		"coingecko"
+	]
+}

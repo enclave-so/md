@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xb3999F658C0391d94A37f7FF328F3feC942BcADC",
+	"symbol": "Hashflow",
+	"name": "Hashflow",
+	"coingecko": "hashflow",
+	"sources": [
+		"coingecko"
+	]
+}

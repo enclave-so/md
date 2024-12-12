@@ -1,0 +1,10 @@
+{
+	"chain": 4200,
+	"address": "0x4FD67c2D9e8c4fDd9C66954bafe124Ca50fC1819",
+	"symbol": "Mner Club",
+	"name": "Mner Club",
+	"coingecko": "mner-club",
+	"sources": [
+		"coingecko"
+	]
+}

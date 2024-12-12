@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x8C6bf16C273636523C29Db7DB04396143770F6A0",
+	"symbol": "Moon Rabbit",
+	"name": "Moon Rabbit",
+	"coingecko": "moon-rabbit",
+	"sources": [
+		"coingecko"
+	]
+}

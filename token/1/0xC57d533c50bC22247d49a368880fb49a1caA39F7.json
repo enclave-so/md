@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xC57d533c50bC22247d49a368880fb49a1caA39F7",
+	"symbol": "PowerTrade Fuel",
+	"name": "PowerTrade Fuel",
+	"coingecko": "powertrade-fuel",
+	"sources": [
+		"coingecko"
+	]
+}

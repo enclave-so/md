@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x06576eB3B212d605B797dC15523d9Dc9F4F66DB4",
+	"symbol": "The Crypto Prophecies",
+	"name": "The Crypto Prophecies",
+	"coingecko": "the-crypto-prophecies",
+	"sources": [
+		"coingecko"
+	]
+}

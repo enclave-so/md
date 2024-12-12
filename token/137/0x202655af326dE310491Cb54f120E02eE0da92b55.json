@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x202655af326dE310491Cb54f120E02eE0da92b55",
+	"symbol": "Creta World",
+	"name": "Creta World",
+	"coingecko": "creta-world",
+	"sources": [
+		"coingecko"
+	]
+}

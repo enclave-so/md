@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x044A3bad20573Bbe5895B873ecbfd4E283bC9102",
+	"symbol": "Kindred",
+	"name": "Kindred",
+	"coingecko": "kindred",
+	"sources": [
+		"coingecko"
+	]
+}

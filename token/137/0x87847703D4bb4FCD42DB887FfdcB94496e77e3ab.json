@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x87847703D4bb4FCD42DB887FfdcB94496e77e3ab",
+	"symbol": "Hypersign Identity",
+	"name": "Hypersign Identity",
+	"coingecko": "hypersign-identity-token",
+	"sources": [
+		"coingecko"
+	]
+}

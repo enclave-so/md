@@ -1,0 +1,11 @@
+{
+	"chain": 100,
+	"address": "0x712b3d230F3C1c19db860d80619288b1F0BDd0Bd",
+	"symbol": "CRV",
+	"name": "Curve DAO Token on xDai",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/xdai/0x712b3d230F3C1c19db860d80619288b1F0BDd0Bd.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

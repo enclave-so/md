@@ -1,0 +1,13 @@
+{
+	"chain": 137,
+	"address": "0x140a4e80dD8184536acc45F1C452D7540472e6E1",
+	"symbol": "PKR",
+	"name": "POLKER",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x140a4e80dD8184536acc45F1C452D7540472e6E1.jpg",
+	"coingecko": "polker",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

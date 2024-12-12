@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x433cDE5a82b5e0658dA3543b47A375dffd126Eb6",
+	"symbol": "GOON",
+	"name": "GOON",
+	"coingecko": "goon-2",
+	"sources": [
+		"coingecko"
+	]
+}

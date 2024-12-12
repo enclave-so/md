@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0x7659CE147D0e714454073a5dd7003544234b6Aa0",
+	"symbol": "XCAD",
+	"name": "XCAD Token",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x7659CE147D0e714454073a5dd7003544234b6Aa0.jpg",
+	"coingecko": "xcad-network",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

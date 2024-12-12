@@ -1,0 +1,10 @@
+{
+	"chain": 250,
+	"address": "0xCfC785741Dc0e98ad4c9F6394Bb9d43Cd1eF5179",
+	"symbol": "Ankr Staked FTM",
+	"name": "Ankr Staked FTM",
+	"coingecko": "ankr-reward-bearing-ftm",
+	"sources": [
+		"coingecko"
+	]
+}

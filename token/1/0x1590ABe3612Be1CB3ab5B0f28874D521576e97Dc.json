@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0x1590ABe3612Be1CB3ab5B0f28874D521576e97Dc",
+	"symbol": "Pixel",
+	"name": "PIXEL",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/pixel.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

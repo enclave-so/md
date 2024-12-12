@@ -1,0 +1,10 @@
+{
+	"chain": 250,
+	"address": "0xA9CAd0165C155f3998b0001b3eF30bCa0aa6B591",
+	"symbol": "WalletNow",
+	"name": "WalletNow",
+	"coingecko": "walletnow",
+	"sources": [
+		"coingecko"
+	]
+}

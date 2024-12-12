@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x04830A96a23EA718fAA695a5AAe74695AAE3A23f",
+	"symbol": "Solv Protocol",
+	"name": "Solv Protocol",
+	"coingecko": "solv-protocol",
+	"sources": [
+		"coingecko"
+	]
+}

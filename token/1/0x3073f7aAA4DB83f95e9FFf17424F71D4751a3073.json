@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x3073f7aAA4DB83f95e9FFf17424F71D4751a3073",
+	"symbol": "Movement",
+	"name": "Movement",
+	"coingecko": "movement",
+	"sources": [
+		"coingecko"
+	]
+}

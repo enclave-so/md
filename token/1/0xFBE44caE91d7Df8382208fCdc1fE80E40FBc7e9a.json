@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xFBE44caE91d7Df8382208fCdc1fE80E40FBc7e9a",
+	"symbol": "The Next Gem AI",
+	"name": "The Next Gem AI",
+	"coingecko": "the-next-gem-ai",
+	"sources": [
+		"coingecko"
+	]
+}

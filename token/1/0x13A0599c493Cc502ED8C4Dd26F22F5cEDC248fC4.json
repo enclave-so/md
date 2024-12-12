@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x13A0599c493Cc502ED8C4Dd26F22F5cEDC248fC4",
+	"symbol": "Export Motors Platform",
+	"name": "Export Motors Platform",
+	"coingecko": "export-mortos-platform",
+	"sources": [
+		"coingecko"
+	]
+}

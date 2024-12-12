@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x5FC111f3Fa4C6b32eAf65659CFEbdeed57234069",
+	"symbol": "0xGasless",
+	"name": "0xGasless",
+	"coingecko": "0xgasless-2",
+	"sources": [
+		"coingecko"
+	]
+}

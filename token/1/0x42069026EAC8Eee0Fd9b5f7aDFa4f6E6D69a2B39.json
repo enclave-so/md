@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x42069026EAC8Eee0Fd9b5f7aDFa4f6E6D69a2B39",
+	"symbol": "MSTR2100",
+	"name": "MSTR2100",
+	"coingecko": "mstr2100",
+	"sources": [
+		"coingecko"
+	]
+}

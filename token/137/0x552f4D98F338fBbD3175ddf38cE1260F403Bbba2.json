@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x552f4D98F338fBbD3175ddf38cE1260F403Bbba2",
+	"symbol": "Modern Innovation Network Token",
+	"name": "Modern Innovation Network Token",
+	"coingecko": "modern-innovation-network-token",
+	"sources": [
+		"coingecko"
+	]
+}

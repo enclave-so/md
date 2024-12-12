@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xFA59075DfCE274E028b58BdDFcC3D709960F594a",
+	"symbol": "Veno Yield Bearing USD",
+	"name": "Veno Yield Bearing USD",
+	"coingecko": "veno-bridged-ybusd",
+	"sources": [
+		"coingecko"
+	]
+}

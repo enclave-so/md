@@ -1,0 +1,10 @@
+{
+	"chain": 321,
+	"address": "0xf55aF137A98607F7ED2eFEfA4cd2DfE70E4253b1",
+	"symbol": "KCC Bridged WETH (Kucoin Community Chain)",
+	"name": "KCC Bridged WETH (Kucoin Community Chain)",
+	"coingecko": "kcc-bridged-weth-kucoin-community-chain",
+	"sources": [
+		"coingecko"
+	]
+}

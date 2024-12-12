@@ -1,0 +1,10 @@
+{
+	"chain": 245022934,
+	"address": "0xFA8fB7e3bd299B2A9693B1BFDCf5DD13Ab57007E",
+	"symbol": "Jito Staked SOL",
+	"name": "Jito Staked SOL",
+	"coingecko": "jito-staked-sol",
+	"sources": [
+		"coingecko"
+	]
+}

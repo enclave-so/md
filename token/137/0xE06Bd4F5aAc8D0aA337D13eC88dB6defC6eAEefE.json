@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xE06Bd4F5aAc8D0aA337D13eC88dB6defC6eAEefE",
+	"symbol": "Planet IX",
+	"name": "Planet IX",
+	"coingecko": "ix-token",
+	"sources": [
+		"coingecko"
+	]
+}

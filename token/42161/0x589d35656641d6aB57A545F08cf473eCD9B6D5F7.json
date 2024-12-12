@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x589d35656641d6aB57A545F08cf473eCD9B6D5F7",
+	"symbol": "GYEN",
+	"name": "GYEN",
+	"coingecko": "gyen",
+	"sources": [
+		"coingecko"
+	]
+}

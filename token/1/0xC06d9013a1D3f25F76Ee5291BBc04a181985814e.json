@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xC06d9013a1D3f25F76Ee5291BBc04a181985814e",
+	"symbol": "Yertle The Turtle",
+	"name": "Yertle The Turtle",
+	"coingecko": "yertle-the-turtle",
+	"sources": [
+		"coingecko"
+	]
+}

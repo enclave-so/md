@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x9194337C06405623c0F374e63Fa1CC94e2788c58",
+	"symbol": "CYBONK",
+	"name": "CYBONK",
+	"coingecko": "cybonk",
+	"sources": [
+		"coingecko"
+	]
+}

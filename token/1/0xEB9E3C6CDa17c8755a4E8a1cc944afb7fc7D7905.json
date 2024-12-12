@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xEB9E3C6CDa17c8755a4E8a1cc944afb7fc7D7905",
+	"symbol": "MatchTrade",
+	"name": "MatchTrade",
+	"coingecko": "matchtrade",
+	"sources": [
+		"coingecko"
+	]
+}

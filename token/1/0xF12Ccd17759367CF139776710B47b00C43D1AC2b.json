@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xF12Ccd17759367CF139776710B47b00C43D1AC2b",
+	"symbol": "emoji ERC20",
+	"name": "emoji ERC20",
+	"coingecko": "emoji-erc20",
+	"sources": [
+		"coingecko"
+	]
+}

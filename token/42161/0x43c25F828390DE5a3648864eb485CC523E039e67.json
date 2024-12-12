@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x43c25F828390DE5a3648864eb485CC523E039e67",
+	"symbol": "Hello Pets",
+	"name": "Hello Pets",
+	"coingecko": "battle-pets",
+	"sources": [
+		"coingecko"
+	]
+}

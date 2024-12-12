@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x3B9E9100Db1389c518d47c635D80a90ad4C4f41b",
+	"symbol": "Film.io",
+	"name": "Film.io",
+	"coingecko": "fan-token",
+	"sources": [
+		"coingecko"
+	]
+}

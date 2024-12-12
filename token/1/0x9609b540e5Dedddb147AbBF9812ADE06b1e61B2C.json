@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x9609b540e5Dedddb147AbBF9812ADE06b1e61B2C",
+	"symbol": "Steamboat Willie",
+	"name": "Steamboat Willie",
+	"coingecko": "steamboat-willie",
+	"sources": [
+		"coingecko"
+	]
+}

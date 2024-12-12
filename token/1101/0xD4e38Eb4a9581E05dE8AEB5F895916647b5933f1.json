@@ -1,0 +1,10 @@
+{
+	"chain": 1101,
+	"address": "0xD4e38Eb4a9581E05dE8AEB5F895916647b5933f1",
+	"symbol": "Forwards Rec BH-2024",
+	"name": "Forwards Rec BH-2024",
+	"coingecko": "forwards-rec-bh-2024",
+	"sources": [
+		"coingecko"
+	]
+}

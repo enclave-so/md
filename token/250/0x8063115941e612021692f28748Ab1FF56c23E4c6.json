@@ -1,0 +1,10 @@
+{
+	"chain": 250,
+	"address": "0x8063115941e612021692f28748Ab1FF56c23E4c6",
+	"symbol": "Pepemon Pepeballs",
+	"name": "Pepemon Pepeballs",
+	"coingecko": "pepemon-pepeballs",
+	"sources": [
+		"coingecko"
+	]
+}

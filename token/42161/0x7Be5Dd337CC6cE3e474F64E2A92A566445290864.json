@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x7Be5Dd337CC6cE3e474F64E2A92A566445290864",
+	"symbol": "OpenLeverage",
+	"name": "OpenLeverage",
+	"coingecko": "openleverage",
+	"sources": [
+		"coingecko"
+	]
+}

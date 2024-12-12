@@ -1,0 +1,10 @@
+{
+	"chain": 4200,
+	"address": "0x8Aed42735027aa6d97023D8196B084eCFbA701af",
+	"symbol": "MDBL",
+	"name": "MDBL",
+	"coingecko": "mdbl",
+	"sources": [
+		"coingecko"
+	]
+}

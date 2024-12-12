@@ -1,0 +1,10 @@
+{
+	"chain": 1088,
+	"address": "0xfBae1EAb52af0Ea3d35cB12F1221cE32D377D08E",
+	"symbol": "CACA",
+	"name": "CACA",
+	"coingecko": "caca",
+	"sources": [
+		"coingecko"
+	]
+}

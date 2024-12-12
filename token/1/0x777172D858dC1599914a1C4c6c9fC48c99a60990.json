@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x777172D858dC1599914a1C4c6c9fC48c99a60990",
+	"symbol": "Solidly",
+	"name": "Solidly",
+	"coingecko": "solidlydex",
+	"sources": [
+		"coingecko"
+	]
+}

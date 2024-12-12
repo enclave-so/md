@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x3c0BB14e8367c384885a97bAc6d5CcEab474ED75",
+	"symbol": "Artificial idiot",
+	"name": "Artificial idiot",
+	"coingecko": "artificial-idiot",
+	"sources": [
+		"coingecko"
+	]
+}

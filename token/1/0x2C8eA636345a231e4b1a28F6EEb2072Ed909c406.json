@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x2C8eA636345a231e4b1a28F6EEb2072Ed909c406",
+	"symbol": "Meme Elon Doge Floki",
+	"name": "Meme Elon Doge Floki",
+	"coingecko": "meme-elon-doge-floki-2",
+	"sources": [
+		"coingecko"
+	]
+}

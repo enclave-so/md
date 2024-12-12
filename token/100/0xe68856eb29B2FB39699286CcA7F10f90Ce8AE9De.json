@@ -1,0 +1,11 @@
+{
+	"chain": 100,
+	"address": "0xe68856eb29B2FB39699286CcA7F10f90Ce8AE9De",
+	"symbol": "FCL",
+	"name": "Fractal Protocol Token",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xF4d861575ecC9493420A3f5a14F85B13f0b50EB3.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

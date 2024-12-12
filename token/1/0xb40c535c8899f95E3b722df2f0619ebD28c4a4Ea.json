@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xb40c535c8899f95E3b722df2f0619ebD28c4a4Ea",
+	"symbol": "Kenda",
+	"name": "Kenda",
+	"coingecko": "kenda",
+	"sources": [
+		"coingecko"
+	]
+}

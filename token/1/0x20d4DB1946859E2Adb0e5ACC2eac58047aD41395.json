@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x20d4DB1946859E2Adb0e5ACC2eac58047aD41395",
+	"symbol": "Moon DAO",
+	"name": "Moon DAO",
+	"coingecko": "mooney",
+	"sources": [
+		"coingecko"
+	]
+}

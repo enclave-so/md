@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xBD100d061E120b2c67A24453CF6368E63f1Be056",
+	"symbol": "iDypius",
+	"name": "iDypius",
+	"coingecko": "idefiyieldprotocol",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x000F1720A263f96532D1ac2bb9CDC12b72C6f386",
+	"symbol": "Fluidity",
+	"name": "Fluidity",
+	"coingecko": "fluidity",
+	"sources": [
+		"coingecko"
+	]
+}

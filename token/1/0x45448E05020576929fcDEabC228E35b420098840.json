@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x45448E05020576929fcDEabC228E35b420098840",
+	"symbol": "Idavoll DAO",
+	"name": "Idavoll DAO",
+	"coingecko": "idavoll-network",
+	"sources": [
+		"coingecko"
+	]
+}

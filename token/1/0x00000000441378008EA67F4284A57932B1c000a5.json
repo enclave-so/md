@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0x00000000441378008EA67F4284A57932B1c000a5",
+	"symbol": "TGBP",
+	"name": "TrueGBP",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/12724/large/TGBP.png",
+	"sources": [
+		"sushiswap"
+	]
+}

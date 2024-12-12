@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xEaA260c1D247135cEc29Ec10fB6aCeDf2A55dC6b",
+	"symbol": "TheADA",
+	"name": "TheADA",
+	"coingecko": "theada",
+	"sources": [
+		"coingecko"
+	]
+}

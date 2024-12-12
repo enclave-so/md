@@ -1,0 +1,10 @@
+{
+	"chain": 39797,
+	"address": "0x66bC411714e16B6F0C68be12bD9c666cc4576063",
+	"symbol": "Compound",
+	"name": "Compound",
+	"coingecko": "compound-governance-token",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x5D6F4e7B3f57b238eea545F16f9D6D17b77Ec2fB",
+	"symbol": "Basix",
+	"name": "Basix",
+	"coingecko": "basix",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x7DF18E4eFD6e6f73cfb462937dAC40FE42533016",
+	"symbol": "ZKitty Bot",
+	"name": "ZKitty Bot",
+	"coingecko": "zkitty-bot",
+	"sources": [
+		"coingecko"
+	]
+}

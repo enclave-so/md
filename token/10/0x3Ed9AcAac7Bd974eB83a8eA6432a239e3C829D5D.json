@@ -1,0 +1,10 @@
+{
+	"chain": 10,
+	"address": "0x3Ed9AcAac7Bd974eB83a8eA6432a239e3C829D5D",
+	"symbol": "LERNITAS",
+	"name": "LERNITAS",
+	"coingecko": "lernitas",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"chain": 1666600000,
+	"address": "0x1449Ab6C24Dcf3DbC1971021f465af1B81F48F07",
+	"symbol": "OIL",
+	"name": "Oil",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/harmony/0x1449Ab6C24Dcf3DbC1971021f465af1B81F48F07.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

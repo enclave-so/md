@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xeE372d2b7e7C83DE7e345267b5e4eFC1899a4FAB",
+	"symbol": "Xtrack AI",
+	"name": "Xtrack AI",
+	"coingecko": "xtrack-ai",
+	"sources": [
+		"coingecko"
+	]
+}

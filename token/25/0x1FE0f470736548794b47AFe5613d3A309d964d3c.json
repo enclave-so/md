@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0x1FE0f470736548794b47AFe5613d3A309d964d3c",
+	"symbol": "ANKR",
+	"name": "Ankr Network",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x1FE0f470736548794b47AFe5613d3A309d964d3c.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

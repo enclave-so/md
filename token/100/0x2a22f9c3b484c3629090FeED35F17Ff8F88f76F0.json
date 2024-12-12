@@ -1,0 +1,10 @@
+{
+	"chain": 100,
+	"address": "0x2a22f9c3b484c3629090FeED35F17Ff8F88f76F0",
+	"symbol": "Gnosis xDAI Bridged USDC (Gnosis)",
+	"name": "Gnosis xDAI Bridged USDC (Gnosis)",
+	"coingecko": "bridged-usdc-gnosis",
+	"sources": [
+		"coingecko"
+	]
+}

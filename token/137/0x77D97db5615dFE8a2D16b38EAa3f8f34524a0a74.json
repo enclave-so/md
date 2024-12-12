@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x77D97db5615dFE8a2D16b38EAa3f8f34524a0a74",
+	"symbol": "Lunafi",
+	"name": "Lunafi",
+	"coingecko": "lunafi",
+	"sources": [
+		"coingecko"
+	]
+}

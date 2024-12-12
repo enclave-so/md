@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0xD5525D397898e5502075Ea5E830d8914f6F0affe",
+	"symbol": "MEME",
+	"name": "Meme",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xD5525D397898e5502075Ea5E830d8914f6F0affe/logo.png",
+	"sources": [
+		"sushiswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 250,
+	"address": "0xB67FA6deFCe4042070Eb1ae1511Dcd6dcc6a532E",
+	"symbol": "Alchemix USD",
+	"name": "Alchemix USD",
+	"coingecko": "alchemix-usd",
+	"sources": [
+		"coingecko"
+	]
+}

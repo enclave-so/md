@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x17176a9868F321411B15CCb9b934Cf95597E89c4",
+	"symbol": "Good Entry",
+	"name": "Good Entry",
+	"coingecko": "good-entry",
+	"sources": [
+		"coingecko"
+	]
+}

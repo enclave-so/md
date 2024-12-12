@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0x8F041A3940a5e6FB580075C3774E15FcFA0E1618",
+	"symbol": "oneWING",
+	"name": "oneWING",
+	"decimals": 9,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/onewing.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

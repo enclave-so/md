@@ -1,0 +1,10 @@
+{
+	"chain": 122,
+	"address": "0x28C3d1cD466Ba22f6cae51b1a4692a831696391A",
+	"symbol": "Bridged USDC (Fuse)",
+	"name": "Bridged USDC (Fuse)",
+	"coingecko": "bridged-usdc-fuse",
+	"sources": [
+		"coingecko"
+	]
+}

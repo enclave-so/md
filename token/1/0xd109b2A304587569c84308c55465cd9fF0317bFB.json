@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xd109b2A304587569c84308c55465cd9fF0317bFB",
+	"symbol": "Aave AMM BptBALWETH",
+	"name": "Aave AMM BptBALWETH",
+	"coingecko": "aave-amm-bptbalweth",
+	"sources": [
+		"coingecko"
+	]
+}

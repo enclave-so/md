@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x1B8d516E2146D7a32Aca0FcBf9482db85fD42c3a",
+	"symbol": "AlphaScan AI",
+	"name": "AlphaScan AI",
+	"coingecko": "alphascan",
+	"sources": [
+		"coingecko"
+	]
+}

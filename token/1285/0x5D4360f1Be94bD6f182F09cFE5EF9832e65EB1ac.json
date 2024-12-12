@@ -1,0 +1,11 @@
+{
+	"chain": 1285,
+	"address": "0x5D4360f1Be94bD6f182F09cFE5EF9832e65EB1ac",
+	"symbol": "RivrDoge",
+	"name": "RivrDoge",
+	"decimals": 18,
+	"logo": "https://rivrdoge.com/wp-content/uploads/2021/09/logo.png",
+	"sources": [
+		"sushiswap"
+	]
+}

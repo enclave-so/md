@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0x25e8C72D267b96E757875d8b565A42c0e3B8f12f",
+	"symbol": "WIF",
+	"name": "dogwifhat",
+	"decimals": 6,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x25e8C72D267b96E757875d8b565A42c0e3B8f12f.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

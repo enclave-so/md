@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x4B7fFCB2b92fB4890f22f62a52Fb7A180eaB818e",
+	"symbol": "DIVA Protocol",
+	"name": "DIVA Protocol",
+	"coingecko": "diva-protocol",
+	"sources": [
+		"coingecko"
+	]
+}

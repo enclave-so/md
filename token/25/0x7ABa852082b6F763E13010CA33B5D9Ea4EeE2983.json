@@ -1,0 +1,13 @@
+{
+	"chain": 25,
+	"address": "0x7ABa852082b6F763E13010CA33B5D9Ea4EeE2983",
+	"symbol": "FIRA",
+	"name": "Fira",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x7ABa852082b6F763E13010CA33B5D9Ea4EeE2983.jpg",
+	"coingecko": "fira-cronos",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 122,
+	"address": "0xCC9d144a8a8A1e71D5EC66A13F301b9E0137e71C",
+	"symbol": "Allbridge Bridged ETH (Fuse)",
+	"name": "Allbridge Bridged ETH (Fuse)",
+	"coingecko": "allbridge-bridged-eth-fuse",
+	"sources": [
+		"coingecko"
+	]
+}

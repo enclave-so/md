@@ -1,0 +1,11 @@
+{
+	"chain": 42161,
+	"address": "0x8eD4191F81F1e1D24a8a1195267D024d9358c9d7",
+	"symbol": "MAGNET",
+	"name": "Magnethereum",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/Magnethereum/MyFiles/main/magnethereum.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

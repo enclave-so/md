@@ -1,0 +1,13 @@
+{
+	"chain": 10,
+	"address": "0xE405de8F52ba7559f9df3C368500B6E6ae6Cee49",
+	"symbol": "sETH",
+	"name": "Synthetic Ether",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/sETH/logo.svg",
+	"coingecko": "seth",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

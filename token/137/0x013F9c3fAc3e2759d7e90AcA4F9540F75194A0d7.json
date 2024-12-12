@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x013F9c3fAc3e2759d7e90AcA4F9540F75194A0d7",
+	"symbol": "Neutrino Index Token",
+	"name": "Neutrino Index Token",
+	"coingecko": "neutrino",
+	"sources": [
+		"coingecko"
+	]
+}

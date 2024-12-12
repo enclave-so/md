@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x4CD0c43B0D53bc318cc5342b77EB6f124E47f526",
+	"symbol": "FreeRossDAO",
+	"name": "FreeRossDAO",
+	"coingecko": "freerossdao",
+	"sources": [
+		"coingecko"
+	]
+}

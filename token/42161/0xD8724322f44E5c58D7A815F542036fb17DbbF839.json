@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0xD8724322f44E5c58D7A815F542036fb17DbbF839",
+	"symbol": "Wrapped OETH",
+	"name": "Wrapped OETH",
+	"coingecko": "wrapped-oeth",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0xaaAEBE6Fe48E54f431b0C390CfaF0b017d09D42d",
+	"symbol": "CEL",
+	"name": "Celsius",
+	"decimals": 4,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/cel.jpg",
+	"coingecko": "celsius-degree-token",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

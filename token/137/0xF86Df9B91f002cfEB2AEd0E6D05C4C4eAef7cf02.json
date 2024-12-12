@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xF86Df9B91f002cfEB2AEd0E6D05C4C4eAef7cf02",
+	"symbol": "Porygon",
+	"name": "Porygon",
+	"coingecko": "porygon",
+	"sources": [
+		"coingecko"
+	]
+}

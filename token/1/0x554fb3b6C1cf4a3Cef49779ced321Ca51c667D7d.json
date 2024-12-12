@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x554fb3b6C1cf4a3Cef49779ced321Ca51c667D7d",
+	"symbol": "Arata AGI",
+	"name": "Arata AGI",
+	"coingecko": "arata-agi",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x2056EC69ac5aFaF210b851FF74dE4c194fCd986e",
+	"symbol": "Port AI",
+	"name": "Port AI",
+	"coingecko": "port-ai",
+	"sources": [
+		"coingecko"
+	]
+}

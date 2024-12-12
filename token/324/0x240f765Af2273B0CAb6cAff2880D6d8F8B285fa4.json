@@ -1,0 +1,10 @@
+{
+	"chain": 324,
+	"address": "0x240f765Af2273B0CAb6cAff2880D6d8F8B285fa4",
+	"symbol": "eZKalibur",
+	"name": "eZKalibur",
+	"coingecko": "ezkalibur",
+	"sources": [
+		"coingecko"
+	]
+}

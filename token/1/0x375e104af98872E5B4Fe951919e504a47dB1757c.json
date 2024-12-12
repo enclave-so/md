@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x375e104af98872E5B4Fe951919e504a47dB1757c",
+	"symbol": "Ginnan Doge's Brother",
+	"name": "Ginnan Doge's Brother",
+	"coingecko": "ginnan-doge-s-brother",
+	"sources": [
+		"coingecko"
+	]
+}

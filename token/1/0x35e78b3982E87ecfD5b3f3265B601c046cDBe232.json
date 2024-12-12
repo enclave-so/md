@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0x35e78b3982E87ecfD5b3f3265B601c046cDBe232",
+	"symbol": "XAI",
+	"name": "SideShift Token",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x35e78b3982E87ecfD5b3f3265B601c046cDBe232.jpg",
+	"coingecko": "sideshift-token",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

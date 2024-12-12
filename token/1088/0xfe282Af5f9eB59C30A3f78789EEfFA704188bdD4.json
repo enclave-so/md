@@ -1,0 +1,10 @@
+{
+	"chain": 1088,
+	"address": "0xfe282Af5f9eB59C30A3f78789EEfFA704188bdD4",
+	"symbol": "Relay Chain",
+	"name": "Relay Chain",
+	"coingecko": "relay-token",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x3506424F91fD33084466F402d5D97f05F8e3b4AF",
+	"symbol": "Chiliz",
+	"name": "Chiliz",
+	"coingecko": "chiliz",
+	"sources": [
+		"coingecko"
+	]
+}

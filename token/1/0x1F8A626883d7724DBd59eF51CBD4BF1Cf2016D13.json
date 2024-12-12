@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x1F8A626883d7724DBd59eF51CBD4BF1Cf2016D13",
+	"symbol": "Jigstack",
+	"name": "Jigstack",
+	"coingecko": "jigstack",
+	"sources": [
+		"coingecko"
+	]
+}

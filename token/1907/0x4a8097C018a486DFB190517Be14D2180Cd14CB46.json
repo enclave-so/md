@@ -1,0 +1,10 @@
+{
+	"chain": 1907,
+	"address": "0x4a8097C018a486DFB190517Be14D2180Cd14CB46",
+	"symbol": "Drop",
+	"name": "Drop",
+	"coingecko": "drop",
+	"sources": [
+		"coingecko"
+	]
+}

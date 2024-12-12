@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x18a8D75F70eAEad79B5A55903D036ce337F623A5",
+	"symbol": "SIGMA",
+	"name": "SIGMA",
+	"coingecko": "sigma-2",
+	"sources": [
+		"coingecko"
+	]
+}

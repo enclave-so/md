@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x3eE4B152824b657644c7A9B50694787e80EB8F4a",
+	"symbol": "Bazed Games",
+	"name": "Bazed Games",
+	"coingecko": "bazed-games",
+	"sources": [
+		"coingecko"
+	]
+}

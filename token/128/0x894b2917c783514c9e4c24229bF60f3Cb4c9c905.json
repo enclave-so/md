@@ -1,0 +1,11 @@
+{
+	"chain": 128,
+	"address": "0x894b2917c783514c9e4c24229bF60f3Cb4c9c905",
+	"symbol": "HBC",
+	"name": "Heco-Peg HBC Token",
+	"decimals": 18,
+	"logo": "https://hecoinfo.com/images/main/empty-token.png",
+	"sources": [
+		"sushiswap"
+	]
+}

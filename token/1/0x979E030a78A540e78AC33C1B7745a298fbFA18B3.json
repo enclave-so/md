@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x979E030a78A540e78AC33C1B7745a298fbFA18B3",
+	"symbol": "GPULABS",
+	"name": "GPULABS",
+	"coingecko": "gpulabs",
+	"sources": [
+		"coingecko"
+	]
+}

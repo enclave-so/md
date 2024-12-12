@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x7A486F809c952a6f8dEc8cb0Ff68173F2B8ED56c",
+	"symbol": "Hex Trust USD",
+	"name": "Hex Trust USD",
+	"coingecko": "hex-trust-usdx",
+	"sources": [
+		"coingecko"
+	]
+}

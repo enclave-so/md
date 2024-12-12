@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x700e4edb5c7D8f53CCb0cf212b81A121728e1D5b",
+	"symbol": "LOPO",
+	"name": "LOPO",
+	"coingecko": "lopo",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 25,
+	"address": "0x0CEfcd5f75907B38c308B06B70D392fF19123094",
+	"symbol": "Sonorc",
+	"name": "Sonorc",
+	"coingecko": "sonorc",
+	"sources": [
+		"coingecko"
+	]
+}

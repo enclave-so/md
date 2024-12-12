@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0x8888801aF4d980682e47f1A9036e589479e835C5",
+	"symbol": "MPH",
+	"name": "88mph",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/88mph.jpg",
+	"coingecko": "88mph",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

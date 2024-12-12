@@ -1,0 +1,11 @@
+{
+	"chain": 137,
+	"address": "0x5eB8D998371971D01954205c7AFE90A7AF6a95AC",
+	"symbol": "AUDIO",
+	"name": "Audius",
+	"decimals": 18,
+	"logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7455.png",
+	"sources": [
+		"sushiswap"
+	]
+}

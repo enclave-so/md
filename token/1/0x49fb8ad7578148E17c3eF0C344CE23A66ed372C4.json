@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x49fb8ad7578148E17c3eF0C344CE23A66ed372C4",
+	"symbol": "tao.bot",
+	"name": "tao.bot",
+	"coingecko": "tao-bot",
+	"sources": [
+		"coingecko"
+	]
+}

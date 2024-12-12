@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x4501A82790eF2587dfEb93Dc038541228E516597",
+	"symbol": "Hydra",
+	"name": "Hydra",
+	"coingecko": "hydra-2",
+	"sources": [
+		"coingecko"
+	]
+}

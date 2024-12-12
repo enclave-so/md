@@ -1,0 +1,11 @@
+{
+	"chain": 10,
+	"address": "0xFEaA9194F9F8c1B65429E31341a103071464907E",
+	"symbol": "LRC",
+	"name": "LoopringCoin V2",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/LRC/logo.png",
+	"sources": [
+		"sushiswap"
+	]
+}

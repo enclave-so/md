@@ -1,0 +1,11 @@
+{
+	"chain": 42161,
+	"address": "0x955b9fe60a5b5093df9Dc4B1B18ec8e934e77162",
+	"symbol": "SWPR",
+	"name": "Swapr",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/swpr.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

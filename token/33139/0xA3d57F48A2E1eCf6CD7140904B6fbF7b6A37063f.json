@@ -1,0 +1,10 @@
+{
+	"chain": 33139,
+	"address": "0xA3d57F48A2E1eCf6CD7140904B6fbF7b6A37063f",
+	"symbol": "OMEGA",
+	"name": "OMEGA",
+	"coingecko": "omega-3",
+	"sources": [
+		"coingecko"
+	]
+}

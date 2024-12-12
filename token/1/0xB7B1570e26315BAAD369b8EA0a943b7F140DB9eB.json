@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xB7B1570e26315BAAD369b8EA0a943b7F140DB9eB",
+	"symbol": "DEEPSPACE",
+	"name": "DEEPSPACE",
+	"coingecko": "deepspace",
+	"sources": [
+		"coingecko"
+	]
+}

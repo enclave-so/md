@@ -1,0 +1,10 @@
+{
+	"chain": 333000333,
+	"address": "0x333002599C1bad8d3861bAa959d0f9E2a4d57C06",
+	"symbol": "Meld Bridged USDT (Meld)",
+	"name": "Meld Bridged USDT (Meld)",
+	"coingecko": "meld-bridged-usdt-meld",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x38FB3406532398Bc3ec391b5eBEB833cc4c89d58",
+	"symbol": "Vaulted Bellscoin",
+	"name": "Vaulted Bellscoin",
+	"coingecko": "vaulted-bellscoin",
+	"sources": [
+		"coingecko"
+	]
+}

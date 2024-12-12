@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x0CDF9acd87E940837ff21BB40c9fd55F68bba059",
+	"symbol": "Public Mint",
+	"name": "Public Mint",
+	"coingecko": "public-mint",
+	"sources": [
+		"coingecko"
+	]
+}

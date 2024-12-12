@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0x195c4583C58944cF3435c3097195Cd5452be33AC",
+	"symbol": "MYRO",
+	"name": "Myro",
+	"decimals": 9,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x195c4583C58944cF3435c3097195Cd5452be33AC.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

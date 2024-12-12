@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xe4FeAb21b42919C5C960ed2B4BdFFc521E26881f",
+	"symbol": "MUT",
+	"name": "MUT",
+	"coingecko": "mut",
+	"sources": [
+		"coingecko"
+	]
+}

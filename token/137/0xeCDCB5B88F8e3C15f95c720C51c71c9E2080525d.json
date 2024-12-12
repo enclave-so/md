@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xeCDCB5B88F8e3C15f95c720C51c71c9E2080525d",
+	"symbol": "Binance Coin (Wormhole)",
+	"name": "Binance Coin (Wormhole)",
+	"coingecko": "binance-coin-wormhole",
+	"sources": [
+		"coingecko"
+	]
+}

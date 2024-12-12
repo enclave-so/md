@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x35F3bAD2FCC8053869086885f7898a3D4309Db4E",
+	"symbol": "Ember Sword",
+	"name": "Ember Sword",
+	"coingecko": "ember-sword",
+	"sources": [
+		"coingecko"
+	]
+}

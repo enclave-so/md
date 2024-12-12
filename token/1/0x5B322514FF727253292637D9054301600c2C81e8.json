@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x5B322514FF727253292637D9054301600c2C81e8",
+	"symbol": "DAD",
+	"name": "DAD",
+	"coingecko": "decentralized-advertising",
+	"sources": [
+		"coingecko"
+	]
+}

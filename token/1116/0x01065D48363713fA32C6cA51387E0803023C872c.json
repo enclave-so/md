@@ -1,0 +1,10 @@
+{
+	"chain": 1116,
+	"address": "0x01065D48363713fA32C6cA51387E0803023C872c",
+	"symbol": "AGUS",
+	"name": "AGUS",
+	"coingecko": "agus",
+	"sources": [
+		"coingecko"
+	]
+}

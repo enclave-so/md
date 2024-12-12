@@ -1,0 +1,10 @@
+{
+	"chain": 11501,
+	"address": "0xB5136FEba197f5fF4B765E5b50c74db717796dcD",
+	"symbol": "Bridged Wrapped BTC (BEVM)",
+	"name": "Bridged Wrapped BTC (BEVM)",
+	"coingecko": "bridged-wrapped-btc-bevm",
+	"sources": [
+		"coingecko"
+	]
+}

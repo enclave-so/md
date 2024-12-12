@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x67466BE17df832165F8C80a5A120CCc652bD7E69",
+	"symbol": "LandWolf",
+	"name": "LandWolf",
+	"coingecko": "landwolf-0x67",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 250,
+	"address": "0x84C882A4d8Eb448cE086EA19418Ca0f32F106117",
+	"symbol": "Bifrost",
+	"name": "Bifrost",
+	"coingecko": "bifrost",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x7B3bD12675c6B9d6993eB81283cb68E6eB9260b5",
+	"symbol": "Crypto Trading Fund",
+	"name": "Crypto Trading Fund",
+	"coingecko": "crypto-trading-fund",
+	"sources": [
+		"coingecko"
+	]
+}

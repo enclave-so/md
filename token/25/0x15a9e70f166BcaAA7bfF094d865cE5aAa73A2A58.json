@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0x15a9e70f166BcaAA7bfF094d865cE5aAa73A2A58",
+	"symbol": "CSPR",
+	"name": "Casper",
+	"decimals": 9,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x15a9e70f166BcaAA7bfF094d865cE5aAa73A2A58.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

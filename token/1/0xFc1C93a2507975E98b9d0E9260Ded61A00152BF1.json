@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xFc1C93a2507975E98b9d0E9260Ded61A00152BF1",
+	"symbol": "Atlas Navi",
+	"name": "Atlas Navi",
+	"coingecko": "atlas-navi",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xe3c408BD53c31C085a1746AF401A4042954ff740",
+	"symbol": "GMT",
+	"name": "GMT",
+	"coingecko": "stepn",
+	"sources": [
+		"coingecko"
+	]
+}

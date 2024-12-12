@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x62431dE84c503e152A8957ff51c8945aaAA7D929",
+	"symbol": "BlastAI",
+	"name": "BlastAI",
+	"coingecko": "blastai",
+	"sources": [
+		"coingecko"
+	]
+}

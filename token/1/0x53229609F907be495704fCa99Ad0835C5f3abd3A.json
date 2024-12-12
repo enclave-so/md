@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x53229609F907be495704fCa99Ad0835C5f3abd3A",
+	"symbol": "Rintaro",
+	"name": "Rintaro",
+	"coingecko": "rintaro",
+	"sources": [
+		"coingecko"
+	]
+}

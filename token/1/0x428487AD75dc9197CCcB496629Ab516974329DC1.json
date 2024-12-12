@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x428487AD75dc9197CCcB496629Ab516974329DC1",
+	"symbol": "RealAliensEnjoyingLiquidity",
+	"name": "RealAliensEnjoyingLiquidity",
+	"coingecko": "realaliensenjoyingliquidity",
+	"sources": [
+		"coingecko"
+	]
+}

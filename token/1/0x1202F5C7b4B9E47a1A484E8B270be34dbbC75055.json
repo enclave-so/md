@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x1202F5C7b4B9E47a1A484E8B270be34dbbC75055",
+	"symbol": "Resolv wstUSR",
+	"name": "Resolv wstUSR",
+	"coingecko": "resolv-wstusr",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"chain": 100,
+	"address": "0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d",
+	"symbol": "WXDAI",
+	"name": "Wrapped xDai",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/xdai/0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d.jpg",
+	"coingecko": "xdai",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

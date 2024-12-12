@@ -1,0 +1,10 @@
+{
+	"chain": 25,
+	"address": "0x10C9284E6094b71D3CE4E38B8bFfc668199da677",
+	"symbol": "Mimas Finance",
+	"name": "Mimas Finance",
+	"coingecko": "mimas-finance",
+	"sources": [
+		"coingecko"
+	]
+}

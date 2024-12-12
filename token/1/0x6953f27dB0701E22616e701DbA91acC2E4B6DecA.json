@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x6953f27dB0701E22616e701DbA91acC2E4B6DecA",
+	"symbol": "Starbot",
+	"name": "Starbot",
+	"coingecko": "starbot",
+	"sources": [
+		"coingecko"
+	]
+}

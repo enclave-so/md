@@ -1,0 +1,11 @@
+{
+	"chain": 42161,
+	"address": "0xCB58418Aa51Ba525aEF0FE474109C0354d844b7c",
+	"symbol": "ICE",
+	"name": "Ice Token",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xCB58418Aa51Ba525aEF0FE474109C0354d844b7c.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

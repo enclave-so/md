@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0xc4E15973E6fF2A35cC804c2CF9D2a1b817a8b40F",
+	"symbol": "ibBTC",
+	"name": "Interest-Bearing BTC",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/ibbtc.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x0E9cc0F7E550BD43BD2af2214563C47699F96479",
+	"symbol": "UnleashClub",
+	"name": "UnleashClub",
+	"coingecko": "unleashclub",
+	"sources": [
+		"coingecko"
+	]
+}

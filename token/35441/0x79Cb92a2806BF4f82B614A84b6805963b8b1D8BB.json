@@ -1,0 +1,10 @@
+{
+	"chain": 35441,
+	"address": "0x79Cb92a2806BF4f82B614A84b6805963b8b1D8BB",
+	"symbol": "Q Bridged USDC (Q Mainnet)",
+	"name": "Q Bridged USDC (Q Mainnet)",
+	"coingecko": "q-bridged-usdc-q-mainnet",
+	"sources": [
+		"coingecko"
+	]
+}

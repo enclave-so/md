@@ -1,0 +1,10 @@
+{
+	"chain": 324,
+	"address": "0xF6D9a093A1C69a152d87e269A7d909E9D76B1815",
+	"symbol": "Superlauncher",
+	"name": "Superlauncher",
+	"coingecko": "superlauncher-dao",
+	"sources": [
+		"coingecko"
+	]
+}

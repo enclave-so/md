@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x16A3543Fa6B32CAC3B0A755f64A729E84f89a75C",
+	"symbol": "Wrapped Hypertensor",
+	"name": "Wrapped Hypertensor",
+	"coingecko": "wrapped-hypertensor",
+	"sources": [
+		"coingecko"
+	]
+}

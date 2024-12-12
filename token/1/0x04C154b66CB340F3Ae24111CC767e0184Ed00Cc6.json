@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x04C154b66CB340F3Ae24111CC767e0184Ed00Cc6",
+	"symbol": "Dinero Staked ETH",
+	"name": "Dinero Staked ETH",
+	"coingecko": "dinero-staked-eth",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x6069c9223e8a5DA1ec49ac5525d4BB757Af72Cd8",
+	"symbol": "MUSK Gold",
+	"name": "MUSK Gold",
+	"coingecko": "musk-gold",
+	"sources": [
+		"coingecko"
+	]
+}

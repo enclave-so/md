@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xf02c2dC9b3cB7F1ba21CCd82dFf4ebC92da8996F",
+	"symbol": "TensorScan AI",
+	"name": "TensorScan AI",
+	"coingecko": "tensorscan-ai",
+	"sources": [
+		"coingecko"
+	]
+}

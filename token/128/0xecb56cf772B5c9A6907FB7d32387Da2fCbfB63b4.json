@@ -1,0 +1,11 @@
+{
+	"chain": 128,
+	"address": "0xecb56cf772B5c9A6907FB7d32387Da2fCbfB63b4",
+	"symbol": "HLTC",
+	"name": "Heco-Peg HLTC Token",
+	"decimals": 18,
+	"logo": "https://hecoinfo.com/token/images/HLTC_32.png",
+	"sources": [
+		"sushiswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xD7D8f3b8Bc8bC48d3AcC37879EABA7b85889FA52",
+	"symbol": "ClearDAO",
+	"name": "ClearDAO",
+	"coingecko": "cleardao",
+	"sources": [
+		"coingecko"
+	]
+}

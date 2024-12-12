@@ -1,0 +1,10 @@
+{
+	"chain": 25,
+	"address": "0x055c517654d72A45B0d64Dc8733f8A38E27Fd49C",
+	"symbol": "ryoshi with knife",
+	"name": "ryoshi with knife",
+	"coingecko": "ryoshi-with-knife",
+	"sources": [
+		"coingecko"
+	]
+}

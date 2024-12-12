@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xA43A7c62D56dF036C187E1966c03E2799d8987ed",
+	"symbol": "TruFin Staked MATIC",
+	"name": "TruFin Staked MATIC",
+	"coingecko": "trufin-staked-matic",
+	"sources": [
+		"coingecko"
+	]
+}

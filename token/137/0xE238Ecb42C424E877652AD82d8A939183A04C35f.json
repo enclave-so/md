@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xE238Ecb42C424E877652AD82d8A939183A04C35f",
+	"symbol": "WiFi Map",
+	"name": "WiFi Map",
+	"coingecko": "wifi",
+	"sources": [
+		"coingecko"
+	]
+}

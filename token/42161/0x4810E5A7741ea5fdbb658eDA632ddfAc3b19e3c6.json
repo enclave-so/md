@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x4810E5A7741ea5fdbb658eDA632ddfAc3b19e3c6",
+	"symbol": "Arbitrum Ecosystem Index",
+	"name": "Arbitrum Ecosystem Index",
+	"coingecko": "arbitrum-ecosystem-index",
+	"sources": [
+		"coingecko"
+	]
+}

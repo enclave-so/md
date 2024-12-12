@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x170dEC83C7753AaAD20c01a0016b5A2E143990d4",
+	"symbol": "Wigger",
+	"name": "Wigger",
+	"coingecko": "wigger",
+	"sources": [
+		"coingecko"
+	]
+}

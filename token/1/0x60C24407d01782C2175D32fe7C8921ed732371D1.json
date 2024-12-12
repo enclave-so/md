@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x60C24407d01782C2175D32fe7C8921ed732371D1",
+	"symbol": "LemoChain",
+	"name": "LemoChain",
+	"coingecko": "lemochain",
+	"sources": [
+		"coingecko"
+	]
+}

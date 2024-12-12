@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xCfffCd2C6294BBB01Ca55CBB4a281bDCf532c1Ce",
+	"symbol": "Diamond Inu",
+	"name": "Diamond Inu",
+	"coingecko": "diamond-inu",
+	"sources": [
+		"coingecko"
+	]
+}

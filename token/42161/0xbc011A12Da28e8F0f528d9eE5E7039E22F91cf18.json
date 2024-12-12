@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0xbc011A12Da28e8F0f528d9eE5E7039E22F91cf18",
+	"symbol": "Swell Ethereum",
+	"name": "Swell Ethereum",
+	"coingecko": "sweth",
+	"sources": [
+		"coingecko"
+	]
+}

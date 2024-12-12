@@ -1,0 +1,10 @@
+{
+	"chain": 1030,
+	"address": "0x22F41aBf77905f50dF398f21213290597e7414Dd",
+	"symbol": "Swappi",
+	"name": "Swappi",
+	"coingecko": "swappi",
+	"sources": [
+		"coingecko"
+	]
+}

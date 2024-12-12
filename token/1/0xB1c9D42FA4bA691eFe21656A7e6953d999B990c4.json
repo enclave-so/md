@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xB1c9D42FA4bA691eFe21656A7e6953d999B990c4",
+	"symbol": "Kangamoon",
+	"name": "Kangamoon",
+	"coingecko": "kangamoon",
+	"sources": [
+		"coingecko"
+	]
+}

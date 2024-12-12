@@ -1,0 +1,11 @@
+{
+	"chain": 1285,
+	"address": "0x868892CCcEdbfF0B028F3b3595205Ea91b99376B",
+	"symbol": "BNB",
+	"name": "BNB - Meter",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/bnb.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

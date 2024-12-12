@@ -1,0 +1,10 @@
+{
+	"chain": 369,
+	"address": "0x8854bC985fB5725F872c8856bEA11B917cAEb2fE",
+	"symbol": "PHAME",
+	"name": "PHAME",
+	"coingecko": "phame",
+	"sources": [
+		"coingecko"
+	]
+}

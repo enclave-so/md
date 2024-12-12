@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x5832Fbf930DacbDd9a1697dCA7b3C518277FF0b0",
+	"symbol": "Didi Bam Bam",
+	"name": "Didi Bam Bam",
+	"coingecko": "didi-bam-bam",
+	"sources": [
+		"coingecko"
+	]
+}

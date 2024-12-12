@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xFbcb5cBEDEebCC55dCd136D34Db1DaaF74cf67E8",
+	"symbol": "Animalia",
+	"name": "Animalia",
+	"coingecko": "animalia",
+	"sources": [
+		"coingecko"
+	]
+}

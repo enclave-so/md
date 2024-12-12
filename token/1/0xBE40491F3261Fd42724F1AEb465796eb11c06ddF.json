@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xBE40491F3261Fd42724F1AEb465796eb11c06ddF",
+	"symbol": "Re7 FRAX",
+	"name": "Re7 FRAX",
+	"coingecko": "re7-frax",
+	"sources": [
+		"coingecko"
+	]
+}

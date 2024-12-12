@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x5DFD5edFde4d8EC9e632dCA9d09Fc7E833f74210",
+	"symbol": "Infinity Skies",
+	"name": "Infinity Skies",
+	"coingecko": "infinity-skies",
+	"sources": [
+		"coingecko"
+	]
+}

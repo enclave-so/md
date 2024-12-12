@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x23d7Ff057c696fEE679c60cEf61Fee6614218f04",
+	"symbol": "Unipoly",
+	"name": "Unipoly",
+	"coingecko": "unipoly",
+	"sources": [
+		"coingecko"
+	]
+}

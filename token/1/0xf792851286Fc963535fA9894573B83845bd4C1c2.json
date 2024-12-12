@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xf792851286Fc963535fA9894573B83845bd4C1c2",
+	"symbol": "SIA AI",
+	"name": "SIA AI",
+	"coingecko": "sia-ai",
+	"sources": [
+		"coingecko"
+	]
+}

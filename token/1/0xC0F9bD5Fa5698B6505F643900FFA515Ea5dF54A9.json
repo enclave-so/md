@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0xC0F9bD5Fa5698B6505F643900FFA515Ea5dF54A9",
+	"symbol": "DONUT",
+	"name": "Donut",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xC0F9bD5Fa5698B6505F643900FFA515Ea5dF54A9.jpg",
+	"coingecko": "donut",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

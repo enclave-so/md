@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x7efBAC35B65e73484764Fd00F18E64929E782855",
+	"symbol": "CIFI",
+	"name": "CIFI",
+	"coingecko": "cifi",
+	"sources": [
+		"coingecko"
+	]
+}

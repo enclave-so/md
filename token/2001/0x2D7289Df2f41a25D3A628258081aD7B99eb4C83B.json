@@ -1,0 +1,10 @@
+{
+	"chain": 2001,
+	"address": "0x2D7289Df2f41a25D3A628258081aD7B99eb4C83B",
+	"symbol": "MuesliSwap Yield",
+	"name": "MuesliSwap Yield",
+	"coingecko": "muesliswap-yield-token",
+	"sources": [
+		"coingecko"
+	]
+}

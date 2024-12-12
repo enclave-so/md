@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0x1fE24F25b1Cf609B9c4e7E12D802e3640dFA5e43",
+	"symbol": "CGG",
+	"name": "ChainGuardians Governance Token",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x1fE24F25b1Cf609B9c4e7E12D802e3640dFA5e43.jpg",
+	"coingecko": "chain-guardians",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

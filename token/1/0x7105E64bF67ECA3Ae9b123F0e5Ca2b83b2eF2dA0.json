@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x7105E64bF67ECA3Ae9b123F0e5Ca2b83b2eF2dA0",
+	"symbol": "X7DAO",
+	"name": "X7DAO",
+	"coingecko": "x7dao",
+	"sources": [
+		"coingecko"
+	]
+}

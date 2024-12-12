@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x9DF03fBa103491fFFDE4FBC5FEa15efaa43C67a5",
+	"symbol": "NFMart",
+	"name": "NFMart",
+	"coingecko": "nfmart",
+	"sources": [
+		"coingecko"
+	]
+}

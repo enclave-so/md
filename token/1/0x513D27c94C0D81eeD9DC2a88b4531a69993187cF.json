@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x513D27c94C0D81eeD9DC2a88b4531a69993187cF",
+	"symbol": "Kernel Staked ETH",
+	"name": "Kernel Staked ETH",
+	"coingecko": "kernel-staked-eth",
+	"sources": [
+		"coingecko"
+	]
+}

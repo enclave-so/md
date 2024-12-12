@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x80a2AE356fc9ef4305676f7a3E2Ed04e12C33946",
+	"symbol": "cYFI",
+	"name": "cYFI",
+	"coingecko": "compound-yearn-finance",
+	"sources": [
+		"coingecko"
+	]
+}

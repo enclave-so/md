@@ -1,0 +1,10 @@
+{
+	"chain": 1234,
+	"address": "0x68b2DFC494362AAE300F2C401019205d8960226b",
+	"symbol": "KCAL",
+	"name": "KCAL",
+	"coingecko": "kcal",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xA6586E19EF681b1AC0ED3D46413D199a555dBB95",
+	"symbol": "Lets Go Brandon",
+	"name": "Lets Go Brandon",
+	"coingecko": "lets-go-brandon",
+	"sources": [
+		"coingecko"
+	]
+}

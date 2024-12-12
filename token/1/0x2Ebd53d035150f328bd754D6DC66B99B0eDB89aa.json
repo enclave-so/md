@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x2Ebd53d035150f328bd754D6DC66B99B0eDB89aa",
+	"symbol": "Metronome",
+	"name": "Metronome",
+	"coingecko": "metronome",
+	"sources": [
+		"coingecko"
+	]
+}

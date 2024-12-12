@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x8aD3d3e6B1b7B65138bD508E48330B544539b2C3",
+	"symbol": "Kinetix Finance Token",
+	"name": "Kinetix Finance Token",
+	"coingecko": "kinetixfi",
+	"sources": [
+		"coingecko"
+	]
+}

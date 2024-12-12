@@ -1,0 +1,10 @@
+{
+	"chain": 13371,
+	"address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
+	"symbol": "Bridged Axelar Wrapped USD Coin (Immutable zkEVM)",
+	"name": "Bridged Axelar Wrapped USD Coin (Immutable zkEVM)",
+	"coingecko": "bridged-axelar-wrapped-usd-coin-immutable-zkevm",
+	"sources": [
+		"coingecko"
+	]
+}

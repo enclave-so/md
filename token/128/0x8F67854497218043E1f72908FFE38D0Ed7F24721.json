@@ -1,0 +1,11 @@
+{
+	"chain": 128,
+	"address": "0x8F67854497218043E1f72908FFE38D0Ed7F24721",
+	"symbol": "LHB",
+	"name": "LendHub",
+	"decimals": 18,
+	"logo": "https://hecoinfo.com/images/main/empty-token.png",
+	"sources": [
+		"sushiswap"
+	]
+}

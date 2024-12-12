@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x0d85693B4cb4b8bB4d407e33Ba1d9De861db80ca",
+	"symbol": "Privago AI",
+	"name": "Privago AI",
+	"coingecko": "privago-ai",
+	"sources": [
+		"coingecko"
+	]
+}

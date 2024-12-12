@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xc4C75F2A0cB1a9ACc33929512dc9733EA1Fd6fde",
+	"symbol": "Martin Shkreli Inu",
+	"name": "Martin Shkreli Inu",
+	"coingecko": "martin-shkreli-inu",
+	"sources": [
+		"coingecko"
+	]
+}

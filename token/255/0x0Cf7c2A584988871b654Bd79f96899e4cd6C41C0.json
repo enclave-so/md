@@ -1,0 +1,10 @@
+{
+	"chain": 255,
+	"address": "0x0Cf7c2A584988871b654Bd79f96899e4cd6C41C0",
+	"symbol": "Kroma Bridged USDT (Kroma)",
+	"name": "Kroma Bridged USDT (Kroma)",
+	"coingecko": "kroma-bridged-usdt-kroma",
+	"sources": [
+		"coingecko"
+	]
+}

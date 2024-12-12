@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x5c15cdB9d43824DCA67Fceb1201e5aBeBE0b2CBc",
+	"symbol": "CryptoFarmers",
+	"name": "CryptoFarmers",
+	"coingecko": "cryptofarmers",
+	"sources": [
+		"coingecko"
+	]
+}

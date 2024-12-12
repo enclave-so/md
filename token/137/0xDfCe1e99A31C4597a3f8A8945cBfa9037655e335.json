@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xDfCe1e99A31C4597a3f8A8945cBfa9037655e335",
+	"symbol": "Astrafer",
+	"name": "Astrafer",
+	"coingecko": "astrafer",
+	"sources": [
+		"coingecko"
+	]
+}

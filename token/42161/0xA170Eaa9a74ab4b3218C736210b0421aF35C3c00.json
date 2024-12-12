@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0xA170Eaa9a74ab4b3218C736210b0421aF35C3c00",
+	"symbol": "Molandak",
+	"name": "Molandak",
+	"coingecko": "molandak",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x77D0cb0ab54F9E74b9405a5B3f60DA06A78F1AAd",
+	"symbol": "Wrapped Millix",
+	"name": "Wrapped Millix",
+	"coingecko": "wrapped-millix",
+	"sources": [
+		"coingecko"
+	]
+}

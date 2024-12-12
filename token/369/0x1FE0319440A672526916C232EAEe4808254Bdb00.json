@@ -1,0 +1,10 @@
+{
+	"chain": 369,
+	"address": "0x1FE0319440A672526916C232EAEe4808254Bdb00",
+	"symbol": "HEX Dollar Coin",
+	"name": "HEX Dollar Coin",
+	"coingecko": "hex-dollar-coin",
+	"sources": [
+		"coingecko"
+	]
+}

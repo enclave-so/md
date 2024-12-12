@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0xe20B9e246db5a0d21BF9209E4858Bc9A3ff7A034",
+	"symbol": "Wrapped Banano",
+	"name": "Wrapped Banano",
+	"coingecko": "wrapped-banano",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xE34ba9cbdF45c9d5Dcc80E96424337365b6Fe889",
+	"symbol": "Medusa",
+	"name": "Medusa",
+	"coingecko": "medusa-3",
+	"sources": [
+		"coingecko"
+	]
+}

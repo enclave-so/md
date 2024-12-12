@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x746DdA2ea243400D5a63e0700F190aB79f06489e",
+	"symbol": "BOSagora",
+	"name": "BOSagora",
+	"coingecko": "bosagora",
+	"sources": [
+		"coingecko"
+	]
+}

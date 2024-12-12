@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x4F7Cc8eF14f3Dc76Ee2fB60028749E1B61CEa162",
+	"symbol": "BitBoard",
+	"name": "BitBoard",
+	"coingecko": "bitboard",
+	"sources": [
+		"coingecko"
+	]
+}

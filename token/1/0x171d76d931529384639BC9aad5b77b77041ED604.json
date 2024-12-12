@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x171d76d931529384639BC9aad5b77b77041ED604",
+	"symbol": "MetaOctagon",
+	"name": "MetaOctagon",
+	"coingecko": "metaoctagon",
+	"sources": [
+		"coingecko"
+	]
+}

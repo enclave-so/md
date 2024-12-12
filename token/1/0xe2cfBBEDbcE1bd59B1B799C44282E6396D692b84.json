@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xe2cfBBEDbcE1bd59B1B799C44282E6396D692b84",
+	"symbol": "Dexioprotocol",
+	"name": "Dexioprotocol",
+	"coingecko": "dexioprotocol-v2",
+	"sources": [
+		"coingecko"
+	]
+}

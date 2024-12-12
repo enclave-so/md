@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x8355DBE8B0e275ABAd27eB843F3eaF3FC855e525",
+	"symbol": "Wolf Game Wool",
+	"name": "Wolf Game Wool",
+	"coingecko": "wolf-game-wool",
+	"sources": [
+		"coingecko"
+	]
+}

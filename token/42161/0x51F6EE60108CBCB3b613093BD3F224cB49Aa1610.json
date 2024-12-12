@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x51F6EE60108CBCB3b613093BD3F224cB49Aa1610",
+	"symbol": "Brightpool",
+	"name": "Brightpool",
+	"coingecko": "brightpool",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x5B7533812759B45C2B44C19e320ba2cD2681b542",
+	"symbol": "SingularityNET",
+	"name": "SingularityNET",
+	"coingecko": "singularitynet",
+	"sources": [
+		"coingecko"
+	]
+}

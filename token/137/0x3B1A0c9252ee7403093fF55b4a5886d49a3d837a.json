@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x3B1A0c9252ee7403093fF55b4a5886d49a3d837a",
+	"symbol": "Continuum World",
+	"name": "Continuum World",
+	"coingecko": "continuum-world",
+	"sources": [
+		"coingecko"
+	]
+}

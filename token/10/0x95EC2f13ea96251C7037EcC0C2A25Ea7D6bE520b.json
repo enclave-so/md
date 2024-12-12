@@ -1,0 +1,10 @@
+{
+	"chain": 10,
+	"address": "0x95EC2f13ea96251C7037EcC0C2A25Ea7D6bE520b",
+	"symbol": "WILDCOIN",
+	"name": "WILDCOIN",
+	"coingecko": "wildcoin",
+	"sources": [
+		"coingecko"
+	]
+}

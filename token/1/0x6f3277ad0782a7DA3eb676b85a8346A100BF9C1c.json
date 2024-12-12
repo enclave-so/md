@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x6f3277ad0782a7DA3eb676b85a8346A100BF9C1c",
+	"symbol": "DogPad Finance",
+	"name": "DogPad Finance",
+	"coingecko": "dogpad-finance",
+	"sources": [
+		"coingecko"
+	]
+}

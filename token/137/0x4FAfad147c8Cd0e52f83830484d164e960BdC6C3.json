@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x4FAfad147c8Cd0e52f83830484d164e960BdC6C3",
+	"symbol": "Qawalla",
+	"name": "Qawalla",
+	"coingecko": "qawalla",
+	"sources": [
+		"coingecko"
+	]
+}

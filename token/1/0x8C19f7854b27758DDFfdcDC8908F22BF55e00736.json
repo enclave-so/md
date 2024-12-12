@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x8C19f7854b27758DDFfdcDC8908F22BF55e00736",
+	"symbol": "YieldStone",
+	"name": "YieldStone",
+	"coingecko": "yieldstone",
+	"sources": [
+		"coingecko"
+	]
+}

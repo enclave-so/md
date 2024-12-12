@@ -1,0 +1,13 @@
+{
+	"chain": 25,
+	"address": "0x4ddA1Bb6E378dCEf97bfF1057b6452615E86373c",
+	"symbol": "KCH",
+	"name": "Kaching",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x4ddA1Bb6E378dCEf97bfF1057b6452615E86373c.jpg",
+	"coingecko": "kaching",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

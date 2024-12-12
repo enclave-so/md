@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x487d62468282Bd04ddf976631C23128A425555EE",
+	"symbol": "UPCX",
+	"name": "UPCX",
+	"coingecko": "upcx",
+	"sources": [
+		"coingecko"
+	]
+}

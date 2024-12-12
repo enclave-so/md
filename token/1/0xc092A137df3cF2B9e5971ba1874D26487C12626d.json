@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xc092A137df3cF2B9e5971ba1874D26487C12626d",
+	"symbol": "Ring AI",
+	"name": "Ring AI",
+	"coingecko": "ring-ai",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0xccC8cb5229B0ac8069C51fd58367Fd1e622aFD97",
+	"symbol": "GODS",
+	"name": "Gods Unchained",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xccC8cb5229B0ac8069C51fd58367Fd1e622aFD97/logo.png",
+	"coingecko": "gods-unchained",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

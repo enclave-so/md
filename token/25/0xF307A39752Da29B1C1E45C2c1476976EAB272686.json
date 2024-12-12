@@ -1,0 +1,13 @@
+{
+	"chain": 25,
+	"address": "0xF307A39752Da29B1C1E45C2c1476976EAB272686",
+	"symbol": "STONKS",
+	"name": "STONKS",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xF307A39752Da29B1C1E45C2c1476976EAB272686.jpg",
+	"coingecko": "stonks-cronos",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

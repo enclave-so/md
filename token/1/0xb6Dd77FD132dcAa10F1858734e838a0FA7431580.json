@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xb6Dd77FD132dcAa10F1858734e838a0FA7431580",
+	"symbol": "Filipcoin",
+	"name": "Filipcoin",
+	"coingecko": "filipcoin",
+	"sources": [
+		"coingecko"
+	]
+}

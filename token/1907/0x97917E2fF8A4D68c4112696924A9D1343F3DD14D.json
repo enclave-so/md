@@ -1,0 +1,10 @@
+{
+	"chain": 1907,
+	"address": "0x97917E2fF8A4D68c4112696924A9D1343F3DD14D",
+	"symbol": "Eskişehir Fan Token",
+	"name": "Eskişehir Fan Token",
+	"coingecko": "eskisehir-fan-token",
+	"sources": [
+		"coingecko"
+	]
+}

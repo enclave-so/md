@@ -1,0 +1,10 @@
+{
+	"chain": 1030,
+	"address": "0x905f2202003453006EAF975699545F2e909079B8",
+	"symbol": "ABC PoS Pool",
+	"name": "ABC PoS Pool",
+	"coingecko": "abc-pos-pool",
+	"sources": [
+		"coingecko"
+	]
+}

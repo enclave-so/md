@@ -1,0 +1,10 @@
+{
+	"chain": 14,
+	"address": "0x0B38e83B86d491735fEaa0a791F65c2B99535396",
+	"symbol": "Stargate Bridged USDT (Flare Network)",
+	"name": "Stargate Bridged USDT (Flare Network)",
+	"coingecko": "stargate-bridged-usdt-flare-network",
+	"sources": [
+		"coingecko"
+	]
+}

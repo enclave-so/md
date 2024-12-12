@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x535887989b9EdffB63b1Fd5C6b99a4d45443b49a",
+	"symbol": "47th POTUS",
+	"name": "47th POTUS",
+	"coingecko": "47th-potus",
+	"sources": [
+		"coingecko"
+	]
+}

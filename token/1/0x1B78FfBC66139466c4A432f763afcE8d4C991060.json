@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x1B78FfBC66139466c4A432f763afcE8d4C991060",
+	"symbol": "Cloudnet Ai",
+	"name": "Cloudnet Ai",
+	"coingecko": "cloudnet-ai",
+	"sources": [
+		"coingecko"
+	]
+}

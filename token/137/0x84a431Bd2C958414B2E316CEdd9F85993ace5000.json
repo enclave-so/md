@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x84a431Bd2C958414B2E316CEdd9F85993ace5000",
+	"symbol": "LE7EL",
+	"name": "LE7EL",
+	"coingecko": "le7el",
+	"sources": [
+		"coingecko"
+	]
+}

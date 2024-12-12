@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x1500205f50bf3FD976466d0662905c9ff254fc9c",
+	"symbol": "BitBoost",
+	"name": "BitBoost",
+	"coingecko": "bitboost",
+	"sources": [
+		"coingecko"
+	]
+}

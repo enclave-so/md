@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x4A7779AbeD707A9C7DEadbBef5c15f3e52370A99",
+	"symbol": "Flame",
+	"name": "Flame",
+	"coingecko": "flame-2",
+	"sources": [
+		"coingecko"
+	]
+}

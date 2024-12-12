@@ -1,0 +1,11 @@
+{
+	"chain": 1285,
+	"address": "0x8b29344f368b5FA35595325903fE0eAab70C8E1F",
+	"symbol": "POLK",
+	"name": "Polkamarkets",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/moonriver/0x8b29344f368b5FA35595325903fE0eAab70C8E1F.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

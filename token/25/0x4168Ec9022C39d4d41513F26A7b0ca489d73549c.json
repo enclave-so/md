@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0x4168Ec9022C39d4d41513F26A7b0ca489d73549c",
+	"symbol": "ACH",
+	"name": "Alchemy",
+	"decimals": 8,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x4168Ec9022C39d4d41513F26A7b0ca489d73549c.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

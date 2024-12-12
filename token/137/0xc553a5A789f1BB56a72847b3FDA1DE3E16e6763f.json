@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xc553a5A789f1BB56a72847b3FDA1DE3E16e6763f",
+	"symbol": "CygnusDAO",
+	"name": "CygnusDAO",
+	"coingecko": "cygnusdao",
+	"sources": [
+		"coingecko"
+	]
+}

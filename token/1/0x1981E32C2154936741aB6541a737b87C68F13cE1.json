@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x1981E32C2154936741aB6541a737b87C68F13cE1",
+	"symbol": "DAII",
+	"name": "DAII",
+	"coingecko": "daii",
+	"sources": [
+		"coingecko"
+	]
+}

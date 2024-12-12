@@ -1,0 +1,13 @@
+{
+	"chain": 250,
+	"address": "0x8D11eC38a3EB5E956B052f67Da8Bdc9bef8Abf3E",
+	"symbol": "anyDAI",
+	"name": "Dai Stablecoin",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/dai.jpg",
+	"coingecko": "multichain-bridged-dai-fantom",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

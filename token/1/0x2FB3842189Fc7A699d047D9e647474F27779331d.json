@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x2FB3842189Fc7A699d047D9e647474F27779331d",
+	"symbol": "Pepe 2nd Chance",
+	"name": "Pepe 2nd Chance",
+	"coingecko": "pepe-2nd-chance",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1030,
+	"address": "0x1858a8d367e69cd9E23d0Da4169885a47F05f1bE",
+	"symbol": "SHUI CFX",
+	"name": "SHUI CFX",
+	"coingecko": "shui-cfx",
+	"sources": [
+		"coingecko"
+	]
+}

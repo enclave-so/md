@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xa71d0588EAf47f12B13cF8eC750430d21DF04974",
+	"symbol": "Shiba Predator",
+	"name": "Shiba Predator",
+	"coingecko": "shiba-predator",
+	"sources": [
+		"coingecko"
+	]
+}

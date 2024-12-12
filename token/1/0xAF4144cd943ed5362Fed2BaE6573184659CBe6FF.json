@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xAF4144cd943ed5362Fed2BaE6573184659CBe6FF",
+	"symbol": "Lizcoin",
+	"name": "Lizcoin",
+	"coingecko": "lizcoin",
+	"sources": [
+		"coingecko"
+	]
+}

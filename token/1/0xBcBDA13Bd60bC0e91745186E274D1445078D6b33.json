@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xBcBDA13Bd60bC0e91745186E274D1445078D6b33",
+	"symbol": "Ferret AI",
+	"name": "Ferret AI",
+	"coingecko": "ferret-ai",
+	"sources": [
+		"coingecko"
+	]
+}

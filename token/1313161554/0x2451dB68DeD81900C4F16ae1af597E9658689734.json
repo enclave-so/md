@@ -1,0 +1,10 @@
+{
+	"chain": 1313161554,
+	"address": "0x2451dB68DeD81900C4F16ae1af597E9658689734",
+	"symbol": "Vaporwave",
+	"name": "Vaporwave",
+	"coingecko": "vaporwave",
+	"sources": [
+		"coingecko"
+	]
+}

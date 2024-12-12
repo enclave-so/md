@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xe9E7c09e82328c3107d367f6c617cF9977e63ED0",
+	"symbol": "A51 Finance",
+	"name": "A51 Finance",
+	"coingecko": "a51-finance",
+	"sources": [
+		"coingecko"
+	]
+}

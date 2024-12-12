@@ -1,0 +1,10 @@
+{
+	"chain": 1907,
+	"address": "0x26A96960c6Ea3E3353dDd642c2FE4cE928B095dd",
+	"symbol": "Beat",
+	"name": "Beat",
+	"coingecko": "beat-2",
+	"sources": [
+		"coingecko"
+	]
+}

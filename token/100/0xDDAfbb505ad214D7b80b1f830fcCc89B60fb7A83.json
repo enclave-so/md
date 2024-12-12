@@ -1,0 +1,13 @@
+{
+	"chain": 100,
+	"address": "0xDDAfbb505ad214D7b80b1f830fcCc89B60fb7A83",
+	"symbol": "USDC",
+	"name": "USDC on xDai",
+	"decimals": 6,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/0xDDAfbb505ad214D7b80b1f830fcCc89B60fb7A83.jpg",
+	"coingecko": "gnosis-xdai-bridged-usdc-gnosis",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

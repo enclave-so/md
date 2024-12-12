@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x303c89f3A4a58872d8b6a3e64c14FDD9eC669C99",
+	"symbol": "Baby Neiro",
+	"name": "Baby Neiro",
+	"coingecko": "baby-neiro-cto",
+	"sources": [
+		"coingecko"
+	]
+}

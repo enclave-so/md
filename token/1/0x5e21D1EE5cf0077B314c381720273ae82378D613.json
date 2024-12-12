@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x5e21D1EE5cf0077B314c381720273ae82378D613",
+	"symbol": "The Infinite Garden",
+	"name": "The Infinite Garden",
+	"coingecko": "the-infinite-garden",
+	"sources": [
+		"coingecko"
+	]
+}

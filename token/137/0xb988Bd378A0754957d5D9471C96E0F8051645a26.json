@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xb988Bd378A0754957d5D9471C96E0F8051645a26",
+	"symbol": "iNFTspace",
+	"name": "iNFTspace",
+	"coingecko": "inftspace",
+	"sources": [
+		"coingecko"
+	]
+}

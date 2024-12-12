@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xD2af830E8CBdFed6CC11Bab697bB25496ed6FA62",
+	"symbol": "Wrapped OUSD",
+	"name": "Wrapped OUSD",
+	"coingecko": "wrapped-ousd",
+	"sources": [
+		"coingecko"
+	]
+}

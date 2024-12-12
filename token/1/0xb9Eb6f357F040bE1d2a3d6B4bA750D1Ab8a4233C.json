@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xb9Eb6f357F040bE1d2a3d6B4bA750D1Ab8a4233C",
+	"symbol": "Fresco",
+	"name": "Fresco",
+	"coingecko": "fresco",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"chain": 1101,
+	"address": "0x4B16e4752711A7ABEc32799C976F3CeFc0111f2B",
+	"symbol": "LINK",
+	"name": "Chain Link",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/polygon-zkevm/0x4B16e4752711A7ABEc32799C976F3CeFc0111f2B.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

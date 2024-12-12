@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x590F820444fA3638e022776752c5eEF34E2F89A6",
+	"symbol": "Alephium",
+	"name": "Alephium",
+	"coingecko": "alephium",
+	"sources": [
+		"coingecko"
+	]
+}

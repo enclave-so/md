@@ -1,0 +1,10 @@
+{
+	"chain": 3,
+	"address": "0x5457Cc9B34eA486eB8d3286329F3536f71fa8A8B",
+	"symbol": "SUSHI",
+	"name": "SushiToken",
+	"decimals": 18,
+	"sources": [
+		"sushiswap"
+	]
+}

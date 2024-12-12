@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0x4fE83213D56308330EC302a8BD641f1d0113A4Cc",
+	"symbol": "NU",
+	"name": "NuCypher",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/3318/small/photo1198982838879365035.jpg?1547037916",
+	"coingecko": "nucypher",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

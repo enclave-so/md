@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0xcb46C550539ac3DB72dc7aF7c89B11c306C727c2",
+	"symbol": "pONT",
+	"name": "Poly Ontology Token",
+	"decimals": 9,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/pont.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

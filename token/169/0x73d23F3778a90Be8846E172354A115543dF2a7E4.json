@@ -1,0 +1,10 @@
+{
+	"chain": 169,
+	"address": "0x73d23F3778a90Be8846E172354A115543dF2a7E4",
+	"symbol": "Manta Pacific Bridged USDZ (Manta Pacific)",
+	"name": "Manta Pacific Bridged USDZ (Manta Pacific)",
+	"coingecko": "manta-pacific-bridged-usdz-manta-pacific",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 369,
+	"address": "0x2A06a971fE6ffa002fd242d437E3db2b5cC5B433",
+	"symbol": "Piteas",
+	"name": "Piteas",
+	"coingecko": "piteas",
+	"sources": [
+		"coingecko"
+	]
+}

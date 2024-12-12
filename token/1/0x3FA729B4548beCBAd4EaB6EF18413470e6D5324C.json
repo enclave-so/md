@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x3FA729B4548beCBAd4EaB6EF18413470e6D5324C",
+	"symbol": "Mover",
+	"name": "Mover",
+	"coingecko": "holyheld-2",
+	"sources": [
+		"coingecko"
+	]
+}

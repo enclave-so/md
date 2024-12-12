@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x77163C968c2506077dBe74838DEA72314A2D5760",
+	"symbol": "SOMA.finance",
+	"name": "SOMA.finance",
+	"coingecko": "soma-finance",
+	"sources": [
+		"coingecko"
+	]
+}

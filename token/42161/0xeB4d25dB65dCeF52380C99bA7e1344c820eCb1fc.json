@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0xeB4d25dB65dCeF52380C99bA7e1344c820eCb1fc",
+	"symbol": "X World Games",
+	"name": "X World Games",
+	"coingecko": "x-world-games",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"chain": 11235,
+	"address": "0xc03345448969Dd8C00e9E4A85d2d9722d093aF8E",
+	"symbol": "OSMO",
+	"name": "Native token Osmosis network",
+	"decimals": 6,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/haqq/0xc03345448969Dd8C00e9E4A85d2d9722d093aF8E.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

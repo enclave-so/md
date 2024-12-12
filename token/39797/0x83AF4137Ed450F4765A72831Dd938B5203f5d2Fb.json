@@ -1,0 +1,10 @@
+{
+	"chain": 39797,
+	"address": "0x83AF4137Ed450F4765A72831Dd938B5203f5d2Fb",
+	"symbol": "Serum",
+	"name": "Serum",
+	"coingecko": "serum",
+	"sources": [
+		"coingecko"
+	]
+}

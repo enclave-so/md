@@ -1,0 +1,10 @@
+{
+	"chain": 250,
+	"address": "0xCD62f054eeE65c8D23fe2aDC8bae0443D4EC82dB",
+	"symbol": "GOAT404",
+	"name": "GOAT404",
+	"coingecko": "goat404",
+	"sources": [
+		"coingecko"
+	]
+}

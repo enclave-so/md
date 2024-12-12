@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x78B1aA5C9b37c52695C93448Ad0C64560edB9c4d",
+	"symbol": "Fooday",
+	"name": "Fooday",
+	"coingecko": "fooday",
+	"sources": [
+		"coingecko"
+	]
+}

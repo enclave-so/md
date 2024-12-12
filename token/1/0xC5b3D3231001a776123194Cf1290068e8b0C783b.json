@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xC5b3D3231001a776123194Cf1290068e8b0C783b",
+	"symbol": "LIT",
+	"name": "LIT",
+	"coingecko": "lit",
+	"sources": [
+		"coingecko"
+	]
+}

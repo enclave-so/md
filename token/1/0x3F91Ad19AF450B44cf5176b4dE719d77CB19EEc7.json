@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x3F91Ad19AF450B44cf5176b4dE719d77CB19EEc7",
+	"symbol": "Luxury Travel Token",
+	"name": "Luxury Travel Token",
+	"coingecko": "luxury-travel-token",
+	"sources": [
+		"coingecko"
+	]
+}

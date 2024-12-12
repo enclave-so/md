@@ -1,0 +1,10 @@
+{
+	"chain": 169,
+	"address": "0x41C49790967067A71f893B51f2F311aCe46fb773",
+	"symbol": "CirclePacific",
+	"name": "CirclePacific",
+	"coingecko": "circlepacific",
+	"sources": [
+		"coingecko"
+	]
+}

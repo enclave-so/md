@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0xa283aA7CfBB27EF0cfBcb2493dD9F4330E0fd304",
+	"symbol": "MM",
+	"name": "MMToken",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xa283aA7CfBB27EF0cfBcb2493dD9F4330E0fd304/logo.png",
+	"sources": [
+		"sushiswap"
+	]
+}

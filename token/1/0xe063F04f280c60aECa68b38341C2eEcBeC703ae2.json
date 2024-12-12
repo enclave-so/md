@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xe063F04f280c60aECa68b38341C2eEcBeC703ae2",
+	"symbol": "f(x) Protocol Leveraged ETH",
+	"name": "f(x) Protocol Leveraged ETH",
+	"coingecko": "f-x-protocol-leveraged-eth",
+	"sources": [
+		"coingecko"
+	]
+}

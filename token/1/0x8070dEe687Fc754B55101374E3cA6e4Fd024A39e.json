@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x8070dEe687Fc754B55101374E3cA6e4Fd024A39e",
+	"symbol": "Sentinel AI",
+	"name": "Sentinel AI",
+	"coingecko": "sentinel-ai",
+	"sources": [
+		"coingecko"
+	]
+}

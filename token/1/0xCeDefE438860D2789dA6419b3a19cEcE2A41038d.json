@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xCeDefE438860D2789dA6419b3a19cEcE2A41038d",
+	"symbol": "Love Hate Inu",
+	"name": "Love Hate Inu",
+	"coingecko": "love-hate-inu",
+	"sources": [
+		"coingecko"
+	]
+}

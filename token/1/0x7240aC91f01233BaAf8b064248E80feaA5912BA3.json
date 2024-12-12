@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x7240aC91f01233BaAf8b064248E80feaA5912BA3",
+	"symbol": "OctoFi",
+	"name": "OctoFi",
+	"coingecko": "octofi",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0xC9B5b981E7FFd630f456614d75230022F46fD03d",
+	"symbol": "VET",
+	"name": "VET",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xC9B5b981E7FFd630f456614d75230022F46fD03d.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

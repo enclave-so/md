@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x41dBECc1cdC5517C6f76f6a6E836aDbEe2754DE3",
+	"symbol": "Medicalchain",
+	"name": "Medicalchain",
+	"coingecko": "medicalchain",
+	"sources": [
+		"coingecko"
+	]
+}

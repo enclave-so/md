@@ -1,0 +1,10 @@
+{
+	"chain": 1313161554,
+	"address": "0xE3ff873C1e104118Ec83310E39aAfDE17d18005d",
+	"symbol": "ScamFari",
+	"name": "ScamFari",
+	"coingecko": "scamfari",
+	"sources": [
+		"coingecko"
+	]
+}

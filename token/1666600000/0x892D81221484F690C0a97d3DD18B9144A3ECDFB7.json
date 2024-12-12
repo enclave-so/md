@@ -1,0 +1,11 @@
+{
+	"chain": 1666600000,
+	"address": "0x892D81221484F690C0a97d3DD18B9144A3ECDFB7",
+	"symbol": "MAGIC",
+	"name": "Magic",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/harmony/assets/0x892D81221484F690C0a97d3DD18B9144A3ECDFB7/logo.png",
+	"sources": [
+		"sushiswap"
+	]
+}

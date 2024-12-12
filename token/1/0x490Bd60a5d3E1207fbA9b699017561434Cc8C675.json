@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x490Bd60a5d3E1207fbA9b699017561434Cc8C675",
+	"symbol": "Bugs Bunny",
+	"name": "Bugs Bunny",
+	"coingecko": "bugs-bunny",
+	"sources": [
+		"coingecko"
+	]
+}

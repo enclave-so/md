@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x9B8B6A1298d34B3c4bBDDce8a7fF0149121592C1",
+	"symbol": "AMBO",
+	"name": "AMBO",
+	"coingecko": "ambo",
+	"sources": [
+		"coingecko"
+	]
+}

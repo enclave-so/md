@@ -1,0 +1,10 @@
+{
+	"chain": 369,
+	"address": "0x8BF45680485b2aC15E452a9599E87b94c5A07792",
+	"symbol": "4-Way Mirror Money",
+	"name": "4-Way Mirror Money",
+	"coingecko": "4-way-mirror-money",
+	"sources": [
+		"coingecko"
+	]
+}

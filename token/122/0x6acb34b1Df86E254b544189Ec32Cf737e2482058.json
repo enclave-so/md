@@ -1,0 +1,13 @@
+{
+	"chain": 122,
+	"address": "0x6acb34b1Df86E254b544189Ec32Cf737e2482058",
+	"symbol": "BNB",
+	"name": "BNB",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/bnb.jpg",
+	"coingecko": "wbnb",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

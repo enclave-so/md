@@ -1,0 +1,10 @@
+{
+	"chain": 39797,
+	"address": "0x6bb14afEdC740dCE4904B7a65807fE3b967f4c94",
+	"symbol": "Status",
+	"name": "Status",
+	"coingecko": "status",
+	"sources": [
+		"coingecko"
+	]
+}

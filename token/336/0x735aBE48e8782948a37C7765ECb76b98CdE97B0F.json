@@ -1,0 +1,10 @@
+{
+	"chain": 336,
+	"address": "0x735aBE48e8782948a37C7765ECb76b98CdE97B0F",
+	"symbol": "JPY Coin v1",
+	"name": "JPY Coin v1",
+	"coingecko": "jpyc",
+	"sources": [
+		"coingecko"
+	]
+}

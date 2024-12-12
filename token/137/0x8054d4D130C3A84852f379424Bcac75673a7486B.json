@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x8054d4D130C3A84852f379424Bcac75673a7486B",
+	"symbol": "Parallel USD",
+	"name": "Parallel USD",
+	"coingecko": "parallel-usd",
+	"sources": [
+		"coingecko"
+	]
+}

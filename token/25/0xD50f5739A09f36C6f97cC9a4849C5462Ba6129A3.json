@@ -1,0 +1,13 @@
+{
+	"chain": 25,
+	"address": "0xD50f5739A09f36C6f97cC9a4849C5462Ba6129A3",
+	"symbol": "Croginal",
+	"name": "Croginal Cats",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xD50f5739A09f36C6f97cC9a4849C5462Ba6129A3.jpg",
+	"coingecko": "croginal-cats",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

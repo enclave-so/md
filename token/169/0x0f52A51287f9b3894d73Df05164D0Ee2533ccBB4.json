@@ -1,0 +1,10 @@
+{
+	"chain": 169,
+	"address": "0x0f52A51287f9b3894d73Df05164D0Ee2533ccBB4",
+	"symbol": "Bridged MATIC (Manta Pacific)",
+	"name": "Bridged MATIC (Manta Pacific)",
+	"coingecko": "bridged-matic-manta-pacific",
+	"sources": [
+		"coingecko"
+	]
+}

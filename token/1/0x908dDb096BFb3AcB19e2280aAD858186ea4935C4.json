@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x908dDb096BFb3AcB19e2280aAD858186ea4935C4",
+	"symbol": "Eesee",
+	"name": "Eesee",
+	"coingecko": "eesee",
+	"sources": [
+		"coingecko"
+	]
+}

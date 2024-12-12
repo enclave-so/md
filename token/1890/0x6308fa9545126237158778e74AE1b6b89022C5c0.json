@@ -1,0 +1,10 @@
+{
+	"chain": 1890,
+	"address": "0x6308fa9545126237158778e74AE1b6b89022C5c0",
+	"symbol": "Bridged Tether (Lightlink)",
+	"name": "Bridged Tether (Lightlink)",
+	"coingecko": "bridged-tether-lightlink",
+	"sources": [
+		"coingecko"
+	]
+}

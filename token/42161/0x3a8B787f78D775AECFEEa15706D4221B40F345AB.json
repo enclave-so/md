@@ -1,0 +1,13 @@
+{
+	"chain": 42161,
+	"address": "0x3a8B787f78D775AECFEEa15706D4221B40F345AB",
+	"symbol": "CELR",
+	"name": "CelerToken",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/celr.jpg",
+	"coingecko": "celer-network",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x24EdDeD3f03abb2e9D047464294133378bddB596",
+	"symbol": "SECT BOT [OLD]",
+	"name": "SECT BOT [OLD]",
+	"coingecko": "sect-bot",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1116,
+	"address": "0xe9aece1BA8bBd429a1ed33349C61280441AC8F99",
+	"symbol": "Liquify Network",
+	"name": "Liquify Network",
+	"coingecko": "liquify-network",
+	"sources": [
+		"coingecko"
+	]
+}

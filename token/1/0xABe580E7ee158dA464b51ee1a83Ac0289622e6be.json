@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0xABe580E7ee158dA464b51ee1a83Ac0289622e6be",
+	"symbol": "XFT",
+	"name": "Offshift",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/xft.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

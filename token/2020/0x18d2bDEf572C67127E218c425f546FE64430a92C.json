@@ -1,0 +1,10 @@
+{
+	"chain": 2020,
+	"address": "0x18d2bDEf572C67127E218c425f546FE64430a92C",
+	"symbol": "Lumi Finance LUAUSD",
+	"name": "Lumi Finance LUAUSD",
+	"coingecko": "lumi-finance-luausd",
+	"sources": [
+		"coingecko"
+	]
+}

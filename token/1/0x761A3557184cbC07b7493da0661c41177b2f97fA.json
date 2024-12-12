@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x761A3557184cbC07b7493da0661c41177b2f97fA",
+	"symbol": "ValleyDAO",
+	"name": "ValleyDAO",
+	"coingecko": "valleydao",
+	"sources": [
+		"coingecko"
+	]
+}

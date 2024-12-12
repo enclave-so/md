@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x2bb0C32101456F5960d4e994Bac183Fe0dc6C82c",
+	"symbol": "Leveraged frxETH",
+	"name": "Leveraged frxETH",
+	"coingecko": "leveraged-frxeth",
+	"sources": [
+		"coingecko"
+	]
+}

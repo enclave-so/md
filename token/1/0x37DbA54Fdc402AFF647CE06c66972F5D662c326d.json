@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x37DbA54Fdc402AFF647CE06c66972F5D662c326d",
+	"symbol": "MELON",
+	"name": "MELON",
+	"coingecko": "melon-2",
+	"sources": [
+		"coingecko"
+	]
+}

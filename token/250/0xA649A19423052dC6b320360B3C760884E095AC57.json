@@ -1,0 +1,11 @@
+{
+	"chain": 250,
+	"address": "0xA649A19423052dC6b320360B3C760884E095AC57",
+	"symbol": "fLINK",
+	"name": "fLINK",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/flink.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0xa992b7Dde2eD1632D0B66C56744e914eD673A37f",
+	"symbol": "Agio",
+	"name": "Agio",
+	"coingecko": "agio",
+	"sources": [
+		"coingecko"
+	]
+}

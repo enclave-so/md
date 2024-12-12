@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xc3D2B3e23855001508e460A6dbE9f9e3116201aF",
+	"symbol": "GATEWAY TO MARS",
+	"name": "GATEWAY TO MARS",
+	"coingecko": "gateway-to-mars",
+	"sources": [
+		"coingecko"
+	]
+}

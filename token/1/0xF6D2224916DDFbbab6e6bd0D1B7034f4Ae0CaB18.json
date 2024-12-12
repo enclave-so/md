@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xF6D2224916DDFbbab6e6bd0D1B7034f4Ae0CaB18",
+	"symbol": "Aave v3 UNI",
+	"name": "Aave v3 UNI",
+	"coingecko": "aave-v3-uni",
+	"sources": [
+		"coingecko"
+	]
+}

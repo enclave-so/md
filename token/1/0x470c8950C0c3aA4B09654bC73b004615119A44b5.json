@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x470c8950C0c3aA4B09654bC73b004615119A44b5",
+	"symbol": "Kizuna",
+	"name": "Kizuna",
+	"coingecko": "kizuna",
+	"sources": [
+		"coingecko"
+	]
+}

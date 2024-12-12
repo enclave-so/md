@@ -1,0 +1,10 @@
+{
+	"chain": 2000,
+	"address": "0xB7ddC6414bf4F5515b52D8BdD69973Ae205ff101",
+	"symbol": "Wrapped WDOGE",
+	"name": "Wrapped WDOGE",
+	"coingecko": "wrapped-wdoge",
+	"sources": [
+		"coingecko"
+	]
+}

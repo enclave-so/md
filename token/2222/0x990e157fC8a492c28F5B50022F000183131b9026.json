@@ -1,0 +1,10 @@
+{
+	"chain": 2222,
+	"address": "0x990e157fC8a492c28F5B50022F000183131b9026",
+	"symbol": "Lion Scrub Money",
+	"name": "Lion Scrub Money",
+	"coingecko": "lion-scrub-money-2",
+	"sources": [
+		"coingecko"
+	]
+}

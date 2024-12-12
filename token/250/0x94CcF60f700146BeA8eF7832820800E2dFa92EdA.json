@@ -1,0 +1,10 @@
+{
+	"chain": 250,
+	"address": "0x94CcF60f700146BeA8eF7832820800E2dFa92EdA",
+	"symbol": "Wrapped HEC",
+	"name": "Wrapped HEC",
+	"coingecko": "wrapped-hec",
+	"sources": [
+		"coingecko"
+	]
+}

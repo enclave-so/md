@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x3Eb9c7ee5F72E51F61e832137719Fe8d1E53A2ce",
+	"symbol": "DecentraMind",
+	"name": "DecentraMind",
+	"coingecko": "decentramind",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 369,
+	"address": "0xf330cb1d41052dbC74D3325376Cb82E99454e501",
+	"symbol": "HEXFIRE",
+	"name": "HEXFIRE",
+	"coingecko": "hexfire",
+	"sources": [
+		"coingecko"
+	]
+}

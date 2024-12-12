@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xC91c06DB0f7bFFba61e2A5645CC15686F0a8c828",
+	"symbol": "Razor Network",
+	"name": "Razor Network",
+	"coingecko": "razor-network",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x5c872500c00565505F3624AB435c222E558E9ff8",
+	"symbol": "CoTrader",
+	"name": "CoTrader",
+	"coingecko": "cotrader",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 250,
+	"address": "0x4f851750a3e6f80f1E1f89C67B56960Bfc29A934",
+	"symbol": "KALM",
+	"name": "KALM",
+	"coingecko": "kalmar",
+	"sources": [
+		"coingecko"
+	]
+}

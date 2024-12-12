@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xa1428174F516F527fafdD146b883bB4428682737",
+	"symbol": "SuperVerse",
+	"name": "SuperVerse",
+	"coingecko": "superfarm",
+	"sources": [
+		"coingecko"
+	]
+}

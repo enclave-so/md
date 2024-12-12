@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x9cdf242Ef7975D8c68D5C1F5B6905801699b1940",
+	"symbol": "WhiteRock",
+	"name": "WhiteRock",
+	"coingecko": "whiterock",
+	"sources": [
+		"coingecko"
+	]
+}

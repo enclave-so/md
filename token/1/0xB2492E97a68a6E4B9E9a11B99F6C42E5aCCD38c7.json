@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xB2492E97a68a6E4B9E9a11B99F6C42E5aCCD38c7",
+	"symbol": "Veloce",
+	"name": "Veloce",
+	"coingecko": "veloce-vext",
+	"sources": [
+		"coingecko"
+	]
+}

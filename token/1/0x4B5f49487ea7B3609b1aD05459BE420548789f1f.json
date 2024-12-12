@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x4B5f49487ea7B3609b1aD05459BE420548789f1f",
+	"symbol": "LeverFi",
+	"name": "LeverFi",
+	"coingecko": "lever",
+	"sources": [
+		"coingecko"
+	]
+}

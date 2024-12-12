@@ -1,0 +1,11 @@
+{
+	"chain": 137,
+	"address": "0x6BCa3B77C1909Ce1a4Ba1A20d1103bDe8d222E48",
+	"symbol": "NBO",
+	"name": "Nature Based Offset",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x6BCa3B77C1909Ce1a4Ba1A20d1103bDe8d222E48.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

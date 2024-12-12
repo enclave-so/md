@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0x65e3fA51C4ce0af1B9CD5CBC7C5fDb80a09D431D",
+	"symbol": "axlTIA",
+	"name": "Axelar Wrapped TIA",
+	"decimals": 6,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x65e3fA51C4ce0af1B9CD5CBC7C5fDb80a09D431D.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

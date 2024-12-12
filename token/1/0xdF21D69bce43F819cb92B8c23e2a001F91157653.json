@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xdF21D69bce43F819cb92B8c23e2a001F91157653",
+	"symbol": "EtheRunes",
+	"name": "EtheRunes",
+	"coingecko": "etherunes",
+	"sources": [
+		"coingecko"
+	]
+}

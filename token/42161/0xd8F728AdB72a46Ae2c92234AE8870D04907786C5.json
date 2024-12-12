@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0xd8F728AdB72a46Ae2c92234AE8870D04907786C5",
+	"symbol": "Dinari AMD",
+	"name": "Dinari AMD",
+	"coingecko": "dinari-amd",
+	"sources": [
+		"coingecko"
+	]
+}

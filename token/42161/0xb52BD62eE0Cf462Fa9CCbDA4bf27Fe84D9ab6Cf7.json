@@ -1,0 +1,13 @@
+{
+	"chain": 42161,
+	"address": "0xb52BD62eE0Cf462Fa9CCbDA4bf27Fe84D9ab6Cf7",
+	"symbol": "SAIL",
+	"name": "SAIL Token",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xb52BD62eE0Cf462Fa9CCbDA4bf27Fe84D9ab6Cf7.jpg",
+	"coingecko": "sail-2",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x60e254E35Dd712394b3AbA7A1D19114732e143dD",
+	"symbol": "RivusDAO",
+	"name": "RivusDAO",
+	"coingecko": "rivusdao",
+	"sources": [
+		"coingecko"
+	]
+}

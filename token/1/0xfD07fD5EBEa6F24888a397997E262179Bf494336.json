@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xfD07fD5EBEa6F24888a397997E262179Bf494336",
+	"symbol": "Inception osETH",
+	"name": "Inception osETH",
+	"coingecko": "inception-restaked-oseth",
+	"sources": [
+		"coingecko"
+	]
+}

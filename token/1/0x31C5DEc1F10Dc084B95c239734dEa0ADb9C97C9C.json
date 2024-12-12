@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x31C5DEc1F10Dc084B95c239734dEa0ADb9C97C9C",
+	"symbol": "VIMworld OJEE",
+	"name": "VIMworld OJEE",
+	"coingecko": "vimworld-ojee",
+	"sources": [
+		"coingecko"
+	]
+}

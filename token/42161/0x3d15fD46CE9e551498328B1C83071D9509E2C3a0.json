@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x3d15fD46CE9e551498328B1C83071D9509E2C3a0",
+	"symbol": "Universal ETH",
+	"name": "Universal ETH",
+	"coingecko": "universal-eth",
+	"sources": [
+		"coingecko"
+	]
+}

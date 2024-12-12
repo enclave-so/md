@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x6Db8b088c4d41d622B44CD81B900bA690f2d496C",
+	"symbol": "Impossible Finance Launchpad",
+	"name": "Impossible Finance Launchpad",
+	"coingecko": "idia",
+	"sources": [
+		"coingecko"
+	]
+}

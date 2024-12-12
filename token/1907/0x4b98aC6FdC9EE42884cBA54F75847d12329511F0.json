@@ -1,0 +1,10 @@
+{
+	"chain": 1907,
+	"address": "0x4b98aC6FdC9EE42884cBA54F75847d12329511F0",
+	"symbol": "İstanbul Wild Cats Fan Token",
+	"name": "İstanbul Wild Cats Fan Token",
+	"coingecko": "istanbul-wild-cats-fan-token",
+	"sources": [
+		"coingecko"
+	]
+}

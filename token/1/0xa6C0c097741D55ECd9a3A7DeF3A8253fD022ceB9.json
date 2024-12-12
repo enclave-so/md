@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xa6C0c097741D55ECd9a3A7DeF3A8253fD022ceB9",
+	"symbol": "AVA (Travala)",
+	"name": "AVA (Travala)",
+	"coingecko": "concierge-io",
+	"sources": [
+		"coingecko"
+	]
+}

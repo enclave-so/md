@@ -1,0 +1,10 @@
+{
+	"chain": 100,
+	"address": "0x97Edc0e345FbBBd8460847Fcfa3bc2a13bF8641F",
+	"symbol": "DAOSquare",
+	"name": "DAOSquare",
+	"coingecko": "daosquare",
+	"sources": [
+		"coingecko"
+	]
+}

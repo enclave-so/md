@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x000000000a1c6659ac226dBB1C5BDC648DF72E9e",
+	"symbol": "Looter",
+	"name": "Looter",
+	"coingecko": "looter",
+	"sources": [
+		"coingecko"
+	]
+}

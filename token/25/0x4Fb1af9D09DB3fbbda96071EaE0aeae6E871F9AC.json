@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0x4Fb1af9D09DB3fbbda96071EaE0aeae6E871F9AC",
+	"symbol": "COMP",
+	"name": "Compound",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x4Fb1af9D09DB3fbbda96071EaE0aeae6E871F9AC.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

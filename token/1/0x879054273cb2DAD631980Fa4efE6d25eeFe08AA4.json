@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x879054273cb2DAD631980Fa4efE6d25eeFe08AA4",
+	"symbol": "Eigenpie frxETH",
+	"name": "Eigenpie frxETH",
+	"coingecko": "eigenpie-frxeth",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x9657477ac915F56ca87C253db1320218Ec2D5DDD",
+	"symbol": "Jake Newman Enterprises",
+	"name": "Jake Newman Enterprises",
+	"coingecko": "jake-newman-enterprises",
+	"sources": [
+		"coingecko"
+	]
+}

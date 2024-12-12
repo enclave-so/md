@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xC3f56d567E7663e8932E65d85ae4be7Eb5575cA7",
+	"symbol": "Faith Tribe",
+	"name": "Faith Tribe",
+	"coingecko": "faith-tribe",
+	"sources": [
+		"coingecko"
+	]
+}

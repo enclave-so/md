@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xF6650117017FFD48B725B4EC5A00B414097108A7",
+	"symbol": "Xido Finance",
+	"name": "Xido Finance",
+	"coingecko": "xido-finance",
+	"sources": [
+		"coingecko"
+	]
+}

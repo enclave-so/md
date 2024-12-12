@@ -1,0 +1,10 @@
+{
+	"chain": 250,
+	"address": "0xD121c2D34AE2A5a415Dc5FC4f898B084643DbA78",
+	"symbol": "Generator",
+	"name": "Generator",
+	"coingecko": "generator",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"chain": 128,
+	"address": "0x5A6B72Dd6209A770aE1C02a7A2E1900636072d0b",
+	"symbol": "ARPA",
+	"name": "Heco-Peg ARPA Token",
+	"decimals": 18,
+	"logo": "https://hecoinfo.com/images/main/empty-token.png",
+	"sources": [
+		"sushiswap"
+	]
+}

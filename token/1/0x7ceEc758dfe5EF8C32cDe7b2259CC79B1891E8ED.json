@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x7ceEc758dfe5EF8C32cDe7b2259CC79B1891E8ED",
+	"symbol": "Evire",
+	"name": "Evire",
+	"coingecko": "evire",
+	"sources": [
+		"coingecko"
+	]
+}

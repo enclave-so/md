@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x208BCf9CD1D694D1D3C630362E517940e3724D80",
+	"symbol": "ORACLE",
+	"name": "ORACLE",
+	"coingecko": "oracle-2",
+	"sources": [
+		"coingecko"
+	]
+}

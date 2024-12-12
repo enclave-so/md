@@ -1,0 +1,10 @@
+{
+	"chain": 250,
+	"address": "0xC3f069D7439baf6D4D6E9478D9Cc77778E62D147",
+	"symbol": "Fantom Libero Financial",
+	"name": "Fantom Libero Financial",
+	"coingecko": "fantom-libero-financial",
+	"sources": [
+		"coingecko"
+	]
+}

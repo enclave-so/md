@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x14bFc34B292AA3F8aFA0c366244fFB77F72761f6",
+	"symbol": "The Night Riders",
+	"name": "The Night Riders",
+	"coingecko": "the-night-riders",
+	"sources": [
+		"coingecko"
+	]
+}

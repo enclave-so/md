@@ -1,0 +1,10 @@
+{
+	"chain": 33139,
+	"address": "0x2C7A31a9b44Cd9c485314008B3F638758E6A8470",
+	"symbol": "Blue",
+	"name": "Blue",
+	"coingecko": "blue-2",
+	"sources": [
+		"coingecko"
+	]
+}

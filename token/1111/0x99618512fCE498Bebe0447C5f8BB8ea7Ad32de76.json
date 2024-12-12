@@ -1,0 +1,10 @@
+{
+	"chain": 1111,
+	"address": "0x99618512fCE498Bebe0447C5f8BB8ea7Ad32de76",
+	"symbol": "FEATHER",
+	"name": "FEATHER",
+	"coingecko": "feather",
+	"sources": [
+		"coingecko"
+	]
+}

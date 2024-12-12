@@ -1,0 +1,10 @@
+{
+	"chain": 1234,
+	"address": "0xD67de0e0a0Fd7b15dC8348Bb9BE742F3c5850454",
+	"symbol": "DAO Maker",
+	"name": "DAO Maker",
+	"coingecko": "dao-maker",
+	"sources": [
+		"coingecko"
+	]
+}

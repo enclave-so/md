@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x830a8512db4F6fCA51968593E2667156C2c483A8",
+	"symbol": "WEN Token",
+	"name": "WEN Token",
+	"coingecko": "wen-token",
+	"sources": [
+		"coingecko"
+	]
+}

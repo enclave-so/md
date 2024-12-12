@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xBEaB712832112bd7664226db7CD025B153D3af55",
+	"symbol": "Bright Union",
+	"name": "Bright Union",
+	"coingecko": "bright-union",
+	"sources": [
+		"coingecko"
+	]
+}

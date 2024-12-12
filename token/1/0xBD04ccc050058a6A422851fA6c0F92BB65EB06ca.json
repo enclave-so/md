@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xBD04ccc050058a6A422851fA6c0F92BB65EB06ca",
+	"symbol": "Pre-Retogeum",
+	"name": "Pre-Retogeum",
+	"coingecko": "pre-retogeum",
+	"sources": [
+		"coingecko"
+	]
+}

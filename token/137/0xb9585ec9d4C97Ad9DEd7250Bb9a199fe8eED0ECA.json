@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xb9585ec9d4C97Ad9DEd7250Bb9a199fe8eED0ECA",
+	"symbol": "WHALE",
+	"name": "WHALE",
+	"coingecko": "whale",
+	"sources": [
+		"coingecko"
+	]
+}

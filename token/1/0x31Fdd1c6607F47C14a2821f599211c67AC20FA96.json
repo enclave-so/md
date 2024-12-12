@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x31Fdd1c6607F47C14a2821f599211c67AC20FA96",
+	"symbol": "Burency",
+	"name": "Burency",
+	"coingecko": "burency",
+	"sources": [
+		"coingecko"
+	]
+}

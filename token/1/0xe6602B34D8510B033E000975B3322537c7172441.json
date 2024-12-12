@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xe6602B34D8510B033E000975B3322537c7172441",
+	"symbol": "Frontrow",
+	"name": "Frontrow",
+	"coingecko": "front-row",
+	"sources": [
+		"coingecko"
+	]
+}

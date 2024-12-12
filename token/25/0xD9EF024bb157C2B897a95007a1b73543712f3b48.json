@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0xD9EF024bb157C2B897a95007a1b73543712f3b48",
+	"symbol": "V3DUSD",
+	"name": "V3S-Peg Darkness Dollar",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xD9EF024bb157C2B897a95007a1b73543712f3b48.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

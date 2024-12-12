@@ -1,0 +1,10 @@
+{
+	"chain": 2000,
+	"address": "0xFA8b5709E18ab9Bebc87b90f3bbb02fCEBcfA6D8",
+	"symbol": "Cardinals (DRC-20)",
+	"name": "Cardinals (DRC-20)",
+	"coingecko": "cardinals",
+	"sources": [
+		"coingecko"
+	]
+}

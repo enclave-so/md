@@ -1,0 +1,10 @@
+{
+	"chain": 128,
+	"address": "0xd5F9bdc2e6c8EE0484a6293ce7FA97d96a5e1012",
+	"symbol": "Channels",
+	"name": "Channels",
+	"coingecko": "channels",
+	"sources": [
+		"coingecko"
+	]
+}

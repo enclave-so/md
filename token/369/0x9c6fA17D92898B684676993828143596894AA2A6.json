@@ -1,0 +1,10 @@
+{
+	"chain": 369,
+	"address": "0x9c6fA17D92898B684676993828143596894AA2A6",
+	"symbol": "FLEX",
+	"name": "FLEX",
+	"coingecko": "flex",
+	"sources": [
+		"coingecko"
+	]
+}

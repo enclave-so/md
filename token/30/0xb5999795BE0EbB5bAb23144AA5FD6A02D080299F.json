@@ -1,0 +1,13 @@
+{
+	"chain": 30,
+	"address": "0xb5999795BE0EbB5bAb23144AA5FD6A02D080299F",
+	"symbol": "XUSD",
+	"name": "XUSD",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/rootstock/0xb5999795BE0EbB5bAb23144AA5FD6A02D080299F.jpg",
+	"coingecko": "xusd-babelfish",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

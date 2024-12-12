@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x60d715515d4411f7F43e4206dc5d4a3677f0eC78",
+	"symbol": "Re7 USDC",
+	"name": "Re7 USDC",
+	"coingecko": "re7-usdc",
+	"sources": [
+		"coingecko"
+	]
+}

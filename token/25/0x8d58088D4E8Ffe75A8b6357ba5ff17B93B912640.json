@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0x8d58088D4E8Ffe75A8b6357ba5ff17B93B912640",
+	"symbol": "AVAX",
+	"name": "Avalanche",
+	"decimals": 9,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x8d58088D4E8Ffe75A8b6357ba5ff17B93B912640.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

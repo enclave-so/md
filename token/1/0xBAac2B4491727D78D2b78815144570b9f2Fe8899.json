@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0xBAac2B4491727D78D2b78815144570b9f2Fe8899",
+	"symbol": "DOG",
+	"name": "The Doge NFT",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xBAac2B4491727D78D2b78815144570b9f2Fe8899/logo.png",
+	"coingecko": "the-doge-nft",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

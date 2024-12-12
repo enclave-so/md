@@ -1,0 +1,10 @@
+{
+	"chain": 30,
+	"address": "0xc1411567d2670e24d9C4DaAa7CdA95686e1250AA",
+	"symbol": "Sovryn Dollar",
+	"name": "Sovryn Dollar",
+	"coingecko": "sovryn-dollar",
+	"sources": [
+		"coingecko"
+	]
+}

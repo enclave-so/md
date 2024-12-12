@@ -1,0 +1,10 @@
+{
+	"chain": 1329,
+	"address": "0xB75D0B03c06A926e488e2659DF1A861F860bD3d1",
+	"symbol": "IBC Bridged USDT",
+	"name": "IBC Bridged USDT",
+	"coingecko": "ibc-bridged-usdt",
+	"sources": [
+		"coingecko"
+	]
+}

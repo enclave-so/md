@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xBC2597D3f1F9565100582CDe02E3712D03B8B0f6",
+	"symbol": "CheesecakeSwap",
+	"name": "CheesecakeSwap",
+	"coingecko": "cheesecakeswap",
+	"sources": [
+		"coingecko"
+	]
+}

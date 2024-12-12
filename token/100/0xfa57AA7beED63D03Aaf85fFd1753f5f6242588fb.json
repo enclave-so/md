@@ -1,0 +1,12 @@
+{
+	"chain": 100,
+	"address": "0xfa57AA7beED63D03Aaf85fFd1753f5f6242588fb",
+	"symbol": "MPS",
+	"name": "MtPelerin Shares",
+	"logo": "https://raw.githubusercontent.com/sushiswap/logos/master/network/xdai/0xfa57AA7beED63D03Aaf85fFd1753f5f6242588fb.jpg",
+	"coingecko": "mt-pelerin-shares",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xB67bEB26eBeb0DCEec354aE0942256d03c01771b",
+	"symbol": "DeStorage",
+	"name": "DeStorage",
+	"coingecko": "destorage",
+	"sources": [
+		"coingecko"
+	]
+}

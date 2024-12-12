@@ -1,0 +1,10 @@
+{
+	"chain": 369,
+	"address": "0xcFCFfE432A48dB53F59c301422d2EdD77B2A88d7",
+	"symbol": "Texan",
+	"name": "Texan",
+	"coingecko": "texan",
+	"sources": [
+		"coingecko"
+	]
+}

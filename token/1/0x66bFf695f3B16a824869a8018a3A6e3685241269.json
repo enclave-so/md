@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x66bFf695f3B16a824869a8018a3A6e3685241269",
+	"symbol": "Bretter Brett",
+	"name": "Bretter Brett",
+	"coingecko": "bretter-brett",
+	"sources": [
+		"coingecko"
+	]
+}

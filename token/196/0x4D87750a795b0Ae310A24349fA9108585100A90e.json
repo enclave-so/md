@@ -1,0 +1,10 @@
+{
+	"chain": 196,
+	"address": "0x4D87750a795b0Ae310A24349fA9108585100A90e",
+	"symbol": "HOW TO FLY",
+	"name": "HOW TO FLY",
+	"coingecko": "how-to-fly",
+	"sources": [
+		"coingecko"
+	]
+}

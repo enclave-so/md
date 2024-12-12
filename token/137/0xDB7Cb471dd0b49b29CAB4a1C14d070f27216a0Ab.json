@@ -1,0 +1,13 @@
+{
+	"chain": 137,
+	"address": "0xDB7Cb471dd0b49b29CAB4a1C14d070f27216a0Ab",
+	"symbol": "BANK",
+	"name": "Bankless Token (PoS)",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0xDB7Cb471dd0b49b29CAB4a1C14d070f27216a0Ab.jpg",
+	"coingecko": "bankless-dao",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

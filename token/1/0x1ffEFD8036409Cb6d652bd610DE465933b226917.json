@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x1ffEFD8036409Cb6d652bd610DE465933b226917",
+	"symbol": "Everscale",
+	"name": "Everscale",
+	"coingecko": "everscale",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x76BC677d444f1E9d57dAf5187ee2b7dC852745aE",
+	"symbol": "Offshift",
+	"name": "Offshift",
+	"coingecko": "offshift",
+	"sources": [
+		"coingecko"
+	]
+}

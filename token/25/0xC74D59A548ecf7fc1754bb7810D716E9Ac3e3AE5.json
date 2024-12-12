@@ -1,0 +1,13 @@
+{
+	"chain": 25,
+	"address": "0xC74D59A548ecf7fc1754bb7810D716E9Ac3e3AE5",
+	"symbol": "BUSD",
+	"name": "Binance USD",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xC74D59A548ecf7fc1754bb7810D716E9Ac3e3AE5.jpg",
+	"coingecko": "bridged-busd",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

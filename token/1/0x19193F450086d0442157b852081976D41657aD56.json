@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x19193F450086d0442157b852081976D41657aD56",
+	"symbol": "Nunu Spirits",
+	"name": "Nunu Spirits",
+	"coingecko": "nunu-spirits",
+	"sources": [
+		"coingecko"
+	]
+}

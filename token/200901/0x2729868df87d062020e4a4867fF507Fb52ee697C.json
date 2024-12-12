@@ -1,0 +1,10 @@
+{
+	"chain": 200901,
+	"address": "0x2729868df87d062020e4a4867fF507Fb52ee697C",
+	"symbol": "Cat Driving Bitcoin",
+	"name": "Cat Driving Bitcoin",
+	"coingecko": "cat-driving-bitcoin",
+	"sources": [
+		"coingecko"
+	]
+}

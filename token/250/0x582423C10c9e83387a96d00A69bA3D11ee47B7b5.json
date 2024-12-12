@@ -1,0 +1,10 @@
+{
+	"chain": 250,
+	"address": "0x582423C10c9e83387a96d00A69bA3D11ee47B7b5",
+	"symbol": "OneRing",
+	"name": "OneRing",
+	"coingecko": "onering",
+	"sources": [
+		"coingecko"
+	]
+}

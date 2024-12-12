@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xFD20E1B78C353877a25274C85Fb5566277e5F60E",
+	"symbol": "HighNoon",
+	"name": "HighNoon",
+	"coingecko": "highnoon",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0x213E6fb02009c13692bAA23C63FdE8D623d22705",
+	"symbol": "ACA",
+	"name": "ACA",
+	"decimals": 12,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x213E6fb02009c13692bAA23C63FdE8D623d22705.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

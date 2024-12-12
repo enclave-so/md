@@ -1,0 +1,10 @@
+{
+	"chain": 250,
+	"address": "0xe578C856933D8e1082740bf7661e379Aa2A30b26",
+	"symbol": "Geist USDC",
+	"name": "Geist USDC",
+	"coingecko": "geist-usdc",
+	"sources": [
+		"coingecko"
+	]
+}

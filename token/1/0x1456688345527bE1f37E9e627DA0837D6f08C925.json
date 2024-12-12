@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0x1456688345527bE1f37E9e627DA0837D6f08C925",
+	"symbol": "USDP",
+	"name": "USDP Stablecoin",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x1456688345527bE1f37E9e627DA0837D6f08C925/logo.png",
+	"sources": [
+		"sushiswap"
+	]
+}

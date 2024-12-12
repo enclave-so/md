@@ -1,0 +1,13 @@
+{
+	"chain": 42161,
+	"address": "0x088cd8f5eF3652623c22D48b1605DCfE860Cd704",
+	"symbol": "VELA",
+	"name": "Vela Exchange",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/vela.jpg",
+	"coingecko": "vela-token",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

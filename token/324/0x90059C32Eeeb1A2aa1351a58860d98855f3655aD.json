@@ -1,0 +1,10 @@
+{
+	"chain": 324,
+	"address": "0x90059C32Eeeb1A2aa1351a58860d98855f3655aD",
+	"symbol": "ONEZ",
+	"name": "ONEZ",
+	"coingecko": "onez",
+	"sources": [
+		"coingecko"
+	]
+}

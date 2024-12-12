@@ -1,0 +1,13 @@
+{
+	"chain": 250,
+	"address": "0x04068DA6C83AFCFA0e13ba15A6696662335D5B75",
+	"symbol": "anyUSDC",
+	"name": "USD Coin",
+	"decimals": 6,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdc.jpg",
+	"coingecko": "multichain-bridged-usdc-fantom",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

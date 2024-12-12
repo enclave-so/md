@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x081c280cD5C1c934DbAfc97A2aB2e596FfE7DFC4",
+	"symbol": "UFORIKA",
+	"name": "UFORIKA",
+	"coingecko": "uforika",
+	"sources": [
+		"coingecko"
+	]
+}

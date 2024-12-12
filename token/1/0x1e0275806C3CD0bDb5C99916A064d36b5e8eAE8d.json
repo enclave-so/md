@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0x1e0275806C3CD0bDb5C99916A064d36b5e8eAE8d",
+	"symbol": "TWO",
+	"name": "TwoCoin",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x1e0275806C3CD0bDb5C99916A064d36b5e8eAE8d.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

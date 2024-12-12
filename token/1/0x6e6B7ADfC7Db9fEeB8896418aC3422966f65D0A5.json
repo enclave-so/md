@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x6e6B7ADfC7Db9fEeB8896418aC3422966f65D0A5",
+	"symbol": "Nektar Network",
+	"name": "Nektar Network",
+	"coingecko": "nektar-network",
+	"sources": [
+		"coingecko"
+	]
+}

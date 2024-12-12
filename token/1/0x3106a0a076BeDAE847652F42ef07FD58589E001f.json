@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x3106a0a076BeDAE847652F42ef07FD58589E001f",
+	"symbol": "Alkimi",
+	"name": "Alkimi",
+	"coingecko": "alkimi",
+	"sources": [
+		"coingecko"
+	]
+}

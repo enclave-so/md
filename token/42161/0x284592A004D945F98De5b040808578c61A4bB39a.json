@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x284592A004D945F98De5b040808578c61A4bB39a",
+	"symbol": "AIR",
+	"name": "AIR",
+	"coingecko": "air",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xC32dB1D3282e872d98f6437D3BCFa57801CA6d5c",
+	"symbol": "VoldemortTrumpRobotnik-10Neko",
+	"name": "VoldemortTrumpRobotnik-10Neko",
+	"coingecko": "voldemorttrumprobotnik-10neko",
+	"sources": [
+		"coingecko"
+	]
+}

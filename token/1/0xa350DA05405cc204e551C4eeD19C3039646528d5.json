@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xa350DA05405cc204e551C4eeD19C3039646528d5",
+	"symbol": "Blocksport",
+	"name": "Blocksport",
+	"coingecko": "blocksport",
+	"sources": [
+		"coingecko"
+	]
+}

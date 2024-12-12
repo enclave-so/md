@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xE1c7E30C42C24582888C758984f6e382096786bd",
+	"symbol": "Curate",
+	"name": "Curate",
+	"coingecko": "curate",
+	"sources": [
+		"coingecko"
+	]
+}

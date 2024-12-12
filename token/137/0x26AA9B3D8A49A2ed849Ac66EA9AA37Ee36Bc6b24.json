@@ -1,0 +1,11 @@
+{
+	"chain": 137,
+	"address": "0x26AA9B3D8A49A2ed849Ac66EA9AA37Ee36Bc6b24",
+	"symbol": "cSUSHI",
+	"name": "cSUSHI",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x26AA9B3D8A49A2ed849Ac66EA9AA37Ee36Bc6b24.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

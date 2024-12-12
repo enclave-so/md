@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x80eE5c641A8fFC607545219a3856562F56427FE9",
+	"symbol": "Brett ETH",
+	"name": "Brett ETH",
+	"coingecko": "brett-eth",
+	"sources": [
+		"coingecko"
+	]
+}

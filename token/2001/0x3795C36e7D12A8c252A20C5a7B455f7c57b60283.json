@@ -1,0 +1,10 @@
+{
+	"chain": 2001,
+	"address": "0x3795C36e7D12A8c252A20C5a7B455f7c57b60283",
+	"symbol": "Celer Bridged Tether (Milkomeda)",
+	"name": "Celer Bridged Tether (Milkomeda)",
+	"coingecko": "tether-usd-celer",
+	"sources": [
+		"coingecko"
+	]
+}

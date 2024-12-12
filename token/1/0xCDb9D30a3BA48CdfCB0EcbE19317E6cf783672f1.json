@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xCDb9D30a3BA48CdfCB0EcbE19317E6cf783672f1",
+	"symbol": "Mondo Community Coin",
+	"name": "Mondo Community Coin",
+	"coingecko": "mondo-community-coin",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x3d330B8d4EB25B0933e564D7284D462346D453Ef",
+	"symbol": "GROQ",
+	"name": "GROQ",
+	"coingecko": "groq",
+	"sources": [
+		"coingecko"
+	]
+}

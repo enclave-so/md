@@ -1,0 +1,10 @@
+{
+	"chain": 39797,
+	"address": "0x1bf6eA422574E0F5d336083a771768Cb4e11390d",
+	"symbol": "Pundi X [OLD]",
+	"name": "Pundi X [OLD]",
+	"coingecko": "pundi-x",
+	"sources": [
+		"coingecko"
+	]
+}

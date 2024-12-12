@@ -1,0 +1,10 @@
+{
+	"chain": 324,
+	"address": "0x10d967f46b06580C4a87b05c78f04e4Df25C0DB0",
+	"symbol": "Holdstation Utility GOLD",
+	"name": "Holdstation Utility GOLD",
+	"coingecko": "holdstation-utility-gold",
+	"sources": [
+		"coingecko"
+	]
+}

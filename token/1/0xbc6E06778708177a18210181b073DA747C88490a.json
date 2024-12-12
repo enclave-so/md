@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xbc6E06778708177a18210181b073DA747C88490a",
+	"symbol": "MOBLAND",
+	"name": "MOBLAND",
+	"coingecko": "syndicate-2",
+	"sources": [
+		"coingecko"
+	]
+}

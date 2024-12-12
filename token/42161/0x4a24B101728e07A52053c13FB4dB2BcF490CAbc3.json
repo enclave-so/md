@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x4a24B101728e07A52053c13FB4dB2BcF490CAbc3",
+	"symbol": "Arbius",
+	"name": "Arbius",
+	"coingecko": "arbius",
+	"sources": [
+		"coingecko"
+	]
+}

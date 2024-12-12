@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x8854d278bdb3140c161bF011888D9dC7A5918E77",
+	"symbol": "Yuge",
+	"name": "Yuge",
+	"coingecko": "yuge-on-eth",
+	"sources": [
+		"coingecko"
+	]
+}

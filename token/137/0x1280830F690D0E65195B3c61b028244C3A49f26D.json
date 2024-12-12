@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x1280830F690D0E65195B3c61b028244C3A49f26D",
+	"symbol": "Axelar Wrapped Ether",
+	"name": "Axelar Wrapped Ether",
+	"coingecko": "axlweth",
+	"sources": [
+		"coingecko"
+	]
+}

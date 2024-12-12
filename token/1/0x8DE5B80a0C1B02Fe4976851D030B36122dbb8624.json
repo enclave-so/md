@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x8DE5B80a0C1B02Fe4976851D030B36122dbb8624",
+	"symbol": "Vanar Chain",
+	"name": "Vanar Chain",
+	"coingecko": "vanar-chain",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1088,
+	"address": "0xC029adf62Cf8F91985c49e1FDe6900affcBa0424",
+	"symbol": "BlockChat",
+	"name": "BlockChat",
+	"coingecko": "blockchat",
+	"sources": [
+		"coingecko"
+	]
+}

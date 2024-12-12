@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xDDD6A0ECc3c6F6C102E5eA3d8Af7B801d1a77aC8",
+	"symbol": "UniX",
+	"name": "UniX",
+	"coingecko": "unix",
+	"sources": [
+		"coingecko"
+	]
+}

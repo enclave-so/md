@@ -1,0 +1,10 @@
+{
+	"chain": 106,
+	"address": "0x3557371aFEd82DD683DE278924BD0E1a790a3c49",
+	"symbol": "Staked VLX",
+	"name": "Staked VLX",
+	"coingecko": "staked-vlx",
+	"sources": [
+		"coingecko"
+	]
+}

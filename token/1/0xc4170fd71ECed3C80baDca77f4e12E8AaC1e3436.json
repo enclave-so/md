@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xc4170fd71ECed3C80baDca77f4e12E8AaC1e3436",
+	"symbol": "Kryptomon",
+	"name": "Kryptomon",
+	"coingecko": "kryptomon",
+	"sources": [
+		"coingecko"
+	]
+}

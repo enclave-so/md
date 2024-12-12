@@ -1,0 +1,10 @@
+{
+	"chain": 39797,
+	"address": "0x7CD3D51beE45434Dd80822c5D58b999333b69FfB",
+	"symbol": "Axie Infinity",
+	"name": "Axie Infinity",
+	"coingecko": "axie-infinity",
+	"sources": [
+		"coingecko"
+	]
+}

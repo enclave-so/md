@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x8F081Eb884Fd47b79536D28E2DD9d4886773F783",
+	"symbol": "bePAY Finance",
+	"name": "bePAY Finance",
+	"coingecko": "bepay",
+	"sources": [
+		"coingecko"
+	]
+}

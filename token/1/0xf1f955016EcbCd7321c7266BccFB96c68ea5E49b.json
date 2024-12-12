@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xf1f955016EcbCd7321c7266BccFB96c68ea5E49b",
+	"symbol": "Rally",
+	"name": "Rally",
+	"coingecko": "rally-2",
+	"sources": [
+		"coingecko"
+	]
+}

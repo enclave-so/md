@@ -1,0 +1,11 @@
+{
+	"chain": 137,
+	"address": "0x1221591c1d77A9c334aBb0fe530ae6EE3aF51Af9",
+	"symbol": "AXMATIC",
+	"name": "axMatic",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x1221591c1d77A9c334aBb0fe530ae6EE3aF51Af9/logo.png",
+	"sources": [
+		"sushiswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 250,
+	"address": "0xAD260f380C9a30B1d60e4548A75010ede630B665",
+	"symbol": "BiFi",
+	"name": "BiFi",
+	"coingecko": "bifi",
+	"sources": [
+		"coingecko"
+	]
+}

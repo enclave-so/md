@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x5ECa7B975E34567d9460FA613013A7A6993ad185",
+	"symbol": "Blacksmith Token",
+	"name": "Blacksmith Token",
+	"coingecko": "blacksmith-token",
+	"sources": [
+		"coingecko"
+	]
+}

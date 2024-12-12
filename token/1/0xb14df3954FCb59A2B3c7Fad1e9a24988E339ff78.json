@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xb14df3954FCb59A2B3c7Fad1e9a24988E339ff78",
+	"symbol": "Origin3D",
+	"name": "Origin3D",
+	"coingecko": "origin3d",
+	"sources": [
+		"coingecko"
+	]
+}

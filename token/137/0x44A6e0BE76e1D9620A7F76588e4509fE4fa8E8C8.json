@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x44A6e0BE76e1D9620A7F76588e4509fE4fa8E8C8",
+	"symbol": "Aavegotchi FOMO",
+	"name": "Aavegotchi FOMO",
+	"coingecko": "aavegotchi-fomo",
+	"sources": [
+		"coingecko"
+	]
+}

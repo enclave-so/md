@@ -1,0 +1,13 @@
+{
+	"chain": 1285,
+	"address": "0x4a436073552044D5f2f49B176853ad3Ad473d9d6",
+	"symbol": "ROME",
+	"name": "Rome",
+	"decimals": 9,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/moonriver/0x4a436073552044D5f2f49B176853ad3Ad473d9d6.jpg",
+	"coingecko": "rome",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

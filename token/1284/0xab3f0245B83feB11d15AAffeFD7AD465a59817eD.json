@@ -1,0 +1,13 @@
+{
+	"chain": 1284,
+	"address": "0xab3f0245B83feB11d15AAffeFD7AD465a59817eD",
+	"symbol": "wh.WETH",
+	"name": "Wrapped Ether (Wormhole)",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/moonbeam/0xab3f0245B83feB11d15AAffeFD7AD465a59817eD.jpg",
+	"coingecko": "wormhole-bridged-weth-moonbeam",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x60D55F02A771d515e077c9C2403a1ef324885CeC",
+	"symbol": "Aave Polygon USDT",
+	"name": "Aave Polygon USDT",
+	"coingecko": "aave-polygon-usdt",
+	"sources": [
+		"coingecko"
+	]
+}

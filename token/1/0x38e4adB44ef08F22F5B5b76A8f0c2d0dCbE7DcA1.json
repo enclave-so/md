@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0x38e4adB44ef08F22F5B5b76A8f0c2d0dCbE7DcA1",
+	"symbol": "CVP",
+	"name": "Concentrated Voting Power",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x38e4adB44ef08F22F5B5b76A8f0c2d0dCbE7DcA1/logo.png",
+	"coingecko": "concentrated-voting-power",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

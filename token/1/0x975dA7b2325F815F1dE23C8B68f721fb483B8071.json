@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x975dA7b2325F815F1dE23C8B68f721fb483B8071",
+	"symbol": "LooPIN Network",
+	"name": "LooPIN Network",
+	"coingecko": "loopin-network",
+	"sources": [
+		"coingecko"
+	]
+}

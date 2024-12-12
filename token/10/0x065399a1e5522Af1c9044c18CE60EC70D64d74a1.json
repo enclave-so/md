@@ -1,0 +1,10 @@
+{
+	"chain": 10,
+	"address": "0x065399a1e5522Af1c9044c18CE60EC70D64d74a1",
+	"symbol": "Aktionariat Finelli Studios AG Tokenized Shares",
+	"name": "Aktionariat Finelli Studios AG Tokenized Shares",
+	"coingecko": "aktionariat-finelli-studios-ag-tokenized-shares",
+	"sources": [
+		"coingecko"
+	]
+}

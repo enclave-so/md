@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x6ef460EB3563CfCc73F8147B0A77DAFFeE71F867",
+	"symbol": "Zeus AI",
+	"name": "Zeus AI",
+	"coingecko": "zeus-ai",
+	"sources": [
+		"coingecko"
+	]
+}

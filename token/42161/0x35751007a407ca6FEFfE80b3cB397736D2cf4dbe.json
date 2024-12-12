@@ -1,0 +1,13 @@
+{
+	"chain": 42161,
+	"address": "0x35751007a407ca6FEFfE80b3cB397736D2cf4dbe",
+	"symbol": "weETH",
+	"name": "Wrapped eETH",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x35751007a407ca6FEFfE80b3cB397736D2cf4dbe.jpg",
+	"coingecko": "wrapped-eeth",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

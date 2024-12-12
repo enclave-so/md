@@ -1,0 +1,10 @@
+{
+	"chain": 17777,
+	"address": "0x2a3b2d64960036de519dC4a45CAfd532Bfa99Ff0",
+	"symbol": "NoahSwap",
+	"name": "NoahSwap",
+	"coingecko": "noahswap",
+	"sources": [
+		"coingecko"
+	]
+}

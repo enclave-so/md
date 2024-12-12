@@ -1,0 +1,13 @@
+{
+	"chain": 42161,
+	"address": "0x3647c54c4c2C65bC7a2D63c0Da2809B399DBBDC0",
+	"symbol": "SolvBTC",
+	"name": "Solv BTC",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x3647c54c4c2C65bC7a2D63c0Da2809B399DBBDC0.jpg",
+	"coingecko": "solv-btc",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

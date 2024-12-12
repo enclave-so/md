@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0x6Ed8c99E5c6B2c551e012E4272d8f3d1DF23a71A",
+	"symbol": "MANA",
+	"name": "Decentraland",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x6Ed8c99E5c6B2c551e012E4272d8f3d1DF23a71A.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

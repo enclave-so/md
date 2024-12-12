@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0xe4177C1400A8Eee1799835DcDe2489c6f0D5d616",
+	"symbol": "CrazyRabbit",
+	"name": "CrazyRabbit",
+	"coingecko": "crazyrabbit",
+	"sources": [
+		"coingecko"
+	]
+}

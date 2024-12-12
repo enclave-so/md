@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x7C8a1A80FDd00C9Cccd6EbD573E9EcB49BFa2a59",
+	"symbol": "AI CODE",
+	"name": "AI CODE",
+	"coingecko": "ai-code",
+	"sources": [
+		"coingecko"
+	]
+}

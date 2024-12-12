@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x584a4Dd38d28fD1EA0E147bA7B70AEd29A37e335",
+	"symbol": "Bitcoin Inu",
+	"name": "Bitcoin Inu",
+	"coingecko": "bitcoin-inu",
+	"sources": [
+		"coingecko"
+	]
+}

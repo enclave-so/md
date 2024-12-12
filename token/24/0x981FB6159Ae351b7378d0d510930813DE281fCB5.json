@@ -1,0 +1,10 @@
+{
+	"chain": 24,
+	"address": "0x981FB6159Ae351b7378d0d510930813DE281fCB5",
+	"symbol": "ONUS",
+	"name": "ONUS",
+	"coingecko": "onus",
+	"sources": [
+		"coingecko"
+	]
+}

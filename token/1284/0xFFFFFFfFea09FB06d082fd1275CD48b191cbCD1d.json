@@ -1,0 +1,10 @@
+{
+	"chain": 1284,
+	"address": "0xFFFFFFfFea09FB06d082fd1275CD48b191cbCD1d",
+	"symbol": "xcUSDT",
+	"name": "xcUSDT",
+	"coingecko": "xcusdt",
+	"sources": [
+		"coingecko"
+	]
+}

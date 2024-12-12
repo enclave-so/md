@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x4116f14b6d462B32a1C10F98049E4B1765e34FA9",
+	"symbol": "dotmoovs",
+	"name": "dotmoovs",
+	"coingecko": "dotmoovs",
+	"sources": [
+		"coingecko"
+	]
+}

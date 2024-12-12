@@ -1,0 +1,10 @@
+{
+	"chain": 369,
+	"address": "0x5f63BC3d5bd234946f18d24e98C324f629D9d60e",
+	"symbol": "IMPLS Finance",
+	"name": "IMPLS Finance",
+	"coingecko": "impls-finance",
+	"sources": [
+		"coingecko"
+	]
+}

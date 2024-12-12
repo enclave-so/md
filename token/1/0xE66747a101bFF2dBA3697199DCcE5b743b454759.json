@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xE66747a101bFF2dBA3697199DCcE5b743b454759",
+	"symbol": "Gate",
+	"name": "Gate",
+	"coingecko": "gatechain-token",
+	"sources": [
+		"coingecko"
+	]
+}

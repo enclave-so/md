@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x679BADc551626e01B23CeecEFBc9B877EA18fc46",
+	"symbol": "Ccore",
+	"name": "Ccore",
+	"coingecko": "ccore",
+	"sources": [
+		"coingecko"
+	]
+}

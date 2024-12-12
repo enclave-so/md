@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0x21ad647b8F4Fe333212e735bfC1F36B4941E6Ad2",
+	"symbol": "SQUID",
+	"name": "Squid",
+	"decimals": 9,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x21ad647b8F4Fe333212e735bfC1F36B4941E6Ad2/logo.png",
+	"sources": [
+		"sushiswap"
+	]
+}

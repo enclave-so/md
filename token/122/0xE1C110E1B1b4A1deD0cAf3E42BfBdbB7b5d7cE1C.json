@@ -1,0 +1,11 @@
+{
+	"chain": 122,
+	"address": "0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C",
+	"symbol": "ELK",
+	"name": "Elk",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/fuse/assets/0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C/logo.png",
+	"sources": [
+		"sushiswap"
+	]
+}

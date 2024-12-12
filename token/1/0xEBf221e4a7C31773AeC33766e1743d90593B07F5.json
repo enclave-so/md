@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xEBf221e4a7C31773AeC33766e1743d90593B07F5",
+	"symbol": "Chat Chain",
+	"name": "Chat Chain",
+	"coingecko": "chat-chain",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x49C8efD98AC8114DE2fCe73D57e2944aeBD5613D",
+	"symbol": "AnonTech",
+	"name": "AnonTech",
+	"coingecko": "anontech",
+	"sources": [
+		"coingecko"
+	]
+}

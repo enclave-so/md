@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x50B0696468F42CaB1ddc76413A1312Aff3cAbdf6",
+	"symbol": "ClosedAI",
+	"name": "ClosedAI",
+	"coingecko": "closedai",
+	"sources": [
+		"coingecko"
+	]
+}

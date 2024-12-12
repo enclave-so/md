@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x2196B84EaCe74867b73fb003AfF93C11FcE1D47A",
+	"symbol": "PsyDAO",
+	"name": "PsyDAO",
+	"coingecko": "psydao",
+	"sources": [
+		"coingecko"
+	]
+}

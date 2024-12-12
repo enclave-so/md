@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x3797C46db697c24a983222c335F17Ba28e8c5b69",
+	"symbol": "UBS USD Money Market Investment Fund Token",
+	"name": "UBS USD Money Market Investment Fund Token",
+	"coingecko": "ubs_umint_eth",
+	"sources": [
+		"coingecko"
+	]
+}

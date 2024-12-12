@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xF29AE508698bDeF169B89834F76704C3B205aedf",
+	"symbol": "SNX yVault",
+	"name": "SNX yVault",
+	"coingecko": "snx-yvault",
+	"sources": [
+		"coingecko"
+	]
+}

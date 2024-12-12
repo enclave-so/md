@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xBEEf050ecd6a16c4e7bfFbB52Ebba7846C4b8cD4",
+	"symbol": "Steakhouse ETH Morpho Vault",
+	"name": "Steakhouse ETH Morpho Vault",
+	"coingecko": "steakhouse-eth-morpho-vault",
+	"sources": [
+		"coingecko"
+	]
+}

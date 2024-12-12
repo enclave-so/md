@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x2075828cdEdc356B5358d79cFd314548842E4A2E",
+	"symbol": "BlockChainCoinX",
+	"name": "BlockChainCoinX",
+	"coingecko": "blockchaincoinx",
+	"sources": [
+		"coingecko"
+	]
+}

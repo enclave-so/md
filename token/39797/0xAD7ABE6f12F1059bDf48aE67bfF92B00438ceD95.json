@@ -1,0 +1,10 @@
+{
+	"chain": 39797,
+	"address": "0xAD7ABE6f12F1059bDf48aE67bfF92B00438ceD95",
+	"symbol": "Amp",
+	"name": "Amp",
+	"coingecko": "amp-token",
+	"sources": [
+		"coingecko"
+	]
+}

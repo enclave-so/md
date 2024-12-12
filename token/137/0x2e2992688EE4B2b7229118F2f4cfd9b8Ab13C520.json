@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x2e2992688EE4B2b7229118F2f4cfd9b8Ab13C520",
+	"symbol": "EraApe",
+	"name": "EraApe",
+	"coingecko": "eraape",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0x19D97D8fA813EE2f51aD4B4e04EA08bAf4DFfC28",
+	"symbol": "bBADGER",
+	"name": "Badger Sett Badger",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/bbadger.jpg",
+	"coingecko": "badger-sett-badger",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

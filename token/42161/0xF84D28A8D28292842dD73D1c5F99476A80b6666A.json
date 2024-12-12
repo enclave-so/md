@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0xF84D28A8D28292842dD73D1c5F99476A80b6666A",
+	"symbol": "OpenEden TBILL",
+	"name": "OpenEden TBILL",
+	"coingecko": "openeden-tbill",
+	"sources": [
+		"coingecko"
+	]
+}

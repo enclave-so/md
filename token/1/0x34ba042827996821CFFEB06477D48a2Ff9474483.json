@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x34ba042827996821CFFEB06477D48a2Ff9474483",
+	"symbol": "Shib2.0",
+	"name": "Shib2.0",
+	"coingecko": "shib2-0",
+	"sources": [
+		"coingecko"
+	]
+}

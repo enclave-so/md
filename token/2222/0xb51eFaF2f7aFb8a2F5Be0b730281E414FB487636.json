@@ -1,0 +1,10 @@
+{
+	"chain": 2222,
+	"address": "0xb51eFaF2f7aFb8a2F5Be0b730281E414FB487636",
+	"symbol": "hKAVA",
+	"name": "hKAVA",
+	"coingecko": "hkava",
+	"sources": [
+		"coingecko"
+	]
+}

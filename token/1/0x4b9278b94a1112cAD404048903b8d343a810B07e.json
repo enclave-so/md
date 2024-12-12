@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x4b9278b94a1112cAD404048903b8d343a810B07e",
+	"symbol": "Hifi Finance",
+	"name": "Hifi Finance",
+	"coingecko": "hifi-finance",
+	"sources": [
+		"coingecko"
+	]
+}

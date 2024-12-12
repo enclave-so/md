@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x74b1Af114274335598da72f5C6ed7b954a016EeD",
+	"symbol": "HitBTC",
+	"name": "HitBTC",
+	"coingecko": "hitbtc-token",
+	"sources": [
+		"coingecko"
+	]
+}

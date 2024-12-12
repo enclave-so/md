@@ -1,0 +1,10 @@
+{
+	"chain": 39797,
+	"address": "0x0d91d554768dC20E1D3D95FF9d5bC041edC3bA0f",
+	"symbol": "Civic",
+	"name": "Civic",
+	"coingecko": "civic",
+	"sources": [
+		"coingecko"
+	]
+}

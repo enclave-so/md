@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x0D81E50bC677fa67341c44D7eaA9228DEE64A4e1",
+	"symbol": "BarnBridge",
+	"name": "BarnBridge",
+	"coingecko": "barnbridge",
+	"sources": [
+		"coingecko"
+	]
+}

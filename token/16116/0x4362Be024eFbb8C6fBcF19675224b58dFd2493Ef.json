@@ -1,0 +1,10 @@
+{
+	"chain": 16116,
+	"address": "0x4362Be024eFbb8C6fBcF19675224b58dFd2493Ef",
+	"symbol": "Beta Chain Colosseum Phoenix",
+	"name": "Beta Chain Colosseum Phoenix",
+	"coingecko": "beta-chain-ccolosseum-phoenix",
+	"sources": [
+		"coingecko"
+	]
+}

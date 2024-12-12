@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x9F9c8ec3534c3cE16F928381372BfbFBFb9F4D24",
+	"symbol": "GraphLinq Chain",
+	"name": "GraphLinq Chain",
+	"coingecko": "graphlinq-protocol",
+	"sources": [
+		"coingecko"
+	]
+}

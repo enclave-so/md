@@ -1,0 +1,10 @@
+{
+	"chain": 250,
+	"address": "0x94fBE860aD699670A2293D194CF1376EF58C014a",
+	"symbol": "Lumos",
+	"name": "Lumos",
+	"coingecko": "lumoscoin",
+	"sources": [
+		"coingecko"
+	]
+}

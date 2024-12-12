@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x91F322e0D0bd688ACd511a789431a2b672A28013",
+	"symbol": "Fisttrumppump",
+	"name": "Fisttrumppump",
+	"coingecko": "fisttrumppump",
+	"sources": [
+		"coingecko"
+	]
+}

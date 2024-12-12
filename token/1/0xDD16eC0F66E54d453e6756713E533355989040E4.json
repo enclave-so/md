@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xDD16eC0F66E54d453e6756713E533355989040E4",
+	"symbol": "Tokenomy",
+	"name": "Tokenomy",
+	"coingecko": "tokenomy",
+	"sources": [
+		"coingecko"
+	]
+}

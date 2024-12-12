@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x289ba1701C2F088cf0faf8B3705246331cB8A839",
+	"symbol": "Livepeer",
+	"name": "Livepeer",
+	"coingecko": "livepeer",
+	"sources": [
+		"coingecko"
+	]
+}

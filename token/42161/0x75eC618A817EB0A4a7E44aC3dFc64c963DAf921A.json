@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x75eC618A817EB0A4a7E44aC3dFc64c963DAf921A",
+	"symbol": "Token7007",
+	"name": "Token7007",
+	"coingecko": "token7007",
+	"sources": [
+		"coingecko"
+	]
+}

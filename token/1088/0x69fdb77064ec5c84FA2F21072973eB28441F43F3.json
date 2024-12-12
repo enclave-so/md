@@ -1,0 +1,10 @@
+{
+	"chain": 1088,
+	"address": "0x69fdb77064ec5c84FA2F21072973eB28441F43F3",
+	"symbol": "Tethys Finance",
+	"name": "Tethys Finance",
+	"coingecko": "tethys-finance",
+	"sources": [
+		"coingecko"
+	]
+}

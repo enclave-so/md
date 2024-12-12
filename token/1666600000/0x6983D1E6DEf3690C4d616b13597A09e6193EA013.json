@@ -1,0 +1,13 @@
+{
+	"chain": 1666600000,
+	"address": "0x6983D1E6DEf3690C4d616b13597A09e6193EA013",
+	"symbol": "ETH",
+	"name": "Ether",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/eth.jpg",
+	"coingecko": "harmony-horizon-bridged-ceth-harmony-shard-0",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

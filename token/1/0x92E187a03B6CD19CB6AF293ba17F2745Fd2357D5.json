@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0x92E187a03B6CD19CB6AF293ba17F2745Fd2357D5",
+	"symbol": "DUCK",
+	"name": "Unit Protocol",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x92E187a03B6CD19CB6AF293ba17F2745Fd2357D5/logo.png",
+	"coingecko": "unit-protocol-duck",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

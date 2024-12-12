@@ -1,0 +1,10 @@
+{
+	"chain": 250,
+	"address": "0xfB66e49e303A186a4c57414Ceeed651a7a78161a",
+	"symbol": "Orkan",
+	"name": "Orkan",
+	"coingecko": "orkan",
+	"sources": [
+		"coingecko"
+	]
+}

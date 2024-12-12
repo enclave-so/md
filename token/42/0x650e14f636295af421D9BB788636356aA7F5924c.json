@@ -1,0 +1,10 @@
+{
+	"chain": 42,
+	"address": "0x650e14f636295af421D9BB788636356aA7F5924c",
+	"symbol": "Fabs",
+	"name": "Fabs",
+	"coingecko": "fabs",
+	"sources": [
+		"coingecko"
+	]
+}

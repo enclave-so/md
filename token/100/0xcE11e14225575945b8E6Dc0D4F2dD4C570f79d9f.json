@@ -1,0 +1,10 @@
+{
+	"chain": 100,
+	"address": "0xcE11e14225575945b8E6Dc0D4F2dD4C570f79d9f",
+	"symbol": "Autonolas",
+	"name": "Autonolas",
+	"coingecko": "autonolas",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0x63888BaFc5975630E4E5CF50c3845a3250115F64",
+	"symbol": "FTM",
+	"name": "Fantom Token",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x63888BaFc5975630E4E5CF50c3845a3250115F64.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

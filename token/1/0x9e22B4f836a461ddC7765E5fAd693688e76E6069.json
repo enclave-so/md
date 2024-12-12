@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x9e22B4f836a461ddC7765E5fAd693688e76E6069",
+	"symbol": "Chad Frog",
+	"name": "Chad Frog",
+	"coingecko": "chad-frog",
+	"sources": [
+		"coingecko"
+	]
+}

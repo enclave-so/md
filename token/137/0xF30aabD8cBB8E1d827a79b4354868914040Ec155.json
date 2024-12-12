@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xF30aabD8cBB8E1d827a79b4354868914040Ec155",
+	"symbol": "Chronicles of Warcraft",
+	"name": "Chronicles of Warcraft",
+	"coingecko": "chronicles-of-warcraft",
+	"sources": [
+		"coingecko"
+	]
+}

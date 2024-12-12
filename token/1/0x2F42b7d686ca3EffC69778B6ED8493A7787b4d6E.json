@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x2F42b7d686ca3EffC69778B6ED8493A7787b4d6E",
+	"symbol": "Taraxa",
+	"name": "Taraxa",
+	"coingecko": "taraxa",
+	"sources": [
+		"coingecko"
+	]
+}

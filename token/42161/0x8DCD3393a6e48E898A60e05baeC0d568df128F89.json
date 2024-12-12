@@ -1,0 +1,11 @@
+{
+	"chain": 42161,
+	"address": "0x8DCD3393a6e48E898A60e05baeC0d568df128F89",
+	"symbol": "pTSLA",
+	"name": "Poison.Finance Tesla Potion",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x8DCD3393a6e48E898A60e05baeC0d568df128F89.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

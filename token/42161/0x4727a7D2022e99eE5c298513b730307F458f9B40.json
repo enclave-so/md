@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x4727a7D2022e99eE5c298513b730307F458f9B40",
+	"symbol": "Guberto",
+	"name": "Guberto",
+	"coingecko": "guberto",
+	"sources": [
+		"coingecko"
+	]
+}

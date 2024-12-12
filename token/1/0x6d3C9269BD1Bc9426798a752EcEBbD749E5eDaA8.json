@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x6d3C9269BD1Bc9426798a752EcEBbD749E5eDaA8",
+	"symbol": "Lunex Network",
+	"name": "Lunex Network",
+	"coingecko": "lunex",
+	"sources": [
+		"coingecko"
+	]
+}

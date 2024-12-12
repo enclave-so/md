@@ -1,0 +1,10 @@
+{
+	"chain": 2001,
+	"address": "0x8c008BBA2Dd56b99f4A6aB276bE3a478cB075F0C",
+	"symbol": "Blueshift",
+	"name": "Blueshift",
+	"coingecko": "blueshift",
+	"sources": [
+		"coingecko"
+	]
+}

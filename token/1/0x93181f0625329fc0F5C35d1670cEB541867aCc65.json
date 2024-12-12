@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x93181f0625329fc0F5C35d1670cEB541867aCc65",
+	"symbol": "Sentra",
+	"name": "Sentra",
+	"coingecko": "sentra",
+	"sources": [
+		"coingecko"
+	]
+}

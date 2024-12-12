@@ -1,0 +1,13 @@
+{
+	"chain": 42161,
+	"address": "0xA3d1a8DEB97B111454B294E2324EfAD13a9d8396",
+	"symbol": "OVN",
+	"name": "Overnight Finance",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xA3d1a8DEB97B111454B294E2324EfAD13a9d8396.jpg",
+	"coingecko": "overnight-finance",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

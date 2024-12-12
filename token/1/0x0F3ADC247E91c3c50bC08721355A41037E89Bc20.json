@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x0F3ADC247E91c3c50bC08721355A41037E89Bc20",
+	"symbol": "Anchor Protocol",
+	"name": "Anchor Protocol",
+	"coingecko": "anchor-protocol",
+	"sources": [
+		"coingecko"
+	]
+}

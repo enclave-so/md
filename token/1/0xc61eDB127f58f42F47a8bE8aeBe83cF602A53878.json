@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xc61eDB127f58f42F47a8bE8aeBe83cF602A53878",
+	"symbol": "Castle Of Blackwater",
+	"name": "Castle Of Blackwater",
+	"coingecko": "castle-of-blackwater",
+	"sources": [
+		"coingecko"
+	]
+}

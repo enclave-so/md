@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xa4cb0dCe4849BdcAd2d553E9e68644Cf40E26ccE",
+	"symbol": "Baked",
+	"name": "Baked",
+	"coingecko": "baked-token",
+	"sources": [
+		"coingecko"
+	]
+}

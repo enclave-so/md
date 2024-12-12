@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xef6344de1fcfC5F48c30234C16c1389e8CdC572C",
+	"symbol": "EncrypGen",
+	"name": "EncrypGen",
+	"coingecko": "encrypgen",
+	"sources": [
+		"coingecko"
+	]
+}

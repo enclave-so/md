@@ -1,0 +1,13 @@
+{
+	"chain": 25,
+	"address": "0x46E2B5423F6ff46A8A35861EC9DAfF26af77AB9A",
+	"symbol": "MOON",
+	"name": "Moonflow",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x46E2B5423F6ff46A8A35861EC9DAfF26af77AB9A.jpg",
+	"coingecko": "moonflow",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

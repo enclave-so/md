@@ -1,0 +1,10 @@
+{
+	"chain": 369,
+	"address": "0x456548A9B56eFBbD89Ca0309edd17a9E20b04018",
+	"symbol": "UFO Token",
+	"name": "UFO Token",
+	"coingecko": "ufo-token",
+	"sources": [
+		"coingecko"
+	]
+}

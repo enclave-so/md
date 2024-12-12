@@ -1,0 +1,13 @@
+{
+	"chain": 40,
+	"address": "0xC1Be9a4D5D45BeeACAE296a7BD5fADBfc14602C4",
+	"symbol": "anyFTM",
+	"name": "Fantom (Anyswap)",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/telos/0xC1Be9a4D5D45BeeACAE296a7BD5fADBfc14602C4.jpg",
+	"coingecko": "wrapped-fantom",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

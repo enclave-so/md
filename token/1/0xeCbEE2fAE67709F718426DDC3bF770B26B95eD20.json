@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xeCbEE2fAE67709F718426DDC3bF770B26B95eD20",
+	"symbol": "Clips",
+	"name": "Clips",
+	"coingecko": "clips",
+	"sources": [
+		"coingecko"
+	]
+}

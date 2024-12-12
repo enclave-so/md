@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x00c5CA160A968f47e7272A0CFCda36428F386CB6",
+	"symbol": "USDEBT",
+	"name": "USDEBT",
+	"coingecko": "usdebt",
+	"sources": [
+		"coingecko"
+	]
+}

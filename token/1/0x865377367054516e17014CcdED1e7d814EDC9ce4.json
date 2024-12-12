@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0x865377367054516e17014CcdED1e7d814EDC9ce4",
+	"symbol": "DOLA",
+	"name": "DOLA USD Stablecoin",
+	"decimals": 18,
+	"logo": "https://s2.coinmarketcap.com/static/img/coins/128x128/19191.png",
+	"coingecko": "dola-usd",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

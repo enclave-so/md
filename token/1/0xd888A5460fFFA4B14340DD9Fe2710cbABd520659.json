@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xd888A5460fFFA4B14340DD9Fe2710cbABd520659",
+	"symbol": "ProtoKOLs",
+	"name": "ProtoKOLs",
+	"coingecko": "protokols",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"chain": 128,
+	"address": "0x98fc3b60Ed4A504F588342A53746405E355F9347",
+	"symbol": "HFI",
+	"name": "HFI",
+	"decimals": 18,
+	"logo": "https://hecoinfo.com/token/images/hecofi_32.png",
+	"sources": [
+		"sushiswap"
+	]
+}

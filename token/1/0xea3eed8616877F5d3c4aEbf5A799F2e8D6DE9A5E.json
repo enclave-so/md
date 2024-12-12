@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xea3eed8616877F5d3c4aEbf5A799F2e8D6DE9A5E",
+	"symbol": "Reform DAO",
+	"name": "Reform DAO",
+	"coingecko": "reform-dao",
+	"sources": [
+		"coingecko"
+	]
+}

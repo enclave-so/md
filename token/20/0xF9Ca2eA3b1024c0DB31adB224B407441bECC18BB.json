@@ -1,0 +1,10 @@
+{
+	"chain": 20,
+	"address": "0xF9Ca2eA3b1024c0DB31adB224B407441bECC18BB",
+	"symbol": "HUSD",
+	"name": "HUSD",
+	"coingecko": "husd",
+	"sources": [
+		"coingecko"
+	]
+}

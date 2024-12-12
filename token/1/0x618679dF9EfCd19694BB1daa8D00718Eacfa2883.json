@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0x618679dF9EfCd19694BB1daa8D00718Eacfa2883",
+	"symbol": "XYZ",
+	"name": "XYZ Governance Token",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x618679dF9EfCd19694BB1daa8D00718Eacfa2883/logo.png",
+	"coingecko": "universe-xyz",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

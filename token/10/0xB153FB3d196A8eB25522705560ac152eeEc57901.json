@@ -1,0 +1,10 @@
+{
+	"chain": 10,
+	"address": "0xB153FB3d196A8eB25522705560ac152eeEc57901",
+	"symbol": "Magic Internet Money (Optimism)",
+	"name": "Magic Internet Money (Optimism)",
+	"coingecko": "magic-internet-money-optimism",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x4e51A6b3cC6d5Ae69A0D44dB9de846aEb5a582Dd",
+	"symbol": "Gyoza",
+	"name": "Gyoza",
+	"coingecko": "gyoza",
+	"sources": [
+		"coingecko"
+	]
+}

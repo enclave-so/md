@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xC31CEBf8F9E825d1D1244D73d0a65e44bD5210DB",
+	"symbol": "CRYN",
+	"name": "CRYN",
+	"coingecko": "cryn",
+	"sources": [
+		"coingecko"
+	]
+}

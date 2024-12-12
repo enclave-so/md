@@ -1,0 +1,13 @@
+{
+	"chain": 250,
+	"address": "0x049d68029688eAbF473097a2fC38ef61633A3C7A",
+	"symbol": "fUSDT",
+	"name": "Frapped USDT",
+	"decimals": 6,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdt.jpg",
+	"coingecko": "frapped-usdt",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0x59A921Db27Dd6d4d974745B7FfC5c33932653442",
+	"symbol": "MGOOGL",
+	"name": "M Google",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/mgoogl.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

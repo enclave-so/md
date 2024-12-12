@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xa44E5137293E855B1b7bC7E2C6f8cD796fFCB037",
+	"symbol": "Sentinel [OLD]",
+	"name": "Sentinel [OLD]",
+	"coingecko": "sentinel-group",
+	"sources": [
+		"coingecko"
+	]
+}

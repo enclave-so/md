@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0x66C0DDEd8433c9EA86C8cf91237B14e10b4d70B7",
+	"symbol": "MARS",
+	"name": "MarsToken",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x66C0DDEd8433c9EA86C8cf91237B14e10b4d70B7/logo.png",
+	"sources": [
+		"sushiswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x9B73Ff728D7D4A423e2166a8dFaa1E79D30cddE9",
+	"symbol": "Wooooo! Coin",
+	"name": "Wooooo! Coin",
+	"coingecko": "wooooo-coin",
+	"sources": [
+		"coingecko"
+	]
+}

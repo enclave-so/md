@@ -1,0 +1,10 @@
+{
+	"chain": 39797,
+	"address": "0xB9acFE14eF575Cb043Ffde23922c2bf97651a207",
+	"symbol": "STAKE",
+	"name": "STAKE",
+	"coingecko": "xdai-stake",
+	"sources": [
+		"coingecko"
+	]
+}

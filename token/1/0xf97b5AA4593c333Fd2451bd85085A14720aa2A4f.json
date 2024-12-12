@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xf97b5AA4593c333Fd2451bd85085A14720aa2A4f",
+	"symbol": "Talk AI",
+	"name": "Talk AI",
+	"coingecko": "chiba-neko",
+	"sources": [
+		"coingecko"
+	]
+}

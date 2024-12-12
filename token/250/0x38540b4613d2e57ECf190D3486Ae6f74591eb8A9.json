@@ -1,0 +1,10 @@
+{
+	"chain": 250,
+	"address": "0x38540b4613d2e57ECf190D3486Ae6f74591eb8A9",
+	"symbol": "Alium Finance",
+	"name": "Alium Finance",
+	"coingecko": "alium-finance",
+	"sources": [
+		"coingecko"
+	]
+}

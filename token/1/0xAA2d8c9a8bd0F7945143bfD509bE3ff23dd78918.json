@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xAA2d8c9a8bd0F7945143bfD509bE3ff23dd78918",
+	"symbol": "Artizen",
+	"name": "Artizen",
+	"coingecko": "artizen",
+	"sources": [
+		"coingecko"
+	]
+}

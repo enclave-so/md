@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xaECeBfcF604AD245Eaf0D5BD68459C3a7A6399c2",
+	"symbol": "RAMP [OLD]",
+	"name": "RAMP [OLD]",
+	"coingecko": "ramp",
+	"sources": [
+		"coingecko"
+	]
+}

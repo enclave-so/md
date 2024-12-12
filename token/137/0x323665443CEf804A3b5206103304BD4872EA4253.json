@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x323665443CEf804A3b5206103304BD4872EA4253",
+	"symbol": "Verified USD",
+	"name": "Verified USD",
+	"coingecko": "verified-usd-foundation-usdv",
+	"sources": [
+		"coingecko"
+	]
+}

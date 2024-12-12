@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x1F7505F486C22f4338Ac2BdE67a3e93a547644B9",
+	"symbol": "Cat Intelligence Agency",
+	"name": "Cat Intelligence Agency",
+	"coingecko": "furari",
+	"sources": [
+		"coingecko"
+	]
+}

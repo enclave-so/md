@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xc824A08dB624942c5E5F330d56530cD1598859fD",
+	"symbol": "High Growth ETH",
+	"name": "High Growth ETH",
+	"coingecko": "high-growth-eth",
+	"sources": [
+		"coingecko"
+	]
+}

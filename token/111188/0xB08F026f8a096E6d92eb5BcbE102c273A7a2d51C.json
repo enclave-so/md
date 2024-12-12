@@ -1,0 +1,10 @@
+{
+	"chain": 111188,
+	"address": "0xB08F026f8a096E6d92eb5BcbE102c273A7a2d51C",
+	"symbol": "Caviar",
+	"name": "Caviar",
+	"coingecko": "caviar-3",
+	"sources": [
+		"coingecko"
+	]
+}

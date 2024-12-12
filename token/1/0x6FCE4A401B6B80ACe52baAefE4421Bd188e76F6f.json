@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x6FCE4A401B6B80ACe52baAefE4421Bd188e76F6f",
+	"symbol": "Aave MANA v1",
+	"name": "Aave MANA v1",
+	"coingecko": "aave-mana-v1",
+	"sources": [
+		"coingecko"
+	]
+}

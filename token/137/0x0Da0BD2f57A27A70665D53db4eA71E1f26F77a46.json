@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x0Da0BD2f57A27A70665D53db4eA71E1f26F77a46",
+	"symbol": "Cropto Wheat Token",
+	"name": "Cropto Wheat Token",
+	"coingecko": "cropto-wheat-token",
+	"sources": [
+		"coingecko"
+	]
+}

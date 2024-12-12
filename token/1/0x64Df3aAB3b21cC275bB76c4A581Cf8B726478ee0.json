@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x64Df3aAB3b21cC275bB76c4A581Cf8B726478ee0",
+	"symbol": "Cramer Coin",
+	"name": "Cramer Coin",
+	"coingecko": "cramer-coin",
+	"sources": [
+		"coingecko"
+	]
+}

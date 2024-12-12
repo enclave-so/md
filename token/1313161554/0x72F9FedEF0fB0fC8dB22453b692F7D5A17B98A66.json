@@ -1,0 +1,10 @@
+{
+	"chain": 1313161554,
+	"address": "0x72F9FedEF0fB0fC8dB22453b692F7D5A17B98A66",
+	"symbol": "DeBio Network",
+	"name": "DeBio Network",
+	"coingecko": "debio-network",
+	"sources": [
+		"coingecko"
+	]
+}

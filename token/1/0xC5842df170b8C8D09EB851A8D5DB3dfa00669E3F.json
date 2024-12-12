@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xC5842df170b8C8D09EB851A8D5DB3dfa00669E3F",
+	"symbol": "Xero AI",
+	"name": "Xero AI",
+	"coingecko": "xero-ai",
+	"sources": [
+		"coingecko"
+	]
+}

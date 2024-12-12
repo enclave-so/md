@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x0d3e106B9555c8c7052da0E7909956d640ac2c69",
+	"symbol": "POPKAT",
+	"name": "POPKAT",
+	"coingecko": "popkat",
+	"sources": [
+		"coingecko"
+	]
+}

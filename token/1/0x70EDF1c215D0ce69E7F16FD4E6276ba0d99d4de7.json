@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x70EDF1c215D0ce69E7F16FD4E6276ba0d99d4de7",
+	"symbol": "CHEQD Network",
+	"name": "CHEQD Network",
+	"coingecko": "cheqd-network",
+	"sources": [
+		"coingecko"
+	]
+}

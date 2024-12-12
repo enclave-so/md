@@ -1,0 +1,10 @@
+{
+	"chain": 39797,
+	"address": "0xC4eFAd8386124927Fb46b146526625e143e5a63A",
+	"symbol": "ZKBase",
+	"name": "ZKBase",
+	"coingecko": "zkspace",
+	"sources": [
+		"coingecko"
+	]
+}

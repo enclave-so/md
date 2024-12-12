@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x95EeF579155cd2C5510F312c8fA39208c3Be01a8",
+	"symbol": "Re7 USDT Morpho Vault",
+	"name": "Re7 USDT Morpho Vault",
+	"coingecko": "re7-usdt-morpho-vault",
+	"sources": [
+		"coingecko"
+	]
+}

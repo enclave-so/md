@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x72b9f88e822cf08B031c2206612B025a82fb303C",
+	"symbol": "Day By Day",
+	"name": "Day By Day",
+	"coingecko": "day-by-day",
+	"sources": [
+		"coingecko"
+	]
+}

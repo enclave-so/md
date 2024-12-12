@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xcaa79Bf8B1d00Bf3D4f6dbEC6221955871C04618",
+	"symbol": "CrocBot",
+	"name": "CrocBot",
+	"coingecko": "crocbot",
+	"sources": [
+		"coingecko"
+	]
+}

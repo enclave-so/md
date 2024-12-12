@@ -1,0 +1,10 @@
+{
+	"chain": 10,
+	"address": "0xc55E93C62874D8100dBd2DfE307EDc1036ad5434",
+	"symbol": "Staked BIFI",
+	"name": "Staked BIFI",
+	"coingecko": "staked-bifi",
+	"sources": [
+		"coingecko"
+	]
+}

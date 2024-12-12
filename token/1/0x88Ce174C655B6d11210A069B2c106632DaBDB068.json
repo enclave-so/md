@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x88Ce174C655B6d11210A069B2c106632DaBDB068",
+	"symbol": "Yawn's World",
+	"name": "Yawn's World",
+	"coingecko": "yawn-s-world",
+	"sources": [
+		"coingecko"
+	]
+}

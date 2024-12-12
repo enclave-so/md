@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0xAE1eaAE3F627AAca434127644371b67B18444051",
+	"symbol": "YOP",
+	"name": "YOP",
+	"decimals": 8,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/yop.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

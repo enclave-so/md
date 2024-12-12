@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xE1BA0FB44CCb0D11b80F92f4f8Ed94CA3fF51D00",
+	"symbol": "Aave BAT v1",
+	"name": "Aave BAT v1",
+	"coingecko": "aave-bat-v1",
+	"sources": [
+		"coingecko"
+	]
+}

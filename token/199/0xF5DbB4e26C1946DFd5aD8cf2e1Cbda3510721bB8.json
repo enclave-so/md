@@ -1,0 +1,11 @@
+{
+	"chain": 199,
+	"address": "0xF5DbB4e26C1946DFd5aD8cf2e1Cbda3510721bB8",
+	"symbol": "XRP.b",
+	"name": "Ripple BSC",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bttc/0xF5DbB4e26C1946DFd5aD8cf2e1Cbda3510721bB8.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

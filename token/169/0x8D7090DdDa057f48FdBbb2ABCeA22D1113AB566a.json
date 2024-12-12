@@ -1,0 +1,10 @@
+{
+	"chain": 169,
+	"address": "0x8D7090DdDa057f48FdBbb2ABCeA22D1113AB566a",
+	"symbol": "Tellor Tributes",
+	"name": "Tellor Tributes",
+	"coingecko": "tellor",
+	"sources": [
+		"coingecko"
+	]
+}

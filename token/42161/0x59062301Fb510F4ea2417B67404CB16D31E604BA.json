@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x59062301Fb510F4ea2417B67404CB16D31E604BA",
+	"symbol": "LogX Network",
+	"name": "LogX Network",
+	"coingecko": "logx-2",
+	"sources": [
+		"coingecko"
+	]
+}

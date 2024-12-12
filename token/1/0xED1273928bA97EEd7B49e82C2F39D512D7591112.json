@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xED1273928bA97EEd7B49e82C2F39D512D7591112",
+	"symbol": "NerdBot",
+	"name": "NerdBot",
+	"coingecko": "nerdbot",
+	"sources": [
+		"coingecko"
+	]
+}

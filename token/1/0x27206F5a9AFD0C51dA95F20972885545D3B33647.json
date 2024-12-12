@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x27206F5a9AFD0C51dA95F20972885545D3B33647",
+	"symbol": "KuKu",
+	"name": "KuKu",
+	"coingecko": "kuku",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1666600000,
+	"address": "0xf26D8c787e66254eE8B7A500073da8fb1ab1992D",
+	"symbol": "HEX",
+	"name": "HEX",
+	"coingecko": "hex",
+	"sources": [
+		"coingecko"
+	]
+}

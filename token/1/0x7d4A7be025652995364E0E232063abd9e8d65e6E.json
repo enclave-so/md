@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x7d4A7be025652995364E0E232063abd9e8d65e6E",
+	"symbol": "Meta Monopoly",
+	"name": "Meta Monopoly",
+	"coingecko": "meta-monopoly",
+	"sources": [
+		"coingecko"
+	]
+}

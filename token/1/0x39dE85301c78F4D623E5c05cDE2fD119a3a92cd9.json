@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x39dE85301c78F4D623E5c05cDE2fD119a3a92cd9",
+	"symbol": "blobs",
+	"name": "blobs",
+	"coingecko": "blobs",
+	"sources": [
+		"coingecko"
+	]
+}

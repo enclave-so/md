@@ -1,0 +1,10 @@
+{
+	"chain": 1329,
+	"address": "0x89aeC21572F6637cCbd0d66861AAAC46Dd775ed1",
+	"symbol": "Kryptonite",
+	"name": "Kryptonite",
+	"coingecko": "kryptonite",
+	"sources": [
+		"coingecko"
+	]
+}

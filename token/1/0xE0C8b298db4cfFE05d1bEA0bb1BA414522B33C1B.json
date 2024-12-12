@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xE0C8b298db4cfFE05d1bEA0bb1BA414522B33C1B",
+	"symbol": "nuco.cloud",
+	"name": "nuco.cloud",
+	"coingecko": "nuco-cloud",
+	"sources": [
+		"coingecko"
+	]
+}

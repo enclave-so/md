@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x1123D17FcF93ed2b41440317503346A0FdFe3ED7",
+	"symbol": "Prometheum Prodigy",
+	"name": "Prometheum Prodigy",
+	"coingecko": "prometheum-prodigy",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"chain": 137,
+	"address": "0x60Ed6aCEF3a96F8CDaF0c0D207BbAfA66e751af2",
+	"symbol": "EP",
+	"name": "Elemental Particles",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x60Ed6aCEF3a96F8CDaF0c0D207BbAfA66e751af2.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

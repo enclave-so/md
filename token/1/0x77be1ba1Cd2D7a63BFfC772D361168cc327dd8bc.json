@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x77be1ba1Cd2D7a63BFfC772D361168cc327dd8bc",
+	"symbol": "Meow Meow Coin",
+	"name": "Meow Meow Coin",
+	"coingecko": "-3",
+	"sources": [
+		"coingecko"
+	]
+}

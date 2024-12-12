@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xCe9DE5365739B1BEd5C8546867AeE4209FbB8538",
+	"symbol": "Thug Life",
+	"name": "Thug Life",
+	"coingecko": "thug-life",
+	"sources": [
+		"coingecko"
+	]
+}

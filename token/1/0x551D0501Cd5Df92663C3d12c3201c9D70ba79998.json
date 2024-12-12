@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x551D0501Cd5Df92663C3d12c3201c9D70ba79998",
+	"symbol": "All Your Base",
+	"name": "All Your Base",
+	"coingecko": "all-your-base",
+	"sources": [
+		"coingecko"
+	]
+}

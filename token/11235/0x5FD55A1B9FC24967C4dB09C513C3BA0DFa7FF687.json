@@ -1,0 +1,11 @@
+{
+	"chain": 11235,
+	"address": "0x5FD55A1B9FC24967C4dB09C513C3BA0DFa7FF687",
+	"symbol": "axlWBTC",
+	"name": "Axelar Wrapped BTC",
+	"decimals": 8,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/haqq/0x5FD55A1B9FC24967C4dB09C513C3BA0DFa7FF687.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

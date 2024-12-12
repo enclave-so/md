@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xc06caEAd870d3a8AF2504637B6C5b7248BEd6116",
+	"symbol": "Business Coin",
+	"name": "Business Coin",
+	"coingecko": "business-coin",
+	"sources": [
+		"coingecko"
+	]
+}

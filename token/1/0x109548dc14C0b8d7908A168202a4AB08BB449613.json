@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x109548dc14C0b8d7908A168202a4AB08BB449613",
+	"symbol": "Cloud Binary",
+	"name": "Cloud Binary",
+	"coingecko": "cloud-binary",
+	"sources": [
+		"coingecko"
+	]
+}

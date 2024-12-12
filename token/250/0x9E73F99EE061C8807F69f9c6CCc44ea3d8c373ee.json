@@ -1,0 +1,10 @@
+{
+	"chain": 250,
+	"address": "0x9E73F99EE061C8807F69f9c6CCc44ea3d8c373ee",
+	"symbol": "Frax Ether",
+	"name": "Frax Ether",
+	"coingecko": "frax-ether",
+	"sources": [
+		"coingecko"
+	]
+}

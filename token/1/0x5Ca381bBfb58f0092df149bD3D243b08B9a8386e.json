@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x5Ca381bBfb58f0092df149bD3D243b08B9a8386e",
+	"symbol": "Moonchain",
+	"name": "Moonchain",
+	"coingecko": "mxc",
+	"sources": [
+		"coingecko"
+	]
+}

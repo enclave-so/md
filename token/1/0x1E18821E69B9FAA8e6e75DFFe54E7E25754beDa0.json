@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x1E18821E69B9FAA8e6e75DFFe54E7E25754beDa0",
+	"symbol": "KIMCHI.finance",
+	"name": "KIMCHI.finance",
+	"coingecko": "kimchi-finance",
+	"sources": [
+		"coingecko"
+	]
+}

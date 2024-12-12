@@ -1,0 +1,13 @@
+{
+	"chain": 1285,
+	"address": "0x5D9ab5522c64E1F6ef5e3627ECCc093f56167818",
+	"symbol": "anyBUSD",
+	"name": "Binance USD - AnySwap",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/busd.jpg",
+	"coingecko": "multichain-bridged-busd-moonriver",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

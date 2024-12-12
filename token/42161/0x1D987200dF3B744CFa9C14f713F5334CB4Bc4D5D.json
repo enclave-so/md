@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x1D987200dF3B744CFa9C14f713F5334CB4Bc4D5D",
+	"symbol": "REKT",
+	"name": "REKT",
+	"coingecko": "rekt-04bbe51a-e290-450a-afb5-b2b43b80b20e",
+	"sources": [
+		"coingecko"
+	]
+}

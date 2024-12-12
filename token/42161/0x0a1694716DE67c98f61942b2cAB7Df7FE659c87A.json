@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x0a1694716DE67c98f61942b2cAB7Df7FE659c87A",
+	"symbol": "Crescentswap Moonlight",
+	"name": "Crescentswap Moonlight",
+	"coingecko": "crescentswap-moonlight",
+	"sources": [
+		"coingecko"
+	]
+}

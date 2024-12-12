@@ -1,0 +1,10 @@
+{
+	"chain": 1116,
+	"address": "0x42020C7962CE072F5048120ceDEB36C020062aF4",
+	"symbol": "Crust Exchange",
+	"name": "Crust Exchange",
+	"coingecko": "crust-exchange",
+	"sources": [
+		"coingecko"
+	]
+}

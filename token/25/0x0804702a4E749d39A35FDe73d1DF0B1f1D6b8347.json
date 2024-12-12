@@ -1,0 +1,13 @@
+{
+	"chain": 25,
+	"address": "0x0804702a4E749d39A35FDe73d1DF0B1f1D6b8347",
+	"symbol": "SINGLE",
+	"name": "SINGLE Token",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x0804702a4E749d39A35FDe73d1DF0B1f1D6b8347.jpg",
+	"coingecko": "single-finance",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

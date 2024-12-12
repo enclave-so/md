@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x1842F548295b222C56939745d8DDf74981d40030",
+	"symbol": "Qudefi",
+	"name": "Qudefi",
+	"coingecko": "qudefi-2",
+	"sources": [
+		"coingecko"
+	]
+}

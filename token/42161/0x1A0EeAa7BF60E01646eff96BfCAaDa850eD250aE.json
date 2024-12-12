@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x1A0EeAa7BF60E01646eff96BfCAaDa850eD250aE",
+	"symbol": "Redux Vault",
+	"name": "Redux Vault",
+	"coingecko": "redux-vault",
+	"sources": [
+		"coingecko"
+	]
+}

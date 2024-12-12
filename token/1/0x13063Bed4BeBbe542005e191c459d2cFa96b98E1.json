@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x13063Bed4BeBbe542005e191c459d2cFa96b98E1",
+	"symbol": "Izumi-chan",
+	"name": "Izumi-chan",
+	"coingecko": "izumi-chan",
+	"sources": [
+		"coingecko"
+	]
+}

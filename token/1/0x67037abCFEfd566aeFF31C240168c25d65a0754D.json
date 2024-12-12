@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x67037abCFEfd566aeFF31C240168c25d65a0754D",
+	"symbol": "ZAIHO",
+	"name": "ZAIHO",
+	"coingecko": "zaiho",
+	"sources": [
+		"coingecko"
+	]
+}

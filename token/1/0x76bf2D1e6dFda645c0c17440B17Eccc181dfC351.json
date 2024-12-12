@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x76bf2D1e6dFda645c0c17440B17Eccc181dfC351",
+	"symbol": "Veno Yield Bearing ETH",
+	"name": "Veno Yield Bearing ETH",
+	"coingecko": "veno-yield-bearing-eth",
+	"sources": [
+		"coingecko"
+	]
+}

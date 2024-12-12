@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xf287D97B6345bad3D88856b26Fb7c0ab3F2C7976",
+	"symbol": "Index Coop - MATIC 2x Flexible Leverage Index",
+	"name": "Index Coop - MATIC 2x Flexible Leverage Index",
+	"coingecko": "index-coop-matic-2x-flexible-leverage-index",
+	"sources": [
+		"coingecko"
+	]
+}

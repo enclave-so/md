@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x9C46e1B70d447B770Dbfc8D450543a431aF6DF3A",
+	"symbol": "Dinari USFR",
+	"name": "Dinari USFR",
+	"coingecko": "dinari-usfr-dshares",
+	"sources": [
+		"coingecko"
+	]
+}

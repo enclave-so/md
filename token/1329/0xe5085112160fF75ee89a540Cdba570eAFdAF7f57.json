@@ -1,0 +1,10 @@
+{
+	"chain": 1329,
+	"address": "0xe5085112160fF75ee89a540Cdba570eAFdAF7f57",
+	"symbol": "Kryptonite Staked SEI",
+	"name": "Kryptonite Staked SEI",
+	"coingecko": "kryptonite-staked-sei",
+	"sources": [
+		"coingecko"
+	]
+}

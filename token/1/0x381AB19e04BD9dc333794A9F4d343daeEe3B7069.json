@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x381AB19e04BD9dc333794A9F4d343daeEe3B7069",
+	"symbol": "Dolan Duk",
+	"name": "Dolan Duk",
+	"coingecko": "dolan-duk",
+	"sources": [
+		"coingecko"
+	]
+}

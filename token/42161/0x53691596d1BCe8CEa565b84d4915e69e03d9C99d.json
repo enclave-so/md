@@ -1,0 +1,13 @@
+{
+	"chain": 42161,
+	"address": "0x53691596d1BCe8CEa565b84d4915e69e03d9C99d",
+	"symbol": "ACX",
+	"name": "Across Protocol Token",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x53691596d1BCe8CEa565b84d4915e69e03d9C99d.jpg",
+	"coingecko": "across-protocol",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

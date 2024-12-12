@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x2Ad2934d5BFB7912304754479Dd1f096D5C807Da",
+	"symbol": "Argocoin",
+	"name": "Argocoin",
+	"coingecko": "argocoin",
+	"sources": [
+		"coingecko"
+	]
+}

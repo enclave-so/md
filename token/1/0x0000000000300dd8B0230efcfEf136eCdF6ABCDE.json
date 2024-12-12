@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x0000000000300dd8B0230efcfEf136eCdF6ABCDE",
+	"symbol": "DegenX",
+	"name": "DegenX",
+	"coingecko": "degenx",
+	"sources": [
+		"coingecko"
+	]
+}

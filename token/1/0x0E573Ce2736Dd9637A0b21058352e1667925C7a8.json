@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0x0E573Ce2736Dd9637A0b21058352e1667925C7a8",
+	"symbol": "USDV",
+	"name": "USDV",
+	"decimals": 6,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x0E573Ce2736Dd9637A0b21058352e1667925C7a8.jpg",
+	"coingecko": "verified-usd-foundation-usdv",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

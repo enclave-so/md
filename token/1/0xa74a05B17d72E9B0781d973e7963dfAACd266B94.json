@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xa74a05B17d72E9B0781d973e7963dfAACd266B94",
+	"symbol": "Oasis",
+	"name": "Oasis",
+	"coingecko": "oasis-3",
+	"sources": [
+		"coingecko"
+	]
+}

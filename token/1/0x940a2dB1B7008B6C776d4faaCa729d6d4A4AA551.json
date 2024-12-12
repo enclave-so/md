@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x940a2dB1B7008B6C776d4faaCa729d6d4A4AA551",
+	"symbol": "Dusk",
+	"name": "Dusk",
+	"coingecko": "dusk-network",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0x1F3f9D3068568F8040775be2e8C03C103C61f3aF",
+	"symbol": "ARCH",
+	"name": "Archer DAO",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x1F3f9D3068568F8040775be2e8C03C103C61f3aF/logo.png",
+	"sources": [
+		"sushiswap"
+	]
+}

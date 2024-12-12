@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x3A33473d7990a605a88ac72A78aD4EFC40a54ADB",
+	"symbol": "Tigris",
+	"name": "Tigris",
+	"coingecko": "tigris",
+	"sources": [
+		"coingecko"
+	]
+}

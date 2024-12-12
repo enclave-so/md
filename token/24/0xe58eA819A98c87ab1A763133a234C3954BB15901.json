@@ -1,0 +1,10 @@
+{
+	"chain": 24,
+	"address": "0xe58eA819A98c87ab1A763133a234C3954BB15901",
+	"symbol": "Heroes TD",
+	"name": "Heroes TD",
+	"coingecko": "heroes-td",
+	"sources": [
+		"coingecko"
+	]
+}

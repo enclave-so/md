@@ -1,0 +1,13 @@
+{
+	"chain": 1666600000,
+	"address": "0xd754ae7bb55fEB0c4BA6bC037b4A140f14ebE018",
+	"symbol": "TEM",
+	"name": "TEmplar Token",
+	"decimals": 9,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/harmony/assets/0xd754ae7bb55fEB0c4BA6bC037b4A140f14ebE018/logo.png",
+	"coingecko": "templardao",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

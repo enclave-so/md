@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x9F2825333aa7bC2C98c061924871B6C016e385F3",
+	"symbol": "21.co Wrapped LTC",
+	"name": "21.co Wrapped LTC",
+	"coingecko": "wrapped-ltc-21-co",
+	"sources": [
+		"coingecko"
+	]
+}

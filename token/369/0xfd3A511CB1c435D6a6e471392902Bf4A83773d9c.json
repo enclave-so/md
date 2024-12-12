@@ -1,0 +1,10 @@
+{
+	"chain": 369,
+	"address": "0xfd3A511CB1c435D6a6e471392902Bf4A83773d9c",
+	"symbol": "DinoLFG",
+	"name": "DinoLFG",
+	"coingecko": "dinolfg",
+	"sources": [
+		"coingecko"
+	]
+}

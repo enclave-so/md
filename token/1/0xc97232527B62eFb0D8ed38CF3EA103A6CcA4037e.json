@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xc97232527B62eFb0D8ed38CF3EA103A6CcA4037e",
+	"symbol": "LP Yearn CRV Vault",
+	"name": "LP Yearn CRV Vault",
+	"coingecko": "lp-yearn-crv-vault",
+	"sources": [
+		"coingecko"
+	]
+}

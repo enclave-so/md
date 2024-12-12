@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x2c022e58C5E3Ee213F06f975fd8a0d3a6fE9Ca1C",
+	"symbol": "FINU",
+	"name": "FINU",
+	"coingecko": "formula-inu",
+	"sources": [
+		"coingecko"
+	]
+}

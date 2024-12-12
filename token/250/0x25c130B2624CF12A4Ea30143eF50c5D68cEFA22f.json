@@ -1,0 +1,10 @@
+{
+	"chain": 250,
+	"address": "0x25c130B2624CF12A4Ea30143eF50c5D68cEFA22f",
+	"symbol": "Geist ETH",
+	"name": "Geist ETH",
+	"coingecko": "geist-eth",
+	"sources": [
+		"coingecko"
+	]
+}

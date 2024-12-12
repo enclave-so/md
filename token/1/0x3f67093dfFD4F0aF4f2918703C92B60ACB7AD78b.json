@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x3f67093dfFD4F0aF4f2918703C92B60ACB7AD78b",
+	"symbol": "21.co Wrapped BTC",
+	"name": "21.co Wrapped BTC",
+	"coingecko": "wrapped-btc-21-co",
+	"sources": [
+		"coingecko"
+	]
+}

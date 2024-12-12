@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x294B9dA569c0d694870239813Bbe7B5824FD2339",
+	"symbol": "AIRian",
+	"name": "AIRian",
+	"coingecko": "airian",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x267eB2A9a13DC304a9dEFf4277abE850d0852c5F",
+	"symbol": "Trace AI",
+	"name": "Trace AI",
+	"coingecko": "trace-ai",
+	"sources": [
+		"coingecko"
+	]
+}

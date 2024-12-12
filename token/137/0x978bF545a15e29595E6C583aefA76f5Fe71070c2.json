@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x978bF545a15e29595E6C583aefA76f5Fe71070c2",
+	"symbol": "Loop Of Infinity",
+	"name": "Loop Of Infinity",
+	"coingecko": "loop-of-infinity",
+	"sources": [
+		"coingecko"
+	]
+}

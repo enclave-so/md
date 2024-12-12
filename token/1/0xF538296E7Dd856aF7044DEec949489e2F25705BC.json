@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xF538296E7Dd856aF7044DEec949489e2F25705BC",
+	"symbol": "Illumicati",
+	"name": "Illumicati",
+	"coingecko": "illumicati",
+	"sources": [
+		"coingecko"
+	]
+}

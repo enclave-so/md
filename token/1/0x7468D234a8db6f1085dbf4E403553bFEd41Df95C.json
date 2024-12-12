@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x7468D234a8db6f1085dbf4E403553bFEd41Df95C",
+	"symbol": "Ideal Opportunities",
+	"name": "Ideal Opportunities",
+	"coingecko": "ideal-opportunities",
+	"sources": [
+		"coingecko"
+	]
+}

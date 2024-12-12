@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xAd1A5B8538a866eCD56dDd328b50ed57cEd5D936",
+	"symbol": "Good Gensler",
+	"name": "Good Gensler",
+	"coingecko": "good-gensler",
+	"sources": [
+		"coingecko"
+	]
+}

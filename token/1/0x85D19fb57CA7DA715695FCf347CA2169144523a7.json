@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x85D19fb57CA7DA715695FCf347CA2169144523a7",
+	"symbol": "Conan",
+	"name": "Conan",
+	"coingecko": "conan-2",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1116,
+	"address": "0x1a639e150d2210A4BE4a5F0857A9151B241E7AE4",
+	"symbol": "Archerswap BOW",
+	"name": "Archerswap BOW",
+	"coingecko": "archerswap-bow",
+	"sources": [
+		"coingecko"
+	]
+}

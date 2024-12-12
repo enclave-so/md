@@ -1,0 +1,13 @@
+{
+	"chain": 42161,
+	"address": "0xF42e2B8bc2aF8B110b65be98dB1321B1ab8D44f5",
+	"symbol": "DONUT",
+	"name": "Donut",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xF42e2B8bc2aF8B110b65be98dB1321B1ab8D44f5.jpg",
+	"coingecko": "donut",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

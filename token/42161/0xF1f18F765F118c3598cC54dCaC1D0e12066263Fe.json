@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0xF1f18F765F118c3598cC54dCaC1D0e12066263Fe",
+	"symbol": "Dinari PFE",
+	"name": "Dinari PFE",
+	"coingecko": "dinari-pfe-dshares",
+	"sources": [
+		"coingecko"
+	]
+}

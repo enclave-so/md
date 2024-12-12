@@ -1,0 +1,13 @@
+{
+	"chain": 2222,
+	"address": "0x1a35EE4640b0A3B87705B0A4B45D227Ba60Ca2ad",
+	"symbol": "axlWBTC",
+	"name": "Axeler Wrapped WBTC",
+	"decimals": 8,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/kava/0x1a35EE4640b0A3B87705B0A4B45D227Ba60Ca2ad.jpg",
+	"coingecko": "axlwbtc",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

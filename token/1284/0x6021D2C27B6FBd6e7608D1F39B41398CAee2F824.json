@@ -1,0 +1,10 @@
+{
+	"chain": 1284,
+	"address": "0x6021D2C27B6FBd6e7608D1F39B41398CAee2F824",
+	"symbol": "Cypress",
+	"name": "Cypress",
+	"coingecko": "cypress",
+	"sources": [
+		"coingecko"
+	]
+}

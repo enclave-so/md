@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0x7d54F4E05f273a9317f723997612Ed64eF53C900",
+	"symbol": "QNT",
+	"name": "Quant",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x7d54F4E05f273a9317f723997612Ed64eF53C900.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

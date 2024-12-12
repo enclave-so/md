@@ -1,0 +1,13 @@
+{
+	"chain": 250,
+	"address": "0x468003B688943977e6130F4F68F23aad939a1040",
+	"symbol": "SPELL",
+	"name": "Spell",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/fantom/0x468003B688943977e6130F4F68F23aad939a1040.jpg",
+	"coingecko": "spell-token",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

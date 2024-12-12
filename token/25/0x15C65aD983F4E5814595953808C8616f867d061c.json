@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0x15C65aD983F4E5814595953808C8616f867d061c",
+	"symbol": "EPX",
+	"name": "Ellipsis",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x15C65aD983F4E5814595953808C8616f867d061c.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

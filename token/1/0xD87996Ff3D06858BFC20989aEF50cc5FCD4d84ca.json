@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xD87996Ff3D06858BFC20989aEF50cc5FCD4d84ca",
+	"symbol": "Golden Inu",
+	"name": "Golden Inu",
+	"coingecko": "golden-inu-token",
+	"sources": [
+		"coingecko"
+	]
+}

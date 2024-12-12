@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xd8695414822e25Ab796C1d360914dDF510A01138",
+	"symbol": "Kreaitor",
+	"name": "Kreaitor",
+	"coingecko": "kreaitor",
+	"sources": [
+		"coingecko"
+	]
+}

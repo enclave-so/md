@@ -1,0 +1,10 @@
+{
+	"chain": 1088,
+	"address": "0x3dbb8D7B18b83B6109829b018875fCD192D2F3Ff",
+	"symbol": "CRONUS",
+	"name": "CRONUS",
+	"coingecko": "cronus",
+	"sources": [
+		"coingecko"
+	]
+}

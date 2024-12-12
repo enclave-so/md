@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xb39364b51d2C97b62b838Bc5213B8627eB469101",
+	"symbol": "Swot AI",
+	"name": "Swot AI",
+	"coingecko": "swot-ai",
+	"sources": [
+		"coingecko"
+	]
+}

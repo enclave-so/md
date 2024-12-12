@@ -1,0 +1,10 @@
+{
+	"chain": 1101,
+	"address": "0x0709E962221dd8AC9eC5c56f85ef789D3C1b9776",
+	"symbol": "SOBAX",
+	"name": "SOBAX",
+	"coingecko": "sobax",
+	"sources": [
+		"coingecko"
+	]
+}

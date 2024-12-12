@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0x0A92ea8a197919aCb9BC26660Ed0D43D01ed26b7",
+	"symbol": "ENJ",
+	"name": "ENJ",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x0A92ea8a197919aCb9BC26660Ed0D43D01ed26b7.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

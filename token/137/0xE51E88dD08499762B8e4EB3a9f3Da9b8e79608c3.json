@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xE51E88dD08499762B8e4EB3a9f3Da9b8e79608c3",
+	"symbol": "Sekuritance",
+	"name": "Sekuritance",
+	"coingecko": "sekuritance",
+	"sources": [
+		"coingecko"
+	]
+}

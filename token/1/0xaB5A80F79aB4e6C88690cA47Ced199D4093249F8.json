@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xaB5A80F79aB4e6C88690cA47Ced199D4093249F8",
+	"symbol": "Finder AI",
+	"name": "Finder AI",
+	"coingecko": "finder-ai",
+	"sources": [
+		"coingecko"
+	]
+}

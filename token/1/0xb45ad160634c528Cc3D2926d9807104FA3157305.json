@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xb45ad160634c528Cc3D2926d9807104FA3157305",
+	"symbol": "sDOLA",
+	"name": "sDOLA",
+	"coingecko": "sdola",
+	"sources": [
+		"coingecko"
+	]
+}

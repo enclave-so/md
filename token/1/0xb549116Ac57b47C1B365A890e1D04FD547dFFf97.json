@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xb549116Ac57b47C1B365A890e1D04FD547dFFf97",
+	"symbol": "MindAI",
+	"name": "MindAI",
+	"coingecko": "mindai",
+	"sources": [
+		"coingecko"
+	]
+}

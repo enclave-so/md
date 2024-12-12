@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0xeE0b14e8fC86691Cf6eE42B9954985B4cF968534",
+	"symbol": "ZenPandaCoin",
+	"name": "ZenPandaCoin",
+	"coingecko": "zenpandacoin",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1907,
+	"address": "0x4270A3D1a61FC6b86Ea9E19730E529ACEe592c3B",
+	"symbol": "Brazil National Football Team Fan Token",
+	"name": "Brazil National Football Team Fan Token",
+	"coingecko": "brazil-fan-token",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xefc3F1ECfF8B9e9389323eF610bb9149236e62fD",
+	"symbol": "Lucky Mio",
+	"name": "Lucky Mio",
+	"coingecko": "lucky-mio",
+	"sources": [
+		"coingecko"
+	]
+}

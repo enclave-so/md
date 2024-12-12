@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0x6582C738660bf0701f05b04DcE3c4E5Fcfcda47a",
+	"symbol": "DUSD",
+	"name": "Darkness Dollar",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x6582C738660bf0701f05b04DcE3c4E5Fcfcda47a.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x3E2c956b4Ab4807B2f942235c9074d9BD069e9f0",
+	"symbol": "IPVERSE",
+	"name": "IPVERSE",
+	"coingecko": "ipverse",
+	"sources": [
+		"coingecko"
+	]
+}

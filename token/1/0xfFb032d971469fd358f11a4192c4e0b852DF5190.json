@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xfFb032d971469fd358f11a4192c4e0b852DF5190",
+	"symbol": "Pepe Treasure",
+	"name": "Pepe Treasure",
+	"coingecko": "pepe-treasure",
+	"sources": [
+		"coingecko"
+	]
+}

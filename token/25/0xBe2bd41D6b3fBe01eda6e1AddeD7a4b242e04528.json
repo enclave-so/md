@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0xBe2bd41D6b3fBe01eda6e1AddeD7a4b242e04528",
+	"symbol": "FET",
+	"name": "Fetch",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xBe2bd41D6b3fBe01eda6e1AddeD7a4b242e04528.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

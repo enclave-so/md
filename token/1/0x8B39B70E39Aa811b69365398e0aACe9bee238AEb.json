@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x8B39B70E39Aa811b69365398e0aACe9bee238AEb",
+	"symbol": "Red Kite",
+	"name": "Red Kite",
+	"coingecko": "polkafoundry",
+	"sources": [
+		"coingecko"
+	]
+}

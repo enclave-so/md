@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x72a66e54B66892aE3BBe54DF7bb7Dd5Ae927a6f9",
+	"symbol": "Crypto Village Accelerator CVAG",
+	"name": "Crypto Village Accelerator CVAG",
+	"coingecko": "crypto-village-accelerator-cvag",
+	"sources": [
+		"coingecko"
+	]
+}

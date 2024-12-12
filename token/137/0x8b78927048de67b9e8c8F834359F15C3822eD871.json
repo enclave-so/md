@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x8b78927048de67b9e8c8F834359F15C3822eD871",
+	"symbol": "Legends of Elysium",
+	"name": "Legends of Elysium",
+	"coingecko": "legends-of-elysium",
+	"sources": [
+		"coingecko"
+	]
+}

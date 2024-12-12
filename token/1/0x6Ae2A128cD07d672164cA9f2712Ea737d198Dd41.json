@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x6Ae2A128cD07d672164cA9f2712Ea737d198Dd41",
+	"symbol": "Goat Trading",
+	"name": "Goat Trading",
+	"coingecko": "goat-trading",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x692AC1e363ae34b6B489148152b12e2785a3d8d6",
+	"symbol": "Polytrade",
+	"name": "Polytrade",
+	"coingecko": "polytrade",
+	"sources": [
+		"coingecko"
+	]
+}

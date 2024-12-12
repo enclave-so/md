@@ -1,0 +1,10 @@
+{
+	"chain": 39797,
+	"address": "0x3FA2C976654A6BA6DCb1e532a4B1E31Fd4DCd3b9",
+	"symbol": "Bluzelle",
+	"name": "Bluzelle",
+	"coingecko": "bluzelle",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0xD5954c3084a1cCd70B4dA011E67760B8e78aeE84",
+	"symbol": "Arbidex",
+	"name": "Arbidex",
+	"coingecko": "arbitrum-exchange",
+	"sources": [
+		"coingecko"
+	]
+}

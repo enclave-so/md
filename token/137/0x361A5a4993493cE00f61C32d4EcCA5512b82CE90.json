@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x361A5a4993493cE00f61C32d4EcCA5512b82CE90",
+	"symbol": "Stake DAO",
+	"name": "Stake DAO",
+	"coingecko": "stake-dao",
+	"sources": [
+		"coingecko"
+	]
+}

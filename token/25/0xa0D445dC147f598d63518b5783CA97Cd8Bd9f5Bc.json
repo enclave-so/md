@@ -1,0 +1,13 @@
+{
+	"chain": 25,
+	"address": "0xa0D445dC147f598d63518b5783CA97Cd8Bd9f5Bc",
+	"symbol": "STUCK",
+	"name": "mouse in pasta",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xa0D445dC147f598d63518b5783CA97Cd8Bd9f5Bc.jpg",
+	"coingecko": "mouse-in-pasta",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

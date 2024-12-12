@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x4db57D585fa82Ca32d25086DDc069d899f08D455",
+	"symbol": "Enoch",
+	"name": "Enoch",
+	"coingecko": "enoch",
+	"sources": [
+		"coingecko"
+	]
+}

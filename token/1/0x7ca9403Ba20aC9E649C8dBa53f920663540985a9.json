@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x7ca9403Ba20aC9E649C8dBa53f920663540985a9",
+	"symbol": "Nexis Tools",
+	"name": "Nexis Tools",
+	"coingecko": "nexis-tools",
+	"sources": [
+		"coingecko"
+	]
+}

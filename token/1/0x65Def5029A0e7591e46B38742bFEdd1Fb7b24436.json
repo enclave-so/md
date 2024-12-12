@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0x65Def5029A0e7591e46B38742bFEdd1Fb7b24436",
+	"symbol": "KAE",
+	"name": "Kanpeki",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x65Def5029A0e7591e46B38742bFEdd1Fb7b24436/logo.png",
+	"sources": [
+		"sushiswap"
+	]
+}

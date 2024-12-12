@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xeD1DdC491A2c8b1f7D6e8933580a47E124EA38db",
+	"symbol": "Intelligence On Chain",
+	"name": "Intelligence On Chain",
+	"coingecko": "intelligence-on-chain",
+	"sources": [
+		"coingecko"
+	]
+}

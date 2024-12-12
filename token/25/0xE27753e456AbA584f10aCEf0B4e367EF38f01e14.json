@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0xE27753e456AbA584f10aCEf0B4e367EF38f01e14",
+	"symbol": "AXS",
+	"name": "Axie Infinity Shards",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xE27753e456AbA584f10aCEf0B4e367EF38f01e14.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

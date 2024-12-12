@@ -1,0 +1,10 @@
+{
+	"chain": 25,
+	"address": "0x7492450cc8897a4e444Ad972eB1619251EF15C23",
+	"symbol": "GoodMorning",
+	"name": "GoodMorning",
+	"coingecko": "goodmorning",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 3776,
+	"address": "0xA8CE8aee21bC2A48a5EF670afCc9274C7bbbC035",
+	"symbol": "Astar zkEVM Bridged USDC (Astar zkEVM)",
+	"name": "Astar zkEVM Bridged USDC (Astar zkEVM)",
+	"coingecko": "lxly-bridged-usdc-astar-zkevm",
+	"sources": [
+		"coingecko"
+	]
+}

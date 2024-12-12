@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x390e61F798267fe7aa9BBE61Be8BB1776250D44C",
+	"symbol": "T2T2",
+	"name": "T2T2",
+	"coingecko": "t2t2",
+	"sources": [
+		"coingecko"
+	]
+}

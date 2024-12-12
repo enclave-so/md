@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x38A94e92A19E970c144DEd0B2DD47278CA11CC1F",
+	"symbol": "Falcon Nine",
+	"name": "Falcon Nine",
+	"coingecko": "falcon-nine",
+	"sources": [
+		"coingecko"
+	]
+}

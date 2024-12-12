@@ -1,0 +1,11 @@
+{
+	"chain": 137,
+	"address": "0x0d962A1A2A27B402e4D84772dea65Ac8592Eb6bF",
+	"symbol": "GMS",
+	"name": "Gemstones",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x0d962A1A2A27B402e4D84772dea65Ac8592Eb6bF/logo.png",
+	"sources": [
+		"sushiswap"
+	]
+}

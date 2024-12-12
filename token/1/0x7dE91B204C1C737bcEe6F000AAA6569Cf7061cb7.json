@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x7dE91B204C1C737bcEe6F000AAA6569Cf7061cb7",
+	"symbol": "Robonomics Network",
+	"name": "Robonomics Network",
+	"coingecko": "robonomics-network",
+	"sources": [
+		"coingecko"
+	]
+}

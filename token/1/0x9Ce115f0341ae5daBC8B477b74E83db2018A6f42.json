@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x9Ce115f0341ae5daBC8B477b74E83db2018A6f42",
+	"symbol": "HairDAO",
+	"name": "HairDAO",
+	"coingecko": "hairdao",
+	"sources": [
+		"coingecko"
+	]
+}

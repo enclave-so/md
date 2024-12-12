@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0xc8CCBd97b96834b976C995a67BF46e5754e2C48E",
+	"symbol": "Parallax",
+	"name": "Parallax",
+	"coingecko": "parallax",
+	"sources": [
+		"coingecko"
+	]
+}

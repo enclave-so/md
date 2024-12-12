@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x9B9647431632AF44be02ddd22477Ed94d14AacAa",
+	"symbol": "KOK",
+	"name": "KOK",
+	"coingecko": "kok",
+	"sources": [
+		"coingecko"
+	]
+}

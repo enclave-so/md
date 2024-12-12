@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0x78E9974A74d6c980De4E3F8039248320c5A2d714",
+	"symbol": "OGN",
+	"name": "Origin Protocol",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x78E9974A74d6c980De4E3F8039248320c5A2d714.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

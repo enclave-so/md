@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x668308d77be3533c909a692302Cb4D135Bf8041C",
+	"symbol": "Inception sfrxETH",
+	"name": "Inception sfrxETH",
+	"coingecko": "inceptionlrt-sfrxet",
+	"sources": [
+		"coingecko"
+	]
+}

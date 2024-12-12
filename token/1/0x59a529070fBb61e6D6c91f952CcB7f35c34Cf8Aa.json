@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x59a529070fBb61e6D6c91f952CcB7f35c34Cf8Aa",
+	"symbol": "Asymmetry Finance",
+	"name": "Asymmetry Finance",
+	"coingecko": "asymmetry-finance",
+	"sources": [
+		"coingecko"
+	]
+}

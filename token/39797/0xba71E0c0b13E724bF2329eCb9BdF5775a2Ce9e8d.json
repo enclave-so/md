@@ -1,0 +1,10 @@
+{
+	"chain": 39797,
+	"address": "0xba71E0c0b13E724bF2329eCb9BdF5775a2Ce9e8d",
+	"symbol": "DFI.money",
+	"name": "DFI.money",
+	"coingecko": "yfii-finance",
+	"sources": [
+		"coingecko"
+	]
+}

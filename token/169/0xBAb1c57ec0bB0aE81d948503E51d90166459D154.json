@@ -1,0 +1,10 @@
+{
+	"chain": 169,
+	"address": "0xBAb1c57ec0bB0aE81d948503E51d90166459D154",
+	"symbol": "Ispolink",
+	"name": "Ispolink",
+	"coingecko": "ispolink",
+	"sources": [
+		"coingecko"
+	]
+}

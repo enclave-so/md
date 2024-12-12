@@ -1,0 +1,10 @@
+{
+	"chain": 23294,
+	"address": "0x8Bc2B030b299964eEfb5e1e0b36991352E56D2D3",
+	"symbol": "Wrapped ROSE",
+	"name": "Wrapped ROSE",
+	"coingecko": "wrapped-rose",
+	"sources": [
+		"coingecko"
+	]
+}

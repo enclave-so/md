@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x32934CB16DA43fd661116468c1B225Fc26CF9A8c",
+	"symbol": "StrongNode",
+	"name": "StrongNode",
+	"coingecko": "strongnode",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xF32aa187d5Bc16A2C02A6aFb7Df1459d0D107574",
+	"symbol": "HachikoInu",
+	"name": "HachikoInu",
+	"coingecko": "hachikoinu",
+	"sources": [
+		"coingecko"
+	]
+}

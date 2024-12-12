@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x358AA737e033F34df7c54306960a38d09AaBd523",
+	"symbol": "Ares Protocol",
+	"name": "Ares Protocol",
+	"coingecko": "ares-protocol",
+	"sources": [
+		"coingecko"
+	]
+}

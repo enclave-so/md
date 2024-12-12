@@ -1,0 +1,13 @@
+{
+	"chain": 137,
+	"address": "0xAC63686230f64BDEAF086Fe6764085453ab3023F",
+	"symbol": "USV",
+	"name": "Universal Store of Value",
+	"decimals": 9,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xAC63686230f64BDEAF086Fe6764085453ab3023F/logo.png",
+	"coingecko": "atlas-usv",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

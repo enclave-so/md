@@ -1,0 +1,10 @@
+{
+	"chain": 1116,
+	"address": "0xA20b3B97df3a02f9185175760300a06B4e0A2C05",
+	"symbol": "Staked CORE",
+	"name": "Staked CORE",
+	"coingecko": "staked-core",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x1B7AD346b6Ff2D196DaA8E78AEd86Baa6D7e3B02",
+	"symbol": "VitAI",
+	"name": "VitAI",
+	"coingecko": "vitai",
+	"sources": [
+		"coingecko"
+	]
+}

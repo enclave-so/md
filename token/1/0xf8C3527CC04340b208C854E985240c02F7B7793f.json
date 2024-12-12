@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0xf8C3527CC04340b208C854E985240c02F7B7793f",
+	"symbol": "FRONT",
+	"name": "Frontier",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/front.jpg",
+	"coingecko": "frontier-token",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

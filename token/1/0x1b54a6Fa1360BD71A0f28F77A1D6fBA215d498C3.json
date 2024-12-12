@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x1b54a6Fa1360BD71A0f28F77A1D6fBA215d498C3",
+	"symbol": "Casinu Inu",
+	"name": "Casinu Inu",
+	"coingecko": "casinu-inu",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x3973C606B493EeE0E14B2b5654d5c4049cE9C2d9",
+	"symbol": "BitGate",
+	"name": "BitGate",
+	"coingecko": "bitgate",
+	"sources": [
+		"coingecko"
+	]
+}

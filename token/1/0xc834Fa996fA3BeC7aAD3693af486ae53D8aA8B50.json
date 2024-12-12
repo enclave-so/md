@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xc834Fa996fA3BeC7aAD3693af486ae53D8aA8B50",
+	"symbol": "Convergence",
+	"name": "Convergence",
+	"coingecko": "convergence",
+	"sources": [
+		"coingecko"
+	]
+}

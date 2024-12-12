@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x6A4402a535d74Bd0C9cDb5Ce2d51822Fc9F6620E",
+	"symbol": "Tomo Cat",
+	"name": "Tomo Cat",
+	"coingecko": "tomo-cat",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x85931ad37Af0a3bb892086d13030330e93Eac9dF",
+	"symbol": "Tx24",
+	"name": "Tx24",
+	"coingecko": "tx24",
+	"sources": [
+		"coingecko"
+	]
+}

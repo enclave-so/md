@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x93ca0d85837FF83158Cd14D65B169CdB223b1921",
+	"symbol": "Eclipse Fi",
+	"name": "Eclipse Fi",
+	"coingecko": "eclipse-fi",
+	"sources": [
+		"coingecko"
+	]
+}

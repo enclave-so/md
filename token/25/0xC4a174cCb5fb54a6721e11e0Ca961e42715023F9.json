@@ -1,0 +1,13 @@
+{
+	"chain": 25,
+	"address": "0xC4a174cCb5fb54a6721e11e0Ca961e42715023F9",
+	"symbol": "CROGE",
+	"name": "Crogecoin",
+	"decimals": 9,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xC4a174cCb5fb54a6721e11e0Ca961e42715023F9.jpg",
+	"coingecko": "crogecoin",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

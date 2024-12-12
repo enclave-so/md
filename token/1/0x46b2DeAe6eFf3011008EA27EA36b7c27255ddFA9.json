@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x46b2DeAe6eFf3011008EA27EA36b7c27255ddFA9",
+	"symbol": "dYdX",
+	"name": "dYdX",
+	"coingecko": "dydx-wethdydx",
+	"sources": [
+		"coingecko"
+	]
+}

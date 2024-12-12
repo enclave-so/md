@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x0F17eeCcc84739b9450C88dE0429020e2DEC05eb",
+	"symbol": "Otacon AI",
+	"name": "Otacon AI",
+	"coingecko": "otacon-ai",
+	"sources": [
+		"coingecko"
+	]
+}

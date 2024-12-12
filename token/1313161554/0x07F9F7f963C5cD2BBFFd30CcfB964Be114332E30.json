@@ -1,0 +1,10 @@
+{
+	"chain": 1313161554,
+	"address": "0x07F9F7f963C5cD2BBFFd30CcfB964Be114332E30",
+	"symbol": "Staked NEAR",
+	"name": "Staked NEAR",
+	"coingecko": "staked-near",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1890,
+	"address": "0x8Fd8Bc93518Ea586bE25C31a8973636192734555",
+	"symbol": "Bridged Arbitrum (Lightlink)",
+	"name": "Bridged Arbitrum (Lightlink)",
+	"coingecko": "bridged-arbitrum-lightlink",
+	"sources": [
+		"coingecko"
+	]
+}

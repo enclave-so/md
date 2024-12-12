@@ -1,0 +1,13 @@
+{
+	"chain": 25,
+	"address": "0x59BAfb7168972EcCA5e395F7dA88e71eCe47a260",
+	"symbol": "PPFT",
+	"name": "Papparico Finance Token",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x59BAfb7168972EcCA5e395F7dA88e71eCe47a260.jpg",
+	"coingecko": "papparico-finance-token",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

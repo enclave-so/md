@@ -1,0 +1,11 @@
+{
+	"chain": 42161,
+	"address": "0x995C235521820f2637303Ca1970c7c044583df44",
+	"symbol": "VISR",
+	"name": "VISOR",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/visr.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

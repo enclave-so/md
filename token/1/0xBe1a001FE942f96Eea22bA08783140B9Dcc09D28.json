@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xBe1a001FE942f96Eea22bA08783140B9Dcc09D28",
+	"symbol": "Beta Finance",
+	"name": "Beta Finance",
+	"coingecko": "beta-finance",
+	"sources": [
+		"coingecko"
+	]
+}

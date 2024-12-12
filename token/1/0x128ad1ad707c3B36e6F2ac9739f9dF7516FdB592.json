@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x128ad1ad707c3B36e6F2ac9739f9dF7516FdB592",
+	"symbol": "alfa.society",
+	"name": "alfa.society",
+	"coingecko": "alfa-society",
+	"sources": [
+		"coingecko"
+	]
+}

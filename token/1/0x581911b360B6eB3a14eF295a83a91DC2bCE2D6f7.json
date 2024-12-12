@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x581911b360B6eB3a14eF295a83a91DC2bCE2D6f7",
+	"symbol": "MileVerse",
+	"name": "MileVerse",
+	"coingecko": "mileverse",
+	"sources": [
+		"coingecko"
+	]
+}

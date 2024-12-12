@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xdE8CD13B812BcD82218754A740b27E76ec1e86aD",
+	"symbol": "TRESTLE",
+	"name": "TRESTLE",
+	"coingecko": "trestle",
+	"sources": [
+		"coingecko"
+	]
+}

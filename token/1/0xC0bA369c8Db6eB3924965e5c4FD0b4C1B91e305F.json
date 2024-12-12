@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xC0bA369c8Db6eB3924965e5c4FD0b4C1B91e305F",
+	"symbol": "DLP Duck",
+	"name": "DLP Duck",
+	"coingecko": "dlp-duck-token",
+	"sources": [
+		"coingecko"
+	]
+}

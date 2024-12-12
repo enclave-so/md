@@ -1,0 +1,10 @@
+{
+	"chain": 1313161554,
+	"address": "0x990e50E781004EA75e2bA3A67eB69c0B1cD6e3A6",
+	"symbol": "pNEAR",
+	"name": "pNEAR",
+	"coingecko": "pnear",
+	"sources": [
+		"coingecko"
+	]
+}

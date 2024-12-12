@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xf0b2b2d73a7c070E5f44a4E12b3F6a51949A3459",
+	"symbol": "UNILAPSE",
+	"name": "UNILAPSE",
+	"coingecko": "unilapse",
+	"sources": [
+		"coingecko"
+	]
+}

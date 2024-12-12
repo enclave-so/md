@@ -1,0 +1,11 @@
+{
+	"chain": 40,
+	"address": "0xeFAeeE334F0Fd1712f9a8cc375f427D9Cdd40d73",
+	"symbol": "anyUSDT",
+	"name": "Tether USD (Anyswap)",
+	"decimals": 6,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/telos/0xeFAeeE334F0Fd1712f9a8cc375f427D9Cdd40d73.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

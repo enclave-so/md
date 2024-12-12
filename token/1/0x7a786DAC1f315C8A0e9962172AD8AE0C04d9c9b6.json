@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x7a786DAC1f315C8A0e9962172AD8AE0C04d9c9b6",
+	"symbol": "MemeDAO",
+	"name": "MemeDAO",
+	"coingecko": "memedao",
+	"sources": [
+		"coingecko"
+	]
+}

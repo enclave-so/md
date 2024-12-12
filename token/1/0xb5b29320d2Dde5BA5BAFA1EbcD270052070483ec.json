@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xb5b29320d2Dde5BA5BAFA1EbcD270052070483ec",
+	"symbol": "YieldETH (Sommelier)",
+	"name": "YieldETH (Sommelier)",
+	"coingecko": "yieldeth-sommelier",
+	"sources": [
+		"coingecko"
+	]
+}

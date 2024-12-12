@@ -1,0 +1,11 @@
+{
+	"chain": 42,
+	"address": "0xb7a4F3E9097C08dA09517b5aB877F7a917224ede",
+	"symbol": "USDC",
+	"name": "USD Coin USDC",
+	"decimals": 6,
+	"logo": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDC.svg",
+	"sources": [
+		"sushiswap"
+	]
+}

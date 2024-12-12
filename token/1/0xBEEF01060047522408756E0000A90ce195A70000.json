@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xBEEF01060047522408756E0000A90ce195A70000",
+	"symbol": "Aperture Finance",
+	"name": "Aperture Finance",
+	"coingecko": "aperture-finance",
+	"sources": [
+		"coingecko"
+	]
+}

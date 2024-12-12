@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x6749441Fdc8650b5b5a854ed255C82EF361f1596",
+	"symbol": "Lucha",
+	"name": "Lucha",
+	"coingecko": "lucha",
+	"sources": [
+		"coingecko"
+	]
+}

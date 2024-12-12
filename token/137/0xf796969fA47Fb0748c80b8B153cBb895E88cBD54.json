@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xf796969fA47Fb0748c80b8B153cBb895E88cBD54",
+	"symbol": "Ocavu Network",
+	"name": "Ocavu Network",
+	"coingecko": "ocavu-network",
+	"sources": [
+		"coingecko"
+	]
+}

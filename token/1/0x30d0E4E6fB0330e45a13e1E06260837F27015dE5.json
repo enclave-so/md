@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x30d0E4E6fB0330e45a13e1E06260837F27015dE5",
+	"symbol": "Year of the Dragon",
+	"name": "Year of the Dragon",
+	"coingecko": "year-of-the-dragon",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1116,
+	"address": "0xcfd38184c30832917A2871695F91e5e61bBD41fF",
+	"symbol": "Miidas",
+	"name": "Miidas",
+	"coingecko": "miidas",
+	"sources": [
+		"coingecko"
+	]
+}

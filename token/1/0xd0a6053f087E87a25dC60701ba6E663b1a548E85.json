@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xd0a6053f087E87a25dC60701ba6E663b1a548E85",
+	"symbol": "BLOCKLORDS",
+	"name": "BLOCKLORDS",
+	"coingecko": "blocklords",
+	"sources": [
+		"coingecko"
+	]
+}

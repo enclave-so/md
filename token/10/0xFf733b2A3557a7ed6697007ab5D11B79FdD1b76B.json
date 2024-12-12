@@ -1,0 +1,13 @@
+{
+	"chain": 10,
+	"address": "0xFf733b2A3557a7ed6697007ab5D11B79FdD1b76B",
+	"symbol": "ACX",
+	"name": "Across Protocol Token",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/optimism/0xFf733b2A3557a7ed6697007ab5D11B79FdD1b76B.jpg",
+	"coingecko": "across-protocol",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

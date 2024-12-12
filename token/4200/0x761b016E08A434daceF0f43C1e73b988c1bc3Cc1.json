@@ -1,0 +1,10 @@
+{
+	"chain": 4200,
+	"address": "0x761b016E08A434daceF0f43C1e73b988c1bc3Cc1",
+	"symbol": "BitGenie",
+	"name": "BitGenie",
+	"coingecko": "bitgenie",
+	"sources": [
+		"coingecko"
+	]
+}

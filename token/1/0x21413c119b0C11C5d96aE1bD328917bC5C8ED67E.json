@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0x21413c119b0C11C5d96aE1bD328917bC5C8ED67E",
+	"symbol": "GENE",
+	"name": "GenomesDAO",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x21413c119b0C11C5d96aE1bD328917bC5C8ED67E/logo.png",
+	"coingecko": "genomesdao",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

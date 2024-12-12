@@ -1,0 +1,10 @@
+{
+	"chain": 2222,
+	"address": "0x332c72dd7E77070740F01d2d35851c461585D5d0",
+	"symbol": "LiquidDriver",
+	"name": "LiquidDriver",
+	"coingecko": "liquiddriver",
+	"sources": [
+		"coingecko"
+	]
+}

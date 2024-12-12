@@ -1,0 +1,13 @@
+{
+	"chain": 1666600000,
+	"address": "0x218532a12a389a4a92fC0C5Fb22901D1c19198aA",
+	"symbol": "LINK",
+	"name": "ChainLink Token",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/link.jpg",
+	"coingecko": "chainlink",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

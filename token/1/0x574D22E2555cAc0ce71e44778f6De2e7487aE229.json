@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x574D22E2555cAc0ce71e44778f6De2e7487aE229",
+	"symbol": "SoonVerse",
+	"name": "SoonVerse",
+	"coingecko": "soonswap",
+	"sources": [
+		"coingecko"
+	]
+}

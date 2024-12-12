@@ -1,0 +1,10 @@
+{
+	"chain": 369,
+	"address": "0x0Cb6F5a34ad42ec934882A05265A7d5F59b51A2f",
+	"symbol": "Bridged Tether (PulseChain)",
+	"name": "Bridged Tether (PulseChain)",
+	"coingecko": "tether-pulsechain",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xFA3118B34522580c35Ae27F6cf52da1dBb756288",
+	"symbol": "Linkeye",
+	"name": "Linkeye",
+	"coingecko": "linkeye",
+	"sources": [
+		"coingecko"
+	]
+}

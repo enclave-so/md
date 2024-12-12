@@ -1,0 +1,10 @@
+{
+	"chain": 1907,
+	"address": "0xA0c3B17AB3Cf6DfBAFc31AE22681e72418f5f4b6",
+	"symbol": "RC Celta de Vigo Fan Token",
+	"name": "RC Celta de Vigo Fan Token",
+	"coingecko": "rc-celta-de-vigo-fan-token",
+	"sources": [
+		"coingecko"
+	]
+}

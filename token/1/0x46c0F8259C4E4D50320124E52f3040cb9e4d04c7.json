@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x46c0F8259C4E4D50320124E52f3040cb9e4d04c7",
+	"symbol": "Chatter Shield",
+	"name": "Chatter Shield",
+	"coingecko": "chatter-shield-2",
+	"sources": [
+		"coingecko"
+	]
+}

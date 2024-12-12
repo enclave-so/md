@@ -1,0 +1,10 @@
+{
+	"chain": 169,
+	"address": "0x305E88d809c9DC03179554BFbf85Ac05Ce8F18d6",
+	"symbol": "Bridged Wrapped Bitcoin (Manta Pacific)",
+	"name": "Bridged Wrapped Bitcoin (Manta Pacific)",
+	"coingecko": "bridged-wrapped-bitcoin-manta-pacific",
+	"sources": [
+		"coingecko"
+	]
+}

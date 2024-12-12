@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xd6cAF5Bd23CF057f5FcCCE295Dcc50C01C198707",
+	"symbol": "Evanesco Network",
+	"name": "Evanesco Network",
+	"coingecko": "evanesco-network",
+	"sources": [
+		"coingecko"
+	]
+}

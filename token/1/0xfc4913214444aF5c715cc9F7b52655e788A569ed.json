@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xfc4913214444aF5c715cc9F7b52655e788A569ed",
+	"symbol": "Icosa (ETH)",
+	"name": "Icosa (ETH)",
+	"coingecko": "icosa-eth",
+	"sources": [
+		"coingecko"
+	]
+}

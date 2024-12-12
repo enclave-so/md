@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xCbfef8fdd706cde6F208460f2Bf39Aa9c785F05D",
+	"symbol": "Kine Protocol",
+	"name": "Kine Protocol",
+	"coingecko": "kine-protocol",
+	"sources": [
+		"coingecko"
+	]
+}

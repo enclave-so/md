@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x61E90A50137E1F645c9eF4a0d3A4f01477738406",
+	"symbol": "League of Kingdoms",
+	"name": "League of Kingdoms",
+	"coingecko": "league-of-kingdoms",
+	"sources": [
+		"coingecko"
+	]
+}

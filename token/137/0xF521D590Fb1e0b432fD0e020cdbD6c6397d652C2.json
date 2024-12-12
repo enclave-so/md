@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xF521D590Fb1e0b432fD0e020cdbD6c6397d652C2",
+	"symbol": "Parachute",
+	"name": "Parachute",
+	"coingecko": "parachute",
+	"sources": [
+		"coingecko"
+	]
+}

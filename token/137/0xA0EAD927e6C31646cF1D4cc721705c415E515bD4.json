@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xA0EAD927e6C31646cF1D4cc721705c415E515bD4",
+	"symbol": "TRIMBEX",
+	"name": "TRIMBEX",
+	"coingecko": "trimbex",
+	"sources": [
+		"coingecko"
+	]
+}

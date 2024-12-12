@@ -1,0 +1,10 @@
+{
+	"chain": 324,
+	"address": "0x3a34FA9a1288597Ad6C1Da709f001D37FeF8b19e",
+	"symbol": "SyncDex",
+	"name": "SyncDex",
+	"coingecko": "syncdex",
+	"sources": [
+		"coingecko"
+	]
+}

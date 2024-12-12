@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x79CA240990ec3F11381a8f80529828aAD0628658",
+	"symbol": "DiVinciPay",
+	"name": "DiVinciPay",
+	"coingecko": "divincipay",
+	"sources": [
+		"coingecko"
+	]
+}

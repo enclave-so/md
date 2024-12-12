@@ -1,0 +1,10 @@
+{
+	"chain": 324,
+	"address": "0x61B41e0244133B9c9c47A57e51a5EF70be2c5DD4",
+	"symbol": "Bolt Token",
+	"name": "Bolt Token",
+	"coingecko": "bolt-token-023ba86e-eb38-41a1-8d32-8b48ecfcb2c7",
+	"sources": [
+		"coingecko"
+	]
+}

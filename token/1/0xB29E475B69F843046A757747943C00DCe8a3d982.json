@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xB29E475B69F843046A757747943C00DCe8a3d982",
+	"symbol": "Spectre",
+	"name": "Spectre",
+	"coingecko": "spectre-2",
+	"sources": [
+		"coingecko"
+	]
+}

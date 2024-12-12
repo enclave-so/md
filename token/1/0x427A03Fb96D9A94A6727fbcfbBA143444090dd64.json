@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x427A03Fb96D9A94A6727fbcfbBA143444090dd64",
+	"symbol": "PIXL",
+	"name": "PIXL",
+	"coingecko": "sappy-seals-pixl",
+	"sources": [
+		"coingecko"
+	]
+}

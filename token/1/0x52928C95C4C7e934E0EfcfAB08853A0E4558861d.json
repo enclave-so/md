@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x52928C95C4C7e934E0EfcfAB08853A0E4558861d",
+	"symbol": "Hara",
+	"name": "Hara",
+	"coingecko": "hara-token",
+	"sources": [
+		"coingecko"
+	]
+}

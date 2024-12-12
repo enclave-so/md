@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x75430D0782A443bD4f1c92C69009599dEA53A206",
+	"symbol": "Pick Or Rick",
+	"name": "Pick Or Rick",
+	"coingecko": "pick-or-rick",
+	"sources": [
+		"coingecko"
+	]
+}

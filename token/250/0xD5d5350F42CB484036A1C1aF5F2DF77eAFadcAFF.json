@@ -1,0 +1,11 @@
+{
+	"chain": 250,
+	"address": "0xD5d5350F42CB484036A1C1aF5F2DF77eAFadcAFF",
+	"symbol": "axlDAI",
+	"name": "Axelar Wrapped DAI",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/fantom/0xD5d5350F42CB484036A1C1aF5F2DF77eAFadcAFF.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xd0AC5Be680Bfbc0f1958413f4201f91934F61BEA",
+	"symbol": "MILO",
+	"name": "MILO",
+	"coingecko": "milo",
+	"sources": [
+		"coingecko"
+	]
+}

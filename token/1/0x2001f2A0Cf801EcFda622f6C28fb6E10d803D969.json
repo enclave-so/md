@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x2001f2A0Cf801EcFda622f6C28fb6E10d803D969",
+	"symbol": "CoinLoan",
+	"name": "CoinLoan",
+	"coingecko": "coinloan",
+	"sources": [
+		"coingecko"
+	]
+}

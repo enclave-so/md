@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x9CbEfeeC232CDbE428ec59cE310C6febc01d6163",
+	"symbol": "Flochi",
+	"name": "Flochi",
+	"coingecko": "flochi",
+	"sources": [
+		"coingecko"
+	]
+}

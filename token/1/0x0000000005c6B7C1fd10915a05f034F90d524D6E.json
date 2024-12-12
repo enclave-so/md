@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x0000000005c6B7C1fd10915a05f034F90d524D6E",
+	"symbol": "TRYC",
+	"name": "TRYC",
+	"coingecko": "tryc",
+	"sources": [
+		"coingecko"
+	]
+}

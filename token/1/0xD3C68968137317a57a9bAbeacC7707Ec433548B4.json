@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xD3C68968137317a57a9bAbeacC7707Ec433548B4",
+	"symbol": "Phavercoin",
+	"name": "Phavercoin",
+	"coingecko": "phavercoin",
+	"sources": [
+		"coingecko"
+	]
+}

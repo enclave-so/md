@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xb3E41D6e0ea14b43BC5DE3C314A408af171b03dD",
+	"symbol": "Kabosu",
+	"name": "Kabosu",
+	"coingecko": "kabosu-kabosucoin-erc",
+	"sources": [
+		"coingecko"
+	]
+}

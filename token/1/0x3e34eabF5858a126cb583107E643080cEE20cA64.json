@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x3e34eabF5858a126cb583107E643080cEE20cA64",
+	"symbol": "Linq",
+	"name": "Linq",
+	"coingecko": "linq",
+	"sources": [
+		"coingecko"
+	]
+}

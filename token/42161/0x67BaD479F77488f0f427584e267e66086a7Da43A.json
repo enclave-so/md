@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x67BaD479F77488f0f427584e267e66086a7Da43A",
+	"symbol": "Dinari ARM",
+	"name": "Dinari ARM",
+	"coingecko": "dinari-arm",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"chain": 42,
+	"address": "0xD1308F63823221518Ec88EB209CBaa1ac182105f",
+	"symbol": "SAI",
+	"name": "Sai Stablecoin v1.0",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_SAI.svg",
+	"sources": [
+		"sushiswap"
+	]
+}

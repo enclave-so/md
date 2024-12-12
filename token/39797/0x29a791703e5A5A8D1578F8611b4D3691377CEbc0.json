@@ -1,0 +1,10 @@
+{
+	"chain": 39797,
+	"address": "0x29a791703e5A5A8D1578F8611b4D3691377CEbc0",
+	"symbol": "Multichain Bridged WBTC (Energi)",
+	"name": "Multichain Bridged WBTC (Energi)",
+	"coingecko": "multichain-bridged-wbtc-energi",
+	"sources": [
+		"coingecko"
+	]
+}

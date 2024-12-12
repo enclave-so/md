@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xBbCC7c16D56fc3B0C0a9A2CED36C74BCf73e683E",
+	"symbol": "Bitcoin Black Credit Card",
+	"name": "Bitcoin Black Credit Card",
+	"coingecko": "bitcoin-black-credit-card",
+	"sources": [
+		"coingecko"
+	]
+}

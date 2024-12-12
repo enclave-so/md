@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0x68D43230470c67BeB61e00a6E8EC869F947365fD",
+	"symbol": "HOD",
+	"name": "HOD",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x68D43230470c67BeB61e00a6E8EC869F947365fD.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

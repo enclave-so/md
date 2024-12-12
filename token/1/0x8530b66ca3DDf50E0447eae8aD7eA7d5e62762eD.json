@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x8530b66ca3DDf50E0447eae8aD7eA7d5e62762eD",
+	"symbol": "Meta Doge",
+	"name": "Meta Doge",
+	"coingecko": "meta-doge",
+	"sources": [
+		"coingecko"
+	]
+}

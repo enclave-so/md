@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x98968f0747E0A261532cAcC0BE296375F5c08398",
+	"symbol": "MOONCAT Vault (NFTX)",
+	"name": "MOONCAT Vault (NFTX)",
+	"coingecko": "mooncat-vault-nftx",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"chain": 128,
+	"address": "0xE499Ef4616993730CEd0f31FA2703B92B50bB536",
+	"symbol": "HPT",
+	"name": "Heco-Peg HPT Token",
+	"decimals": 18,
+	"logo": "https://hecoinfo.com/token/images/HPT_32.png",
+	"sources": [
+		"sushiswap"
+	]
+}

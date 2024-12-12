@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x2614f29C39dE46468A921Fd0b41fdd99A01f2EDf",
+	"symbol": "HELIOS",
+	"name": "HELIOS",
+	"coingecko": "helios",
+	"sources": [
+		"coingecko"
+	]
+}

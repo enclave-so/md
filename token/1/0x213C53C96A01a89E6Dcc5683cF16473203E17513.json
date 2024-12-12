@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x213C53C96A01a89E6Dcc5683cF16473203E17513",
+	"symbol": "Defi Shopping Stake",
+	"name": "Defi Shopping Stake",
+	"coingecko": "defi-shopping-stake",
+	"sources": [
+		"coingecko"
+	]
+}

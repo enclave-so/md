@@ -1,0 +1,11 @@
+{
+	"chain": 128,
+	"address": "0xE131F048D85f0391A24435eEFB7763199B587d0e",
+	"symbol": "LAMB",
+	"name": "Heco-Peg LAMB Token",
+	"decimals": 18,
+	"logo": "https://hecoinfo.com/images/main/empty-token.png",
+	"sources": [
+		"sushiswap"
+	]
+}

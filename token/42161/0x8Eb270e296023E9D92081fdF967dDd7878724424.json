@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x8Eb270e296023E9D92081fdF967dDd7878724424",
+	"symbol": "Aave v3 rETH",
+	"name": "Aave v3 rETH",
+	"coingecko": "aave-v3-reth",
+	"sources": [
+		"coingecko"
+	]
+}

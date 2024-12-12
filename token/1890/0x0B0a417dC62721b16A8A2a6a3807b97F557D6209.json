@@ -1,0 +1,10 @@
+{
+	"chain": 1890,
+	"address": "0x0B0a417dC62721b16A8A2a6a3807b97F557D6209",
+	"symbol": "Bridged Polygon (Lightlink)",
+	"name": "Bridged Polygon (Lightlink)",
+	"coingecko": "bridged-polygon-lightlink",
+	"sources": [
+		"coingecko"
+	]
+}

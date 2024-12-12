@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x35fA164735182de50811E8e2E824cFb9B6118ac2",
+	"symbol": "ether.fi Staked ETH",
+	"name": "ether.fi Staked ETH",
+	"coingecko": "ether-fi-staked-eth",
+	"sources": [
+		"coingecko"
+	]
+}

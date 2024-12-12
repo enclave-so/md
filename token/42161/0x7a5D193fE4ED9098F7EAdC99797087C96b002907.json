@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x7a5D193fE4ED9098F7EAdC99797087C96b002907",
+	"symbol": "Plutus ARB",
+	"name": "Plutus ARB",
+	"coingecko": "plutus-arb",
+	"sources": [
+		"coingecko"
+	]
+}

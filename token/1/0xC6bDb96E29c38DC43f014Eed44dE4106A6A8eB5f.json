@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xC6bDb96E29c38DC43f014Eed44dE4106A6A8eB5f",
+	"symbol": "Inu Inu",
+	"name": "Inu Inu",
+	"coingecko": "inu-inu",
+	"sources": [
+		"coingecko"
+	]
+}

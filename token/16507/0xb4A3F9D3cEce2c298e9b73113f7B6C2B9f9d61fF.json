@@ -1,0 +1,10 @@
+{
+	"chain": 16507,
+	"address": "0xb4A3F9D3cEce2c298e9b73113f7B6C2B9f9d61fF",
+	"symbol": "BlueLotusDAO",
+	"name": "BlueLotusDAO",
+	"coingecko": "bluelotusdao",
+	"sources": [
+		"coingecko"
+	]
+}

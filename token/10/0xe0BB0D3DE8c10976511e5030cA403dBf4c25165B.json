@@ -1,0 +1,13 @@
+{
+	"chain": 10,
+	"address": "0xe0BB0D3DE8c10976511e5030cA403dBf4c25165B",
+	"symbol": "0xBTC",
+	"name": "0xBitcoin",
+	"decimals": 8,
+	"logo": "https://ethereum-optimism.github.io/data/0xBTC/logo.png",
+	"coingecko": "oxbitcoin",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

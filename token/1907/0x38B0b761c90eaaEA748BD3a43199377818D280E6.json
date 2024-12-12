@@ -1,0 +1,10 @@
+{
+	"chain": 1907,
+	"address": "0x38B0b761c90eaaEA748BD3a43199377818D280E6",
+	"symbol": "McLaren F1 Fan Token",
+	"name": "McLaren F1 Fan Token",
+	"coingecko": "mclaren-f1-fan-token",
+	"sources": [
+		"coingecko"
+	]
+}

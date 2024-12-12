@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xC289C2D57e2bA371f40D594705DBf9331A2da47d",
+	"symbol": "First Meme",
+	"name": "First Meme",
+	"coingecko": "first-meme",
+	"sources": [
+		"coingecko"
+	]
+}

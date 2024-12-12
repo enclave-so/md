@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x35e050d3C0eC2d29D269a8EcEa763a183bDF9A9D",
+	"symbol": "Ondo US Dollar Yield",
+	"name": "Ondo US Dollar Yield",
+	"coingecko": "ondo-us-dollar-yield",
+	"sources": [
+		"coingecko"
+	]
+}

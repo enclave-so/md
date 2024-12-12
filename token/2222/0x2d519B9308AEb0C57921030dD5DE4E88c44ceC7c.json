@@ -1,0 +1,10 @@
+{
+	"chain": 2222,
+	"address": "0x2d519B9308AEb0C57921030dD5DE4E88c44ceC7c",
+	"symbol": "Pozo Coin",
+	"name": "Pozo Coin",
+	"coingecko": "pozo-coin",
+	"sources": [
+		"coingecko"
+	]
+}

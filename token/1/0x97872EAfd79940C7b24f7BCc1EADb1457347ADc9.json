@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0x97872EAfd79940C7b24f7BCc1EADb1457347ADc9",
+	"symbol": "STRP",
+	"name": "Strips Token",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x97872EAfd79940C7b24f7BCc1EADb1457347ADc9/logo.png",
+	"coingecko": "strips-finance",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

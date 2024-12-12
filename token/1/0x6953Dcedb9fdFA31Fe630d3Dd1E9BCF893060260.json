@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x6953Dcedb9fdFA31Fe630d3Dd1E9BCF893060260",
+	"symbol": "Goatseus Act II",
+	"name": "Goatseus Act II",
+	"coingecko": "goatseus-act-ii",
+	"sources": [
+		"coingecko"
+	]
+}

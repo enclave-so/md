@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x1E37b3855ca1EF46106BAA162bFAf8A1E7666a5D",
+	"symbol": "Tamkin",
+	"name": "Tamkin",
+	"coingecko": "tamkin",
+	"sources": [
+		"coingecko"
+	]
+}

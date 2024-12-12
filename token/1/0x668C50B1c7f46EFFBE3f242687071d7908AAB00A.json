@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x668C50B1c7f46EFFBE3f242687071d7908AAB00A",
+	"symbol": "CoShi Inu",
+	"name": "CoShi Inu",
+	"coingecko": "coshi-inu",
+	"sources": [
+		"coingecko"
+	]
+}

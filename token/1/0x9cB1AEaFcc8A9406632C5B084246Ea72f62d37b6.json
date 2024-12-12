@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x9cB1AEaFcc8A9406632C5B084246Ea72f62d37b6",
+	"symbol": "LBK",
+	"name": "LBK",
+	"coingecko": "lbk",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xD28B3FD350A14f0b1D14633E3d14DB7b80406391",
+	"symbol": "Meme TrumpCoin",
+	"name": "Meme TrumpCoin",
+	"coingecko": "meme-trumpcoin",
+	"sources": [
+		"coingecko"
+	]
+}

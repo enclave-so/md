@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x5E430F88D1BE82EB3eF92b6fF06125168fD5DCf2",
+	"symbol": "MODA DAO",
+	"name": "MODA DAO",
+	"coingecko": "moda-dao",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x55A8f6c6b3Aa58ad6D1f26f6AFeDEd78F32E19f4",
+	"symbol": "Aegis Ai",
+	"name": "Aegis Ai",
+	"coingecko": "aegis-ai",
+	"sources": [
+		"coingecko"
+	]
+}

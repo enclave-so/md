@@ -1,0 +1,11 @@
+{
+	"chain": 137,
+	"address": "0x91cA694d2B293f70Fe722fbA7d8A5259188959c3",
+	"symbol": "MFT",
+	"name": "Hifi Finance",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/3293/small/hifi_logo.png?1613102742",
+	"sources": [
+		"sushiswap"
+	]
+}

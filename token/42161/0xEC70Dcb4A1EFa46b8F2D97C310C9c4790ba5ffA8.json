@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0xEC70Dcb4A1EFa46b8F2D97C310C9c4790ba5ffA8",
+	"symbol": "Rocket Pool ETH",
+	"name": "Rocket Pool ETH",
+	"coingecko": "rocket-pool-eth",
+	"sources": [
+		"coingecko"
+	]
+}

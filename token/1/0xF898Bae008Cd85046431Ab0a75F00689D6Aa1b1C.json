@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xF898Bae008Cd85046431Ab0a75F00689D6Aa1b1C",
+	"symbol": "0xVPN.org",
+	"name": "0xVPN.org",
+	"coingecko": "0xvpn-org",
+	"sources": [
+		"coingecko"
+	]
+}

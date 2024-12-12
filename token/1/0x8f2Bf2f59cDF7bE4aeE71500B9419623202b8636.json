@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x8f2Bf2f59cDF7bE4aeE71500B9419623202b8636",
+	"symbol": "Chefdotfun",
+	"name": "Chefdotfun",
+	"coingecko": "chefdotfun",
+	"sources": [
+		"coingecko"
+	]
+}

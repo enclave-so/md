@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xdc4F4eD9872571d5eC8986a502A0D88F3a175f1E",
+	"symbol": "$DEZ",
+	"name": "$DEZ",
+	"coingecko": "dez",
+	"sources": [
+		"coingecko"
+	]
+}

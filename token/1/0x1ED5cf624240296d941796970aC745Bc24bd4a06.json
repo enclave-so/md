@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x1ED5cf624240296d941796970aC745Bc24bd4a06",
+	"symbol": "Poshi World",
+	"name": "Poshi World",
+	"coingecko": "poshi-world",
+	"sources": [
+		"coingecko"
+	]
+}

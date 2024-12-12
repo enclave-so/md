@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x0B452278223D3954F4AC050949D7998e373e7E43",
+	"symbol": "Shita-kiri Suzume",
+	"name": "Shita-kiri Suzume",
+	"coingecko": "shita-kiri-suzume",
+	"sources": [
+		"coingecko"
+	]
+}

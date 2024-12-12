@@ -1,0 +1,10 @@
+{
+	"chain": 108,
+	"address": "0xBEB0131D95AC3F03fd15894D0aDE5DBf7451d171",
+	"symbol": "Thundercore Bridged BUSD (Thundercore)",
+	"name": "Thundercore Bridged BUSD (Thundercore)",
+	"coingecko": "thundercore-bridged-busd-thundercore",
+	"sources": [
+		"coingecko"
+	]
+}

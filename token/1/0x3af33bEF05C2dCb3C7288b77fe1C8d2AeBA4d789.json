@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x3af33bEF05C2dCb3C7288b77fe1C8d2AeBA4d789",
+	"symbol": "Kromatika",
+	"name": "Kromatika",
+	"coingecko": "kromatika",
+	"sources": [
+		"coingecko"
+	]
+}

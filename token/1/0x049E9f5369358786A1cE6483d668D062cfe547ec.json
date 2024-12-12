@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x049E9f5369358786A1cE6483d668D062cfe547ec",
+	"symbol": "Checks Token",
+	"name": "Checks Token",
+	"coingecko": "checks-token",
+	"sources": [
+		"coingecko"
+	]
+}

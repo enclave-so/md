@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x8E30ea2329D95802Fd804f4291220b0e2F579812",
+	"symbol": "Decentralized Vulnerability Platform",
+	"name": "Decentralized Vulnerability Platform",
+	"coingecko": "decentralized-vulnerability-platform",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"chain": 42161,
+	"address": "0x2f2a2543B76A4166549F7aaB2e75Bef0aefC5B0f",
+	"symbol": "WBTC",
+	"name": "Wrapped BTC",
+	"decimals": 8,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/btc.jpg",
+	"coingecko": "arbitrum-bridged-wbtc-arbitrum-one",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x4da08a1Bff50BE96bdeD5C7019227164b49C2bFc",
+	"symbol": "Mononoke Inu",
+	"name": "Mononoke Inu",
+	"coingecko": "mononoke-inu",
+	"sources": [
+		"coingecko"
+	]
+}

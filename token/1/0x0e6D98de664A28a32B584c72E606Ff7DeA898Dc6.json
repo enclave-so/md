@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x0e6D98de664A28a32B584c72E606Ff7DeA898Dc6",
+	"symbol": "Produce AI",
+	"name": "Produce AI",
+	"coingecko": "produce-ai",
+	"sources": [
+		"coingecko"
+	]
+}

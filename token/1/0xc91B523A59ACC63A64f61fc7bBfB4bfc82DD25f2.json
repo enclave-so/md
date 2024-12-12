@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xc91B523A59ACC63A64f61fc7bBfB4bfc82DD25f2",
+	"symbol": "Multiverse",
+	"name": "Multiverse",
+	"coingecko": "multiverse",
+	"sources": [
+		"coingecko"
+	]
+}

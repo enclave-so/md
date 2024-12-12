@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x900dB999074d9277c5DA2A43F252D74366230DA0",
+	"symbol": "Giveth",
+	"name": "Giveth",
+	"coingecko": "giveth",
+	"sources": [
+		"coingecko"
+	]
+}

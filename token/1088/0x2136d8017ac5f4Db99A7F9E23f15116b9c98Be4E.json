@@ -1,0 +1,10 @@
+{
+	"chain": 1088,
+	"address": "0x2136d8017ac5f4Db99A7F9E23f15116b9c98Be4E",
+	"symbol": "VEGA",
+	"name": "VEGA",
+	"coingecko": "vega-2",
+	"sources": [
+		"coingecko"
+	]
+}

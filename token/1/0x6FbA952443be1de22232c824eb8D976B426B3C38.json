@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x6FbA952443be1de22232c824eb8D976B426B3C38",
+	"symbol": "Kochi Ken ETH",
+	"name": "Kochi Ken ETH",
+	"coingecko": "kochi-ken-eth",
+	"sources": [
+		"coingecko"
+	]
+}

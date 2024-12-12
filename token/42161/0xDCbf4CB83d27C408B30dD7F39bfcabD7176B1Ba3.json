@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0xDCbf4CB83d27C408B30dD7F39bfcabD7176B1Ba3",
+	"symbol": "OpenOcean",
+	"name": "OpenOcean",
+	"coingecko": "openocean",
+	"sources": [
+		"coingecko"
+	]
+}

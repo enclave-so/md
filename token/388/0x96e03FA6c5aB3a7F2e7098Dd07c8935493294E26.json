@@ -1,0 +1,10 @@
+{
+	"chain": 388,
+	"address": "0x96e03FA6c5aB3a7F2e7098Dd07c8935493294E26",
+	"symbol": "Fortune Token",
+	"name": "Fortune Token",
+	"coingecko": "ebisusbay-fortune",
+	"sources": [
+		"coingecko"
+	]
+}

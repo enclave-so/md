@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x6E7F6A2404Ff6b4363b0A5085DBf7B78d46E04d7",
+	"symbol": "Barter",
+	"name": "Barter",
+	"coingecko": "barter",
+	"sources": [
+		"coingecko"
+	]
+}

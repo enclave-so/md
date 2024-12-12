@@ -1,0 +1,10 @@
+{
+	"chain": 1907,
+	"address": "0x30bd5A8b8729eB801f771fF213f2450dfA8dc721",
+	"symbol": "Kocaelispor Fan Token",
+	"name": "Kocaelispor Fan Token",
+	"coingecko": "kocaelispor-fan-token",
+	"sources": [
+		"coingecko"
+	]
+}

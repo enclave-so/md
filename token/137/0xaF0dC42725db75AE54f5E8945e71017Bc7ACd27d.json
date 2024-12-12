@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xaF0dC42725db75AE54f5E8945e71017Bc7ACd27d",
+	"symbol": "NexGami",
+	"name": "NexGami",
+	"coingecko": "nexgami",
+	"sources": [
+		"coingecko"
+	]
+}

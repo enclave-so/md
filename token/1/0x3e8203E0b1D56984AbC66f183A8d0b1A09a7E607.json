@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x3e8203E0b1D56984AbC66f183A8d0b1A09a7E607",
+	"symbol": "Liquid Protocol",
+	"name": "Liquid Protocol",
+	"coingecko": "liquid-protocol",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xA8C557c7ac1626EacAa0e80fAc7b6997346306E8",
+	"symbol": "Enegra",
+	"name": "Enegra",
+	"coingecko": "enegra",
+	"sources": [
+		"coingecko"
+	]
+}

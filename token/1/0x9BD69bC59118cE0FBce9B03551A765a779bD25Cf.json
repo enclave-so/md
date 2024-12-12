@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x9BD69bC59118cE0FBce9B03551A765a779bD25Cf",
+	"symbol": "zkEra Finance",
+	"name": "zkEra Finance",
+	"coingecko": "zkera-finance",
+	"sources": [
+		"coingecko"
+	]
+}

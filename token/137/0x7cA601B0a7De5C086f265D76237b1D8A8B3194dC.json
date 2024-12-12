@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x7cA601B0a7De5C086f265D76237b1D8A8B3194dC",
+	"symbol": "Lecksis",
+	"name": "Lecksis",
+	"coingecko": "lecksis",
+	"sources": [
+		"coingecko"
+	]
+}

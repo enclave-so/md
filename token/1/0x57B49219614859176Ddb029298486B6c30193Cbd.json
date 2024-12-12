@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x57B49219614859176Ddb029298486B6c30193Cbd",
+	"symbol": "Oracle AI",
+	"name": "Oracle AI",
+	"coingecko": "oracle-ai",
+	"sources": [
+		"coingecko"
+	]
+}

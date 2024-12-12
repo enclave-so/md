@@ -1,0 +1,10 @@
+{
+	"chain": 1907,
+	"address": "0x3e6F1be54FEb9CC37dBfC31A894a8810357C3F9C",
+	"symbol": "Spain National Football Team Fan Token",
+	"name": "Spain National Football Team Fan Token",
+	"coingecko": "spain-national-fan-token",
+	"sources": [
+		"coingecko"
+	]
+}

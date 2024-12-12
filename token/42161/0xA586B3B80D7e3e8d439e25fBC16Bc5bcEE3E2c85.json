@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0xA586B3B80D7e3e8d439e25fBC16Bc5bcEE3E2c85",
+	"symbol": "Codyfight",
+	"name": "Codyfight",
+	"coingecko": "codyfight",
+	"sources": [
+		"coingecko"
+	]
+}

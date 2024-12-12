@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x201332Bd45c8628D814F870bFb584B385A7C351e",
+	"symbol": "Astra Protocol",
+	"name": "Astra Protocol",
+	"coingecko": "astra-protocol-2",
+	"sources": [
+		"coingecko"
+	]
+}

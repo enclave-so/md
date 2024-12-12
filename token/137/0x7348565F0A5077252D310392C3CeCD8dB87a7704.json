@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x7348565F0A5077252D310392C3CeCD8dB87a7704",
+	"symbol": "Cryptopia",
+	"name": "Cryptopia",
+	"coingecko": "cryptopia",
+	"sources": [
+		"coingecko"
+	]
+}

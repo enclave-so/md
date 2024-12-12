@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x4086E77C5E993FDB90a406285d00111a974F877a",
+	"symbol": "Blockchain Brawlers",
+	"name": "Blockchain Brawlers",
+	"coingecko": "blockchain-brawlers",
+	"sources": [
+		"coingecko"
+	]
+}

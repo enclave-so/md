@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x3c48Ca59bf2699E51d4974d4B6D284AE52076e5e",
+	"symbol": "Capital DAO Starter",
+	"name": "Capital DAO Starter",
+	"coingecko": "capital-dao-starter-token",
+	"sources": [
+		"coingecko"
+	]
+}

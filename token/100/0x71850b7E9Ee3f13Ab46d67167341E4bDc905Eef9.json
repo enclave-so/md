@@ -1,0 +1,10 @@
+{
+	"chain": 100,
+	"address": "0x71850b7E9Ee3f13Ab46d67167341E4bDc905Eef9",
+	"symbol": "Honey",
+	"name": "Honey",
+	"coingecko": "honey",
+	"sources": [
+		"coingecko"
+	]
+}

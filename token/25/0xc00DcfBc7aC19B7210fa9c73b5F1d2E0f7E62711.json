@@ -1,0 +1,10 @@
+{
+	"chain": 25,
+	"address": "0xc00DcfBc7aC19B7210fa9c73b5F1d2E0f7E62711",
+	"symbol": "SLP",
+	"name": "Smooth Love Potion",
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xc00DcfBc7aC19B7210fa9c73b5F1d2E0f7E62711.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

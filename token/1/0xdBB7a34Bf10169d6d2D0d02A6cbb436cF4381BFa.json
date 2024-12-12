@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xdBB7a34Bf10169d6d2D0d02A6cbb436cF4381BFa",
+	"symbol": "Zentry",
+	"name": "Zentry",
+	"coingecko": "zentry",
+	"sources": [
+		"coingecko"
+	]
+}

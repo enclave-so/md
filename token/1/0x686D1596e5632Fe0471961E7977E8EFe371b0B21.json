@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x686D1596e5632Fe0471961E7977E8EFe371b0B21",
+	"symbol": "SurrealVerse",
+	"name": "SurrealVerse",
+	"coingecko": "surrealverse",
+	"sources": [
+		"coingecko"
+	]
+}

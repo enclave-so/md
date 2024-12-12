@@ -1,0 +1,11 @@
+{
+	"chain": 42161,
+	"address": "0xf8f636BB3Be1fEEB979E1ea281389b49CF3a6853",
+	"symbol": "pAAPL",
+	"name": "Poison.Finance Apple Potion",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xf8f636BB3Be1fEEB979E1ea281389b49CF3a6853.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

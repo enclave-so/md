@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x113C65707C530502FEf959308197353f6DF97867",
+	"symbol": "The Joker Coin",
+	"name": "The Joker Coin",
+	"coingecko": "the-joker-coin",
+	"sources": [
+		"coingecko"
+	]
+}

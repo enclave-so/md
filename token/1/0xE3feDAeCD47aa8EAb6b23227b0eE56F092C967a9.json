@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xE3feDAeCD47aa8EAb6b23227b0eE56F092C967a9",
+	"symbol": "Primas",
+	"name": "Primas",
+	"coingecko": "primas",
+	"sources": [
+		"coingecko"
+	]
+}

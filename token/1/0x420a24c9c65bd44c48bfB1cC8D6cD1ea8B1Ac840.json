@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x420a24c9c65bd44c48bfB1cC8D6cD1ea8B1Ac840",
+	"symbol": "JumpToken",
+	"name": "JumpToken",
+	"coingecko": "jumptoken",
+	"sources": [
+		"coingecko"
+	]
+}

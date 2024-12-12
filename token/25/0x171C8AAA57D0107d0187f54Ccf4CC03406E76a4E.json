@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0x171C8AAA57D0107d0187f54Ccf4CC03406E76a4E",
+	"symbol": "RUNE",
+	"name": "THORChain",
+	"decimals": 8,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x171C8AAA57D0107d0187f54Ccf4CC03406E76a4E.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

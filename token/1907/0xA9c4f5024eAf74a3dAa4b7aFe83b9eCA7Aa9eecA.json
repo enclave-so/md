@@ -1,0 +1,10 @@
+{
+	"chain": 1907,
+	"address": "0xA9c4f5024eAf74a3dAa4b7aFe83b9eCA7Aa9eecA",
+	"symbol": "Number 1",
+	"name": "Number 1",
+	"coingecko": "number-1-token",
+	"sources": [
+		"coingecko"
+	]
+}

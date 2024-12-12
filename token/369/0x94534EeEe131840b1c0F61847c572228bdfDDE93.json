@@ -1,0 +1,10 @@
+{
+	"chain": 369,
+	"address": "0x94534EeEe131840b1c0F61847c572228bdfDDE93",
+	"symbol": "The Grays Currency",
+	"name": "The Grays Currency",
+	"coingecko": "the-grays-currency",
+	"sources": [
+		"coingecko"
+	]
+}

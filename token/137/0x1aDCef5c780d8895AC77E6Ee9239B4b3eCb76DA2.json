@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x1aDCef5c780d8895AC77E6Ee9239B4b3eCb76DA2",
+	"symbol": "DragonMaster Totem",
+	"name": "DragonMaster Totem",
+	"coingecko": "dragonmaster-totem",
+	"sources": [
+		"coingecko"
+	]
+}

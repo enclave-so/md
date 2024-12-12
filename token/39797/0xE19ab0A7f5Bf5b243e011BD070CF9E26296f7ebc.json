@@ -1,0 +1,10 @@
+{
+	"chain": 39797,
+	"address": "0xE19ab0A7f5Bf5b243e011BD070CF9E26296f7ebc",
+	"symbol": "bZx Protocol",
+	"name": "bZx Protocol",
+	"coingecko": "bzx-protocol",
+	"sources": [
+		"coingecko"
+	]
+}

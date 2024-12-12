@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xCefdE37817da4FC51dDc24e3820ad316784Ee04b",
+	"symbol": "Sonata Network",
+	"name": "Sonata Network",
+	"coingecko": "sonata-network",
+	"sources": [
+		"coingecko"
+	]
+}

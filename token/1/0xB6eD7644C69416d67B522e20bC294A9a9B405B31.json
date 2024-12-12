@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xB6eD7644C69416d67B522e20bC294A9a9B405B31",
+	"symbol": "0xBitcoin",
+	"name": "0xBitcoin",
+	"coingecko": "oxbitcoin",
+	"sources": [
+		"coingecko"
+	]
+}

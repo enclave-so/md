@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xa6422E3E219ee6d4C1B18895275FE43556fd50eD",
+	"symbol": "Stobox",
+	"name": "Stobox",
+	"coingecko": "stobox-token",
+	"sources": [
+		"coingecko"
+	]
+}

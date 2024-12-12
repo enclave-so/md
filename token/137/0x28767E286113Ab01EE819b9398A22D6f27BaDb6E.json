@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x28767E286113Ab01EE819b9398A22D6f27BaDb6E",
+	"symbol": "RabbitCoin Exchange",
+	"name": "RabbitCoin Exchange",
+	"coingecko": "rabbitcoin-exchange",
+	"sources": [
+		"coingecko"
+	]
+}

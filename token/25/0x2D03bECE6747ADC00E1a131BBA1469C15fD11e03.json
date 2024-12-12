@@ -1,0 +1,13 @@
+{
+	"chain": 25,
+	"address": "0x2D03bECE6747ADC00E1a131BBA1469C15fD11e03",
+	"symbol": "VVS",
+	"name": "VVS Token",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x2D03bECE6747ADC00E1a131BBA1469C15fD11e03.jpg",
+	"coingecko": "vvs-finance",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

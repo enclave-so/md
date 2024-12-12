@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x5Eaa69B29f99C84Fe5dE8200340b4e9b4Ab38EaC",
+	"symbol": "Raze Network",
+	"name": "Raze Network",
+	"coingecko": "raze-network",
+	"sources": [
+		"coingecko"
+	]
+}

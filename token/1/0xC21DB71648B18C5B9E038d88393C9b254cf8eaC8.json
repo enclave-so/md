@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xC21DB71648B18C5B9E038d88393C9b254cf8eaC8",
+	"symbol": "EURe Real Yield Morpho Vault",
+	"name": "EURe Real Yield Morpho Vault",
+	"coingecko": "eure-real-yield-morpho-vault",
+	"sources": [
+		"coingecko"
+	]
+}

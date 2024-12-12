@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x00281dFCe4cfD72c0b6FDA2AAaF077258743f9E8",
+	"symbol": "NuriFootBall",
+	"name": "NuriFootBall",
+	"coingecko": "nurifootball",
+	"sources": [
+		"coingecko"
+	]
+}

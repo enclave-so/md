@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x4d4d883f920f7c0C36a1bE71a02Aa0cde2AA22d1",
+	"symbol": "Opticash",
+	"name": "Opticash",
+	"coingecko": "opticash",
+	"sources": [
+		"coingecko"
+	]
+}

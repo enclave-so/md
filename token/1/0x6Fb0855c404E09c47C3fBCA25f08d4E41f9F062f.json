@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x6Fb0855c404E09c47C3fBCA25f08d4E41f9F062f",
+	"symbol": "Aave ZRX v1",
+	"name": "Aave ZRX v1",
+	"coingecko": "aave-zrx-v1",
+	"sources": [
+		"coingecko"
+	]
+}

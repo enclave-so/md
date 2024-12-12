@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xAb5D6508E4726141D29c6074Ab366aFa03f4Ec8D",
+	"symbol": "Cybertruck",
+	"name": "Cybertruck",
+	"coingecko": "cybertruck",
+	"sources": [
+		"coingecko"
+	]
+}

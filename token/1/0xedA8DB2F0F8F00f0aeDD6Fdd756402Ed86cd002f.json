@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xedA8DB2F0F8F00f0aeDD6Fdd756402Ed86cd002f",
+	"symbol": "OpMentis",
+	"name": "OpMentis",
+	"coingecko": "opmentis",
+	"sources": [
+		"coingecko"
+	]
+}

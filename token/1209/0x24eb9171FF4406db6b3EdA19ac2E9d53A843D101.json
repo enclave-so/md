@@ -1,0 +1,10 @@
+{
+	"chain": 1209,
+	"address": "0x24eb9171FF4406db6b3EdA19ac2E9d53A843D101",
+	"symbol": "Motion Token",
+	"name": "Motion Token",
+	"coingecko": "motion-motn",
+	"sources": [
+		"coingecko"
+	]
+}

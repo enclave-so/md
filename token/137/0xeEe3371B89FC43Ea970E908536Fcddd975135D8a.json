@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xeEe3371B89FC43Ea970E908536Fcddd975135D8a",
+	"symbol": "Own The Doge",
+	"name": "Own The Doge",
+	"coingecko": "the-doge-nft",
+	"sources": [
+		"coingecko"
+	]
+}

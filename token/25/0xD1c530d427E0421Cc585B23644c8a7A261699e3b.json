@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0xD1c530d427E0421Cc585B23644c8a7A261699e3b",
+	"symbol": "RARE",
+	"name": "SuperRare",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xD1c530d427E0421Cc585B23644c8a7A261699e3b.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

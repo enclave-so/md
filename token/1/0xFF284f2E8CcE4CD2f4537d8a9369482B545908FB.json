@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xFF284f2E8CcE4CD2f4537d8a9369482B545908FB",
+	"symbol": "NodelyAI",
+	"name": "NodelyAI",
+	"coingecko": "nodelyai",
+	"sources": [
+		"coingecko"
+	]
+}

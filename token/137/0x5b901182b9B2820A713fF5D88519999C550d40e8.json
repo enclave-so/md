@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x5b901182b9B2820A713fF5D88519999C550d40e8",
+	"symbol": "LFIT",
+	"name": "LFIT",
+	"coingecko": "lfit",
+	"sources": [
+		"coingecko"
+	]
+}

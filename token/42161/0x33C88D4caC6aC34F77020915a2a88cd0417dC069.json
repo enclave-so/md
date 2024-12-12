@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x33C88D4caC6aC34F77020915a2a88cd0417dC069",
+	"symbol": "Autonomous Secure Dollar",
+	"name": "Autonomous Secure Dollar",
+	"coingecko": "autonomous-secure-dollar",
+	"sources": [
+		"coingecko"
+	]
+}

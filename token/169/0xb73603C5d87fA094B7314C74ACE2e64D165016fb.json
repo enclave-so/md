@@ -1,0 +1,10 @@
+{
+	"chain": 169,
+	"address": "0xb73603C5d87fA094B7314C74ACE2e64D165016fb",
+	"symbol": "Bridged USD Coin (Manta Pacific)",
+	"name": "Bridged USD Coin (Manta Pacific)",
+	"coingecko": "bridged-usd-coin-manta-pacific",
+	"sources": [
+		"coingecko"
+	]
+}

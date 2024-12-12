@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x5027Fc44a7Ba114B8f494B1e4970900C6652FEDF",
+	"symbol": "Arcana Network",
+	"name": "Arcana Network",
+	"coingecko": "arcana-token",
+	"sources": [
+		"coingecko"
+	]
+}

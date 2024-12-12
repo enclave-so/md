@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x396c95abE154b3b2eD204Cf45c8726AA7ad47A4D",
+	"symbol": "Gradient Protocol",
+	"name": "Gradient Protocol",
+	"coingecko": "gradient-protocol",
+	"sources": [
+		"coingecko"
+	]
+}

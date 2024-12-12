@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xdaC657ffD44a3B9d8aba8749830Bf14BEB66fF2D",
+	"symbol": "humanDAO",
+	"name": "humanDAO",
+	"coingecko": "humandao",
+	"sources": [
+		"coingecko"
+	]
+}

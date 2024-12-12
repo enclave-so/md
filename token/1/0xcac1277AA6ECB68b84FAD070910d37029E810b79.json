@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xcac1277AA6ECB68b84FAD070910d37029E810b79",
+	"symbol": "BitDelta",
+	"name": "BitDelta",
+	"coingecko": "bitdelta",
+	"sources": [
+		"coingecko"
+	]
+}

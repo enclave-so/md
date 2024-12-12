@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x8437d7C167dFB82ED4Cb79CD44B7a32A1dd95c77",
+	"symbol": "Aave v3 agEUR",
+	"name": "Aave v3 agEUR",
+	"coingecko": "aave-v3-ageur",
+	"sources": [
+		"coingecko"
+	]
+}

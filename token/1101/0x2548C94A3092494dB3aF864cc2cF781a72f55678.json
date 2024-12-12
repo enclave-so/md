@@ -1,0 +1,11 @@
+{
+	"chain": 1101,
+	"address": "0x2548C94A3092494dB3aF864cc2cF781a72f55678",
+	"symbol": "UNI",
+	"name": "Uniswap",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/polygon-zkevm/0x2548C94A3092494dB3aF864cc2cF781a72f55678.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

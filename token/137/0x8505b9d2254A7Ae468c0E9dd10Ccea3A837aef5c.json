@@ -1,0 +1,13 @@
+{
+	"chain": 137,
+	"address": "0x8505b9d2254A7Ae468c0E9dd10Ccea3A837aef5c",
+	"symbol": "COMP",
+	"name": "Compound",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x8505b9d2254A7Ae468c0E9dd10Ccea3A837aef5c/logo.png",
+	"coingecko": "compound-governance-token",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

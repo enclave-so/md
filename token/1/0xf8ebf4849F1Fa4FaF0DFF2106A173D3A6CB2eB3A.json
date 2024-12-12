@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xf8ebf4849F1Fa4FaF0DFF2106A173D3A6CB2eB3A",
+	"symbol": "Troll",
+	"name": "Troll",
+	"coingecko": "troll",
+	"sources": [
+		"coingecko"
+	]
+}

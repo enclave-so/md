@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x63898b3b6Ef3d39332082178656E9862bee45C57",
+	"symbol": "Staked OGN",
+	"name": "Staked OGN",
+	"coingecko": "staked-ogn",
+	"sources": [
+		"coingecko"
+	]
+}

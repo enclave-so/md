@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0x2b1D36f5B61AdDAf7DA7ebbd11B35FD8cfb0DE31",
+	"symbol": "ITP",
+	"name": "Interport Token",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x2b1D36f5B61AdDAf7DA7ebbd11B35FD8cfb0DE31.jpg",
+	"coingecko": "interport-token",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

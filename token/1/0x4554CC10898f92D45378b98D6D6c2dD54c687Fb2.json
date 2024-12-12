@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x4554CC10898f92D45378b98D6D6c2dD54c687Fb2",
+	"symbol": "Juicebox",
+	"name": "Juicebox",
+	"coingecko": "juicebox",
+	"sources": [
+		"coingecko"
+	]
+}

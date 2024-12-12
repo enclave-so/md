@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xab3D689C22a2Bb821f50A4Ff0F21A7980dCB8591",
+	"symbol": "Proxy",
+	"name": "Proxy",
+	"coingecko": "proxy",
+	"sources": [
+		"coingecko"
+	]
+}

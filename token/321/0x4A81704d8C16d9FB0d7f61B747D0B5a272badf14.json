@@ -1,0 +1,10 @@
+{
+	"chain": 321,
+	"address": "0x4A81704d8C16d9FB0d7f61B747D0B5a272badf14",
+	"symbol": "KuSwap",
+	"name": "KuSwap",
+	"coingecko": "kuswap",
+	"sources": [
+		"coingecko"
+	]
+}

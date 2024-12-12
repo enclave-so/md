@@ -1,0 +1,10 @@
+{
+	"chain": 324,
+	"address": "0x45656c02Aae856443717C34159870b90D1288203",
+	"symbol": "HYPERCOMIC",
+	"name": "HYPERCOMIC",
+	"coingecko": "hypercomic",
+	"sources": [
+		"coingecko"
+	]
+}

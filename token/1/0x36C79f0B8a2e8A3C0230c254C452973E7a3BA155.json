@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x36C79f0B8a2e8A3C0230c254C452973E7a3BA155",
+	"symbol": "BetAI",
+	"name": "BetAI",
+	"coingecko": "betai",
+	"sources": [
+		"coingecko"
+	]
+}

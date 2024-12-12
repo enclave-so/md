@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x4D953cf077c0C95Ba090226E59A18FcF97db44EC",
+	"symbol": "Mini",
+	"name": "Mini",
+	"coingecko": "mini",
+	"sources": [
+		"coingecko"
+	]
+}

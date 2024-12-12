@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x83389cb4e4F0bFF39915efa839CB827460e70D26",
+	"symbol": "AnyDex",
+	"name": "AnyDex",
+	"coingecko": "anydex",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x4a7C9897aE01Ff08d6E3820507a6b967bdbFfA29",
+	"symbol": "Wizard Cat",
+	"name": "Wizard Cat",
+	"coingecko": "wizard-cat",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 204,
+	"address": "0xB01D49C26416a352fac4Fbb3D555d5F2543E3247",
+	"symbol": "CUBISWAP",
+	"name": "CUBISWAP",
+	"coingecko": "cubiswap",
+	"sources": [
+		"coingecko"
+	]
+}

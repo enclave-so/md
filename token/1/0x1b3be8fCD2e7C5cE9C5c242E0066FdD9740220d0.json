@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x1b3be8fCD2e7C5cE9C5c242E0066FdD9740220d0",
+	"symbol": "Licker",
+	"name": "Licker",
+	"coingecko": "licker",
+	"sources": [
+		"coingecko"
+	]
+}

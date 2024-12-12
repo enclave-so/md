@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x583019fF0f430721aDa9cfb4fac8F06cA104d0B4",
+	"symbol": "Staked Yearn Ether",
+	"name": "Staked Yearn Ether",
+	"coingecko": "staked-yearn-ether",
+	"sources": [
+		"coingecko"
+	]
+}

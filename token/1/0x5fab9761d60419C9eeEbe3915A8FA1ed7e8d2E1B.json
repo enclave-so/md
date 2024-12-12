@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x5fab9761d60419C9eeEbe3915A8FA1ed7e8d2E1B",
+	"symbol": "DIMO",
+	"name": "DIMO",
+	"coingecko": "dimo",
+	"sources": [
+		"coingecko"
+	]
+}

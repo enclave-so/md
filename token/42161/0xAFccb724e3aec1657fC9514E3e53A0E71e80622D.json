@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0xAFccb724e3aec1657fC9514E3e53A0E71e80622D",
+	"symbol": "Vaultka",
+	"name": "Vaultka",
+	"coingecko": "vaultka",
+	"sources": [
+		"coingecko"
+	]
+}

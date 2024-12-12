@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xaF1eEb83c364aD9ffeb5f97F223C1705D4810033",
+	"symbol": "MoneyArk",
+	"name": "MoneyArk",
+	"coingecko": "moneyark",
+	"sources": [
+		"coingecko"
+	]
+}

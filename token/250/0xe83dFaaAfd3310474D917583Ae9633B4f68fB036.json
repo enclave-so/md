@@ -1,0 +1,10 @@
+{
+	"chain": 250,
+	"address": "0xe83dFaaAfd3310474D917583Ae9633B4f68fB036",
+	"symbol": "Raini",
+	"name": "Raini",
+	"coingecko": "rainicorn",
+	"sources": [
+		"coingecko"
+	]
+}

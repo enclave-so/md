@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x25B4f5D4C314bCD5d7962734936C957B947cb7CF",
+	"symbol": "TG.Casino",
+	"name": "TG.Casino",
+	"coingecko": "tg-casino",
+	"sources": [
+		"coingecko"
+	]
+}

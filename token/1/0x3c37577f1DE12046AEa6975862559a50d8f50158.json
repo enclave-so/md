@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0x3c37577f1DE12046AEa6975862559a50d8f50158",
+	"symbol": "ETHC",
+	"name": "ETH Coin",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x3c37577f1DE12046AEa6975862559a50d8f50158.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

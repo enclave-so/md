@@ -1,0 +1,13 @@
+{
+	"chain": 108,
+	"address": "0x6576Bb918709906DcbFDCeae4bB1e6df7C8a1077",
+	"symbol": "TT-ETH",
+	"name": "ETH",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/thundercore/0x6576Bb918709906DcbFDCeae4bB1e6df7C8a1077.jpg",
+	"coingecko": "thundercore-bridged-tt-weth-thundercore",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

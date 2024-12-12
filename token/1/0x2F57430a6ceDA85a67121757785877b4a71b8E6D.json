@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x2F57430a6ceDA85a67121757785877b4a71b8E6D",
+	"symbol": "DefiPlaza",
+	"name": "DefiPlaza",
+	"coingecko": "defiplaza",
+	"sources": [
+		"coingecko"
+	]
+}

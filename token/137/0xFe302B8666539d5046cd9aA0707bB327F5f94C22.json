@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xFe302B8666539d5046cd9aA0707bB327F5f94C22",
+	"symbol": "Senspark (POL)",
+	"name": "Senspark (POL)",
+	"coingecko": "senspark-matic",
+	"sources": [
+		"coingecko"
+	]
+}

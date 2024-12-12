@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xb541a306DD240EF04Fb5E7e0Db9a3C6CB7DdBb07",
+	"symbol": "WFDP",
+	"name": "WFDP",
+	"coingecko": "wfdp",
+	"sources": [
+		"coingecko"
+	]
+}

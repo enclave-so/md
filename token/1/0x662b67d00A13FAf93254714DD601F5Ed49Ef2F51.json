@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x662b67d00A13FAf93254714DD601F5Ed49Ef2F51",
+	"symbol": "Orbit Chain",
+	"name": "Orbit Chain",
+	"coingecko": "orbit-chain",
+	"sources": [
+		"coingecko"
+	]
+}

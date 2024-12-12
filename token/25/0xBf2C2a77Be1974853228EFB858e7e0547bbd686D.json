@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0xBf2C2a77Be1974853228EFB858e7e0547bbd686D",
+	"symbol": "FLOKI",
+	"name": "FLOKI",
+	"decimals": 9,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xBf2C2a77Be1974853228EFB858e7e0547bbd686D.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xA49d7499271aE71cd8aB9Ac515e6694C755d400c",
+	"symbol": "Mute",
+	"name": "Mute",
+	"coingecko": "mute",
+	"sources": [
+		"coingecko"
+	]
+}

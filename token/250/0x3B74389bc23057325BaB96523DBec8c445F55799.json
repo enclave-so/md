@@ -1,0 +1,11 @@
+{
+	"chain": 250,
+	"address": "0x3B74389bc23057325BaB96523DBec8c445F55799",
+	"symbol": "fJPY",
+	"name": "fJPY",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/fjpy.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

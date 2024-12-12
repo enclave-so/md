@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x0e6FA9c050c8a707e7f56A2b3695665E4F9Eac9b",
+	"symbol": "Robo Inu Finance",
+	"name": "Robo Inu Finance",
+	"coingecko": "robo-inu-finance",
+	"sources": [
+		"coingecko"
+	]
+}

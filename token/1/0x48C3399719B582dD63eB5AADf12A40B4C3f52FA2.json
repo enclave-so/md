@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x48C3399719B582dD63eB5AADf12A40B4C3f52FA2",
+	"symbol": "StakeWise",
+	"name": "StakeWise",
+	"coingecko": "stakewise",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 369,
+	"address": "0x15D38573d2feeb82e7ad5187aB8c1D52810B1f07",
+	"symbol": "Bridged USD Coin (PulseChain)",
+	"name": "Bridged USD Coin (PulseChain)",
+	"coingecko": "usd-coin-pulsechain",
+	"sources": [
+		"coingecko"
+	]
+}

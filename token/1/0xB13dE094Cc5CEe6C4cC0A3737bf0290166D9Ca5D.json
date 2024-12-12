@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xB13dE094Cc5CEe6C4cC0A3737bf0290166D9Ca5D",
+	"symbol": "GoWithMi",
+	"name": "GoWithMi",
+	"coingecko": "gowithmi",
+	"sources": [
+		"coingecko"
+	]
+}

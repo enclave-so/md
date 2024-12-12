@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x790814Cd782983FaB4d7B92CF155187a865d9F18",
+	"symbol": "Matt Furie",
+	"name": "Matt Furie",
+	"coingecko": "matt-0x79",
+	"sources": [
+		"coingecko"
+	]
+}

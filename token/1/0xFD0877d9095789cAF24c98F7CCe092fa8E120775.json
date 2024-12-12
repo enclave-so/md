@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xFD0877d9095789cAF24c98F7CCe092fa8E120775",
+	"symbol": "TUSD yVault",
+	"name": "TUSD yVault",
+	"coingecko": "tusd-yvault",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 10,
+	"address": "0x920Cf626a271321C151D027030D5d08aF699456b",
+	"symbol": "Kwenta",
+	"name": "Kwenta",
+	"coingecko": "kwenta",
+	"sources": [
+		"coingecko"
+	]
+}

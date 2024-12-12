@@ -1,0 +1,13 @@
+{
+	"chain": 25,
+	"address": "0x3b41B27E74Dd366CE27cB389dc7877D4e1516d4d",
+	"symbol": "MERY",
+	"name": "Mistery",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x3b41B27E74Dd366CE27cB389dc7877D4e1516d4d.jpg",
+	"coingecko": "mistery",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

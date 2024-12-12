@@ -1,0 +1,10 @@
+{
+	"chain": 148,
+	"address": "0xf21Bc150F4D08Dce61bd16cDbfcB3D212b575b26",
+	"symbol": "Magic LUM",
+	"name": "Magic LUM",
+	"coingecko": "magic-lum",
+	"sources": [
+		"coingecko"
+	]
+}

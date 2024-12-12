@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x9f04c2bD696a6191246144bA762456a24c457520",
+	"symbol": "AITaxBot",
+	"name": "AITaxBot",
+	"coingecko": "aitaxbot",
+	"sources": [
+		"coingecko"
+	]
+}

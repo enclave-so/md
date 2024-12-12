@@ -1,0 +1,10 @@
+{
+	"chain": 196,
+	"address": "0xe538905cf8410324e03A5A23C1c177a474D59b2b",
+	"symbol": "Wrapped OKB",
+	"name": "Wrapped OKB",
+	"coingecko": "wrapped-okb",
+	"sources": [
+		"coingecko"
+	]
+}

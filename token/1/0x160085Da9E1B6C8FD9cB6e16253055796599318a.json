@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x160085Da9E1B6C8FD9cB6e16253055796599318a",
+	"symbol": "SoAI",
+	"name": "SoAI",
+	"coingecko": "soai",
+	"sources": [
+		"coingecko"
+	]
+}

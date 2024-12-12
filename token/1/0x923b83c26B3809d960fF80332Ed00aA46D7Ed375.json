@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x923b83c26B3809d960fF80332Ed00aA46D7Ed375",
+	"symbol": "Creator Platform",
+	"name": "Creator Platform",
+	"coingecko": "creator-platform",
+	"sources": [
+		"coingecko"
+	]
+}

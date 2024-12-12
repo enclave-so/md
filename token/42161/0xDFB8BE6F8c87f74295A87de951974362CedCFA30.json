@@ -1,0 +1,13 @@
+{
+	"chain": 42161,
+	"address": "0xDFB8BE6F8c87f74295A87de951974362CedCFA30",
+	"symbol": "EMC",
+	"name": "EdgeMatrix Computing network",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xDFB8BE6F8c87f74295A87de951974362CedCFA30.jpg",
+	"coingecko": "edge-matrix-computing",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

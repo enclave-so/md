@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x62395EC568c92973A38230De209aBba9de18b9B7",
+	"symbol": "XP",
+	"name": "XP",
+	"coingecko": "xp-2",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x1C9A2d6b33B4826757273D47ebEe0e2DddcD978B",
+	"symbol": "Flux FRAX",
+	"name": "Flux FRAX",
+	"coingecko": "flux-frax",
+	"sources": [
+		"coingecko"
+	]
+}

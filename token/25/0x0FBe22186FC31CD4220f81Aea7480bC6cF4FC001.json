@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0x0FBe22186FC31CD4220f81Aea7480bC6cF4FC001",
+	"symbol": "MC",
+	"name": "Merit Circle",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x0FBe22186FC31CD4220f81Aea7480bC6cF4FC001.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

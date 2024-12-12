@@ -1,0 +1,13 @@
+{
+	"chain": 137,
+	"address": "0x2b88aD57897A8b496595925F43048301C37615Da",
+	"symbol": "PICKLE",
+	"name": "Pickle Finance",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x2b88aD57897A8b496595925F43048301C37615Da/logo.png",
+	"coingecko": "pickle-finance",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

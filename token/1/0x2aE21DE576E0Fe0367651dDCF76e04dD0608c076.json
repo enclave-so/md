@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x2aE21DE576E0Fe0367651dDCF76e04dD0608c076",
+	"symbol": "Gambit",
+	"name": "Gambit",
+	"coingecko": "gambit-2",
+	"sources": [
+		"coingecko"
+	]
+}

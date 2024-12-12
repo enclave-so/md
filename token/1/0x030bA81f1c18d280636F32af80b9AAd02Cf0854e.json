@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x030bA81f1c18d280636F32af80b9AAd02Cf0854e",
+	"symbol": "Aave WETH",
+	"name": "Aave WETH",
+	"coingecko": "aave-weth",
+	"sources": [
+		"coingecko"
+	]
+}

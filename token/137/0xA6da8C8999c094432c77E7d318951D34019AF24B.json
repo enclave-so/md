@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xA6da8C8999c094432c77E7d318951D34019AF24B",
+	"symbol": "tGOLD",
+	"name": "tGOLD",
+	"coingecko": "tgold",
+	"sources": [
+		"coingecko"
+	]
+}

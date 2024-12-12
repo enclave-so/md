@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x45B6D1cfCC0218F4d57db1A2895c0F14C8c3Cf96",
+	"symbol": "Panda",
+	"name": "Panda",
+	"coingecko": "panda",
+	"sources": [
+		"coingecko"
+	]
+}

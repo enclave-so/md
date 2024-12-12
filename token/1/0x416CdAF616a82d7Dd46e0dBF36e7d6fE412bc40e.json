@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x416CdAF616a82d7Dd46e0dBF36e7d6fE412bc40e",
+	"symbol": "Luna28",
+	"name": "Luna28",
+	"coingecko": "luna28",
+	"sources": [
+		"coingecko"
+	]
+}

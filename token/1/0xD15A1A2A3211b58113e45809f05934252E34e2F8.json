@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xD15A1A2A3211b58113e45809f05934252E34e2F8",
+	"symbol": "Woozoo Music",
+	"name": "Woozoo Music",
+	"coingecko": "woozoo-music",
+	"sources": [
+		"coingecko"
+	]
+}

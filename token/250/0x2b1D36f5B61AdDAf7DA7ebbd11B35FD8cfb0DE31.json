@@ -1,0 +1,10 @@
+{
+	"chain": 250,
+	"address": "0x2b1D36f5B61AdDAf7DA7ebbd11B35FD8cfb0DE31",
+	"symbol": "Interport Token",
+	"name": "Interport Token",
+	"coingecko": "interport-token",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x77FbA179C79De5B7653F68b5039Af940AdA60ce0",
+	"symbol": "Ampleforth Governance",
+	"name": "Ampleforth Governance",
+	"coingecko": "ampleforth-governance-token",
+	"sources": [
+		"coingecko"
+	]
+}

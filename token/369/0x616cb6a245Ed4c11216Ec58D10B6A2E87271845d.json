@@ -1,0 +1,10 @@
+{
+	"chain": 369,
+	"address": "0x616cb6a245Ed4c11216Ec58D10B6A2E87271845d",
+	"symbol": "Gelato",
+	"name": "Gelato",
+	"coingecko": "gelato-2",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x9Cb74C8032b007466865f060ad2c46145d45553D",
+	"symbol": "IDEX",
+	"name": "IDEX",
+	"coingecko": "aurora-dao",
+	"sources": [
+		"coingecko"
+	]
+}

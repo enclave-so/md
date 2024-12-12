@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xB3319f5D18Bc0D84dD1b4825Dcde5d5f7266d407",
+	"symbol": "c0x",
+	"name": "c0x",
+	"coingecko": "compound-0x",
+	"sources": [
+		"coingecko"
+	]
+}

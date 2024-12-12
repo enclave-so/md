@@ -1,0 +1,13 @@
+{
+	"chain": 137,
+	"address": "0xB121FCD122DAAa153bB8a102754127b2682645CB",
+	"symbol": "PERL",
+	"name": "Perlin (PoS)",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0xB121FCD122DAAa153bB8a102754127b2682645CB.jpg",
+	"coingecko": "perlin",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

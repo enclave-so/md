@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x1142866f451d9d5281C5C8349a332bD338e552a1",
+	"symbol": "SuperMarioPorsche911Inu",
+	"name": "SuperMarioPorsche911Inu",
+	"coingecko": "supermarioporsche911inu",
+	"sources": [
+		"coingecko"
+	]
+}

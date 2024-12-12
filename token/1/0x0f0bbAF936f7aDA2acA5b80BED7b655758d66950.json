@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x0f0bbAF936f7aDA2acA5b80BED7b655758d66950",
+	"symbol": "WIFPEPEMOGINU",
+	"name": "WIFPEPEMOGINU",
+	"coingecko": "wifpepemoginu",
+	"sources": [
+		"coingecko"
+	]
+}

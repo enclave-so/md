@@ -1,0 +1,10 @@
+{
+	"chain": 10000,
+	"address": "0x3743eC0673453E5009310C727Ba4eaF7b3a1cc04",
+	"symbol": "Wrapped BCH",
+	"name": "Wrapped BCH",
+	"coingecko": "wrapped-bch",
+	"sources": [
+		"coingecko"
+	]
+}

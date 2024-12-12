@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0x2B89bF8ba858cd2FCee1faDa378D5cd6936968Be",
+	"symbol": "WSCRT",
+	"name": "Wrapped SCRT",
+	"decimals": 6,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/wscrt.jpg",
+	"coingecko": "secret-erc20",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

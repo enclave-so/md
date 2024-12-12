@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xd87de4cCef2c2FE651bc4d130cb1A365248f21fA",
+	"symbol": "Lyfe",
+	"name": "Lyfe",
+	"coingecko": "lyfe-2",
+	"sources": [
+		"coingecko"
+	]
+}

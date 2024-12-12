@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0xa35Bd2246978Dfbb1980DFf8Ff0f5834335dFdbc",
+	"symbol": "REMIO",
+	"name": "Remilio Babies",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xa35Bd2246978Dfbb1980DFf8Ff0f5834335dFdbc.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

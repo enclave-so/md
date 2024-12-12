@@ -1,0 +1,11 @@
+{
+	"chain": 30,
+	"address": "0xf4d27c56595Ed59B66cC7F03CFF5193e4bd74a61",
+	"symbol": "RIFP",
+	"name": "RIFPro",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/rootstock/0xf4d27c56595Ed59B66cC7F03CFF5193e4bd74a61.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

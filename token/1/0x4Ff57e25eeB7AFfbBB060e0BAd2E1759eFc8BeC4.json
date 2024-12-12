@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x4Ff57e25eeB7AFfbBB060e0BAd2E1759eFc8BeC4",
+	"symbol": "BLOCX.",
+	"name": "BLOCX.",
+	"coingecko": "blocx-2",
+	"sources": [
+		"coingecko"
+	]
+}

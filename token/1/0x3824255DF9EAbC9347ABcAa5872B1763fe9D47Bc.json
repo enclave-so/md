@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x3824255DF9EAbC9347ABcAa5872B1763fe9D47Bc",
+	"symbol": "NodeStation AI",
+	"name": "NodeStation AI",
+	"coingecko": "nodestation-ai",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0xF57e7e7C23978C3cAEC3C3548E3D615c346e79fF",
+	"symbol": "IMX",
+	"name": "Immutable X",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xF57e7e7C23978C3cAEC3C3548E3D615c346e79fF/logo.png",
+	"coingecko": "immutable-x",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

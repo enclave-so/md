@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x144805be43c48ef85435C94E0da4Cb4Efb1ab4f3",
+	"symbol": "MetaBlox",
+	"name": "MetaBlox",
+	"coingecko": "metablox",
+	"sources": [
+		"coingecko"
+	]
+}

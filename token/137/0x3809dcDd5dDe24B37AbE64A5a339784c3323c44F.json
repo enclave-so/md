@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x3809dcDd5dDe24B37AbE64A5a339784c3323c44F",
+	"symbol": "TrustSwap",
+	"name": "TrustSwap",
+	"coingecko": "trustswap",
+	"sources": [
+		"coingecko"
+	]
+}

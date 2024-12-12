@@ -1,0 +1,11 @@
+{
+	"chain": 137,
+	"address": "0x960d43BE128585Ca45365CD74a7773B9d814dfBE",
+	"symbol": "fireFBX",
+	"name": "FireVault FBX",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x960d43BE128585Ca45365CD74a7773B9d814dfBE.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

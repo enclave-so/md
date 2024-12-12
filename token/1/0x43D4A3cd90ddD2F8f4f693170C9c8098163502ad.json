@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x43D4A3cd90ddD2F8f4f693170C9c8098163502ad",
+	"symbol": "Prime",
+	"name": "Prime",
+	"coingecko": "prime",
+	"sources": [
+		"coingecko"
+	]
+}

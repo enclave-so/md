@@ -1,0 +1,10 @@
+{
+	"chain": 22776,
+	"address": "0x13CB04d4a5Dfb6398Fc5AB005a6c84337256eE23",
+	"symbol": "Wrapped MAPO",
+	"name": "Wrapped MAPO",
+	"coingecko": "wrapped-mapo",
+	"sources": [
+		"coingecko"
+	]
+}

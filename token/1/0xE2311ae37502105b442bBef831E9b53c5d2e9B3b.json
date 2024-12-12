@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0xE2311ae37502105b442bBef831E9b53c5d2e9B3b",
+	"symbol": "BANANA",
+	"name": "Banana",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xE2311ae37502105b442bBef831E9b53c5d2e9B3b/logo.png",
+	"sources": [
+		"sushiswap"
+	]
+}

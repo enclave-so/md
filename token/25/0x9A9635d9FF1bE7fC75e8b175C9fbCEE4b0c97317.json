@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0x9A9635d9FF1bE7fC75e8b175C9fbCEE4b0c97317",
+	"symbol": "SKILL",
+	"name": "Skill Token",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x9A9635d9FF1bE7fC75e8b175C9fbCEE4b0c97317.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xD43Be54C1aedf7Ee4099104f2DaE4eA88B18A249",
+	"symbol": "Traxx",
+	"name": "Traxx",
+	"coingecko": "traxx",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"chain": 25,
+	"address": "0x0e517979C2c1c1522ddB0c73905e0D39b3F990c0",
+	"symbol": "ADA",
+	"name": "ADA",
+	"decimals": 6,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x0e517979C2c1c1522ddB0c73905e0D39b3F990c0.jpg",
+	"coingecko": "wrapped-ada",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x925FAdb35B73720238cc78777d02ED4dD3100816",
+	"symbol": "AutoSingle",
+	"name": "AutoSingle",
+	"coingecko": "autosingle",
+	"sources": [
+		"coingecko"
+	]
+}

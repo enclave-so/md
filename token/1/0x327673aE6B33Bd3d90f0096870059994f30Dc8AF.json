@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x327673aE6B33Bd3d90f0096870059994f30Dc8AF",
+	"symbol": "Lympo Market",
+	"name": "Lympo Market",
+	"coingecko": "lympo-market-token",
+	"sources": [
+		"coingecko"
+	]
+}

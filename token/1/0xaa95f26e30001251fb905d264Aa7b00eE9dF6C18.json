@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xaa95f26e30001251fb905d264Aa7b00eE9dF6C18",
+	"symbol": "Kendu Inu",
+	"name": "Kendu Inu",
+	"coingecko": "kendu-inu",
+	"sources": [
+		"coingecko"
+	]
+}

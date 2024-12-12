@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x4DaFFfDDEa93DdF1e0e7B61E844331455053Ce5c",
+	"symbol": "Dinari NVDA",
+	"name": "Dinari NVDA",
+	"coingecko": "dinari-nvda-dshares",
+	"sources": [
+		"coingecko"
+	]
+}

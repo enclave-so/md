@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x517ABf1fCDBD76BC75B532683ada9113E313A128",
+	"symbol": "Doke Inu",
+	"name": "Doke Inu",
+	"coingecko": "doke-inu",
+	"sources": [
+		"coingecko"
+	]
+}

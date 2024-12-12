@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0xE727240728C1a5f95437b8b50AFDd0EA4AE5F0c8",
+	"symbol": "NESS",
+	"name": "Darkness Share",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xE727240728C1a5f95437b8b50AFDd0EA4AE5F0c8.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

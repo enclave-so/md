@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xD3FB8597d260EFB2e693eFd500d62A330A00f1eb",
+	"symbol": "Trump Inu",
+	"name": "Trump Inu",
+	"coingecko": "t-inu",
+	"sources": [
+		"coingecko"
+	]
+}

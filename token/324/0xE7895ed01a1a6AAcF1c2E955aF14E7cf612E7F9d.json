@@ -1,0 +1,10 @@
+{
+	"chain": 324,
+	"address": "0xE7895ed01a1a6AAcF1c2E955aF14E7cf612E7F9d",
+	"symbol": "Veno Finance Staked ETH",
+	"name": "Veno Finance Staked ETH",
+	"coingecko": "veno-finance-staked-eth",
+	"sources": [
+		"coingecko"
+	]
+}

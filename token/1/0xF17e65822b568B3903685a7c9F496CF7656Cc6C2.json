@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0xF17e65822b568B3903685a7c9F496CF7656Cc6C2",
+	"symbol": "BICO",
+	"name": "Biconomy Token",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xF17e65822b568B3903685a7c9F496CF7656Cc6C2/logo.png",
+	"coingecko": "biconomy",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

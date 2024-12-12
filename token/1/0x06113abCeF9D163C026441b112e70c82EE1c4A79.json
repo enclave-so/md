@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x06113abCeF9D163C026441b112e70c82EE1c4A79",
+	"symbol": "Omira",
+	"name": "Omira",
+	"coingecko": "omira",
+	"sources": [
+		"coingecko"
+	]
+}

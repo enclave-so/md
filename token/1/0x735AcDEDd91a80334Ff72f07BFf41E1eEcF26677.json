@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x735AcDEDd91a80334Ff72f07BFf41E1eEcF26677",
+	"symbol": "Nexus Pro EUUS",
+	"name": "Nexus Pro EUUS",
+	"coingecko": "nexus-pro-euus",
+	"sources": [
+		"coingecko"
+	]
+}

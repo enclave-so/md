@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xc2A45FE7d40bCAc8369371B08419DDAFd3131b4a",
+	"symbol": "Lucidao",
+	"name": "Lucidao",
+	"coingecko": "lucidao",
+	"sources": [
+		"coingecko"
+	]
+}

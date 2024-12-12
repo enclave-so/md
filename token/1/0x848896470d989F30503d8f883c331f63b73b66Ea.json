@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x848896470d989F30503d8f883c331f63b73b66Ea",
+	"symbol": "Medicle",
+	"name": "Medicle",
+	"coingecko": "medicle",
+	"sources": [
+		"coingecko"
+	]
+}

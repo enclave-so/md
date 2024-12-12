@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xF0c5831EC3Da15f3696B4DAd8B21c7Ce2f007f28",
+	"symbol": "AXIS",
+	"name": "AXIS",
+	"coingecko": "axis-token",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x2b117f0a9a56dDDAAF0257b476BfC39ca7E6Fda1",
+	"symbol": "Conwai",
+	"name": "Conwai",
+	"coingecko": "conwai",
+	"sources": [
+		"coingecko"
+	]
+}

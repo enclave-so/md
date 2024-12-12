@@ -1,0 +1,10 @@
+{
+	"chain": 250,
+	"address": "0x21Ada0D2aC28C3A5Fa3cD2eE30882dA8812279B6",
+	"symbol": "OATH",
+	"name": "OATH",
+	"coingecko": "oath",
+	"sources": [
+		"coingecko"
+	]
+}

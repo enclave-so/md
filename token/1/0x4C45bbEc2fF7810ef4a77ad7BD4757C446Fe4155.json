@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x4C45bbEc2fF7810ef4a77ad7BD4757C446Fe4155",
+	"symbol": "Jungle Labz",
+	"name": "Jungle Labz",
+	"coingecko": "jungle-labz",
+	"sources": [
+		"coingecko"
+	]
+}

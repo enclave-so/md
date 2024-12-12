@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xfA93660C3f6a848556Bb8E265f994160A1F2B289",
+	"symbol": "Community Business Token",
+	"name": "Community Business Token",
+	"coingecko": "community-business-token",
+	"sources": [
+		"coingecko"
+	]
+}

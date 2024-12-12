@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x505B5eDa5E25a67E1c24A2BF1a527Ed9eb88Bf04",
+	"symbol": "Coinweb",
+	"name": "Coinweb",
+	"coingecko": "coinweb",
+	"sources": [
+		"coingecko"
+	]
+}

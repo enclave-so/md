@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x4455eF8B4B4A007a93DaA12DE63a47EEAC700D9D",
+	"symbol": "Forest Knight",
+	"name": "Forest Knight",
+	"coingecko": "forest-knight",
+	"sources": [
+		"coingecko"
+	]
+}

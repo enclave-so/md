@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x5575552988A3A80504bBaeB1311674fCFd40aD4B",
+	"symbol": "Sperax",
+	"name": "Sperax",
+	"coingecko": "sperax",
+	"sources": [
+		"coingecko"
+	]
+}

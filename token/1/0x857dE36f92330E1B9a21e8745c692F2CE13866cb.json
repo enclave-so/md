@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x857dE36f92330E1B9a21e8745c692F2CE13866cb",
+	"symbol": "Meta Masters Guild Games",
+	"name": "Meta Masters Guild Games",
+	"coingecko": "meta-masters-guild-games",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"chain": 137,
+	"address": "0x596eBE76e2DB4470966ea395B0d063aC6197A8C5",
+	"symbol": "JRT",
+	"name": "Jarvis Reward Token",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x596eBE76e2DB4470966ea395B0d063aC6197A8C5/logo.png",
+	"coingecko": "jarvis-reward-token",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

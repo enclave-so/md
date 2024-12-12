@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x77607588222e01bf892a29Abab45796A2047fc7b",
+	"symbol": "Unagii ETH",
+	"name": "Unagii ETH",
+	"coingecko": "unagii-eth",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"chain": 42161,
+	"address": "0x3124678D62D2aa1f615B54525310fbfDa6DcF7AE",
+	"symbol": "SNSY",
+	"name": "Sensay",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x3124678D62D2aa1f615B54525310fbfDa6DcF7AE.jpg",
+	"coingecko": "sensay",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

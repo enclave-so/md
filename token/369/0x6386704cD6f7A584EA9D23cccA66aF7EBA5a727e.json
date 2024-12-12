@@ -1,0 +1,10 @@
+{
+	"chain": 369,
+	"address": "0x6386704cD6f7A584EA9D23cccA66aF7EBA5a727e",
+	"symbol": "Sparkswap",
+	"name": "Sparkswap",
+	"coingecko": "sparkswap",
+	"sources": [
+		"coingecko"
+	]
+}

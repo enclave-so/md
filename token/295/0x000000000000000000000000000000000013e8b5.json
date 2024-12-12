@@ -1,0 +1,10 @@
+{
+	"chain": 295,
+	"address": "0x000000000000000000000000000000000013e8b5",
+	"symbol": "Hashport Bridged QNT",
+	"name": "Hashport Bridged QNT",
+	"coingecko": "hashport-bridged-qnt",
+	"sources": [
+		"coingecko"
+	]
+}

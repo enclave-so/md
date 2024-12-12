@@ -1,0 +1,10 @@
+{
+	"chain": 324,
+	"address": "0xC6DaC3A53D5d6dE9D1D05AA6e28B8e9E41722601",
+	"symbol": "Wrapped LIBERTAS OMNIBUS",
+	"name": "Wrapped LIBERTAS OMNIBUS",
+	"coingecko": "wrapped-libertas-omnibus",
+	"sources": [
+		"coingecko"
+	]
+}

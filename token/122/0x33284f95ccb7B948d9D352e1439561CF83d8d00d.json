@@ -1,0 +1,13 @@
+{
+	"chain": 122,
+	"address": "0x33284f95ccb7B948d9D352e1439561CF83d8d00d",
+	"symbol": "WBTC",
+	"name": "Wrapped BTC",
+	"decimals": 8,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/fuse/0x33284f95ccb7B948d9D352e1439561CF83d8d00d.jpg",
+	"coingecko": "fuse-bridged-wbtc-fuse",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

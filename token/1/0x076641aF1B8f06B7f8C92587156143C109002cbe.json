@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x076641aF1B8f06B7f8C92587156143C109002cbe",
+	"symbol": "SoPay",
+	"name": "SoPay",
+	"coingecko": "sopay",
+	"sources": [
+		"coingecko"
+	]
+}

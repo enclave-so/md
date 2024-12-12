@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xF62aC0fCae17F9195280cEd4dE978313eFFE2Daa",
+	"symbol": "Nchart Token",
+	"name": "Nchart Token",
+	"coingecko": "nchart",
+	"sources": [
+		"coingecko"
+	]
+}

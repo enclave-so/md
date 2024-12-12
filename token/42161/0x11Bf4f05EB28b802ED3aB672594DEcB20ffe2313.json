@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x11Bf4f05EB28b802ED3aB672594DEcB20ffe2313",
+	"symbol": "Aurory",
+	"name": "Aurory",
+	"coingecko": "aurory",
+	"sources": [
+		"coingecko"
+	]
+}

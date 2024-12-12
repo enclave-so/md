@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xA9C992952c2090A51506C4f3636c1320f8FA93fa",
+	"symbol": "Cropto Hazelnut Token",
+	"name": "Cropto Hazelnut Token",
+	"coingecko": "cropto-hazelnut-token",
+	"sources": [
+		"coingecko"
+	]
+}

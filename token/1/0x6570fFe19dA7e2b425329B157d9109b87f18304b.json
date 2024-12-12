@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x6570fFe19dA7e2b425329B157d9109b87f18304b",
+	"symbol": "UNIUM",
+	"name": "UNIUM",
+	"coingecko": "unium",
+	"sources": [
+		"coingecko"
+	]
+}

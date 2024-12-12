@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xAdF7C35560035944e805D98fF17d58CDe2449389",
+	"symbol": "Spectral",
+	"name": "Spectral",
+	"coingecko": "spectral",
+	"sources": [
+		"coingecko"
+	]
+}

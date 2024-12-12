@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xbd1848e1491d4308Ad18287A745DD4DB2A4BD55B",
+	"symbol": "Mochi Market",
+	"name": "Mochi Market",
+	"coingecko": "mochi-market",
+	"sources": [
+		"coingecko"
+	]
+}

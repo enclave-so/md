@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0x4a615bB7166210CCe20E6642a6f8Fb5d4D044496",
+	"symbol": "NAOS",
+	"name": "NaosToken",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x4a615bB7166210CCe20E6642a6f8Fb5d4D044496/logo.png",
+	"coingecko": "naos-finance",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

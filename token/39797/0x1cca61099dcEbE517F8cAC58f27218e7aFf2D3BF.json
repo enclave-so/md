@@ -1,0 +1,10 @@
+{
+	"chain": 39797,
+	"address": "0x1cca61099dcEbE517F8cAC58f27218e7aFf2D3BF",
+	"symbol": "Cream",
+	"name": "Cream",
+	"coingecko": "cream-2",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x4568Ca00299819998501914690d6010ae48a59bA",
+	"symbol": "Army of Fortune Metaverse",
+	"name": "Army of Fortune Metaverse",
+	"coingecko": "army-of-fortune-metaverse",
+	"sources": [
+		"coingecko"
+	]
+}

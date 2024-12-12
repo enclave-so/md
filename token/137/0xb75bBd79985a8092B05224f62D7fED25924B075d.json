@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xb75bBd79985a8092B05224f62D7fED25924B075d",
+	"symbol": "Datamine",
+	"name": "Datamine",
+	"coingecko": "datamine",
+	"sources": [
+		"coingecko"
+	]
+}

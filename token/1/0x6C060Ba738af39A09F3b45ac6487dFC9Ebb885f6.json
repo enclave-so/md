@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x6C060Ba738af39A09F3b45ac6487dFC9Ebb885f6",
+	"symbol": "rsERG",
+	"name": "rsERG",
+	"coingecko": "rserg",
+	"sources": [
+		"coingecko"
+	]
+}

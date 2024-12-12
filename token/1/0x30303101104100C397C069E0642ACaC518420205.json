@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x30303101104100C397C069E0642ACaC518420205",
+	"symbol": "Playable Coin",
+	"name": "Playable Coin",
+	"coingecko": "playable-coin",
+	"sources": [
+		"coingecko"
+	]
+}

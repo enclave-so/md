@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xA3BC09171C009F05Df7F0b8aaA818ee42d8A91bC",
+	"symbol": "TSLA6900",
+	"name": "TSLA6900",
+	"coingecko": "tsla6900",
+	"sources": [
+		"coingecko"
+	]
+}

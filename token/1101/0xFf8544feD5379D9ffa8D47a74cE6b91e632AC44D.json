@@ -1,0 +1,13 @@
+{
+	"chain": 1101,
+	"address": "0xFf8544feD5379D9ffa8D47a74cE6b91e632AC44D",
+	"symbol": "FRAX",
+	"name": "Frax",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/polygon-zkevm/0xFf8544feD5379D9ffa8D47a74cE6b91e632AC44D.jpg",
+	"coingecko": "frax",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

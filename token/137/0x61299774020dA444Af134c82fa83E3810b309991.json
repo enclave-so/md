@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x61299774020dA444Af134c82fa83E3810b309991",
+	"symbol": "Render",
+	"name": "Render",
+	"coingecko": "render-token",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 204,
+	"address": "0xEbb78043e29F4af24E6266A7D142f5A08443969E",
+	"symbol": "Derp",
+	"name": "Derp",
+	"coingecko": "derp",
+	"sources": [
+		"coingecko"
+	]
+}

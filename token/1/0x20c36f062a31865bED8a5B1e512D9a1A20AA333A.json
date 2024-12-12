@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0x20c36f062a31865bED8a5B1e512D9a1A20AA333A",
+	"symbol": "DFD",
+	"name": "DefiDollar DAO",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x20c36f062a31865bED8a5B1e512D9a1A20AA333A/logo.png",
+	"sources": [
+		"sushiswap"
+	]
+}

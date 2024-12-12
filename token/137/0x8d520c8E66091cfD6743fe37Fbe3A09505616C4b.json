@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x8d520c8E66091cfD6743fe37Fbe3A09505616C4b",
+	"symbol": "Cosplay Token",
+	"name": "Cosplay Token",
+	"coingecko": "cosplay-token-2",
+	"sources": [
+		"coingecko"
+	]
+}

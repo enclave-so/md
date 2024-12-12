@@ -1,0 +1,10 @@
+{
+	"chain": 369,
+	"address": "0xeDA0073B4Aa1b1B6f9c718c3036551ab46E5Ec32",
+	"symbol": "BEETroot",
+	"name": "BEETroot",
+	"coingecko": "beetroot",
+	"sources": [
+		"coingecko"
+	]
+}

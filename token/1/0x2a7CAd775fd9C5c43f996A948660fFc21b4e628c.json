@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x2a7CAd775fd9C5c43f996A948660fFc21b4e628c",
+	"symbol": "D-Drops",
+	"name": "D-Drops",
+	"coingecko": "d-drops",
+	"sources": [
+		"coingecko"
+	]
+}

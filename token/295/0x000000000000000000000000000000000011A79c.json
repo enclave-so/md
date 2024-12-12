@@ -1,0 +1,10 @@
+{
+	"chain": 295,
+	"address": "0x000000000000000000000000000000000011A79c",
+	"symbol": "Hashport Bridged wAVAX",
+	"name": "Hashport Bridged wAVAX",
+	"coingecko": "hashport-bridged-wavax",
+	"sources": [
+		"coingecko"
+	]
+}

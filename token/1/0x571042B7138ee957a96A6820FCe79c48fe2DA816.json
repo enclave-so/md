@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x571042B7138ee957a96A6820FCe79c48fe2DA816",
+	"symbol": "Escrowed LBR",
+	"name": "Escrowed LBR",
+	"coingecko": "escrowed-lbr",
+	"sources": [
+		"coingecko"
+	]
+}

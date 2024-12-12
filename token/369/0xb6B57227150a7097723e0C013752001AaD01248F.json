@@ -1,0 +1,10 @@
+{
+	"chain": 369,
+	"address": "0xb6B57227150a7097723e0C013752001AaD01248F",
+	"symbol": "PulseReflections",
+	"name": "PulseReflections",
+	"coingecko": "pulsereflections",
+	"sources": [
+		"coingecko"
+	]
+}

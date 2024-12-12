@@ -1,0 +1,11 @@
+{
+	"chain": 42161,
+	"address": "0x99C409E5f62E4bd2AC142f17caFb6810B8F0BAAE",
+	"symbol": "BIFI",
+	"name": "Beefy Finance",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/arbitrum/assets/0x99C409E5f62E4bd2AC142f17caFb6810B8F0BAAE/logo.png",
+	"sources": [
+		"sushiswap"
+	]
+}

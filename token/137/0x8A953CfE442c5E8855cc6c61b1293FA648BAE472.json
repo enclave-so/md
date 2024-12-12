@@ -1,0 +1,13 @@
+{
+	"chain": 137,
+	"address": "0x8A953CfE442c5E8855cc6c61b1293FA648BAE472",
+	"symbol": "PolyDoge",
+	"name": "PolyDoge",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/doge.jpg",
+	"coingecko": "polydoge",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

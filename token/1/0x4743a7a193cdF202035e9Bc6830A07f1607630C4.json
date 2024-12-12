@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x4743a7a193cdF202035e9Bc6830A07f1607630C4",
+	"symbol": "Family Guy",
+	"name": "Family Guy",
+	"coingecko": "family-guy",
+	"sources": [
+		"coingecko"
+	]
+}

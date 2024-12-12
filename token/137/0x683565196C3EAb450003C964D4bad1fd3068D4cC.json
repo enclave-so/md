@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x683565196C3EAb450003C964D4bad1fd3068D4cC",
+	"symbol": "Verida",
+	"name": "Verida",
+	"coingecko": "verida",
+	"sources": [
+		"coingecko"
+	]
+}

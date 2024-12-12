@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x9d7630aDF7ab0b0CB00Af747Db76864df0EC82E4",
+	"symbol": "GATENet",
+	"name": "GATENet",
+	"coingecko": "gatenet",
+	"sources": [
+		"coingecko"
+	]
+}

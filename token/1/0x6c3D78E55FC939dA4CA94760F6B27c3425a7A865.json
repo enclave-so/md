@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x6c3D78E55FC939dA4CA94760F6B27c3425a7A865",
+	"symbol": "MEGADEATH (PEPE)",
+	"name": "MEGADEATH (PEPE)",
+	"coingecko": "megadeath-pepe",
+	"sources": [
+		"coingecko"
+	]
+}

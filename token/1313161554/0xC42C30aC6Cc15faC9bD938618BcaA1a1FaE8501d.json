@@ -1,0 +1,10 @@
+{
+	"chain": 1313161554,
+	"address": "0xC42C30aC6Cc15faC9bD938618BcaA1a1FaE8501d",
+	"symbol": "Wrapped Near",
+	"name": "Wrapped Near",
+	"coingecko": "wrapped-near",
+	"sources": [
+		"coingecko"
+	]
+}

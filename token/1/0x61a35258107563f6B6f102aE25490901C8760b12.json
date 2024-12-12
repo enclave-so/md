@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x61a35258107563f6B6f102aE25490901C8760b12",
+	"symbol": "Kitty Inu",
+	"name": "Kitty Inu",
+	"coingecko": "kitty-inu",
+	"sources": [
+		"coingecko"
+	]
+}

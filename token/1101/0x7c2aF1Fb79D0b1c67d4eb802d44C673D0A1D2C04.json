@@ -1,0 +1,11 @@
+{
+	"chain": 1101,
+	"address": "0x7c2aF1Fb79D0b1c67d4eb802d44C673D0A1D2C04",
+	"symbol": "sfrxETH",
+	"name": "Staked Frax Ether",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/polygon-zkevm/0x7c2aF1Fb79D0b1c67d4eb802d44C673D0A1D2C04.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

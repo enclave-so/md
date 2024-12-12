@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x086373fad3447F7F86252fb59d56107e9E0FaaFa",
+	"symbol": "Yup",
+	"name": "Yup",
+	"coingecko": "yup",
+	"sources": [
+		"coingecko"
+	]
+}

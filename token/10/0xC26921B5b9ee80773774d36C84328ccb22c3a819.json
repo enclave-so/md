@@ -1,0 +1,10 @@
+{
+	"chain": 10,
+	"address": "0xC26921B5b9ee80773774d36C84328ccb22c3a819",
+	"symbol": "Wrapped OptiDoge",
+	"name": "Wrapped OptiDoge",
+	"coingecko": "wrapped-optidoge",
+	"sources": [
+		"coingecko"
+	]
+}

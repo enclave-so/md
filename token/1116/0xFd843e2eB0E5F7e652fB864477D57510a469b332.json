@@ -1,0 +1,10 @@
+{
+	"chain": 1116,
+	"address": "0xFd843e2eB0E5F7e652fB864477D57510a469b332",
+	"symbol": "OpenEX Network Token",
+	"name": "OpenEX Network Token",
+	"coingecko": "openex-network-token",
+	"sources": [
+		"coingecko"
+	]
+}

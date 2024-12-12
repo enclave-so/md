@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x6a9896837021EA3eD83F623F655C119c54abE02c",
+	"symbol": "ChainBounty",
+	"name": "ChainBounty",
+	"coingecko": "sentinel-protocol",
+	"sources": [
+		"coingecko"
+	]
+}

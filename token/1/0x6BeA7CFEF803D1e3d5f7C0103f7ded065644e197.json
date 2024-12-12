@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x6BeA7CFEF803D1e3d5f7C0103f7ded065644e197",
+	"symbol": "Gamma Strategies",
+	"name": "Gamma Strategies",
+	"coingecko": "gamma-strategies",
+	"sources": [
+		"coingecko"
+	]
+}

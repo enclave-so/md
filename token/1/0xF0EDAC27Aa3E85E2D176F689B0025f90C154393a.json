@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xF0EDAC27Aa3E85E2D176F689B0025f90C154393a",
+	"symbol": "I LOVE SNOOPY",
+	"name": "I LOVE SNOOPY",
+	"coingecko": "i-love-snoopy",
+	"sources": [
+		"coingecko"
+	]
+}

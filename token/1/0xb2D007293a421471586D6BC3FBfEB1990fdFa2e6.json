@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xb2D007293a421471586D6BC3FBfEB1990fdFa2e6",
+	"symbol": "Governance VEC",
+	"name": "Governance VEC",
+	"coingecko": "governance-vec",
+	"sources": [
+		"coingecko"
+	]
+}

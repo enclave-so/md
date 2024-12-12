@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x07baC35846e5eD502aA91AdF6A9e7aA210F2DcbE",
+	"symbol": "Sifchain",
+	"name": "Sifchain",
+	"coingecko": "sifchain",
+	"sources": [
+		"coingecko"
+	]
+}

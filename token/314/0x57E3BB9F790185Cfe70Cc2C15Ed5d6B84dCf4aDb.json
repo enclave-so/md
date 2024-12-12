@@ -1,0 +1,10 @@
+{
+	"chain": 314,
+	"address": "0x57E3BB9F790185Cfe70Cc2C15Ed5d6B84dCf4aDb",
+	"symbol": "Wrapped pFIL",
+	"name": "Wrapped pFIL",
+	"coingecko": "wrapped-pfil",
+	"sources": [
+		"coingecko"
+	]
+}

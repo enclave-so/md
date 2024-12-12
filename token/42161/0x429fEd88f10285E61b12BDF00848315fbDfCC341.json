@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x429fEd88f10285E61b12BDF00848315fbDfCC341",
+	"symbol": "THORWallet DEX",
+	"name": "THORWallet DEX",
+	"coingecko": "thorwallet",
+	"sources": [
+		"coingecko"
+	]
+}

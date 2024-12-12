@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x590246Bfbf89b113D8ac36FaEeA12B7589f7FE5b",
+	"symbol": "Flappy",
+	"name": "Flappy",
+	"coingecko": "flappy",
+	"sources": [
+		"coingecko"
+	]
+}

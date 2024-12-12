@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x4385328cc4D643Ca98DfEA734360C0F596C83449",
+	"symbol": "tomiNet",
+	"name": "tomiNet",
+	"coingecko": "tominet",
+	"sources": [
+		"coingecko"
+	]
+}

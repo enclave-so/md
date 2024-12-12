@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x96a5399D07896f757Bd4c6eF56461F58DB951862",
+	"symbol": "DragonX.win",
+	"name": "DragonX.win",
+	"coingecko": "dragonx-win",
+	"sources": [
+		"coingecko"
+	]
+}

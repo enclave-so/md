@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x92d529163c5e880b9De86f01De0cB8924D790357",
+	"symbol": "Eyeverse",
+	"name": "Eyeverse",
+	"coingecko": "eyeverse",
+	"sources": [
+		"coingecko"
+	]
+}

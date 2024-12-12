@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x816E21c33fa5F8440EBcDF6e01D39314541BEA72",
+	"symbol": "LiquidDriver",
+	"name": "LiquidDriver",
+	"coingecko": "liquiddriver",
+	"sources": [
+		"coingecko"
+	]
+}

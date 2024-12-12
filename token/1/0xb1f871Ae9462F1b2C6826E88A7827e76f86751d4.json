@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xb1f871Ae9462F1b2C6826E88A7827e76f86751d4",
+	"symbol": "GNY",
+	"name": "GNY",
+	"coingecko": "gny",
+	"sources": [
+		"coingecko"
+	]
+}

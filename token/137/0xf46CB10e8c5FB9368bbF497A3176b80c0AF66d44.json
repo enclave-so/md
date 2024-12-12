@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xf46CB10e8c5FB9368bbF497A3176b80c0AF66d44",
+	"symbol": "Vortex Protocol",
+	"name": "Vortex Protocol",
+	"coingecko": "vortex-protocol",
+	"sources": [
+		"coingecko"
+	]
+}

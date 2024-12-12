@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xd94A8f9caeD25E63eCc90EDfefAf3635eA1e182a",
+	"symbol": "Stablecomp",
+	"name": "Stablecomp",
+	"coingecko": "stablecomp",
+	"sources": [
+		"coingecko"
+	]
+}

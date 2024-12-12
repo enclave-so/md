@@ -1,0 +1,11 @@
+{
+	"chain": 108,
+	"address": "0xfE146D5710015d4075355fb7bE8d133346EC63c2",
+	"symbol": "RAM",
+	"name": "Ram",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/thundercore/0xfE146D5710015d4075355fb7bE8d133346EC63c2.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

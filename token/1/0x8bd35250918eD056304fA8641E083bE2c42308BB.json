@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x8bd35250918eD056304fA8641E083bE2c42308BB",
+	"symbol": "Kaga No Fuuka Go Sapporo Kagasou",
+	"name": "Kaga No Fuuka Go Sapporo Kagasou",
+	"coingecko": "kaga-no-fuuka-go-sapporo-kagasou",
+	"sources": [
+		"coingecko"
+	]
+}

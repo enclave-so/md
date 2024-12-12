@@ -1,0 +1,13 @@
+{
+	"chain": 25,
+	"address": "0x40914BBDdea0ec8d22E044cd3131F1B5ED4e866d",
+	"symbol": "ORB",
+	"name": "ORB",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x40914BBDdea0ec8d22E044cd3131F1B5ED4e866d.jpg",
+	"coingecko": "orb",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

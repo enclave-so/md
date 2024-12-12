@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xCA9de1F80Df74331c5fcb7Eee2D05E746d47BFb2",
+	"symbol": "Reddio Vault Ethereum",
+	"name": "Reddio Vault Ethereum",
+	"coingecko": "redsonic-vault-ethereum",
+	"sources": [
+		"coingecko"
+	]
+}

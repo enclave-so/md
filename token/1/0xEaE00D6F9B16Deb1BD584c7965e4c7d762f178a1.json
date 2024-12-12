@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xEaE00D6F9B16Deb1BD584c7965e4c7d762f178a1",
+	"symbol": "XBorg",
+	"name": "XBorg",
+	"coingecko": "xborg",
+	"sources": [
+		"coingecko"
+	]
+}

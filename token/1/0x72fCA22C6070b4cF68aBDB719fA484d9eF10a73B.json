@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x72fCA22C6070b4cF68aBDB719fA484d9eF10a73B",
+	"symbol": "Sowa AI",
+	"name": "Sowa AI",
+	"coingecko": "sowa-ai",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xE0C28A5A2da3920946E8Bf821F61F7BEA311048b",
+	"symbol": "Stakehouse kETH",
+	"name": "Stakehouse kETH",
+	"coingecko": "stakehouse-keth",
+	"sources": [
+		"coingecko"
+	]
+}

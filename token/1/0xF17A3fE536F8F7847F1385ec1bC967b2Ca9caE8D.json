@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xF17A3fE536F8F7847F1385ec1bC967b2Ca9caE8D",
+	"symbol": "Alongside Crypto Market Index",
+	"name": "Alongside Crypto Market Index",
+	"coingecko": "alongside-crypto-market-index",
+	"sources": [
+		"coingecko"
+	]
+}

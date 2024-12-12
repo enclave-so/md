@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0xB98058640970d8Aa7BbcE3B067B2D63C14143786",
+	"symbol": "Baby Arbitrum",
+	"name": "Baby Arbitrum",
+	"coingecko": "baby-arbitrum",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0x78F225869c08d478c34e5f645d07A87d3fe8eb78",
+	"symbol": "DEFI+L",
+	"name": "PieDAO DEFI Large Cap",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x78F225869c08d478c34e5f645d07A87d3fe8eb78/logo.png",
+	"sources": [
+		"sushiswap"
+	]
+}

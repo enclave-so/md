@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xE925Aa77D51746b865e5c05165A879820cb4b720",
+	"symbol": "C-Cash",
+	"name": "C-Cash",
+	"coingecko": "c-cash",
+	"sources": [
+		"coingecko"
+	]
+}

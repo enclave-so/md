@@ -1,0 +1,10 @@
+{
+	"chain": 1284,
+	"address": "0xcd3B51D98478D53F4515A306bE565c6EebeF1D58",
+	"symbol": "BeamSwap",
+	"name": "BeamSwap",
+	"coingecko": "beamswap",
+	"sources": [
+		"coingecko"
+	]
+}

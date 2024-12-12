@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xf6719e1A8fcBB1B9c290019E37e004966A8916C9",
+	"symbol": "Polygen",
+	"name": "Polygen",
+	"coingecko": "polygen",
+	"sources": [
+		"coingecko"
+	]
+}

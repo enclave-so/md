@@ -1,0 +1,11 @@
+{
+	"chain": 199,
+	"address": "0x185a4091027E2dB459a2433F85f894dC3013aeB5",
+	"symbol": "BNB",
+	"name": "Binance Coin",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bttc/0x185a4091027E2dB459a2433F85f894dC3013aeB5.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

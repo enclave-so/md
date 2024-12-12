@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xcd17fA52528f37FACB3028688E62ec82d9417581",
+	"symbol": "Materium",
+	"name": "Materium",
+	"coingecko": "materium",
+	"sources": [
+		"coingecko"
+	]
+}

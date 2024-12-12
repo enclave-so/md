@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x0257fFD7eA2eBba4aAA090C7AdBDD032A08c1F74",
+	"symbol": "ZELIX",
+	"name": "ZELIX",
+	"coingecko": "zelix",
+	"sources": [
+		"coingecko"
+	]
+}

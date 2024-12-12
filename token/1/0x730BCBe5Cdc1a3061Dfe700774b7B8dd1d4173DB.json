@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x730BCBe5Cdc1a3061Dfe700774b7B8dd1d4173DB",
+	"symbol": "DaVinci",
+	"name": "DaVinci",
+	"coingecko": "davinci",
+	"sources": [
+		"coingecko"
+	]
+}

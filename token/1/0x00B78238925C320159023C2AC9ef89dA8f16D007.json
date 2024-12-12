@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x00B78238925C320159023C2AC9ef89dA8f16D007",
+	"symbol": "VPS Ai",
+	"name": "VPS Ai",
+	"coingecko": "vps-ai",
+	"sources": [
+		"coingecko"
+	]
+}

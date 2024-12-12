@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x997507cc49FBf0CD6ce5e1EE543218556fAFdEBc",
+	"symbol": "Bitenium",
+	"name": "Bitenium",
+	"coingecko": "bitenium-token",
+	"sources": [
+		"coingecko"
+	]
+}

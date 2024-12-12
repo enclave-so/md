@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x21B8bfbbefc9E2b9A994871Ecd742A5132B98AeD",
+	"symbol": "Crypto Real Estate",
+	"name": "Crypto Real Estate",
+	"coingecko": "crypto-real-estate",
+	"sources": [
+		"coingecko"
+	]
+}

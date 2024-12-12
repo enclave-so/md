@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0x93b346b6BC2548dA6A1E7d98E9a421B42541425b",
+	"symbol": "LUSD",
+	"name": "LUSD Stablecoin",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x93b346b6BC2548dA6A1E7d98E9a421B42541425b.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

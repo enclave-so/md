@@ -1,0 +1,10 @@
+{
+	"chain": 369,
+	"address": "0xdb4a3a4f8d8EEDA3114183DC1dE09Da87B8e2858",
+	"symbol": "RubyPulse",
+	"name": "RubyPulse",
+	"coingecko": "rubypulse",
+	"sources": [
+		"coingecko"
+	]
+}

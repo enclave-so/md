@@ -1,0 +1,11 @@
+{
+	"chain": 1285,
+	"address": "0x99C409E5f62E4bd2AC142f17caFb6810B8F0BAAE",
+	"symbol": "OCEAN",
+	"name": "Ocean Token",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/moonriver/0x99C409E5f62E4bd2AC142f17caFb6810B8F0BAAE.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

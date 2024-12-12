@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xfca89d55A768375Ab7cA04485A35a964BEA828dd",
+	"symbol": "Delrey Inu",
+	"name": "Delrey Inu",
+	"coingecko": "delrey-inu",
+	"sources": [
+		"coingecko"
+	]
+}

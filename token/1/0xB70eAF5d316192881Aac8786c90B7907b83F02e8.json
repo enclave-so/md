@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xB70eAF5d316192881Aac8786c90B7907b83F02e8",
+	"symbol": "MetaReset",
+	"name": "MetaReset",
+	"coingecko": "reset",
+	"sources": [
+		"coingecko"
+	]
+}

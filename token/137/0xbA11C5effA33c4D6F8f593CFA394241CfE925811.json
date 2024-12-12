@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xbA11C5effA33c4D6F8f593CFA394241CfE925811",
+	"symbol": "OUSG",
+	"name": "OUSG",
+	"coingecko": "ousg",
+	"sources": [
+		"coingecko"
+	]
+}

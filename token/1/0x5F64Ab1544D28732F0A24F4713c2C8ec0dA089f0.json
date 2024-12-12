@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0x5F64Ab1544D28732F0A24F4713c2C8ec0dA089f0",
+	"symbol": "DEXTF",
+	"name": "DEXTF",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x5F64Ab1544D28732F0A24F4713c2C8ec0dA089f0/logo.png",
+	"coingecko": "dextf",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

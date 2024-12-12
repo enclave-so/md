@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x6dc469A3Ef387AD9619df7774388aE26439ac8D4",
+	"symbol": "PAPI (ETH)",
+	"name": "PAPI (ETH)",
+	"coingecko": "papi-eth",
+	"sources": [
+		"coingecko"
+	]
+}

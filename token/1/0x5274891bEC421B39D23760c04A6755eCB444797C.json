@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x5274891bEC421B39D23760c04A6755eCB444797C",
+	"symbol": "IdleUSDC (Yield)",
+	"name": "IdleUSDC (Yield)",
+	"coingecko": "idle-usdc-yield",
+	"sources": [
+		"coingecko"
+	]
+}

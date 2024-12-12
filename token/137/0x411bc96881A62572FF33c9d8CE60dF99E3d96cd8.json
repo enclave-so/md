@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x411bc96881A62572FF33c9d8CE60dF99E3d96cd8",
+	"symbol": "Mars Token",
+	"name": "Mars Token",
+	"coingecko": "the-mars",
+	"sources": [
+		"coingecko"
+	]
+}

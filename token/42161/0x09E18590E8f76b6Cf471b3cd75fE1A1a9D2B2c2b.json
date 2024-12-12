@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x09E18590E8f76b6Cf471b3cd75fE1A1a9D2B2c2b",
+	"symbol": "ArbDoge AI",
+	"name": "ArbDoge AI",
+	"coingecko": "arbdoge-ai",
+	"sources": [
+		"coingecko"
+	]
+}

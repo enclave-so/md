@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x99B600D0a4abdbc4a6796225a160bCf3D5Ce2a89",
+	"symbol": "Solareum",
+	"name": "Solareum",
+	"coingecko": "solareum-d260e488-50a0-4048-ace4-1b82f9822903",
+	"sources": [
+		"coingecko"
+	]
+}

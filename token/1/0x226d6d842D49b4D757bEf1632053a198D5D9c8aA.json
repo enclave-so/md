@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x226d6d842D49b4D757bEf1632053a198D5D9c8aA",
+	"symbol": "Block Browser",
+	"name": "Block Browser",
+	"coingecko": "block-browser",
+	"sources": [
+		"coingecko"
+	]
+}

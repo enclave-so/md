@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0x9097eA65B55dfC7383A7EFB465e8fFC18D46e784",
+	"symbol": "SAND",
+	"name": "The Sandbox",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x9097eA65B55dfC7383A7EFB465e8fFC18D46e784.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

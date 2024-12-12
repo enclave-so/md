@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x6c6EE5e31d828De241282B9606C8e98Ea48526E2",
+	"symbol": "Holo",
+	"name": "Holo",
+	"coingecko": "holotoken",
+	"sources": [
+		"coingecko"
+	]
+}

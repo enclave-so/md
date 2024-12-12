@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xb8b295df2cd735b15BE5Eb419517Aa626fc43cD5",
+	"symbol": "Staked LINK",
+	"name": "Staked LINK",
+	"coingecko": "stake-link-staked-link",
+	"sources": [
+		"coingecko"
+	]
+}

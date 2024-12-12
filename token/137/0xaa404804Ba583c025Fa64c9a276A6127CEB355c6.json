@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xaa404804Ba583c025Fa64c9a276A6127CEB355c6",
+	"symbol": "CIPHER",
+	"name": "CIPHER",
+	"coingecko": "cipher-2",
+	"sources": [
+		"coingecko"
+	]
+}

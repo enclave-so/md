@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x7ad16874759348F04B6B6119463D66C07aE54899",
+	"symbol": "PIRB",
+	"name": "PIRB",
+	"coingecko": "pirb",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x2934b36ca9A4B31E633C5BE670C8C8b28b6aA015",
+	"symbol": "THX Network",
+	"name": "THX Network",
+	"coingecko": "thx-network",
+	"sources": [
+		"coingecko"
+	]
+}

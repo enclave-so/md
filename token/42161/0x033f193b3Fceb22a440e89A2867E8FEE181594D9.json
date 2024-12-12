@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x033f193b3Fceb22a440e89A2867E8FEE181594D9",
+	"symbol": "Rodeo Finance",
+	"name": "Rodeo Finance",
+	"coingecko": "rodeo-finance",
+	"sources": [
+		"coingecko"
+	]
+}

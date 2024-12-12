@@ -1,0 +1,10 @@
+{
+	"chain": 388,
+	"address": "0xD65E5DbA71231D35A5802bA83dC6cB6746c9758d",
+	"symbol": "Cronos zkEVM Bridged WBTC (Cronos zkEVM)",
+	"name": "Cronos zkEVM Bridged WBTC (Cronos zkEVM)",
+	"coingecko": "cronos-zkevm-bridged-wbtc-cronos-zkevm",
+	"sources": [
+		"coingecko"
+	]
+}

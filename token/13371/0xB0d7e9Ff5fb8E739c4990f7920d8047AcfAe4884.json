@@ -1,0 +1,10 @@
+{
+	"chain": 13371,
+	"address": "0xB0d7e9Ff5fb8E739c4990f7920d8047AcfAe4884",
+	"symbol": "Nifty League",
+	"name": "Nifty League",
+	"coingecko": "nifty-league",
+	"sources": [
+		"coingecko"
+	]
+}

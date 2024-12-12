@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x93c5a00b41FB5f3906b421b2399Ac64b79fdBD42",
+	"symbol": "Voidz",
+	"name": "Voidz",
+	"coingecko": "voidz",
+	"sources": [
+		"coingecko"
+	]
+}

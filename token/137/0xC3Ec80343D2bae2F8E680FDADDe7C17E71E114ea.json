@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xC3Ec80343D2bae2F8E680FDADDe7C17E71E114ea",
+	"symbol": "MANTRA",
+	"name": "MANTRA",
+	"coingecko": "mantra-dao",
+	"sources": [
+		"coingecko"
+	]
+}

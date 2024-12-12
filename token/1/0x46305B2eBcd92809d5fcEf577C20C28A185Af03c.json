@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x46305B2eBcd92809d5fcEf577C20C28A185Af03c",
+	"symbol": "Shadowladys DN404",
+	"name": "Shadowladys DN404",
+	"coingecko": "shadowladys-dn404",
+	"sources": [
+		"coingecko"
+	]
+}

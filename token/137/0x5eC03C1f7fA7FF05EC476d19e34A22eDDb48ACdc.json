@@ -1,0 +1,13 @@
+{
+	"chain": 137,
+	"address": "0x5eC03C1f7fA7FF05EC476d19e34A22eDDb48ACdc",
+	"symbol": "ZED",
+	"name": "ZED RUN",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x5eC03C1f7fA7FF05EC476d19e34A22eDDb48ACdc.jpg",
+	"coingecko": "zed-run",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

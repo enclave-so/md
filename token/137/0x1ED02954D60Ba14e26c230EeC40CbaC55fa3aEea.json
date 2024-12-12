@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x1ED02954D60Ba14e26c230EeC40CbaC55fa3aEea",
+	"symbol": "MakerX",
+	"name": "MakerX",
+	"coingecko": "makerx",
+	"sources": [
+		"coingecko"
+	]
+}

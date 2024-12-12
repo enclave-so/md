@@ -1,0 +1,10 @@
+{
+	"chain": 369,
+	"address": "0x0A0F70B227f782f2CeAD75554781AF45a620A296",
+	"symbol": "PIKA to PIKO ピカとピコ",
+	"name": "PIKA to PIKO ピカとピコ",
+	"coingecko": "pika-to-piko",
+	"sources": [
+		"coingecko"
+	]
+}

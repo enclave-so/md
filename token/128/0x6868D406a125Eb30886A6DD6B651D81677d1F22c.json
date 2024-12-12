@@ -1,0 +1,13 @@
+{
+	"chain": 128,
+	"address": "0x6868D406a125Eb30886A6DD6B651D81677d1F22c",
+	"symbol": "BAGS",
+	"name": "BAGS",
+	"decimals": 18,
+	"logo": "https://hecoinfo.com/images/main/empty-token.png",
+	"coingecko": "basis-gold-share-heco",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

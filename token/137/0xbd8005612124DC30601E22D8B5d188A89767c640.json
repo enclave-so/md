@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xbd8005612124DC30601E22D8B5d188A89767c640",
+	"symbol": "Exohood",
+	"name": "Exohood",
+	"coingecko": "exohood",
+	"sources": [
+		"coingecko"
+	]
+}

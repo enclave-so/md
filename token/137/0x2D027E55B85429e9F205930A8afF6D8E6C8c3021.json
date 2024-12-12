@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x2D027E55B85429e9F205930A8afF6D8E6C8c3021",
+	"symbol": "RAYS",
+	"name": "RAYS",
+	"coingecko": "rays",
+	"sources": [
+		"coingecko"
+	]
+}

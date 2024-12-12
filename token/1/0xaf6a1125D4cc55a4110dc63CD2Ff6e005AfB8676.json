@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xaf6a1125D4cc55a4110dc63CD2Ff6e005AfB8676",
+	"symbol": "PunkCity",
+	"name": "PunkCity",
+	"coingecko": "punk-2",
+	"sources": [
+		"coingecko"
+	]
+}

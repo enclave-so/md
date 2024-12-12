@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x2565ae0385659badCada1031DB704442E1b69982",
+	"symbol": "Assemble Protocol",
+	"name": "Assemble Protocol",
+	"coingecko": "assemble-protocol",
+	"sources": [
+		"coingecko"
+	]
+}

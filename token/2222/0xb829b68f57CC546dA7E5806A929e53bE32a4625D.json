@@ -1,0 +1,13 @@
+{
+	"chain": 2222,
+	"address": "0xb829b68f57CC546dA7E5806A929e53bE32a4625D",
+	"symbol": "axlETH",
+	"name": "Axelar Wrapped ETH",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/kava/0xb829b68f57CC546dA7E5806A929e53bE32a4625D.jpg",
+	"coingecko": "axlweth",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1907,
+	"address": "0x005EDBD50a7bBcDD049BF005146E5Acd7c5ebDb4",
+	"symbol": "Travelers Token",
+	"name": "Travelers Token",
+	"coingecko": "travelers-token",
+	"sources": [
+		"coingecko"
+	]
+}

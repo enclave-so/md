@@ -1,0 +1,10 @@
+{
+	"chain": 1101,
+	"address": "0x0D1E753a25eBda689453309112904807625bEFBe",
+	"symbol": "PancakeSwap",
+	"name": "PancakeSwap",
+	"coingecko": "pancakeswap-token",
+	"sources": [
+		"coingecko"
+	]
+}

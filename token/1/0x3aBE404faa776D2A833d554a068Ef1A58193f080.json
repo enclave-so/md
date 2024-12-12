@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x3aBE404faa776D2A833d554a068Ef1A58193f080",
+	"symbol": "Kozue",
+	"name": "Kozue",
+	"coingecko": "kozue",
+	"sources": [
+		"coingecko"
+	]
+}

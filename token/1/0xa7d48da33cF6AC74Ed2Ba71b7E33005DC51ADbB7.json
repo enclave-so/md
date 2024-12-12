@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xa7d48da33cF6AC74Ed2Ba71b7E33005DC51ADbB7",
+	"symbol": "KanzzAI",
+	"name": "KanzzAI",
+	"coingecko": "kanzzai",
+	"sources": [
+		"coingecko"
+	]
+}

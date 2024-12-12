@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x3c59798620e5fEC0Ae6dF1A19c6454094572Ab92",
+	"symbol": "Morpheus Network",
+	"name": "Morpheus Network",
+	"coingecko": "morpheus-network",
+	"sources": [
+		"coingecko"
+	]
+}

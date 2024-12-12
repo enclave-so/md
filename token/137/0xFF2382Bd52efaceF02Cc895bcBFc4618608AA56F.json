@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xFF2382Bd52efaceF02Cc895bcBFc4618608AA56F",
+	"symbol": "OneRare",
+	"name": "OneRare",
+	"coingecko": "onerare",
+	"sources": [
+		"coingecko"
+	]
+}

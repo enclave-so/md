@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x0828096494ad6252F0F853abFC5b6ec9dfe9fDAd",
+	"symbol": "Teleport System Token",
+	"name": "Teleport System Token",
+	"coingecko": "teleport-system-token",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 39797,
+	"address": "0x04cb6Ed1d4CEf27B2B0d42D628F57eE223D6beeE",
+	"symbol": "Bao Finance",
+	"name": "Bao Finance",
+	"coingecko": "bao-finance",
+	"sources": [
+		"coingecko"
+	]
+}

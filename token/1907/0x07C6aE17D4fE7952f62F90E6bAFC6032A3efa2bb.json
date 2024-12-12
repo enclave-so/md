@@ -1,0 +1,10 @@
+{
+	"chain": 1907,
+	"address": "0x07C6aE17D4fE7952f62F90E6bAFC6032A3efa2bb",
+	"symbol": "Matrak Fan Token",
+	"name": "Matrak Fan Token",
+	"coingecko": "matrak-fan-token",
+	"sources": [
+		"coingecko"
+	]
+}

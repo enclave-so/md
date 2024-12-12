@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xD5Fa38027462691769b8A8BA6C444890103B5B94",
+	"symbol": "Dawg Coin",
+	"name": "Dawg Coin",
+	"coingecko": "dawg-coin",
+	"sources": [
+		"coingecko"
+	]
+}

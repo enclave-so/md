@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xADb6d62E142A2f911Fb3c9Ca1c1D0fE5d9437252",
+	"symbol": "LOCKON Active Index",
+	"name": "LOCKON Active Index",
+	"coingecko": "lockon-active-index",
+	"sources": [
+		"coingecko"
+	]
+}

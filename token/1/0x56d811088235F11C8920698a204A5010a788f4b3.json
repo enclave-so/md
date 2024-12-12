@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0x56d811088235F11C8920698a204A5010a788f4b3",
+	"symbol": "BZRX",
+	"name": "bZx Protocol Token",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/bzrx.jpg",
+	"coingecko": "bzx-protocol",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

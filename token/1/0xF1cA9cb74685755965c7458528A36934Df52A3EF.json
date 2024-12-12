@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xF1cA9cb74685755965c7458528A36934Df52A3EF",
+	"symbol": "AVINOC",
+	"name": "AVINOC",
+	"coingecko": "avinoc",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xDC5E9445169C73Cf21e1da0B270e8433caC69959",
+	"symbol": "Ketaicoin",
+	"name": "Ketaicoin",
+	"coingecko": "ketaicoin",
+	"sources": [
+		"coingecko"
+	]
+}

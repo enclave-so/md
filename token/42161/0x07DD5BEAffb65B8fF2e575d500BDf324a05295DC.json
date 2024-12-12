@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x07DD5BEAffb65B8fF2e575d500BDf324a05295DC",
+	"symbol": "ArbiPad",
+	"name": "ArbiPad",
+	"coingecko": "arbipad",
+	"sources": [
+		"coingecko"
+	]
+}

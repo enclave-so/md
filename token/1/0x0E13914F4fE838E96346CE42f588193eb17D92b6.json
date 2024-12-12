@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x0E13914F4fE838E96346CE42f588193eb17D92b6",
+	"symbol": "Lemon Terminal",
+	"name": "Lemon Terminal",
+	"coingecko": "lemon-terminal",
+	"sources": [
+		"coingecko"
+	]
+}

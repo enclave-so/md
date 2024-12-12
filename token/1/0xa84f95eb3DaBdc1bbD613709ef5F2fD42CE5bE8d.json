@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xa84f95eb3DaBdc1bbD613709ef5F2fD42CE5bE8d",
+	"symbol": "EternalAI",
+	"name": "EternalAI",
+	"coingecko": "eternalai",
+	"sources": [
+		"coingecko"
+	]
+}

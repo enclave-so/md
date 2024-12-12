@@ -1,0 +1,13 @@
+{
+	"chain": 108,
+	"address": "0x18fB0A62f207A2a082cA60aA78F47a1af4985190",
+	"symbol": "TT-WBTC",
+	"name": "WBTC",
+	"decimals": 8,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/thundercore/0x18fB0A62f207A2a082cA60aA78F47a1af4985190.jpg",
+	"coingecko": "thundercore-bridged-wbtc-thundercore",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

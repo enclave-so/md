@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x033BbDe722EA3Cdcec73cFFEA6581DF9F9C257de",
+	"symbol": "Velar",
+	"name": "Velar",
+	"coingecko": "velar",
+	"sources": [
+		"coingecko"
+	]
+}

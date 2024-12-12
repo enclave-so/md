@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0xADE00C28244d5CE17D72E40330B1c318cD12B7c3",
+	"symbol": "ADX",
+	"name": "AdEx Network",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/adx.jpg",
+	"coingecko": "adex",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xA831a4E181F25D3B35949E582Ff27Cc44e703F37",
+	"symbol": "ALEX Lab",
+	"name": "ALEX Lab",
+	"coingecko": "alexgo",
+	"sources": [
+		"coingecko"
+	]
+}

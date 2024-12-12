@@ -1,0 +1,11 @@
+{
+	"chain": 1285,
+	"address": "0xC2392DD3e3fED2c8Ed9f7f0bDf6026fcd1348453",
+	"symbol": "BEANS",
+	"name": "MoonBeans",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/m00nbeans/images/main/moonbeans.png",
+	"sources": [
+		"sushiswap"
+	]
+}

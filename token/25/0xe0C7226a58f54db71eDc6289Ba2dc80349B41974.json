@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0xe0C7226a58f54db71eDc6289Ba2dc80349B41974",
+	"symbol": "HBAR",
+	"name": "Hedera",
+	"decimals": 8,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xe0C7226a58f54db71eDc6289Ba2dc80349B41974.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

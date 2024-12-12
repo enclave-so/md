@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x328C4c80BC7aCa0834Db37e6600A6c49E12Da4DE",
+	"symbol": "Aave SNX v1",
+	"name": "Aave SNX v1",
+	"coingecko": "aave-snx-v1",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x202Bab532E9e44F06688ABf3406437dBe49b3018",
+	"symbol": "Crypto 2 Debit",
+	"name": "Crypto 2 Debit",
+	"coingecko": "crypto-2-debit",
+	"sources": [
+		"coingecko"
+	]
+}

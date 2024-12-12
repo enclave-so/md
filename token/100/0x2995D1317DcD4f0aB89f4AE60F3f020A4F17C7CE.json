@@ -1,0 +1,11 @@
+{
+	"chain": 100,
+	"address": "0x2995D1317DcD4f0aB89f4AE60F3f020A4F17C7CE",
+	"symbol": "SUSHI",
+	"name": "SushiToken on xDai",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/0x2995D1317DcD4f0aB89f4AE60F3f020A4F17C7CE.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

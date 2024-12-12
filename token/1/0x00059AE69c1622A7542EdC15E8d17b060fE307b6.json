@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x00059AE69c1622A7542EdC15E8d17b060fE307b6",
+	"symbol": "AmonD",
+	"name": "AmonD",
+	"coingecko": "amond",
+	"sources": [
+		"coingecko"
+	]
+}

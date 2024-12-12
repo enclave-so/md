@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xa670d7237398238DE01267472C6f13e5B8010FD1",
+	"symbol": "Sommelier",
+	"name": "Sommelier",
+	"coingecko": "sommelier",
+	"sources": [
+		"coingecko"
+	]
+}

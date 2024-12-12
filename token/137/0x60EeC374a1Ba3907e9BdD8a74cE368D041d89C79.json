@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x60EeC374a1Ba3907e9BdD8a74cE368D041d89C79",
+	"symbol": "Parrotly",
+	"name": "Parrotly",
+	"coingecko": "parrotly",
+	"sources": [
+		"coingecko"
+	]
+}

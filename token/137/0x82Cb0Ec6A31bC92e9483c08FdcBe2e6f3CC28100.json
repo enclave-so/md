@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x82Cb0Ec6A31bC92e9483c08FdcBe2e6f3CC28100",
+	"symbol": "IBS [OLD]",
+	"name": "IBS [OLD]",
+	"coingecko": "ibs",
+	"sources": [
+		"coingecko"
+	]
+}

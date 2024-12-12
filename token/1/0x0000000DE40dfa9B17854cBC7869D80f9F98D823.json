@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x0000000DE40dfa9B17854cBC7869D80f9F98D823",
+	"symbol": "delta.theta",
+	"name": "delta.theta",
+	"coingecko": "delta-theta",
+	"sources": [
+		"coingecko"
+	]
+}

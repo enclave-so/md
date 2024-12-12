@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x8E32B8A41f2E86A3EE198912ac8d756C84295b40",
+	"symbol": "Track The Funds Bot",
+	"name": "Track The Funds Bot",
+	"coingecko": "track-the-funds-bot",
+	"sources": [
+		"coingecko"
+	]
+}

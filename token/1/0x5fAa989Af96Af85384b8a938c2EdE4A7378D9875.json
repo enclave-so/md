@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x5fAa989Af96Af85384b8a938c2EdE4A7378D9875",
+	"symbol": "Galxe",
+	"name": "Galxe",
+	"coingecko": "project-galaxy",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1234,
+	"address": "0xb58A9d5920AF6aC1a9522B0B10F55dF16686D1b6",
+	"symbol": "Step App",
+	"name": "Step App",
+	"coingecko": "step-app-fitfi",
+	"sources": [
+		"coingecko"
+	]
+}

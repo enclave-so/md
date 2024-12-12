@@ -1,0 +1,13 @@
+{
+	"chain": 42161,
+	"address": "0xf4D48Ce3ee1Ac3651998971541bAdbb9A14D7234",
+	"symbol": "CREAM",
+	"name": "Cream",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/cream.jpg",
+	"coingecko": "cream-2",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

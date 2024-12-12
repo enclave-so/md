@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x7968bc6a03017eA2de509AAA816F163Db0f35148",
+	"symbol": "Hedget",
+	"name": "Hedget",
+	"coingecko": "hedget",
+	"sources": [
+		"coingecko"
+	]
+}

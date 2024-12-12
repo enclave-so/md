@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x921D07059cb0640997251b577735a1bef90c408F",
+	"symbol": "FOMO.bond",
+	"name": "FOMO.bond",
+	"coingecko": "fomo-bond",
+	"sources": [
+		"coingecko"
+	]
+}

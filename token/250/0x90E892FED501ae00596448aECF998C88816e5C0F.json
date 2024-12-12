@@ -1,0 +1,10 @@
+{
+	"chain": 250,
+	"address": "0x90E892FED501ae00596448aECF998C88816e5C0F",
+	"symbol": "Dark Matter Defi",
+	"name": "Dark Matter Defi",
+	"coingecko": "dark-matter-defi",
+	"sources": [
+		"coingecko"
+	]
+}

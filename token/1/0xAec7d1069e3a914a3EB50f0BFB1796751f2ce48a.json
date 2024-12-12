@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xAec7d1069e3a914a3EB50f0BFB1796751f2ce48a",
+	"symbol": "S4FE",
+	"name": "S4FE",
+	"coingecko": "s4fe",
+	"sources": [
+		"coingecko"
+	]
+}

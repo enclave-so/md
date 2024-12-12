@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xB2ee0aDBe0EF1281025d0676511bB1df14600f4D",
+	"symbol": "FORE Protocol",
+	"name": "FORE Protocol",
+	"coingecko": "fore-protocol",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xE229b734251dD48ddA27bB908D90329F229C3531",
+	"symbol": "Gram Platinum",
+	"name": "Gram Platinum",
+	"coingecko": "gram-platinum",
+	"sources": [
+		"coingecko"
+	]
+}

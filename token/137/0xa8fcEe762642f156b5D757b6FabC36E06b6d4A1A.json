@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xa8fcEe762642f156b5D757b6FabC36E06b6d4A1A",
+	"symbol": "Aluna",
+	"name": "Aluna",
+	"coingecko": "aluna",
+	"sources": [
+		"coingecko"
+	]
+}

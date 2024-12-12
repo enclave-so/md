@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x64b78325d7495D6d4be92f234fa3f3B8d8964B8b",
+	"symbol": "Shopping.io",
+	"name": "Shopping.io",
+	"coingecko": "shopping-io-token",
+	"sources": [
+		"coingecko"
+	]
+}

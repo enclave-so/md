@@ -1,0 +1,10 @@
+{
+	"chain": 250,
+	"address": "0xc165d941481e68696f43EE6E99BFB2B23E0E3114",
+	"symbol": "0xDAO",
+	"name": "0xDAO",
+	"coingecko": "0xdao",
+	"sources": [
+		"coingecko"
+	]
+}

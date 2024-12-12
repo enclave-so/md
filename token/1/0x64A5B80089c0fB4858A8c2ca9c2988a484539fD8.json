@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x64A5B80089c0fB4858A8c2ca9c2988a484539fD8",
+	"symbol": "Print Mining",
+	"name": "Print Mining",
+	"coingecko": "print-mining",
+	"sources": [
+		"coingecko"
+	]
+}

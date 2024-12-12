@@ -1,0 +1,10 @@
+{
+	"chain": 250,
+	"address": "0x248CB87DDA803028dfeaD98101C9465A2fbdA0d4",
+	"symbol": "Charm",
+	"name": "Charm",
+	"coingecko": "charm",
+	"sources": [
+		"coingecko"
+	]
+}

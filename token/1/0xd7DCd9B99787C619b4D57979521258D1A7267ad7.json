@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xd7DCd9B99787C619b4D57979521258D1A7267ad7",
+	"symbol": "Evrynet",
+	"name": "Evrynet",
+	"coingecko": "evrynet",
+	"sources": [
+		"coingecko"
+	]
+}

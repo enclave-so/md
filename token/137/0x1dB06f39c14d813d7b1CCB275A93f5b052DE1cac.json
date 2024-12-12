@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x1dB06f39c14d813d7b1CCB275A93f5b052DE1cac",
+	"symbol": "Xave",
+	"name": "Xave",
+	"coingecko": "xave-token",
+	"sources": [
+		"coingecko"
+	]
+}

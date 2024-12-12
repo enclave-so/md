@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x0f1e49d6dcfC9eeFcCE9D5ae3c660f8eAD75061a",
+	"symbol": "Vinlink",
+	"name": "Vinlink",
+	"coingecko": "vinlink",
+	"sources": [
+		"coingecko"
+	]
+}

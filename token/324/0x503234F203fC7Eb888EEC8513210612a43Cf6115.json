@@ -1,0 +1,10 @@
+{
+	"chain": 324,
+	"address": "0x503234F203fC7Eb888EEC8513210612a43Cf6115",
+	"symbol": "Liquity USD",
+	"name": "Liquity USD",
+	"coingecko": "liquity-usd",
+	"sources": [
+		"coingecko"
+	]
+}

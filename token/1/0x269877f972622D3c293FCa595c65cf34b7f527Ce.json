@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x269877f972622D3c293FCa595c65cf34b7f527Ce",
+	"symbol": "Friends with Benefits Network",
+	"name": "Friends with Benefits Network",
+	"coingecko": "friends-with-benefits-network",
+	"sources": [
+		"coingecko"
+	]
+}

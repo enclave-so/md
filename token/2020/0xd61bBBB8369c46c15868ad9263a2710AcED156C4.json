@@ -1,0 +1,10 @@
+{
+	"chain": 2020,
+	"address": "0xd61bBBB8369c46c15868ad9263a2710AcED156C4",
+	"symbol": "Lumi Finance",
+	"name": "Lumi Finance",
+	"coingecko": "lumi-finance",
+	"sources": [
+		"coingecko"
+	]
+}

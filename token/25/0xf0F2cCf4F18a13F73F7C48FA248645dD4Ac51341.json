@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0xf0F2cCf4F18a13F73F7C48FA248645dD4Ac51341",
+	"symbol": "ONE",
+	"name": "Harmony",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xf0F2cCf4F18a13F73F7C48FA248645dD4Ac51341.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

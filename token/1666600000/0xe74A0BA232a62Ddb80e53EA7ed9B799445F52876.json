@@ -1,0 +1,10 @@
+{
+	"chain": 1666600000,
+	"address": "0xe74A0BA232a62Ddb80e53EA7ed9B799445F52876",
+	"symbol": "Digital Reserve Currency",
+	"name": "Digital Reserve Currency",
+	"coingecko": "digital-reserve-currency",
+	"sources": [
+		"coingecko"
+	]
+}

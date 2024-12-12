@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xb2606492712D311be8f41d940AFE8CE742A52D44",
+	"symbol": "zkLend",
+	"name": "zkLend",
+	"coingecko": "zklend-2",
+	"sources": [
+		"coingecko"
+	]
+}

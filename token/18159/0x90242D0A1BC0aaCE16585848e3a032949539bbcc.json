@@ -1,0 +1,10 @@
+{
+	"chain": 18159,
+	"address": "0x90242D0A1BC0aaCE16585848e3a032949539bbcc",
+	"symbol": "AstroSpaces.io",
+	"name": "AstroSpaces.io",
+	"coingecko": "astrospaces-io",
+	"sources": [
+		"coingecko"
+	]
+}

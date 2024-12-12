@@ -1,0 +1,10 @@
+{
+	"chain": 167000,
+	"address": "0x07d83526730c7438048D55A4fc0b850e2aaB6f0b",
+	"symbol": "Taiko Bridged USDC (Taiko)",
+	"name": "Taiko Bridged USDC (Taiko)",
+	"coingecko": "taiko-bridged-usdc-taiko",
+	"sources": [
+		"coingecko"
+	]
+}

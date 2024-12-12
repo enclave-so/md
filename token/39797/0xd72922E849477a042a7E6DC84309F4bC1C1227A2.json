@@ -1,0 +1,10 @@
+{
+	"chain": 39797,
+	"address": "0xd72922E849477a042a7E6DC84309F4bC1C1227A2",
+	"symbol": "Numeraire",
+	"name": "Numeraire",
+	"coingecko": "numeraire",
+	"sources": [
+		"coingecko"
+	]
+}

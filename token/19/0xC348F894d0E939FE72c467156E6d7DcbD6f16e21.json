@@ -1,0 +1,10 @@
+{
+	"chain": 19,
+	"address": "0xC348F894d0E939FE72c467156E6d7DcbD6f16e21",
+	"symbol": "Flare Finance",
+	"name": "Flare Finance",
+	"coingecko": "flare-finance",
+	"sources": [
+		"coingecko"
+	]
+}

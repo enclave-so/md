@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x2fd61567c29E7ADB4Ca17e60E1f4a3Fcfe68aCb8",
+	"symbol": "SymVerse",
+	"name": "SymVerse",
+	"coingecko": "symverse",
+	"sources": [
+		"coingecko"
+	]
+}

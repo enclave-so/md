@@ -1,0 +1,11 @@
+{
+	"chain": 137,
+	"address": "0x137Ee749f0F8c2eD34cA00dE33BB59E3dafA494A",
+	"symbol": "wCCX",
+	"name": "WrappedConceal",
+	"decimals": 6,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x137Ee749f0F8c2eD34cA00dE33BB59E3dafA494A/logo.png",
+	"sources": [
+		"sushiswap"
+	]
+}

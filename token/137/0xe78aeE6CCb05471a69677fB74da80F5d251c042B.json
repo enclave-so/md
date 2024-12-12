@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xe78aeE6CCb05471a69677fB74da80F5d251c042B",
+	"symbol": "Taki Games",
+	"name": "Taki Games",
+	"coingecko": "taki",
+	"sources": [
+		"coingecko"
+	]
+}

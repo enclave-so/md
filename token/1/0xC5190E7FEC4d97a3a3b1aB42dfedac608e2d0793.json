@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xC5190E7FEC4d97a3a3b1aB42dfedac608e2d0793",
+	"symbol": "FX1Sports",
+	"name": "FX1Sports",
+	"coingecko": "fx1sports",
+	"sources": [
+		"coingecko"
+	]
+}

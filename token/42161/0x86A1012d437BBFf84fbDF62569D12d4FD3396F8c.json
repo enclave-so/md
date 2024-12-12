@@ -1,0 +1,11 @@
+{
+	"chain": 42161,
+	"address": "0x86A1012d437BBFf84fbDF62569D12d4FD3396F8c",
+	"symbol": "ARBYS",
+	"name": "Arbys",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/arbitrum/assets/0x86A1012d437BBFf84fbDF62569D12d4FD3396F8c/logo.png",
+	"sources": [
+		"sushiswap"
+	]
+}

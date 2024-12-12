@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xb28f803A8772E6584A65Ab6dfC535aE6fEf8a0b2",
+	"symbol": "Lunafi",
+	"name": "Lunafi",
+	"coingecko": "lunafi",
+	"sources": [
+		"coingecko"
+	]
+}

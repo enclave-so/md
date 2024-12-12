@@ -1,0 +1,10 @@
+{
+	"chain": 13371,
+	"address": "0x52A6c53869Ce09a731CD772f245b97A4401d3348",
+	"symbol": "Immutable zkEVM Bridged ETH",
+	"name": "Immutable zkEVM Bridged ETH",
+	"coingecko": "immutable-zkevm-bridged-eth",
+	"sources": [
+		"coingecko"
+	]
+}

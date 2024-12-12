@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x0f8958c757B65881cec98028CAE0c4EE45726EAE",
+	"symbol": "Compute Network",
+	"name": "Compute Network",
+	"coingecko": "compute-network",
+	"sources": [
+		"coingecko"
+	]
+}

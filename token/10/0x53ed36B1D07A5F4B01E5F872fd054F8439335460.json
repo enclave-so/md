@@ -1,0 +1,10 @@
+{
+	"chain": 10,
+	"address": "0x53ed36B1D07A5F4B01E5F872fd054F8439335460",
+	"symbol": "Gemach",
+	"name": "Gemach",
+	"coingecko": "gemach",
+	"sources": [
+		"coingecko"
+	]
+}

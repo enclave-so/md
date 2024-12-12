@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xF3617E8a04265160B9ee10253A2c78565571Cb76",
+	"symbol": "Blepe the Blue",
+	"name": "Blepe the Blue",
+	"coingecko": "blepe-the-blue",
+	"sources": [
+		"coingecko"
+	]
+}

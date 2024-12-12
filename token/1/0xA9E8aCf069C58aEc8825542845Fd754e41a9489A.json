@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xA9E8aCf069C58aEc8825542845Fd754e41a9489A",
+	"symbol": "PepeCoin",
+	"name": "PepeCoin",
+	"coingecko": "pepecoin-2",
+	"sources": [
+		"coingecko"
+	]
+}

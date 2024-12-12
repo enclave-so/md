@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xD849882983F1bA8A3c23B16b65BB0173A7f63b63",
+	"symbol": "De Layer",
+	"name": "De Layer",
+	"coingecko": "de-layer",
+	"sources": [
+		"coingecko"
+	]
+}

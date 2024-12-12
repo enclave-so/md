@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xCF67815ccE72E682Eb4429eCa46843bed81Ca739",
+	"symbol": "GAM3S.GG",
+	"name": "GAM3S.GG",
+	"coingecko": "gam3s-gg",
+	"sources": [
+		"coingecko"
+	]
+}

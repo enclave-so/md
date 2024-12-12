@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x4B85a666deC7C959e88b97814E46113601B07e57",
+	"symbol": "GoCrypto",
+	"name": "GoCrypto",
+	"coingecko": "eligma",
+	"sources": [
+		"coingecko"
+	]
+}

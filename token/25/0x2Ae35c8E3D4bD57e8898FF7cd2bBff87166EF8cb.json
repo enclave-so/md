@@ -1,0 +1,10 @@
+{
+	"chain": 25,
+	"address": "0x2Ae35c8E3D4bD57e8898FF7cd2bBff87166EF8cb",
+	"symbol": "MAI (Cronos)",
+	"name": "MAI (Cronos)",
+	"coingecko": "mai-cronos",
+	"sources": [
+		"coingecko"
+	]
+}

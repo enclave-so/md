@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x4268a135840e5273E9DcB3Dc78303767D3964f43",
+	"symbol": "Fungify NFT Index",
+	"name": "Fungify NFT Index",
+	"coingecko": "fungify-nft-index",
+	"sources": [
+		"coingecko"
+	]
+}

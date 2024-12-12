@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x776280F68aD33c4d49e6846507B7dBaf7811c89F",
+	"symbol": "ZeroLiquid ETH",
+	"name": "ZeroLiquid ETH",
+	"coingecko": "zeroliquid-eth",
+	"sources": [
+		"coingecko"
+	]
+}

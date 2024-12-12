@@ -1,0 +1,10 @@
+{
+	"chain": 250,
+	"address": "0x152888854378201e173490956085c711f1DeD565",
+	"symbol": "Monster",
+	"name": "Monster",
+	"coingecko": "metaland-gameverse",
+	"sources": [
+		"coingecko"
+	]
+}

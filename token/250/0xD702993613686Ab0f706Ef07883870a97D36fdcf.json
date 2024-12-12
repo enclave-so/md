@@ -1,0 +1,10 @@
+{
+	"chain": 250,
+	"address": "0xD702993613686Ab0f706Ef07883870a97D36fdcf",
+	"symbol": "Sonic Name Service",
+	"name": "Sonic Name Service",
+	"coingecko": "sonic-name-service",
+	"sources": [
+		"coingecko"
+	]
+}

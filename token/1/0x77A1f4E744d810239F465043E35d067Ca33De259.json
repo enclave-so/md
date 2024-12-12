@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x77A1f4E744d810239F465043E35d067Ca33De259",
+	"symbol": "Voice Street",
+	"name": "Voice Street",
+	"coingecko": "voice-street",
+	"sources": [
+		"coingecko"
+	]
+}

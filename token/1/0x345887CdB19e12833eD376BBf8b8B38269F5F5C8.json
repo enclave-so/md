@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x345887CdB19e12833eD376BBf8b8B38269F5F5C8",
+	"symbol": "Carbon Browser",
+	"name": "Carbon Browser",
+	"coingecko": "carbon-browser",
+	"sources": [
+		"coingecko"
+	]
+}

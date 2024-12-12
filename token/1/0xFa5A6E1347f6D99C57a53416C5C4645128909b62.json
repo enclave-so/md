@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xFa5A6E1347f6D99C57a53416C5C4645128909b62",
+	"symbol": "DupeBot",
+	"name": "DupeBot",
+	"coingecko": "dupebot",
+	"sources": [
+		"coingecko"
+	]
+}

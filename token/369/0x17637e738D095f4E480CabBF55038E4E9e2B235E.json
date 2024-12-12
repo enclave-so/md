@@ -1,0 +1,10 @@
+{
+	"chain": 369,
+	"address": "0x17637e738D095f4E480CabBF55038E4E9e2B235E",
+	"symbol": "DAI Reflections",
+	"name": "DAI Reflections",
+	"coingecko": "dai-reflections",
+	"sources": [
+		"coingecko"
+	]
+}

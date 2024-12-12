@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x11e969e9B3f89cB16D686a03Cd8508C9fC0361AF",
+	"symbol": "Lava Network",
+	"name": "Lava Network",
+	"coingecko": "lava-network",
+	"sources": [
+		"coingecko"
+	]
+}

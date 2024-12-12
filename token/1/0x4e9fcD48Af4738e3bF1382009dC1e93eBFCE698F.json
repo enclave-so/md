@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x4e9fcD48Af4738e3bF1382009dC1e93eBFCE698F",
+	"symbol": "TAO INU",
+	"name": "TAO INU",
+	"coingecko": "tao-inu",
+	"sources": [
+		"coingecko"
+	]
+}

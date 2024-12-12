@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x4349929808E515936A68903F6085F5e2B143ff3d",
+	"symbol": "Caduceus Protocol",
+	"name": "Caduceus Protocol",
+	"coingecko": "caduceus-protocol",
+	"sources": [
+		"coingecko"
+	]
+}

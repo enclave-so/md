@@ -1,0 +1,11 @@
+{
+	"chain": 108,
+	"address": "0xAB2AACF20B163E68E0a318aa8FeE7E023B17cCD9",
+	"symbol": "Shark",
+	"name": "Shark",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/thundercore/0xAB2AACF20B163E68E0a318aa8FeE7E023B17cCD9.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

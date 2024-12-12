@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x6c3fE25a4de7FA243c653cfE1F165bf11D99704E",
+	"symbol": "Hilo",
+	"name": "Hilo",
+	"coingecko": "hilo-2",
+	"sources": [
+		"coingecko"
+	]
+}

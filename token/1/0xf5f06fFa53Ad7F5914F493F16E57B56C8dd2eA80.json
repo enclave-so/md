@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0xf5f06fFa53Ad7F5914F493F16E57B56C8dd2eA80",
+	"symbol": "JELLY",
+	"name": "Jelly Token",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xf5f06fFa53Ad7F5914F493F16E57B56C8dd2eA80.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

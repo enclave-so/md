@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xb53ecF1345caBeE6eA1a65100Ebb153cEbcac40f",
+	"symbol": "Childhoods End",
+	"name": "Childhoods End",
+	"coingecko": "childhoods-end",
+	"sources": [
+		"coingecko"
+	]
+}

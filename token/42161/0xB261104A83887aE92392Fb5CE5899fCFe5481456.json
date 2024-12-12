@@ -1,0 +1,11 @@
+{
+	"chain": 42161,
+	"address": "0xB261104A83887aE92392Fb5CE5899fCFe5481456",
+	"symbol": "NFTE",
+	"name": "NFTEarth",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xB261104A83887aE92392Fb5CE5899fCFe5481456.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

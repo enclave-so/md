@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x878fCC2bdccCFf8c56812607b9a58F29b274C4f0",
+	"symbol": "Derp Coin",
+	"name": "Derp Coin",
+	"coingecko": "derp-coin",
+	"sources": [
+		"coingecko"
+	]
+}

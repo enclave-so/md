@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x381caf412B45dAc0f62FBEeC89DE306D3eABE384",
+	"symbol": "DAO Invest",
+	"name": "DAO Invest",
+	"coingecko": "dao-invest",
+	"sources": [
+		"coingecko"
+	]
+}

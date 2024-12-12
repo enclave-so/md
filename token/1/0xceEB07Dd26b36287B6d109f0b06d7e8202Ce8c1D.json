@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xceEB07Dd26b36287B6d109f0b06d7e8202Ce8c1D",
+	"symbol": "Got Guaranteed",
+	"name": "Got Guaranteed",
+	"coingecko": "got-guaranteed",
+	"sources": [
+		"coingecko"
+	]
+}

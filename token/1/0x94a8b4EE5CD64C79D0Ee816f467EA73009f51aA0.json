@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x94a8b4EE5CD64C79D0Ee816f467EA73009f51aA0",
+	"symbol": "Realio Network Token",
+	"name": "Realio Network Token",
+	"coingecko": "realio-network",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x5e05F367a1923B2a886e2f2bC45c2278a0b9b448",
+	"symbol": "BRC20 BOT",
+	"name": "BRC20 BOT",
+	"coingecko": "brc20-bot",
+	"sources": [
+		"coingecko"
+	]
+}

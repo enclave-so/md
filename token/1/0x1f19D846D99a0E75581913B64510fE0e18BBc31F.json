@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x1f19D846D99a0E75581913B64510fE0e18BBc31F",
+	"symbol": "Feels Good Man",
+	"name": "Feels Good Man",
+	"coingecko": "feels-good-man-2",
+	"sources": [
+		"coingecko"
+	]
+}

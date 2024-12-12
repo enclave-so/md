@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x42a501903AFaa1086B5975773375c80E363f4063",
+	"symbol": "Cryptyk",
+	"name": "Cryptyk",
+	"coingecko": "cryptyk",
+	"sources": [
+		"coingecko"
+	]
+}

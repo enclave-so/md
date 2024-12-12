@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x3127294F1FD3C097eF31E54301069346B29D0209",
+	"symbol": "Blast Inu",
+	"name": "Blast Inu",
+	"coingecko": "blast-inu",
+	"sources": [
+		"coingecko"
+	]
+}

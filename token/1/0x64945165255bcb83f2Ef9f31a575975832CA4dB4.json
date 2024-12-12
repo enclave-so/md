@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x64945165255bcb83f2Ef9f31a575975832CA4dB4",
+	"symbol": "KAGE NETWORK",
+	"name": "KAGE NETWORK",
+	"coingecko": "kage-network",
+	"sources": [
+		"coingecko"
+	]
+}

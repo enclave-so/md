@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x667210a731447F8B385e068205759BE2311b86d4",
+	"symbol": "ETF The Token",
+	"name": "ETF The Token",
+	"coingecko": "etf-the-token",
+	"sources": [
+		"coingecko"
+	]
+}

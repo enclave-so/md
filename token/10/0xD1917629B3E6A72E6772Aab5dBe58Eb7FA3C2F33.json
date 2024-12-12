@@ -1,0 +1,11 @@
+{
+	"chain": 10,
+	"address": "0xD1917629B3E6A72E6772Aab5dBe58Eb7FA3C2F33",
+	"symbol": "ZRX",
+	"name": "0x Protocol Token",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/ZRX/logo.png",
+	"sources": [
+		"sushiswap"
+	]
+}

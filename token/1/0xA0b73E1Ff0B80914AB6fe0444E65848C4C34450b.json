@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0xA0b73E1Ff0B80914AB6fe0444E65848C4C34450b",
+	"symbol": "CRO",
+	"name": "Crypto.com Coin",
+	"decimals": 8,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/cro.jpg",
+	"coingecko": "crypto-com-chain",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

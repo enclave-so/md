@@ -1,0 +1,10 @@
+{
+	"chain": 39797,
+	"address": "0xF452bff8e958C6F335F06fC3aAc427Ee195366fE",
+	"symbol": "Gnosis",
+	"name": "Gnosis",
+	"coingecko": "gnosis",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x3505F494c3f0fed0B594E01Fa41Dd3967645ca39",
+	"symbol": "Swarm Network",
+	"name": "Swarm Network",
+	"coingecko": "swarm",
+	"sources": [
+		"coingecko"
+	]
+}

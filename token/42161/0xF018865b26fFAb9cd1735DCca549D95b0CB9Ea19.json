@@ -1,0 +1,11 @@
+{
+	"chain": 42161,
+	"address": "0xF018865b26fFAb9cd1735DCca549D95b0CB9Ea19",
+	"symbol": "jDPX",
+	"name": "Jones DPX",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xF018865b26fFAb9cd1735DCca549D95b0CB9Ea19.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

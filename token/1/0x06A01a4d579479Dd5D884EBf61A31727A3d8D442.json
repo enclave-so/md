@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x06A01a4d579479Dd5D884EBf61A31727A3d8D442",
+	"symbol": "Skey Network",
+	"name": "Skey Network",
+	"coingecko": "skey-network",
+	"sources": [
+		"coingecko"
+	]
+}

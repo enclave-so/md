@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xDC3326e71D45186F113a2F448984CA0e8D201995",
+	"symbol": "XSGD",
+	"name": "XSGD",
+	"coingecko": "xsgd",
+	"sources": [
+		"coingecko"
+	]
+}

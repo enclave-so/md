@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x329cf160F30D21006bCD24b67EAde561E54CDE4c",
+	"symbol": "CareCoin",
+	"name": "CareCoin",
+	"coingecko": "carecoin",
+	"sources": [
+		"coingecko"
+	]
+}

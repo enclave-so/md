@@ -1,0 +1,13 @@
+{
+	"chain": 11235,
+	"address": "0x12fEFEAc0568503F7C0D934c149f29a42B05C48f",
+	"symbol": "stISLM",
+	"name": "Stride staked ISLM",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/haqq/0x12fEFEAc0568503F7C0D934c149f29a42B05C48f",
+	"coingecko": "stride-staked-islm",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

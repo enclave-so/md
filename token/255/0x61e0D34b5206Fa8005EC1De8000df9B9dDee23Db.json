@@ -1,0 +1,10 @@
+{
+	"chain": 255,
+	"address": "0x61e0D34b5206Fa8005EC1De8000df9B9dDee23Db",
+	"symbol": "Kroma Staked ETH",
+	"name": "Kroma Staked ETH",
+	"coingecko": "kroma-staked-eth",
+	"sources": [
+		"coingecko"
+	]
+}

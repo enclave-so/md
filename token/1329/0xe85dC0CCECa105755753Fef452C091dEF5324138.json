@@ -1,0 +1,10 @@
+{
+	"chain": 1329,
+	"address": "0xe85dC0CCECa105755753Fef452C091dEF5324138",
+	"symbol": "Sake Inu",
+	"name": "Sake Inu",
+	"coingecko": "sake-inu",
+	"sources": [
+		"coingecko"
+	]
+}

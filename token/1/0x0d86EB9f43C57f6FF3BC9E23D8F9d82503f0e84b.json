@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x0d86EB9f43C57f6FF3BC9E23D8F9d82503f0e84b",
+	"symbol": "Maximus DAO",
+	"name": "Maximus DAO",
+	"coingecko": "maximus-dao",
+	"sources": [
+		"coingecko"
+	]
+}

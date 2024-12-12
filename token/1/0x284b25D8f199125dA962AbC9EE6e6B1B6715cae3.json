@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x284b25D8f199125dA962AbC9EE6e6B1B6715cae3",
+	"symbol": "Snap: first space coin",
+	"name": "Snap: first space coin",
+	"coingecko": "snap-first-space-coin",
+	"sources": [
+		"coingecko"
+	]
+}

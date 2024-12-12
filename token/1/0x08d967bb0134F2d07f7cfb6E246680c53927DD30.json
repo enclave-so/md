@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x08d967bb0134F2d07f7cfb6E246680c53927DD30",
+	"symbol": "MATH",
+	"name": "MATH",
+	"coingecko": "math",
+	"sources": [
+		"coingecko"
+	]
+}

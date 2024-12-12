@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xB2a63A5Dd36C91eC2DA59B188ff047F66fac122a",
+	"symbol": "Alpha Impact",
+	"name": "Alpha Impact",
+	"coingecko": "follow-token",
+	"sources": [
+		"coingecko"
+	]
+}

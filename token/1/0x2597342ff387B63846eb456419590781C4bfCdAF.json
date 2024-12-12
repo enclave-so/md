@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x2597342ff387B63846eb456419590781C4bfCdAF",
+	"symbol": "Robotaxi",
+	"name": "Robotaxi",
+	"coingecko": "robotaxi",
+	"sources": [
+		"coingecko"
+	]
+}

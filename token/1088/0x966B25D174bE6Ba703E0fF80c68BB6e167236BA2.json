@@ -1,0 +1,10 @@
+{
+	"chain": 1088,
+	"address": "0x966B25D174bE6Ba703E0fF80c68BB6e167236BA2",
+	"symbol": "Revenant",
+	"name": "Revenant",
+	"coingecko": "revenant",
+	"sources": [
+		"coingecko"
+	]
+}

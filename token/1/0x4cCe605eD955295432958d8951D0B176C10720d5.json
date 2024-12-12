@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x4cCe605eD955295432958d8951D0B176C10720d5",
+	"symbol": "Novatti Australian Digital Dollar",
+	"name": "Novatti Australian Digital Dollar",
+	"coingecko": "novatti-australian-digital-dollar",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x838C9634dE6590B96aEadC4Bc6DB5c28Fd17E3C2",
+	"symbol": "Matr1x Fire",
+	"name": "Matr1x Fire",
+	"coingecko": "matr1x-fire",
+	"sources": [
+		"coingecko"
+	]
+}

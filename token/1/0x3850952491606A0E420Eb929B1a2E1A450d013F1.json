@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x3850952491606A0E420Eb929B1a2E1A450d013F1",
+	"symbol": "PanoVerse",
+	"name": "PanoVerse",
+	"coingecko": "panoverse",
+	"sources": [
+		"coingecko"
+	]
+}

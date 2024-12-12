@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x3D0643F53f9ff86F11f8BC6FeE6E88AB7647F7cc",
+	"symbol": "Humanity Protocol DPLY",
+	"name": "Humanity Protocol DPLY",
+	"coingecko": "humanity-protocol-dply",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xc4506022Fb8090774E8A628d5084EED61D9B99Ee",
+	"symbol": "High Yield ETH Index",
+	"name": "High Yield ETH Index",
+	"coingecko": "high-yield-eth-index",
+	"sources": [
+		"coingecko"
+	]
+}

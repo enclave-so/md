@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x004E9C3EF86bc1ca1f0bB5C7662861Ee93350568",
+	"symbol": "Universal BTC",
+	"name": "Universal BTC",
+	"coingecko": "universal-btc",
+	"sources": [
+		"coingecko"
+	]
+}

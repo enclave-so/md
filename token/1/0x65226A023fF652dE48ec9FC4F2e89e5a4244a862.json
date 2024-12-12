@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x65226A023fF652dE48ec9FC4F2e89e5a4244a862",
+	"symbol": "NousAI",
+	"name": "NousAI",
+	"coingecko": "nousai",
+	"sources": [
+		"coingecko"
+	]
+}

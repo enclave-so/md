@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x23E8B6A3f6891254988B84Da3738D2bfe5E703b9",
+	"symbol": "Fabwelt",
+	"name": "Fabwelt",
+	"coingecko": "fabwelt",
+	"sources": [
+		"coingecko"
+	]
+}

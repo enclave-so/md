@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x8A13F32e2A556830F3A5e97a96Ae941abfcB1D5c",
+	"symbol": "THE LAND ELF Crossing",
+	"name": "THE LAND ELF Crossing",
+	"coingecko": "the-land-elf-crossing",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xf5ec1A08902Ae0aE5323466C35ea49A37409e4Ca",
+	"symbol": "SAKURA UNITED PLATFORM",
+	"name": "SAKURA UNITED PLATFORM",
+	"coingecko": "sakura-united-platform",
+	"sources": [
+		"coingecko"
+	]
+}

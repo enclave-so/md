@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0xd9ce64C200721a98103102f9ea8e894E347EA287",
+	"symbol": "ETC",
+	"name": "Ethereum Classic",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xd9ce64C200721a98103102f9ea8e894E347EA287.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xADe6FDAba1643E4D1eeF68Da7170F234470938c6",
+	"symbol": "Harambe",
+	"name": "Harambe",
+	"coingecko": "harambe",
+	"sources": [
+		"coingecko"
+	]
+}

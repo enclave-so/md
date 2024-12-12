@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xF7D75a5E807b5345Eb7aaB8CC9a2f9E2175eb88e",
+	"symbol": "Inu on ETH",
+	"name": "Inu on ETH",
+	"coingecko": "inu-on-eth",
+	"sources": [
+		"coingecko"
+	]
+}

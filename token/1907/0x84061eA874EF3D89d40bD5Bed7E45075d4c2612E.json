@@ -1,0 +1,10 @@
+{
+	"chain": 1907,
+	"address": "0x84061eA874EF3D89d40bD5Bed7E45075d4c2612E",
+	"symbol": "Adanaspor Fan Token",
+	"name": "Adanaspor Fan Token",
+	"coingecko": "adanaspor-fan-token",
+	"sources": [
+		"coingecko"
+	]
+}

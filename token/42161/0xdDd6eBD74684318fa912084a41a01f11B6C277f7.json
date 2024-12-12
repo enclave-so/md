@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0xdDd6eBD74684318fa912084a41a01f11B6C277f7",
+	"symbol": "WorkoutApp",
+	"name": "WorkoutApp",
+	"coingecko": "workoutapp",
+	"sources": [
+		"coingecko"
+	]
+}

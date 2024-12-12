@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0xF9CA0EC182a94f6231Df9b14BD147eF7Fb9FA17C",
+	"symbol": "BONER",
+	"name": "BONER",
+	"coingecko": "boner",
+	"sources": [
+		"coingecko"
+	]
+}

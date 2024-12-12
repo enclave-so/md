@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x42dbBd5ae373FEA2FC320F62d44C058522Bb3758",
+	"symbol": "Memecoin",
+	"name": "Memecoin",
+	"coingecko": "memecoin",
+	"sources": [
+		"coingecko"
+	]
+}

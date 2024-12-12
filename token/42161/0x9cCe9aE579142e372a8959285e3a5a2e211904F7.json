@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x9cCe9aE579142e372a8959285e3a5a2e211904F7",
+	"symbol": "DGWToken",
+	"name": "DGWToken",
+	"coingecko": "dgwtoken",
+	"sources": [
+		"coingecko"
+	]
+}

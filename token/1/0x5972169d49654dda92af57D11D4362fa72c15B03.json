@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x5972169d49654dda92af57D11D4362fa72c15B03",
+	"symbol": "Zegent AI",
+	"name": "Zegent AI",
+	"coingecko": "zegent-ai",
+	"sources": [
+		"coingecko"
+	]
+}

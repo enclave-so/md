@@ -1,0 +1,11 @@
+{
+	"chain": 122,
+	"address": "0x43B17749B246fd2a96DE25d9e4184E27E09765b0",
+	"symbol": "KNC",
+	"name": "Kyber Network Crystal",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/knc.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

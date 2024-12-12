@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x5AA7B9bE58D4001a7065718641cE7b121b41EF9B",
+	"symbol": "AlphPad",
+	"name": "AlphPad",
+	"coingecko": "alphpad",
+	"sources": [
+		"coingecko"
+	]
+}

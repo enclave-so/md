@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xB8BAa0e4287890a5F79863aB62b7F175ceCbD433",
+	"symbol": "Swerve",
+	"name": "Swerve",
+	"coingecko": "swerve-dao",
+	"sources": [
+		"coingecko"
+	]
+}

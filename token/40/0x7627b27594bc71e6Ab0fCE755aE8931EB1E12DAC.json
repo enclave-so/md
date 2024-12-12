@@ -1,0 +1,11 @@
+{
+	"chain": 40,
+	"address": "0x7627b27594bc71e6Ab0fCE755aE8931EB1E12DAC",
+	"symbol": "BTC.b",
+	"name": "Bitcoin",
+	"decimals": 8,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/telos/0x7627b27594bc71e6Ab0fCE755aE8931EB1E12DAC.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

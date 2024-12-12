@@ -1,0 +1,13 @@
+{
+	"chain": 137,
+	"address": "0xC25351811983818c9Fe6D8c580531819c8ADe90f",
+	"symbol": "IDLE",
+	"name": "Idle",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xC25351811983818c9Fe6D8c580531819c8ADe90f/logo.png",
+	"coingecko": "idle",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

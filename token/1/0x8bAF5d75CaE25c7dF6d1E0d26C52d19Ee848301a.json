@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x8bAF5d75CaE25c7dF6d1E0d26C52d19Ee848301a",
+	"symbol": "Catalorian",
+	"name": "Catalorian",
+	"coingecko": "catalorian",
+	"sources": [
+		"coingecko"
+	]
+}

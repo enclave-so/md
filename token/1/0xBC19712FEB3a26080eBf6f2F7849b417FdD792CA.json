@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xBC19712FEB3a26080eBf6f2F7849b417FdD792CA",
+	"symbol": "BoringDAO",
+	"name": "BoringDAO",
+	"coingecko": "boringdao",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"chain": 11235,
+	"address": "0xeC8CC083787c6e5218D86f9FF5f28d4cC377Ac54",
+	"symbol": "WISLM",
+	"name": "Wrapped Islamic Coin",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/haqq/0xeC8CC083787c6e5218D86f9FF5f28d4cC377Ac54.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

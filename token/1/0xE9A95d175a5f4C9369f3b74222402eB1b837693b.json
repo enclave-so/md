@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xE9A95d175a5f4C9369f3b74222402eB1b837693b",
+	"symbol": "ChangeNOW",
+	"name": "ChangeNOW",
+	"coingecko": "changenow",
+	"sources": [
+		"coingecko"
+	]
+}

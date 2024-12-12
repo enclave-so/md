@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x71297312753EA7A2570a5a3278eD70D9a75F4f44",
+	"symbol": "ETHEREUM IS GOOD",
+	"name": "ETHEREUM IS GOOD",
+	"coingecko": "ethereum-is-good",
+	"sources": [
+		"coingecko"
+	]
+}

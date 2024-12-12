@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x7bD44cF5c0566AAB26150A0cd5c3D20C5535686F",
+	"symbol": "Evil Pepe",
+	"name": "Evil Pepe",
+	"coingecko": "evil-pepe",
+	"sources": [
+		"coingecko"
+	]
+}

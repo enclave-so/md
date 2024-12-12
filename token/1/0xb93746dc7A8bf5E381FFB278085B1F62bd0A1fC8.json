@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xb93746dc7A8bf5E381FFB278085B1F62bd0A1fC8",
+	"symbol": "Sendex AI",
+	"name": "Sendex AI",
+	"coingecko": "sendex-ai",
+	"sources": [
+		"coingecko"
+	]
+}

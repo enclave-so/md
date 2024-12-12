@@ -1,0 +1,11 @@
+{
+	"chain": 42161,
+	"address": "0x1FAe2A29940015632f2a6CE006dFA7E3225515A7",
+	"symbol": "NIFLOKI",
+	"name": "Nitro Floki",
+	"decimals": 9,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x1FAe2A29940015632f2a6CE006dFA7E3225515A7.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"chain": 25,
+	"address": "0x7b42BbcEC77663147BC15B038830532A61FDA59b",
+	"symbol": "SCOOTER",
+	"name": "Scooter",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x7b42BbcEC77663147BC15B038830532A61FDA59b.jpg",
+	"coingecko": "scooter",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

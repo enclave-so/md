@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xe973E453977195422B48e1852A207b7eE9C913C7",
+	"symbol": "ADreward",
+	"name": "ADreward",
+	"coingecko": "adreward",
+	"sources": [
+		"coingecko"
+	]
+}

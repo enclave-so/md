@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x137dDB47Ee24EaA998a535Ab00378d6BFa84F893",
+	"symbol": "Radiant Capital",
+	"name": "Radiant Capital",
+	"coingecko": "radiant-capital",
+	"sources": [
+		"coingecko"
+	]
+}

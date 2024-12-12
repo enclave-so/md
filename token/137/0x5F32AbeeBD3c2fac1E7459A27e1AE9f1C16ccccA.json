@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x5F32AbeeBD3c2fac1E7459A27e1AE9f1C16ccccA",
+	"symbol": "FARCANA",
+	"name": "FARCANA",
+	"coingecko": "farcana",
+	"sources": [
+		"coingecko"
+	]
+}

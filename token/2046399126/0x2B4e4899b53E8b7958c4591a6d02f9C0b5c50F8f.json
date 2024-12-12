@@ -1,0 +1,11 @@
+{
+	"chain": 2046399126,
+	"address": "0x2B4e4899b53E8b7958c4591a6d02f9C0b5c50F8f",
+	"symbol": "RUBY",
+	"name": "RubyToken",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/skale-europa/0x2B4e4899b53E8b7958c4591a6d02f9C0b5c50F8f.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

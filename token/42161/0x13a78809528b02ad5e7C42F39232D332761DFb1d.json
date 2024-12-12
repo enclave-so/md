@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x13a78809528b02ad5e7C42F39232D332761DFb1d",
+	"symbol": "Parifi WETH",
+	"name": "Parifi WETH",
+	"coingecko": "parifi-weth",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0xa61F74247455A40b01b0559ff6274441FAfa22A3",
+	"symbol": "Magpie",
+	"name": "Magpie",
+	"coingecko": "magpie",
+	"sources": [
+		"coingecko"
+	]
+}

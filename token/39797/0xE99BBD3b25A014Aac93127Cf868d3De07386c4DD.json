@@ -1,0 +1,10 @@
+{
+	"chain": 39797,
+	"address": "0xE99BBD3b25A014Aac93127Cf868d3De07386c4DD",
+	"symbol": "Polymath",
+	"name": "Polymath",
+	"coingecko": "polymath",
+	"sources": [
+		"coingecko"
+	]
+}

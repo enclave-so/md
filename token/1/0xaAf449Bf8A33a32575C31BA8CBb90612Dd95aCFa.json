@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xaAf449Bf8A33a32575C31BA8CBb90612Dd95aCFa",
+	"symbol": "MBD Financials",
+	"name": "MBD Financials",
+	"coingecko": "mbd-financials",
+	"sources": [
+		"coingecko"
+	]
+}

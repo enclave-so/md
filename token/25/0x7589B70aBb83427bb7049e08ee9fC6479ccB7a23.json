@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0x7589B70aBb83427bb7049e08ee9fC6479ccB7a23",
+	"symbol": "BCH",
+	"name": "Bitcoin Cash",
+	"decimals": 8,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x7589B70aBb83427bb7049e08ee9fC6479ccB7a23.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"chain": 42161,
+	"address": "0xB41bd4C99dA73510d9e081C5FADBE7A27Ac1F814",
+	"symbol": "IMO",
+	"name": "Ideamarket",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/arbitrum/assets/0xB41bd4C99dA73510d9e081C5FADBE7A27Ac1F814/logo.png",
+	"sources": [
+		"sushiswap"
+	]
+}

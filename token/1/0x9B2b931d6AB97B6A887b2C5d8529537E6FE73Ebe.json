@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x9B2b931d6AB97B6A887b2C5d8529537E6FE73Ebe",
+	"symbol": "All In",
+	"name": "All In",
+	"coingecko": "all-in",
+	"sources": [
+		"coingecko"
+	]
+}

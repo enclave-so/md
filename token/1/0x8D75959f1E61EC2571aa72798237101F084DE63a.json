@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x8D75959f1E61EC2571aa72798237101F084DE63a",
+	"symbol": "Substratum",
+	"name": "Substratum",
+	"coingecko": "substratum",
+	"sources": [
+		"coingecko"
+	]
+}

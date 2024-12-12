@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xe9bC9AD74CCa887Aff32ba09a121B1256fC9f052",
+	"symbol": "Pigcoin",
+	"name": "Pigcoin",
+	"coingecko": "pigcoin-2",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x42b91f1d05afeA671a2dA3c780eDa2aBf0A2A366",
+	"symbol": "Mineable",
+	"name": "Mineable",
+	"coingecko": "mineable",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 25,
+	"address": "0x50aa2611004B3252030Cc95E9c5A2a44DFED9983",
+	"symbol": "Crononymous",
+	"name": "Crononymous",
+	"coingecko": "crononymous",
+	"sources": [
+		"coingecko"
+	]
+}

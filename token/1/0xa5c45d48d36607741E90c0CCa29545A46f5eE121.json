@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xa5c45d48d36607741E90c0CCa29545A46f5eE121",
+	"symbol": "Chiba Wan",
+	"name": "Chiba Wan",
+	"coingecko": "chiba-wan",
+	"sources": [
+		"coingecko"
+	]
+}

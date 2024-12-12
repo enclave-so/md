@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xCa530408C3e552b020a2300DebC7Bd18820fB42F",
+	"symbol": "RyuJin",
+	"name": "RyuJin",
+	"coingecko": "ryujin",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xf058501585023d040eA9493134ED72C083553eED",
+	"symbol": "Dymmax",
+	"name": "Dymmax",
+	"coingecko": "dymmax",
+	"sources": [
+		"coingecko"
+	]
+}

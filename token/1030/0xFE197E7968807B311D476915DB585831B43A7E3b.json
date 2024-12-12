@@ -1,0 +1,10 @@
+{
+	"chain": 1030,
+	"address": "0xFE197E7968807B311D476915DB585831B43A7E3b",
+	"symbol": "Nucleon",
+	"name": "Nucleon",
+	"coingecko": "nucleon-space",
+	"sources": [
+		"coingecko"
+	]
+}

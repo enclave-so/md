@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xf25304e75026E6a35FEDcA3B0889aE5c4D3C55D8",
+	"symbol": "Viridis Network",
+	"name": "Viridis Network",
+	"coingecko": "viridis-network",
+	"sources": [
+		"coingecko"
+	]
+}

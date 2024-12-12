@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x7AA2f174fBC4D0a17B34adFB9b3E1DC029B46d76",
+	"symbol": "RADA Foundation",
+	"name": "RADA Foundation",
+	"coingecko": "rada-foundation",
+	"sources": [
+		"coingecko"
+	]
+}

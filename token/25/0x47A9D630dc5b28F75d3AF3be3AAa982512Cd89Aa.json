@@ -1,0 +1,13 @@
+{
+	"chain": 25,
+	"address": "0x47A9D630dc5b28F75d3AF3be3AAa982512Cd89Aa",
+	"symbol": "ARGO",
+	"name": "Argo Protocol",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x47A9D630dc5b28F75d3AF3be3AAa982512Cd89Aa.jpg",
+	"coingecko": "argo-finance",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

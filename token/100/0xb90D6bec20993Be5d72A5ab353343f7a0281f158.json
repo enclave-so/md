@@ -1,0 +1,10 @@
+{
+	"chain": 100,
+	"address": "0xb90D6bec20993Be5d72A5ab353343f7a0281f158",
+	"symbol": "DXdao",
+	"name": "DXdao",
+	"coingecko": "dxdao",
+	"sources": [
+		"coingecko"
+	]
+}

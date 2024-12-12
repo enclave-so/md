@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x4ac623237DE0Aa622b4fDF4Da63cf97216371Acf",
+	"symbol": "alXAI",
+	"name": "alXAI",
+	"coingecko": "alxai",
+	"sources": [
+		"coingecko"
+	]
+}

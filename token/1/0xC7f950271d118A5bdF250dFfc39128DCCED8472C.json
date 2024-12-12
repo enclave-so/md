@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xC7f950271d118A5bdF250dFfc39128DCCED8472C",
+	"symbol": "Chainback",
+	"name": "Chainback",
+	"coingecko": "chainback",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0x3b484b82567a09e2588A13D54D032153f0c0aEe0",
+	"symbol": "SOS",
+	"name": "OpenDao SOS",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x3b484b82567a09e2588A13D54D032153f0c0aEe0/logo.png",
+	"coingecko": "opendao",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

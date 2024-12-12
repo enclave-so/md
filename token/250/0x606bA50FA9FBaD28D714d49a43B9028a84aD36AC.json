@@ -1,0 +1,10 @@
+{
+	"chain": 250,
+	"address": "0x606bA50FA9FBaD28D714d49a43B9028a84aD36AC",
+	"symbol": "Bug Cat",
+	"name": "Bug Cat",
+	"coingecko": "bug-cat",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x6c249b6F6492864d914361308601A7aBb32E68f8",
+	"symbol": "Brillion",
+	"name": "Brillion",
+	"coingecko": "dua-token",
+	"sources": [
+		"coingecko"
+	]
+}

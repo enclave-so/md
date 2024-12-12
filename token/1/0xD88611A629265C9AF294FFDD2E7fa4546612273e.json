@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xD88611A629265C9AF294FFDD2E7fa4546612273e",
+	"symbol": "Metapro",
+	"name": "Metapro",
+	"coingecko": "mpro-lab",
+	"sources": [
+		"coingecko"
+	]
+}

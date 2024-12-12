@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x51cB253744189f11241becb29BeDd3F1b5384fdB",
+	"symbol": "Dimitra",
+	"name": "Dimitra",
+	"coingecko": "dimitra",
+	"sources": [
+		"coingecko"
+	]
+}

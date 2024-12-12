@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x5Aa158404fEd6b4730C13F49d3a7F820e14A636F",
+	"symbol": "ULTRON",
+	"name": "ULTRON",
+	"coingecko": "ultron",
+	"sources": [
+		"coingecko"
+	]
+}

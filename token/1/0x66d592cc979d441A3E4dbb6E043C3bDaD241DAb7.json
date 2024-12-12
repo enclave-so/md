@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0x66d592cc979d441A3E4dbb6E043C3bDaD241DAb7",
+	"symbol": "ZERO",
+	"name": "Zero Money",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x66d592cc979d441A3E4dbb6E043C3bDaD241DAb7.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

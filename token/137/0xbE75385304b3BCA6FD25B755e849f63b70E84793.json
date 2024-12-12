@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xbE75385304b3BCA6FD25B755e849f63b70E84793",
+	"symbol": "Second World Games",
+	"name": "Second World Games",
+	"coingecko": "second-world-games",
+	"sources": [
+		"coingecko"
+	]
+}

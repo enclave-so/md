@@ -1,0 +1,10 @@
+{
+	"chain": 324,
+	"address": "0x60143F39b54a731aC790708c8719211878e638C3",
+	"symbol": "Pepera",
+	"name": "Pepera",
+	"coingecko": "pepera",
+	"sources": [
+		"coingecko"
+	]
+}

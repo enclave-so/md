@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x5ca83216Fae72717332469E6A2eb28c4BF9AF9ec",
+	"symbol": "0xCalls",
+	"name": "0xCalls",
+	"coingecko": "callhub",
+	"sources": [
+		"coingecko"
+	]
+}

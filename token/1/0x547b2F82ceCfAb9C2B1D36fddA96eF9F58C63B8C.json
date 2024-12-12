@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x547b2F82ceCfAb9C2B1D36fddA96eF9F58C63B8C",
+	"symbol": "Taxa Network",
+	"name": "Taxa Network",
+	"coingecko": "taxa-token",
+	"sources": [
+		"coingecko"
+	]
+}

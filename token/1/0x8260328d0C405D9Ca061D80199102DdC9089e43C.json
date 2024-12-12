@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x8260328d0C405D9Ca061D80199102DdC9089e43C",
+	"symbol": "Dojo Supercomputer",
+	"name": "Dojo Supercomputer",
+	"coingecko": "dojo-supercomputer",
+	"sources": [
+		"coingecko"
+	]
+}

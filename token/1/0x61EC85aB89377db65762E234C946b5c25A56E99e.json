@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x61EC85aB89377db65762E234C946b5c25A56E99e",
+	"symbol": "HTX DAO",
+	"name": "HTX DAO",
+	"coingecko": "htx-dao",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x82F13aB56Cc0D1b727E8253a943f0DE75B048b0B",
+	"symbol": "PlayFi",
+	"name": "PlayFi",
+	"coingecko": "playfi",
+	"sources": [
+		"coingecko"
+	]
+}

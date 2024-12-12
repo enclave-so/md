@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xaD913DCD987fE54cE823E4b755F90598Cd62bb15",
+	"symbol": "MFERS",
+	"name": "MFERS",
+	"coingecko": "mfers",
+	"sources": [
+		"coingecko"
+	]
+}

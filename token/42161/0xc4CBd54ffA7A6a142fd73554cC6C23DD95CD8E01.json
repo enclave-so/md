@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0xc4CBd54ffA7A6a142fd73554cC6C23DD95CD8E01",
+	"symbol": "$GAME Token",
+	"name": "$GAME Token",
+	"coingecko": "sportsology-game",
+	"sources": [
+		"coingecko"
+	]
+}

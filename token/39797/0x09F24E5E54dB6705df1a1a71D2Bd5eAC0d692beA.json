@@ -1,0 +1,10 @@
+{
+	"chain": 39797,
+	"address": "0x09F24E5E54dB6705df1a1a71D2Bd5eAC0d692beA",
+	"symbol": "Keep3rV1",
+	"name": "Keep3rV1",
+	"coingecko": "keep3rv1",
+	"sources": [
+		"coingecko"
+	]
+}

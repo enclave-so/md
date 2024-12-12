@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x9e5BD9D9fAd182ff0A93bA8085b664bcab00fA68",
+	"symbol": "Dinger",
+	"name": "Dinger",
+	"coingecko": "dinger-token",
+	"sources": [
+		"coingecko"
+	]
+}

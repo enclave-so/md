@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x33f391F4c4fE802b70B77AE37670037A92114A7c",
+	"symbol": "Burp",
+	"name": "Burp",
+	"coingecko": "burp",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0x31B595e7cfDB624D10A3E7A562eD98c3567e3865",
+	"symbol": "stZEN",
+	"name": "stakedZEN",
+	"decimals": 8,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/stzen.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

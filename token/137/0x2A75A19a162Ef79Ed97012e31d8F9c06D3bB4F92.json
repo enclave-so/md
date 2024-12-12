@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x2A75A19a162Ef79Ed97012e31d8F9c06D3bB4F92",
+	"symbol": "Poldo",
+	"name": "Poldo",
+	"coingecko": "poldo",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xdDa7b23D2D72746663E7939743f929a3d85FC975",
+	"symbol": "AdEx",
+	"name": "AdEx",
+	"coingecko": "adex",
+	"sources": [
+		"coingecko"
+	]
+}

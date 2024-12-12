@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0x81749e7258f9e577f61f49ABeeB426b70F561b89",
+	"symbol": "PAXG",
+	"name": "PAX Gold",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x81749e7258f9e577f61f49ABeeB426b70F561b89.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

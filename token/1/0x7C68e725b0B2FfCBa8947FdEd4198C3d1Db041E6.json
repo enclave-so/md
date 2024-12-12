@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x7C68e725b0B2FfCBa8947FdEd4198C3d1Db041E6",
+	"symbol": "Pongo",
+	"name": "Pongo",
+	"coingecko": "pongo",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xB6dc73987848bA6CB3ce297562723C1A78f85Fce",
+	"symbol": "Borzoi Coin",
+	"name": "Borzoi Coin",
+	"coingecko": "borzoi-coin",
+	"sources": [
+		"coingecko"
+	]
+}

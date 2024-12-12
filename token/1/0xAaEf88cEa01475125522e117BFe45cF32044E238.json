@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xAaEf88cEa01475125522e117BFe45cF32044E238",
+	"symbol": "GuildFi",
+	"name": "GuildFi",
+	"coingecko": "guildfi",
+	"sources": [
+		"coingecko"
+	]
+}

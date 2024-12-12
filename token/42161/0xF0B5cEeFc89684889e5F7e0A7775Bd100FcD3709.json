@@ -1,0 +1,11 @@
+{
+	"chain": 42161,
+	"address": "0xF0B5cEeFc89684889e5F7e0A7775Bd100FcD3709",
+	"symbol": "DUSD",
+	"name": "DigitalDollar",
+	"decimals": 6,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xF0B5cEeFc89684889e5F7e0A7775Bd100FcD3709/logo.png",
+	"sources": [
+		"sushiswap"
+	]
+}

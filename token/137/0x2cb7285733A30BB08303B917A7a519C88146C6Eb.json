@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x2cb7285733A30BB08303B917A7a519C88146C6Eb",
+	"symbol": "KUMA Protocol FR KUMA Interest Bearing Token",
+	"name": "KUMA Protocol FR KUMA Interest Bearing Token",
+	"coingecko": "kuma-protocol-fr-kuma-interest-bearing-token",
+	"sources": [
+		"coingecko"
+	]
+}

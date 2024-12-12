@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xd19b72e027cD66bDe41d8f60a13740A26C4be8f3",
+	"symbol": "SUI Agents",
+	"name": "SUI Agents",
+	"coingecko": "sui-agents",
+	"sources": [
+		"coingecko"
+	]
+}

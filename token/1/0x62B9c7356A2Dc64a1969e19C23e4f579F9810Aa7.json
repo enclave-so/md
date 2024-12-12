@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0x62B9c7356A2Dc64a1969e19C23e4f579F9810Aa7",
+	"symbol": "cvxCRV",
+	"name": "Convex CRV",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/cvxcrv.jpg",
+	"coingecko": "convex-crv",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

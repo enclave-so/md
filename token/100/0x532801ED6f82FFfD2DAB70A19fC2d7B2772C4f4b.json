@@ -1,0 +1,10 @@
+{
+	"chain": 100,
+	"address": "0x532801ED6f82FFfD2DAB70A19fC2d7B2772C4f4b",
+	"symbol": "Swapr",
+	"name": "Swapr",
+	"coingecko": "swapr",
+	"sources": [
+		"coingecko"
+	]
+}

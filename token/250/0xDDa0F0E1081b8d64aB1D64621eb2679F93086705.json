@@ -1,0 +1,10 @@
+{
+	"chain": 250,
+	"address": "0xDDa0F0E1081b8d64aB1D64621eb2679F93086705",
+	"symbol": "Diamond Coin",
+	"name": "Diamond Coin",
+	"coingecko": "diamond-coin",
+	"sources": [
+		"coingecko"
+	]
+}

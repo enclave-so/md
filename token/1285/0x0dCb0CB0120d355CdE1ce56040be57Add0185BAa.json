@@ -1,0 +1,11 @@
+{
+	"chain": 1285,
+	"address": "0x0dCb0CB0120d355CdE1ce56040be57Add0185BAa",
+	"symbol": "anyLINK",
+	"name": "ChainLink Token - AnySwap",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/link.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1907,
+	"address": "0x6B1A4491076ceBb2B4676cfDA063173b10684312",
+	"symbol": "VRMARS",
+	"name": "VRMARS",
+	"coingecko": "vrmars",
+	"sources": [
+		"coingecko"
+	]
+}

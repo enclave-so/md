@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0xea986d33eF8a20A96120ecc44dBdD49830192043",
+	"symbol": "Auctus",
+	"name": "Auctus",
+	"coingecko": "auctus",
+	"sources": [
+		"coingecko"
+	]
+}

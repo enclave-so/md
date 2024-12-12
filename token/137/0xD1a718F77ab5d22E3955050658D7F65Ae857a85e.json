@@ -1,0 +1,13 @@
+{
+	"chain": 137,
+	"address": "0xD1a718F77ab5d22E3955050658D7F65Ae857a85e",
+	"symbol": "fxSAIL",
+	"name": "SAIL Token (FXERC20)",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0xD1a718F77ab5d22E3955050658D7F65Ae857a85e.jpg",
+	"coingecko": "sail-2",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

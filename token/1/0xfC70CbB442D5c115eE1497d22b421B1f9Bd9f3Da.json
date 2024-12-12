@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xfC70CbB442D5c115eE1497d22b421B1f9Bd9f3Da",
+	"symbol": "Biblical Truth",
+	"name": "Biblical Truth",
+	"coingecko": "biblical-truth",
+	"sources": [
+		"coingecko"
+	]
+}

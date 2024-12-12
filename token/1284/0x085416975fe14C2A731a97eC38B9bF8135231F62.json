@@ -1,0 +1,11 @@
+{
+	"chain": 1284,
+	"address": "0x085416975fe14C2A731a97eC38B9bF8135231F62",
+	"symbol": "UST",
+	"name": "TerraUSD",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/ust.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

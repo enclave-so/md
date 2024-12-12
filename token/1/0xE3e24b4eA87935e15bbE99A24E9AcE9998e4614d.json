@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xE3e24b4eA87935e15bbE99A24E9AcE9998e4614d",
+	"symbol": "Aidi Finance",
+	"name": "Aidi Finance",
+	"coingecko": "aidi-finance-2",
+	"sources": [
+		"coingecko"
+	]
+}

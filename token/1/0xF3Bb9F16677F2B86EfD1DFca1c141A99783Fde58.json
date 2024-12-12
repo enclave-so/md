@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xF3Bb9F16677F2B86EfD1DFca1c141A99783Fde58",
+	"symbol": "Crown Token",
+	"name": "Crown Token",
+	"coingecko": "crown-token-77469f91-69f6-44dd-b356-152e2c39c0cc",
+	"sources": [
+		"coingecko"
+	]
+}

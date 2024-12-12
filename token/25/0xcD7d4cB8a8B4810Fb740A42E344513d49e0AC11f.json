@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0xcD7d4cB8a8B4810Fb740A42E344513d49e0AC11f",
+	"symbol": "FITFI",
+	"name": "Step App",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xcD7d4cB8a8B4810Fb740A42E344513d49e0AC11f.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

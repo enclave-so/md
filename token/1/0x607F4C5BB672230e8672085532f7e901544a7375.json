@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0x607F4C5BB672230e8672085532f7e901544a7375",
+	"symbol": "RLC",
+	"name": "RLC",
+	"decimals": 9,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/rlc.jpg",
+	"coingecko": "iexec-rlc",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

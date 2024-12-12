@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0xd27FC10235E41Ba8c70652Ed833460949Ed2B882",
+	"symbol": "IRIS",
+	"name": "IRISnet",
+	"decimals": 6,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xd27FC10235E41Ba8c70652Ed833460949Ed2B882.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

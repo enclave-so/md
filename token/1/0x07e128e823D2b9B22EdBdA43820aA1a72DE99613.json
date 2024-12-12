@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x07e128e823D2b9B22EdBdA43820aA1a72DE99613",
+	"symbol": "Host AI",
+	"name": "Host AI",
+	"coingecko": "host-ai",
+	"sources": [
+		"coingecko"
+	]
+}

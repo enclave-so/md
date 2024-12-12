@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x11EBe21e9d7BF541A18e1E3aC94939018Ce88F0b",
+	"symbol": "Pitch FXS",
+	"name": "Pitch FXS",
+	"coingecko": "pitch-fxs",
+	"sources": [
+		"coingecko"
+	]
+}

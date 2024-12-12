@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x7FBc10850caE055B27039aF31bD258430e714c62",
+	"symbol": "Unibright",
+	"name": "Unibright",
+	"coingecko": "unibright",
+	"sources": [
+		"coingecko"
+	]
+}

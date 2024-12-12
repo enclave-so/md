@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0xfF9620d9F80F80056cbE4Bb84403a9E9C5174213",
+	"symbol": "YGG",
+	"name": "Yield Guild Games Token",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xfF9620d9F80F80056cbE4Bb84403a9E9C5174213.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

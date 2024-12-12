@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0x16aD43896f7C47a5d9Ee546c44A22205738B329c",
+	"symbol": "UNI",
+	"name": "Uniswap",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x16aD43896f7C47a5d9Ee546c44A22205738B329c.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

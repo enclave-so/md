@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x00282FD551D03dC033256C4bf119532e8C735D8a",
+	"symbol": "Biaocoin",
+	"name": "Biaocoin",
+	"coingecko": "biaocoin",
+	"sources": [
+		"coingecko"
+	]
+}

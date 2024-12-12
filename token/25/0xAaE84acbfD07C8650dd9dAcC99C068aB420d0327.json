@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0xAaE84acbfD07C8650dd9dAcC99C068aB420d0327",
+	"symbol": "BONE",
+	"name": "BONE",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xAaE84acbfD07C8650dd9dAcC99C068aB420d0327.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

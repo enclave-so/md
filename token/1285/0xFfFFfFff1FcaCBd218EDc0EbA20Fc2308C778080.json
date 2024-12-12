@@ -1,0 +1,13 @@
+{
+	"chain": 1285,
+	"address": "0xFfFFfFff1FcaCBd218EDc0EbA20Fc2308C778080",
+	"symbol": "xcKSM",
+	"name": "xcKSM",
+	"decimals": 12,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/moonriver/0xFfFFfFff1FcaCBd218EDc0EbA20Fc2308C778080.jpg",
+	"coingecko": "xcksm",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

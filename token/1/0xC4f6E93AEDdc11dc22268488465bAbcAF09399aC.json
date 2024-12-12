@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xC4f6E93AEDdc11dc22268488465bAbcAF09399aC",
+	"symbol": "hi Dollar",
+	"name": "hi Dollar",
+	"coingecko": "hi-dollar",
+	"sources": [
+		"coingecko"
+	]
+}

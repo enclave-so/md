@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xab306326bC72c2335Bd08F42cbec383691eF8446",
+	"symbol": "PPizza",
+	"name": "PPizza",
+	"coingecko": "ppizza",
+	"sources": [
+		"coingecko"
+	]
+}

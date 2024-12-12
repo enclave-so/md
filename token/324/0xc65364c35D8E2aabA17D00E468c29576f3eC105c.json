@@ -1,0 +1,10 @@
+{
+	"chain": 324,
+	"address": "0xc65364c35D8E2aabA17D00E468c29576f3eC105c",
+	"symbol": "Beany",
+	"name": "Beany",
+	"coingecko": "beany",
+	"sources": [
+		"coingecko"
+	]
+}

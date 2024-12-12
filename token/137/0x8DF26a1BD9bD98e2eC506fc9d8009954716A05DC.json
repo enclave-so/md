@@ -1,0 +1,11 @@
+{
+	"chain": 137,
+	"address": "0x8DF26a1BD9bD98e2eC506fc9d8009954716A05DC",
+	"symbol": "COLLAR",
+	"name": "PolyPup Finance",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x8DF26a1BD9bD98e2eC506fc9d8009954716A05DC/logo.png",
+	"sources": [
+		"sushiswap"
+	]
+}

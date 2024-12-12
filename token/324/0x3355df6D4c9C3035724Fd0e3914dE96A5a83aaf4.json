@@ -1,0 +1,13 @@
+{
+	"chain": 324,
+	"address": "0x3355df6D4c9C3035724Fd0e3914dE96A5a83aaf4",
+	"symbol": "USDC",
+	"name": "USD Coin",
+	"decimals": 6,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/zksync-era/0x3355df6D4c9C3035724Fd0e3914dE96A5a83aaf4.jpg",
+	"coingecko": "zksync-bridged-usdc-zksync",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

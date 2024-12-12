@@ -1,0 +1,10 @@
+{
+	"chain": 324,
+	"address": "0x7715c206A14Ac93Cb1A6c0316A6E5f8aD7c9Dc31",
+	"symbol": "Mountain Protocol USD",
+	"name": "Mountain Protocol USD",
+	"coingecko": "mountain-protocol-usdm",
+	"sources": [
+		"coingecko"
+	]
+}

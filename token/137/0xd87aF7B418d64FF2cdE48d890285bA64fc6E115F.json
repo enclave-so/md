@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xd87aF7B418d64FF2cdE48d890285bA64fc6E115F",
+	"symbol": "Dtec token",
+	"name": "Dtec token",
+	"coingecko": "dtec-token",
+	"sources": [
+		"coingecko"
+	]
+}

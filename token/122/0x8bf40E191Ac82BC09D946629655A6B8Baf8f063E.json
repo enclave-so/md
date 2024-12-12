@@ -1,0 +1,10 @@
+{
+	"chain": 122,
+	"address": "0x8bf40E191Ac82BC09D946629655A6B8Baf8f063E",
+	"symbol": "Renzo Restaked ETH (Fuse)",
+	"name": "Renzo Restaked ETH (Fuse)",
+	"coingecko": "renzo-restaked-eth-fuse",
+	"sources": [
+		"coingecko"
+	]
+}

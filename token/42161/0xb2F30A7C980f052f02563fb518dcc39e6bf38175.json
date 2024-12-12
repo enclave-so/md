@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0xb2F30A7C980f052f02563fb518dcc39e6bf38175",
+	"symbol": "Synthetix USDx",
+	"name": "Synthetix USDx",
+	"coingecko": "synthetix-usdx",
+	"sources": [
+		"coingecko"
+	]
+}

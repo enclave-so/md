@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x973E00Eee6d180b5A0Eb08cE3047AC4eA7A45CD5",
+	"symbol": "TOTO",
+	"name": "TOTO",
+	"coingecko": "toto",
+	"sources": [
+		"coingecko"
+	]
+}

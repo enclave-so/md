@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x8b9b95292f890DF47fFf5aC9Cbe93d5fC242bd51",
+	"symbol": "BeFi Labs",
+	"name": "BeFi Labs",
+	"coingecko": "befi-labs",
+	"sources": [
+		"coingecko"
+	]
+}

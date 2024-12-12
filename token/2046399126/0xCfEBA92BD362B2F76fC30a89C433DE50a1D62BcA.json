@@ -1,0 +1,13 @@
+{
+	"chain": 2046399126,
+	"address": "0xCfEBA92BD362B2F76fC30a89C433DE50a1D62BcA",
+	"symbol": "EXD",
+	"name": "Exorde Network Token",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/skale-europa/0xCfEBA92BD362B2F76fC30a89C433DE50a1D62BcA.jpg",
+	"coingecko": "exorde",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

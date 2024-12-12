@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x6286A9e6f7e745A6D884561D88F94542d6715698",
+	"symbol": "Cryptomeda",
+	"name": "Cryptomeda",
+	"coingecko": "cryptomeda",
+	"sources": [
+		"coingecko"
+	]
+}

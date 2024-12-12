@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xf65B5C5104c4faFD4b709d9D60a185eAE063276c",
+	"symbol": "Truebit Protocol",
+	"name": "Truebit Protocol",
+	"coingecko": "truebit-protocol",
+	"sources": [
+		"coingecko"
+	]
+}

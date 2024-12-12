@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xdA30f261a962d5AAe94C9ecd170544600d193766",
+	"symbol": "Orbler",
+	"name": "Orbler",
+	"coingecko": "orbler",
+	"sources": [
+		"coingecko"
+	]
+}

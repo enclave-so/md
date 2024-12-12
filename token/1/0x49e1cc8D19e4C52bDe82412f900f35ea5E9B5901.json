@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x49e1cc8D19e4C52bDe82412f900f35ea5E9B5901",
+	"symbol": "TAOVM",
+	"name": "TAOVM",
+	"coingecko": "taovm",
+	"sources": [
+		"coingecko"
+	]
+}

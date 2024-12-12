@@ -1,0 +1,10 @@
+{
+	"chain": 100009,
+	"address": "0x0CE6661b4ba86a0EA7cA2Bd86a0De87b0B860F14",
+	"symbol": "OceanEX",
+	"name": "OceanEX",
+	"coingecko": "oceanex",
+	"sources": [
+		"coingecko"
+	]
+}

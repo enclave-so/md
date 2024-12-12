@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0x5a56509C61ad80680caF5b3B980E6C88319eeE33",
+	"symbol": "OMG",
+	"name": "OMG Network",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x5a56509C61ad80680caF5b3B980E6C88319eeE33.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

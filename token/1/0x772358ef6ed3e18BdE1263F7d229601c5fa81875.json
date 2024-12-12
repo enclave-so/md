@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x772358ef6ed3e18BdE1263F7d229601c5fa81875",
+	"symbol": "SNPad",
+	"name": "SNPad",
+	"coingecko": "snpad",
+	"sources": [
+		"coingecko"
+	]
+}

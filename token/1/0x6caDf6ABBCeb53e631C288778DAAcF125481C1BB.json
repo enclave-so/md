@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x6caDf6ABBCeb53e631C288778DAAcF125481C1BB",
+	"symbol": "The Citadel",
+	"name": "The Citadel",
+	"coingecko": "the-citadel",
+	"sources": [
+		"coingecko"
+	]
+}

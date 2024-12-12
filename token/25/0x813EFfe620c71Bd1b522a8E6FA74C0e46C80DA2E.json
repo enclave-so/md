@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0x813EFfe620c71Bd1b522a8E6FA74C0e46C80DA2E",
+	"symbol": "BOSON",
+	"name": "Boson Protocol",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x813EFfe620c71Bd1b522a8E6FA74C0e46C80DA2E.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

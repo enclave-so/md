@@ -1,0 +1,10 @@
+{
+	"chain": 388,
+	"address": "0x66b1E42B2D5bce3D701Efa3c86Cc334d80cEEfaB",
+	"symbol": "AMPLY",
+	"name": "AMPLY",
+	"coingecko": "amply",
+	"sources": [
+		"coingecko"
+	]
+}

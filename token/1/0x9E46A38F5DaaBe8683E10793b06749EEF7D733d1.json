@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x9E46A38F5DaaBe8683E10793b06749EEF7D733d1",
+	"symbol": "PolySwarm",
+	"name": "PolySwarm",
+	"coingecko": "polyswarm",
+	"sources": [
+		"coingecko"
+	]
+}

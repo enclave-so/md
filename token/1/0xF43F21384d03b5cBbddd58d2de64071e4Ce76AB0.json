@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xF43F21384d03b5cBbddd58d2de64071e4Ce76AB0",
+	"symbol": "GigaChad",
+	"name": "GigaChad",
+	"coingecko": "gigachad-eth",
+	"sources": [
+		"coingecko"
+	]
+}

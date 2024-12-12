@@ -1,0 +1,10 @@
+{
+	"chain": 2000,
+	"address": "0x765277EebeCA2e31912C9946eAe1021199B39C61",
+	"symbol": "Multichain Bridged USDC (Dogechain)",
+	"name": "Multichain Bridged USDC (Dogechain)",
+	"coingecko": "multichain-bridged-usdc-dogechain",
+	"sources": [
+		"coingecko"
+	]
+}

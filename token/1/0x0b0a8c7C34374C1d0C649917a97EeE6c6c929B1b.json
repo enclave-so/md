@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x0b0a8c7C34374C1d0C649917a97EeE6c6c929B1b",
+	"symbol": "Shiba V Pepe",
+	"name": "Shiba V Pepe",
+	"coingecko": "shiba-v-pepe",
+	"sources": [
+		"coingecko"
+	]
+}

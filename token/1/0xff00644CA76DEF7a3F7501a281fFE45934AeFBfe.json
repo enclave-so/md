@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xff00644CA76DEF7a3F7501a281fFE45934AeFBfe",
+	"symbol": "Shadow Wizard Money Gang",
+	"name": "Shadow Wizard Money Gang",
+	"coingecko": "shadow-wizard-money-gang",
+	"sources": [
+		"coingecko"
+	]
+}

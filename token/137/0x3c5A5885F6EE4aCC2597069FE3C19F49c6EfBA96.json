@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x3c5A5885F6EE4aCC2597069FE3C19F49c6EfBA96",
+	"symbol": "Krida Fans",
+	"name": "Krida Fans",
+	"coingecko": "krida-fans",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 33139,
+	"address": "0xf8Efb9FeBF77d265b8b6Cb5DE6Dd0D9dC5591856",
+	"symbol": "A Trippy Ape",
+	"name": "A Trippy Ape",
+	"coingecko": "a-trippy-ape",
+	"sources": [
+		"coingecko"
+	]
+}

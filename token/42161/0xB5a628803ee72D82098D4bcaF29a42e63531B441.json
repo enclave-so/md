@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0xB5a628803ee72D82098D4bcaF29a42e63531B441",
+	"symbol": "Unstoppable DeFi",
+	"name": "Unstoppable DeFi",
+	"coingecko": "unstoppable-defi",
+	"sources": [
+		"coingecko"
+	]
+}

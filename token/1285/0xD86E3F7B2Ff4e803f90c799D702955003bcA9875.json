@@ -1,0 +1,10 @@
+{
+	"chain": 1285,
+	"address": "0xD86E3F7B2Ff4e803f90c799D702955003bcA9875",
+	"symbol": "Templar DAO",
+	"name": "Templar DAO",
+	"coingecko": "templardao",
+	"sources": [
+		"coingecko"
+	]
+}

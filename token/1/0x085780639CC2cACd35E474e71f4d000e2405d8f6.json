@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x085780639CC2cACd35E474e71f4d000e2405d8f6",
+	"symbol": "f(x) Protocol fxUSD",
+	"name": "f(x) Protocol fxUSD",
+	"coingecko": "f-x-protocol-fxusd",
+	"sources": [
+		"coingecko"
+	]
+}

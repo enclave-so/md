@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x7340eA46360576DC46Ef49bcE99Bc5072c32421d",
+	"symbol": "DollarSqueeze",
+	"name": "DollarSqueeze",
+	"coingecko": "dollarsqueeze",
+	"sources": [
+		"coingecko"
+	]
+}

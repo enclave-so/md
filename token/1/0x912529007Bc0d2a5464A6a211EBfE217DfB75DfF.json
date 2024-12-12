@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x912529007Bc0d2a5464A6a211EBfE217DfB75DfF",
+	"symbol": "Cadence Protocol",
+	"name": "Cadence Protocol",
+	"coingecko": "cadence-protocol",
+	"sources": [
+		"coingecko"
+	]
+}

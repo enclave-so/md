@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x1735Db6AB5BAa19eA55d0AdcEeD7bcDc008B3136",
+	"symbol": "UREEQA",
+	"name": "UREEQA",
+	"coingecko": "ureeqa",
+	"sources": [
+		"coingecko"
+	]
+}

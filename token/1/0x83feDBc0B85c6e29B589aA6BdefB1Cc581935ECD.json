@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x83feDBc0B85c6e29B589aA6BdefB1Cc581935ECD",
+	"symbol": "Re.al US T-Bill",
+	"name": "Re.al US T-Bill",
+	"coingecko": "real-us-t-bill",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x5dA151B95657e788076D04d56234Bd93e409CB09",
+	"symbol": "OTSea",
+	"name": "OTSea",
+	"coingecko": "otsea",
+	"sources": [
+		"coingecko"
+	]
+}

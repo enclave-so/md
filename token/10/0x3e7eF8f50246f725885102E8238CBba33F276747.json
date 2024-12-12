@@ -1,0 +1,13 @@
+{
+	"chain": 10,
+	"address": "0x3e7eF8f50246f725885102E8238CBba33F276747",
+	"symbol": "BOND",
+	"name": "BarnBridge Governance Token",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/BOND/logo.svg",
+	"coingecko": "barnbridge",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

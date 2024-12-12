@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xEB7eaB87837f4Dad1bb80856db9E4506Fc441f3D",
+	"symbol": "Medieval Empires",
+	"name": "Medieval Empires",
+	"coingecko": "medieval-empires",
+	"sources": [
+		"coingecko"
+	]
+}

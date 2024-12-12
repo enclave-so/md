@@ -1,0 +1,13 @@
+{
+	"chain": 10,
+	"address": "0xF98dCd95217E15E05d8638da4c91125E59590B07",
+	"symbol": "KROM",
+	"name": "Kromatika",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/KROM/logo.png",
+	"coingecko": "kromatika",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

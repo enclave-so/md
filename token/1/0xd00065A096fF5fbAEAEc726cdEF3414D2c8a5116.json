@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xd00065A096fF5fbAEAEc726cdEF3414D2c8a5116",
+	"symbol": "Emotional Support Dog",
+	"name": "Emotional Support Dog",
+	"coingecko": "emotional-support-dog",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x37fE0f067FA808fFBDd12891C0858532CFE7361d",
+	"symbol": "Civilization",
+	"name": "Civilization",
+	"coingecko": "civilization",
+	"sources": [
+		"coingecko"
+	]
+}

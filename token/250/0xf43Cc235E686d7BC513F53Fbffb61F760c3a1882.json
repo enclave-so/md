@@ -1,0 +1,10 @@
+{
+	"chain": 250,
+	"address": "0xf43Cc235E686d7BC513F53Fbffb61F760c3a1882",
+	"symbol": "ftm.guru",
+	"name": "ftm.guru",
+	"coingecko": "ftm-guru",
+	"sources": [
+		"coingecko"
+	]
+}

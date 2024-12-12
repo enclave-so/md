@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x4AdE2b180f65ed752B6F1296d0418AD21eb578C0",
+	"symbol": "Kekistan",
+	"name": "Kekistan",
+	"coingecko": "kekistan",
+	"sources": [
+		"coingecko"
+	]
+}

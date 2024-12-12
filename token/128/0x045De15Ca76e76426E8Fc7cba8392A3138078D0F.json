@@ -1,0 +1,13 @@
+{
+	"chain": 128,
+	"address": "0x045De15Ca76e76426E8Fc7cba8392A3138078D0F",
+	"symbol": "BAL",
+	"name": "Heco-Peg BAL Token",
+	"decimals": 18,
+	"logo": "https://hecoinfo.com/images/main/empty-token.png",
+	"coingecko": "balancer",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

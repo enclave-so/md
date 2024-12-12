@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x1bF7Fd22709733cCD7c45AB27Dd02C7EC8E50078",
+	"symbol": "Quiztok",
+	"name": "Quiztok",
+	"coingecko": "quiztok",
+	"sources": [
+		"coingecko"
+	]
+}

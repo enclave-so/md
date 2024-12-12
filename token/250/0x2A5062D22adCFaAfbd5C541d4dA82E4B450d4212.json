@@ -1,0 +1,13 @@
+{
+	"chain": 250,
+	"address": "0x2A5062D22adCFaAfbd5C541d4dA82E4B450d4212",
+	"symbol": "KP3R",
+	"name": "Keep3r",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/kp3r.jpg",
+	"coingecko": "keep3rv1",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

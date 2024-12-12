@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x3d2b66BC4f9D6388BD2d97B95b565BE1686aEfB3",
+	"symbol": "$LAMBO",
+	"name": "$LAMBO",
+	"coingecko": "lambo-0fcbf0f7-1a8f-470d-ba09-797d5e95d836",
+	"sources": [
+		"coingecko"
+	]
+}

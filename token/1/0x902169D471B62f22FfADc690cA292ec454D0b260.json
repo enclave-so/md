@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x902169D471B62f22FfADc690cA292ec454D0b260",
+	"symbol": "Reboot World",
+	"name": "Reboot World",
+	"coingecko": "reboot-world",
+	"sources": [
+		"coingecko"
+	]
+}

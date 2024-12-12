@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x8Eb94A06b4716093DBfE335cbdb098DEb2dcdE1b",
+	"symbol": "Half Shiba Inu",
+	"name": "Half Shiba Inu",
+	"coingecko": "half-shiba-inu",
+	"sources": [
+		"coingecko"
+	]
+}

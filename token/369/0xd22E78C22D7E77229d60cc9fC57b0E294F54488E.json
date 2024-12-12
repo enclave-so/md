@@ -1,0 +1,10 @@
+{
+	"chain": 369,
+	"address": "0xd22E78C22D7E77229d60cc9fC57b0E294F54488E",
+	"symbol": "Hocus Pocus Finance",
+	"name": "Hocus Pocus Finance",
+	"coingecko": "hocus-pocus-finance",
+	"sources": [
+		"coingecko"
+	]
+}

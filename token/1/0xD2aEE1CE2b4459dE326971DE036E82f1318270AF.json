@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xD2aEE1CE2b4459dE326971DE036E82f1318270AF",
+	"symbol": "21.co Wrapped DOGE",
+	"name": "21.co Wrapped DOGE",
+	"coingecko": "wrapped-doge-21-co",
+	"sources": [
+		"coingecko"
+	]
+}

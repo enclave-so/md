@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xC0BC84e95864BdfDCd1CCFB8A3AA522E79Ca1410",
+	"symbol": "bitcoin (2015 Wrapper) (Meme)",
+	"name": "bitcoin (2015 Wrapper) (Meme)",
+	"coingecko": "bitcoin-2015-wrapper-meme",
+	"sources": [
+		"coingecko"
+	]
+}

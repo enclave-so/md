@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xbe042e9d09CB588331Ff911c2B46FD833A3E5bd6",
+	"symbol": "Pepe Token",
+	"name": "Pepe Token",
+	"coingecko": "pepe-token",
+	"sources": [
+		"coingecko"
+	]
+}

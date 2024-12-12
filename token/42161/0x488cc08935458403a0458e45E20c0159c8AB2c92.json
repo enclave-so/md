@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x488cc08935458403a0458e45E20c0159c8AB2c92",
+	"symbol": "Futureswap",
+	"name": "Futureswap",
+	"coingecko": "futureswap",
+	"sources": [
+		"coingecko"
+	]
+}

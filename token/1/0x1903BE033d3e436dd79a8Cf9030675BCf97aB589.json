@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x1903BE033d3e436dd79a8Cf9030675BCf97aB589",
+	"symbol": "Beşiktaş",
+	"name": "Beşiktaş",
+	"coingecko": "besiktas",
+	"sources": [
+		"coingecko"
+	]
+}

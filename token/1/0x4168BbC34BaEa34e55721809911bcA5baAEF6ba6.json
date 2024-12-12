@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x4168BbC34BaEa34e55721809911bcA5baAEF6ba6",
+	"symbol": "CEREAL",
+	"name": "CEREAL",
+	"coingecko": "dodreamchain",
+	"sources": [
+		"coingecko"
+	]
+}

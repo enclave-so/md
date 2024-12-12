@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x16CC8367055aE7e9157DBcB9d86Fd6CE82522b31",
+	"symbol": "Voxel X Network",
+	"name": "Voxel X Network",
+	"coingecko": "voxel-x-network",
+	"sources": [
+		"coingecko"
+	]
+}

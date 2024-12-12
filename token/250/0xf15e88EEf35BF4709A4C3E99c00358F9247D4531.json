@@ -1,0 +1,11 @@
+{
+	"chain": 250,
+	"address": "0xf15e88EEf35BF4709A4C3E99c00358F9247D4531",
+	"symbol": "fSILVER",
+	"name": "fSilver",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/fsilver.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

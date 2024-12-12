@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x8bC3eC2E7973E64be582a90b08caDd13457160fE",
+	"symbol": "ShadowGold",
+	"name": "ShadowGold",
+	"coingecko": "shadowfi-2",
+	"sources": [
+		"coingecko"
+	]
+}

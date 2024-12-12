@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x571E21a545842C6CE596663cdA5CaA8196AC1c7A",
+	"symbol": "Champignons of Arborethia",
+	"name": "Champignons of Arborethia",
+	"coingecko": "champignons-of-arborethia",
+	"sources": [
+		"coingecko"
+	]
+}

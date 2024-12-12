@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0xB965029343D55189c25a7f3e0c9394DC0F5D41b1",
+	"symbol": "Indexed Finance",
+	"name": "Indexed Finance",
+	"coingecko": "indexed-finance",
+	"sources": [
+		"coingecko"
+	]
+}

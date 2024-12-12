@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x8E4d27d772099e18900CAF5Dcc36Cb612DcEE886",
+	"symbol": "Architex",
+	"name": "Architex",
+	"coingecko": "architex",
+	"sources": [
+		"coingecko"
+	]
+}

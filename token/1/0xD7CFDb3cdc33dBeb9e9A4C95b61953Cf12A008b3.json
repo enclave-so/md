@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xD7CFDb3cdc33dBeb9e9A4C95b61953Cf12A008b3",
+	"symbol": "Bruh",
+	"name": "Bruh",
+	"coingecko": "bruh-2",
+	"sources": [
+		"coingecko"
+	]
+}

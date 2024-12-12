@@ -1,0 +1,10 @@
+{
+	"chain": 369,
+	"address": "0x6cF99BAA0a4d079F960216d08cf9a1Bc7e4dd37C",
+	"symbol": "EazySwap Token",
+	"name": "EazySwap Token",
+	"coingecko": "eazyswap-token",
+	"sources": [
+		"coingecko"
+	]
+}

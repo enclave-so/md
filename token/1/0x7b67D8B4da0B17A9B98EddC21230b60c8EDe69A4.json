@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x7b67D8B4da0B17A9B98EddC21230b60c8EDe69A4",
+	"symbol": "Zulu Network",
+	"name": "Zulu Network",
+	"coingecko": "zulu-network",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x4BDCb66B968060D9390C1D12bd29734496205581",
+	"symbol": "Acquire.Fi",
+	"name": "Acquire.Fi",
+	"coingecko": "acquire-fi",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xb5cE43fE2fcFfFfb2EeCE95EC413d08Def28046F",
+	"symbol": "PepElon",
+	"name": "PepElon",
+	"coingecko": "pepelon-token",
+	"sources": [
+		"coingecko"
+	]
+}

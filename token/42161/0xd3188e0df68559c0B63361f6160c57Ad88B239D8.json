@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0xd3188e0df68559c0B63361f6160c57Ad88B239D8",
+	"symbol": "Astra DAO",
+	"name": "Astra DAO",
+	"coingecko": "astra-dao-2",
+	"sources": [
+		"coingecko"
+	]
+}

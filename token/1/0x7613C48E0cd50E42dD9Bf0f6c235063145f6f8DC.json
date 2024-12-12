@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0x7613C48E0cd50E42dD9Bf0f6c235063145f6f8DC",
+	"symbol": "PIRATE",
+	"name": "Pirate Nation Token",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x7613C48E0cd50E42dD9Bf0f6c235063145f6f8DC.jpg",
+	"coingecko": "pirate-token",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0x01e0E2e61f554eCAaeC0cC933E739Ad90f24a86d",
+	"symbol": "GTON",
+	"name": "Graviton",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x01e0E2e61f554eCAaeC0cC933E739Ad90f24a86d.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

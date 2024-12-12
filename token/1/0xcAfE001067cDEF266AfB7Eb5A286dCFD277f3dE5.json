@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0xcAfE001067cDEF266AfB7Eb5A286dCFD277f3dE5",
+	"symbol": "PSP",
+	"name": "ParaSwap",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xcAfE001067cDEF266AfB7Eb5A286dCFD277f3dE5/logo.png",
+	"coingecko": "paraswap",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

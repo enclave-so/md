@@ -1,0 +1,10 @@
+{
+	"chain": 39797,
+	"address": "0x0F46Fe95a8d6573990118AEE8b7AC9A3532f5963",
+	"symbol": "Energi Dollar",
+	"name": "Energi Dollar",
+	"coingecko": "energi-dollar",
+	"sources": [
+		"coingecko"
+	]
+}

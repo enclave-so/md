@@ -1,0 +1,10 @@
+{
+	"chain": 128,
+	"address": "0x910651F81a605a6Ef35d05527d24A72fecef8bF0",
+	"symbol": "WeStarter",
+	"name": "WeStarter",
+	"coingecko": "westarter",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"chain": 1284,
+	"address": "0x931715FEE2d06333043d11F658C8CE934aC61D0c",
+	"symbol": "wh.USDC",
+	"name": "USD Coin (Wormhole)",
+	"decimals": 6,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/moonbeam/0x931715FEE2d06333043d11F658C8CE934aC61D0c.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

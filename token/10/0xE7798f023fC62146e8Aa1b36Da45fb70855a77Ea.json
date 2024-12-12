@@ -1,0 +1,11 @@
+{
+	"chain": 10,
+	"address": "0xE7798f023fC62146e8Aa1b36Da45fb70855a77Ea",
+	"symbol": "UMA",
+	"name": "UMA Voting Token v1",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/UMA/logo.png",
+	"sources": [
+		"sushiswap"
+	]
+}

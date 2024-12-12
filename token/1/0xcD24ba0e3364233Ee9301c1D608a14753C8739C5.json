@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xcD24ba0e3364233Ee9301c1D608a14753C8739C5",
+	"symbol": "DeepSouth AI",
+	"name": "DeepSouth AI",
+	"coingecko": "deepsouth-ai",
+	"sources": [
+		"coingecko"
+	]
+}

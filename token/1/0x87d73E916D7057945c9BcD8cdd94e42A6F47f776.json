@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0x87d73E916D7057945c9BcD8cdd94e42A6F47f776",
+	"symbol": "NFTX",
+	"name": "NFTX",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x87d73E916D7057945c9BcD8cdd94e42A6F47f776/logo.png",
+	"coingecko": "nftx",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

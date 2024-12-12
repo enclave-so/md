@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x0B63C61bba4a876a6eB8b5e596800F7649A9B71E",
+	"symbol": "Sector",
+	"name": "Sector",
+	"coingecko": "sector",
+	"sources": [
+		"coingecko"
+	]
+}

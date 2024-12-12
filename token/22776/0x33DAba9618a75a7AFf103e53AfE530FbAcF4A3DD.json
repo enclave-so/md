@@ -1,0 +1,10 @@
+{
+	"chain": 22776,
+	"address": "0x33DAba9618a75a7AFf103e53AfE530FbAcF4A3DD",
+	"symbol": "Mapped USDT",
+	"name": "Mapped USDT",
+	"coingecko": "mapped-usdt",
+	"sources": [
+		"coingecko"
+	]
+}

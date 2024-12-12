@@ -1,0 +1,10 @@
+{
+	"chain": 10,
+	"address": "0x17Aabf6838a6303fc6E9C5A227DC1EB6d95c829A",
+	"symbol": "Magicaltux",
+	"name": "Magicaltux",
+	"coingecko": "magicaltux",
+	"sources": [
+		"coingecko"
+	]
+}

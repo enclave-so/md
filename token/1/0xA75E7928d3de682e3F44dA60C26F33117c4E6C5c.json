@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xA75E7928d3de682e3F44dA60C26F33117c4E6C5c",
+	"symbol": "Propel",
+	"name": "Propel",
+	"coingecko": "propel-token",
+	"sources": [
+		"coingecko"
+	]
+}

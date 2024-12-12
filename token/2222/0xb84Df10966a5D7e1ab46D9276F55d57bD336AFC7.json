@@ -1,0 +1,10 @@
+{
+	"chain": 2222,
+	"address": "0xb84Df10966a5D7e1ab46D9276F55d57bD336AFC7",
+	"symbol": "MAI (Kava)",
+	"name": "MAI (Kava)",
+	"coingecko": "mai-kava",
+	"sources": [
+		"coingecko"
+	]
+}

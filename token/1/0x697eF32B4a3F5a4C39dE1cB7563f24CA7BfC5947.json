@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x697eF32B4a3F5a4C39dE1cB7563f24CA7BfC5947",
+	"symbol": "Insula",
+	"name": "Insula",
+	"coingecko": "insula",
+	"sources": [
+		"coingecko"
+	]
+}

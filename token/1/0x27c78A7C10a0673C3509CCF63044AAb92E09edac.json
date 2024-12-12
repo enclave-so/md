@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x27c78A7C10a0673C3509CCF63044AAb92E09edac",
+	"symbol": "Butterfly Ai",
+	"name": "Butterfly Ai",
+	"coingecko": "butterfly-ai",
+	"sources": [
+		"coingecko"
+	]
+}

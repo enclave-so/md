@@ -1,0 +1,13 @@
+{
+	"chain": 2222,
+	"address": "0x765277EebeCA2e31912C9946eAe1021199B39C61",
+	"symbol": "anyDAI",
+	"name": "Dai Stablecoin",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/dai.jpg",
+	"coingecko": "multichain-bridged-dai-kava",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

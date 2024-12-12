@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xAE3359ed3c567482FB0102C584c23daA2693eACf",
+	"symbol": "DORK",
+	"name": "DORK",
+	"coingecko": "dork",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x8a6ACA71A218301c7081d4e96D64292D3B275ce0",
+	"symbol": "S.Finance",
+	"name": "S.Finance",
+	"coingecko": "s-finance",
+	"sources": [
+		"coingecko"
+	]
+}

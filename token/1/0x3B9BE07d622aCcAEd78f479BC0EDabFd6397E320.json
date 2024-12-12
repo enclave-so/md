@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x3B9BE07d622aCcAEd78f479BC0EDabFd6397E320",
+	"symbol": "Lossless",
+	"name": "Lossless",
+	"coingecko": "lossless",
+	"sources": [
+		"coingecko"
+	]
+}

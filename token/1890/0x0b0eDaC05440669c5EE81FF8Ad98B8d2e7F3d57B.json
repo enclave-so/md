@@ -1,0 +1,10 @@
+{
+	"chain": 1890,
+	"address": "0x0b0eDaC05440669c5EE81FF8Ad98B8d2e7F3d57B",
+	"symbol": "Bridged Chainlink (Lightlink)",
+	"name": "Bridged Chainlink (Lightlink)",
+	"coingecko": "bridged-chainlink-lightlink",
+	"sources": [
+		"coingecko"
+	]
+}

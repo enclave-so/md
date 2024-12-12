@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0xEaEA1a708DaB6f732E35F06588293204318ac48F",
+	"symbol": "RNDR",
+	"name": "Render Token",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xEaEA1a708DaB6f732E35F06588293204318ac48F.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

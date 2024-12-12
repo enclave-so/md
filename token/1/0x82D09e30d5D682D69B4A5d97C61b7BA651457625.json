@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x82D09e30d5D682D69B4A5d97C61b7BA651457625",
+	"symbol": "Token Name Service",
+	"name": "Token Name Service",
+	"coingecko": "token-name-service",
+	"sources": [
+		"coingecko"
+	]
+}

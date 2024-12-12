@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x66761Fa41377003622aEE3c7675Fc7b5c1C2FaC5",
+	"symbol": "Clearpool",
+	"name": "Clearpool",
+	"coingecko": "clearpool",
+	"sources": [
+		"coingecko"
+	]
+}

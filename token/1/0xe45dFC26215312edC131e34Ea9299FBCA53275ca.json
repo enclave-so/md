@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xe45dFC26215312edC131e34Ea9299FBCA53275ca",
+	"symbol": "Relation Native Token",
+	"name": "Relation Native Token",
+	"coingecko": "relation-native-token",
+	"sources": [
+		"coingecko"
+	]
+}

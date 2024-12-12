@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xc691bc298a304d591Ad9b352c7A8D216dE9f2CED",
+	"symbol": "Polaris Share",
+	"name": "Polaris Share",
+	"coingecko": "polaris-share",
+	"sources": [
+		"coingecko"
+	]
+}

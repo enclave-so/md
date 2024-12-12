@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x4092678e4E78230F46A1534C0fbc8fA39780892B",
+	"symbol": "Odyssey",
+	"name": "Odyssey",
+	"coingecko": "odyssey",
+	"sources": [
+		"coingecko"
+	]
+}

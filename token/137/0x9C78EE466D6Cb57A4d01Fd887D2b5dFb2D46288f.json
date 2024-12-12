@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x9C78EE466D6Cb57A4d01Fd887D2b5dFb2D46288f",
+	"symbol": "Must",
+	"name": "Must",
+	"coingecko": "must",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x3540abE4f288B280A0740ad5121aEc337c404D15",
+	"symbol": "TPRO Network",
+	"name": "TPRO Network",
+	"coingecko": "tpro",
+	"sources": [
+		"coingecko"
+	]
+}

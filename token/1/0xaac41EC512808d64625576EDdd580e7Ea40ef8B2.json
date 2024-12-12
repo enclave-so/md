@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xaac41EC512808d64625576EDdd580e7Ea40ef8B2",
+	"symbol": "Gameswap",
+	"name": "Gameswap",
+	"coingecko": "gameswap-org",
+	"sources": [
+		"coingecko"
+	]
+}

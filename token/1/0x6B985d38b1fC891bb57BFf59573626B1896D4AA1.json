@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x6B985d38b1fC891bb57BFf59573626B1896D4AA1",
+	"symbol": "Fido",
+	"name": "Fido",
+	"coingecko": "fido",
+	"sources": [
+		"coingecko"
+	]
+}

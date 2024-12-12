@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xE72B141DF173b999AE7c1aDcbF60Cc9833Ce56a8",
+	"symbol": "ETHPlus",
+	"name": "ETHPlus",
+	"coingecko": "reserve-protocol-eth-plus",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xDD14C9059A5ebA25a41997efc106ce0A9664b53a",
+	"symbol": "Healthmedi",
+	"name": "Healthmedi",
+	"coingecko": "healthmedi",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x3BE7bF1A5F23BD8336787D0289B70602f1940875",
+	"symbol": "VIDT DAO",
+	"name": "VIDT DAO",
+	"coingecko": "vidt-dao",
+	"sources": [
+		"coingecko"
+	]
+}

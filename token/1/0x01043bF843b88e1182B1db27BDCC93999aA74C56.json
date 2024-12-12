@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x01043bF843b88e1182B1db27BDCC93999aA74C56",
+	"symbol": "TAOTools",
+	"name": "TAOTools",
+	"coingecko": "taotools",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xFE67A4450907459c3e1FFf623aA927dD4e28c67a",
+	"symbol": "Everclear",
+	"name": "Everclear",
+	"coingecko": "connext",
+	"sources": [
+		"coingecko"
+	]
+}

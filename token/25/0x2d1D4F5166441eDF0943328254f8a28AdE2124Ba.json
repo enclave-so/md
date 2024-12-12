@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0x2d1D4F5166441eDF0943328254f8a28AdE2124Ba",
+	"symbol": "WEMIX",
+	"name": "WEMIX",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x2d1D4F5166441eDF0943328254f8a28AdE2124Ba.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

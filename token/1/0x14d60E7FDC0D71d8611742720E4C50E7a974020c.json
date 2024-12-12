@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x14d60E7FDC0D71d8611742720E4C50E7a974020c",
+	"symbol": "Superstate USCC",
+	"name": "Superstate USCC",
+	"coingecko": "superstate-uscc",
+	"sources": [
+		"coingecko"
+	]
+}

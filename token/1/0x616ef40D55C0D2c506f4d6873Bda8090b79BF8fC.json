@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x616ef40D55C0D2c506f4d6873Bda8090b79BF8fC",
+	"symbol": "Kounotori",
+	"name": "Kounotori",
+	"coingecko": "kounotori",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x2dE509bf0014ddF697b220bE628213034d320EcE",
+	"symbol": "Don't Buy Inu",
+	"name": "Don't Buy Inu",
+	"coingecko": "don-t-buy-inu",
+	"sources": [
+		"coingecko"
+	]
+}

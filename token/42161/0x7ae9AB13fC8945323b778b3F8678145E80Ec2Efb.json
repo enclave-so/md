@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x7ae9AB13fC8945323b778b3F8678145E80Ec2Efb",
+	"symbol": "WorldBrain Coin",
+	"name": "WorldBrain Coin",
+	"coingecko": "worldbrain-coin",
+	"sources": [
+		"coingecko"
+	]
+}

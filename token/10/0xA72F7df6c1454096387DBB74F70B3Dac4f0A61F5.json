@@ -1,0 +1,10 @@
+{
+	"chain": 10,
+	"address": "0xA72F7df6c1454096387DBB74F70B3Dac4f0A61F5",
+	"symbol": "Aktionariat Carnault AG Tokenized Shares",
+	"name": "Aktionariat Carnault AG Tokenized Shares",
+	"coingecko": "aktionariat-carnault-ag-tokenized-shares",
+	"sources": [
+		"coingecko"
+	]
+}

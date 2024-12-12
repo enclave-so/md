@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x73B62d93928CE20392dD96Df5061c41E734BcDA5",
+	"symbol": "INN",
+	"name": "INN",
+	"coingecko": "inn",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 10,
+	"address": "0xc02b55bB2Fe3643E1955b13515396cE23B110f80",
+	"symbol": "Aktionariat Axelra Early Stage AG Tokenized Shares",
+	"name": "Aktionariat Axelra Early Stage AG Tokenized Shares",
+	"coingecko": "aktionariat-axelra-early-stage-ag-tokenized-shares",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x1bFCe574dEFf725A3f483C334b790E25c8FA9779",
+	"symbol": "Tao Ceτi",
+	"name": "Tao Ceτi",
+	"coingecko": "tao-ceti",
+	"sources": [
+		"coingecko"
+	]
+}

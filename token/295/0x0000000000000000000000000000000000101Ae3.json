@@ -1,0 +1,10 @@
+{
+	"chain": 295,
+	"address": "0x0000000000000000000000000000000000101Ae3",
+	"symbol": "Bridged USDC (Hashport)",
+	"name": "Bridged USDC (Hashport)",
+	"coingecko": "heliswap-bridged-usdc-hts",
+	"sources": [
+		"coingecko"
+	]
+}

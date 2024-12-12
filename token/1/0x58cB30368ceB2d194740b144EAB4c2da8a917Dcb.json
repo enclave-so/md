@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x58cB30368ceB2d194740b144EAB4c2da8a917Dcb",
+	"symbol": "ZynCoin",
+	"name": "ZynCoin",
+	"coingecko": "zyncoin-2",
+	"sources": [
+		"coingecko"
+	]
+}

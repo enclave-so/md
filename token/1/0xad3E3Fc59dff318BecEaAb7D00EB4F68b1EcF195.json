@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0xad3E3Fc59dff318BecEaAb7D00EB4F68b1EcF195",
+	"symbol": "WCUSD",
+	"name": "Wrapped Celo Dollar",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xad3E3Fc59dff318BecEaAb7D00EB4F68b1EcF195/logo.png",
+	"sources": [
+		"sushiswap"
+	]
+}

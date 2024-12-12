@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xCE176825AFC335d9759cB4e323eE8b31891DE747",
+	"symbol": "CHWY",
+	"name": "CHWY",
+	"coingecko": "chwy",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x87904bE82BC1C29E94a0b99474d183B4e08a7E47",
+	"symbol": "AICM Marketplace",
+	"name": "AICM Marketplace",
+	"coingecko": "aicm-marketplace",
+	"sources": [
+		"coingecko"
+	]
+}

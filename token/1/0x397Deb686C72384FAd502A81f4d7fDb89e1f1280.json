@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x397Deb686C72384FAd502A81f4d7fDb89e1f1280",
+	"symbol": "XELS",
+	"name": "XELS",
+	"coingecko": "xels",
+	"sources": [
+		"coingecko"
+	]
+}

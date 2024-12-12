@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x0880164084017b8d49Baa0A33F545aD55914E9Fd",
+	"symbol": "DT Inu",
+	"name": "DT Inu",
+	"coingecko": "dt-inu",
+	"sources": [
+		"coingecko"
+	]
+}

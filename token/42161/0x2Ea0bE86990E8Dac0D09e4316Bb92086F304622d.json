@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x2Ea0bE86990E8Dac0D09e4316Bb92086F304622d",
+	"symbol": "TheStandard USD",
+	"name": "TheStandard USD",
+	"coingecko": "thestandard-usd",
+	"sources": [
+		"coingecko"
+	]
+}

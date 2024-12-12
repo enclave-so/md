@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xdd0f28e19C1780eb6396170735D45153D261490d",
+	"symbol": "Gauntlet USDC Prime Morpho Vault",
+	"name": "Gauntlet USDC Prime Morpho Vault",
+	"coingecko": "gauntlet-usdc-prime-morpho-vault",
+	"sources": [
+		"coingecko"
+	]
+}

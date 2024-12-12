@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xADEB98a12b2CdFBDb45Cdd2274a369E79A7002e0",
+	"symbol": "QuantCheck",
+	"name": "QuantCheck",
+	"coingecko": "quantcheck",
+	"sources": [
+		"coingecko"
+	]
+}

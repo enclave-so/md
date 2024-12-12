@@ -1,0 +1,10 @@
+{
+	"chain": 321,
+	"address": "0x00eE2d494258D6C5A30d6B6472A09b27121Ef451",
+	"symbol": "Staked KCS",
+	"name": "Staked KCS",
+	"coingecko": "staked-kcs",
+	"sources": [
+		"coingecko"
+	]
+}

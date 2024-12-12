@@ -1,0 +1,13 @@
+{
+	"chain": 128,
+	"address": "0x854Bb58fDDa85F20b5aB20B20d888f0554c02560",
+	"symbol": "DMC",
+	"name": "Decentralized Mining Coin",
+	"decimals": 18,
+	"logo": "https://hecoinfo.com/images/main/empty-token.png",
+	"coingecko": "decentralized-mining-exchange",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

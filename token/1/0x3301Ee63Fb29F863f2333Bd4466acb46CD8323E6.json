@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x3301Ee63Fb29F863f2333Bd4466acb46CD8323E6",
+	"symbol": "Akita Inu",
+	"name": "Akita Inu",
+	"coingecko": "akita-inu",
+	"sources": [
+		"coingecko"
+	]
+}

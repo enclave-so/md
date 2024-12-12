@@ -1,0 +1,10 @@
+{
+	"chain": 199,
+	"address": "0xE467F79E9869757DD818DfB8535068120F6BcB97",
+	"symbol": "Bridged Kyber Network Crystal (Ethereum)",
+	"name": "Bridged Kyber Network Crystal (Ethereum)",
+	"coingecko": "bridged-kyber-network-crystal-ethereum",
+	"sources": [
+		"coingecko"
+	]
+}

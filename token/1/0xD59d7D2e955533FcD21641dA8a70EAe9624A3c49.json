@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xD59d7D2e955533FcD21641dA8a70EAe9624A3c49",
+	"symbol": "MagicRing",
+	"name": "MagicRing",
+	"coingecko": "magicring",
+	"sources": [
+		"coingecko"
+	]
+}

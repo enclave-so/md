@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xA9049425b938C46ac3E312D4CdaEccb26282AeB2",
+	"symbol": "WickedBet Casino",
+	"name": "WickedBet Casino",
+	"coingecko": "wickedbet-casino",
+	"sources": [
+		"coingecko"
+	]
+}

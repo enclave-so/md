@@ -1,0 +1,10 @@
+{
+	"chain": 324,
+	"address": "0x8E86e46278518EFc1C5CEd245cBA2C7e3ef11557",
+	"symbol": "Overnight.fi USD+",
+	"name": "Overnight.fi USD+",
+	"coingecko": "usd",
+	"sources": [
+		"coingecko"
+	]
+}

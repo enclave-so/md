@@ -1,0 +1,10 @@
+{
+	"chain": 4200,
+	"address": "0x32A4b8b10222F85301874837F27F4c416117B811",
+	"symbol": "Bridged DOG•GO•TO•THE•MOON (Merlin Chain)",
+	"name": "Bridged DOG•GO•TO•THE•MOON (Merlin Chain)",
+	"coingecko": "bridged-dog-go-to-the-moon",
+	"sources": [
+		"coingecko"
+	]
+}

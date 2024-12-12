@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x946fb08103b400d1c79e07acCCDEf5cfd26cd374",
+	"symbol": "KIP",
+	"name": "KIP",
+	"coingecko": "kip",
+	"sources": [
+		"coingecko"
+	]
+}

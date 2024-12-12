@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x1a3A8Cf347b2bF5890D3D6A1B981c4f4432C8661",
+	"symbol": "Flying Avocado Cat",
+	"name": "Flying Avocado Cat",
+	"coingecko": "flying-avocado-cat",
+	"sources": [
+		"coingecko"
+	]
+}

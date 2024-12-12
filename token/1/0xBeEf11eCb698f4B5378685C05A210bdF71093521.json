@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xBeEf11eCb698f4B5378685C05A210bdF71093521",
+	"symbol": "Steakhouse RUSD Morpho Vault",
+	"name": "Steakhouse RUSD Morpho Vault",
+	"coingecko": "steakhouse-rusd-morpho-vault",
+	"sources": [
+		"coingecko"
+	]
+}

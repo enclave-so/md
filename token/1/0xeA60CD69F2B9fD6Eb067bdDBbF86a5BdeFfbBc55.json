@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xeA60CD69F2B9fD6Eb067bdDBbF86a5BdeFfbBc55",
+	"symbol": "Wecan",
+	"name": "Wecan",
+	"coingecko": "wecan",
+	"sources": [
+		"coingecko"
+	]
+}

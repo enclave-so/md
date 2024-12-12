@@ -1,0 +1,13 @@
+{
+	"chain": 1285,
+	"address": "0x6aB6d61428fde76768D7b45D8BFeec19c6eF91A8",
+	"symbol": "anyWBTC",
+	"name": "Wrapped BTC",
+	"decimals": 8,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/moonriver/0x6aB6d61428fde76768D7b45D8BFeec19c6eF91A8.jpg",
+	"coingecko": "multichain-bridged-wbtc-moonriver",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

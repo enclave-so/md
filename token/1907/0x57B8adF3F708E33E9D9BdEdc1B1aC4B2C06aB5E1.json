@@ -1,0 +1,10 @@
+{
+	"chain": 1907,
+	"address": "0x57B8adF3F708E33E9D9BdEdc1B1aC4B2C06aB5E1",
+	"symbol": "Bitci Bonk",
+	"name": "Bitci Bonk",
+	"coingecko": "bitci-bonk",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xDcfF29b7bd211Aaef6E4a3989e4d3F732cF5b4b6",
+	"symbol": "ArtMeta",
+	"name": "ArtMeta",
+	"coingecko": "artmeta",
+	"sources": [
+		"coingecko"
+	]
+}

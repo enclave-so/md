@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x4d010DBE0C6CdC0571BBa026D6dFAbBf40C9af28",
+	"symbol": "GemDrop",
+	"name": "GemDrop",
+	"coingecko": "gemdrop",
+	"sources": [
+		"coingecko"
+	]
+}

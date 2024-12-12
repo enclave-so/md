@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x178Bf8fD04b47D2De3eF3f6b3D112106375ad584",
+	"symbol": "Unagii Tether USD",
+	"name": "Unagii Tether USD",
+	"coingecko": "unagii-tether-usd",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0xe018c227bC84e44c96391d3067FAb5A9A46b7E62",
+	"symbol": "Chromium Dollar",
+	"name": "Chromium Dollar",
+	"coingecko": "chromium-dollar",
+	"sources": [
+		"coingecko"
+	]
+}

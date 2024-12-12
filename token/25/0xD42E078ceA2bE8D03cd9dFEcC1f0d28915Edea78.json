@@ -1,0 +1,13 @@
+{
+	"chain": 25,
+	"address": "0xD42E078ceA2bE8D03cd9dFEcC1f0d28915Edea78",
+	"symbol": "USC",
+	"name": "USC Stablecoin",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xD42E078ceA2bE8D03cd9dFEcC1f0d28915Edea78.jpg",
+	"coingecko": "orby-network-usc-stablecoin",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

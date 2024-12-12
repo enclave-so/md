@@ -1,0 +1,11 @@
+{
+	"chain": 137,
+	"address": "0x61E9c2F3501889f6167921087Bd6EA306002904a",
+	"symbol": "PIXEL",
+	"name": "Pixel",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x61E9c2F3501889f6167921087Bd6EA306002904a/logo.png",
+	"sources": [
+		"sushiswap"
+	]
+}

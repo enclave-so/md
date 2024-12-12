@@ -1,0 +1,10 @@
+{
+	"chain": 1101,
+	"address": "0x696c0bA235444607A1c4b93E6b34Ba14928c1B60",
+	"symbol": "DoveSwap",
+	"name": "DoveSwap",
+	"coingecko": "doveswap",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 2020,
+	"address": "0x6a1D85C9876eA93Ee460cA1d36aE7D95d0cd8F05",
+	"symbol": "MGold",
+	"name": "MGold",
+	"coingecko": "mgold",
+	"sources": [
+		"coingecko"
+	]
+}

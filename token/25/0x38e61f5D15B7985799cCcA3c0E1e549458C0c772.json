@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0x38e61f5D15B7985799cCcA3c0E1e549458C0c772",
+	"symbol": "XNO",
+	"name": "Nano",
+	"decimals": 30,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x38e61f5D15B7985799cCcA3c0E1e549458C0c772.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 2222,
+	"address": "0x52369B1539EA8F4e1eadEEF18D85462Dcf9a3658",
+	"symbol": "Kinetix Finance Token",
+	"name": "Kinetix Finance Token",
+	"coingecko": "kinetixfi",
+	"sources": [
+		"coingecko"
+	]
+}

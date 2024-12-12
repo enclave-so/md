@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x2c7f442AaB99D5e18CfAE2291c507c0b5f3c1eb5",
+	"symbol": "Keko",
+	"name": "Keko",
+	"coingecko": "keko",
+	"sources": [
+		"coingecko"
+	]
+}

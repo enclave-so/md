@@ -1,0 +1,10 @@
+{
+	"chain": 1284,
+	"address": "0xbc7E02c4178a7dF7d3E564323a5c359dc96C4db4",
+	"symbol": "StellaSwap Staked DOT",
+	"name": "StellaSwap Staked DOT",
+	"coingecko": "stellaswap-staked-dot",
+	"sources": [
+		"coingecko"
+	]
+}

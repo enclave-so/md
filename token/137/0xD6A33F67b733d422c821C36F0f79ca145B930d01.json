@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xD6A33F67b733d422c821C36F0f79ca145B930d01",
+	"symbol": "Angola",
+	"name": "Angola",
+	"coingecko": "angola",
+	"sources": [
+		"coingecko"
+	]
+}

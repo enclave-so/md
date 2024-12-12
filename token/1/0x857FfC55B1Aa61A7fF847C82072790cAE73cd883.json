@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x857FfC55B1Aa61A7fF847C82072790cAE73cd883",
+	"symbol": "Elastic Finance Token",
+	"name": "Elastic Finance Token",
+	"coingecko": "elastic-finance-token",
+	"sources": [
+		"coingecko"
+	]
+}

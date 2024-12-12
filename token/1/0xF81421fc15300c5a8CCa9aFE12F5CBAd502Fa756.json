@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xF81421fc15300c5a8CCa9aFE12F5CBAd502Fa756",
+	"symbol": "Cardiocoin",
+	"name": "Cardiocoin",
+	"coingecko": "cardiocoin",
+	"sources": [
+		"coingecko"
+	]
+}

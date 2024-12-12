@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x3419875B4D3Bca7F3FddA2dB7a476A79fD31B4fE",
+	"symbol": "DizzyHavoc",
+	"name": "DizzyHavoc",
+	"coingecko": "dizzyhavoc",
+	"sources": [
+		"coingecko"
+	]
+}

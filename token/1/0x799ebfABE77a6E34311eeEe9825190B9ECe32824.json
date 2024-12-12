@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x799ebfABE77a6E34311eeEe9825190B9ECe32824",
+	"symbol": "Braintrust",
+	"name": "Braintrust",
+	"coingecko": "braintrust",
+	"sources": [
+		"coingecko"
+	]
+}

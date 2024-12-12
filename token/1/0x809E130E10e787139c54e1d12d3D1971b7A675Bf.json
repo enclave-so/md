@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x809E130E10e787139c54e1d12d3D1971b7A675Bf",
+	"symbol": "Minted",
+	"name": "Minted",
+	"coingecko": "minted",
+	"sources": [
+		"coingecko"
+	]
+}

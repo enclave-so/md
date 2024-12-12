@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x958d208Cdf087843e9AD98d23823d32E17d723A1",
+	"symbol": "Dragon's Quick",
+	"name": "Dragon's Quick",
+	"coingecko": "dragon-s-quick",
+	"sources": [
+		"coingecko"
+	]
+}

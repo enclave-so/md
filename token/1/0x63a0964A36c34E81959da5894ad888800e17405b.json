@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x63a0964A36c34E81959da5894ad888800e17405b",
+	"symbol": "ShezmuETH",
+	"name": "ShezmuETH",
+	"coingecko": "shezmueth",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xCF078DA6e85389de507ceeDE0E3d217e457B9d49",
+	"symbol": "Skillful AI",
+	"name": "Skillful AI",
+	"coingecko": "skai",
+	"sources": [
+		"coingecko"
+	]
+}

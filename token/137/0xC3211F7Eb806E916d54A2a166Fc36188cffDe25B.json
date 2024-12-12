@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xC3211F7Eb806E916d54A2a166Fc36188cffDe25B",
+	"symbol": "Cropto Barley Token",
+	"name": "Cropto Barley Token",
+	"coingecko": "cropto-barley-token",
+	"sources": [
+		"coingecko"
+	]
+}

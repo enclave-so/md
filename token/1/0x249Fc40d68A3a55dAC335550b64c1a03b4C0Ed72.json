@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x249Fc40d68A3a55dAC335550b64c1a03b4C0Ed72",
+	"symbol": "DINOSHI",
+	"name": "DINOSHI",
+	"coingecko": "dinoshi",
+	"sources": [
+		"coingecko"
+	]
+}

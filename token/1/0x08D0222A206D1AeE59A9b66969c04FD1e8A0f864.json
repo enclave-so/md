@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x08D0222A206D1AeE59A9b66969c04FD1e8A0f864",
+	"symbol": "Momo v2",
+	"name": "Momo v2",
+	"coingecko": "momo-v2",
+	"sources": [
+		"coingecko"
+	]
+}

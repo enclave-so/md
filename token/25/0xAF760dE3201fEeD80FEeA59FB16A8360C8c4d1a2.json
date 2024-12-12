@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0xAF760dE3201fEeD80FEeA59FB16A8360C8c4d1a2",
+	"symbol": "LRC",
+	"name": "Loopring",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xAF760dE3201fEeD80FEeA59FB16A8360C8c4d1a2.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

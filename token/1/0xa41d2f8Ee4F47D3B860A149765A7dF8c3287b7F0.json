@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xa41d2f8Ee4F47D3B860A149765A7dF8c3287b7F0",
+	"symbol": "Syncus",
+	"name": "Syncus",
+	"coingecko": "syncus",
+	"sources": [
+		"coingecko"
+	]
+}

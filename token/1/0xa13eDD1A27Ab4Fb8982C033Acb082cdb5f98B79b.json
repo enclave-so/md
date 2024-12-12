@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xa13eDD1A27Ab4Fb8982C033Acb082cdb5f98B79b",
+	"symbol": "doge in a memes world",
+	"name": "doge in a memes world",
+	"coingecko": "doge-in-a-memes-world",
+	"sources": [
+		"coingecko"
+	]
+}

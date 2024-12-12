@@ -1,0 +1,11 @@
+{
+	"chain": 137,
+	"address": "0xE7804D91dfCDE7F776c90043E03eAa6Df87E6395",
+	"symbol": "DFX",
+	"name": "DFX Token",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xE7804D91dfCDE7F776c90043E03eAa6Df87E6395/logo.png",
+	"sources": [
+		"sushiswap"
+	]
+}

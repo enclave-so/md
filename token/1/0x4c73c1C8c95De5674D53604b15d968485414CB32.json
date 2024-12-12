@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x4c73c1C8c95De5674D53604b15d968485414CB32",
+	"symbol": "Bomb Shelter Inu",
+	"name": "Bomb Shelter Inu",
+	"coingecko": "bomb-shelter-inu",
+	"sources": [
+		"coingecko"
+	]
+}

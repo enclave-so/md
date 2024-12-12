@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x67c4D14861f9c975d004cFB3aC305beE673E996E",
+	"symbol": "Land Wu",
+	"name": "Land Wu",
+	"coingecko": "land-wu",
+	"sources": [
+		"coingecko"
+	]
+}

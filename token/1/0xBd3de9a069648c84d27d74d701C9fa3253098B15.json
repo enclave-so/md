@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xBd3de9a069648c84d27d74d701C9fa3253098B15",
+	"symbol": "EQIFi",
+	"name": "EQIFi",
+	"coingecko": "eqifi",
+	"sources": [
+		"coingecko"
+	]
+}

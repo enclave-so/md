@@ -1,0 +1,10 @@
+{
+	"chain": 369,
+	"address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+	"symbol": "DAI on PulseChain",
+	"name": "DAI on PulseChain",
+	"coingecko": "dai-on-pulsechain",
+	"sources": [
+		"coingecko"
+	]
+}

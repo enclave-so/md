@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x6099F4CFeAcb9be8d5c3435Da0Ba2853Cd5188E4",
+	"symbol": "Aryze's Digital Gold",
+	"name": "Aryze's Digital Gold",
+	"coingecko": "aryze-s-digital-gold",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x7022FE5fEDBd54b40FdC52Be30c1c578fb55C2bf",
+	"symbol": "WOLF SKULL",
+	"name": "WOLF SKULL",
+	"coingecko": "wolf-skull",
+	"sources": [
+		"coingecko"
+	]
+}

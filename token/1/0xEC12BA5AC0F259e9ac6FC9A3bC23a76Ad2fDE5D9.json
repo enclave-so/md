@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xEC12BA5AC0F259e9ac6FC9A3bC23a76Ad2fDE5D9",
+	"symbol": "HugeWin",
+	"name": "HugeWin",
+	"coingecko": "hugewin",
+	"sources": [
+		"coingecko"
+	]
+}

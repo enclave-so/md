@@ -1,0 +1,10 @@
+{
+	"chain": 1284,
+	"address": "0xFFFFFfFf5AC1f9A51A93F5C527385edF7Fe98A52",
+	"symbol": "interBTC",
+	"name": "interBTC",
+	"coingecko": "interbtc",
+	"sources": [
+		"coingecko"
+	]
+}

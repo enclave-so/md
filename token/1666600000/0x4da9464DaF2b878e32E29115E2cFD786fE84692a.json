@@ -1,0 +1,10 @@
+{
+	"chain": 1666600000,
+	"address": "0x4da9464DaF2b878e32E29115E2cFD786fE84692a",
+	"symbol": "BakerySwap",
+	"name": "BakerySwap",
+	"coingecko": "bakerytoken",
+	"sources": [
+		"coingecko"
+	]
+}

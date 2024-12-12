@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xb9f69c75a3b67425474f8bCab9a3626d8b8249e1",
+	"symbol": "Memefi Toybox 404",
+	"name": "Memefi Toybox 404",
+	"coingecko": "memefi-toybox-404",
+	"sources": [
+		"coingecko"
+	]
+}

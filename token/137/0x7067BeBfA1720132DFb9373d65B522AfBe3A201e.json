@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x7067BeBfA1720132DFb9373d65B522AfBe3A201e",
+	"symbol": "Floyx",
+	"name": "Floyx",
+	"coingecko": "floyx-new",
+	"sources": [
+		"coingecko"
+	]
+}

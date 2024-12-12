@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x0C47298beEe5203358e7Bc30B9954B584361eAB5",
+	"symbol": "Black Stallion",
+	"name": "Black Stallion",
+	"coingecko": "black-stallion",
+	"sources": [
+		"coingecko"
+	]
+}

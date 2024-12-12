@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x7d64BDe04e64Be1C4CAE808719c1127F2ccC252b",
+	"symbol": "Bully Ze Bull",
+	"name": "Bully Ze Bull",
+	"coingecko": "bully-ze-bull",
+	"sources": [
+		"coingecko"
+	]
+}

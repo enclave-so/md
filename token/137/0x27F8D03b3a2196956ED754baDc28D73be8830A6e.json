@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x27F8D03b3a2196956ED754baDc28D73be8830A6e",
+	"symbol": "Aave Polygon DAI",
+	"name": "Aave Polygon DAI",
+	"coingecko": "aave-polygon-dai",
+	"sources": [
+		"coingecko"
+	]
+}

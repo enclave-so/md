@@ -1,0 +1,10 @@
+{
+	"chain": 324,
+	"address": "0x47260090cE5e83454d5f05A0AbbB2C953835f777",
+	"symbol": "SpaceFi",
+	"name": "SpaceFi",
+	"coingecko": "spacefi-zksync",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x72dD4b6bd852A3AA172Be4d6C5a6dbEc588cf131",
+	"symbol": "NAGA",
+	"name": "NAGA",
+	"coingecko": "naga",
+	"sources": [
+		"coingecko"
+	]
+}

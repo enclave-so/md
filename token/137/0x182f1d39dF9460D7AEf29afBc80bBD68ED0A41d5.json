@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x182f1d39dF9460D7AEf29afBc80bBD68ED0A41d5",
+	"symbol": "RuufCoin",
+	"name": "RuufCoin",
+	"coingecko": "ruufcoin",
+	"sources": [
+		"coingecko"
+	]
+}

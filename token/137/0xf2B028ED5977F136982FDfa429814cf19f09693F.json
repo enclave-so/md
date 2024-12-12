@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xf2B028ED5977F136982FDfa429814cf19f09693F",
+	"symbol": "Unseen",
+	"name": "Unseen",
+	"coingecko": "unseen",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xd714d91A169127e11D8FAb3665d72E8b7ef9Dbe2",
+	"symbol": "BlackHole Protocol",
+	"name": "BlackHole Protocol",
+	"coingecko": "blackhole-protocol",
+	"sources": [
+		"coingecko"
+	]
+}

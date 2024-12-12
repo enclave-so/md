@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x3Cb48AeB3D1abaDc23d2D8a6894B3A68338381C2",
+	"symbol": "PaladinAI",
+	"name": "PaladinAI",
+	"coingecko": "paladinai",
+	"sources": [
+		"coingecko"
+	]
+}

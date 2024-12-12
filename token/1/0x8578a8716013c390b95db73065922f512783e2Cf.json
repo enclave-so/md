@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x8578a8716013c390b95db73065922f512783e2Cf",
+	"symbol": "Head of D.O.G.E",
+	"name": "Head of D.O.G.E",
+	"coingecko": "head-of-d-o-g-e",
+	"sources": [
+		"coingecko"
+	]
+}

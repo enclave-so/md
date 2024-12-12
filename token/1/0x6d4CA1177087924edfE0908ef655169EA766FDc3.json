@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x6d4CA1177087924edfE0908ef655169EA766FDc3",
+	"symbol": "Hedgehog",
+	"name": "Hedgehog",
+	"coingecko": "hedgehog",
+	"sources": [
+		"coingecko"
+	]
+}

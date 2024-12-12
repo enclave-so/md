@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xd01D133166820557db7138963BCD9009C54E4C33",
+	"symbol": "ChainEx",
+	"name": "ChainEx",
+	"coingecko": "chainex",
+	"sources": [
+		"coingecko"
+	]
+}

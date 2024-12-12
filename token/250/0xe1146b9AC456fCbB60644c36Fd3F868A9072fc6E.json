@@ -1,0 +1,11 @@
+{
+	"chain": 250,
+	"address": "0xe1146b9AC456fCbB60644c36Fd3F868A9072fc6E",
+	"symbol": "fBTC",
+	"name": "fBTC",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/btc.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

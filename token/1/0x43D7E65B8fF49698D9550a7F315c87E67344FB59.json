@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x43D7E65B8fF49698D9550a7F315c87E67344FB59",
+	"symbol": "Shiba Saga",
+	"name": "Shiba Saga",
+	"coingecko": "shiba-saga",
+	"sources": [
+		"coingecko"
+	]
+}

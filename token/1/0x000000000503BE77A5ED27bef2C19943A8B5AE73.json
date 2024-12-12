@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x000000000503BE77A5ED27bef2C19943A8B5AE73",
+	"symbol": "Xtremeverse",
+	"name": "Xtremeverse",
+	"coingecko": "xtremeverse",
+	"sources": [
+		"coingecko"
+	]
+}

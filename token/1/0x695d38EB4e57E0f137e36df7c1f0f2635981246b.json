@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x695d38EB4e57E0f137e36df7c1f0f2635981246b",
+	"symbol": "Meme AI Coin",
+	"name": "Meme AI Coin",
+	"coingecko": "meme-ai-coin",
+	"sources": [
+		"coingecko"
+	]
+}

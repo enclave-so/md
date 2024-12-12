@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x39795344CBCc76cC3Fb94B9D1b15C23c2070C66D",
+	"symbol": "Seigniorage Shares",
+	"name": "Seigniorage Shares",
+	"coingecko": "seigniorage-shares",
+	"sources": [
+		"coingecko"
+	]
+}

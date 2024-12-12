@@ -1,0 +1,10 @@
+{
+	"chain": 16718,
+	"address": "0xFF9F502976E7bD2b4901aD7Dd1131Bb81E5567de",
+	"symbol": "AirDAO bridged USDC (AirDAO)",
+	"name": "AirDAO bridged USDC (AirDAO)",
+	"coingecko": "airdao-bridged-usdc-airdao",
+	"sources": [
+		"coingecko"
+	]
+}

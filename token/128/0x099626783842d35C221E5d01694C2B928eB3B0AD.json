@@ -1,0 +1,10 @@
+{
+	"chain": 128,
+	"address": "0x099626783842d35C221E5d01694C2B928eB3B0AD",
+	"symbol": "Dogeswap (HECO)",
+	"name": "Dogeswap (HECO)",
+	"coingecko": "dogswap-token",
+	"sources": [
+		"coingecko"
+	]
+}

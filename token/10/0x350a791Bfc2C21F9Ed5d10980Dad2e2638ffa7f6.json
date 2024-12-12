@@ -1,0 +1,13 @@
+{
+	"chain": 10,
+	"address": "0x350a791Bfc2C21F9Ed5d10980Dad2e2638ffa7f6",
+	"symbol": "LINK",
+	"name": "Chainlink",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/LINK/logo.png",
+	"coingecko": "chainlink",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

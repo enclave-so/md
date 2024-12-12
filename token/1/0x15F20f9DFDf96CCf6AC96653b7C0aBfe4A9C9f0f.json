@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x15F20f9DFDf96CCf6AC96653b7C0aBfe4A9C9f0f",
+	"symbol": "Wall Street Baby",
+	"name": "Wall Street Baby",
+	"coingecko": "wall-street-baby",
+	"sources": [
+		"coingecko"
+	]
+}

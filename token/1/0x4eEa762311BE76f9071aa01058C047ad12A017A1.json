@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x4eEa762311BE76f9071aa01058C047ad12A017A1",
+	"symbol": "GBURN",
+	"name": "GBURN",
+	"coingecko": "grovecoin-gburn",
+	"sources": [
+		"coingecko"
+	]
+}

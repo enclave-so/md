@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x3cE1F6bD6B0Aa7520A14018DCc2261b1371D7c1a",
+	"symbol": "Corn",
+	"name": "Corn",
+	"coingecko": "corn-2",
+	"sources": [
+		"coingecko"
+	]
+}

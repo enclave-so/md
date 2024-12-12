@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x7F9b09f4717072CF4DC18b95D1b09E2B30C76790",
+	"symbol": "Vault AI",
+	"name": "Vault AI",
+	"coingecko": "vaulttech",
+	"sources": [
+		"coingecko"
+	]
+}

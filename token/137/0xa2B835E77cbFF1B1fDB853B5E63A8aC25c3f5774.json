@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xa2B835E77cbFF1B1fDB853B5E63A8aC25c3f5774",
+	"symbol": "Tea-Fi",
+	"name": "Tea-Fi",
+	"coingecko": "tea-fi",
+	"sources": [
+		"coingecko"
+	]
+}

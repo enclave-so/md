@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xF1A7000000950C7ad8Aff13118Bb7aB561A448ee",
+	"symbol": "Flayer",
+	"name": "Flayer",
+	"coingecko": "flayer",
+	"sources": [
+		"coingecko"
+	]
+}

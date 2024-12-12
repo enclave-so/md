@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xa672b803e807AB9B7cb8514350523cd6D2e4D5cc",
+	"symbol": "Nihao Coin",
+	"name": "Nihao Coin",
+	"coingecko": "nihao-coin",
+	"sources": [
+		"coingecko"
+	]
+}

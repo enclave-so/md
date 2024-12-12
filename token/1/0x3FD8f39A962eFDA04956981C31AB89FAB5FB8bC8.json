@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x3FD8f39A962eFDA04956981C31AB89FAB5FB8bC8",
+	"symbol": "Rotharium",
+	"name": "Rotharium",
+	"coingecko": "rotharium",
+	"sources": [
+		"coingecko"
+	]
+}

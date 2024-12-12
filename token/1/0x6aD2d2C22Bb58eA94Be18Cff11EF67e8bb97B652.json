@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x6aD2d2C22Bb58eA94Be18Cff11EF67e8bb97B652",
+	"symbol": "Trestle Wrapped TIA",
+	"name": "Trestle Wrapped TIA",
+	"coingecko": "trestle-wrapped-tia",
+	"sources": [
+		"coingecko"
+	]
+}

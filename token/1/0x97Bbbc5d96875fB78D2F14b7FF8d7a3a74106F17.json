@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0x97Bbbc5d96875fB78D2F14b7FF8d7a3a74106F17",
+	"symbol": "ASTRAFER",
+	"name": "Astrafer",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x97Bbbc5d96875fB78D2F14b7FF8d7a3a74106F17.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

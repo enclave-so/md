@@ -1,0 +1,10 @@
+{
+	"chain": 39797,
+	"address": "0xF1BdCF2D4163adF9554111439dAbdD6f18fF9BA7",
+	"symbol": "BitTorrent",
+	"name": "BitTorrent",
+	"coingecko": "bittorrent",
+	"sources": [
+		"coingecko"
+	]
+}

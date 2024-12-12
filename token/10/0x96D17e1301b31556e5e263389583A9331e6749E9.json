@@ -1,0 +1,10 @@
+{
+	"chain": 10,
+	"address": "0x96D17e1301b31556e5e263389583A9331e6749E9",
+	"symbol": "RillaFi",
+	"name": "RillaFi",
+	"coingecko": "rillafi",
+	"sources": [
+		"coingecko"
+	]
+}

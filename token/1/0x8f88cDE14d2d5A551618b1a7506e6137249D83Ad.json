@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x8f88cDE14d2d5A551618b1a7506e6137249D83Ad",
+	"symbol": "Make Frens",
+	"name": "Make Frens",
+	"coingecko": "make-frens",
+	"sources": [
+		"coingecko"
+	]
+}

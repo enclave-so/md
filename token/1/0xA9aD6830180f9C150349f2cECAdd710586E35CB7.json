@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xA9aD6830180f9C150349f2cECAdd710586E35CB7",
+	"symbol": "ETH Stable",
+	"name": "ETH Stable",
+	"coingecko": "eth-stable-mori-finance",
+	"sources": [
+		"coingecko"
+	]
+}

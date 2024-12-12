@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xcfd16933Cb1579eee9fe6031686534e87353B148",
+	"symbol": "MeromAI",
+	"name": "MeromAI",
+	"coingecko": "meromai",
+	"sources": [
+		"coingecko"
+	]
+}

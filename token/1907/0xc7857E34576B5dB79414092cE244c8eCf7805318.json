@@ -1,0 +1,10 @@
+{
+	"chain": 1907,
+	"address": "0xc7857E34576B5dB79414092cE244c8eCf7805318",
+	"symbol": "ALBEDO",
+	"name": "ALBEDO",
+	"coingecko": "albedo",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x420110D74c4c3ea14043A09E81FAD53e1932F54c",
+	"symbol": "Groggo By Matt Furie",
+	"name": "Groggo By Matt Furie",
+	"coingecko": "groggo-by-matt-furie",
+	"sources": [
+		"coingecko"
+	]
+}

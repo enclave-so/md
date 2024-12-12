@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xC775C0C30840Cb9F51e21061B054ebf1A00aCC29",
+	"symbol": "Pastel",
+	"name": "Pastel",
+	"coingecko": "pastel",
+	"sources": [
+		"coingecko"
+	]
+}

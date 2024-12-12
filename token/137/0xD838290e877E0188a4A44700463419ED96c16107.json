@@ -1,0 +1,13 @@
+{
+	"chain": 137,
+	"address": "0xD838290e877E0188a4A44700463419ED96c16107",
+	"symbol": "NCT",
+	"name": "Nature Carbon Tonne",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xD838290e877E0188a4A44700463419ED96c16107/logo.png",
+	"coingecko": "toucan-protocol-nature-carbon-tonne",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

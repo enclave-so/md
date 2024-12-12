@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xf45f6c8bB3d77eA762175b8f7ca4D251941649fA",
+	"symbol": "Lemond",
+	"name": "Lemond",
+	"coingecko": "lemond",
+	"sources": [
+		"coingecko"
+	]
+}

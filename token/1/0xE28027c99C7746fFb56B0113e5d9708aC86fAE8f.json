@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xE28027c99C7746fFb56B0113e5d9708aC86fAE8f",
+	"symbol": "KING Coin",
+	"name": "KING Coin",
+	"coingecko": "king-2",
+	"sources": [
+		"coingecko"
+	]
+}

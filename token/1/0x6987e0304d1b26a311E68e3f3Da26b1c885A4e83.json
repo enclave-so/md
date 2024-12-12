@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x6987e0304d1b26a311E68e3f3Da26b1c885A4e83",
+	"symbol": "Kaeru The Frog",
+	"name": "Kaeru The Frog",
+	"coingecko": "kaeru-the-frog",
+	"sources": [
+		"coingecko"
+	]
+}

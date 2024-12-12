@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x9e04F519b094F5F8210441e285f603f4d2b50084",
+	"symbol": "EarthFund",
+	"name": "EarthFund",
+	"coingecko": "earthfund",
+	"sources": [
+		"coingecko"
+	]
+}

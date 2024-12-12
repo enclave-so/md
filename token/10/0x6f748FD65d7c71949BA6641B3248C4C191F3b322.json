@@ -1,0 +1,10 @@
+{
+	"chain": 10,
+	"address": "0x6f748FD65d7c71949BA6641B3248C4C191F3b322",
+	"symbol": "Exactly WBTC",
+	"name": "Exactly WBTC",
+	"coingecko": "exactly-wbtc",
+	"sources": [
+		"coingecko"
+	]
+}

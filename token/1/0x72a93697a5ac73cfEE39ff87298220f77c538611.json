@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x72a93697a5ac73cfEE39ff87298220f77c538611",
+	"symbol": "The Dare",
+	"name": "The Dare",
+	"coingecko": "the-dare",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xB6ff96B8A8d214544Ca0dBc9B33f7AD6503eFD32",
+	"symbol": "Sync Network",
+	"name": "Sync Network",
+	"coingecko": "sync-network",
+	"sources": [
+		"coingecko"
+	]
+}

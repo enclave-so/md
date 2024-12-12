@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x65278f702019078E9Ab196C0Da0A6eE55E7248B7",
+	"symbol": "Dione",
+	"name": "Dione",
+	"coingecko": "dione",
+	"sources": [
+		"coingecko"
+	]
+}

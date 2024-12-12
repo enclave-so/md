@@ -1,0 +1,10 @@
+{
+	"chain": 250,
+	"address": "0xf45B1146416F1eC2125De920324722912Fe8807f",
+	"symbol": "TombPlus TSHARE+",
+	"name": "TombPlus TSHARE+",
+	"coingecko": "tombplus-tshare-plus",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x6a3E7C3c6EF65Ee26975b12293cA1AAD7e1dAeD2",
+	"symbol": "Aavegotchi ALPHA",
+	"name": "Aavegotchi ALPHA",
+	"coingecko": "aavegotchi-alpha",
+	"sources": [
+		"coingecko"
+	]
+}

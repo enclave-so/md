@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xD4F4D0a10BcaE123bB6655E8Fe93a30d01eEbD04",
+	"symbol": "LinqAI",
+	"name": "LinqAI",
+	"coingecko": "linqai",
+	"sources": [
+		"coingecko"
+	]
+}

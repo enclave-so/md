@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x6aEB95F06CDA84cA345c2dE0F3B7f96923a44f4c",
+	"symbol": "Rentberry",
+	"name": "Rentberry",
+	"coingecko": "rentberry",
+	"sources": [
+		"coingecko"
+	]
+}

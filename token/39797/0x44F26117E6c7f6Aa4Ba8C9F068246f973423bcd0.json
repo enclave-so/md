@@ -1,0 +1,10 @@
+{
+	"chain": 39797,
+	"address": "0x44F26117E6c7f6Aa4Ba8C9F068246f973423bcd0",
+	"symbol": "NuCypher",
+	"name": "NuCypher",
+	"coingecko": "nucypher",
+	"sources": [
+		"coingecko"
+	]
+}

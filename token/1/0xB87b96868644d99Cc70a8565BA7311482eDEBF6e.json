@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xB87b96868644d99Cc70a8565BA7311482eDEBF6e",
+	"symbol": "OnChain Pepe 404",
+	"name": "OnChain Pepe 404",
+	"coingecko": "onchain-pepe-404",
+	"sources": [
+		"coingecko"
+	]
+}

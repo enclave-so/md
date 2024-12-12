@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x615987d46003CC37387dBe544FF4F16FA1200077",
+	"symbol": "Nasdaq420",
+	"name": "Nasdaq420",
+	"coingecko": "nasdaq420",
+	"sources": [
+		"coingecko"
+	]
+}

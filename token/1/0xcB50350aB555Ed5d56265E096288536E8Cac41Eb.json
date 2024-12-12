@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xcB50350aB555Ed5d56265E096288536E8Cac41Eb",
+	"symbol": "0xCoco",
+	"name": "0xCoco",
+	"coingecko": "0xcoco",
+	"sources": [
+		"coingecko"
+	]
+}

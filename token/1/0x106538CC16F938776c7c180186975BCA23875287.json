@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x106538CC16F938776c7c180186975BCA23875287",
+	"symbol": "Basis Share",
+	"name": "Basis Share",
+	"coingecko": "basis-share",
+	"sources": [
+		"coingecko"
+	]
+}

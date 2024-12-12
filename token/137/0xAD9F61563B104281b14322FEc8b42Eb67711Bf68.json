@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xAD9F61563B104281b14322FEc8b42Eb67711Bf68",
+	"symbol": "Synergy Land Token",
+	"name": "Synergy Land Token",
+	"coingecko": "synergy-land-token",
+	"sources": [
+		"coingecko"
+	]
+}

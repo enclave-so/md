@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x6Acb9Ac319bafe509aF9E96bE642eAd00526B9fA",
+	"symbol": "Wild Goat Coin",
+	"name": "Wild Goat Coin",
+	"coingecko": "wild-goat-coin-2",
+	"sources": [
+		"coingecko"
+	]
+}

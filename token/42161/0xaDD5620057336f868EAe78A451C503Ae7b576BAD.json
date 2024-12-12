@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0xaDD5620057336f868EAe78A451C503Ae7b576BAD",
+	"symbol": "enqAI",
+	"name": "enqAI",
+	"coingecko": "noisegpt",
+	"sources": [
+		"coingecko"
+	]
+}

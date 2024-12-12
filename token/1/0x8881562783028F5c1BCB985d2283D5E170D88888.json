@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x8881562783028F5c1BCB985d2283D5E170D88888",
+	"symbol": "Shuffle",
+	"name": "Shuffle",
+	"coingecko": "shuffle-2",
+	"sources": [
+		"coingecko"
+	]
+}

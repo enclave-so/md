@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xD478161C952357F05f0292B56012Cd8457F1cfbF",
+	"symbol": "Polkamarkets",
+	"name": "Polkamarkets",
+	"coingecko": "polkamarkets",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"chain": 2046399126,
+	"address": "0x28c6ac22aB738BB01FC6CBA75804dC088aae6193",
+	"symbol": "BRAWL",
+	"name": "Block Brawlers BRAWL",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/skale-europa/0x28c6ac22aB738BB01FC6CBA75804dC088aae6193.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

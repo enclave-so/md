@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x9C0bD34beBc33A0E898554cFc91e8A84C728BF9F",
+	"symbol": "Pisscoin",
+	"name": "Pisscoin",
+	"coingecko": "pisscoin",
+	"sources": [
+		"coingecko"
+	]
+}

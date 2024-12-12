@@ -1,0 +1,11 @@
+{
+	"chain": 1666600000,
+	"address": "0x6aB6d61428fde76768D7b45D8BFeec19c6eF91A8",
+	"symbol": "BIFI",
+	"name": "Beefy Finance",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/harmony/assets/0x6aB6d61428fde76768D7b45D8BFeec19c6eF91A8/logo.png",
+	"sources": [
+		"sushiswap"
+	]
+}

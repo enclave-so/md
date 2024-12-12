@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0xbC396689893D065F41bc2C6EcbeE5e0085233447",
+	"symbol": "PERP",
+	"name": "Perpetual Protocol",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/perp.jpg",
+	"coingecko": "perpetual-protocol",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

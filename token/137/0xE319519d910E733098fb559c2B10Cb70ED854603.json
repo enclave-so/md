@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xE319519d910E733098fb559c2B10Cb70ED854603",
+	"symbol": "GuildQB Token",
+	"name": "GuildQB Token",
+	"coingecko": "guildqb-token",
+	"sources": [
+		"coingecko"
+	]
+}

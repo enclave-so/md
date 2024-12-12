@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xf6aFC05fCCEa5A53F22A3e39fFeE861e016Bd9A0",
+	"symbol": "LandWolf",
+	"name": "LandWolf",
+	"coingecko": "landwolf",
+	"sources": [
+		"coingecko"
+	]
+}

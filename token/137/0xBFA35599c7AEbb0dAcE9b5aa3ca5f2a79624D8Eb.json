@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xBFA35599c7AEbb0dAcE9b5aa3ca5f2a79624D8Eb",
+	"symbol": "Retro Finance",
+	"name": "Retro Finance",
+	"coingecko": "retro-finance",
+	"sources": [
+		"coingecko"
+	]
+}

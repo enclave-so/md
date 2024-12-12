@@ -1,0 +1,10 @@
+{
+	"chain": 369,
+	"address": "0x8fC70fd5F10Cd5494EB369b0737CefD22eB33F17",
+	"symbol": "PermaGIFF",
+	"name": "PermaGIFF",
+	"coingecko": "permagiff",
+	"sources": [
+		"coingecko"
+	]
+}

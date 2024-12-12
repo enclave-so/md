@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xfE39C384D702914127a005523f9915ADDB9bd59b",
+	"symbol": "Hippocrat",
+	"name": "Hippocrat",
+	"coingecko": "humanscape",
+	"sources": [
+		"coingecko"
+	]
+}

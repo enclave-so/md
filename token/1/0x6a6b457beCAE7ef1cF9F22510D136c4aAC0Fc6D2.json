@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x6a6b457beCAE7ef1cF9F22510D136c4aAC0Fc6D2",
+	"symbol": "Molly AI",
+	"name": "Molly AI",
+	"coingecko": "molly-ai",
+	"sources": [
+		"coingecko"
+	]
+}

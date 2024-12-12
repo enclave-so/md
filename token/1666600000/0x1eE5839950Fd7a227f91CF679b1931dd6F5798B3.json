@@ -1,0 +1,10 @@
+{
+	"chain": 1666600000,
+	"address": "0x1eE5839950Fd7a227f91CF679b1931dd6F5798B3",
+	"symbol": "Frontier",
+	"name": "Frontier",
+	"coingecko": "frontier-token",
+	"sources": [
+		"coingecko"
+	]
+}

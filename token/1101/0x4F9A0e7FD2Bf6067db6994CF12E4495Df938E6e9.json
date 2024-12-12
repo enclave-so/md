@@ -1,0 +1,13 @@
+{
+	"chain": 1101,
+	"address": "0x4F9A0e7FD2Bf6067db6994CF12E4495Df938E6e9",
+	"symbol": "WETH",
+	"name": "Wrapped Ether",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/polygon-zkevm/0x4F9A0e7FD2Bf6067db6994CF12E4495Df938E6e9.jpg",
+	"coingecko": "polygon-hermez-bridged-weth-polygon-zkevm",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x823556202e86763853b40e9cDE725f412e294689",
+	"symbol": "Altered State Machine",
+	"name": "Altered State Machine",
+	"coingecko": "altered-state-token",
+	"sources": [
+		"coingecko"
+	]
+}

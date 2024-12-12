@@ -1,0 +1,10 @@
+{
+	"chain": 39797,
+	"address": "0xfcE13BB63B60f6e20ed846ae73ed242D29129800",
+	"symbol": "Reserve Rights",
+	"name": "Reserve Rights",
+	"coingecko": "reserve-rights-token",
+	"sources": [
+		"coingecko"
+	]
+}

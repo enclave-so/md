@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x0eb3032bcAc2BE1fa95E296442F225edb80fc3CD",
+	"symbol": "Aster",
+	"name": "Aster",
+	"coingecko": "aster",
+	"sources": [
+		"coingecko"
+	]
+}

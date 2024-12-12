@@ -1,0 +1,10 @@
+{
+	"chain": 14,
+	"address": "0xE6505f92583103AF7ed9974DEC451A7Af4e3A3bE",
+	"symbol": "Joule",
+	"name": "Joule",
+	"coingecko": "joule-2",
+	"sources": [
+		"coingecko"
+	]
+}

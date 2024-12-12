@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xeC5483804e637D45cDe22Fa0869656B64b5AB1ab",
+	"symbol": "Acent",
+	"name": "Acent",
+	"coingecko": "acent",
+	"sources": [
+		"coingecko"
+	]
+}

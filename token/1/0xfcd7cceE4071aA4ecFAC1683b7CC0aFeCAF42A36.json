@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xfcd7cceE4071aA4ecFAC1683b7CC0aFeCAF42A36",
+	"symbol": "Titan Blaze",
+	"name": "Titan Blaze",
+	"coingecko": "titan-blaze",
+	"sources": [
+		"coingecko"
+	]
+}

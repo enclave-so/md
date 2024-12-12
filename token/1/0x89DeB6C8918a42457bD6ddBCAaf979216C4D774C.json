@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x89DeB6C8918a42457bD6ddBCAaf979216C4D774C",
+	"symbol": "HapticAI",
+	"name": "HapticAI",
+	"coingecko": "hapticai",
+	"sources": [
+		"coingecko"
+	]
+}

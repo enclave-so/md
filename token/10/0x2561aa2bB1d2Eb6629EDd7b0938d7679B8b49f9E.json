@@ -1,0 +1,10 @@
+{
+	"chain": 10,
+	"address": "0x2561aa2bB1d2Eb6629EDd7b0938d7679B8b49f9E",
+	"symbol": "Ocean Protocol",
+	"name": "Ocean Protocol",
+	"coingecko": "ocean-protocol",
+	"sources": [
+		"coingecko"
+	]
+}

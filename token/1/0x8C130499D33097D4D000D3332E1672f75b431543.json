@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x8C130499D33097D4D000D3332E1672f75b431543",
+	"symbol": "Hoppy Token",
+	"name": "Hoppy Token",
+	"coingecko": "hoppy-token",
+	"sources": [
+		"coingecko"
+	]
+}

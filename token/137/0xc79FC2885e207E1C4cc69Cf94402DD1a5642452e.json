@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xc79FC2885e207E1C4cc69Cf94402DD1a5642452e",
+	"symbol": "Seamans Token",
+	"name": "Seamans Token",
+	"coingecko": "seamans-token",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x9b5C38cC2d1bA05Ed87C8f8A2418475bAcb20073",
+	"symbol": "Vector Space Biosciences, Inc.",
+	"name": "Vector Space Biosciences, Inc.",
+	"coingecko": "vector-space-biosciences-inc",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x4dEbFb9Ed639144CF1e401674Af361FFFfcefb58",
+	"symbol": "CADAI",
+	"name": "CADAI",
+	"coingecko": "cadai",
+	"sources": [
+		"coingecko"
+	]
+}

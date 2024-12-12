@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x428360b02C1269bc1c79fbC399ad31d58C1E8fdA",
+	"symbol": "Digital Fitness",
+	"name": "Digital Fitness",
+	"coingecko": "defit",
+	"sources": [
+		"coingecko"
+	]
+}

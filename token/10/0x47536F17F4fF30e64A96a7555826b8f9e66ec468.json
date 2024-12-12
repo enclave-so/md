@@ -1,0 +1,10 @@
+{
+	"chain": 10,
+	"address": "0x47536F17F4fF30e64A96a7555826b8f9e66ec468",
+	"symbol": "Mummy Finance",
+	"name": "Mummy Finance",
+	"coingecko": "mummy-finance",
+	"sources": [
+		"coingecko"
+	]
+}

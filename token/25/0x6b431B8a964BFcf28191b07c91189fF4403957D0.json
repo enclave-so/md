@@ -1,0 +1,13 @@
+{
+	"chain": 25,
+	"address": "0x6b431B8a964BFcf28191b07c91189fF4403957D0",
+	"symbol": "CORGIAI",
+	"name": "CorgiAI",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x6b431B8a964BFcf28191b07c91189fF4403957D0.jpg",
+	"coingecko": "corgiai",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

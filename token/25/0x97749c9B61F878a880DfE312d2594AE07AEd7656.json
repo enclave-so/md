@@ -1,0 +1,10 @@
+{
+	"chain": 25,
+	"address": "0x97749c9B61F878a880DfE312d2594AE07AEd7656",
+	"symbol": "MMFinance (Cronos)",
+	"name": "MMFinance (Cronos)",
+	"coingecko": "mmfinance",
+	"sources": [
+		"coingecko"
+	]
+}

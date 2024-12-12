@@ -1,0 +1,10 @@
+{
+	"chain": 250,
+	"address": "0xc60D7067dfBc6f2caf30523a064f416A5Af52963",
+	"symbol": "Retreeb",
+	"name": "Retreeb",
+	"coingecko": "treeb",
+	"sources": [
+		"coingecko"
+	]
+}

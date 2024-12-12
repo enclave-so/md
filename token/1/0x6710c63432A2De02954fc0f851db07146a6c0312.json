@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x6710c63432A2De02954fc0f851db07146a6c0312",
+	"symbol": "Smart MFG",
+	"name": "Smart MFG",
+	"coingecko": "smart-mfg",
+	"sources": [
+		"coingecko"
+	]
+}

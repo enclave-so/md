@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0xf6dAE0D2be4993b00a2673360820AF6BAfD53887",
+	"symbol": "Launchpool",
+	"name": "Launchpool",
+	"coingecko": "launchpool",
+	"sources": [
+		"coingecko"
+	]
+}

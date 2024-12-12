@@ -1,0 +1,10 @@
+{
+	"chain": 16718,
+	"address": "0x2b2d892C3fe2b4113dd7aC0D2c1882AF202FB28F",
+	"symbol": "Synthetic Amber",
+	"name": "Synthetic Amber",
+	"coingecko": "synthetic-amber",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1030,
+	"address": "0x14b2D3bC65e74DAE1030EAFd8ac30c533c976A9b",
+	"symbol": "Wrapped Conflux",
+	"name": "Wrapped Conflux",
+	"coingecko": "wrapped-conflux",
+	"sources": [
+		"coingecko"
+	]
+}

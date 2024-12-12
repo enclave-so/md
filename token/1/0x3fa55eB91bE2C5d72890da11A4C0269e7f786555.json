@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x3fa55eB91bE2C5d72890da11A4C0269e7f786555",
+	"symbol": "Prophet of Ethereum",
+	"name": "Prophet of Ethereum",
+	"coingecko": "prophet-of-ethereum",
+	"sources": [
+		"coingecko"
+	]
+}

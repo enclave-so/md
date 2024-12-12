@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xdBb5Da27FFcFeBea8799a5832D4607714fc6aBa8",
+	"symbol": "DGEN",
+	"name": "DGEN",
+	"coingecko": "degen-knightsofdegen",
+	"sources": [
+		"coingecko"
+	]
+}

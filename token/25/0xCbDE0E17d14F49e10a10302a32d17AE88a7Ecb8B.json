@@ -1,0 +1,10 @@
+{
+	"chain": 25,
+	"address": "0xCbDE0E17d14F49e10a10302a32d17AE88a7Ecb8B",
+	"symbol": "Crystl Finance",
+	"name": "Crystl Finance",
+	"coingecko": "crystl-finance",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x680c89C40dE9D14aa608a1122363caD18783F837",
+	"symbol": "EPICBOTS",
+	"name": "EPICBOTS",
+	"coingecko": "epicbots",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x28424507fefb6f7f8E9D3860F56504E4e5f5f390",
+	"symbol": "Aave Polygon WETH",
+	"name": "Aave Polygon WETH",
+	"coingecko": "aave-polygon-weth",
+	"sources": [
+		"coingecko"
+	]
+}

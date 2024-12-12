@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x17837004eA685690b32dbEaD02a274Ec4333A26a",
+	"symbol": "Bear Inu",
+	"name": "Bear Inu",
+	"coingecko": "bear-inu",
+	"sources": [
+		"coingecko"
+	]
+}

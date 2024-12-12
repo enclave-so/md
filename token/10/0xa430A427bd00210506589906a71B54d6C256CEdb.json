@@ -1,0 +1,10 @@
+{
+	"chain": 10,
+	"address": "0xa430A427bd00210506589906a71B54d6C256CEdb",
+	"symbol": "Exactly Optimism",
+	"name": "Exactly Optimism",
+	"coingecko": "exactly-op",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xC744df3419A8c9Bd4D6b9852A503eb1C5308A326",
+	"symbol": "RED TOKEN",
+	"name": "RED TOKEN",
+	"coingecko": "red-token",
+	"sources": [
+		"coingecko"
+	]
+}

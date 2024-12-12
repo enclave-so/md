@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x6cCB663DAd597058Da28b58974e8bdB81323dd09",
+	"symbol": "BlockCentral Token",
+	"name": "BlockCentral Token",
+	"coingecko": "stasis-network",
+	"sources": [
+		"coingecko"
+	]
+}

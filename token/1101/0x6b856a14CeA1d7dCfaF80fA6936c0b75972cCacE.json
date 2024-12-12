@@ -1,0 +1,13 @@
+{
+	"chain": 1101,
+	"address": "0x6b856a14CeA1d7dCfaF80fA6936c0b75972cCacE",
+	"symbol": "FXS",
+	"name": "Frax Share",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/polygon-zkevm/0x6b856a14CeA1d7dCfaF80fA6936c0b75972cCacE.jpg",
+	"coingecko": "frax-share",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

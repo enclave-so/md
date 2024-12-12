@@ -1,0 +1,10 @@
+{
+	"chain": 245022934,
+	"address": "0x5f38248f339Bf4e84A2caf4e4c0552862dC9F82a",
+	"symbol": "NeonPass Bridged SOL (Neon EVM)",
+	"name": "NeonPass Bridged SOL (Neon EVM)",
+	"coingecko": "neonpass-bridged-sol-neon-evm",
+	"sources": [
+		"coingecko"
+	]
+}

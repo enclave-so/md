@@ -1,0 +1,10 @@
+{
+	"chain": 39797,
+	"address": "0x8B8e6090542B612B7E2d73A934f9F5ea7E9A40af",
+	"symbol": "DeFi Pulse Index",
+	"name": "DeFi Pulse Index",
+	"coingecko": "defipulse-index",
+	"sources": [
+		"coingecko"
+	]
+}

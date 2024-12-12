@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x569d0e52c3DbE95983BCC2434Cb9F69d905be919",
+	"symbol": "Roaring Kitty",
+	"name": "Roaring Kitty",
+	"coingecko": "roaring-kitty",
+	"sources": [
+		"coingecko"
+	]
+}

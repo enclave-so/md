@@ -1,0 +1,10 @@
+{
+	"chain": 250,
+	"address": "0x3dc57B391262e3aAe37a08D91241f9bA9d58b570",
+	"symbol": "Yoshi.exchange",
+	"name": "Yoshi.exchange",
+	"coingecko": "yoshi-exchange",
+	"sources": [
+		"coingecko"
+	]
+}

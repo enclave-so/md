@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x147faF8De9d8D8DAAE129B187F0D02D819126750",
+	"symbol": "GeoDB",
+	"name": "GeoDB",
+	"coingecko": "geodb",
+	"sources": [
+		"coingecko"
+	]
+}

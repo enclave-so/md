@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xCa730042595a1809793fbe2e9883c184c7Eb27Db",
+	"symbol": "GenomeFi",
+	"name": "GenomeFi",
+	"coingecko": "genomefi",
+	"sources": [
+		"coingecko"
+	]
+}

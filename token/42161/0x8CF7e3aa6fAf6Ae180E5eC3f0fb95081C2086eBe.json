@@ -1,0 +1,13 @@
+{
+	"chain": 42161,
+	"address": "0x8CF7e3aa6fAf6Ae180E5eC3f0fb95081C2086eBe",
+	"symbol": "SX",
+	"name": "SX Network",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x8CF7e3aa6fAf6Ae180E5eC3f0fb95081C2086eBe.jpg",
+	"coingecko": "sx-network-2",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

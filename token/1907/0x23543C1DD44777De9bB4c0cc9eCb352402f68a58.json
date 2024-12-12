@@ -1,0 +1,10 @@
+{
+	"chain": 1907,
+	"address": "0x23543C1DD44777De9bB4c0cc9eCb352402f68a58",
+	"symbol": "Inci",
+	"name": "Inci",
+	"coingecko": "inci-token",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x3136eF851592aCf49CA4C825131E364170FA32b3",
+	"symbol": "CoinFi",
+	"name": "CoinFi",
+	"coingecko": "coinfi",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x5D066D022EDE10eFa2717eD3D79f22F949F8C175",
+	"symbol": "Stabl.fi CASH",
+	"name": "Stabl.fi CASH",
+	"coingecko": "stabl-fi",
+	"sources": [
+		"coingecko"
+	]
+}

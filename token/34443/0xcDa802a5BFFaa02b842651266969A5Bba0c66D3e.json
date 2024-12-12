@@ -1,0 +1,10 @@
+{
+	"chain": 34443,
+	"address": "0xcDa802a5BFFaa02b842651266969A5Bba0c66D3e",
+	"symbol": "MoChadCoin",
+	"name": "MoChadCoin",
+	"coingecko": "mochadcoin",
+	"sources": [
+		"coingecko"
+	]
+}

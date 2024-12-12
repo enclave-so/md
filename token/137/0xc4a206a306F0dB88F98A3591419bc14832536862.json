@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xc4a206a306F0dB88F98A3591419bc14832536862",
+	"symbol": "Elefant",
+	"name": "Elefant",
+	"coingecko": "elefant",
+	"sources": [
+		"coingecko"
+	]
+}

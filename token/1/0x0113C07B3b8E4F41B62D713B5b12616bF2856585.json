@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x0113C07B3b8E4F41B62D713B5b12616bF2856585",
+	"symbol": "Hokkaido Inu Token",
+	"name": "Hokkaido Inu Token",
+	"coingecko": "hokkaido-inu-token",
+	"sources": [
+		"coingecko"
+	]
+}

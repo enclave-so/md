@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0x44709a920fCcF795fbC57BAA433cc3dd53C44DbE",
+	"symbol": "RADAR",
+	"name": "DappRadar",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x44709a920fCcF795fbC57BAA433cc3dd53C44DbE/logo.png",
+	"coingecko": "dappradar",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

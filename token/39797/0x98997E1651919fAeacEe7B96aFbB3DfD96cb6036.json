@@ -1,0 +1,10 @@
+{
+	"chain": 39797,
+	"address": "0x98997E1651919fAeacEe7B96aFbB3DfD96cb6036",
+	"symbol": "Polygon",
+	"name": "Polygon",
+	"coingecko": "matic-network",
+	"sources": [
+		"coingecko"
+	]
+}

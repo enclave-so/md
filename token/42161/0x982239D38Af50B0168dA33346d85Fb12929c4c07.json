@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x982239D38Af50B0168dA33346d85Fb12929c4c07",
+	"symbol": "Arbitrove Governance Token",
+	"name": "Arbitrove Governance Token",
+	"coingecko": "nitro-cartel",
+	"sources": [
+		"coingecko"
+	]
+}

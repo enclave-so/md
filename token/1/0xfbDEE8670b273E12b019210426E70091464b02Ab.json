@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xfbDEE8670b273E12b019210426E70091464b02Ab",
+	"symbol": "MEV Capital M^0 Morpho Vault",
+	"name": "MEV Capital M^0 Morpho Vault",
+	"coingecko": "mev-capital-m-0-morpho-vault",
+	"sources": [
+		"coingecko"
+	]
+}

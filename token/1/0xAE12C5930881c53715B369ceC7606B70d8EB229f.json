@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0xAE12C5930881c53715B369ceC7606B70d8EB229f",
+	"symbol": "C98",
+	"name": "Coin98",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xAE12C5930881c53715B369ceC7606B70d8EB229f/logo.png",
+	"coingecko": "coin98",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

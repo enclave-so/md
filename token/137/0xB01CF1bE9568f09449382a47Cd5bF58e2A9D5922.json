@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xB01CF1bE9568f09449382a47Cd5bF58e2A9D5922",
+	"symbol": "Lightspeed",
+	"name": "Lightspeed",
+	"coingecko": "lightspeed",
+	"sources": [
+		"coingecko"
+	]
+}

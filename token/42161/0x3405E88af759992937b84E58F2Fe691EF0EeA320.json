@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x3405E88af759992937b84E58F2Fe691EF0EeA320",
+	"symbol": "Frax Price Index Share",
+	"name": "Frax Price Index Share",
+	"coingecko": "frax-price-index-share",
+	"sources": [
+		"coingecko"
+	]
+}

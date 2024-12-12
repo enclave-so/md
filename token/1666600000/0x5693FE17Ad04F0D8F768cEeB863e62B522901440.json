@@ -1,0 +1,10 @@
+{
+	"chain": 1666600000,
+	"address": "0x5693FE17Ad04F0D8F768cEeB863e62B522901440",
+	"symbol": "Furucombo",
+	"name": "Furucombo",
+	"coingecko": "furucombo",
+	"sources": [
+		"coingecko"
+	]
+}

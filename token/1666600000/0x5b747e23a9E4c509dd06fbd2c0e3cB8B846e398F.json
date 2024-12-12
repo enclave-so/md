@@ -1,0 +1,11 @@
+{
+	"chain": 1666600000,
+	"address": "0x5b747e23a9E4c509dd06fbd2c0e3cB8B846e398F",
+	"symbol": "EVO",
+	"name": "EVO",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/harmony/0x5b747e23a9E4c509dd06fbd2c0e3cB8B846e398F.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

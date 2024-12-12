@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x03042ae6fcFd53E3A0BAa1FaB5Ce70E0cb74E6fb",
+	"symbol": "Ten Best Coins",
+	"name": "Ten Best Coins",
+	"coingecko": "ten-best-coins",
+	"sources": [
+		"coingecko"
+	]
+}

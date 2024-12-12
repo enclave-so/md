@@ -1,0 +1,10 @@
+{
+	"chain": 324,
+	"address": "0x0C6eaaAb86e8374A91e3F42c726B6FD1aBaCB54c",
+	"symbol": "Zino Pet",
+	"name": "Zino Pet",
+	"coingecko": "zino-pet",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 250,
+	"address": "0x8fF27b58E1d969bEFC9c8aEAE93A6EB7E2250c8f",
+	"symbol": "LIF3 LSHARE",
+	"name": "LIF3 LSHARE",
+	"coingecko": "lif3-lshare-new",
+	"sources": [
+		"coingecko"
+	]
+}

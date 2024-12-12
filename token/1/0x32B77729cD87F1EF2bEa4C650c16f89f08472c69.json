@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x32B77729cD87F1EF2bEa4C650c16f89f08472c69",
+	"symbol": "DeBox",
+	"name": "DeBox",
+	"coingecko": "debox",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xcA1262e77Fb25c0a4112CFc9bad3ff54F617f2e6",
+	"symbol": "Jax.Network",
+	"name": "Jax.Network",
+	"coingecko": "jax-network",
+	"sources": [
+		"coingecko"
+	]
+}

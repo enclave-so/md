@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x5Dfe42eEA70a3e6f93EE54eD9C321aF07A85535C",
+	"symbol": "Union Finance",
+	"name": "Union Finance",
+	"coingecko": "union-finance",
+	"sources": [
+		"coingecko"
+	]
+}

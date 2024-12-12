@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x7DFFadd25A6B9269d80515D1A992a5b825efFFb9",
+	"symbol": "Bundl",
+	"name": "Bundl",
+	"coingecko": "bundl",
+	"sources": [
+		"coingecko"
+	]
+}

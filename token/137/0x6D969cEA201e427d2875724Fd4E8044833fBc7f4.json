@@ -1,0 +1,11 @@
+{
+	"chain": 137,
+	"address": "0x6D969cEA201e427d2875724Fd4E8044833fBc7f4",
+	"symbol": "pHBD",
+	"name": "Polygon HBD",
+	"decimals": 3,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x6D969cEA201e427d2875724Fd4E8044833fBc7f4.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

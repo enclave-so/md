@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x95A62521c655e7A24A3919AA1f99764C05B7ec4E",
+	"symbol": "MMX",
+	"name": "MMX",
+	"coingecko": "m2-global-wealth-limited-mmx",
+	"sources": [
+		"coingecko"
+	]
+}

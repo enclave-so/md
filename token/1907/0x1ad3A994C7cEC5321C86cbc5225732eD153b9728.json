@@ -1,0 +1,10 @@
+{
+	"chain": 1907,
+	"address": "0x1ad3A994C7cEC5321C86cbc5225732eD153b9728",
+	"symbol": "Coritiba F.C. Fan Token",
+	"name": "Coritiba F.C. Fan Token",
+	"coingecko": "coritiba-f-c-fan-token",
+	"sources": [
+		"coingecko"
+	]
+}

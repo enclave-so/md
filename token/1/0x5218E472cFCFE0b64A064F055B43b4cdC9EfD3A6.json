@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x5218E472cFCFE0b64A064F055B43b4cdC9EfD3A6",
+	"symbol": "Residual Token",
+	"name": "Residual Token",
+	"coingecko": "unfederalreserve",
+	"sources": [
+		"coingecko"
+	]
+}

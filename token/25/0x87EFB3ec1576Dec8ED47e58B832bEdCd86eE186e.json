@@ -1,0 +1,13 @@
+{
+	"chain": 25,
+	"address": "0x87EFB3ec1576Dec8ED47e58B832bEdCd86eE186e",
+	"symbol": "TUSD",
+	"name": "TrueUSD",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x87EFB3ec1576Dec8ED47e58B832bEdCd86eE186e.jpg",
+	"coingecko": "bridged-trueusd",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

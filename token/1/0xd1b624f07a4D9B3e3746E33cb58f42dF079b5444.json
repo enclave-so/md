@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xd1b624f07a4D9B3e3746E33cb58f42dF079b5444",
+	"symbol": "NKCL Classic",
+	"name": "NKCL Classic",
+	"coingecko": "nkcl-classic",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 20,
+	"address": "0x802c3e839E4fDb10aF583E3E759239ec7703501e",
+	"symbol": "ShadowTokens Bridged WETH (Elastos Smart Chain)",
+	"name": "ShadowTokens Bridged WETH (Elastos Smart Chain)",
+	"coingecko": "shadowtokens-bridged-weth-elastos-smart-chain",
+	"sources": [
+		"coingecko"
+	]
+}

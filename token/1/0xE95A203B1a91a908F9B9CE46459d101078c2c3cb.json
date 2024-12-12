@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0xE95A203B1a91a908F9B9CE46459d101078c2c3cb",
+	"symbol": "ankrETH",
+	"name": "Ankr Staked ETH",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xE95A203B1a91a908F9B9CE46459d101078c2c3cb.jpg",
+	"coingecko": "ankreth",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

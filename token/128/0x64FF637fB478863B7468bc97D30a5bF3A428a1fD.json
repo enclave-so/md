@@ -1,0 +1,11 @@
+{
+	"chain": 128,
+	"address": "0x64FF637fB478863B7468bc97D30a5bF3A428a1fD",
+	"symbol": "ETH",
+	"name": "Heco-Peg ETH Token",
+	"decimals": 18,
+	"logo": "https://hecoinfo.com/token/images/HETH_32.png",
+	"sources": [
+		"sushiswap"
+	]
+}

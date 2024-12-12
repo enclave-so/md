@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xC256F81d35a54c3599B424171d719E9Ae87b2E9b",
+	"symbol": "Zoopia",
+	"name": "Zoopia",
+	"coingecko": "zoopia",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xF0d33BeDa4d734C72684b5f9abBEbf715D0a7935",
+	"symbol": "NuNet",
+	"name": "NuNet",
+	"coingecko": "nunet",
+	"sources": [
+		"coingecko"
+	]
+}

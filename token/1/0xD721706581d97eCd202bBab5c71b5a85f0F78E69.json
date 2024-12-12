@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xD721706581d97eCd202bBab5c71b5a85f0F78E69",
+	"symbol": "DOGE-1",
+	"name": "DOGE-1",
+	"coingecko": "doge-1",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x10BC518c32fbAE5e38Ecb50A612160571bD81e44",
+	"symbol": "VeraOne",
+	"name": "VeraOne",
+	"coingecko": "veraone",
+	"sources": [
+		"coingecko"
+	]
+}

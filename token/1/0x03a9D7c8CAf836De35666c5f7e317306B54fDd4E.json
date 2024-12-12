@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x03a9D7c8CAf836De35666c5f7e317306B54fDd4E",
+	"symbol": "JC Coin",
+	"name": "JC Coin",
+	"coingecko": "jc-coin",
+	"sources": [
+		"coingecko"
+	]
+}

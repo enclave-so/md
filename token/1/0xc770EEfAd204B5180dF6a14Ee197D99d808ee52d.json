@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xc770EEfAd204B5180dF6a14Ee197D99d808ee52d",
+	"symbol": "ShapeShift FOX",
+	"name": "ShapeShift FOX",
+	"coingecko": "shapeshift-fox-token",
+	"sources": [
+		"coingecko"
+	]
+}

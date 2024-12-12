@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x27C70Cd1946795B66be9d954418546998b546634",
+	"symbol": "Doge Killer",
+	"name": "Doge Killer",
+	"coingecko": "leash",
+	"sources": [
+		"coingecko"
+	]
+}

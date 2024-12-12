@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xDb298285FE4C5410B05390cA80e8Fbe9DE1F259B",
+	"symbol": "handle.fi",
+	"name": "handle.fi",
+	"coingecko": "handle-fi",
+	"sources": [
+		"coingecko"
+	]
+}

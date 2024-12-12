@@ -1,0 +1,11 @@
+{
+	"chain": 1284,
+	"address": "0x85a8B472d116585E2cc10eB1e0e3E3127E1f5D3f",
+	"symbol": "axlETH",
+	"name": "Axelar Wrapped ETH",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/moonbeam/0x85a8B472d116585E2cc10eB1e0e3E3127E1f5D3f.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1666600000,
+	"address": "0x2A719aF848bf365489E548BE5edbEC1D65858e59",
+	"symbol": "FIRA",
+	"name": "FIRA",
+	"coingecko": "fira",
+	"sources": [
+		"coingecko"
+	]
+}

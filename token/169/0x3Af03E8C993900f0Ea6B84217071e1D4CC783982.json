@@ -1,0 +1,10 @@
+{
+	"chain": 169,
+	"address": "0x3Af03E8C993900f0Ea6B84217071e1D4CC783982",
+	"symbol": "Ceto Swap",
+	"name": "Ceto Swap",
+	"coingecko": "ceto-swap",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x2c9acEb63181cd08a093d052ec041e191f229692",
+	"symbol": "Angryb",
+	"name": "Angryb",
+	"coingecko": "angryb",
+	"sources": [
+		"coingecko"
+	]
+}

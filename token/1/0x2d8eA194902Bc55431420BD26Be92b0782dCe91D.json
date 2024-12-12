@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x2d8eA194902Bc55431420BD26Be92b0782dCe91D",
+	"symbol": "ZND Token",
+	"name": "ZND Token",
+	"coingecko": "znd-token",
+	"sources": [
+		"coingecko"
+	]
+}

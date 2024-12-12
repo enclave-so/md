@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x503836c8c3A453c57f58CC99B070F2E78Ec14fC0",
+	"symbol": "SPORT",
+	"name": "SPORT",
+	"coingecko": "sport",
+	"sources": [
+		"coingecko"
+	]
+}

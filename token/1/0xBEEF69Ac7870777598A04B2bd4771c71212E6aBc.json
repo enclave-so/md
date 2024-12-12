@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xBEEF69Ac7870777598A04B2bd4771c71212E6aBc",
+	"symbol": "Steakhouse Resteaking Vault",
+	"name": "Steakhouse Resteaking Vault",
+	"coingecko": "steakhouse-resteaking-vault",
+	"sources": [
+		"coingecko"
+	]
+}

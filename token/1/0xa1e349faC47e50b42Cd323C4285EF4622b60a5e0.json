@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xa1e349faC47e50b42Cd323C4285EF4622b60a5e0",
+	"symbol": "Pepy coin",
+	"name": "Pepy coin",
+	"coingecko": "pepy-coin",
+	"sources": [
+		"coingecko"
+	]
+}

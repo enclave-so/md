@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x0CAAdd427A6Feb5B5Fc1137eB05aA7Ddd9c08ce9",
+	"symbol": "VEE",
+	"name": "VEE",
+	"coingecko": "vee",
+	"sources": [
+		"coingecko"
+	]
+}

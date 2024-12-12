@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xf976fC699Eb81a302a29BaC6590D1565E8e5DA0d",
+	"symbol": "RAKUICHI Token",
+	"name": "RAKUICHI Token",
+	"coingecko": "rakuichi-token",
+	"sources": [
+		"coingecko"
+	]
+}

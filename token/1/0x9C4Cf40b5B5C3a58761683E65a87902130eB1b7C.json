@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x9C4Cf40b5B5C3a58761683E65a87902130eB1b7C",
+	"symbol": "Tate Stop",
+	"name": "Tate Stop",
+	"coingecko": "tate-stop",
+	"sources": [
+		"coingecko"
+	]
+}

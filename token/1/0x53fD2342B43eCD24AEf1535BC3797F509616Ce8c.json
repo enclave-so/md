@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x53fD2342B43eCD24AEf1535BC3797F509616Ce8c",
+	"symbol": "Anarchy",
+	"name": "Anarchy",
+	"coingecko": "anarchy",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1101,
+	"address": "0x68286607A1d43602d880D349187c3c48c0fD05E6",
+	"symbol": "Quickswap",
+	"name": "Quickswap",
+	"coingecko": "quickswap",
+	"sources": [
+		"coingecko"
+	]
+}

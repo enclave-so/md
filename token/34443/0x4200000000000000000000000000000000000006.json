@@ -1,0 +1,10 @@
+{
+	"chain": 34443,
+	"address": "0x4200000000000000000000000000000000000006",
+	"symbol": "L2 Standard Bridged WETH (Mode)",
+	"name": "L2 Standard Bridged WETH (Mode)",
+	"coingecko": "l2-standard-bridged-weth-modee",
+	"sources": [
+		"coingecko"
+	]
+}

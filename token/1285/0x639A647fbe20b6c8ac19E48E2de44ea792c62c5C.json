@@ -1,0 +1,13 @@
+{
+	"chain": 1285,
+	"address": "0x639A647fbe20b6c8ac19E48E2de44ea792c62c5C",
+	"symbol": "anyWETH",
+	"name": "Wrapped Ether - AnySwap",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/eth.jpg",
+	"coingecko": "multichain-bridged-weth-moonriver",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

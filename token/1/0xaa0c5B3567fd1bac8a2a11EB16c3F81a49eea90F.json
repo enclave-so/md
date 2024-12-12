@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xaa0c5B3567fd1bac8a2a11EB16c3F81a49eea90F",
+	"symbol": "MetamonkeyAi",
+	"name": "MetamonkeyAi",
+	"coingecko": "metamonkeyai",
+	"sources": [
+		"coingecko"
+	]
+}

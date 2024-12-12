@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xb60FDF036F2ad584f79525B5da76C5c531283A1B",
+	"symbol": "Nemo Sum",
+	"name": "Nemo Sum",
+	"coingecko": "nemo-sum",
+	"sources": [
+		"coingecko"
+	]
+}

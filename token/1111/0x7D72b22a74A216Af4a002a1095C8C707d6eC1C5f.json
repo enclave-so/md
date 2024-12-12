@@ -1,0 +1,10 @@
+{
+	"chain": 1111,
+	"address": "0x7D72b22a74A216Af4a002a1095C8C707d6eC1C5f",
+	"symbol": "WWEMIX",
+	"name": "WWEMIX",
+	"coingecko": "wwemix",
+	"sources": [
+		"coingecko"
+	]
+}

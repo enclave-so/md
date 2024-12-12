@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x0e7375C46A0552520Ce6C976Dc268AE1B341F45f",
+	"symbol": "MetaToken",
+	"name": "MetaToken",
+	"coingecko": "metatoken-2",
+	"sources": [
+		"coingecko"
+	]
+}

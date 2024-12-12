@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x3330BFb7332cA23cd071631837dC289B09C33333",
+	"symbol": "Rubic",
+	"name": "Rubic",
+	"coingecko": "rubic",
+	"sources": [
+		"coingecko"
+	]
+}

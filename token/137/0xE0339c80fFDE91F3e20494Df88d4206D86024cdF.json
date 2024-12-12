@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xE0339c80fFDE91F3e20494Df88d4206D86024cdF",
+	"symbol": "Dogelon Mars",
+	"name": "Dogelon Mars",
+	"coingecko": "dogelon-mars",
+	"sources": [
+		"coingecko"
+	]
+}

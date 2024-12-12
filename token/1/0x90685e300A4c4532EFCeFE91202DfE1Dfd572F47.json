@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x90685e300A4c4532EFCeFE91202DfE1Dfd572F47",
+	"symbol": "Cross The Ages",
+	"name": "Cross The Ages",
+	"coingecko": "cross-the-ages",
+	"sources": [
+		"coingecko"
+	]
+}

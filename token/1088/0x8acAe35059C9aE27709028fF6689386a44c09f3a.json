@@ -1,0 +1,10 @@
+{
+	"chain": 1088,
+	"address": "0x8acAe35059C9aE27709028fF6689386a44c09f3a",
+	"symbol": "Aave v3 WETH",
+	"name": "Aave v3 WETH",
+	"coingecko": "aave-v3-weth",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x36eC6622B5227e3A7E4d085f1dfc1dC8F5192289",
+	"symbol": "Greenercoin",
+	"name": "Greenercoin",
+	"coingecko": "greenercoin",
+	"sources": [
+		"coingecko"
+	]
+}

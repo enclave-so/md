@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x667102BD3413bFEaa3Dffb48fa8288819E480a88",
+	"symbol": "Tokenize Xchange",
+	"name": "Tokenize Xchange",
+	"coingecko": "tokenize-xchange",
+	"sources": [
+		"coingecko"
+	]
+}

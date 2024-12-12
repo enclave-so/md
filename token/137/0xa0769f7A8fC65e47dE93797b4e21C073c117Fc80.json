@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xa0769f7A8fC65e47dE93797b4e21C073c117Fc80",
+	"symbol": "Spiko EU T-Bills Money Market Fund",
+	"name": "Spiko EU T-Bills Money Market Fund",
+	"coingecko": "eutbl",
+	"sources": [
+		"coingecko"
+	]
+}

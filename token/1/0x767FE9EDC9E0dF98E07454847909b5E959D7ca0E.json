@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0x767FE9EDC9E0dF98E07454847909b5E959D7ca0E",
+	"symbol": "ILV",
+	"name": "Illuvium",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x767FE9EDC9E0dF98E07454847909b5E959D7ca0E/logo.png",
+	"coingecko": "illuvium",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 14,
+	"address": "0x96B41289D90444B8adD57e6F265DB5aE8651DF29",
+	"symbol": "Enosys USDT",
+	"name": "Enosys USDT",
+	"coingecko": "enosys-usdt",
+	"sources": [
+		"coingecko"
+	]
+}

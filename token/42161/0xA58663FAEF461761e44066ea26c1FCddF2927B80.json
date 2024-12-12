@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0xA58663FAEF461761e44066ea26c1FCddF2927B80",
+	"symbol": "Kommunitas",
+	"name": "Kommunitas",
+	"coingecko": "kommunitas",
+	"sources": [
+		"coingecko"
+	]
+}

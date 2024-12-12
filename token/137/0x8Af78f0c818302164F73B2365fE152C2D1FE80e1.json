@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x8Af78f0c818302164F73B2365fE152C2D1FE80e1",
+	"symbol": "Financie Token",
+	"name": "Financie Token",
+	"coingecko": "financie-token",
+	"sources": [
+		"coingecko"
+	]
+}

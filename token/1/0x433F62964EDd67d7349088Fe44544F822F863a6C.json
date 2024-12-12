@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x433F62964EDd67d7349088Fe44544F822F863a6C",
+	"symbol": "Moge",
+	"name": "Moge",
+	"coingecko": "moge",
+	"sources": [
+		"coingecko"
+	]
+}

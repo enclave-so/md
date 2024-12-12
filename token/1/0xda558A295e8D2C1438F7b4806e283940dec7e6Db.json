@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xda558A295e8D2C1438F7b4806e283940dec7e6Db",
+	"symbol": "Tracker AI",
+	"name": "Tracker AI",
+	"coingecko": "tracker-ai",
+	"sources": [
+		"coingecko"
+	]
+}

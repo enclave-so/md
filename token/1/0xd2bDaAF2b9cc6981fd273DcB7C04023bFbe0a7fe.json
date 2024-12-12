@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xd2bDaAF2b9cc6981fd273DcB7C04023bFbe0a7fe",
+	"symbol": "Aviator",
+	"name": "Aviator",
+	"coingecko": "aviator",
+	"sources": [
+		"coingecko"
+	]
+}

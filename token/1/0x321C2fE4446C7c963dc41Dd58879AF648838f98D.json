@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0x321C2fE4446C7c963dc41Dd58879AF648838f98D",
+	"symbol": "CTX",
+	"name": "Cryptex",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x321C2fE4446C7c963dc41Dd58879AF648838f98D/logo.png",
+	"coingecko": "cryptex-finance",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

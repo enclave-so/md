@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0xe10D4a4255D2D35c9e23E2C4790E073046FbaF5c",
+	"symbol": "LandX Governance Token",
+	"name": "LandX Governance Token",
+	"coingecko": "landx-governance-token",
+	"sources": [
+		"coingecko"
+	]
+}

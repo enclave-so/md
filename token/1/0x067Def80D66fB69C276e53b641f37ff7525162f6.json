@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x067Def80D66fB69C276e53b641f37ff7525162f6",
+	"symbol": "OPEN GPU",
+	"name": "OPEN GPU",
+	"coingecko": "open-gpu",
+	"sources": [
+		"coingecko"
+	]
+}

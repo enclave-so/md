@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xf2051511B9b121394FA75B8F7d4E7424337af687",
+	"symbol": "DAOhaus",
+	"name": "DAOhaus",
+	"coingecko": "daohaus",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 10,
+	"address": "0xB5090D514BcacA7daFB7E52763658844121f346d",
+	"symbol": "Binary Holdings",
+	"name": "Binary Holdings",
+	"coingecko": "binary-holdings",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x8AB2ff0116A279a99950C66A12298962D152B83c",
+	"symbol": "Ordiswap",
+	"name": "Ordiswap",
+	"coingecko": "ordiswap-token",
+	"sources": [
+		"coingecko"
+	]
+}

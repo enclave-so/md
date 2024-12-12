@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xd9788f3931Ede4D5018184E198699dC6d66C1915",
+	"symbol": "Aave yVault",
+	"name": "Aave yVault",
+	"coingecko": "aave-yvault",
+	"sources": [
+		"coingecko"
+	]
+}

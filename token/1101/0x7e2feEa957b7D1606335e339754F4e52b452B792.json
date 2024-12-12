@@ -1,0 +1,11 @@
+{
+	"chain": 1101,
+	"address": "0x7e2feEa957b7D1606335e339754F4e52b452B792",
+	"symbol": "LDO",
+	"name": "Lido DAO",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/polygon-zkevm/0x7e2feEa957b7D1606335e339754F4e52b452B792.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

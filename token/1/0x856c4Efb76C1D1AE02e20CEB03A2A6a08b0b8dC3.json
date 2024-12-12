@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0x856c4Efb76C1D1AE02e20CEB03A2A6a08b0b8dC3",
+	"symbol": "OETH",
+	"name": "Origin Ether",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x856c4Efb76C1D1AE02e20CEB03A2A6a08b0b8dC3.jpg",
+	"coingecko": "origin-ether",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

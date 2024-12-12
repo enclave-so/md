@@ -1,0 +1,11 @@
+{
+	"chain": 42,
+	"address": "0x07de306FF27a2B630B1141956844eB1552B956B5",
+	"symbol": "USDT",
+	"name": "Tether USD",
+	"decimals": 6,
+	"logo": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDT.svg",
+	"sources": [
+		"sushiswap"
+	]
+}

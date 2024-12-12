@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xd2a08fF5F31d2F2d70C91960323C2ed31268ae25",
+	"symbol": "Neos.ai",
+	"name": "Neos.ai",
+	"coingecko": "neos-ai",
+	"sources": [
+		"coingecko"
+	]
+}

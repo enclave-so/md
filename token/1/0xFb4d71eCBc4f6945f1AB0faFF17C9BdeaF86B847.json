@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xFb4d71eCBc4f6945f1AB0faFF17C9BdeaF86B847",
+	"symbol": "BALI Skull",
+	"name": "BALI Skull",
+	"coingecko": "bali-skull",
+	"sources": [
+		"coingecko"
+	]
+}

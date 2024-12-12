@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xB69753c06BB5c366BE51E73bFc0cC2e3DC07E371",
+	"symbol": "POOH",
+	"name": "POOH",
+	"coingecko": "pooh",
+	"sources": [
+		"coingecko"
+	]
+}

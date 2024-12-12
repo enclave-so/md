@@ -1,0 +1,10 @@
+{
+	"chain": 295,
+	"address": "0x00000000000000000000000000000000000Ec585",
+	"symbol": "HeadStarter",
+	"name": "HeadStarter",
+	"coingecko": "headstarter",
+	"sources": [
+		"coingecko"
+	]
+}

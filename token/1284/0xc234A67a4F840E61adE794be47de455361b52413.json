@@ -1,0 +1,11 @@
+{
+	"chain": 1284,
+	"address": "0xc234A67a4F840E61adE794be47de455361b52413",
+	"symbol": "nomadDAI",
+	"name": "Dai Stablecoin",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/dai.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

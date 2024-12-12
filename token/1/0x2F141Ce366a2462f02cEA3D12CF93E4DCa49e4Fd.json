@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x2F141Ce366a2462f02cEA3D12CF93E4DCa49e4Fd",
+	"symbol": "FREEdom coin",
+	"name": "FREEdom coin",
+	"coingecko": "freedom-coin",
+	"sources": [
+		"coingecko"
+	]
+}

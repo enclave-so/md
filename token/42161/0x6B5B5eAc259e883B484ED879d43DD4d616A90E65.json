@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x6B5B5eAc259e883B484ED879d43DD4d616A90E65",
+	"symbol": "The Knowers",
+	"name": "The Knowers",
+	"coingecko": "the-knowers",
+	"sources": [
+		"coingecko"
+	]
+}

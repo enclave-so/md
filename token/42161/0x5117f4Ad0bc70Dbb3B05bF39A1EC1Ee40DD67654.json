@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x5117f4Ad0bc70Dbb3B05bF39A1EC1Ee40DD67654",
+	"symbol": "Avive",
+	"name": "Avive",
+	"coingecko": "avive",
+	"sources": [
+		"coingecko"
+	]
+}

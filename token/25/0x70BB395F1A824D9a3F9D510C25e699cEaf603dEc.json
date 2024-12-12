@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0x70BB395F1A824D9a3F9D510C25e699cEaf603dEc",
+	"symbol": "QRDO",
+	"name": "Qredo Token",
+	"decimals": 8,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x70BB395F1A824D9a3F9D510C25e699cEaf603dEc.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

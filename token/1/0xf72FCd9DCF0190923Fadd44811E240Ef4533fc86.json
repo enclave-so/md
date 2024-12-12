@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0xf72FCd9DCF0190923Fadd44811E240Ef4533fc86",
+	"symbol": "MVIXY",
+	"name": "Mirrored ProShares",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/mvixy.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

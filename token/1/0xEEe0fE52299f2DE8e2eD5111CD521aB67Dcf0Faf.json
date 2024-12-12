@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xEEe0fE52299f2DE8e2eD5111CD521aB67Dcf0Faf",
+	"symbol": "The QWAN",
+	"name": "The QWAN",
+	"coingecko": "the-qwan",
+	"sources": [
+		"coingecko"
+	]
+}

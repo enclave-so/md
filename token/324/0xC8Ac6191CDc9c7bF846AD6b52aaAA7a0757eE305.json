@@ -1,0 +1,10 @@
+{
+	"chain": 324,
+	"address": "0xC8Ac6191CDc9c7bF846AD6b52aaAA7a0757eE305",
+	"symbol": "Metavault Trade",
+	"name": "Metavault Trade",
+	"coingecko": "metavault-trade",
+	"sources": [
+		"coingecko"
+	]
+}

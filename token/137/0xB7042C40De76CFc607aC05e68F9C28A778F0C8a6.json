@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xB7042C40De76CFc607aC05e68F9C28A778F0C8a6",
+	"symbol": "Wistaverse",
+	"name": "Wistaverse",
+	"coingecko": "wistaverse",
+	"sources": [
+		"coingecko"
+	]
+}

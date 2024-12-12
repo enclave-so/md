@@ -1,0 +1,10 @@
+{
+	"chain": 361,
+	"address": "0x46fBF4487fA1B9C70d35BD761c51c360dF9459ed",
+	"symbol": "Lavita",
+	"name": "Lavita",
+	"coingecko": "lavita",
+	"sources": [
+		"coingecko"
+	]
+}

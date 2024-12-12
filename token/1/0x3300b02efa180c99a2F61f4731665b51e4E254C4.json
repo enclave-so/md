@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x3300b02efa180c99a2F61f4731665b51e4E254C4",
+	"symbol": "Hitmakr",
+	"name": "Hitmakr",
+	"coingecko": "hitmakr",
+	"sources": [
+		"coingecko"
+	]
+}

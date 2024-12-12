@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0xbED48612BC69fA1CaB67052b42a95FB30C1bcFee",
+	"symbol": "SHIB",
+	"name": "Shiba Inu",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xbED48612BC69fA1CaB67052b42a95FB30C1bcFee.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

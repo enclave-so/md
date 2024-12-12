@@ -1,0 +1,10 @@
+{
+	"chain": 1284,
+	"address": "0xfFfFFFFF52C56A9257bB97f4B2b6F7B2D624ecda",
+	"symbol": "Acala Dollar (Acala)",
+	"name": "Acala Dollar (Acala)",
+	"coingecko": "acala-dollar-acala",
+	"sources": [
+		"coingecko"
+	]
+}

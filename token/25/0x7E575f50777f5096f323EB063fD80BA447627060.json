@@ -1,0 +1,13 @@
+{
+	"chain": 25,
+	"address": "0x7E575f50777f5096f323EB063fD80BA447627060",
+	"symbol": "SERIOUS",
+	"name": "Serious Coin",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x7E575f50777f5096f323EB063fD80BA447627060.jpg",
+	"coingecko": "serious-coin",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

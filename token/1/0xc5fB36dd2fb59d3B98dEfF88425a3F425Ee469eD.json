@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xc5fB36dd2fb59d3B98dEfF88425a3F425Ee469eD",
+	"symbol": "Dejitaru Tsuka",
+	"name": "Dejitaru Tsuka",
+	"coingecko": "dejitaru-tsuka",
+	"sources": [
+		"coingecko"
+	]
+}

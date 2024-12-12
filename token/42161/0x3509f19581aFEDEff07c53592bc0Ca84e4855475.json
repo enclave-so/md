@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x3509f19581aFEDEff07c53592bc0Ca84e4855475",
+	"symbol": "xDollar Stablecoin",
+	"name": "xDollar Stablecoin",
+	"coingecko": "xdollar-stablecoin",
+	"sources": [
+		"coingecko"
+	]
+}

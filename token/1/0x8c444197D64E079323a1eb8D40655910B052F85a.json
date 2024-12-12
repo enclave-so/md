@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x8c444197D64E079323a1eb8D40655910B052F85a",
+	"symbol": "EQ9",
+	"name": "EQ9",
+	"coingecko": "eq9-2",
+	"sources": [
+		"coingecko"
+	]
+}

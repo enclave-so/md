@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x8F1CecE048Cade6b8a05dFA2f90EE4025F4F2662",
+	"symbol": "Galaxy Fox",
+	"name": "Galaxy Fox",
+	"coingecko": "galaxy-fox",
+	"sources": [
+		"coingecko"
+	]
+}

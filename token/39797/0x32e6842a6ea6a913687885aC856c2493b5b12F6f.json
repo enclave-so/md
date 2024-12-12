@@ -1,0 +1,10 @@
+{
+	"chain": 39797,
+	"address": "0x32e6842a6ea6a913687885aC856c2493b5b12F6f",
+	"symbol": "Badger",
+	"name": "Badger",
+	"coingecko": "badger-dao",
+	"sources": [
+		"coingecko"
+	]
+}

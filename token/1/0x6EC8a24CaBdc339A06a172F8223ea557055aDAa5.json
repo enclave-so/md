@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x6EC8a24CaBdc339A06a172F8223ea557055aDAa5",
+	"symbol": "Genaro Network",
+	"name": "Genaro Network",
+	"coingecko": "genaro-network",
+	"sources": [
+		"coingecko"
+	]
+}

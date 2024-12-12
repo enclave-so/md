@@ -1,0 +1,10 @@
+{
+	"chain": 10,
+	"address": "0x50Bce64397C75488465253c0A034b8097FeA6578",
+	"symbol": "HanChain",
+	"name": "HanChain",
+	"coingecko": "hanchain",
+	"sources": [
+		"coingecko"
+	]
+}

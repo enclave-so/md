@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x69b2cd28B205B47C8ba427e111dD486f9C461B57",
+	"symbol": "PHAT",
+	"name": "Partyhat",
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x69b2cd28B205B47C8ba427e111dD486f9C461B57.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

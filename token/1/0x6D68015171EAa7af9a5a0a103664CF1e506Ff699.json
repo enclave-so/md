@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x6D68015171EAa7af9a5a0a103664CF1e506Ff699",
+	"symbol": "Tuzki",
+	"name": "Tuzki",
+	"coingecko": "tuzki",
+	"sources": [
+		"coingecko"
+	]
+}

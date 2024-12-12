@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0x93ED3FBe21207Ec2E8f2d3c3de6e058Cb73Bc04d",
+	"symbol": "PNK",
+	"name": "Pinakion",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x93ED3FBe21207Ec2E8f2d3c3de6e058Cb73Bc04d/logo.png",
+	"coingecko": "kleros",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

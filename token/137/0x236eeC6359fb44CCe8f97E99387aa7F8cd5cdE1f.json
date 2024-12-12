@@ -1,0 +1,13 @@
+{
+	"chain": 137,
+	"address": "0x236eeC6359fb44CCe8f97E99387aa7F8cd5cdE1f",
+	"symbol": "USD+",
+	"name": "USD+",
+	"decimals": 6,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x236eeC6359fb44CCe8f97E99387aa7F8cd5cdE1f.jpg",
+	"coingecko": "usd",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x07D1718fF05a8C53C8F05aDAEd57C0d672945f9a",
+	"symbol": "Aladdin rUSD",
+	"name": "Aladdin rUSD",
+	"coingecko": "aladdin-rusd",
+	"sources": [
+		"coingecko"
+	]
+}

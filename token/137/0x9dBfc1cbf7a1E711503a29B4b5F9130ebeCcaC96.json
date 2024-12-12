@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x9dBfc1cbf7a1E711503a29B4b5F9130ebeCcaC96",
+	"symbol": "UpOnly",
+	"name": "UpOnly",
+	"coingecko": "uponly-token",
+	"sources": [
+		"coingecko"
+	]
+}

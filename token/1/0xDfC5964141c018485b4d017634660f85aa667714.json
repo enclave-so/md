@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xDfC5964141c018485b4d017634660f85aa667714",
+	"symbol": "Valhalla Index",
+	"name": "Valhalla Index",
+	"coingecko": "valhalla-index",
+	"sources": [
+		"coingecko"
+	]
+}

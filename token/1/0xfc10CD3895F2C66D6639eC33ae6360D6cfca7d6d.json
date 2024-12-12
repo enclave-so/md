@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xfc10CD3895F2C66D6639eC33ae6360D6cfca7d6d",
+	"symbol": "YES",
+	"name": "YES",
+	"coingecko": "yes-3",
+	"sources": [
+		"coingecko"
+	]
+}

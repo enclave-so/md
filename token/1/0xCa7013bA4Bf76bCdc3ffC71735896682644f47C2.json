@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xCa7013bA4Bf76bCdc3ffC71735896682644f47C2",
+	"symbol": "Degen",
+	"name": "Degen",
+	"coingecko": "degen-2",
+	"sources": [
+		"coingecko"
+	]
+}

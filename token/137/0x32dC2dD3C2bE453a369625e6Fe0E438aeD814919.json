@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x32dC2dD3C2bE453a369625e6Fe0E438aeD814919",
+	"symbol": "SelfKey",
+	"name": "SelfKey",
+	"coingecko": "selfkey",
+	"sources": [
+		"coingecko"
+	]
+}

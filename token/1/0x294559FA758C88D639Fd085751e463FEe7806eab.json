@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x294559FA758C88D639Fd085751e463FEe7806eab",
+	"symbol": "Metal Blockchain",
+	"name": "Metal Blockchain",
+	"coingecko": "metal-blockchain",
+	"sources": [
+		"coingecko"
+	]
+}

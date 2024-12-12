@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xf3E07812eBC8604fdDB0AA35ff79a03F48f48948",
+	"symbol": "JournArt",
+	"name": "JournArt",
+	"coingecko": "journart",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x490e3f4af13e1616EC97A8C6600c1061a8D0253e",
+	"symbol": "Terran Coin",
+	"name": "Terran Coin",
+	"coingecko": "terran-coin",
+	"sources": [
+		"coingecko"
+	]
+}

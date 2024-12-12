@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0x9992eC3cF6A55b00978cdDF2b27BC6882d88D1eC",
+	"symbol": "POLY",
+	"name": "Polymath",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x9992eC3cF6A55b00978cdDF2b27BC6882d88D1eC/logo.png",
+	"coingecko": "polymath",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

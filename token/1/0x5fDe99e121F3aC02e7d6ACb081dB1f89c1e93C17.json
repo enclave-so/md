@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x5fDe99e121F3aC02e7d6ACb081dB1f89c1e93C17",
+	"symbol": "MYSO Token",
+	"name": "MYSO Token",
+	"coingecko": "myso-token",
+	"sources": [
+		"coingecko"
+	]
+}

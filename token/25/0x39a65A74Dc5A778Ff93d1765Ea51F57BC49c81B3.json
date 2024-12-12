@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0x39a65A74Dc5A778Ff93d1765Ea51F57BC49c81B3",
+	"symbol": "AKT",
+	"name": "AKT",
+	"decimals": 6,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x39a65A74Dc5A778Ff93d1765Ea51F57BC49c81B3.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

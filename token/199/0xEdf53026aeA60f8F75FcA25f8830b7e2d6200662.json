@@ -1,0 +1,13 @@
+{
+	"chain": 199,
+	"address": "0xEdf53026aeA60f8F75FcA25f8830b7e2d6200662",
+	"symbol": "TRX",
+	"name": "Tron",
+	"decimals": 6,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bttc/0xEdf53026aeA60f8F75FcA25f8830b7e2d6200662.jpg",
+	"coingecko": "wrapped-tron",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

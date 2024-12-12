@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xe5fBa6ddD3767175AE7125C334c665A2e018F785",
+	"symbol": "Arrland ARRC",
+	"name": "Arrland ARRC",
+	"coingecko": "arrland-arrc",
+	"sources": [
+		"coingecko"
+	]
+}

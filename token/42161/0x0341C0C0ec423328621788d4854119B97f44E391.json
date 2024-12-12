@@ -1,0 +1,13 @@
+{
+	"chain": 42161,
+	"address": "0x0341C0C0ec423328621788d4854119B97f44E391",
+	"symbol": "Silo",
+	"name": "Silo Governance Token",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x0341C0C0ec423328621788d4854119B97f44E391.jpg",
+	"coingecko": "silo-finance",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

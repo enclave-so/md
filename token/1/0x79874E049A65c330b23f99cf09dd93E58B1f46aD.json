@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x79874E049A65c330b23f99cf09dd93E58B1f46aD",
+	"symbol": "Babble AI",
+	"name": "Babble AI",
+	"coingecko": "babble-ai",
+	"sources": [
+		"coingecko"
+	]
+}

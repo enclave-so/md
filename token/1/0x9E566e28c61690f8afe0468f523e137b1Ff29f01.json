@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x9E566e28c61690f8afe0468f523e137b1Ff29f01",
+	"symbol": "GanNamCAT",
+	"name": "GanNamCAT",
+	"coingecko": "gannamcat",
+	"sources": [
+		"coingecko"
+	]
+}

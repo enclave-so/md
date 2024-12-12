@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x3404149e9EE6f17Fb41DB1Ce593ee48FBDcD9506",
+	"symbol": "Hydranet",
+	"name": "Hydranet",
+	"coingecko": "hydranet",
+	"sources": [
+		"coingecko"
+	]
+}

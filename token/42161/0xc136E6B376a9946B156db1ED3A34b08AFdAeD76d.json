@@ -1,0 +1,11 @@
+{
+	"chain": 42161,
+	"address": "0xc136E6B376a9946B156db1ED3A34b08AFdAeD76d",
+	"symbol": "CREDA",
+	"name": "CreDA Protocol Token",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/arbitrum/assets/0xc136E6B376a9946B156db1ED3A34b08AFdAeD76d/logo.png",
+	"sources": [
+		"sushiswap"
+	]
+}

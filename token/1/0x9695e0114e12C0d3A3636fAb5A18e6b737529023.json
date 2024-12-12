@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x9695e0114e12C0d3A3636fAb5A18e6b737529023",
+	"symbol": "Dfyn Network",
+	"name": "Dfyn Network",
+	"coingecko": "dfyn-network",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xe9Da5E227e3Fa4Fc933b5f540BE021e7EcC3Fd81",
+	"symbol": "GMFAM",
+	"name": "GMFAM",
+	"coingecko": "gmfam",
+	"sources": [
+		"coingecko"
+	]
+}

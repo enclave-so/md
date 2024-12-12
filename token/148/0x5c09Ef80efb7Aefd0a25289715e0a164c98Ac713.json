@@ -1,0 +1,10 @@
+{
+	"chain": 148,
+	"address": "0x5c09Ef80efb7Aefd0a25289715e0a164c98Ac713",
+	"symbol": "ZeroSwapNFT",
+	"name": "ZeroSwapNFT",
+	"coingecko": "zeroswapnft",
+	"sources": [
+		"coingecko"
+	]
+}

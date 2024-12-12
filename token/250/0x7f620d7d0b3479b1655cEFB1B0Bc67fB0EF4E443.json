@@ -1,0 +1,11 @@
+{
+	"chain": 250,
+	"address": "0x7f620d7d0b3479b1655cEFB1B0Bc67fB0EF4E443",
+	"symbol": "nICE",
+	"name": "NICE",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/fantom/0x7f620d7d0b3479b1655cEFB1B0Bc67fB0EF4E443.png",
+	"sources": [
+		"sushiswap"
+	]
+}

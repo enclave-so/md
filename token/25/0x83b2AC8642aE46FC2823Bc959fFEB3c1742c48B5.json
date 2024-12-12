@@ -1,0 +1,13 @@
+{
+	"chain": 25,
+	"address": "0x83b2AC8642aE46FC2823Bc959fFEB3c1742c48B5",
+	"symbol": "DARK",
+	"name": "DarkCrypto",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x83b2AC8642aE46FC2823Bc959fFEB3c1742c48B5.jpg",
+	"coingecko": "darkcrypto",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

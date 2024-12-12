@@ -1,0 +1,10 @@
+{
+	"chain": 169,
+	"address": "0x90E95735378A31BfAD2Dcd87128Fbb80FFeB6917",
+	"symbol": "Pyth Network",
+	"name": "Pyth Network",
+	"coingecko": "pyth-network",
+	"sources": [
+		"coingecko"
+	]
+}

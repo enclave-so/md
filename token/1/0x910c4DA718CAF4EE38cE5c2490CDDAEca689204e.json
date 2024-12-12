@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x910c4DA718CAF4EE38cE5c2490CDDAEca689204e",
+	"symbol": "Waste Digital Coin",
+	"name": "Waste Digital Coin",
+	"coingecko": "waste-coin",
+	"sources": [
+		"coingecko"
+	]
+}

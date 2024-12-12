@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0x4b4D2e899658FB59b1D518b68fe836B100ee8958",
+	"symbol": "MIS",
+	"name": "Mithril Shares",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x4b4D2e899658FB59b1D518b68fe836B100ee8958/logo.png",
+	"sources": [
+		"sushiswap"
+	]
+}

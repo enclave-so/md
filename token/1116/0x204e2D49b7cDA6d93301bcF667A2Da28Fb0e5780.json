@@ -1,0 +1,13 @@
+{
+	"chain": 1116,
+	"address": "0x204e2D49b7cDA6d93301bcF667A2Da28Fb0e5780",
+	"symbol": "ARS",
+	"name": "Aquarius",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/core/0x204e2D49b7cDA6d93301bcF667A2Da28Fb0e5780.jpg",
+	"coingecko": "aquarius-loan",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

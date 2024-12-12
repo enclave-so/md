@@ -1,0 +1,10 @@
+{
+	"chain": 250,
+	"address": "0x4cdF39285D7Ca8eB3f090fDA0C069ba5F4145B37",
+	"symbol": "Tomb Shares",
+	"name": "Tomb Shares",
+	"coingecko": "tomb-shares",
+	"sources": [
+		"coingecko"
+	]
+}

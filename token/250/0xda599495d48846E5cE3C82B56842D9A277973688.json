@@ -1,0 +1,10 @@
+{
+	"chain": 250,
+	"address": "0xda599495d48846E5cE3C82B56842D9A277973688",
+	"symbol": "Grimoire Finance Token",
+	"name": "Grimoire Finance Token",
+	"coingecko": "grimoire-finance-token",
+	"sources": [
+		"coingecko"
+	]
+}

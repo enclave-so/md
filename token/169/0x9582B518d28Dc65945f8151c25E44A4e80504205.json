@@ -1,0 +1,10 @@
+{
+	"chain": 169,
+	"address": "0x9582B518d28Dc65945f8151c25E44A4e80504205",
+	"symbol": "GULL",
+	"name": "GULL",
+	"coingecko": "gull",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x0bB9aB78aAF7179b7515e6753d89822b91e670C4",
+	"symbol": "Kernel USD",
+	"name": "Kernel USD",
+	"coingecko": "kernel-usd",
+	"sources": [
+		"coingecko"
+	]
+}

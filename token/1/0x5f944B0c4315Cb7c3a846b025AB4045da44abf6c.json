@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x5f944B0c4315Cb7c3a846b025AB4045da44abf6c",
+	"symbol": "Pancake Games",
+	"name": "Pancake Games",
+	"coingecko": "pancake-games",
+	"sources": [
+		"coingecko"
+	]
+}

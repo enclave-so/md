@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xEBE4a49dF7885d015329c919bF43e6460a858F1e",
+	"symbol": "iShook",
+	"name": "iShook",
+	"coingecko": "ishook",
+	"sources": [
+		"coingecko"
+	]
+}

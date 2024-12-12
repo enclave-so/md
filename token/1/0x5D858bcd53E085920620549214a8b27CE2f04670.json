@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x5D858bcd53E085920620549214a8b27CE2f04670",
+	"symbol": "POP Network",
+	"name": "POP Network",
+	"coingecko": "pop-chest-token",
+	"sources": [
+		"coingecko"
+	]
+}

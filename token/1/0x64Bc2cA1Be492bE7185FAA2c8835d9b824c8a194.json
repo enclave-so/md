@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x64Bc2cA1Be492bE7185FAA2c8835d9b824c8a194",
+	"symbol": "Big Time",
+	"name": "Big Time",
+	"coingecko": "big-time",
+	"sources": [
+		"coingecko"
+	]
+}

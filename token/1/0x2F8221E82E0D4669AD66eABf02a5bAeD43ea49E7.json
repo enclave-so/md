@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0x2F8221E82E0D4669AD66eABf02a5bAeD43ea49E7",
+	"symbol": "NEWS",
+	"name": "Newsly",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x2F8221E82E0D4669AD66eABf02a5bAeD43ea49E7.jpg",
+	"coingecko": "newsly",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

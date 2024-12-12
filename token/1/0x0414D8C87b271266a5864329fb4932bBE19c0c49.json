@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x0414D8C87b271266a5864329fb4932bBE19c0c49",
+	"symbol": "WSB Coin",
+	"name": "WSB Coin",
+	"coingecko": "wsb-coin",
+	"sources": [
+		"coingecko"
+	]
+}

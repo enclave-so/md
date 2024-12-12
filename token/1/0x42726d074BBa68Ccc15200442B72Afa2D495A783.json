@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x42726d074BBa68Ccc15200442B72Afa2D495A783",
+	"symbol": "Isiklar Coin",
+	"name": "Isiklar Coin",
+	"coingecko": "isiklar-coin",
+	"sources": [
+		"coingecko"
+	]
+}

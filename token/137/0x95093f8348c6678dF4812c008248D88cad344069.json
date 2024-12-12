@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x95093f8348c6678dF4812c008248D88cad344069",
+	"symbol": "War Legends",
+	"name": "War Legends",
+	"coingecko": "warlegends",
+	"sources": [
+		"coingecko"
+	]
+}

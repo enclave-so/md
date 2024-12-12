@@ -1,0 +1,10 @@
+{
+	"chain": 250,
+	"address": "0xA9937092c4E2B0277C16802Cc8778D252854688A",
+	"symbol": "Olive Cash",
+	"name": "Olive Cash",
+	"coingecko": "olivecash",
+	"sources": [
+		"coingecko"
+	]
+}

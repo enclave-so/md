@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x2db0Db271a10661e7090b6758350E18F6798a49D",
+	"symbol": "Mobius Finance",
+	"name": "Mobius Finance",
+	"coingecko": "mobius-finance",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x044d078F1c86508e13328842Cc75AC021B272958",
+	"symbol": "Peercoin",
+	"name": "Peercoin",
+	"coingecko": "peercoin",
+	"sources": [
+		"coingecko"
+	]
+}

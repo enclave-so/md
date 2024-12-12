@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xF5e11df1ebCf78b6b6D26E04FF19cD786a1e81dC",
+	"symbol": "BounceBit BTC",
+	"name": "BounceBit BTC",
+	"coingecko": "bouncebit-btc",
+	"sources": [
+		"coingecko"
+	]
+}

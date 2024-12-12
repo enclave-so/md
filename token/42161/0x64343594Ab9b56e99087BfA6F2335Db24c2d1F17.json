@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x64343594Ab9b56e99087BfA6F2335Db24c2d1F17",
+	"symbol": "Vesta Stable",
+	"name": "Vesta Stable",
+	"coingecko": "vesta-stable",
+	"sources": [
+		"coingecko"
+	]
+}

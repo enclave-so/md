@@ -1,0 +1,10 @@
+{
+	"chain": 1666600000,
+	"address": "0x451E129b6045b6E4F48E7247388f21163f7743B7",
+	"symbol": "Ren",
+	"name": "Ren",
+	"coingecko": "republic-protocol",
+	"sources": [
+		"coingecko"
+	]
+}

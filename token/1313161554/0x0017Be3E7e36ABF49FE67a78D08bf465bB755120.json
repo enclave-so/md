@@ -1,0 +1,10 @@
+{
+	"chain": 1313161554,
+	"address": "0x0017Be3E7e36ABF49FE67a78D08bf465bB755120",
+	"symbol": "AmaterasuFi Izanagi",
+	"name": "AmaterasuFi Izanagi",
+	"coingecko": "amaterasufi-izanagi",
+	"sources": [
+		"coingecko"
+	]
+}

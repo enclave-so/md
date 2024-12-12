@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xec12e2d7acd850FE3953d1dbf860F523914654a7",
+	"symbol": "Mirada AI",
+	"name": "Mirada AI",
+	"coingecko": "mirada-ai",
+	"sources": [
+		"coingecko"
+	]
+}

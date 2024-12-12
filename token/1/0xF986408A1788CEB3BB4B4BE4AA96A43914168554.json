@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xF986408A1788CEB3BB4B4BE4AA96A43914168554",
+	"symbol": "Fast And AI",
+	"name": "Fast And AI",
+	"coingecko": "fast-and-ai",
+	"sources": [
+		"coingecko"
+	]
+}

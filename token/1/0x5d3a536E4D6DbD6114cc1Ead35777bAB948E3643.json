@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x5d3a536E4D6DbD6114cc1Ead35777bAB948E3643",
+	"symbol": "cDAI",
+	"name": "cDAI",
+	"coingecko": "cdai",
+	"sources": [
+		"coingecko"
+	]
+}

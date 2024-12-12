@@ -1,0 +1,11 @@
+{
+	"chain": 42161,
+	"address": "0x65CD2E7d7BAcDaC3AA9dAe68fb5d548dfE1fEFB5",
+	"symbol": "slUSDT",
+	"name": "Shared-liquidity USDT",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x65CD2E7d7BAcDaC3AA9dAe68fb5d548dfE1fEFB5.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

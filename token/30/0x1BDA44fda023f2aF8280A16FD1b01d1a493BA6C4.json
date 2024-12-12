@@ -1,0 +1,11 @@
+{
+	"chain": 30,
+	"address": "0x1BDA44fda023f2aF8280A16FD1b01d1a493BA6C4",
+	"symbol": "rUSDC",
+	"name": "rUSDC",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/rootstock/0x1BDA44fda023f2aF8280A16FD1b01d1a493BA6C4.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

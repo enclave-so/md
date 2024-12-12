@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x5a3e6A77ba2f983eC0d371ea3B475F8Bc0811AD5",
+	"symbol": "0x0.ai: AI Smart Contract",
+	"name": "0x0.ai: AI Smart Contract",
+	"coingecko": "0x0-ai-ai-smart-contract",
+	"sources": [
+		"coingecko"
+	]
+}

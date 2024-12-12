@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x68f108FB7141FFe36B832c5c225D9e7e474BD664",
+	"symbol": "Pepinu",
+	"name": "Pepinu",
+	"coingecko": "pepinu",
+	"sources": [
+		"coingecko"
+	]
+}

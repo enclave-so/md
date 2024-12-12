@@ -1,0 +1,10 @@
+{
+	"chain": 10,
+	"address": "0xFA436399d0458Dbe8aB890c3441256E3E09022a8",
+	"symbol": "ZipSwap",
+	"name": "ZipSwap",
+	"coingecko": "zipswap",
+	"sources": [
+		"coingecko"
+	]
+}

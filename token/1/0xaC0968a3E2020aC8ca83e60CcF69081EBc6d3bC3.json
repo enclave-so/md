@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xaC0968a3E2020aC8ca83e60CcF69081EBc6d3bC3",
+	"symbol": "Cindrum",
+	"name": "Cindrum",
+	"coingecko": "cindrum",
+	"sources": [
+		"coingecko"
+	]
+}

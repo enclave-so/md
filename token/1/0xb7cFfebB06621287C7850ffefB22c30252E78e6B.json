@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xb7cFfebB06621287C7850ffefB22c30252E78e6B",
+	"symbol": "Drift Token",
+	"name": "Drift Token",
+	"coingecko": "drift-token",
+	"sources": [
+		"coingecko"
+	]
+}

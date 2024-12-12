@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x3A58a54C066FdC0f2D55FC9C89F0415C92eBf3C4",
+	"symbol": "Lido Staked Matic",
+	"name": "Lido Staked Matic",
+	"coingecko": "lido-staked-matic",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x9028C2A7f8C8530450549915c5338841Db2a5fEa",
+	"symbol": "FOMO Network",
+	"name": "FOMO Network",
+	"coingecko": "fomo-network",
+	"sources": [
+		"coingecko"
+	]
+}

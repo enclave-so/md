@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x435cbF7C09e01D6a07B9997770f7b9d1AB754020",
+	"symbol": "Magnificent 7777",
+	"name": "Magnificent 7777",
+	"coingecko": "magnificent-7777",
+	"sources": [
+		"coingecko"
+	]
+}

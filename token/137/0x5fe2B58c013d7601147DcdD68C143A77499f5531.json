@@ -1,0 +1,13 @@
+{
+	"chain": 137,
+	"address": "0x5fe2B58c013d7601147DcdD68C143A77499f5531",
+	"symbol": "GRT",
+	"name": "Graph Token",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/grt.jpg",
+	"coingecko": "the-graph",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

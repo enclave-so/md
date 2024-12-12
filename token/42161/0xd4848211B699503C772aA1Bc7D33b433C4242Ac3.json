@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0xd4848211B699503C772aA1Bc7D33b433C4242Ac3",
+	"symbol": "Equilibria Finance ePENDLE",
+	"name": "Equilibria Finance ePENDLE",
+	"coingecko": "equilibria-finance-ependle",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x73374Ea518De7adDD4c2B624C0e8B113955ee041",
+	"symbol": "Juggernaut",
+	"name": "Juggernaut",
+	"coingecko": "juggernaut",
+	"sources": [
+		"coingecko"
+	]
+}

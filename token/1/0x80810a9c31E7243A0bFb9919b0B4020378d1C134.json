@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x80810a9c31E7243A0bFb9919b0B4020378d1C134",
+	"symbol": "The Republican Party",
+	"name": "The Republican Party",
+	"coingecko": "the-republican-party",
+	"sources": [
+		"coingecko"
+	]
+}

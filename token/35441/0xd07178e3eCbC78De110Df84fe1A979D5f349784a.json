@@ -1,0 +1,10 @@
+{
+	"chain": 35441,
+	"address": "0xd07178e3eCbC78De110Df84fe1A979D5f349784a",
+	"symbol": "Wrapped Q",
+	"name": "Wrapped Q",
+	"coingecko": "wrapped-q",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x5AC83BfbFcebb3397A40fD259dBE7a4bE04237d3",
+	"symbol": "Lyfebloc",
+	"name": "Lyfebloc",
+	"coingecko": "lyfebloc",
+	"sources": [
+		"coingecko"
+	]
+}

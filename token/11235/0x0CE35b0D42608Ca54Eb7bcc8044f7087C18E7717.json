@@ -1,0 +1,11 @@
+{
+	"chain": 11235,
+	"address": "0x0CE35b0D42608Ca54Eb7bcc8044f7087C18E7717",
+	"symbol": "USDC",
+	"name": "Circle USD from Noble",
+	"decimals": 6,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/haqq/0x0CE35b0D42608Ca54Eb7bcc8044f7087C18E7717.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

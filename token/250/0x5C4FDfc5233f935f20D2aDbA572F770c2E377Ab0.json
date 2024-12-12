@@ -1,0 +1,10 @@
+{
+	"chain": 250,
+	"address": "0x5C4FDfc5233f935f20D2aDbA572F770c2E377Ab0",
+	"symbol": "Hector Network",
+	"name": "Hector Network",
+	"coingecko": "hector-dao",
+	"sources": [
+		"coingecko"
+	]
+}

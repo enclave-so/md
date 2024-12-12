@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x9b25889C493aE6Df34cEef1ecb10D77c1Ba73318",
+	"symbol": "Mean DAO",
+	"name": "Mean DAO",
+	"coingecko": "meanfi",
+	"sources": [
+		"coingecko"
+	]
+}

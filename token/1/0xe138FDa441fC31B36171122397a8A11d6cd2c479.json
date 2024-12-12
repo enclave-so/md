@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xe138FDa441fC31B36171122397a8A11d6cd2c479",
+	"symbol": "Global Trust Coin",
+	"name": "Global Trust Coin",
+	"coingecko": "global-trust-coin",
+	"sources": [
+		"coingecko"
+	]
+}

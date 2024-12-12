@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0x0D8775F648430679A709E98d2b0Cb6250d2887EF",
+	"symbol": "BAT",
+	"name": "Basic Attention Token",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/bat.jpg",
+	"coingecko": "basic-attention-token",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

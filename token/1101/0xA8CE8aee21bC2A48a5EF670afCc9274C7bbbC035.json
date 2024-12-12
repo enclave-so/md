@@ -1,0 +1,13 @@
+{
+	"chain": 1101,
+	"address": "0xA8CE8aee21bC2A48a5EF670afCc9274C7bbbC035",
+	"symbol": "USDC",
+	"name": "USD Coin",
+	"decimals": 6,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/polygon-zkevm/0xA8CE8aee21bC2A48a5EF670afCc9274C7bbbC035.jpg",
+	"coingecko": "polygon-hermez-bridged-usdc-polygon-zkevm",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

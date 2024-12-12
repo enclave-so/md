@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x63696Fc66795B51d02c1590b536484A41fbDDF9a",
+	"symbol": "WELL3",
+	"name": "WELL3",
+	"coingecko": "well3",
+	"sources": [
+		"coingecko"
+	]
+}

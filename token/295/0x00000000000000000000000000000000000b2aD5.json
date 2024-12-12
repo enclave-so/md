@@ -1,0 +1,10 @@
+{
+	"chain": 295,
+	"address": "0x00000000000000000000000000000000000b2aD5",
+	"symbol": "SaucerSwap",
+	"name": "SaucerSwap",
+	"coingecko": "saucerswap",
+	"sources": [
+		"coingecko"
+	]
+}

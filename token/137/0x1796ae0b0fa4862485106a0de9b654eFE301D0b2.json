@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x1796ae0b0fa4862485106a0de9b654eFE301D0b2",
+	"symbol": "Protocol Monsters",
+	"name": "Protocol Monsters",
+	"coingecko": "polychain-monsters",
+	"sources": [
+		"coingecko"
+	]
+}

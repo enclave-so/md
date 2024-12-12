@@ -1,0 +1,10 @@
+{
+	"chain": 252,
+	"address": "0x4c0BD74Da8237c08840984Fdb33A84B4586aAEe6",
+	"symbol": "VNX EURO",
+	"name": "VNX EURO",
+	"coingecko": "vnx-euro",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0x32529346958711B3beF92B96507C14821e50C9c8",
+	"symbol": "QTUM",
+	"name": "Qtum",
+	"decimals": 8,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x32529346958711B3beF92B96507C14821e50C9c8.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

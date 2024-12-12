@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xE18ab3568Fa19e0eD38BC1d974EDDD501E61E12d",
+	"symbol": "BANK AI",
+	"name": "BANK AI",
+	"coingecko": "bank",
+	"sources": [
+		"coingecko"
+	]
+}

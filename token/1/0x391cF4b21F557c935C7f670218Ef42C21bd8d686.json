@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x391cF4b21F557c935C7f670218Ef42C21bd8d686",
+	"symbol": "Morphware",
+	"name": "Morphware",
+	"coingecko": "morphware",
+	"sources": [
+		"coingecko"
+	]
+}

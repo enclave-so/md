@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xB5c578947de0fd71303F71F2C3d41767438bD0de",
+	"symbol": "DeHorizon",
+	"name": "DeHorizon",
+	"coingecko": "dehorizon",
+	"sources": [
+		"coingecko"
+	]
+}

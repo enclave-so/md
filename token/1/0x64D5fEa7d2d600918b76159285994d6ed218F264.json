@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x64D5fEa7d2d600918b76159285994d6ed218F264",
+	"symbol": "Tao Accounting System",
+	"name": "Tao Accounting System",
+	"coingecko": "tao-accounting-system",
+	"sources": [
+		"coingecko"
+	]
+}

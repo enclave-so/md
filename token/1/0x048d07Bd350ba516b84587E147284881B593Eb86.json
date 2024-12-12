@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x048d07Bd350ba516b84587E147284881B593Eb86",
+	"symbol": "Synk",
+	"name": "Synk",
+	"coingecko": "synk",
+	"sources": [
+		"coingecko"
+	]
+}

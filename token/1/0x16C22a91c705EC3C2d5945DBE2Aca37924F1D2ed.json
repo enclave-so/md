@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x16C22a91c705EC3C2d5945DBE2Aca37924F1D2ed",
+	"symbol": "Elon's Pet Fish ERIC",
+	"name": "Elon's Pet Fish ERIC",
+	"coingecko": "eric",
+	"sources": [
+		"coingecko"
+	]
+}

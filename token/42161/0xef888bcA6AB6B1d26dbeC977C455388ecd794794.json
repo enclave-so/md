@@ -1,0 +1,13 @@
+{
+	"chain": 42161,
+	"address": "0xef888bcA6AB6B1d26dbeC977C455388ecd794794",
+	"symbol": "RGT",
+	"name": "Rari Governance Token",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/rgt.jpg",
+	"coingecko": "rari-governance-token",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1116,
+	"address": "0xF7a0b80681eC935d6dd9f3Af9826E68B99897d6D",
+	"symbol": "LFGSwap Finance(CORE)",
+	"name": "LFGSwap Finance(CORE)",
+	"coingecko": "lfgswap-finance-core",
+	"sources": [
+		"coingecko"
+	]
+}

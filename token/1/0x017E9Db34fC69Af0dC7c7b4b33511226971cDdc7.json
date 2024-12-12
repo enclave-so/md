@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x017E9Db34fC69Af0dC7c7b4b33511226971cDdc7",
+	"symbol": "On-Chain Dynamics",
+	"name": "On-Chain Dynamics",
+	"coingecko": "on-chain-dynamics",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xe516D78d784C77D479977BE58905B3f2b1111126",
+	"symbol": "Bitspawn",
+	"name": "Bitspawn",
+	"coingecko": "bitspawn",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x580c8520dEDA0a441522AEAe0f9F7A5f29629aFa",
+	"symbol": "Dawn Protocol",
+	"name": "Dawn Protocol",
+	"coingecko": "dawn-protocol",
+	"sources": [
+		"coingecko"
+	]
+}

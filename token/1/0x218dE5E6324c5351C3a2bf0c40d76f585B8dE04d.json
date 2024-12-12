@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x218dE5E6324c5351C3a2bf0c40d76f585B8dE04d",
+	"symbol": "Stake Together",
+	"name": "Stake Together",
+	"coingecko": "stake-together",
+	"sources": [
+		"coingecko"
+	]
+}

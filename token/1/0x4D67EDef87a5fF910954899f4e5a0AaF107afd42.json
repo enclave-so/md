@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x4D67EDef87a5fF910954899f4e5a0AaF107afd42",
+	"symbol": "BlueSparrow [OLD]",
+	"name": "BlueSparrow [OLD]",
+	"coingecko": "bluesparrow-token",
+	"sources": [
+		"coingecko"
+	]
+}

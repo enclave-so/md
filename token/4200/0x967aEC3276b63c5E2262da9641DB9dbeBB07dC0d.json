@@ -1,0 +1,10 @@
+{
+	"chain": 4200,
+	"address": "0x967aEC3276b63c5E2262da9641DB9dbeBB07dC0d",
+	"symbol": "Merlin's Seal USDT",
+	"name": "Merlin's Seal USDT",
+	"coingecko": "merlins-seal-usdt",
+	"sources": [
+		"coingecko"
+	]
+}

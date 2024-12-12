@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xfa05A73FfE78ef8f1a739473e462c54bae6567D9",
+	"symbol": "Lunyr",
+	"name": "Lunyr",
+	"coingecko": "lunyr",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0x6fC13EACE26590B80cCCAB1ba5d51890577D83B2",
+	"symbol": "UMB",
+	"name": "Umbrella",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x6fC13EACE26590B80cCCAB1ba5d51890577D83B2/logo.png",
+	"coingecko": "umbrella-network",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

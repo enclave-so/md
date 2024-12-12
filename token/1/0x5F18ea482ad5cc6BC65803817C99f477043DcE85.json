@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x5F18ea482ad5cc6BC65803817C99f477043DcE85",
+	"symbol": "Agility",
+	"name": "Agility",
+	"coingecko": "agility",
+	"sources": [
+		"coingecko"
+	]
+}

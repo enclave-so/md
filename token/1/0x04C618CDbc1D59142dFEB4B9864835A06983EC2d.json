@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x04C618CDbc1D59142dFEB4B9864835A06983EC2d",
+	"symbol": "Joseon-Mun",
+	"name": "Joseon-Mun",
+	"coingecko": "jaseonmun",
+	"sources": [
+		"coingecko"
+	]
+}

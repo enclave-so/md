@@ -1,0 +1,11 @@
+{
+	"chain": 108,
+	"address": "0x1139136d973323ce500443037Fb9741deac0CA16",
+	"symbol": "TT-SUSHI",
+	"name": "ThunderCore Sushi Token",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/thundercore/0x1139136d973323ce500443037Fb9741deac0CA16.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

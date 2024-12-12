@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x5D0EbC4Ec5ac18d30512fb6287886245061B3Dbd",
+	"symbol": "Gatsby Inu",
+	"name": "Gatsby Inu",
+	"coingecko": "gatsby-inu-new",
+	"sources": [
+		"coingecko"
+	]
+}

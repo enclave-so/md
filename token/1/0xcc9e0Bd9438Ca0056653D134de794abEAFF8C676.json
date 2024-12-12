@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xcc9e0Bd9438Ca0056653D134de794abEAFF8C676",
+	"symbol": "Leslie",
+	"name": "Leslie",
+	"coingecko": "leslie",
+	"sources": [
+		"coingecko"
+	]
+}

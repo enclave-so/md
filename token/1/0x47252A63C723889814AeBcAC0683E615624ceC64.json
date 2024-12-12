@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0x47252A63C723889814AeBcAC0683E615624ceC64",
+	"symbol": "NIL",
+	"name": "nil",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x47252A63C723889814AeBcAC0683E615624ceC64/logo.png",
+	"sources": [
+		"sushiswap"
+	]
+}

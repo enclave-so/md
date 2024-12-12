@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x47b751e318Fe7E9769F4b56fABBffB05D530A88C",
+	"symbol": "Photon Milky Way",
+	"name": "Photon Milky Way",
+	"coingecko": "photon-milky-way",
+	"sources": [
+		"coingecko"
+	]
+}

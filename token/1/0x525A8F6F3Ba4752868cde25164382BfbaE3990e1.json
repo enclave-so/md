@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x525A8F6F3Ba4752868cde25164382BfbaE3990e1",
+	"symbol": "Nym",
+	"name": "Nym",
+	"coingecko": "nym",
+	"sources": [
+		"coingecko"
+	]
+}

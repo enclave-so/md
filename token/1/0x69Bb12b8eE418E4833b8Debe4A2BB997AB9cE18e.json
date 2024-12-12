@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x69Bb12b8eE418E4833b8Debe4A2BB997AB9cE18e",
+	"symbol": "Mohameme Bit Salman",
+	"name": "Mohameme Bit Salman",
+	"coingecko": "mohameme-bit-salman",
+	"sources": [
+		"coingecko"
+	]
+}

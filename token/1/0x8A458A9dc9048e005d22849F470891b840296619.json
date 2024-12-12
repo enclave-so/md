@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x8A458A9dc9048e005d22849F470891b840296619",
+	"symbol": "Aave v3 MKR",
+	"name": "Aave v3 MKR",
+	"coingecko": "aave-v3-mkr",
+	"sources": [
+		"coingecko"
+	]
+}

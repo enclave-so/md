@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xF52CDcD458bf455aeD77751743180eC4A595Fd3F",
+	"symbol": "IdleSUSD (Yield)",
+	"name": "IdleSUSD (Yield)",
+	"coingecko": "idle-susd-yield",
+	"sources": [
+		"coingecko"
+	]
+}

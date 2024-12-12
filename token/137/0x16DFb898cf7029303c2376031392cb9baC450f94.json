@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x16DFb898cf7029303c2376031392cb9baC450f94",
+	"symbol": "Dragoma",
+	"name": "Dragoma",
+	"coingecko": "dragoma",
+	"sources": [
+		"coingecko"
+	]
+}

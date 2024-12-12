@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x93c2Bd80cADcFeB541eb5Af4052375bde8D6F24f",
+	"symbol": "Bitcoin Cat",
+	"name": "Bitcoin Cat",
+	"coingecko": "bitcoin-cat",
+	"sources": [
+		"coingecko"
+	]
+}

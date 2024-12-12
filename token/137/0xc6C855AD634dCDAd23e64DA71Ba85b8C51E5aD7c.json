@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xc6C855AD634dCDAd23e64DA71Ba85b8C51E5aD7c",
+	"symbol": "Decentral Games ICE",
+	"name": "Decentral Games ICE",
+	"coingecko": "decentral-games-ice",
+	"sources": [
+		"coingecko"
+	]
+}

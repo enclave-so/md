@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xd9ADfB67381D392C6e9671F64cDD9014BFcD74F2",
+	"symbol": "Morra",
+	"name": "Morra",
+	"coingecko": "morra",
+	"sources": [
+		"coingecko"
+	]
+}

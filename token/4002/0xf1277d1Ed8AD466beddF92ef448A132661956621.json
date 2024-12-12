@@ -1,0 +1,11 @@
+{
+	"chain": 4002,
+	"address": "0xf1277d1Ed8AD466beddF92ef448A132661956621",
+	"symbol": "WFTM",
+	"name": "Wrapped Fantom",
+	"decimals": 18,
+	"logo": "https://cryptologos.cc/logos/fantom-ftm-logo.svg?v=003",
+	"sources": [
+		"sushiswap"
+	]
+}

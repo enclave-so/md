@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x31e4efe290973ebE91b3a875a7994f650942D28F",
+	"symbol": "Shrapnel",
+	"name": "Shrapnel",
+	"coingecko": "shrapnel-2",
+	"sources": [
+		"coingecko"
+	]
+}

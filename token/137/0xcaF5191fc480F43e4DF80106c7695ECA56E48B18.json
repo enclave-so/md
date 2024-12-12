@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xcaF5191fc480F43e4DF80106c7695ECA56E48B18",
+	"symbol": "DinoX",
+	"name": "DinoX",
+	"coingecko": "dinox",
+	"sources": [
+		"coingecko"
+	]
+}

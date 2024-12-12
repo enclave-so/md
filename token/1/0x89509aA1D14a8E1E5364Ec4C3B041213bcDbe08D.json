@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x89509aA1D14a8E1E5364Ec4C3B041213bcDbe08D",
+	"symbol": "ZURRENCY",
+	"name": "ZURRENCY",
+	"coingecko": "zurrency",
+	"sources": [
+		"coingecko"
+	]
+}

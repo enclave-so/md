@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xEc505C81D6a7567b5BDE804870b1038832fE6Da1",
+	"symbol": "Coinhound",
+	"name": "Coinhound",
+	"coingecko": "coinhound",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 10,
+	"address": "0xC3248A1bd9D72fa3DA6E6ba701E58CbF818354eB",
+	"symbol": "HANePlatform",
+	"name": "HANePlatform",
+	"coingecko": "haneplatform",
+	"sources": [
+		"coingecko"
+	]
+}

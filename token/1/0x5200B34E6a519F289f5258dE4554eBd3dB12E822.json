@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x5200B34E6a519F289f5258dE4554eBd3dB12E822",
+	"symbol": "Goatseus Maximus",
+	"name": "Goatseus Maximus",
+	"coingecko": "goatseus-maximus-on-eth",
+	"sources": [
+		"coingecko"
+	]
+}

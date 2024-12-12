@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x1E2F15302B90EddE696593607b6bD444B64e8F02",
+	"symbol": "Shiryo",
+	"name": "Shiryo",
+	"coingecko": "shiryo-inu",
+	"sources": [
+		"coingecko"
+	]
+}

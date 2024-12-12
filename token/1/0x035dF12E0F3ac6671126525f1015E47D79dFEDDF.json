@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x035dF12E0F3ac6671126525f1015E47D79dFEDDF",
+	"symbol": "0xMonero",
+	"name": "0xMonero",
+	"coingecko": "0xmonero",
+	"sources": [
+		"coingecko"
+	]
+}

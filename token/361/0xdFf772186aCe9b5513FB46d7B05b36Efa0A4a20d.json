@@ -1,0 +1,10 @@
+{
+	"chain": 361,
+	"address": "0xdFf772186aCe9b5513FB46d7B05b36Efa0A4a20d",
+	"symbol": "Wrapped BNB",
+	"name": "Wrapped BNB",
+	"coingecko": "wbnb",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 2020,
+	"address": "0x1a89ecd466a23e98f07111b0510a2D6c1cd5E400",
+	"symbol": "Banana",
+	"name": "Banana",
+	"coingecko": "banana",
+	"sources": [
+		"coingecko"
+	]
+}

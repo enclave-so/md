@@ -1,0 +1,10 @@
+{
+	"chain": 324,
+	"address": "0xed4040fD47629e7c8FBB7DA76bb50B3e7695F0f2",
+	"symbol": "Holdstation",
+	"name": "Holdstation",
+	"coingecko": "holdstation",
+	"sources": [
+		"coingecko"
+	]
+}

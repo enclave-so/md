@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xe842E272a18625319CC36F64eB9f97E5ad0c32AF",
+	"symbol": "YAK",
+	"name": "YAK",
+	"coingecko": "yak",
+	"sources": [
+		"coingecko"
+	]
+}

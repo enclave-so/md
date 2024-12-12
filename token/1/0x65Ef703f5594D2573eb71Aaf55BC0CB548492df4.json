@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0x65Ef703f5594D2573eb71Aaf55BC0CB548492df4",
+	"symbol": "MULTI",
+	"name": "Multichain",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x65Ef703f5594D2573eb71Aaf55BC0CB548492df4/logo.png",
+	"coingecko": "multichain",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

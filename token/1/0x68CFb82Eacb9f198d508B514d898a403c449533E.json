@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0x68CFb82Eacb9f198d508B514d898a403c449533E",
+	"symbol": "CMK",
+	"name": "Credmark",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x68CFb82Eacb9f198d508B514d898a403c449533E/logo.png",
+	"sources": [
+		"sushiswap"
+	]
+}

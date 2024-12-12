@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xD939212F16560447ED82ce46cA40A63DB62419B5",
+	"symbol": "Mega Yacht Cult",
+	"name": "Mega Yacht Cult",
+	"coingecko": "mega-yacht-cult",
+	"sources": [
+		"coingecko"
+	]
+}

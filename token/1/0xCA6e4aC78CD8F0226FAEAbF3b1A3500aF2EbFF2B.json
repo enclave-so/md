@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xCA6e4aC78CD8F0226FAEAbF3b1A3500aF2EbFF2B",
+	"symbol": "Genify ART",
+	"name": "Genify ART",
+	"coingecko": "genify-art",
+	"sources": [
+		"coingecko"
+	]
+}

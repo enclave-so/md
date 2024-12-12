@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x7A8aDCf432EbCC2311B955d176ee4BFED13bB9A7",
+	"symbol": "MandoX",
+	"name": "MandoX",
+	"coingecko": "mandox-2",
+	"sources": [
+		"coingecko"
+	]
+}

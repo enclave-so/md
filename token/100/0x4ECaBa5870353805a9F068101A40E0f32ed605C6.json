@@ -1,0 +1,13 @@
+{
+	"chain": 100,
+	"address": "0x4ECaBa5870353805a9F068101A40E0f32ed605C6",
+	"symbol": "USDT",
+	"name": "Tether on xDai",
+	"decimals": 6,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/0x4ECaBa5870353805a9F068101A40E0f32ed605C6.jpg",
+	"coingecko": "gnosis-xdai-bridged-usdt-gnosis",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

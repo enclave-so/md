@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x62126ec407eae34393ab88b1f5D57E8566E570Be",
+	"symbol": "Virtumate",
+	"name": "Virtumate",
+	"coingecko": "virtumate",
+	"sources": [
+		"coingecko"
+	]
+}

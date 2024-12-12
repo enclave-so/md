@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x4117EC0A779448872d3820f37bA2060Ae0B7C34B",
+	"symbol": "USDEX+",
+	"name": "USDEX+",
+	"coingecko": "usdex-8136b88a-eceb-4eaf-b910-9578cbc70136",
+	"sources": [
+		"coingecko"
+	]
+}

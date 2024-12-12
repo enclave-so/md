@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x5A7a183B6B44Dc4EC2E3d2eF43F98C5152b1d76d",
+	"symbol": "Inception Restaked ETH",
+	"name": "Inception Restaked ETH",
+	"coingecko": "genesislrt-restaked-eth",
+	"sources": [
+		"coingecko"
+	]
+}

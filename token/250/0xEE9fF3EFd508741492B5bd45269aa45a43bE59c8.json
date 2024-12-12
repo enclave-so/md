@@ -1,0 +1,10 @@
+{
+	"chain": 250,
+	"address": "0xEE9fF3EFd508741492B5bd45269aa45a43bE59c8",
+	"symbol": "TANGO",
+	"name": "TANGO",
+	"coingecko": "tango",
+	"sources": [
+		"coingecko"
+	]
+}

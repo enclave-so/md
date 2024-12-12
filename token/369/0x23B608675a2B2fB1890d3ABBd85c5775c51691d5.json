@@ -1,0 +1,10 @@
+{
+	"chain": 369,
+	"address": "0x23B608675a2B2fB1890d3ABBd85c5775c51691d5",
+	"symbol": "Unisocks",
+	"name": "Unisocks",
+	"coingecko": "unisocks",
+	"sources": [
+		"coingecko"
+	]
+}

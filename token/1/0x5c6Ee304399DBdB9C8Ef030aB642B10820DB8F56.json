@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x5c6Ee304399DBdB9C8Ef030aB642B10820DB8F56",
+	"symbol": "Balancer 80 BAL 20 WETH",
+	"name": "Balancer 80 BAL 20 WETH",
+	"coingecko": "balancer-80-bal-20-weth",
+	"sources": [
+		"coingecko"
+	]
+}

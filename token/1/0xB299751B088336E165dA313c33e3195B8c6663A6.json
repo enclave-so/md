@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xB299751B088336E165dA313c33e3195B8c6663A6",
+	"symbol": "StarHeroes",
+	"name": "StarHeroes",
+	"coingecko": "starheroes",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x391fb9429d8685D5D0F14A185fC0820C6aC2817E",
+	"symbol": "NeonAI",
+	"name": "NeonAI",
+	"coingecko": "neonai",
+	"sources": [
+		"coingecko"
+	]
+}

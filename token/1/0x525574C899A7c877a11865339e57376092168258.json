@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x525574C899A7c877a11865339e57376092168258",
+	"symbol": "Guru Network",
+	"name": "Guru Network",
+	"coingecko": "guru-network",
+	"sources": [
+		"coingecko"
+	]
+}

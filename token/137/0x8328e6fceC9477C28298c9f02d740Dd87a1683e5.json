@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x8328e6fceC9477C28298c9f02d740Dd87a1683e5",
+	"symbol": "KonnektVPN",
+	"name": "KonnektVPN",
+	"coingecko": "konnektvpn",
+	"sources": [
+		"coingecko"
+	]
+}

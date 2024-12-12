@@ -1,0 +1,13 @@
+{
+	"chain": 137,
+	"address": "0xdF7837DE1F2Fa4631D716CF2502f8b230F1dcc32",
+	"symbol": "TEL",
+	"name": "Telcoin",
+	"decimals": 2,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xdF7837DE1F2Fa4631D716CF2502f8b230F1dcc32/logo.png",
+	"coingecko": "telcoin",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

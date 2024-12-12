@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x13E4b8CfFe704d3De6F19E52b201d92c21EC18bD",
+	"symbol": "ParallelAI",
+	"name": "ParallelAI",
+	"coingecko": "parallelai",
+	"sources": [
+		"coingecko"
+	]
+}

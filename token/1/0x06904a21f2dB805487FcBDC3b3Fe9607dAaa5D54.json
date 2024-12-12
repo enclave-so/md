@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x06904a21f2dB805487FcBDC3b3Fe9607dAaa5D54",
+	"symbol": "Moonray",
+	"name": "Moonray",
+	"coingecko": "moonray",
+	"sources": [
+		"coingecko"
+	]
+}

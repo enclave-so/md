@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xF8206A19Fca5999425358DE4E4cDEFc7F5C5D4cA",
+	"symbol": "Wigl",
+	"name": "Wigl",
+	"coingecko": "wigl",
+	"sources": [
+		"coingecko"
+	]
+}

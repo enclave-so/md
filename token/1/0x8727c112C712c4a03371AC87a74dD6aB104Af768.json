@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x8727c112C712c4a03371AC87a74dD6aB104Af768",
+	"symbol": "Jetcoin",
+	"name": "Jetcoin",
+	"coingecko": "jetcoin",
+	"sources": [
+		"coingecko"
+	]
+}

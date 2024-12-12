@@ -1,0 +1,13 @@
+{
+	"chain": 1284,
+	"address": "0x8f552a71EFE5eeFc207Bf75485b356A0b3f01eC9",
+	"symbol": "nomadUSDC",
+	"name": "USD Coin",
+	"decimals": 6,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdc.jpg",
+	"coingecko": "nomad-bridged-usdc-moonbeam",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

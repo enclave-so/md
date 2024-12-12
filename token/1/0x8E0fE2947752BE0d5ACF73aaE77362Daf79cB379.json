@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x8E0fE2947752BE0d5ACF73aaE77362Daf79cB379",
+	"symbol": "NFTrade",
+	"name": "NFTrade",
+	"coingecko": "nftrade",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x16A500Aec6c37F84447ef04E66c57cfC6254cF92",
+	"symbol": "Umoja",
+	"name": "Umoja",
+	"coingecko": "umoja",
+	"sources": [
+		"coingecko"
+	]
+}

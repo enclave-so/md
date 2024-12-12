@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x894A3abB764A0EF5Da69C62336aC3c15B88bf106",
+	"symbol": "Chunks",
+	"name": "Chunks",
+	"coingecko": "chunks",
+	"sources": [
+		"coingecko"
+	]
+}

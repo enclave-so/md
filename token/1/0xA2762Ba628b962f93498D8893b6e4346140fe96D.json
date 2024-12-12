@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xA2762Ba628b962f93498D8893b6e4346140fe96D",
+	"symbol": "Intrepid Token",
+	"name": "Intrepid Token",
+	"coingecko": "intrepid-token",
+	"sources": [
+		"coingecko"
+	]
+}

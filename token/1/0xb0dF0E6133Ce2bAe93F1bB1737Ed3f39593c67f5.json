@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xb0dF0E6133Ce2bAe93F1bB1737Ed3f39593c67f5",
+	"symbol": "X-PASS",
+	"name": "X-PASS",
+	"coingecko": "x-pass",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x094B360AE512A65584d4f5Be33D68B2E08677b89",
+	"symbol": "USUAL Star",
+	"name": "USUAL Star",
+	"coingecko": "usual-star",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x2ef8a2Ccb058915E00E16aA13Cc6E36F19D8893b",
+	"symbol": "ValiDAO",
+	"name": "ValiDAO",
+	"coingecko": "validao",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1088,
+	"address": "0x2583A2538272f31e9A15dD12A432B8C96Ab4821d",
+	"symbol": "Staked Metis Token",
+	"name": "Staked Metis Token",
+	"coingecko": "staked-metis-token",
+	"sources": [
+		"coingecko"
+	]
+}

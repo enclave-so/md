@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x6b431B8a964BFcf28191b07c91189fF4403957D0",
+	"symbol": "CorgiAI",
+	"name": "CorgiAI",
+	"coingecko": "corgiai",
+	"sources": [
+		"coingecko"
+	]
+}

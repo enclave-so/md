@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x4C7fe8F97dB97CbCcC76989AB742afc66ca6e75C",
+	"symbol": "RYO Coin",
+	"name": "RYO Coin",
+	"coingecko": "ryo-coin",
+	"sources": [
+		"coingecko"
+	]
+}

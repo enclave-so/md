@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xcF01D4485398F3B8A0B177C5225402e2FdB4f997",
+	"symbol": "PEPE UNCLE",
+	"name": "PEPE UNCLE",
+	"coingecko": "pepe-uncle",
+	"sources": [
+		"coingecko"
+	]
+}

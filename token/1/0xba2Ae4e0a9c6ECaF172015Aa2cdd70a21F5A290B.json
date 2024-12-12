@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xba2Ae4e0a9c6ECaF172015Aa2cdd70a21F5A290B",
+	"symbol": "Iro-Chan",
+	"name": "Iro-Chan",
+	"coingecko": "iro-chan",
+	"sources": [
+		"coingecko"
+	]
+}

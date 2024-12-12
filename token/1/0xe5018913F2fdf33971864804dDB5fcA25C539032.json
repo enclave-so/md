@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xe5018913F2fdf33971864804dDB5fcA25C539032",
+	"symbol": "OpenLM RevShare Token",
+	"name": "OpenLM RevShare Token",
+	"coingecko": "ora-protocol",
+	"sources": [
+		"coingecko"
+	]
+}

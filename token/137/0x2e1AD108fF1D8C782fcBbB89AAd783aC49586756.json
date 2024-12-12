@@ -1,0 +1,13 @@
+{
+	"chain": 137,
+	"address": "0x2e1AD108fF1D8C782fcBbB89AAd783aC49586756",
+	"symbol": "TUSD",
+	"name": "TrueUSD",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x2e1AD108fF1D8C782fcBbB89AAd783aC49586756/logo.png",
+	"coingecko": "bridged-trueusd",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xc0CfBe1602dD586349f60e4681bf4BADCA584eC9",
+	"symbol": "Etheism",
+	"name": "Etheism",
+	"coingecko": "etheism",
+	"sources": [
+		"coingecko"
+	]
+}

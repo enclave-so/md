@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xACB3604AaDF26e6C0bb8c720420380629A328d2C",
+	"symbol": "Leveraged eETH",
+	"name": "Leveraged eETH",
+	"coingecko": "leveraged-eeth",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 324,
+	"address": "0xfC7E56298657B002b3e656400E746b7212912757",
+	"symbol": "zkUSD",
+	"name": "zkUSD",
+	"coingecko": "goal3",
+	"sources": [
+		"coingecko"
+	]
+}

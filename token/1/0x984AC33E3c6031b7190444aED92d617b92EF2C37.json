@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x984AC33E3c6031b7190444aED92d617b92EF2C37",
+	"symbol": "Boton AI",
+	"name": "Boton AI",
+	"coingecko": "boton-ai",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0xb9Ce0dd29C91E02d4620F57a66700Fc5e41d6D15",
+	"symbol": "XRP",
+	"name": "XRP",
+	"decimals": 6,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xb9Ce0dd29C91E02d4620F57a66700Fc5e41d6D15.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xCb8a95e76A16b58C30B01e39Dd6AAD5949E5E802",
+	"symbol": "Tetris",
+	"name": "Tetris",
+	"coingecko": "tetris-2",
+	"sources": [
+		"coingecko"
+	]
+}

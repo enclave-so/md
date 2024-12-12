@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x53F7535Cc14Ff028dE181F9789D403c838B5F885",
+	"symbol": "Perpex",
+	"name": "Perpex",
+	"coingecko": "perpex",
+	"sources": [
+		"coingecko"
+	]
+}

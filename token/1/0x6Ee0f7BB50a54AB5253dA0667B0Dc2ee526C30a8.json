@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x6Ee0f7BB50a54AB5253dA0667B0Dc2ee526C30a8",
+	"symbol": "Aave BUSD v1",
+	"name": "Aave BUSD v1",
+	"coingecko": "aave-busd-v1",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 324,
+	"address": "0xCab3F741Fa54e79E34753B95717b23018332b8AC",
+	"symbol": "Tiny Era Shard",
+	"name": "Tiny Era Shard",
+	"coingecko": "tiny-era-shard",
+	"sources": [
+		"coingecko"
+	]
+}

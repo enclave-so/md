@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x55c3A56e638e96C91F98735CC86F60a6820e6A44",
+	"symbol": "GavCoin",
+	"name": "GavCoin",
+	"coingecko": "gavcoin",
+	"sources": [
+		"coingecko"
+	]
+}

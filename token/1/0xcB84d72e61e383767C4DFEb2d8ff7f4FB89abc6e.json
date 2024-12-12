@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0xcB84d72e61e383767C4DFEb2d8ff7f4FB89abc6e",
+	"symbol": "VEGA",
+	"name": "Vega",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xcB84d72e61e383767C4DFEb2d8ff7f4FB89abc6e/logo.png",
+	"coingecko": "vega-protocol",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

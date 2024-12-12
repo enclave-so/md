@@ -1,0 +1,10 @@
+{
+	"chain": 369,
+	"address": "0x4C8218Dc22e478963c02748857245FAD79AAd0c6",
+	"symbol": "PulseCoin",
+	"name": "PulseCoin",
+	"coingecko": "pulsecoin",
+	"sources": [
+		"coingecko"
+	]
+}

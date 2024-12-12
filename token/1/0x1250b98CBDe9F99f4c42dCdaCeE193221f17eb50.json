@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x1250b98CBDe9F99f4c42dCdaCeE193221f17eb50",
+	"symbol": "ArtCoin",
+	"name": "ArtCoin",
+	"coingecko": "artcoin",
+	"sources": [
+		"coingecko"
+	]
+}

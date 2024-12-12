@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x85E0b9D3E7e4dBa7E59090C533906d0e9211D8b6",
+	"symbol": "Ishi",
+	"name": "Ishi",
+	"coingecko": "ishi",
+	"sources": [
+		"coingecko"
+	]
+}

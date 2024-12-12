@@ -1,0 +1,10 @@
+{
+	"chain": 169,
+	"address": "0x00C6Af82ABFdDc5E1B8f376F954Eb4f4DffF31C5",
+	"symbol": "MyanCat Coin",
+	"name": "MyanCat Coin",
+	"coingecko": "myancat-coin",
+	"sources": [
+		"coingecko"
+	]
+}

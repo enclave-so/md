@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0x7A887D4f8a3221e1aaFA2f4435b774D51429A3e1",
+	"symbol": "GALA",
+	"name": "GALA",
+	"decimals": 8,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x7A887D4f8a3221e1aaFA2f4435b774D51429A3e1.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

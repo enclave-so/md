@@ -1,0 +1,13 @@
+{
+	"chain": 108,
+	"address": "0x218c3c3D49d0E7B37aff0D8bB079de36Ae61A4c0",
+	"symbol": "GEM",
+	"name": "NFTmall GEM Token",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/thundercore/0x218c3c3D49d0E7B37aff0D8bB079de36Ae61A4c0.jpg",
+	"coingecko": "nftmall",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

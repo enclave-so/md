@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x88a269Df8fe7F53E590c561954C52FCCC8EC0cFB",
+	"symbol": "Ninja Squad Token",
+	"name": "Ninja Squad Token",
+	"coingecko": "ninja-squad",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"chain": 10,
+	"address": "0x1EBA7a6a72c894026Cd654AC5CDCF83A46445B08",
+	"symbol": "GTC",
+	"name": "Gitcoin",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/GTC/logo.svg",
+	"sources": [
+		"sushiswap"
+	]
+}

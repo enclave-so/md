@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x518c54fDC12bA593617160eca423F4c2cd3ecac3",
+	"symbol": "STI6900",
+	"name": "STI6900",
+	"coingecko": "sti6900",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"chain": 25,
+	"address": "0x59e60d641677cEcAE77868176F314F42572F5284",
+	"symbol": "NUTS",
+	"name": "$NUTS",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x59e60d641677cEcAE77868176F314F42572F5284.jpg",
+	"coingecko": "nuts-2",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

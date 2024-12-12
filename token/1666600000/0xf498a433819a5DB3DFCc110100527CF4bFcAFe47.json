@@ -1,0 +1,10 @@
+{
+	"chain": 1666600000,
+	"address": "0xf498a433819a5DB3DFCc110100527CF4bFcAFe47",
+	"symbol": "Yieldly",
+	"name": "Yieldly",
+	"coingecko": "yieldly",
+	"sources": [
+		"coingecko"
+	]
+}

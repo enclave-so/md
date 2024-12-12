@@ -1,0 +1,11 @@
+{
+	"chain": 1285,
+	"address": "0x3D2D044E8C6dAd46b4F7896418d3d4DFaAD902bE",
+	"symbol": "aROME",
+	"name": "Alpha Rome",
+	"decimals": 9,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/moonriver/0x3D2D044E8C6dAd46b4F7896418d3d4DFaAD902bE.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

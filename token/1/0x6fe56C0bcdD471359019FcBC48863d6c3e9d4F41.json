@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x6fe56C0bcdD471359019FcBC48863d6c3e9d4F41",
+	"symbol": "Props",
+	"name": "Props",
+	"coingecko": "props",
+	"sources": [
+		"coingecko"
+	]
+}

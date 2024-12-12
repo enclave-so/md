@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x46947241bE767BD05dC843755a991265170Dac27",
+	"symbol": "Bandwidth AI",
+	"name": "Bandwidth AI",
+	"coingecko": "bandwidth-ai",
+	"sources": [
+		"coingecko"
+	]
+}

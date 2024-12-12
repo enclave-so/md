@@ -1,0 +1,13 @@
+{
+	"chain": 250,
+	"address": "0xf1648C50d2863f780c57849D812b4B7686031A3D",
+	"symbol": "WBTC",
+	"name": "Wrapped BTC",
+	"decimals": 8,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/fantom/0xf1648C50d2863f780c57849D812b4B7686031A3D.jpg",
+	"coingecko": "bridged-wrapped-bitcoin-stargate",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

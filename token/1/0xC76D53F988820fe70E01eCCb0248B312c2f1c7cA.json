@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xC76D53F988820fe70E01eCCb0248B312c2f1c7cA",
+	"symbol": "Inu Token",
+	"name": "Inu Token",
+	"coingecko": "inu-token-63736428-0d5c-4281-8038-3e62c35ac278",
+	"sources": [
+		"coingecko"
+	]
+}

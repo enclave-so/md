@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x007115416AB6c266329a03B09a8aa39aC2eF7d9d",
+	"symbol": "Midas BTC Yield Token",
+	"name": "Midas BTC Yield Token",
+	"coingecko": "midas-btc-yield-token",
+	"sources": [
+		"coingecko"
+	]
+}

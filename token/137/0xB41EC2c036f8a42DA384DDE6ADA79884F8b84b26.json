@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xB41EC2c036f8a42DA384DDE6ADA79884F8b84b26",
+	"symbol": "Tidal Finance",
+	"name": "Tidal Finance",
+	"coingecko": "tidal-finance",
+	"sources": [
+		"coingecko"
+	]
+}

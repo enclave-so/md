@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xE97Ad6Cf19F5164ea98DB503811f21fdd0257BCd",
+	"symbol": "VidifyAI",
+	"name": "VidifyAI",
+	"coingecko": "vidifyai",
+	"sources": [
+		"coingecko"
+	]
+}

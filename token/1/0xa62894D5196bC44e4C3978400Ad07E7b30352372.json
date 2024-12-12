@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xa62894D5196bC44e4C3978400Ad07E7b30352372",
+	"symbol": "X",
+	"name": "X",
+	"coingecko": "xerc20-pro",
+	"sources": [
+		"coingecko"
+	]
+}

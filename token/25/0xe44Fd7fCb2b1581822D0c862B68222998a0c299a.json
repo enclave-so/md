@@ -1,0 +1,13 @@
+{
+	"chain": 25,
+	"address": "0xe44Fd7fCb2b1581822D0c862B68222998a0c299a",
+	"symbol": "ETH",
+	"name": "ETH Token",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xe44Fd7fCb2b1581822D0c862B68222998a0c299a.jpg",
+	"coingecko": "bridged-weth",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

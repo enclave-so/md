@@ -1,0 +1,11 @@
+{
+	"chain": 128,
+	"address": "0x8764Bd4fcc027faF72bA83c0b2028a3BAE0D2D57",
+	"symbol": "HBO",
+	"name": "Hash Bridge Oracle",
+	"decimals": 18,
+	"logo": "https://hecoinfo.com/images/main/empty-token.png",
+	"sources": [
+		"sushiswap"
+	]
+}

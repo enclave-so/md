@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xb0eD164F6E3C6a4153EeB43bf9674955A259eC45",
+	"symbol": "Aboard",
+	"name": "Aboard",
+	"coingecko": "aboard",
+	"sources": [
+		"coingecko"
+	]
+}

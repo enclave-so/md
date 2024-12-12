@@ -1,0 +1,11 @@
+{
+	"chain": 42161,
+	"address": "0x8933fEDD98Cbb482e27C41e1bD7216a4e42eBd39",
+	"symbol": "PGS",
+	"name": "PegasusBot",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x8933fEDD98Cbb482e27C41e1bD7216a4e42eBd39.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

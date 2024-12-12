@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xDD75542611D57C4b6e68168B14C3591C539022eD",
+	"symbol": "Unizen",
+	"name": "Unizen",
+	"coingecko": "unizen",
+	"sources": [
+		"coingecko"
+	]
+}

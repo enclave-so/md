@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x42069f39C71816Cea208451598425b492Dd2B380",
+	"symbol": "Goompy",
+	"name": "Goompy",
+	"coingecko": "goompy",
+	"sources": [
+		"coingecko"
+	]
+}

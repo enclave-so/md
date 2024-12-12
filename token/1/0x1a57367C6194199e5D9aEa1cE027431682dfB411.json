@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x1a57367C6194199e5D9aEa1cE027431682dfB411",
+	"symbol": "MatrixETF",
+	"name": "MatrixETF",
+	"coingecko": "matrixetf",
+	"sources": [
+		"coingecko"
+	]
+}

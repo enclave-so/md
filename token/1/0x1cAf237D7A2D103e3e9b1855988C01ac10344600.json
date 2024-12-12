@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x1cAf237D7A2D103e3e9b1855988C01ac10344600",
+	"symbol": "LexiAI",
+	"name": "LexiAI",
+	"coingecko": "lexiai",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x446C9033E7516D820cc9a2ce2d0B7328b579406F",
+	"symbol": "SOLVE",
+	"name": "SOLVE",
+	"coingecko": "solve-care",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xB8A4350eDaFD7af34164Dd5870e49E28393FF3ec",
+	"symbol": "Memeinator",
+	"name": "Memeinator",
+	"coingecko": "memeinator",
+	"sources": [
+		"coingecko"
+	]
+}

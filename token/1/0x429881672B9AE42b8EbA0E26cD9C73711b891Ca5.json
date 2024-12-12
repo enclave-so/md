@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0x429881672B9AE42b8EbA0E26cD9C73711b891Ca5",
+	"symbol": "PICKLE",
+	"name": "Pickle Token",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/pickle.jpg",
+	"coingecko": "pickle-finance",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

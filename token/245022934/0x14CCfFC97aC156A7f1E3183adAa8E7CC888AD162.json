@@ -1,0 +1,10 @@
+{
+	"chain": 245022934,
+	"address": "0x14CCfFC97aC156A7f1E3183adAa8E7CC888AD162",
+	"symbol": "Liquid Staking Token",
+	"name": "Liquid Staking Token",
+	"coingecko": "liquid-staking-token",
+	"sources": [
+		"coingecko"
+	]
+}

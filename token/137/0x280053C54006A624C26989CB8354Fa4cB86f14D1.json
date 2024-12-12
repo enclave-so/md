@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x280053C54006A624C26989CB8354Fa4cB86f14D1",
+	"symbol": "Morpheus Infrastructure Node",
+	"name": "Morpheus Infrastructure Node",
+	"coingecko": "morpheus-labs",
+	"sources": [
+		"coingecko"
+	]
+}

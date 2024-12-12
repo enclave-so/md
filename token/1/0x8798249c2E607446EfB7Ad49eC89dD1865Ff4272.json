@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0x8798249c2E607446EfB7Ad49eC89dD1865Ff4272",
+	"symbol": "xSUSHI",
+	"name": "SushiBar",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/xsushi.jpg",
+	"coingecko": "xsushi",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

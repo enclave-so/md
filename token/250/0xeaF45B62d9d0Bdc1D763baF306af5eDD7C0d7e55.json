@@ -1,0 +1,10 @@
+{
+	"chain": 250,
+	"address": "0xeaF45B62d9d0Bdc1D763baF306af5eDD7C0d7e55",
+	"symbol": "Death",
+	"name": "Death",
+	"coingecko": "death-token",
+	"sources": [
+		"coingecko"
+	]
+}

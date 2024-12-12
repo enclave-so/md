@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x130914E1B240a7F4c5D460B7d3a2Fd3846b576fa",
+	"symbol": "Aureus Nummus Gold",
+	"name": "Aureus Nummus Gold",
+	"coingecko": "aureus-nummus-gold",
+	"sources": [
+		"coingecko"
+	]
+}

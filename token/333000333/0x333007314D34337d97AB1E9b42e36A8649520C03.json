@@ -1,0 +1,10 @@
+{
+	"chain": 333000333,
+	"address": "0x333007314D34337d97AB1E9b42e36A8649520C03",
+	"symbol": "Meld Bridged AVAX (Meld)",
+	"name": "Meld Bridged AVAX (Meld)",
+	"coingecko": "meld-bridged-avax-meld",
+	"sources": [
+		"coingecko"
+	]
+}

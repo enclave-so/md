@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x678e840C640F619E17848045D23072844224dD37",
+	"symbol": "Cratos",
+	"name": "Cratos",
+	"coingecko": "cratos",
+	"sources": [
+		"coingecko"
+	]
+}

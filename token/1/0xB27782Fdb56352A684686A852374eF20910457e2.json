@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xB27782Fdb56352A684686A852374eF20910457e2",
+	"symbol": "DeSend Ai",
+	"name": "DeSend Ai",
+	"coingecko": "desend-ai",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xb2F79d891F11bC8E9805dB135defc04EAD8d780E",
+	"symbol": "All In One Wallet",
+	"name": "All In One Wallet",
+	"coingecko": "all-in-one-wallet",
+	"sources": [
+		"coingecko"
+	]
+}

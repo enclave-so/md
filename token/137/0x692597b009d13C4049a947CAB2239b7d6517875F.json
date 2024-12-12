@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x692597b009d13C4049a947CAB2239b7d6517875F",
+	"symbol": "Wrapped USTC",
+	"name": "Wrapped USTC",
+	"coingecko": "wrapped-ust",
+	"sources": [
+		"coingecko"
+	]
+}

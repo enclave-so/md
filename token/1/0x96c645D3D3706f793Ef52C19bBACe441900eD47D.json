@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x96c645D3D3706f793Ef52C19bBACe441900eD47D",
+	"symbol": "Mt Pelerin Shares",
+	"name": "Mt Pelerin Shares",
+	"coingecko": "mt-pelerin-shares",
+	"sources": [
+		"coingecko"
+	]
+}

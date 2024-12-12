@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xb624FdE1a972B1C89eC1dAD691442d5E8E891469",
+	"symbol": "SporkDAO",
+	"name": "SporkDAO",
+	"coingecko": "sporkdao",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 324,
+	"address": "0xcD2cFA60F04F3421656d6EEbEe122B3973b3f60C",
+	"symbol": "MetaElfLand",
+	"name": "MetaElfLand",
+	"coingecko": "metaelfland",
+	"sources": [
+		"coingecko"
+	]
+}

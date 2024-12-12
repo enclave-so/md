@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xe1590A6FA0CFf9C960181cb77d8a873601772f64",
+	"symbol": "WallStreetBets DApp",
+	"name": "WallStreetBets DApp",
+	"coingecko": "wall-street-bets-dapp",
+	"sources": [
+		"coingecko"
+	]
+}

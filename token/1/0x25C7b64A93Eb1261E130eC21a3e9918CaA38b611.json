@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x25C7b64A93Eb1261E130eC21a3e9918CaA38b611",
+	"symbol": "Wrapped Virgin Gen-0 CryptoKittties",
+	"name": "Wrapped Virgin Gen-0 CryptoKittties",
+	"coingecko": "wrapped-virgin-gen-0-cryptokitties",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x34C1b299A74588D6Abdc1b85A53345A48428a521",
+	"symbol": "EasyFi V2",
+	"name": "EasyFi V2",
+	"coingecko": "easyfi",
+	"sources": [
+		"coingecko"
+	]
+}

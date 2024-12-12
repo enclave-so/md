@@ -1,0 +1,13 @@
+{
+	"chain": 1285,
+	"address": "0x80A16016cC4A2E6a2CACA8a4a498b1699fF0f844",
+	"symbol": "anyDAI",
+	"name": "Dai Stablecoin - AnySwap",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/dai.jpg",
+	"coingecko": "multichain-bridged-dai-moonriver",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x9802296cC5B76FF2FC6DD6De372f47F96bC0347a",
+	"symbol": "Kalichain",
+	"name": "Kalichain",
+	"coingecko": "kalichain",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xea3983Fc6D0fbbC41fb6F6091f68F3e08894dC06",
+	"symbol": "Unido",
+	"name": "Unido",
+	"coingecko": "unido-ep",
+	"sources": [
+		"coingecko"
+	]
+}

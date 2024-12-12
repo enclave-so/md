@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0x268B344bF8bbCd9Dd4e4FA68264309B05F15820a",
+	"symbol": "GLMR",
+	"name": "GLMR",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x268B344bF8bbCd9Dd4e4FA68264309B05F15820a.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

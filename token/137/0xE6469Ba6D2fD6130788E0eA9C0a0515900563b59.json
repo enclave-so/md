@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xE6469Ba6D2fD6130788E0eA9C0a0515900563b59",
+	"symbol": "TerraUSD (Wormhole)",
+	"name": "TerraUSD (Wormhole)",
+	"coingecko": "terrausd-wormhole",
+	"sources": [
+		"coingecko"
+	]
+}

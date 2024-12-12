@@ -1,0 +1,11 @@
+{
+	"chain": 137,
+	"address": "0x23c70Dd93d4ecaC7fb93631488C5412E02f4A57c",
+	"symbol": "REIN",
+	"name": "Reyna Ventures",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x23c70Dd93d4ecaC7fb93631488C5412E02f4A57c.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

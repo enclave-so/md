@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x802124EB78E43FD8d3d4E6DAAAa4Be28Dc7993dc",
+	"symbol": "Spinaq",
+	"name": "Spinaq",
+	"coingecko": "spinaq",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x180F7cF38805d1be95C7632F653E26B0838e2969",
+	"symbol": "XDEFI",
+	"name": "XDEFI",
+	"coingecko": "xdefi",
+	"sources": [
+		"coingecko"
+	]
+}

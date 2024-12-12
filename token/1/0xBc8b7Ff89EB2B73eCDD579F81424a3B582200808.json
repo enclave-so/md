@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xBc8b7Ff89EB2B73eCDD579F81424a3B582200808",
+	"symbol": "Curve Inu",
+	"name": "Curve Inu",
+	"coingecko": "curve-inu",
+	"sources": [
+		"coingecko"
+	]
+}

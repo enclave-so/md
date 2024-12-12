@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x80244C2441779361F35803b8C711C6c8fC6054a3",
+	"symbol": "BoneSwap",
+	"name": "BoneSwap",
+	"coingecko": "boneswap",
+	"sources": [
+		"coingecko"
+	]
+}

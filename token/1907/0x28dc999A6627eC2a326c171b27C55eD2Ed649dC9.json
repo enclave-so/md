@@ -1,0 +1,10 @@
+{
+	"chain": 1907,
+	"address": "0x28dc999A6627eC2a326c171b27C55eD2Ed649dC9",
+	"symbol": "Bitci PEPE",
+	"name": "Bitci PEPE",
+	"coingecko": "bitci-pepe",
+	"sources": [
+		"coingecko"
+	]
+}

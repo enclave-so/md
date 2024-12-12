@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xF0Dc9fc0669f068e04aD79f7d70618D3f9Aad439",
+	"symbol": "Oasis Metaverse",
+	"name": "Oasis Metaverse",
+	"coingecko": "oasis-metaverse",
+	"sources": [
+		"coingecko"
+	]
+}

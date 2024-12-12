@@ -1,0 +1,10 @@
+{
+	"chain": 324,
+	"address": "0xDea6d5161978d36b5C0FA6a491faA754f4BC809C",
+	"symbol": "Idexo",
+	"name": "Idexo",
+	"coingecko": "idexo-token",
+	"sources": [
+		"coingecko"
+	]
+}

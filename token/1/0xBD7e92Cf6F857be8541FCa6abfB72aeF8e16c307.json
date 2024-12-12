@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xBD7e92Cf6F857be8541FCa6abfB72aeF8e16c307",
+	"symbol": "Prodigy Bot",
+	"name": "Prodigy Bot",
+	"coingecko": "prodigy-bot",
+	"sources": [
+		"coingecko"
+	]
+}

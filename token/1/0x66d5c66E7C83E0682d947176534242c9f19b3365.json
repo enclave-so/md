@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x66d5c66E7C83E0682d947176534242c9f19b3365",
+	"symbol": "Staked Vector",
+	"name": "Staked Vector",
+	"coingecko": "staked-vector",
+	"sources": [
+		"coingecko"
+	]
+}

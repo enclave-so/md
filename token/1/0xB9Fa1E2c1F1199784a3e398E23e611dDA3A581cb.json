@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xB9Fa1E2c1F1199784a3e398E23e611dDA3A581cb",
+	"symbol": "ZELDA 2.0",
+	"name": "ZELDA 2.0",
+	"coingecko": "zelda-2-0",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x26c8AFBBFE1EBaca03C2bB082E69D0476Bffe099",
+	"symbol": "Cellframe",
+	"name": "Cellframe",
+	"coingecko": "cellframe",
+	"sources": [
+		"coingecko"
+	]
+}

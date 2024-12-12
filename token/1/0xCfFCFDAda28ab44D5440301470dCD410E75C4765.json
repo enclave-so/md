@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xCfFCFDAda28ab44D5440301470dCD410E75C4765",
+	"symbol": "Parifi",
+	"name": "Parifi",
+	"coingecko": "parifi",
+	"sources": [
+		"coingecko"
+	]
+}

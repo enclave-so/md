@@ -1,0 +1,13 @@
+{
+	"chain": 42161,
+	"address": "0x031d35296154279DC1984dCD93E392b1f946737b",
+	"symbol": "CAP",
+	"name": "Cap",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/cap.jpg",
+	"coingecko": "cap",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xbD1463F02f61676d53fd183C2B19282BFF93D099",
+	"symbol": "Jarvis Synthetic Swiss Franc",
+	"name": "Jarvis Synthetic Swiss Franc",
+	"coingecko": "jarvis-synthetic-swiss-franc",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 106,
+	"address": "0x72eB7CA07399Ec402c5b7aa6A65752B6A1Dc0C27",
+	"symbol": "AstroSwap",
+	"name": "AstroSwap",
+	"coingecko": "astroswap",
+	"sources": [
+		"coingecko"
+	]
+}

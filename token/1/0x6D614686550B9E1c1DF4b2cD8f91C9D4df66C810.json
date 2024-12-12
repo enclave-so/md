@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x6D614686550B9E1c1DF4b2cD8f91C9D4df66C810",
+	"symbol": "Skeb",
+	"name": "Skeb",
+	"coingecko": "skeb",
+	"sources": [
+		"coingecko"
+	]
+}

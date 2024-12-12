@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x5e7F6e008C6d9D7AD4c7EB75Bd4ce62864cc7454",
+	"symbol": "Tapify",
+	"name": "Tapify",
+	"coingecko": "tapify",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 324,
+	"address": "0xDa562340A395ba2F5D72a5EE1B1b60c578768578",
+	"symbol": "GORILLA ARMY",
+	"name": "GORILLA ARMY",
+	"coingecko": "gorilla-army",
+	"sources": [
+		"coingecko"
+	]
+}

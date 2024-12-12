@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xD9b9f72D6F5cdec754243d7D3CeFD5b4370Af094",
+	"symbol": "Laser Gas",
+	"name": "Laser Gas",
+	"coingecko": "laser-gas",
+	"sources": [
+		"coingecko"
+	]
+}

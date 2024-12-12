@@ -1,0 +1,10 @@
+{
+	"chain": 1088,
+	"address": "0xa11DD414Ad9b68cc1fe4d0a256f0F4413169Dd5E",
+	"symbol": "TitanBorn",
+	"name": "TitanBorn",
+	"coingecko": "titanborn",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
+	"symbol": "UNI",
+	"name": "Uniswap",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/uni.jpg",
+	"coingecko": "uniswap",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

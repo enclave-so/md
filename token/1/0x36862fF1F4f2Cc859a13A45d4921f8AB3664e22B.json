@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x36862fF1F4f2Cc859a13A45d4921f8AB3664e22B",
+	"symbol": "PoofAI",
+	"name": "PoofAI",
+	"coingecko": "poofai",
+	"sources": [
+		"coingecko"
+	]
+}

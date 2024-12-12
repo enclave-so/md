@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x06874F973Dc3c96dc22A10eF0D0609F877f335EA",
+	"symbol": "STOA Network",
+	"name": "STOA Network",
+	"coingecko": "defi-stoa",
+	"sources": [
+		"coingecko"
+	]
+}

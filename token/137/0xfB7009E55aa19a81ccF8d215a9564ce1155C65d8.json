@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xfB7009E55aa19a81ccF8d215a9564ce1155C65d8",
+	"symbol": "BitStarters",
+	"name": "BitStarters",
+	"coingecko": "bitstarters-2",
+	"sources": [
+		"coingecko"
+	]
+}

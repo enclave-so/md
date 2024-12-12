@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x740df024CE73f589ACD5E8756b377ef8C6558BaB",
+	"symbol": "Holograph",
+	"name": "Holograph",
+	"coingecko": "holograph",
+	"sources": [
+		"coingecko"
+	]
+}

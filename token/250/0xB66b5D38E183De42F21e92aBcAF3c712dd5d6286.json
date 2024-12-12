@@ -1,0 +1,10 @@
+{
+	"chain": 250,
+	"address": "0xB66b5D38E183De42F21e92aBcAF3c712dd5d6286",
+	"symbol": "Morpheus Swap",
+	"name": "Morpheus Swap",
+	"coingecko": "morpheus-token",
+	"sources": [
+		"coingecko"
+	]
+}

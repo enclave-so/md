@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x5d301750cc9719f00872E33Ee81f9C37aBa242F4",
+	"symbol": "Revolt 2 Earn",
+	"name": "Revolt 2 Earn",
+	"coingecko": "revolt-2-earn",
+	"sources": [
+		"coingecko"
+	]
+}

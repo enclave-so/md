@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x420b879b0d18cc182E7E82AD16a13877C3A88420",
+	"symbol": "Big Bud",
+	"name": "Big Bud",
+	"coingecko": "big-bud",
+	"sources": [
+		"coingecko"
+	]
+}

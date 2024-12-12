@@ -1,0 +1,10 @@
+{
+	"chain": 1313161554,
+	"address": "0xB12BFcA5A55806AaF64E99521918A4bf0fC40802",
+	"symbol": "Rainbow Bridged USDC (Aurora)",
+	"name": "Rainbow Bridged USDC (Aurora)",
+	"coingecko": "rainbow-bridged-usdc-aurora",
+	"sources": [
+		"coingecko"
+	]
+}

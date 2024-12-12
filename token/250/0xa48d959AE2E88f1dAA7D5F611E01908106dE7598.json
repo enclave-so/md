@@ -1,0 +1,10 @@
+{
+	"chain": 250,
+	"address": "0xa48d959AE2E88f1dAA7D5F611E01908106dE7598",
+	"symbol": "Boo MirrorWorld",
+	"name": "Boo MirrorWorld",
+	"coingecko": "boo-mirrorworld",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1996,
+	"address": "0x3f710cBd0F4268719C6c2E5E078a4CAfAeED7d45",
+	"symbol": "Smoovie Phone",
+	"name": "Smoovie Phone",
+	"coingecko": "smoovie-phone",
+	"sources": [
+		"coingecko"
+	]
+}

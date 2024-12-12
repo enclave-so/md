@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0xEEF9f339514298C6A857EfCfC1A762aF84438dEE",
+	"symbol": "HEZ",
+	"name": "Hermez Network",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xEEF9f339514298C6A857EfCfC1A762aF84438dEE/logo.png",
+	"coingecko": "hermez-network-token",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

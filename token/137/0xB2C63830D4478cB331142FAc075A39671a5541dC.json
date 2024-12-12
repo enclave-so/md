@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xB2C63830D4478cB331142FAc075A39671a5541dC",
+	"symbol": "Bomb Crypto (POL)",
+	"name": "Bomb Crypto (POL)",
+	"coingecko": "bombcrypto-coin",
+	"sources": [
+		"coingecko"
+	]
+}

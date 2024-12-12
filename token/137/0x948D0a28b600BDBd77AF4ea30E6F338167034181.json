@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x948D0a28b600BDBd77AF4ea30E6F338167034181",
+	"symbol": "NSHARE",
+	"name": "NSHARE",
+	"coingecko": "nshare",
+	"sources": [
+		"coingecko"
+	]
+}

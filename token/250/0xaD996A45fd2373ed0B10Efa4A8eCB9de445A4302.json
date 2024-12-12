@@ -1,0 +1,10 @@
+{
+	"chain": 250,
+	"address": "0xaD996A45fd2373ed0B10Efa4A8eCB9de445A4302",
+	"symbol": "Alpaca Finance",
+	"name": "Alpaca Finance",
+	"coingecko": "alpaca-finance",
+	"sources": [
+		"coingecko"
+	]
+}

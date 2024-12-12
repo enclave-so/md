@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x9E64D3b9e8eC387a9a58CED80b71Ed815f8D82B5",
+	"symbol": "Smolcoin",
+	"name": "Smolcoin",
+	"coingecko": "smolcoin",
+	"sources": [
+		"coingecko"
+	]
+}

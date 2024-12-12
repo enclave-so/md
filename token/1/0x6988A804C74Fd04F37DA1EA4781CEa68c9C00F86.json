@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x6988A804C74Fd04F37DA1EA4781CEa68c9C00F86",
+	"symbol": "Tribal Token",
+	"name": "Tribal Token",
+	"coingecko": "tribal-token",
+	"sources": [
+		"coingecko"
+	]
+}

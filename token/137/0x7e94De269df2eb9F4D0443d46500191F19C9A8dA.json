@@ -1,0 +1,11 @@
+{
+	"chain": 137,
+	"address": "0x7e94De269df2eb9F4D0443d46500191F19C9A8dA",
+	"symbol": "UNITY",
+	"name": "Unity",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x7e94De269df2eb9F4D0443d46500191F19C9A8dA.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

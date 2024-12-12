@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xfe18aE03741a5b84e39C295Ac9C856eD7991C38e",
+	"symbol": "Crypto.com Staked ETH",
+	"name": "Crypto.com Staked ETH",
+	"coingecko": "crypto-com-staked-eth",
+	"sources": [
+		"coingecko"
+	]
+}

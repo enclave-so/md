@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xb48Eb8368c9C6e9b0734de1Ef4ceB9f484B80b9C",
+	"symbol": "VMPX",
+	"name": "VMPX",
+	"coingecko": "vmpx-erc20",
+	"sources": [
+		"coingecko"
+	]
+}

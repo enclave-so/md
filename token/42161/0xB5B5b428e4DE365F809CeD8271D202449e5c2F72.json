@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0xB5B5b428e4DE365F809CeD8271D202449e5c2F72",
+	"symbol": "BRUH",
+	"name": "BRUH",
+	"coingecko": "bruh",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x36FE11B6d5c9421F68d235694Fe192B35e803903",
+	"symbol": "Xend Finance",
+	"name": "Xend Finance",
+	"coingecko": "xend-finance",
+	"sources": [
+		"coingecko"
+	]
+}

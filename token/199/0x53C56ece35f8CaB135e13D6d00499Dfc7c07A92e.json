@@ -1,0 +1,11 @@
+{
+	"chain": 199,
+	"address": "0x53C56ece35f8CaB135e13D6d00499Dfc7c07A92e",
+	"symbol": "SUSHI.e",
+	"name": "Sushi Ethereum",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bttc/0x53C56ece35f8CaB135e13D6d00499Dfc7c07A92e.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

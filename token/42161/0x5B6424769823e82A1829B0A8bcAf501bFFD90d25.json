@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x5B6424769823e82A1829B0A8bcAf501bFFD90d25",
+	"symbol": "Dinari PYPL",
+	"name": "Dinari PYPL",
+	"coingecko": "dinari-pypl-dshares",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xc0a4Df35568F116C370E6a6A6022Ceb908eedDaC",
+	"symbol": "UX Chain",
+	"name": "UX Chain",
+	"coingecko": "umee",
+	"sources": [
+		"coingecko"
+	]
+}

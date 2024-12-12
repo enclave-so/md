@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xf0059CC2b3E980065A906940fbce5f9Db7ae40A7",
+	"symbol": "Shardus",
+	"name": "Shardus",
+	"coingecko": "shardus",
+	"sources": [
+		"coingecko"
+	]
+}

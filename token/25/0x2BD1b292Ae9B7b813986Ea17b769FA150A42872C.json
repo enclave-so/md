@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0x2BD1b292Ae9B7b813986Ea17b769FA150A42872C",
+	"symbol": "RCO",
+	"name": "Raccroon",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x2BD1b292Ae9B7b813986Ea17b769FA150A42872C.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

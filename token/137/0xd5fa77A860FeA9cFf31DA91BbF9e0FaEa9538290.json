@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xd5fa77A860FeA9cFf31DA91BbF9e0FaEa9538290",
+	"symbol": "Dog Collar",
+	"name": "Dog Collar",
+	"coingecko": "dog-collar",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 324,
+	"address": "0x16A9494e257703797D747540f01683952547EE5b",
+	"symbol": "iZUMi Finance",
+	"name": "iZUMi Finance",
+	"coingecko": "izumi-finance",
+	"sources": [
+		"coingecko"
+	]
+}

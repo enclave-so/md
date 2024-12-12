@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x8365332d4bAf69BC24CA2401B90c3853ab9F818e",
+	"symbol": "Wolf of Wall Street",
+	"name": "Wolf of Wall Street",
+	"coingecko": "wolf-of-wall-street",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 2000,
+	"address": "0xEBFB110f6d89f79ACd2756dEaba264b791294b95",
+	"symbol": "bm2k",
+	"name": "bm2k",
+	"coingecko": "bm2k",
+	"sources": [
+		"coingecko"
+	]
+}

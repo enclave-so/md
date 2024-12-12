@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xa2ce8366603f3fffC460BeF0Fb90E980C9337967",
+	"symbol": "BoostAI",
+	"name": "BoostAI",
+	"coingecko": "boostai",
+	"sources": [
+		"coingecko"
+	]
+}

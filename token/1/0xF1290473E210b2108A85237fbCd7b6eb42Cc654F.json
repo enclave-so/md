@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xF1290473E210b2108A85237fbCd7b6eb42Cc654F",
+	"symbol": "HedgeTrade",
+	"name": "HedgeTrade",
+	"coingecko": "hedgetrade",
+	"sources": [
+		"coingecko"
+	]
+}

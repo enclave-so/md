@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x5189688Ac92a1Eba1710bcba94Ab25c695A4dfa2",
+	"symbol": "Banksters",
+	"name": "Banksters",
+	"coingecko": "banksters",
+	"sources": [
+		"coingecko"
+	]
+}

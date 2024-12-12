@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x7d8DafF6d70CEAd12c6f077048552Cf89130A2B1",
+	"symbol": "ARCS",
+	"name": "ARCS",
+	"coingecko": "arcs",
+	"sources": [
+		"coingecko"
+	]
+}

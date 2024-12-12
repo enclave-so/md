@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x7420B4b9a0110cdC71fB720908340C03F9Bc03EC",
+	"symbol": "JasmyCoin",
+	"name": "JasmyCoin",
+	"coingecko": "jasmycoin",
+	"sources": [
+		"coingecko"
+	]
+}

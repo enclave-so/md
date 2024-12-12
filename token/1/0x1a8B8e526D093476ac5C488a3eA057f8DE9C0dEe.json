@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x1a8B8e526D093476ac5C488a3eA057f8DE9C0dEe",
+	"symbol": "JEFFWorld Token",
+	"name": "JEFFWorld Token",
+	"coingecko": "jeffworld-token",
+	"sources": [
+		"coingecko"
+	]
+}

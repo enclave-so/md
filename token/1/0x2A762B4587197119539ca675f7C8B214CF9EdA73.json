@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x2A762B4587197119539ca675f7C8B214CF9EdA73",
+	"symbol": "Unknown AI",
+	"name": "Unknown AI",
+	"coingecko": "unknown-ai",
+	"sources": [
+		"coingecko"
+	]
+}

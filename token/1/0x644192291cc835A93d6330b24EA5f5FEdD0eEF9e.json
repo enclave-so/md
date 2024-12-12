@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x644192291cc835A93d6330b24EA5f5FEdD0eEF9e",
+	"symbol": "Nexera",
+	"name": "Nexera",
+	"coingecko": "allianceblock-nexera",
+	"sources": [
+		"coingecko"
+	]
+}

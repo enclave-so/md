@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x2E2e7a1F05946ecB2b43B99e3Fc2984Fa7d7e3Bc",
+	"symbol": "Chinese Andy",
+	"name": "Chinese Andy",
+	"coingecko": "chinese-andy",
+	"sources": [
+		"coingecko"
+	]
+}

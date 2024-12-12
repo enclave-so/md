@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x0FD3822072ad001aac1c90A09d9506f097F24458",
+	"symbol": "NOA PLAY",
+	"name": "NOA PLAY",
+	"coingecko": "noa-play",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 185,
+	"address": "0x4200000000000000000000000000000000000006",
+	"symbol": "Mintchain Bridged WETH (Mint)",
+	"name": "Mintchain Bridged WETH (Mint)",
+	"coingecko": "mintchain-bridged-weth-mint",
+	"sources": [
+		"coingecko"
+	]
+}

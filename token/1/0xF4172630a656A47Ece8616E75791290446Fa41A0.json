@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xF4172630a656A47Ece8616E75791290446Fa41A0",
+	"symbol": "PEPPA",
+	"name": "PEPPA",
+	"coingecko": "peppa",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"chain": 1666600000,
+	"address": "0x0159ED2E06DDCD46a25E74eb8e159Ce666B28687",
+	"symbol": "FOX",
+	"name": "FarmersOnly Token2",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/harmony/assets/0x0159ED2E06DDCD46a25E74eb8e159Ce666B28687/logo.png",
+	"coingecko": "farmers-only",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 39797,
+	"address": "0xFFD7510ca0a3279c7a5F50018A26c21d5bc1DBcF",
+	"symbol": "Energi Bridged USDC (Energi)",
+	"name": "Energi Bridged USDC (Energi)",
+	"coingecko": "energi-bridged-usdc-energi",
+	"sources": [
+		"coingecko"
+	]
+}

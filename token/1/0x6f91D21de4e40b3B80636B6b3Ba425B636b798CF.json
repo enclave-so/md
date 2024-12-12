@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x6f91D21de4e40b3B80636B6b3Ba425B636b798CF",
+	"symbol": "Wall Street Bets",
+	"name": "Wall Street Bets",
+	"coingecko": "wall-street-bets",
+	"sources": [
+		"coingecko"
+	]
+}

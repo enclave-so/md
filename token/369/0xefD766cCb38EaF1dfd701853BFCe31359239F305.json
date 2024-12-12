@@ -1,0 +1,10 @@
+{
+	"chain": 369,
+	"address": "0xefD766cCb38EaF1dfd701853BFCe31359239F305",
+	"symbol": "Bridged DAI (PulseChain)",
+	"name": "Bridged DAI (PulseChain)",
+	"coingecko": "dai-pulsechain",
+	"sources": [
+		"coingecko"
+	]
+}

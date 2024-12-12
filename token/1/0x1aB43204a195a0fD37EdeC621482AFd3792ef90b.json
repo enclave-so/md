@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x1aB43204a195a0fD37EdeC621482AFd3792ef90b",
+	"symbol": "Aurigami",
+	"name": "Aurigami",
+	"coingecko": "aurigami",
+	"sources": [
+		"coingecko"
+	]
+}

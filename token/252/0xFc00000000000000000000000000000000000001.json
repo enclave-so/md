@@ -1,0 +1,10 @@
+{
+	"chain": 252,
+	"address": "0xFc00000000000000000000000000000000000001",
+	"symbol": "Fraxtal Bridged FRAX (Fraxtal)",
+	"name": "Fraxtal Bridged FRAX (Fraxtal)",
+	"coingecko": "fraxtal-bridged-frax-fraxtal",
+	"sources": [
+		"coingecko"
+	]
+}

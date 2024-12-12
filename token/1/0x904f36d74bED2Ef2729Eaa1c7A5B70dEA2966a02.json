@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x904f36d74bED2Ef2729Eaa1c7A5B70dEA2966a02",
+	"symbol": "Blueberry",
+	"name": "Blueberry",
+	"coingecko": "blueberry",
+	"sources": [
+		"coingecko"
+	]
+}

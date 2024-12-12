@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0x70Bef3bB2f001dA2fDDb207dAe696cD9FAFf3f5d",
+	"symbol": "NST",
+	"name": "Ninja Squad Token",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x70Bef3bB2f001dA2fDDb207dAe696cD9FAFf3f5d.jpg",
+	"coingecko": "ninja-squad",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

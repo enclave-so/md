@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x2e85ae1C47602f7927bCabc2Ff99C40aA222aE15",
+	"symbol": "Katana Inu",
+	"name": "Katana Inu",
+	"coingecko": "katana-inu",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0x18084fbA666a33d37592fA2633fD49a74DD93a88",
+	"symbol": "tBTC",
+	"name": "tBTC",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/tbtc2.jpg",
+	"coingecko": "tbtc",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

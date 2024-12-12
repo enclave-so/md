@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xB17d69c91135516b0256C67e8bd32Cd238b56161",
+	"symbol": "Gravitas",
+	"name": "Gravitas",
+	"coingecko": "gravitas",
+	"sources": [
+		"coingecko"
+	]
+}

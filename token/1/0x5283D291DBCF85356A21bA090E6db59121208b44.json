@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0x5283D291DBCF85356A21bA090E6db59121208b44",
+	"symbol": "BLUR",
+	"name": "Blur",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x5283D291DBCF85356A21bA090E6db59121208b44.jpg",
+	"coingecko": "blur",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

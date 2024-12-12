@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x716BB5E0839451068885250442A5B8377F582933",
+	"symbol": "Fofar0x71",
+	"name": "Fofar0x71",
+	"coingecko": "fofar0x71",
+	"sources": [
+		"coingecko"
+	]
+}

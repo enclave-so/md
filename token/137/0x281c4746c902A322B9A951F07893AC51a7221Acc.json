@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x281c4746c902A322B9A951F07893AC51a7221Acc",
+	"symbol": "Staked Ethos Reserve Note",
+	"name": "Staked Ethos Reserve Note",
+	"coingecko": "staked-ethos-reserve-note",
+	"sources": [
+		"coingecko"
+	]
+}

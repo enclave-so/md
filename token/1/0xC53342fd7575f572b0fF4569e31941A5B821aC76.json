@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xC53342fd7575f572b0fF4569e31941A5B821aC76",
+	"symbol": "Ethereum Volatility Index Token",
+	"name": "Ethereum Volatility Index Token",
+	"coingecko": "ethereum-volatility-index-token",
+	"sources": [
+		"coingecko"
+	]
+}

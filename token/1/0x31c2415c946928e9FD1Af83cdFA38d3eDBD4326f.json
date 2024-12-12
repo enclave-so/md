@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x31c2415c946928e9FD1Af83cdFA38d3eDBD4326f",
+	"symbol": "MADworld",
+	"name": "MADworld",
+	"coingecko": "madworld",
+	"sources": [
+		"coingecko"
+	]
+}

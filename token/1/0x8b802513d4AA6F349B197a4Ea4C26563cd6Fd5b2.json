@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x8b802513d4AA6F349B197a4Ea4C26563cd6Fd5b2",
+	"symbol": "HIgher IMO",
+	"name": "HIgher IMO",
+	"coingecko": "higher-imo",
+	"sources": [
+		"coingecko"
+	]
+}

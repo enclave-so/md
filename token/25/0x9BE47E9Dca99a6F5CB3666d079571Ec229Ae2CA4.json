@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0x9BE47E9Dca99a6F5CB3666d079571Ec229Ae2CA4",
+	"symbol": "DIP",
+	"name": "Buy the Dip",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x9BE47E9Dca99a6F5CB3666d079571Ec229Ae2CA4.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

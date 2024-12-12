@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x40a7dF3dF8b56147B781353D379cB960120211D7",
+	"symbol": "Moby",
+	"name": "Moby",
+	"coingecko": "moby",
+	"sources": [
+		"coingecko"
+	]
+}

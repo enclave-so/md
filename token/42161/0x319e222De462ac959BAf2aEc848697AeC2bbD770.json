@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x319e222De462ac959BAf2aEc848697AeC2bbD770",
+	"symbol": "OreoSwap",
+	"name": "OreoSwap",
+	"coingecko": "oreoswap",
+	"sources": [
+		"coingecko"
+	]
+}

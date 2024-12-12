@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x6d06426A477200C385843A9ac4d4Fd55346f2b7B",
+	"symbol": "Ginnan Neko",
+	"name": "Ginnan Neko",
+	"coingecko": "ginnan-neko",
+	"sources": [
+		"coingecko"
+	]
+}

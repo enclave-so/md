@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x19E2a43Fbbc643C3B2D9667D858D49cAd17bc2b5",
+	"symbol": "BNS",
+	"name": "BNS",
+	"coingecko": "bns-token",
+	"sources": [
+		"coingecko"
+	]
+}

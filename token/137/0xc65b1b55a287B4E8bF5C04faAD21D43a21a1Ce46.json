@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xc65b1b55a287B4E8bF5C04faAD21D43a21a1Ce46",
+	"symbol": "CornerMarket",
+	"name": "CornerMarket",
+	"coingecko": "cornermarket",
+	"sources": [
+		"coingecko"
+	]
+}

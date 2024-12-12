@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x747E550a7B848acE786C3CFe754Aa78feBC8A022",
+	"symbol": "DODO",
+	"name": "DODO",
+	"coingecko": "dodo-2",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"chain": 137,
+	"address": "0xc3FdbadC7c795EF1D6Ba111e06fF8F16A20Ea539",
+	"symbol": "ADDY",
+	"name": "Adamant",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xc3FdbadC7c795EF1D6Ba111e06fF8F16A20Ea539/logo.png",
+	"coingecko": "adamant",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

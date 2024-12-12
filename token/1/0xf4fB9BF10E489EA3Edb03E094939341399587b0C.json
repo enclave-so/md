@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xf4fB9BF10E489EA3Edb03E094939341399587b0C",
+	"symbol": "AirDAO",
+	"name": "AirDAO",
+	"coingecko": "amber",
+	"sources": [
+		"coingecko"
+	]
+}

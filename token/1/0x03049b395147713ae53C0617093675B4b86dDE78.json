@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x03049b395147713ae53C0617093675B4b86dDE78",
+	"symbol": "BobaCat",
+	"name": "BobaCat",
+	"coingecko": "bobacat",
+	"sources": [
+		"coingecko"
+	]
+}

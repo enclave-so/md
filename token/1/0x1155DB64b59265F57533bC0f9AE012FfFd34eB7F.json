@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x1155DB64b59265F57533bC0f9AE012FfFd34eB7F",
+	"symbol": "Yaku",
+	"name": "Yaku",
+	"coingecko": "yaku",
+	"sources": [
+		"coingecko"
+	]
+}

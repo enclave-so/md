@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xdE0a515D133397d62EB3FcDfCc68Ba4904Ac49c0",
+	"symbol": "Shinji",
+	"name": "Shinji",
+	"coingecko": "shinji",
+	"sources": [
+		"coingecko"
+	]
+}

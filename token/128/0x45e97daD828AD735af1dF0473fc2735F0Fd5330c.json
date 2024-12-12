@@ -1,0 +1,11 @@
+{
+	"chain": 128,
+	"address": "0x45e97daD828AD735af1dF0473fc2735F0Fd5330c",
+	"symbol": "HXTZ",
+	"name": "Heco-Peg HXTZ Token",
+	"decimals": 18,
+	"logo": "https://hecoinfo.com/token/images/HXZT_32.png",
+	"sources": [
+		"sushiswap"
+	]
+}

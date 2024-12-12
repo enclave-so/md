@@ -1,0 +1,10 @@
+{
+	"chain": 1907,
+	"address": "0xF425BC8Ad12770fcd039d98681a5D653F5783214",
+	"symbol": "Karşıyaka Taraftar Fan Token",
+	"name": "Karşıyaka Taraftar Fan Token",
+	"coingecko": "karsiyaka-taraftar-token",
+	"sources": [
+		"coingecko"
+	]
+}

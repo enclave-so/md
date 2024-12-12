@@ -1,0 +1,10 @@
+{
+	"chain": 250,
+	"address": "0x646481DBD76264f817d6588E289bF08dA38A571e",
+	"symbol": "Basket",
+	"name": "Basket",
+	"coingecko": "basket",
+	"sources": [
+		"coingecko"
+	]
+}

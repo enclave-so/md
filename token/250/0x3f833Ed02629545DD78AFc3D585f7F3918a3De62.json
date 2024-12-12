@@ -1,0 +1,10 @@
+{
+	"chain": 250,
+	"address": "0x3f833Ed02629545DD78AFc3D585f7F3918a3De62",
+	"symbol": "CrossCurve Stable",
+	"name": "CrossCurve Stable",
+	"coingecko": "crosscurve-stable",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0xDcEe70654261AF21C44c093C300eD3Bb97b78192",
+	"symbol": "WOETH",
+	"name": "Wrapped OETH",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xDcEe70654261AF21C44c093C300eD3Bb97b78192.jpg",
+	"coingecko": "wrapped-oeth",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

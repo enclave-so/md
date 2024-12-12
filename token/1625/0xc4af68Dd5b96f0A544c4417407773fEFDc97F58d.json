@@ -1,0 +1,10 @@
+{
+	"chain": 1625,
+	"address": "0xc4af68Dd5b96f0A544c4417407773fEFDc97F58d",
+	"symbol": "Latch Staked USDT",
+	"name": "Latch Staked USDT",
+	"coingecko": "latch-staked-usdt",
+	"sources": [
+		"coingecko"
+	]
+}

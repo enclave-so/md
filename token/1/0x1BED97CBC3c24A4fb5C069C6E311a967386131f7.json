@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x1BED97CBC3c24A4fb5C069C6E311a967386131f7",
+	"symbol": "Yearn Ether",
+	"name": "Yearn Ether",
+	"coingecko": "yearn-ether",
+	"sources": [
+		"coingecko"
+	]
+}

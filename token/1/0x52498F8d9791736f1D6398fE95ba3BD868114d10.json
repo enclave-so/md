@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x52498F8d9791736f1D6398fE95ba3BD868114d10",
+	"symbol": "Netvrk",
+	"name": "Netvrk",
+	"coingecko": "netvrk",
+	"sources": [
+		"coingecko"
+	]
+}

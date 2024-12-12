@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x000000000075F13bCF2E6652e84821e8b544F6F9",
+	"symbol": "Signet",
+	"name": "Signet",
+	"coingecko": "signet",
+	"sources": [
+		"coingecko"
+	]
+}

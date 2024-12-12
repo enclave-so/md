@@ -1,0 +1,11 @@
+{
+	"chain": 128,
+	"address": "0xa71EdC38d189767582C38A3145b5873052c3e47a",
+	"symbol": "USDTHECO",
+	"name": "Heco-Peg USDTHECO Token",
+	"decimals": 18,
+	"logo": "https://hecoinfo.com/token/images/USDTHECO_32.png",
+	"sources": [
+		"sushiswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xba386A4Ca26B85FD057ab1Ef86e3DC7BdeB5ce70",
+	"symbol": "Jesus Coin",
+	"name": "Jesus Coin",
+	"coingecko": "jesus-coin",
+	"sources": [
+		"coingecko"
+	]
+}

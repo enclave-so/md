@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xaDD353fb2e2c563383FF3272a500f3e7134DAfe4",
+	"symbol": "Tunachain",
+	"name": "Tunachain",
+	"coingecko": "tunachain",
+	"sources": [
+		"coingecko"
+	]
+}

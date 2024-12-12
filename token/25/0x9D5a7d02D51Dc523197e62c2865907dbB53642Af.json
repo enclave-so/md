@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0x9D5a7d02D51Dc523197e62c2865907dbB53642Af",
+	"symbol": "XTZ",
+	"name": "Tezos",
+	"decimals": 6,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x9D5a7d02D51Dc523197e62c2865907dbB53642Af.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

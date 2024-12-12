@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x482702745260Ffd69FC19943f70cFFE2caCd70e9",
+	"symbol": "Caitlyn Jenner",
+	"name": "Caitlyn Jenner",
+	"coingecko": "caitlyn-jenner-eth",
+	"sources": [
+		"coingecko"
+	]
+}

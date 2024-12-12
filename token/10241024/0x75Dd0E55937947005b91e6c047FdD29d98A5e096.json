@@ -1,0 +1,10 @@
+{
+	"chain": 10241024,
+	"address": "0x75Dd0E55937947005b91e6c047FdD29d98A5e096",
+	"symbol": "AlienXChain",
+	"name": "AlienXChain",
+	"coingecko": "alienxchain",
+	"sources": [
+		"coingecko"
+	]
+}

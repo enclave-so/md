@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0x1117aC6Ad6Cdf1A3BC543baD3B133724620522d5",
+	"symbol": "MODA",
+	"name": "moda",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x1117aC6Ad6Cdf1A3BC543baD3B133724620522d5.jpg",
+	"coingecko": "moda-dao",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

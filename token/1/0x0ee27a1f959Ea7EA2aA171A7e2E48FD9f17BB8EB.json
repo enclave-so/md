@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x0ee27a1f959Ea7EA2aA171A7e2E48FD9f17BB8EB",
+	"symbol": "First GROK AI",
+	"name": "First GROK AI",
+	"coingecko": "first-grok-ai",
+	"sources": [
+		"coingecko"
+	]
+}

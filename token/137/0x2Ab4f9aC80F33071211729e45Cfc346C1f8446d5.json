@@ -1,0 +1,13 @@
+{
+	"chain": 137,
+	"address": "0x2Ab4f9aC80F33071211729e45Cfc346C1f8446d5",
+	"symbol": "CGG",
+	"name": "ChainGuardians Governance Token (PoS)",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x2Ab4f9aC80F33071211729e45Cfc346C1f8446d5.jpg",
+	"coingecko": "chain-guardians",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

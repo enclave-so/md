@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x38f9bb135ea88033f4377B9EA0fb5Cfb773fEc2F",
+	"symbol": "Alpha Shards",
+	"name": "Alpha Shards",
+	"coingecko": "alpha-shards",
+	"sources": [
+		"coingecko"
+	]
+}

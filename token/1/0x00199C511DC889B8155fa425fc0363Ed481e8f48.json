@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x00199C511DC889B8155fa425fc0363Ed481e8f48",
+	"symbol": "Brick Block",
+	"name": "Brick Block",
+	"coingecko": "brick-block",
+	"sources": [
+		"coingecko"
+	]
+}

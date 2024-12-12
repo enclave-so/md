@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x6D52DfeFb16BB9Cdc78bfCA09061e44574886626",
+	"symbol": "CPUcoin",
+	"name": "CPUcoin",
+	"coingecko": "cpucoin",
+	"sources": [
+		"coingecko"
+	]
+}

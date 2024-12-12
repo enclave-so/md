@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xFd03723a9A3AbE0562451496a9a394D2C4bad4ab",
+	"symbol": "Dyad",
+	"name": "Dyad",
+	"coingecko": "dyad",
+	"sources": [
+		"coingecko"
+	]
+}

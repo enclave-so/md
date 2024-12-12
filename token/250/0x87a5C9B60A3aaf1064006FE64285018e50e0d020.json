@@ -1,0 +1,10 @@
+{
+	"chain": 250,
+	"address": "0x87a5C9B60A3aaf1064006FE64285018e50e0d020",
+	"symbol": "Magik",
+	"name": "Magik",
+	"coingecko": "magik",
+	"sources": [
+		"coingecko"
+	]
+}

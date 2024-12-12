@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x77777bf11AB5b96753EA48e0401667a70675841E",
+	"symbol": "Pyramid Financial",
+	"name": "Pyramid Financial",
+	"coingecko": "pyramid-financial",
+	"sources": [
+		"coingecko"
+	]
+}

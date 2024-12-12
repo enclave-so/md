@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xb2e96a63479C2Edd2FD62b382c89D5CA79f572d3",
+	"symbol": "Zenon",
+	"name": "Zenon",
+	"coingecko": "zenon-2",
+	"sources": [
+		"coingecko"
+	]
+}

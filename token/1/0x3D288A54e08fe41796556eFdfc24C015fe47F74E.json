@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x3D288A54e08fe41796556eFdfc24C015fe47F74E",
+	"symbol": "Wolt",
+	"name": "Wolt",
+	"coingecko": "wolt",
+	"sources": [
+		"coingecko"
+	]
+}

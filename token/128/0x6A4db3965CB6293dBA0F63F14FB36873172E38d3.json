@@ -1,0 +1,11 @@
+{
+	"chain": 128,
+	"address": "0x6A4db3965CB6293dBA0F63F14FB36873172E38d3",
+	"symbol": "LLC",
+	"name": "LLC",
+	"decimals": 18,
+	"logo": "https://hecoinfo.com/images/main/empty-token.png",
+	"sources": [
+		"sushiswap"
+	]
+}

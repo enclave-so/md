@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x4278A8944Cf63753b13E9f726BBC1192412988D8",
+	"symbol": "1984",
+	"name": "1984",
+	"coingecko": "1984-token",
+	"sources": [
+		"coingecko"
+	]
+}

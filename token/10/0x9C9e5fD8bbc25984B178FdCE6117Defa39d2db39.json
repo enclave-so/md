@@ -1,0 +1,10 @@
+{
+	"chain": 10,
+	"address": "0x9C9e5fD8bbc25984B178FdCE6117Defa39d2db39",
+	"symbol": "Binance-Peg BUSD",
+	"name": "Binance-Peg BUSD",
+	"coingecko": "binance-peg-busd",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x387f0314a91Cd878A6A62F6a58dfBDC4C93be496",
+	"symbol": "Vanguard Embedding Solutions",
+	"name": "Vanguard Embedding Solutions",
+	"coingecko": "vanguard-embedding-solutions",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x0B319dB00d07C8fAdfaAEf13C910141a5dA0aa8F",
+	"symbol": "Fluid TUSD",
+	"name": "Fluid TUSD",
+	"coingecko": "fluid-tusd",
+	"sources": [
+		"coingecko"
+	]
+}

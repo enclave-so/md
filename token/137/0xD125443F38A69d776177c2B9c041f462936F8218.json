@@ -1,0 +1,13 @@
+{
+	"chain": 137,
+	"address": "0xD125443F38A69d776177c2B9c041f462936F8218",
+	"symbol": "FBX",
+	"name": "FireBotToken",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0xD125443F38A69d776177c2B9c041f462936F8218.jpg",
+	"coingecko": "firebot",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

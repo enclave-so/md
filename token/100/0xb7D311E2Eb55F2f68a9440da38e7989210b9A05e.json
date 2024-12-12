@@ -1,0 +1,13 @@
+{
+	"chain": 100,
+	"address": "0xb7D311E2Eb55F2f68a9440da38e7989210b9A05e",
+	"symbol": "STAKE",
+	"name": "Stake Token on xDai",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/xdai/0xb7D311E2Eb55F2f68a9440da38e7989210b9A05e.jpg",
+	"coingecko": "xdai-stake",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

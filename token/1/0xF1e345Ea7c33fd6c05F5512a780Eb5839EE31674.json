@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xF1e345Ea7c33fd6c05F5512a780Eb5839EE31674",
+	"symbol": "Telefy",
+	"name": "Telefy",
+	"coingecko": "telefy",
+	"sources": [
+		"coingecko"
+	]
+}

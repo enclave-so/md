@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x78da5799CF427Fee11e9996982F4150eCe7a99A7",
+	"symbol": "Revenue Generating USD",
+	"name": "Revenue Generating USD",
+	"coingecko": "revenue-generating-usd",
+	"sources": [
+		"coingecko"
+	]
+}

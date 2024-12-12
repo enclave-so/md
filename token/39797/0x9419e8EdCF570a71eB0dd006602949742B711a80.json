@@ -1,0 +1,10 @@
+{
+	"chain": 39797,
+	"address": "0x9419e8EdCF570a71eB0dd006602949742B711a80",
+	"symbol": "Bancor Network",
+	"name": "Bancor Network",
+	"coingecko": "bancor",
+	"sources": [
+		"coingecko"
+	]
+}

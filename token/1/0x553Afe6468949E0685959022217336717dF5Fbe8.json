@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x553Afe6468949E0685959022217336717dF5Fbe8",
+	"symbol": "Palette",
+	"name": "Palette",
+	"coingecko": "palette-2",
+	"sources": [
+		"coingecko"
+	]
+}

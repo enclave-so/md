@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x40F97Ec376aC1c503E755433BF57f21e3a49f440",
+	"symbol": "CarrieVerse",
+	"name": "CarrieVerse",
+	"coingecko": "carrieverse",
+	"sources": [
+		"coingecko"
+	]
+}

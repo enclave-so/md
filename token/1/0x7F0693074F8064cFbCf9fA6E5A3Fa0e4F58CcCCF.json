@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0x7F0693074F8064cFbCf9fA6E5A3Fa0e4F58CcCCF",
+	"symbol": "gm",
+	"name": "we love gm",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x7F0693074F8064cFbCf9fA6E5A3Fa0e4F58CcCCF.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

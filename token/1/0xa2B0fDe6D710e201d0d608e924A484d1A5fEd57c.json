@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0xa2B0fDe6D710e201d0d608e924A484d1A5fEd57c",
+	"symbol": "sXRP",
+	"name": "Synth XRP",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/sxrp.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

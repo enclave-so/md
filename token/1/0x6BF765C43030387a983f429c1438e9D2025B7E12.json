@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x6BF765C43030387a983f429c1438e9D2025B7E12",
+	"symbol": "McPepe's",
+	"name": "McPepe's",
+	"coingecko": "mcpepe-s",
+	"sources": [
+		"coingecko"
+	]
+}

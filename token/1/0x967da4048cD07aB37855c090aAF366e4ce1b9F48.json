@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0x967da4048cD07aB37855c090aAF366e4ce1b9F48",
+	"symbol": "OCEAN",
+	"name": "Ocean Token",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/ocean.jpg",
+	"coingecko": "ocean-protocol",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

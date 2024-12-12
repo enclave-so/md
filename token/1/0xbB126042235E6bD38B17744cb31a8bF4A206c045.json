@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xbB126042235E6bD38B17744cb31a8bF4A206c045",
+	"symbol": "fanC",
+	"name": "fanC",
+	"coingecko": "fanc",
+	"sources": [
+		"coingecko"
+	]
+}

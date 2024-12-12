@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xE35009059cb55ded065027e9832A2c564AFF7512",
+	"symbol": "SecureChain AI",
+	"name": "SecureChain AI",
+	"coingecko": "securechain-ai",
+	"sources": [
+		"coingecko"
+	]
+}

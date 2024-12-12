@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xd281aF594Cbb99E8469f3591D57A0C72EB725bdB",
+	"symbol": "Marvelous NFTs",
+	"name": "Marvelous NFTs",
+	"coingecko": "marvelous-nfts",
+	"sources": [
+		"coingecko"
+	]
+}

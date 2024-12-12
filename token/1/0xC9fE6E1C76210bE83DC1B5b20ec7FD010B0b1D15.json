@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xC9fE6E1C76210bE83DC1B5b20ec7FD010B0b1D15",
+	"symbol": "Fringe Finance",
+	"name": "Fringe Finance",
+	"coingecko": "fringe-finance",
+	"sources": [
+		"coingecko"
+	]
+}

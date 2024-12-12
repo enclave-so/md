@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x9681ee0D91E737C3B60aCEbA7Fbdae61B5462f42",
+	"symbol": "Crypto Carbon Energy",
+	"name": "Crypto Carbon Energy",
+	"coingecko": "crypto-carbon-energy-2",
+	"sources": [
+		"coingecko"
+	]
+}

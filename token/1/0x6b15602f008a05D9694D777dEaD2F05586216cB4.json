@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x6b15602f008a05D9694D777dEaD2F05586216cB4",
+	"symbol": "Cyclix Games",
+	"name": "Cyclix Games",
+	"coingecko": "cyclix-games",
+	"sources": [
+		"coingecko"
+	]
+}

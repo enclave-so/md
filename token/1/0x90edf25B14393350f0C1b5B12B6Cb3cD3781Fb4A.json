@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x90edf25B14393350f0C1b5B12B6Cb3cD3781Fb4A",
+	"symbol": "CoreConnect",
+	"name": "CoreConnect",
+	"coingecko": "coreconnect",
+	"sources": [
+		"coingecko"
+	]
+}

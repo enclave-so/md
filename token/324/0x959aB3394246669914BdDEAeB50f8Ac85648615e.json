@@ -1,0 +1,10 @@
+{
+	"chain": 324,
+	"address": "0x959aB3394246669914BdDEAeB50f8Ac85648615e",
+	"symbol": "zkLaunchpad",
+	"name": "zkLaunchpad",
+	"coingecko": "zklaunchpad",
+	"sources": [
+		"coingecko"
+	]
+}

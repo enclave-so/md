@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0x00813E3421E1367353BfE7615c7f7f133C89df74",
+	"symbol": "SPS",
+	"name": "Splintershards",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x00813E3421E1367353BfE7615c7f7f133C89df74/logo.png",
+	"sources": [
+		"sushiswap"
+	]
+}

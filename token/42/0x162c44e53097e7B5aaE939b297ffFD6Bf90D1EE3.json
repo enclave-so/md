@@ -1,0 +1,11 @@
+{
+	"chain": 42,
+	"address": "0x162c44e53097e7B5aaE939b297ffFD6Bf90D1EE3",
+	"symbol": "ZRX",
+	"name": "0x Protocol Token",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_ZRX.svg",
+	"sources": [
+		"sushiswap"
+	]
+}

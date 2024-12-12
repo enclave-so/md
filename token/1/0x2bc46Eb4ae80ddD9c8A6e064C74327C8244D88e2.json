@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x2bc46Eb4ae80ddD9c8A6e064C74327C8244D88e2",
+	"symbol": "StratoVM",
+	"name": "StratoVM",
+	"coingecko": "stratovm",
+	"sources": [
+		"coingecko"
+	]
+}

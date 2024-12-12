@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xe4b4C008Ff36E3C50c4299c223504a480DE9C833",
+	"symbol": "Secret Society",
+	"name": "Secret Society",
+	"coingecko": "secret-society",
+	"sources": [
+		"coingecko"
+	]
+}

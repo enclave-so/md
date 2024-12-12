@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x791A5c2261823dBF69b27B63E851B7745532Cfa2",
+	"symbol": "Atua AI",
+	"name": "Atua AI",
+	"coingecko": "atua-ai",
+	"sources": [
+		"coingecko"
+	]
+}

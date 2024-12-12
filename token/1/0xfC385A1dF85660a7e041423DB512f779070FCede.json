@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xfC385A1dF85660a7e041423DB512f779070FCede",
+	"symbol": "zkLink",
+	"name": "zkLink",
+	"coingecko": "zklink",
+	"sources": [
+		"coingecko"
+	]
+}

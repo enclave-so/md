@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x09395a2A58DB45db0da254c7EAa5AC469D8bDc85",
+	"symbol": "SubQuery Network",
+	"name": "SubQuery Network",
+	"coingecko": "subquery-network",
+	"sources": [
+		"coingecko"
+	]
+}

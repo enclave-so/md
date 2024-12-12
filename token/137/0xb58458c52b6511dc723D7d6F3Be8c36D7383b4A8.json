@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xb58458c52b6511dc723D7d6F3Be8c36D7383b4A8",
+	"symbol": "FrontFanz",
+	"name": "FrontFanz",
+	"coingecko": "frontfanz-2",
+	"sources": [
+		"coingecko"
+	]
+}

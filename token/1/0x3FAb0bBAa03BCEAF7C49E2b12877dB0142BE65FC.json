@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x3FAb0bBAa03BCEAF7C49E2b12877dB0142BE65FC",
+	"symbol": "Castello Coin",
+	"name": "Castello Coin",
+	"coingecko": "castello-coin",
+	"sources": [
+		"coingecko"
+	]
+}

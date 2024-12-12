@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x110B25D2B21eE73eB401F3aE7833f7072912A0Bf",
+	"symbol": "Lif3",
+	"name": "Lif3",
+	"coingecko": "lif3-2",
+	"sources": [
+		"coingecko"
+	]
+}

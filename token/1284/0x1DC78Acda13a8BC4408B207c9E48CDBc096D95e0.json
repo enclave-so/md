@@ -1,0 +1,11 @@
+{
+	"chain": 1284,
+	"address": "0x1DC78Acda13a8BC4408B207c9E48CDBc096D95e0",
+	"symbol": "nomadWBTC",
+	"name": "Wrapped Bitcoin",
+	"decimals": 8,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/btc.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

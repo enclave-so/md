@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x5d3a4F62124498092Ce665f865E0b38fF6F5FbEa",
+	"symbol": "Ideaology",
+	"name": "Ideaology",
+	"coingecko": "ideaology",
+	"sources": [
+		"coingecko"
+	]
+}

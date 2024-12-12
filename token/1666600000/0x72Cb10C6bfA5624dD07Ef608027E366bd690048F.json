@@ -1,0 +1,10 @@
+{
+	"chain": 1666600000,
+	"address": "0x72Cb10C6bfA5624dD07Ef608027E366bd690048F",
+	"symbol": "DeFi Kingdoms",
+	"name": "DeFi Kingdoms",
+	"coingecko": "defi-kingdoms",
+	"sources": [
+		"coingecko"
+	]
+}

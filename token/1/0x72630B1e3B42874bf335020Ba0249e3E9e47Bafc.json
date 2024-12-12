@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x72630B1e3B42874bf335020Ba0249e3E9e47Bafc",
+	"symbol": "Paypolitan",
+	"name": "Paypolitan",
+	"coingecko": "paypolitan-token",
+	"sources": [
+		"coingecko"
+	]
+}

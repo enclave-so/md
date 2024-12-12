@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xFE8526A77A2c3590E5973bA81308B90BEA21FBFF",
+	"symbol": "WienerAI",
+	"name": "WienerAI",
+	"coingecko": "wienerai",
+	"sources": [
+		"coingecko"
+	]
+}

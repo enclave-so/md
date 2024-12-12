@@ -1,0 +1,10 @@
+{
+	"chain": 25,
+	"address": "0x96733708C4157218B6E6889eb9E16B1df7873061",
+	"symbol": "AgentFun.AI",
+	"name": "AgentFun.AI",
+	"coingecko": "agentfun-ai",
+	"sources": [
+		"coingecko"
+	]
+}

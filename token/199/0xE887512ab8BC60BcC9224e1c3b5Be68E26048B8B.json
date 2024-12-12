@@ -1,0 +1,11 @@
+{
+	"chain": 199,
+	"address": "0xE887512ab8BC60BcC9224e1c3b5Be68E26048B8B",
+	"symbol": "USDT.e",
+	"name": "Tether USD Ethereum",
+	"decimals": 6,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bttc/0xE887512ab8BC60BcC9224e1c3b5Be68E26048B8B.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

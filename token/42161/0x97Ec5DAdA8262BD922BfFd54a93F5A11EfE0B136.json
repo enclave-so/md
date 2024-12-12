@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x97Ec5DAdA8262BD922BfFd54a93F5A11EfE0B136",
+	"symbol": "Dinari RDDT",
+	"name": "Dinari RDDT",
+	"coingecko": "dinari-rddt",
+	"sources": [
+		"coingecko"
+	]
+}

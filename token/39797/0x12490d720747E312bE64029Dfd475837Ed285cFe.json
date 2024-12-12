@@ -1,0 +1,10 @@
+{
+	"chain": 39797,
+	"address": "0x12490d720747E312bE64029Dfd475837Ed285cFe",
+	"symbol": "SafePal",
+	"name": "SafePal",
+	"coingecko": "safepal",
+	"sources": [
+		"coingecko"
+	]
+}

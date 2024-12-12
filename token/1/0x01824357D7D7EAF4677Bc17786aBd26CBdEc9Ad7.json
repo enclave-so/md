@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x01824357D7D7EAF4677Bc17786aBd26CBdEc9Ad7",
+	"symbol": "Forward",
+	"name": "Forward",
+	"coingecko": "forward",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x9D39A5DE30e57443BfF2A8307A4256c8797A3497",
+	"symbol": "Ethena Staked USDe",
+	"name": "Ethena Staked USDe",
+	"coingecko": "ethena-staked-usde",
+	"sources": [
+		"coingecko"
+	]
+}

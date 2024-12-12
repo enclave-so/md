@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x3eD03E95DD894235090B3d4A49E0C3239EDcE59e",
+	"symbol": "Blox MYRC",
+	"name": "Blox MYRC",
+	"coingecko": "blox-myrc",
+	"sources": [
+		"coingecko"
+	]
+}

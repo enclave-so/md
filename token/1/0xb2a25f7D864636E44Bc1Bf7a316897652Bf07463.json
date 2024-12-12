@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xb2a25f7D864636E44Bc1Bf7a316897652Bf07463",
+	"symbol": "Legion",
+	"name": "Legion",
+	"coingecko": "legion",
+	"sources": [
+		"coingecko"
+	]
+}

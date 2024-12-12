@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x89E8E084cC60e6988527f0904b4bE71656e8bFA9",
+	"symbol": "Smog",
+	"name": "Smog",
+	"coingecko": "smog",
+	"sources": [
+		"coingecko"
+	]
+}

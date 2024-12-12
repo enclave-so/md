@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0x8dAEBADE922dF735c38C80C7eBD708Af50815fAa",
+	"symbol": "tBTCv1",
+	"name": "tBTC (deprecated)",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/tbtc.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

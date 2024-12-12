@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xa89B728708Be04f57c7a33C6f790B6F077298e26",
+	"symbol": "ReptilianZuckerBidenBartcoin",
+	"name": "ReptilianZuckerBidenBartcoin",
+	"coingecko": "reptilianzuckerbidenbartcoin",
+	"sources": [
+		"coingecko"
+	]
+}

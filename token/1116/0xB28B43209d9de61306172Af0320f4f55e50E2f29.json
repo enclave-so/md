@@ -1,0 +1,10 @@
+{
+	"chain": 1116,
+	"address": "0xB28B43209d9de61306172Af0320f4f55e50E2f29",
+	"symbol": "ASX Capital",
+	"name": "ASX Capital",
+	"coingecko": "asx-capital",
+	"sources": [
+		"coingecko"
+	]
+}

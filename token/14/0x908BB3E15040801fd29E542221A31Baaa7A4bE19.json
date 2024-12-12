@@ -1,0 +1,10 @@
+{
+	"chain": 14,
+	"address": "0x908BB3E15040801fd29E542221A31Baaa7A4bE19",
+	"symbol": "FrooDoo",
+	"name": "FrooDoo",
+	"coingecko": "froodoo",
+	"sources": [
+		"coingecko"
+	]
+}

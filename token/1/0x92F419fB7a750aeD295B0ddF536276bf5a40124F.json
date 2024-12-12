@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x92F419fB7a750aeD295B0ddF536276bf5a40124F",
+	"symbol": "Tatsu",
+	"name": "Tatsu",
+	"coingecko": "tatsu",
+	"sources": [
+		"coingecko"
+	]
+}

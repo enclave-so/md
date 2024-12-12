@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x235737dBb56e8517391473f7c964DB31fA6ef280",
+	"symbol": "Kasta",
+	"name": "Kasta",
+	"coingecko": "kasta",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x75e88B8c2d34a52a6d36deAda664D7dc9116e4EF",
+	"symbol": "Zaros",
+	"name": "Zaros",
+	"coingecko": "zaros",
+	"sources": [
+		"coingecko"
+	]
+}

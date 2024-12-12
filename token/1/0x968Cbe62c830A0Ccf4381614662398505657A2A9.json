@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x968Cbe62c830A0Ccf4381614662398505657A2A9",
+	"symbol": "Thrupenny",
+	"name": "Thrupenny",
+	"coingecko": "thrupenny",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x11602A402281974a70C2B4824d58ebeDe967E2bE",
+	"symbol": "NBX",
+	"name": "NBX",
+	"coingecko": "beyond-finance",
+	"sources": [
+		"coingecko"
+	]
+}

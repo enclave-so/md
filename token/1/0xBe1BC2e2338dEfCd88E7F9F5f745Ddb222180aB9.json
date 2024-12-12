@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xBe1BC2e2338dEfCd88E7F9F5f745Ddb222180aB9",
+	"symbol": "TeSo",
+	"name": "TeSo",
+	"coingecko": "teso",
+	"sources": [
+		"coingecko"
+	]
+}

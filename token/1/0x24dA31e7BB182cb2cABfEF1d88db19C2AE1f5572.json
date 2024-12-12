@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x24dA31e7BB182cb2cABfEF1d88db19C2AE1f5572",
+	"symbol": "Shikoku",
+	"name": "Shikoku",
+	"coingecko": "shikoku",
+	"sources": [
+		"coingecko"
+	]
+}

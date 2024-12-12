@@ -1,0 +1,13 @@
+{
+	"chain": 25,
+	"address": "0xed70e1b02a63fAfD5ECE7c0a2A1B12d4b424B4A8",
+	"symbol": "CROAK",
+	"name": "Croakey",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xed70e1b02a63fAfD5ECE7c0a2A1B12d4b424B4A8.jpg",
+	"coingecko": "croakey",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

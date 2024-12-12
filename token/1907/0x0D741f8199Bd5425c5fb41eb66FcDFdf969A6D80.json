@@ -1,0 +1,10 @@
+{
+	"chain": 1907,
+	"address": "0x0D741f8199Bd5425c5fb41eb66FcDFdf969A6D80",
+	"symbol": "NFTDeli",
+	"name": "NFTDeli",
+	"coingecko": "nftdeli",
+	"sources": [
+		"coingecko"
+	]
+}

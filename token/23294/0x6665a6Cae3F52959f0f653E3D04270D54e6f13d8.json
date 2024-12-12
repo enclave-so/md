@@ -1,0 +1,10 @@
+{
+	"chain": 23294,
+	"address": "0x6665a6Cae3F52959f0f653E3D04270D54e6f13d8",
+	"symbol": "Rosy",
+	"name": "Rosy",
+	"coingecko": "rosy",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 39797,
+	"address": "0xEeACCbB6Ce1b5be68A2cF9D0dea27D4b807848d2",
+	"symbol": "Kava Lend",
+	"name": "Kava Lend",
+	"coingecko": "kava-lend",
+	"sources": [
+		"coingecko"
+	]
+}

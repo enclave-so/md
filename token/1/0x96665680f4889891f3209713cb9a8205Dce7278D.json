@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x96665680f4889891f3209713cb9a8205Dce7278D",
+	"symbol": "Nyx Cipher",
+	"name": "Nyx Cipher",
+	"coingecko": "nyx-cipher",
+	"sources": [
+		"coingecko"
+	]
+}

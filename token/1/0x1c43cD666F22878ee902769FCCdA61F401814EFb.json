@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x1c43cD666F22878ee902769FCCdA61F401814EFb",
+	"symbol": "Incept",
+	"name": "Incept",
+	"coingecko": "incept",
+	"sources": [
+		"coingecko"
+	]
+}

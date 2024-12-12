@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x98cF0B67Da0F16E1F8f1a1D23ad8Dc64c0c70E0b",
+	"symbol": "MEV Capital cbBTC",
+	"name": "MEV Capital cbBTC",
+	"coingecko": "mev-capital-cbbtc",
+	"sources": [
+		"coingecko"
+	]
+}

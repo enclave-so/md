@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x9749Ac257E5C7eE59a87CD1A2e93FDB9678a64e6",
+	"symbol": "Retard Coin",
+	"name": "Retard Coin",
+	"coingecko": "retard-coin",
+	"sources": [
+		"coingecko"
+	]
+}

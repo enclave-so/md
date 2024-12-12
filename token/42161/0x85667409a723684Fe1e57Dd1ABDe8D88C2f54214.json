@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x85667409a723684Fe1e57Dd1ABDe8D88C2f54214",
+	"symbol": "MagicGLP",
+	"name": "MagicGLP",
+	"coingecko": "magicglp",
+	"sources": [
+		"coingecko"
+	]
+}

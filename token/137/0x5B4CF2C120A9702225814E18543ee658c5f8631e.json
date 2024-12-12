@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x5B4CF2C120A9702225814E18543ee658c5f8631e",
+	"symbol": "UniLend Finance",
+	"name": "UniLend Finance",
+	"coingecko": "unlend-finance",
+	"sources": [
+		"coingecko"
+	]
+}

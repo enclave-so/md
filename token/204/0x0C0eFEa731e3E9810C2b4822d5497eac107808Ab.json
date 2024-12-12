@@ -1,0 +1,10 @@
+{
+	"chain": 204,
+	"address": "0x0C0eFEa731e3E9810C2b4822d5497eac107808Ab",
+	"symbol": "Ankr Staked BNB",
+	"name": "Ankr Staked BNB",
+	"coingecko": "ankr-staked-bnb",
+	"sources": [
+		"coingecko"
+	]
+}

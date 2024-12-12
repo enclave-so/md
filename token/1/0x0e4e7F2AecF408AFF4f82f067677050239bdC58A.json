@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x0e4e7F2AecF408AFF4f82f067677050239bdC58A",
+	"symbol": "Fungify Token",
+	"name": "Fungify Token",
+	"coingecko": "fungify-token",
+	"sources": [
+		"coingecko"
+	]
+}

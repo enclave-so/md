@@ -1,0 +1,13 @@
+{
+	"chain": 1666600000,
+	"address": "0xCf1709Ad76A79d5a60210F23e81cE2460542A836",
+	"symbol": "TRANQ",
+	"name": "Tranquil",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/harmony/assets/0xCf1709Ad76A79d5a60210F23e81cE2460542A836/logo.png",
+	"coingecko": "tranquil-finance",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1329,
+	"address": "0xA8A3A5013104e093245164eA56588DBE10a3Eb48",
+	"symbol": "Super Seyian ETH",
+	"name": "Super Seyian ETH",
+	"coingecko": "super-seyian-eth",
+	"sources": [
+		"coingecko"
+	]
+}

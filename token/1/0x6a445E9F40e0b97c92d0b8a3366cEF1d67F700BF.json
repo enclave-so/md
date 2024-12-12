@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x6a445E9F40e0b97c92d0b8a3366cEF1d67F700BF",
+	"symbol": "Fidu",
+	"name": "Fidu",
+	"coingecko": "fidu",
+	"sources": [
+		"coingecko"
+	]
+}

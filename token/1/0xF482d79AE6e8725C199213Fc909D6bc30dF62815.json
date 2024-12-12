@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xF482d79AE6e8725C199213Fc909D6bc30dF62815",
+	"symbol": "Recycle Impact World Association",
+	"name": "Recycle Impact World Association",
+	"coingecko": "recycle-impact-world-association",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 369,
+	"address": "0xeB2CEed77147893Ba8B250c796c2d4EF02a72B68",
+	"symbol": "Pulse Drip",
+	"name": "Pulse Drip",
+	"coingecko": "pulse-drip",
+	"sources": [
+		"coingecko"
+	]
+}

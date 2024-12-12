@@ -1,0 +1,10 @@
+{
+	"chain": 32520,
+	"address": "0x3f3d3A2A698AF53676CeF6ACA6Bfe6a0cE913C0C",
+	"symbol": "Sphynx Labs",
+	"name": "Sphynx Labs",
+	"coingecko": "sphynx-labs-bae5b42e-5e37-4607-8691-b56d3a5f344c",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"chain": 10,
+	"address": "0xFdb794692724153d1488CcdBE0C56c252596735F",
+	"symbol": "LDO",
+	"name": "Lido DAO Token",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/LDO/logo.svg",
+	"coingecko": "lido-dao",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

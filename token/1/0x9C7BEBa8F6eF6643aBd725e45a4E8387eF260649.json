@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x9C7BEBa8F6eF6643aBd725e45a4E8387eF260649",
+	"symbol": "Gravity",
+	"name": "Gravity",
+	"coingecko": "g-token",
+	"sources": [
+		"coingecko"
+	]
+}

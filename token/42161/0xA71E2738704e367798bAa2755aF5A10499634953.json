@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0xA71E2738704e367798bAa2755aF5A10499634953",
+	"symbol": "Avarik Saga",
+	"name": "Avarik Saga",
+	"coingecko": "avarik-saga",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xAF24765F631C8830B5528B57002241eE7eef1C14",
+	"symbol": "IOI Token",
+	"name": "IOI Token",
+	"coingecko": "ioi-token",
+	"sources": [
+		"coingecko"
+	]
+}

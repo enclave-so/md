@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xdf87270E04Bc5Ac140E93571D0DD0C6F4a058B41",
+	"symbol": "Moolahverse",
+	"name": "Moolahverse",
+	"coingecko": "moolahverse",
+	"sources": [
+		"coingecko"
+	]
+}

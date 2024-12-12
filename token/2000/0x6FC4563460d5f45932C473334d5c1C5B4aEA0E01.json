@@ -1,0 +1,10 @@
+{
+	"chain": 2000,
+	"address": "0x6FC4563460d5f45932C473334d5c1C5B4aEA0E01",
+	"symbol": "YodeSwap",
+	"name": "YodeSwap",
+	"coingecko": "yodeswap",
+	"sources": [
+		"coingecko"
+	]
+}

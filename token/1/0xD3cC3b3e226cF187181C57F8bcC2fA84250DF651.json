@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xD3cC3b3e226cF187181C57F8bcC2fA84250DF651",
+	"symbol": "UPLOAD",
+	"name": "UPLOAD",
+	"coingecko": "upload",
+	"sources": [
+		"coingecko"
+	]
+}

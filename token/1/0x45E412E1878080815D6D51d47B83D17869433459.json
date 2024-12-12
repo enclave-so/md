@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x45E412E1878080815D6D51d47B83D17869433459",
+	"symbol": "Chief Troll Officer",
+	"name": "Chief Troll Officer",
+	"coingecko": "chief-troll-officer",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x0101013d11e4320d29759f40508C61110f525211",
+	"symbol": "Beer Frog",
+	"name": "Beer Frog",
+	"coingecko": "beer-frog",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xA67E9F021B9d208F7e3365B2A155E3C55B27de71",
+	"symbol": "KleeKai",
+	"name": "KleeKai",
+	"coingecko": "kleekai",
+	"sources": [
+		"coingecko"
+	]
+}

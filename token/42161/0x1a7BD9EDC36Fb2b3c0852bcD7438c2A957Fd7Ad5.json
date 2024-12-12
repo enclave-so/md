@@ -1,0 +1,11 @@
+{
+	"chain": 42161,
+	"address": "0x1a7BD9EDC36Fb2b3c0852bcD7438c2A957Fd7Ad5",
+	"symbol": "aMoon",
+	"name": "ArbiMoon",
+	"decimals": 9,
+	"logo": "https://raw.githubusercontent.com/ArbiMoonXyz/MyFiles/main/arbimoon.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

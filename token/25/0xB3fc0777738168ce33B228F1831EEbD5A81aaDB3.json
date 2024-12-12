@@ -1,0 +1,10 @@
+{
+	"chain": 25,
+	"address": "0xB3fc0777738168ce33B228F1831EEbD5A81aaDB3",
+	"symbol": "NEO",
+	"name": "Neo",
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xB3fc0777738168ce33B228F1831EEbD5A81aaDB3.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

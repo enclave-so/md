@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x81De7654a08B0A37D136EB6e31a54543cDAbEb15",
+	"symbol": "OddsNotify",
+	"name": "OddsNotify",
+	"coingecko": "oddsnotify",
+	"sources": [
+		"coingecko"
+	]
+}

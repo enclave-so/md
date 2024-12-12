@@ -1,0 +1,11 @@
+{
+	"chain": 42161,
+	"address": "0x876Ec6bE52486Eeec06bc06434f3E629D695c6bA",
+	"symbol": "FLUID",
+	"name": "FluidFi",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x876Ec6bE52486Eeec06bc06434f3E629D695c6bA/logo.png",
+	"sources": [
+		"sushiswap"
+	]
+}

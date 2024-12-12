@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x7F3EDcdD180Dbe4819Bd98FeE8929b5cEdB3AdEB",
+	"symbol": "xToken",
+	"name": "xToken",
+	"coingecko": "xtoken",
+	"sources": [
+		"coingecko"
+	]
+}

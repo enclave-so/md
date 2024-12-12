@@ -1,0 +1,10 @@
+{
+	"chain": 1666600000,
+	"address": "0x946c8286bd9B52B81F681903210E1a57872fdD85",
+	"symbol": "Linear",
+	"name": "Linear",
+	"coingecko": "linear",
+	"sources": [
+		"coingecko"
+	]
+}

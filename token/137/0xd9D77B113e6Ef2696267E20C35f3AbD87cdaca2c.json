@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xd9D77B113e6Ef2696267E20C35f3AbD87cdaca2c",
+	"symbol": "TanPin",
+	"name": "TanPin",
+	"coingecko": "tanpin",
+	"sources": [
+		"coingecko"
+	]
+}

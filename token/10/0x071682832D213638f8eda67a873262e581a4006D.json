@@ -1,0 +1,10 @@
+{
+	"chain": 10,
+	"address": "0x071682832D213638f8eda67a873262e581a4006D",
+	"symbol": "Aktionariat Vereign AG Tokenized Shares",
+	"name": "Aktionariat Vereign AG Tokenized Shares",
+	"coingecko": "aktionariat-vereign-ag-tokenized-shares",
+	"sources": [
+		"coingecko"
+	]
+}

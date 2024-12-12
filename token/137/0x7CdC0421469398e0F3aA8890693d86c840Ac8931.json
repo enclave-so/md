@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x7CdC0421469398e0F3aA8890693d86c840Ac8931",
+	"symbol": "Azuki",
+	"name": "Azuki",
+	"coingecko": "azuki",
+	"sources": [
+		"coingecko"
+	]
+}

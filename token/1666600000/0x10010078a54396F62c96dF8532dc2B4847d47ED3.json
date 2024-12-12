@@ -1,0 +1,13 @@
+{
+	"chain": 1666600000,
+	"address": "0x10010078a54396F62c96dF8532dc2B4847d47ED3",
+	"symbol": "HND",
+	"name": "Hundred Finance",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/harmony/assets/0x10010078a54396F62c96dF8532dc2B4847d47ED3/logo.png",
+	"coingecko": "hundred-finance",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

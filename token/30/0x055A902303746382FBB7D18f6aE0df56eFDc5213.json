@@ -1,0 +1,10 @@
+{
+	"chain": 30,
+	"address": "0x055A902303746382FBB7D18f6aE0df56eFDc5213",
+	"symbol": "Babelfish",
+	"name": "Babelfish",
+	"coingecko": "babelfish-2",
+	"sources": [
+		"coingecko"
+	]
+}

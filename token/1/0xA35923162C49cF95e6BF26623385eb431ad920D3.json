@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xA35923162C49cF95e6BF26623385eb431ad920D3",
+	"symbol": "Turbo",
+	"name": "Turbo",
+	"coingecko": "turbo",
+	"sources": [
+		"coingecko"
+	]
+}

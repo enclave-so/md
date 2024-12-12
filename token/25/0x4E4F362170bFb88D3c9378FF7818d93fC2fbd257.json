@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0x4E4F362170bFb88D3c9378FF7818d93fC2fbd257",
+	"symbol": "CHZ",
+	"name": "Chiliz",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x4E4F362170bFb88D3c9378FF7818d93fC2fbd257.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

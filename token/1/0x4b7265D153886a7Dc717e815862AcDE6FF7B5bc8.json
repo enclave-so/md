@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x4b7265D153886a7Dc717e815862AcDE6FF7B5bc8",
+	"symbol": "DENCHCOIN",
+	"name": "DENCHCOIN",
+	"coingecko": "denchcoin",
+	"sources": [
+		"coingecko"
+	]
+}

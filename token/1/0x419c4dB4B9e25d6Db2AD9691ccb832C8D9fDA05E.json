@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x419c4dB4B9e25d6Db2AD9691ccb832C8D9fDA05E",
+	"symbol": "Dragonchain",
+	"name": "Dragonchain",
+	"coingecko": "dragonchain",
+	"sources": [
+		"coingecko"
+	]
+}

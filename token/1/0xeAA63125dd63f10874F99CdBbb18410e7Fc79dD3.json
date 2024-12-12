@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xeAA63125dd63f10874F99CdBbb18410e7Fc79dD3",
+	"symbol": "Hemule",
+	"name": "Hemule",
+	"coingecko": "hemule",
+	"sources": [
+		"coingecko"
+	]
+}

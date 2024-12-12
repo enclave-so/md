@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0xdA0a57B710768ae17941a9Fa33f8B720c8bD9ddD",
+	"symbol": "Marlin",
+	"name": "Marlin",
+	"coingecko": "marlin",
+	"sources": [
+		"coingecko"
+	]
+}

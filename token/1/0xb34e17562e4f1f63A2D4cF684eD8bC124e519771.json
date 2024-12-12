@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xb34e17562e4f1f63A2D4cF684eD8bC124e519771",
+	"symbol": "Nolus",
+	"name": "Nolus",
+	"coingecko": "nolus",
+	"sources": [
+		"coingecko"
+	]
+}

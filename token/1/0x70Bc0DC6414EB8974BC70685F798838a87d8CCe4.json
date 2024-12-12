@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x70Bc0DC6414EB8974BC70685F798838a87d8CCe4",
+	"symbol": "Chirpley",
+	"name": "Chirpley",
+	"coingecko": "chirpley",
+	"sources": [
+		"coingecko"
+	]
+}

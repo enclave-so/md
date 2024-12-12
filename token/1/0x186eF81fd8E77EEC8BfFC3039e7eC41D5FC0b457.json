@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x186eF81fd8E77EEC8BfFC3039e7eC41D5FC0b457",
+	"symbol": "Inspect",
+	"name": "Inspect",
+	"coingecko": "inspect",
+	"sources": [
+		"coingecko"
+	]
+}

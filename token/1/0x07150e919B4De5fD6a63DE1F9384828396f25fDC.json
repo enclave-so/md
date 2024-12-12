@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0x07150e919B4De5fD6a63DE1F9384828396f25fDC",
+	"symbol": "BASE",
+	"name": "Base Protocol",
+	"decimals": 9,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x07150e919B4De5fD6a63DE1F9384828396f25fDC/logo.png",
+	"coingecko": "base-protocol",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

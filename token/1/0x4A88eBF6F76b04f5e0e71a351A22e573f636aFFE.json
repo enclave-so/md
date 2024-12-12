@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x4A88eBF6F76b04f5e0e71a351A22e573f636aFFE",
+	"symbol": "Yoyo Market",
+	"name": "Yoyo Market",
+	"coingecko": "yoyo-market",
+	"sources": [
+		"coingecko"
+	]
+}

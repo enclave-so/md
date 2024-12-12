@@ -1,0 +1,10 @@
+{
+	"chain": 1625,
+	"address": "0xFbDa5F676cB37624f28265A144A48B0d6e87d3b6",
+	"symbol": "Stargate Bridged USDC (Gravity)",
+	"name": "Stargate Bridged USDC (Gravity)",
+	"coingecko": "stargate-bridged-usdc-gravity",
+	"sources": [
+		"coingecko"
+	]
+}

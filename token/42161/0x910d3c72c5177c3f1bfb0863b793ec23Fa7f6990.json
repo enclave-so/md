@@ -1,0 +1,11 @@
+{
+	"chain": 42161,
+	"address": "0x910d3c72c5177c3f1bfb0863b793ec23Fa7f6990",
+	"symbol": "NISHIB",
+	"name": "NitroShiba",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x910d3c72c5177c3f1bfb0863b793ec23Fa7f6990.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x5De597849Cf72c72f073e9085bDD0DadD8E6C199",
+	"symbol": "Finblox",
+	"name": "Finblox",
+	"coingecko": "finblox",
+	"sources": [
+		"coingecko"
+	]
+}

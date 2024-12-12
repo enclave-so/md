@@ -1,0 +1,10 @@
+{
+	"chain": 2020,
+	"address": "0x7894b3088d069E70895EFfA4e8f7D2c243Fd04C1",
+	"symbol": "Apeiron",
+	"name": "Apeiron",
+	"coingecko": "apeironnft",
+	"sources": [
+		"coingecko"
+	]
+}

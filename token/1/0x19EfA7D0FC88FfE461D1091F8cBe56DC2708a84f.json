@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x19EfA7D0FC88FfE461D1091F8cBe56DC2708a84f",
+	"symbol": "UNITAO",
+	"name": "UNITAO",
+	"coingecko": "unitao",
+	"sources": [
+		"coingecko"
+	]
+}

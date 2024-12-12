@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xdb81f7b3F0B2baeBd5009CddAde5c9A9C82378bB",
+	"symbol": "Jjmoji",
+	"name": "Jjmoji",
+	"coingecko": "jjmoji",
+	"sources": [
+		"coingecko"
+	]
+}

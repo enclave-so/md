@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xC3ADe5aCe1bBb033CcAE8177C12Ecbfa16bD6A9D",
+	"symbol": "Inception swETH",
+	"name": "Inception swETH",
+	"coingecko": "inception-restaked-sweth",
+	"sources": [
+		"coingecko"
+	]
+}

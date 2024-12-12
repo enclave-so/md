@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x352a3144e88D23427993938cfd780291D95eF091",
+	"symbol": "Eigenpie OsETH",
+	"name": "Eigenpie OsETH",
+	"coingecko": "eigenpie-oseth",
+	"sources": [
+		"coingecko"
+	]
+}

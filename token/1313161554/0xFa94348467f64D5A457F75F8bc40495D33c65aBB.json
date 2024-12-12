@@ -1,0 +1,10 @@
+{
+	"chain": 1313161554,
+	"address": "0xFa94348467f64D5A457F75F8bc40495D33c65aBB",
+	"symbol": "Trisolaris",
+	"name": "Trisolaris",
+	"coingecko": "trisolaris",
+	"sources": [
+		"coingecko"
+	]
+}

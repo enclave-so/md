@@ -1,0 +1,10 @@
+{
+	"chain": 1116,
+	"address": "0xF3CABeb4A292996a451f8094E14F4806d22604d4",
+	"symbol": "OreSwap",
+	"name": "OreSwap",
+	"coingecko": "oreswap-2",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xcccCb68e1A848CBDB5b60a974E07aAE143ed40C3",
+	"symbol": "HYCHAIN",
+	"name": "HYCHAIN",
+	"coingecko": "hytopia",
+	"sources": [
+		"coingecko"
+	]
+}

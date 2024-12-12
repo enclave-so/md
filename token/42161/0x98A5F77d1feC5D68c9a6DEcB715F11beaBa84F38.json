@@ -1,0 +1,11 @@
+{
+	"chain": 42161,
+	"address": "0x98A5F77d1feC5D68c9a6DEcB715F11beaBa84F38",
+	"symbol": "NSFW",
+	"name": "Pleasure Coin",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x98A5F77d1feC5D68c9a6DEcB715F11beaBa84F38.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

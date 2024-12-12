@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xD3999188fF689b99d8097A4876f61E70b22F7881",
+	"symbol": "Spurdo Spärde",
+	"name": "Spurdo Spärde",
+	"coingecko": "spurdo-sparde-on-eth",
+	"sources": [
+		"coingecko"
+	]
+}

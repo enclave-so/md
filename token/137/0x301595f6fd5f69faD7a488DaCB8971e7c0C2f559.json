@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x301595f6fd5f69faD7a488DaCB8971e7c0C2f559",
+	"symbol": "Wrapped ThunderPOKT",
+	"name": "Wrapped ThunderPOKT",
+	"coingecko": "wrapped-thunderpokt",
+	"sources": [
+		"coingecko"
+	]
+}

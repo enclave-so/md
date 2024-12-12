@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x19848077f45356b21164c412Eff3D3E4ff6Ebc31",
+	"symbol": "Spike",
+	"name": "Spike",
+	"coingecko": "spike-on-eth",
+	"sources": [
+		"coingecko"
+	]
+}

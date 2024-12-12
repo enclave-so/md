@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xdDa40cdfe4A0090f42Ff49f264A831402ADB801A",
+	"symbol": "Dogira",
+	"name": "Dogira",
+	"coingecko": "dogira",
+	"sources": [
+		"coingecko"
+	]
+}

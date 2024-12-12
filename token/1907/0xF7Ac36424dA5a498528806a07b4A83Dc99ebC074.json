@@ -1,0 +1,10 @@
+{
+	"chain": 1907,
+	"address": "0xF7Ac36424dA5a498528806a07b4A83Dc99ebC074",
+	"symbol": "MXGP Fan Token",
+	"name": "MXGP Fan Token",
+	"coingecko": "mxgp-fan-token",
+	"sources": [
+		"coingecko"
+	]
+}

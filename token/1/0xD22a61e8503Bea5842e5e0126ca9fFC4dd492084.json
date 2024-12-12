@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xD22a61e8503Bea5842e5e0126ca9fFC4dd492084",
+	"symbol": "Strawberry Elephant",
+	"name": "Strawberry Elephant",
+	"coingecko": "strawberry-elephant",
+	"sources": [
+		"coingecko"
+	]
+}

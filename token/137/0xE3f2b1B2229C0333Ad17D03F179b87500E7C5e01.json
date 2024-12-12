@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xE3f2b1B2229C0333Ad17D03F179b87500E7C5e01",
+	"symbol": "Aether Games",
+	"name": "Aether Games",
+	"coingecko": "aether-games",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xb853f7852Aa780831F165899ccbAF5DB0882B0d6",
+	"symbol": "CYRUS",
+	"name": "CYRUS",
+	"coingecko": "cyrus",
+	"sources": [
+		"coingecko"
+	]
+}

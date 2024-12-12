@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0x7d7130B0B4733D603Cea12628b52067ce8458058",
+	"symbol": "FIL",
+	"name": "Filecoin",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x7d7130B0B4733D603Cea12628b52067ce8458058.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

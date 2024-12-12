@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xD528cf2E081f72908e086F8800977df826B5a483",
+	"symbol": "Paribus",
+	"name": "Paribus",
+	"coingecko": "paribus",
+	"sources": [
+		"coingecko"
+	]
+}

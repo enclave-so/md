@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x973e52691176d36453868D9d86572788d27041A9",
+	"symbol": "DxChain",
+	"name": "DxChain",
+	"coingecko": "dxchain",
+	"sources": [
+		"coingecko"
+	]
+}

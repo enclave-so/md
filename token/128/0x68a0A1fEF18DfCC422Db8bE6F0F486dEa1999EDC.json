@@ -1,0 +1,11 @@
+{
+	"chain": 128,
+	"address": "0x68a0A1fEF18DfCC422Db8bE6F0F486dEa1999EDC",
+	"symbol": "EDC",
+	"name": "EarnDefiCoin",
+	"decimals": 9,
+	"logo": "https://hecoinfo.com/images/main/empty-token.png",
+	"sources": [
+		"sushiswap"
+	]
+}

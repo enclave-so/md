@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x53dF32548214f51821CF1Fe4368109ac5DdeA1Ff",
+	"symbol": "Sponge",
+	"name": "Sponge",
+	"coingecko": "sponge-2",
+	"sources": [
+		"coingecko"
+	]
+}

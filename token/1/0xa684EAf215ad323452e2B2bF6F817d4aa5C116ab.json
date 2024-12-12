@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xa684EAf215ad323452e2B2bF6F817d4aa5C116ab",
+	"symbol": "Loop ETH",
+	"name": "Loop ETH",
+	"coingecko": "loop-eth",
+	"sources": [
+		"coingecko"
+	]
+}

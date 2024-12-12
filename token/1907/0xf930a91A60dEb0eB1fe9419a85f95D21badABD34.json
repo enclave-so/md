@@ -1,0 +1,10 @@
+{
+	"chain": 1907,
+	"address": "0xf930a91A60dEb0eB1fe9419a85f95D21badABD34",
+	"symbol": "Rangers Fan Token",
+	"name": "Rangers Fan Token",
+	"coingecko": "rangers-fan-token",
+	"sources": [
+		"coingecko"
+	]
+}

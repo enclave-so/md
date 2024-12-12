@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0x6982508145454Ce325dDbE47a25d4ec3d2311933",
+	"symbol": "PEPE",
+	"name": "Pepe",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x6982508145454Ce325dDbE47a25d4ec3d2311933.jpg",
+	"coingecko": "pepe",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

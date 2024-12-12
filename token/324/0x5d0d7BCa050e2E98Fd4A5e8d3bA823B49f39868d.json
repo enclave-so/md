@@ -1,0 +1,10 @@
+{
+	"chain": 324,
+	"address": "0x5d0d7BCa050e2E98Fd4A5e8d3bA823B49f39868d",
+	"symbol": "Zyfi",
+	"name": "Zyfi",
+	"coingecko": "zyfi",
+	"sources": [
+		"coingecko"
+	]
+}

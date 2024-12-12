@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xBB22d59B73D7a6F3A8a83A214BECc67Eb3b511fE",
+	"symbol": "Constellation Staked ETH",
+	"name": "Constellation Staked ETH",
+	"coingecko": "constellation-staked-eth",
+	"sources": [
+		"coingecko"
+	]
+}

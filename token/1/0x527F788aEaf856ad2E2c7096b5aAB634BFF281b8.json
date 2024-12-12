@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x527F788aEaf856ad2E2c7096b5aAB634BFF281b8",
+	"symbol": "MUA DAO",
+	"name": "MUA DAO",
+	"coingecko": "mua-dao",
+	"sources": [
+		"coingecko"
+	]
+}

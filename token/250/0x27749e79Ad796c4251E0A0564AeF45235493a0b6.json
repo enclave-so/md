@@ -1,0 +1,10 @@
+{
+	"chain": 250,
+	"address": "0x27749e79Ad796c4251E0A0564AeF45235493a0b6",
+	"symbol": "OnX Finance",
+	"name": "OnX Finance",
+	"coingecko": "onx-finance",
+	"sources": [
+		"coingecko"
+	]
+}

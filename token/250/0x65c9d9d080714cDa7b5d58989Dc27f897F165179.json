@@ -1,0 +1,10 @@
+{
+	"chain": 250,
+	"address": "0x65c9d9d080714cDa7b5d58989Dc27f897F165179",
+	"symbol": "TETU",
+	"name": "TETU",
+	"coingecko": "tetu",
+	"sources": [
+		"coingecko"
+	]
+}

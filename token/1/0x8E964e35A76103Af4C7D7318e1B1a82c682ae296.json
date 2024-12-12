@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x8E964e35A76103Af4C7D7318e1B1a82c682ae296",
+	"symbol": "Fellaz",
+	"name": "Fellaz",
+	"coingecko": "fellaz",
+	"sources": [
+		"coingecko"
+	]
+}

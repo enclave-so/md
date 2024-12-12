@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xdA5e1988097297dCdc1f90D4dFE7909e847CBeF6",
+	"symbol": "World Liberty Financial",
+	"name": "World Liberty Financial",
+	"coingecko": "world-liberty-financial",
+	"sources": [
+		"coingecko"
+	]
+}

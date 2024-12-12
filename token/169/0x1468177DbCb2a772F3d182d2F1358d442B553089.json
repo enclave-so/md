@@ -1,0 +1,10 @@
+{
+	"chain": 169,
+	"address": "0x1468177DbCb2a772F3d182d2F1358d442B553089",
+	"symbol": "Manta mBTC",
+	"name": "Manta mBTC",
+	"coingecko": "manta-mbtc",
+	"sources": [
+		"coingecko"
+	]
+}

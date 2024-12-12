@@ -1,0 +1,10 @@
+{
+	"chain": 100009,
+	"address": "0x5ef79995FE8a89e0812330E4378eB2660ceDe699",
+	"symbol": "VeBetterDAO",
+	"name": "VeBetterDAO",
+	"coingecko": "vebetterdao",
+	"sources": [
+		"coingecko"
+	]
+}

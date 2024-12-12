@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x3FEB4fEA5132695542F8Ede5076Ac43296d17c6d",
+	"symbol": "Bitcoin 2.0",
+	"name": "Bitcoin 2.0",
+	"coingecko": "bitcoin-2-0",
+	"sources": [
+		"coingecko"
+	]
+}

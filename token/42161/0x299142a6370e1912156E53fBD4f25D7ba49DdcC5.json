@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x299142a6370e1912156E53fBD4f25D7ba49DdcC5",
+	"symbol": "AI Meta Club",
+	"name": "AI Meta Club",
+	"coingecko": "ai-meta-club",
+	"sources": [
+		"coingecko"
+	]
+}

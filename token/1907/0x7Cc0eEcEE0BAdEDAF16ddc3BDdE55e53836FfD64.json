@@ -1,0 +1,10 @@
+{
+	"chain": 1907,
+	"address": "0x7Cc0eEcEE0BAdEDAF16ddc3BDdE55e53836FfD64",
+	"symbol": "Lidya",
+	"name": "Lidya",
+	"coingecko": "lidya",
+	"sources": [
+		"coingecko"
+	]
+}

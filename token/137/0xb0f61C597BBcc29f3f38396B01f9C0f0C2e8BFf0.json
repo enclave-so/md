@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xb0f61C597BBcc29f3f38396B01f9C0f0C2e8BFf0",
+	"symbol": "Etherland",
+	"name": "Etherland",
+	"coingecko": "etherland",
+	"sources": [
+		"coingecko"
+	]
+}

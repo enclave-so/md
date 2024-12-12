@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x285DB79fa7e0e89E822786F48A7c98C6c1dC1c7d",
+	"symbol": "Magic Internet Cash",
+	"name": "Magic Internet Cash",
+	"coingecko": "magic-internet-cash",
+	"sources": [
+		"coingecko"
+	]
+}

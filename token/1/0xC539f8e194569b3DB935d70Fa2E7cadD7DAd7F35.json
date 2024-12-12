@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xC539f8e194569b3DB935d70Fa2E7cadD7DAd7F35",
+	"symbol": "Crypto Czar",
+	"name": "Crypto Czar",
+	"coingecko": "crypto-czar",
+	"sources": [
+		"coingecko"
+	]
+}

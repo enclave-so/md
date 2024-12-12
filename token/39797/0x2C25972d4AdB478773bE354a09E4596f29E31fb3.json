@@ -1,0 +1,10 @@
+{
+	"chain": 39797,
+	"address": "0x2C25972d4AdB478773bE354a09E4596f29E31fb3",
+	"symbol": "Audius",
+	"name": "Audius",
+	"coingecko": "audius",
+	"sources": [
+		"coingecko"
+	]
+}

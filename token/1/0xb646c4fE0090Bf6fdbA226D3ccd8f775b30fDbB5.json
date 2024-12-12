@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xb646c4fE0090Bf6fdbA226D3ccd8f775b30fDbB5",
+	"symbol": "Culo (ETH)",
+	"name": "Culo (ETH)",
+	"coingecko": "culo-eth",
+	"sources": [
+		"coingecko"
+	]
+}

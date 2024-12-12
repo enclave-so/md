@@ -1,0 +1,10 @@
+{
+	"chain": 1907,
+	"address": "0x12E5Df050Ba34a4b2ca3854546fDDBD641E9bD1D",
+	"symbol": "Deportivo Alavés Fan Token",
+	"name": "Deportivo Alavés Fan Token",
+	"coingecko": "deportivo-alaves-fan-token",
+	"sources": [
+		"coingecko"
+	]
+}

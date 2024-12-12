@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xe9514a6EbA63A0BBbE2FAea919E773eBE0f527C1",
+	"symbol": "Kekcoin (ETH)",
+	"name": "Kekcoin (ETH)",
+	"coingecko": "kekcoin-eth",
+	"sources": [
+		"coingecko"
+	]
+}

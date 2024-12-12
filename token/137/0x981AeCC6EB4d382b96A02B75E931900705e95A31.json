@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x981AeCC6EB4d382b96A02B75E931900705e95A31",
+	"symbol": "SAVAGE",
+	"name": "SAVAGE",
+	"coingecko": "savage",
+	"sources": [
+		"coingecko"
+	]
+}

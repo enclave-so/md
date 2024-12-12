@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x27D8De4c30ffDE34e982482AE504fC7F23061f61",
+	"symbol": "My MetaTrader",
+	"name": "My MetaTrader",
+	"coingecko": "my-metatrader",
+	"sources": [
+		"coingecko"
+	]
+}

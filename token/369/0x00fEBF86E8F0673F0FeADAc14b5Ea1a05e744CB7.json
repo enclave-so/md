@@ -1,0 +1,10 @@
+{
+	"chain": 369,
+	"address": "0x00fEBF86E8F0673F0FeADAc14b5Ea1a05e744CB7",
+	"symbol": "GrowthDefi GBTC",
+	"name": "GrowthDefi GBTC",
+	"coingecko": "growthdefi-gbtc",
+	"sources": [
+		"coingecko"
+	]
+}

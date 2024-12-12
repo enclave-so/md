@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x735fa792e731a2e8F83F32eb539841b7B72e6d8f",
+	"symbol": "ARYZE eEUR",
+	"name": "ARYZE eEUR",
+	"coingecko": "aryze-eeur",
+	"sources": [
+		"coingecko"
+	]
+}

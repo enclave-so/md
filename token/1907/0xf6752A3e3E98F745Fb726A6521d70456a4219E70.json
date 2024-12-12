@@ -1,0 +1,10 @@
+{
+	"chain": 1907,
+	"address": "0xf6752A3e3E98F745Fb726A6521d70456a4219E70",
+	"symbol": "MotoGP Fan Token",
+	"name": "MotoGP Fan Token",
+	"coingecko": "motogp-fan-token",
+	"sources": [
+		"coingecko"
+	]
+}

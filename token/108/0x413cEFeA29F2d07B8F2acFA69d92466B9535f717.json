@@ -1,0 +1,13 @@
+{
+	"chain": 108,
+	"address": "0x413cEFeA29F2d07B8F2acFA69d92466B9535f717",
+	"symbol": "WTT",
+	"name": "Wrapped Thunder Token",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/thundercore/0x413cEFeA29F2d07B8F2acFA69d92466B9535f717.jpg",
+	"coingecko": "wrapped-thunder-token",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

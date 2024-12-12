@@ -1,0 +1,10 @@
+{
+	"chain": 204,
+	"address": "0x9e5AAC1Ba1a2e6aEd6b32689DFcF62A509Ca96f3",
+	"symbol": "Bridged Tether (opBNB)",
+	"name": "Bridged Tether (opBNB)",
+	"coingecko": "bridged-tether-opbnb",
+	"sources": [
+		"coingecko"
+	]
+}

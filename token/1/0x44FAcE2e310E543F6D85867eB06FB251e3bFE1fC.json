@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x44FAcE2e310E543F6D85867eB06FB251e3bFE1fC",
+	"symbol": "404 Bakery",
+	"name": "404 Bakery",
+	"coingecko": "404-bakery",
+	"sources": [
+		"coingecko"
+	]
+}

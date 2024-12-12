@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x12eF10A4fc6e1Ea44B4ca9508760fF51c647BB71",
+	"symbol": "Restake Finance",
+	"name": "Restake Finance",
+	"coingecko": "restake-finance",
+	"sources": [
+		"coingecko"
+	]
+}

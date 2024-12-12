@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xcE872DB165d4F5623AF9c29e03AFd416Bc5f67bc",
+	"symbol": "StakeVault.Network",
+	"name": "StakeVault.Network",
+	"coingecko": "stakevault-network",
+	"sources": [
+		"coingecko"
+	]
+}

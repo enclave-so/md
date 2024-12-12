@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x320d31183100280CcdF69366CD56180Ea442A3E8",
+	"symbol": "Lightcoin",
+	"name": "Lightcoin",
+	"coingecko": "lightcoin",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0xa68Ec98D7ca870cF1Dd0b00EBbb7c4bF60A8e74d",
+	"symbol": "Biconomy",
+	"name": "Biconomy",
+	"coingecko": "biconomy",
+	"sources": [
+		"coingecko"
+	]
+}

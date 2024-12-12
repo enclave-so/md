@@ -1,0 +1,10 @@
+{
+	"chain": 1313161554,
+	"address": "0x7cA1C28663b76CFDe424A9494555B94846205585",
+	"symbol": "Chronicle",
+	"name": "Chronicle",
+	"coingecko": "chronicle",
+	"sources": [
+		"coingecko"
+	]
+}

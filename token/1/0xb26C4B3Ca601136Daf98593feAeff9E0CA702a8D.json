@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xb26C4B3Ca601136Daf98593feAeff9E0CA702a8D",
+	"symbol": "Aladdin DAO",
+	"name": "Aladdin DAO",
+	"coingecko": "aladdin-dao",
+	"sources": [
+		"coingecko"
+	]
+}

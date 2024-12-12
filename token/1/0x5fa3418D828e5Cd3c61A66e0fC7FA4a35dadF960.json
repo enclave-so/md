@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x5fa3418D828e5Cd3c61A66e0fC7FA4a35dadF960",
+	"symbol": "Avatly",
+	"name": "Avatly",
+	"coingecko": "avatly-2",
+	"sources": [
+		"coingecko"
+	]
+}

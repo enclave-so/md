@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x22e3f02f86Bc8eA0D73718A2AE8851854e62adc5",
+	"symbol": "FireStarter",
+	"name": "FireStarter",
+	"coingecko": "firestarter",
+	"sources": [
+		"coingecko"
+	]
+}

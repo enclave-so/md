@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x5eeecb13a98e2019aaacA47DF17683431F5CAb04",
+	"symbol": "SpunkySDX",
+	"name": "SpunkySDX",
+	"coingecko": "spunkysdx",
+	"sources": [
+		"coingecko"
+	]
+}

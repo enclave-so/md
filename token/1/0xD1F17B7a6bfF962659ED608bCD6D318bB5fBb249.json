@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xD1F17B7a6bfF962659ED608bCD6D318bB5fBb249",
+	"symbol": "Zuzalu Inu",
+	"name": "Zuzalu Inu",
+	"coingecko": "zuzalu-inu",
+	"sources": [
+		"coingecko"
+	]
+}

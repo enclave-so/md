@@ -1,0 +1,10 @@
+{
+	"chain": 100,
+	"address": "0x83FF60E2f93F8eDD0637Ef669C69D5Fb4f64cA8E",
+	"symbol": "BrightID",
+	"name": "BrightID",
+	"coingecko": "bright-token",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 111188,
+	"address": "0x75d0cBF342060b14c2fC756fd6E717dFeb5B1B70",
+	"symbol": "Re.al Bridged DAI (Re.al)",
+	"name": "Re.al Bridged DAI (Re.al)",
+	"coingecko": "real-bridged-dai-real",
+	"sources": [
+		"coingecko"
+	]
+}

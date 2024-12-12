@@ -1,0 +1,10 @@
+{
+	"chain": 1284,
+	"address": "0xFfFFFfffA893AD19e540E172C10d78D4d479B5Cf",
+	"symbol": "Astar (Moonbeam)",
+	"name": "Astar (Moonbeam)",
+	"coingecko": "astar-moonbeam",
+	"sources": [
+		"coingecko"
+	]
+}

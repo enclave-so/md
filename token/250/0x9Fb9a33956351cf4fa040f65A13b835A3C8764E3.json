@@ -1,0 +1,10 @@
+{
+	"chain": 250,
+	"address": "0x9Fb9a33956351cf4fa040f65A13b835A3C8764E3",
+	"symbol": "Multichain (Fantom)",
+	"name": "Multichain (Fantom)",
+	"coingecko": "multichain-fantom",
+	"sources": [
+		"coingecko"
+	]
+}

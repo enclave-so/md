@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x4946Fcea7C692606e8908002e55A582af44AC121",
+	"symbol": "FOAM",
+	"name": "FOAM",
+	"coingecko": "foam-protocol",
+	"sources": [
+		"coingecko"
+	]
+}

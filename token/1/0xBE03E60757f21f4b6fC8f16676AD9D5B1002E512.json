@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xBE03E60757f21f4b6fC8f16676AD9D5B1002E512",
+	"symbol": "Raini Studios Token",
+	"name": "Raini Studios Token",
+	"coingecko": "raini-studios-token",
+	"sources": [
+		"coingecko"
+	]
+}

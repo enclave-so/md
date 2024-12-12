@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x1824a51C106EFC27d35A74efB56d9BF54dDb22d4",
+	"symbol": "Perpy Finance",
+	"name": "Perpy Finance",
+	"coingecko": "perpy-finance",
+	"sources": [
+		"coingecko"
+	]
+}

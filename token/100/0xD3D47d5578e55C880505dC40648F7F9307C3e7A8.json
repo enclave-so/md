@@ -1,0 +1,13 @@
+{
+	"chain": 100,
+	"address": "0xD3D47d5578e55C880505dC40648F7F9307C3e7A8",
+	"symbol": "DPI",
+	"name": "DefiPulse Index from Ethereum",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/xdai/0xD3D47d5578e55C880505dC40648F7F9307C3e7A8.jpg",
+	"coingecko": "defipulse-index",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

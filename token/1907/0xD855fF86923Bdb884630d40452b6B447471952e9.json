@@ -1,0 +1,10 @@
+{
+	"chain": 1907,
+	"address": "0xD855fF86923Bdb884630d40452b6B447471952e9",
+	"symbol": "Simit",
+	"name": "Simit",
+	"coingecko": "simit",
+	"sources": [
+		"coingecko"
+	]
+}

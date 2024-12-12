@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x6715515F5aA98e8Bd3624922E1Ba91e6f5fc4402",
+	"symbol": "SatoshiSync",
+	"name": "SatoshiSync",
+	"coingecko": "satoshisync",
+	"sources": [
+		"coingecko"
+	]
+}

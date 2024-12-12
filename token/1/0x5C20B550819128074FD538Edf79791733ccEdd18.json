@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x5C20B550819128074FD538Edf79791733ccEdd18",
+	"symbol": "Fluid Tether USD",
+	"name": "Fluid Tether USD",
+	"coingecko": "fluid-tether-usd",
+	"sources": [
+		"coingecko"
+	]
+}

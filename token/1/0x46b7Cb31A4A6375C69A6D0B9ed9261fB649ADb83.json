@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x46b7Cb31A4A6375C69A6D0B9ed9261fB649ADb83",
+	"symbol": "0xPrivacy",
+	"name": "0xPrivacy",
+	"coingecko": "0xprivacy",
+	"sources": [
+		"coingecko"
+	]
+}

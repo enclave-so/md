@@ -1,0 +1,13 @@
+{
+	"chain": 10,
+	"address": "0x8700dAec35aF8Ff88c16BdF0418774CB3D7599B4",
+	"symbol": "SNX",
+	"name": "Synthetix",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/SNX/logo.svg",
+	"coingecko": "havven",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

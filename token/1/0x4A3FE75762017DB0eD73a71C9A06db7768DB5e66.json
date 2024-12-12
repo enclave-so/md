@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x4A3FE75762017DB0eD73a71C9A06db7768DB5e66",
+	"symbol": "COMP yVault",
+	"name": "COMP yVault",
+	"coingecko": "comp-yvault",
+	"sources": [
+		"coingecko"
+	]
+}

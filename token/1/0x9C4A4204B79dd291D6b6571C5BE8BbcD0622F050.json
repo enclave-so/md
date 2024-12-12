@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0x9C4A4204B79dd291D6b6571C5BE8BbcD0622F050",
+	"symbol": "TCR",
+	"name": "Tracer",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x9C4A4204B79dd291D6b6571C5BE8BbcD0622F050/logo.png",
+	"sources": [
+		"sushiswap"
+	]
+}

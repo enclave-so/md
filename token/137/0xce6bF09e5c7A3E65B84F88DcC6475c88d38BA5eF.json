@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xce6bF09e5c7A3E65B84F88DcC6475c88d38BA5eF",
+	"symbol": "Opacity",
+	"name": "Opacity",
+	"coingecko": "opacity",
+	"sources": [
+		"coingecko"
+	]
+}

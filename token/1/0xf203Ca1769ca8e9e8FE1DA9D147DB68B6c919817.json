@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0xf203Ca1769ca8e9e8FE1DA9D147DB68B6c919817",
+	"symbol": "WNCG",
+	"name": "Wrapped NCG",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/wncg.jpg",
+	"coingecko": "wrapped-ncg",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

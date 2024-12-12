@@ -1,0 +1,13 @@
+{
+	"chain": 42161,
+	"address": "0xaFAfd68AFe3fe65d376eEC9Eab1802616cFacCb8",
+	"symbol": "SolvBTC.ENA",
+	"name": "SolvBTC Ethena",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xaFAfd68AFe3fe65d376eEC9Eab1802616cFacCb8.jpg",
+	"coingecko": "solv-protocol-solvbtc-ena",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

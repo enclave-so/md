@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xcD86152047e800d67BDf00A4c635A8B6C0e5C4c2",
+	"symbol": "Nacho Finance",
+	"name": "Nacho Finance",
+	"coingecko": "nacho-finance",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xe9fa21E671BcfB04E6868784b89C19d5aa2424Ea",
+	"symbol": "EurocoinToken",
+	"name": "EurocoinToken",
+	"coingecko": "eurocoinpay",
+	"sources": [
+		"coingecko"
+	]
+}

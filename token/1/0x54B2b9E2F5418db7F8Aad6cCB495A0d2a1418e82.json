@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x54B2b9E2F5418db7F8Aad6cCB495A0d2a1418e82",
+	"symbol": "Ballswapper Accelerator Reflection",
+	"name": "Ballswapper Accelerator Reflection",
+	"coingecko": "ballswapper-accelerator-reflection-token-2",
+	"sources": [
+		"coingecko"
+	]
+}

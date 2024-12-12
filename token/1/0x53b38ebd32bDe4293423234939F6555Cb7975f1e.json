@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x53b38ebd32bDe4293423234939F6555Cb7975f1e",
+	"symbol": "fomeow",
+	"name": "fomeow",
+	"coingecko": "fomeow",
+	"sources": [
+		"coingecko"
+	]
+}

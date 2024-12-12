@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0xc9DE0F3e08162312528FF72559db82590b481800",
+	"symbol": "SOL",
+	"name": "Solana",
+	"decimals": 9,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xc9DE0F3e08162312528FF72559db82590b481800.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

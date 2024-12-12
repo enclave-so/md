@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xc8bf8bC34874E07f6A0d4aBc8be22ba9E372631b",
+	"symbol": "SmartWorld Global Token",
+	"name": "SmartWorld Global Token",
+	"coingecko": "smartworld-global",
+	"sources": [
+		"coingecko"
+	]
+}

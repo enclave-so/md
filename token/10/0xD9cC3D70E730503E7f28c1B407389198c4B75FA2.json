@@ -1,0 +1,10 @@
+{
+	"chain": 10,
+	"address": "0xD9cC3D70E730503E7f28c1B407389198c4B75FA2",
+	"symbol": "TLX",
+	"name": "TLX",
+	"coingecko": "tlx",
+	"sources": [
+		"coingecko"
+	]
+}

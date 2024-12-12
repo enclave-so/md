@@ -1,0 +1,13 @@
+{
+	"chain": 25,
+	"address": "0xCbF0ADeA24fd5f32c6e7f0474f0d1b94Ace4E2e7",
+	"symbol": "CROID",
+	"name": "CronosID",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xCbF0ADeA24fd5f32c6e7f0474f0d1b94Ace4E2e7.jpg",
+	"coingecko": "cronos-id",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

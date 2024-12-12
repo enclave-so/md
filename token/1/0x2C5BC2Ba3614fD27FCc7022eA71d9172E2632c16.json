@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x2C5BC2Ba3614fD27FCc7022eA71d9172E2632c16",
+	"symbol": "Shib Original Vision",
+	"name": "Shib Original Vision",
+	"coingecko": "shib-original-vision",
+	"sources": [
+		"coingecko"
+	]
+}

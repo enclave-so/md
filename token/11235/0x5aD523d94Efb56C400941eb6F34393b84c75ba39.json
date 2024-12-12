@@ -1,0 +1,11 @@
+{
+	"chain": 11235,
+	"address": "0x5aD523d94Efb56C400941eb6F34393b84c75ba39",
+	"symbol": "USDT",
+	"name": "Tether USD from KAVA",
+	"decimals": 6,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/haqq/0x5aD523d94Efb56C400941eb6F34393b84c75ba39.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

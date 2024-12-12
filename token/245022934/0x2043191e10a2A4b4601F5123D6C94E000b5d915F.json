@@ -1,0 +1,10 @@
+{
+	"chain": 245022934,
+	"address": "0x2043191e10a2A4b4601F5123D6C94E000b5d915F",
+	"symbol": "Mora",
+	"name": "Mora",
+	"coingecko": "mora",
+	"sources": [
+		"coingecko"
+	]
+}

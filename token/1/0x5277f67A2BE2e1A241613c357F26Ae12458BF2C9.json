@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x5277f67A2BE2e1A241613c357F26Ae12458BF2C9",
+	"symbol": "FAT GUY",
+	"name": "FAT GUY",
+	"coingecko": "fat-guy",
+	"sources": [
+		"coingecko"
+	]
+}

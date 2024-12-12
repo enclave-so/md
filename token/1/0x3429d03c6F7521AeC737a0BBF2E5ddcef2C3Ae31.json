@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x3429d03c6F7521AeC737a0BBF2E5ddcef2C3Ae31",
+	"symbol": "Pixels",
+	"name": "Pixels",
+	"coingecko": "pixels",
+	"sources": [
+		"coingecko"
+	]
+}

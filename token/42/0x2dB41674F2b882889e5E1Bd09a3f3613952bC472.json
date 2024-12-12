@@ -1,0 +1,10 @@
+{
+	"chain": 42,
+	"address": "0x2dB41674F2b882889e5E1Bd09a3f3613952bC472",
+	"symbol": "Wrapped Lyx (UniversalSwaps)",
+	"name": "Wrapped Lyx (UniversalSwaps)",
+	"coingecko": "wrapped-lyx-universalswaps",
+	"sources": [
+		"coingecko"
+	]
+}

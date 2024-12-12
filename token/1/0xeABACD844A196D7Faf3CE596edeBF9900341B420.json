@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0xeABACD844A196D7Faf3CE596edeBF9900341B420",
+	"symbol": "sCEX",
+	"name": "Synth sCEX",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/scex.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

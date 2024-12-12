@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x70fD93fb088150e203d2243b9BD3190276f80C70",
+	"symbol": "Birddog",
+	"name": "Birddog",
+	"coingecko": "birddog",
+	"sources": [
+		"coingecko"
+	]
+}

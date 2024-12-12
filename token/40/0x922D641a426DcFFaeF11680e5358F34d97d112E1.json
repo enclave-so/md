@@ -1,0 +1,11 @@
+{
+	"chain": 40,
+	"address": "0x922D641a426DcFFaeF11680e5358F34d97d112E1",
+	"symbol": "anySUSHI",
+	"name": "SushiToken (Anyswap)",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/telos/0x922D641a426DcFFaeF11680e5358F34d97d112E1.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

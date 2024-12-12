@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xB0aFa681EaD9219D25c57bD17bb207a3afcc4AA1",
+	"symbol": "Eywa",
+	"name": "Eywa",
+	"coingecko": "eywa",
+	"sources": [
+		"coingecko"
+	]
+}

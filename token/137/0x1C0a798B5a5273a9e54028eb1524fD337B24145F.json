@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x1C0a798B5a5273a9e54028eb1524fD337B24145F",
+	"symbol": "Loser Coin",
+	"name": "Loser Coin",
+	"coingecko": "loser-coin",
+	"sources": [
+		"coingecko"
+	]
+}

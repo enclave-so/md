@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x031B8d752d73d7Fe9678ACEf26e818280D0646b4",
+	"symbol": "Sovrun",
+	"name": "Sovrun",
+	"coingecko": "sovrun",
+	"sources": [
+		"coingecko"
+	]
+}

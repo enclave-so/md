@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xDA7C0810cE6F8329786160bb3d1734cf6661CA6E",
+	"symbol": "Jaypeggers",
+	"name": "Jaypeggers",
+	"coingecko": "jaypegggers",
+	"sources": [
+		"coingecko"
+	]
+}

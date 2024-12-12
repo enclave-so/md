@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x0907B8B13970DF091ECc9d4d4c7AE12A599Ad923",
+	"symbol": "Credit Check Coin",
+	"name": "Credit Check Coin",
+	"coingecko": "credit-check-coin",
+	"sources": [
+		"coingecko"
+	]
+}

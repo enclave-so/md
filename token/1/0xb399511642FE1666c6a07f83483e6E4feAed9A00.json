@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xb399511642FE1666c6a07f83483e6E4feAed9A00",
+	"symbol": "The Standard EURO",
+	"name": "The Standard EURO",
+	"coingecko": "the-standard-euro",
+	"sources": [
+		"coingecko"
+	]
+}

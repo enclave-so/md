@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xd1679946ba555eBF5cb38e8b089EF1E1e5D2ABB1",
+	"symbol": "GuardAI",
+	"name": "GuardAI",
+	"coingecko": "guardai",
+	"sources": [
+		"coingecko"
+	]
+}

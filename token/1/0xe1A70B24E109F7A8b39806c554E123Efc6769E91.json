@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xe1A70B24E109F7A8b39806c554E123Efc6769E91",
+	"symbol": "Liquid Savings DAI",
+	"name": "Liquid Savings DAI",
+	"coingecko": "liquid-savings-dai",
+	"sources": [
+		"coingecko"
+	]
+}

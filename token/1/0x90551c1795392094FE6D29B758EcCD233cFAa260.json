@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x90551c1795392094FE6D29B758EcCD233cFAa260",
+	"symbol": "Fluid Wrapped Ether",
+	"name": "Fluid Wrapped Ether",
+	"coingecko": "fluid-wrapped-ether",
+	"sources": [
+		"coingecko"
+	]
+}

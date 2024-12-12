@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x9cf98Eb8A8B28c83E8612046cf55701Ce3Eb0063",
+	"symbol": "Unreal Finance",
+	"name": "Unreal Finance",
+	"coingecko": "unreal-finance",
+	"sources": [
+		"coingecko"
+	]
+}

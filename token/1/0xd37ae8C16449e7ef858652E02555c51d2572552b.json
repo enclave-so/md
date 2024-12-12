@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xd37ae8C16449e7ef858652E02555c51d2572552b",
+	"symbol": "INSPAD",
+	"name": "INSPAD",
+	"coingecko": "insect",
+	"sources": [
+		"coingecko"
+	]
+}

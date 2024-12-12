@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xF6801c3e4108ead0Deb216a3295338a582734c24",
+	"symbol": "LifeBankChain",
+	"name": "LifeBankChain",
+	"coingecko": "lifebankchain",
+	"sources": [
+		"coingecko"
+	]
+}

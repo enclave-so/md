@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0x753053956Bd46cFe000B0968d41f887149B19c41",
+	"symbol": "AGIX",
+	"name": "SingularityNET",
+	"decimals": 8,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x753053956Bd46cFe000B0968d41f887149B19c41.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

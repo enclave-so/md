@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x1e797Ce986C3CFF4472F7D38d5C4aba55DfEFE40",
+	"symbol": "BlockCDN",
+	"name": "BlockCDN",
+	"coingecko": "blockcdn",
+	"sources": [
+		"coingecko"
+	]
+}

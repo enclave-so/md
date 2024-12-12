@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xCD4Ee6c8052Df6742e4B342cF720FF3ac74F415e",
+	"symbol": "StellaryAI",
+	"name": "StellaryAI",
+	"coingecko": "stellaryai",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xe4880249745eAc5F1eD9d8F7DF844792D560e750",
+	"symbol": "Spiko US T-Bills Money Market Fund",
+	"name": "Spiko US T-Bills Money Market Fund",
+	"coingecko": "spiko-us-t-bills-money-market-fund",
+	"sources": [
+		"coingecko"
+	]
+}

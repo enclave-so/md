@@ -1,0 +1,13 @@
+{
+	"chain": 2222,
+	"address": "0xfA9343C3897324496A05fC75abeD6bAC29f8A40f",
+	"symbol": "anyUSDC",
+	"name": "USD Coin",
+	"decimals": 6,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdc.jpg",
+	"coingecko": "multichain-bridged-usdc-kava",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

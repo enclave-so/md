@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xbB97e381F1d1e94ffa2A5844F6875e6146981009",
+	"symbol": "Wibx",
+	"name": "Wibx",
+	"coingecko": "wibx",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x124386504D774979E1E9D2D19c6188391D7af8e3",
+	"symbol": "Hanabi-chan",
+	"name": "Hanabi-chan",
+	"coingecko": "hanabi-chan",
+	"sources": [
+		"coingecko"
+	]
+}

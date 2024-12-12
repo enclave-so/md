@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x4Ddc2D193948926D02f9B1fE9e1daa0718270ED5",
+	"symbol": "cETH",
+	"name": "cETH",
+	"coingecko": "compound-ether",
+	"sources": [
+		"coingecko"
+	]
+}

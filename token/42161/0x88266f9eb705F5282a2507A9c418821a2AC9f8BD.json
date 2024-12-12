@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x88266f9eb705F5282a2507A9c418821a2AC9f8BD",
+	"symbol": "Nutcash",
+	"name": "Nutcash",
+	"coingecko": "nutcash",
+	"sources": [
+		"coingecko"
+	]
+}

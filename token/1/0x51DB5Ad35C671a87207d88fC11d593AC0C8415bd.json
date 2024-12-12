@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x51DB5Ad35C671a87207d88fC11d593AC0C8415bd",
+	"symbol": "Moeda Loyalty Points",
+	"name": "Moeda Loyalty Points",
+	"coingecko": "moeda-loyalty-points",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"chain": 25,
+	"address": "0x9FA6552c1E9df51070A3b456355B5d76cBD59B5A",
+	"symbol": "EMIT",
+	"name": "Emit",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x9FA6552c1E9df51070A3b456355B5d76cBD59B5A.jpg",
+	"coingecko": "emit",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

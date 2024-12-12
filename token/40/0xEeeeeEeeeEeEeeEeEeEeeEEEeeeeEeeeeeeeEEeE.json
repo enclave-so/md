@@ -1,0 +1,10 @@
+{
+	"chain": 40,
+	"address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+	"symbol": "Wrapped Telos",
+	"name": "Wrapped Telos",
+	"coingecko": "wrapped-telos",
+	"sources": [
+		"coingecko"
+	]
+}

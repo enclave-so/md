@@ -1,0 +1,13 @@
+{
+	"chain": 42161,
+	"address": "0x1622bF67e6e5747b81866fE0b85178a93C7F86e3",
+	"symbol": "UMAMI",
+	"name": "Umami",
+	"decimals": 9,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/arbitrum/assets/0x1622bF67e6e5747b81866fE0b85178a93C7F86e3/logo.png",
+	"coingecko": "umami-finance",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x2B8AAC1630F7BC0C4b1ed8036C0fe0D71cB44709",
+	"symbol": "Wojak Mask",
+	"name": "Wojak Mask",
+	"coingecko": "wojak-mask",
+	"sources": [
+		"coingecko"
+	]
+}

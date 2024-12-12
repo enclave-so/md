@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x3b7E1ce09aFe2bB3A23919AFb65a38E627CfbE97",
+	"symbol": "Dragon Soul Token",
+	"name": "Dragon Soul Token",
+	"coingecko": "dragon-soul-token",
+	"sources": [
+		"coingecko"
+	]
+}

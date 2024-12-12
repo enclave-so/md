@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x31ea0de8119307aA264Bb4b38727aAb4E36b074f",
+	"symbol": "Bit Store",
+	"name": "Bit Store",
+	"coingecko": "bit-store-coin",
+	"sources": [
+		"coingecko"
+	]
+}

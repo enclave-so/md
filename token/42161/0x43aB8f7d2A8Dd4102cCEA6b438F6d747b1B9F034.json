@@ -1,0 +1,11 @@
+{
+	"chain": 42161,
+	"address": "0x43aB8f7d2A8Dd4102cCEA6b438F6d747b1B9F034",
+	"symbol": "SVY",
+	"name": "Savvy",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x43aB8f7d2A8Dd4102cCEA6b438F6d747b1B9F034.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xaa8dA83B0b8fca779C36F3e39FA93dF2A3906617",
+	"symbol": "TONKIT",
+	"name": "TONKIT",
+	"coingecko": "tonkit",
+	"sources": [
+		"coingecko"
+	]
+}

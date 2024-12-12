@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0xfA0235feF8644C107f7e531Fa9CFe0613Fbe8909",
+	"symbol": "CELR",
+	"name": "Celer Network",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xfA0235feF8644C107f7e531Fa9CFe0613Fbe8909.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

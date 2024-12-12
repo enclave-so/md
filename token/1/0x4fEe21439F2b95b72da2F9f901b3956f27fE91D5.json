@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x4fEe21439F2b95b72da2F9f901b3956f27fE91D5",
+	"symbol": "FrogSwap",
+	"name": "FrogSwap",
+	"coingecko": "frogswap",
+	"sources": [
+		"coingecko"
+	]
+}

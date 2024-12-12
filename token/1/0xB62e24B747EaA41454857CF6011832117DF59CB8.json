@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xB62e24B747EaA41454857CF6011832117DF59CB8",
+	"symbol": "Epiko",
+	"name": "Epiko",
+	"coingecko": "epiko",
+	"sources": [
+		"coingecko"
+	]
+}

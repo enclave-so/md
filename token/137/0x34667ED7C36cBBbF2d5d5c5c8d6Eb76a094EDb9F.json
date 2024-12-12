@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x34667ED7C36cBBbF2d5d5c5c8d6Eb76a094EDb9F",
+	"symbol": "GenomesDAO GENE",
+	"name": "GenomesDAO GENE",
+	"coingecko": "genomesdao",
+	"sources": [
+		"coingecko"
+	]
+}

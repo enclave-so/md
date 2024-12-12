@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xbD6323A83b613F668687014E8A5852079494fB68",
+	"symbol": "BlackrockTradingCurrency",
+	"name": "BlackrockTradingCurrency",
+	"coingecko": "blackrocktradingcurrency",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 250,
+	"address": "0xeaF26191ac1D35AE30Baa19a5ad5558DD8156Aef",
+	"symbol": "Nord Finance",
+	"name": "Nord Finance",
+	"coingecko": "nord-finance",
+	"sources": [
+		"coingecko"
+	]
+}

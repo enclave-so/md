@@ -1,0 +1,10 @@
+{
+	"chain": 250,
+	"address": "0xdDcb3fFD12750B45d32E084887fdf1aABAb34239",
+	"symbol": "Anyswap",
+	"name": "Anyswap",
+	"coingecko": "anyswap",
+	"sources": [
+		"coingecko"
+	]
+}

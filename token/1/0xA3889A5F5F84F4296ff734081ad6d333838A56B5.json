@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xA3889A5F5F84F4296ff734081ad6d333838A56B5",
+	"symbol": "Wizard World WIZ",
+	"name": "Wizard World WIZ",
+	"coingecko": "wizard-world-wiz",
+	"sources": [
+		"coingecko"
+	]
+}

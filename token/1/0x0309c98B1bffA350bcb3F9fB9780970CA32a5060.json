@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0x0309c98B1bffA350bcb3F9fB9780970CA32a5060",
+	"symbol": "BDI",
+	"name": "BasketDAO DeFi Index",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x0309c98B1bffA350bcb3F9fB9780970CA32a5060/logo.png",
+	"sources": [
+		"sushiswap"
+	]
+}

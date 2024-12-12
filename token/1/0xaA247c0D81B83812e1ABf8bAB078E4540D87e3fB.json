@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xaA247c0D81B83812e1ABf8bAB078E4540D87e3fB",
+	"symbol": "Meson Network",
+	"name": "Meson Network",
+	"coingecko": "meson-network",
+	"sources": [
+		"coingecko"
+	]
+}

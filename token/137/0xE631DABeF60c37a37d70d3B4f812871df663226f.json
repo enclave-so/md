@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xE631DABeF60c37a37d70d3B4f812871df663226f",
+	"symbol": "Swarm Markets",
+	"name": "Swarm Markets",
+	"coingecko": "swarm-markets",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"chain": 25,
+	"address": "0x062E66477Faf219F25D27dCED647BF57C3107d52",
+	"symbol": "WBTC",
+	"name": "WBTC Token",
+	"decimals": 8,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x062E66477Faf219F25D27dCED647BF57C3107d52.jpg",
+	"coingecko": "cronos-bridged-wbtc-cronos",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

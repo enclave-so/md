@@ -1,0 +1,10 @@
+{
+	"chain": 295,
+	"address": "0x00000000000000000000000000000000002cc823",
+	"symbol": "Wrapped HBAR (HeliSwap)",
+	"name": "Wrapped HBAR (HeliSwap)",
+	"coingecko": "bridged-wrapped-hbar-heliswap",
+	"sources": [
+		"coingecko"
+	]
+}

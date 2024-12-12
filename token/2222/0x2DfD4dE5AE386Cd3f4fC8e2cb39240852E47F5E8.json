@@ -1,0 +1,13 @@
+{
+	"chain": 2222,
+	"address": "0x2DfD4dE5AE386Cd3f4fC8e2cb39240852E47F5E8",
+	"symbol": "WETH",
+	"name": "Wrapped Ether",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/kava/0x2DfD4dE5AE386Cd3f4fC8e2cb39240852E47F5E8.jpg",
+	"coingecko": "bridged-wrapped-ether-stargate",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

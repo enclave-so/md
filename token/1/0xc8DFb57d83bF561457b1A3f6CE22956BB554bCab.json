@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xc8DFb57d83bF561457b1A3f6CE22956BB554bCab",
+	"symbol": "TradeMaster.ninja",
+	"name": "TradeMaster.ninja",
+	"coingecko": "trademaster-ninja",
+	"sources": [
+		"coingecko"
+	]
+}

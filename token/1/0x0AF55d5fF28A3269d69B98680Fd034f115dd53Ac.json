@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x0AF55d5fF28A3269d69B98680Fd034f115dd53Ac",
+	"symbol": "BankSocial",
+	"name": "BankSocial",
+	"coingecko": "banksocial",
+	"sources": [
+		"coingecko"
+	]
+}

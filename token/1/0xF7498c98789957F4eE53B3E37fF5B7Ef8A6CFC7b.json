@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xF7498c98789957F4eE53B3E37fF5B7Ef8A6CFC7b",
+	"symbol": "DEVAI",
+	"name": "DEVAI",
+	"coingecko": "contract-dev-ai",
+	"sources": [
+		"coingecko"
+	]
+}

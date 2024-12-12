@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x65F9A292f1AEED5D755Aa2fD2Fb17AB2E9431447",
+	"symbol": "SoMee.Social",
+	"name": "SoMee.Social",
+	"coingecko": "somee-social",
+	"sources": [
+		"coingecko"
+	]
+}

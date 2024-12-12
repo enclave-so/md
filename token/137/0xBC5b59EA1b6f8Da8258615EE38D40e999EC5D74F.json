@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xBC5b59EA1b6f8Da8258615EE38D40e999EC5D74F",
+	"symbol": "Paw V2",
+	"name": "Paw V2",
+	"coingecko": "paw-v2",
+	"sources": [
+		"coingecko"
+	]
+}

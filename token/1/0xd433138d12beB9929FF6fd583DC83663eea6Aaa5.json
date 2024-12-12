@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xd433138d12beB9929FF6fd583DC83663eea6Aaa5",
+	"symbol": "Bitrue Coin",
+	"name": "Bitrue Coin",
+	"coingecko": "bitrue-token",
+	"sources": [
+		"coingecko"
+	]
+}

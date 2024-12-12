@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x4123a133ae3c521FD134D7b13A2dEC35b56c2463",
+	"symbol": "Open Custody Protocol",
+	"name": "Open Custody Protocol",
+	"coingecko": "qredo",
+	"sources": [
+		"coingecko"
+	]
+}

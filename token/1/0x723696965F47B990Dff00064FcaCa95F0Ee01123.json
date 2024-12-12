@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x723696965F47B990Dff00064FcaCa95F0Ee01123",
+	"symbol": "Alpha Radar AI",
+	"name": "Alpha Radar AI",
+	"coingecko": "alpha-radar-bot",
+	"sources": [
+		"coingecko"
+	]
+}

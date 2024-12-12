@@ -1,0 +1,10 @@
+{
+	"chain": 250,
+	"address": "0xB8a32897016C1B2ee0797090162eAFe58f032795",
+	"symbol": "Fantom Eco",
+	"name": "Fantom Eco",
+	"coingecko": "fantom-eco",
+	"sources": [
+		"coingecko"
+	]
+}

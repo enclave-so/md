@@ -1,0 +1,11 @@
+{
+	"chain": 137,
+	"address": "0x29F1e986FCa02B7E54138c04C4F503DdDD250558",
+	"symbol": "VSQ",
+	"name": "VSQ",
+	"decimals": 9,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x29F1e986FCa02B7E54138c04C4F503DdDD250558.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

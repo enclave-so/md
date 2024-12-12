@@ -1,0 +1,10 @@
+{
+	"chain": 10,
+	"address": "0xe453d6649643F1F460C371dC3D1da98F7922fe51",
+	"symbol": "Fuse",
+	"name": "Fuse",
+	"coingecko": "fuse-network-token",
+	"sources": [
+		"coingecko"
+	]
+}

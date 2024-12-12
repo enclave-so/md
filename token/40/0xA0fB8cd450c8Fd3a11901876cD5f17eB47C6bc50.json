@@ -1,0 +1,11 @@
+{
+	"chain": 40,
+	"address": "0xA0fB8cd450c8Fd3a11901876cD5f17eB47C6bc50",
+	"symbol": "ETH",
+	"name": "Ethereum",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/telos/0xA0fB8cd450c8Fd3a11901876cD5f17eB47C6bc50.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

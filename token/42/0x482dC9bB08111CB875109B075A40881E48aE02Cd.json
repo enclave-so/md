@@ -1,0 +1,11 @@
+{
+	"chain": 42,
+	"address": "0x482dC9bB08111CB875109B075A40881E48aE02Cd",
+	"symbol": "BAT",
+	"name": "Basic Attention Token",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_BAT.svg",
+	"sources": [
+		"sushiswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1313161554,
+	"address": "0x7faA64Faf54750a2E3eE621166635fEAF406Ab22",
+	"symbol": "WannaSwap",
+	"name": "WannaSwap",
+	"coingecko": "wannaswap",
+	"sources": [
+		"coingecko"
+	]
+}

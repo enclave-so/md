@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x2a3bFF78B79A009976EeA096a51A948a3dC00e34",
+	"symbol": "Wilder World",
+	"name": "Wilder World",
+	"coingecko": "wilder-world",
+	"sources": [
+		"coingecko"
+	]
+}

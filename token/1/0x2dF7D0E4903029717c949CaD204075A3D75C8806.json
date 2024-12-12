@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x2dF7D0E4903029717c949CaD204075A3D75C8806",
+	"symbol": "Sweet",
+	"name": "Sweet",
+	"coingecko": "sweet",
+	"sources": [
+		"coingecko"
+	]
+}

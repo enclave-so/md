@@ -1,0 +1,10 @@
+{
+	"chain": 169,
+	"address": "0x8f08A3B5bCEADEF10C0B26c8BB720EBb8fA91758",
+	"symbol": "Anzen Staked USDz",
+	"name": "Anzen Staked USDz",
+	"coingecko": "anzen-staked-usdz",
+	"sources": [
+		"coingecko"
+	]
+}

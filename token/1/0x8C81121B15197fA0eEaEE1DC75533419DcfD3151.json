@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x8C81121B15197fA0eEaEE1DC75533419DcfD3151",
+	"symbol": "IdleWBTC (Best Yield)",
+	"name": "IdleWBTC (Best Yield)",
+	"coingecko": "idle-wbtc-yield",
+	"sources": [
+		"coingecko"
+	]
+}

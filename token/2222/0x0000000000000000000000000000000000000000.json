@@ -1,0 +1,10 @@
+{
+	"chain": 2222,
+	"address": "0x0000000000000000000000000000000000000000",
+	"symbol": "Merlin's Seal BTC",
+	"name": "Merlin's Seal BTC",
+	"coingecko": "merlin-s-seal-btc",
+	"sources": [
+		"coingecko"
+	]
+}

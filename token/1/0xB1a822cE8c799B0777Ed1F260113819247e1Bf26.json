@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xB1a822cE8c799B0777Ed1F260113819247e1Bf26",
+	"symbol": "HairyPlotterFTX",
+	"name": "HairyPlotterFTX",
+	"coingecko": "hairyplotterftx",
+	"sources": [
+		"coingecko"
+	]
+}

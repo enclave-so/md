@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x6d765CbE5bC922694afE112C140b8878b9FB0390",
+	"symbol": "SUSHI yVault",
+	"name": "SUSHI yVault",
+	"coingecko": "sushi-yvault",
+	"sources": [
+		"coingecko"
+	]
+}

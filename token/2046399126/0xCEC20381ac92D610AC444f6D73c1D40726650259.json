@@ -1,0 +1,11 @@
+{
+	"chain": 2046399126,
+	"address": "0xCEC20381ac92D610AC444f6D73c1D40726650259",
+	"symbol": "SUSHI",
+	"name": "Europa SushiToken",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/skale-europa/0xCEC20381ac92D610AC444f6D73c1D40726650259.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

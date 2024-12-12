@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xa4eF4b0B23C1fc81d3f9ecF93510e64f58A4A016",
+	"symbol": "1MillionNFTs",
+	"name": "1MillionNFTs",
+	"coingecko": "1million-nfts",
+	"sources": [
+		"coingecko"
+	]
+}

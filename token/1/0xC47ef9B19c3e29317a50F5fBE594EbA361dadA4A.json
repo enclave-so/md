@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xC47ef9B19c3e29317a50F5fBE594EbA361dadA4A",
+	"symbol": "Edelcoin",
+	"name": "Edelcoin",
+	"coingecko": "edelcoin",
+	"sources": [
+		"coingecko"
+	]
+}

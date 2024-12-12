@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x9ff62d1FC52A907B6DCbA8077c2DDCA6E6a9d3e1",
+	"symbol": "Forta",
+	"name": "Forta",
+	"coingecko": "forta",
+	"sources": [
+		"coingecko"
+	]
+}

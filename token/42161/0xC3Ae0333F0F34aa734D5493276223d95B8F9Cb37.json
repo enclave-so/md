@@ -1,0 +1,13 @@
+{
+	"chain": 42161,
+	"address": "0xC3Ae0333F0F34aa734D5493276223d95B8F9Cb37",
+	"symbol": "DXD",
+	"name": "DXdao",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/dxd.jpg",
+	"coingecko": "dxdao",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

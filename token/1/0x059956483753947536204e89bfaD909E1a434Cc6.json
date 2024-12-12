@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x059956483753947536204e89bfaD909E1a434Cc6",
+	"symbol": "Mintlayer",
+	"name": "Mintlayer",
+	"coingecko": "mintlayer",
+	"sources": [
+		"coingecko"
+	]
+}

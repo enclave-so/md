@@ -1,0 +1,10 @@
+{
+	"chain": 245022934,
+	"address": "0x5f0155d08eF4aaE2B500AefB64A3419dA8bB611a",
+	"symbol": "Neonpass Bridged USDT (Neon)",
+	"name": "Neonpass Bridged USDT (Neon)",
+	"coingecko": "neonpass-bridged-usdt-neon",
+	"sources": [
+		"coingecko"
+	]
+}

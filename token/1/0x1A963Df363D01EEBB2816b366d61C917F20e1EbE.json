@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x1A963Df363D01EEBB2816b366d61C917F20e1EbE",
+	"symbol": "MEMEME",
+	"name": "MEMEME",
+	"coingecko": "mememe",
+	"sources": [
+		"coingecko"
+	]
+}

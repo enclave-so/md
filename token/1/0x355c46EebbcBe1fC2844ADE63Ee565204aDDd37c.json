@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x355c46EebbcBe1fC2844ADE63Ee565204aDDd37c",
+	"symbol": "URANUS",
+	"name": "URANUS",
+	"coingecko": "uranus-2",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x3F817b28Da4940F018C6b5c0A11C555ebB1264f9",
+	"symbol": "3A",
+	"name": "3A",
+	"coingecko": "3a-lending-protocol",
+	"sources": [
+		"coingecko"
+	]
+}

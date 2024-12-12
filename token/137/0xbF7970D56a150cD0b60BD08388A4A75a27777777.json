@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xbF7970D56a150cD0b60BD08388A4A75a27777777",
+	"symbol": "Betfin token",
+	"name": "Betfin token",
+	"coingecko": "betfin-token",
+	"sources": [
+		"coingecko"
+	]
+}

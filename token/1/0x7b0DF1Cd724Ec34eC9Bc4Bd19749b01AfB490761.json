@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x7b0DF1Cd724Ec34eC9Bc4Bd19749b01AfB490761",
+	"symbol": "Kittekoin",
+	"name": "Kittekoin",
+	"coingecko": "kittekoin",
+	"sources": [
+		"coingecko"
+	]
+}

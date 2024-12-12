@@ -1,0 +1,13 @@
+{
+	"chain": 324,
+	"address": "0x5AEa5775959fBC2557Cc8789bC1bf90A239D9a91",
+	"symbol": "WETH",
+	"name": "Wrapped Ether",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/zksync-era/0x5AEa5775959fBC2557Cc8789bC1bf90A239D9a91.jpg",
+	"coingecko": "bridged-weth",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

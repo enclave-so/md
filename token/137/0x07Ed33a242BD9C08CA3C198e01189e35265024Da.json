@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x07Ed33a242BD9C08CA3C198e01189e35265024Da",
+	"symbol": "Wagmi",
+	"name": "Wagmi",
+	"coingecko": "wagmi-2",
+	"sources": [
+		"coingecko"
+	]
+}

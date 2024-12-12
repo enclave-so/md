@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x6D5E345796F6fc568798AaC6E8704E736CC1BF2b",
+	"symbol": "Value",
+	"name": "Value",
+	"coingecko": "value",
+	"sources": [
+		"coingecko"
+	]
+}

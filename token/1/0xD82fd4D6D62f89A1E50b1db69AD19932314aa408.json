@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xD82fd4D6D62f89A1E50b1db69AD19932314aa408",
+	"symbol": "Liquis",
+	"name": "Liquis",
+	"coingecko": "liquis",
+	"sources": [
+		"coingecko"
+	]
+}

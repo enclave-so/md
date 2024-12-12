@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x890a60B4450484847380BdDCa0C3C3ee2ff0DFBE",
+	"symbol": "X-Ratio AI",
+	"name": "X-Ratio AI",
+	"coingecko": "x-ratio-ai",
+	"sources": [
+		"coingecko"
+	]
+}

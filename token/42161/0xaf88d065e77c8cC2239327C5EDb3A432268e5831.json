@@ -1,0 +1,13 @@
+{
+	"chain": 42161,
+	"address": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+	"symbol": "USDC",
+	"name": "USD Coin (Native)",
+	"decimals": 6,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdc.jpg",
+	"coingecko": "usd-coin",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

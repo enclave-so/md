@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x3E70F6806171873D17d4Bfc984a6f9d20f5A9018",
+	"symbol": "BrianArmstrongTrumpYellenGTA6",
+	"name": "BrianArmstrongTrumpYellenGTA6",
+	"coingecko": "brianarmstrongtrumpyellen",
+	"sources": [
+		"coingecko"
+	]
+}

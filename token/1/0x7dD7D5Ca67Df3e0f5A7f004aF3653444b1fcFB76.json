@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x7dD7D5Ca67Df3e0f5A7f004aF3653444b1fcFB76",
+	"symbol": "Brrr de Money",
+	"name": "Brrr de Money",
+	"coingecko": "brrr-de-money",
+	"sources": [
+		"coingecko"
+	]
+}

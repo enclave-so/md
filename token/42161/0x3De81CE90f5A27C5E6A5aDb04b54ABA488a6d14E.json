@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x3De81CE90f5A27C5E6A5aDb04b54ABA488a6d14E",
+	"symbol": "DeltaPrime",
+	"name": "DeltaPrime",
+	"coingecko": "prime-2",
+	"sources": [
+		"coingecko"
+	]
+}

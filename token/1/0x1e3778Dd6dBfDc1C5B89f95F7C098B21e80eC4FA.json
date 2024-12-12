@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x1e3778Dd6dBfDc1C5B89f95F7C098B21e80eC4FA",
+	"symbol": "Victory Impact",
+	"name": "Victory Impact",
+	"coingecko": "victory-impact",
+	"sources": [
+		"coingecko"
+	]
+}

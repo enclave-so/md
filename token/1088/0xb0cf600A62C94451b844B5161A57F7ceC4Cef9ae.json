@@ -1,0 +1,10 @@
+{
+	"chain": 1088,
+	"address": "0xb0cf600A62C94451b844B5161A57F7ceC4Cef9ae",
+	"symbol": "Cerus",
+	"name": "Cerus",
+	"coingecko": "cerus",
+	"sources": [
+		"coingecko"
+	]
+}

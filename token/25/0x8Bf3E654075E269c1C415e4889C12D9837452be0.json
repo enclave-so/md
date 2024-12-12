@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0x8Bf3E654075E269c1C415e4889C12D9837452be0",
+	"symbol": "ICP",
+	"name": "Internet Computer",
+	"decimals": 8,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x8Bf3E654075E269c1C415e4889C12D9837452be0.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

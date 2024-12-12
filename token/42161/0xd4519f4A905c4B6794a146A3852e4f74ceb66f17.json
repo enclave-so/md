@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0xd4519f4A905c4B6794a146A3852e4f74ceb66f17",
+	"symbol": "LUA Balancing Token",
+	"name": "LUA Balancing Token",
+	"coingecko": "lua-balancing-token",
+	"sources": [
+		"coingecko"
+	]
+}

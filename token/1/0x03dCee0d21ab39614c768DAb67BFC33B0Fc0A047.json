@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x03dCee0d21ab39614c768DAb67BFC33B0Fc0A047",
+	"symbol": "MAGA: Fight for Trump",
+	"name": "MAGA: Fight for Trump",
+	"coingecko": "maga-fight-for-trump",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x04F177FCacF6fB4d2F95d41d7D3fee8E565cA1d0",
+	"symbol": "DragonMaster",
+	"name": "DragonMaster",
+	"coingecko": "dragonmaster-token",
+	"sources": [
+		"coingecko"
+	]
+}

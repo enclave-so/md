@@ -1,0 +1,10 @@
+{
+	"chain": 12553,
+	"address": "0x4200000000000000000000000000000000000042",
+	"symbol": "RSS3",
+	"name": "RSS3",
+	"coingecko": "rss3",
+	"sources": [
+		"coingecko"
+	]
+}

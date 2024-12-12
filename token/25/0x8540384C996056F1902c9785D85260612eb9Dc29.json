@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0x8540384C996056F1902c9785D85260612eb9Dc29",
+	"symbol": "LADYS",
+	"name": "Milady",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x8540384C996056F1902c9785D85260612eb9Dc29.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

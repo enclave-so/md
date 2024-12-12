@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0x9ba60bA98413A60dB4C651D4afE5C937bbD8044B",
+	"symbol": "YLA",
+	"name": "Yearn Lazy Ape Index",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x9ba60bA98413A60dB4C651D4afE5C937bbD8044B/logo.png",
+	"sources": [
+		"sushiswap"
+	]
+}

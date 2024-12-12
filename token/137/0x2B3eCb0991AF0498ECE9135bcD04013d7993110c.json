@@ -1,0 +1,11 @@
+{
+	"chain": 137,
+	"address": "0x2B3eCb0991AF0498ECE9135bcD04013d7993110c",
+	"symbol": "UBO",
+	"name": "Universal Basic Offset",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x2B3eCb0991AF0498ECE9135bcD04013d7993110c.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

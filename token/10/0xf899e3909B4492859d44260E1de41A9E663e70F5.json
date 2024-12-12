@@ -1,0 +1,10 @@
+{
+	"chain": 10,
+	"address": "0xf899e3909B4492859d44260E1de41A9E663e70F5",
+	"symbol": "RadioShack",
+	"name": "RadioShack",
+	"coingecko": "radioshack",
+	"sources": [
+		"coingecko"
+	]
+}

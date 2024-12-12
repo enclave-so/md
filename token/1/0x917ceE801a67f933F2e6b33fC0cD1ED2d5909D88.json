@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x917ceE801a67f933F2e6b33fC0cD1ED2d5909D88",
+	"symbol": "ether.fi weETHs",
+	"name": "ether.fi weETHs",
+	"coingecko": "etherfi-weeths",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xE5417Af564e4bFDA1c483642db72007871397896",
+	"symbol": "Gains Network",
+	"name": "Gains Network",
+	"coingecko": "gains-network",
+	"sources": [
+		"coingecko"
+	]
+}

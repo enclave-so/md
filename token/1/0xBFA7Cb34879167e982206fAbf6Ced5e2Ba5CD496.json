@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xBFA7Cb34879167e982206fAbf6Ced5e2Ba5CD496",
+	"symbol": "Squirry",
+	"name": "Squirry",
+	"coingecko": "squirry",
+	"sources": [
+		"coingecko"
+	]
+}

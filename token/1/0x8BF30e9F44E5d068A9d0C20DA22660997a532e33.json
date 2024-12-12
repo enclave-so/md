@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x8BF30e9F44E5d068A9d0C20DA22660997a532e33",
+	"symbol": "GhostDAG.org",
+	"name": "GhostDAG.org",
+	"coingecko": "ghostdag-org",
+	"sources": [
+		"coingecko"
+	]
+}

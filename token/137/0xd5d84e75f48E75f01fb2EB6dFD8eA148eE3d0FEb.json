@@ -1,0 +1,11 @@
+{
+	"chain": 137,
+	"address": "0xd5d84e75f48E75f01fb2EB6dFD8eA148eE3d0FEb",
+	"symbol": "PGOV",
+	"name": "bZX PGOV Token",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xd5d84e75f48E75f01fb2EB6dFD8eA148eE3d0FEb/logo.png",
+	"sources": [
+		"sushiswap"
+	]
+}

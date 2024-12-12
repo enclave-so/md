@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xD624E5C89466A15812c1D45Ce1533be1F16C1702",
+	"symbol": "UBD Network",
+	"name": "UBD Network",
+	"coingecko": "ubd-network",
+	"sources": [
+		"coingecko"
+	]
+}

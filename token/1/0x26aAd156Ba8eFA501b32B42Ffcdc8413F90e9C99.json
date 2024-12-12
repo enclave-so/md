@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x26aAd156Ba8eFA501b32B42Ffcdc8413F90e9C99",
+	"symbol": "Open Campus",
+	"name": "Open Campus",
+	"coingecko": "edu-coin",
+	"sources": [
+		"coingecko"
+	]
+}

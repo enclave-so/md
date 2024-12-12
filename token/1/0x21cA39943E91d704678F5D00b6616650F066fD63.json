@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0x21cA39943E91d704678F5D00b6616650F066fD63",
+	"symbol": "MTSLA",
+	"name": "Mirrored Tesla",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/mtsla.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0xE4421566a501045Ae4285996577a36F6cF074190",
+	"symbol": "Ice",
+	"name": "Ice",
+	"coingecko": "ice-2",
+	"sources": [
+		"coingecko"
+	]
+}

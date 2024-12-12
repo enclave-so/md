@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x9b00e6E8D787b13756eb919786c9745054DB64f9",
+	"symbol": "Sienna [ERC-20]",
+	"name": "Sienna [ERC-20]",
+	"coingecko": "sienna-erc20",
+	"sources": [
+		"coingecko"
+	]
+}

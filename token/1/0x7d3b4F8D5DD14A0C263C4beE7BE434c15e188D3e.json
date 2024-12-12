@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x7d3b4F8D5DD14A0C263C4beE7BE434c15e188D3e",
+	"symbol": "Moe",
+	"name": "Moe",
+	"coingecko": "moe-2",
+	"sources": [
+		"coingecko"
+	]
+}

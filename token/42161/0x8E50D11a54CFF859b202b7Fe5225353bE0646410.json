@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x8E50D11a54CFF859b202b7Fe5225353bE0646410",
+	"symbol": "Dinari GOOGL",
+	"name": "Dinari GOOGL",
+	"coingecko": "dinari-googl-dshares",
+	"sources": [
+		"coingecko"
+	]
+}

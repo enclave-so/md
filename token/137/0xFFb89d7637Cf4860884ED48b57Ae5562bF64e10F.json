@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xFFb89d7637Cf4860884ED48b57Ae5562bF64e10F",
+	"symbol": "Pika",
+	"name": "Pika",
+	"coingecko": "pikachu",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x7Bb11E7f8b10E9e571E5d8Eace04735fDFB2358a",
+	"symbol": "Avalanche (Wormhole)",
+	"name": "Avalanche (Wormhole)",
+	"coingecko": "avalanche-wormhole",
+	"sources": [
+		"coingecko"
+	]
+}

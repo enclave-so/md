@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xF0939011a9bb95c3B791f0cb546377Ed2693a574",
+	"symbol": "0.exchange",
+	"name": "0.exchange",
+	"coingecko": "zero-exchange",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 324,
+	"address": "0x3b925184c17b4648dA212229A2fdE6a8031462Ee",
+	"symbol": "Dudiez Meme Token",
+	"name": "Dudiez Meme Token",
+	"coingecko": "dudiez-meme-token",
+	"sources": [
+		"coingecko"
+	]
+}

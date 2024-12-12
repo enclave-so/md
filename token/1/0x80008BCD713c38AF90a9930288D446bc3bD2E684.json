@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x80008BCD713c38AF90a9930288D446bc3bD2E684",
+	"symbol": "Karate Combat",
+	"name": "Karate Combat",
+	"coingecko": "karate-combat",
+	"sources": [
+		"coingecko"
+	]
+}

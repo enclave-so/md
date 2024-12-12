@@ -1,0 +1,10 @@
+{
+	"chain": 2000,
+	"address": "0x2BE0096B24343549E34224aa9aa297E99961023D",
+	"symbol": "DogeShrek",
+	"name": "DogeShrek",
+	"coingecko": "dogeshrek",
+	"sources": [
+		"coingecko"
+	]
+}

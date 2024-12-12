@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x71dc40668682a124231301414167E4CF7f55383C",
+	"symbol": "Mimir",
+	"name": "Mimir",
+	"coingecko": "mimir-token",
+	"sources": [
+		"coingecko"
+	]
+}

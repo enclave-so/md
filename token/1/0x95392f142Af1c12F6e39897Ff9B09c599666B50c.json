@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x95392f142Af1c12F6e39897Ff9B09c599666B50c",
+	"symbol": "Impostors Blood",
+	"name": "Impostors Blood",
+	"coingecko": "impostors-blood",
+	"sources": [
+		"coingecko"
+	]
+}

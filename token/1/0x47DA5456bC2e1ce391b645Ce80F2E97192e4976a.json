@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x47DA5456bC2e1ce391b645Ce80F2E97192e4976a",
+	"symbol": "PL^Gnet",
+	"name": "PL^Gnet",
+	"coingecko": "plgnet",
+	"sources": [
+		"coingecko"
+	]
+}

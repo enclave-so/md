@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xed03Ed872159e199065401b6d0D487d78d9464AA",
+	"symbol": "Mexican Peso Tether",
+	"name": "Mexican Peso Tether",
+	"coingecko": "mexican-peso-tether",
+	"sources": [
+		"coingecko"
+	]
+}

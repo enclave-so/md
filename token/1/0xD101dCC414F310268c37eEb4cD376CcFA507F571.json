@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xD101dCC414F310268c37eEb4cD376CcFA507F571",
+	"symbol": "ResearchCoin",
+	"name": "ResearchCoin",
+	"coingecko": "researchcoin",
+	"sources": [
+		"coingecko"
+	]
+}

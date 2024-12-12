@@ -1,0 +1,10 @@
+{
+	"chain": 111188,
+	"address": "0x90c6E93849E06EC7478ba24522329d14A5954Df4",
+	"symbol": "Wrapped Real Ether",
+	"name": "Wrapped Real Ether",
+	"coingecko": "wrapped-real-ether",
+	"sources": [
+		"coingecko"
+	]
+}

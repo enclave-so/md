@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x3aF5Ba94C29a8407785f5f6d90eF5d69a8EB2436",
+	"symbol": "Unagii Wrapped Bitcoin",
+	"name": "Unagii Wrapped Bitcoin",
+	"coingecko": "unagii-wrapped-bitcoin",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 361,
+	"address": "0x3674D64AaB971aB974B2035667a4B3d09B5ec2B3",
+	"symbol": "Meter Passport Bridged WETH (Theta)",
+	"name": "Meter Passport Bridged WETH (Theta)",
+	"coingecko": "meter-passport-bridged-weth-theta",
+	"sources": [
+		"coingecko"
+	]
+}

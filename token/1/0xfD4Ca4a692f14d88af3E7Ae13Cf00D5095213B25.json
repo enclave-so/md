@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xfD4Ca4a692f14d88af3E7Ae13Cf00D5095213B25",
+	"symbol": "Wiskers",
+	"name": "Wiskers",
+	"coingecko": "wiskers",
+	"sources": [
+		"coingecko"
+	]
+}

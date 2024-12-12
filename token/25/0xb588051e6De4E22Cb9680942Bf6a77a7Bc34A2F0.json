@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0xb588051e6De4E22Cb9680942Bf6a77a7Bc34A2F0",
+	"symbol": "BOME",
+	"name": "BOOK OF MEME",
+	"decimals": 6,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xb588051e6De4E22Cb9680942Bf6a77a7Bc34A2F0.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

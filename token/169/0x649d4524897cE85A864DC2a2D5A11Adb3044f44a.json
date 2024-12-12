@@ -1,0 +1,10 @@
+{
+	"chain": 169,
+	"address": "0x649d4524897cE85A864DC2a2D5A11Adb3044f44a",
+	"symbol": "Manta mUSD",
+	"name": "Manta mUSD",
+	"coingecko": "manta-musd",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x2730d6FdC86C95a74253BefFaA8306B40feDecbb",
+	"symbol": "UNICORN",
+	"name": "UNICORN",
+	"coingecko": "unicorn-token",
+	"sources": [
+		"coingecko"
+	]
+}

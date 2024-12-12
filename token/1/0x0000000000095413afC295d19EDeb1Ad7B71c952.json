@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0x0000000000095413afC295d19EDeb1Ad7B71c952",
+	"symbol": "LON",
+	"name": "Tokenlon",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x0000000000095413afC295d19EDeb1Ad7B71c952.jpg",
+	"coingecko": "tokenlon",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xdae89dA41a96956e9e70320Ac9c0dd077070D3a5",
+	"symbol": "Centaur",
+	"name": "Centaur",
+	"coingecko": "centaur",
+	"sources": [
+		"coingecko"
+	]
+}

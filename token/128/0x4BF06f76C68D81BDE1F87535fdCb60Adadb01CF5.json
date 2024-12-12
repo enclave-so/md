@@ -1,0 +1,11 @@
+{
+	"chain": 128,
+	"address": "0x4BF06f76C68D81BDE1F87535fdCb60Adadb01CF5",
+	"symbol": "CNNS",
+	"name": "Heco-Peg CNNS Token",
+	"decimals": 18,
+	"logo": "https://hecoinfo.com/images/main/empty-token.png",
+	"sources": [
+		"sushiswap"
+	]
+}

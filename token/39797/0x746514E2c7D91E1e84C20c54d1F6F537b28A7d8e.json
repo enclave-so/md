@@ -1,0 +1,10 @@
+{
+	"chain": 39797,
+	"address": "0x746514E2c7D91E1e84C20c54d1F6F537b28A7d8e",
+	"symbol": "Mask Network",
+	"name": "Mask Network",
+	"coingecko": "mask-network",
+	"sources": [
+		"coingecko"
+	]
+}

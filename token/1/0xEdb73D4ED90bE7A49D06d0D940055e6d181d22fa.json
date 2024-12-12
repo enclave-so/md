@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xEdb73D4ED90bE7A49D06d0D940055e6d181d22fa",
+	"symbol": "Blueprint oBLUE",
+	"name": "Blueprint oBLUE",
+	"coingecko": "blueprint-oblue",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 2020,
+	"address": "0xe514d9DEB7966c8BE0ca922de8a064264eA6bcd4",
+	"symbol": "Ronin",
+	"name": "Ronin",
+	"coingecko": "ronin",
+	"sources": [
+		"coingecko"
+	]
+}

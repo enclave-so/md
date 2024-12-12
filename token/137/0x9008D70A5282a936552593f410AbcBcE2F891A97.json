@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x9008D70A5282a936552593f410AbcBcE2F891A97",
+	"symbol": "Penrose Finance",
+	"name": "Penrose Finance",
+	"coingecko": "penrose-finance",
+	"sources": [
+		"coingecko"
+	]
+}

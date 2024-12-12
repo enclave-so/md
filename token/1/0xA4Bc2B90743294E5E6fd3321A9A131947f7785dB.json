@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xA4Bc2B90743294E5E6fd3321A9A131947f7785dB",
+	"symbol": "Jester",
+	"name": "Jester",
+	"coingecko": "jester",
+	"sources": [
+		"coingecko"
+	]
+}

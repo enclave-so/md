@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x3EFcD659b7A45D14DDA8A102836ce4b765C42324",
+	"symbol": "GIB",
+	"name": "GIB",
+	"coingecko": "gib",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xf4d2888d29D722226FafA5d9B24F9164c092421E",
+	"symbol": "LooksRare",
+	"name": "LooksRare",
+	"coingecko": "looksrare",
+	"sources": [
+		"coingecko"
+	]
+}

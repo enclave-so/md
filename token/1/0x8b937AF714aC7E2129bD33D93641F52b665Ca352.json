@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x8b937AF714aC7E2129bD33D93641F52b665Ca352",
+	"symbol": "JizzRocket",
+	"name": "JizzRocket",
+	"coingecko": "jizzrocket",
+	"sources": [
+		"coingecko"
+	]
+}

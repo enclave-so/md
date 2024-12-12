@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xef938b6da8576a896f6E0321ef80996F4890f9c4",
+	"symbol": "Decentral Games",
+	"name": "Decentral Games",
+	"coingecko": "decentral-games",
+	"sources": [
+		"coingecko"
+	]
+}

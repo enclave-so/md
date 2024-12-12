@@ -1,0 +1,11 @@
+{
+	"chain": 108,
+	"address": "0xFf938bF442ACEF553441f06f35d2871a7393Ec2e",
+	"symbol": "Seal",
+	"name": "Seal",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/thundercore/0xFf938bF442ACEF553441f06f35d2871a7393Ec2e.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

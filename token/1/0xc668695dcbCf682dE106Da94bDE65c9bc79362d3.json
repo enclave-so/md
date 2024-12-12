@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xc668695dcbCf682dE106Da94bDE65c9bc79362d3",
+	"symbol": "Shadow Node",
+	"name": "Shadow Node",
+	"coingecko": "shadow-node",
+	"sources": [
+		"coingecko"
+	]
+}

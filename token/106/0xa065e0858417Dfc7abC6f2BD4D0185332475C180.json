@@ -1,0 +1,10 @@
+{
+	"chain": 106,
+	"address": "0xa065e0858417Dfc7abC6f2BD4D0185332475C180",
+	"symbol": "VelasPad",
+	"name": "VelasPad",
+	"coingecko": "velaspad",
+	"sources": [
+		"coingecko"
+	]
+}

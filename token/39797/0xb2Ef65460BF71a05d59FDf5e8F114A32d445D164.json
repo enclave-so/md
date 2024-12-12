@@ -1,0 +1,10 @@
+{
+	"chain": 39797,
+	"address": "0xb2Ef65460BF71a05d59FDf5e8F114A32d445D164",
+	"symbol": "Band Protocol",
+	"name": "Band Protocol",
+	"coingecko": "band-protocol",
+	"sources": [
+		"coingecko"
+	]
+}

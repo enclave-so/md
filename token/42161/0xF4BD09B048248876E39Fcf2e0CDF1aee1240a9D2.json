@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0xF4BD09B048248876E39Fcf2e0CDF1aee1240a9D2",
+	"symbol": "Dinari SPY",
+	"name": "Dinari SPY",
+	"coingecko": "dinari-spy-dshares",
+	"sources": [
+		"coingecko"
+	]
+}

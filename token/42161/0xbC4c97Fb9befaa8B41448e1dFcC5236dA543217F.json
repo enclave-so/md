@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0xbC4c97Fb9befaa8B41448e1dFcC5236dA543217F",
+	"symbol": "SpaceCatch",
+	"name": "SpaceCatch",
+	"coingecko": "spacecatch",
+	"sources": [
+		"coingecko"
+	]
+}

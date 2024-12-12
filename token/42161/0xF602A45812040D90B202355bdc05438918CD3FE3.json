@@ -1,0 +1,11 @@
+{
+	"chain": 42161,
+	"address": "0xF602A45812040D90B202355bdc05438918CD3FE3",
+	"symbol": "pGOLD",
+	"name": "Poison.Finance Gold Potion",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xF602A45812040D90B202355bdc05438918CD3FE3.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

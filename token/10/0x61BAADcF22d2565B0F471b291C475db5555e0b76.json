@@ -1,0 +1,13 @@
+{
+	"chain": 10,
+	"address": "0x61BAADcF22d2565B0F471b291C475db5555e0b76",
+	"symbol": "AELIN",
+	"name": "Aelin Protocol",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/AELIN/logo.png",
+	"coingecko": "aelin",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

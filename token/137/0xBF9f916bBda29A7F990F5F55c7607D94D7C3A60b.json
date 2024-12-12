@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xBF9f916bBda29A7F990F5F55c7607D94D7C3A60b",
+	"symbol": "DEFY",
+	"name": "DEFY",
+	"coingecko": "defy",
+	"sources": [
+		"coingecko"
+	]
+}

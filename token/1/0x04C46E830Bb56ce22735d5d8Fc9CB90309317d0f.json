@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x04C46E830Bb56ce22735d5d8Fc9CB90309317d0f",
+	"symbol": "Ekubo Protocol",
+	"name": "Ekubo Protocol",
+	"coingecko": "ekubo-protocol",
+	"sources": [
+		"coingecko"
+	]
+}

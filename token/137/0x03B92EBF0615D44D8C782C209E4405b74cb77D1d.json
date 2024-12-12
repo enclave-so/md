@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x03B92EBF0615D44D8C782C209E4405b74cb77D1d",
+	"symbol": "Multi Universe Central",
+	"name": "Multi Universe Central",
+	"coingecko": "multi-universe-central",
+	"sources": [
+		"coingecko"
+	]
+}

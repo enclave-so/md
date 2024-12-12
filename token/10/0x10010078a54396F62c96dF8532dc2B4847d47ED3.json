@@ -1,0 +1,10 @@
+{
+	"chain": 10,
+	"address": "0x10010078a54396F62c96dF8532dc2B4847d47ED3",
+	"symbol": "Hundred Finance",
+	"name": "Hundred Finance",
+	"coingecko": "hundred-finance",
+	"sources": [
+		"coingecko"
+	]
+}

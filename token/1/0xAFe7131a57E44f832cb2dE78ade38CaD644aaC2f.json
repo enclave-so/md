@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xAFe7131a57E44f832cb2dE78ade38CaD644aaC2f",
+	"symbol": "Morpho-Aave Tether USD",
+	"name": "Morpho-Aave Tether USD",
+	"coingecko": "mausdt",
+	"sources": [
+		"coingecko"
+	]
+}

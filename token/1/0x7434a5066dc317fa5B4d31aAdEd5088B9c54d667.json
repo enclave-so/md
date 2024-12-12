@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x7434a5066dc317fa5B4d31aAdEd5088B9c54d667",
+	"symbol": "CULT",
+	"name": "CULT",
+	"coingecko": "cult",
+	"sources": [
+		"coingecko"
+	]
+}

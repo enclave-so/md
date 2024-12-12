@@ -1,0 +1,10 @@
+{
+	"chain": 250,
+	"address": "0x07E6332dD090D287d3489245038daF987955DCFB",
+	"symbol": "Geist Dai",
+	"name": "Geist Dai",
+	"coingecko": "geist-dai",
+	"sources": [
+		"coingecko"
+	]
+}

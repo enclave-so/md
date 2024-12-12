@@ -1,0 +1,10 @@
+{
+	"chain": 1285,
+	"address": "0x6bD193Ee6D2104F14F94E2cA6efefae561A4334B",
+	"symbol": "Solarbeam",
+	"name": "Solarbeam",
+	"coingecko": "solarbeam",
+	"sources": [
+		"coingecko"
+	]
+}

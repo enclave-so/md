@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x2b867efD2dE4Ad2B583Ca0CB3dF9C4040Ef4D329",
+	"symbol": "Lucky Block",
+	"name": "Lucky Block",
+	"coingecko": "lucky-block",
+	"sources": [
+		"coingecko"
+	]
+}

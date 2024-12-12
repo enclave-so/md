@@ -1,0 +1,10 @@
+{
+	"chain": 1030,
+	"address": "0x1F545487c62e5ACfEa45dcAdd9c627361d1616D8",
+	"symbol": "Celer Bridged WBTC (Conflux)",
+	"name": "Celer Bridged WBTC (Conflux)",
+	"coingecko": "celer-bridged-wbtc-conflux",
+	"sources": [
+		"coingecko"
+	]
+}

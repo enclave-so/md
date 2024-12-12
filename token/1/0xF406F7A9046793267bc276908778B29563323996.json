@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xF406F7A9046793267bc276908778B29563323996",
+	"symbol": "APY.vision",
+	"name": "APY.vision",
+	"coingecko": "apy-vision",
+	"sources": [
+		"coingecko"
+	]
+}

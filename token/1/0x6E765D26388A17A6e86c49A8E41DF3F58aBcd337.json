@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x6E765D26388A17A6e86c49A8E41DF3F58aBcd337",
+	"symbol": "Kangal",
+	"name": "Kangal",
+	"coingecko": "kangal",
+	"sources": [
+		"coingecko"
+	]
+}

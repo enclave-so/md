@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x1Bbe973BeF3a977Fc51CbED703E8ffDEfE001Fed",
+	"symbol": "Portal",
+	"name": "Portal",
+	"coingecko": "portal-2",
+	"sources": [
+		"coingecko"
+	]
+}

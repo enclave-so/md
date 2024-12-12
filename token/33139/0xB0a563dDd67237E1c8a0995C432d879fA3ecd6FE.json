@@ -1,0 +1,10 @@
+{
+	"chain": 33139,
+	"address": "0xB0a563dDd67237E1c8a0995C432d879fA3ecd6FE",
+	"symbol": "Murtis",
+	"name": "Murtis",
+	"coingecko": "murtis",
+	"sources": [
+		"coingecko"
+	]
+}

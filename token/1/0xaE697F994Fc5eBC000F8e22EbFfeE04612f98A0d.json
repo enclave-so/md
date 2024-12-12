@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xaE697F994Fc5eBC000F8e22EbFfeE04612f98A0d",
+	"symbol": "LGCY Network",
+	"name": "LGCY Network",
+	"coingecko": "lgcy-network",
+	"sources": [
+		"coingecko"
+	]
+}

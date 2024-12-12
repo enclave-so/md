@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x1C4853Ec0d55e420002c5eFaBc7Ed8e0bA7A4121",
+	"symbol": "Kanagawa Nami",
+	"name": "Kanagawa Nami",
+	"coingecko": "kanagawa-nami",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x45940000009600102A1c002F0097C4A500fa00AB",
+	"symbol": "Hermes Protocol",
+	"name": "Hermes Protocol",
+	"coingecko": "hermes-protocol",
+	"sources": [
+		"coingecko"
+	]
+}

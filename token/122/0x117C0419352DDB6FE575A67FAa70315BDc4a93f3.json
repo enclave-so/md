@@ -1,0 +1,10 @@
+{
+	"chain": 122,
+	"address": "0x117C0419352DDB6FE575A67FAa70315BDc4a93f3",
+	"symbol": "Bridged BNB (Fuse)",
+	"name": "Bridged BNB (Fuse)",
+	"coingecko": "bridged-bnb-fuse",
+	"sources": [
+		"coingecko"
+	]
+}

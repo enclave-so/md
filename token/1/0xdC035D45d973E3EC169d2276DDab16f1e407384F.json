@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xdC035D45d973E3EC169d2276DDab16f1e407384F",
+	"symbol": "USDS",
+	"name": "USDS",
+	"coingecko": "usds",
+	"sources": [
+		"coingecko"
+	]
+}

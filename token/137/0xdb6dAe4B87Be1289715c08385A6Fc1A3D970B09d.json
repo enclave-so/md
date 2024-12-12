@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xdb6dAe4B87Be1289715c08385A6Fc1A3D970B09d",
+	"symbol": "Moove Protocol",
+	"name": "Moove Protocol",
+	"coingecko": "moove-protocol",
+	"sources": [
+		"coingecko"
+	]
+}

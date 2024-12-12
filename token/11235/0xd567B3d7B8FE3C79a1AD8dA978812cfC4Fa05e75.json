@@ -1,0 +1,11 @@
+{
+	"chain": 11235,
+	"address": "0xd567B3d7B8FE3C79a1AD8dA978812cfC4Fa05e75",
+	"symbol": "axlUSDT",
+	"name": "Axelar Wrapped Tether USD",
+	"decimals": 6,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/haqq/0xd567B3d7B8FE3C79a1AD8dA978812cfC4Fa05e75.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

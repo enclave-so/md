@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xdcc97D2C1048e8F3F2Fc58ACE9024AB8b350e4B1",
+	"symbol": "BENCOIN",
+	"name": "BENCOIN",
+	"coingecko": "bencoin",
+	"sources": [
+		"coingecko"
+	]
+}

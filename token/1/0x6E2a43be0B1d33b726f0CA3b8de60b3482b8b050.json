@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x6E2a43be0B1d33b726f0CA3b8de60b3482b8b050",
+	"symbol": "Arkham",
+	"name": "Arkham",
+	"coingecko": "arkham",
+	"sources": [
+		"coingecko"
+	]
+}

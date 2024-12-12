@@ -1,0 +1,13 @@
+{
+	"chain": 1666600000,
+	"address": "0xcF664087a5bB0237a0BAd6742852ec6c8d69A27a",
+	"symbol": "WONE",
+	"name": "Wrapped ONE",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/one.jpg",
+	"coingecko": "wrapped-one",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

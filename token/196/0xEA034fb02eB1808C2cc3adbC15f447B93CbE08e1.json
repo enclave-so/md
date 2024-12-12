@@ -1,0 +1,10 @@
+{
+	"chain": 196,
+	"address": "0xEA034fb02eB1808C2cc3adbC15f447B93CbE08e1",
+	"symbol": "x Layer Bridged WBTC (x Layer)",
+	"name": "x Layer Bridged WBTC (x Layer)",
+	"coingecko": "polygon-hermez-bridged-wbtc-x-layer",
+	"sources": [
+		"coingecko"
+	]
+}

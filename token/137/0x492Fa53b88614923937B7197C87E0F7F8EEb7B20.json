@@ -1,0 +1,11 @@
+{
+	"chain": 137,
+	"address": "0x492Fa53b88614923937B7197C87E0F7F8EEb7B20",
+	"symbol": "NFTE",
+	"name": "NFTEarthOFT",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x492Fa53b88614923937B7197C87E0F7F8EEb7B20.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

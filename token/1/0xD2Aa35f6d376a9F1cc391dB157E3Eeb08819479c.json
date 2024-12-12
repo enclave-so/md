@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xD2Aa35f6d376a9F1cc391dB157E3Eeb08819479c",
+	"symbol": "BrAIngent",
+	"name": "BrAIngent",
+	"coingecko": "braingent",
+	"sources": [
+		"coingecko"
+	]
+}

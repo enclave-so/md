@@ -1,0 +1,13 @@
+{
+	"chain": 1285,
+	"address": "0x0caE51e1032e8461f4806e26332c030E34De3aDb",
+	"symbol": "MIM",
+	"name": "Magic Internet Money",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/moonriver/0x0caE51e1032e8461f4806e26332c030E34De3aDb.jpg",
+	"coingecko": "magic-internet-money-moonriver",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

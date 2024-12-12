@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x4dF071FB2D145bE595b767f997C91818694A6CE1",
+	"symbol": "MerchDAO",
+	"name": "MerchDAO",
+	"coingecko": "merchdao",
+	"sources": [
+		"coingecko"
+	]
+}

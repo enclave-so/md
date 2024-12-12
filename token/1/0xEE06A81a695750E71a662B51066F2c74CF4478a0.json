@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0xEE06A81a695750E71a662B51066F2c74CF4478a0",
+	"symbol": "DG",
+	"name": "decentral.games",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xEE06A81a695750E71a662B51066F2c74CF4478a0/logo.png",
+	"coingecko": "decentral-games-old",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

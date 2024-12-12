@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x4f4a556361B8B4869F97b8709ff47c1B057Ea13b",
+	"symbol": "MAGA",
+	"name": "MAGA",
+	"coingecko": "maga-2",
+	"sources": [
+		"coingecko"
+	]
+}

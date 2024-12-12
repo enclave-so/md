@@ -1,0 +1,10 @@
+{
+	"chain": 245022934,
+	"address": "0x6d12eAA69f8e4902D3F83d546B31F7318717014C",
+	"symbol": "Mango",
+	"name": "Mango",
+	"coingecko": "mango-markets",
+	"sources": [
+		"coingecko"
+	]
+}

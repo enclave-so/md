@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0xbA8A621b4a54e61C442F5Ec623687e2a942225ef",
+	"symbol": "QUARTZ",
+	"name": "Sandclock",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xbA8A621b4a54e61C442F5Ec623687e2a942225ef/logo.png",
+	"coingecko": "sandclock",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

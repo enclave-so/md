@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0xF65247B6ED3E7FDbAC313959B3f62475FBB5F8E4",
+	"symbol": "Brightpool Finance BRIX",
+	"name": "Brightpool Finance BRIX",
+	"coingecko": "brightpool-finance-brix",
+	"sources": [
+		"coingecko"
+	]
+}

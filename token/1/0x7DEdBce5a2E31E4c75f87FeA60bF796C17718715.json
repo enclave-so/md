@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x7DEdBce5a2E31E4c75f87FeA60bF796C17718715",
+	"symbol": "Penpie",
+	"name": "Penpie",
+	"coingecko": "penpie",
+	"sources": [
+		"coingecko"
+	]
+}

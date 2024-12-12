@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xb4C42D3eCB9CF5811e7cF21A81D0Bf3fee21A6F3",
+	"symbol": "NEW WORLD ORDER",
+	"name": "NEW WORLD ORDER",
+	"coingecko": "new-world-order-2",
+	"sources": [
+		"coingecko"
+	]
+}

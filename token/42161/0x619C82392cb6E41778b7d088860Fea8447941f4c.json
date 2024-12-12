@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x619C82392cb6E41778b7d088860Fea8447941f4c",
+	"symbol": "Army of Fortune Gem",
+	"name": "Army of Fortune Gem",
+	"coingecko": "army-of-fortune-gem",
+	"sources": [
+		"coingecko"
+	]
+}

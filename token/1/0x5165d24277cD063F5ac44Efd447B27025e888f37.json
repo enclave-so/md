@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x5165d24277cD063F5ac44Efd447B27025e888f37",
+	"symbol": "Aave YFI",
+	"name": "Aave YFI",
+	"coingecko": "aave-yfi",
+	"sources": [
+		"coingecko"
+	]
+}

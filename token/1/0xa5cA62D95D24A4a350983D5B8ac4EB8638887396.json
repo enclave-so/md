@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xa5cA62D95D24A4a350983D5B8ac4EB8638887396",
+	"symbol": "sUSD yVault",
+	"name": "sUSD yVault",
+	"coingecko": "susd-yvault",
+	"sources": [
+		"coingecko"
+	]
+}

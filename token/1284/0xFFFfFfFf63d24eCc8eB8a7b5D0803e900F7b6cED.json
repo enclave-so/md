@@ -1,0 +1,10 @@
+{
+	"chain": 1284,
+	"address": "0xFFFfFfFf63d24eCc8eB8a7b5D0803e900F7b6cED",
+	"symbol": "Phala (Moonbeam)",
+	"name": "Phala (Moonbeam)",
+	"coingecko": "phala-moonbeam",
+	"sources": [
+		"coingecko"
+	]
+}

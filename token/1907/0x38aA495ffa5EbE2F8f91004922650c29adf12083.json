@@ -1,0 +1,10 @@
+{
+	"chain": 1907,
+	"address": "0x38aA495ffa5EbE2F8f91004922650c29adf12083",
+	"symbol": "Ankaragücü Fan Token",
+	"name": "Ankaragücü Fan Token",
+	"coingecko": "ankaragucu-fan-token",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x8c4E7f814d40f8929F9112C5D09016F923d34472",
+	"symbol": "XCELTOKEN PLUS",
+	"name": "XCELTOKEN PLUS",
+	"coingecko": "xceltoken-plus",
+	"sources": [
+		"coingecko"
+	]
+}

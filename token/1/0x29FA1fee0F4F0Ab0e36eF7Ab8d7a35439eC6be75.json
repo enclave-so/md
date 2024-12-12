@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x29FA1fee0F4F0Ab0e36eF7Ab8d7a35439eC6be75",
+	"symbol": "SafeStake",
+	"name": "SafeStake",
+	"coingecko": "safestake",
+	"sources": [
+		"coingecko"
+	]
+}

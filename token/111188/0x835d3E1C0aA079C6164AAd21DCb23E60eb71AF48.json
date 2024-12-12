@@ -1,0 +1,10 @@
+{
+	"chain": 111188,
+	"address": "0x835d3E1C0aA079C6164AAd21DCb23E60eb71AF48",
+	"symbol": "UK Real Estate",
+	"name": "UK Real Estate",
+	"coingecko": "uk-real-estate",
+	"sources": [
+		"coingecko"
+	]
+}

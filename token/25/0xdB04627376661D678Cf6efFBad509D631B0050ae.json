@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0xdB04627376661D678Cf6efFBad509D631B0050ae",
+	"symbol": "V3CRO",
+	"name": "V3S-Peg CRO",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xdB04627376661D678Cf6efFBad509D631B0050ae.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

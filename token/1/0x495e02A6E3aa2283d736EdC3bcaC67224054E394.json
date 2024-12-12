@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x495e02A6E3aa2283d736EdC3bcaC67224054E394",
+	"symbol": "Runner",
+	"name": "Runner",
+	"coingecko": "runner-2",
+	"sources": [
+		"coingecko"
+	]
+}

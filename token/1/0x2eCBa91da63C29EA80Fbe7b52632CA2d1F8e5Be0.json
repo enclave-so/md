@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x2eCBa91da63C29EA80Fbe7b52632CA2d1F8e5Be0",
+	"symbol": "FairERC20",
+	"name": "FairERC20",
+	"coingecko": "fairerc20",
+	"sources": [
+		"coingecko"
+	]
+}

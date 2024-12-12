@@ -1,0 +1,10 @@
+{
+	"chain": 1907,
+	"address": "0x54824069f225e875C0d7ae006849f4e183f43CDF",
+	"symbol": "Bitci Racing Token",
+	"name": "Bitci Racing Token",
+	"coingecko": "bitci-racing-token",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 10,
+	"address": "0x1e925De1c68ef83bD98eE3E130eF14a50309C01B",
+	"symbol": "Exactly Token",
+	"name": "Exactly Token",
+	"coingecko": "exa",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"chain": 25,
+	"address": "0x06C04B0AD236e7Ca3B3189b1d049FE80109C7977",
+	"symbol": "CANDY",
+	"name": "Bored Candy City",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x06C04B0AD236e7Ca3B3189b1d049FE80109C7977.jpg",
+	"coingecko": "bored-candy-city",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

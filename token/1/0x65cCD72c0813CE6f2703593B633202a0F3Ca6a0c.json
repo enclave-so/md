@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x65cCD72c0813CE6f2703593B633202a0F3Ca6a0c",
+	"symbol": "Nestree",
+	"name": "Nestree",
+	"coingecko": "nestree",
+	"sources": [
+		"coingecko"
+	]
+}

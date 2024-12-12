@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x238CEFec182679C27a3035713416fA0a8198B302",
+	"symbol": "GoodMeme",
+	"name": "GoodMeme",
+	"coingecko": "goodmeme",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"chain": 137,
+	"address": "0x6AE7Dfc73E0dDE2aa99ac063DcF7e8A63265108c",
+	"symbol": "JPYC",
+	"name": "JPY Coin",
+	"decimals": 18,
+	"logo": "https://jpyc.jp/static/media/jpyc.0d1e5d3f.png",
+	"coingecko": "jpyc",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

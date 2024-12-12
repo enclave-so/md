@@ -1,0 +1,11 @@
+{
+	"chain": 42161,
+	"address": "0x369eB8197062093a20402935D3a707b4aE414E9D",
+	"symbol": "PANA",
+	"name": "Pana DAO",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x369eB8197062093a20402935D3a707b4aE414E9D.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

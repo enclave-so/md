@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x44a023A4C32bDd2c89ee87ee76A2332B1A883012",
+	"symbol": "Zazzles",
+	"name": "Zazzles",
+	"coingecko": "zazzles",
+	"sources": [
+		"coingecko"
+	]
+}

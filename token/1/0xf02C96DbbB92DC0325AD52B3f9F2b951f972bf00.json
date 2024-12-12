@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xf02C96DbbB92DC0325AD52B3f9F2b951f972bf00",
+	"symbol": "Kernel Restaked ETH",
+	"name": "Kernel Restaked ETH",
+	"coingecko": "kernel-restaked-eth",
+	"sources": [
+		"coingecko"
+	]
+}

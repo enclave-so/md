@@ -1,0 +1,10 @@
+{
+	"chain": 1907,
+	"address": "0xF30D5Bf7e9C70C36FA640340034CeEc02769Ea4B",
+	"symbol": "Bursaspor Fan Token",
+	"name": "Bursaspor Fan Token",
+	"coingecko": "bursaspor-fan-token",
+	"sources": [
+		"coingecko"
+	]
+}

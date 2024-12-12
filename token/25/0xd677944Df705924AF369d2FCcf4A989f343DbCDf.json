@@ -1,0 +1,13 @@
+{
+	"chain": 25,
+	"address": "0xd677944Df705924AF369d2FCcf4A989f343DbCDf",
+	"symbol": "FFTB",
+	"name": "FORTUNE FAVOURS THE BRAVE",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xd677944Df705924AF369d2FCcf4A989f343DbCDf.jpg",
+	"coingecko": "fortune-favours-the-brave",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

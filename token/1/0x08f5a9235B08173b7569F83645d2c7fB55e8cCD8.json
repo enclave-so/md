@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x08f5a9235B08173b7569F83645d2c7fB55e8cCD8",
+	"symbol": "Tierion",
+	"name": "Tierion",
+	"coingecko": "tierion",
+	"sources": [
+		"coingecko"
+	]
+}

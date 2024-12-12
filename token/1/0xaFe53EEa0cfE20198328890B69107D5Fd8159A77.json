@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xaFe53EEa0cfE20198328890B69107D5Fd8159A77",
+	"symbol": "XAI",
+	"name": "XAI",
+	"coingecko": "xai-2",
+	"sources": [
+		"coingecko"
+	]
+}

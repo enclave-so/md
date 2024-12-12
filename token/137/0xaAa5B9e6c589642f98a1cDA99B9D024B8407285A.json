@@ -1,0 +1,13 @@
+{
+	"chain": 137,
+	"address": "0xaAa5B9e6c589642f98a1cDA99B9D024B8407285A",
+	"symbol": "TITAN",
+	"name": "IRON Titanium",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xaAa5B9e6c589642f98a1cDA99B9D024B8407285A/logo.png",
+	"coingecko": "iron-titanium-token",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

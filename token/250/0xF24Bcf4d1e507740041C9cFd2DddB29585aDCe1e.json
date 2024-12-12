@@ -1,0 +1,10 @@
+{
+	"chain": 250,
+	"address": "0xF24Bcf4d1e507740041C9cFd2DddB29585aDCe1e",
+	"symbol": "Beethoven X",
+	"name": "Beethoven X",
+	"coingecko": "beethoven-x",
+	"sources": [
+		"coingecko"
+	]
+}

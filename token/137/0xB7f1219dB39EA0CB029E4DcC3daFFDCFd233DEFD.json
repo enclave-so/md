@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xB7f1219dB39EA0CB029E4DcC3daFFDCFd233DEFD",
+	"symbol": "KeySATIN",
+	"name": "KeySATIN",
+	"coingecko": "keysatin",
+	"sources": [
+		"coingecko"
+	]
+}

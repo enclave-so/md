@@ -1,0 +1,11 @@
+{
+	"chain": 42161,
+	"address": "0x8096aD3107715747361acefE685943bFB427C722",
+	"symbol": "CVOL",
+	"name": "Crypto Volatility Token",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x8096aD3107715747361acefE685943bFB427C722.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

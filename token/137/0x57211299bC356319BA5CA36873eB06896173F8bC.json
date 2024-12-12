@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x57211299bC356319BA5CA36873eB06896173F8bC",
+	"symbol": "Super Useless Token",
+	"name": "Super Useless Token",
+	"coingecko": "super-useless-token",
+	"sources": [
+		"coingecko"
+	]
+}

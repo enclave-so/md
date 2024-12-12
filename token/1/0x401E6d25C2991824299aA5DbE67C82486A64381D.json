@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x401E6d25C2991824299aA5DbE67C82486A64381D",
+	"symbol": "bonsAI Network",
+	"name": "bonsAI Network",
+	"coingecko": "bonsai-network",
+	"sources": [
+		"coingecko"
+	]
+}

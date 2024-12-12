@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x3DBB00c9bE5A327E25CAf4f650844C5DbA81E34B",
+	"symbol": "StaFi Staked MATIC",
+	"name": "StaFi Staked MATIC",
+	"coingecko": "stafi-staked-matic",
+	"sources": [
+		"coingecko"
+	]
+}

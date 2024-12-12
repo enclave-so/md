@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x78e927FcFB062599D8295163F0808A6FCDa7DB24",
+	"symbol": "Turbo Browser",
+	"name": "Turbo Browser",
+	"coingecko": "turbo-browser",
+	"sources": [
+		"coingecko"
+	]
+}

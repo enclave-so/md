@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x57e114B691Db790C35207b2e685D4A43181e6061",
+	"symbol": "Ethena",
+	"name": "Ethena",
+	"coingecko": "ethena",
+	"sources": [
+		"coingecko"
+	]
+}

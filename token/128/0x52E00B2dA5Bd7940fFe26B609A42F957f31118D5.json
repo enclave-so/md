@@ -1,0 +1,11 @@
+{
+	"chain": 128,
+	"address": "0x52E00B2dA5Bd7940fFe26B609A42F957f31118D5",
+	"symbol": "SUSHI",
+	"name": "SUSHI",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/sushi.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xeCf3672A6d2147E2A77f07069Fb48d8Cf6F6Fbf9",
+	"symbol": "Inception mETH",
+	"name": "Inception mETH",
+	"coingecko": "inception-restaked-meth",
+	"sources": [
+		"coingecko"
+	]
+}

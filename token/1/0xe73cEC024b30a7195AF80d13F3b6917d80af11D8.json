@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xe73cEC024b30a7195AF80d13F3b6917d80af11D8",
+	"symbol": "GOATED",
+	"name": "GOATED",
+	"coingecko": "goated",
+	"sources": [
+		"coingecko"
+	]
+}

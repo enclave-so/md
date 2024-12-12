@@ -1,0 +1,10 @@
+{
+	"chain": 1666600000,
+	"address": "0xAE0609A062a4eAED49dE28C5f6A193261E0150eA",
+	"symbol": "AAG",
+	"name": "AAG",
+	"coingecko": "aag-ventures",
+	"sources": [
+		"coingecko"
+	]
+}

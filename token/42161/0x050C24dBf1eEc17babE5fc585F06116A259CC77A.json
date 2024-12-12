@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x050C24dBf1eEc17babE5fc585F06116A259CC77A",
+	"symbol": "iBTC",
+	"name": "iBTC",
+	"coingecko": "dlc-link-dlcbtc",
+	"sources": [
+		"coingecko"
+	]
+}

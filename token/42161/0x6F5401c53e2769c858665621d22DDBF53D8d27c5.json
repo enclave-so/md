@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x6F5401c53e2769c858665621d22DDBF53D8d27c5",
+	"symbol": "Connect Financial",
+	"name": "Connect Financial",
+	"coingecko": "connect-financial",
+	"sources": [
+		"coingecko"
+	]
+}

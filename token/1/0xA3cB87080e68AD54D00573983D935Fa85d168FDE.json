@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xA3cB87080e68AD54D00573983D935Fa85d168FDE",
+	"symbol": "InfinityBit Token",
+	"name": "InfinityBit Token",
+	"coingecko": "infinitybit-token",
+	"sources": [
+		"coingecko"
+	]
+}

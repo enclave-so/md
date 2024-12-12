@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x10663b695b8f75647bD3FF0ff609e16D35BbD1eC",
+	"symbol": "AmpliFi DAO",
+	"name": "AmpliFi DAO",
+	"coingecko": "amplifi-dao",
+	"sources": [
+		"coingecko"
+	]
+}

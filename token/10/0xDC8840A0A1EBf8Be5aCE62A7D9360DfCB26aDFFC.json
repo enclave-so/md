@@ -1,0 +1,10 @@
+{
+	"chain": 10,
+	"address": "0xDC8840A0A1EBf8Be5aCE62A7D9360DfCB26aDFFC",
+	"symbol": "HappyAI",
+	"name": "HappyAI",
+	"coingecko": "happyai",
+	"sources": [
+		"coingecko"
+	]
+}

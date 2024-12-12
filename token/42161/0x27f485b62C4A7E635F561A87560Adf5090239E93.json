@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x27f485b62C4A7E635F561A87560Adf5090239E93",
+	"symbol": "DFX Finance",
+	"name": "DFX Finance",
+	"coingecko": "dfx-finance",
+	"sources": [
+		"coingecko"
+	]
+}

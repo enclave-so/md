@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xAa4e3edb11AFa93c41db59842b29de64b72E355B",
+	"symbol": "Marginswap",
+	"name": "Marginswap",
+	"coingecko": "marginswap",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x2cb5D9fd89d48C516F11904117c57E3934f39524",
+	"symbol": "PEPE UWU",
+	"name": "PEPE UWU",
+	"coingecko": "pepe-uwu",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x116c4B65e14449947bC6fa1bbe844CB16A162d53",
+	"symbol": "BMAX",
+	"name": "BMAX",
+	"coingecko": "bmax",
+	"sources": [
+		"coingecko"
+	]
+}

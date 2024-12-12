@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x2FBf61e5236126871018BFBf368BA4CFce0D4512",
+	"symbol": "Bitclouds",
+	"name": "Bitclouds",
+	"coingecko": "bitclouds",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xaC9518BA93EeB2336A03137d254d8CC2e4d0fA38",
+	"symbol": "EDUM",
+	"name": "EDUM",
+	"coingecko": "edum",
+	"sources": [
+		"coingecko"
+	]
+}

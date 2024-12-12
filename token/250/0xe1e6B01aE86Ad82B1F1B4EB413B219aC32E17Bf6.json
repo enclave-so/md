@@ -1,0 +1,10 @@
+{
+	"chain": 250,
+	"address": "0xe1e6B01aE86Ad82B1F1B4EB413B219aC32E17Bf6",
+	"symbol": "Thorstarter",
+	"name": "Thorstarter",
+	"coingecko": "thorstarter",
+	"sources": [
+		"coingecko"
+	]
+}

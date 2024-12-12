@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x3C4008eca800Ec1283E4cf500E68D06BFaBc00a8",
+	"symbol": "HistoryDAO",
+	"name": "HistoryDAO",
+	"coingecko": "historydao",
+	"sources": [
+		"coingecko"
+	]
+}

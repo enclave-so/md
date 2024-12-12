@@ -1,0 +1,13 @@
+{
+	"chain": 42161,
+	"address": "0x2416092f143378750bb29b79eD961ab195CcEea5",
+	"symbol": "ezETH",
+	"name": "Renzo Restaked ETH",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x2416092f143378750bb29b79eD961ab195CcEea5.jpg",
+	"coingecko": "renzo-restaked-eth",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xbA3CB8329D442E6F9Eb70fafe1E214251df3D275",
+	"symbol": "Swash",
+	"name": "Swash",
+	"coingecko": "swash",
+	"sources": [
+		"coingecko"
+	]
+}

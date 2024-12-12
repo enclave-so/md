@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xe5597f0723EeaBa1B26948e06f008Bf0fc1e37e6",
+	"symbol": "GM",
+	"name": "GM",
+	"coingecko": "gm",
+	"sources": [
+		"coingecko"
+	]
+}

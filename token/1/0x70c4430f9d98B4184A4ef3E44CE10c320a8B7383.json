@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x70c4430f9d98B4184A4ef3E44CE10c320a8B7383",
+	"symbol": "Gyroscope",
+	"name": "Gyroscope",
+	"coingecko": "gyroscope",
+	"sources": [
+		"coingecko"
+	]
+}

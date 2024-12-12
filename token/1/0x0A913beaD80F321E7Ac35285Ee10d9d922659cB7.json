@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x0A913beaD80F321E7Ac35285Ee10d9d922659cB7",
+	"symbol": "DOS Network",
+	"name": "DOS Network",
+	"coingecko": "dos-network",
+	"sources": [
+		"coingecko"
+	]
+}

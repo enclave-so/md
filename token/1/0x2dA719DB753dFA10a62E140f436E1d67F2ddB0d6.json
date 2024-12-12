@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x2dA719DB753dFA10a62E140f436E1d67F2ddB0d6",
+	"symbol": "Cere Network",
+	"name": "Cere Network",
+	"coingecko": "cere-network",
+	"sources": [
+		"coingecko"
+	]
+}

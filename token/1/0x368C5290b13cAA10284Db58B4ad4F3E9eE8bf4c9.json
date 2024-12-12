@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0x368C5290b13cAA10284Db58B4ad4F3E9eE8bf4c9",
+	"symbol": "KKO",
+	"name": "Kineko",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x368c5290b13caa10284db58b4ad4f3e9ee8bf4c9/logo.png",
+	"sources": [
+		"sushiswap"
+	]
+}

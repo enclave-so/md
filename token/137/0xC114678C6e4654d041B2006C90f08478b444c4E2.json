@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xC114678C6e4654d041B2006C90f08478b444c4E2",
+	"symbol": "edeXa",
+	"name": "edeXa",
+	"coingecko": "edexa",
+	"sources": [
+		"coingecko"
+	]
+}

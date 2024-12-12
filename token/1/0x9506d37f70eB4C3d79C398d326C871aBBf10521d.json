@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x9506d37f70eB4C3d79C398d326C871aBBf10521d",
+	"symbol": "Media Licensing Token",
+	"name": "Media Licensing Token",
+	"coingecko": "media-licensing-token",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x1afb69DBC9f54d08DAB1bD3436F8Da1af819E647",
+	"symbol": "Melos Studio",
+	"name": "Melos Studio",
+	"coingecko": "melos-studio",
+	"sources": [
+		"coingecko"
+	]
+}

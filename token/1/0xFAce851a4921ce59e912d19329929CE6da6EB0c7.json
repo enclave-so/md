@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xFAce851a4921ce59e912d19329929CE6da6EB0c7",
+	"symbol": "cLINK",
+	"name": "cLINK",
+	"coingecko": "compound-chainlink-token",
+	"sources": [
+		"coingecko"
+	]
+}

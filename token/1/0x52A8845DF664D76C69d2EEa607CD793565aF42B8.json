@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x52A8845DF664D76C69d2EEa607CD793565aF42B8",
+	"symbol": "ApeX",
+	"name": "ApeX",
+	"coingecko": "apex-token-2",
+	"sources": [
+		"coingecko"
+	]
+}

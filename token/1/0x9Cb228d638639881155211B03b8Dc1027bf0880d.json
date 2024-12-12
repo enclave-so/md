@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x9Cb228d638639881155211B03b8Dc1027bf0880d",
+	"symbol": "Option2Trade",
+	"name": "Option2Trade",
+	"coingecko": "option2trade",
+	"sources": [
+		"coingecko"
+	]
+}

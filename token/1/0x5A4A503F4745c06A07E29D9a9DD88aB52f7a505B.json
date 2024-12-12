@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x5A4A503F4745c06A07E29D9a9DD88aB52f7a505B",
+	"symbol": "Eigenpie ankrETH",
+	"name": "Eigenpie ankrETH",
+	"coingecko": "eigenpie-ankreth",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 369,
+	"address": "0x39b9D781dAD0810D07E24426c876217218Ad353D",
+	"symbol": "Pulsechain FLOW",
+	"name": "Pulsechain FLOW",
+	"coingecko": "pulsechain-flow",
+	"sources": [
+		"coingecko"
+	]
+}

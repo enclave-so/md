@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x73C6A7491d0dB90Bdb0060308CDE0F49dfD1D0B0",
+	"symbol": "DogeBonk",
+	"name": "DogeBonk",
+	"coingecko": "dogebonk-eth",
+	"sources": [
+		"coingecko"
+	]
+}

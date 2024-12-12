@@ -1,0 +1,11 @@
+{
+	"chain": 42161,
+	"address": "0x2338a5d62E9A766289934e8d2e83a443e8065b83",
+	"symbol": "FLUX",
+	"name": "Flux Protocol",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x2338a5d62E9A766289934e8d2e83a443e8065b83.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

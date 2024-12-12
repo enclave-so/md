@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0x4442C740cc5B47F032983106E66E3C9dC945676C",
+	"symbol": "DYDX",
+	"name": "dYdX",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x4442C740cc5B47F032983106E66E3C9dC945676C.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

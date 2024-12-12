@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x28b5E12CcE51f15594B0b91d5b5AdaA70F684a02",
+	"symbol": "Napoleon X",
+	"name": "Napoleon X",
+	"coingecko": "napoleon-x",
+	"sources": [
+		"coingecko"
+	]
+}

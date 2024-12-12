@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x5138EBe7acaAE209d6F0B651E4D02a67EF61f436",
+	"symbol": "Graffiti",
+	"name": "Graffiti",
+	"coingecko": "graffiti",
+	"sources": [
+		"coingecko"
+	]
+}

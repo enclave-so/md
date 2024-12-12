@@ -1,0 +1,10 @@
+{
+	"chain": 295,
+	"address": "0x00000000000000000000000000000000004Ca367",
+	"symbol": "hBARK",
+	"name": "hBARK",
+	"coingecko": "hbark",
+	"sources": [
+		"coingecko"
+	]
+}

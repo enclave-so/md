@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x2D80f5F5328FdcB6ECeb7Cacf5DD8AEDaEC94e20",
+	"symbol": "AGA",
+	"name": "AGA",
+	"coingecko": "aga-token",
+	"sources": [
+		"coingecko"
+	]
+}

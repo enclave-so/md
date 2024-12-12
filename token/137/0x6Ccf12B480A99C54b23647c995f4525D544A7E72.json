@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x6Ccf12B480A99C54b23647c995f4525D544A7E72",
+	"symbol": "Starter.xyz",
+	"name": "Starter.xyz",
+	"coingecko": "bscstarter",
+	"sources": [
+		"coingecko"
+	]
+}

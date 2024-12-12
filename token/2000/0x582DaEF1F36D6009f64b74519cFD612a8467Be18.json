@@ -1,0 +1,10 @@
+{
+	"chain": 2000,
+	"address": "0x582DaEF1F36D6009f64b74519cFD612a8467Be18",
+	"symbol": "DogeDragon",
+	"name": "DogeDragon",
+	"coingecko": "dogedragon",
+	"sources": [
+		"coingecko"
+	]
+}

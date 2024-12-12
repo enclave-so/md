@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x86f65121804D2Cdbef79F9f072D4e0c2eEbABC08",
+	"symbol": "Garden",
+	"name": "Garden",
+	"coingecko": "garden-2",
+	"sources": [
+		"coingecko"
+	]
+}

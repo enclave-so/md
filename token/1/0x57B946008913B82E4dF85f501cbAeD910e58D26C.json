@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0x57B946008913B82E4dF85f501cbAeD910e58D26C",
+	"symbol": "POND",
+	"name": "Marlin POND",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x57B946008913B82E4dF85f501cbAeD910e58D26C/logo.png",
+	"coingecko": "marlin",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

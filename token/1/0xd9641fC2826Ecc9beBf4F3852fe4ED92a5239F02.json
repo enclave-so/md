@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xd9641fC2826Ecc9beBf4F3852fe4ED92a5239F02",
+	"symbol": "Aventa",
+	"name": "Aventa",
+	"coingecko": "aventa",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xB528edBef013aff855ac3c50b381f253aF13b997",
+	"symbol": "Aevo",
+	"name": "Aevo",
+	"coingecko": "aevo-exchange",
+	"sources": [
+		"coingecko"
+	]
+}

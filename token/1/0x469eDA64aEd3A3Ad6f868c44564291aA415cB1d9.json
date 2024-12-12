@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0x469eDA64aEd3A3Ad6f868c44564291aA415cB1d9",
+	"symbol": "FLUX",
+	"name": "FLUX",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x469eDA64aEd3A3Ad6f868c44564291aA415cB1d9.jpg",
+	"coingecko": "flux",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

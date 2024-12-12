@@ -1,0 +1,10 @@
+{
+	"chain": 1907,
+	"address": "0x74Fc789F81B1489e309eA38C0e3aECff60688c60",
+	"symbol": "Global Fan Token",
+	"name": "Global Fan Token",
+	"coingecko": "global-fan-token",
+	"sources": [
+		"coingecko"
+	]
+}

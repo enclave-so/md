@@ -1,0 +1,10 @@
+{
+	"chain": 14,
+	"address": "0xe2bBf70A52Ee84837E9E2e245E5aFc560E259249",
+	"symbol": "Zoink",
+	"name": "Zoink",
+	"coingecko": "zoink",
+	"sources": [
+		"coingecko"
+	]
+}

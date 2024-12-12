@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x77f56cf9365955486B12C4816992388eE8606f0E",
+	"symbol": "Coin98",
+	"name": "Coin98",
+	"coingecko": "coin98",
+	"sources": [
+		"coingecko"
+	]
+}

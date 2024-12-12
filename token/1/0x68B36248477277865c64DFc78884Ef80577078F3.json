@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x68B36248477277865c64DFc78884Ef80577078F3",
+	"symbol": "Everybody",
+	"name": "Everybody",
+	"coingecko": "everybody",
+	"sources": [
+		"coingecko"
+	]
+}

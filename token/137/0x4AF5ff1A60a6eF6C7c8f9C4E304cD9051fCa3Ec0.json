@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x4AF5ff1A60a6eF6C7c8f9C4E304cD9051fCa3Ec0",
+	"symbol": "Rigel Protocol",
+	"name": "Rigel Protocol",
+	"coingecko": "rigel-protocol",
+	"sources": [
+		"coingecko"
+	]
+}

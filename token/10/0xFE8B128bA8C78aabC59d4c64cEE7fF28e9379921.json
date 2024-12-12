@@ -1,0 +1,13 @@
+{
+	"chain": 10,
+	"address": "0xFE8B128bA8C78aabC59d4c64cEE7fF28e9379921",
+	"symbol": "BAL",
+	"name": "Balancer",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/BAL/logo.png",
+	"coingecko": "balancer",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

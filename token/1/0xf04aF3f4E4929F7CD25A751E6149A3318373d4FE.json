@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xf04aF3f4E4929F7CD25A751E6149A3318373d4FE",
+	"symbol": "Spring Token",
+	"name": "Spring Token",
+	"coingecko": "spring",
+	"sources": [
+		"coingecko"
+	]
+}

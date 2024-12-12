@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x89C1DA46D692D09814a88a27270D0DCa21e4734d",
+	"symbol": "GM Frens",
+	"name": "GM Frens",
+	"coingecko": "gm-frens",
+	"sources": [
+		"coingecko"
+	]
+}

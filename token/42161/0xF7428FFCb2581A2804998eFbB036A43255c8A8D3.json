@@ -1,0 +1,11 @@
+{
+	"chain": 42161,
+	"address": "0xF7428FFCb2581A2804998eFbB036A43255c8A8D3",
+	"symbol": "sSPELL",
+	"name": "Staked Spell Token",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xF7428FFCb2581A2804998eFbB036A43255c8A8D3.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xC18B4C1e0b4d4d0F1e9627F25399F5073079Ac3D",
+	"symbol": "Booh World",
+	"name": "Booh World",
+	"coingecko": "booh-world",
+	"sources": [
+		"coingecko"
+	]
+}

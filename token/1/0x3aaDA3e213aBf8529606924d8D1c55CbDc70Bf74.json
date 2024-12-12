@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x3aaDA3e213aBf8529606924d8D1c55CbDc70Bf74",
+	"symbol": "XMON",
+	"name": "XMON",
+	"coingecko": "xmon",
+	"sources": [
+		"coingecko"
+	]
+}

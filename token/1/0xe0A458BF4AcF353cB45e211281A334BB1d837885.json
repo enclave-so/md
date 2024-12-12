@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xe0A458BF4AcF353cB45e211281A334BB1d837885",
+	"symbol": "4Chan",
+	"name": "4Chan",
+	"coingecko": "4chan",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xe6828D65bf5023AE1851D90D8783Cc821ba7eeE1",
+	"symbol": "ApeBond",
+	"name": "ApeBond",
+	"coingecko": "abond",
+	"sources": [
+		"coingecko"
+	]
+}

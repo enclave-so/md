@@ -1,0 +1,10 @@
+{
+	"chain": 1666600000,
+	"address": "0x504D7d5bd2075FA782Fbd0bE9bEA4CDC7e25f5a1",
+	"symbol": "JulSwap",
+	"name": "JulSwap",
+	"coingecko": "julswap",
+	"sources": [
+		"coingecko"
+	]
+}

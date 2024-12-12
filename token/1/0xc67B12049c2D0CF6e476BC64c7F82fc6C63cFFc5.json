@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xc67B12049c2D0CF6e476BC64c7F82fc6C63cFFc5",
+	"symbol": "Globe Derivative Exchange",
+	"name": "Globe Derivative Exchange",
+	"coingecko": "globe-derivative-exchange",
+	"sources": [
+		"coingecko"
+	]
+}

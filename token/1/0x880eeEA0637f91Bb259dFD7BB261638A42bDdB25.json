@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x880eeEA0637f91Bb259dFD7BB261638A42bDdB25",
+	"symbol": "BlockInsightAI",
+	"name": "BlockInsightAI",
+	"coingecko": "blockinsightai",
+	"sources": [
+		"coingecko"
+	]
+}

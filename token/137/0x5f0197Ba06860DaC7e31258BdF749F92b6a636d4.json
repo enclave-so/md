@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x5f0197Ba06860DaC7e31258BdF749F92b6a636d4",
+	"symbol": "Flare Token",
+	"name": "Flare Token",
+	"coingecko": "flare-token",
+	"sources": [
+		"coingecko"
+	]
+}

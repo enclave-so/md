@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x2a304FDa5a85182dCA1D03741bB2F07881b9e095",
+	"symbol": "DCOMY",
+	"name": "DCOMY",
+	"coingecko": "dcomy",
+	"sources": [
+		"coingecko"
+	]
+}

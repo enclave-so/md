@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x244b797d622D4DEe8b188b03546ACAAbD0Cf91A0",
+	"symbol": "FourCoin",
+	"name": "FourCoin",
+	"coingecko": "fourcoin",
+	"sources": [
+		"coingecko"
+	]
+}

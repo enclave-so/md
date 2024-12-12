@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x36C7188D64c44301272Db3293899507eabb8eD43",
+	"symbol": "Swag",
+	"name": "Swag",
+	"coingecko": "swag",
+	"sources": [
+		"coingecko"
+	]
+}

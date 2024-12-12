@@ -1,0 +1,10 @@
+{
+	"chain": 250,
+	"address": "0x9bD0611610A0f5133e4dd1bFdd71C5479Ee77f37",
+	"symbol": "Fantom Oasis",
+	"name": "Fantom Oasis",
+	"coingecko": "fantom-oasis",
+	"sources": [
+		"coingecko"
+	]
+}

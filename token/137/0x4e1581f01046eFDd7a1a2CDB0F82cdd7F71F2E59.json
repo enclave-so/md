@@ -1,0 +1,13 @@
+{
+	"chain": 137,
+	"address": "0x4e1581f01046eFDd7a1a2CDB0F82cdd7F71F2E59",
+	"symbol": "ICE",
+	"name": "IceToken",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/matic/0x4e1581f01046eFDd7a1a2CDB0F82cdd7F71F2E59.jpg",
+	"coingecko": "ice-token",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

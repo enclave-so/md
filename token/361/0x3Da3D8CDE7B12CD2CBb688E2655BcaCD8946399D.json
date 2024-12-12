@@ -1,0 +1,10 @@
+{
+	"chain": 361,
+	"address": "0x3Da3D8CDE7B12CD2CBb688E2655BcaCD8946399D",
+	"symbol": "Replay",
+	"name": "Replay",
+	"coingecko": "replay",
+	"sources": [
+		"coingecko"
+	]
+}

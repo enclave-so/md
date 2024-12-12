@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x20C750C57C3bc5145aF4b7a33d4fB66A8E79FE05",
+	"symbol": "Deroute AI",
+	"name": "Deroute AI",
+	"coingecko": "klaycity-orb",
+	"sources": [
+		"coingecko"
+	]
+}

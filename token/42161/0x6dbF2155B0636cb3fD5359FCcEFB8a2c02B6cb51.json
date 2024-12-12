@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x6dbF2155B0636cb3fD5359FCcEFB8a2c02B6cb51",
+	"symbol": "Plutus RDNT",
+	"name": "Plutus RDNT",
+	"coingecko": "plutus-rdnt",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x393Bf304dD474f48210f5cE741F19A2a851703Ca",
+	"symbol": "Game 5 BALL",
+	"name": "Game 5 BALL",
+	"coingecko": "game-5-ball",
+	"sources": [
+		"coingecko"
+	]
+}

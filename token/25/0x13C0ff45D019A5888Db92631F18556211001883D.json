@@ -1,0 +1,10 @@
+{
+	"chain": 25,
+	"address": "0x13C0ff45D019A5888Db92631F18556211001883D",
+	"symbol": "President Platy",
+	"name": "President Platy",
+	"coingecko": "president-platy",
+	"sources": [
+		"coingecko"
+	]
+}

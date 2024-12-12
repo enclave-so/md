@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x1A44E35d5451E0b78621A1B3e7a53DFaA306B1D0",
+	"symbol": "baoETH-ETH StablePool",
+	"name": "baoETH-ETH StablePool",
+	"coingecko": "baoeth-eth-stablepool",
+	"sources": [
+		"coingecko"
+	]
+}

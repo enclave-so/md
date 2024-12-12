@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0xB6212B633C941E9Be168C4b9C2d9E785F1cD42fb",
+	"symbol": "Bitoro",
+	"name": "Bitoro",
+	"coingecko": "bitoro-network",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x2A8bf9e7c91C6E3237095e07Eb3dEFBcE358dF00",
+	"symbol": "OpClouds",
+	"name": "OpClouds",
+	"coingecko": "opclouds",
+	"sources": [
+		"coingecko"
+	]
+}

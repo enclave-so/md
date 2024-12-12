@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xD69a0A9682F679f50e34dE40105A93BEbB2fF43d",
+	"symbol": "Mackerel",
+	"name": "Mackerel",
+	"coingecko": "mackerel-2",
+	"sources": [
+		"coingecko"
+	]
+}

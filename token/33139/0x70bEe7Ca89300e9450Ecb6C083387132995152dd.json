@@ -1,0 +1,10 @@
+{
+	"chain": 33139,
+	"address": "0x70bEe7Ca89300e9450Ecb6C083387132995152dd",
+	"symbol": "Crypto is Fun",
+	"name": "Crypto is Fun",
+	"coingecko": "crypto-is-fun",
+	"sources": [
+		"coingecko"
+	]
+}

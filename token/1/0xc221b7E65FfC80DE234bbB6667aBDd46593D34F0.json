@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xc221b7E65FfC80DE234bbB6667aBDd46593D34F0",
+	"symbol": "Wrapped Centrifuge",
+	"name": "Wrapped Centrifuge",
+	"coingecko": "wrapped-centrifuge",
+	"sources": [
+		"coingecko"
+	]
+}

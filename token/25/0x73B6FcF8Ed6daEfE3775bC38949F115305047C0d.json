@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0x73B6FcF8Ed6daEfE3775bC38949F115305047C0d",
+	"symbol": "THETA",
+	"name": "Theta Network",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x73B6FcF8Ed6daEfE3775bC38949F115305047C0d.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

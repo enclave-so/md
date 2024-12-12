@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x8fc17671D853341D9e8B001F5Fc3C892d09CB53A",
+	"symbol": "BlockGames",
+	"name": "BlockGames",
+	"coingecko": "blockgames",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 2020,
+	"address": "0xa8754b9Fa15fc18BB59458815510E40a12cD2014",
+	"symbol": "Smooth Love Potion",
+	"name": "Smooth Love Potion",
+	"coingecko": "smooth-love-potion",
+	"sources": [
+		"coingecko"
+	]
+}

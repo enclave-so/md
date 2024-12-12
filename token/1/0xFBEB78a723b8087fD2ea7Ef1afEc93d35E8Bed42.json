@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xFBEB78a723b8087fD2ea7Ef1afEc93d35E8Bed42",
+	"symbol": "UNI yVault",
+	"name": "UNI yVault",
+	"coingecko": "uni-yvault",
+	"sources": [
+		"coingecko"
+	]
+}

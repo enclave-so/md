@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x89D80f5e9BC88d8021b352064ae73F0eAf79EBd8",
+	"symbol": "Re7 USDA",
+	"name": "Re7 USDA",
+	"coingecko": "re7-usda",
+	"sources": [
+		"coingecko"
+	]
+}

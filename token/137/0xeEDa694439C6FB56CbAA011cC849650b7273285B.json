@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xeEDa694439C6FB56CbAA011cC849650b7273285B",
+	"symbol": "Bankless BED Index",
+	"name": "Bankless BED Index",
+	"coingecko": "bankless-bed-index",
+	"sources": [
+		"coingecko"
+	]
+}

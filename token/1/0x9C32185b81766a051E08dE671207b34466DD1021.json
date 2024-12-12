@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x9C32185b81766a051E08dE671207b34466DD1021",
+	"symbol": "BTC Proxy",
+	"name": "BTC Proxy",
+	"coingecko": "btc-proxy",
+	"sources": [
+		"coingecko"
+	]
+}

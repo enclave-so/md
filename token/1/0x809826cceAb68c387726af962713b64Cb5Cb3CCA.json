@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x809826cceAb68c387726af962713b64Cb5Cb3CCA",
+	"symbol": "Nucleus Vision",
+	"name": "Nucleus Vision",
+	"coingecko": "nucleus-vision",
+	"sources": [
+		"coingecko"
+	]
+}

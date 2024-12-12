@@ -1,0 +1,13 @@
+{
+	"chain": 137,
+	"address": "0x6bb45cEAC714c52342Ef73ec663479da35934bf7",
+	"symbol": "BONE",
+	"name": "BONE Token",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x6bb45cEAC714c52342Ef73ec663479da35934bf7/logo.png",
+	"coingecko": "bone-token",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

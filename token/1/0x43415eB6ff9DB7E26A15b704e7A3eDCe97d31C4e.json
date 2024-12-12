@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x43415eB6ff9DB7E26A15b704e7A3eDCe97d31C4e",
+	"symbol": "Superstate Short Duration U.S. Government Securities Fund (USTB)",
+	"name": "Superstate Short Duration U.S. Government Securities Fund (USTB)",
+	"coingecko": "superstate-short-duration-us-government-securities-fund-ustb",
+	"sources": [
+		"coingecko"
+	]
+}

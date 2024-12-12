@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x414cbF31c62D99515bfD66497B495a585b52F703",
+	"symbol": "Chappie",
+	"name": "Chappie",
+	"coingecko": "chappie",
+	"sources": [
+		"coingecko"
+	]
+}

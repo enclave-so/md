@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xcDf937995A55a9AB551D81b463AC0f7F02795368",
+	"symbol": "Vyvo Smart Chain",
+	"name": "Vyvo Smart Chain",
+	"coingecko": "vyvo-smart-chain",
+	"sources": [
+		"coingecko"
+	]
+}

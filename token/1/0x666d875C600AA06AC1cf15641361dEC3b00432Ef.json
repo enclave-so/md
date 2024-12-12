@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x666d875C600AA06AC1cf15641361dEC3b00432Ef",
+	"symbol": "BTSE Token",
+	"name": "BTSE Token",
+	"coingecko": "btse-token",
+	"sources": [
+		"coingecko"
+	]
+}

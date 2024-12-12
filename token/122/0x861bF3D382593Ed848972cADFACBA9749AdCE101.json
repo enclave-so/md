@@ -1,0 +1,10 @@
+{
+	"chain": 122,
+	"address": "0x861bF3D382593Ed848972cADFACBA9749AdCE101",
+	"symbol": "Bridged MATIC (Fuse)",
+	"name": "Bridged MATIC (Fuse)",
+	"coingecko": "bridged-matic-fuse",
+	"sources": [
+		"coingecko"
+	]
+}

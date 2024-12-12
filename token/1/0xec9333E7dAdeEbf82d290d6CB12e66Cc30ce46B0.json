@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xec9333E7dAdeEbf82d290d6CB12e66Cc30ce46B0",
+	"symbol": "LushAI",
+	"name": "LushAI",
+	"coingecko": "lush-ai",
+	"sources": [
+		"coingecko"
+	]
+}

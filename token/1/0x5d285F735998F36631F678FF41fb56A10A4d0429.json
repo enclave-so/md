@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x5d285F735998F36631F678FF41fb56A10A4d0429",
+	"symbol": "MixMarvel",
+	"name": "MixMarvel",
+	"coingecko": "mixmarvel",
+	"sources": [
+		"coingecko"
+	]
+}

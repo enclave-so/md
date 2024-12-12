@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xc45A479877e1e9Dfe9FcD4056c699575a1045dAA",
+	"symbol": "Aave v3 SUSHI",
+	"name": "Aave v3 SUSHI",
+	"coingecko": "aave-v3-sushi",
+	"sources": [
+		"coingecko"
+	]
+}

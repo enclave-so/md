@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xbEA269038Eb75BdAB47a9C04D0F5c572d94b93D5",
+	"symbol": "Wrapped FIO",
+	"name": "Wrapped FIO",
+	"coingecko": "wrapped-fio",
+	"sources": [
+		"coingecko"
+	]
+}

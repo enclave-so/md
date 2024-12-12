@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xdE7E34ad87bFC5d5906F334661110EB438aF718b",
+	"symbol": "OceanFund",
+	"name": "OceanFund",
+	"coingecko": "oceanfund",
+	"sources": [
+		"coingecko"
+	]
+}

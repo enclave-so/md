@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x572975FF6d5136c81c8d7448B6361eF9EEfE1AB0",
+	"symbol": "Wrapped Staked USDT",
+	"name": "Wrapped Staked USDT",
+	"coingecko": "wrapped-staked-usdt",
+	"sources": [
+		"coingecko"
+	]
+}

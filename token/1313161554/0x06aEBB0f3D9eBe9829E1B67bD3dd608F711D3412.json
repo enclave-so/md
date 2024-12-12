@@ -1,0 +1,10 @@
+{
+	"chain": 1313161554,
+	"address": "0x06aEBB0f3D9eBe9829E1B67bD3dd608F711D3412",
+	"symbol": "NEARStarter",
+	"name": "NEARStarter",
+	"coingecko": "nearstarter",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xc91953E110EbB0039859304A0d1b64f8450763fC",
+	"symbol": "Dynamic Crypto Index",
+	"name": "Dynamic Crypto Index",
+	"coingecko": "dynamic-crypto-index",
+	"sources": [
+		"coingecko"
+	]
+}

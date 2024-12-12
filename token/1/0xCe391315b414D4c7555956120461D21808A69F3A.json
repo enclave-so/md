@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xCe391315b414D4c7555956120461D21808A69F3A",
+	"symbol": "Bao Finance V2",
+	"name": "Bao Finance V2",
+	"coingecko": "bao-finance-v2",
+	"sources": [
+		"coingecko"
+	]
+}

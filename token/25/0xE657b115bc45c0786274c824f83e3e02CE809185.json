@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0xE657b115bc45c0786274c824f83e3e02CE809185",
+	"symbol": "AAVE",
+	"name": "Aave",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xE657b115bc45c0786274c824f83e3e02CE809185.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

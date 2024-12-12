@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0x32C6F1c1731Ff8F98eE2EDe8954f696446307846",
+	"symbol": "BEARDY",
+	"name": "Bearded Dragon",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x32C6F1c1731Ff8F98eE2EDe8954f696446307846.jpg",
+	"coingecko": "beardy-dragon",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

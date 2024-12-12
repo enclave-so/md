@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xaeDf386B755465871fF874E3E37Af5976E247064",
+	"symbol": "Fasttoken",
+	"name": "Fasttoken",
+	"coingecko": "fasttoken",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xeBB1AFb0A4ddC9b1f84D9Aa72FF956cD1c1Eb4be",
+	"symbol": "The Emerald Company",
+	"name": "The Emerald Company",
+	"coingecko": "the-emerald-company",
+	"sources": [
+		"coingecko"
+	]
+}

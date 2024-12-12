@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x9a0d1b52E0684Ab42Aa0c2613aBb4C04217E8Aa6",
+	"symbol": "Boys Club Munchy",
+	"name": "Boys Club Munchy",
+	"coingecko": "boys-club-munchy",
+	"sources": [
+		"coingecko"
+	]
+}

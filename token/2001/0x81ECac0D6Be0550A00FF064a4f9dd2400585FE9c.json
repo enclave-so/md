@@ -1,0 +1,10 @@
+{
+	"chain": 2001,
+	"address": "0x81ECac0D6Be0550A00FF064a4f9dd2400585FE9c",
+	"symbol": "Wrapped Ether - Celer",
+	"name": "Wrapped Ether - Celer",
+	"coingecko": "wrapped-ether-celer",
+	"sources": [
+		"coingecko"
+	]
+}

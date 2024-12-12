@@ -1,0 +1,13 @@
+{
+	"chain": 137,
+	"address": "0x41b3966B4FF7b427969ddf5da3627d6AEAE9a48E",
+	"symbol": "NEXO",
+	"name": "Nexo",
+	"decimals": 18,
+	"logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2694.png",
+	"coingecko": "nexo",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

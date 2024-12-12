@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xA0Ef786Bf476fE0810408CaBA05E536aC800ff86",
+	"symbol": "Myria",
+	"name": "Myria",
+	"coingecko": "myria",
+	"sources": [
+		"coingecko"
+	]
+}

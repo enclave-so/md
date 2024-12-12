@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xEF19F4E48830093Ce5bC8b3Ff7f903A0AE3E9Fa1",
+	"symbol": "BOTXCOIN",
+	"name": "BOTXCOIN",
+	"coingecko": "botxcoin",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 369,
+	"address": "0xeB6b7932Da20c6D7B3a899D5887d86dfB09A6408",
+	"symbol": "PXDC",
+	"name": "PXDC",
+	"coingecko": "powercity-pxdc",
+	"sources": [
+		"coingecko"
+	]
+}

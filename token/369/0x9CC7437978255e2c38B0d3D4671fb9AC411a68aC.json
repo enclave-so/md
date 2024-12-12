@@ -1,0 +1,10 @@
+{
+	"chain": 369,
+	"address": "0x9CC7437978255e2c38B0d3D4671fb9AC411a68aC",
+	"symbol": "Doge on Pulsechain",
+	"name": "Doge on Pulsechain",
+	"coingecko": "doge-on-pulsechain",
+	"sources": [
+		"coingecko"
+	]
+}

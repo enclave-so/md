@@ -1,0 +1,10 @@
+{
+	"chain": 25,
+	"address": "0xbdd4e5660839a088573191A9889A262c0Efc0983",
+	"symbol": "PhotonSwap",
+	"name": "PhotonSwap",
+	"coingecko": "photonswap",
+	"sources": [
+		"coingecko"
+	]
+}

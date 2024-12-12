@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x046BAd07658f3B6cAd9A396CFcbC1243AF452ec1",
+	"symbol": "ArchLoot",
+	"name": "ArchLoot",
+	"coingecko": "archloot",
+	"sources": [
+		"coingecko"
+	]
+}

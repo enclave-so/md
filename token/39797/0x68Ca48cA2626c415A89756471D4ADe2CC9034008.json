@@ -1,0 +1,10 @@
+{
+	"chain": 39797,
+	"address": "0x68Ca48cA2626c415A89756471D4ADe2CC9034008",
+	"symbol": "Chainlink",
+	"name": "Chainlink",
+	"coingecko": "chainlink",
+	"sources": [
+		"coingecko"
+	]
+}

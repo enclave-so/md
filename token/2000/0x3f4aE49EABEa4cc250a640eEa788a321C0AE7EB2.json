@@ -1,0 +1,10 @@
+{
+	"chain": 2000,
+	"address": "0x3f4aE49EABEa4cc250a640eEa788a321C0AE7EB2",
+	"symbol": "Poo Doge",
+	"name": "Poo Doge",
+	"coingecko": "poo-doge",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xB4b9DC1C77bdbb135eA907fd5a08094d98883A35",
+	"symbol": "Sweat Economy",
+	"name": "Sweat Economy",
+	"coingecko": "sweatcoin",
+	"sources": [
+		"coingecko"
+	]
+}

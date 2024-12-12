@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x9E9FbDE7C7a83c43913BddC8779158F1368F0413",
+	"symbol": "Pandora",
+	"name": "Pandora",
+	"coingecko": "pandora",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 12553,
+	"address": "0xb62F35B9546A908d11c5803ecBBA735AbC3E3eaE",
+	"symbol": "RSS3 Bridged USDC (RSS3)",
+	"name": "RSS3 Bridged USDC (RSS3)",
+	"coingecko": "rss3-bridged-usdc-rss3",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x95E40E065AFB3059dcabe4aaf404c1F92756603a",
+	"symbol": "King DAG",
+	"name": "King DAG",
+	"coingecko": "kdag",
+	"sources": [
+		"coingecko"
+	]
+}

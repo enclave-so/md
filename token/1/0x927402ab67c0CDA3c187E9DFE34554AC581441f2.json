@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x927402ab67c0CDA3c187E9DFE34554AC581441f2",
+	"symbol": "SaitaBit",
+	"name": "SaitaBit",
+	"coingecko": "saitabit",
+	"sources": [
+		"coingecko"
+	]
+}

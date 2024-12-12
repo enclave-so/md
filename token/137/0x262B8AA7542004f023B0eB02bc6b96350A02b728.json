@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x262B8AA7542004f023B0eB02bc6b96350A02b728",
+	"symbol": "Sway Social",
+	"name": "Sway Social",
+	"coingecko": "sway-social",
+	"sources": [
+		"coingecko"
+	]
+}

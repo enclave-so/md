@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x56015BBE3C01fE05bc30A8a9a9Fd9A88917e7dB3",
+	"symbol": "Mooncat CAT",
+	"name": "Mooncat CAT",
+	"coingecko": "cat-token",
+	"sources": [
+		"coingecko"
+	]
+}

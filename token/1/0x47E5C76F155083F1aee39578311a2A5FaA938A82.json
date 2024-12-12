@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x47E5C76F155083F1aee39578311a2A5FaA938A82",
+	"symbol": "TNQ",
+	"name": "TNQ",
+	"coingecko": "trinique",
+	"sources": [
+		"coingecko"
+	]
+}

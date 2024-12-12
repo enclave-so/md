@@ -1,0 +1,10 @@
+{
+	"chain": 39797,
+	"address": "0x0ee5893f434017d8881750101Ea2F7c49c0eb503",
+	"symbol": "Multichain Bridged DAI (Energi)",
+	"name": "Multichain Bridged DAI (Energi)",
+	"coingecko": "multichain-bridged-dai-energi",
+	"sources": [
+		"coingecko"
+	]
+}

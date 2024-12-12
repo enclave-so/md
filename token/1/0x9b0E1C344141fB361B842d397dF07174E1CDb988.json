@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x9b0E1C344141fB361B842d397dF07174E1CDb988",
+	"symbol": "EmotiCoin",
+	"name": "EmotiCoin",
+	"coingecko": "emoticoin",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x8DD09822E83313adCA54c75696aE80C5429697Ff",
+	"symbol": "Sifu Vision",
+	"name": "Sifu Vision",
+	"coingecko": "sifu-vision-2",
+	"sources": [
+		"coingecko"
+	]
+}

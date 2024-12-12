@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xD502F487e1841Fdc805130e13eae80c61186Bc98",
+	"symbol": "Integral",
+	"name": "Integral",
+	"coingecko": "integral",
+	"sources": [
+		"coingecko"
+	]
+}

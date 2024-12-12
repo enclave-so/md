@@ -1,0 +1,11 @@
+{
+	"chain": 1285,
+	"address": "0xF480f38C366dAaC4305dC484b2Ad7a496FF00CeA",
+	"symbol": "anySNX",
+	"name": "Synthetix Network Token - AnySwap",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/snx.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

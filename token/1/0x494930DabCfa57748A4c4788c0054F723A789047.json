@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x494930DabCfa57748A4c4788c0054F723A789047",
+	"symbol": "COOMER",
+	"name": "COOMER",
+	"coingecko": "coomer",
+	"sources": [
+		"coingecko"
+	]
+}

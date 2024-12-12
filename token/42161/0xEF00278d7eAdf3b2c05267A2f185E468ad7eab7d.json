@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0xEF00278d7eAdf3b2c05267A2f185E468ad7eab7d",
+	"symbol": "PepePAD",
+	"name": "PepePAD",
+	"coingecko": "pepepad",
+	"sources": [
+		"coingecko"
+	]
+}

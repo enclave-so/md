@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xCA7Af58da871736994Ce360f51eC6cd28351A3Df",
+	"symbol": "GATSBY",
+	"name": "GATSBY",
+	"coingecko": "gatsby",
+	"sources": [
+		"coingecko"
+	]
+}

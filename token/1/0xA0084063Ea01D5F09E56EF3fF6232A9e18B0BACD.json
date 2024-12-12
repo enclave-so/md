@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xA0084063Ea01D5F09E56EF3fF6232A9e18B0BACD",
+	"symbol": "CyberDEX",
+	"name": "CyberDEX",
+	"coingecko": "cyberdex",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0x4691937a7508860F876c9c0a2a617E7d9E945D4B",
+	"symbol": "WOO",
+	"name": "Wootrade Network",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/woo.jpg",
+	"coingecko": "woo-network",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

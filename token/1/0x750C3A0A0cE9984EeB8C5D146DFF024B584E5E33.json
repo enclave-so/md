@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x750C3A0A0cE9984EeB8C5D146DFF024B584E5E33",
+	"symbol": "zkHive",
+	"name": "zkHive",
+	"coingecko": "zkhive",
+	"sources": [
+		"coingecko"
+	]
+}

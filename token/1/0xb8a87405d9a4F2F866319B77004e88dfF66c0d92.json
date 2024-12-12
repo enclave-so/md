@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xb8a87405d9a4F2F866319B77004e88dfF66c0d92",
+	"symbol": "Sora AI",
+	"name": "Sora AI",
+	"coingecko": "sora-ai",
+	"sources": [
+		"coingecko"
+	]
+}

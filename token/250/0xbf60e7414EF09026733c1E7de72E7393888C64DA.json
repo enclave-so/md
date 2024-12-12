@@ -1,0 +1,10 @@
+{
+	"chain": 250,
+	"address": "0xbf60e7414EF09026733c1E7de72E7393888C64DA",
+	"symbol": "LIF3 (OLD)",
+	"name": "LIF3 (OLD)",
+	"coingecko": "lif3",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x69000405f9DcE69BD4Cbf4f2865b79144A69BFE0",
+	"symbol": "ZAI Stablecoin",
+	"name": "ZAI Stablecoin",
+	"coingecko": "zai-stablecoin",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x346E74Dc9935a9b02Eb34fB84658a66010fA056D",
+	"symbol": "Zunami Governance Token",
+	"name": "Zunami Governance Token",
+	"coingecko": "zunami-governance-token",
+	"sources": [
+		"coingecko"
+	]
+}

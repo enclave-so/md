@@ -1,0 +1,10 @@
+{
+	"chain": 169,
+	"address": "0x170C6f4c848Dd834605B419F72C3ee4323d1ca57",
+	"symbol": "Firefly",
+	"name": "Firefly",
+	"coingecko": "firefly",
+	"sources": [
+		"coingecko"
+	]
+}

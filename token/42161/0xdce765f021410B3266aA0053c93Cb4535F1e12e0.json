@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0xdce765f021410B3266aA0053c93Cb4535F1e12e0",
+	"symbol": "peg-eUSD",
+	"name": "peg-eUSD",
+	"coingecko": "peg-eusd",
+	"sources": [
+		"coingecko"
+	]
+}

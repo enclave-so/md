@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xEdC3Be0080F65C628964f44ba3F2b6057e60F8DC",
+	"symbol": "DASH",
+	"name": "DASH",
+	"coingecko": "dash-2",
+	"sources": [
+		"coingecko"
+	]
+}

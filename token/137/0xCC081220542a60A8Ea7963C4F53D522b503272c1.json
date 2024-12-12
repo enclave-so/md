@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xCC081220542a60A8Ea7963C4F53D522b503272c1",
+	"symbol": "NFTY",
+	"name": "NFTY",
+	"coingecko": "nfty-token",
+	"sources": [
+		"coingecko"
+	]
+}

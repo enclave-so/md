@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xD0054b65B683Dbdd324B51F5F1F16AadEB99a74B",
+	"symbol": "Hemera",
+	"name": "Hemera",
+	"coingecko": "hemera",
+	"sources": [
+		"coingecko"
+	]
+}

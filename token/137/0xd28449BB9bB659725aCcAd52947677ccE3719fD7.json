@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xd28449BB9bB659725aCcAd52947677ccE3719fD7",
+	"symbol": "Dark Matter",
+	"name": "Dark Matter",
+	"coingecko": "dark-matter",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 250,
+	"address": "0x00a35FD824c717879BF370E70AC6868b95870Dfb",
+	"symbol": "Iron Bank",
+	"name": "Iron Bank",
+	"coingecko": "iron-bank",
+	"sources": [
+		"coingecko"
+	]
+}

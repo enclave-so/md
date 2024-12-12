@@ -1,0 +1,10 @@
+{
+	"chain": 39797,
+	"address": "0x4B3686EEc98b2b89102F2830003097C7D4e1f691",
+	"symbol": "Aragon",
+	"name": "Aragon",
+	"coingecko": "aragon",
+	"sources": [
+		"coingecko"
+	]
+}

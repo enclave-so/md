@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x8A0a9b663693A22235B896f70a229C4A22597623",
+	"symbol": "Scalia Infrastructure",
+	"name": "Scalia Infrastructure",
+	"coingecko": "scalia-infrastructure",
+	"sources": [
+		"coingecko"
+	]
+}

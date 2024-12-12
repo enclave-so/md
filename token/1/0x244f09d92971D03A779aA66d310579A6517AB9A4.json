@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x244f09d92971D03A779aA66d310579A6517AB9A4",
+	"symbol": "CTO Harambe",
+	"name": "CTO Harambe",
+	"coingecko": "cto-harambe",
+	"sources": [
+		"coingecko"
+	]
+}

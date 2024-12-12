@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x2F5DE51823E514De04475ba8Db1eEBA5B244ba84",
+	"symbol": "Token Teknoloji A.Ş. USD",
+	"name": "Token Teknoloji A.Ş. USD",
+	"coingecko": "token-teknoloji-a-s-usd",
+	"sources": [
+		"coingecko"
+	]
+}

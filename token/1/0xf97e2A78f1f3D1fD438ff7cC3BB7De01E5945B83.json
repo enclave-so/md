@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xf97e2A78f1f3D1fD438ff7cC3BB7De01E5945B83",
+	"symbol": "holoride",
+	"name": "holoride",
+	"coingecko": "holoride",
+	"sources": [
+		"coingecko"
+	]
+}

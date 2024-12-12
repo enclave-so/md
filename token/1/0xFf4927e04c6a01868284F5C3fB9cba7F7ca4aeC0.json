@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xFf4927e04c6a01868284F5C3fB9cba7F7ca4aeC0",
+	"symbol": "21.co Wrapped BCH",
+	"name": "21.co Wrapped BCH",
+	"coingecko": "wrapped-bch-21-co",
+	"sources": [
+		"coingecko"
+	]
+}

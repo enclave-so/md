@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x69A1e699f562D7Af66Fc6cc473d99f4430C3AcD2",
+	"symbol": "Param",
+	"name": "Param",
+	"coingecko": "param",
+	"sources": [
+		"coingecko"
+	]
+}

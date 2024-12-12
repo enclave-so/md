@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xF5B5eFc906513b4344EbAbCF47A04901f99F09f3",
+	"symbol": "UBIX Network",
+	"name": "UBIX Network",
+	"coingecko": "ubix-network",
+	"sources": [
+		"coingecko"
+	]
+}

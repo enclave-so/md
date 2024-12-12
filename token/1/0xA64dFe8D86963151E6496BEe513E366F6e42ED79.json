@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xA64dFe8D86963151E6496BEe513E366F6e42ED79",
+	"symbol": "Goku",
+	"name": "Goku",
+	"coingecko": "goku",
+	"sources": [
+		"coingecko"
+	]
+}

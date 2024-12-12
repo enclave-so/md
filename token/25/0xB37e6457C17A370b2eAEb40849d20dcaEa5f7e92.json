@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0xB37e6457C17A370b2eAEb40849d20dcaEa5f7e92",
+	"symbol": "SPELL",
+	"name": "Spell Token",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xB37e6457C17A370b2eAEb40849d20dcaEa5f7e92.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

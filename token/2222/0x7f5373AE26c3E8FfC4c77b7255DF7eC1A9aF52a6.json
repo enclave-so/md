@@ -1,0 +1,13 @@
+{
+	"chain": 2222,
+	"address": "0x7f5373AE26c3E8FfC4c77b7255DF7eC1A9aF52a6",
+	"symbol": "axlUSDT",
+	"name": "Axelar Wrapped USDT",
+	"decimals": 6,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/kava/0x7f5373AE26c3E8FfC4c77b7255DF7eC1A9aF52a6.jpg",
+	"coingecko": "axelar-usdt",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

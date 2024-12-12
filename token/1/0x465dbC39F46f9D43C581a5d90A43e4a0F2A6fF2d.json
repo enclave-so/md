@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x465dbC39F46f9D43C581a5d90A43e4a0F2A6fF2d",
+	"symbol": "ITO",
+	"name": "ITO",
+	"coingecko": "ito",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x0ebE30595a44E5288C24161dDfC1E9fa08E33a0C",
+	"symbol": "Nyan Meme Coin",
+	"name": "Nyan Meme Coin",
+	"coingecko": "nyan-meme-coin",
+	"sources": [
+		"coingecko"
+	]
+}

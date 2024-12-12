@@ -1,0 +1,10 @@
+{
+	"chain": 39797,
+	"address": "0x78B050d981d7f6E019Bf6E361D0d1167de6B19dA",
+	"symbol": "Multichain Bridged WETH (Energi)",
+	"name": "Multichain Bridged WETH (Energi)",
+	"coingecko": "multichain-bridged-weth-energi",
+	"sources": [
+		"coingecko"
+	]
+}

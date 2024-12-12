@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x005F893EcD7bF9667195642f7649DA8163e23658",
+	"symbol": "Degen ETH Staked ETH",
+	"name": "Degen ETH Staked ETH",
+	"coingecko": "degen-eth-staked-eth",
+	"sources": [
+		"coingecko"
+	]
+}

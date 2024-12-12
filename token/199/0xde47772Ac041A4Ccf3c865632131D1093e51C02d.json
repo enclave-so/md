@@ -1,0 +1,11 @@
+{
+	"chain": 199,
+	"address": "0xde47772Ac041A4Ccf3c865632131D1093e51C02d",
+	"symbol": "BUSD.b",
+	"name": "Binance USD BSC",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bttc/0xde47772Ac041A4Ccf3c865632131D1093e51C02d.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 10,
+	"address": "0xc4d4500326981eacD020e20A81b1c479c161c7EF",
+	"symbol": "Exactly Wrapped Ether",
+	"name": "Exactly Wrapped Ether",
+	"coingecko": "exactly-weth",
+	"sources": [
+		"coingecko"
+	]
+}

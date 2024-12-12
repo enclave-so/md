@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0x9d1089802eE608BA84C5c98211afE5f37F96B36C",
+	"symbol": "fUSDC",
+	"name": "Fluid USDC",
+	"decimals": 6,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x9d1089802eE608BA84C5c98211afE5f37F96B36C.jpg",
+	"coingecko": "fluid-usdc",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xE7f58A92476056627f9FdB92286778aBd83b285F",
+	"symbol": "DecentraWeb",
+	"name": "DecentraWeb",
+	"coingecko": "decentraweb",
+	"sources": [
+		"coingecko"
+	]
+}

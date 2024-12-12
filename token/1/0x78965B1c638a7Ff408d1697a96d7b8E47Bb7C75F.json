@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x78965B1c638a7Ff408d1697a96d7b8E47Bb7C75F",
+	"symbol": "Chainpal",
+	"name": "Chainpal",
+	"coingecko": "chainpal",
+	"sources": [
+		"coingecko"
+	]
+}

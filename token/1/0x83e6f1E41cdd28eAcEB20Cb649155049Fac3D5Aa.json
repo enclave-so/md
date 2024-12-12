@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x83e6f1E41cdd28eAcEB20Cb649155049Fac3D5Aa",
+	"symbol": "Polkastarter",
+	"name": "Polkastarter",
+	"coingecko": "polkastarter",
+	"sources": [
+		"coingecko"
+	]
+}

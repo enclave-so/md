@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xad684e79CE4b6D464f2Ff7c3FD51646892e24b96",
+	"symbol": "Autonio",
+	"name": "Autonio",
+	"coingecko": "autonio",
+	"sources": [
+		"coingecko"
+	]
+}

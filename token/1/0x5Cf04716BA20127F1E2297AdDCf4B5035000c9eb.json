@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x5Cf04716BA20127F1E2297AdDCf4B5035000c9eb",
+	"symbol": "NKN",
+	"name": "NKN",
+	"coingecko": "nkn",
+	"sources": [
+		"coingecko"
+	]
+}

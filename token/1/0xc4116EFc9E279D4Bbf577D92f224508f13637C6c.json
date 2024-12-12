@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xc4116EFc9E279D4Bbf577D92f224508f13637C6c",
+	"symbol": "DevHub AI",
+	"name": "DevHub AI",
+	"coingecko": "devhub-ai",
+	"sources": [
+		"coingecko"
+	]
+}

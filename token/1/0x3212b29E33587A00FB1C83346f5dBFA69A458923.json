@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x3212b29E33587A00FB1C83346f5dBFA69A458923",
+	"symbol": "The Tokenized Bitcoin",
+	"name": "The Tokenized Bitcoin",
+	"coingecko": "the-tokenized-bitcoin",
+	"sources": [
+		"coingecko"
+	]
+}

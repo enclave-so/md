@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xa0F0546Eb5E3eE7e8cfC5DA12e5949F3AE622675",
+	"symbol": "Tokoin",
+	"name": "Tokoin",
+	"coingecko": "toko",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xB3912b20b3aBc78C15e85E13EC0bF334fbB924f7",
+	"symbol": "Hana",
+	"name": "Hana",
+	"coingecko": "hana",
+	"sources": [
+		"coingecko"
+	]
+}

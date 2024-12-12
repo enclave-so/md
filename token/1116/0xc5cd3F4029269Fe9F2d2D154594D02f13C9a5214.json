@@ -1,0 +1,10 @@
+{
+	"chain": 1116,
+	"address": "0xc5cd3F4029269Fe9F2d2D154594D02f13C9a5214",
+	"symbol": "Core Keeper",
+	"name": "Core Keeper",
+	"coingecko": "core-keeper",
+	"sources": [
+		"coingecko"
+	]
+}

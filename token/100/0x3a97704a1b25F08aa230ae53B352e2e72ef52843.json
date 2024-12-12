@@ -1,0 +1,10 @@
+{
+	"chain": 100,
+	"address": "0x3a97704a1b25F08aa230ae53B352e2e72ef52843",
+	"symbol": "Agave",
+	"name": "Agave",
+	"coingecko": "agave-token",
+	"sources": [
+		"coingecko"
+	]
+}

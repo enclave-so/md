@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xC8C424B91D8ce0137bAB4B832B7F7D154156BA6c",
+	"symbol": "apM Coin",
+	"name": "apM Coin",
+	"coingecko": "apm-coin",
+	"sources": [
+		"coingecko"
+	]
+}

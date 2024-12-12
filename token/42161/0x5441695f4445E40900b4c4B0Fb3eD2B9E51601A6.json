@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x5441695f4445E40900b4c4B0Fb3eD2B9E51601A6",
+	"symbol": "ARTH",
+	"name": "ARTH",
+	"coingecko": "arth",
+	"sources": [
+		"coingecko"
+	]
+}

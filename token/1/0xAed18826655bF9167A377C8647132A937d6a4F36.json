@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xAed18826655bF9167A377C8647132A937d6a4F36",
+	"symbol": "The Big Debate",
+	"name": "The Big Debate",
+	"coingecko": "the-big-debate",
+	"sources": [
+		"coingecko"
+	]
+}

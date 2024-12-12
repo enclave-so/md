@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x25eC98773D7b4ceD4cAFaB96A2A1c0945f145e10",
+	"symbol": "Staked USDT",
+	"name": "Staked USDT",
+	"coingecko": "staked-usdt",
+	"sources": [
+		"coingecko"
+	]
+}

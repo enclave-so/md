@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x441761326490cACF7aF299725B6292597EE822c2",
+	"symbol": "Unifi Protocol DAO",
+	"name": "Unifi Protocol DAO",
+	"coingecko": "unifi-protocol-dao",
+	"sources": [
+		"coingecko"
+	]
+}

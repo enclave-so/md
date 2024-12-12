@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x79edDec7F9648Cf9953db39507efA9f772C83c6e",
+	"symbol": "Mokens League",
+	"name": "Mokens League",
+	"coingecko": "mokens-league",
+	"sources": [
+		"coingecko"
+	]
+}

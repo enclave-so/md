@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x391E86e2C002C70dEe155eAceB88F7A3c38f5976",
+	"symbol": "Aave AMM UniUSDCWETH",
+	"name": "Aave AMM UniUSDCWETH",
+	"coingecko": "aave-amm-uniusdcweth",
+	"sources": [
+		"coingecko"
+	]
+}

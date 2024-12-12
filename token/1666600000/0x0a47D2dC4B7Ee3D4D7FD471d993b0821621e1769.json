@@ -1,0 +1,10 @@
+{
+	"chain": 1666600000,
+	"address": "0x0a47D2dC4B7Ee3D4D7FD471d993b0821621e1769",
+	"symbol": "Kyber Network Crystal Legacy",
+	"name": "Kyber Network Crystal Legacy",
+	"coingecko": "kyber-network",
+	"sources": [
+		"coingecko"
+	]
+}

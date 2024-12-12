@@ -1,0 +1,10 @@
+{
+	"chain": 369,
+	"address": "0xCA35638A3fdDD02fEC597D8c1681198C06b23F58",
+	"symbol": "T.I.M.E. Dividend",
+	"name": "T.I.M.E. Dividend",
+	"coingecko": "t-i-m-e-dividend",
+	"sources": [
+		"coingecko"
+	]
+}

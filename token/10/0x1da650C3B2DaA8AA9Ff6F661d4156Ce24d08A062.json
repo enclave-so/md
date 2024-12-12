@@ -1,0 +1,12 @@
+{
+	"chain": 10,
+	"address": "0x1da650C3B2DaA8AA9Ff6F661d4156Ce24d08A062",
+	"symbol": "DCN",
+	"name": "Dentacoin",
+	"logo": "https://ethereum-optimism.github.io/data/DCN/logo.svg",
+	"coingecko": "dentacoin",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

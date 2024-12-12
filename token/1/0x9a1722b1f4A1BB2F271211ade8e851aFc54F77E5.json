@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x9a1722b1f4A1BB2F271211ade8e851aFc54F77E5",
+	"symbol": "Eigenpie ETHx",
+	"name": "Eigenpie ETHx",
+	"coingecko": "eigenpie-ethx",
+	"sources": [
+		"coingecko"
+	]
+}

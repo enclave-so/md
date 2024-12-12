@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xF31120603a27A16314efFc37a3F32A42028310af",
+	"symbol": "Flack Exchange",
+	"name": "Flack Exchange",
+	"coingecko": "flack-exchange",
+	"sources": [
+		"coingecko"
+	]
+}

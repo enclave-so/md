@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x0B7f0e51Cd1739D6C96982D55aD8fA634dd43A9C",
+	"symbol": "Dream Machine Token",
+	"name": "Dream Machine Token",
+	"coingecko": "dream-machine-token",
+	"sources": [
+		"coingecko"
+	]
+}

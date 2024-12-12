@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x76fcA1adb104770B38581B64d55e67fA5A0f3966",
+	"symbol": "ZkTsunami",
+	"name": "ZkTsunami",
+	"coingecko": "zktsunami",
+	"sources": [
+		"coingecko"
+	]
+}

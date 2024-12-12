@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xc708D6F2153933DAA50B2D0758955Be0A93A8FEc",
+	"symbol": "Verse",
+	"name": "Verse",
+	"coingecko": "verse-bitcoin",
+	"sources": [
+		"coingecko"
+	]
+}

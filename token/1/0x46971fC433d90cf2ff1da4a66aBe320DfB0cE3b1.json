@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x46971fC433d90cf2ff1da4a66aBe320DfB0cE3b1",
+	"symbol": "Winee3",
+	"name": "Winee3",
+	"coingecko": "winee3",
+	"sources": [
+		"coingecko"
+	]
+}

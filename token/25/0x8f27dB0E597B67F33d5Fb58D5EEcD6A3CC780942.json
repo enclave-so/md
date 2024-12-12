@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0x8f27dB0E597B67F33d5Fb58D5EEcD6A3CC780942",
+	"symbol": "IMX",
+	"name": "Immutable X",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x8f27dB0E597B67F33d5Fb58D5EEcD6A3CC780942.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

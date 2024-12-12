@@ -1,0 +1,10 @@
+{
+	"chain": 324,
+	"address": "0xe05C58344B78BbbDe021E3782487e73bB332C1EF",
+	"symbol": "Dappad",
+	"name": "Dappad",
+	"coingecko": "dappad",
+	"sources": [
+		"coingecko"
+	]
+}

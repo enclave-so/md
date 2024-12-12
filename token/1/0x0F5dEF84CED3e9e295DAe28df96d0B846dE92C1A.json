@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x0F5dEF84CED3e9e295DAe28df96d0B846dE92C1A",
+	"symbol": "Crypto SDG",
+	"name": "Crypto SDG",
+	"coingecko": "crypto-sdg",
+	"sources": [
+		"coingecko"
+	]
+}

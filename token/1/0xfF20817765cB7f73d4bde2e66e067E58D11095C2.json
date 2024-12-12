@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0xfF20817765cB7f73d4bde2e66e067E58D11095C2",
+	"symbol": "AMP",
+	"name": "Amp",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/amp.jpg",
+	"coingecko": "amp-token",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

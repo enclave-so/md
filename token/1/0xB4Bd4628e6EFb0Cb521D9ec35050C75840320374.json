@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xB4Bd4628e6EFb0Cb521D9ec35050C75840320374",
+	"symbol": "frETH",
+	"name": "frETH",
+	"coingecko": "freth",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"chain": 10,
+	"address": "0x00F932F0FE257456b32dedA4758922E56A4F4b42",
+	"symbol": "PAPER",
+	"name": "Paper",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/PAPER/logo.svg",
+	"coingecko": "dope-wars-paper",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

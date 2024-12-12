@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x99cFFb50aaD37D17955253F3a4070556b5127a0b",
+	"symbol": "MEGALODON",
+	"name": "MEGALODON",
+	"coingecko": "megalodon",
+	"sources": [
+		"coingecko"
+	]
+}

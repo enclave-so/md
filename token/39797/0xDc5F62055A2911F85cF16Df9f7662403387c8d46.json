@@ -1,0 +1,10 @@
+{
+	"chain": 39797,
+	"address": "0xDc5F62055A2911F85cF16Df9f7662403387c8d46",
+	"symbol": "Wrapped Tron",
+	"name": "Wrapped Tron",
+	"coingecko": "wrapped-tron",
+	"sources": [
+		"coingecko"
+	]
+}

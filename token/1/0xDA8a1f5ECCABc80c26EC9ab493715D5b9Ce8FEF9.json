@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xDA8a1f5ECCABc80c26EC9ab493715D5b9Ce8FEF9",
+	"symbol": "BOOM",
+	"name": "BOOM",
+	"coingecko": "the-wonders",
+	"sources": [
+		"coingecko"
+	]
+}

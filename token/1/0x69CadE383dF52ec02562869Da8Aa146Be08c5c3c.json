@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x69CadE383dF52ec02562869Da8Aa146Be08c5c3c",
+	"symbol": "Vtrading",
+	"name": "Vtrading",
+	"coingecko": "vtrading",
+	"sources": [
+		"coingecko"
+	]
+}

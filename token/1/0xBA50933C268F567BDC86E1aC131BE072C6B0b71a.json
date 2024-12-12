@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xBA50933C268F567BDC86E1aC131BE072C6B0b71a",
+	"symbol": "ARPA",
+	"name": "ARPA",
+	"coingecko": "arpa",
+	"sources": [
+		"coingecko"
+	]
+}

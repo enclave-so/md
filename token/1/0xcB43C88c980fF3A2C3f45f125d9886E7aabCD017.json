@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xcB43C88c980fF3A2C3f45f125d9886E7aabCD017",
+	"symbol": "Freakoff",
+	"name": "Freakoff",
+	"coingecko": "freakoff",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0xab9Cf8C5A9B6Cf5215c82D088D37d04bB146704A",
+	"symbol": "MKR",
+	"name": "Maker",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xab9Cf8C5A9B6Cf5215c82D088D37d04bB146704A.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

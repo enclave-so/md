@@ -1,0 +1,10 @@
+{
+	"chain": 1666600000,
+	"address": "0xC63Fd3e9C9527cCdF1d331bbADFE21E77E357B5E",
+	"symbol": "Kick",
+	"name": "Kick",
+	"coingecko": "kick",
+	"sources": [
+		"coingecko"
+	]
+}

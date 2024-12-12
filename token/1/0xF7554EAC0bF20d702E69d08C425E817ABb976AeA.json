@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xF7554EAC0bF20d702E69d08C425E817ABb976AeA",
+	"symbol": "Make America Healthy Again",
+	"name": "Make America Healthy Again",
+	"coingecko": "make-america-healthy-again",
+	"sources": [
+		"coingecko"
+	]
+}

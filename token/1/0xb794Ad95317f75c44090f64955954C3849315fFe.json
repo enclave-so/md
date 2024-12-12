@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xb794Ad95317f75c44090f64955954C3849315fFe",
+	"symbol": "Ribbit Meme",
+	"name": "Ribbit Meme",
+	"coingecko": "ribbit-meme",
+	"sources": [
+		"coingecko"
+	]
+}

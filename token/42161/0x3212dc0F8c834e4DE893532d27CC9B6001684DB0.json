@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x3212dc0F8c834e4DE893532d27CC9B6001684DB0",
+	"symbol": "Pear Protocol",
+	"name": "Pear Protocol",
+	"coingecko": "pear-protocol",
+	"sources": [
+		"coingecko"
+	]
+}

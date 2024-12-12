@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xBE4D9c8C638B5f0864017d7F6A04b66c42953847",
+	"symbol": "Nimbus Network",
+	"name": "Nimbus Network",
+	"coingecko": "nimbus-network",
+	"sources": [
+		"coingecko"
+	]
+}

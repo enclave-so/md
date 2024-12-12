@@ -1,0 +1,10 @@
+{
+	"chain": 100,
+	"address": "0x6A8cb6714B1EE5b471a7D2eC4302cb4f5Ff25eC2",
+	"symbol": "Energy Web",
+	"name": "Energy Web",
+	"coingecko": "energy-web-token",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0x8564653879a18C560E7C0Ea0E084c516C62F5653",
+	"symbol": "UBXT",
+	"name": "UpBots",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x8564653879a18C560E7C0Ea0E084c516C62F5653/logo.png",
+	"sources": [
+		"sushiswap"
+	]
+}

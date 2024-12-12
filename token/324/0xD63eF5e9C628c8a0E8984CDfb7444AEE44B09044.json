@@ -1,0 +1,10 @@
+{
+	"chain": 324,
+	"address": "0xD63eF5e9C628c8a0E8984CDfb7444AEE44B09044",
+	"symbol": "CVI",
+	"name": "CVI",
+	"coingecko": "govi",
+	"sources": [
+		"coingecko"
+	]
+}

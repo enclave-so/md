@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xc4b9e3aa1071741220A548832C887B39Cb621970",
+	"symbol": "FUG",
+	"name": "FUG",
+	"coingecko": "fug",
+	"sources": [
+		"coingecko"
+	]
+}

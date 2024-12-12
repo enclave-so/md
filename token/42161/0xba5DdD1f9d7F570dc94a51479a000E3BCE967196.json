@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0xba5DdD1f9d7F570dc94a51479a000E3BCE967196",
+	"symbol": "Aave",
+	"name": "Aave",
+	"coingecko": "aave",
+	"sources": [
+		"coingecko"
+	]
+}

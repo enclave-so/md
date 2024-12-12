@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0x1a8E39ae59e5556B56b76fCBA98d22c9ae557396",
+	"symbol": "DOGE",
+	"name": "Dogecoin",
+	"decimals": 8,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x1a8E39ae59e5556B56b76fCBA98d22c9ae557396.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

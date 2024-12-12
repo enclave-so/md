@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0xd6cF874E24A9F5f43075142101A6b13735CDD424",
+	"symbol": "CoinbarPay",
+	"name": "CoinbarPay",
+	"coingecko": "coinbarpay",
+	"sources": [
+		"coingecko"
+	]
+}

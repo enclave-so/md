@@ -1,0 +1,13 @@
+{
+	"chain": 137,
+	"address": "0xAa9654BECca45B5BDFA5ac646c939C62b527D394",
+	"symbol": "DINO",
+	"name": "DinoSwap",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xAa9654BECca45B5BDFA5ac646c939C62b527D394/logo.png",
+	"coingecko": "dinoswap",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0xC84FaE1141B92Fa5Bf847276828f69cAF651Cb7F",
+	"symbol": "XNF",
+	"name": "XNF",
+	"coingecko": "xnf",
+	"sources": [
+		"coingecko"
+	]
+}

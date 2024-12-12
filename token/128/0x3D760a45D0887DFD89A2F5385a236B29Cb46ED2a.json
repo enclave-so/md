@@ -1,0 +1,11 @@
+{
+	"chain": 128,
+	"address": "0x3D760a45D0887DFD89A2F5385a236B29Cb46ED2a",
+	"symbol": "DAIHECO",
+	"name": "Heco-Peg DAIHECO Token",
+	"decimals": 18,
+	"logo": "https://hecoinfo.com/images/main/empty-token.png",
+	"sources": [
+		"sushiswap"
+	]
+}

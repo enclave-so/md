@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xf03A7Eb46d01d9EcAA104558C732Cf82f6B6B645",
+	"symbol": "Stader MaticX",
+	"name": "Stader MaticX",
+	"coingecko": "stader-maticx",
+	"sources": [
+		"coingecko"
+	]
+}

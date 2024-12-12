@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xc5f0f7b66764F6ec8C8Dff7BA683102295E16409",
+	"symbol": "First Digital USD",
+	"name": "First Digital USD",
+	"coingecko": "first-digital-usd",
+	"sources": [
+		"coingecko"
+	]
+}

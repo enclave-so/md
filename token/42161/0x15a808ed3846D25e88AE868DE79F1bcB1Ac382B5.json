@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x15a808ed3846D25e88AE868DE79F1bcB1Ac382B5",
+	"symbol": "Metavault DAO",
+	"name": "Metavault DAO",
+	"coingecko": "metavault-dao",
+	"sources": [
+		"coingecko"
+	]
+}

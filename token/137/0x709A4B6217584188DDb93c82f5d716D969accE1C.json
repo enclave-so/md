@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x709A4B6217584188DDb93c82f5d716D969accE1C",
+	"symbol": "Hanu Yokia",
+	"name": "Hanu Yokia",
+	"coingecko": "hanu-yokia",
+	"sources": [
+		"coingecko"
+	]
+}

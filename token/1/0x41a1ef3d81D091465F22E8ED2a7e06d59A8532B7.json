@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x41a1ef3d81D091465F22E8ED2a7e06d59A8532B7",
+	"symbol": "Fanatico",
+	"name": "Fanatico",
+	"coingecko": "fanatico",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"chain": 10,
+	"address": "0xAF9fE3B5cCDAe78188B1F8b9a49Da7ae9510F151",
+	"symbol": "DHT",
+	"name": "dHEDGE DAO Token",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/DHT/logo.svg",
+	"coingecko": "dhedge-dao",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

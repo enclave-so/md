@@ -1,0 +1,10 @@
+{
+	"chain": 10,
+	"address": "0x6c511dc18572d31C2c3f7b1505cB2BBC08282FcC",
+	"symbol": "Aipocalypto",
+	"name": "Aipocalypto",
+	"coingecko": "aipocalypto",
+	"sources": [
+		"coingecko"
+	]
+}

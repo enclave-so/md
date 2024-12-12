@@ -1,0 +1,10 @@
+{
+	"chain": 10,
+	"address": "0x10398AbC267496E49106B07dd6BE13364D10dC71",
+	"symbol": "Let's Get HAI",
+	"name": "Let's Get HAI",
+	"coingecko": "let-s-get-hai",
+	"sources": [
+		"coingecko"
+	]
+}

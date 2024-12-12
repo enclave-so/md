@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0x0369302aaBbbe58443b3F17Fa0B0D05D5dC9cb4e",
+	"symbol": "TOMI",
+	"name": "TOMI",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x0369302aaBbbe58443b3F17Fa0B0D05D5dC9cb4e.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"chain": 3,
+	"address": "0x71d82Eb6A5051CfF99582F4CDf2aE9cD402A4882",
+	"symbol": "UNI",
+	"name": "Uniswap",
+	"decimals": 18,
+	"logo": "ipfs://QmXttGpZrECX5qCyXbBQiqgQNytVGeZW5Anewvh2jc4psg",
+	"sources": [
+		"sushiswap"
+	]
+}

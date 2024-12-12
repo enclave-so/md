@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x641C0F8b889F8336A69f464ddAE3733e3dE3788A",
+	"symbol": "DÆTA",
+	"name": "DÆTA",
+	"coingecko": "daeta",
+	"sources": [
+		"coingecko"
+	]
+}

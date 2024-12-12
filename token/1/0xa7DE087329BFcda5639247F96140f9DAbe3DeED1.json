@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xa7DE087329BFcda5639247F96140f9DAbe3DeED1",
+	"symbol": "Statera",
+	"name": "Statera",
+	"coingecko": "statera",
+	"sources": [
+		"coingecko"
+	]
+}

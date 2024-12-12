@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0x1eBFD0d52Aa04350f512aBcFd45ffb0bb86F0cc2",
+	"symbol": "STARDUST",
+	"name": "STARDUST",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x1eBFD0d52Aa04350f512aBcFd45ffb0bb86F0cc2.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

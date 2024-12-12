@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x7ECbb21346C501Fd07eb165E406120fA32381C16",
+	"symbol": "Ecoreal Estate",
+	"name": "Ecoreal Estate",
+	"coingecko": "ecoreal-estate",
+	"sources": [
+		"coingecko"
+	]
+}

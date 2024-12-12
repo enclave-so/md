@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x598e49f01bEfeB1753737934a5b11fea9119C796",
+	"symbol": "Adshares",
+	"name": "Adshares",
+	"coingecko": "adshares",
+	"sources": [
+		"coingecko"
+	]
+}

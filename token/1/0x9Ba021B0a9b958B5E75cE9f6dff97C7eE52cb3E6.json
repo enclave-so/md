@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x9Ba021B0a9b958B5E75cE9f6dff97C7eE52cb3E6",
+	"symbol": "Dinero apxETH",
+	"name": "Dinero apxETH",
+	"coingecko": "dinero-apxeth",
+	"sources": [
+		"coingecko"
+	]
+}

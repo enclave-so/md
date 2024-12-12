@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xbbBBbBbBB7949dcC7d1539c91b81A5BF09E37bDB",
+	"symbol": "crow with knife",
+	"name": "crow with knife",
+	"coingecko": "crow-with-knife",
+	"sources": [
+		"coingecko"
+	]
+}

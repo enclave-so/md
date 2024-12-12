@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xcc54ac31164b5b3c39DB4Eef26D89275c468EC9d",
+	"symbol": "Fuel",
+	"name": "Fuel",
+	"coingecko": "devour-2",
+	"sources": [
+		"coingecko"
+	]
+}

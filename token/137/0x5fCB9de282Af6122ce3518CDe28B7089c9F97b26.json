@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x5fCB9de282Af6122ce3518CDe28B7089c9F97b26",
+	"symbol": "DeHive",
+	"name": "DeHive",
+	"coingecko": "dehive",
+	"sources": [
+		"coingecko"
+	]
+}

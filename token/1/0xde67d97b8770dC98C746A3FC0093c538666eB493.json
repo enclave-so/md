@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xde67d97b8770dC98C746A3FC0093c538666eB493",
+	"symbol": "Bitrock",
+	"name": "Bitrock",
+	"coingecko": "bitrock",
+	"sources": [
+		"coingecko"
+	]
+}

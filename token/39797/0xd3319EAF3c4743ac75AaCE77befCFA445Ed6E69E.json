@@ -1,0 +1,10 @@
+{
+	"chain": 39797,
+	"address": "0xd3319EAF3c4743ac75AaCE77befCFA445Ed6E69E",
+	"symbol": "Curve DAO",
+	"name": "Curve DAO",
+	"coingecko": "curve-dao-token",
+	"sources": [
+		"coingecko"
+	]
+}

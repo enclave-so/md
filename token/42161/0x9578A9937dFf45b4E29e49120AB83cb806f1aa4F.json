@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x9578A9937dFf45b4E29e49120AB83cb806f1aa4F",
+	"symbol": "AITom",
+	"name": "AITom",
+	"coingecko": "aitom",
+	"sources": [
+		"coingecko"
+	]
+}

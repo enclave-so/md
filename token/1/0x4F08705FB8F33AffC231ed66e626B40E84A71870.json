@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x4F08705FB8F33AffC231ed66e626B40E84A71870",
+	"symbol": "Flute",
+	"name": "Flute",
+	"coingecko": "flute",
+	"sources": [
+		"coingecko"
+	]
+}

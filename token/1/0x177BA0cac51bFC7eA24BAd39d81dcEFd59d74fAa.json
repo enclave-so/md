@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x177BA0cac51bFC7eA24BAd39d81dcEFd59d74fAa",
+	"symbol": "KittenFinance",
+	"name": "KittenFinance",
+	"coingecko": "kittenfinance",
+	"sources": [
+		"coingecko"
+	]
+}

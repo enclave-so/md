@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x6F06e6beD64cF4c4187c06Ee2a4732f6a171BC4e",
+	"symbol": "FoodChain Global",
+	"name": "FoodChain Global",
+	"coingecko": "foodchain-global",
+	"sources": [
+		"coingecko"
+	]
+}

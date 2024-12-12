@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x50D7ee9708FEc39673c92e1AaE048EB3685eEA9b",
+	"symbol": "Ginnan",
+	"name": "Ginnan",
+	"coingecko": "ginnan",
+	"sources": [
+		"coingecko"
+	]
+}

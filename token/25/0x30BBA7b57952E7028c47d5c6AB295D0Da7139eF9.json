@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0x30BBA7b57952E7028c47d5c6AB295D0Da7139eF9",
+	"symbol": "STX",
+	"name": "Stacks",
+	"decimals": 6,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x30BBA7b57952E7028c47d5c6AB295D0Da7139eF9.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

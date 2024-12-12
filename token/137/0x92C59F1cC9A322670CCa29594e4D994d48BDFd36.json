@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x92C59F1cC9A322670CCa29594e4D994d48BDFd36",
+	"symbol": "PhoenixDAO",
+	"name": "PhoenixDAO",
+	"coingecko": "phoenixdao",
+	"sources": [
+		"coingecko"
+	]
+}

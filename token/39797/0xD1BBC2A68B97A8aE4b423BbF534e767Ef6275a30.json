@@ -1,0 +1,10 @@
+{
+	"chain": 39797,
+	"address": "0xD1BBC2A68B97A8aE4b423BbF534e767Ef6275a30",
+	"symbol": "Powerledger",
+	"name": "Powerledger",
+	"coingecko": "power-ledger",
+	"sources": [
+		"coingecko"
+	]
+}

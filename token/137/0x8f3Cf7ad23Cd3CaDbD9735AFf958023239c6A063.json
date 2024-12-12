@@ -1,0 +1,13 @@
+{
+	"chain": 137,
+	"address": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
+	"symbol": "DAI",
+	"name": "Dai Stablecoin",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/dai.jpg",
+	"coingecko": "polygon-pos-bridged-dai-polygon-pos",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xf695f9499D18584363aeED0eba4C381d350f81C3",
+	"symbol": "Reality VR",
+	"name": "Reality VR",
+	"coingecko": "reality-vr",
+	"sources": [
+		"coingecko"
+	]
+}

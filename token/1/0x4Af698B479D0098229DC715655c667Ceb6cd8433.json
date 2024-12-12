@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0x4Af698B479D0098229DC715655c667Ceb6cd8433",
+	"symbol": "MAID",
+	"name": "MaidCoin",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/maid.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x21381e026Ad6d8266244f2A583b35F9E4413FA2a",
+	"symbol": "Formation FI",
+	"name": "Formation FI",
+	"coingecko": "formation-fi",
+	"sources": [
+		"coingecko"
+	]
+}

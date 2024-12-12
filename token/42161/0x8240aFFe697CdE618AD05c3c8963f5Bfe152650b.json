@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x8240aFFe697CdE618AD05c3c8963f5Bfe152650b",
+	"symbol": "Dinari AMZN",
+	"name": "Dinari AMZN",
+	"coingecko": "dinari-amzn-dshares",
+	"sources": [
+		"coingecko"
+	]
+}

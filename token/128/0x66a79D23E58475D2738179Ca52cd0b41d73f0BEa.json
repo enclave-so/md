@@ -1,0 +1,13 @@
+{
+	"chain": 128,
+	"address": "0x66a79D23E58475D2738179Ca52cd0b41d73f0BEa",
+	"symbol": "HBTC",
+	"name": "Heco-Peg HBTC Token",
+	"decimals": 18,
+	"logo": "https://hecoinfo.com/token/images/HBTC_32.png",
+	"coingecko": "huobi-btc",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0xA487bF43cF3b10dffc97A9A744cbB7036965d3b9",
+	"symbol": "DERI",
+	"name": "Deri Token",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xA487bF43cF3b10dffc97A9A744cbB7036965d3b9/logo.png",
+	"coingecko": "deri-protocol",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

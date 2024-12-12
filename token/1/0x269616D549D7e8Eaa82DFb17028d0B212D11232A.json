@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x269616D549D7e8Eaa82DFb17028d0B212D11232A",
+	"symbol": "Punk Vault (NFTX)",
+	"name": "Punk Vault (NFTX)",
+	"coingecko": "punk-vault-nftx",
+	"sources": [
+		"coingecko"
+	]
+}

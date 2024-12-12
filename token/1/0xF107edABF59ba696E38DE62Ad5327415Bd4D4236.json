@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xF107edABF59ba696E38DE62Ad5327415Bd4D4236",
+	"symbol": "CatSlap",
+	"name": "CatSlap",
+	"coingecko": "catslap",
+	"sources": [
+		"coingecko"
+	]
+}

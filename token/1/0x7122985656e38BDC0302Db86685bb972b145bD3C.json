@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x7122985656e38BDC0302Db86685bb972b145bD3C",
+	"symbol": "StakeStone ETH",
+	"name": "StakeStone ETH",
+	"coingecko": "stakestone-ether",
+	"sources": [
+		"coingecko"
+	]
+}

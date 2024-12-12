@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xfCF7985661d2c3F62208970cBE25e70BCCe73E7C",
+	"symbol": "RWA-AI",
+	"name": "RWA-AI",
+	"coingecko": "rwa-ai",
+	"sources": [
+		"coingecko"
+	]
+}

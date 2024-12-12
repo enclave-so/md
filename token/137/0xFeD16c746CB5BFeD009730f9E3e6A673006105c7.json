@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xFeD16c746CB5BFeD009730f9E3e6A673006105c7",
+	"symbol": "Digital Reserve Currency",
+	"name": "Digital Reserve Currency",
+	"coingecko": "digital-reserve-currency",
+	"sources": [
+		"coingecko"
+	]
+}

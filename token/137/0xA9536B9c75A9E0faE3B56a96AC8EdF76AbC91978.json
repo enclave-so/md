@@ -1,0 +1,11 @@
+{
+	"chain": 137,
+	"address": "0xA9536B9c75A9E0faE3B56a96AC8EdF76AbC91978",
+	"symbol": "PECO",
+	"name": "Polygon Ecosystem Index",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xA9536B9c75A9E0faE3B56a96AC8EdF76AbC91978/logo.png",
+	"sources": [
+		"sushiswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x6595b8fD9C920C81500dCa94e53Cdc712513Fb1f",
+	"symbol": "Olyverse",
+	"name": "Olyverse",
+	"coingecko": "olyverse",
+	"sources": [
+		"coingecko"
+	]
+}

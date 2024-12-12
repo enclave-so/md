@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x89Ab32156e46F46D02ade3FEcbe5Fc4243B9AAeD",
+	"symbol": "pNetwork",
+	"name": "pNetwork",
+	"coingecko": "pnetwork",
+	"sources": [
+		"coingecko"
+	]
+}

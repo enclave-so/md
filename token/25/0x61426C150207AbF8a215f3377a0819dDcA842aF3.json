@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0x61426C150207AbF8a215f3377a0819dDcA842aF3",
+	"symbol": "HNT",
+	"name": "Helium",
+	"decimals": 8,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x61426C150207AbF8a215f3377a0819dDcA842aF3.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

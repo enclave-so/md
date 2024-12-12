@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xeDF6568618A00C6F0908Bf7758A16F76B6E04aF9",
+	"symbol": "Arianee",
+	"name": "Arianee",
+	"coingecko": "arianee",
+	"sources": [
+		"coingecko"
+	]
+}

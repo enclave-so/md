@@ -1,0 +1,13 @@
+{
+	"chain": 199,
+	"address": "0xdB28719F7f938507dBfe4f0eAe55668903D34a15",
+	"symbol": "USDT.t",
+	"name": "Tether USD Tron",
+	"decimals": 6,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bttc/0xdB28719F7f938507dBfe4f0eAe55668903D34a15.jpg",
+	"coingecko": "multichain-bridged-usdt-bittorrent",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 369,
+	"address": "0x13Dd594e6a0E3E3f1c154D27233952068b02AD01",
+	"symbol": "Sac Daddy",
+	"name": "Sac Daddy",
+	"coingecko": "sac-daddy",
+	"sources": [
+		"coingecko"
+	]
+}

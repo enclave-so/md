@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x354C8cDA7E3B737d360513A0Dc5ABcEE8Ee1cEA3",
+	"symbol": "BABYTRUMP",
+	"name": "BABYTRUMP",
+	"coingecko": "babytrump",
+	"sources": [
+		"coingecko"
+	]
+}

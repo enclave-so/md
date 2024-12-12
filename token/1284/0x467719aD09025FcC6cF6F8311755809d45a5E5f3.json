@@ -1,0 +1,10 @@
+{
+	"chain": 1284,
+	"address": "0x467719aD09025FcC6cF6F8311755809d45a5E5f3",
+	"symbol": "Axelar",
+	"name": "Axelar",
+	"coingecko": "axelar",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xAD038Eb671c44b853887A7E32528FaB35dC5D710",
+	"symbol": "DOLA Borrowing Right",
+	"name": "DOLA Borrowing Right",
+	"coingecko": "dola-borrowing-right",
+	"sources": [
+		"coingecko"
+	]
+}

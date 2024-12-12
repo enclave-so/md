@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x6B0956258fF7bd7645aa35369B55B61b8e6d6140",
+	"symbol": "Maximus LUCKY",
+	"name": "Maximus LUCKY",
+	"coingecko": "maximus-lucky",
+	"sources": [
+		"coingecko"
+	]
+}

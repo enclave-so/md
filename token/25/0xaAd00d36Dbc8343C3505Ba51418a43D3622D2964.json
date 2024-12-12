@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0xaAd00d36Dbc8343C3505Ba51418a43D3622D2964",
+	"symbol": "CLMRS",
+	"name": "Crolon Mars",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xaAd00d36Dbc8343C3505Ba51418a43D3622D2964.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

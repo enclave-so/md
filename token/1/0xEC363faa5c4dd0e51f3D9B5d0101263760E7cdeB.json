@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xEC363faa5c4dd0e51f3D9B5d0101263760E7cdeB",
+	"symbol": "Instadapp WBTC",
+	"name": "Instadapp WBTC",
+	"coingecko": "instadapp-wbtc",
+	"sources": [
+		"coingecko"
+	]
+}

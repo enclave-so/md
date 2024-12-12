@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xBF72ee725f9B06DC564324774801aCEBAd061946",
+	"symbol": "DApp AI",
+	"name": "DApp AI",
+	"coingecko": "dapp-ai",
+	"sources": [
+		"coingecko"
+	]
+}

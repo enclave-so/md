@@ -1,0 +1,10 @@
+{
+	"chain": 252,
+	"address": "0xc84c0f36e42D0100c6FF5e1D04e2978f0A5B63Cf",
+	"symbol": "Real World Abs",
+	"name": "Real World Abs",
+	"coingecko": "real-world-abs",
+	"sources": [
+		"coingecko"
+	]
+}

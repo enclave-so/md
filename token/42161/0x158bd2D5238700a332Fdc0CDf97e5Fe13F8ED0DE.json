@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x158bd2D5238700a332Fdc0CDf97e5Fe13F8ED0DE",
+	"symbol": "Revolon",
+	"name": "Revolon",
+	"coingecko": "revolon",
+	"sources": [
+		"coingecko"
+	]
+}

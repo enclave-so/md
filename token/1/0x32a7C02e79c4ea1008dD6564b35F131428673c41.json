@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x32a7C02e79c4ea1008dD6564b35F131428673c41",
+	"symbol": "Crust Network",
+	"name": "Crust Network",
+	"coingecko": "crust-network",
+	"sources": [
+		"coingecko"
+	]
+}

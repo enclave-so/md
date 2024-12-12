@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xa0E390e9ceA0D0e8cd40048ced9fA9EA10D71639",
+	"symbol": "DSLA Protocol",
+	"name": "DSLA Protocol",
+	"coingecko": "stacktical",
+	"sources": [
+		"coingecko"
+	]
+}

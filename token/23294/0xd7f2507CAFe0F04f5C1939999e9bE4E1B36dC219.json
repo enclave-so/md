@@ -1,0 +1,10 @@
+{
+	"chain": 23294,
+	"address": "0xd7f2507CAFe0F04f5C1939999e9bE4E1B36dC219",
+	"symbol": "Private Wrapped IX",
+	"name": "Private Wrapped IX",
+	"coingecko": "private-wrapped-ix",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xA0117792d4B100Fd329B37e8AB4181dF8a5b3326",
+	"symbol": "BREPE",
+	"name": "BREPE",
+	"coingecko": "brepe",
+	"sources": [
+		"coingecko"
+	]
+}

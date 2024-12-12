@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0xdA661fa59320B808c5a6d23579fCfEdf1FD3cf36",
+	"symbol": "Mobox",
+	"name": "Mobox",
+	"coingecko": "mobox",
+	"sources": [
+		"coingecko"
+	]
+}

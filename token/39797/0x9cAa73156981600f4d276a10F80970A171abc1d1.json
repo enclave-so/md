@@ -1,0 +1,10 @@
+{
+	"chain": 39797,
+	"address": "0x9cAa73156981600f4d276a10F80970A171abc1d1",
+	"symbol": "Keep Network",
+	"name": "Keep Network",
+	"coingecko": "keep-network",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 324,
+	"address": "0xfB4c64c144c2bD0E7F2A06da7d6aAc32d8cb2514",
+	"symbol": "Archly Finance",
+	"name": "Archly Finance",
+	"coingecko": "archly-finance",
+	"sources": [
+		"coingecko"
+	]
+}

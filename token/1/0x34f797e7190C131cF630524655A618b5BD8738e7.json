@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x34f797e7190C131cF630524655A618b5BD8738e7",
+	"symbol": "BaconDAO",
+	"name": "BaconDAO",
+	"coingecko": "bacondao",
+	"sources": [
+		"coingecko"
+	]
+}

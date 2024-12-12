@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x4e6221c07DAE8D3460a46fa01779cF17FdD72ad8",
+	"symbol": "Pochita on Ethereum",
+	"name": "Pochita on Ethereum",
+	"coingecko": "pochita-on-ethereum",
+	"sources": [
+		"coingecko"
+	]
+}

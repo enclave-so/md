@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x4b6d036d0BC62A633aCca6d10956E9dbBB16748f",
+	"symbol": "Blood Crystal",
+	"name": "Blood Crystal",
+	"coingecko": "blood-crystal",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x1900E8B5619a3596745F715d0427Fe617c729BA9",
+	"symbol": "Chainbing",
+	"name": "Chainbing",
+	"coingecko": "chainbing",
+	"sources": [
+		"coingecko"
+	]
+}

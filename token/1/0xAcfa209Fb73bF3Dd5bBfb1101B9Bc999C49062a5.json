@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xAcfa209Fb73bF3Dd5bBfb1101B9Bc999C49062a5",
+	"symbol": "EvidenZ",
+	"name": "EvidenZ",
+	"coingecko": "blockchain-certified-data-token",
+	"sources": [
+		"coingecko"
+	]
+}

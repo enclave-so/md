@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xAddB6dC7E2F7caEA67621DD3Ca2e8321ade33286",
+	"symbol": "Sharp AI",
+	"name": "Sharp AI",
+	"coingecko": "sharp-ai",
+	"sources": [
+		"coingecko"
+	]
+}

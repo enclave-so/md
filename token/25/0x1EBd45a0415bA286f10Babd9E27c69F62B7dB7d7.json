@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0x1EBd45a0415bA286f10Babd9E27c69F62B7dB7d7",
+	"symbol": "STAB",
+	"name": "crocw/knife",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x1EBd45a0415bA286f10Babd9E27c69F62B7dB7d7.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

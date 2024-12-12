@@ -1,0 +1,10 @@
+{
+	"chain": 324,
+	"address": "0x9E22D758629761FC5708c171d06c2faBB60B5159",
+	"symbol": "WOO",
+	"name": "WOO",
+	"coingecko": "woo-network",
+	"sources": [
+		"coingecko"
+	]
+}

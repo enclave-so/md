@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x0789dbAE94fb18e5789B8e4489BCB7A1ADB58622",
+	"symbol": "FISCO Coin",
+	"name": "FISCO Coin",
+	"coingecko": "fisco",
+	"sources": [
+		"coingecko"
+	]
+}

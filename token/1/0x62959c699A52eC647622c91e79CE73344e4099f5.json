@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x62959c699A52eC647622c91e79CE73344e4099f5",
+	"symbol": "DeFine",
+	"name": "DeFine",
+	"coingecko": "define",
+	"sources": [
+		"coingecko"
+	]
+}

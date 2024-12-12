@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0xAB2A7B5876D707e0126B3A75EF7781c77c8877EE",
+	"symbol": "QUAD",
+	"name": "Quadency Token",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xAB2A7B5876D707e0126B3A75EF7781c77c8877EE.jpg",
+	"coingecko": "quadency",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

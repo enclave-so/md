@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0x725C263e32c72dDC3A19bEa12C5a0479a81eE688",
+	"symbol": "BMI",
+	"name": "Bridge Mutual",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x725C263e32c72dDC3A19bEa12C5a0479a81eE688/logo.png",
+	"coingecko": "bridge-mutual",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

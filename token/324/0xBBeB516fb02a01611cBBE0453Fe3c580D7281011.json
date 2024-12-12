@@ -1,0 +1,13 @@
+{
+	"chain": 324,
+	"address": "0xBBeB516fb02a01611cBBE0453Fe3c580D7281011",
+	"symbol": "WBTC",
+	"name": "Wrapped BTC",
+	"decimals": 8,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/zksync-era/0xBBeB516fb02a01611cBBE0453Fe3c580D7281011.jpg",
+	"coingecko": "zksync-bridged-wbtc-zksync",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 19,
+	"address": "0x0D94e59332732D18CF3a3D457A8886A2AE29eA1B",
+	"symbol": "Songbird Finance",
+	"name": "Songbird Finance",
+	"coingecko": "songbird-finance",
+	"sources": [
+		"coingecko"
+	]
+}

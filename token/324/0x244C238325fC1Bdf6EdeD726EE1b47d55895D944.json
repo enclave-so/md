@@ -1,0 +1,10 @@
+{
+	"chain": 324,
+	"address": "0x244C238325fC1Bdf6EdeD726EE1b47d55895D944",
+	"symbol": "Zorro",
+	"name": "Zorro",
+	"coingecko": "zorro",
+	"sources": [
+		"coingecko"
+	]
+}

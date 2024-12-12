@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x55b2CFcfe99110C773f00b023560DD9ef6C8A13B",
+	"symbol": "Index Coop CoinDesk ETH Trend Index",
+	"name": "Index Coop CoinDesk ETH Trend Index",
+	"coingecko": "index-coop-coindesk-eth-trend-index",
+	"sources": [
+		"coingecko"
+	]
+}

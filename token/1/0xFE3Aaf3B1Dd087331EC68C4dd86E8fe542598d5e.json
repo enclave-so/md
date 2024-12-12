@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xFE3Aaf3B1Dd087331EC68C4dd86E8fe542598d5e",
+	"symbol": "ALTOKEN",
+	"name": "ALTOKEN",
+	"coingecko": "altoken",
+	"sources": [
+		"coingecko"
+	]
+}

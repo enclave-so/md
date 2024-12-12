@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xB94AcDF8662CD955F137E0C9c9fbA535c87b57B4",
+	"symbol": "Mona Token",
+	"name": "Mona Token",
+	"coingecko": "mona-token",
+	"sources": [
+		"coingecko"
+	]
+}

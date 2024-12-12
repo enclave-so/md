@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x22B6C31c2bEB8f2d0d5373146Eed41Ab9eDe3caf",
+	"symbol": "The Cocktailbar",
+	"name": "The Cocktailbar",
+	"coingecko": "cocktailbar",
+	"sources": [
+		"coingecko"
+	]
+}

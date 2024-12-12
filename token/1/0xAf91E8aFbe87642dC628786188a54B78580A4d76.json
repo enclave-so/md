@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xAf91E8aFbe87642dC628786188a54B78580A4d76",
+	"symbol": "Fund Of Yours",
+	"name": "Fund Of Yours",
+	"coingecko": "fund-of-yours",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x266b4d1c60634C5Ab2B9f5117888A4850d87C4c0",
+	"symbol": "Shelter Secure AI",
+	"name": "Shelter Secure AI",
+	"coingecko": "shelter-secure-ai",
+	"sources": [
+		"coingecko"
+	]
+}

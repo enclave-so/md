@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x2559813BBb508C4C79e9CCCE4703Bcb1f149EDd7",
+	"symbol": "Hourglass",
+	"name": "Hourglass",
+	"coingecko": "hourglass",
+	"sources": [
+		"coingecko"
+	]
+}

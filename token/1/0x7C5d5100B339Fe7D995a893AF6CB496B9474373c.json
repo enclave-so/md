@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x7C5d5100B339Fe7D995a893AF6CB496B9474373c",
+	"symbol": "Loon Network",
+	"name": "Loon Network",
+	"coingecko": "loon-network",
+	"sources": [
+		"coingecko"
+	]
+}

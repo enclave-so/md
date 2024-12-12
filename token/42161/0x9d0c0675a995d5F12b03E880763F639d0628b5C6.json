@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x9d0c0675a995d5F12b03E880763F639d0628b5C6",
+	"symbol": "SuperWalk WALK",
+	"name": "SuperWalk WALK",
+	"coingecko": "superwalk-walk",
+	"sources": [
+		"coingecko"
+	]
+}

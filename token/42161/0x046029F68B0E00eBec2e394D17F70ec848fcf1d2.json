@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x046029F68B0E00eBec2e394D17F70ec848fcf1d2",
+	"symbol": "Stable.com USD3",
+	"name": "Stable.com USD3",
+	"coingecko": "stable-com-usd3",
+	"sources": [
+		"coingecko"
+	]
+}

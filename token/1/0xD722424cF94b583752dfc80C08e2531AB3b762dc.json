@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xD722424cF94b583752dfc80C08e2531AB3b762dc",
+	"symbol": "SphereX Token",
+	"name": "SphereX Token",
+	"coingecko": "spherex-token",
+	"sources": [
+		"coingecko"
+	]
+}

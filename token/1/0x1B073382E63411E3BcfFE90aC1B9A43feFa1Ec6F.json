@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x1B073382E63411E3BcfFE90aC1B9A43feFa1Ec6F",
+	"symbol": "Bitpanda Ecosystem",
+	"name": "Bitpanda Ecosystem",
+	"coingecko": "bitpanda-ecosystem-token",
+	"sources": [
+		"coingecko"
+	]
+}

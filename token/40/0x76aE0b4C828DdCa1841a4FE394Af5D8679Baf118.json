@@ -1,0 +1,11 @@
+{
+	"chain": 40,
+	"address": "0x76aE0b4C828DdCa1841a4FE394Af5D8679Baf118",
+	"symbol": "SC",
+	"name": "ShibaTelos Coin",
+	"decimals": 9,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/telos/0x76aE0b4C828DdCa1841a4FE394Af5D8679Baf118.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

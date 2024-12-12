@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x4159862bcF6B4393A80550b1ed03DFfa6f90533C",
+	"symbol": "One Hundred Million Inu",
+	"name": "One Hundred Million Inu",
+	"coingecko": "one-hundred-million-inu",
+	"sources": [
+		"coingecko"
+	]
+}

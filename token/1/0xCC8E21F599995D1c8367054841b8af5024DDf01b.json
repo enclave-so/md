@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xCC8E21F599995D1c8367054841b8af5024DDf01b",
+	"symbol": "Alpha Gardeners",
+	"name": "Alpha Gardeners",
+	"coingecko": "alpha-gardeners",
+	"sources": [
+		"coingecko"
+	]
+}

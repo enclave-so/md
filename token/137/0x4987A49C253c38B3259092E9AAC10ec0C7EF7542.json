@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x4987A49C253c38B3259092E9AAC10ec0C7EF7542",
+	"symbol": "Dust Protocol",
+	"name": "Dust Protocol",
+	"coingecko": "dust-protocol",
+	"sources": [
+		"coingecko"
+	]
+}

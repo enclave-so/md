@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x3Af2dd7B91D8fACECCC26d21a065267817213D37",
+	"symbol": "Ribus",
+	"name": "Ribus",
+	"coingecko": "ribus",
+	"sources": [
+		"coingecko"
+	]
+}

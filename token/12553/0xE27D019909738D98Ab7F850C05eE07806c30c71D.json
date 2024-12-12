@@ -1,0 +1,10 @@
+{
+	"chain": 12553,
+	"address": "0xE27D019909738D98Ab7F850C05eE07806c30c71D",
+	"symbol": "Wrapped RSS3",
+	"name": "Wrapped RSS3",
+	"coingecko": "wrapped-rss3",
+	"sources": [
+		"coingecko"
+	]
+}

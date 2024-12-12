@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xE796d6ca1ceb1b022EcE5296226BF784110031Cd",
+	"symbol": "Blind Boxes",
+	"name": "Blind Boxes",
+	"coingecko": "blind-boxes",
+	"sources": [
+		"coingecko"
+	]
+}

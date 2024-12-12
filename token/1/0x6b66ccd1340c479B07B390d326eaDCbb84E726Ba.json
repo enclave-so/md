@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x6b66ccd1340c479B07B390d326eaDCbb84E726Ba",
+	"symbol": "Seamless Protocol",
+	"name": "Seamless Protocol",
+	"coingecko": "seamless-protocol",
+	"sources": [
+		"coingecko"
+	]
+}

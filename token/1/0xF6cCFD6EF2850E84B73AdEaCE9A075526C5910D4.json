@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xF6cCFD6EF2850E84B73AdEaCE9A075526C5910D4",
+	"symbol": "THE•RUNIX•TOKEN",
+	"name": "THE•RUNIX•TOKEN",
+	"coingecko": "the-runix-token",
+	"sources": [
+		"coingecko"
+	]
+}

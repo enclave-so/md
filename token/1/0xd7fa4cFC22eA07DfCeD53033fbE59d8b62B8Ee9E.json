@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xd7fa4cFC22eA07DfCeD53033fbE59d8b62B8Ee9E",
+	"symbol": "VYPER.WIN",
+	"name": "VYPER.WIN",
+	"coingecko": "vyper-win",
+	"sources": [
+		"coingecko"
+	]
+}

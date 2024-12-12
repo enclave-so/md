@@ -1,0 +1,10 @@
+{
+	"chain": 10000,
+	"address": "0x7b2B3C5308ab5b2a1d9a94d20D35CCDf61e05b72",
+	"symbol": "flexUSD",
+	"name": "flexUSD",
+	"coingecko": "flex-usd",
+	"sources": [
+		"coingecko"
+	]
+}

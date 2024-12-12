@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xe2f2a5C287993345a840Db3B0845fbC70f5935a5",
+	"symbol": "mStable USD",
+	"name": "mStable USD",
+	"coingecko": "musd",
+	"sources": [
+		"coingecko"
+	]
+}

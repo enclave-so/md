@@ -1,0 +1,11 @@
+{
+	"chain": 42161,
+	"address": "0x09ad12552ec45f82bE90B38dFE7b06332A680864",
+	"symbol": "ARBY",
+	"name": "Adamant Token",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/arbitrum/assets/0x09ad12552ec45f82bE90B38dFE7b06332A680864/logo.png",
+	"sources": [
+		"sushiswap"
+	]
+}

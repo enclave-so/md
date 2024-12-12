@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x00000000ea00F3F4000e7Ed5Ed91965b19f1009B",
+	"symbol": "Maia",
+	"name": "Maia",
+	"coingecko": "maia",
+	"sources": [
+		"coingecko"
+	]
+}

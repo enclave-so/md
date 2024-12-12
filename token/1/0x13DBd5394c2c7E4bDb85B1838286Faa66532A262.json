@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x13DBd5394c2c7E4bDb85B1838286Faa66532A262",
+	"symbol": "Sun Tzu",
+	"name": "Sun Tzu",
+	"coingecko": "sun-tzu",
+	"sources": [
+		"coingecko"
+	]
+}

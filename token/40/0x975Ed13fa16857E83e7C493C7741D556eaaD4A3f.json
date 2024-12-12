@@ -1,0 +1,11 @@
+{
+	"chain": 40,
+	"address": "0x975Ed13fa16857E83e7C493C7741D556eaaD4A3f",
+	"symbol": "USDT",
+	"name": "Tether Stable Coin",
+	"decimals": 6,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/telos/0x975Ed13fa16857E83e7C493C7741D556eaaD4A3f.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

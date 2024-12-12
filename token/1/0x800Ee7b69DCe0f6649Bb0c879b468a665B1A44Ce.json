@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x800Ee7b69DCe0f6649Bb0c879b468a665B1A44Ce",
+	"symbol": "Dinari AMC",
+	"name": "Dinari AMC",
+	"coingecko": "dinari-amc",
+	"sources": [
+		"coingecko"
+	]
+}

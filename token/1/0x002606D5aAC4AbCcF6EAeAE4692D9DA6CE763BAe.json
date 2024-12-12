@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x002606D5aAC4AbCcF6EAeAE4692D9DA6CE763BAe",
+	"symbol": "OpenMind",
+	"name": "OpenMind",
+	"coingecko": "openmind",
+	"sources": [
+		"coingecko"
+	]
+}

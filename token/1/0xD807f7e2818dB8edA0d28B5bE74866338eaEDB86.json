@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0xD807f7e2818dB8edA0d28B5bE74866338eaEDB86",
+	"symbol": "jim",
+	"name": "jim",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xD807f7e2818dB8edA0d28B5bE74866338eaEDB86.jpg",
+	"coingecko": "roasthimjim",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

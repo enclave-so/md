@@ -1,0 +1,10 @@
+{
+	"chain": 34443,
+	"address": "0x95177295A394f2b9B04545FFf58f4aF0673E839d",
+	"symbol": "Ironclad Token",
+	"name": "Ironclad Token",
+	"coingecko": "ironclad-token",
+	"sources": [
+		"coingecko"
+	]
+}

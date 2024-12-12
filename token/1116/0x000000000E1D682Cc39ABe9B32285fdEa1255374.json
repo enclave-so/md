@@ -1,0 +1,10 @@
+{
+	"chain": 1116,
+	"address": "0x000000000E1D682Cc39ABe9B32285fdEa1255374",
+	"symbol": "CORE ID",
+	"name": "CORE ID",
+	"coingecko": "core-id",
+	"sources": [
+		"coingecko"
+	]
+}

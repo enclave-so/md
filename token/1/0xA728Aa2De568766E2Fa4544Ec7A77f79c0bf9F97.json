@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xA728Aa2De568766E2Fa4544Ec7A77f79c0bf9F97",
+	"symbol": "JokInTheBox",
+	"name": "JokInTheBox",
+	"coingecko": "jokinthebox",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x9138C8779A0Ac8a84D69617D5715BD8AFa23C650",
+	"symbol": "Floor Cheese Burger",
+	"name": "Floor Cheese Burger",
+	"coingecko": "floor-cheese-burger",
+	"sources": [
+		"coingecko"
+	]
+}

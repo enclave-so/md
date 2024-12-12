@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xc7af7dC0a7a7e47E21eB50433a903d742370fffB",
+	"symbol": "DOGE-1",
+	"name": "DOGE-1",
+	"coingecko": "doge-1-to-the-moon",
+	"sources": [
+		"coingecko"
+	]
+}

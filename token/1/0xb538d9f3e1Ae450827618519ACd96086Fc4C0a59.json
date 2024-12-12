@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xb538d9f3e1Ae450827618519ACd96086Fc4C0a59",
+	"symbol": "GIZMO",
+	"name": "GIZMO",
+	"coingecko": "gizmo",
+	"sources": [
+		"coingecko"
+	]
+}

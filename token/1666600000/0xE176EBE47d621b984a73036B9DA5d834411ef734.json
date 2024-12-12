@@ -1,0 +1,13 @@
+{
+	"chain": 1666600000,
+	"address": "0xE176EBE47d621b984a73036B9DA5d834411ef734",
+	"symbol": "BUSD",
+	"name": "Binance USD",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/busd.jpg",
+	"coingecko": "harmony-horizen-bridged-busd-harmony",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

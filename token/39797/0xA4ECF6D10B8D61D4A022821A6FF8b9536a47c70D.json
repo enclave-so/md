@@ -1,0 +1,10 @@
+{
+	"chain": 39797,
+	"address": "0xA4ECF6D10B8D61D4A022821A6FF8b9536a47c70D",
+	"symbol": "Illuvium",
+	"name": "Illuvium",
+	"coingecko": "illuvium",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x3250577E12b9469915C1Fa3a71C22817Ca44C4D9",
+	"symbol": "Socrates",
+	"name": "Socrates",
+	"coingecko": "socrates",
+	"sources": [
+		"coingecko"
+	]
+}

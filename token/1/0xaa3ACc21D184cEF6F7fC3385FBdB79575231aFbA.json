@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xaa3ACc21D184cEF6F7fC3385FBdB79575231aFbA",
+	"symbol": "HealthSci.AI",
+	"name": "HealthSci.AI",
+	"coingecko": "healthsci-ai",
+	"sources": [
+		"coingecko"
+	]
+}

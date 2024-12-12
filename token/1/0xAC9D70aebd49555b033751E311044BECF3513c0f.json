@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xAC9D70aebd49555b033751E311044BECF3513c0f",
+	"symbol": "Moonland Metaverse Token",
+	"name": "Moonland Metaverse Token",
+	"coingecko": "moonland-metaverse-token",
+	"sources": [
+		"coingecko"
+	]
+}

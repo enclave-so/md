@@ -1,0 +1,10 @@
+{
+	"chain": 111188,
+	"address": "0xc518A88c67CECA8B3f24c4562CB71deeB2AF86B7",
+	"symbol": "LayerZero Bridged USDC (re.al)",
+	"name": "LayerZero Bridged USDC (re.al)",
+	"coingecko": "bridged-usdc-re-al",
+	"sources": [
+		"coingecko"
+	]
+}

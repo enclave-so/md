@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xac87d4Cbb82ce7F4bCF31dBDC0024306cfd3Ec5A",
+	"symbol": "KEI Finance",
+	"name": "KEI Finance",
+	"coingecko": "kei-finance",
+	"sources": [
+		"coingecko"
+	]
+}

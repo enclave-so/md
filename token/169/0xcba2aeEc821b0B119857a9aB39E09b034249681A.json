@@ -1,0 +1,10 @@
+{
+	"chain": 169,
+	"address": "0xcba2aeEc821b0B119857a9aB39E09b034249681A",
+	"symbol": "Accumulated Finance Staked MANTA",
+	"name": "Accumulated Finance Staked MANTA",
+	"coingecko": "accumulated-finance-staked-manta",
+	"sources": [
+		"coingecko"
+	]
+}

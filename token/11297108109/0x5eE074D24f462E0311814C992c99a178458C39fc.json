@@ -1,0 +1,11 @@
+{
+	"chain": 11297108109,
+	"address": "0x5eE074D24f462E0311814C992c99a178458C39fc",
+	"symbol": "PRT",
+	"name": "Portion",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/unknown.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

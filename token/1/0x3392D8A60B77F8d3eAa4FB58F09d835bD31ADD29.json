@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x3392D8A60B77F8d3eAa4FB58F09d835bD31ADD29",
+	"symbol": "IndiGG",
+	"name": "IndiGG",
+	"coingecko": "indigg",
+	"sources": [
+		"coingecko"
+	]
+}

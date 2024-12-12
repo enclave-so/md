@@ -1,0 +1,13 @@
+{
+	"chain": 250,
+	"address": "0xcc1b99dDAc1a33c201a742A1851662E87BC7f22C",
+	"symbol": "USDT",
+	"name": "Tether USD",
+	"decimals": 6,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/fantom/0xcc1b99dDAc1a33c201a742A1851662E87BC7f22C.jpg",
+	"coingecko": "bridged-tether-stargate",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

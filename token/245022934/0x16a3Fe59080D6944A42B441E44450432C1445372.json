@@ -1,0 +1,10 @@
+{
+	"chain": 245022934,
+	"address": "0x16a3Fe59080D6944A42B441E44450432C1445372",
+	"symbol": "Wrapped BTC (Wormhole)",
+	"name": "Wrapped BTC (Wormhole)",
+	"coingecko": "wrapped-btc-wormhole",
+	"sources": [
+		"coingecko"
+	]
+}

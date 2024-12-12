@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0xD77B108d4f6cefaa0Cae9506A934e825BEccA46E",
+	"symbol": "WINR Protocol",
+	"name": "WINR Protocol",
+	"coingecko": "winr-protocol",
+	"sources": [
+		"coingecko"
+	]
+}

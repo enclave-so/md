@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xe635EFcfAc44C5f44508f4d17c3a96CB4Ce421dD",
+	"symbol": "Defispot",
+	"name": "Defispot",
+	"coingecko": "defispot",
+	"sources": [
+		"coingecko"
+	]
+}

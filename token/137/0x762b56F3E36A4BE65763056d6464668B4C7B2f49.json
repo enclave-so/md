@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x762b56F3E36A4BE65763056d6464668B4C7B2f49",
+	"symbol": "PUGGY Coin",
+	"name": "PUGGY Coin",
+	"coingecko": "puggy-coin",
+	"sources": [
+		"coingecko"
+	]
+}

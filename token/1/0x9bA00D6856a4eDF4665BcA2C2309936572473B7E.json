@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x9bA00D6856a4eDF4665BcA2C2309936572473B7E",
+	"symbol": "Aave v1 USDC",
+	"name": "Aave v1 USDC",
+	"coingecko": "aave-usdc-v1",
+	"sources": [
+		"coingecko"
+	]
+}

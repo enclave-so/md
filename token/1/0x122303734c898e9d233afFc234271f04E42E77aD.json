@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x122303734c898e9d233afFc234271f04E42E77aD",
+	"symbol": "Maxwell the spinning cat",
+	"name": "Maxwell the spinning cat",
+	"coingecko": "maxwell-the-spinning-cat",
+	"sources": [
+		"coingecko"
+	]
+}

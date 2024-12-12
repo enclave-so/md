@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xE79feAAA457ad7899357E8E2065a3267aC9eE601",
+	"symbol": "XAYA",
+	"name": "XAYA",
+	"coingecko": "chimaera",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"chain": 137,
+	"address": "0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7",
+	"symbol": "GHST",
+	"name": "Aavegotchi GHST Token",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7/logo.png",
+	"coingecko": "aavegotchi",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xEda8B016efA8b1161208Cf041cD86972eeE0F31E",
+	"symbol": "IHT Real Estate Protocol",
+	"name": "IHT Real Estate Protocol",
+	"coingecko": "iht-real-estate-protocol",
+	"sources": [
+		"coingecko"
+	]
+}

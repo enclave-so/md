@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x8806926Ab68EB5a7b909DcAf6FdBe5d93271D6e2",
+	"symbol": "Uquid Coin",
+	"name": "Uquid Coin",
+	"coingecko": "uquid-coin",
+	"sources": [
+		"coingecko"
+	]
+}

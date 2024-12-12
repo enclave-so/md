@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x3E29793C9BdEB6ce5A84C2BEceD91AD50c530b16",
+	"symbol": "ChainZoom",
+	"name": "ChainZoom",
+	"coingecko": "chainzoom",
+	"sources": [
+		"coingecko"
+	]
+}

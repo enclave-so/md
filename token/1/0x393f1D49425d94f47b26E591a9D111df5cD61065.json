@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x393f1D49425d94f47b26E591a9D111df5cD61065",
+	"symbol": "GUA",
+	"name": "GUA",
+	"coingecko": "gua",
+	"sources": [
+		"coingecko"
+	]
+}

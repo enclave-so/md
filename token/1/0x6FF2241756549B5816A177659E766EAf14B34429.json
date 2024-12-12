@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x6FF2241756549B5816A177659E766EAf14B34429",
+	"symbol": "AQTIS",
+	"name": "AQTIS",
+	"coingecko": "aqtis",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 122,
+	"address": "0xb10eD6E3810c95a380E4f3e448af1755fa3368cf",
+	"symbol": "Affine ultraETHs 2.0 (Fuse)",
+	"name": "Affine ultraETHs 2.0 (Fuse)",
+	"coingecko": "affine-ultraeths-2-0-fuse",
+	"sources": [
+		"coingecko"
+	]
+}

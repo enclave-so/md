@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xc47db7535B063a494F3619317b7633041737C8e9",
+	"symbol": "Shiba Wing",
+	"name": "Shiba Wing",
+	"coingecko": "shiba-wing",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x1001271083C249bd771E1bb76C22D935809a61Ee",
+	"symbol": "Fuku-Kun",
+	"name": "Fuku-Kun",
+	"coingecko": "fuku-kun",
+	"sources": [
+		"coingecko"
+	]
+}

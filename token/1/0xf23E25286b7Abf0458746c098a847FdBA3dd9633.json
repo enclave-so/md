@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xf23E25286b7Abf0458746c098a847FdBA3dd9633",
+	"symbol": "HORUS",
+	"name": "HORUS",
+	"coingecko": "horus",
+	"sources": [
+		"coingecko"
+	]
+}

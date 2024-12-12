@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x73b29199a8e4C146E893EB95f18dAc41738a88c6",
+	"symbol": "Bag.win",
+	"name": "Bag.win",
+	"coingecko": "bag",
+	"sources": [
+		"coingecko"
+	]
+}

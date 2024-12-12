@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xc434268603cA8854e0Be1a3fF15CaD73BD6eC49A",
+	"symbol": "Zapicorn",
+	"name": "Zapicorn",
+	"coingecko": "zapicorn",
+	"sources": [
+		"coingecko"
+	]
+}

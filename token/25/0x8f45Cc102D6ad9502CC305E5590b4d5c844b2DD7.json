@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0x8f45Cc102D6ad9502CC305E5590b4d5c844b2DD7",
+	"symbol": "JUNO",
+	"name": "JUNO",
+	"decimals": 6,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x8f45Cc102D6ad9502CC305E5590b4d5c844b2DD7.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0x55296f69f40Ea6d20E478533C15A6B08B654E758",
+	"symbol": "XYO",
+	"name": "XY Oracle",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x55296f69f40Ea6d20E478533C15A6B08B654E758/logo.png",
+	"coingecko": "xyo-network",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

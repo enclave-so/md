@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x5BECD80848E096D065f27C3b1498553C705C77eD",
+	"symbol": "TaiNet",
+	"name": "TaiNet",
+	"coingecko": "tainet",
+	"sources": [
+		"coingecko"
+	]
+}

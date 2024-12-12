@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x9F7fC686CfD64aA5Ae15b351d03071e91533094b",
+	"symbol": "Trace Network Labs",
+	"name": "Trace Network Labs",
+	"coingecko": "trace-network-labs",
+	"sources": [
+		"coingecko"
+	]
+}

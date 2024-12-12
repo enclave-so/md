@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x40803cEA2b2A32BdA1bE61d3604af6a814E70976",
+	"symbol": "Spool",
+	"name": "Spool",
+	"coingecko": "spool-dao-token",
+	"sources": [
+		"coingecko"
+	]
+}

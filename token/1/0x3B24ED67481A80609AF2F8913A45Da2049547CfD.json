@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x3B24ED67481A80609AF2F8913A45Da2049547CfD",
+	"symbol": "Nodez",
+	"name": "Nodez",
+	"coingecko": "nodez",
+	"sources": [
+		"coingecko"
+	]
+}

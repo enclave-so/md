@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xDDcc69879e1d2376ce799051afa98C689F234ccA",
+	"symbol": "SmartMoney",
+	"name": "SmartMoney",
+	"coingecko": "smartmoney",
+	"sources": [
+		"coingecko"
+	]
+}

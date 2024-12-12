@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x0a907B0bBFF60702b29a36b19718D99253cFBD9F",
+	"symbol": "QLix",
+	"name": "QLix",
+	"coingecko": "qlix",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1907,
+	"address": "0xC8044dAeCC2aBcDD9007D60b3DCFb775029D6554",
+	"symbol": "Food",
+	"name": "Food",
+	"coingecko": "food",
+	"sources": [
+		"coingecko"
+	]
+}

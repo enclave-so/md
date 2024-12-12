@@ -1,0 +1,11 @@
+{
+	"chain": 42161,
+	"address": "0x32e4d98d3010AC12d75019C484cAA78665B03986",
+	"symbol": "GBOT",
+	"name": "GBOT",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x32e4d98d3010AC12d75019C484cAA78665B03986.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

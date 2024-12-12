@@ -1,0 +1,10 @@
+{
+	"chain": 388,
+	"address": "0xC1bF55EE54E16229d9b369a5502Bfe5fC9F20b6d",
+	"symbol": "Wrapped zkCRO",
+	"name": "Wrapped zkCRO",
+	"coingecko": "wrapped-zkcro",
+	"sources": [
+		"coingecko"
+	]
+}

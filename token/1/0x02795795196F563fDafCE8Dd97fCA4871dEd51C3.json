@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x02795795196F563fDafCE8Dd97fCA4871dEd51C3",
+	"symbol": "Winnerz",
+	"name": "Winnerz",
+	"coingecko": "winnerz",
+	"sources": [
+		"coingecko"
+	]
+}

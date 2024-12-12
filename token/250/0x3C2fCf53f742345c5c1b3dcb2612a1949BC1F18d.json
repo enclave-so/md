@@ -1,0 +1,10 @@
+{
+	"chain": 250,
+	"address": "0x3C2fCf53f742345c5c1b3dcb2612a1949BC1F18d",
+	"symbol": "CrossCurve Bridged ETH (Fantom)",
+	"name": "CrossCurve Bridged ETH (Fantom)",
+	"coingecko": "crosscurve-bridged-eth-fantom",
+	"sources": [
+		"coingecko"
+	]
+}

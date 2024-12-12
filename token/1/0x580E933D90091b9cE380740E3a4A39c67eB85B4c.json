@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x580E933D90091b9cE380740E3a4A39c67eB85B4c",
+	"symbol": "GameSwift",
+	"name": "GameSwift",
+	"coingecko": "gameswift",
+	"sources": [
+		"coingecko"
+	]
+}

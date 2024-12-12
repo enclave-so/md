@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x1E354f9Ab5bcC9Fb981f31b794C5fe13F7A89218",
+	"symbol": "Neural Tensor Dynamics",
+	"name": "Neural Tensor Dynamics",
+	"coingecko": "neural-tensor-dynamics",
+	"sources": [
+		"coingecko"
+	]
+}

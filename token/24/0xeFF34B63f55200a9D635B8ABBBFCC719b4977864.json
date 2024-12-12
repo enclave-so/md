@@ -1,0 +1,10 @@
+{
+	"chain": 24,
+	"address": "0xeFF34B63f55200a9D635B8ABBBFCC719b4977864",
+	"symbol": "VNDC",
+	"name": "VNDC",
+	"coingecko": "vndc",
+	"sources": [
+		"coingecko"
+	]
+}

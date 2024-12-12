@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x8D60FB5886497851AaC8c5195006ecf07647ba0D",
+	"symbol": "W3GG",
+	"name": "W3GG",
+	"coingecko": "w3gg",
+	"sources": [
+		"coingecko"
+	]
+}

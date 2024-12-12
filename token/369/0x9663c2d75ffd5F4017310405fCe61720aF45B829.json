@@ -1,0 +1,10 @@
+{
+	"chain": 369,
+	"address": "0x9663c2d75ffd5F4017310405fCe61720aF45B829",
+	"symbol": "PHUX Governance Token",
+	"name": "PHUX Governance Token",
+	"coingecko": "phux-governance-token",
+	"sources": [
+		"coingecko"
+	]
+}

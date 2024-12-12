@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xF239E69ce434c7Fb408b05a0Da416b14917d934e",
+	"symbol": "PolyShield",
+	"name": "PolyShield",
+	"coingecko": "polyshield",
+	"sources": [
+		"coingecko"
+	]
+}

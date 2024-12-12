@@ -1,0 +1,10 @@
+{
+	"chain": 2040,
+	"address": "0x3F59B60748f001bd53cb96A81F148e438227B0F4",
+	"symbol": "Wrapped Vanry",
+	"name": "Wrapped Vanry",
+	"coingecko": "wrapped-vanry",
+	"sources": [
+		"coingecko"
+	]
+}

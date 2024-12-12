@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x5c59D7Cb794471a9633391c4927ADe06B8787a90",
+	"symbol": "Timeleap Finance",
+	"name": "Timeleap Finance",
+	"coingecko": "timeleap-finance",
+	"sources": [
+		"coingecko"
+	]
+}

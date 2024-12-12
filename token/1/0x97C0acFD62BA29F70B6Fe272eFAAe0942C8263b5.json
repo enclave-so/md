@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x97C0acFD62BA29F70B6Fe272eFAAe0942C8263b5",
+	"symbol": "Lender Network",
+	"name": "Lender Network",
+	"coingecko": "lender-network",
+	"sources": [
+		"coingecko"
+	]
+}

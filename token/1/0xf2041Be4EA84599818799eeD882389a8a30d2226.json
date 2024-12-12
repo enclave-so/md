@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xf2041Be4EA84599818799eeD882389a8a30d2226",
+	"symbol": "NeuralBot",
+	"name": "NeuralBot",
+	"coingecko": "neuralbot",
+	"sources": [
+		"coingecko"
+	]
+}

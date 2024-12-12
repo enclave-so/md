@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x189586b5f6317538ae50c20a976597Da38984A24",
+	"symbol": "ChainPort",
+	"name": "ChainPort",
+	"coingecko": "chainport",
+	"sources": [
+		"coingecko"
+	]
+}

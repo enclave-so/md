@@ -1,0 +1,10 @@
+{
+	"chain": 1666600000,
+	"address": "0x4f529873288668815d66EDa11314F719b23Dd846",
+	"symbol": "CougarSwap",
+	"name": "CougarSwap",
+	"coingecko": "cougar-token",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x6942016B8DE9d18a5831EEda915e48B27Cc8E23D",
+	"symbol": "Pickle",
+	"name": "Pickle",
+	"coingecko": "pickle-2",
+	"sources": [
+		"coingecko"
+	]
+}

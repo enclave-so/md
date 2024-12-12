@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0xAAA6C1E32C55A7Bfa8066A6FAE9b42650F262418",
+	"symbol": "Ramses Exchange",
+	"name": "Ramses Exchange",
+	"coingecko": "ramses-exchange",
+	"sources": [
+		"coingecko"
+	]
+}

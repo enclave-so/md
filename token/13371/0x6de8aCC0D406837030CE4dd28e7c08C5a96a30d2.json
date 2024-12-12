@@ -1,0 +1,10 @@
+{
+	"chain": 13371,
+	"address": "0x6de8aCC0D406837030CE4dd28e7c08C5a96a30d2",
+	"symbol": "Bridged USDC (Immutable zkEVM)",
+	"name": "Bridged USDC (Immutable zkEVM)",
+	"coingecko": "bridged-usdc-immutable-zkevm",
+	"sources": [
+		"coingecko"
+	]
+}

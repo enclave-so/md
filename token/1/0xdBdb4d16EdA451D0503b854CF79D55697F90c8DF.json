@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0xdBdb4d16EdA451D0503b854CF79D55697F90c8DF",
+	"symbol": "ALCX",
+	"name": "Alchemix",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/alcx.jpg",
+	"coingecko": "alchemix",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x19AF07B52E5FAa0C2B1e11721c52AA23172fe2F5",
+	"symbol": "Memes Street",
+	"name": "Memes Street",
+	"coingecko": "memes-street",
+	"sources": [
+		"coingecko"
+	]
+}

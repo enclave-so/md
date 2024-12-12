@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x0c8C8Ae8bc3a69dC8482C01CEacfB588bb516B01",
+	"symbol": "AuroraToken",
+	"name": "AuroraToken",
+	"coingecko": "auroratoken",
+	"sources": [
+		"coingecko"
+	]
+}

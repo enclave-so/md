@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x32fd949E1953b21b7a8232EF4259Cd708B4e0847",
+	"symbol": "HyperBC",
+	"name": "HyperBC",
+	"coingecko": "hyperbc",
+	"sources": [
+		"coingecko"
+	]
+}

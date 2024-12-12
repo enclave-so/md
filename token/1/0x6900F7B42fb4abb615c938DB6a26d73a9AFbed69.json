@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x6900F7B42fb4abb615c938DB6a26d73a9AFbed69",
+	"symbol": "US Degen Index 6900",
+	"name": "US Degen Index 6900",
+	"coingecko": "us-degen-index-6900",
+	"sources": [
+		"coingecko"
+	]
+}

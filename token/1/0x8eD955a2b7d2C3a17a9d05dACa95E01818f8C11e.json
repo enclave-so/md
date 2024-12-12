@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x8eD955a2b7d2C3a17a9d05dACa95E01818f8C11e",
+	"symbol": "APF coin",
+	"name": "APF coin",
+	"coingecko": "apf-coin",
+	"sources": [
+		"coingecko"
+	]
+}

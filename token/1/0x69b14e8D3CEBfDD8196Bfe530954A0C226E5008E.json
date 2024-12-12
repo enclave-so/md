@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x69b14e8D3CEBfDD8196Bfe530954A0C226E5008E",
+	"symbol": "SpacePi Token",
+	"name": "SpacePi Token",
+	"coingecko": "spacepi-token",
+	"sources": [
+		"coingecko"
+	]
+}

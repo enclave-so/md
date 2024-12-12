@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xe304283C3e60Cefaf7eA514007Cf4E8fdC3d869d",
+	"symbol": "Gecoin",
+	"name": "Gecoin",
+	"coingecko": "gecoin",
+	"sources": [
+		"coingecko"
+	]
+}

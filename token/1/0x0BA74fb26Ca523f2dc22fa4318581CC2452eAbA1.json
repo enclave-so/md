@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x0BA74fb26Ca523f2dc22fa4318581CC2452eAbA1",
+	"symbol": "Bogdanoff",
+	"name": "Bogdanoff",
+	"coingecko": "bogdanoff",
+	"sources": [
+		"coingecko"
+	]
+}

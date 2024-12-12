@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xE8B1e79D937c648Ce1fE96e6739ddb2714058a18",
+	"symbol": "ColonizeMars",
+	"name": "ColonizeMars",
+	"coingecko": "colonizemars",
+	"sources": [
+		"coingecko"
+	]
+}

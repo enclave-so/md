@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x408A634B8a8f0dE729B48574a3a7Ec3fE820B00A",
+	"symbol": "Franklin OnChain U.S. Government Money Fund",
+	"name": "Franklin OnChain U.S. Government Money Fund",
+	"coingecko": "franklin-onchain-u-s-government-money-fund",
+	"sources": [
+		"coingecko"
+	]
+}

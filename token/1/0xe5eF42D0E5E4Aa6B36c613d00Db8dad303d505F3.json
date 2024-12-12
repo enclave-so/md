@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xe5eF42D0E5E4Aa6B36c613d00Db8dad303d505F3",
+	"symbol": "BTour Chain",
+	"name": "BTour Chain",
+	"coingecko": "btour-chain",
+	"sources": [
+		"coingecko"
+	]
+}

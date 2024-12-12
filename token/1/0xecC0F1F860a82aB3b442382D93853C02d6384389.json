@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xecC0F1F860a82aB3b442382D93853C02d6384389",
+	"symbol": "Axis DeFi",
+	"name": "Axis DeFi",
+	"coingecko": "axis-defi",
+	"sources": [
+		"coingecko"
+	]
+}

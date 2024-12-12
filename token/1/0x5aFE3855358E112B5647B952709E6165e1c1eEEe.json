@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0x5aFE3855358E112B5647B952709E6165e1c1eEEe",
+	"symbol": "SAFE",
+	"name": "Safe Token",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x5aFE3855358E112B5647B952709E6165e1c1eEEe.jpg",
+	"coingecko": "safe",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

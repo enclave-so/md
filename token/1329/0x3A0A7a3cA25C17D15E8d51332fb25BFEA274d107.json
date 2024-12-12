@@ -1,0 +1,10 @@
+{
+	"chain": 1329,
+	"address": "0x3A0A7a3cA25C17D15E8d51332fb25BFEA274d107",
+	"symbol": "Seipex Credits",
+	"name": "Seipex Credits",
+	"coingecko": "seipex-credits",
+	"sources": [
+		"coingecko"
+	]
+}

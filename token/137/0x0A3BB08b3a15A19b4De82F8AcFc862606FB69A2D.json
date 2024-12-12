@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x0A3BB08b3a15A19b4De82F8AcFc862606FB69A2D",
+	"symbol": "iZUMi Bond USD",
+	"name": "iZUMi Bond USD",
+	"coingecko": "izumi-bond-usd",
+	"sources": [
+		"coingecko"
+	]
+}

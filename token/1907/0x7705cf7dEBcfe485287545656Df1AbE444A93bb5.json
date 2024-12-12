@@ -1,0 +1,10 @@
+{
+	"chain": 1907,
+	"address": "0x7705cf7dEBcfe485287545656Df1AbE444A93bb5",
+	"symbol": "Crypto Network",
+	"name": "Crypto Network",
+	"coingecko": "crypto-network",
+	"sources": [
+		"coingecko"
+	]
+}

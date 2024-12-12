@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0xB4E667FE769F36117bc259E05435c906EF4c1EeC",
+	"symbol": "AXL",
+	"name": "Axelar",
+	"decimals": 6,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xB4E667FE769F36117bc259E05435c906EF4c1EeC.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

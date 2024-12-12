@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0x62E622fa4E180C391f2E089FC1d5eA7AdCB96575",
+	"symbol": "KRL",
+	"name": "KRL",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x62E622fa4E180C391f2E089FC1d5eA7AdCB96575.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

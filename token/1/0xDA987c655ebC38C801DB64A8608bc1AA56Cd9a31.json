@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xDA987c655ebC38C801DB64A8608bc1AA56Cd9a31",
+	"symbol": "Synternet",
+	"name": "Synternet",
+	"coingecko": "synternet-synt",
+	"sources": [
+		"coingecko"
+	]
+}

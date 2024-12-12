@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0x99D8a9C45b2ecA8864373A26D1459e3Dff1e17F3",
+	"symbol": "MIM",
+	"name": "Magic Internet Money",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/mim.jpg",
+	"coingecko": "magic-internet-money",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

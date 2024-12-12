@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x8dF723295214Ea6f21026eeEb4382d475f146F9f",
+	"symbol": "Quantoz EURQ",
+	"name": "Quantoz EURQ",
+	"coingecko": "quantoz-eurq",
+	"sources": [
+		"coingecko"
+	]
+}

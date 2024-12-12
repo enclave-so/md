@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0xaaE0c3856e665ff9b3E2872B6D75939D810b7E40",
+	"symbol": "YieldFarming Index",
+	"name": "YieldFarming Index",
+	"coingecko": "yieldfarming-index",
+	"sources": [
+		"coingecko"
+	]
+}

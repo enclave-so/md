@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xaCd4E2d936Be9B16c01848A3742A34B3D5A5bDfa",
+	"symbol": "Mechanium",
+	"name": "Mechanium",
+	"coingecko": "mechachain",
+	"sources": [
+		"coingecko"
+	]
+}

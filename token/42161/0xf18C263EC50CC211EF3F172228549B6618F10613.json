@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0xf18C263EC50CC211EF3F172228549B6618F10613",
+	"symbol": "Collab.Land",
+	"name": "Collab.Land",
+	"coingecko": "collab-land",
+	"sources": [
+		"coingecko"
+	]
+}

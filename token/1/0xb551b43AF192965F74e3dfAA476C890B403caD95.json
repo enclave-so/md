@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xb551b43AF192965F74e3dfAA476C890B403caD95",
+	"symbol": "DataBot",
+	"name": "DataBot",
+	"coingecko": "data-bot",
+	"sources": [
+		"coingecko"
+	]
+}

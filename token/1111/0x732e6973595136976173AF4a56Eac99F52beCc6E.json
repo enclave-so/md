@@ -1,0 +1,10 @@
+{
+	"chain": 1111,
+	"address": "0x732e6973595136976173AF4a56Eac99F52beCc6E",
+	"symbol": "MORION",
+	"name": "MORION",
+	"coingecko": "morion",
+	"sources": [
+		"coingecko"
+	]
+}

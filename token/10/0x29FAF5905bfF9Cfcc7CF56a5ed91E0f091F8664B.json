@@ -1,0 +1,10 @@
+{
+	"chain": 10,
+	"address": "0x29FAF5905bfF9Cfcc7CF56a5ed91E0f091F8664B",
+	"symbol": "Bankless DAO",
+	"name": "Bankless DAO",
+	"coingecko": "bankless-dao",
+	"sources": [
+		"coingecko"
+	]
+}

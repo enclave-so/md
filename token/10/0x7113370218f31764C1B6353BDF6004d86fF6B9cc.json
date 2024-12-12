@@ -1,0 +1,11 @@
+{
+	"chain": 10,
+	"address": "0x7113370218f31764C1B6353BDF6004d86fF6B9cc",
+	"symbol": "USDD",
+	"name": "Decentralized USD",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/USDD/logo.png",
+	"sources": [
+		"sushiswap"
+	]
+}

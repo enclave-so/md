@@ -1,0 +1,10 @@
+{
+	"chain": 1088,
+	"address": "0x721532bC0dA5ffaeB0a6A45fB24271E8098629A7",
+	"symbol": "BinaryDAO",
+	"name": "BinaryDAO",
+	"coingecko": "binarydao",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0xAFE470AE215e48c144c7158EAe3CcF0C451cb0CB",
+	"symbol": "NEAR",
+	"name": "NEAR",
+	"decimals": 24,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xAFE470AE215e48c144c7158EAe3CcF0C451cb0CB.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

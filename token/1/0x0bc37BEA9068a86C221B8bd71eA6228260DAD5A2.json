@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x0bc37BEA9068a86C221B8bd71eA6228260DAD5A2",
+	"symbol": "Upland",
+	"name": "Upland",
+	"coingecko": "upland",
+	"sources": [
+		"coingecko"
+	]
+}

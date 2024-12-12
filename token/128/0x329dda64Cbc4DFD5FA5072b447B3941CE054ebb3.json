@@ -1,0 +1,11 @@
+{
+	"chain": 128,
+	"address": "0x329dda64Cbc4DFD5FA5072b447B3941CE054ebb3",
+	"symbol": "SWFTC",
+	"name": "Heco-Peg SWFTC Token",
+	"decimals": 8,
+	"logo": "https://hecoinfo.com/images/main/empty-token.png",
+	"sources": [
+		"sushiswap"
+	]
+}

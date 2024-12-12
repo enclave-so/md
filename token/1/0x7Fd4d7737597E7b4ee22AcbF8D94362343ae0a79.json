@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x7Fd4d7737597E7b4ee22AcbF8D94362343ae0a79",
+	"symbol": "Wrapped MistCoin",
+	"name": "Wrapped MistCoin",
+	"coingecko": "wrapped-mistcoin",
+	"sources": [
+		"coingecko"
+	]
+}

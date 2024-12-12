@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x25cBB21A9dA7C3C63bb77CCCa5B2E2482AEdB710",
+	"symbol": "Honey Badger",
+	"name": "Honey Badger",
+	"coingecko": "honey-badger-2",
+	"sources": [
+		"coingecko"
+	]
+}

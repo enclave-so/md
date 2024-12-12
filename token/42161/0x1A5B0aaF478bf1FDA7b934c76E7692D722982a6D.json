@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x1A5B0aaF478bf1FDA7b934c76E7692D722982a6D",
+	"symbol": "Buffer Token",
+	"name": "Buffer Token",
+	"coingecko": "ibuffer-token",
+	"sources": [
+		"coingecko"
+	]
+}

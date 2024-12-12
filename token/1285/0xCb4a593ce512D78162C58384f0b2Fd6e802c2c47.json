@@ -1,0 +1,11 @@
+{
+	"chain": 1285,
+	"address": "0xCb4a593ce512D78162C58384f0b2Fd6e802c2c47",
+	"symbol": "BEPRO",
+	"name": "BEPRO Network",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/moonriver/assets/0xCb4a593ce512D78162C58384f0b2Fd6e802c2c47/logo.png",
+	"sources": [
+		"sushiswap"
+	]
+}

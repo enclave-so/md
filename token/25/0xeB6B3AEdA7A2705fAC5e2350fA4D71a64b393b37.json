@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0xeB6B3AEdA7A2705fAC5e2350fA4D71a64b393b37",
+	"symbol": "AR",
+	"name": "Arweave",
+	"decimals": 12,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xeB6B3AEdA7A2705fAC5e2350fA4D71a64b393b37.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

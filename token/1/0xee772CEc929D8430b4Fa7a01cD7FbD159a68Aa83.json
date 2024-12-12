@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xee772CEc929D8430b4Fa7a01cD7FbD159a68Aa83",
+	"symbol": "Shanghai Inu",
+	"name": "Shanghai Inu",
+	"coingecko": "shanghai-inu",
+	"sources": [
+		"coingecko"
+	]
+}

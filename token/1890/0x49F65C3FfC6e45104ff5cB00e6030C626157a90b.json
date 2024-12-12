@@ -1,0 +1,10 @@
+{
+	"chain": 1890,
+	"address": "0x49F65C3FfC6e45104ff5cB00e6030C626157a90b",
+	"symbol": "Bridged Dai (Lightlink)",
+	"name": "Bridged Dai (Lightlink)",
+	"coingecko": "bridged-dai-lightlink",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"chain": 128,
+	"address": "0x96674f8da3F9c6ACb4A56b393AF9A490D70D16d0",
+	"symbol": "SKM",
+	"name": "Heco-Peg SKM Token",
+	"decimals": 18,
+	"logo": "https://hecoinfo.com/images/main/empty-token.png",
+	"sources": [
+		"sushiswap"
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0x459086F2376525BdCebA5bDDA135e4E9d3FeF5bf",
+	"symbol": "renBCH",
+	"name": "renBCH",
+	"decimals": 8,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/renbch.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1666600000,
+	"address": "0xA52D0c7943cc1020A926B23dd1c64Fc60b4fadDe",
+	"symbol": "Abyss",
+	"name": "Abyss",
+	"coingecko": "the-abyss",
+	"sources": [
+		"coingecko"
+	]
+}

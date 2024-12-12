@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x51C601dC278EB2CFea8e52c4caA35B3d6a9A2c26",
+	"symbol": "Chainge",
+	"name": "Chainge",
+	"coingecko": "chainge-finance",
+	"sources": [
+		"coingecko"
+	]
+}

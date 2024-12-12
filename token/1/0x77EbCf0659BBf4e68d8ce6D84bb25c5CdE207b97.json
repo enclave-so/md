@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x77EbCf0659BBf4e68d8ce6D84bb25c5CdE207b97",
+	"symbol": "MOOxMOO",
+	"name": "MOOxMOO",
+	"coingecko": "mooxmoo",
+	"sources": [
+		"coingecko"
+	]
+}

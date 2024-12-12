@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x2297aEbD383787A160DD0d9F71508148769342E3",
+	"symbol": "Avalanche Bridged BTC (Arbitrum One)",
+	"name": "Avalanche Bridged BTC (Arbitrum One)",
+	"coingecko": "avalanche-bridged-btc-arbitrum-one",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"chain": 122,
+	"address": "0x495d133B938596C9984d462F007B676bDc57eCEC",
+	"symbol": "G$",
+	"name": "GoodDollar",
+	"decimals": 2,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/fuse/0x495d133B938596C9984d462F007B676bDc57eCEC.jpg",
+	"coingecko": "gooddollar",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

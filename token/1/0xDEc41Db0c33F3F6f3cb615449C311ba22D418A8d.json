@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0xDEc41Db0c33F3F6f3cb615449C311ba22D418A8d",
+	"symbol": "LOBI",
+	"name": "Lobi",
+	"decimals": 9,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xDEc41Db0c33F3F6f3cb615449C311ba22D418A8d.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

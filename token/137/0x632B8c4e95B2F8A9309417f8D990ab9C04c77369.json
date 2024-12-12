@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x632B8c4e95B2F8A9309417f8D990ab9C04c77369",
+	"symbol": "Weble Ecosystem",
+	"name": "Weble Ecosystem",
+	"coingecko": "weble-ecosystem-token",
+	"sources": [
+		"coingecko"
+	]
+}

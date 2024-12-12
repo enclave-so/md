@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xa1b014878D47c0836eD79163ddec55985AdB7023",
+	"symbol": "Dog Food Token",
+	"name": "Dog Food Token",
+	"coingecko": "dog-food-token",
+	"sources": [
+		"coingecko"
+	]
+}

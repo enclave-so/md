@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x8484E645a054586A6D6AF60c0ee911d7B5180E64",
+	"symbol": "DYOR",
+	"name": "DYOR",
+	"coingecko": "dyor-token-2",
+	"sources": [
+		"coingecko"
+	]
+}

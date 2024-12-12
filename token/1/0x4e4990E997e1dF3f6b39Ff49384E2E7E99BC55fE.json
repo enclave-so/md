@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x4e4990E997e1dF3f6b39Ff49384E2E7E99BC55fE",
+	"symbol": "Saudi Bonk",
+	"name": "Saudi Bonk",
+	"coingecko": "saudi-bonk",
+	"sources": [
+		"coingecko"
+	]
+}

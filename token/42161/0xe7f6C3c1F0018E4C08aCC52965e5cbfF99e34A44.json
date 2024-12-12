@@ -1,0 +1,13 @@
+{
+	"chain": 42161,
+	"address": "0xe7f6C3c1F0018E4C08aCC52965e5cbfF99e34A44",
+	"symbol": "plsJONES",
+	"name": "Plutus JONES",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xe7f6C3c1F0018E4C08aCC52965e5cbfF99e34A44.jpg",
+	"coingecko": "plsjones",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

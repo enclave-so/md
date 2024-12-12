@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x0BBF664D46becc28593368c97236FAa0fb397595",
+	"symbol": "KNOX Dollar",
+	"name": "KNOX Dollar",
+	"coingecko": "knox-dollar",
+	"sources": [
+		"coingecko"
+	]
+}

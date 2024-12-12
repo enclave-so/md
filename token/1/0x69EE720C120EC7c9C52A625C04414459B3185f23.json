@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x69EE720C120EC7c9C52A625C04414459B3185f23",
+	"symbol": "Young Peezy",
+	"name": "Young Peezy",
+	"coingecko": "young-peezy-2",
+	"sources": [
+		"coingecko"
+	]
+}

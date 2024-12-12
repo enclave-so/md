@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x35Ec69A77B79c255e5d47D5A3BdbEFEfE342630c",
+	"symbol": "YieldNest Restaked LSD - Eigenlayer",
+	"name": "YieldNest Restaked LSD - Eigenlayer",
+	"coingecko": "yieldnest-restaked-lsd-eigenlayer",
+	"sources": [
+		"coingecko"
+	]
+}

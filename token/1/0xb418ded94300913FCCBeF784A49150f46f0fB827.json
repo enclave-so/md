@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xb418ded94300913FCCBeF784A49150f46f0fB827",
+	"symbol": "TERRIER [OLD]",
+	"name": "TERRIER [OLD]",
+	"coingecko": "terrier",
+	"sources": [
+		"coingecko"
+	]
+}

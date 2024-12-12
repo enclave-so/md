@@ -1,0 +1,10 @@
+{
+	"chain": 39797,
+	"address": "0xb506a79b296b78965F0a5C15e1474B026C23d9FA",
+	"symbol": "Loom Network (NEW)",
+	"name": "Loom Network (NEW)",
+	"coingecko": "loom-network-new",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x6afCFF9189e8ed3fCc1CFfa184FEB1276f6A82A5",
+	"symbol": "PolkaPet World",
+	"name": "PolkaPet World",
+	"coingecko": "polkapet-world",
+	"sources": [
+		"coingecko"
+	]
+}

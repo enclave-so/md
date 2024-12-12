@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0xA37b89C9fcdeE564b95d5cE6cE6D90Ad1038Ee92",
+	"symbol": "LDO",
+	"name": "Lido DAO Token",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xA37b89C9fcdeE564b95d5cE6cE6D90Ad1038Ee92.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

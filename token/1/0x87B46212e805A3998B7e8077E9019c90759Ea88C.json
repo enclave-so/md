@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x87B46212e805A3998B7e8077E9019c90759Ea88C",
+	"symbol": "AgoraHub",
+	"name": "AgoraHub",
+	"coingecko": "agorahub",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 369,
+	"address": "0x9F8182aD65c53Fd78bd07648a1b3DDcB675c6772",
+	"symbol": "Daytona Finance",
+	"name": "Daytona Finance",
+	"coingecko": "daytona-finance",
+	"sources": [
+		"coingecko"
+	]
+}

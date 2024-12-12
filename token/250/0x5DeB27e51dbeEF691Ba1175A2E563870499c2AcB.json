@@ -1,0 +1,10 @@
+{
+	"chain": 250,
+	"address": "0x5DeB27e51dbeEF691Ba1175A2E563870499c2AcB",
+	"symbol": "MillenniumClub Coin [NEW]",
+	"name": "MillenniumClub Coin [NEW]",
+	"coingecko": "millenniumclub-coin-new",
+	"sources": [
+		"coingecko"
+	]
+}

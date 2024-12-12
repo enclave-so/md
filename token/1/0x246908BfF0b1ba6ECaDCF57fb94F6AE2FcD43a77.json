@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x246908BfF0b1ba6ECaDCF57fb94F6AE2FcD43a77",
+	"symbol": "Divi",
+	"name": "Divi",
+	"coingecko": "divi",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 324,
+	"address": "0xc8Ec5B0627C794de0e4ea5d97AD9A556B361d243",
+	"symbol": "Whisper",
+	"name": "Whisper",
+	"coingecko": "whisper",
+	"sources": [
+		"coingecko"
+	]
+}

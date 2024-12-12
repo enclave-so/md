@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xF10Da48D4aaA8D784C5E369Cb998E263cfE32AA8",
+	"symbol": "B-MONEY",
+	"name": "B-MONEY",
+	"coingecko": "b-money",
+	"sources": [
+		"coingecko"
+	]
+}

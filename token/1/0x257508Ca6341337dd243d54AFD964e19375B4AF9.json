@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x257508Ca6341337dd243d54AFD964e19375B4AF9",
+	"symbol": "Oracle Tools",
+	"name": "Oracle Tools",
+	"coingecko": "oracle-tools",
+	"sources": [
+		"coingecko"
+	]
+}

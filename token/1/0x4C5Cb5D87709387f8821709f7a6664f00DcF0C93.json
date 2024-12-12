@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x4C5Cb5D87709387f8821709f7a6664f00DcF0C93",
+	"symbol": "Raft",
+	"name": "Raft",
+	"coingecko": "raft",
+	"sources": [
+		"coingecko"
+	]
+}

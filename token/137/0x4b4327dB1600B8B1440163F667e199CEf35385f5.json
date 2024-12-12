@@ -1,0 +1,13 @@
+{
+	"chain": 137,
+	"address": "0x4b4327dB1600B8B1440163F667e199CEf35385f5",
+	"symbol": "fxcbETH",
+	"name": "Coinbase Wrapped Staked ETH (FXERC20)",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x4b4327dB1600B8B1440163F667e199CEf35385f5.jpg",
+	"coingecko": "coinbase-wrapped-staked-eth",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

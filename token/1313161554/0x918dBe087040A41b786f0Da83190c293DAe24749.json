@@ -1,0 +1,10 @@
+{
+	"chain": 1313161554,
+	"address": "0x918dBe087040A41b786f0Da83190c293DAe24749",
+	"symbol": "LiNEAR Protocol Staked NEAR",
+	"name": "LiNEAR Protocol Staked NEAR",
+	"coingecko": "linear-protocol",
+	"sources": [
+		"coingecko"
+	]
+}

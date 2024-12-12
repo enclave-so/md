@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xfE18be6b3Bd88A2D2A7f928d00292E7a9963CfC6",
+	"symbol": "sBTC",
+	"name": "sBTC",
+	"coingecko": "sbtc",
+	"sources": [
+		"coingecko"
+	]
+}

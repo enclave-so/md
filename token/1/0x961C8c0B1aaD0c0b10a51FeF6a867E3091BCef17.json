@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x961C8c0B1aaD0c0b10a51FeF6a867E3091BCef17",
+	"symbol": "Dypius [OLD]",
+	"name": "Dypius [OLD]",
+	"coingecko": "defi-yield-protocol",
+	"sources": [
+		"coingecko"
+	]
+}

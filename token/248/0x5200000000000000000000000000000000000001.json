@@ -1,0 +1,10 @@
+{
+	"chain": 248,
+	"address": "0x5200000000000000000000000000000000000001",
+	"symbol": "Wrapped OAS",
+	"name": "Wrapped OAS",
+	"coingecko": "wrapped-oas",
+	"sources": [
+		"coingecko"
+	]
+}

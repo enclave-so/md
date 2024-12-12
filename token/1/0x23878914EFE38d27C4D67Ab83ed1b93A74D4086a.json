@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x23878914EFE38d27C4D67Ab83ed1b93A74D4086a",
+	"symbol": "Aave v3 USDT",
+	"name": "Aave v3 USDT",
+	"coingecko": "aave-v3-usdt",
+	"sources": [
+		"coingecko"
+	]
+}

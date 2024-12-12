@@ -1,0 +1,10 @@
+{
+	"chain": 169,
+	"address": "0x2FE3AD97a60EB7c79A976FC18Bb5fFD07Dd94BA5",
+	"symbol": "Bridged Wrapped stETH (Manta Pacific)",
+	"name": "Bridged Wrapped stETH (Manta Pacific)",
+	"coingecko": "bridged-wrapped-steth-manta-pacific",
+	"sources": [
+		"coingecko"
+	]
+}

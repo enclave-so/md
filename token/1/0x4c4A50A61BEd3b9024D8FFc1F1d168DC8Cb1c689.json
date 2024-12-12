@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x4c4A50A61BEd3b9024D8FFc1F1d168DC8Cb1c689",
+	"symbol": "The Blu Arctic Water Comp",
+	"name": "The Blu Arctic Water Comp",
+	"coingecko": "the-blu-arctic-water-comp",
+	"sources": [
+		"coingecko"
+	]
+}

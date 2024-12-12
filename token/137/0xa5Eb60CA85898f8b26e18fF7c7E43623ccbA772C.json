@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xa5Eb60CA85898f8b26e18fF7c7E43623ccbA772C",
+	"symbol": "CosmicSwap",
+	"name": "CosmicSwap",
+	"coingecko": "cosmicswap",
+	"sources": [
+		"coingecko"
+	]
+}

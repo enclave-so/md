@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x240D6FAF8c3B1A7394e371792A3bf9D28DD65515",
+	"symbol": "Brett (ETH)",
+	"name": "Brett (ETH)",
+	"coingecko": "brett-memecoin",
+	"sources": [
+		"coingecko"
+	]
+}

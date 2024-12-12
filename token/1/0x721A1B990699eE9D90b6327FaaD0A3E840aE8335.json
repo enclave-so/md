@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x721A1B990699eE9D90b6327FaaD0A3E840aE8335",
+	"symbol": "Lootex",
+	"name": "Lootex",
+	"coingecko": "loot",
+	"sources": [
+		"coingecko"
+	]
+}

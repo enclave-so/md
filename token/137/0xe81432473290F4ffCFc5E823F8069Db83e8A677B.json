@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xe81432473290F4ffCFc5E823F8069Db83e8A677B",
+	"symbol": "CREPE",
+	"name": "CREPE",
+	"coingecko": "crepe",
+	"sources": [
+		"coingecko"
+	]
+}

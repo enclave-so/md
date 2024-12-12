@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x4b019AAa21e98E212D31e54C843E73ff34d25717",
+	"symbol": "TUX Project",
+	"name": "TUX Project",
+	"coingecko": "tux-project",
+	"sources": [
+		"coingecko"
+	]
+}

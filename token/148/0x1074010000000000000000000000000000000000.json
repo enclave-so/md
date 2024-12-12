@@ -1,0 +1,10 @@
+{
+	"chain": 148,
+	"address": "0x1074010000000000000000000000000000000000",
+	"symbol": "Shimmer",
+	"name": "Shimmer",
+	"coingecko": "shimmer",
+	"sources": [
+		"coingecko"
+	]
+}

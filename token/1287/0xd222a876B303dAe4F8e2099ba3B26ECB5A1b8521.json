@@ -1,0 +1,11 @@
+{
+	"chain": 1287,
+	"address": "0xd222a876B303dAe4F8e2099ba3B26ECB5A1b8521",
+	"symbol": "ERC20S",
+	"name": "Custom ERC20 Token",
+	"decimals": 18,
+	"logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/6836.png",
+	"sources": [
+		"sushiswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x0Cf0Ee63788A0849fE5297F3407f701E122cC023",
+	"symbol": "Streamr XDATA",
+	"name": "Streamr XDATA",
+	"coingecko": "streamr-xdata",
+	"sources": [
+		"coingecko"
+	]
+}

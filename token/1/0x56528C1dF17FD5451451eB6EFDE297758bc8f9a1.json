@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x56528C1dF17FD5451451eB6EFDE297758bc8f9a1",
+	"symbol": "Aktionariat Alan Frei Company Tokenized Shares",
+	"name": "Aktionariat Alan Frei Company Tokenized Shares",
+	"coingecko": "aktionariat-alan-frei-company-tokenized-shares",
+	"sources": [
+		"coingecko"
+	]
+}

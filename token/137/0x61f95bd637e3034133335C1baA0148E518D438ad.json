@@ -1,0 +1,13 @@
+{
+	"chain": 137,
+	"address": "0x61f95bd637e3034133335C1baA0148E518D438ad",
+	"symbol": "MHUNT",
+	"name": "MetaShooter",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x61f95bd637e3034133335C1baA0148E518D438ad.jpg",
+	"coingecko": "metashooter",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x3106E2e148525b3DB36795b04691D444c24972fB",
+	"symbol": "Wrapped Staked LINK",
+	"name": "Wrapped Staked LINK",
+	"coingecko": "wrapped-staked-link",
+	"sources": [
+		"coingecko"
+	]
+}

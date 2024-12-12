@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xae4533189C7281501F04bA4b7c37e3ADeD402902",
+	"symbol": "World Friendship Cash",
+	"name": "World Friendship Cash",
+	"coingecko": "wfca",
+	"sources": [
+		"coingecko"
+	]
+}

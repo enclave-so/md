@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0x2F712E0a6f92e3f865EaEb86f07BAFc67974d26c",
+	"symbol": "BAT",
+	"name": "Basic Attention Token",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x2F712E0a6f92e3f865EaEb86f07BAFc67974d26c.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

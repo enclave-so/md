@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xFf76c0B48363A7C7307868a81548d340049b0023",
+	"symbol": "Derby Stars RUN",
+	"name": "Derby Stars RUN",
+	"coingecko": "derby-stars-run",
+	"sources": [
+		"coingecko"
+	]
+}

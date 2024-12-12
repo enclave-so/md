@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x0c21638d4BCB88568f88Bc84a50E317715f8De8a",
+	"symbol": "GrokDogeX",
+	"name": "GrokDogeX",
+	"coingecko": "grokdogex",
+	"sources": [
+		"coingecko"
+	]
+}

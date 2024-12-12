@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x2C2D8a078B33bf7782a16AcCE2C5BA6653a90D5f",
+	"symbol": "L3USD",
+	"name": "L3USD",
+	"coingecko": "l3usd",
+	"sources": [
+		"coingecko"
+	]
+}

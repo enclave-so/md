@@ -1,0 +1,11 @@
+{
+	"chain": 100,
+	"address": "0xDF613aF6B44a31299E48131e9347F034347E2F00",
+	"symbol": "AAVE",
+	"name": "Aave Token on xDai",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/xdai/0xDF613aF6B44a31299E48131e9347F034347E2F00.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

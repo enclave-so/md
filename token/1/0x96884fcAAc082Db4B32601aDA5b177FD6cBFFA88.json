@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x96884fcAAc082Db4B32601aDA5b177FD6cBFFA88",
+	"symbol": "ZkLock",
+	"name": "ZkLock",
+	"coingecko": "zklock",
+	"sources": [
+		"coingecko"
+	]
+}

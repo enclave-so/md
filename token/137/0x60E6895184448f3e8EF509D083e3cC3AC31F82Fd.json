@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x60E6895184448f3e8EF509D083e3cC3AC31F82Fd",
+	"symbol": "KwikTrust",
+	"name": "KwikTrust",
+	"coingecko": "kwiktrust",
+	"sources": [
+		"coingecko"
+	]
+}

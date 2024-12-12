@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x5919DeA604631016c15c805e3D948A0384879892",
+	"symbol": "The People’s Coin",
+	"name": "The People’s Coin",
+	"coingecko": "the-people-coin",
+	"sources": [
+		"coingecko"
+	]
+}

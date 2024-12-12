@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x1aBaEA1f7C830bD89Acc67eC4af516284b1bC33c",
+	"symbol": "EURC",
+	"name": "EURC",
+	"coingecko": "euro-coin",
+	"sources": [
+		"coingecko"
+	]
+}

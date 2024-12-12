@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x299a1503E88433C0Fd1BD68625C25C5a703eb64f",
+	"symbol": "TEAR",
+	"name": "TEAR",
+	"coingecko": "tear",
+	"sources": [
+		"coingecko"
+	]
+}

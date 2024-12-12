@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x55747be9F9f5BeB232aD59FE7aF013b81d95fD5e",
+	"symbol": "Biturbo",
+	"name": "Biturbo",
+	"coingecko": "biturbo",
+	"sources": [
+		"coingecko"
+	]
+}

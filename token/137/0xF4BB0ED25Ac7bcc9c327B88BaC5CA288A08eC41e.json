@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xF4BB0ED25Ac7bcc9c327B88BaC5CA288A08eC41e",
+	"symbol": "Rari Governance",
+	"name": "Rari Governance",
+	"coingecko": "rari-governance-token",
+	"sources": [
+		"coingecko"
+	]
+}

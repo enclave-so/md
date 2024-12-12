@@ -1,0 +1,10 @@
+{
+	"chain": 295,
+	"address": "0x00000000000000000000000000000000002D3bD3",
+	"symbol": "Sauce Inu",
+	"name": "Sauce Inu",
+	"coingecko": "sauce-inu",
+	"sources": [
+		"coingecko"
+	]
+}

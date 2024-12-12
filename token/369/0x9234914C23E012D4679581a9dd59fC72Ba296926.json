@@ -1,0 +1,10 @@
+{
+	"chain": 369,
+	"address": "0x9234914C23E012D4679581a9dd59fC72Ba296926",
+	"symbol": "Magma",
+	"name": "Magma",
+	"coingecko": "magma",
+	"sources": [
+		"coingecko"
+	]
+}

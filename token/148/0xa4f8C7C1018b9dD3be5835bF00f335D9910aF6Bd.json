@@ -1,0 +1,10 @@
+{
+	"chain": 148,
+	"address": "0xa4f8C7C1018b9dD3be5835bF00f335D9910aF6Bd",
+	"symbol": "ShimmerBridge Bridged USDT (ShimmerEVM)",
+	"name": "ShimmerBridge Bridged USDT (ShimmerEVM)",
+	"coingecko": "shimmerbridge-bridged-usdt-shimmerevm",
+	"sources": [
+		"coingecko"
+	]
+}

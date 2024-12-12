@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x64aFDF9e28946419E325d801Fb3053d8B8FFdC23",
+	"symbol": "Meeb Master",
+	"name": "Meeb Master",
+	"coingecko": "meeb-master",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 388,
+	"address": "0x609C278A73a87341819FDE69a2e1c0263dc054F9",
+	"symbol": "WOLF",
+	"name": "WOLF",
+	"coingecko": "wolf",
+	"sources": [
+		"coingecko"
+	]
+}

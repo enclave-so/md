@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0x3f5294DF68F871241c4B18fcF78ebD8Ac18aB654",
+	"symbol": "STZ",
+	"name": "99Starz",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x3f5294DF68F871241c4B18fcF78ebD8Ac18aB654/logo.png",
+	"coingecko": "99starz",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x7F5E1A2424EBdd141b0Df15F974Ddcb87751A012",
+	"symbol": "LLM.eth",
+	"name": "LLM.eth",
+	"coingecko": "llm-eth",
+	"sources": [
+		"coingecko"
+	]
+}

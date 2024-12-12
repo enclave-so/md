@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x1495bc9e44Af1F8BCB62278D2bEC4540cF0C05ea",
+	"symbol": "Zero1 Labs",
+	"name": "Zero1 Labs",
+	"coingecko": "zero1-labs",
+	"sources": [
+		"coingecko"
+	]
+}

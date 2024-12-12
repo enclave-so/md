@@ -1,0 +1,13 @@
+{
+	"chain": 250,
+	"address": "0x321162Cd933E2Be498Cd2267a90534A804051b11",
+	"symbol": "anyWBTC",
+	"name": "Wrapped Bitcoin",
+	"decimals": 8,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/wbtc.jpg",
+	"coingecko": "fantom-bridged-wbtc-fantom",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

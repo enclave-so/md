@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x3801C3B3B5c98F88a9c9005966AA96aa440B9Afc",
+	"symbol": "GAX Liquidity Token Reward",
+	"name": "GAX Liquidity Token Reward",
+	"coingecko": "gax-liquidity-token-reward",
+	"sources": [
+		"coingecko"
+	]
+}

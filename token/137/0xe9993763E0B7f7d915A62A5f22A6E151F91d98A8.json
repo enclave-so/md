@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xe9993763E0B7f7d915A62A5f22A6E151F91d98A8",
+	"symbol": "TORG",
+	"name": "TORG",
+	"coingecko": "torg",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x5FC429110A64bC51b57Ca86dCE1714FD0fBec303",
+	"symbol": "Pencils Protocol",
+	"name": "Pencils Protocol",
+	"coingecko": "penpad-token",
+	"sources": [
+		"coingecko"
+	]
+}

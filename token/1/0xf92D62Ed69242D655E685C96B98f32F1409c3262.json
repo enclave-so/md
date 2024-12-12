@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xf92D62Ed69242D655E685C96B98f32F1409c3262",
+	"symbol": "AlienForm",
+	"name": "AlienForm",
+	"coingecko": "alienform",
+	"sources": [
+		"coingecko"
+	]
+}

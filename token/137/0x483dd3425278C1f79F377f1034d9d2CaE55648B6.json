@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x483dd3425278C1f79F377f1034d9d2CaE55648B6",
+	"symbol": "CrowdSwap",
+	"name": "CrowdSwap",
+	"coingecko": "crowdswap",
+	"sources": [
+		"coingecko"
+	]
+}

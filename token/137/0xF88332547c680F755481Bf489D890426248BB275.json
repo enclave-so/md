@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xF88332547c680F755481Bf489D890426248BB275",
+	"symbol": "inSure DeFi",
+	"name": "inSure DeFi",
+	"coingecko": "insure",
+	"sources": [
+		"coingecko"
+	]
+}

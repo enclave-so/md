@@ -1,0 +1,10 @@
+{
+	"chain": 2001,
+	"address": "0xf0c73E6287867bAa4F865A17EE711ec989c78AC0",
+	"symbol": "OccamX",
+	"name": "OccamX",
+	"coingecko": "occamx",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xa069ADd2d093f9Df0e82Ab64Ec7dD0320CB4f65D",
+	"symbol": "GPUBot",
+	"name": "GPUBot",
+	"coingecko": "gpubot",
+	"sources": [
+		"coingecko"
+	]
+}

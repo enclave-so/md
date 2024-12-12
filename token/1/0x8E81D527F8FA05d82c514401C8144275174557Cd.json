@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x8E81D527F8FA05d82c514401C8144275174557Cd",
+	"symbol": "$CCB 鸡鸡币",
+	"name": "$CCB 鸡鸡币",
+	"coingecko": "ccb",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x4A81f8796e0c6Ad4877A51C86693B0dE8093F2ef",
+	"symbol": "Iron Finance",
+	"name": "Iron Finance",
+	"coingecko": "iron-finance",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1666600000,
+	"address": "0x1Ec56F91d61F2c2CB1af0a2B9BB8d7984F0A6626",
+	"symbol": "Unistake",
+	"name": "Unistake",
+	"coingecko": "unistake",
+	"sources": [
+		"coingecko"
+	]
+}

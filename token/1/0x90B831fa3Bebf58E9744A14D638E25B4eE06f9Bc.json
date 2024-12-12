@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x90B831fa3Bebf58E9744A14D638E25B4eE06f9Bc",
+	"symbol": "Mimo Governance",
+	"name": "Mimo Governance",
+	"coingecko": "mimo-parallel-governance-token",
+	"sources": [
+		"coingecko"
+	]
+}

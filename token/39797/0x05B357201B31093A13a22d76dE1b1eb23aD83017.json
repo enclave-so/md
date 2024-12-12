@@ -1,0 +1,10 @@
+{
+	"chain": 39797,
+	"address": "0x05B357201B31093A13a22d76dE1b1eb23aD83017",
+	"symbol": "Stella",
+	"name": "Stella",
+	"coingecko": "alpha-finance",
+	"sources": [
+		"coingecko"
+	]
+}

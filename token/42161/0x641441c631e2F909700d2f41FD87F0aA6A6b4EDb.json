@@ -1,0 +1,13 @@
+{
+	"chain": 42161,
+	"address": "0x641441c631e2F909700d2f41FD87F0aA6A6b4EDb",
+	"symbol": "USX",
+	"name": "dForce USD",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x641441c631e2F909700d2f41FD87F0aA6A6b4EDb.jpg",
+	"coingecko": "token-dforce-usd",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

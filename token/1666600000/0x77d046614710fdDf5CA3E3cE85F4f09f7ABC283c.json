@@ -1,0 +1,10 @@
+{
+	"chain": 1666600000,
+	"address": "0x77d046614710fdDf5CA3E3cE85F4f09f7ABC283c",
+	"symbol": "Solar",
+	"name": "Solar",
+	"coingecko": "swipe",
+	"sources": [
+		"coingecko"
+	]
+}

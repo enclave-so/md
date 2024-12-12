@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xeb4F5c4bF62faC1be7e4BEf9c7C055BF1C52241D",
+	"symbol": "Runic Chain",
+	"name": "Runic Chain",
+	"coingecko": "runic-chain",
+	"sources": [
+		"coingecko"
+	]
+}

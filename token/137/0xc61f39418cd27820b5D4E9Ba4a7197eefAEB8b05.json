@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xc61f39418cd27820b5D4E9Ba4a7197eefAEB8b05",
+	"symbol": "Tamadoge",
+	"name": "Tamadoge",
+	"coingecko": "tamadoge",
+	"sources": [
+		"coingecko"
+	]
+}

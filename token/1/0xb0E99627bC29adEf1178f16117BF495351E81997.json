@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xb0E99627bC29adEf1178f16117BF495351E81997",
+	"symbol": "Dex-Trade Coin",
+	"name": "Dex-Trade Coin",
+	"coingecko": "dex-trade-coin",
+	"sources": [
+		"coingecko"
+	]
+}

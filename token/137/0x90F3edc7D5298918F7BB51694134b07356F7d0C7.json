@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x90F3edc7D5298918F7BB51694134b07356F7d0C7",
+	"symbol": "DDAO Hunters",
+	"name": "DDAO Hunters",
+	"coingecko": "defi-hunters-dao",
+	"sources": [
+		"coingecko"
+	]
+}

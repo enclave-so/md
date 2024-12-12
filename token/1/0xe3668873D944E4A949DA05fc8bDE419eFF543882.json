@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xe3668873D944E4A949DA05fc8bDE419eFF543882",
+	"symbol": "Yearn yPRISMA",
+	"name": "Yearn yPRISMA",
+	"coingecko": "yearn-yprisma",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x70054a18E57bD9e21E8B6361f6a8dFcD86CdC7d0",
+	"symbol": "Terminus",
+	"name": "Terminus",
+	"coingecko": "terminus",
+	"sources": [
+		"coingecko"
+	]
+}

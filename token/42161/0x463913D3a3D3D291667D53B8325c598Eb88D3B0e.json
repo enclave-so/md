@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x463913D3a3D3D291667D53B8325c598Eb88D3B0e",
+	"symbol": "SolidLizard",
+	"name": "SolidLizard",
+	"coingecko": "solidlizard",
+	"sources": [
+		"coingecko"
+	]
+}

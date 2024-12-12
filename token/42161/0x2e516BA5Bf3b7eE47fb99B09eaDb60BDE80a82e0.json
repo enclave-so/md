@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x2e516BA5Bf3b7eE47fb99B09eaDb60BDE80a82e0",
+	"symbol": "aEGGS",
+	"name": "aEGGS",
+	"coingecko": "aeggs",
+	"sources": [
+		"coingecko"
+	]
+}

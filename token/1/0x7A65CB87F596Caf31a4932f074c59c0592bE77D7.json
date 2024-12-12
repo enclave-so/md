@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x7A65CB87F596Caf31a4932f074c59c0592bE77D7",
+	"symbol": "Zypto Token",
+	"name": "Zypto Token",
+	"coingecko": "french-connection-finance",
+	"sources": [
+		"coingecko"
+	]
+}

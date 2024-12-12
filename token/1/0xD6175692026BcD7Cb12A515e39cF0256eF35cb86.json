@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xD6175692026BcD7Cb12A515e39cF0256eF35cb86",
+	"symbol": "Bonzi",
+	"name": "Bonzi",
+	"coingecko": "bonzi",
+	"sources": [
+		"coingecko"
+	]
+}

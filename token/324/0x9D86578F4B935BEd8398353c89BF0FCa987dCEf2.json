@@ -1,0 +1,10 @@
+{
+	"chain": 324,
+	"address": "0x9D86578F4B935BEd8398353c89BF0FCa987dCEf2",
+	"symbol": "Baby Zeek",
+	"name": "Baby Zeek",
+	"coingecko": "baby-zeek",
+	"sources": [
+		"coingecko"
+	]
+}

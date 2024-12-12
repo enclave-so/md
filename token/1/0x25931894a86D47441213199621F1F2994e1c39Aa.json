@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x25931894a86D47441213199621F1F2994e1c39Aa",
+	"symbol": "ChainGPT",
+	"name": "ChainGPT",
+	"coingecko": "chaingpt",
+	"sources": [
+		"coingecko"
+	]
+}

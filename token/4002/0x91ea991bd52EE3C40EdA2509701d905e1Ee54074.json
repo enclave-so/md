@@ -1,0 +1,11 @@
+{
+	"chain": 4002,
+	"address": "0x91ea991bd52EE3C40EdA2509701d905e1Ee54074",
+	"symbol": "FUSD",
+	"name": "Fantom USD",
+	"decimals": 18,
+	"logo": "https://cdn.worldvectorlogo.com/logos/usd-1.svg",
+	"sources": [
+		"sushiswap"
+	]
+}

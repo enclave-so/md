@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xf5809F3348ff40906BB509f936Aba43e6D1961ab",
+	"symbol": "Lester",
+	"name": "Lester",
+	"coingecko": "lester",
+	"sources": [
+		"coingecko"
+	]
+}

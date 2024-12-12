@@ -1,0 +1,10 @@
+{
+	"chain": 1329,
+	"address": "0xDD7d5e4Ea2125d43C16eEd8f1FFeFffa2F4b4aF6",
+	"symbol": "Jellyverse",
+	"name": "Jellyverse",
+	"coingecko": "jellyverse",
+	"sources": [
+		"coingecko"
+	]
+}

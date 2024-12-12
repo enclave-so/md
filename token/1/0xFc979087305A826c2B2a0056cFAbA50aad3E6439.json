@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xFc979087305A826c2B2a0056cFAbA50aad3E6439",
+	"symbol": "Dafi Protocol",
+	"name": "Dafi Protocol",
+	"coingecko": "dafi-protocol",
+	"sources": [
+		"coingecko"
+	]
+}

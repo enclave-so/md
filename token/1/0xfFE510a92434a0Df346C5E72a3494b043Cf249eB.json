@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xfFE510a92434a0Df346C5E72a3494b043Cf249eB",
+	"symbol": "LUX BIO EXCHANGE COIN",
+	"name": "LUX BIO EXCHANGE COIN",
+	"coingecko": "lux-bio-exchange-coin",
+	"sources": [
+		"coingecko"
+	]
+}

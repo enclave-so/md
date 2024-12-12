@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x80A88dc663fa256E34ecb5a47314702313b162A5",
+	"symbol": "CyPepe",
+	"name": "CyPepe",
+	"coingecko": "cypepe",
+	"sources": [
+		"coingecko"
+	]
+}

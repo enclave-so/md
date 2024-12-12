@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xCb64CdeB45deF1C513fd890E7E76a865baE46060",
+	"symbol": "Medifakt",
+	"name": "Medifakt",
+	"coingecko": "medifakt",
+	"sources": [
+		"coingecko"
+	]
+}

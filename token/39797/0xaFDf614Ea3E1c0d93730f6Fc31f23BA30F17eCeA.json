@@ -1,0 +1,10 @@
+{
+	"chain": 39797,
+	"address": "0xaFDf614Ea3E1c0d93730f6Fc31f23BA30F17eCeA",
+	"symbol": "Wrapped Fantom",
+	"name": "Wrapped Fantom",
+	"coingecko": "wrapped-fantom",
+	"sources": [
+		"coingecko"
+	]
+}

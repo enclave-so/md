@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xf1C9acDc66974dFB6dEcB12aA385b9cD01190E38",
+	"symbol": "StakeWise Staked ETH",
+	"name": "StakeWise Staked ETH",
+	"coingecko": "stakewise-v3-oseth",
+	"sources": [
+		"coingecko"
+	]
+}

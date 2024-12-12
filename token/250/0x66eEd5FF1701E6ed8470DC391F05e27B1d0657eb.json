@@ -1,0 +1,10 @@
+{
+	"chain": 250,
+	"address": "0x66eEd5FF1701E6ed8470DC391F05e27B1d0657eb",
+	"symbol": "Morphex",
+	"name": "Morphex",
+	"coingecko": "mpx",
+	"sources": [
+		"coingecko"
+	]
+}

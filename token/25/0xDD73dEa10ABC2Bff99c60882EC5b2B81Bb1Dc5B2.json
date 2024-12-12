@@ -1,0 +1,13 @@
+{
+	"chain": 25,
+	"address": "0xDD73dEa10ABC2Bff99c60882EC5b2B81Bb1Dc5B2",
+	"symbol": "TONIC",
+	"name": "TONIC",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xDD73dEa10ABC2Bff99c60882EC5b2B81Bb1Dc5B2.jpg",
+	"coingecko": "tectonic",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

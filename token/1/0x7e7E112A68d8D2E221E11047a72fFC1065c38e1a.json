@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0x7e7E112A68d8D2E221E11047a72fFC1065c38e1a",
+	"symbol": "bDIGG",
+	"name": "Badger Sett Digg",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/bdigg.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

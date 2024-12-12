@@ -1,0 +1,13 @@
+{
+	"chain": 122,
+	"address": "0x0BE9e53fd7EDaC9F859882AfdDa116645287C629",
+	"symbol": "WFUSE",
+	"name": "Wrapped Fuse",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/fuse/0x0BE9e53fd7EDaC9F859882AfdDa116645287C629.jpg",
+	"coingecko": "wrapped-fuse",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

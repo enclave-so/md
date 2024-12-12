@@ -1,0 +1,10 @@
+{
+	"chain": 122,
+	"address": "0x2502F488D481Df4F5054330C71b95d93D41625C2",
+	"symbol": "Dai (Fuse)",
+	"name": "Dai (Fuse)",
+	"coingecko": "dai-fuse",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x8a40c222996f9F3431f63Bf80244C36822060f12",
+	"symbol": "FINXFLO",
+	"name": "FINXFLO",
+	"coingecko": "finxflo",
+	"sources": [
+		"coingecko"
+	]
+}

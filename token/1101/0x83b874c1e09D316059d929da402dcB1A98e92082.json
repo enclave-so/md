@@ -1,0 +1,13 @@
+{
+	"chain": 1101,
+	"address": "0x83b874c1e09D316059d929da402dcB1A98e92082",
+	"symbol": "stMATIC",
+	"name": "Staked MATIC",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/polygon-zkevm/0x83b874c1e09D316059d929da402dcB1A98e92082.jpg",
+	"coingecko": "lido-staked-matic",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

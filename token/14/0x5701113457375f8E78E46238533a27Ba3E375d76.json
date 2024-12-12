@@ -1,0 +1,10 @@
+{
+	"chain": 14,
+	"address": "0x5701113457375f8E78E46238533a27Ba3E375d76",
+	"symbol": "SuperFlare",
+	"name": "SuperFlare",
+	"coingecko": "superflare",
+	"sources": [
+		"coingecko"
+	]
+}

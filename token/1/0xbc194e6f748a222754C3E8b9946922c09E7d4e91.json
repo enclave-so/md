@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0xbc194e6f748a222754C3E8b9946922c09E7d4e91",
+	"symbol": "LEV",
+	"name": "Lever",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xbc194e6f748a222754C3E8b9946922c09E7d4e91/logo.png",
+	"coingecko": "lever-network",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

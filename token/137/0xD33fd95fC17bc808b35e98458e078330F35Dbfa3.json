@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xD33fd95fC17bc808b35e98458e078330F35Dbfa3",
+	"symbol": "Midnight",
+	"name": "Midnight",
+	"coingecko": "midnight",
+	"sources": [
+		"coingecko"
+	]
+}

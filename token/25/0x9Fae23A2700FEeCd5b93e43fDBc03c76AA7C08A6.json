@@ -1,0 +1,13 @@
+{
+	"chain": 25,
+	"address": "0x9Fae23A2700FEeCd5b93e43fDBc03c76AA7C08A6",
+	"symbol": "LCRO",
+	"name": "LCRO",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x9Fae23A2700FEeCd5b93e43fDBc03c76AA7C08A6.jpg",
+	"coingecko": "liquid-cro",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0xea292Deb7Ac933F61580eEE269F7ba3C2f23f5a0",
+	"symbol": "RTRD",
+	"name": "CROfam",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xea292Deb7Ac933F61580eEE269F7ba3C2f23f5a0.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

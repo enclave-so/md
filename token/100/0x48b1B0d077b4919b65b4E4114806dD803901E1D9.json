@@ -1,0 +1,10 @@
+{
+	"chain": 100,
+	"address": "0x48b1B0d077b4919b65b4E4114806dD803901E1D9",
+	"symbol": "Etherisc DIP",
+	"name": "Etherisc DIP",
+	"coingecko": "etherisc",
+	"sources": [
+		"coingecko"
+	]
+}

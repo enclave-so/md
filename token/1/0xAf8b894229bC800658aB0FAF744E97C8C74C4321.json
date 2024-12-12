@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xAf8b894229bC800658aB0FAF744E97C8C74C4321",
+	"symbol": "Black Lemon AI",
+	"name": "Black Lemon AI",
+	"coingecko": "black-lemon-ai",
+	"sources": [
+		"coingecko"
+	]
+}

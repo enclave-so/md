@@ -1,0 +1,10 @@
+{
+	"chain": 10,
+	"address": "0x9560e827aF36c94D2Ac33a39bCE1Fe78631088Db",
+	"symbol": "Velodrome Finance",
+	"name": "Velodrome Finance",
+	"coingecko": "velodrome-finance",
+	"sources": [
+		"coingecko"
+	]
+}

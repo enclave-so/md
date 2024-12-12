@@ -1,0 +1,10 @@
+{
+	"chain": 39797,
+	"address": "0x709adAdd7BA01655Ec684c9a74074Ec70b023FE9",
+	"symbol": "Kaon",
+	"name": "Kaon",
+	"coingecko": "akropolis",
+	"sources": [
+		"coingecko"
+	]
+}

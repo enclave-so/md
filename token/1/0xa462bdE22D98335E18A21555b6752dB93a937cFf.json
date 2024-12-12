@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xa462bdE22D98335E18A21555b6752dB93a937cFf",
+	"symbol": "Kennedy Memecoin",
+	"name": "Kennedy Memecoin",
+	"coingecko": "independence-token",
+	"sources": [
+		"coingecko"
+	]
+}

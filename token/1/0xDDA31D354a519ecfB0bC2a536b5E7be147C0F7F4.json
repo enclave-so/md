@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xDDA31D354a519ecfB0bC2a536b5E7be147C0F7F4",
+	"symbol": "Everlodge",
+	"name": "Everlodge",
+	"coingecko": "everlodge",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 100,
+	"address": "0x1a8805194D0eF2F73045a00c70Da399d9E74221c",
+	"symbol": "Gnobby",
+	"name": "Gnobby",
+	"coingecko": "gnobby",
+	"sources": [
+		"coingecko"
+	]
+}

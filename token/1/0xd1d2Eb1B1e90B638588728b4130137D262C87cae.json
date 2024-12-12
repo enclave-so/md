@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0xd1d2Eb1B1e90B638588728b4130137D262C87cae",
+	"symbol": "GALA",
+	"name": "Gala",
+	"decimals": 8,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xd1d2Eb1B1e90B638588728b4130137D262C87cae.jpg",
+	"coingecko": "gala",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

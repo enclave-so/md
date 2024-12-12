@@ -1,0 +1,10 @@
+{
+	"chain": 1313161554,
+	"address": "0xdFA46478F9e5EA86d57387849598dbFB2e964b02",
+	"symbol": "MAI",
+	"name": "MAI",
+	"coingecko": "mimatic",
+	"sources": [
+		"coingecko"
+	]
+}

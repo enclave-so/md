@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x6c10D1611a5A95CB967e4bcAb5791Fd101194949",
+	"symbol": "X Project ERC",
+	"name": "X Project ERC",
+	"coingecko": "x-project-erc",
+	"sources": [
+		"coingecko"
+	]
+}

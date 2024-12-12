@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xF614E54D972bAb297172765Ca83683288f3eae36",
+	"symbol": "RawBlock",
+	"name": "RawBlock",
+	"coingecko": "rawblock",
+	"sources": [
+		"coingecko"
+	]
+}

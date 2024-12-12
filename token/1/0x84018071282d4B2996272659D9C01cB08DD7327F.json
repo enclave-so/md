@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x84018071282d4B2996272659D9C01cB08DD7327F",
+	"symbol": "Blendr Network",
+	"name": "Blendr Network",
+	"coingecko": "blendr-network",
+	"sources": [
+		"coingecko"
+	]
+}

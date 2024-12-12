@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x5CEeBB0947d58Fabde2fc026Ffe4B33ccFE1bA8B",
+	"symbol": "4INT",
+	"name": "4INT",
+	"coingecko": "4int",
+	"sources": [
+		"coingecko"
+	]
+}

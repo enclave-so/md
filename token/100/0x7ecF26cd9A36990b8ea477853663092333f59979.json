@@ -1,0 +1,10 @@
+{
+	"chain": 100,
+	"address": "0x7ecF26cd9A36990b8ea477853663092333f59979",
+	"symbol": "Perpetual Protocol",
+	"name": "Perpetual Protocol",
+	"coingecko": "perpetual-protocol",
+	"sources": [
+		"coingecko"
+	]
+}

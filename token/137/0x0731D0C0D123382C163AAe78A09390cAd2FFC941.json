@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x0731D0C0D123382C163AAe78A09390cAd2FFC941",
+	"symbol": "Ink Fantom",
+	"name": "Ink Fantom",
+	"coingecko": "ink-fantom",
+	"sources": [
+		"coingecko"
+	]
+}

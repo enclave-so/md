@@ -1,0 +1,11 @@
+{
+	"chain": 199,
+	"address": "0x1A7019909B10cdD2D8B0034293AD729f1C1F604e",
+	"symbol": "BTC.b",
+	"name": "Bitcoin BSC",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bttc/0x1A7019909B10cdD2D8B0034293AD729f1C1F604e.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

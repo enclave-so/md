@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x4C44A8B7823B80161Eb5E6D80c014024752607F2",
+	"symbol": "America Pac",
+	"name": "America Pac",
+	"coingecko": "america-pac",
+	"sources": [
+		"coingecko"
+	]
+}

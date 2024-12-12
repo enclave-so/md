@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xc353Bf07405304AeaB75F4C2Fac7E88D6A68f98e",
+	"symbol": "Hope.money",
+	"name": "Hope.money",
+	"coingecko": "hope-2",
+	"sources": [
+		"coingecko"
+	]
+}

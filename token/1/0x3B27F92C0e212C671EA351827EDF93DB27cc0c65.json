@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x3B27F92C0e212C671EA351827EDF93DB27cc0c65",
+	"symbol": "USDT yVault",
+	"name": "USDT yVault",
+	"coingecko": "usdt-yvault",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"chain": 42161,
+	"address": "0x539bdE0d7Dbd336b79148AA742883198BBF60342",
+	"symbol": "MAGIC",
+	"name": "MAGIC",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x539bdE0d7Dbd336b79148AA742883198BBF60342.jpg",
+	"coingecko": "magic",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

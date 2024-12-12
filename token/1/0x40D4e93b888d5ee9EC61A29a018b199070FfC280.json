@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x40D4e93b888d5ee9EC61A29a018b199070FfC280",
+	"symbol": "DegenLayer",
+	"name": "DegenLayer",
+	"coingecko": "degenlayer",
+	"sources": [
+		"coingecko"
+	]
+}

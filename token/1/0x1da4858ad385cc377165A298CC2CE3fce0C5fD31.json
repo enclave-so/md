@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x1da4858ad385cc377165A298CC2CE3fce0C5fD31",
+	"symbol": "CloutContracts",
+	"name": "CloutContracts",
+	"coingecko": "cloutcontracts",
+	"sources": [
+		"coingecko"
+	]
+}

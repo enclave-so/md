@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x9baa12A9E3B9dC355f162082762f95626367D087",
+	"symbol": "Handz of Gods",
+	"name": "Handz of Gods",
+	"coingecko": "handz-of-gods",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x1a23a6BfBAdB59fa563008c0fB7cf96dfCF34Ea1",
+	"symbol": "CoFiX",
+	"name": "CoFiX",
+	"coingecko": "cofix",
+	"sources": [
+		"coingecko"
+	]
+}

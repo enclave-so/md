@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0x4E05F3C7ee6155e3add224470E1c4583D4F424A3",
+	"symbol": "INJ",
+	"name": "Injective",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x4E05F3C7ee6155e3add224470E1c4583D4F424A3.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

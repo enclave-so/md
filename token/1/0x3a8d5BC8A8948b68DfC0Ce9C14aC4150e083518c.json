@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x3a8d5BC8A8948b68DfC0Ce9C14aC4150e083518c",
+	"symbol": "Paralink Network",
+	"name": "Paralink Network",
+	"coingecko": "paralink-network",
+	"sources": [
+		"coingecko"
+	]
+}

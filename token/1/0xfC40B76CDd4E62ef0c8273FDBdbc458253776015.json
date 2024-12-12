@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xfC40B76CDd4E62ef0c8273FDBdbc458253776015",
+	"symbol": "PEAR AI",
+	"name": "PEAR AI",
+	"coingecko": "pear-ai",
+	"sources": [
+		"coingecko"
+	]
+}

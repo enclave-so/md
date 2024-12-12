@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x571d9b73DC04ed88B4e273E048C8d4848F83b779",
+	"symbol": "Super Closed Source",
+	"name": "Super Closed Source",
+	"coingecko": "super-closed-source",
+	"sources": [
+		"coingecko"
+	]
+}

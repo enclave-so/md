@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x43A96962254855F16b925556f9e97BE436A43448",
+	"symbol": "Hord",
+	"name": "Hord",
+	"coingecko": "hord",
+	"sources": [
+		"coingecko"
+	]
+}

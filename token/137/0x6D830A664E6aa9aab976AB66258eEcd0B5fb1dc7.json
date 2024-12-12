@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x6D830A664E6aa9aab976AB66258eEcd0B5fb1dc7",
+	"symbol": "Mammoth",
+	"name": "Mammoth",
+	"coingecko": "mammoth-2",
+	"sources": [
+		"coingecko"
+	]
+}

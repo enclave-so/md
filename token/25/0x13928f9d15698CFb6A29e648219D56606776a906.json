@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0x13928f9d15698CFb6A29e648219D56606776a906",
+	"symbol": "GAL",
+	"name": "Project Galaxy",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x13928f9d15698CFb6A29e648219D56606776a906.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

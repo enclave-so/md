@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0x7cA4408137eb639570F8E647d9bD7B7E8717514A",
+	"symbol": "ALPA",
+	"name": "Alpaca",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x7cA4408137eb639570F8E647d9bD7B7E8717514A/logo.png",
+	"coingecko": "alpaca",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

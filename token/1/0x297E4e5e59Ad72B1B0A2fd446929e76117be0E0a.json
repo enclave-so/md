@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x297E4e5e59Ad72B1B0A2fd446929e76117be0E0a",
+	"symbol": "Smart Valor",
+	"name": "Smart Valor",
+	"coingecko": "smart-valor",
+	"sources": [
+		"coingecko"
+	]
+}

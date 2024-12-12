@@ -1,0 +1,10 @@
+{
+	"chain": 1088,
+	"address": "0x7314Ef2CA509490f65F52CC8FC9E0675C66390b8",
+	"symbol": "Aave v3 Metis",
+	"name": "Aave v3 Metis",
+	"coingecko": "aave-v3-metis",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x0A638F07ACc6969abF392bB009f216D22aDEa36d",
+	"symbol": "Brickken",
+	"name": "Brickken",
+	"coingecko": "brickken",
+	"sources": [
+		"coingecko"
+	]
+}

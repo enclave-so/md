@@ -1,0 +1,10 @@
+{
+	"chain": 20,
+	"address": "0xA06be0F5950781cE28D965E5EFc6996e88a8C141",
+	"symbol": "ShadowTokens Bridged USDC (Elastos)",
+	"name": "ShadowTokens Bridged USDC (Elastos)",
+	"coingecko": "shadowtokens-bridged-usdc-elastos",
+	"sources": [
+		"coingecko"
+	]
+}

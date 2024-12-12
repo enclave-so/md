@@ -1,0 +1,10 @@
+{
+	"chain": 250,
+	"address": "0x97bdAfe3830734acF12Da25359674277fcc33729",
+	"symbol": "Blue Kirby",
+	"name": "Blue Kirby",
+	"coingecko": "blue-kirby",
+	"sources": [
+		"coingecko"
+	]
+}

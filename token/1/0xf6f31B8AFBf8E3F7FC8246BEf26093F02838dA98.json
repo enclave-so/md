@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xf6f31B8AFBf8E3F7FC8246BEf26093F02838dA98",
+	"symbol": "Unicorn Metaverse",
+	"name": "Unicorn Metaverse",
+	"coingecko": "unicorn-metaverse",
+	"sources": [
+		"coingecko"
+	]
+}

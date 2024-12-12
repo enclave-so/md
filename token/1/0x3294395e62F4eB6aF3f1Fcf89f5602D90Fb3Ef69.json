@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x3294395e62F4eB6aF3f1Fcf89f5602D90Fb3Ef69",
+	"symbol": "Celo (Wormhole)",
+	"name": "Celo (Wormhole)",
+	"coingecko": "celo-wormhole",
+	"sources": [
+		"coingecko"
+	]
+}

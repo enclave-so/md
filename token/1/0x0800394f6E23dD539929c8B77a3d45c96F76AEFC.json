@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x0800394f6E23dD539929c8B77a3d45c96F76AEFC",
+	"symbol": "TurtSat",
+	"name": "TurtSat",
+	"coingecko": "turtsat",
+	"sources": [
+		"coingecko"
+	]
+}

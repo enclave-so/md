@@ -1,0 +1,10 @@
+{
+	"chain": 1111,
+	"address": "0xc50a55cA9d4B7804471de1E44f3C3CE8216D8Ea0",
+	"symbol": "PAPYRUS",
+	"name": "PAPYRUS",
+	"coingecko": "papyrus-2",
+	"sources": [
+		"coingecko"
+	]
+}

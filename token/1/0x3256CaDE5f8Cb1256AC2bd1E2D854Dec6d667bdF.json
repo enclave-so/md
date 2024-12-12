@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x3256CaDE5f8Cb1256AC2bd1E2D854Dec6d667bdF",
+	"symbol": "Mogutou",
+	"name": "Mogutou",
+	"coingecko": "mogutou",
+	"sources": [
+		"coingecko"
+	]
+}

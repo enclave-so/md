@@ -1,0 +1,10 @@
+{
+	"chain": 100,
+	"address": "0xD057604A14982FE8D88c5fC25Aac3267eA142a08",
+	"symbol": "HOPR",
+	"name": "HOPR",
+	"coingecko": "hopr",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x616bBb932602A9C9871E99806BDb63c9e6DA9F8B",
+	"symbol": "ChainNet",
+	"name": "ChainNet",
+	"coingecko": "chainnet",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x825459139C897D769339f295E962396C4F9E4A4D",
+	"symbol": "GameBuild",
+	"name": "GameBuild",
+	"coingecko": "gamebuild",
+	"sources": [
+		"coingecko"
+	]
+}

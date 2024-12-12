@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x6b785a0322126826d8226d77e173d75DAfb84d11",
+	"symbol": "Bankroll Vault",
+	"name": "Bankroll Vault",
+	"coingecko": "bankroll-vault",
+	"sources": [
+		"coingecko"
+	]
+}

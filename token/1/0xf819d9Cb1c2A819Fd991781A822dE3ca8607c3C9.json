@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0xf819d9Cb1c2A819Fd991781A822dE3ca8607c3C9",
+	"symbol": "UNIBOT",
+	"name": "Unibot",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xf819d9Cb1c2A819Fd991781A822dE3ca8607c3C9.jpg",
+	"coingecko": "unibot",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

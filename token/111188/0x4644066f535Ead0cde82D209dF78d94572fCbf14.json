@@ -1,0 +1,10 @@
+{
+	"chain": 111188,
+	"address": "0x4644066f535Ead0cde82D209dF78d94572fCbf14",
+	"symbol": "re.al",
+	"name": "re.al",
+	"coingecko": "re-al",
+	"sources": [
+		"coingecko"
+	]
+}

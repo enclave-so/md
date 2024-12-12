@@ -1,0 +1,13 @@
+{
+	"chain": 42161,
+	"address": "0xBcc9C1763d54427bDF5EfB6e9EB9494E5a1fbAbf",
+	"symbol": "HWT",
+	"name": "Honor World Token",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xBcc9C1763d54427bDF5EfB6e9EB9494E5a1fbAbf.jpg",
+	"coingecko": "honor-world-token",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xd6327ce1fb9D6020E8C2c0E124A1eC23DCAb7536",
+	"symbol": "Cuminu",
+	"name": "Cuminu",
+	"coingecko": "cuminu",
+	"sources": [
+		"coingecko"
+	]
+}

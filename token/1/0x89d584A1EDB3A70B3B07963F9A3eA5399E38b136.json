@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x89d584A1EDB3A70B3B07963F9A3eA5399E38b136",
+	"symbol": "AIT Protocol",
+	"name": "AIT Protocol",
+	"coingecko": "ait-protocol",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1329,
+	"address": "0x95597EB8D227a7c4B4f5E807a815C5178eE6dBE1",
+	"symbol": "MILLI",
+	"name": "MILLI",
+	"coingecko": "milli-coin",
+	"sources": [
+		"coingecko"
+	]
+}

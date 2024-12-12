@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0x3449FC1Cd036255BA1EB19d65fF4BA2b8903A69a",
+	"symbol": "BAC",
+	"name": "Basis Cash",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x3449FC1Cd036255BA1EB19d65fF4BA2b8903A69a/logo.png",
+	"coingecko": "basis-cash",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

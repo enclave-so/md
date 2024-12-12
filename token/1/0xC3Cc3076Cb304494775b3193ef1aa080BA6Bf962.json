@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xC3Cc3076Cb304494775b3193ef1aa080BA6Bf962",
+	"symbol": "OrdiGen",
+	"name": "OrdiGen",
+	"coingecko": "ordigen",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xA4Ce4a467E51aEfEc683a649C3F14427f104667f",
+	"symbol": "Onston",
+	"name": "Onston",
+	"coingecko": "onston",
+	"sources": [
+		"coingecko"
+	]
+}

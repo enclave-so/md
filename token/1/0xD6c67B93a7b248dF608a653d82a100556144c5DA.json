@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xD6c67B93a7b248dF608a653d82a100556144c5DA",
+	"symbol": "ExNetwork",
+	"name": "ExNetwork",
+	"coingecko": "exnetwork-token",
+	"sources": [
+		"coingecko"
+	]
+}

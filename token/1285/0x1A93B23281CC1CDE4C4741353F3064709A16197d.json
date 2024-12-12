@@ -1,0 +1,13 @@
+{
+	"chain": 1285,
+	"address": "0x1A93B23281CC1CDE4C4741353F3064709A16197d",
+	"symbol": "FRAX",
+	"name": "Frax",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/frax.jpg",
+	"coingecko": "frax",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

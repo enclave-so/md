@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xAb85fc558d722A2b7c040FfB77dB676Bd9e7D322",
+	"symbol": "MOROS NET",
+	"name": "MOROS NET",
+	"coingecko": "moros-net",
+	"sources": [
+		"coingecko"
+	]
+}

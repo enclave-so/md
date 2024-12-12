@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x0aA8A7D1fB4c64B3b1DcEa9A7ADe81C59C25b95b",
+	"symbol": "AstraAI",
+	"name": "AstraAI",
+	"coingecko": "astraai",
+	"sources": [
+		"coingecko"
+	]
+}

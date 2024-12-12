@@ -1,0 +1,10 @@
+{
+	"chain": 1116,
+	"address": "0xb0788B601C0D712702bc829B52771199ad8E33Ff",
+	"symbol": "IceCreamSwap WCORE",
+	"name": "IceCreamSwap WCORE",
+	"coingecko": "icecreamswap-wcore",
+	"sources": [
+		"coingecko"
+	]
+}

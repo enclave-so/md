@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x3Da932456D082CBa208FEB0B096d49b202Bf89c8",
+	"symbol": "Dego Finance",
+	"name": "Dego Finance",
+	"coingecko": "dego-finance",
+	"sources": [
+		"coingecko"
+	]
+}

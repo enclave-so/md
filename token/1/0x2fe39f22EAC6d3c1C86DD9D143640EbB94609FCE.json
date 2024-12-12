@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x2fe39f22EAC6d3c1C86DD9D143640EbB94609FCE",
+	"symbol": "JD Coin",
+	"name": "JD Coin",
+	"coingecko": "jd-coin",
+	"sources": [
+		"coingecko"
+	]
+}

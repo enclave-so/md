@@ -1,0 +1,10 @@
+{
+	"chain": 10,
+	"address": "0xe3C332a5DcE0e1d9bC2cC72A68437790570C28a4",
+	"symbol": "BLOCKv",
+	"name": "BLOCKv",
+	"coingecko": "blockv",
+	"sources": [
+		"coingecko"
+	]
+}

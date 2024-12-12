@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x232FB065D9d24c34708eeDbF03724f2e95ABE768",
+	"symbol": "Sheesha Finance (ERC20)",
+	"name": "Sheesha Finance (ERC20)",
+	"coingecko": "sheesha-finance-erc20",
+	"sources": [
+		"coingecko"
+	]
+}

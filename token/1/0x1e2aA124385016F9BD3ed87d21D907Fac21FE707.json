@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x1e2aA124385016F9BD3ed87d21D907Fac21FE707",
+	"symbol": "HiveSwap",
+	"name": "HiveSwap",
+	"coingecko": "hiveswap",
+	"sources": [
+		"coingecko"
+	]
+}

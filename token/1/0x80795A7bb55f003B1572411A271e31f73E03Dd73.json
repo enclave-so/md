@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x80795A7bb55f003B1572411A271e31f73E03Dd73",
+	"symbol": "daumenfrosch",
+	"name": "daumenfrosch",
+	"coingecko": "daumenfrosch-2",
+	"sources": [
+		"coingecko"
+	]
+}

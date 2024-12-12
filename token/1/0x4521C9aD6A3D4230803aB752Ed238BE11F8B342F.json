@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x4521C9aD6A3D4230803aB752Ed238BE11F8B342F",
+	"symbol": "Sanin Inu",
+	"name": "Sanin Inu",
+	"coingecko": "sanin-inu",
+	"sources": [
+		"coingecko"
+	]
+}

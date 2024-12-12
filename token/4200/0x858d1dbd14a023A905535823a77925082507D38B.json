@@ -1,0 +1,10 @@
+{
+	"chain": 4200,
+	"address": "0x858d1dbd14a023A905535823a77925082507D38B",
+	"symbol": "XLink Bridged BTC",
+	"name": "XLink Bridged BTC",
+	"coingecko": "xlink-bridged-btc-stacks",
+	"sources": [
+		"coingecko"
+	]
+}

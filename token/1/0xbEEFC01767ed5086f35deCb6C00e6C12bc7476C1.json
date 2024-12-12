@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xbEEFC01767ed5086f35deCb6C00e6C12bc7476C1",
+	"symbol": "Coinshift USDL Morpho Vault",
+	"name": "Coinshift USDL Morpho Vault",
+	"coingecko": "coinshift-usdl-morpho-vault",
+	"sources": [
+		"coingecko"
+	]
+}

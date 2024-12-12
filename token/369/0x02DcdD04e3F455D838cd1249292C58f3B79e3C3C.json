@@ -1,0 +1,10 @@
+{
+	"chain": 369,
+	"address": "0x02DcdD04e3F455D838cd1249292C58f3B79e3C3C",
+	"symbol": "Pulsechain Bridged WETH (Pulsechain)",
+	"name": "Pulsechain Bridged WETH (Pulsechain)",
+	"coingecko": "pulsechain-bridged-weth-pulsechain",
+	"sources": [
+		"coingecko"
+	]
+}

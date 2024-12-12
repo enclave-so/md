@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x227c7DF69D3ed1ae7574A1a7685fDEd90292EB48",
+	"symbol": "Milady Vault (NFTX)",
+	"name": "Milady Vault (NFTX)",
+	"coingecko": "milady-vault-nftx",
+	"sources": [
+		"coingecko"
+	]
+}

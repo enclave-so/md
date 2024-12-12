@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xa0cB0Ce7C6d93A7EBD72952Feb4407Dddee8a194",
+	"symbol": "Shibaken Finance",
+	"name": "Shibaken Finance",
+	"coingecko": "shibaken-finance",
+	"sources": [
+		"coingecko"
+	]
+}

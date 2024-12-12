@@ -1,0 +1,10 @@
+{
+	"chain": 369,
+	"address": "0xBb101431d43b0E1fc31f000bf96826794806e0b4",
+	"symbol": "Apin Pulse",
+	"name": "Apin Pulse",
+	"coingecko": "apin-pulse",
+	"sources": [
+		"coingecko"
+	]
+}

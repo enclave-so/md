@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x7F850b0aB1988Dd17B69aC564c1E2857949e4dEe",
+	"symbol": "Lift Dollar",
+	"name": "Lift Dollar",
+	"coingecko": "lift-dollar",
+	"sources": [
+		"coingecko"
+	]
+}

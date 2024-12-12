@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x1aAE7De64D9ae1487e95858bbf98185F21e926fd",
+	"symbol": "AICORE",
+	"name": "AICORE",
+	"coingecko": "aicore",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"chain": 2046399126,
+	"address": "0xcb011E86DF014a46F4e3AC3F3cbB114A4EB80870",
+	"symbol": "WBTC",
+	"name": "Wrapped WBTC",
+	"decimals": 8,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/skale-europa/0xcb011E86DF014a46F4e3AC3F3cbB114A4EB80870.jpg",
+	"coingecko": "skale-ima-bridged-wbtc",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

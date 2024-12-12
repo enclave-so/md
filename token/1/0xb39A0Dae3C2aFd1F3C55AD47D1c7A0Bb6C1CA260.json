@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xb39A0Dae3C2aFd1F3C55AD47D1c7A0Bb6C1CA260",
+	"symbol": "Unreal AI",
+	"name": "Unreal AI",
+	"coingecko": "unreal-ai",
+	"sources": [
+		"coingecko"
+	]
+}

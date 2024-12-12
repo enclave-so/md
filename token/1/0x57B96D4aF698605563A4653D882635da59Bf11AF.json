@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x57B96D4aF698605563A4653D882635da59Bf11AF",
+	"symbol": "RCH Token",
+	"name": "RCH Token",
+	"coingecko": "rch-token",
+	"sources": [
+		"coingecko"
+	]
+}

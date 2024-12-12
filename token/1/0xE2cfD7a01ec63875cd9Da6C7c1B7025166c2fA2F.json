@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xE2cfD7a01ec63875cd9Da6C7c1B7025166c2fA2F",
+	"symbol": "Hyper",
+	"name": "Hyper",
+	"coingecko": "hyper-4",
+	"sources": [
+		"coingecko"
+	]
+}

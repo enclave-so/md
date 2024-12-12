@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xFd55e4a6767fF7FfC0b8105262A8cDAabE7FBF3F",
+	"symbol": "Patriot Pay",
+	"name": "Patriot Pay",
+	"coingecko": "patriot-pay",
+	"sources": [
+		"coingecko"
+	]
+}

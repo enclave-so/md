@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x178412e79c25968a32e89b11f63B33F733770c2A",
+	"symbol": "Frax Ether",
+	"name": "Frax Ether",
+	"coingecko": "frax-ether",
+	"sources": [
+		"coingecko"
+	]
+}

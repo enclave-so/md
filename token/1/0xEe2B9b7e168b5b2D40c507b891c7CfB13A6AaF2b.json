@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xEe2B9b7e168b5b2D40c507b891c7CfB13A6AaF2b",
+	"symbol": "Zygo The Frog",
+	"name": "Zygo The Frog",
+	"coingecko": "zygo-the-frog",
+	"sources": [
+		"coingecko"
+	]
+}

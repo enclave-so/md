@@ -1,0 +1,13 @@
+{
+	"chain": 137,
+	"address": "0x11cd72f7A4B699c67f225ca8aBb20bC9F8DB90c7",
+	"symbol": "OSAK",
+	"name": "Osaka Protocol",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x11cd72f7A4B699c67f225ca8aBb20bC9F8DB90c7.jpg",
+	"coingecko": "osaka-protocol",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

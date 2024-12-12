@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x4216663dDc7BD10eAf44609DF4Dd0f91cD2bE7F2",
+	"symbol": "MicroPepe",
+	"name": "MicroPepe",
+	"coingecko": "micropepe",
+	"sources": [
+		"coingecko"
+	]
+}

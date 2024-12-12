@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x6f9590958ce2beaf9c92a3a8Fca6D1dDF310e052",
+	"symbol": "Gas Turbo",
+	"name": "Gas Turbo",
+	"coingecko": "gas-turbo",
+	"sources": [
+		"coingecko"
+	]
+}

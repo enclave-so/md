@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xc690F7C7FcfFA6a82b79faB7508c466FEfdfc8c5",
+	"symbol": "Lympo",
+	"name": "Lympo",
+	"coingecko": "lympo",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"chain": 42161,
+	"address": "0x69Eb4FA4a2fbd498C257C57Ea8b7655a2559A581",
+	"symbol": "DODO",
+	"name": "DODO bird",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/dodo.jpg",
+	"coingecko": "dodo",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x5332d2B3Bb62035566b24E987BD58C0715714E27",
+	"symbol": "SRCGAME",
+	"name": "SRCGAME",
+	"coingecko": "srcgame",
+	"sources": [
+		"coingecko"
+	]
+}

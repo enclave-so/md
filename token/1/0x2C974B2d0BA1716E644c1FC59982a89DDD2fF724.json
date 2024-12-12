@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x2C974B2d0BA1716E644c1FC59982a89DDD2fF724",
+	"symbol": "Viberate",
+	"name": "Viberate",
+	"coingecko": "viberate",
+	"sources": [
+		"coingecko"
+	]
+}

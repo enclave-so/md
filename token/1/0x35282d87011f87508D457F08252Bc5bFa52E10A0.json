@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x35282d87011f87508D457F08252Bc5bFa52E10A0",
+	"symbol": "ULTRA",
+	"name": "ULTRA",
+	"coingecko": "ultra-2",
+	"sources": [
+		"coingecko"
+	]
+}

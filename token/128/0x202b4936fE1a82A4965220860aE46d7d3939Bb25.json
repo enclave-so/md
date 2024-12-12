@@ -1,0 +1,13 @@
+{
+	"chain": 128,
+	"address": "0x202b4936fE1a82A4965220860aE46d7d3939Bb25",
+	"symbol": "AAVE",
+	"name": "Heco-Peg AAVE Token",
+	"decimals": 18,
+	"logo": "https://hecoinfo.com/images/main/empty-token.png",
+	"coingecko": "aave",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

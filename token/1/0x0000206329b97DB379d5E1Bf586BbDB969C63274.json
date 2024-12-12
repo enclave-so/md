@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x0000206329b97DB379d5E1Bf586BbDB969C63274",
+	"symbol": "USDA",
+	"name": "USDA",
+	"coingecko": "angle-usd",
+	"sources": [
+		"coingecko"
+	]
+}

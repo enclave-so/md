@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xFa955eC865f51c55E3B6CE02528A6844c2Eb9c26",
+	"symbol": "OpenLiquidity",
+	"name": "OpenLiquidity",
+	"coingecko": "0xlp",
+	"sources": [
+		"coingecko"
+	]
+}

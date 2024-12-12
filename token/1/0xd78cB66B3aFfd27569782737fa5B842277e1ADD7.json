@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xd78cB66B3aFfd27569782737fa5B842277e1ADD7",
+	"symbol": "GTROK",
+	"name": "GTROK",
+	"coingecko": "gtrok",
+	"sources": [
+		"coingecko"
+	]
+}

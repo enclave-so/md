@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0xbE00f3db78688d9704BCb4e0a827aea3a9Cc0D62",
+	"symbol": "Fiat24 USD",
+	"name": "Fiat24 USD",
+	"coingecko": "fiat24-usd",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1666600000,
+	"address": "0x9aB0DB833557d95AFf98C09B560145Ad34E681b8",
+	"symbol": "Reef",
+	"name": "Reef",
+	"coingecko": "reef",
+	"sources": [
+		"coingecko"
+	]
+}

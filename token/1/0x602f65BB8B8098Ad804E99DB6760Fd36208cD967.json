@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x602f65BB8B8098Ad804E99DB6760Fd36208cD967",
+	"symbol": "Mops",
+	"name": "Mops",
+	"coingecko": "mops",
+	"sources": [
+		"coingecko"
+	]
+}

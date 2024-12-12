@@ -1,0 +1,11 @@
+{
+	"chain": 10,
+	"address": "0x3bB4445D30AC020a84c1b5A8A2C6248ebC9779D0",
+	"symbol": "LIZ",
+	"name": "Theranos Coin",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/LIZ/logo.png",
+	"sources": [
+		"sushiswap"
+	]
+}

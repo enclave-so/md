@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x4591DBfF62656E7859Afe5e45f6f47D3669fBB28",
+	"symbol": "Prisma mkUSD",
+	"name": "Prisma mkUSD",
+	"coingecko": "prisma-mkusd",
+	"sources": [
+		"coingecko"
+	]
+}

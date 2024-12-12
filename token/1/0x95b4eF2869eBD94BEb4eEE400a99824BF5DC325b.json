@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x95b4eF2869eBD94BEb4eEE400a99824BF5DC325b",
+	"symbol": "cMKR",
+	"name": "cMKR",
+	"coingecko": "compound-maker",
+	"sources": [
+		"coingecko"
+	]
+}

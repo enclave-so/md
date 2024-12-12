@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xf0610eb7d8EE12D59412DA32625d5e273E78FF0b",
+	"symbol": "MasterDEX",
+	"name": "MasterDEX",
+	"coingecko": "masterdex",
+	"sources": [
+		"coingecko"
+	]
+}

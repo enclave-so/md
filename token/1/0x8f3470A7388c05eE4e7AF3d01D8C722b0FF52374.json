@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x8f3470A7388c05eE4e7AF3d01D8C722b0FF52374",
+	"symbol": "Veritaseum",
+	"name": "Veritaseum",
+	"coingecko": "veritaseum",
+	"sources": [
+		"coingecko"
+	]
+}

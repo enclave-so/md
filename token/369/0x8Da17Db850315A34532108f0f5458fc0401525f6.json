@@ -1,0 +1,10 @@
+{
+	"chain": 369,
+	"address": "0x8Da17Db850315A34532108f0f5458fc0401525f6",
+	"symbol": "Solid X",
+	"name": "Solid X",
+	"coingecko": "solid-x",
+	"sources": [
+		"coingecko"
+	]
+}

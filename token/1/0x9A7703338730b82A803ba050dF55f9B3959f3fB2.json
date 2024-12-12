@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x9A7703338730b82A803ba050dF55f9B3959f3fB2",
+	"symbol": "Arise Chikun",
+	"name": "Arise Chikun",
+	"coingecko": "arise-chikun",
+	"sources": [
+		"coingecko"
+	]
+}

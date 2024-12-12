@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x53Bd789F2cDb846b227d8ffc7B46eD4263231FDf",
+	"symbol": "SimbCoin Swap",
+	"name": "SimbCoin Swap",
+	"coingecko": "simbcoin-swap",
+	"sources": [
+		"coingecko"
+	]
+}

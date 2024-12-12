@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x3C6A7aB47B5F058Be0e7C7fE1A4b7925B8aCA40e",
+	"symbol": "Cajutel",
+	"name": "Cajutel",
+	"coingecko": "cajutel",
+	"sources": [
+		"coingecko"
+	]
+}

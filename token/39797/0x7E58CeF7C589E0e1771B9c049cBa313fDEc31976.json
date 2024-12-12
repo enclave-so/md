@@ -1,0 +1,10 @@
+{
+	"chain": 39797,
+	"address": "0x7E58CeF7C589E0e1771B9c049cBa313fDEc31976",
+	"symbol": "Mirror Protocol",
+	"name": "Mirror Protocol",
+	"coingecko": "mirror-protocol",
+	"sources": [
+		"coingecko"
+	]
+}

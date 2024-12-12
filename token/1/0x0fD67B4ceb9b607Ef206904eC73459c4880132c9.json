@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x0fD67B4ceb9b607Ef206904eC73459c4880132c9",
+	"symbol": "ShoeFy",
+	"name": "ShoeFy",
+	"coingecko": "shoefy",
+	"sources": [
+		"coingecko"
+	]
+}

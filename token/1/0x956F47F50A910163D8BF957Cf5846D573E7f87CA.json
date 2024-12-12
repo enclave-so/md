@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0x956F47F50A910163D8BF957Cf5846D573E7f87CA",
+	"symbol": "FEI",
+	"name": "Fei",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x956F47F50A910163D8BF957Cf5846D573E7f87CA.jpg",
+	"coingecko": "fei-usd",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

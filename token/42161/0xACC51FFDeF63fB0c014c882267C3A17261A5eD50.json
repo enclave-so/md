@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0xACC51FFDeF63fB0c014c882267C3A17261A5eD50",
+	"symbol": "Stryke",
+	"name": "Stryke",
+	"coingecko": "stryke",
+	"sources": [
+		"coingecko"
+	]
+}

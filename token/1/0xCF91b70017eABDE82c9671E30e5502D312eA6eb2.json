@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xCF91b70017eABDE82c9671E30e5502D312eA6eb2",
+	"symbol": "I love puppies",
+	"name": "I love puppies",
+	"coingecko": "i-love-puppies",
+	"sources": [
+		"coingecko"
+	]
+}

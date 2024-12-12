@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x72A9B1c9B191781bB15F1b98f443a1d916557c92",
+	"symbol": "Florence Finance Medici",
+	"name": "Florence Finance Medici",
+	"coingecko": "florence-finance-medici",
+	"sources": [
+		"coingecko"
+	]
+}

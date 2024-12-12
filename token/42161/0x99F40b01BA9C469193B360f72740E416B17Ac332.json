@@ -1,0 +1,13 @@
+{
+	"chain": 42161,
+	"address": "0x99F40b01BA9C469193B360f72740E416B17Ac332",
+	"symbol": "MATH",
+	"name": "MATH Token",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/math.jpg",
+	"coingecko": "math",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

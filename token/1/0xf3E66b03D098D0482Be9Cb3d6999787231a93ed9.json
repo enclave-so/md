@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xf3E66b03D098D0482Be9Cb3d6999787231a93ed9",
+	"symbol": "PromptIDE",
+	"name": "PromptIDE",
+	"coingecko": "promptide",
+	"sources": [
+		"coingecko"
+	]
+}

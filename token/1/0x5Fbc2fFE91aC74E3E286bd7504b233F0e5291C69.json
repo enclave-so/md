@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x5Fbc2fFE91aC74E3E286bd7504b233F0e5291C69",
+	"symbol": "EarnBet",
+	"name": "EarnBet",
+	"coingecko": "earnbet",
+	"sources": [
+		"coingecko"
+	]
+}

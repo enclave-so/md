@@ -1,0 +1,10 @@
+{
+	"chain": 1313161554,
+	"address": "0xea62791aa682d455614eaA2A12Ba3d9A2fD197af",
+	"symbol": "Flux Protocol",
+	"name": "Flux Protocol",
+	"coingecko": "flux-token",
+	"sources": [
+		"coingecko"
+	]
+}

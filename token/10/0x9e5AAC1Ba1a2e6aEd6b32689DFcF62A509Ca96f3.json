@@ -1,0 +1,11 @@
+{
+	"chain": 10,
+	"address": "0x9e5AAC1Ba1a2e6aEd6b32689DFcF62A509Ca96f3",
+	"symbol": "DF",
+	"name": "dForce",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/DF/logo.svg",
+	"sources": [
+		"sushiswap"
+	]
+}

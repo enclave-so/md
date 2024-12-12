@@ -1,0 +1,11 @@
+{
+	"chain": 128,
+	"address": "0xE36FFD17B2661EB57144cEaEf942D95295E637F0",
+	"symbol": "FILDA",
+	"name": "FilDA on Heco",
+	"decimals": 18,
+	"logo": "https://hecoinfo.com/token/images/filda_32.png",
+	"sources": [
+		"sushiswap"
+	]
+}

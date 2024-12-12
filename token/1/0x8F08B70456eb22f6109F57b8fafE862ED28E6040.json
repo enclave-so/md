@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x8F08B70456eb22f6109F57b8fafE862ED28E6040",
+	"symbol": "LRT Squared",
+	"name": "LRT Squared",
+	"coingecko": "lrt-squared",
+	"sources": [
+		"coingecko"
+	]
+}

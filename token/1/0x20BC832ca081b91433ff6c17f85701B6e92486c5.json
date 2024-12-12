@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x20BC832ca081b91433ff6c17f85701B6e92486c5",
+	"symbol": "rETH2",
+	"name": "rETH2",
+	"coingecko": "reth2",
+	"sources": [
+		"coingecko"
+	]
+}

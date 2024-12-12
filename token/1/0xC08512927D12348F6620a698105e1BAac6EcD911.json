@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xC08512927D12348F6620a698105e1BAac6EcD911",
+	"symbol": "GYEN",
+	"name": "GYEN",
+	"coingecko": "gyen",
+	"sources": [
+		"coingecko"
+	]
+}

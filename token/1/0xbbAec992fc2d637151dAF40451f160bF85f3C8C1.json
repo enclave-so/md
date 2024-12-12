@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xbbAec992fc2d637151dAF40451f160bF85f3C8C1",
+	"symbol": "USD Mapped Token",
+	"name": "USD Mapped Token",
+	"coingecko": "usd-mapped-token",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x6431FA4B812a2DCC062A38CB55cc7D18135AdEAd",
+	"symbol": "RankerDao",
+	"name": "RankerDao",
+	"coingecko": "rankerdao",
+	"sources": [
+		"coingecko"
+	]
+}

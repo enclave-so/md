@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xCcC80Ce58995BAAE4E5867E5cde3bd9F8B242376",
+	"symbol": "God Of Ethereum",
+	"name": "God Of Ethereum",
+	"coingecko": "god-of-ethereum",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x68A47Fe1CF42eBa4a030a10CD4D6a1031Ca3CA0a",
+	"symbol": "Tectum",
+	"name": "Tectum",
+	"coingecko": "tectum",
+	"sources": [
+		"coingecko"
+	]
+}

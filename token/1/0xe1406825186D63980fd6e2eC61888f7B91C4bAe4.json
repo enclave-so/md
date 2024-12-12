@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0xe1406825186D63980fd6e2eC61888f7B91C4bAe4",
+	"symbol": "vBTC",
+	"name": "vBTC",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/vbtc.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

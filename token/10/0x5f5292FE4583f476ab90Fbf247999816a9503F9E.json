@@ -1,0 +1,10 @@
+{
+	"chain": 10,
+	"address": "0x5f5292FE4583f476ab90Fbf247999816a9503F9E",
+	"symbol": "Seamoon Protocol",
+	"name": "Seamoon Protocol",
+	"coingecko": "seamoon-protocol",
+	"sources": [
+		"coingecko"
+	]
+}

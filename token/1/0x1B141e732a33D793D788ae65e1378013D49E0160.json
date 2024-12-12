@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x1B141e732a33D793D788ae65e1378013D49E0160",
+	"symbol": "GENUINE AI",
+	"name": "GENUINE AI",
+	"coingecko": "genuine-ai",
+	"sources": [
+		"coingecko"
+	]
+}

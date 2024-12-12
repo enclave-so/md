@@ -1,0 +1,13 @@
+{
+	"chain": 137,
+	"address": "0x61dAECaB65EE2A1D5b6032df030f3fAA3d116Aa7",
+	"symbol": "DMAGIC",
+	"name": "Dark Magic",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x61dAECaB65EE2A1D5b6032df030f3fAA3d116Aa7/logo.png",
+	"coingecko": "dark-magic",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

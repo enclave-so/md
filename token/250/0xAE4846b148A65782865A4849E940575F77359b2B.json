@@ -1,0 +1,10 @@
+{
+	"chain": 250,
+	"address": "0xAE4846b148A65782865A4849E940575F77359b2B",
+	"symbol": "wMLP",
+	"name": "wMLP",
+	"coingecko": "wmlp",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xB25e20De2F2eBb4CfFD4D16a55C7B395e8a94762",
+	"symbol": "Request",
+	"name": "Request",
+	"coingecko": "request-network",
+	"sources": [
+		"coingecko"
+	]
+}

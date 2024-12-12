@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x5314bA045a459f63906Aa7C76d9F337DcB7d6995",
+	"symbol": "Fodl Finance",
+	"name": "Fodl Finance",
+	"coingecko": "fodl-finance",
+	"sources": [
+		"coingecko"
+	]
+}

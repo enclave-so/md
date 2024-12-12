@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0xE11508d3e0cf09e6FD6E94fDF41E83836D83CE50",
+	"symbol": "Parifi USDC",
+	"name": "Parifi USDC",
+	"coingecko": "parifi-usdc",
+	"sources": [
+		"coingecko"
+	]
+}

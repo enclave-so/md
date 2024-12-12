@@ -1,0 +1,10 @@
+{
+	"chain": 10000,
+	"address": "0x8d7Ea0ec6CaB515463121A3c70Df541f2F534909",
+	"symbol": "Wojak Finance",
+	"name": "Wojak Finance",
+	"coingecko": "wojak-finance",
+	"sources": [
+		"coingecko"
+	]
+}

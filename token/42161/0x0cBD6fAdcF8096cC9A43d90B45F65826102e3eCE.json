@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x0cBD6fAdcF8096cC9A43d90B45F65826102e3eCE",
+	"symbol": "CheckDot",
+	"name": "CheckDot",
+	"coingecko": "checkdot",
+	"sources": [
+		"coingecko"
+	]
+}

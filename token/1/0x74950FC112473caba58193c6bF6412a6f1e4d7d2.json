@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x74950FC112473caba58193c6bF6412a6f1e4d7d2",
+	"symbol": "Vitreus",
+	"name": "Vitreus",
+	"coingecko": "vitreus",
+	"sources": [
+		"coingecko"
+	]
+}

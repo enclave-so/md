@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xbe59baAd09B07086EE6C39BD0fC234c157C31ccc",
+	"symbol": "LONG TOTEM",
+	"name": "LONG TOTEM",
+	"coingecko": "long-totem",
+	"sources": [
+		"coingecko"
+	]
+}

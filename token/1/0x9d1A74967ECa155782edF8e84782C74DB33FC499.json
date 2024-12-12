@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x9d1A74967ECa155782edF8e84782C74DB33FC499",
+	"symbol": "AI.COM",
+	"name": "AI.COM",
+	"coingecko": "ai-com",
+	"sources": [
+		"coingecko"
+	]
+}

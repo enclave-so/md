@@ -1,0 +1,10 @@
+{
+	"chain": 25,
+	"address": "0xFD71FC52D34eD1Cfc8363e5528285B12b6b942c2",
+	"symbol": "DuckyDefi",
+	"name": "DuckyDefi",
+	"coingecko": "duckydefi",
+	"sources": [
+		"coingecko"
+	]
+}

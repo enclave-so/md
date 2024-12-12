@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x7f0c8B125040f707441cad9e5eD8a8408673b455",
+	"symbol": "Kinetic Kollective",
+	"name": "Kinetic Kollective",
+	"coingecko": "csp-dao-network",
+	"sources": [
+		"coingecko"
+	]
+}

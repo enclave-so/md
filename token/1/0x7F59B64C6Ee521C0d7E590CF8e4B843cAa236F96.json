@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x7F59B64C6Ee521C0d7E590CF8e4B843cAa236F96",
+	"symbol": "CellMates",
+	"name": "CellMates",
+	"coingecko": "cellmates",
+	"sources": [
+		"coingecko"
+	]
+}

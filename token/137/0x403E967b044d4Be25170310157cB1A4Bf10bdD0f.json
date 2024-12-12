@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x403E967b044d4Be25170310157cB1A4Bf10bdD0f",
+	"symbol": "Aavegotchi FUD",
+	"name": "Aavegotchi FUD",
+	"coingecko": "aavegotchi-fud",
+	"sources": [
+		"coingecko"
+	]
+}

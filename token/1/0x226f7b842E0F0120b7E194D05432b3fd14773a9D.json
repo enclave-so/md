@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x226f7b842E0F0120b7E194D05432b3fd14773a9D",
+	"symbol": "UNION Protocol Governance",
+	"name": "UNION Protocol Governance",
+	"coingecko": "union-protocol-governance-token",
+	"sources": [
+		"coingecko"
+	]
+}

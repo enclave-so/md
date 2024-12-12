@@ -1,0 +1,10 @@
+{
+	"chain": 17777,
+	"address": "0xF4bd487A8190211E62925435963D996b59a860C0",
+	"symbol": "Neutroswap",
+	"name": "Neutroswap",
+	"coingecko": "neutroswap",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 250,
+	"address": "0x5B3C1F260E09e653290f24F75abC5e466fD42310",
+	"symbol": "Assent Protocol",
+	"name": "Assent Protocol",
+	"coingecko": "assent-protocol",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x05059B925e1396A78f7375a74bc81085B0694436",
+	"symbol": "MTFi",
+	"name": "MTFi",
+	"coingecko": "mtfi",
+	"sources": [
+		"coingecko"
+	]
+}

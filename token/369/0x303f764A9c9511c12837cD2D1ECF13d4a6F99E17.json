@@ -1,0 +1,10 @@
+{
+	"chain": 369,
+	"address": "0x303f764A9c9511c12837cD2D1ECF13d4a6F99E17",
+	"symbol": "Atrofarm",
+	"name": "Atrofarm",
+	"coingecko": "atrofarm",
+	"sources": [
+		"coingecko"
+	]
+}

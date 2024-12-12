@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x76BC2e765414E6C8b596c0f52c4240f80268f41D",
+	"symbol": "Unibit",
+	"name": "Unibit",
+	"coingecko": "unibit",
+	"sources": [
+		"coingecko"
+	]
+}

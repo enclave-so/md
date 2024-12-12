@@ -1,0 +1,10 @@
+{
+	"chain": 1907,
+	"address": "0xfFdCC0eb46be4Ac8F9520E14FD5553605B06a0D6",
+	"symbol": "BitciX",
+	"name": "BitciX",
+	"coingecko": "bitcix",
+	"sources": [
+		"coingecko"
+	]
+}

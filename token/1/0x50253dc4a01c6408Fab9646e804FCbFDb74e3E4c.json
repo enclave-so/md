@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x50253dc4a01c6408Fab9646e804FCbFDb74e3E4c",
+	"symbol": "Inception Restaked sFRAX",
+	"name": "Inception Restaked sFRAX",
+	"coingecko": "inception-restaked-sfrax",
+	"sources": [
+		"coingecko"
+	]
+}

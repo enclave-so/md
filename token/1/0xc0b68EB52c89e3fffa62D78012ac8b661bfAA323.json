@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xc0b68EB52c89e3fffa62D78012ac8b661bfAA323",
+	"symbol": "Vixco",
+	"name": "Vixco",
+	"coingecko": "vixco",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"chain": 100,
+	"address": "0x6C76971f98945AE98dD7d4DFcA8711ebea946eA6",
+	"symbol": "wstETH",
+	"name": "Wrapped Liquid Staked Ether",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/wsteth.jpg",
+	"coingecko": "bridged-wrapped-steth-gnosis",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

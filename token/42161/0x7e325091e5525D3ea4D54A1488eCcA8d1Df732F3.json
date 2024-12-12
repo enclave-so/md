@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x7e325091e5525D3ea4D54A1488eCcA8d1Df732F3",
+	"symbol": "Pacman Native Token",
+	"name": "Pacman Native Token",
+	"coingecko": "pacman-native-token",
+	"sources": [
+		"coingecko"
+	]
+}

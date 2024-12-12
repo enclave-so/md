@@ -1,0 +1,10 @@
+{
+	"chain": 250,
+	"address": "0x8D7d3409881b51466B483B11Ea1B8A03cdEd89ae",
+	"symbol": "Based Finance",
+	"name": "Based Finance",
+	"coingecko": "based-finance",
+	"sources": [
+		"coingecko"
+	]
+}

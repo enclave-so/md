@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x9DeB0fc809955b79c85e82918E8586d3b7d2695a",
+	"symbol": "GoldenBoys",
+	"name": "GoldenBoys",
+	"coingecko": "goldenboys",
+	"sources": [
+		"coingecko"
+	]
+}

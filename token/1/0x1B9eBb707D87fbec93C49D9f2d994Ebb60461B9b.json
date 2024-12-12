@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x1B9eBb707D87fbec93C49D9f2d994Ebb60461B9b",
+	"symbol": "Increment",
+	"name": "Increment",
+	"coingecko": "increment",
+	"sources": [
+		"coingecko"
+	]
+}

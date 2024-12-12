@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xeE3c722d177559F73288cEC91fA3E4bBfd8C27Fc",
+	"symbol": "Douglas Adams",
+	"name": "Douglas Adams",
+	"coingecko": "douglas-adams",
+	"sources": [
+		"coingecko"
+	]
+}

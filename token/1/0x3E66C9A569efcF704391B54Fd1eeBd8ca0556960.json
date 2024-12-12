@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x3E66C9A569efcF704391B54Fd1eeBd8ca0556960",
+	"symbol": "Fu Bao",
+	"name": "Fu Bao",
+	"coingecko": "fu-bao",
+	"sources": [
+		"coingecko"
+	]
+}

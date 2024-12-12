@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x176BC22E1855Cd5cf5A840081C6c5b92b55E2210",
+	"symbol": "Gambex",
+	"name": "Gambex",
+	"coingecko": "gambex",
+	"sources": [
+		"coingecko"
+	]
+}

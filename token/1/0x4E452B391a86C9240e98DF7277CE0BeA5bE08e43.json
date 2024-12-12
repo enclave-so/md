@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x4E452B391a86C9240e98DF7277CE0BeA5bE08e43",
+	"symbol": "Pax Unitas",
+	"name": "Pax Unitas",
+	"coingecko": "pax-unitas",
+	"sources": [
+		"coingecko"
+	]
+}

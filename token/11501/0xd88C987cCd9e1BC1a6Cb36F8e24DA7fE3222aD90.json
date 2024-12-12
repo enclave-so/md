@@ -1,0 +1,10 @@
+{
+	"chain": 11501,
+	"address": "0xd88C987cCd9e1BC1a6Cb36F8e24DA7fE3222aD90",
+	"symbol": "General-Layer BTC",
+	"name": "General-Layer BTC",
+	"coingecko": "general-layer-btc",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"chain": 137,
+	"address": "0xC004e2318722EA2b15499D6375905d75Ee5390B8",
+	"symbol": "KOM",
+	"name": "Kommunitas",
+	"decimals": 8,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xC004e2318722EA2b15499D6375905d75Ee5390B8/logo.png",
+	"coingecko": "kommunitas",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xaB93dF617F51E1E415b5b4f8111f122d6b48e55C",
+	"symbol": "Delta Exchange",
+	"name": "Delta Exchange",
+	"coingecko": "delta-exchange-token",
+	"sources": [
+		"coingecko"
+	]
+}

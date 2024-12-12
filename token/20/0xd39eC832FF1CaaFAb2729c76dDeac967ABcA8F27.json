@@ -1,0 +1,10 @@
+{
+	"chain": 20,
+	"address": "0xd39eC832FF1CaaFAb2729c76dDeac967ABcA8F27",
+	"symbol": "Glide Finance",
+	"name": "Glide Finance",
+	"coingecko": "glide-finance",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x93D504070AB0eede5449C89C5eA0F5e34D8103f8",
+	"symbol": "Archi Token",
+	"name": "Archi Token",
+	"coingecko": "archi-token",
+	"sources": [
+		"coingecko"
+	]
+}

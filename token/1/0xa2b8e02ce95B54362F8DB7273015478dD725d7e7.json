@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xa2b8e02ce95B54362F8DB7273015478dD725d7e7",
+	"symbol": "MEME CUP",
+	"name": "MEME CUP",
+	"coingecko": "meme-cup",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 128,
+	"address": "0xa1ecFc2beC06E4b43dDd423b94Fef84d0dBc8F5c",
+	"symbol": "Elastos",
+	"name": "Elastos",
+	"coingecko": "elastos",
+	"sources": [
+		"coingecko"
+	]
+}

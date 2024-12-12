@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0x0f51bb10119727a7e5eA3538074fb341F56B09Ad",
+	"symbol": "DAO",
+	"name": "DAO Maker",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x0f51bb10119727a7e5eA3538074fb341F56B09Ad/logo.png",
+	"coingecko": "dao-maker",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

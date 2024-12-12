@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x2E7e487D84B5BAbA5878A9833fb394bC89633Fd7",
+	"symbol": "Omnia Protocol",
+	"name": "Omnia Protocol",
+	"coingecko": "omnia",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 10,
+	"address": "0x8fB94E08BC984497Aaaf1a545ED455bE89F8c675",
+	"symbol": "Aktionariat TV PLUS AG Tokenized Shares",
+	"name": "Aktionariat TV PLUS AG Tokenized Shares",
+	"coingecko": "aktionariat-tv-plus-ag-tokenized-shares",
+	"sources": [
+		"coingecko"
+	]
+}

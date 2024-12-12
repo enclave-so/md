@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xc740181345c65552333e1EDC797E03f11852B1C8",
+	"symbol": "Kento",
+	"name": "Kento",
+	"coingecko": "kento",
+	"sources": [
+		"coingecko"
+	]
+}

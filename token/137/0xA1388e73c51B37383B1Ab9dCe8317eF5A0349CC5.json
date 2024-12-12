@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xA1388e73c51B37383B1Ab9dCe8317eF5A0349CC5",
+	"symbol": "Shibaverse",
+	"name": "Shibaverse",
+	"coingecko": "shibaverse",
+	"sources": [
+		"coingecko"
+	]
+}

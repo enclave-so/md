@@ -1,0 +1,10 @@
+{
+	"chain": 324,
+	"address": "0xB0C2BDc425fD01c33D8514f8bE016070212BDc6a",
+	"symbol": "Long Mao",
+	"name": "Long Mao",
+	"coingecko": "long-mao",
+	"sources": [
+		"coingecko"
+	]
+}

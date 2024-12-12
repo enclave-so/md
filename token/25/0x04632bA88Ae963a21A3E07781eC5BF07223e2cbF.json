@@ -1,0 +1,13 @@
+{
+	"chain": 25,
+	"address": "0x04632bA88Ae963a21A3E07781eC5BF07223e2cbF",
+	"symbol": "CROFAM",
+	"name": "CroFam",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x04632bA88Ae963a21A3E07781eC5BF07223e2cbF.jpg",
+	"coingecko": "crofam",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

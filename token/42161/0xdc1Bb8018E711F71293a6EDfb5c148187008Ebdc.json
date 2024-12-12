@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0xdc1Bb8018E711F71293a6EDfb5c148187008Ebdc",
+	"symbol": "WALC",
+	"name": "WALC",
+	"coingecko": "walc",
+	"sources": [
+		"coingecko"
+	]
+}

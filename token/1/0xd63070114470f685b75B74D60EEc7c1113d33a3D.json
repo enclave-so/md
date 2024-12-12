@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xd63070114470f685b75B74D60EEc7c1113d33a3D",
+	"symbol": "MEV Capital Usual Boosted USDC Morpho Vault",
+	"name": "MEV Capital Usual Boosted USDC Morpho Vault",
+	"coingecko": "mev-capital-usual-boosted-usdc-morpho-vault",
+	"sources": [
+		"coingecko"
+	]
+}

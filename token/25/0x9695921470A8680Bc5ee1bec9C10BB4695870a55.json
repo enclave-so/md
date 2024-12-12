@@ -1,0 +1,11 @@
+{
+	"chain": 25,
+	"address": "0x9695921470A8680Bc5ee1bec9C10BB4695870a55",
+	"symbol": "VALOR",
+	"name": "Valor Token",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x9695921470A8680Bc5ee1bec9C10BB4695870a55.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

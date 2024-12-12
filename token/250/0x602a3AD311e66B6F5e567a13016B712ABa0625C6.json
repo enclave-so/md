@@ -1,0 +1,10 @@
+{
+	"chain": 250,
+	"address": "0x602a3AD311e66B6F5e567a13016B712ABa0625C6",
+	"symbol": "Unit Protocol",
+	"name": "Unit Protocol",
+	"coingecko": "unit-protocol-duck",
+	"sources": [
+		"coingecko"
+	]
+}

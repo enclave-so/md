@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xA696a63cc78DfFa1a63E9E50587C197387FF6C7E",
+	"symbol": "WBTC yVault",
+	"name": "WBTC yVault",
+	"coingecko": "wbtc-yvault",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"chain": 1666600000,
+	"address": "0x0D625029E21540aBdfAFa3BFC6FD44fB4e0A66d0",
+	"symbol": "CLNY",
+	"name": "ColonyToken",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/harmony/assets/0x0D625029E21540aBdfAFa3BFC6FD44fB4e0A66d0/logo.png",
+	"coingecko": "marscolony",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 250,
+	"address": "0x0cE12ae7c899eBF2bcDa7AA570C5af98b6688C95",
+	"symbol": "Speedy",
+	"name": "Speedy",
+	"coingecko": "speedy",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xC0Eb85285d83217CD7c891702bcbC0FC401E2D9D",
+	"symbol": "Hiveterminal",
+	"name": "Hiveterminal",
+	"coingecko": "hiveterminal",
+	"sources": [
+		"coingecko"
+	]
+}

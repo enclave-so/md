@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0xd79Bb960Dc8a206806c3a428b31bCA49934d18D7",
+	"symbol": "Rosnet",
+	"name": "Rosnet",
+	"coingecko": "rosnet",
+	"sources": [
+		"coingecko"
+	]
+}

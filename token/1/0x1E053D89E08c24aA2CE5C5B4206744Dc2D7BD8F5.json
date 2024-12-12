@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x1E053D89E08c24aA2CE5C5B4206744Dc2D7BD8F5",
+	"symbol": "ThunderCore",
+	"name": "ThunderCore",
+	"coingecko": "thunder-token",
+	"sources": [
+		"coingecko"
+	]
+}

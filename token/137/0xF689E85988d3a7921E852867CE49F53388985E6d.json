@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xF689E85988d3a7921E852867CE49F53388985E6d",
+	"symbol": "MobiFi",
+	"name": "MobiFi",
+	"coingecko": "mobifi",
+	"sources": [
+		"coingecko"
+	]
+}

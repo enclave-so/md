@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x198f1D316aad1C0Bfd36a79bd1A8e9dba92DAa18",
+	"symbol": "DeCats",
+	"name": "DeCats",
+	"coingecko": "decats",
+	"sources": [
+		"coingecko"
+	]
+}

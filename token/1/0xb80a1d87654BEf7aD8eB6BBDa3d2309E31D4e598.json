@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xb80a1d87654BEf7aD8eB6BBDa3d2309E31D4e598",
+	"symbol": "21.co Wrapped SOL",
+	"name": "21.co Wrapped SOL",
+	"coingecko": "wrapped-sol-21-co",
+	"sources": [
+		"coingecko"
+	]
+}

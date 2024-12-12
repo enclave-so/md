@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xbE9Ab37a414c517b2be2bfA5945665bB07379054",
+	"symbol": "TomTomCoin",
+	"name": "TomTomCoin",
+	"coingecko": "tomtomcoin",
+	"sources": [
+		"coingecko"
+	]
+}

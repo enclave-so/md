@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xf7413489c474ca4399eeE604716c72879Eea3615",
+	"symbol": "APYSwap",
+	"name": "APYSwap",
+	"coingecko": "apyswap",
+	"sources": [
+		"coingecko"
+	]
+}

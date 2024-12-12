@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xC8EF1460277EA47d179dEc66D1c5f8b7f7aE5a28",
+	"symbol": "Rikkei Finance",
+	"name": "Rikkei Finance",
+	"coingecko": "rikkei-finance",
+	"sources": [
+		"coingecko"
+	]
+}

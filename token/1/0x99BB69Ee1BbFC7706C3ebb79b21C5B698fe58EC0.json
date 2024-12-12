@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x99BB69Ee1BbFC7706C3ebb79b21C5B698fe58EC0",
+	"symbol": "DeHub",
+	"name": "DeHub",
+	"coingecko": "dehub",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x079504b86d38119F859c4194765029F692b7B7aa",
+	"symbol": "Lyra Finance",
+	"name": "Lyra Finance",
+	"coingecko": "lyra-finance",
+	"sources": [
+		"coingecko"
+	]
+}

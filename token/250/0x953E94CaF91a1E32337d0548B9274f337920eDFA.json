@@ -1,0 +1,10 @@
+{
+	"chain": 250,
+	"address": "0x953E94CaF91a1E32337d0548B9274f337920eDFA",
+	"symbol": "USDV",
+	"name": "USDV",
+	"coingecko": "usdv-2",
+	"sources": [
+		"coingecko"
+	]
+}

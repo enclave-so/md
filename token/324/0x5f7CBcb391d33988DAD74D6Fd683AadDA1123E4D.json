@@ -1,0 +1,10 @@
+{
+	"chain": 324,
+	"address": "0x5f7CBcb391d33988DAD74D6Fd683AadDA1123E4D",
+	"symbol": "ReactorFusion",
+	"name": "ReactorFusion",
+	"coingecko": "reactorfusion",
+	"sources": [
+		"coingecko"
+	]
+}

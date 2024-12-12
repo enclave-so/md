@@ -1,0 +1,10 @@
+{
+	"chain": 10,
+	"address": "0x38F9bf9dCe51833Ec7f03C9dC218197999999999",
+	"symbol": "Nya",
+	"name": "Nya",
+	"coingecko": "nya",
+	"sources": [
+		"coingecko"
+	]
+}

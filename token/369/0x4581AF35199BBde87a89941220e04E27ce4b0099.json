@@ -1,0 +1,10 @@
+{
+	"chain": 369,
+	"address": "0x4581AF35199BBde87a89941220e04E27ce4b0099",
+	"symbol": "Maximus Pool Party",
+	"name": "Maximus Pool Party",
+	"coingecko": "maximus-pool-party",
+	"sources": [
+		"coingecko"
+	]
+}

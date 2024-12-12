@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x2F4EB21aCD80A596bCcA596aB40bad928f5D2Bcf",
+	"symbol": "Dancing Beans",
+	"name": "Dancing Beans",
+	"coingecko": "dancing-beans",
+	"sources": [
+		"coingecko"
+	]
+}

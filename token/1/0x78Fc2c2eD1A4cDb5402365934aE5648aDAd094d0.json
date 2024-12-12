@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x78Fc2c2eD1A4cDb5402365934aE5648aDAd094d0",
+	"symbol": "Re7 WETH Morpho Vault",
+	"name": "Re7 WETH Morpho Vault",
+	"coingecko": "re7-weth-morpho-vault",
+	"sources": [
+		"coingecko"
+	]
+}

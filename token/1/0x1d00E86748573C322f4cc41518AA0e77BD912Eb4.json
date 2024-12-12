@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x1d00E86748573C322f4cc41518AA0e77BD912Eb4",
+	"symbol": "Ethereum Reserve Dollar USDE",
+	"name": "Ethereum Reserve Dollar USDE",
+	"coingecko": "ethereum-reserve-dollar-usde",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x211F4e76fcB811ed2B310A232a24B3445d95E3bC",
+	"symbol": "Matrix Labs",
+	"name": "Matrix Labs",
+	"coingecko": "matrixswap",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x96cc63EeF1F63CDE9ACd69061Bfb7606887f26d8",
+	"symbol": "Basketballverse",
+	"name": "Basketballverse",
+	"coingecko": "basketballverse-2",
+	"sources": [
+		"coingecko"
+	]
+}

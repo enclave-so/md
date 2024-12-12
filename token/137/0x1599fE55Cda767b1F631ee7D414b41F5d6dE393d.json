@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x1599fE55Cda767b1F631ee7D414b41F5d6dE393d",
+	"symbol": "Cool Cats Milk",
+	"name": "Cool Cats Milk",
+	"coingecko": "milk",
+	"sources": [
+		"coingecko"
+	]
+}

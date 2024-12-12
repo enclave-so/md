@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xe6f4a40156C9E8c7Addda66848bbb99FDEdeCF84",
+	"symbol": "DeTensor",
+	"name": "DeTensor",
+	"coingecko": "detensor",
+	"sources": [
+		"coingecko"
+	]
+}

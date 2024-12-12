@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x8AEC4bbDcfB451aA289bfBD3C2F4E34A44ADa1be",
+	"symbol": "dogwifhat Eth",
+	"name": "dogwifhat Eth",
+	"coingecko": "dogwifhat-eth",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x7ABE9Edf5C544A04dA83e9110CF46DBC4759170c",
+	"symbol": "WPAY",
+	"name": "WPAY",
+	"coingecko": "wpay",
+	"sources": [
+		"coingecko"
+	]
+}

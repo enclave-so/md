@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x0BA8A6ce46D369d779299DeDADe864318097B703",
+	"symbol": "JUSD",
+	"name": "JUSD",
+	"coingecko": "jusd",
+	"sources": [
+		"coingecko"
+	]
+}

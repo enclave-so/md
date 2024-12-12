@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x7D4A23832FaD83258B32ce4Fd3109Ceef4332aF4",
+	"symbol": "Stonks on ETH",
+	"name": "Stonks on ETH",
+	"coingecko": "stonks-on-eth",
+	"sources": [
+		"coingecko"
+	]
+}

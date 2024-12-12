@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x65E9ED59a6c03e97aE984B6C4ff912448eBD3566",
+	"symbol": "Ryoshi Research",
+	"name": "Ryoshi Research",
+	"coingecko": "ryoshi-research",
+	"sources": [
+		"coingecko"
+	]
+}

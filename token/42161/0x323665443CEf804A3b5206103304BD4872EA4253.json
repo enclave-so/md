@@ -1,0 +1,13 @@
+{
+	"chain": 42161,
+	"address": "0x323665443CEf804A3b5206103304BD4872EA4253",
+	"symbol": "USDV",
+	"name": "USDV",
+	"decimals": 6,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x323665443CEf804A3b5206103304BD4872EA4253.jpg",
+	"coingecko": "verified-usd-foundation-usdv",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 10,
+	"address": "0x5C0Ea461FE5E6f3b4f90a071E72243C14C6abfd7",
+	"symbol": "Amulet Protocol",
+	"name": "Amulet Protocol",
+	"coingecko": "amulet-protocol",
+	"sources": [
+		"coingecko"
+	]
+}

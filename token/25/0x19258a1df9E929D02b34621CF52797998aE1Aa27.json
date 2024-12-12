@@ -1,0 +1,10 @@
+{
+	"chain": 25,
+	"address": "0x19258a1df9E929D02b34621CF52797998aE1Aa27",
+	"symbol": "MarbleVerse",
+	"name": "MarbleVerse",
+	"coingecko": "rollium",
+	"sources": [
+		"coingecko"
+	]
+}

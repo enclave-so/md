@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xbdEB4b83251Fb146687fa19D1C660F99411eefe3",
+	"symbol": "Savedroid",
+	"name": "Savedroid",
+	"coingecko": "savedroid",
+	"sources": [
+		"coingecko"
+	]
+}

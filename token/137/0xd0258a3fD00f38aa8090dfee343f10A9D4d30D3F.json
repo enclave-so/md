@@ -1,0 +1,13 @@
+{
+	"chain": 137,
+	"address": "0xd0258a3fD00f38aa8090dfee343f10A9D4d30D3F",
+	"symbol": "VOXEL",
+	"name": "VOXEL Token",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xd0258a3fD00f38aa8090dfee343f10A9D4d30D3F/logo.png",
+	"coingecko": "voxies",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

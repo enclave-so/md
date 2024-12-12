@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xFeAc2Eae96899709a43E252B6B92971D32F9C0F9",
+	"symbol": "ANyONe Protocol",
+	"name": "ANyONe Protocol",
+	"coingecko": "airtor-protocol",
+	"sources": [
+		"coingecko"
+	]
+}

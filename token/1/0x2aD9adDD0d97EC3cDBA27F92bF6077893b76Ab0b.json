@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x2aD9adDD0d97EC3cDBA27F92bF6077893b76Ab0b",
+	"symbol": "Planet Token",
+	"name": "Planet Token",
+	"coingecko": "planet-token",
+	"sources": [
+		"coingecko"
+	]
+}

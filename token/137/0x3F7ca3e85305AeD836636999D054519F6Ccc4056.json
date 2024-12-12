@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x3F7ca3e85305AeD836636999D054519F6Ccc4056",
+	"symbol": "Epic Ballad Coin",
+	"name": "Epic Ballad Coin",
+	"coingecko": "epic-ballad-coin",
+	"sources": [
+		"coingecko"
+	]
+}

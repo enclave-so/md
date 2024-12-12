@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x9Fda7cEeC4c18008096C2fE2B85F05dc300F94d0",
+	"symbol": "Gaj Finance",
+	"name": "Gaj Finance",
+	"coingecko": "gaj",
+	"sources": [
+		"coingecko"
+	]
+}

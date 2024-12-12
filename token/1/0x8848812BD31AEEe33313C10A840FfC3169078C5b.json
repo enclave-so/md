@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x8848812BD31AEEe33313C10A840FfC3169078C5b",
+	"symbol": "CrossFi",
+	"name": "CrossFi",
+	"coingecko": "crossfi",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x0D5105ec5bBbF17DBa7a87E1aED2C2C15394a9E2",
+	"symbol": "RCGE",
+	"name": "RCGE",
+	"coingecko": "rcge",
+	"sources": [
+		"coingecko"
+	]
+}

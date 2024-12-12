@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x9ee8c380E1926730aD89e91665FF27063b13c90A",
+	"symbol": "Coupon Assets",
+	"name": "Coupon Assets",
+	"coingecko": "ca-htb",
+	"sources": [
+		"coingecko"
+	]
+}

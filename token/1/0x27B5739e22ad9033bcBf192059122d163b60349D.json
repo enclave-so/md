@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x27B5739e22ad9033bcBf192059122d163b60349D",
+	"symbol": "Staked Yearn CRV Vault",
+	"name": "Staked Yearn CRV Vault",
+	"coingecko": "staked-yearn-crv-vault",
+	"sources": [
+		"coingecko"
+	]
+}

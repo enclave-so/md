@@ -1,0 +1,13 @@
+{
+	"chain": 1666600000,
+	"address": "0x22D62b19b7039333ad773b7185BB61294F3AdC19",
+	"symbol": "stONE",
+	"name": "Staked One",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/harmony/assets/0x22D62b19b7039333ad773b7185BB61294F3AdC19/logo.png",
+	"coingecko": "tranquil-staked-one",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

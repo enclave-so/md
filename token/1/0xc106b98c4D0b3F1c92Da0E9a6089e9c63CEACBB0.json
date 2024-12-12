@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xc106b98c4D0b3F1c92Da0E9a6089e9c63CEACBB0",
+	"symbol": "TrendAppend",
+	"name": "TrendAppend",
+	"coingecko": "trendappend",
+	"sources": [
+		"coingecko"
+	]
+}

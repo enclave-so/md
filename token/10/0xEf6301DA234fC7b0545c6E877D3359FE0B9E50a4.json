@@ -1,0 +1,11 @@
+{
+	"chain": 10,
+	"address": "0xEf6301DA234fC7b0545c6E877D3359FE0B9E50a4",
+	"symbol": "SUKU",
+	"name": "SUKU",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/SUKU/logo.png",
+	"sources": [
+		"sushiswap"
+	]
+}

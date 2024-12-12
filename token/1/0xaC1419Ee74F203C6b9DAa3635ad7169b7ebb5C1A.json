@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xaC1419Ee74F203C6b9DAa3635ad7169b7ebb5C1A",
+	"symbol": "Nebula",
+	"name": "Nebula",
+	"coingecko": "nebula-2",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x5A12975bF0158C9C3B23622f44917D113F31842D",
+	"symbol": "Komari",
+	"name": "Komari",
+	"coingecko": "komari",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x0B5C6ac0E1082F2d81e829B8C2957886e6bb3994",
+	"symbol": "Prism",
+	"name": "Prism",
+	"coingecko": "prism-2",
+	"sources": [
+		"coingecko"
+	]
+}

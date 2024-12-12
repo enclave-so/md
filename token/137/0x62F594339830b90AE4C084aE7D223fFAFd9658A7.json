@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x62F594339830b90AE4C084aE7D223fFAFd9658A7",
+	"symbol": "Sphere Finance",
+	"name": "Sphere Finance",
+	"coingecko": "sphere-finance",
+	"sources": [
+		"coingecko"
+	]
+}

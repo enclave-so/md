@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xa393473d64d2F9F026B60b6Df7859A689715d092",
+	"symbol": "Lattice",
+	"name": "Lattice",
+	"coingecko": "lattice-token",
+	"sources": [
+		"coingecko"
+	]
+}

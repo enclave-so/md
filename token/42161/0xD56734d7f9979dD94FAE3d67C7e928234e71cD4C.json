@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0xD56734d7f9979dD94FAE3d67C7e928234e71cD4C",
+	"symbol": "Bridged TIA (Hyperlane)",
+	"name": "Bridged TIA (Hyperlane)",
+	"coingecko": "bridged-tia-hyperlane",
+	"sources": [
+		"coingecko"
+	]
+}

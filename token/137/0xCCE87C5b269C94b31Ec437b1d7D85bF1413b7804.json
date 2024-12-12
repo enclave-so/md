@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xCCE87C5b269C94b31Ec437b1d7D85bF1413b7804",
+	"symbol": "Oort Digital",
+	"name": "Oort Digital",
+	"coingecko": "oort-digital",
+	"sources": [
+		"coingecko"
+	]
+}

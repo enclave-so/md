@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xeD89fc0F41d8Be2C98B13B7e3cd3E876D73f1d30",
+	"symbol": "Gou",
+	"name": "Gou",
+	"coingecko": "gou",
+	"sources": [
+		"coingecko"
+	]
+}

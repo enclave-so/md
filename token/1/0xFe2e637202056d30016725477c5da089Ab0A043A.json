@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xFe2e637202056d30016725477c5da089Ab0A043A",
+	"symbol": "sETH2",
+	"name": "sETH2",
+	"coingecko": "seth2",
+	"sources": [
+		"coingecko"
+	]
+}

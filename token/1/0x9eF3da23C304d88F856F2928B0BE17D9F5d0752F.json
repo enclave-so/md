@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x9eF3da23C304d88F856F2928B0BE17D9F5d0752F",
+	"symbol": "Multipool",
+	"name": "Multipool",
+	"coingecko": "multipool",
+	"sources": [
+		"coingecko"
+	]
+}

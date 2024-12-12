@@ -1,0 +1,13 @@
+{
+	"chain": 25,
+	"address": "0x85608d6373FDCfc9fB1582187dC3A81C2942F3f2",
+	"symbol": "CHUCKY",
+	"name": "Chucky",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x85608d6373FDCfc9fB1582187dC3A81C2942F3f2.jpg",
+	"coingecko": "chucky",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

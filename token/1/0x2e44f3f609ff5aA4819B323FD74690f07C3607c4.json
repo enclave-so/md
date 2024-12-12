@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x2e44f3f609ff5aA4819B323FD74690f07C3607c4",
+	"symbol": "PinLink",
+	"name": "PinLink",
+	"coingecko": "pinlink",
+	"sources": [
+		"coingecko"
+	]
+}

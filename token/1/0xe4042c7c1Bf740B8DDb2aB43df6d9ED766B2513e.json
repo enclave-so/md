@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xe4042c7c1Bf740B8DDb2aB43df6d9ED766B2513e",
+	"symbol": "Andy Alter Ego",
+	"name": "Andy Alter Ego",
+	"coingecko": "andy-alter-ego",
+	"sources": [
+		"coingecko"
+	]
+}

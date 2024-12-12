@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xa0Cc4428FbB652C396F28DcE8868B8743742A71c",
+	"symbol": "Purple AI",
+	"name": "Purple AI",
+	"coingecko": "purple-ai",
+	"sources": [
+		"coingecko"
+	]
+}

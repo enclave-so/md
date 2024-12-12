@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x733B5056a0697e7a4357305FE452999a0C409feb",
+	"symbol": "IMVU",
+	"name": "IMVU",
+	"coingecko": "vcore",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xfAbA6f8e4a5E8Ab82F62fe7C39859FA577269BE3",
+	"symbol": "Ondo",
+	"name": "Ondo",
+	"coingecko": "ondo-finance",
+	"sources": [
+		"coingecko"
+	]
+}

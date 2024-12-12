@@ -1,0 +1,13 @@
+{
+	"chain": 30,
+	"address": "0x9AC7fE28967B30E3A4e6e03286d715b42B453D10",
+	"symbol": "MOC",
+	"name": "MOC",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/rootstock/0x9AC7fE28967B30E3A4e6e03286d715b42B453D10.jpg",
+	"coingecko": "money-on-chain",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

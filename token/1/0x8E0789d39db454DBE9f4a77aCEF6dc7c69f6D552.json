@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x8E0789d39db454DBE9f4a77aCEF6dc7c69f6D552",
+	"symbol": "Inception Restaked stETH Symbiotic",
+	"name": "Inception Restaked stETH Symbiotic",
+	"coingecko": "inception-restaked-steth-symbiotic",
+	"sources": [
+		"coingecko"
+	]
+}

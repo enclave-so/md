@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xD1f9c58e33933a993A3891F8acFe05a68E1afC05",
+	"symbol": "Sunflower Land",
+	"name": "Sunflower Land",
+	"coingecko": "sunflower-land",
+	"sources": [
+		"coingecko"
+	]
+}

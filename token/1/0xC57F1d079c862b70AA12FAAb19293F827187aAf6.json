@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xC57F1d079c862b70AA12FAAb19293F827187aAf6",
+	"symbol": "Gilgeous",
+	"name": "Gilgeous",
+	"coingecko": "gilgeous",
+	"sources": [
+		"coingecko"
+	]
+}

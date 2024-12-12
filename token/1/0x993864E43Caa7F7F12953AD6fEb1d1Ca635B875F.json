@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x993864E43Caa7F7F12953AD6fEb1d1Ca635B875F",
+	"symbol": "SingularityDAO",
+	"name": "SingularityDAO",
+	"coingecko": "singularitydao",
+	"sources": [
+		"coingecko"
+	]
+}

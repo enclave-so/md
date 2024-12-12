@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0xE41d2489571d322189246DaFA5ebDe1F4699F498",
+	"symbol": "ZRX",
+	"name": "0x",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/zrx.jpg",
+	"coingecko": "0x",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

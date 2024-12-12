@@ -1,0 +1,10 @@
+{
+	"chain": 1088,
+	"address": "0x096A84536ab84E68ee210561FFD3A038E79736F1",
+	"symbol": "ENKI Protocol",
+	"name": "ENKI Protocol",
+	"coingecko": "enki-protocol",
+	"sources": [
+		"coingecko"
+	]
+}

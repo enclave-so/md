@@ -1,0 +1,11 @@
+{
+	"chain": 42161,
+	"address": "0x58CB98A966F62aA6F2190eB3AA03132A0c3de3D5",
+	"symbol": "OPEN",
+	"name": "OpenWorld",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x58CB98A966F62aA6F2190eB3AA03132A0c3de3D5.jpg",
+	"sources": [
+		"sushiswap"
+	]
+}

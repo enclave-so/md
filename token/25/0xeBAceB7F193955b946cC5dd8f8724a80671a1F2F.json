@@ -1,0 +1,13 @@
+{
+	"chain": 25,
+	"address": "0xeBAceB7F193955b946cC5dd8f8724a80671a1F2F",
+	"symbol": "bCRO",
+	"name": "Bonded CRO",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xeBAceB7F193955b946cC5dd8f8724a80671a1F2F.jpg",
+	"coingecko": "bonded-cronos",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

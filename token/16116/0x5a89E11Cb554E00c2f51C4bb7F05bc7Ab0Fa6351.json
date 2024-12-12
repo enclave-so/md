@@ -1,0 +1,10 @@
+{
+	"chain": 16116,
+	"address": "0x5a89E11Cb554E00c2f51C4bb7F05bc7Ab0Fa6351",
+	"symbol": "Wrapped OAS (DeFiVerse)",
+	"name": "Wrapped OAS (DeFiVerse)",
+	"coingecko": "wrapped-oas-defiverse",
+	"sources": [
+		"coingecko"
+	]
+}

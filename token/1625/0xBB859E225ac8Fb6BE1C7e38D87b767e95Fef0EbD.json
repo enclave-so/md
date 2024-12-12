@@ -1,0 +1,10 @@
+{
+	"chain": 1625,
+	"address": "0xBB859E225ac8Fb6BE1C7e38D87b767e95Fef0EbD",
+	"symbol": "Wrapped G",
+	"name": "Wrapped G",
+	"coingecko": "wrapped-g",
+	"sources": [
+		"coingecko"
+	]
+}

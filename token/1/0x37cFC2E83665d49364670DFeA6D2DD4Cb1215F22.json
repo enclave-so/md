@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x37cFC2E83665d49364670DFeA6D2DD4Cb1215F22",
+	"symbol": "Astrid Restaked rETH",
+	"name": "Astrid Restaked rETH",
+	"coingecko": "astrid-restaked-reth",
+	"sources": [
+		"coingecko"
+	]
+}

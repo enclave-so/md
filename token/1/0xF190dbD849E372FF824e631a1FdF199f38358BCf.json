@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xF190dbD849E372FF824e631a1FdF199f38358BCf",
+	"symbol": "Capybara Memecoin",
+	"name": "Capybara Memecoin",
+	"coingecko": "capybara-memecoin",
+	"sources": [
+		"coingecko"
+	]
+}

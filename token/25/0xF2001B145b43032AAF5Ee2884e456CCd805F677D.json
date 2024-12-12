@@ -1,0 +1,13 @@
+{
+	"chain": 25,
+	"address": "0xF2001B145b43032AAF5Ee2884e456CCd805F677D",
+	"symbol": "DAI",
+	"name": "Dai Stablecoin",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xF2001B145b43032AAF5Ee2884e456CCd805F677D.jpg",
+	"coingecko": "crypto-com-bridged-dai-cronos",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

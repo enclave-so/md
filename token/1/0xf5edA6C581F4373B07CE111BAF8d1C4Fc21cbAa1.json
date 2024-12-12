@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xf5edA6C581F4373B07CE111BAF8d1C4Fc21cbAa1",
+	"symbol": "Game Tournament Trophy",
+	"name": "Game Tournament Trophy",
+	"coingecko": "game-tournament-trophy",
+	"sources": [
+		"coingecko"
+	]
+}

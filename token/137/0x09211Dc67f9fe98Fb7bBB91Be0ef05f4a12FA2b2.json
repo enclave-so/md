@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x09211Dc67f9fe98Fb7bBB91Be0ef05f4a12FA2b2",
+	"symbol": "Yieldwatch",
+	"name": "Yieldwatch",
+	"coingecko": "yieldwatch",
+	"sources": [
+		"coingecko"
+	]
+}

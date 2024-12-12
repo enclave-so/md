@@ -1,0 +1,11 @@
+{
+	"chain": 128,
+	"address": "0x4e252342cf35Ff02c4CCA9bc655129f5b4a2f901",
+	"symbol": "SLNV2",
+	"name": "SLN-Token V2",
+	"decimals": 18,
+	"logo": "https://hecoinfo.com/images/main/empty-token.png",
+	"sources": [
+		"sushiswap"
+	]
+}

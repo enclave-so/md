@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x5b649C07E7Ba0a1C529DEAabEd0b47699919B4a2",
+	"symbol": "Suzuverse",
+	"name": "Suzuverse",
+	"coingecko": "suzuverse",
+	"sources": [
+		"coingecko"
+	]
+}

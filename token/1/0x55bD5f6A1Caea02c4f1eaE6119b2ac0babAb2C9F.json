@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x55bD5f6A1Caea02c4f1eaE6119b2ac0babAb2C9F",
+	"symbol": "AgenTensor",
+	"name": "AgenTensor",
+	"coingecko": "agentensor",
+	"sources": [
+		"coingecko"
+	]
+}

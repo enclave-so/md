@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0xCa4e51F6AD4AFd9d1068E5899De9dd7d73F3463D",
+	"symbol": "Aark Digital",
+	"name": "Aark Digital",
+	"coingecko": "aark-digital",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1284,
+	"address": "0xFfFFfFfF8A9736B44EbF188972725bED67BF694E",
+	"symbol": "Apillon",
+	"name": "Apillon",
+	"coingecko": "apillon",
+	"sources": [
+		"coingecko"
+	]
+}

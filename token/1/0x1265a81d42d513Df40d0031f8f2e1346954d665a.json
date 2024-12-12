@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x1265a81d42d513Df40d0031f8f2e1346954d665a",
+	"symbol": "MEV Capital Elixir USDC",
+	"name": "MEV Capital Elixir USDC",
+	"coingecko": "mev-capital-elixir-usdc",
+	"sources": [
+		"coingecko"
+	]
+}

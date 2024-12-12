@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xba58444C8050Ed9385b7417533A73644036d21Eb",
+	"symbol": "Lord of Dragons",
+	"name": "Lord of Dragons",
+	"coingecko": "lord-of-dragons",
+	"sources": [
+		"coingecko"
+	]
+}

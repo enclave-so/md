@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x765f0C16D1Ddc279295c1a7C24B0883F62d33F75",
+	"symbol": "DaTa eXchange DTX",
+	"name": "DaTa eXchange DTX",
+	"coingecko": "databroker-dao",
+	"sources": [
+		"coingecko"
+	]
+}

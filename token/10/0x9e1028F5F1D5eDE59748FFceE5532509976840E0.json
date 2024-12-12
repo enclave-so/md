@@ -1,0 +1,13 @@
+{
+	"chain": 10,
+	"address": "0x9e1028F5F1D5eDE59748FFceE5532509976840E0",
+	"symbol": "PERP",
+	"name": "Perpetual",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/PERP/logo.png",
+	"coingecko": "perpetual-protocol",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

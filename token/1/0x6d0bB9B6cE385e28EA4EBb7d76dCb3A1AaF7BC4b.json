@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x6d0bB9B6cE385e28EA4EBb7d76dCb3A1AaF7BC4b",
+	"symbol": "CREAT'OR",
+	"name": "CREAT'OR",
+	"coingecko": "creat-or",
+	"sources": [
+		"coingecko"
+	]
+}

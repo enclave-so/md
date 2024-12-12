@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x6fD46112C8ec76e7940dBfdC150774EE6EFf27B2",
+	"symbol": "Runner on ETH",
+	"name": "Runner on ETH",
+	"coingecko": "runner-on-eth",
+	"sources": [
+		"coingecko"
+	]
+}

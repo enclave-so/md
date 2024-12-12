@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0x8Ab7404063Ec4DBcfd4598215992DC3F8EC853d7",
+	"symbol": "AKRO",
+	"name": "Akropolis",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/akro.jpg",
+	"coingecko": "akropolis",
+	"sources": [
+		"coingecko",
+		"sushiswap"
+	]
+}

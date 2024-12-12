@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0x368B3a58B5f49392e5C9E4C998cb0bB966752E51",
+	"symbol": "MIC",
+	"name": "Mithril Cash",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x368B3a58B5f49392e5C9E4C998cb0bB966752E51/logo.png",
+	"sources": [
+		"sushiswap"
+	]
+}

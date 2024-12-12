@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xC7D73cb22ADd1F2019d68eC4Fa033F3E3d622C0e",
+	"symbol": "Huralya",
+	"name": "Huralya",
+	"coingecko": "huralya",
+	"sources": [
+		"coingecko"
+	]
+}

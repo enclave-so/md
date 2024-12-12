@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x2c92a8A41f4b806a6f6F1F7C9D9DEc78DCd8c18e",
+	"symbol": "99Starz",
+	"name": "99Starz",
+	"coingecko": "99starz",
+	"sources": [
+		"coingecko"
+	]
+}

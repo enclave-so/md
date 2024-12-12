@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x52A047Ee205701895Ee06A375492490EC9C597cE",
+	"symbol": "PulseMarkets",
+	"name": "PulseMarkets",
+	"coingecko": "pulse-token",
+	"sources": [
+		"coingecko"
+	]
+}

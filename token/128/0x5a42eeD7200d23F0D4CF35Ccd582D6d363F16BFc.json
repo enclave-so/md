@@ -1,0 +1,11 @@
+{
+	"chain": 128,
+	"address": "0x5a42eeD7200d23F0D4CF35Ccd582D6d363F16BFc",
+	"symbol": "LLS",
+	"name": "LLS",
+	"decimals": 18,
+	"logo": "https://hecoinfo.com/images/main/empty-token.png",
+	"sources": [
+		"sushiswap"
+	]
+}

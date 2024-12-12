@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x4166673521e31eD98801E45e8b068b4bC227A110",
+	"symbol": "Ponzi Express",
+	"name": "Ponzi Express",
+	"coingecko": "ponzi-express",
+	"sources": [
+		"coingecko"
+	]
+}

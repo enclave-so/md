@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0x9A594F5ed8D119B73525dfE23aDBCeCa77fD828D",
+	"symbol": "dancing triangle",
+	"name": "dancing triangle",
+	"coingecko": "dancing-triangle-2",
+	"sources": [
+		"coingecko"
+	]
+}

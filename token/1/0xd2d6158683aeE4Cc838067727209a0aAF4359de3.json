@@ -1,0 +1,10 @@
+{
+	"chain": 1,
+	"address": "0xd2d6158683aeE4Cc838067727209a0aAF4359de3",
+	"symbol": "Bounty0x",
+	"name": "Bounty0x",
+	"coingecko": "bounty0x",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1907,
+	"address": "0xd19DfC6beF955A41A7E233E030aeDB2b5319bD7D",
+	"symbol": "RCD Espanyol Fan Token",
+	"name": "RCD Espanyol Fan Token",
+	"coingecko": "rcd-espanyol-fan-token",
+	"sources": [
+		"coingecko"
+	]
+}
