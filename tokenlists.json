@@ -1,0 +1,22 @@
+[
+    {
+        "url": "https://ipfs.io/ipns/tokens.uniswap.org",
+        "name": "uniswap"
+    },
+    {
+        "url": "https://tokens.coingecko.com/uniswap/all.json",
+        "name": "coingecko"
+    },
+    {
+        "url": "https://tokens.pancakeswap.finance/pancakeswap-extended.json",
+        "name": "pancakeswap"
+    },
+    {
+        "url": "https://static.optimism.io/optimism.tokenlist.json",
+        "name": "optimism"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/IndexCoop/tokenlists/refs/heads/main/indexcoop.tokenlist.json",
+        "name": "indexcoop"
+    }
+]

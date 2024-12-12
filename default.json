@@ -1,0 +1,137 @@
+[
+    {
+        "chain": 1,
+        "address": "0x0000000000000000000000000000000000000000",
+        "symbol": "ETH",
+        "name": "Ethereum",
+        "decimals": 18,
+        "logo": "https://token-icons.s3.amazonaws.com/eth.png",
+        "coingecko": "ethereum"
+    },
+    {
+        "chain": 3,
+        "address": "0x0000000000000000000000000000000000000000",
+        "symbol": "ETH",
+        "name": "Ethereum",
+        "decimals": 18,
+        "logo": "https://token-icons.s3.amazonaws.com/eth.png",
+        "coingecko": "ethereum"
+    },
+    {
+        "chain": 4,
+        "address": "0x0000000000000000000000000000000000000000",
+        "symbol": "ETH",
+        "name": "Ethereum",
+        "decimals": 18,
+        "logo": "https://token-icons.s3.amazonaws.com/eth.png",
+        "coingecko": "ethereum"
+    },
+    {
+        "chain": 5,
+        "address": "0x0000000000000000000000000000000000000000",
+        "symbol": "ETH",
+        "name": "Ethereum",
+        "decimals": 18,
+        "logo": "https://token-icons.s3.amazonaws.com/eth.png",
+        "coingecko": "ethereum"
+    },
+    {
+        "chain": 10,
+        "address": "0x0000000000000000000000000000000000000000",
+        "symbol": "ETH",
+        "name": "Ethereum",
+        "decimals": 18,
+        "logo": "https://token-icons.s3.amazonaws.com/eth.png",
+        "coingecko": "ethereum"
+    },
+    {
+        "chain": 56,
+        "address": "0x0000000000000000000000000000000000000000",
+        "symbol": "BNB",
+        "name": "Binance Coin",
+        "decimals": 18,
+        "logo": "https://assets.coingecko.com/coins/images/825/large/bnb-icon2_2x.png?1644979850",
+        "coingecko": "binancecoin"
+    },
+    {
+        "chain": 137,
+        "address": "0x0000000000000000000000000000000000000000",
+        "symbol": "POL",
+        "name": "Polygon Ecosystem Token",
+        "decimals": 18,
+        "logo": "https://coin-images.coingecko.com/coins/images/32440/large/polygon.png?1698233684",
+        "coingecko": "matic-network"
+    },
+    {
+        "chain": 324,
+        "address": "0x0000000000000000000000000000000000000000",
+        "symbol": "ETH",
+        "name": "Ethereum",
+        "decimals": 18,
+        "logo": "https://token-icons.s3.amazonaws.com/eth.png",
+        "coingecko": "ethereum"
+    },
+    {
+        "chain": 480,
+        "address": "0x0000000000000000000000000000000000000000",
+        "symbol": "ETH",
+        "name": "Ethereum",
+        "decimals": 18,
+        "logo": "https://token-icons.s3.amazonaws.com/eth.png",
+        "coingecko": "ethereum"
+    },
+    {
+        "chain": 8453,
+        "address": "0x0000000000000000000000000000000000000000",
+        "symbol": "ETH",
+        "name": "Ethereum",
+        "decimals": 18,
+        "logo": "https://token-icons.s3.amazonaws.com/eth.png",
+        "coingecko": "ethereum"
+    },
+    {
+        "chain": 42161,
+        "address": "0x0000000000000000000000000000000000000000",
+        "symbol": "ETH",
+        "name": "Ethereum",
+        "decimals": 18,
+        "logo": "https://token-icons.s3.amazonaws.com/eth.png",
+        "coingecko": "ethereum"
+    },
+    {
+        "chain": 81457,
+        "address": "0x0000000000000000000000000000000000000000",
+        "symbol": "POL",
+        "name": "Polygon Ecosystem Token",
+        "decimals": 18,
+        "logo": "https://coin-images.coingecko.com/coins/images/32440/large/polygon.png?1698233684",
+        "coingecko": "matic-network"
+    },
+    {
+        "chain": 81457,
+        "address": "0x0000000000000000000000000000000000000000",
+        "symbol": "ETH",
+        "name": "Ethereum",
+        "decimals": 18,
+        "logo": "https://token-icons.s3.amazonaws.com/eth.png",
+        "coingecko": "ethereum"
+    },
+    {
+        "chain": 7777777,
+        "address": "0x0000000000000000000000000000000000000000",
+        "symbol": "ETH",
+        "name": "Ethereum",
+        "decimals": 18,
+        "logo": "https://token-icons.s3.amazonaws.com/eth.png",
+        "coingecko": "ethereum"
+    },
+    {
+        "chain": 11155111,
+        "address": "0x0000000000000000000000000000000000000000",
+        "symbol": "ETH",
+        "name": "Ethereum",
+        "decimals": 18,
+        "logo": "https://token-icons.s3.amazonaws.com/eth.png",
+        "coingecko": "ethereum"
+    }
+]
