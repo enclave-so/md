@@ -1,0 +1,10 @@
+{
+	"chain": 4689,
+	"address": "0xeaaf0e6Be5B33ee472E93ac7c1FCc10f57186986",
+	"symbol": "SENTAI",
+	"name": "SENTAI",
+	"coingecko": "sentai-2",
+	"sources": [
+		"coingecko"
+	]
+}

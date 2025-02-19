@@ -1,12 +1,86 @@
 [
 	{
 		"chain": 122,
-		"address": "0x620fd5fa44BE6af63715Ef4E65DDFA0387aD13F5",
-		"symbol": "USDC",
-		"name": "USD Coin",
-		"decimals": 6,
-		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/fuse/0x620fd5fa44BE6af63715Ef4E65DDFA0387aD13F5.jpg",
-		"coingecko": "bridged-usdc",
+		"address": "0x0972F26e8943679b043de23df2fD3852177A7c48",
+		"symbol": "LINK",
+		"name": "ChainLink Token",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/link.jpg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 122,
+		"address": "0x0BE9e53fd7EDaC9F859882AfdDa116645287C629",
+		"symbol": "WFUSE",
+		"name": "Wrapped Fuse",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/fuse/0x0BE9e53fd7EDaC9F859882AfdDa116645287C629.jpg",
+		"coingecko": "wrapped-fuse",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 122,
+		"address": "0xb10eD6E3810c95a380E4f3e448af1755fa3368cf",
+		"symbol": "Affine ultraETHs 2.0 (Fuse)",
+		"name": "Affine ultraETHs 2.0 (Fuse)",
+		"coingecko": "affine-ultraeths-2-0-fuse",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 122,
+		"address": "0x861bF3D382593Ed848972cADFACBA9749AdCE101",
+		"symbol": "Bridged MATIC (Fuse)",
+		"name": "Bridged MATIC (Fuse)",
+		"coingecko": "bridged-matic-fuse",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 122,
+		"address": "0x2931B47c2cEE4fEBAd348ba3d322cb4A17662C34",
+		"symbol": "Bridged Wrapped stETH (Fuse)",
+		"name": "Bridged Wrapped stETH (Fuse)",
+		"coingecko": "bridged-wrapped-steth-fuse",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 122,
+		"address": "0xCE86a1cf3cFf48139598De6bf9B1dF2E0f79F86F",
+		"symbol": "Fuse Dollar V3",
+		"name": "Fuse Dollar V3",
+		"coingecko": "fuse-dollar",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 122,
+		"address": "0x3695Dd1D1D43B794C0B13eb8be8419Eb3ac22bf7",
+		"symbol": "Stargate Bridged USDT (Fuse)",
+		"name": "Stargate Bridged USDT (Fuse)",
+		"coingecko": "stargate-bridged-usdt-fuse",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 122,
+		"address": "0x495d133B938596C9984d462F007B676bDc57eCEC",
+		"symbol": "G$",
+		"name": "GoodDollar",
+		"decimals": 2,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/fuse/0x495d133B938596C9984d462F007B676bDc57eCEC.jpg",
+		"coingecko": "gooddollar",
 		"sources": [
 			"coingecko",
 			"sushiswap"
@@ -27,78 +101,21 @@
 	},
 	{
 		"chain": 122,
-		"address": "0x5DD8015cec49F4dB01fd228F688BF30337d3e0A9",
-		"symbol": "Dogelon Mars",
-		"name": "Dogelon Mars",
-		"coingecko": "dogelon-mars",
+		"address": "0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590",
+		"symbol": "Stargate Bridged WETH (Fuse)",
+		"name": "Stargate Bridged WETH (Fuse)",
+		"coingecko": "stargate-bridged-weth-fuse",
 		"sources": [
 			"coingecko"
 		]
 	},
 	{
 		"chain": 122,
-		"address": "0x587983b895dB50dDaBC0Aac8aDC592b29bB30D80",
-		"symbol": "stETH (Fuse)",
-		"name": "stETH (Fuse)",
-		"coingecko": "steth-fuse",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 122,
-		"address": "0x2f60a843302F1Be3FA87429CA9d684f9091b003c",
-		"symbol": "DEXT",
-		"name": "DEXTools",
+		"address": "0x94Ba7A27c7A95863d1bdC7645AC2951E0cca06bA",
+		"symbol": "DAI",
+		"name": "Dai Stablecoin",
 		"decimals": 18,
-		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/dext.jpg",
-		"sources": [
-			"sushiswap"
-		]
-	},
-	{
-		"chain": 122,
-		"address": "0x495d133B938596C9984d462F007B676bDc57eCEC",
-		"symbol": "G$",
-		"name": "GoodDollar",
-		"decimals": 2,
-		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/fuse/0x495d133B938596C9984d462F007B676bDc57eCEC.jpg",
-		"coingecko": "gooddollar",
-		"sources": [
-			"coingecko",
-			"sushiswap"
-		]
-	},
-	{
-		"chain": 122,
-		"address": "0x0BE9e53fd7EDaC9F859882AfdDa116645287C629",
-		"symbol": "WFUSE",
-		"name": "Wrapped Fuse",
-		"decimals": 18,
-		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/fuse/0x0BE9e53fd7EDaC9F859882AfdDa116645287C629.jpg",
-		"coingecko": "wrapped-fuse",
-		"sources": [
-			"coingecko",
-			"sushiswap"
-		]
-	},
-	{
-		"chain": 122,
-		"address": "0x68c9736781E9316ebf5c3d49FE0C1f45D2D104Cd",
-		"symbol": "Bridged Tether (Fuse)",
-		"name": "Bridged Tether (Fuse)",
-		"coingecko": "bridged-tether-fuse",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 122,
-		"address": "0x7F59aE3a787C0d1D640F99883d0e48c22188C54f",
-		"symbol": "OM",
-		"name": "MANTRA DAO",
-		"decimals": 18,
-		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/om.jpg",
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/fuse/0x94Ba7A27c7A95863d1bdC7645AC2951E0cca06bA.jpg",
 		"sources": [
 			"sushiswap"
 		]
@@ -116,51 +133,20 @@
 	},
 	{
 		"chain": 122,
-		"address": "0xCC9d144a8a8A1e71D5EC66A13F301b9E0137e71C",
-		"symbol": "Allbridge Bridged ETH (Fuse)",
-		"name": "Allbridge Bridged ETH (Fuse)",
-		"coingecko": "allbridge-bridged-eth-fuse",
+		"address": "0x2502F488D481Df4F5054330C71b95d93D41625C2",
+		"symbol": "Dai (Fuse)",
+		"name": "Dai (Fuse)",
+		"coingecko": "dai-fuse",
 		"sources": [
 			"coingecko"
 		]
 	},
 	{
 		"chain": 122,
-		"address": "0x28C3d1cD466Ba22f6cae51b1a4692a831696391A",
-		"symbol": "Bridged USDC (Fuse)",
-		"name": "Bridged USDC (Fuse)",
-		"coingecko": "bridged-usdc-fuse",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 122,
-		"address": "0x025a4c577198D116Ea499193E6D735FDb2e6E841",
-		"symbol": "GRT",
-		"name": "Graph Token",
-		"decimals": 18,
-		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/grt.jpg",
-		"sources": [
-			"sushiswap"
-		]
-	},
-	{
-		"chain": 122,
-		"address": "0x6a5F6A8121592BeCd6747a38d67451B310F7f156",
-		"symbol": "Bridged BUSD",
-		"name": "Bridged BUSD",
-		"coingecko": "bridged-busd",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 122,
-		"address": "0x2931B47c2cEE4fEBAd348ba3d322cb4A17662C34",
-		"symbol": "Bridged Wrapped stETH (Fuse)",
-		"name": "Bridged Wrapped stETH (Fuse)",
-		"coingecko": "bridged-wrapped-steth-fuse",
+		"address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
+		"symbol": "Elk Finance",
+		"name": "Elk Finance",
+		"coingecko": "elk-finance",
 		"sources": [
 			"coingecko"
 		]
@@ -177,25 +163,12 @@
 	},
 	{
 		"chain": 122,
-		"address": "0x303CC3f27034C4E3933DaB8E601178eD3d2A1E3c",
-		"symbol": "MKR (Fuse)",
-		"name": "MKR (Fuse)",
-		"coingecko": "mkr-fuse",
+		"address": "0xb1DD0B683d9A56525cC096fbF5eec6E60FE79871",
+		"symbol": "Liquid staked FUSE",
+		"name": "Liquid staked FUSE",
+		"coingecko": "liquid-staked-fuse",
 		"sources": [
 			"coingecko"
-		]
-	},
-	{
-		"chain": 122,
-		"address": "0x6acb34b1Df86E254b544189Ec32Cf737e2482058",
-		"symbol": "BNB",
-		"name": "BNB",
-		"decimals": 18,
-		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/bnb.jpg",
-		"coingecko": "wbnb",
-		"sources": [
-			"coingecko",
-			"sushiswap"
 		]
 	},
 	{
@@ -211,22 +184,36 @@
 	},
 	{
 		"chain": 122,
-		"address": "0xb1DD0B683d9A56525cC096fbF5eec6E60FE79871",
-		"symbol": "Liquid staked FUSE",
-		"name": "Liquid staked FUSE",
-		"coingecko": "liquid-staked-fuse",
+		"address": "0x43B17749B246fd2a96DE25d9e4184E27E09765b0",
+		"symbol": "KNC",
+		"name": "Kyber Network Crystal",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/knc.jpg",
 		"sources": [
-			"coingecko"
+			"sushiswap"
 		]
 	},
 	{
 		"chain": 122,
-		"address": "0x249BE57637D8B013Ad64785404b24aeBaE9B098B",
-		"symbol": "fUSD",
-		"name": "Fuse Dollar",
+		"address": "0x7F59aE3a787C0d1D640F99883d0e48c22188C54f",
+		"symbol": "OM",
+		"name": "MANTRA DAO",
 		"decimals": 18,
-		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/fuseusd.jpg",
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/om.jpg",
 		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 122,
+		"address": "0x620fd5fa44BE6af63715Ef4E65DDFA0387aD13F5",
+		"symbol": "USDC",
+		"name": "USD Coin",
+		"decimals": 6,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/fuse/0x620fd5fa44BE6af63715Ef4E65DDFA0387aD13F5.jpg",
+		"coingecko": "bridged-usdc",
+		"sources": [
+			"coingecko",
 			"sushiswap"
 		]
 	},
@@ -255,72 +242,85 @@
 	},
 	{
 		"chain": 122,
-		"address": "0x861bF3D382593Ed848972cADFACBA9749AdCE101",
-		"symbol": "Bridged MATIC (Fuse)",
-		"name": "Bridged MATIC (Fuse)",
-		"coingecko": "bridged-matic-fuse",
+		"address": "0x8bf40E191Ac82BC09D946629655A6B8Baf8f063E",
+		"symbol": "Renzo Restaked ETH (Fuse)",
+		"name": "Renzo Restaked ETH (Fuse)",
+		"coingecko": "renzo-restaked-eth-fuse",
 		"sources": [
 			"coingecko"
 		]
 	},
 	{
 		"chain": 122,
-		"address": "0x2502F488D481Df4F5054330C71b95d93D41625C2",
-		"symbol": "Dai (Fuse)",
-		"name": "Dai (Fuse)",
-		"coingecko": "dai-fuse",
+		"address": "0xc6Bc407706B7140EE8Eef2f86F9504651b63e7f9",
+		"symbol": "Stargate Bridged USDC (Fuse)",
+		"name": "Stargate Bridged USDC (Fuse)",
+		"coingecko": "stargate-bridged-usdc-fuse",
 		"sources": [
 			"coingecko"
 		]
 	},
 	{
 		"chain": 122,
-		"address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
-		"symbol": "Elk Finance",
-		"name": "Elk Finance",
-		"coingecko": "elk-finance",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 122,
-		"address": "0xCE86a1cf3cFf48139598De6bf9B1dF2E0f79F86F",
-		"symbol": "Fuse Dollar V3",
-		"name": "Fuse Dollar V3",
-		"coingecko": "fuse-dollar",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 122,
-		"address": "0x34Ef2Cc892a88415e9f02b91BfA9c91fC0bE6bD4",
-		"symbol": "Voltage Finance",
-		"name": "Voltage Finance",
-		"coingecko": "fusefi",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 122,
-		"address": "0x94Ba7A27c7A95863d1bdC7645AC2951E0cca06bA",
-		"symbol": "DAI",
-		"name": "Dai Stablecoin",
+		"address": "0x025a4c577198D116Ea499193E6D735FDb2e6E841",
+		"symbol": "GRT",
+		"name": "Graph Token",
 		"decimals": 18,
-		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/fuse/0x94Ba7A27c7A95863d1bdC7645AC2951E0cca06bA.jpg",
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/grt.jpg",
 		"sources": [
 			"sushiswap"
 		]
 	},
 	{
 		"chain": 122,
-		"address": "0x43B17749B246fd2a96DE25d9e4184E27E09765b0",
-		"symbol": "KNC",
-		"name": "Kyber Network Crystal",
+		"address": "0xCC9d144a8a8A1e71D5EC66A13F301b9E0137e71C",
+		"symbol": "Allbridge Bridged ETH (Fuse)",
+		"name": "Allbridge Bridged ETH (Fuse)",
+		"coingecko": "allbridge-bridged-eth-fuse",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 122,
+		"address": "0x6a5F6A8121592BeCd6747a38d67451B310F7f156",
+		"symbol": "Bridged BUSD",
+		"name": "Bridged BUSD",
+		"coingecko": "bridged-busd",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 122,
+		"address": "0x5622F6dC93e08a8b717B149677930C38d5d50682",
+		"symbol": "Bridged Wrapped Ether (Fuse)",
+		"name": "Bridged Wrapped Ether (Fuse)",
+		"coingecko": "bridged-wrapped-ether-fuse",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 122,
+		"address": "0x6acb34b1Df86E254b544189Ec32Cf737e2482058",
+		"symbol": "BNB",
+		"name": "BNB",
 		"decimals": 18,
-		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/knc.jpg",
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/bnb.jpg",
+		"coingecko": "fuse-bridged-wbnb-fuse",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 122,
+		"address": "0x2f60a843302F1Be3FA87429CA9d684f9091b003c",
+		"symbol": "DEXT",
+		"name": "DEXTools",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/dext.jpg",
 		"sources": [
 			"sushiswap"
 		]
@@ -340,61 +340,51 @@
 	},
 	{
 		"chain": 122,
-		"address": "0x5Cb5249d420639619fFd637C79f0AA5C0a9FcD4B",
-		"symbol": "Allbridge Bridged SOL (Fuse)",
-		"name": "Allbridge Bridged SOL (Fuse)",
-		"coingecko": "allbridge-bridged-sol-fuse",
+		"address": "0x68c9736781E9316ebf5c3d49FE0C1f45D2D104Cd",
+		"symbol": "Bridged Tether (Fuse)",
+		"name": "Bridged Tether (Fuse)",
+		"coingecko": "bridged-tether-fuse",
 		"sources": [
 			"coingecko"
 		]
 	},
 	{
 		"chain": 122,
-		"address": "0x5622F6dC93e08a8b717B149677930C38d5d50682",
-		"symbol": "Bridged Wrapped Ether (Fuse)",
-		"name": "Bridged Wrapped Ether (Fuse)",
-		"coingecko": "bridged-wrapped-ether-fuse",
+		"address": "0x28C3d1cD466Ba22f6cae51b1a4692a831696391A",
+		"symbol": "Bridged USDC (Fuse)",
+		"name": "Bridged USDC (Fuse)",
+		"coingecko": "bridged-usdc-fuse",
 		"sources": [
 			"coingecko"
 		]
 	},
 	{
 		"chain": 122,
-		"address": "0x8bf40E191Ac82BC09D946629655A6B8Baf8f063E",
-		"symbol": "Renzo Restaked ETH (Fuse)",
-		"name": "Renzo Restaked ETH (Fuse)",
-		"coingecko": "renzo-restaked-eth-fuse",
+		"address": "0x34Ef2Cc892a88415e9f02b91BfA9c91fC0bE6bD4",
+		"symbol": "Voltage Finance",
+		"name": "Voltage Finance",
+		"coingecko": "fusefi",
 		"sources": [
 			"coingecko"
 		]
 	},
 	{
 		"chain": 122,
-		"address": "0x0972F26e8943679b043de23df2fD3852177A7c48",
-		"symbol": "LINK",
-		"name": "ChainLink Token",
+		"address": "0x249BE57637D8B013Ad64785404b24aeBaE9B098B",
+		"symbol": "fUSD",
+		"name": "Fuse Dollar",
 		"decimals": 18,
-		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/link.jpg",
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/fuseusd.jpg",
 		"sources": [
 			"sushiswap"
 		]
 	},
 	{
 		"chain": 122,
-		"address": "0xb10eD6E3810c95a380E4f3e448af1755fa3368cf",
-		"symbol": "Affine ultraETHs 2.0 (Fuse)",
-		"name": "Affine ultraETHs 2.0 (Fuse)",
-		"coingecko": "affine-ultraeths-2-0-fuse",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 122,
-		"address": "0x830cFB18ae30B7D989f6950638Be15816416ff5c",
-		"symbol": "Allbridge Bridged USDC (Fuse)",
-		"name": "Allbridge Bridged USDC (Fuse)",
-		"coingecko": "allbridge-bridged-usdc-fuse",
+		"address": "0x5DD8015cec49F4dB01fd228F688BF30337d3e0A9",
+		"symbol": "Dogelon Mars",
+		"name": "Dogelon Mars",
+		"coingecko": "dogelon-mars",
 		"sources": [
 			"coingecko"
 		]

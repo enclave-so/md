@@ -1,0 +1,11 @@
+{
+	"chain": 84532,
+	"address": "0xfDB3b57944943a7724fCc0520eE2B10659969a06",
+	"symbol": "STT",
+	"name": "Status Test Token",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/SNT/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

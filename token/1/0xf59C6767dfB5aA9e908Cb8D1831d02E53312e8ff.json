@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0xf59C6767dfB5aA9e908Cb8D1831d02E53312e8ff",
+	"symbol": "EYZ",
+	"name": "EyzoAI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/52673/thumb/logo_200x200.png?1734018140",
+	"coingecko": "eyzoai",
+	"sources": [
+		"coingecko"
+	]
+}

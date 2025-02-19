@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0xeb0D1360A14c3b162f2974DAA5d218E0c1090146",
+	"symbol": "Dinari YUM",
+	"name": "Dinari YUM",
+	"coingecko": "dinari-yum",
+	"sources": [
+		"coingecko"
+	]
+}

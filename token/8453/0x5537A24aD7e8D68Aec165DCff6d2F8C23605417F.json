@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x5537A24aD7e8D68Aec165DCff6d2F8C23605417F",
+	"symbol": "Eye Future by Virtuals",
+	"name": "Eye Future by Virtuals",
+	"coingecko": "eye-future-by-virtuals",
+	"sources": [
+		"coingecko"
+	]
+}

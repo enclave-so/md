@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xCeFC79C16Cd62cF0c35C1D16D23b9f266f2edA51",
+	"symbol": "Catton AI",
+	"name": "Catton AI",
+	"coingecko": "catton-ai",
+	"sources": [
+		"coingecko"
+	]
+}

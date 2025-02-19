@@ -1,9 +1,9 @@
 {
 	"chain": 43114,
 	"address": "0x264c1383EA520f73dd837F915ef3a732e204a493",
-	"symbol": "Wrapped BNB",
-	"name": "Wrapped BNB",
-	"coingecko": "wbnb",
+	"symbol": "Multichain Bridged WBNB (Avalanche C-Chain)",
+	"name": "Multichain Bridged WBNB (Avalanche C-Chain)",
+	"coingecko": "mutlichain-bridged-wbnb-avalanche",
 	"sources": [
 		"coingecko"
 	]

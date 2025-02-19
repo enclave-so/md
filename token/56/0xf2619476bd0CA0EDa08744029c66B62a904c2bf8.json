@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xf2619476bd0CA0EDa08744029c66B62a904c2bf8",
+	"symbol": "JERITEX",
+	"name": "JERITEX",
+	"coingecko": "jeritex",
+	"sources": [
+		"coingecko"
+	]
+}

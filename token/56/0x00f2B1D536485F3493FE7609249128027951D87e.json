@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x00f2B1D536485F3493FE7609249128027951D87e",
+	"symbol": "Grok Ai",
+	"name": "Grok Ai",
+	"coingecko": "grok-ai",
+	"sources": [
+		"coingecko"
+	]
+}

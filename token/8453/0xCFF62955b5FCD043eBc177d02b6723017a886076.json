@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xCFF62955b5FCD043eBc177d02b6723017a886076",
+	"symbol": "Dinari MELI",
+	"name": "Dinari MELI",
+	"coingecko": "dinari-meli",
+	"sources": [
+		"coingecko"
+	]
+}

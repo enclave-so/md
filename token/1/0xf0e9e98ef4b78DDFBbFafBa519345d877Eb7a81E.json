@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0xf0e9e98ef4b78DDFBbFafBa519345d877Eb7a81E",
+	"symbol": "EEMD",
+	"name": "Dinari EEM",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/54361/thumb/d-token-200.png?1739401272",
+	"coingecko": "dinari-eem",
+	"sources": [
+		"coingecko"
+	]
+}

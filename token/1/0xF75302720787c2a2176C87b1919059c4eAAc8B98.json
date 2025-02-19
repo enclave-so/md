@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0xF75302720787c2a2176C87b1919059c4eAAc8B98",
+	"symbol": "CFGI",
+	"name": "CFGI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/53311/thumb/avatar.png?1736067990",
+	"coingecko": "cfgi",
+	"sources": [
+		"coingecko"
+	]
+}

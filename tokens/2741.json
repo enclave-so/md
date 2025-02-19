@@ -1,0 +1,82 @@
+[
+	{
+		"chain": 2741,
+		"address": "0x85Ca16Fd0e81659e0b8Be337294149E722528731",
+		"symbol": "Noot Noot",
+		"name": "Noot Noot",
+		"coingecko": "noot-noot",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 2741,
+		"address": "0x84A71ccD554Cc1b02749b35d22F684CC8ec987e1",
+		"symbol": "Stargate Bridged USDC (Abstract)",
+		"name": "Stargate Bridged USDC (Abstract)",
+		"coingecko": "stargate-bridged-usdc-abstract",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 2741,
+		"address": "0x2C46AD181B8Ed22C5bf53E21dE2af87B11888EcB",
+		"symbol": "VIBE",
+		"name": "VIBE",
+		"coingecko": "vibe-3",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 2741,
+		"address": "0x8041FbC255d6E6330E92a61325da515656bFD2dd",
+		"symbol": "Yup",
+		"name": "Yup",
+		"coingecko": "yup-2",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 2741,
+		"address": "0xfB23B34d56171b740e9DEd4b4D96001F5Bfc667F",
+		"symbol": "BWOB",
+		"name": "BWOB",
+		"coingecko": "bwob",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 2741,
+		"address": "0xd045e0686A784e272E651Fc2C08324edABE7403A",
+		"symbol": "Chengu",
+		"name": "Chengu",
+		"coingecko": "chengu",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 2741,
+		"address": "0x27F095d85132e08fC7a3f5d6dDE4f000C7F56515",
+		"symbol": "Chester",
+		"name": "Chester",
+		"coingecko": "chester",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 2741,
+		"address": "0x3439153EB7AF838Ad19d56E1571FBD09333C2809",
+		"symbol": "L2 Standard Bridged WETH (Abstract)",
+		"name": "L2 Standard Bridged WETH (Abstract)",
+		"coingecko": "l2-standard-bridged-weth-abstract",
+		"sources": [
+			"coingecko"
+		]
+	}
+]

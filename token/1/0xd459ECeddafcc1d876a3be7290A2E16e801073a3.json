@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0xd459ECeddafcc1d876a3be7290A2E16e801073a3",
+	"symbol": "BB",
+	"name": "BounceBit",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/37144/thumb/bb.jpeg?1713439092",
+	"coingecko": "bouncebit",
+	"sources": [
+		"coingecko"
+	]
+}

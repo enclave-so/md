@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x6967F0974d76d34e140caE27efeA32CDf546b58E",
+	"symbol": "The Game Company",
+	"name": "The Game Company",
+	"coingecko": "gamer-tag",
+	"sources": [
+		"coingecko"
+	]
+}

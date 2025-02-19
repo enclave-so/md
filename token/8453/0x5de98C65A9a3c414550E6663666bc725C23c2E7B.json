@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x5de98C65A9a3c414550E6663666bc725C23c2E7B",
+	"symbol": "Dinari MSTR",
+	"name": "Dinari MSTR",
+	"coingecko": "dinari-mstr",
+	"sources": [
+		"coingecko"
+	]
+}

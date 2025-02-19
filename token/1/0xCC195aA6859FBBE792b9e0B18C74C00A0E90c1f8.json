@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0xCC195aA6859FBBE792b9e0B18C74C00A0E90c1f8",
+	"symbol": "HOODD",
+	"name": "Dinari HOOD",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/54054/thumb/d-token-200.png?1738103671",
+	"coingecko": "dinari-hood",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"chain": 130,
+	"address": "0x8e902FDeA73e5CF9621D2Bee82cD79196d8ec63b",
+	"symbol": "TRB",
+	"name": "Tellor",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/9644/thumb/Blk_icon_current.png?1584980686",
+	"sources": [
+		"optimism",
+		"uniswap"
+	]
+}

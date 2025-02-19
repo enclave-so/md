@@ -1,0 +1,11 @@
+{
+	"chain": 130,
+	"address": "0xa249732271cbA6E06Be4ac8B20f0D465FeE183Ab",
+	"symbol": "ATH",
+	"name": "Aethir Token",
+	"decimals": 18,
+	"logo": "https://coin-images.coingecko.com/coins/images/36179/large/logogram_circle_dark_green_vb_green_(1).png?1718232706",
+	"sources": [
+		"uniswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 2020,
+	"address": "0x656fE582B4C6DC95c598EA54dc820eb36152E2f7",
+	"symbol": "Forkast",
+	"name": "Forkast",
+	"coingecko": "forkast",
+	"sources": [
+		"coingecko"
+	]
+}

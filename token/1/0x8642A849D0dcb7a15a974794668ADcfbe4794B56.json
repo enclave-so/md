@@ -2,9 +2,9 @@
 	"chain": 1,
 	"address": "0x8642A849D0dcb7a15a974794668ADcfbe4794B56",
 	"symbol": "PROS",
-	"name": "Prosper",
+	"name": "Prosper  OLD ",
 	"decimals": 18,
-	"logo": "https://assets.coingecko.com/coins/images/13668/thumb/PFP_Visual_CG.png?1727714135",
+	"logo": "https://assets.coingecko.com/coins/images/13668/thumb/OldTokenGrad.png?1738143535",
 	"coingecko": "prosper",
 	"sources": [
 		"coingecko",

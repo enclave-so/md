@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x352b850b733ab8baB50aED1Dab5D22E3186ce984",
+	"symbol": "1000x by Virtuals",
+	"name": "1000x by Virtuals",
+	"coingecko": "1000x-by-virtuals",
+	"sources": [
+		"coingecko"
+	]
+}

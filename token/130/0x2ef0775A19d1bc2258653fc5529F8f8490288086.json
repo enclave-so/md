@@ -1,0 +1,11 @@
+{
+	"chain": 130,
+	"address": "0x2ef0775A19d1bc2258653fc5529F8f8490288086",
+	"symbol": "DAR",
+	"name": "Mines of Dalarnia",
+	"decimals": 6,
+	"logo": "https://assets.coingecko.com/coins/images/19837/thumb/dar.png?1636014223",
+	"sources": [
+		"uniswap"
+	]
+}

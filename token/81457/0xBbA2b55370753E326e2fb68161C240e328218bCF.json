@@ -1,0 +1,10 @@
+{
+	"chain": 81457,
+	"address": "0xBbA2b55370753E326e2fb68161C240e328218bCF",
+	"symbol": "Dinari GLD",
+	"name": "Dinari GLD",
+	"coingecko": "dinari-gld",
+	"sources": [
+		"coingecko"
+	]
+}

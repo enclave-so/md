@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x0a2A015A15A8E019aBc386FEE88B8A6d7A0D90df",
+	"symbol": "MXNA",
+	"name": "Machina",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/53718/thumb/mxna-logo.png?1737124441",
+	"coingecko": "machina",
+	"sources": [
+		"coingecko"
+	]
+}

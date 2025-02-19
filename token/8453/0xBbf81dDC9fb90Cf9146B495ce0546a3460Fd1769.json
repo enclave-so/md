@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xBbf81dDC9fb90Cf9146B495ce0546a3460Fd1769",
+	"symbol": "BRAZA by Virtuals",
+	"name": "BRAZA by Virtuals",
+	"coingecko": "braza-by-virtuals",
+	"sources": [
+		"coingecko"
+	]
+}

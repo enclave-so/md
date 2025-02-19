@@ -1,0 +1,11 @@
+{
+	"chain": 130,
+	"address": "0xCeb1F5671C47cee096C3B40353863b6781888A48",
+	"symbol": "SYN",
+	"name": "Synapse",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/18024/thumb/syn.png?1635002049",
+	"sources": [
+		"uniswap"
+	]
+}

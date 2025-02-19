@@ -1,9 +1,9 @@
 {
 	"chain": 59144,
 	"address": "0x5471ea8f739dd37E9B81Be9c5c77754D8AA953E4",
-	"symbol": "Wrapped AVAX",
-	"name": "Wrapped AVAX",
-	"coingecko": "wrapped-avax",
+	"symbol": "Celer Bridged WAVAX (Linea)",
+	"name": "Celer Bridged WAVAX (Linea)",
+	"coingecko": "celer-bridged-wavax-linea",
 	"sources": [
 		"coingecko"
 	]

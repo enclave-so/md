@@ -1,0 +1,10 @@
+{
+	"chain": 146,
+	"address": "0x41211648C51AcB9A5F39A93C657e894A0bdB88e4",
+	"symbol": "Tails",
+	"name": "Tails",
+	"coingecko": "tails-2",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -2,11 +2,12 @@
 	"chain": 1,
 	"address": "0xC4441c2BE5d8fA8126822B9929CA0b81Ea0DE38E",
 	"symbol": "USUAL",
-	"name": "Usual",
+	"name": "USUAL",
 	"decimals": 18,
-	"logo": "https://assets.coingecko.com/coins/images/51091/thumb/USUAL.jpg?1730035787",
+	"logo": "https://coin-images.coingecko.com/coins/images/51091/large/USUAL.jpg?1730035787",
 	"coingecko": "usual",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"uniswap"
 	]
 }

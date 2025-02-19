@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x64FCC3A02eeEba05Ef701b7eed066c6ebD5d4E51",
+	"symbol": "Spectra",
+	"name": "Spectra",
+	"coingecko": "spectra-finance",
+	"sources": [
+		"coingecko"
+	]
+}

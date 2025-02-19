@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xf8f97A79A3fa77104faB4814E3ed93899777dE0D",
+	"symbol": "GertrudeDataPig",
+	"name": "GertrudeDataPig",
+	"coingecko": "gertrudedatapig",
+	"sources": [
+		"coingecko"
+	]
+}

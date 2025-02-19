@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x4398c398E5ac747E6D51bf1db1DAc346ca90Fee0",
+	"symbol": "Wolf of Dumb Street",
+	"name": "Wolf of Dumb Street",
+	"coingecko": "wolf-of-dumb-street",
+	"sources": [
+		"coingecko"
+	]
+}

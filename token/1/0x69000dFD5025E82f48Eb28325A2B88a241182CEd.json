@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x69000dFD5025E82f48Eb28325A2B88a241182CEd",
+	"symbol": "ZAI",
+	"name": "ZAI Stablecoin",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/39733/thumb/Group_4.png?1723771588",
+	"coingecko": "zai-stablecoin",
+	"sources": [
+		"coingecko"
+	]
+}

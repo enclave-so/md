@@ -1,12 +1,12 @@
 [
 	{
 		"chain": 2046399126,
-		"address": "0xD2Aaa00700000000000000000000000000000000",
-		"symbol": "ETH",
-		"name": "Ether",
-		"decimals": 18,
-		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/skale-europa/0xD2Aaa00700000000000000000000000000000000.jpg",
-		"coingecko": "wrapped-eth-skale",
+		"address": "0x57A3d5FAa172F5984cdcd4885fd4F0baAC88e558",
+		"symbol": "HMKR",
+		"name": "Europa HITMAKR",
+		"decimals": 9,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/skale-europa/0x57A3d5FAa172F5984cdcd4885fd4F0baAC88e558.jpg",
+		"coingecko": "hitmakr",
 		"sources": [
 			"coingecko",
 			"sushiswap"
@@ -25,19 +25,6 @@
 	},
 	{
 		"chain": 2046399126,
-		"address": "0x73d22d8a2D1f59Bf5Bcf62cA382481a2073FAF58",
-		"symbol": "USDP",
-		"name": "Pax Dollar",
-		"decimals": 18,
-		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/skale-europa/0x73d22d8a2D1f59Bf5Bcf62cA382481a2073FAF58.jpg",
-		"coingecko": "skale-ima-bridged-usdp",
-		"sources": [
-			"coingecko",
-			"sushiswap"
-		]
-	},
-	{
-		"chain": 2046399126,
 		"address": "0x5F795bb52dAC3085f578f4877D450e2929D2F13d",
 		"symbol": "USDC",
 		"name": "USD Coin",
@@ -51,14 +38,60 @@
 	},
 	{
 		"chain": 2046399126,
+		"address": "0xcb011E86DF014a46F4e3AC3F3cbB114A4EB80870",
+		"symbol": "WBTC",
+		"name": "Wrapped WBTC",
+		"decimals": 8,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/skale-europa/0xcb011E86DF014a46F4e3AC3F3cbB114A4EB80870.jpg",
+		"coingecko": "skale-ima-bridged-wbtc",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 2046399126,
+		"address": "0xcdF030a3E65f917DFa8d74555A64a5eC5303c88e",
+		"symbol": "FLAG",
+		"name": "ForLootAndGlory",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/skale-europa/0xcdF030a3E65f917DFa8d74555A64a5eC5303c88e.jpg",
+		"coingecko": "for-loot-and-glory",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 2046399126,
+		"address": "0x2B4e4899b53E8b7958c4591a6d02f9C0b5c50F8f",
+		"symbol": "RUBY",
+		"name": "RubyToken",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/skale-europa/0x2B4e4899b53E8b7958c4591a6d02f9C0b5c50F8f.jpg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 2046399126,
+		"address": "0x73d22d8a2D1f59Bf5Bcf62cA382481a2073FAF58",
+		"symbol": "USDP",
+		"name": "Pax Dollar",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/skale-europa/0x73d22d8a2D1f59Bf5Bcf62cA382481a2073FAF58.jpg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 2046399126,
 		"address": "0x1c0491E3396AD6a35f061c62387a95d7218FC515",
 		"symbol": "USDT",
 		"name": "Tether USD",
 		"decimals": 6,
 		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/skale-europa/0x1c0491E3396AD6a35f061c62387a95d7218FC515.jpg",
-		"coingecko": "skale-ima-bridged-usdt",
 		"sources": [
-			"coingecko",
 			"sushiswap"
 		]
 	},
@@ -85,39 +118,12 @@
 	},
 	{
 		"chain": 2046399126,
-		"address": "0xCfEBA92BD362B2F76fC30a89C433DE50a1D62BcA",
-		"symbol": "EXD",
-		"name": "Exorde Network Token",
-		"decimals": 18,
-		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/skale-europa/0xCfEBA92BD362B2F76fC30a89C433DE50a1D62BcA.jpg",
-		"coingecko": "exorde",
+		"address": "0xb2a85C5ECea99187A977aC34303b80AcbDdFa208",
+		"symbol": "Roco Finance",
+		"name": "Roco Finance",
+		"coingecko": "roco-finance",
 		"sources": [
-			"coingecko",
-			"sushiswap"
-		]
-	},
-	{
-		"chain": 2046399126,
-		"address": "0x2B4e4899b53E8b7958c4591a6d02f9C0b5c50F8f",
-		"symbol": "RUBY",
-		"name": "RubyToken",
-		"decimals": 18,
-		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/skale-europa/0x2B4e4899b53E8b7958c4591a6d02f9C0b5c50F8f.jpg",
-		"sources": [
-			"sushiswap"
-		]
-	},
-	{
-		"chain": 2046399126,
-		"address": "0xcb011E86DF014a46F4e3AC3F3cbB114A4EB80870",
-		"symbol": "WBTC",
-		"name": "Wrapped WBTC",
-		"decimals": 8,
-		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/skale-europa/0xcb011E86DF014a46F4e3AC3F3cbB114A4EB80870.jpg",
-		"coingecko": "skale-ima-bridged-wbtc",
-		"sources": [
-			"coingecko",
-			"sushiswap"
+			"coingecko"
 		]
 	},
 	{
@@ -140,20 +146,18 @@
 		"name": "DAI Stablecoin",
 		"decimals": 18,
 		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/skale-europa/0xD05C4be5f3be302d376518c9492EC0147Fa5A718.jpg",
-		"coingecko": "skale-ima-bridged-dai",
 		"sources": [
-			"coingecko",
 			"sushiswap"
 		]
 	},
 	{
 		"chain": 2046399126,
-		"address": "0xcdF030a3E65f917DFa8d74555A64a5eC5303c88e",
-		"symbol": "FLAG",
-		"name": "ForLootAndGlory",
+		"address": "0xD2Aaa00700000000000000000000000000000000",
+		"symbol": "ETH",
+		"name": "Ether",
 		"decimals": 18,
-		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/skale-europa/0xcdF030a3E65f917DFa8d74555A64a5eC5303c88e.jpg",
-		"coingecko": "for-loot-and-glory",
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/skale-europa/0xD2Aaa00700000000000000000000000000000000.jpg",
+		"coingecko": "wrapped-eth-skale",
 		"sources": [
 			"coingecko",
 			"sushiswap"
@@ -161,12 +165,12 @@
 	},
 	{
 		"chain": 2046399126,
-		"address": "0x57A3d5FAa172F5984cdcd4885fd4F0baAC88e558",
-		"symbol": "HMKR",
-		"name": "Europa HITMAKR",
-		"decimals": 9,
-		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/skale-europa/0x57A3d5FAa172F5984cdcd4885fd4F0baAC88e558.jpg",
-		"coingecko": "hitmakr",
+		"address": "0xCfEBA92BD362B2F76fC30a89C433DE50a1D62BcA",
+		"symbol": "EXD",
+		"name": "Exorde Network Token",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/skale-europa/0xCfEBA92BD362B2F76fC30a89C433DE50a1D62BcA.jpg",
+		"coingecko": "exorde",
 		"sources": [
 			"coingecko",
 			"sushiswap"
@@ -183,16 +187,6 @@
 		"sources": [
 			"coingecko",
 			"sushiswap"
-		]
-	},
-	{
-		"chain": 2046399126,
-		"address": "0xb2a85C5ECea99187A977aC34303b80AcbDdFa208",
-		"symbol": "Roco Finance",
-		"name": "Roco Finance",
-		"coingecko": "roco-finance",
-		"sources": [
-			"coingecko"
 		]
 	}
 ]

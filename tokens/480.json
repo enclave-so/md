@@ -1,6 +1,15 @@
 [
 	{
 		"chain": 480,
+		"address": "0x0000000000000000000000000000000000000000",
+		"symbol": "ETH",
+		"name": "Ethereum",
+		"decimals": 18,
+		"logo": "https://token-icons.s3.amazonaws.com/eth.png",
+		"coingecko": "ethereum"
+	},
+	{
+		"chain": 480,
 		"address": "0x79A02482A880bCE3F13e09Da970dC34db4CD24d1",
 		"symbol": "USDC.e",
 		"name": "Bridged USDC",
@@ -50,6 +59,16 @@
 	},
 	{
 		"chain": 480,
+		"address": "0xED49fE44fD4249A09843C2Ba4bba7e50BECa7113",
+		"symbol": "DNA Token",
+		"name": "DNA Token",
+		"coingecko": "dna-token",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 480,
 		"address": "0x2cFc85d8E48F8EAB294be644d9E25C3030863003",
 		"symbol": "Worldcoin",
 		"name": "Worldcoin",
@@ -57,14 +76,5 @@
 		"sources": [
 			"coingecko"
 		]
-	},
-	{
-		"chain": 480,
-		"address": "0x0000000000000000000000000000000000000000",
-		"symbol": "ETH",
-		"name": "Ethereum",
-		"decimals": 18,
-		"logo": "https://token-icons.s3.amazonaws.com/eth.png",
-		"coingecko": "ethereum"
 	}
 ]

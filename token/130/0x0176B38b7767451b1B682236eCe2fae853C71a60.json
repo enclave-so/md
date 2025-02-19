@@ -1,0 +1,12 @@
+{
+	"chain": 130,
+	"address": "0x0176B38b7767451b1B682236eCe2fae853C71a60",
+	"symbol": "LQTY",
+	"name": "Liquity",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14665/thumb/200-lqty-icon.png?1617631180",
+	"sources": [
+		"optimism",
+		"uniswap"
+	]
+}

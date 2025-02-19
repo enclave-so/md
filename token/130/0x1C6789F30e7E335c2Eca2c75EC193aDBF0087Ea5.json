@@ -1,0 +1,11 @@
+{
+	"chain": 130,
+	"address": "0x1C6789F30e7E335c2Eca2c75EC193aDBF0087Ea5",
+	"symbol": "CVX",
+	"name": "Convex Finance",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/15585/thumb/convex.png?1621256328",
+	"sources": [
+		"uniswap"
+	]
+}

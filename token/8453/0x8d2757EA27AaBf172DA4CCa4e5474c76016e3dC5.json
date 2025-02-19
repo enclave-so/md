@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x8d2757EA27AaBf172DA4CCa4e5474c76016e3dC5",
+	"symbol": "clBTC",
+	"name": "clBTC",
+	"coingecko": "clbtc",
+	"sources": [
+		"coingecko"
+	]
+}

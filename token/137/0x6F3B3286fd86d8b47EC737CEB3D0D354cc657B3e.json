@@ -1,0 +1,11 @@
+{
+	"chain": 137,
+	"address": "0x6F3B3286fd86d8b47EC737CEB3D0D354cc657B3e",
+	"symbol": "USDP",
+	"name": "Pax Dollar",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/6013/standard/Pax_Dollar.png?1696506427",
+	"sources": [
+		"uniswap"
+	]
+}

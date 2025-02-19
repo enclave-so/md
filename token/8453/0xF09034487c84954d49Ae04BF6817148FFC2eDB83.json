@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xF09034487c84954d49Ae04BF6817148FFC2eDB83",
+	"symbol": "Barry the badger",
+	"name": "Barry the badger",
+	"coingecko": "barry-the-badger",
+	"sources": [
+		"coingecko"
+	]
+}

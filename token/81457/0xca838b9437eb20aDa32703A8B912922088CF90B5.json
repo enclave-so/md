@@ -1,0 +1,10 @@
+{
+	"chain": 81457,
+	"address": "0xca838b9437eb20aDa32703A8B912922088CF90B5",
+	"symbol": "Dinari SPTE",
+	"name": "Dinari SPTE",
+	"coingecko": "dinari-spte",
+	"sources": [
+		"coingecko"
+	]
+}

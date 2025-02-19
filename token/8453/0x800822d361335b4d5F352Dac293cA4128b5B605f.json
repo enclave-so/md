@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x800822d361335b4d5F352Dac293cA4128b5B605f",
+	"symbol": "SYMMIO",
+	"name": "SYMMIO",
+	"coingecko": "symmio",
+	"sources": [
+		"coingecko"
+	]
+}

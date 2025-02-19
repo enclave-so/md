@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x220c6019203AaA7f14b5cD44A323446019609798",
+	"symbol": "Sports Analyst AI",
+	"name": "Sports Analyst AI",
+	"coingecko": "sports-analyst-ai",
+	"sources": [
+		"coingecko"
+	]
+}

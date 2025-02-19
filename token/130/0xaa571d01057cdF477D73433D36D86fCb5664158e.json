@@ -1,0 +1,11 @@
+{
+	"chain": 130,
+	"address": "0xaa571d01057cdF477D73433D36D86fCb5664158e",
+	"symbol": "SHIB",
+	"name": "Shiba Inu",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/11939/thumb/shiba.png?1622619446",
+	"sources": [
+		"uniswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x2D57C47BC5D2432FEEEdf2c9150162A9862D3cCf",
+	"symbol": "Dickbutt",
+	"name": "Dickbutt",
+	"coingecko": "dickbutt",
+	"sources": [
+		"coingecko"
+	]
+}

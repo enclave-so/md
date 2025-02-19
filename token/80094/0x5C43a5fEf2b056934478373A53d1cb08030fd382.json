@@ -1,0 +1,10 @@
+{
+	"chain": 80094,
+	"address": "0x5C43a5fEf2b056934478373A53d1cb08030fd382",
+	"symbol": "Berally Token",
+	"name": "Berally Token",
+	"coingecko": "berally-token",
+	"sources": [
+		"coingecko"
+	]
+}

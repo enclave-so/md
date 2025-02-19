@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x6a1d6A577B17b425F3437C8A7C2C4d3a161816d8",
+	"symbol": "PILLAR",
+	"name": "PillarFi",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/53820/thumb/PillarFi.png?1737482690",
+	"coingecko": "pillarfi",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"chain": 130,
+	"address": "0x116EE4d63847fb295dD919aE57B768EA3B2f7Bb4",
+	"symbol": "USDS",
+	"name": "USDS Stablecoin",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/39926/large/usds.webp?1726666683",
+	"sources": [
+		"uniswap"
+	]
+}

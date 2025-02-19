@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0xF12a38e6e51913eA04D70dBa97D7420a13Fd7941",
+	"symbol": "BRRRD",
+	"name": "Dinari BRRR",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/54039/thumb/d-token-200.png?1738075951",
+	"coingecko": "dinari-brrr",
+	"sources": [
+		"coingecko"
+	]
+}

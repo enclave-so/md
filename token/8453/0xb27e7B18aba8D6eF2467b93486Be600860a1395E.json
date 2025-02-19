@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xb27e7B18aba8D6eF2467b93486Be600860a1395E",
+	"symbol": "5TARS",
+	"name": "5TARS",
+	"coingecko": "5tars",
+	"sources": [
+		"coingecko"
+	]
+}

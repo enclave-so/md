@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x4Be7aeda82870609cD934BabC3A11b886B8Cdb02",
+	"symbol": "IAUD",
+	"name": "Dinari IAU",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/54080/thumb/d-token-200.png?1738175780",
+	"coingecko": "dinari-iau",
+	"sources": [
+		"coingecko"
+	]
+}

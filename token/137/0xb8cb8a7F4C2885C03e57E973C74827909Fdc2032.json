@@ -1,11 +1,12 @@
 {
 	"chain": 137,
 	"address": "0xb8cb8a7F4C2885C03e57E973C74827909Fdc2032",
-	"symbol": "YFI",
-	"name": "yearn.finance",
+	"symbol": "YFII",
+	"name": "DFI money",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/yfi.jpg",
+	"logo": "https://assets.coingecko.com/coins/images/11902/thumb/YFII-logo.78631676.png?1598677348",
 	"sources": [
-		"sushiswap"
+		"sushiswap",
+		"uniswap"
 	]
 }

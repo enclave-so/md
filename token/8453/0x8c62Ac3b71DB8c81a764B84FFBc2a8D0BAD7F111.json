@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x8c62Ac3b71DB8c81a764B84FFBc2a8D0BAD7F111",
+	"symbol": "PREME Token",
+	"name": "PREME Token",
+	"coingecko": "preme-token",
+	"sources": [
+		"coingecko"
+	]
+}

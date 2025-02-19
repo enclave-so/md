@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0xcA4F53E6117623992126A9A45Ce61682FE8678Df",
+	"symbol": "POPPY",
+	"name": "Poppy",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/53418/thumb/photo_2025-01-06_17-20-33.jpg?1736353232",
+	"coingecko": "poppy-2",
+	"sources": [
+		"coingecko"
+	]
+}

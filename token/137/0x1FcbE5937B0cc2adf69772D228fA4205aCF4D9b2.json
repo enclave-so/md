@@ -1,0 +1,11 @@
+{
+	"chain": 137,
+	"address": "0x1FcbE5937B0cc2adf69772D228fA4205aCF4D9b2",
+	"symbol": "BADGER",
+	"name": "Badger DAO",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/13287/thumb/badger_dao_logo.jpg?1607054976",
+	"sources": [
+		"uniswap"
+	]
+}

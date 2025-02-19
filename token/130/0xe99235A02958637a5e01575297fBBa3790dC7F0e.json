@@ -1,0 +1,11 @@
+{
+	"chain": 130,
+	"address": "0xe99235A02958637a5e01575297fBBa3790dC7F0e",
+	"symbol": "FTM",
+	"name": "Fantom",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/4001/thumb/Fantom.png?1558015016",
+	"sources": [
+		"uniswap"
+	]
+}

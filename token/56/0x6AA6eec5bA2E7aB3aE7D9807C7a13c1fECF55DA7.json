@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x6AA6eec5bA2E7aB3aE7D9807C7a13c1fECF55DA7",
+	"symbol": "Westland Smart City",
+	"name": "Westland Smart City",
+	"coingecko": "westland-smart-city",
+	"sources": [
+		"coingecko"
+	]
+}

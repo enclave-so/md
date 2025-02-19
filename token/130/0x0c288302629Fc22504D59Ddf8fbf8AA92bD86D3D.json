@@ -1,0 +1,11 @@
+{
+	"chain": 130,
+	"address": "0x0c288302629Fc22504D59Ddf8fbf8AA92bD86D3D",
+	"symbol": "SUPER",
+	"name": "SuperFarm",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14040/thumb/6YPdWn6.png?1613975899",
+	"sources": [
+		"uniswap"
+	]
+}

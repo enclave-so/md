@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0xA26B04B41162b0d7c2e1e2f9a33B752E28304a49",
+	"symbol": "AUDAI",
+	"name": "AuditAI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/53235/thumb/AuditAI.jpg?1735811417",
+	"coingecko": "auditai",
+	"sources": [
+		"coingecko"
+	]
+}

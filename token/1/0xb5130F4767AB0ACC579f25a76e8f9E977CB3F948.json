@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0xb5130F4767AB0ACC579f25a76e8f9E977CB3F948",
+	"symbol": "GOD",
+	"name": "Godcoin",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/53848/thumb/GodcoinTickerIcon_02.png?1737582816",
+	"coingecko": "godcoin-2",
+	"sources": [
+		"coingecko"
+	]
+}

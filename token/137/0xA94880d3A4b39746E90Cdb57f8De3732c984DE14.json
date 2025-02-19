@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xA94880d3A4b39746E90Cdb57f8De3732c984DE14",
+	"symbol": "U.CASH",
+	"name": "U.CASH",
+	"coingecko": "ucash",
+	"sources": [
+		"coingecko"
+	]
+}

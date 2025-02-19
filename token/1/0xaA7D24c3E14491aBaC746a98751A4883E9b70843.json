@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0xaA7D24c3E14491aBaC746a98751A4883E9b70843",
+	"symbol": "GURU",
+	"name": "Guru",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/52806/thumb/TokenLogo.png?1734359498",
+	"coingecko": "guru",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x238950013FA29A3575EB7a3D99C00304047a77b5",
+	"symbol": "Beeper Coin",
+	"name": "Beeper Coin",
+	"coingecko": "beeper-coin",
+	"sources": [
+		"coingecko"
+	]
+}

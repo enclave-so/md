@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x4366c1568fD6167eEe67d25EF6980Da38e3421BC",
+	"symbol": "Based Hoppy",
+	"name": "Based Hoppy",
+	"coingecko": "based-hoppy",
+	"sources": [
+		"coingecko"
+	]
+}

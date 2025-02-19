@@ -1,0 +1,472 @@
+[
+	{
+		"chain": 146,
+		"address": "0x949185D3BE66775Ea648F4a306740EA9eFF9C567",
+		"symbol": "Yel.Finance",
+		"name": "Yel.Finance",
+		"coingecko": "yel-finance",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 146,
+		"address": "0x59524D5667B299c0813Ba3c99a11C038a3908fBC",
+		"symbol": "Yoko",
+		"name": "Yoko",
+		"coingecko": "yoko",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 146,
+		"address": "0xddF26B42C1d903De8962d3F79a74a501420d5F19",
+		"symbol": "Equalizer on Sonic",
+		"name": "Equalizer on Sonic",
+		"coingecko": "equalizer-on-sonic",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 146,
+		"address": "0x80Eede496655FB9047dd39d9f418d5483ED600df",
+		"symbol": "Frax USD",
+		"name": "Frax USD",
+		"coingecko": "frax-usd",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 146,
+		"address": "0x131F5AE1CBfEFe8EFbDf93dA23fa4d39F14a817c",
+		"symbol": "FROQ",
+		"name": "FROQ",
+		"coingecko": "froq",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 146,
+		"address": "0xbF5899166AC476370B3117c9256B7fc45624f4eA",
+		"symbol": "Gravity Finance",
+		"name": "Gravity Finance",
+		"coingecko": "gravity-finance-2",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 146,
+		"address": "0x841Aef70237a88027ccb2d15C1bBAf88a669674a",
+		"symbol": "Space Token",
+		"name": "Space Token",
+		"coingecko": "space-token-bsc",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 146,
+		"address": "0x9F0dF7799f6FDAd409300080cfF680f5A23df4b1",
+		"symbol": "Wrapped Origin Sonic",
+		"name": "Wrapped Origin Sonic",
+		"coingecko": "wrapped-sonic-origin",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 146,
+		"address": "0xAc611438AE5F3953DeDB47c2ea8d6650D601C1B4",
+		"symbol": "Amped Finance",
+		"name": "Amped Finance",
+		"coingecko": "amped-finance",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 146,
+		"address": "0xf26Ff70573ddc8a90Bd7865AF8d7d70B8Ff019bC",
+		"symbol": "Eggs Finance",
+		"name": "Eggs Finance",
+		"coingecko": "eggs-finance",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 146,
+		"address": "0xb1e25689D55734FD3ffFc939c4C3Eb52DFf8A794",
+		"symbol": "Origin Sonic",
+		"name": "Origin Sonic",
+		"coingecko": "origin-staked-s",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 146,
+		"address": "0x3bcE5CB273F0F148010BbEa2470e7b5df84C7812",
+		"symbol": "Rings scETH",
+		"name": "Rings scETH",
+		"coingecko": "rings-sc-eth",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 146,
+		"address": "0x5Bff88cA1442c2496f7E475E9e7786383Bc070c0",
+		"symbol": "Staked Frax USD",
+		"name": "Staked Frax USD",
+		"coingecko": "staked-frax-usd",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 146,
+		"address": "0x17Af1Df44444AB9091622e4Aa66dB5BB34E51aD5",
+		"symbol": "TinHatCat",
+		"name": "TinHatCat",
+		"coingecko": "tinhatcat",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 146,
+		"address": "0x2D0E0814E62D80056181F5cd932274405966e4f0",
+		"symbol": "Beets",
+		"name": "Beets",
+		"coingecko": "beets",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 146,
+		"address": "0x50c42dEAcD8Fc9773493ED674b675bE577f2634b",
+		"symbol": "Bridged Wrapped Ether (Sonic)",
+		"name": "Bridged Wrapped Ether (Sonic)",
+		"coingecko": "bridged-wrapped-ether-sonic",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 146,
+		"address": "0x05e31a691405d06708A355C029599c12d5da8b28",
+		"symbol": "Fantomsonicinu",
+		"name": "Fantomsonicinu",
+		"coingecko": "fantomsonicinu-2",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 146,
+		"address": "0x7F883dA3B0d77978075f7C9c03E1B9F461CA1B8d",
+		"symbol": "Muttski",
+		"name": "Muttski",
+		"coingecko": "muttski-2",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 146,
+		"address": "0x005851f943ee2957B1748957F26319e4f9EdeBC1",
+		"symbol": "Silver",
+		"name": "Silver",
+		"coingecko": "silver-2",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 146,
+		"address": "0x284D81e48fBc782Aa9186a03a226690aEA5cBe0E",
+		"symbol": "Atoll ETH (Sonic)",
+		"name": "Atoll ETH (Sonic)",
+		"coingecko": "atoll-eth",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 146,
+		"address": "0xE5DA20F15420aD15DE0fa650600aFc998bbE3955",
+		"symbol": "Beets Staked Sonic",
+		"name": "Beets Staked Sonic",
+		"coingecko": "beets-staked-sonic",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 146,
+		"address": "0x7A08Bf5304094CA4C7b4132Ef62b5EDc4a3478B7",
+		"symbol": "Sonic Eco",
+		"name": "Sonic Eco",
+		"coingecko": "fantom-eco-2",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 146,
+		"address": "0x4EEC869d847A6d13b0F6D1733C5DEC0d1E741B4f",
+		"symbol": "Indi",
+		"name": "Indi",
+		"coingecko": "indi",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 146,
+		"address": "0x068e9e009fDa970fA953E1f6a43D982cA991F4bA",
+		"symbol": "Whale Ecosystem",
+		"name": "Whale Ecosystem",
+		"coingecko": "whale-ecosystem",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 146,
+		"address": "0xb0695ce12c56AAe40894235e2d1888D0b62Dd110",
+		"symbol": "DeFive",
+		"name": "DeFive",
+		"coingecko": "defive",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 146,
+		"address": "0x70e7f1d907E30efb18FE1DD8A1d75c09A98177d3",
+		"symbol": "Jefe",
+		"name": "Jefe",
+		"coingecko": "jefe",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 146,
+		"address": "0x0e0Ce4D450c705F8a0B6Dd9d5123e3df2787D16B",
+		"symbol": "Wagmi",
+		"name": "Wagmi",
+		"coingecko": "wagmi-2",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 146,
+		"address": "0xd3DCe716f3eF535C5Ff8d041c1A41C3bd89b97aE",
+		"symbol": "Rings scUSD",
+		"name": "Rings scUSD",
+		"coingecko": "rings-scusd",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 146,
+		"address": "0x63A522f6E7D5B96F7aeBB74d2648545E9e14078D",
+		"symbol": "ShibaPoconk",
+		"name": "ShibaPoconk",
+		"coingecko": "shibapoconk",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 146,
+		"address": "0xBC0d0650412EF353D672c0Bbd12eFFF90591B251",
+		"symbol": "FutureStarter",
+		"name": "FutureStarter",
+		"coingecko": "fantomstarter",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 146,
+		"address": "0x8ad39144B37741573F85aa03D6c3E817A0054161",
+		"symbol": "Fate Adventure",
+		"name": "Fate Adventure",
+		"coingecko": "fate-adventure",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 146,
+		"address": "0x6fB9897896Fe5D05025Eb43306675727887D0B7c",
+		"symbol": "Hedgy the hedgehog",
+		"name": "Hedgy the hedgehog",
+		"coingecko": "hedgy-the-hedgehog",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 146,
+		"address": "0x79bbF4508B1391af3A0F4B30bb5FC4aa9ab0E07C",
+		"symbol": "Hey Anon",
+		"name": "Hey Anon",
+		"coingecko": "heyanon",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 146,
+		"address": "0x71E99522EaD5E21CF57F1f542Dc4ad2E841F7321",
+		"symbol": "Metropolis",
+		"name": "Metropolis",
+		"coingecko": "metropolis",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 146,
+		"address": "0xE51EE9868C1f0d6cd968A8B8C8376Dc2991BFE44",
+		"symbol": "Paintswap",
+		"name": "Paintswap",
+		"coingecko": "paint-swap",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 146,
+		"address": "0x29219dd400f2Bf60E5a23d13Be72B486D4038894",
+		"symbol": "Sonic Bridged USDC.e (Sonic)",
+		"name": "Sonic Bridged USDC.e (Sonic)",
+		"coingecko": "sonic-bridged-usdc-e-sonic",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 146,
+		"address": "0xf4F9C50455C698834Bb645089DbAa89093b93838",
+		"symbol": "toona",
+		"name": "toona",
+		"coingecko": "toona",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 146,
+		"address": "0x039e2fB66102314Ce7b64Ce5Ce3E5183bc94aD38",
+		"symbol": "Wrapped Sonic",
+		"name": "Wrapped Sonic",
+		"coingecko": "wrapped-sonic",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 146,
+		"address": "0xe920d1DA9A4D59126dC35996Ea242d60EFca1304",
+		"symbol": "Derp",
+		"name": "Derp",
+		"coingecko": "derp-2",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 146,
+		"address": "0x486B6Fa0419b33a0c7A6e4698c231D7E2f2D5299",
+		"symbol": "Moon Bay",
+		"name": "Moon Bay",
+		"coingecko": "moon-bay-2",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 146,
+		"address": "0x6881B80ea7C858E4aEEf63893e18a8A36f3682f3",
+		"symbol": "Navigator Exchange",
+		"name": "Navigator Exchange",
+		"coingecko": "mummy-finance",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 146,
+		"address": "0x446649F0727621BDbB76644B1910be2163b62a11",
+		"symbol": "Sonic",
+		"name": "Sonic",
+		"coingecko": "sonic-4",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 146,
+		"address": "0xA04BC7140c26fc9BB1F36B1A604C7A5a88fb0E70",
+		"symbol": "SwapX",
+		"name": "SwapX",
+		"coingecko": "swapx-2",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 146,
+		"address": "0x9fDbC3f8Abc05Fa8f3Ad3C17D2F806c1230c4564",
+		"symbol": "GOGGLES",
+		"name": "GOGGLES",
+		"coingecko": "googles",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 146,
+		"address": "0x7AD5935EA295c4E743e4f2f5B4CDA951f41223c2",
+		"symbol": "SACRA",
+		"name": "SACRA",
+		"coingecko": "sacra",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 146,
+		"address": "0x3333b97138D4b086720b5aE8A7844b1345a33333",
+		"symbol": "Shadow",
+		"name": "Shadow",
+		"coingecko": "shadow-2",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 146,
+		"address": "0x41211648C51AcB9A5F39A93C657e894A0bdB88e4",
+		"symbol": "Tails",
+		"name": "Tails",
+		"coingecko": "tails-2",
+		"sources": [
+			"coingecko"
+		]
+	}
+]

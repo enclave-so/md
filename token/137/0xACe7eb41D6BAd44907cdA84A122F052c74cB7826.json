@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xACe7eb41D6BAd44907cdA84A122F052c74cB7826",
+	"symbol": "GoldPro",
+	"name": "GoldPro",
+	"coingecko": "ipmb",
+	"sources": [
+		"coingecko"
+	]
+}

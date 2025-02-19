@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xEE30c78d32B8FD5B8eec8E4F08fd88a3F68971D5",
+	"symbol": "Astro Fuel",
+	"name": "Astro Fuel",
+	"coingecko": "astro-fuel",
+	"sources": [
+		"coingecko"
+	]
+}

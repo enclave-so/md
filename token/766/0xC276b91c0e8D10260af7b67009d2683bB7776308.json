@@ -1,0 +1,10 @@
+{
+	"chain": 766,
+	"address": "0xC276b91c0e8D10260af7b67009d2683bB7776308",
+	"symbol": "QL1 Bridged USDT (QL1)",
+	"name": "QL1 Bridged USDT (QL1)",
+	"coingecko": "qusdt",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xdd78523217390bb0d49C7601e7e54C36d71622F0",
+	"symbol": "Chromia's EVAL by Virtuals",
+	"name": "Chromia's EVAL by Virtuals",
+	"coingecko": "chromia-s-eval-by-virtuals",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x1B66474c8ECA3827f16202907F41F63785579716",
+	"symbol": "WXT",
+	"name": "WEEX Token",
+	"decimals": 6,
+	"logo": "https://assets.coingecko.com/coins/images/39075/thumb/WEEX_Token.png?1720239469",
+	"coingecko": "weex-token",
+	"sources": [
+		"coingecko"
+	]
+}

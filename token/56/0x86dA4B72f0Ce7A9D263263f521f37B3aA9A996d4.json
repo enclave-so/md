@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x86dA4B72f0Ce7A9D263263f521f37B3aA9A996d4",
+	"symbol": "Trader",
+	"name": "Trader",
+	"coingecko": "trader",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 88,
+	"address": "0xC054751BdBD24Ae713BA3Dc9Bd9434aBe2abc1ce",
+	"symbol": "Wrapped Viction",
+	"name": "Wrapped Viction",
+	"coingecko": "wrapped-viction",
+	"sources": [
+		"coingecko"
+	]
+}

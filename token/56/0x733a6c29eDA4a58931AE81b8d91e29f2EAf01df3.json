@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x733a6c29eDA4a58931AE81b8d91e29f2EAf01df3",
+	"symbol": "Bedrock BTC",
+	"name": "Bedrock BTC",
+	"coingecko": "bedrock-btc",
+	"sources": [
+		"coingecko"
+	]
+}

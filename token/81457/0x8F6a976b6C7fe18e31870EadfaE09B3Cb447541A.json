@@ -1,0 +1,10 @@
+{
+	"chain": 81457,
+	"address": "0x8F6a976b6C7fe18e31870EadfaE09B3Cb447541A",
+	"symbol": "Dinari UFO",
+	"name": "Dinari UFO",
+	"coingecko": "dinari-ufo",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"chain": 130,
+	"address": "0x48b8441dE79cEE3604b805093B41028d3c81684B",
+	"symbol": "AUDIO",
+	"name": "Audius",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/12913/thumb/AudiusCoinLogo_2x.png?1603425727",
+	"sources": [
+		"uniswap"
+	]
+}

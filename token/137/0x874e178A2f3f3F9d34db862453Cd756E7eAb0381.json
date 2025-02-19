@@ -1,8 +1,8 @@
 {
 	"chain": 137,
 	"address": "0x874e178A2f3f3F9d34db862453Cd756E7eAb0381",
-	"symbol": "Gravity Finance",
-	"name": "Gravity Finance",
+	"symbol": "Gravity Finance [OLD]",
+	"name": "Gravity Finance [OLD]",
 	"coingecko": "gravity-finance",
 	"sources": [
 		"coingecko"

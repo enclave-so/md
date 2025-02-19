@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x1c93d155bD388241F9AB5Df500D69eb529cE9583",
+	"symbol": "Flaunchy",
+	"name": "Flaunchy",
+	"coingecko": "flaunchy",
+	"sources": [
+		"coingecko"
+	]
+}

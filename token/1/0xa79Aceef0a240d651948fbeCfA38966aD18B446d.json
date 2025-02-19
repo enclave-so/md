@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0xa79Aceef0a240d651948fbeCfA38966aD18B446d",
+	"symbol": "SEDGE",
+	"name": "Social Edge",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/52933/thumb/IMG_9236%281%29_%281%29.png?1734709541",
+	"coingecko": "social-edge",
+	"sources": [
+		"coingecko"
+	]
+}

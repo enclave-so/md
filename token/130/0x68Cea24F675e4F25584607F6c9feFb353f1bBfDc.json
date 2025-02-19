@@ -1,0 +1,11 @@
+{
+	"chain": 130,
+	"address": "0x68Cea24F675e4F25584607F6c9feFb353f1bBfDc",
+	"symbol": "KEY",
+	"name": "SelfKey",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/2034/thumb/selfkey.png?1548608934",
+	"sources": [
+		"uniswap"
+	]
+}

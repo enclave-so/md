@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x88558259CEDA5D8E681feDB55C50070fBD3da8f9",
+	"symbol": "Meridian MST",
+	"name": "Meridian MST",
+	"coingecko": "meridian-mst",
+	"sources": [
+		"coingecko"
+	]
+}

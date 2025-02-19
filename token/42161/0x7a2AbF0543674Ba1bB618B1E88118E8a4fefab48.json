@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x7a2AbF0543674Ba1bB618B1E88118E8a4fefab48",
+	"symbol": "Dinari PALL",
+	"name": "Dinari PALL",
+	"coingecko": "dinari-pall",
+	"sources": [
+		"coingecko"
+	]
+}

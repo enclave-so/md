@@ -1,0 +1,12 @@
+{
+	"chain": 130,
+	"address": "0x41f6e69166e81A9583DBc96604B01D2E9B3D706f",
+	"symbol": "BITCOIN",
+	"name": "HarryPotterObamaSonic10Inu",
+	"decimals": 8,
+	"logo": "https://coin-images.coingecko.com/coins/images/30323/large/hpos10i_logo_casino_night-dexview.png?1696529224",
+	"sources": [
+		"optimism",
+		"uniswap"
+	]
+}

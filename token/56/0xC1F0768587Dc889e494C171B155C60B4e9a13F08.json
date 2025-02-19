@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xC1F0768587Dc889e494C171B155C60B4e9a13F08",
+	"symbol": "A.I Genesis",
+	"name": "A.I Genesis",
+	"coingecko": "a-i-genesis",
+	"sources": [
+		"coingecko"
+	]
+}

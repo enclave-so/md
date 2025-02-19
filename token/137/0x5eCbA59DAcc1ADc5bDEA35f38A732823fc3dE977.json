@@ -1,0 +1,11 @@
+{
+	"chain": 137,
+	"address": "0x5eCbA59DAcc1ADc5bDEA35f38A732823fc3dE977",
+	"symbol": "FORTH",
+	"name": "Ampleforth Governance Token",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14917/thumb/photo_2021-04-22_00.00.03.jpeg?1619020835",
+	"sources": [
+		"uniswap"
+	]
+}

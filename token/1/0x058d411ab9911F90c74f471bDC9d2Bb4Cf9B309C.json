@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x058d411ab9911F90c74f471bDC9d2Bb4Cf9B309C",
+	"symbol": "RIZ",
+	"name": "Rivalz Network",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/54076/thumb/Group_1533211238.png?1739213377",
+	"coingecko": "rivalz-network",
+	"sources": [
+		"coingecko"
+	]
+}

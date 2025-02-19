@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x4b91dfa774ACde7Ed70e93a6438363FEAaA40F54",
+	"symbol": "SPE",
+	"name": "SavePlanetEarth",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/19759/thumb/spe.png?1696519182",
+	"coingecko": "saveplanetearth",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"chain": 130,
+	"address": "0x6A654A2ec95fB988Ea37746dBCca10772CAf25CA",
+	"symbol": "SAND",
+	"name": "The Sandbox",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/12129/thumb/sandbox_logo.jpg?1597397942",
+	"sources": [
+		"uniswap"
+	]
+}

@@ -5,9 +5,7 @@
 	"name": "Tether USD",
 	"decimals": 6,
 	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/skale-europa/0x1c0491E3396AD6a35f061c62387a95d7218FC515.jpg",
-	"coingecko": "skale-ima-bridged-usdt",
 	"sources": [
-		"coingecko",
 		"sushiswap"
 	]
 }

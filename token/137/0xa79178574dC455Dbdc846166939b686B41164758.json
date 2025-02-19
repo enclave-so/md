@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xa79178574dC455Dbdc846166939b686B41164758",
+	"symbol": "BiJiRi",
+	"name": "BiJiRi",
+	"coingecko": "bijiri",
+	"sources": [
+		"coingecko"
+	]
+}

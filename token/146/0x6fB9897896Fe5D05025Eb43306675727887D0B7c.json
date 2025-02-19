@@ -1,0 +1,10 @@
+{
+	"chain": 146,
+	"address": "0x6fB9897896Fe5D05025Eb43306675727887D0B7c",
+	"symbol": "Hedgy the hedgehog",
+	"name": "Hedgy the hedgehog",
+	"coingecko": "hedgy-the-hedgehog",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 369,
+	"address": "0xF2Da3942616880E52e841E5C504B5A9Fba23FFF0",
+	"symbol": "NEXION",
+	"name": "NEXION",
+	"coingecko": "nexion",
+	"sources": [
+		"coingecko"
+	]
+}

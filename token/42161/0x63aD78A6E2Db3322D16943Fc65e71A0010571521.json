@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x63aD78A6E2Db3322D16943Fc65e71A0010571521",
+	"symbol": "Dinari TQQQ",
+	"name": "Dinari TQQQ",
+	"coingecko": "dinari-tqqq",
+	"sources": [
+		"coingecko"
+	]
+}

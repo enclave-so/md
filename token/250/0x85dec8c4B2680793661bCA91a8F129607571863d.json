@@ -1,8 +1,8 @@
 {
 	"chain": 250,
 	"address": "0x85dec8c4B2680793661bCA91a8F129607571863d",
-	"symbol": "Paint Swap",
-	"name": "Paint Swap",
+	"symbol": "Paintswap",
+	"name": "Paintswap",
 	"coingecko": "paint-swap",
 	"sources": [
 		"coingecko"

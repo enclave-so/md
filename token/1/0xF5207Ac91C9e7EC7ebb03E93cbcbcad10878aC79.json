@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0xF5207Ac91C9e7EC7ebb03E93cbcbcad10878aC79",
+	"symbol": "MIRA",
+	"name": "Chains of War",
+	"decimals": 2,
+	"logo": "https://assets.coingecko.com/coins/images/29094/thumb/Mira-Token-v2-500px.png?1696528057",
+	"coingecko": "chains-of-war",
+	"sources": [
+		"coingecko"
+	]
+}

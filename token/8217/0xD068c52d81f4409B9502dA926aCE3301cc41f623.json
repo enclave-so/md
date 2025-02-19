@@ -1,8 +1,8 @@
 {
 	"chain": 8217,
 	"address": "0xD068c52d81f4409B9502dA926aCE3301cc41f623",
-	"symbol": "Marblex",
-	"name": "Marblex",
+	"symbol": "MARBLEX",
+	"name": "MARBLEX",
 	"coingecko": "marblex",
 	"sources": [
 		"coingecko"

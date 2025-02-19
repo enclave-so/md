@@ -1,17 +1,6 @@
 [
 	{
 		"chain": 56288,
-		"address": "0x38Ca7a190f57D38F4DC44413508e1078cD9E0045",
-		"symbol": "ETH",
-		"name": "Ethereum",
-		"decimals": 18,
-		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/eth.jpg",
-		"sources": [
-			"sushiswap"
-		]
-	},
-	{
-		"chain": 56288,
 		"address": "0x4200000000000000000000000000000000000023",
 		"symbol": "BNB",
 		"name": "Binance Coin",
@@ -61,6 +50,17 @@
 		"name": "Binance USD",
 		"decimals": 18,
 		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/busd.jpg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 56288,
+		"address": "0x38Ca7a190f57D38F4DC44413508e1078cD9E0045",
+		"symbol": "ETH",
+		"name": "Ethereum",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/eth.jpg",
 		"sources": [
 			"sushiswap"
 		]

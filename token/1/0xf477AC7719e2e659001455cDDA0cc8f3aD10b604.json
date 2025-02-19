@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0xf477AC7719e2e659001455cDDA0cc8f3aD10b604",
+	"symbol": "AUTOS",
+	"name": "CryptoAutos",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/51565/thumb/CryptoAutos_Token_Logo.png?1733134431",
+	"coingecko": "cryptoautos",
+	"sources": [
+		"coingecko"
+	]
+}

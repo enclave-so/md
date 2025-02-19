@@ -1,0 +1,10 @@
+{
+	"chain": 88811,
+	"address": "0xCF43F7703d9B4E8835f977eF364B4014fA7e856E",
+	"symbol": "Wrapped Unit0",
+	"name": "Wrapped Unit0",
+	"coingecko": "wrapped-unit0",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x1A4C5C74Fb1EC39E839799baa0A91CaEAEADEdf7",
+	"symbol": "AKITA-BSC",
+	"name": "AKITA-BSC",
+	"coingecko": "akita-bsc",
+	"sources": [
+		"coingecko"
+	]
+}

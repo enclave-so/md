@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xa26A3903cBbA4e6c2c757d7601fBC569eFc479eF",
+	"symbol": "Dinari RKLB",
+	"name": "Dinari RKLB",
+	"coingecko": "dinari-rklb",
+	"sources": [
+		"coingecko"
+	]
+}

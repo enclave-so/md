@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x36E45dcfE1d3d85A78c65c3baD4068dEE4f2a25e",
+	"symbol": "TRRUE",
+	"name": "TRRUE",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/53260/thumb/TRRUE.jpg?1735907065",
+	"coingecko": "trrue",
+	"sources": [
+		"coingecko"
+	]
+}

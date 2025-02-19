@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0xF8F173E20e15f3b6CB686FB64724D370689De083",
+	"symbol": "HEI",
+	"name": "Heima",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/54379/thumb/heima.png?1739444240",
+	"coingecko": "heima",
+	"sources": [
+		"coingecko"
+	]
+}

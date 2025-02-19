@@ -1,0 +1,11 @@
+{
+	"chain": 8453,
+	"address": "0xBdb9300b7CDE636d9cD4AFF00f6F009fFBBc8EE6",
+	"symbol": "aBascbBTC",
+	"name": "Aave Base cbBTC",
+	"decimals": 8,
+	"logo": "https://basescan.org/token/images/aavecbbtc_32.png",
+	"sources": [
+		"indexcoop"
+	]
+}

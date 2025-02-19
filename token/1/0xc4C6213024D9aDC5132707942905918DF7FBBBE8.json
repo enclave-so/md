@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0xc4C6213024D9aDC5132707942905918DF7FBBBE8",
+	"symbol": "EZBCD",
+	"name": "Dinari EZBC",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/54267/thumb/d-token-200.png?1738994496",
+	"coingecko": "dinari-ezbc",
+	"sources": [
+		"coingecko"
+	]
+}

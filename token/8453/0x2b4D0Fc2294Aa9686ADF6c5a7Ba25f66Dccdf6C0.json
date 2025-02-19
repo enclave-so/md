@@ -1,0 +1,11 @@
+{
+	"chain": 8453,
+	"address": "0x2b4D0Fc2294Aa9686ADF6c5a7Ba25f66Dccdf6C0",
+	"symbol": "AZUR",
+	"name": "Azuro",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/AZUR/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

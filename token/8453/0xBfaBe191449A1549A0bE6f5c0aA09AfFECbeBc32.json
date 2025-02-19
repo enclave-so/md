@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xBfaBe191449A1549A0bE6f5c0aA09AfFECbeBc32",
+	"symbol": "Hover Cat",
+	"name": "Hover Cat",
+	"coingecko": "hover-cat",
+	"sources": [
+		"coingecko"
+	]
+}

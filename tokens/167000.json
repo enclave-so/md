@@ -1,26 +1,6 @@
 [
 	{
 		"chain": 167000,
-		"address": "0x19e26B0638bf63aa9fa4d14c6baF8D52eBE86C5C",
-		"symbol": "Bridged USDC (Stargate)",
-		"name": "Bridged USDC (Stargate)",
-		"coingecko": "bridged-usdc-stargate",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 167000,
-		"address": "0xf7fB2DF9280eB0a76427Dc3b34761DB8b1441a49",
-		"symbol": "Merlin's Seal BTC",
-		"name": "Merlin's Seal BTC",
-		"coingecko": "merlin-s-seal-btc",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 167000,
 		"address": "0xA9d23408b9bA935c230493c40C73824Df71A0975",
 		"symbol": "Taiko",
 		"name": "Taiko",
@@ -41,16 +21,6 @@
 	},
 	{
 		"chain": 167000,
-		"address": "0xED197058A19E3A7C0D1aC402AaADEf22a0f31D0b",
-		"symbol": "TaikoSwap",
-		"name": "TaikoSwap",
-		"coingecko": "taikoswap",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 167000,
 		"address": "0x93919784C523f39CACaa98Ee0a9d96c3F32b593e",
 		"symbol": "Universal BTC",
 		"name": "Universal BTC",
@@ -65,6 +35,46 @@
 		"symbol": "Wrapped ETH (Taiko)",
 		"name": "Wrapped ETH (Taiko)",
 		"coingecko": "wrapped-eth-taiko",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 167000,
+		"address": "0x19e26B0638bf63aa9fa4d14c6baF8D52eBE86C5C",
+		"symbol": "Bridged USDC (Stargate)",
+		"name": "Bridged USDC (Stargate)",
+		"coingecko": "bridged-usdc-stargate",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 167000,
+		"address": "0xf6718b2701D4a6498eF77D7c152b2137Ab28b8A3",
+		"symbol": "Lorenzo stBTC",
+		"name": "Lorenzo stBTC",
+		"coingecko": "lorenzo-stbtc",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 167000,
+		"address": "0xf7fB2DF9280eB0a76427Dc3b34761DB8b1441a49",
+		"symbol": "Merlin's Seal BTC",
+		"name": "Merlin's Seal BTC",
+		"coingecko": "merlin-s-seal-btc",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 167000,
+		"address": "0x2bd26Ba2EF62ff90f807365C2Bf363FB3Bee9979",
+		"symbol": "Minterest",
+		"name": "Minterest",
+		"coingecko": "minterest",
 		"sources": [
 			"coingecko"
 		]

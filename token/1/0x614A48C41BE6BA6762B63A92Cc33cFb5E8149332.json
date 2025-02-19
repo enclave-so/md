@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x614A48C41BE6BA6762B63A92Cc33cFb5E8149332",
+	"symbol": "DUSTY",
+	"name": "Dusty",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/53180/thumb/cg.png?1735562146",
+	"coingecko": "dusty",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x39878e8A41af06d99e605c1e65Eea755128f05f1",
+	"symbol": "MANYU",
+	"name": "MANYU",
+	"coingecko": "manyu",
+	"sources": [
+		"coingecko"
+	]
+}

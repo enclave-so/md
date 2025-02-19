@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0xC04207Ebf4BBBD81C14596b78Ece7CD8c17fB5Cf",
+	"symbol": "BSEN",
+	"name": "Baby Sen by Sentio",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/53673/thumb/Baby_Sen_by_Sentio.jpg?1737008175",
+	"coingecko": "baby-sen-by-sentio",
+	"sources": [
+		"coingecko"
+	]
+}

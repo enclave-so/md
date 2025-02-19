@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x014d05725f9D95BC371A184373fAb4eD0Bd577ee",
+	"symbol": "Gold Reserve",
+	"name": "Gold Reserve",
+	"coingecko": "gold-reserve",
+	"sources": [
+		"coingecko"
+	]
+}

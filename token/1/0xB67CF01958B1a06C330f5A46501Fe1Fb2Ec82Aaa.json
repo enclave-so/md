@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0xB67CF01958B1a06C330f5A46501Fe1Fb2Ec82Aaa",
+	"symbol": "OPTION",
+	"name": "OptionsAI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/52700/thumb/logo_2_%282%29_%281%29.png?1734040404",
+	"coingecko": "optionsai",
+	"sources": [
+		"coingecko"
+	]
+}

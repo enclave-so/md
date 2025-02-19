@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x33c527361aB68b46A6669F82d25b704423CaE568",
+	"symbol": "Zenith by Virtuals",
+	"name": "Zenith by Virtuals",
+	"coingecko": "zenith-by-virtuals",
+	"sources": [
+		"coingecko"
+	]
+}

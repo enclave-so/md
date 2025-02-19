@@ -1,0 +1,13 @@
+{
+	"chain": 56,
+	"address": "0xF8252C05eC4cB2fdf1e0398BaE049D454dDbA3AD",
+	"symbol": "JAM",
+	"name": "Jam",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0xF8252C05eC4cB2fdf1e0398BaE049D454dDbA3AD.png",
+	"coingecko": "jam",
+	"sources": [
+		"coingecko",
+		"pancakeswap"
+	]
+}

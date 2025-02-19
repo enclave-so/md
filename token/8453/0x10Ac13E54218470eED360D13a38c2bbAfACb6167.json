@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x10Ac13E54218470eED360D13a38c2bbAfACb6167",
+	"symbol": "Pollo",
+	"name": "Pollo",
+	"coingecko": "pollo",
+	"sources": [
+		"coingecko"
+	]
+}

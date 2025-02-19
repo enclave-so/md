@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0xE0396Ef787F8B0385F0e73D30Acf8b922B1761F1",
+	"symbol": "OCAI",
+	"name": "OcNest AI",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/54116/thumb/ocnest_ai_200x200.png?1738311354",
+	"coingecko": "ocnest-ai",
+	"sources": [
+		"coingecko"
+	]
+}

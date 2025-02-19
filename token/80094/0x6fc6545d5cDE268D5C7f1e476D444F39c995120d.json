@@ -1,0 +1,10 @@
+{
+	"chain": 80094,
+	"address": "0x6fc6545d5cDE268D5C7f1e476D444F39c995120d",
+	"symbol": "Berachain Staked ETH",
+	"name": "Berachain Staked ETH",
+	"coingecko": "berachain-staked-eth",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x49A756e34A5A0a7FDBFCce73d10228ee2C85CA8b",
+	"symbol": "RWA NOVA",
+	"name": "RWA NOVA",
+	"coingecko": "rwa-nova",
+	"sources": [
+		"coingecko"
+	]
+}

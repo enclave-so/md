@@ -1,26 +1,6 @@
 [
 	{
 		"chain": 333000333,
-		"address": "0x333000333528b1e38884a5d1EF13615B0C17a301",
-		"symbol": "MELD",
-		"name": "MELD",
-		"coingecko": "meld-2",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 333000333,
-		"address": "0x333000991af20009D049bAB8218De04d70811c04",
-		"symbol": "Meld Bridged ADA (Meld)",
-		"name": "Meld Bridged ADA (Meld)",
-		"coingecko": "meld-bridged-ada-meld",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 333000333,
 		"address": "0x333007314D34337d97AB1E9b42e36A8649520C03",
 		"symbol": "Meld Bridged AVAX (Meld)",
 		"name": "Meld Bridged AVAX (Meld)",
@@ -65,6 +45,26 @@
 		"symbol": "Meld Bridged USDT (Meld)",
 		"name": "Meld Bridged USDT (Meld)",
 		"coingecko": "meld-bridged-usdt-meld",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 333000333,
+		"address": "0x333000333528b1e38884a5d1EF13615B0C17a301",
+		"symbol": "MELD",
+		"name": "MELD",
+		"coingecko": "meld-2",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 333000333,
+		"address": "0x333000991af20009D049bAB8218De04d70811c04",
+		"symbol": "Meld Bridged ADA (Meld)",
+		"name": "Meld Bridged ADA (Meld)",
+		"coingecko": "meld-bridged-ada-meld",
 		"sources": [
 			"coingecko"
 		]

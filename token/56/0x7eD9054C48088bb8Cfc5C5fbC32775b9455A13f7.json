@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x7eD9054C48088bb8Cfc5C5fbC32775b9455A13f7",
+	"symbol": "WEB3 DECISION",
+	"name": "WEB3 DECISION",
+	"coingecko": "web3-decision",
+	"sources": [
+		"coingecko"
+	]
+}

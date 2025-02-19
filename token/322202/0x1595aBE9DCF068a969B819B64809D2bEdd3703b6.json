@@ -1,0 +1,10 @@
+{
+	"chain": 322202,
+	"address": "0x1595aBE9DCF068a969B819B64809D2bEdd3703b6",
+	"symbol": "Wrapped PRX",
+	"name": "Wrapped PRX",
+	"coingecko": "wrapped-prx",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x08d23468A467d2bb86FaE0e32F247A26C7E2e994",
+	"symbol": "SINV",
+	"name": "Staked INV",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/53505/thumb/sINVx512.png?1736535779",
+	"coingecko": "staked-inv",
+	"sources": [
+		"coingecko"
+	]
+}

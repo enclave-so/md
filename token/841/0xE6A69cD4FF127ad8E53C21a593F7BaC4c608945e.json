@@ -1,0 +1,10 @@
+{
+	"chain": 841,
+	"address": "0xE6A69cD4FF127ad8E53C21a593F7BaC4c608945e",
+	"symbol": "Lara",
+	"name": "Lara",
+	"coingecko": "lara",
+	"sources": [
+		"coingecko"
+	]
+}

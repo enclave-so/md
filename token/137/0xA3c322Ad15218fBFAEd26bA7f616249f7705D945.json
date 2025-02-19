@@ -1,10 +1,13 @@
 {
 	"chain": 137,
 	"address": "0xA3c322Ad15218fBFAEd26bA7f616249f7705D945",
-	"symbol": "GensoKishi Metaverse",
+	"symbol": "MV",
 	"name": "GensoKishi Metaverse",
+	"decimals": 18,
+	"logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/17704.png",
 	"coingecko": "gensokishis-metaverse",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"uniswap"
 	]
 }

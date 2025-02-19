@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x634Ed807647e07a7C038EF1956a58ADbc6695F88",
+	"symbol": "SHEZUSD",
+	"name": "ShezmuUSD",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/39541/thumb/shezUSD.png?1722842027",
+	"coingecko": "shezmuusd",
+	"sources": [
+		"coingecko"
+	]
+}

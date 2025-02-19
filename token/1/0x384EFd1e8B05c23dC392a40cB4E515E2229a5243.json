@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x384EFd1e8B05c23dC392a40cB4E515E2229a5243",
+	"symbol": "HXAI",
+	"name": "Healix AI",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/53406/thumb/HxAI_logo.png?1736290533",
+	"coingecko": "healix-ai",
+	"sources": [
+		"coingecko"
+	]
+}

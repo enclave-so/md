@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0xDB9Bd37c6D5Fe195923d7487Ad50A1E3C5b9BD42",
+	"symbol": "HGAI",
+	"name": "Hygea AI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/53422/thumb/photo_2025-01-06_23-58-23.jpg?1736354980",
+	"coingecko": "hygea-ai",
+	"sources": [
+		"coingecko"
+	]
+}

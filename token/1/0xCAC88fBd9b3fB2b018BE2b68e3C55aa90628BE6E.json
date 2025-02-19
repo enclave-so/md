@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0xCAC88fBd9b3fB2b018BE2b68e3C55aa90628BE6E",
+	"symbol": "ARBX",
+	"name": "Arbitrax AI",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/53792/thumb/200_coingecko.png?1737562776",
+	"coingecko": "arbitrax-ai",
+	"sources": [
+		"coingecko"
+	]
+}

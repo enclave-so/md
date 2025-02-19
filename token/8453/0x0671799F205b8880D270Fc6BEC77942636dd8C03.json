@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x0671799F205b8880D270Fc6BEC77942636dd8C03",
+	"symbol": "Senku Ishigami by Virtuals",
+	"name": "Senku Ishigami by Virtuals",
+	"coingecko": "senku-ishigami-by-virtuals",
+	"sources": [
+		"coingecko"
+	]
+}

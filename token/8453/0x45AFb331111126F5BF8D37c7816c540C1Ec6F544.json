@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x45AFb331111126F5BF8D37c7816c540C1Ec6F544",
+	"symbol": "Dinari BLK",
+	"name": "Dinari BLK",
+	"coingecko": "dinari-blk",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x9ba77C059B5a59a220aa648a6bd97986Fb1bF0a9",
+	"symbol": "AGSYS",
+	"name": "AGENTSYS AI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/53419/thumb/WhatsApp_G%C3%B6rsel_2025-01-06_saat_21.03.40_30e1ec8b_%281%29.jpg?1736354449",
+	"coingecko": "agentsys-ai",
+	"sources": [
+		"coingecko"
+	]
+}

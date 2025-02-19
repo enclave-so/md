@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0xE36Fb561DCc177492DA42A6BA5fD4A9d0987bfE2",
+	"symbol": "SIVRD",
+	"name": "Dinari SIVR",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/54224/thumb/d-token-200.png?1738861015",
+	"coingecko": "dinari-sivr",
+	"sources": [
+		"coingecko"
+	]
+}

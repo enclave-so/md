@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x64c5cbA9A1BfBD2A5faf601D91Beff2dCac2c974",
+	"symbol": "MYSTERY",
+	"name": "Mystery",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/52711/thumb/Mystery.png?1734059423",
+	"coingecko": "mystery-2",
+	"sources": [
+		"coingecko"
+	]
+}

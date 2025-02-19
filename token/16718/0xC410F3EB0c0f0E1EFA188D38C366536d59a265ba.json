@@ -1,0 +1,10 @@
+{
+	"chain": 16718,
+	"address": "0xC410F3EB0c0f0E1EFA188D38C366536d59a265ba",
+	"symbol": "Swiss Wine",
+	"name": "Swiss Wine",
+	"coingecko": "swiss-wine",
+	"sources": [
+		"coingecko"
+	]
+}

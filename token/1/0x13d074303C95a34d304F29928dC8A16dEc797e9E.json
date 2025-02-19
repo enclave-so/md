@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x13d074303C95a34d304F29928dC8A16dEc797e9E",
+	"symbol": "LAK3",
+	"name": "LAKE",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/53846/thumb/lak3_logo200px.png?1737569998",
+	"coingecko": "lake",
+	"sources": [
+		"coingecko"
+	]
+}

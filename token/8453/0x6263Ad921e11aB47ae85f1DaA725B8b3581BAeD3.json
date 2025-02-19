@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x6263Ad921e11aB47ae85f1DaA725B8b3581BAeD3",
+	"symbol": "Market Maverick",
+	"name": "Market Maverick",
+	"coingecko": "market-maverick",
+	"sources": [
+		"coingecko"
+	]
+}

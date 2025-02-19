@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x54eaf6Bb665565bb8897F9d7aD5B3818dEd143B4",
+	"symbol": "Degen AI by Virtuals",
+	"name": "Degen AI by Virtuals",
+	"coingecko": "degen-ai",
+	"sources": [
+		"coingecko"
+	]
+}

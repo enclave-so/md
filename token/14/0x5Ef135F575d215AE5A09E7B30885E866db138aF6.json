@@ -1,0 +1,10 @@
+{
+	"chain": 14,
+	"address": "0x5Ef135F575d215AE5A09E7B30885E866db138aF6",
+	"symbol": "PiCO Coin",
+	"name": "PiCO Coin",
+	"coingecko": "pico",
+	"sources": [
+		"coingecko"
+	]
+}

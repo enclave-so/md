@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0xd2a530170D71a9Cfe1651Fb468E2B98F7Ed7456b",
+	"symbol": "AUDF",
+	"name": "Forte AUD",
+	"decimals": 6,
+	"logo": "https://assets.coingecko.com/coins/images/37837/thumb/Logo_emblem_blue.png?1715742171",
+	"coingecko": "forte-aud",
+	"sources": [
+		"coingecko"
+	]
+}

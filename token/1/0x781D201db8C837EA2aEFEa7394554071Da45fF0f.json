@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x781D201db8C837EA2aEFEa7394554071Da45fF0f",
+	"symbol": "ATAI",
+	"name": "ArtemisAI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/34452/thumb/black_logo_big.png?1704931121",
+	"coingecko": "artemisai",
+	"sources": [
+		"coingecko"
+	]
+}

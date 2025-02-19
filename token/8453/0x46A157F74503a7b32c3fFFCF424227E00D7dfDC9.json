@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x46A157F74503a7b32c3fFFCF424227E00D7dfDC9",
+	"symbol": "Hippo Swap",
+	"name": "Hippo Swap",
+	"coingecko": "hippo-swap",
+	"sources": [
+		"coingecko"
+	]
+}

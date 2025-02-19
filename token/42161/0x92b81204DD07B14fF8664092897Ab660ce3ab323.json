@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x92b81204DD07B14fF8664092897Ab660ce3ab323",
+	"symbol": "Dinari WALRF",
+	"name": "Dinari WALRF",
+	"coingecko": "dinari-walrf",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"chain": 130,
+	"address": "0x24aBc32215354Ba3eD224bfa6312E31dD8E8c1ab",
+	"symbol": "ELA",
+	"name": "Elastos",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/2780/thumb/Elastos.png?1597048112",
+	"sources": [
+		"uniswap"
+	]
+}

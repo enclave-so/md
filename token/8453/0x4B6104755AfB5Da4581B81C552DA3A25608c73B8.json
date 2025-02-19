@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x4B6104755AfB5Da4581B81C552DA3A25608c73B8",
+	"symbol": "$SKITTEN",
+	"name": "$SKITTEN",
+	"coingecko": "skitten",
+	"sources": [
+		"coingecko"
+	]
+}

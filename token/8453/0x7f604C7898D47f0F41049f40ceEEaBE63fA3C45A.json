@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x7f604C7898D47f0F41049f40ceEEaBE63fA3C45A",
+	"symbol": "Roseon",
+	"name": "Roseon",
+	"coingecko": "roseon",
+	"sources": [
+		"coingecko"
+	]
+}

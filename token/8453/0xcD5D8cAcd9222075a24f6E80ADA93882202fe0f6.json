@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xcD5D8cAcd9222075a24f6E80ADA93882202fe0f6",
+	"symbol": "Agent2025",
+	"name": "Agent2025",
+	"coingecko": "agent2025",
+	"sources": [
+		"coingecko"
+	]
+}

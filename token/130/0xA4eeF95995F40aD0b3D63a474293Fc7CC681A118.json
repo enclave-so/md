@@ -1,0 +1,11 @@
+{
+	"chain": 130,
+	"address": "0xA4eeF95995F40aD0b3D63a474293Fc7CC681A118",
+	"symbol": "agEUR",
+	"name": "agEur",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/19479/standard/agEUR.png?1696518915",
+	"sources": [
+		"uniswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 199,
+	"address": "0x392004BEe213F1FF580C867359C246924f21E6Ad",
+	"symbol": "USDD",
+	"name": "USDD",
+	"coingecko": "usdd",
+	"sources": [
+		"coingecko"
+	]
+}

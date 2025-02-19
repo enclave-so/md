@@ -1,0 +1,11 @@
+{
+	"chain": 137,
+	"address": "0x04bEa9FCE76943E90520489cCAb84E84C0198E29",
+	"symbol": "AST",
+	"name": "AirSwap",
+	"decimals": 4,
+	"logo": "https://assets.coingecko.com/coins/images/1019/thumb/Airswap.png?1630903484",
+	"sources": [
+		"uniswap"
+	]
+}

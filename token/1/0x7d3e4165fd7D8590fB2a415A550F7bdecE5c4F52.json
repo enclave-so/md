@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x7d3e4165fd7D8590fB2a415A550F7bdecE5c4F52",
+	"symbol": "DNA",
+	"name": "Muhdo Hub",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/53032/thumb/Muhdo_Hub.jpg?1735057541",
+	"coingecko": "muhdo-hub",
+	"sources": [
+		"coingecko"
+	]
+}

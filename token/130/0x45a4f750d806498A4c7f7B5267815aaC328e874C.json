@@ -1,0 +1,11 @@
+{
+	"chain": 130,
+	"address": "0x45a4f750d806498A4c7f7B5267815aaC328e874C",
+	"symbol": "DENT",
+	"name": "Dent",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/1152/thumb/gLCEA2G.png?1604543239",
+	"sources": [
+		"uniswap"
+	]
+}

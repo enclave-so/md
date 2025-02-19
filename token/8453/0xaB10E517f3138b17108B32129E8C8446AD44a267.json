@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xaB10E517f3138b17108B32129E8C8446AD44a267",
+	"symbol": "Battle.tech by Virtuals",
+	"name": "Battle.tech by Virtuals",
+	"coingecko": "battle-tech-by-virtuals",
+	"sources": [
+		"coingecko"
+	]
+}

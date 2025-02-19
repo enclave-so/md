@@ -1,10 +1,13 @@
 {
 	"chain": 137,
 	"address": "0x276C9cbaa4BDf57d7109a41e67BD09699536FA3d",
-	"symbol": "Somnium Space CUBEs",
+	"symbol": "CUBE",
 	"name": "Somnium Space CUBEs",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/10687/thumb/CUBE_icon.png?1617026861",
 	"coingecko": "somnium-space-cubes",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"uniswap"
 	]
 }

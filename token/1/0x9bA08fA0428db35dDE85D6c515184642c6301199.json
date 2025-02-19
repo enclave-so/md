@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x9bA08fA0428db35dDE85D6c515184642c6301199",
+	"symbol": "FD",
+	"name": "Dinari F",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/54276/thumb/d-token-200.png?1738998264",
+	"coingecko": "dinari-f",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0xF2478a732E5232AcD0acEF5e410e230b49b35a12",
+	"symbol": "ROUGE",
+	"name": "Rouge Studio",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/54013/thumb/logo_nobg.png?1737968608",
+	"coingecko": "rouge-studio",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0xF6eB7A9799F6680C320e79D0FB35E842D54D38CE",
+	"symbol": "Overlord",
+	"name": "Overlord",
+	"coingecko": "overlord-2",
+	"sources": [
+		"coingecko"
+	]
+}

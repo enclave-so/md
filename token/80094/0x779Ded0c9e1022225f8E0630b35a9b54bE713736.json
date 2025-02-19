@@ -1,0 +1,10 @@
+{
+	"chain": 80094,
+	"address": "0x779Ded0c9e1022225f8E0630b35a9b54bE713736",
+	"symbol": "USDT0",
+	"name": "USDT0",
+	"coingecko": "usdt0",
+	"sources": [
+		"coingecko"
+	]
+}

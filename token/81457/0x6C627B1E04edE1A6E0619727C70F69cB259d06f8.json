@@ -1,0 +1,10 @@
+{
+	"chain": 81457,
+	"address": "0x6C627B1E04edE1A6E0619727C70F69cB259d06f8",
+	"symbol": "Dinari SLX",
+	"name": "Dinari SLX",
+	"coingecko": "dinari-slx",
+	"sources": [
+		"coingecko"
+	]
+}

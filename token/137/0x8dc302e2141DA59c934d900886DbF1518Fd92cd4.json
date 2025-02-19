@@ -1,0 +1,11 @@
+{
+	"chain": 137,
+	"address": "0x8dc302e2141DA59c934d900886DbF1518Fd92cd4",
+	"symbol": "POLS",
+	"name": "Polkastarter",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/12648/thumb/polkastarter.png?1609813702",
+	"sources": [
+		"uniswap"
+	]
+}

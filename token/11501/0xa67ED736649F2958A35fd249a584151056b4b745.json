@@ -1,0 +1,10 @@
+{
+	"chain": 11501,
+	"address": "0xa67ED736649F2958A35fd249a584151056b4b745",
+	"symbol": "Bridged Tether (BEVM)",
+	"name": "Bridged Tether (BEVM)",
+	"coingecko": "bridged-tether-bevm",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x09D4214C03D01F49544C0448DBE3A27f768F2b34",
+	"symbol": "RUSD",
+	"name": "Reservoir rUSD",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/54117/thumb/rusd_bera2.png?1738311629",
+	"coingecko": "reservoir-rusd",
+	"sources": [
+		"coingecko"
+	]
+}

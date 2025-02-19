@@ -5,7 +5,9 @@
 	"name": "BOBO",
 	"decimals": 18,
 	"logo": "https://ethereum-optimism.github.io/data/BOBO/logo.svg",
+	"coingecko": "bobo-coin",
 	"sources": [
+		"coingecko",
 		"optimism"
 	]
 }

@@ -1,0 +1,11 @@
+{
+	"chain": 130,
+	"address": "0x6E74EA6546e1f21Abf581b59114f2Bf5d3683f48",
+	"symbol": "GODS",
+	"name": "Gods Unchained",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/17139/thumb/10631.png?1635718182",
+	"sources": [
+		"uniswap"
+	]
+}

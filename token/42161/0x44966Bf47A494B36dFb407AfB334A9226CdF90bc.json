@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x44966Bf47A494B36dFb407AfB334A9226CdF90bc",
+	"symbol": "Dinari AZN",
+	"name": "Dinari AZN",
+	"coingecko": "dinari-azn",
+	"sources": [
+		"coingecko"
+	]
+}

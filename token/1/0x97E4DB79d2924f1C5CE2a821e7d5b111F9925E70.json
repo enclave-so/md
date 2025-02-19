@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x97E4DB79d2924f1C5CE2a821e7d5b111F9925E70",
+	"symbol": "JNJD",
+	"name": "Dinari JNJ",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/53951/thumb/d-token-200.png?1737788564",
+	"coingecko": "dinari-jnj",
+	"sources": [
+		"coingecko"
+	]
+}

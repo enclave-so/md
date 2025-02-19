@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x90869b3a42E399951bd5F5fF278B8CC5ee1Dc0fE",
+	"symbol": "REVOX",
+	"name": "REVOX",
+	"coingecko": "revox",
+	"sources": [
+		"coingecko"
+	]
+}

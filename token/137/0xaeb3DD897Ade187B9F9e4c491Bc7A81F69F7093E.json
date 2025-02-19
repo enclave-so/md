@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xaeb3DD897Ade187B9F9e4c491Bc7A81F69F7093E",
+	"symbol": "Earnm",
+	"name": "Earnm",
+	"coingecko": "earnm",
+	"sources": [
+		"coingecko"
+	]
+}

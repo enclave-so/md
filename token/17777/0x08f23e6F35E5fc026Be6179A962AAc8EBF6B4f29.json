@@ -1,0 +1,10 @@
+{
+	"chain": 17777,
+	"address": "0x08f23e6F35E5fc026Be6179A962AAc8EBF6B4f29",
+	"symbol": "EOS Stable Coin",
+	"name": "EOS Stable Coin",
+	"coingecko": "eos-stable-coin",
+	"sources": [
+		"coingecko"
+	]
+}

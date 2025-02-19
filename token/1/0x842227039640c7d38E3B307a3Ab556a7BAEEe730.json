@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x842227039640c7d38E3B307a3Ab556a7BAEEe730",
+	"symbol": "VD",
+	"name": "Dinari V",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/54081/thumb/d-token-200.png?1738176162",
+	"coingecko": "dinari-v",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x637CA2cfa168f97Caf0730D6c6012c10f49839fa",
+	"symbol": "Game Money",
+	"name": "Game Money",
+	"coingecko": "game-money",
+	"sources": [
+		"coingecko"
+	]
+}

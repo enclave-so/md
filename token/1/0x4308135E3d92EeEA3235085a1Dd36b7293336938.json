@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x4308135E3d92EeEA3235085a1Dd36b7293336938",
+	"symbol": "CRADLE",
+	"name": "Cradle Games",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/54089/thumb/cradle_dext.jpg?1738219929",
+	"coingecko": "cradle-games",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x9239e9F9E325E706EF8b89936eCe9d48896AbBe3",
+	"symbol": "Artto AI",
+	"name": "Artto AI",
+	"coingecko": "artto-ai",
+	"sources": [
+		"coingecko"
+	]
+}

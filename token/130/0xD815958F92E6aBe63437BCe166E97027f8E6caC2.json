@@ -1,0 +1,11 @@
+{
+	"chain": 130,
+	"address": "0xD815958F92E6aBe63437BCe166E97027f8E6caC2",
+	"symbol": "QUICK",
+	"name": "Quickswap",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/13970/thumb/1_pOU6pBMEmiL-ZJVb0CYRjQ.png?1613386659",
+	"sources": [
+		"uniswap"
+	]
+}

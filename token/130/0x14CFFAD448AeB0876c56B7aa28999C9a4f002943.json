@@ -1,0 +1,11 @@
+{
+	"chain": 130,
+	"address": "0x14CFFAD448AeB0876c56B7aa28999C9a4f002943",
+	"symbol": "KRL",
+	"name": "KRYLL",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/2807/thumb/krl.png?1547036979",
+	"sources": [
+		"uniswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xf64C15E068Ade90794D8E0A8c614CAfd7c9718d7",
+	"symbol": "Metanopoly Tokenized Share",
+	"name": "Metanopoly Tokenized Share",
+	"coingecko": "metanopoly-tokenized-share",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0xF7248e588F88655D4A5230c4cEC2dB2CF4438Ff0",
+	"symbol": "TQQQD",
+	"name": "Dinari TQQQ",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/53958/thumb/d-token-200.png?1737790158",
+	"coingecko": "dinari-tqqq",
+	"sources": [
+		"coingecko"
+	]
+}

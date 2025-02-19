@@ -1,0 +1,10 @@
+{
+	"chain": 81457,
+	"address": "0x0e8C94ce5f658B52a8d4E30933520B2106A9397c",
+	"symbol": "Dinari USHY",
+	"name": "Dinari USHY",
+	"coingecko": "dinari-ushy",
+	"sources": [
+		"coingecko"
+	]
+}

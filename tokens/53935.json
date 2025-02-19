@@ -21,20 +21,20 @@
 	},
 	{
 		"chain": 53935,
-		"address": "0xCCb93dABD71c8Dad03Fc4CE5559dC3D89F67a260",
-		"symbol": "WJEWEL",
-		"name": "WJEWEL",
-		"coingecko": "wjewel",
+		"address": "0xB57B60DeBDB0b8172bb6316a9164bd3C695F133a",
+		"symbol": "Synapse Bridged wAVAX (DFK Chain)",
+		"name": "Synapse Bridged wAVAX (DFK Chain)",
+		"coingecko": "synapse-bridged-wavax-dfk-chain",
 		"sources": [
 			"coingecko"
 		]
 	},
 	{
 		"chain": 53935,
-		"address": "0xB57B60DeBDB0b8172bb6316a9164bd3C695F133a",
-		"symbol": "Wrapped AVAX",
-		"name": "Wrapped AVAX",
-		"coingecko": "wrapped-avax",
+		"address": "0xCCb93dABD71c8Dad03Fc4CE5559dC3D89F67a260",
+		"symbol": "WJEWEL",
+		"name": "WJEWEL",
+		"coingecko": "wjewel",
 		"sources": [
 			"coingecko"
 		]

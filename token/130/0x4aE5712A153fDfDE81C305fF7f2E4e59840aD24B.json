@@ -1,0 +1,12 @@
+{
+	"chain": 130,
+	"address": "0x4aE5712A153fDfDE81C305fF7f2E4e59840aD24B",
+	"symbol": "GHST",
+	"name": "Aavegotchi",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/12467/thumb/ghst_200.png?1600750321",
+	"sources": [
+		"optimism",
+		"uniswap"
+	]
+}

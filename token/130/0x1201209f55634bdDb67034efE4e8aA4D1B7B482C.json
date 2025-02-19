@@ -1,0 +1,11 @@
+{
+	"chain": 130,
+	"address": "0x1201209f55634bdDb67034efE4e8aA4D1B7B482C",
+	"symbol": "L3",
+	"name": "Layer3",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/37768/large/Square.png",
+	"sources": [
+		"uniswap"
+	]
+}

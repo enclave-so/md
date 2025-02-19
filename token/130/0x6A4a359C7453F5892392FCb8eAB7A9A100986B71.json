@@ -1,0 +1,12 @@
+{
+	"chain": 130,
+	"address": "0x6A4a359C7453F5892392FCb8eAB7A9A100986B71",
+	"symbol": "BTRST",
+	"name": "Braintrust",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/18100/thumb/braintrust.PNG?1630475394",
+	"sources": [
+		"optimism",
+		"uniswap"
+	]
+}

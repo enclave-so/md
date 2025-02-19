@@ -1,0 +1,11 @@
+{
+	"chain": 130,
+	"address": "0xaa2109f14Bb155766cBA9E7fa8B8D4bF0ff19949",
+	"symbol": "MOVE",
+	"name": "Movement",
+	"decimals": 8,
+	"logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/32452.png",
+	"sources": [
+		"uniswap"
+	]
+}

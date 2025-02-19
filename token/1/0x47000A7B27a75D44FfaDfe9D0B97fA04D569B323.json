@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x47000A7B27a75D44FfaDfe9D0B97fA04D569B323",
+	"symbol": "TRUMPIUS",
+	"name": "Trumpius Maximus",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/53229/thumb/Trumpius_Maximus.jpg?1735808285",
+	"coingecko": "trumpius-maximus",
+	"sources": [
+		"coingecko"
+	]
+}

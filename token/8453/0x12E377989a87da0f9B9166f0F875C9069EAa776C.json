@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x12E377989a87da0f9B9166f0F875C9069EAa776C",
+	"symbol": "Cloudland",
+	"name": "Cloudland",
+	"coingecko": "cloudland",
+	"sources": [
+		"coingecko"
+	]
+}

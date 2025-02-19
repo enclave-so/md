@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xa001dCC9A7974DAE133A11D2800A7ABf7b8f5F3C",
+	"symbol": "Do Your Own Research",
+	"name": "Do Your Own Research",
+	"coingecko": "do-your-own-research",
+	"sources": [
+		"coingecko"
+	]
+}

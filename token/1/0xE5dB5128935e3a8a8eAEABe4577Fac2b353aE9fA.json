@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0xE5dB5128935e3a8a8eAEABe4577Fac2b353aE9fA",
+	"symbol": "AURK",
+	"name": "Aurk AI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/52771/thumb/ayrk_%281%29.jpg?1734278412",
+	"coingecko": "aurk-ai",
+	"sources": [
+		"coingecko"
+	]
+}

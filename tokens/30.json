@@ -1,17 +1,6 @@
 [
 	{
 		"chain": 30,
-		"address": "0x1BDA44fda023f2aF8280A16FD1b01d1a493BA6C4",
-		"symbol": "rUSDC",
-		"name": "rUSDC",
-		"decimals": 18,
-		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/rootstock/0x1BDA44fda023f2aF8280A16FD1b01d1a493BA6C4.jpg",
-		"sources": [
-			"sushiswap"
-		]
-	},
-	{
-		"chain": 30,
 		"address": "0x542fDA317318eBF1d3DEAf76E0b632741A7e677d",
 		"symbol": "WRBTC",
 		"name": "Wrapped WBTC",
@@ -51,22 +40,25 @@
 	},
 	{
 		"chain": 30,
-		"address": "0xE355c280131dFaF18Bf1c3648aEe3C396dB6b5Fd",
-		"symbol": "Brazilian Digital",
-		"name": "Brazilian Digital",
-		"coingecko": "brz",
+		"address": "0x1D931Bf8656d795E50eF6D639562C5bD8Ac2B78f",
+		"symbol": "ETHs",
+		"name": "ETHs",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/rootstock/0x1D931Bf8656d795E50eF6D639562C5bD8Ac2B78f.jpg",
 		"sources": [
-			"coingecko"
+			"sushiswap"
 		]
 	},
 	{
 		"chain": 30,
-		"address": "0xf4d27c56595Ed59B66cC7F03CFF5193e4bd74a61",
-		"symbol": "RIFP",
-		"name": "RIFPro",
+		"address": "0x2AcC95758f8b5F583470ba265EB685a8F45fC9D5",
+		"symbol": "RIF",
+		"name": "RIF",
 		"decimals": 18,
-		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/rootstock/0xf4d27c56595Ed59B66cC7F03CFF5193e4bd74a61.jpg",
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/rootstock/0x2AcC95758f8b5F583470ba265EB685a8F45fC9D5.jpg",
+		"coingecko": "rif-token",
 		"sources": [
+			"coingecko",
 			"sushiswap"
 		]
 	},
@@ -78,6 +70,29 @@
 		"decimals": 18,
 		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/rootstock/0xef213441A85dF4d7ACbDaE0Cf78004e1E486bB96.jpg",
 		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 30,
+		"address": "0xc1411567d2670e24d9C4DaAa7CdA95686e1250AA",
+		"symbol": "Sovryn Dollar",
+		"name": "Sovryn Dollar",
+		"coingecko": "sovryn-dollar",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 30,
+		"address": "0xEFc78fc7d48b64958315949279Ba181c2114ABBd",
+		"symbol": "SOV",
+		"name": "Sovryn Token",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/rootstock/0xEFc78fc7d48b64958315949279Ba181c2114ABBd.jpg",
+		"coingecko": "sovryn",
+		"sources": [
+			"coingecko",
 			"sushiswap"
 		]
 	},
@@ -96,22 +111,31 @@
 	},
 	{
 		"chain": 30,
+		"address": "0x055A902303746382FBB7D18f6aE0df56eFDc5213",
+		"symbol": "Babelfish",
+		"name": "Babelfish",
+		"coingecko": "babelfish-2",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 30,
+		"address": "0xE355c280131dFaF18Bf1c3648aEe3C396dB6b5Fd",
+		"symbol": "Brazilian Digital",
+		"name": "Brazilian Digital",
+		"coingecko": "brz",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 30,
 		"address": "0x440CD83C160De5C96Ddb20246815eA44C7aBBCa8",
 		"symbol": "BITP",
 		"name": "BitPRO",
 		"decimals": 18,
 		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/rootstock/0x440CD83C160De5C96Ddb20246815eA44C7aBBCa8.jpg",
-		"sources": [
-			"sushiswap"
-		]
-	},
-	{
-		"chain": 30,
-		"address": "0x1D931Bf8656d795E50eF6D639562C5bD8Ac2B78f",
-		"symbol": "ETHs",
-		"name": "ETHs",
-		"decimals": 18,
-		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/rootstock/0x1D931Bf8656d795E50eF6D639562C5bD8Ac2B78f.jpg",
 		"sources": [
 			"sushiswap"
 		]
@@ -142,47 +166,12 @@
 	},
 	{
 		"chain": 30,
-		"address": "0x2AcC95758f8b5F583470ba265EB685a8F45fC9D5",
-		"symbol": "RIF",
-		"name": "RIF",
+		"address": "0x1BDA44fda023f2aF8280A16FD1b01d1a493BA6C4",
+		"symbol": "rUSDC",
+		"name": "rUSDC",
 		"decimals": 18,
-		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/rootstock/0x2AcC95758f8b5F583470ba265EB685a8F45fC9D5.jpg",
-		"coingecko": "rif-token",
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/rootstock/0x1BDA44fda023f2aF8280A16FD1b01d1a493BA6C4.jpg",
 		"sources": [
-			"coingecko",
-			"sushiswap"
-		]
-	},
-	{
-		"chain": 30,
-		"address": "0x055A902303746382FBB7D18f6aE0df56eFDc5213",
-		"symbol": "Babelfish",
-		"name": "Babelfish",
-		"coingecko": "babelfish-2",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 30,
-		"address": "0xc1411567d2670e24d9C4DaAa7CdA95686e1250AA",
-		"symbol": "Sovryn Dollar",
-		"name": "Sovryn Dollar",
-		"coingecko": "sovryn-dollar",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 30,
-		"address": "0xEFc78fc7d48b64958315949279Ba181c2114ABBd",
-		"symbol": "SOV",
-		"name": "Sovryn Token",
-		"decimals": 18,
-		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/rootstock/0xEFc78fc7d48b64958315949279Ba181c2114ABBd.jpg",
-		"coingecko": "sovryn",
-		"sources": [
-			"coingecko",
 			"sushiswap"
 		]
 	},
@@ -194,6 +183,17 @@
 		"coingecko": "powa-rangers-go-runes",
 		"sources": [
 			"coingecko"
+		]
+	},
+	{
+		"chain": 30,
+		"address": "0xf4d27c56595Ed59B66cC7F03CFF5193e4bd74a61",
+		"symbol": "RIFP",
+		"name": "RIFPro",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/rootstock/0xf4d27c56595Ed59B66cC7F03CFF5193e4bd74a61.jpg",
+		"sources": [
+			"sushiswap"
 		]
 	}
 ]

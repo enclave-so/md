@@ -1,10 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x6f40d4A6237C257fff2dB00FA0510DeEECd303eb",
-	"symbol": "INST",
-	"name": "Instadapp",
+	"symbol": "FLUID",
+	"name": "Fluid",
 	"decimals": 18,
-	"logo": "https://assets.coingecko.com/coins/images/14688/thumb/30hFM0-n_400x400.jpg?1696514361",
+	"logo": "https://assets.coingecko.com/coins/images/14688/thumb/Logo_1_%28brighter%29.png?1734430693",
 	"coingecko": "instadapp",
 	"sources": [
 		"coingecko"

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xd6B48CCF41a62EB3891e58D0F006B19B01d50cCa",
+	"symbol": "Seraph",
+	"name": "Seraph",
+	"coingecko": "seraph",
+	"sources": [
+		"coingecko"
+	]
+}

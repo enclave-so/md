@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xc655C331d1Aa7f96c252F1f40CE13D80eAc53504",
+	"symbol": "Music by Virtuals",
+	"name": "Music by Virtuals",
+	"coingecko": "music-by-virtuals",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,10 +1,13 @@
 {
 	"chain": 137,
 	"address": "0xa9f37D84c856fDa3812ad0519Dad44FA0a3Fe207",
-	"symbol": "Enzyme",
-	"name": "Enzyme",
+	"symbol": "MLN",
+	"name": "Melon",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/605/thumb/melon.png?1547034295",
 	"coingecko": "melon",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"uniswap"
 	]
 }

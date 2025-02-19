@@ -1,6 +1,16 @@
 [
 	{
 		"chain": 42793,
+		"address": "0xc9B53AB2679f573e480d01e0f49e2B5CFB7a3EAb",
+		"symbol": "Wrapped XTZ",
+		"name": "Wrapped XTZ",
+		"coingecko": "wrapped-xtz",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42793,
 		"address": "0xfc24f770F94edBca6D6f885E12d4317320BcB401",
 		"symbol": "Bridged WETH",
 		"name": "Bridged WETH",
@@ -31,10 +41,10 @@
 	},
 	{
 		"chain": 42793,
-		"address": "0xc9B53AB2679f573e480d01e0f49e2B5CFB7a3EAb",
-		"symbol": "Wrapped XTZ",
-		"name": "Wrapped XTZ",
-		"coingecko": "wrapped-xtz",
+		"address": "0x9121B153bbCF8C23F20eE43b494F08760B91aD64",
+		"symbol": "Tezos Pepe",
+		"name": "Tezos Pepe",
+		"coingecko": "tezos-pepe-2",
 		"sources": [
 			"coingecko"
 		]

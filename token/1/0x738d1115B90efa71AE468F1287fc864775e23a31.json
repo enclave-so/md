@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x738d1115B90efa71AE468F1287fc864775e23a31",
+	"symbol": "SRUSD",
+	"name": "Reservoir srUSD",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/54118/thumb/srUSD.png?1738313910",
+	"coingecko": "reservoir-srusd",
+	"sources": [
+		"coingecko"
+	]
+}

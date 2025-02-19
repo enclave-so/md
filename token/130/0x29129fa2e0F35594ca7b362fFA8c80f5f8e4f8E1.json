@@ -1,0 +1,11 @@
+{
+	"chain": 130,
+	"address": "0x29129fa2e0F35594ca7b362fFA8c80f5f8e4f8E1",
+	"symbol": "C98",
+	"name": "Coin98",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/17117/thumb/logo.png?1626412904",
+	"sources": [
+		"uniswap"
+	]
+}

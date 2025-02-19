@@ -1,0 +1,10 @@
+{
+	"chain": 81457,
+	"address": "0x4040fe823164384d2B719546557f01136990395B",
+	"symbol": "Dinari CSCO",
+	"name": "Dinari CSCO",
+	"coingecko": "dinari-csco",
+	"sources": [
+		"coingecko"
+	]
+}

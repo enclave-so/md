@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x164ffdaE2fe3891714bc2968f1875ca4fA1079D0",
+	"symbol": "DEFI.ssi",
+	"name": "DEFI.ssi",
+	"coingecko": "defi-ssi",
+	"sources": [
+		"coingecko"
+	]
+}

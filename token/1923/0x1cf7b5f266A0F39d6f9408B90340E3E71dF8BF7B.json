@@ -1,0 +1,10 @@
+{
+	"chain": 1923,
+	"address": "0x1cf7b5f266A0F39d6f9408B90340E3E71dF8BF7B",
+	"symbol": "Layerzero Bridged swBTC (Swellchain)",
+	"name": "Layerzero Bridged swBTC (Swellchain)",
+	"coingecko": "layerzero-bridged-swbtc-swellchain",
+	"sources": [
+		"coingecko"
+	]
+}

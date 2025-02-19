@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xb02eF03245fc7DF987BBd876768E6d441b7099B6",
+	"symbol": "Satoshi Airline",
+	"name": "Satoshi Airline",
+	"coingecko": "sathosi-airlines-token",
+	"sources": [
+		"coingecko"
+	]
+}

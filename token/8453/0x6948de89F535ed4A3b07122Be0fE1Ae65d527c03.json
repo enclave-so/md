@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x6948de89F535ed4A3b07122Be0fE1Ae65d527c03",
+	"symbol": "ACTUAL",
+	"name": "ACTUAL",
+	"coingecko": "actual",
+	"sources": [
+		"coingecko"
+	]
+}

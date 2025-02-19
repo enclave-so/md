@@ -1,0 +1,11 @@
+{
+	"chain": 130,
+	"address": "0x5EAFF8Fa6f3831Bb86FeEB701E6f98293E264D36",
+	"symbol": "UPI",
+	"name": "Pawtocol",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/12186/thumb/pawtocol.jpg?1597962008",
+	"sources": [
+		"uniswap"
+	]
+}

@@ -1,0 +1,172 @@
+[
+	{
+		"chain": 80094,
+		"address": "0x0555E30da8f98308EdB960aa94C0Db47230d2B9c",
+		"symbol": "Berachain Bridged WBTC (Berachain)",
+		"name": "Berachain Bridged WBTC (Berachain)",
+		"coingecko": "berachain-bridged-wbtc-berachain",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 80094,
+		"address": "0xFCBD14DC51f0A4d49d5E53C2E0950e0bC26d0Dce",
+		"symbol": "Honey",
+		"name": "Honey",
+		"coingecko": "honey-3",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 80094,
+		"address": "0xAc611438AE5F3953DeDB47c2ea8d6650D601C1B4",
+		"symbol": "Amped Finance",
+		"name": "Amped Finance",
+		"coingecko": "amped-finance",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 80094,
+		"address": "0x5C43a5fEf2b056934478373A53d1cb08030fd382",
+		"symbol": "Berally Token",
+		"name": "Berally Token",
+		"coingecko": "berally-token",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 80094,
+		"address": "0xb8B1Af593Dc37B33a2c87C8Db1c9051FC32858B7",
+		"symbol": "Ramen",
+		"name": "Ramen",
+		"coingecko": "ramen",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 80094,
+		"address": "0xFF0a636Dfc44Bb0129b631cDd38D21B613290c98",
+		"symbol": "Holdstation",
+		"name": "Holdstation",
+		"coingecko": "holdstation",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 80094,
+		"address": "0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590",
+		"symbol": "L2 Standard Bridged WETH (Berachain)",
+		"name": "L2 Standard Bridged WETH (Berachain)",
+		"coingecko": "l2-standard-bridged-weth-berachain",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 80094,
+		"address": "0x779Ded0c9e1022225f8E0630b35a9b54bE713736",
+		"symbol": "USDT0",
+		"name": "USDT0",
+		"coingecko": "usdt0",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 80094,
+		"address": "0x949185D3BE66775Ea648F4a306740EA9eFF9C567",
+		"symbol": "Yel.Finance",
+		"name": "Yel.Finance",
+		"coingecko": "yel-finance",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 80094,
+		"address": "0x656b95E550C07a9ffe548bd4085c72418Ceb1dba",
+		"symbol": "Berachain Governance Token",
+		"name": "Berachain Governance Token",
+		"coingecko": "berachain-governance-token",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 80094,
+		"address": "0x36e9fE653E673FDA3857dBe5afBC884Af8A316A2",
+		"symbol": "BeraFi",
+		"name": "BeraFi",
+		"coingecko": "berafi",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 80094,
+		"address": "0xb749584F9fC418Cf905d54f462fdbFdC7462011b",
+		"symbol": "bm",
+		"name": "bm",
+		"coingecko": "bm",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 80094,
+		"address": "0x6969696969696969696969696969696969696969",
+		"symbol": "Wrapped Bera",
+		"name": "Wrapped Bera",
+		"coingecko": "wrapped-bera",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 80094,
+		"address": "0x08A38Caa631DE329FF2DAD1656CE789F31AF3142",
+		"symbol": "Yeet",
+		"name": "Yeet",
+		"coingecko": "yeet",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 80094,
+		"address": "0x6fc6545d5cDE268D5C7f1e476D444F39c995120d",
+		"symbol": "Berachain Staked ETH",
+		"name": "Berachain Staked ETH",
+		"coingecko": "berachain-staked-eth",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 80094,
+		"address": "0x1cE0a25D13CE4d52071aE7e02Cf1F6606F4C79d3",
+		"symbol": "Nectar",
+		"name": "Nectar",
+		"coingecko": "nectar",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 80094,
+		"address": "0x549943e04f40284185054145c6E4e9568C1D3241",
+		"symbol": "Stargate Bridged USDC (Berachain)",
+		"name": "Stargate Bridged USDC (Berachain)",
+		"coingecko": "stargate-bridged-usdc-berachain",
+		"sources": [
+			"coingecko"
+		]
+	}
+]

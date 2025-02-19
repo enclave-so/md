@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x84A9AAE8FCc085DBE11524F570716D89b772f430",
+	"symbol": "DTRXBT by Virtuals",
+	"name": "DTRXBT by Virtuals",
+	"coingecko": "dtrxbt-by-virtuals",
+	"sources": [
+		"coingecko"
+	]
+}

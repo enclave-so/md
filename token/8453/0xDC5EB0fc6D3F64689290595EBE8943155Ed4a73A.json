@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xDC5EB0fc6D3F64689290595EBE8943155Ed4a73A",
+	"symbol": "Klink Finance",
+	"name": "Klink Finance",
+	"coingecko": "klink-finance",
+	"sources": [
+		"coingecko"
+	]
+}

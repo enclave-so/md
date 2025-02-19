@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x8fB238058E71f828F505582E65b1D14f8cf52067",
+	"symbol": "Dar Open Network",
+	"name": "Dar Open Network",
+	"coingecko": "dar-open-network",
+	"sources": [
+		"coingecko"
+	]
+}

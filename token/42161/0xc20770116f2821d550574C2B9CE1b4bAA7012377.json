@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0xc20770116f2821d550574C2B9CE1b4bAA7012377",
+	"symbol": "Dinari WEAT",
+	"name": "Dinari WEAT",
+	"coingecko": "dinari-weat",
+	"sources": [
+		"coingecko"
+	]
+}

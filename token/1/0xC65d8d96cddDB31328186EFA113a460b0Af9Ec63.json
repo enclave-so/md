@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0xC65d8d96cddDB31328186EFA113a460b0Af9Ec63",
+	"symbol": "PELL",
+	"name": "Pell Network Token",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/53967/thumb/logo-200*200.png?1737793038",
+	"coingecko": "pell-network-token",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"chain": 130,
+	"address": "0xC3a97c76AA194711E05Ff1d181534090B26D3996",
+	"symbol": "COW",
+	"name": "CoW Protocol",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/24384/large/CoW-token_logo.png?1719524382",
+	"sources": [
+		"uniswap"
+	]
+}

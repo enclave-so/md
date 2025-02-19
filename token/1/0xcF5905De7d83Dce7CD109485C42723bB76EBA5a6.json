@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0xcF5905De7d83Dce7CD109485C42723bB76EBA5a6",
+	"symbol": "EROD",
+	"name": "Dinari ERO",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/54230/thumb/d-token-200.png?1738861119",
+	"coingecko": "dinari-ero",
+	"sources": [
+		"coingecko"
+	]
+}

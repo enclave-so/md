@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xdE6Ed03F9706b0a49ff165a09853310c88d687c0",
+	"symbol": "AltsDaddy",
+	"name": "AltsDaddy",
+	"coingecko": "altsdaddy",
+	"sources": [
+		"coingecko"
+	]
+}

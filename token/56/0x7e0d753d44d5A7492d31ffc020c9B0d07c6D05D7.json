@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x7e0d753d44d5A7492d31ffc020c9B0d07c6D05D7",
+	"symbol": "Midle",
+	"name": "Midle",
+	"coingecko": "midle",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x45C1E431e255810824a508Dcb4fF1F82c8a4662E",
+	"symbol": "ASIX",
+	"name": "ASIX",
+	"coingecko": "asix-2",
+	"sources": [
+		"coingecko"
+	]
+}

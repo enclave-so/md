@@ -1,0 +1,12 @@
+{
+	"chain": 130,
+	"address": "0xe0BB1924C17b39B71758F49a00D7c0363B7a318E",
+	"symbol": "FOX",
+	"name": "ShapeShift FOX Token",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/9988/thumb/FOX.png?1574330622",
+	"sources": [
+		"optimism",
+		"uniswap"
+	]
+}

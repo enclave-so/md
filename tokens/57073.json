@@ -1,0 +1,72 @@
+[
+	{
+		"chain": 57073,
+		"address": "0x4200000000000000000000000000000000000006",
+		"symbol": "Ink Bridged WETH (Ink)",
+		"name": "Ink Bridged WETH (Ink)",
+		"coingecko": "ink-bridged-weth-ink",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 57073,
+		"address": "0xCa5f2cCBD9C40b32657dF57c716De44237f80F05",
+		"symbol": "Kraken",
+		"name": "Kraken",
+		"coingecko": "kraken-ink",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 57073,
+		"address": "0xD642B49d10cc6e1BC1c6945725667c35e0875f22",
+		"symbol": "Purple",
+		"name": "Purple",
+		"coingecko": "purple",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 57073,
+		"address": "0x0c5E2D1C98cd265C751e02F8F3293bC5764F9111",
+		"symbol": "Shroomy",
+		"name": "Shroomy",
+		"coingecko": "shroomy",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 57073,
+		"address": "0xbf0cAfCbaaF0be8221Ae8d630500984eDC908861",
+		"symbol": "Squidswap",
+		"name": "Squidswap",
+		"coingecko": "squidswap",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 57073,
+		"address": "0xF1815bd50389c46847f0Bda824eC8da914045D14",
+		"symbol": "Stargate Bridged USDC (Ink)",
+		"name": "Stargate Bridged USDC (Ink)",
+		"coingecko": "stargate-bridged-usdc-ink",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 57073,
+		"address": "0x0200C29006150606B650577BBE7B6248F58470c1",
+		"symbol": "USDT0",
+		"name": "USDT0",
+		"coingecko": "usdt0",
+		"sources": [
+			"coingecko"
+		]
+	}
+]

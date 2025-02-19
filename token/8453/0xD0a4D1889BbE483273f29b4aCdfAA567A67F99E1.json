@@ -1,0 +1,12 @@
+{
+	"chain": 8453,
+	"address": "0xD0a4D1889BbE483273f29b4aCdfAA567A67F99E1",
+	"symbol": "MASK",
+	"name": "Mask Network",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14051/thumb/Mask_Network.jpg?1614050316",
+	"sources": [
+		"optimism",
+		"uniswap"
+	]
+}

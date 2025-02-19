@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x2Ea7f104de4b318A3AAEDdC629334e8a8067BdD8",
+	"symbol": "Crypto-AI-Robo",
+	"name": "Crypto-AI-Robo",
+	"coingecko": "crypto-ai-robo",
+	"sources": [
+		"coingecko"
+	]
+}

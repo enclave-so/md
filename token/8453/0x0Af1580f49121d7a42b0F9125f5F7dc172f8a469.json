@@ -1,0 +1,11 @@
+{
+	"chain": 8453,
+	"address": "0x0Af1580f49121d7a42b0F9125f5F7dc172f8a469",
+	"symbol": "BCAT",
+	"name": "BananaCat",
+	"decimals": 9,
+	"logo": "https://ethereum-optimism.github.io/data/BCAT/logo.png",
+	"sources": [
+		"optimism"
+	]
+}

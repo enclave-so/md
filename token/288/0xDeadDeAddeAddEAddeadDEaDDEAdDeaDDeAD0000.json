@@ -5,9 +5,7 @@
 	"name": "Wrapped Ether",
 	"decimals": 18,
 	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/eth.jpg",
-	"coingecko": "boba-standard-bridged-weth-boba-network",
 	"sources": [
-		"coingecko",
 		"sushiswap"
 	]
 }

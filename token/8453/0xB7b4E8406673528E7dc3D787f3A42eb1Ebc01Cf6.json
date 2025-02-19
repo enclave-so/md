@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xB7b4E8406673528E7dc3D787f3A42eb1Ebc01Cf6",
+	"symbol": "Liminal Agent by Virtuals",
+	"name": "Liminal Agent by Virtuals",
+	"coingecko": "liminal-agent",
+	"sources": [
+		"coingecko"
+	]
+}

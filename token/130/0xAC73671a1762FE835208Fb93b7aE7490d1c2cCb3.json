@@ -1,0 +1,12 @@
+{
+	"chain": 130,
+	"address": "0xAC73671a1762FE835208Fb93b7aE7490d1c2cCb3",
+	"symbol": "CRV",
+	"name": "Curve DAO Token",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xD533a949740bb3306d119CC777fa900bA034cd52/logo.png",
+	"sources": [
+		"optimism",
+		"uniswap"
+	]
+}

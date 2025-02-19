@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xc1c37473079884CbFCf4905a97de361FEd414B2B",
+	"symbol": "Satori Network",
+	"name": "Satori Network",
+	"coingecko": "satori-network",
+	"sources": [
+		"coingecko"
+	]
+}

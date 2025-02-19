@@ -1,0 +1,10 @@
+{
+	"chain": 1868,
+	"address": "0xc67476893C166c537afd9bc6bc87b3f228b44337",
+	"symbol": "Neemo Staked Astar",
+	"name": "Neemo Staked Astar",
+	"coingecko": "neemo-staked-astar",
+	"sources": [
+		"coingecko"
+	]
+}

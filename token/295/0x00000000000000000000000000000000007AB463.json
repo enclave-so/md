@@ -1,0 +1,10 @@
+{
+	"chain": 295,
+	"address": "0x00000000000000000000000000000000007AB463",
+	"symbol": "SMACKM",
+	"name": "SMACKM",
+	"coingecko": "smackm",
+	"sources": [
+		"coingecko"
+	]
+}

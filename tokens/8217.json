@@ -1,416 +1,6 @@
 [
 	{
 		"chain": 8217,
-		"address": "0xB49E754228bc716129E63b1a7b0b6cf27299979e",
-		"symbol": "PANGEA GOVERNANCE TOKEN",
-		"name": "PANGEA GOVERNANCE TOKEN",
-		"coingecko": "pangea-governance-token",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 8217,
-		"address": "0x342633C4A7f91094096e15b513f039AF52e960d9",
-		"symbol": "Selo",
-		"name": "Selo",
-		"coingecko": "selo",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 8217,
-		"address": "0xDCbacF3f7a069922E677912998c8d57423C37dfA",
-		"symbol": "Bridged WBTC",
-		"name": "Bridged WBTC",
-		"coingecko": "bridged-wbtc",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 8217,
-		"address": "0x0F921c39eFd98809FE6D20a88A4357454578987a",
-		"symbol": "Merlin's Seal BTC",
-		"name": "Merlin's Seal BTC",
-		"coingecko": "merlin-s-seal-btc",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 8217,
-		"address": "0x16D0e1fBD024c600Ca0380A4C5D57Ee7a2eCBf9c",
-		"symbol": "Orbit Bridge Klaytn Wrapped BTC",
-		"name": "Orbit Bridge Klaytn Wrapped BTC",
-		"coingecko": "orbit-bridge-klaytn-wrapped-btc",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 8217,
-		"address": "0x84F8C3C8d6eE30a559D73Ec570d574f671E82647",
-		"symbol": "SuperWalk GRND",
-		"name": "SuperWalk GRND",
-		"coingecko": "superwalk",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 8217,
-		"address": "0xD068c52d81f4409B9502dA926aCE3301cc41f623",
-		"symbol": "Marblex",
-		"name": "Marblex",
-		"coingecko": "marblex",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 8217,
-		"address": "0x7eeE60a000986E9efE7F5C90340738558c24317B",
-		"symbol": "PER Project",
-		"name": "PER Project",
-		"coingecko": "per-project",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 8217,
-		"address": "0x275F942985503d8CE9558f8377cC526A3aBa3566",
-		"symbol": "Project WITH",
-		"name": "Project WITH",
-		"coingecko": "project-with",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 8217,
-		"address": "0xCD6f29dC9Ca217d0973d3D21bF58eDd3CA871a86",
-		"symbol": "Synapse Bridged WETH (Klaytn)",
-		"name": "Synapse Bridged WETH (Klaytn)",
-		"coingecko": "synapse-bridged-weth-klaytn",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 8217,
-		"address": "0x42952B873ed6f7f0A7E4992E2a9818E3A9001995",
-		"symbol": "Lair Staked KAIA",
-		"name": "Lair Staked KAIA",
-		"coingecko": "lair-staked-kaia",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 8217,
-		"address": "0xE15b6cC249Af44f2057F85a609285519A318f2fF",
-		"symbol": "LemonChain",
-		"name": "LemonChain",
-		"coingecko": "lemonchain",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 8217,
-		"address": "0x9eaeFb09fe4aABFbE6b1ca316a3c36aFC83A393F",
-		"symbol": "Orbit Bridge Klaytn Ripple",
-		"name": "Orbit Bridge Klaytn Ripple",
-		"coingecko": "orbit-bridge-klaytn-ripple",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 8217,
-		"address": "0x6CEF6Dd9a3C4ad226b8B66EffEEa2c125dF194F1",
-		"symbol": "azit",
-		"name": "azit",
-		"coingecko": "azit",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 8217,
-		"address": "0x608E8512d31cAE43Cd8058D81E6B56203A112539",
-		"symbol": "BIRDSPING",
-		"name": "BIRDSPING",
-		"coingecko": "birdsping",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 8217,
-		"address": "0xE06b40df899b9717b4E6B50711E1dc72d08184cF",
-		"symbol": "Hiblocks",
-		"name": "Hiblocks",
-		"coingecko": "hiblocks",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 8217,
-		"address": "0x089EBd525949EE505A48EB14EecBa653bc8D1B97",
-		"symbol": "Klaydice",
-		"name": "Klaydice",
-		"coingecko": "klaydice",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 8217,
-		"address": "0xC6a2Ad8cC6e4A7E08FC37cC5954be07d499E7654",
-		"symbol": "KlaySwap Protocol",
-		"name": "KlaySwap Protocol",
-		"coingecko": "klayswap-protocol",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 8217,
-		"address": "0xFf1Bf7a212012ee903fBb5a3adB4A9a31f371EF7",
-		"symbol": "Round X",
-		"name": "Round X",
-		"coingecko": "round-x",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 8217,
-		"address": "0x4B91c67A89D4c4b2A4eD9fcdE6130D7495330972",
-		"symbol": "Treecle",
-		"name": "Treecle",
-		"coingecko": "treecle",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 8217,
-		"address": "0xAfdE910130C335fA5bD5fe991053E3E0a49dcE7b",
-		"symbol": "Pibble",
-		"name": "Pibble",
-		"coingecko": "pibble",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 8217,
-		"address": "0xCe899f5fcF55B0c1d7478910f812Cfe68C5bcf0f",
-		"symbol": "Angry Bulls Club",
-		"name": "Angry Bulls Club",
-		"coingecko": "angry-bulls-club",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 8217,
-		"address": "0x078dB7827a5531359f6CB63f62CFA20183c4F10c",
-		"symbol": "Bridged DAI",
-		"name": "Bridged DAI",
-		"coingecko": "bridged-dai",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 8217,
-		"address": "0x5c74070FDeA071359b86082bd9f9b3dEaafbe32b",
-		"symbol": "Klaytn Dai",
-		"name": "Klaytn Dai",
-		"coingecko": "klaytn-dai",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 8217,
-		"address": "0x27dCd181459bcdDC63c37baB1E404A313C0dfD79",
-		"symbol": "Mineral",
-		"name": "Mineral",
-		"coingecko": "mineral",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 8217,
-		"address": "0xd85EFF20288ca72eA9eEcFFb428F89EE5066CA5C",
-		"symbol": "ISKRA Token",
-		"name": "ISKRA Token",
-		"coingecko": "iskra-token",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 8217,
-		"address": "0xc8A5c66d63408406C12f1A94608d28A5319F2399",
-		"symbol": "Crypto Lemon",
-		"name": "Crypto Lemon",
-		"coingecko": "lemon-token",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 8217,
-		"address": "0x3cB6Be2Fc6677A63cB52B07AED523F93f5a06Cb4",
-		"symbol": "Observer",
-		"name": "Observer",
-		"coingecko": "observer-coin",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 8217,
-		"address": "0x34d21b1e550D73cee41151c77F3c73359527a396",
-		"symbol": "Orbit Bridge Klaytn Ethereum",
-		"name": "Orbit Bridge Klaytn Ethereum",
-		"coingecko": "orbit-bridge-klaytn-ethereum",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 8217,
-		"address": "0x574e9c26bDA8b95D7329505b4657103710EB32eA",
-		"symbol": "Orbit Bridge Klaytn Binance Coin",
-		"name": "Orbit Bridge Klaytn Binance Coin",
-		"coingecko": "orbit-bridge-klaytn-binance-coin",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 8217,
-		"address": "0xFF0A463792B61c029C1782153A62C303Cd9b545f",
-		"symbol": "Security Token Offering",
-		"name": "Security Token Offering",
-		"coingecko": "security-token-offering",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 8217,
-		"address": "0xA323d7386b671E8799dcA3582D6658FdcDcD940A",
-		"symbol": "sKLAY",
-		"name": "sKLAY",
-		"coingecko": "sklay",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 8217,
-		"address": "0x0fa1995019322ef3178d037871C4D2eee0940c08",
-		"symbol": "Tari World",
-		"name": "Tari World",
-		"coingecko": "tari-world",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 8217,
-		"address": "0x6e6C55ac20C41669261969089FAd7f7fcd9ba690",
-		"symbol": "AMO Coin",
-		"name": "AMO Coin",
-		"coingecko": "amo",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 8217,
-		"address": "0xAd27AcE6f0F6Cef2C192A3c8F0F3fa2611154eb3",
-		"symbol": "Empower",
-		"name": "Empower",
-		"coingecko": "clubrare-empower",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 8217,
-		"address": "0x6a6184283AF9f62DA739F8B309C5fCa61e2f1400",
-		"symbol": "CRYPTOKKI",
-		"name": "CRYPTOKKI",
-		"coingecko": "cryptokki",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 8217,
-		"address": "0x4836cC1f355bB2A61c210EAA0CD3f729160CD95E",
-		"symbol": "GemHUB",
-		"name": "GemHUB",
-		"coingecko": "gemhub",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 8217,
-		"address": "0xceE8FAF64bB97a73bb51E115Aa89C17FfA8dD167",
-		"symbol": "Bridged Tether (Orbit Bridge)",
-		"name": "Bridged Tether (Orbit Bridge)",
-		"coingecko": "orbit-bridge-klaytn-usd-tether",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 8217,
-		"address": "0x30C103f8f5A3A732DFe2dCE1Cc9446f545527b43",
-		"symbol": "WJEWEL",
-		"name": "WJEWEL",
-		"coingecko": "wjewel",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 8217,
-		"address": "0x55863Cb9A7F92c134E9f8Edb6c655B92d60493B5",
-		"symbol": "Talken",
-		"name": "Talken",
-		"coingecko": "talken",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 8217,
-		"address": "0x19Aac5f612f524B754CA7e7c41cbFa2E981A4432",
-		"symbol": "Wrapped KLAY",
-		"name": "Wrapped KLAY",
-		"coingecko": "wrapped-klay",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 8217,
 		"address": "0x02cbE46fB8A1F579254a9B485788f2D86Cad51aa",
 		"symbol": "BORA",
 		"name": "BORA",
@@ -431,90 +21,10 @@
 	},
 	{
 		"chain": 8217,
-		"address": "0x1b26a7e4d27ACe6bA3bc82D5D1B26FB2D8616De0",
-		"symbol": "META DANCE",
-		"name": "META DANCE",
-		"coingecko": "meta-dance",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 8217,
-		"address": "0x971796E4858EA3dD19011199817A0716E62DB2F5",
-		"symbol": "MetaMAFIA",
-		"name": "MetaMAFIA",
-		"coingecko": "metamafia",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 8217,
-		"address": "0x448829E85C430477a715400d4A61aA808d3C900f",
-		"symbol": "Mobist",
-		"name": "Mobist",
-		"coingecko": "mobist",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 8217,
-		"address": "0xB3F5867E277798b50ba7A71C0b24FDcA03045eDF",
-		"symbol": "DeFi Kingdoms Jade",
-		"name": "DeFi Kingdoms Jade",
-		"coingecko": "jade",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 8217,
-		"address": "0xFe41102f325dEaa9F303fDd9484Eb5911a7BA557",
-		"symbol": "Orbit Bridge Klaytn Orbit Chain",
-		"name": "Orbit Bridge Klaytn Orbit Chain",
-		"coingecko": "orbit-bridge-klaytn-orbit-chain",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 8217,
-		"address": "0x754288077D0fF82AF7a5317C7CB8c444D421d103",
-		"symbol": "Bridged USD Coin (Orbit Bridge)",
-		"name": "Bridged USD Coin (Orbit Bridge)",
-		"coingecko": "orbit-bridge-klaytn-usdc",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 8217,
-		"address": "0xd109065ee17E2dC20b3472a4d4fB5907BD687D09",
-		"symbol": "Klap Finance",
-		"name": "Klap Finance",
-		"coingecko": "klap-finance",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 8217,
-		"address": "0x5fFF3a6C16C2208103F318F4713D4D90601A7313",
-		"symbol": "KLEVA",
-		"name": "KLEVA",
-		"coingecko": "kleva",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 8217,
-		"address": "0x63DEC0c0cf911d8967446CE422dd31F13E1e0556",
-		"symbol": "SOMESING",
-		"name": "SOMESING",
-		"coingecko": "somesing",
+		"address": "0xE06597D02A2C3AA7a9708DE2Cfa587B128bd3815",
+		"symbol": "Neopin",
+		"name": "Neopin",
+		"coingecko": "neopin",
 		"sources": [
 			"coingecko"
 		]
@@ -531,40 +41,90 @@
 	},
 	{
 		"chain": 8217,
-		"address": "0x37E35406C8d87ae243932Bf4C9A2138C2B93C8fA",
-		"symbol": "Favor",
-		"name": "Favor",
-		"coingecko": "favor",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 8217,
-		"address": "0xDFb25178D7B59e33F7805C00C4A354Ae1c46139A",
-		"symbol": "Cloudbric",
-		"name": "Cloudbric",
-		"coingecko": "cloudbric",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 8217,
-		"address": "0xE4A1bd45CDDBBD5d9f605B08Ed13a94b6B6ab5AA",
-		"symbol": "PSJGLOBAL",
-		"name": "PSJGLOBAL",
-		"coingecko": "conun",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 8217,
 		"address": "0x3EEf2B8d8050197e409B69f09462f49Eab562979",
 		"symbol": "Jumoney",
 		"name": "Jumoney",
 		"coingecko": "jumoney",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 8217,
+		"address": "0x15512e654dDc92273DCeaC1399E09c7fb9def476",
+		"symbol": "STO Operating System Token",
+		"name": "STO Operating System Token",
+		"coingecko": "security-token-offering",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 8217,
+		"address": "0x342633C4A7f91094096e15b513f039AF52e960d9",
+		"symbol": "Selo",
+		"name": "Selo",
+		"coingecko": "selo",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 8217,
+		"address": "0x42952B873ed6f7f0A7E4992E2a9818E3A9001995",
+		"symbol": "Lair Staked KAIA",
+		"name": "Lair Staked KAIA",
+		"coingecko": "lair-staked-kaia",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 8217,
+		"address": "0xAfdE910130C335fA5bD5fe991053E3E0a49dcE7b",
+		"symbol": "Pibble",
+		"name": "Pibble",
+		"coingecko": "pibble",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 8217,
+		"address": "0x6CEF6Dd9a3C4ad226b8B66EffEEa2c125dF194F1",
+		"symbol": "azit",
+		"name": "azit",
+		"coingecko": "azit",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 8217,
+		"address": "0x3cB6Be2Fc6677A63cB52B07AED523F93f5a06Cb4",
+		"symbol": "Observer",
+		"name": "Observer",
+		"coingecko": "observer-coin",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 8217,
+		"address": "0x19c0D5ddcf06F282E7A547d25AB09FE5a7984Aae",
+		"symbol": "Payment Swap Utility Board",
+		"name": "Payment Swap Utility Board",
+		"coingecko": "payment-swap-utility-board",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 8217,
+		"address": "0xd109065ee17E2dC20b3472a4d4fB5907BD687D09",
+		"symbol": "Klap Finance",
+		"name": "Klap Finance",
+		"coingecko": "klap-finance",
 		"sources": [
 			"coingecko"
 		]
@@ -581,50 +141,10 @@
 	},
 	{
 		"chain": 8217,
-		"address": "0xf092ACc2412742f4d5A457799dea57155ED42F9C",
-		"symbol": "MusicN",
-		"name": "MusicN",
-		"coingecko": "musicn",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 8217,
-		"address": "0x976232eB7Eb92287fF06c5D145bD0d1C033eCA58",
-		"symbol": "SuperWalk WALK",
-		"name": "SuperWalk WALK",
-		"coingecko": "superwalk-walk",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 8217,
-		"address": "0xfAEa8f7839F343a52c11a2D5395406EB2A87C55b",
-		"symbol": "WeBuy",
-		"name": "WeBuy",
-		"coingecko": "webuy",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 8217,
-		"address": "0x0aB503536019CB4303bDa69467c1ec5DE1589918",
-		"symbol": "3 Kingdoms Multiverse",
-		"name": "3 Kingdoms Multiverse",
-		"coingecko": "3-kingdoms-multiverse",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 8217,
-		"address": "0xCF87f94fD8F6B6f0b479771F10dF672f99eADa63",
-		"symbol": "ClaimSwap",
-		"name": "ClaimSwap",
-		"coingecko": "claimswap",
+		"address": "0x16D0e1fBD024c600Ca0380A4C5D57Ee7a2eCBf9c",
+		"symbol": "Orbit Bridge Klaytn Wrapped BTC",
+		"name": "Orbit Bridge Klaytn Wrapped BTC",
+		"coingecko": "orbit-bridge-klaytn-wrapped-btc",
 		"sources": [
 			"coingecko"
 		]
@@ -641,20 +161,450 @@
 	},
 	{
 		"chain": 8217,
-		"address": "0xE06597D02A2C3AA7a9708DE2Cfa587B128bd3815",
-		"symbol": "Neopin",
-		"name": "Neopin",
-		"coingecko": "neopin",
+		"address": "0xd85EFF20288ca72eA9eEcFFb428F89EE5066CA5C",
+		"symbol": "ISKRA Token",
+		"name": "ISKRA Token",
+		"coingecko": "iskra-token",
 		"sources": [
 			"coingecko"
 		]
 	},
 	{
 		"chain": 8217,
-		"address": "0x19c0D5ddcf06F282E7A547d25AB09FE5a7984Aae",
-		"symbol": "Payment Swap Utility Board",
-		"name": "Payment Swap Utility Board",
-		"coingecko": "payment-swap-utility-board",
+		"address": "0xB3F5867E277798b50ba7A71C0b24FDcA03045eDF",
+		"symbol": "DeFi Kingdoms Jade",
+		"name": "DeFi Kingdoms Jade",
+		"coingecko": "jade",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 8217,
+		"address": "0x19Aac5f612f524B754CA7e7c41cbFa2E981A4432",
+		"symbol": "Wrapped KLAY",
+		"name": "Wrapped KLAY",
+		"coingecko": "wrapped-klay",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 8217,
+		"address": "0x0aB503536019CB4303bDa69467c1ec5DE1589918",
+		"symbol": "3 Kingdoms Multiverse",
+		"name": "3 Kingdoms Multiverse",
+		"coingecko": "3-kingdoms-multiverse",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 8217,
+		"address": "0xE4A1bd45CDDBBD5d9f605B08Ed13a94b6B6ab5AA",
+		"symbol": "PSJGLOBAL",
+		"name": "PSJGLOBAL",
+		"coingecko": "conun",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 8217,
+		"address": "0x4836cC1f355bB2A61c210EAA0CD3f729160CD95E",
+		"symbol": "GemHUB",
+		"name": "GemHUB",
+		"coingecko": "gemhub",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 8217,
+		"address": "0x5fFF3a6C16C2208103F318F4713D4D90601A7313",
+		"symbol": "KLEVA",
+		"name": "KLEVA",
+		"coingecko": "kleva",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 8217,
+		"address": "0x971796E4858EA3dD19011199817A0716E62DB2F5",
+		"symbol": "MetaMAFIA",
+		"name": "MetaMAFIA",
+		"coingecko": "metamafia",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 8217,
+		"address": "0x91BcBa699222fE2c14AE90E51943A40e59050F79",
+		"symbol": "YULI",
+		"name": "YULI",
+		"coingecko": "yuli",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 8217,
+		"address": "0xAd27AcE6f0F6Cef2C192A3c8F0F3fa2611154eb3",
+		"symbol": "Empower",
+		"name": "Empower",
+		"coingecko": "clubrare-empower",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 8217,
+		"address": "0x9eaeFb09fe4aABFbE6b1ca316a3c36aFC83A393F",
+		"symbol": "Orbit Bridge Klaytn Ripple",
+		"name": "Orbit Bridge Klaytn Ripple",
+		"coingecko": "orbit-bridge-klaytn-ripple",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 8217,
+		"address": "0x63DEC0c0cf911d8967446CE422dd31F13E1e0556",
+		"symbol": "SOMESING",
+		"name": "SOMESING",
+		"coingecko": "somesing",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 8217,
+		"address": "0x55863Cb9A7F92c134E9f8Edb6c655B92d60493B5",
+		"symbol": "Talken",
+		"name": "Talken",
+		"coingecko": "talken",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 8217,
+		"address": "0x0fa1995019322ef3178d037871C4D2eee0940c08",
+		"symbol": "Tari World",
+		"name": "Tari World",
+		"coingecko": "tari-world",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 8217,
+		"address": "0x5C13E303a62Fc5DEdf5B52D66873f2E59fEdADC2",
+		"symbol": "Kaia Bridged USDT (Kaia)",
+		"name": "Kaia Bridged USDT (Kaia)",
+		"coingecko": "kaia-bridged-usdt-kaia",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 8217,
+		"address": "0x5c74070FDeA071359b86082bd9f9b3dEaafbe32b",
+		"symbol": "Klaytn Dai",
+		"name": "Klaytn Dai",
+		"coingecko": "klaytn-dai",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 8217,
+		"address": "0xD068c52d81f4409B9502dA926aCE3301cc41f623",
+		"symbol": "MARBLEX",
+		"name": "MARBLEX",
+		"coingecko": "marblex",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 8217,
+		"address": "0x0F921c39eFd98809FE6D20a88A4357454578987a",
+		"symbol": "Merlin's Seal BTC",
+		"name": "Merlin's Seal BTC",
+		"coingecko": "merlin-s-seal-btc",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 8217,
+		"address": "0xB49E754228bc716129E63b1a7b0b6cf27299979e",
+		"symbol": "PANGEA GOVERNANCE TOKEN",
+		"name": "PANGEA GOVERNANCE TOKEN",
+		"coingecko": "pangea-governance-token",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 8217,
+		"address": "0x6e6C55ac20C41669261969089FAd7f7fcd9ba690",
+		"symbol": "AMO Coin",
+		"name": "AMO Coin",
+		"coingecko": "amo",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 8217,
+		"address": "0xCe899f5fcF55B0c1d7478910f812Cfe68C5bcf0f",
+		"symbol": "Angry Bulls Club",
+		"name": "Angry Bulls Club",
+		"coingecko": "angry-bulls-club",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 8217,
+		"address": "0x6a6184283AF9f62DA739F8B309C5fCa61e2f1400",
+		"symbol": "CRYPTOKKI",
+		"name": "CRYPTOKKI",
+		"coingecko": "cryptokki",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 8217,
+		"address": "0xE06b40df899b9717b4E6B50711E1dc72d08184cF",
+		"symbol": "Hiblocks",
+		"name": "Hiblocks",
+		"coingecko": "hiblocks",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 8217,
+		"address": "0xCF87f94fD8F6B6f0b479771F10dF672f99eADa63",
+		"symbol": "ClaimSwap",
+		"name": "ClaimSwap",
+		"coingecko": "claimswap",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 8217,
+		"address": "0x089EBd525949EE505A48EB14EecBa653bc8D1B97",
+		"symbol": "Klaydice",
+		"name": "Klaydice",
+		"coingecko": "klaydice",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 8217,
+		"address": "0xE15b6cC249Af44f2057F85a609285519A318f2fF",
+		"symbol": "LemonChain",
+		"name": "LemonChain",
+		"coingecko": "lemonchain",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 8217,
+		"address": "0x4B91c67A89D4c4b2A4eD9fcdE6130D7495330972",
+		"symbol": "Treecle",
+		"name": "Treecle",
+		"coingecko": "treecle",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 8217,
+		"address": "0x608E8512d31cAE43Cd8058D81E6B56203A112539",
+		"symbol": "BIRDSPING",
+		"name": "BIRDSPING",
+		"coingecko": "birdsping",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 8217,
+		"address": "0x7eeE60a000986E9efE7F5C90340738558c24317B",
+		"symbol": "PER Project",
+		"name": "PER Project",
+		"coingecko": "per-project",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 8217,
+		"address": "0xA323d7386b671E8799dcA3582D6658FdcDcD940A",
+		"symbol": "sKLAY",
+		"name": "sKLAY",
+		"coingecko": "sklay",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 8217,
+		"address": "0x84F8C3C8d6eE30a559D73Ec570d574f671E82647",
+		"symbol": "SuperWalk GRND",
+		"name": "SuperWalk GRND",
+		"coingecko": "superwalk",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 8217,
+		"address": "0x976232eB7Eb92287fF06c5D145bD0d1C033eCA58",
+		"symbol": "SuperWalk WALK",
+		"name": "SuperWalk WALK",
+		"coingecko": "superwalk-walk",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 8217,
+		"address": "0xDCbacF3f7a069922E677912998c8d57423C37dfA",
+		"symbol": "Bridged WBTC",
+		"name": "Bridged WBTC",
+		"coingecko": "bridged-wbtc",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 8217,
+		"address": "0xDFb25178D7B59e33F7805C00C4A354Ae1c46139A",
+		"symbol": "Cloudbric",
+		"name": "Cloudbric",
+		"coingecko": "cloudbric",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 8217,
+		"address": "0xC6a2Ad8cC6e4A7E08FC37cC5954be07d499E7654",
+		"symbol": "KlaySwap Protocol",
+		"name": "KlaySwap Protocol",
+		"coingecko": "klayswap-protocol",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 8217,
+		"address": "0xc8A5c66d63408406C12f1A94608d28A5319F2399",
+		"symbol": "Crypto Lemon",
+		"name": "Crypto Lemon",
+		"coingecko": "lemon-token",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 8217,
+		"address": "0x34d21b1e550D73cee41151c77F3c73359527a396",
+		"symbol": "Orbit Bridge Klaytn Ethereum",
+		"name": "Orbit Bridge Klaytn Ethereum",
+		"coingecko": "orbit-bridge-klaytn-ethereum",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 8217,
+		"address": "0xceE8FAF64bB97a73bb51E115Aa89C17FfA8dD167",
+		"symbol": "Bridged Tether (Orbit Bridge)",
+		"name": "Bridged Tether (Orbit Bridge)",
+		"coingecko": "orbit-bridge-klaytn-usd-tether",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 8217,
+		"address": "0x754288077D0fF82AF7a5317C7CB8c444D421d103",
+		"symbol": "Bridged USD Coin (Orbit Bridge)",
+		"name": "Bridged USD Coin (Orbit Bridge)",
+		"coingecko": "orbit-bridge-klaytn-usdc",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 8217,
+		"address": "0x275F942985503d8CE9558f8377cC526A3aBa3566",
+		"symbol": "Project WITH",
+		"name": "Project WITH",
+		"coingecko": "project-with",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 8217,
+		"address": "0xfAEa8f7839F343a52c11a2D5395406EB2A87C55b",
+		"symbol": "WeBuy",
+		"name": "WeBuy",
+		"coingecko": "webuy",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 8217,
+		"address": "0x30C103f8f5A3A732DFe2dCE1Cc9446f545527b43",
+		"symbol": "WJEWEL",
+		"name": "WJEWEL",
+		"coingecko": "wjewel",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 8217,
+		"address": "0x078dB7827a5531359f6CB63f62CFA20183c4F10c",
+		"symbol": "Bridged DAI",
+		"name": "Bridged DAI",
+		"coingecko": "bridged-dai",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 8217,
+		"address": "0xFe41102f325dEaa9F303fDd9484Eb5911a7BA557",
+		"symbol": "Orbit Bridge Klaytn Orbit Chain",
+		"name": "Orbit Bridge Klaytn Orbit Chain",
+		"coingecko": "orbit-bridge-klaytn-orbit-chain",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 8217,
+		"address": "0xFf1Bf7a212012ee903fBb5a3adB4A9a31f371EF7",
+		"symbol": "Round X",
+		"name": "Round X",
+		"coingecko": "round-x",
 		"sources": [
 			"coingecko"
 		]

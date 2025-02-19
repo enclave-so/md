@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x38b88D6568D61556D33592AD7Bc24E89a7fB6691",
+	"symbol": "Operating System",
+	"name": "Operating System",
+	"coingecko": "operating-system",
+	"sources": [
+		"coingecko"
+	]
+}

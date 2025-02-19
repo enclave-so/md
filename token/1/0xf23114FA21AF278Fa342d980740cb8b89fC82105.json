@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0xf23114FA21AF278Fa342d980740cb8b89fC82105",
+	"symbol": "ARG",
+	"name": "Aragon Protocol",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/52642/thumb/200x200.png?1733872375",
+	"coingecko": "aragon-protocol",
+	"sources": [
+		"coingecko"
+	]
+}

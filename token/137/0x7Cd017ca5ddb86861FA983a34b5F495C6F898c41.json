@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x7Cd017ca5ddb86861FA983a34b5F495C6F898c41",
+	"symbol": "Worldwide USD",
+	"name": "Worldwide USD",
+	"coingecko": "worldwide-usd",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x39b8B6385416f4cA36a20319F70D28621895279D",
+	"symbol": "EURE",
+	"name": "Monerium EUR emoney",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/54303/thumb/eure.jpg?1739167959",
+	"coingecko": "monerium-eur-money-2",
+	"sources": [
+		"coingecko"
+	]
+}

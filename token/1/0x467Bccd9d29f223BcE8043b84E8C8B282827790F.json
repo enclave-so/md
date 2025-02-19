@@ -7,6 +7,7 @@
 	"logo": "https://assets.coingecko.com/coins/images/1899/thumb/tel.png?1696502892",
 	"coingecko": "telcoin",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

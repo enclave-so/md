@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x00000000000007C8612bA63Df8DdEfD9E6077c97",
+	"symbol": "NANI",
+	"name": "NANI",
+	"coingecko": "nani",
+	"sources": [
+		"coingecko"
+	]
+}

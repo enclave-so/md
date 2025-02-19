@@ -1,0 +1,12 @@
+{
+	"chain": 130,
+	"address": "0xf81B7485B4cB59645F74528D702c7f8CD72577FB",
+	"symbol": "LUSD",
+	"name": "Liquity USD",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14666/thumb/Group_3.png?1617631327",
+	"sources": [
+		"optimism",
+		"uniswap"
+	]
+}

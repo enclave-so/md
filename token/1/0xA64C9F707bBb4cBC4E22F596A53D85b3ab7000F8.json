@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0xA64C9F707bBb4cBC4E22F596A53D85b3ab7000F8",
+	"symbol": "ARKBD",
+	"name": "Dinari ARKB",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/53944/thumb/d-token-200.png?1737787573",
+	"coingecko": "dinari-arkb",
+	"sources": [
+		"coingecko"
+	]
+}

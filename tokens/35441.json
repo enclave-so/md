@@ -1,26 +1,6 @@
 [
 	{
 		"chain": 35441,
-		"address": "0xE31DD093A2A0aDc80053bF2b929E56aBFE1B1632",
-		"symbol": "QUSD",
-		"name": "QUSD",
-		"coingecko": "qusd-q-protocol",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 35441,
-		"address": "0xd07178e3eCbC78De110Df84fe1A979D5f349784a",
-		"symbol": "Wrapped Q",
-		"name": "Wrapped Q",
-		"coingecko": "wrapped-q",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 35441,
 		"address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
 		"symbol": "Elk Finance",
 		"name": "Elk Finance",
@@ -35,6 +15,26 @@
 		"symbol": "Q Bridged USDC (Q Mainnet)",
 		"name": "Q Bridged USDC (Q Mainnet)",
 		"coingecko": "q-bridged-usdc-q-mainnet",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 35441,
+		"address": "0xE31DD093A2A0aDc80053bF2b929E56aBFE1B1632",
+		"symbol": "QUSD",
+		"name": "QUSD",
+		"coingecko": "qusd-q-protocol",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 35441,
+		"address": "0xd07178e3eCbC78De110Df84fe1A979D5f349784a",
+		"symbol": "Wrapped Q",
+		"name": "Wrapped Q",
+		"coingecko": "wrapped-q",
 		"sources": [
 			"coingecko"
 		]

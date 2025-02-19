@@ -3,8 +3,11 @@
 	"address": "0x9356086146be5158E98aD827E21b5cF944699894",
 	"symbol": "USDa",
 	"name": "USDa",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x9356086146be5158E98aD827E21b5cF944699894.png",
 	"coingecko": "usda-2",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

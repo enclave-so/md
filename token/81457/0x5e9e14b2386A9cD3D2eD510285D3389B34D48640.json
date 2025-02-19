@@ -1,0 +1,10 @@
+{
+	"chain": 81457,
+	"address": "0x5e9e14b2386A9cD3D2eD510285D3389B34D48640",
+	"symbol": "Dinari SPUS",
+	"name": "Dinari SPUS",
+	"coingecko": "dinari-spus",
+	"sources": [
+		"coingecko"
+	]
+}

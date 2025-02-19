@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x698b1d54E936b9F772b8F58447194bBc82EC1933",
+	"symbol": "PEEZY",
+	"name": "Peezy  peezy vip ",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/52757/thumb/Peezy.jpg?1734194082",
+	"coingecko": "peezy-eth",
+	"sources": [
+		"coingecko"
+	]
+}

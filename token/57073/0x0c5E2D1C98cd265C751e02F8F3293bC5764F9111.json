@@ -1,0 +1,10 @@
+{
+	"chain": 57073,
+	"address": "0x0c5E2D1C98cd265C751e02F8F3293bC5764F9111",
+	"symbol": "Shroomy",
+	"name": "Shroomy",
+	"coingecko": "shroomy",
+	"sources": [
+		"coingecko"
+	]
+}

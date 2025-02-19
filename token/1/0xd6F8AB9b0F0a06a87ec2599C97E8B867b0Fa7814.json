@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0xd6F8AB9b0F0a06a87ec2599C97E8B867b0Fa7814",
+	"symbol": "DATBOI",
+	"name": "Dat Boi",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/53477/thumb/Dat_Boi.png?1736483660",
+	"coingecko": "dat-boi-2",
+	"sources": [
+		"coingecko"
+	]
+}

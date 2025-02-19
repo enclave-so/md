@@ -1,0 +1,13 @@
+{
+	"chain": 8453,
+	"address": "0xF1A7000000950C7ad8Aff13118Bb7aB561A448ee",
+	"symbol": "FLAY",
+	"name": "Flayer",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/FLAY/logo.svg",
+	"coingecko": "flayer",
+	"sources": [
+		"coingecko",
+		"optimism"
+	]
+}

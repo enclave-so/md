@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0xa72b67F84460b689f1a3054549AB926C9Ad88a41",
+	"symbol": "PIVOT",
+	"name": "Pivot AI",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/53594/thumb/6307601177658902877.jpg?1736806045",
+	"coingecko": "pivot-ai",
+	"sources": [
+		"coingecko"
+	]
+}

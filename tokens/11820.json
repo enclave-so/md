@@ -1,0 +1,22 @@
+[
+	{
+		"chain": 11820,
+		"address": "0x8d9Bd7E9ec3cd799a659EE650DfF6C799309fA91",
+		"symbol": "Artela Bridged USDC (Artela)",
+		"name": "Artela Bridged USDC (Artela)",
+		"coingecko": "artela-bridged-usdc-artela",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 11820,
+		"address": "0x891986cF778004c86C5f2d8C18198635F725a5ce",
+		"symbol": "Wrapped ART",
+		"name": "Wrapped ART",
+		"coingecko": "wrapped-art",
+		"sources": [
+			"coingecko"
+		]
+	}
+]

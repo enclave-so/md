@@ -5,7 +5,9 @@
 	"name": "Threshold Network",
 	"decimals": 18,
 	"logo": "https://assets.coingecko.com/coins/images/22228/thumb/nFPNiSbL_400x400.jpg?1641220340",
+	"coingecko": "threshold-network-token",
 	"sources": [
+		"coingecko",
 		"optimism",
 		"uniswap"
 	]

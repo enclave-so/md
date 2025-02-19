@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x88CeE7bF66435F6Fdbb681a6A522f26598FE39A2",
+	"symbol": "HYMBD",
+	"name": "Dinari HYMB",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/54362/thumb/d-token-200.png?1739401319",
+	"coingecko": "dinari-hymb",
+	"sources": [
+		"coingecko"
+	]
+}

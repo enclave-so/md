@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xd173C2C9386AEE88b1Ca06522C951be67cbf38CC",
+	"symbol": "Kontos",
+	"name": "Kontos",
+	"coingecko": "kontos",
+	"sources": [
+		"coingecko"
+	]
+}

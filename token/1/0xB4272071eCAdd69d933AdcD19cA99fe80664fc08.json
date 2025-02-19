@@ -4,10 +4,8 @@
 	"symbol": "XCHF",
 	"name": "CryptoFranc",
 	"decimals": 18,
-	"logo": "https://assets.coingecko.com/coins/images/8465/thumb/WhuiuJBc_400x400.jpg?1696508650",
-	"coingecko": "cryptofranc",
+	"logo": "https://ethereum-optimism.github.io/data/XCHF/logo.png",
 	"sources": [
-		"coingecko",
 		"optimism"
 	]
 }

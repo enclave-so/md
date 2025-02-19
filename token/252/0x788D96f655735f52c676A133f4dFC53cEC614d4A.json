@@ -1,0 +1,10 @@
+{
+	"chain": 252,
+	"address": "0x788D96f655735f52c676A133f4dFC53cEC614d4A",
+	"symbol": "dTRINITY USD",
+	"name": "dTRINITY USD",
+	"coingecko": "dtrinity-usd",
+	"sources": [
+		"coingecko"
+	]
+}

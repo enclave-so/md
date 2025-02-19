@@ -1,0 +1,10 @@
+{
+	"chain": 322202,
+	"address": "0x19a5C551e4762F232448da1984Ecb445b4a7721e",
+	"symbol": "Parex Bridged USDT (Parex)",
+	"name": "Parex Bridged USDT (Parex)",
+	"coingecko": "parex-bridged-usdt-parex",
+	"sources": [
+		"coingecko"
+	]
+}

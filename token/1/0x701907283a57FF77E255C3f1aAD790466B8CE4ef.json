@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0x701907283a57FF77E255C3f1aAD790466B8CE4ef",
+	"symbol": "mhyETH",
+	"name": "Morpho IndexCoop hyETH",
+	"decimals": 18,
+	"logo": "https://cdn.indexcoop.com/hyeth.svg",
+	"sources": [
+		"indexcoop"
+	]
+}

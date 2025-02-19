@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x4b72De2DA8BE112CAd87773B47537cf550676ffa",
+	"symbol": "Dinari SBUX",
+	"name": "Dinari SBUX",
+	"coingecko": "dinari-sbux",
+	"sources": [
+		"coingecko"
+	]
+}

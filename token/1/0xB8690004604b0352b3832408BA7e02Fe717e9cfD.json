@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0xB8690004604b0352b3832408BA7e02Fe717e9cfD",
+	"symbol": "AGI",
+	"name": "Agently",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/53560/thumb/Untitled_design-2.png?1736675632",
+	"coingecko": "agently",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0xbEeFc011e94f43b8B7b455eBaB290C7Ab4E216f1",
+	"symbol": "CSUSDL",
+	"name": "Coinshift USDL Morpho Vault",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/52413/thumb/csUSDL-badge_2_2x.png?1738166925",
+	"coingecko": "coinshift-usdl-morpho-vault",
+	"sources": [
+		"coingecko"
+	]
+}

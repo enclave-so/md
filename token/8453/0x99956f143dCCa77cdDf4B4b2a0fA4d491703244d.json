@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x99956f143dCCa77cdDf4B4b2a0fA4d491703244d",
+	"symbol": "LYRA",
+	"name": "LYRA",
+	"coingecko": "lyra-3",
+	"sources": [
+		"coingecko"
+	]
+}

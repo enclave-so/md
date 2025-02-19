@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0xC49da7892155Ccc603f0B88EAEDAA3b57910096f",
+	"symbol": "CVXD",
+	"name": "Dinari CVX",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/54360/thumb/d-token-200.png?1739401251",
+	"coingecko": "dinari-cvx",
+	"sources": [
+		"coingecko"
+	]
+}

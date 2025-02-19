@@ -1,0 +1,10 @@
+{
+	"chain": 146,
+	"address": "0xE51EE9868C1f0d6cd968A8B8C8376Dc2991BFE44",
+	"symbol": "Paintswap",
+	"name": "Paintswap",
+	"coingecko": "paint-swap",
+	"sources": [
+		"coingecko"
+	]
+}

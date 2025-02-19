@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xD81cb23A4690f7fdF54E583F221D2c01882604f8",
+	"symbol": "MoonDog AI",
+	"name": "MoonDog AI",
+	"coingecko": "moondog-ai",
+	"sources": [
+		"coingecko"
+	]
+}

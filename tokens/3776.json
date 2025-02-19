@@ -1,6 +1,16 @@
 [
 	{
 		"chain": 3776,
+		"address": "0xE9CC37904875B459Fa5D0FE37680d36F1ED55e38",
+		"symbol": "Astar zkEVM Bridged WETH (Astar zkEVM)",
+		"name": "Astar zkEVM Bridged WETH (Astar zkEVM)",
+		"coingecko": "astar-zkevm-bridged-weth-astar-zkevm",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 3776,
 		"address": "0x90E3F8e749dBD40286AB29AecD1E8487Db4a8785",
 		"symbol": "Bonsai Coin",
 		"name": "Bonsai Coin",
@@ -55,16 +65,6 @@
 		"symbol": "Stargate Bridged ASTR (Astar zkEVM)",
 		"name": "Stargate Bridged ASTR (Astar zkEVM)",
 		"coingecko": "stargate-bridged-astr-astar-zkevm",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 3776,
-		"address": "0xE9CC37904875B459Fa5D0FE37680d36F1ED55e38",
-		"symbol": "Astar zkEVM Bridged WETH (Astar zkEVM)",
-		"name": "Astar zkEVM Bridged WETH (Astar zkEVM)",
-		"coingecko": "astar-zkevm-bridged-weth-astar-zkevm",
 		"sources": [
 			"coingecko"
 		]

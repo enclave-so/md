@@ -1,0 +1,11 @@
+{
+	"chain": 130,
+	"address": "0x4bdc8553cf14EEBCD489cD1d75b7FF463f9543c2",
+	"symbol": "DIA",
+	"name": "DIA",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/11955/thumb/image.png?1646041751",
+	"sources": [
+		"uniswap"
+	]
+}

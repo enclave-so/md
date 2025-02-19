@@ -1,0 +1,11 @@
+{
+	"chain": 137,
+	"address": "0x50858d870FAF55da2fD90FB6DF7c34b5648305C6",
+	"symbol": "ALICE",
+	"name": "My Neighbor Alice",
+	"decimals": 6,
+	"logo": "https://assets.coingecko.com/coins/images/14375/thumb/alice_logo.jpg?1615782968",
+	"sources": [
+		"uniswap"
+	]
+}

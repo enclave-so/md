@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x4ECeC618CE8EeB94D99f970f0d9b2FD031986Fd5",
+	"symbol": "BitNomad",
+	"name": "BitNomad",
+	"coingecko": "bitnomad",
+	"sources": [
+		"coingecko"
+	]
+}

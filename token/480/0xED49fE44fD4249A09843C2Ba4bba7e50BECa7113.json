@@ -1,0 +1,10 @@
+{
+	"chain": 480,
+	"address": "0xED49fE44fD4249A09843C2Ba4bba7e50BECa7113",
+	"symbol": "DNA Token",
+	"name": "DNA Token",
+	"coingecko": "dna-token",
+	"sources": [
+		"coingecko"
+	]
+}

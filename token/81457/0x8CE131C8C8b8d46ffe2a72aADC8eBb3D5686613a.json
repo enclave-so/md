@@ -1,0 +1,10 @@
+{
+	"chain": 81457,
+	"address": "0x8CE131C8C8b8d46ffe2a72aADC8eBb3D5686613a",
+	"symbol": "Dinari CAT",
+	"name": "Dinari CAT",
+	"coingecko": "dinari-cat",
+	"sources": [
+		"coingecko"
+	]
+}

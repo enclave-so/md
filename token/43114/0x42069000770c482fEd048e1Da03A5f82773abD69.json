@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x42069000770c482fEd048e1Da03A5f82773abD69",
+	"symbol": "My Bro",
+	"name": "My Bro",
+	"coingecko": "my-bro",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x37a645648dF29205C6261289983FB04ECD70b4B3",
+	"symbol": "Animecoin",
+	"name": "Animecoin",
+	"coingecko": "anime",
+	"sources": [
+		"coingecko"
+	]
+}

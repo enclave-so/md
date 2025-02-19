@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x429F0d8233e517f9acf6F0C8293BF35804063a83",
+	"symbol": "POWER",
+	"name": "Powerloom",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/53319/thumb/powerloom-200px.png?1736086027",
+	"coingecko": "powerloom",
+	"sources": [
+		"coingecko"
+	]
+}

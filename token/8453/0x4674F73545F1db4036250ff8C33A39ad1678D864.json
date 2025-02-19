@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x4674F73545F1db4036250ff8C33A39ad1678D864",
+	"symbol": "Degenerate SQuiD",
+	"name": "Degenerate SQuiD",
+	"coingecko": "degenerate-squid",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x333333C465a19C85f85c6CfbED7B16b0B26E3333",
+	"symbol": "ORA Coin",
+	"name": "ORA Coin",
+	"coingecko": "ora-coin",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0xccB365D2e11aE4D6d74715c680f56cf58bF4bF10",
+	"symbol": "WEPE",
+	"name": "Wall Street Pepe",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/54457/thumb/Wepe_Logo_200x200.png?1739795587",
+	"coingecko": "wall-street-pepe",
+	"sources": [
+		"coingecko"
+	]
+}

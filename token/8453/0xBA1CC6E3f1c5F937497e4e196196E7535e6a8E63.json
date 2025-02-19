@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xBA1CC6E3f1c5F937497e4e196196E7535e6a8E63",
+	"symbol": "YieldMachine by Virtuals",
+	"name": "YieldMachine by Virtuals",
+	"coingecko": "yieldmachine",
+	"sources": [
+		"coingecko"
+	]
+}

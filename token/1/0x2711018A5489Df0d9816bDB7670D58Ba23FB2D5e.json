@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x2711018A5489Df0d9816bDB7670D58Ba23FB2D5e",
+	"symbol": "SPTED",
+	"name": "Dinari SPTE",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/54392/thumb/d-token-200.png?1739485749",
+	"coingecko": "dinari-spte",
+	"sources": [
+		"coingecko"
+	]
+}

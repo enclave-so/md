@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x083Fb956333f9c1568F66fc0d0BE451f31F8c46c",
+	"symbol": "Rivalz Network",
+	"name": "Rivalz Network",
+	"coingecko": "rivalz-network",
+	"sources": [
+		"coingecko"
+	]
+}

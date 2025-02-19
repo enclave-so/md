@@ -1,0 +1,11 @@
+{
+	"chain": 130,
+	"address": "0x31A71801291774d267615f74b3a44FCEB560FAc9",
+	"symbol": "GALA",
+	"name": "GALA",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/12493/standard/GALA-COINGECKO.png?1696512310",
+	"sources": [
+		"uniswap"
+	]
+}

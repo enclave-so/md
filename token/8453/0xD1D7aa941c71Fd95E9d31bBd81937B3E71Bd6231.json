@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xD1D7aa941c71Fd95E9d31bBd81937B3E71Bd6231",
+	"symbol": "Oracle",
+	"name": "Oracle",
+	"coingecko": "oracle-3",
+	"sources": [
+		"coingecko"
+	]
+}

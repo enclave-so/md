@@ -5,7 +5,7 @@
 	"name": "Avalanche Token",
 	"decimals": 18,
 	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x2C89bbc92BD86F8075d1DEcc58C7F4E0107f286b/logo.png",
-	"coingecko": "wrapped-avax",
+	"coingecko": "bridged-wavax",
 	"sources": [
 		"coingecko",
 		"sushiswap"

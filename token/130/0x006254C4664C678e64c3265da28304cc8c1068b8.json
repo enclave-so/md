@@ -1,0 +1,11 @@
+{
+	"chain": 130,
+	"address": "0x006254C4664C678e64c3265da28304cc8c1068b8",
+	"symbol": "QRDO",
+	"name": "Qredo",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/17541/thumb/qrdo.png?1630637735",
+	"sources": [
+		"uniswap"
+	]
+}

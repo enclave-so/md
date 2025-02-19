@@ -1,0 +1,11 @@
+{
+	"chain": 130,
+	"address": "0x17C38207334011a131b0Acf200E35Cd81723cddd",
+	"symbol": "DEXT",
+	"name": "DexTools",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/11603/thumb/dext.png?1605790188",
+	"sources": [
+		"uniswap"
+	]
+}

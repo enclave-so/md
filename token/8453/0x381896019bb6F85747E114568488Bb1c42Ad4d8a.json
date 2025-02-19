@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x381896019bb6F85747E114568488Bb1c42Ad4d8a",
+	"symbol": "Bumshaft",
+	"name": "Bumshaft",
+	"coingecko": "bumshaft",
+	"sources": [
+		"coingecko"
+	]
+}

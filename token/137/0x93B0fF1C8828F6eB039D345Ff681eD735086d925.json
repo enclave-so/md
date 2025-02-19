@@ -1,0 +1,11 @@
+{
+	"chain": 137,
+	"address": "0x93B0fF1C8828F6eB039D345Ff681eD735086d925",
+	"symbol": "CQT",
+	"name": "Covalent",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14168/thumb/covalent-cqt.png?1624545218",
+	"sources": [
+		"uniswap"
+	]
+}

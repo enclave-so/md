@@ -1,0 +1,10 @@
+{
+	"chain": 146,
+	"address": "0x29219dd400f2Bf60E5a23d13Be72B486D4038894",
+	"symbol": "Sonic Bridged USDC.e (Sonic)",
+	"name": "Sonic Bridged USDC.e (Sonic)",
+	"coingecko": "sonic-bridged-usdc-e-sonic",
+	"sources": [
+		"coingecko"
+	]
+}

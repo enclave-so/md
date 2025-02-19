@@ -1,0 +1,10 @@
+{
+	"chain": 146,
+	"address": "0xddF26B42C1d903De8962d3F79a74a501420d5F19",
+	"symbol": "Equalizer on Sonic",
+	"name": "Equalizer on Sonic",
+	"coingecko": "equalizer-on-sonic",
+	"sources": [
+		"coingecko"
+	]
+}

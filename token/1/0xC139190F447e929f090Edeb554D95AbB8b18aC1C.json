@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0xC139190F447e929f090Edeb554D95AbB8b18aC1C",
+	"symbol": "USDTB",
+	"name": "USDtb",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/52804/thumb/USDtbSmall.png?1734344946",
+	"coingecko": "usdtb",
+	"sources": [
+		"coingecko"
+	]
+}

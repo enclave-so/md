@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x7Cd017ca5ddb86861FA983a34b5F495C6F898c41",
+	"symbol": "WUSD",
+	"name": "Worldwide USD",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35358/thumb/WUSD%282%29.png?1715042139",
+	"coingecko": "worldwide-usd",
+	"sources": [
+		"coingecko"
+	]
+}

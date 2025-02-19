@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x0ECB3513eBf1E62be765452900608Aa957dBD13D",
+	"symbol": "SLXD",
+	"name": "Dinari SLX",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/53874/thumb/d-token-200.png?1737617906",
+	"coingecko": "dinari-slx",
+	"sources": [
+		"coingecko"
+	]
+}

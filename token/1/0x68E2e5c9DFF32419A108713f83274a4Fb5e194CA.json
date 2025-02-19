@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0x68E2e5c9DFF32419A108713f83274a4Fb5e194CA",
+	"symbol": "GLS",
+	"name": "Glacier Network",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/52878/thumb/glacier.jpg?1734576386",
+	"coingecko": "glacier-network",
+	"sources": [
+		"coingecko",
+		"optimism"
+	]
+}

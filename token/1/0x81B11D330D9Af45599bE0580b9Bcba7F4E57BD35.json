@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x81B11D330D9Af45599bE0580b9Bcba7F4E57BD35",
+	"symbol": "DEFID",
+	"name": "Dinari DEFI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/54052/thumb/d-token-200.png?1738103629",
+	"coingecko": "dinari-defi",
+	"sources": [
+		"coingecko"
+	]
+}

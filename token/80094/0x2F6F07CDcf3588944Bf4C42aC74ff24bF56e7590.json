@@ -1,0 +1,10 @@
+{
+	"chain": 80094,
+	"address": "0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590",
+	"symbol": "L2 Standard Bridged WETH (Berachain)",
+	"name": "L2 Standard Bridged WETH (Berachain)",
+	"coingecko": "l2-standard-bridged-weth-berachain",
+	"sources": [
+		"coingecko"
+	]
+}

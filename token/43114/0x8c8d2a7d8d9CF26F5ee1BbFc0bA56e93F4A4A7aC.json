@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x8c8d2a7d8d9CF26F5ee1BbFc0bA56e93F4A4A7aC",
+	"symbol": "AIvalanche DeFAI Agents",
+	"name": "AIvalanche DeFAI Agents",
+	"coingecko": "aivalanche-defai-agents",
+	"sources": [
+		"coingecko"
+	]
+}

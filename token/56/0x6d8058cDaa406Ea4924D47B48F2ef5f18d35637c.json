@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x6d8058cDaa406Ea4924D47B48F2ef5f18d35637c",
+	"symbol": "GRABWAY",
+	"name": "GRABWAY",
+	"coingecko": "grabway",
+	"sources": [
+		"coingecko"
+	]
+}

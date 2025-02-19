@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x7614F61feD79e0FF47Aa0831D18d046Cb3ee0cE6",
+	"symbol": "Nest AI by Virtuals",
+	"name": "Nest AI by Virtuals",
+	"coingecko": "nest-ai-by-virtuals",
+	"sources": [
+		"coingecko"
+	]
+}

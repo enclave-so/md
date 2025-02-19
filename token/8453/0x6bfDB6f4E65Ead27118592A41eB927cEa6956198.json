@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x6bfDB6f4E65Ead27118592A41eB927cEa6956198",
+	"symbol": "FAME AI",
+	"name": "FAME AI",
+	"coingecko": "fame-ai",
+	"sources": [
+		"coingecko"
+	]
+}

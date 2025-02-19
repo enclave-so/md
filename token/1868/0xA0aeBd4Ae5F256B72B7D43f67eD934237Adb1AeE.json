@@ -1,0 +1,10 @@
+{
+	"chain": 1868,
+	"address": "0xA0aeBd4Ae5F256B72B7D43f67eD934237Adb1AeE",
+	"symbol": "Bonsai Coin",
+	"name": "Bonsai Coin",
+	"coingecko": "bonsai-coin",
+	"sources": [
+		"coingecko"
+	]
+}

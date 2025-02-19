@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x66DB035009eFBcFE9a3DeCaEAfE9fb4ebC5df812",
+	"symbol": "Bee Trade Finance",
+	"name": "Bee Trade Finance",
+	"coingecko": "bee-trade-finance",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"chain": 137,
+	"address": "0x36B77a184bE8ee56f5E81C56727B20647A42e28E",
+	"symbol": "QNT",
+	"name": "Quant",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/3370/thumb/5ZOu7brX_400x400.jpg?1612437252",
+	"sources": [
+		"uniswap"
+	]
+}

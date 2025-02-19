@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x0aa9876C9cCf97be7Eed5C4ceE91d556bf7DBaC3",
+	"symbol": "Rebel by Virtuals",
+	"name": "Rebel by Virtuals",
+	"coingecko": "rebel-by-virtuals",
+	"sources": [
+		"coingecko"
+	]
+}

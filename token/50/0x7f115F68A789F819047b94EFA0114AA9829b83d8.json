@@ -1,0 +1,10 @@
+{
+	"chain": 50,
+	"address": "0x7f115F68A789F819047b94EFA0114AA9829b83d8",
+	"symbol": "Prime Staked XDC",
+	"name": "Prime Staked XDC",
+	"coingecko": "prime-staked-xdc",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x5fE801666b30B1Ee06968364C26fC4F4c193342f",
+	"symbol": "TALE",
+	"name": "TALE",
+	"coingecko": "tale",
+	"sources": [
+		"coingecko"
+	]
+}

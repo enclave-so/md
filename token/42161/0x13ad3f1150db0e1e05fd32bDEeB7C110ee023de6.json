@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x13ad3f1150db0e1e05fd32bDEeB7C110ee023de6",
+	"symbol": "AISweatShop",
+	"name": "AISweatShop",
+	"coingecko": "aisweatshop",
+	"sources": [
+		"coingecko"
+	]
+}

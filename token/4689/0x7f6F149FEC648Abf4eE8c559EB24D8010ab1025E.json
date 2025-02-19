@@ -1,0 +1,10 @@
+{
+	"chain": 4689,
+	"address": "0x7f6F149FEC648Abf4eE8c559EB24D8010ab1025E",
+	"symbol": "Network3",
+	"name": "Network3",
+	"coingecko": "network3",
+	"sources": [
+		"coingecko"
+	]
+}

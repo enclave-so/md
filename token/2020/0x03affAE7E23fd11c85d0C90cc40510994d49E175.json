@@ -1,0 +1,10 @@
+{
+	"chain": 2020,
+	"address": "0x03affAE7E23fd11c85d0C90cc40510994d49E175",
+	"symbol": "Wild Forest Token",
+	"name": "Wild Forest Token",
+	"coingecko": "wild-forest-token",
+	"sources": [
+		"coingecko"
+	]
+}

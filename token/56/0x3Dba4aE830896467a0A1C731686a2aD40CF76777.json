@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x3Dba4aE830896467a0A1C731686a2aD40CF76777",
+	"symbol": "ONI PROTOCOL",
+	"name": "ONI PROTOCOL",
+	"coingecko": "oni-protocol",
+	"sources": [
+		"coingecko"
+	]
+}

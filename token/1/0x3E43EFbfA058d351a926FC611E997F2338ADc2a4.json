@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x3E43EFbfA058d351a926FC611E997F2338ADc2a4",
+	"symbol": "ORI",
+	"name": "Origent Ai",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/53389/thumb/twitter_dp.png?1736276659",
+	"coingecko": "origent-ai",
+	"sources": [
+		"coingecko"
+	]
+}

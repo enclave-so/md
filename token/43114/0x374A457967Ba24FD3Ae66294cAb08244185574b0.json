@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x374A457967Ba24FD3Ae66294cAb08244185574b0",
+	"symbol": "Backed Microsoft",
+	"name": "Backed Microsoft",
+	"coingecko": "backed-microsoft",
+	"sources": [
+		"coingecko"
+	]
+}

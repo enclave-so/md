@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x6FcD2DB93082e85d662173a70feAf59B97860c3E",
+	"symbol": "SEAI",
+	"name": "ServeFi AI",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/52831/thumb/servefi_logo.jpg?1734455089",
+	"coingecko": "servefi-ai",
+	"sources": [
+		"coingecko"
+	]
+}

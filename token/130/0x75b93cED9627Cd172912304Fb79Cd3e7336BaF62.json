@@ -1,0 +1,11 @@
+{
+	"chain": 130,
+	"address": "0x75b93cED9627Cd172912304Fb79Cd3e7336BaF62",
+	"symbol": "NKN",
+	"name": "NKN",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/3375/thumb/nkn.png?1548329212",
+	"sources": [
+		"uniswap"
+	]
+}

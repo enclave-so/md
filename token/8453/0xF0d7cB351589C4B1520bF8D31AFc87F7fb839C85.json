@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xF0d7cB351589C4B1520bF8D31AFc87F7fb839C85",
+	"symbol": "Lock In on Base",
+	"name": "Lock In on Base",
+	"coingecko": "lock-in-on-base",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xcfF4429d8a323dd6B64B79a4460BEc6D531FcFA8",
+	"symbol": "Saitoshi by Virtuals",
+	"name": "Saitoshi by Virtuals",
+	"coingecko": "saitoshi-by-virtuals",
+	"sources": [
+		"coingecko"
+	]
+}

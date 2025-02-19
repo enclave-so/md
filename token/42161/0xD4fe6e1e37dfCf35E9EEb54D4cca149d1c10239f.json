@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0xD4fe6e1e37dfCf35E9EEb54D4cca149d1c10239f",
+	"symbol": "TREN Debt Token",
+	"name": "TREN Debt Token",
+	"coingecko": "tren-debt-token",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xb08504D245713Ca9692C8fA605E76A0A11Ed4955",
+	"symbol": "Vitruveo Bridged VTRU",
+	"name": "Vitruveo Bridged VTRU",
+	"coingecko": "wrapped-vtru",
+	"sources": [
+		"coingecko"
+	]
+}

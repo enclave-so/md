@@ -1,0 +1,10 @@
+{
+	"chain": 57073,
+	"address": "0x4200000000000000000000000000000000000006",
+	"symbol": "Ink Bridged WETH (Ink)",
+	"name": "Ink Bridged WETH (Ink)",
+	"coingecko": "ink-bridged-weth-ink",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0xe344Fb85b4FAb79e0ef32cE77c00732CE8566244",
+	"symbol": "FILM",
+	"name": "Gala Film",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/52665/thumb/_FILM_UI-icon.png?1734010638",
+	"coingecko": "gala-film",
+	"sources": [
+		"coingecko"
+	]
+}

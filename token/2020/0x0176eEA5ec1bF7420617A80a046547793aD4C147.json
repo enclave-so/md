@@ -1,0 +1,10 @@
+{
+	"chain": 2020,
+	"address": "0x0176eEA5ec1bF7420617A80a046547793aD4C147",
+	"symbol": "KANSTAR",
+	"name": "KANSTAR",
+	"coingecko": "kanstar",
+	"sources": [
+		"coingecko"
+	]
+}

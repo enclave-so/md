@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0xFA1b1f13080857Bf373de0De93970c96d2C29FD0",
+	"symbol": "ONDOAI",
+	"name": "Ondo DeFAI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/53971/thumb/ondoai-logo.jpg?1737804840",
+	"coingecko": "ondo-defai",
+	"sources": [
+		"coingecko"
+	]
+}

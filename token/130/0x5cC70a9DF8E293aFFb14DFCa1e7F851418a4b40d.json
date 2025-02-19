@@ -1,0 +1,11 @@
+{
+	"chain": 130,
+	"address": "0x5cC70a9DF8E293aFFb14DFCa1e7F851418a4b40d",
+	"symbol": "ARB",
+	"name": "Arbitrum",
+	"decimals": 18,
+	"logo": "https://arbitrum.foundation/logo.png",
+	"sources": [
+		"uniswap"
+	]
+}

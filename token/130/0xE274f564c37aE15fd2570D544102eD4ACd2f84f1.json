@@ -1,0 +1,11 @@
+{
+	"chain": 130,
+	"address": "0xE274f564c37aE15fd2570D544102eD4ACd2f84f1",
+	"symbol": "DPI",
+	"name": "DeFi Pulse Index",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/12465/thumb/defi_pulse_index_set.png?1600051053",
+	"sources": [
+		"uniswap"
+	]
+}

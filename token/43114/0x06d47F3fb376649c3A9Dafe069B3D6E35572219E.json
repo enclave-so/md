@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x06d47F3fb376649c3A9Dafe069B3D6E35572219E",
+	"symbol": "Avant Staked USD",
+	"name": "Avant Staked USD",
+	"coingecko": "avant-staked-usd",
+	"sources": [
+		"coingecko"
+	]
+}

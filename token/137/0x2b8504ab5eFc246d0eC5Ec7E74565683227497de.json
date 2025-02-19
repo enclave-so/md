@@ -1,0 +1,11 @@
+{
+	"chain": 137,
+	"address": "0x2b8504ab5eFc246d0eC5Ec7E74565683227497de",
+	"symbol": "ANT",
+	"name": "Aragon",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/681/thumb/JelZ58cv_400x400.png?1601449653",
+	"sources": [
+		"uniswap"
+	]
+}

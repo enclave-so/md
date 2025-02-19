@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xCAb6311f95faF6B5Db4fD306092b6BcD9807e8F0",
+	"symbol": "Fourxbt",
+	"name": "Fourxbt",
+	"coingecko": "fourxbt",
+	"sources": [
+		"coingecko"
+	]
+}

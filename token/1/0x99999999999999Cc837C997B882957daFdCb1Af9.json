@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x99999999999999Cc837C997B882957daFdCb1Af9",
+	"symbol": "WUSDN",
+	"name": "SMARDEX WRAPPED USDN",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/54043/thumb/wusdn-logo.png?1738077592",
+	"coingecko": "smardex-wrapped-usdn",
+	"sources": [
+		"coingecko"
+	]
+}

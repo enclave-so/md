@@ -1,0 +1,12 @@
+{
+	"chain": 130,
+	"address": "0xc05B416738DDEBd14D5A9B790a6e1ce782176525",
+	"symbol": "SUKU",
+	"name": "SUKU",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/11969/thumb/UmfW5S6f_400x400.jpg?1596602238",
+	"sources": [
+		"optimism",
+		"uniswap"
+	]
+}

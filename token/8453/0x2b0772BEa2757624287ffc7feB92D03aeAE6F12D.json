@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x2b0772BEa2757624287ffc7feB92D03aeAE6F12D",
+	"symbol": "Alchemist Accelerate",
+	"name": "Alchemist Accelerate",
+	"coingecko": "alchemist-accelerate",
+	"sources": [
+		"coingecko"
+	]
+}

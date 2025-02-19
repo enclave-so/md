@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x71d898c440aF10566CEa48e12C01F435eC788c7A",
+	"symbol": "MAI",
+	"name": "MAI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/54290/thumb/mai-logo.jpg?1739009398",
+	"coingecko": "mai",
+	"sources": [
+		"coingecko"
+	]
+}

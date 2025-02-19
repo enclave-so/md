@@ -5,7 +5,9 @@
 	"name": "Layer3",
 	"decimals": 18,
 	"logo": "https://assets.coingecko.com/coins/images/37768/large/Square.png",
+	"coingecko": "layer3",
 	"sources": [
+		"coingecko",
 		"uniswap"
 	]
 }

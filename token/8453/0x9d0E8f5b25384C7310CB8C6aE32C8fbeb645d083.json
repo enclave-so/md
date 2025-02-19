@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x9d0E8f5b25384C7310CB8C6aE32C8fbeb645d083",
+	"symbol": "Derive",
+	"name": "Derive",
+	"coingecko": "derive",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"chain": 130,
+	"address": "0x34424B3352af905e41078a4029b61EDe62BbB32C",
+	"symbol": "ACX",
+	"name": "Across Protocol Token",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/28161/large/across-200x200.png?1696527165",
+	"sources": [
+		"optimism",
+		"uniswap"
+	]
+}

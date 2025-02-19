@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x7F0E9971D3320521Fc88F863E173a4cddBB051bA",
+	"symbol": "Aquari",
+	"name": "Aquari",
+	"coingecko": "aquari-2",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 146,
+	"address": "0x2D0E0814E62D80056181F5cd932274405966e4f0",
+	"symbol": "Beets",
+	"name": "Beets",
+	"coingecko": "beets",
+	"sources": [
+		"coingecko"
+	]
+}

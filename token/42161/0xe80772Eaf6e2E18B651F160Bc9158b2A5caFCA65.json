@@ -1,8 +1,8 @@
 {
 	"chain": 42161,
 	"address": "0xe80772Eaf6e2E18B651F160Bc9158b2A5caFCA65",
-	"symbol": "Overnight.fi USD+ (Arbitrum One)",
-	"name": "Overnight.fi USD+ (Arbitrum One)",
+	"symbol": "xUSD",
+	"name": "xUSD",
 	"coingecko": "overnight-fi-usd-arbitrum-one",
 	"sources": [
 		"coingecko"

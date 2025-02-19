@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x9BeEE89723cEeC27d7c2834bec6834208FFdc202",
+	"symbol": "Avalon",
+	"name": "Avalon",
+	"coingecko": "avalon-2",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x2eAf707440974deba88F5b2425caDcc4821aA954",
+	"symbol": "AZCoiner",
+	"name": "AZCoiner",
+	"coingecko": "azcoiner",
+	"sources": [
+		"coingecko"
+	]
+}

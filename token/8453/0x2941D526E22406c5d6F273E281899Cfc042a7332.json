@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x2941D526E22406c5d6F273E281899Cfc042a7332",
+	"symbol": "Kogin by Virtuals",
+	"name": "Kogin by Virtuals",
+	"coingecko": "kogin-by-virtuals",
+	"sources": [
+		"coingecko"
+	]
+}

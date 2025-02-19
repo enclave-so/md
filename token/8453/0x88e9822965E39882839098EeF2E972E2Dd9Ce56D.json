@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x88e9822965E39882839098EeF2E972E2Dd9Ce56D",
+	"symbol": "Gameme-Fi",
+	"name": "Gameme-Fi",
+	"coingecko": "gameme-fi",
+	"sources": [
+		"coingecko"
+	]
+}

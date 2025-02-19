@@ -1,0 +1,13 @@
+{
+	"chain": 56,
+	"address": "0x01CA78a2B5F1a9152D8A3A625bd7dF5765eeE1D8",
+	"symbol": "ANDY",
+	"name": "ANDY",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x01CA78a2B5F1a9152D8A3A625bd7dF5765eeE1D8.png",
+	"coingecko": "andy-4",
+	"sources": [
+		"coingecko",
+		"pancakeswap"
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0xe86142af1321eaac4270422081c1EdA31eEcFf0c",
+	"symbol": "YAYSTONE",
+	"name": "Yay StakeStone Ether",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/54279/thumb/Yay!_Stone200w.png?1739438931",
+	"coingecko": "yay-stakestone-ether",
+	"sources": [
+		"coingecko"
+	]
+}

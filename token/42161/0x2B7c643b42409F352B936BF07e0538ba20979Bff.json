@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x2B7c643b42409F352B936BF07e0538ba20979Bff",
+	"symbol": "Dinari BRRR",
+	"name": "Dinari BRRR",
+	"coingecko": "dinari-brrr",
+	"sources": [
+		"coingecko"
+	]
+}

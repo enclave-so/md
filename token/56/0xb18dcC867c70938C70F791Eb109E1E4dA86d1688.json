@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xb18dcC867c70938C70F791Eb109E1E4dA86d1688",
+	"symbol": "PvP",
+	"name": "PvP",
+	"coingecko": "pvp-2",
+	"sources": [
+		"coingecko"
+	]
+}

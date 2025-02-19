@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x00000000000007C8612bA63Df8DdEfD9E6077c97",
+	"symbol": "NANI",
+	"name": "NANI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/53551/thumb/logo.png?1736671853",
+	"coingecko": "nani",
+	"sources": [
+		"coingecko"
+	]
+}

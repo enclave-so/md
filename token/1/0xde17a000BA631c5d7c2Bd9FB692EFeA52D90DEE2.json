@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0xde17a000BA631c5d7c2Bd9FB692EFeA52D90DEE2",
+	"symbol": "USDN",
+	"name": "SMARDEX USDN",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/52939/thumb/USDN.png?1734769447",
+	"coingecko": "smardex-usdn",
+	"sources": [
+		"coingecko"
+	]
+}

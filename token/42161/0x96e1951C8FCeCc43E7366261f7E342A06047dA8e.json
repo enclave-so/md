@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x96e1951C8FCeCc43E7366261f7E342A06047dA8e",
+	"symbol": "Dinari V",
+	"name": "Dinari V",
+	"coingecko": "dinari-v",
+	"sources": [
+		"coingecko"
+	]
+}

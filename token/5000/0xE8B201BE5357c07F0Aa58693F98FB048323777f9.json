@@ -1,0 +1,10 @@
+{
+	"chain": 5000,
+	"address": "0xE8B201BE5357c07F0Aa58693F98FB048323777f9",
+	"symbol": "Blade",
+	"name": "Blade",
+	"coingecko": "blade-2",
+	"sources": [
+		"coingecko"
+	]
+}

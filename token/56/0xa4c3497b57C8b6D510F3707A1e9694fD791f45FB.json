@@ -1,0 +1,13 @@
+{
+	"chain": 56,
+	"address": "0xa4c3497b57C8b6D510F3707A1e9694fD791f45FB",
+	"symbol": "VON",
+	"name": "Vameon",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0xa4c3497b57C8b6D510F3707A1e9694fD791f45FB.png",
+	"coingecko": "von",
+	"sources": [
+		"coingecko",
+		"pancakeswap"
+	]
+}

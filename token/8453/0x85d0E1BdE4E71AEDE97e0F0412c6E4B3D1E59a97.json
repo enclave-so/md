@@ -1,0 +1,11 @@
+{
+	"chain": 8453,
+	"address": "0x85d0E1BdE4E71AEDE97e0F0412c6E4B3D1E59a97",
+	"symbol": "PSY",
+	"name": "PsyDAO Token",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/PSY/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

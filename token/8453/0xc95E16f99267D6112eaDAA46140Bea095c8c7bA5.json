@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xc95E16f99267D6112eaDAA46140Bea095c8c7bA5",
+	"symbol": "Exmplr.ai by Virtuals",
+	"name": "Exmplr.ai by Virtuals",
+	"coingecko": "exmplr-ai-by-virtuals",
+	"sources": [
+		"coingecko"
+	]
+}

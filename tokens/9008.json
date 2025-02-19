@@ -1,0 +1,22 @@
+[
+	{
+		"chain": 9008,
+		"address": "0x80b5a32E4F032B2a058b4F29EC95EEfEEB87aDcd",
+		"symbol": "Shido Bridged USDC (Shido)",
+		"name": "Shido Bridged USDC (Shido)",
+		"coingecko": "shido-bridged-usdc-shido",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 9008,
+		"address": "0x8cbafFD9b658997E7bf87E98FEbF6EA6917166F7",
+		"symbol": "Wrapped Shido",
+		"name": "Wrapped Shido",
+		"coingecko": "wrapped-shido",
+		"sources": [
+			"coingecko"
+		]
+	}
+]

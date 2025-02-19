@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xa4e8399482ED8F3f7216263D94aB647b8cFc22Ec",
+	"symbol": "PlayFi Studio",
+	"name": "PlayFi Studio",
+	"coingecko": "playfi",
+	"sources": [
+		"coingecko"
+	]
+}

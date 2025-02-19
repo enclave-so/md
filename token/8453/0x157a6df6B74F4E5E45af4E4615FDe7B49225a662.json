@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x157a6df6B74F4E5E45af4E4615FDe7B49225a662",
+	"symbol": "ISLAND Token",
+	"name": "ISLAND Token",
+	"coingecko": "island-token",
+	"sources": [
+		"coingecko"
+	]
+}

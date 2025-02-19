@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xDe04da55B74435d7B9f2C5c62D9F1b53929b09AA",
+	"symbol": "AICell",
+	"name": "AICell",
+	"coingecko": "aicell",
+	"sources": [
+		"coingecko"
+	]
+}

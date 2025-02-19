@@ -1,12 +1,26 @@
 [
 	{
 		"chain": 288,
-		"address": "0x3F56e0c36d275367b8C502090EDF38289b3dEa0d",
-		"symbol": "MAI",
-		"name": "MAI",
-		"coingecko": "mimatic",
+		"address": "0xa18bF3994C0Cc6E3b63ac420308E5383f53120D7",
+		"symbol": "BOBA",
+		"name": "Boba Token",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/boba.jpg",
+		"coingecko": "boba-network",
 		"sources": [
-			"coingecko"
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 288,
+		"address": "0xf74195Bb8a5cf652411867c5C2C5b8C2a402be35",
+		"symbol": "DAI",
+		"name": "Dai Stablecoin",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/dai.jpg",
+		"sources": [
+			"sushiswap"
 		]
 	},
 	{
@@ -16,17 +30,6 @@
 		"name": "Frax",
 		"decimals": 18,
 		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/frax.jpg",
-		"sources": [
-			"sushiswap"
-		]
-	},
-	{
-		"chain": 288,
-		"address": "0x5fFccc55C0d2fd6D3AC32C26C020B3267e933F1b",
-		"symbol": "SUSHI",
-		"name": "SushiToken",
-		"decimals": 18,
-		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/sushi.jpg",
 		"sources": [
 			"sushiswap"
 		]
@@ -46,12 +49,12 @@
 	},
 	{
 		"chain": 288,
-		"address": "0xdc0486f8bf31DF57a952bcd3c1d3e166e3d9eC8b",
-		"symbol": "WBTC",
-		"name": "Wrapped Bitcoin",
-		"decimals": 8,
-		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/btc.jpg",
-		"coingecko": "boba-standard-bridged-wbtc-boba-network",
+		"address": "0x5DE1677344D3Cb0D7D465c10b72A8f60699C062d",
+		"symbol": "USDT",
+		"name": "Tether USD",
+		"decimals": 6,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdt.jpg",
+		"coingecko": "bridged-usdt",
 		"sources": [
 			"coingecko",
 			"sushiswap"
@@ -59,14 +62,12 @@
 	},
 	{
 		"chain": 288,
-		"address": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000",
-		"symbol": "WETH",
-		"name": "Wrapped Ether",
-		"decimals": 18,
-		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/eth.jpg",
-		"coingecko": "boba-standard-bridged-weth-boba-network",
+		"address": "0xdc0486f8bf31DF57a952bcd3c1d3e166e3d9eC8b",
+		"symbol": "WBTC",
+		"name": "Wrapped Bitcoin",
+		"decimals": 8,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/btc.jpg",
 		"sources": [
-			"coingecko",
 			"sushiswap"
 		]
 	},
@@ -95,39 +96,44 @@
 	},
 	{
 		"chain": 288,
-		"address": "0xa18bF3994C0Cc6E3b63ac420308E5383f53120D7",
-		"symbol": "BOBA",
-		"name": "Boba Token",
+		"address": "0x5fFccc55C0d2fd6D3AC32C26C020B3267e933F1b",
+		"symbol": "SUSHI",
+		"name": "SushiToken",
 		"decimals": 18,
-		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/boba.jpg",
-		"coingecko": "boba-network",
-		"sources": [
-			"coingecko",
-			"sushiswap"
-		]
-	},
-	{
-		"chain": 288,
-		"address": "0xf74195Bb8a5cf652411867c5C2C5b8C2a402be35",
-		"symbol": "DAI",
-		"name": "Dai Stablecoin",
-		"decimals": 18,
-		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/dai.jpg",
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/sushi.jpg",
 		"sources": [
 			"sushiswap"
 		]
 	},
 	{
 		"chain": 288,
-		"address": "0x5DE1677344D3Cb0D7D465c10b72A8f60699C062d",
-		"symbol": "USDT",
-		"name": "Tether USD",
-		"decimals": 6,
-		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdt.jpg",
-		"coingecko": "bridged-usdt",
+		"address": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000",
+		"symbol": "WETH",
+		"name": "Wrapped Ether",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/eth.jpg",
 		"sources": [
-			"coingecko",
 			"sushiswap"
+		]
+	},
+	{
+		"chain": 288,
+		"address": "0x7562F525106F5d54E891e005867Bf489B5988CD9",
+		"symbol": "Frax",
+		"name": "Frax",
+		"coingecko": "frax",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 288,
+		"address": "0x3F56e0c36d275367b8C502090EDF38289b3dEa0d",
+		"symbol": "MAI",
+		"name": "MAI",
+		"coingecko": "mimatic",
+		"sources": [
+			"coingecko"
 		]
 	},
 	{

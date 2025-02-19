@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x291A8DA3c42b7d7f00349d6f1bE3C823A2B3fCA4",
+	"symbol": "Tiny Fren",
+	"name": "Tiny Fren",
+	"coingecko": "tiny-fren",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1923,
+	"address": "0x2826D136F5630adA89C1678b64A61620Aab77Aea",
+	"symbol": "Layerzero Bridged Swell",
+	"name": "Layerzero Bridged Swell",
+	"coingecko": "layerzero-bridged-swell",
+	"sources": [
+		"coingecko"
+	]
+}

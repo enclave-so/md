@@ -1,32 +1,12 @@
 [
 	{
 		"chain": 81457,
-		"address": "0x15d24de366F69b835Be19f7Cf9447e770315DD80",
-		"symbol": "KAP Games",
-		"name": "KAP Games",
-		"coingecko": "kapital-dao",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 81457,
-		"address": "0x4186BFC76E2E237523CBC30FD220FE055156b41F",
-		"symbol": "KelpDAO Bridged rsETH (Blast)",
-		"name": "KelpDAO Bridged rsETH (Blast)",
-		"coingecko": "kelpdao-bridged-rseth-blast",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 81457,
-		"address": "0x9bD75c164dAf830733AC2EA71A0258f95aac7C57",
-		"symbol": "BCat",
-		"name": "BlastCat",
-		"decimals": 18,
-		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/blast/0x9bD75c164dAf830733AC2EA71A0258f95aac7C57.jpg",
-		"coingecko": "blastcat",
+		"address": "0xd43D8aDAC6A4C7d9Aeece7c3151FcA8f23752cf8",
+		"symbol": "ANDY",
+		"name": "Andy",
+		"decimals": 9,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/blast/0xd43D8aDAC6A4C7d9Aeece7c3151FcA8f23752cf8.jpg",
+		"coingecko": "andyerc",
 		"sources": [
 			"coingecko",
 			"sushiswap"
@@ -34,35 +14,122 @@
 	},
 	{
 		"chain": 81457,
-		"address": "0x84fC0e1Dca50cF341B497A56f843d4dD7d818B84",
-		"symbol": "Dyor",
-		"name": "Dyor",
-		"decimals": 18,
-		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/blast/0x84fC0e1Dca50cF341B497A56f843d4dD7d818B84.jpg",
+		"address": "0x0e8C94ce5f658B52a8d4E30933520B2106A9397c",
+		"symbol": "Dinari USHY",
+		"name": "Dinari USHY",
+		"coingecko": "dinari-ushy",
 		"sources": [
-			"sushiswap"
+			"coingecko"
 		]
 	},
 	{
 		"chain": 81457,
-		"address": "0x0000000000a1c217530F17948CBb487c743b9F63",
-		"symbol": "ORE",
-		"name": "Ore",
-		"decimals": 18,
-		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/blast/0x0000000000a1c217530F17948CBb487c743b9F63.jpg",
+		"address": "0x818a92bc81Aad0053d72ba753fb5Bc3d0C5C0923",
+		"symbol": "Juice Finance",
+		"name": "Juice Finance",
+		"coingecko": "juice-finance",
 		"sources": [
-			"sushiswap"
+			"coingecko"
 		]
 	},
 	{
 		"chain": 81457,
-		"address": "0x2Ef6EE4884892b15DfCF53B33ed139FEF6141A49",
-		"symbol": "WIF",
-		"name": "Dog Wif Blast",
-		"decimals": 18,
-		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/blast/0x2Ef6EE4884892b15DfCF53B33ed139FEF6141A49.jpg",
+		"address": "0xCf09205D04647B0dbF99fe702113358DF764cED3",
+		"symbol": "yETH",
+		"name": "yETH",
+		"coingecko": "yeth",
 		"sources": [
-			"sushiswap"
+			"coingecko"
+		]
+	},
+	{
+		"chain": 81457,
+		"address": "0x870a8F46b62B8BDeda4c02530C1750CddF2ED32e",
+		"symbol": "Overnight.fi USDC+",
+		"name": "Overnight.fi USDC+",
+		"coingecko": "usdc-plus-overnight",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 81457,
+		"address": "0xe20D45377370135C733876548de202040cfC0664",
+		"symbol": "BAC Games",
+		"name": "BAC Games",
+		"coingecko": "bac-games",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 81457,
+		"address": "0x81100713096041923D65b9F9A2C8dbf8fd8dE691",
+		"symbol": "Dinari AMC",
+		"name": "Dinari AMC",
+		"coingecko": "dinari-amc",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 81457,
+		"address": "0xDd6A4d44987fc974C4113eF403b941fe09D0068c",
+		"symbol": "Dinari AZN",
+		"name": "Dinari AZN",
+		"coingecko": "dinari-azn",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 81457,
+		"address": "0xbf286A9c026F02DD4D2e3fc3887e77e425D15A11",
+		"symbol": "Dinari BTCO",
+		"name": "Dinari BTCO",
+		"coingecko": "dinari-btco",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 81457,
+		"address": "0x45907aCF1c9F45450DeD33E3F06F96DC298c5D70",
+		"symbol": "Dinari MELI",
+		"name": "Dinari MELI",
+		"coingecko": "dinari-meli",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 81457,
+		"address": "0x59DEBED8D46a0cB823D8BE8b957adD987eAd39aa",
+		"symbol": "Quack Token",
+		"name": "Quack Token",
+		"coingecko": "quack-token",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 81457,
+		"address": "0xAc402DB779eEabcC6c88F0478bB381Cd2d0E15F7",
+		"symbol": "Dinari WALRF",
+		"name": "Dinari WALRF",
+		"coingecko": "dinari-walrf",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 81457,
+		"address": "0x15bD262ede6E8aA04b2361a1Df697adF1Cf40e75",
+		"symbol": "Petoshi",
+		"name": "Petoshi",
+		"coingecko": "petoshi",
+		"sources": [
+			"coingecko"
 		]
 	},
 	{
@@ -77,30 +144,10 @@
 	},
 	{
 		"chain": 81457,
-		"address": "0x236bb48fcF61ce996B2C8C196a9258c176100c7d",
-		"symbol": "RabbitX",
-		"name": "RabbitX",
-		"coingecko": "rabbitx",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 81457,
-		"address": "0xE36072DD051Ce26261BF50CD966311cab62C596e",
-		"symbol": "Thruster",
-		"name": "Thruster",
-		"coingecko": "thruster",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 81457,
-		"address": "0x87E154E86Fb691AB8A27116e93Ed8d54e2b8C18C",
-		"symbol": "Titan Trading Token",
-		"name": "Titan Trading Token",
-		"coingecko": "titan-trading-token",
+		"address": "0xD2C500A8dd36EeE1082314d624A46b5AB37C426e",
+		"symbol": "Dinari SBUX",
+		"name": "Dinari SBUX",
+		"coingecko": "dinari-sbux",
 		"sources": [
 			"coingecko"
 		]
@@ -120,73 +167,61 @@
 	},
 	{
 		"chain": 81457,
-		"address": "0x4300000000000000000000000000000000000004",
-		"symbol": "WETH",
-		"name": "Wrapped ETH",
+		"address": "0x2Ef6EE4884892b15DfCF53B33ed139FEF6141A49",
+		"symbol": "WIF",
+		"name": "Dog Wif Blast",
 		"decimals": 18,
-		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/blast/0x4300000000000000000000000000000000000004.jpg",
-		"coingecko": "l2-standard-bridged-weth-blast",
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/blast/0x2Ef6EE4884892b15DfCF53B33ed139FEF6141A49.jpg",
 		"sources": [
-			"coingecko",
 			"sushiswap"
 		]
 	},
 	{
 		"chain": 81457,
-		"address": "0x12AA089d5425aF22FFC34Ff86987caaf1091824f",
-		"symbol": "Blastardio",
-		"name": "Blastardio",
-		"coingecko": "blastardio",
+		"address": "0x129ed667bf8C065fE5f66c9b44B7cB0126D85cC3",
+		"symbol": "AI Waifu",
+		"name": "AI Waifu",
+		"coingecko": "ai-waifu-2",
 		"sources": [
 			"coingecko"
 		]
 	},
 	{
 		"chain": 81457,
-		"address": "0x9306FC95b8becdC9166112Fd6cF86B39e2335f09",
-		"symbol": "DigiCask Token",
-		"name": "DigiCask Token",
-		"coingecko": "digicask-token",
+		"address": "0xD55eDfc79c0d14084260D16f38BdA75e28AbFb6A",
+		"symbol": "BlastOff",
+		"name": "BlastOff",
+		"coingecko": "blastoff",
 		"sources": [
 			"coingecko"
 		]
 	},
 	{
 		"chain": 81457,
-		"address": "0x5A7a183B6B44Dc4EC2E3d2eF43F98C5152b1d76d",
-		"symbol": "Inception Restaked ETH",
-		"name": "Inception Restaked ETH",
-		"coingecko": "genesislrt-restaked-eth",
+		"address": "0xBbA2b55370753E326e2fb68161C240e328218bCF",
+		"symbol": "Dinari GLD",
+		"name": "Dinari GLD",
+		"coingecko": "dinari-gld",
 		"sources": [
 			"coingecko"
 		]
 	},
 	{
 		"chain": 81457,
-		"address": "0x818a92bc81Aad0053d72ba753fb5Bc3d0C5C0923",
-		"symbol": "Juice Finance",
-		"name": "Juice Finance",
-		"coingecko": "juice-finance",
+		"address": "0x08a51D066c12f5b020C3B34817fEb6f200aA3Ed1",
+		"symbol": "Dinari HUT",
+		"name": "Dinari HUT",
+		"coingecko": "dinari-hut",
 		"sources": [
 			"coingecko"
 		]
 	},
 	{
 		"chain": 81457,
-		"address": "0xc7Edf7B7b3667a06992508e7B156eff794a9e1c8",
-		"symbol": "Persistence One",
-		"name": "Persistence One",
-		"coingecko": "persistence",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 81457,
-		"address": "0x2416092f143378750bb29b79eD961ab195CcEea5",
-		"symbol": "Renzo Restaked ETH",
-		"name": "Renzo Restaked ETH",
-		"coingecko": "renzo-restaked-eth",
+		"address": "0xE36072DD051Ce26261BF50CD966311cab62C596e",
+		"symbol": "Thruster",
+		"name": "Thruster",
+		"coingecko": "thruster",
 		"sources": [
 			"coingecko"
 		]
@@ -206,50 +241,184 @@
 	},
 	{
 		"chain": 81457,
-		"address": "0xbb4e01B8940E8E2b3a95cED7941969D033786FF7",
-		"symbol": "Affine ultraETHs 2.0",
-		"name": "Affine ultraETHs 2.0",
-		"coingecko": "affine-ultraeths-2-0",
+		"address": "0x6c511dc18572d31C2c3f7b1505cB2BBC08282FcC",
+		"symbol": "Aipocalypto",
+		"name": "Aipocalypto",
+		"coingecko": "aipocalypto",
 		"sources": [
 			"coingecko"
 		]
 	},
 	{
 		"chain": 81457,
-		"address": "0x233b23DE890A8c21F6198D03425a2b986AE05536",
-		"symbol": "Core Markets",
-		"name": "Core Markets",
-		"coingecko": "core-markets",
+		"address": "0x73d23F3778a90Be8846E172354A115543dF2a7E4",
+		"symbol": "Anzen Staked USDz",
+		"name": "Anzen Staked USDz",
+		"coingecko": "anzen-staked-usdz",
 		"sources": [
 			"coingecko"
 		]
 	},
 	{
 		"chain": 81457,
-		"address": "0x7135B32e9903BdB4e19a8b1D22fC2038964B8451",
-		"symbol": "EarlyFans",
-		"name": "EarlyFans",
-		"coingecko": "early",
+		"address": "0xE99292Ca55f6e01765b900dAdd471c63136E6760",
+		"symbol": "Dinari EEM",
+		"name": "Dinari EEM",
+		"coingecko": "dinari-eem",
 		"sources": [
 			"coingecko"
 		]
 	},
 	{
 		"chain": 81457,
-		"address": "0x7217124C626f0b7077bE91dF939195C9a8184ecC",
-		"symbol": "Finger Blast",
-		"name": "Finger Blast",
-		"coingecko": "finger-blast",
+		"address": "0xF020A139d2346Cdd2C0E1523395346756F42aD7E",
+		"symbol": "Dinari HYMB",
+		"name": "Dinari HYMB",
+		"coingecko": "dinari-hymb",
 		"sources": [
 			"coingecko"
 		]
 	},
 	{
 		"chain": 81457,
-		"address": "0x949185D3BE66775Ea648F4a306740EA9eFF9C567",
-		"symbol": "Yel.Finance",
-		"name": "Yel.Finance",
-		"coingecko": "yel-finance",
+		"address": "0xa5d7512c6a3B87ad7bF2f597b93845950f738fDd",
+		"symbol": "Dinari IAU",
+		"name": "Dinari IAU",
+		"coingecko": "dinari-iau",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 81457,
+		"address": "0x52056ED29Fe015f4Ba2e3b079D10C0B87f46e8c6",
+		"symbol": "Anzen USDz",
+		"name": "Anzen USDz",
+		"coingecko": "anzen-usdz",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 81457,
+		"address": "0x578122317baCa7A3C7BB5301460d2f4F96E9394A",
+		"symbol": "Davos.xyz USD",
+		"name": "Davos.xyz USD",
+		"coingecko": "davos-protocol",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 81457,
+		"address": "0x97dd837806EaB484B440f15e60F84c4f312f7CdD",
+		"symbol": "Dinari AVGO",
+		"name": "Dinari AVGO",
+		"coingecko": "dinari-avgo",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 81457,
+		"address": "0xc6561Ff3100d8B3C33898DFBfeb6E695134E6957",
+		"symbol": "Dinari BAC",
+		"name": "Dinari BAC",
+		"coingecko": "dinari-bac",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 81457,
+		"address": "0xbfDaA788366593D3C7D15f9abC0B1cab2B1694ba",
+		"symbol": "Dinari BLK",
+		"name": "Dinari BLK",
+		"coingecko": "dinari-blk",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 81457,
+		"address": "0x8CE131C8C8b8d46ffe2a72aADC8eBb3D5686613a",
+		"symbol": "Dinari CAT",
+		"name": "Dinari CAT",
+		"coingecko": "dinari-cat",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 81457,
+		"address": "0xE3fC0948bdCADA331014590987CC624015403874",
+		"symbol": "Dinari RBLX",
+		"name": "Dinari RBLX",
+		"coingecko": "dinari-rblx",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 81457,
+		"address": "0xDa5AfFf979A356Af2cfA75Bd0054c2c8C505234A",
+		"symbol": "Dinari XOM",
+		"name": "Dinari XOM",
+		"coingecko": "dinari-xom",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 81457,
+		"address": "0x5A7a183B6B44Dc4EC2E3d2eF43F98C5152b1d76d",
+		"symbol": "Inception Restaked ETH",
+		"name": "Inception Restaked ETH",
+		"coingecko": "genesislrt-restaked-eth",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 81457,
+		"address": "0xfd4D19F9FBb9F730C3C88a21755832BD2455144e",
+		"symbol": "Super Sushi Samurai",
+		"name": "Super Sushi Samurai",
+		"coingecko": "super-sushi-samurai",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 81457,
+		"address": "0x0B4d0ee29857c3961b380d4ec138EA5814E346b9",
+		"symbol": "$PACM",
+		"name": "P@cman Blastoff",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/blast/0x0B4d0ee29857c3961b380d4ec138EA5814E346b9.jpg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 81457,
+		"address": "0x4300000000000000000000000000000000000004",
+		"symbol": "WETH",
+		"name": "Wrapped ETH",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/blast/0x4300000000000000000000000000000000000004.jpg",
+		"coingecko": "l2-standard-bridged-weth-blast",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 81457,
+		"address": "0x1B91EB087e128A0514b9eB8d0804B586641a0849",
+		"symbol": "Dinari TJX",
+		"name": "Dinari TJX",
+		"coingecko": "dinari-tjx",
 		"sources": [
 			"coingecko"
 		]
@@ -266,20 +435,20 @@
 	},
 	{
 		"chain": 81457,
-		"address": "0x59DEBED8D46a0cB823D8BE8b957adD987eAd39aa",
-		"symbol": "Quack Token",
-		"name": "Quack Token",
-		"coingecko": "quack-token",
+		"address": "0xe7903B1F75C534Dd8159b313d92cDCfbC62cB3Cd",
+		"symbol": "Wrapped rsETH",
+		"name": "Wrapped rsETH",
+		"coingecko": "wrapped-rseth",
 		"sources": [
 			"coingecko"
 		]
 	},
 	{
 		"chain": 81457,
-		"address": "0xCf09205D04647B0dbF99fe702113358DF764cED3",
-		"symbol": "yETH",
-		"name": "yETH",
-		"coingecko": "yeth",
+		"address": "0xb5A86030b64AfAa75c42c0D28f8d5ce5f9f61401",
+		"symbol": "Wolf Game Wool",
+		"name": "Wolf Game Wool",
+		"coingecko": "wolf-game-wool",
 		"sources": [
 			"coingecko"
 		]
@@ -293,15 +462,6 @@
 		"sources": [
 			"coingecko"
 		]
-	},
-	{
-		"chain": 81457,
-		"address": "0x0000000000000000000000000000000000000000",
-		"symbol": "POL",
-		"name": "Polygon Ecosystem Token",
-		"decimals": 18,
-		"logo": "https://coin-images.coingecko.com/coins/images/32440/large/polygon.png?1698233684",
-		"coingecko": "matic-network"
 	},
 	{
 		"chain": 81457,
@@ -328,170 +488,114 @@
 	},
 	{
 		"chain": 81457,
-		"address": "0x67fa2887914fA3729e9EED7630294Fe124f417A0",
-		"symbol": "Crypto Valleys YIELD Token",
-		"name": "Crypto Valleys YIELD Token",
-		"coingecko": "crypto-valleys-yield-token",
+		"address": "0xf0a23FD4a51e9c5055b912E41A6052b56E6108b8",
+		"symbol": "Dinari BRRR",
+		"name": "Dinari BRRR",
+		"coingecko": "dinari-brrr",
 		"sources": [
 			"coingecko"
 		]
 	},
 	{
 		"chain": 81457,
-		"address": "0x47C337Bd5b9344a6F3D6f58C474D9D8cd419D8cA",
-		"symbol": "DackieSwap",
-		"name": "DackieSwap",
-		"coingecko": "dackieswap",
+		"address": "0xbB4Ca8935EdCafBa90DaC55652Bb938Eb961cB36",
+		"symbol": "Dinari ITA",
+		"name": "Dinari ITA",
+		"coingecko": "dinari-ita",
 		"sources": [
 			"coingecko"
 		]
 	},
 	{
 		"chain": 81457,
-		"address": "0x59c159e5a4F4d1C86F7aBDC94B7907B7473477F6",
-		"symbol": "BlastUP",
-		"name": "BlastUP",
-		"coingecko": "blastup",
+		"address": "0xFECf117cE579ACb96e89872af6CC9525980C397c",
+		"symbol": "Dinari SONY",
+		"name": "Dinari SONY",
+		"coingecko": "dinari-sony",
 		"sources": [
 			"coingecko"
 		]
 	},
 	{
 		"chain": 81457,
-		"address": "0x963eec23618BbC8e1766661d5f263f18094Ae4d5",
-		"symbol": "CYBRO",
-		"name": "CYBRO",
-		"coingecko": "cybro",
+		"address": "0xEC73284E4EC9bcea1A7DDDf489eAA324C3F7dd31",
+		"symbol": "Hyper",
+		"name": "Hyper",
+		"coingecko": "hyper-5",
 		"sources": [
 			"coingecko"
 		]
 	},
 	{
 		"chain": 81457,
-		"address": "0x6A661312938D22A2A0e27F585073E4406903990a",
-		"symbol": "Maha",
-		"name": "Maha",
-		"coingecko": "mahadao",
+		"address": "0x837fE561e9C5DFa73F607fDa679295DBC2Be5E40",
+		"symbol": "MUSD",
+		"name": "Monoswap USD",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/blast/0x837fE561e9C5DFa73F607fDa679295DBC2Be5E40.jpg",
 		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 81457,
-		"address": "0x68449870EEa84453044Bd430822827E21Fd8F101",
-		"symbol": "Zaibot",
-		"name": "Zaibot",
-		"coingecko": "zaibot",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 81457,
-		"address": "0x6CD20f11470e9C9d1458a69c8f7B330B99577EF9",
-		"symbol": "Vertex",
-		"name": "Vertex",
-		"coingecko": "vertex-protocol",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 81457,
-		"address": "0xd43D8aDAC6A4C7d9Aeece7c3151FcA8f23752cf8",
-		"symbol": "ANDY",
-		"name": "Andy",
-		"decimals": 9,
-		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/blast/0xd43D8aDAC6A4C7d9Aeece7c3151FcA8f23752cf8.jpg",
-		"coingecko": "andyerc",
-		"sources": [
-			"coingecko",
 			"sushiswap"
 		]
 	},
 	{
 		"chain": 81457,
-		"address": "0x42E12D42b3d6C4A74a88A61063856756Ea2DB357",
-		"symbol": "ORBIT",
-		"name": "Orbit Protocol",
-		"decimals": 18,
-		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/blast/0x42E12D42b3d6C4A74a88A61063856756Ea2DB357.jpg",
-		"coingecko": "orbit-protocol",
+		"address": "0x3580ac35BED2981d6bDD671a5982c2467d301241",
+		"symbol": "Ankr Network",
+		"name": "Ankr Network",
+		"coingecko": "ankr",
 		"sources": [
-			"coingecko",
+			"coingecko"
+		]
+	},
+	{
+		"chain": 81457,
+		"address": "0xb127e5d53Df0C2056CF337081EC56F01EFD5c8Bc",
+		"symbol": "Dinari SNOW",
+		"name": "Dinari SNOW",
+		"coingecko": "dinari-snow",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 81457,
+		"address": "0x010392305558d58e1Cb0Eec5529a65bf3545f82e",
+		"symbol": "MACHI",
+		"name": "MACHI",
+		"coingecko": "machi",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 81457,
+		"address": "0xba0Dda8762C24dA9487f5FA026a9B64b695A07Ea",
+		"symbol": "OX Coin",
+		"name": "OX Coin",
+		"coingecko": "ox-fun",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 81457,
+		"address": "0x60701c37Cd9Fed322dDe7c17Dc1e356f09a35B88",
+		"symbol": "BD",
+		"name": "BlastDEX",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/blast/0x60701c37Cd9Fed322dDe7c17Dc1e356f09a35B88.jpg",
+		"sources": [
 			"sushiswap"
 		]
 	},
 	{
 		"chain": 81457,
-		"address": "0x904EBA5084426b0BB5C2e88770ABc92155428Fc2",
-		"symbol": "Dinari UBER",
-		"name": "Dinari UBER",
-		"coingecko": "dinari-uber",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 81457,
-		"address": "0xa027a3A04b44f79560153234E999b17C88e22DB9",
-		"symbol": "Particle Trade",
-		"name": "Particle Trade",
-		"coingecko": "particle-trade",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 81457,
-		"address": "0x15bD262ede6E8aA04b2361a1Df697adF1Cf40e75",
-		"symbol": "Petoshi",
-		"name": "Petoshi",
-		"coingecko": "petoshi",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 81457,
-		"address": "0x52f847356b38720B55ee18Cb3e094ca11C85A192",
-		"symbol": "Fenix",
-		"name": "Fenix",
-		"coingecko": "fenix",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 81457,
-		"address": "0x51707DC661630F8FD624b985FA6eF4f1d4D919Db",
-		"symbol": "Unvest",
-		"name": "Unvest",
-		"coingecko": "unvest",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 81457,
-		"address": "0xe7903B1F75C534Dd8159b313d92cDCfbC62cB3Cd",
-		"symbol": "Wrapped rsETH",
-		"name": "Wrapped rsETH",
-		"coingecko": "wrapped-rseth",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 81457,
-		"address": "0xB582Dc28968c725D2868130752aFa0c13EbF9b1a",
-		"symbol": "BEPE",
-		"name": "Blast Pepe",
+		"address": "0x84fC0e1Dca50cF341B497A56f843d4dD7d818B84",
+		"symbol": "Dyor",
+		"name": "Dyor",
 		"decimals": 18,
-		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/blast/0xB582Dc28968c725D2868130752aFa0c13EbF9b1a.jpg",
-		"coingecko": "blast-pepe",
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/blast/0x84fC0e1Dca50cF341B497A56f843d4dD7d818B84.jpg",
 		"sources": [
-			"coingecko",
 			"sushiswap"
 		]
 	},
@@ -510,194 +614,30 @@
 	},
 	{
 		"chain": 81457,
-		"address": "0xB6e0d8A730C6e5c85c637b1cf7aD6fD07927b965",
-		"symbol": "Blastin Pepes",
-		"name": "Blastin Pepes",
-		"coingecko": "blastin-pepes",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 81457,
-		"address": "0xE070B87c4d88826D4cD1b85BAbE186fdB14CD321",
-		"symbol": "Cyberblast Token",
-		"name": "Cyberblast Token",
-		"coingecko": "cyberblast-token",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 81457,
-		"address": "0x578122317baCa7A3C7BB5301460d2f4F96E9394A",
-		"symbol": "Davos.xyz USD",
-		"name": "Davos.xyz USD",
-		"coingecko": "davos-protocol",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 81457,
-		"address": "0x3580ac35BED2981d6bDD671a5982c2467d301241",
-		"symbol": "Ankr Network",
-		"name": "Ankr Network",
-		"coingecko": "ankr",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 81457,
-		"address": "0x548A6fE792015DD2A7827659D3Feb8Cf88cf1C79",
-		"symbol": "Blast Hoge",
-		"name": "Blast Hoge",
-		"coingecko": "blast-hoge",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 81457,
-		"address": "0xb73d8850510f2001FD4655c3bAF98F3dFb00c0CC",
-		"symbol": "DJENN",
-		"name": "DJENN",
-		"coingecko": "djenn",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 81457,
-		"address": "0x25F233C3E3676f9e900a89644a3FE5404d643c84",
-		"symbol": "Ring Protocol",
-		"name": "Ring Protocol",
-		"coingecko": "ring-protocol",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 81457,
-		"address": "0x58e6489eca0E55A16AdEe6F37301638470738ce6",
-		"symbol": "ZAI Stablecoin",
-		"name": "ZAI Stablecoin",
-		"coingecko": "zai-stablecoin",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 81457,
-		"address": "0x52056ED29Fe015f4Ba2e3b079D10C0B87f46e8c6",
-		"symbol": "Anzen USDz",
-		"name": "Anzen USDz",
-		"coingecko": "anzen-usdz",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 81457,
-		"address": "0x76DA31D7C9CbEAE102aff34D3398bC450c8374c1",
-		"symbol": "Magic Internet Money (Blast)",
-		"name": "Magic Internet Money (Blast)",
-		"coingecko": "magic-internet-money-blast",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 81457,
-		"address": "0x9a50953716bA58e3d6719Ea5c437452ac578705F",
-		"symbol": "MetaStreet V2 mwstETH-WPUNKS:20",
-		"name": "MetaStreet V2 mwstETH-WPUNKS:20",
-		"coingecko": "metastreet-v2-mwsteth-wpunks-20",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 81457,
-		"address": "0x5ffd9EbD27f2fcAB044c0f0a26A45Cb62fa29c06",
-		"symbol": "PacMoon",
-		"name": "PacMoon",
-		"coingecko": "pacmoon",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 81457,
-		"address": "0xb5A86030b64AfAa75c42c0D28f8d5ce5f9f61401",
-		"symbol": "Wolf Game Wool",
-		"name": "Wolf Game Wool",
-		"coingecko": "wolf-game-wool",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 81457,
-		"address": "0xb1a5700fA2358173Fe465e6eA4Ff52E36e88E2ad",
-		"symbol": "BLAST",
-		"name": "Blast",
-		"decimals": 18,
-		"logo": "https://assets.coingecko.com/coins/images/35494/standard/Blast.jpg?1719385662",
-		"coingecko": "blast",
-		"sources": [
-			"coingecko",
-			"uniswap"
-		]
-	},
-	{
-		"chain": 81457,
-		"address": "0xb9dfCd4CF589bB8090569cb52FaC1b88Dbe4981F",
-		"symbol": "Bag.win",
-		"name": "Bag.win",
-		"coingecko": "bag",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 81457,
-		"address": "0x491e6DE43b55c8EAE702EDC263E32339da42f58c",
-		"symbol": "Eesee",
-		"name": "Eesee",
-		"coingecko": "eesee",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 81457,
-		"address": "0x71CA0E46434b4dfbd7065aFE508C9A107eB3a522",
-		"symbol": "ZKDX",
-		"name": "ZKDX",
-		"coingecko": "zkdx",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 81457,
-		"address": "0x60701c37Cd9Fed322dDe7c17Dc1e356f09a35B88",
-		"symbol": "BD",
-		"name": "BlastDEX",
-		"decimals": 18,
-		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/blast/0x60701c37Cd9Fed322dDe7c17Dc1e356f09a35B88.jpg",
-		"sources": [
-			"sushiswap"
-		]
-	},
-	{
-		"chain": 81457,
 		"address": "0x049e6A52e2C9b7814c8178908F3630726c134c92",
 		"symbol": "Ankr Staked ETH",
 		"name": "Ankr Staked ETH",
 		"coingecko": "ankreth",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 81457,
+		"address": "0xe2a8B9D1A129df339118c5b10EEeFE4dAB9334E1",
+		"symbol": "Dinari GME",
+		"name": "Dinari GME",
+		"coingecko": "dinari-gme",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 81457,
+		"address": "0x32cBB8CdAcd90DbEc250F9B1E8b06232c6F3297b",
+		"symbol": "Dinari VXX",
+		"name": "Dinari VXX",
+		"coingecko": "dinari-vxx",
 		"sources": [
 			"coingecko"
 		]
@@ -714,10 +654,292 @@
 	},
 	{
 		"chain": 81457,
-		"address": "0xe20D45377370135C733876548de202040cfC0664",
-		"symbol": "BAC Games",
-		"name": "BAC Games",
-		"coingecko": "bac-games",
+		"address": "0xf53C57338A304558709EF69fe53b518C5f62733E",
+		"symbol": "Dackie USD",
+		"name": "Dackie USD",
+		"coingecko": "dackie-usd",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 81457,
+		"address": "0x01E8bD212f5F319E7126b62aA020831b92e19cD9",
+		"symbol": "Dinari HODL",
+		"name": "Dinari HODL",
+		"coingecko": "dinari-hodl",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 81457,
+		"address": "0x44BA66F8ad159f8f400c7D9E06f670C018BdD57c",
+		"symbol": "Dinari KO",
+		"name": "Dinari KO",
+		"coingecko": "dinari-ko",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 81457,
+		"address": "0x87EC43715Cd54B97e3DA2bBebBEB919177Aa2f6D",
+		"symbol": "Dinari QQQ",
+		"name": "Dinari QQQ",
+		"coingecko": "dinari-qqq",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 81457,
+		"address": "0x3fAda70ea1251bec1e87C2fF9CD5bB72a818C350",
+		"symbol": "Dinari ADBE",
+		"name": "Dinari ADBE",
+		"coingecko": "dinari-adbe",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 81457,
+		"address": "0x4040fe823164384d2B719546557f01136990395B",
+		"symbol": "Dinari CSCO",
+		"name": "Dinari CSCO",
+		"coingecko": "dinari-csco",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 81457,
+		"address": "0xb73d8850510f2001FD4655c3bAF98F3dFb00c0CC",
+		"symbol": "DJENN",
+		"name": "DJENN",
+		"coingecko": "djenn",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 81457,
+		"address": "0x5ffd9EbD27f2fcAB044c0f0a26A45Cb62fa29c06",
+		"symbol": "PacMoon",
+		"name": "PacMoon",
+		"coingecko": "pacmoon",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 81457,
+		"address": "0x9bD75c164dAf830733AC2EA71A0258f95aac7C57",
+		"symbol": "BCat",
+		"name": "BlastCat",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/blast/0x9bD75c164dAf830733AC2EA71A0258f95aac7C57.jpg",
+		"coingecko": "blastcat",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 81457,
+		"address": "0x76b584C9d5d6c925C7d6768b8430d5FcCedbA83E",
+		"symbol": "Dinari ARKX",
+		"name": "Dinari ARKX",
+		"coingecko": "dinari-arkx",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 81457,
+		"address": "0x413e5687814841D65146c062C506c73992a57692",
+		"symbol": "Dinari VWO",
+		"name": "Dinari VWO",
+		"coingecko": "dinari-vwo",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 81457,
+		"address": "0x76DA31D7C9CbEAE102aff34D3398bC450c8374c1",
+		"symbol": "Magic Internet Money (Blast)",
+		"name": "Magic Internet Money (Blast)",
+		"coingecko": "magic-internet-money-blast",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 81457,
+		"address": "0x9e20461bc2c4c980f62f1B279D71734207a6A356",
+		"symbol": "OmniCat",
+		"name": "OmniCat",
+		"coingecko": "omnicat",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 81457,
+		"address": "0x4fEE793d435c6D2c10C135983BB9d6D4fC7B9BBd",
+		"symbol": "Overnight.fi USD+ (Blast)",
+		"name": "Overnight.fi USD+ (Blast)",
+		"coingecko": "overnight-fi-usd-blast",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 81457,
+		"address": "0x296c2186948712D66bEf4778567c4d2f734BFF3c",
+		"symbol": "Dinari ARKB",
+		"name": "Dinari ARKB",
+		"coingecko": "dinari-arkb",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 81457,
+		"address": "0xDDf7d080C82b8048BAAe54e376a3406572429b4e",
+		"symbol": "GODDOG",
+		"name": "GODDOG",
+		"coingecko": "goddog",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 81457,
+		"address": "0x6A661312938D22A2A0e27F585073E4406903990a",
+		"symbol": "Maha",
+		"name": "Maha",
+		"coingecko": "mahadao",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 81457,
+		"address": "0x25F233C3E3676f9e900a89644a3FE5404d643c84",
+		"symbol": "Ring Protocol",
+		"name": "Ring Protocol",
+		"coingecko": "ring-protocol",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 81457,
+		"address": "0x949185D3BE66775Ea648F4a306740EA9eFF9C567",
+		"symbol": "Yel.Finance",
+		"name": "Yel.Finance",
+		"coingecko": "yel-finance",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 81457,
+		"address": "0x0000000000000000000000000000000000000000",
+		"symbol": "ETH",
+		"name": "Ethereum",
+		"decimals": 18,
+		"logo": "https://token-icons.s3.amazonaws.com/eth.png",
+		"coingecko": "ethereum"
+	},
+	{
+		"chain": 81457,
+		"address": "0x548A6fE792015DD2A7827659D3Feb8Cf88cf1C79",
+		"symbol": "Blast Hoge",
+		"name": "Blast Hoge",
+		"coingecko": "blast-hoge",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 81457,
+		"address": "0x963eec23618BbC8e1766661d5f263f18094Ae4d5",
+		"symbol": "CYBRO",
+		"name": "CYBRO",
+		"coingecko": "cybro",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 81457,
+		"address": "0xddCd99775b70BeE3b1D06399b69E45465Dea010c",
+		"symbol": "Dinari HOOD",
+		"name": "Dinari HOOD",
+		"coingecko": "dinari-hood",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 81457,
+		"address": "0xC19669A405067927865B40Ea045a2baabbbe57f5",
+		"symbol": "Star",
+		"name": "Star",
+		"coingecko": "preon-star",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 81457,
+		"address": "0xbb4e01B8940E8E2b3a95cED7941969D033786FF7",
+		"symbol": "Affine ultraETHs 2.0",
+		"name": "Affine ultraETHs 2.0",
+		"coingecko": "affine-ultraeths-2-0",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 81457,
+		"address": "0xB6e0d8A730C6e5c85c637b1cf7aD6fD07927b965",
+		"symbol": "Blastin Pepes",
+		"name": "Blastin Pepes",
+		"coingecko": "blastin-pepes",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 81457,
+		"address": "0xfB3bcDc42d0f884b0f1E53f74Ed152fF1Cb77dC8",
+		"symbol": "Dinari JPM",
+		"name": "Dinari JPM",
+		"coingecko": "dinari-jpm",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 81457,
+		"address": "0xA5de16db7c14Cd87fb35042Ed8E7A6f4f00b7f26",
+		"symbol": "Dinari RIOT",
+		"name": "Dinari RIOT",
+		"coingecko": "dinari-riot",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 81457,
+		"address": "0x89D0A55a8c2d94c0d4a91C6e3de58DD131Ad87Fc",
+		"symbol": "Dinari SQ",
+		"name": "Dinari SQ",
+		"coingecko": "dinari-sq",
 		"sources": [
 			"coingecko"
 		]
@@ -737,30 +959,103 @@
 	},
 	{
 		"chain": 81457,
-		"address": "0x6c511dc18572d31C2c3f7b1505cB2BBC08282FcC",
-		"symbol": "Aipocalypto",
-		"name": "Aipocalypto",
-		"coingecko": "aipocalypto",
+		"address": "0x59c159e5a4F4d1C86F7aBDC94B7907B7473477F6",
+		"symbol": "BlastUP",
+		"name": "BlastUP",
+		"coingecko": "blastup",
 		"sources": [
 			"coingecko"
 		]
 	},
 	{
 		"chain": 81457,
-		"address": "0xf53C57338A304558709EF69fe53b518C5f62733E",
-		"symbol": "Dackie USD",
-		"name": "Dackie USD",
-		"coingecko": "dackie-usd",
+		"address": "0x909DBdE1eBE906Af95660033e478D59EFe831fED",
+		"symbol": "Bridged FRAX",
+		"name": "Bridged FRAX",
+		"coingecko": "bridged-frax",
 		"sources": [
 			"coingecko"
 		]
 	},
 	{
 		"chain": 81457,
-		"address": "0x4fEE793d435c6D2c10C135983BB9d6D4fC7B9BBd",
-		"symbol": "Overnight.fi USD+ (Blast)",
-		"name": "Overnight.fi USD+ (Blast)",
-		"coingecko": "overnight-fi-usd-blast",
+		"address": "0x904EBA5084426b0BB5C2e88770ABc92155428Fc2",
+		"symbol": "Dinari UBER",
+		"name": "Dinari UBER",
+		"coingecko": "dinari-uber",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 81457,
+		"address": "0x9f04B6CEfd5BCd67d76aB708F17553Ce40188e6A",
+		"symbol": "Impermax",
+		"name": "Impermax",
+		"coingecko": "impermax-2",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 81457,
+		"address": "0xb1a5700fA2358173Fe465e6eA4Ff52E36e88E2ad",
+		"symbol": "BLAST",
+		"name": "Blast",
+		"decimals": 18,
+		"logo": "https://assets.coingecko.com/coins/images/35494/standard/Blast.jpg?1719385662",
+		"coingecko": "blast",
+		"sources": [
+			"coingecko",
+			"uniswap"
+		]
+	},
+	{
+		"chain": 81457,
+		"address": "0x00d7dD69A18e346CB5050eBff7529c11A57cac7F",
+		"symbol": "Dinari BA",
+		"name": "Dinari BA",
+		"coingecko": "dinari-ba",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 81457,
+		"address": "0x68449870EEa84453044Bd430822827E21Fd8F101",
+		"symbol": "Zaibot",
+		"name": "Zaibot",
+		"coingecko": "zaibot",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 81457,
+		"address": "0xBe2019C75EbF9eAD0AB3513fd3c1733F2eB490E7",
+		"symbol": "Dinari BTCW",
+		"name": "Dinari BTCW",
+		"coingecko": "dinari-btcw",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 81457,
+		"address": "0x771952e0d7701f9D9eeeAF69C51bfdD57cBd6a6A",
+		"symbol": "Dinari RKLB",
+		"name": "Dinari RKLB",
+		"coingecko": "dinari-rklb",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 81457,
+		"address": "0xca838b9437eb20aDa32703A8B912922088CF90B5",
+		"symbol": "Dinari SPTE",
+		"name": "Dinari SPTE",
+		"coingecko": "dinari-spte",
 		"sources": [
 			"coingecko"
 		]
@@ -777,20 +1072,10 @@
 	},
 	{
 		"chain": 81457,
-		"address": "0xfd4D19F9FBb9F730C3C88a21755832BD2455144e",
-		"symbol": "Super Sushi Samurai",
-		"name": "Super Sushi Samurai",
-		"coingecko": "super-sushi-samurai",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 81457,
-		"address": "0x870a8F46b62B8BDeda4c02530C1750CddF2ED32e",
-		"symbol": "Overnight.fi USDC+",
-		"name": "Overnight.fi USDC+",
-		"coingecko": "usdc-plus-overnight",
+		"address": "0x67fa2887914fA3729e9EED7630294Fe124f417A0",
+		"symbol": "Crypto Valleys YIELD Token",
+		"name": "Crypto Valleys YIELD Token",
+		"coingecko": "crypto-valleys-yield-token",
 		"sources": [
 			"coingecko"
 		]
@@ -807,42 +1092,43 @@
 	},
 	{
 		"chain": 81457,
-		"address": "0x0B4d0ee29857c3961b380d4ec138EA5814E346b9",
-		"symbol": "$PACM",
-		"name": "P@cman Blastoff",
-		"decimals": 18,
-		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/blast/0x0B4d0ee29857c3961b380d4ec138EA5814E346b9.jpg",
-		"sources": [
-			"sushiswap"
-		]
-	},
-	{
-		"chain": 81457,
-		"address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
-		"symbol": "axlUSDC",
-		"name": "Axelar Wrapped USDC",
-		"decimals": 6,
-		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/blast/0xEB466342C4d449BC9f53A865D5Cb90586f405215.jpg",
-		"sources": [
-			"sushiswap"
-		]
-	},
-	{
-		"chain": 81457,
-		"address": "0xD1FedD031b92f50a50c05E2C45aF1aDb4CEa82f4",
-		"symbol": "BladeSwap",
-		"name": "BladeSwap",
-		"coingecko": "bladeswap",
+		"address": "0x8c3EDe5dB70719aB9191655994880b088DD03917",
+		"symbol": "yYOLO",
+		"name": "yYOLO",
+		"coingecko": "yyolo",
 		"sources": [
 			"coingecko"
 		]
 	},
 	{
 		"chain": 81457,
-		"address": "0x81100713096041923D65b9F9A2C8dbf8fd8dE691",
-		"symbol": "Dinari AMC",
-		"name": "Dinari AMC",
-		"coingecko": "dinari-amc",
+		"address": "0x42E12D42b3d6C4A74a88A61063856756Ea2DB357",
+		"symbol": "ORBIT",
+		"name": "Orbit Protocol",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/blast/0x42E12D42b3d6C4A74a88A61063856756Ea2DB357.jpg",
+		"coingecko": "orbit-protocol",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 81457,
+		"address": "0x236bb48fcF61ce996B2C8C196a9258c176100c7d",
+		"symbol": "RabbitX",
+		"name": "RabbitX",
+		"coingecko": "rabbitx",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 81457,
+		"address": "0x2416092f143378750bb29b79eD961ab195CcEea5",
+		"symbol": "Renzo Restaked ETH",
+		"name": "Renzo Restaked ETH",
+		"coingecko": "renzo-restaked-eth",
 		"sources": [
 			"coingecko"
 		]
@@ -859,50 +1145,121 @@
 	},
 	{
 		"chain": 81457,
-		"address": "0x8c3EDe5dB70719aB9191655994880b088DD03917",
-		"symbol": "yYOLO",
-		"name": "yYOLO",
-		"coingecko": "yyolo",
+		"address": "0x58e6489eca0E55A16AdEe6F37301638470738ce6",
+		"symbol": "ZAI Stablecoin",
+		"name": "ZAI Stablecoin",
+		"coingecko": "zai-stablecoin",
 		"sources": [
 			"coingecko"
 		]
 	},
 	{
 		"chain": 81457,
-		"address": "0xD55eDfc79c0d14084260D16f38BdA75e28AbFb6A",
-		"symbol": "BlastOff",
-		"name": "BlastOff",
-		"coingecko": "blastoff",
+		"address": "0x0000000000a1c217530F17948CBb487c743b9F63",
+		"symbol": "ORE",
+		"name": "Ore",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/blast/0x0000000000a1c217530F17948CBb487c743b9F63.jpg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 81457,
+		"address": "0x665b080aFfB4a7e0ceae3ce88Ba0401C864635d8",
+		"symbol": "Dinari EZBC",
+		"name": "Dinari EZBC",
+		"coingecko": "dinari-ezbc",
 		"sources": [
 			"coingecko"
 		]
 	},
 	{
 		"chain": 81457,
-		"address": "0xEC73284E4EC9bcea1A7DDDf489eAA324C3F7dd31",
-		"symbol": "Hyper",
-		"name": "Hyper",
-		"coingecko": "hyper-5",
+		"address": "0x8Ad2B97B7FCa40af71bFef9857D10bc1bfE70175",
+		"symbol": "Dinari PG",
+		"name": "Dinari PG",
+		"coingecko": "dinari-pg",
 		"sources": [
 			"coingecko"
 		]
 	},
 	{
 		"chain": 81457,
-		"address": "0x9e20461bc2c4c980f62f1B279D71734207a6A356",
-		"symbol": "OmniCat",
-		"name": "OmniCat",
-		"coingecko": "omnicat",
+		"address": "0xd951722f5309479cDe8ed719fE3e13596290A324",
+		"symbol": "Dinari YUM",
+		"name": "Dinari YUM",
+		"coingecko": "dinari-yum",
 		"sources": [
 			"coingecko"
 		]
 	},
 	{
 		"chain": 81457,
-		"address": "0xba0Dda8762C24dA9487f5FA026a9B64b695A07Ea",
-		"symbol": "OX Coin",
-		"name": "OX Coin",
-		"coingecko": "ox-fun",
+		"address": "0x51707DC661630F8FD624b985FA6eF4f1d4D919Db",
+		"symbol": "Unvest",
+		"name": "Unvest",
+		"coingecko": "unvest",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 81457,
+		"address": "0x87E154E86Fb691AB8A27116e93Ed8d54e2b8C18C",
+		"symbol": "Titan Trading Token",
+		"name": "Titan Trading Token",
+		"coingecko": "titan-trading-token",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 81457,
+		"address": "0x6Cc87c5ab2CFac0F2d582286f5BA69cA555FecB0",
+		"symbol": "AIRcoin On Blast",
+		"name": "AIRcoin On Blast",
+		"coingecko": "aircoin-on-blast",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 81457,
+		"address": "0xE0CEd15bc8Ea1335bec573819f1813FFC5e38878",
+		"symbol": "Dinari BOXX",
+		"name": "Dinari BOXX",
+		"coingecko": "dinari-boxx",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 81457,
+		"address": "0xFafDA868581cE31b7eF7fe0B146a24dbB4717A5f",
+		"symbol": "Dinari F",
+		"name": "Dinari F",
+		"coingecko": "dinari-f",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 81457,
+		"address": "0x8D7E838f2feaec8B6D7445bFa699F68fe8E97718",
+		"symbol": "Dinari SIVR",
+		"name": "Dinari SIVR",
+		"coingecko": "dinari-sivr",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 81457,
+		"address": "0x7217124C626f0b7077bE91dF939195C9a8184ecC",
+		"symbol": "Finger Blast",
+		"name": "Finger Blast",
+		"coingecko": "finger-blast",
 		"sources": [
 			"coingecko"
 		]
@@ -919,10 +1276,93 @@
 	},
 	{
 		"chain": 81457,
-		"address": "0xA5de16db7c14Cd87fb35042Ed8E7A6f4f00b7f26",
-		"symbol": "Dinari RIOT",
-		"name": "Dinari RIOT",
-		"coingecko": "dinari-riot",
+		"address": "0x9E23da6c963D9CfC929F3bDA89e9E20984c008ef",
+		"symbol": "Dinari JNJ",
+		"name": "Dinari JNJ",
+		"coingecko": "dinari-jnj",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 81457,
+		"address": "0x09Bc998f64D32B83d4a534Bb2D5a4806a04C855D",
+		"symbol": "Dinari SPWO",
+		"name": "Dinari SPWO",
+		"coingecko": "dinari-spwo",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 81457,
+		"address": "0x1EA5625399565Fa0c3c2499ebF960eB9d9224212",
+		"symbol": "Dinari V",
+		"name": "Dinari V",
+		"coingecko": "dinari-v",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 81457,
+		"address": "0xc6BBAf4D804327d84931310E49c863E63A2Bd868",
+		"symbol": "Dinari WEAT",
+		"name": "Dinari WEAT",
+		"coingecko": "dinari-weat",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 81457,
+		"address": "0x9a50953716bA58e3d6719Ea5c437452ac578705F",
+		"symbol": "MetaStreet V2 mwstETH-WPUNKS:20",
+		"name": "MetaStreet V2 mwstETH-WPUNKS:20",
+		"coingecko": "metastreet-v2-mwsteth-wpunks-20",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 81457,
+		"address": "0xB582Dc28968c725D2868130752aFa0c13EbF9b1a",
+		"symbol": "BEPE",
+		"name": "Blast Pepe",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/blast/0xB582Dc28968c725D2868130752aFa0c13EbF9b1a.jpg",
+		"coingecko": "blast-pepe",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 81457,
+		"address": "0x9306FC95b8becdC9166112Fd6cF86B39e2335f09",
+		"symbol": "DigiCask Token",
+		"name": "DigiCask Token",
+		"coingecko": "digicask-token",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 81457,
+		"address": "0xbf26ECE8626C30f6eFc6518aC93a773D24E6ff83",
+		"symbol": "Dinari FBTC",
+		"name": "Dinari FBTC",
+		"coingecko": "dinari-fbtc",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 81457,
+		"address": "0xFcBe84B53fD3eD33b5Dfa82fB005603daa5204A7",
+		"symbol": "Dinari MCD",
+		"name": "Dinari MCD",
+		"coingecko": "dinari-mcd",
 		"sources": [
 			"coingecko"
 		]
@@ -939,63 +1379,381 @@
 	},
 	{
 		"chain": 81457,
-		"address": "0x010392305558d58e1Cb0Eec5529a65bf3545f82e",
-		"symbol": "MACHI",
-		"name": "MACHI",
-		"coingecko": "machi",
+		"address": "0x56de5c6C56f92ECF2Da286Ea81a0Fb74b25f9579",
+		"symbol": "Dinari PALL",
+		"name": "Dinari PALL",
+		"coingecko": "dinari-pall",
 		"sources": [
 			"coingecko"
 		]
 	},
 	{
 		"chain": 81457,
-		"address": "0x837fE561e9C5DFa73F607fDa679295DBC2Be5E40",
-		"symbol": "MUSD",
-		"name": "Monoswap USD",
-		"decimals": 18,
-		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/blast/0x837fE561e9C5DFa73F607fDa679295DBC2Be5E40.jpg",
-		"coingecko": "monoswap-usd",
+		"address": "0x6C627B1E04edE1A6E0619727C70F69cB259d06f8",
+		"symbol": "Dinari SLX",
+		"name": "Dinari SLX",
+		"coingecko": "dinari-slx",
 		"sources": [
-			"coingecko",
+			"coingecko"
+		]
+	},
+	{
+		"chain": 81457,
+		"address": "0x5e9e14b2386A9cD3D2eD510285D3389B34D48640",
+		"symbol": "Dinari SPUS",
+		"name": "Dinari SPUS",
+		"coingecko": "dinari-spus",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 81457,
+		"address": "0x4186BFC76E2E237523CBC30FD220FE055156b41F",
+		"symbol": "KelpDAO Bridged rsETH (Blast)",
+		"name": "KelpDAO Bridged rsETH (Blast)",
+		"coingecko": "kelpdao-bridged-rseth-blast",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 81457,
+		"address": "0xa027a3A04b44f79560153234E999b17C88e22DB9",
+		"symbol": "Particle Trade",
+		"name": "Particle Trade",
+		"coingecko": "particle-trade",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 81457,
+		"address": "0xE070B87c4d88826D4cD1b85BAbE186fdB14CD321",
+		"symbol": "Cyberblast Token",
+		"name": "Cyberblast Token",
+		"coingecko": "cyberblast-token",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 81457,
+		"address": "0x6CD20f11470e9C9d1458a69c8f7B330B99577EF9",
+		"symbol": "Vertex",
+		"name": "Vertex",
+		"coingecko": "vertex-protocol",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 81457,
+		"address": "0xc7Edf7B7b3667a06992508e7B156eff794a9e1c8",
+		"symbol": "Persistence One",
+		"name": "Persistence One",
+		"coingecko": "persistence",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 81457,
+		"address": "0xD1FedD031b92f50a50c05E2C45aF1aDb4CEa82f4",
+		"symbol": "BladeSwap",
+		"name": "BladeSwap",
+		"coingecko": "bladeswap",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 81457,
+		"address": "0x47C337Bd5b9344a6F3D6f58C474D9D8cd419D8cA",
+		"symbol": "DackieSwap [OLD]",
+		"name": "DackieSwap [OLD]",
+		"coingecko": "dackieswap",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 81457,
+		"address": "0xBffaEA400b56DA7B7085a27676D4B72361217e35",
+		"symbol": "Dinari CCL",
+		"name": "Dinari CCL",
+		"coingecko": "dinari-ccl",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 81457,
+		"address": "0xA8EF52a9C4010E20f3811f0A8606C788FCcC7a2a",
+		"symbol": "Dinari CVX",
+		"name": "Dinari CVX",
+		"coingecko": "dinari-cvx",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 81457,
+		"address": "0x64931990e69B55ff7aCaF0f20416D29B20855bE6",
+		"symbol": "Dinari DEFI",
+		"name": "Dinari DEFI",
+		"coingecko": "dinari-defi",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 81457,
+		"address": "0x491e6DE43b55c8EAE702EDC263E32339da42f58c",
+		"symbol": "Eesee",
+		"name": "Eesee",
+		"coingecko": "eesee",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 81457,
+		"address": "0x233b23DE890A8c21F6198D03425a2b986AE05536",
+		"symbol": "Core Markets",
+		"name": "Core Markets",
+		"coingecko": "core-markets",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 81457,
+		"address": "0xB85415A2e44d2911B265e578f9468fC300e78E49",
+		"symbol": "Dinari MSTR",
+		"name": "Dinari MSTR",
+		"coingecko": "dinari-mstr",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 81457,
+		"address": "0x93A9F06576CFE91e8C408467CD684Df42CA23c23",
+		"symbol": "Dinari PHO",
+		"name": "Dinari PHO",
+		"coingecko": "dinari-pho",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 81457,
+		"address": "0x0B96517fB729C6F6C00Ab15ABb3d72aE708d5960",
+		"symbol": "Dinari TQQQ",
+		"name": "Dinari TQQQ",
+		"coingecko": "dinari-tqqq",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 81457,
+		"address": "0x7135B32e9903BdB4e19a8b1D22fC2038964B8451",
+		"symbol": "EarlyFans",
+		"name": "EarlyFans",
+		"coingecko": "early",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 81457,
+		"address": "0x71CA0E46434b4dfbd7065aFE508C9A107eB3a522",
+		"symbol": "ZKDX",
+		"name": "ZKDX",
+		"coingecko": "zkdx",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 81457,
+		"address": "0x52f847356b38720B55ee18Cb3e094ca11C85A192",
+		"symbol": "Fenix",
+		"name": "Fenix",
+		"coingecko": "fenix",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 81457,
+		"address": "0x15d24de366F69b835Be19f7Cf9447e770315DD80",
+		"symbol": "KAP Games",
+		"name": "KAP Games",
+		"coingecko": "kapital-dao",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 81457,
+		"address": "0xA9053e91A9EA714023de577929C3E119264D80D6",
+		"symbol": "Dinari BITB",
+		"name": "Dinari BITB",
+		"coingecko": "dinari-bitb",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 81457,
+		"address": "0xfDC1901E40C708e72661af607a8A027740a08676",
+		"symbol": "Dinari COST",
+		"name": "Dinari COST",
+		"coingecko": "dinari-cost",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 81457,
+		"address": "0x688a880AE19E766C6Ad4b749a315Ec25034a0645",
+		"symbol": "Dinari ERO",
+		"name": "Dinari ERO",
+		"coingecko": "dinari-ero",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 81457,
+		"address": "0x74798fd1a87E07c7b8bf89FaFc922E4BF10c35a9",
+		"symbol": "Dinari NLY",
+		"name": "Dinari NLY",
+		"coingecko": "dinari-nly",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 81457,
+		"address": "0xDd31c8B5C899c0f85FB4738accAc44180e4D7390",
+		"symbol": "Dinari SOXL",
+		"name": "Dinari SOXL",
+		"coingecko": "dinari-soxl",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 81457,
+		"address": "0x8F6a976b6C7fe18e31870EadfaE09B3Cb447541A",
+		"symbol": "Dinari UFO",
+		"name": "Dinari UFO",
+		"coingecko": "dinari-ufo",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 81457,
+		"address": "0x28215D9e6444116E194405E93CcF68afDE544D5C",
+		"symbol": "Dinari IBIT",
+		"name": "Dinari IBIT",
+		"coingecko": "dinari-ibit",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 81457,
+		"address": "0x179004Cb725a4D94BfCdFfa5eeCE3B9df0eFFFe6",
+		"symbol": "Dinari MARA",
+		"name": "Dinari MARA",
+		"coingecko": "dinari-mara",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 81457,
+		"address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
+		"symbol": "axlUSDC",
+		"name": "Axelar Wrapped USDC",
+		"decimals": 6,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/blast/0xEB466342C4d449BC9f53A865D5Cb90586f405215.jpg",
+		"sources": [
 			"sushiswap"
 		]
 	},
 	{
 		"chain": 81457,
-		"address": "0x6Cc87c5ab2CFac0F2d582286f5BA69cA555FecB0",
-		"symbol": "AIRcoin On Blast",
-		"name": "AIRcoin On Blast",
-		"coingecko": "aircoin-on-blast",
+		"address": "0xb9dfCd4CF589bB8090569cb52FaC1b88Dbe4981F",
+		"symbol": "Bag",
+		"name": "Bag",
+		"coingecko": "bag",
 		"sources": [
 			"coingecko"
 		]
 	},
 	{
 		"chain": 81457,
-		"address": "0x129ed667bf8C065fE5f66c9b44B7cB0126D85cC3",
-		"symbol": "AI Waifu",
-		"name": "AI Waifu",
-		"coingecko": "ai-waifu-2",
+		"address": "0x87084c981709878e3C806aD45fb01e3522E08123",
+		"symbol": "Dinari ARKK",
+		"name": "Dinari ARKK",
+		"coingecko": "dinari-arkk",
 		"sources": [
 			"coingecko"
 		]
 	},
 	{
 		"chain": 81457,
-		"address": "0x73d23F3778a90Be8846E172354A115543dF2a7E4",
-		"symbol": "Anzen Staked USDz",
-		"name": "Anzen Staked USDz",
-		"coingecko": "anzen-staked-usdz",
+		"address": "0x399351786aFd19Dc7524B6Af87aAD8339f641494",
+		"symbol": "Dinari DAL",
+		"name": "Dinari DAL",
+		"coingecko": "dinari-dal",
 		"sources": [
 			"coingecko"
 		]
 	},
 	{
 		"chain": 81457,
-		"address": "0xe2a8B9D1A129df339118c5b10EEeFE4dAB9334E1",
-		"symbol": "Dinari GME",
-		"name": "Dinari GME",
-		"coingecko": "dinari-gme",
+		"address": "0x098dBFd917F59495FDFc30628c0a5dAD4Bda2b1e",
+		"symbol": "Dinari ETHE",
+		"name": "Dinari ETHE",
+		"coingecko": "dinari-ethe",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 81457,
+		"address": "0x9558e1217E0cB47Ade9B5F63Cc5ACA8D47691Ab7",
+		"symbol": "Dinari GBTC",
+		"name": "Dinari GBTC",
+		"coingecko": "dinari-gbtc",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 81457,
+		"address": "0x0E576B0C554FbAef9893A2Cd7B866Af516Bab581",
+		"symbol": "Dinari SPSK",
+		"name": "Dinari SPSK",
+		"coingecko": "dinari-spsk",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 81457,
+		"address": "0x42e4981De9bC8FD4726775f62066CAbbE78DEAB8",
+		"symbol": "Dinari WOOD",
+		"name": "Dinari WOOD",
+		"coingecko": "dinari-wood",
 		"sources": [
 			"coingecko"
 		]

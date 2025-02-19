@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0xFFFF003a6BAD9b743d658048742935fFFE2b6ED7",
+	"symbol": "Ket",
+	"name": "Ket",
+	"coingecko": "ket",
+	"sources": [
+		"coingecko"
+	]
+}

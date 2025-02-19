@@ -1,0 +1,13 @@
+{
+	"chain": 56,
+	"address": "0xf2c88757f8d03634671208935974B60a2a28Bdb3",
+	"symbol": "SHELL",
+	"name": "MyShell Token",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0xf2c88757f8d03634671208935974B60a2a28Bdb3.png",
+	"coingecko": "myshell",
+	"sources": [
+		"coingecko",
+		"pancakeswap"
+	]
+}

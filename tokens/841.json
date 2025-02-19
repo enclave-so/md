@@ -1,0 +1,32 @@
+[
+	{
+		"chain": 841,
+		"address": "0xE6A69cD4FF127ad8E53C21a593F7BaC4c608945e",
+		"symbol": "Lara",
+		"name": "Lara",
+		"coingecko": "lara",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 841,
+		"address": "0x69D411CbF6dBaD54Bfe36f81d0a39922625bC78c",
+		"symbol": "Taraxa Bridged USDT (Taraxa)",
+		"name": "Taraxa Bridged USDT (Taraxa)",
+		"coingecko": "taraxa-bridged-usdt-taraxa",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 841,
+		"address": "0x5d0Fa4C5668E5809c83c95A7CeF3a9dd7C68d4fE",
+		"symbol": "Wrapped Tara",
+		"name": "Wrapped Tara",
+		"coingecko": "wrapped-tara",
+		"sources": [
+			"coingecko"
+		]
+	}
+]

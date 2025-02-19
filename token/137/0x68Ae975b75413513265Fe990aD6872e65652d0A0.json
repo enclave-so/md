@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x68Ae975b75413513265Fe990aD6872e65652d0A0",
+	"symbol": "Apexrom",
+	"name": "Apexrom",
+	"coingecko": "apexrom",
+	"sources": [
+		"coingecko"
+	]
+}

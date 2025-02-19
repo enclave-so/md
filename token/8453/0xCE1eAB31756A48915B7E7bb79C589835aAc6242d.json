@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xCE1eAB31756A48915B7E7bb79C589835aAc6242d",
+	"symbol": "Gigabrain by virtuals",
+	"name": "Gigabrain by virtuals",
+	"coingecko": "gigabrain-by-virtuals",
+	"sources": [
+		"coingecko"
+	]
+}

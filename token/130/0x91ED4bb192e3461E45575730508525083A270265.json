@@ -1,0 +1,11 @@
+{
+	"chain": 130,
+	"address": "0x91ED4bb192e3461E45575730508525083A270265",
+	"symbol": "DDX",
+	"name": "DerivaDAO",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/13453/thumb/ddx_logo.png?1608741641",
+	"sources": [
+		"uniswap"
+	]
+}

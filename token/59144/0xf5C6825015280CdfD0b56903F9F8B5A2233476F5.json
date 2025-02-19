@@ -1,9 +1,9 @@
 {
 	"chain": 59144,
 	"address": "0xf5C6825015280CdfD0b56903F9F8B5A2233476F5",
-	"symbol": "Wrapped BNB",
-	"name": "Wrapped BNB",
-	"coingecko": "wbnb",
+	"symbol": "Celer Bridged WBNB (Linea)",
+	"name": "Celer Bridged WBNB (Linea)",
+	"coingecko": "celer-bridged-wbnb-linea",
 	"sources": [
 		"coingecko"
 	]

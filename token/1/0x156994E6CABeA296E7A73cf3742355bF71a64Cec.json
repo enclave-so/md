@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x156994E6CABeA296E7A73cf3742355bF71a64Cec",
+	"symbol": "RANDOM9",
+	"name": "Elons Gamertag",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/53643/thumb/photo_2025-01-04_08-43-08_%282%29.jpg?1736962840",
+	"coingecko": "elons-gamertag",
+	"sources": [
+		"coingecko"
+	]
+}

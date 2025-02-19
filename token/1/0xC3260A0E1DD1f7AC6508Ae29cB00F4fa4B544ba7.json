@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0xC3260A0E1DD1f7AC6508Ae29cB00F4fa4B544ba7",
+	"symbol": "RKLBD",
+	"name": "Dinari RKLB",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/54280/thumb/d-token-200.png?1738998854",
+	"coingecko": "dinari-rklb",
+	"sources": [
+		"coingecko"
+	]
+}

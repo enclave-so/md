@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x7475fa4C36344F1D633964F02564f37162299194",
+	"symbol": "Shibussy",
+	"name": "Shibussy",
+	"coingecko": "shibussy",
+	"sources": [
+		"coingecko"
+	]
+}

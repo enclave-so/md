@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0xadd39272E83895E7d3f244f696B7a25635F34234",
+	"symbol": "PEPU",
+	"name": "Pepe Unchained",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/52681/thumb/wn6wNj1C_400x400.jpg?1734021973",
+	"coingecko": "pepe-unchained",
+	"sources": [
+		"coingecko"
+	]
+}

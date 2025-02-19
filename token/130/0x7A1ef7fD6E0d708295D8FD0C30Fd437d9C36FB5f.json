@@ -1,0 +1,11 @@
+{
+	"chain": 130,
+	"address": "0x7A1ef7fD6E0d708295D8FD0C30Fd437d9C36FB5f",
+	"symbol": "EURR",
+	"name": "StablR Euro",
+	"decimals": 6,
+	"logo": "https://coin-images.coingecko.com/coins/images/53720/large/stablreuro-logo.png?1737125898",
+	"sources": [
+		"uniswap"
+	]
+}

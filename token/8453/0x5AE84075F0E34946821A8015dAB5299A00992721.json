@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x5AE84075F0E34946821A8015dAB5299A00992721",
+	"symbol": "Wrapped Cygnus USD",
+	"name": "Wrapped Cygnus USD",
+	"coingecko": "wrapped-cygnus-usd",
+	"sources": [
+		"coingecko"
+	]
+}

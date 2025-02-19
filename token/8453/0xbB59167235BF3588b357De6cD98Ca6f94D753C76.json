@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xbB59167235BF3588b357De6cD98Ca6f94D753C76",
+	"symbol": "MetaInside by Virtuals",
+	"name": "MetaInside by Virtuals",
+	"coingecko": "metainside-by-virtuals",
+	"sources": [
+		"coingecko"
+	]
+}

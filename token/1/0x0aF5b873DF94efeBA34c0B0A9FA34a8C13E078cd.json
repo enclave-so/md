@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x0aF5b873DF94efeBA34c0B0A9FA34a8C13E078cd",
+	"symbol": "YUMD",
+	"name": "Dinari YUM",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/54188/thumb/d-token-200.png?1738682602",
+	"coingecko": "dinari-yum",
+	"sources": [
+		"coingecko"
+	]
+}

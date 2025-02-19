@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xC890EB927871660C7259F0DCAaF3d8a7CE5fA8C1",
+	"symbol": "GMBase",
+	"name": "GMBase",
+	"coingecko": "gmbase",
+	"sources": [
+		"coingecko"
+	]
+}

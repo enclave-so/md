@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x47000BD34D9a7b7CdBEeF4Ec2aE452e73280A8b5",
+	"symbol": "SHRUBIUS",
+	"name": "Shrubius Maximus",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/53283/thumb/Shrubius_Maximus.jpg?1735994317",
+	"coingecko": "shrubius-maximus",
+	"sources": [
+		"coingecko"
+	]
+}

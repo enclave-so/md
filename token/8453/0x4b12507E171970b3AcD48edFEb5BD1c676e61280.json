@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x4b12507E171970b3AcD48edFEb5BD1c676e61280",
+	"symbol": "ivault",
+	"name": "ivault",
+	"coingecko": "ivault",
+	"sources": [
+		"coingecko"
+	]
+}

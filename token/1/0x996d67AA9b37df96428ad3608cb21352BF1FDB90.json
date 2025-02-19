@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0x996d67AA9b37df96428ad3608cb21352BF1FDB90",
+	"symbol": "stZENT",
+	"name": "Staked Zentry",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/stZENT/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

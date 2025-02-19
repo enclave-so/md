@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x2bD236Ad144753bD5839D82c46eE2C2225B9E0C0",
+	"symbol": "Tusima Network",
+	"name": "Tusima Network",
+	"coingecko": "tusima-network",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"chain": 130,
+	"address": "0x0328A0255866706547B79072DEE54976b157d3D0",
+	"symbol": "GFI",
+	"name": "Goldfinch",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/19081/thumb/GOLDFINCH.png?1634369662",
+	"sources": [
+		"uniswap"
+	]
+}

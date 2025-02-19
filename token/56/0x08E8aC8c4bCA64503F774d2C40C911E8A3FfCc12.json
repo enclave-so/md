@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x08E8aC8c4bCA64503F774d2C40C911E8A3FfCc12",
+	"symbol": "TCC",
+	"name": "TCC",
+	"coingecko": "tcc",
+	"sources": [
+		"coingecko"
+	]
+}

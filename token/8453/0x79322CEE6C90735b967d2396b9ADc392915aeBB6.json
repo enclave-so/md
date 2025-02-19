@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x79322CEE6C90735b967d2396b9ADc392915aeBB6",
+	"symbol": "Permission Coin",
+	"name": "Permission Coin",
+	"coingecko": "permission-coin",
+	"sources": [
+		"coingecko"
+	]
+}

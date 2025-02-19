@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x6e4cc0Ab2B4d2eDAfa6723cFA1582229F1Dd1Be1",
+	"symbol": "ZUSD",
+	"name": "ZUSD",
+	"coingecko": "zusd",
+	"sources": [
+		"coingecko"
+	]
+}

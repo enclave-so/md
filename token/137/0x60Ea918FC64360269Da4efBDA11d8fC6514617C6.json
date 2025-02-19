@@ -1,0 +1,13 @@
+{
+	"chain": 137,
+	"address": "0x60Ea918FC64360269Da4efBDA11d8fC6514617C6",
+	"symbol": "SUKU",
+	"name": "SUKU",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/11969/thumb/UmfW5S6f_400x400.jpg?1596602238",
+	"coingecko": "suku",
+	"sources": [
+		"coingecko",
+		"uniswap"
+	]
+}

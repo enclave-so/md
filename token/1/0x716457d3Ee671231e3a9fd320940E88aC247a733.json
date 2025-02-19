@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x716457d3Ee671231e3a9fd320940E88aC247a733",
+	"symbol": "MAAI",
+	"name": "Mars AI",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/53343/thumb/Mars_ai_new_logo_200x200.png?1736155705",
+	"coingecko": "mars-ai",
+	"sources": [
+		"coingecko"
+	]
+}

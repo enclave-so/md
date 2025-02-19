@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x9E6dbDE4211e6853B33B8bCd5Ce82144997C63BA",
+	"symbol": "SQD",
+	"name": "Dinari SQ",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/54229/thumb/d-token-200.png?1738861102",
+	"coingecko": "dinari-sq",
+	"sources": [
+		"coingecko"
+	]
+}

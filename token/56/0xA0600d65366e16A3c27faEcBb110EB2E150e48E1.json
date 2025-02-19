@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xA0600d65366e16A3c27faEcBb110EB2E150e48E1",
+	"symbol": "Industry Sonic",
+	"name": "Industry Sonic",
+	"coingecko": "industry-sonic",
+	"sources": [
+		"coingecko"
+	]
+}

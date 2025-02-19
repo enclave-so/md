@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0x59E69094398AfbEA632F8Bd63033BdD2443a3Be1",
-	"symbol": "Wise Monkey",
+	"symbol": "MONKY",
 	"name": "Wise Monkey",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x59E69094398AfbEA632F8Bd63033BdD2443a3Be1.png",
 	"coingecko": "wise-monkey",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

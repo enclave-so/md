@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x4CFe63294dac27cE941d42A778A37F2b35fea21b",
+	"symbol": "Ethernus",
+	"name": "Ethernus",
+	"coingecko": "ethernus",
+	"sources": [
+		"coingecko"
+	]
+}

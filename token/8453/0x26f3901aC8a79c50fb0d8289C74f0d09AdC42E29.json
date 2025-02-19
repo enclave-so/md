@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x26f3901aC8a79c50fb0d8289C74f0d09AdC42E29",
+	"symbol": "Threshold Network",
+	"name": "Threshold Network",
+	"coingecko": "threshold-network-token",
+	"sources": [
+		"coingecko"
+	]
+}

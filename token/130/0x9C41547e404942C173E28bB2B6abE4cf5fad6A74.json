@@ -1,0 +1,11 @@
+{
+	"chain": 130,
+	"address": "0x9C41547e404942C173E28bB2B6abE4cf5fad6A74",
+	"symbol": "KP3R",
+	"name": "Keep3rV1",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/12966/thumb/kp3r_logo.jpg?1607057458",
+	"sources": [
+		"uniswap"
+	]
+}

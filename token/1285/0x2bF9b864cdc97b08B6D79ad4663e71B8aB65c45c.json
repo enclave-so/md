@@ -1,9 +1,9 @@
 {
 	"chain": 1285,
 	"address": "0x2bF9b864cdc97b08B6D79ad4663e71B8aB65c45c",
-	"symbol": "Wrapped BNB",
-	"name": "Wrapped BNB",
-	"coingecko": "wbnb",
+	"symbol": "Multichain Bridged WBNB (Moonriver)",
+	"name": "Multichain Bridged WBNB (Moonriver)",
+	"coingecko": "multichain-bridged-wbnb-moonriver",
 	"sources": [
 		"coingecko"
 	]

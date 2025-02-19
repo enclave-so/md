@@ -1,8 +1,8 @@
 {
 	"chain": 8453,
 	"address": "0x08c81699F9a357a9F0d04A09b353576ca328d60D",
-	"symbol": "nftxbt by Virtuals",
-	"name": "nftxbt by Virtuals",
+	"symbol": "nftxbt",
+	"name": "nftxbt",
 	"coingecko": "nftxbt-by-virtuals",
 	"sources": [
 		"coingecko"

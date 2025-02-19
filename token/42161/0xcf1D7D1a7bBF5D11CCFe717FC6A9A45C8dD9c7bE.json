@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0xcf1D7D1a7bBF5D11CCFe717FC6A9A45C8dD9c7bE",
+	"symbol": "Interlock",
+	"name": "Interlock",
+	"coingecko": "interlock",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x1194e99F23c8B99CB55a328160Aeb0bb010Bf0c3",
+	"symbol": "UFOD",
+	"name": "Dinari UFO",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/54395/thumb/d-token-200.png?1739485800",
+	"coingecko": "dinari-ufo",
+	"sources": [
+		"coingecko"
+	]
+}

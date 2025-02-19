@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xef0fd52e65DdcDc201E2055a94D2aBff6fF10a7a",
+	"symbol": "WANDER",
+	"name": "WANDER",
+	"coingecko": "wander",
+	"sources": [
+		"coingecko"
+	]
+}

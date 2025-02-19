@@ -1,0 +1,11 @@
+{
+	"chain": 130,
+	"address": "0x04b747f478AE09AC797d026C8402f409E2C9f2b9",
+	"symbol": "GLM",
+	"name": "Golem",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/542/thumb/Golem_Submark_Positive_RGB.png?1606392013",
+	"sources": [
+		"uniswap"
+	]
+}

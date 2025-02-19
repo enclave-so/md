@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xFA3946432C6A76eDFF377D9bbFB81ca3FfC05874",
+	"symbol": "Hunter by Virtuals",
+	"name": "Hunter by Virtuals",
+	"coingecko": "hunter-by-virtuals",
+	"sources": [
+		"coingecko"
+	]
+}

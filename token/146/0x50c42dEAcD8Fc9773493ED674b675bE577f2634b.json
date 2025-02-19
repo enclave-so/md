@@ -1,0 +1,10 @@
+{
+	"chain": 146,
+	"address": "0x50c42dEAcD8Fc9773493ED674b675bE577f2634b",
+	"symbol": "Bridged Wrapped Ether (Sonic)",
+	"name": "Bridged Wrapped Ether (Sonic)",
+	"coingecko": "bridged-wrapped-ether-sonic",
+	"sources": [
+		"coingecko"
+	]
+}

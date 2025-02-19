@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x1cBB39Da9e815483eD44Ec918d6f8dFb828F3A06",
+	"symbol": "Tiny Panda",
+	"name": "Tiny Panda",
+	"coingecko": "tiny-panda",
+	"sources": [
+		"coingecko"
+	]
+}

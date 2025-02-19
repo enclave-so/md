@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x54ea4f36dFf50A75658087A141464d2c44b8837f",
+	"symbol": "Corgi Inu",
+	"name": "Corgi Inu",
+	"coingecko": "corgi-inu-2",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"chain": 130,
+	"address": "0x397E34AFF8bFc8Ec14aa78F378074F6d8E3E7d06",
+	"symbol": "MEME",
+	"name": "Memecoin",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/32528/large/memecoin_(2).png",
+	"sources": [
+		"uniswap"
+	]
+}

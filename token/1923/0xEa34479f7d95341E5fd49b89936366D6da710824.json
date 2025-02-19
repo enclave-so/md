@@ -1,0 +1,10 @@
+{
+	"chain": 1923,
+	"address": "0xEa34479f7d95341E5fd49b89936366D6da710824",
+	"symbol": "Neptune Finance",
+	"name": "Neptune Finance",
+	"coingecko": "neptune-finance",
+	"sources": [
+		"coingecko"
+	]
+}

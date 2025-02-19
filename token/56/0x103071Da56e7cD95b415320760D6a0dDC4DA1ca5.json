@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x103071Da56e7cD95b415320760D6a0dDC4DA1ca5",
+	"symbol": "Xterio",
+	"name": "Xterio",
+	"coingecko": "xterio",
+	"sources": [
+		"coingecko"
+	]
+}

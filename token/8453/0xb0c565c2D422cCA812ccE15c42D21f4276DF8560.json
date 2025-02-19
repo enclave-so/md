@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xb0c565c2D422cCA812ccE15c42D21f4276DF8560",
+	"symbol": "Mind AI",
+	"name": "Mind AI",
+	"coingecko": "mind-ai",
+	"sources": [
+		"coingecko"
+	]
+}

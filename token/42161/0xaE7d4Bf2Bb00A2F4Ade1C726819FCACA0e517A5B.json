@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0xaE7d4Bf2Bb00A2F4Ade1C726819FCACA0e517A5B",
+	"symbol": "Fluid",
+	"name": "Fluid",
+	"coingecko": "instadapp",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 146,
+	"address": "0x6881B80ea7C858E4aEEf63893e18a8A36f3682f3",
+	"symbol": "Navigator Exchange",
+	"name": "Navigator Exchange",
+	"coingecko": "mummy-finance",
+	"sources": [
+		"coingecko"
+	]
+}

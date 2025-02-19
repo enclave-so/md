@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x1718C0b55A07F61dB44F0aC7404DC574B5abfef2",
+	"symbol": "DexCheck AI",
+	"name": "DexCheck AI",
+	"coingecko": "dexcheck",
+	"sources": [
+		"coingecko"
+	]
+}

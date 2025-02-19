@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0xF453579d18a6F8CA07db9250e0E0100EB8CCb206",
+	"symbol": "CIPHER",
+	"name": "Cipher Protocol",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/53454/thumb/Cipher_Protocol.jpg?1736403313",
+	"coingecko": "cipher-protocol",
+	"sources": [
+		"coingecko"
+	]
+}

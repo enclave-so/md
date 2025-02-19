@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0xe684F692bdf5B3B0DB7E8e31a276DE8A2E9F0025",
+	"symbol": "Restaked BTC.b",
+	"name": "Restaked BTC.b",
+	"coingecko": "restaked-btc-b",
+	"sources": [
+		"coingecko"
+	]
+}

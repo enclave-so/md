@@ -1,0 +1,11 @@
+{
+	"chain": 137,
+	"address": "0x5b77bCA482bd3E7958b1103d123888EfCCDaF803",
+	"symbol": "TRU",
+	"name": "TrueFi",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/13180/thumb/truefi_glyph_color.png?1617610941",
+	"sources": [
+		"uniswap"
+	]
+}

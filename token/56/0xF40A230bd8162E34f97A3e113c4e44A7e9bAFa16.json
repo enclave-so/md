@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xF40A230bd8162E34f97A3e113c4e44A7e9bAFa16",
+	"symbol": "CryptoHog",
+	"name": "CryptoHog",
+	"coingecko": "cryptohog",
+	"sources": [
+		"coingecko"
+	]
+}

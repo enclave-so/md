@@ -2,10 +2,11 @@
 	"chain": 137,
 	"address": "0xA041544fe2BE56CCe31Ebb69102B965E06aacE80",
 	"symbol": "BOND",
-	"name": "BarnBridge Governance Token",
+	"name": "BarnBridge",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xA041544fe2BE56CCe31Ebb69102B965E06aacE80/logo.png",
+	"logo": "https://assets.coingecko.com/coins/images/12811/thumb/barnbridge.jpg?1602728853",
 	"sources": [
-		"sushiswap"
+		"sushiswap",
+		"uniswap"
 	]
 }

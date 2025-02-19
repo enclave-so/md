@@ -1,16 +1,6 @@
 [
 	{
 		"chain": 200901,
-		"address": "0x2729868df87d062020e4a4867fF507Fb52ee697C",
-		"symbol": "Cat Driving Bitcoin",
-		"name": "Cat Driving Bitcoin",
-		"coingecko": "cat-driving-bitcoin",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 200901,
 		"address": "0xD68458f51cE9fEb238cdcf4CbcDdF010EEad01b4",
 		"symbol": "Pika Protocol",
 		"name": "Pika Protocol",
@@ -35,6 +25,26 @@
 		"symbol": "XLink Bridged BTC",
 		"name": "XLink Bridged BTC",
 		"coingecko": "xlink-bridged-btc-stacks",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 200901,
+		"address": "0x3228995749610Bea00b59C44F8d1df21C14027F1",
+		"symbol": "Avalon",
+		"name": "Avalon",
+		"coingecko": "avalon-2",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 200901,
+		"address": "0x2729868df87d062020e4a4867fF507Fb52ee697C",
+		"symbol": "Cat Driving Bitcoin",
+		"name": "Cat Driving Bitcoin",
+		"coingecko": "cat-driving-bitcoin",
 		"sources": [
 			"coingecko"
 		]

@@ -1,10 +1,13 @@
 {
 	"chain": 8453,
 	"address": "0xDBFeFD2e8460a6Ee4955A68582F85708BAEA60A3",
-	"symbol": "Super OETH",
+	"symbol": "superOETHb",
 	"name": "Super OETH",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/superOETH/logo.svg",
 	"coingecko": "super-oeth",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

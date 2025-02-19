@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0x1B1FF83AE0751ffb7ce0224e9C330e859E95dD16",
+	"symbol": "LEGEND",
+	"name": "Legend",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/53648/thumb/O4mqYoXG_400x400.jpg?1736983095",
+	"coingecko": "legend-2",
+	"sources": [
+		"coingecko",
+		"optimism"
+	]
+}

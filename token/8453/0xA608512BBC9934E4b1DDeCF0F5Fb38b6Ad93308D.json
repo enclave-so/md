@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xA608512BBC9934E4b1DDeCF0F5Fb38b6Ad93308D",
+	"symbol": "Gud Tech",
+	"name": "Gud Tech",
+	"coingecko": "gud-tech",
+	"sources": [
+		"coingecko"
+	]
+}

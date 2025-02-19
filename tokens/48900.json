@@ -1,6 +1,16 @@
 [
 	{
 		"chain": 48900,
+		"address": "0xA608512BBC9934E4b1DDeCF0F5Fb38b6Ad93308D",
+		"symbol": "Gud Tech",
+		"name": "Gud Tech",
+		"coingecko": "gud-tech",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 48900,
 		"address": "0x80137510979822322193FC997d400D5A6C747bf7",
 		"symbol": "StakeStone ETH",
 		"name": "StakeStone ETH",

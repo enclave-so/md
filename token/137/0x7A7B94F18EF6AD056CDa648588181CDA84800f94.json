@@ -1,0 +1,11 @@
+{
+	"chain": 137,
+	"address": "0x7A7B94F18EF6AD056CDa648588181CDA84800f94",
+	"symbol": "FIS",
+	"name": "Stafi",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/12423/thumb/stafi_logo.jpg?1599730991",
+	"sources": [
+		"uniswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x32B407ee915432Be6D3F168bc1EfF2a6F8b2034C",
+	"symbol": "HODL",
+	"name": "HODL",
+	"coingecko": "hodl-2",
+	"sources": [
+		"coingecko"
+	]
+}

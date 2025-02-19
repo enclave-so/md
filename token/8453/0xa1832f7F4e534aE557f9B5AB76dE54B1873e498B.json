@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xa1832f7F4e534aE557f9B5AB76dE54B1873e498B",
+	"symbol": "CreatorBid",
+	"name": "CreatorBid",
+	"coingecko": "creatorbid",
+	"sources": [
+		"coingecko"
+	]
+}

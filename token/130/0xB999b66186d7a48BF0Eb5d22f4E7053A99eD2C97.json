@@ -1,0 +1,11 @@
+{
+	"chain": 130,
+	"address": "0xB999b66186d7a48BF0Eb5d22f4E7053A99eD2C97",
+	"symbol": "MATH",
+	"name": "MATH",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/11335/thumb/2020-05-19-token-200.png?1589940590",
+	"sources": [
+		"uniswap"
+	]
+}

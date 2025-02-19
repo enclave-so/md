@@ -1,6 +1,16 @@
 [
 	{
 		"chain": 5165,
+		"address": "0x4237e0A5b55233D5B6D6d1D9BF421723954130D8",
+		"symbol": "Symbiosis Bridged USDC (Bahamut)",
+		"name": "Symbiosis Bridged USDC (Bahamut)",
+		"coingecko": "symbiosis-bridged-usdc-bahamut",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 5165,
 		"address": "0xDeF886C55a79830C47108eeb9c37e78a49684e41",
 		"symbol": "Symbiosis Bridged USDT (Bahamut)",
 		"name": "Symbiosis Bridged USDT (Bahamut)",
@@ -15,16 +25,6 @@
 		"symbol": "Wrapped FTN",
 		"name": "Wrapped FTN",
 		"coingecko": "wrapped-ftn",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 5165,
-		"address": "0x4237e0A5b55233D5B6D6d1D9BF421723954130D8",
-		"symbol": "Symbiosis Bridged USDC (Bahamut)",
-		"name": "Symbiosis Bridged USDC (Bahamut)",
-		"coingecko": "symbiosis-bridged-usdc-bahamut",
 		"sources": [
 			"coingecko"
 		]

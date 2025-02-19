@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x4DfD742c6E5e28F11Bcbcf6c5e51A965d15ea315",
+	"symbol": "AMINO",
+	"name": "Amino",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/53626/thumb/amino.jpg?1736908953",
+	"coingecko": "amino-2",
+	"sources": [
+		"coingecko"
+	]
+}

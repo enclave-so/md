@@ -1,6 +1,16 @@
 [
 	{
 		"chain": 185,
+		"address": "0x4200000000000000000000000000000000000006",
+		"symbol": "Mintchain Bridged WETH (Mint)",
+		"name": "Mintchain Bridged WETH (Mint)",
+		"coingecko": "mintchain-bridged-weth-mint",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 185,
 		"address": "0x9f7bd1Ce3412960524e86183B8F005271C09a5E0",
 		"symbol": "MintSwapToken",
 		"name": "MintSwapToken",
@@ -11,10 +21,10 @@
 	},
 	{
 		"chain": 185,
-		"address": "0x4200000000000000000000000000000000000006",
-		"symbol": "Mintchain Bridged WETH (Mint)",
-		"name": "Mintchain Bridged WETH (Mint)",
-		"coingecko": "mintchain-bridged-weth-mint",
+		"address": "0xA356c6c6Dc0fEC7EB14778269Fa4fc38A4FB3D1f",
+		"symbol": "Smart Layer Network",
+		"name": "Smart Layer Network",
+		"coingecko": "smart-layer-network",
 		"sources": [
 			"coingecko"
 		]

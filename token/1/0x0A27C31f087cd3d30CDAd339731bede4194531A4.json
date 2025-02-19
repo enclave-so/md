@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x0A27C31f087cd3d30CDAd339731bede4194531A4",
+	"symbol": "CSCOD",
+	"name": "Dinari CSCO",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/54277/thumb/d-token-200.png?1738998301",
+	"coingecko": "dinari-csco",
+	"sources": [
+		"coingecko"
+	]
+}

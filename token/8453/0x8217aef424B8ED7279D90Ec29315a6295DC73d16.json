@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x8217aef424B8ED7279D90Ec29315a6295DC73d16",
+	"symbol": "Airtok",
+	"name": "Airtok",
+	"coingecko": "airtok-2",
+	"sources": [
+		"coingecko"
+	]
+}

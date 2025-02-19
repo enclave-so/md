@@ -1,0 +1,22 @@
+[
+	{
+		"chain": 88811,
+		"address": "0xb303d80db8415FD1d3C9FED68A52EEAc9a052671",
+		"symbol": "Units Network Bridged USDT (Units Network)",
+		"name": "Units Network Bridged USDT (Units Network)",
+		"coingecko": "units-network-bridged-usdt-units-network",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 88811,
+		"address": "0xCF43F7703d9B4E8835f977eF364B4014fA7e856E",
+		"symbol": "Wrapped Unit0",
+		"name": "Wrapped Unit0",
+		"coingecko": "wrapped-unit0",
+		"sources": [
+			"coingecko"
+		]
+	}
+]

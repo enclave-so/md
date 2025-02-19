@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x5043F271095350c5ac7db2384A0d9337E27c1055",
+	"symbol": "Perry",
+	"name": "Perry",
+	"coingecko": "perry",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 42220,
+	"address": "0x8A567e2aE79CA692Bd748aB832081C45de4041eA",
+	"symbol": "cCOP",
+	"name": "cCOP",
+	"coingecko": "ccop",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x14daF26C2507ACDD3B64E3302d8554611026CC40",
+	"symbol": "Cool Mustache",
+	"name": "Cool Mustache",
+	"coingecko": "cool-mustache",
+	"sources": [
+		"coingecko"
+	]
+}

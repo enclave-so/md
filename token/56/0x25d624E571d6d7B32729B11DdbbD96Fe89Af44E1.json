@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x25d624E571d6d7B32729B11DdbbD96Fe89Af44E1",
+	"symbol": "WibeGram",
+	"name": "WibeGram",
+	"coingecko": "wibegram",
+	"sources": [
+		"coingecko"
+	]
+}

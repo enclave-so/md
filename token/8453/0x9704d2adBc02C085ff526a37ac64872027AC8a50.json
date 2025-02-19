@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x9704d2adBc02C085ff526a37ac64872027AC8a50",
+	"symbol": "Bsop",
+	"name": "Bsop",
+	"coingecko": "bsop",
+	"sources": [
+		"coingecko"
+	]
+}

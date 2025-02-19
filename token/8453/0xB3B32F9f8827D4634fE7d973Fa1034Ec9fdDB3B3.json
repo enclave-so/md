@@ -1,0 +1,13 @@
+{
+	"chain": 8453,
+	"address": "0xB3B32F9f8827D4634fE7d973Fa1034Ec9fdDB3B3",
+	"symbol": "B3",
+	"name": "B3",
+	"decimals": 18,
+	"logo": "https://coin-images.coingecko.com/coins/images/54287/large/B3.png?1739001374",
+	"coingecko": "b3",
+	"sources": [
+		"coingecko",
+		"uniswap"
+	]
+}

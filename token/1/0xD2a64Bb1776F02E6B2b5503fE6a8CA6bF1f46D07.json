@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0xD2a64Bb1776F02E6B2b5503fE6a8CA6bF1f46D07",
+	"symbol": "WOODD",
+	"name": "Dinari WOOD",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/53871/thumb/d-token-200.png?1737616705",
+	"coingecko": "dinari-wood",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xE0f96F025EBB27950718ebd787b69c325CF045c0",
+	"symbol": "Bandit on Base",
+	"name": "Bandit on Base",
+	"coingecko": "bandit-on-base",
+	"sources": [
+		"coingecko"
+	]
+}

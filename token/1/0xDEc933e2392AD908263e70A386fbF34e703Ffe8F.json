@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0xDEc933e2392AD908263e70A386fbF34e703Ffe8F",
+	"symbol": "WBCOIN",
+	"name": "Wrapped bCOIN",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/54429/thumb/bCOIN_200x200.png?1739606057",
+	"coingecko": "wrapped-bcoin",
+	"sources": [
+		"coingecko"
+	]
+}

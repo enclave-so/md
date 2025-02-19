@@ -1,0 +1,10 @@
+{
+	"chain": 200901,
+	"address": "0x3228995749610Bea00b59C44F8d1df21C14027F1",
+	"symbol": "Avalon",
+	"name": "Avalon",
+	"coingecko": "avalon-2",
+	"sources": [
+		"coingecko"
+	]
+}

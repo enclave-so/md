@@ -1,0 +1,10 @@
+{
+	"chain": 8668,
+	"address": "0xf5b85320a772b436cb8105441a3dB9bA29437B4a",
+	"symbol": "Hela USDC",
+	"name": "Hela USDC",
+	"coingecko": "hela-usdc",
+	"sources": [
+		"coingecko"
+	]
+}

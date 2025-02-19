@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x3482968eD0E10Bf7446706a6680E8a8F486F61B0",
+	"symbol": "SNOWD",
+	"name": "Dinari SNOW",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/54365/thumb/d-token-200.png?1739401375",
+	"coingecko": "dinari-snow",
+	"sources": [
+		"coingecko"
+	]
+}

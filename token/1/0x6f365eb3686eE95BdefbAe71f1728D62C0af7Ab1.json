@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x6f365eb3686eE95BdefbAe71f1728D62C0af7Ab1",
+	"symbol": "AITHER",
+	"name": "Aither",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/53520/thumb/Frame_1.jpg?1736574849",
+	"coingecko": "aither",
+	"sources": [
+		"coingecko"
+	]
+}

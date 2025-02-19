@@ -1,30 +1,10 @@
 [
 	{
 		"chain": 245022934,
-		"address": "0x5f38248f339Bf4e84A2caf4e4c0552862dC9F82a",
-		"symbol": "NeonPass Bridged SOL (Neon EVM)",
-		"name": "NeonPass Bridged SOL (Neon EVM)",
-		"coingecko": "neonpass-bridged-sol-neon-evm",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 245022934,
-		"address": "0x5f0155d08eF4aaE2B500AefB64A3419dA8bB611a",
-		"symbol": "Neonpass Bridged USDT (Neon)",
-		"name": "Neonpass Bridged USDT (Neon)",
-		"coingecko": "neonpass-bridged-usdt-neon",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 245022934,
-		"address": "0x2043191e10a2A4b4601F5123D6C94E000b5d915F",
-		"symbol": "Mora",
-		"name": "Mora",
-		"coingecko": "mora",
+		"address": "0x432B39E097d9faA2CBAa86F8D36Bcf3b8019fE9f",
+		"symbol": "NeoPepe",
+		"name": "NeoPepe",
+		"coingecko": "neopepe",
 		"sources": [
 			"coingecko"
 		]
@@ -41,70 +21,10 @@
 	},
 	{
 		"chain": 245022934,
-		"address": "0x202C35e517Fa803B537565c40F0a6965D7204609",
-		"symbol": "Wrapped Neon",
-		"name": "Wrapped Neon",
-		"coingecko": "wrapped-neon",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 245022934,
-		"address": "0xFA8fB7e3bd299B2A9693B1BFDCf5DD13Ab57007E",
-		"symbol": "Jito Staked SOL",
-		"name": "Jito Staked SOL",
-		"coingecko": "jito-staked-sol",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 245022934,
-		"address": "0x6d12eAA69f8e4902D3F83d546B31F7318717014C",
-		"symbol": "Mango",
-		"name": "Mango",
-		"coingecko": "mango-markets",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 245022934,
-		"address": "0xC1eD606683a3f89317d64BDA602628d68a0B4b24",
-		"symbol": "Curio Gas Token",
-		"name": "Curio Gas Token",
-		"coingecko": "curio-gas-token",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 245022934,
-		"address": "0x14CCfFC97aC156A7f1E3183adAa8E7CC888AD162",
-		"symbol": "Liquid Staking Token",
-		"name": "Liquid Staking Token",
-		"coingecko": "liquid-staking-token",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 245022934,
-		"address": "0xEA6B04272f9f62F997F666F07D3a974134f7FFb9",
-		"symbol": "NeonPass Bridged USDC (Neon)",
-		"name": "NeonPass Bridged USDC (Neon)",
-		"coingecko": "neonpass-bridged-usdc-neon",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 245022934,
-		"address": "0x432B39E097d9faA2CBAa86F8D36Bcf3b8019fE9f",
-		"symbol": "NeoPepe",
-		"name": "NeoPepe",
-		"coingecko": "neopepe",
+		"address": "0x2043191e10a2A4b4601F5123D6C94E000b5d915F",
+		"symbol": "Mora",
+		"name": "Mora",
+		"coingecko": "mora",
 		"sources": [
 			"coingecko"
 		]
@@ -135,6 +55,86 @@
 		"symbol": "Bonk",
 		"name": "Bonk",
 		"coingecko": "bonk",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 245022934,
+		"address": "0xC1eD606683a3f89317d64BDA602628d68a0B4b24",
+		"symbol": "Curio Gas Token",
+		"name": "Curio Gas Token",
+		"coingecko": "curio-gas-token",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 245022934,
+		"address": "0xFA8fB7e3bd299B2A9693B1BFDCf5DD13Ab57007E",
+		"symbol": "Jito Staked SOL",
+		"name": "Jito Staked SOL",
+		"coingecko": "jito-staked-sol",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 245022934,
+		"address": "0x6d12eAA69f8e4902D3F83d546B31F7318717014C",
+		"symbol": "Mango",
+		"name": "Mango",
+		"coingecko": "mango-markets",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 245022934,
+		"address": "0x14CCfFC97aC156A7f1E3183adAa8E7CC888AD162",
+		"symbol": "Liquid Staking Token",
+		"name": "Liquid Staking Token",
+		"coingecko": "liquid-staking-token",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 245022934,
+		"address": "0x5f38248f339Bf4e84A2caf4e4c0552862dC9F82a",
+		"symbol": "NeonPass Bridged SOL (Neon EVM)",
+		"name": "NeonPass Bridged SOL (Neon EVM)",
+		"coingecko": "neonpass-bridged-sol-neon-evm",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 245022934,
+		"address": "0xEA6B04272f9f62F997F666F07D3a974134f7FFb9",
+		"symbol": "NeonPass Bridged USDC (Neon)",
+		"name": "NeonPass Bridged USDC (Neon)",
+		"coingecko": "neonpass-bridged-usdc-neon",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 245022934,
+		"address": "0x5f0155d08eF4aaE2B500AefB64A3419dA8bB611a",
+		"symbol": "Neonpass Bridged USDT (Neon)",
+		"name": "Neonpass Bridged USDT (Neon)",
+		"coingecko": "neonpass-bridged-usdt-neon",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 245022934,
+		"address": "0x202C35e517Fa803B537565c40F0a6965D7204609",
+		"symbol": "Wrapped Neon",
+		"name": "Wrapped Neon",
+		"coingecko": "wrapped-neon",
 		"sources": [
 			"coingecko"
 		]

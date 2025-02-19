@@ -5,7 +5,7 @@
 	"name": "Binance Coin (Anyswap)",
 	"decimals": 18,
 	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/telos/0x2C78f1b70Ccf63CDEe49F9233e9fAa99D43AA07e.jpg",
-	"coingecko": "wbnb",
+	"coingecko": "multichain-bridged-wbnb-telos",
 	"sources": [
 		"coingecko",
 		"sushiswap"

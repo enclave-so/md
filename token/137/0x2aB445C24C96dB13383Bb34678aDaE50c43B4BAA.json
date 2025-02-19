@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x2aB445C24C96dB13383Bb34678aDaE50c43B4BAA",
+	"symbol": "Clay",
+	"name": "Clay",
+	"coingecko": "clay",
+	"sources": [
+		"coingecko"
+	]
+}

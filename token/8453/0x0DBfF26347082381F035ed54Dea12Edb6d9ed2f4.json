@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x0DBfF26347082381F035ed54Dea12Edb6d9ed2f4",
+	"symbol": "Dinari VXX",
+	"name": "Dinari VXX",
+	"coingecko": "dinari-vxx",
+	"sources": [
+		"coingecko"
+	]
+}

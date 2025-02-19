@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x88c3b9D2DbE8eaB571D38f57f7F69C581e3427C6",
+	"symbol": "Super Meme Fighter",
+	"name": "Super Meme Fighter",
+	"coingecko": "super-meme-fighter",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 2741,
+	"address": "0x2C46AD181B8Ed22C5bf53E21dE2af87B11888EcB",
+	"symbol": "VIBE",
+	"name": "VIBE",
+	"coingecko": "vibe-3",
+	"sources": [
+		"coingecko"
+	]
+}

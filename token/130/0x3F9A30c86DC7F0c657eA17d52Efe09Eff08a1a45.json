@@ -1,0 +1,11 @@
+{
+	"chain": 130,
+	"address": "0x3F9A30c86DC7F0c657eA17d52Efe09Eff08a1a45",
+	"symbol": "RAD",
+	"name": "Radicle",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14013/thumb/radicle.png?1614402918",
+	"sources": [
+		"uniswap"
+	]
+}

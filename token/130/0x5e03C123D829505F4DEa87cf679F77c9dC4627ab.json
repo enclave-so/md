@@ -1,0 +1,11 @@
+{
+	"chain": 130,
+	"address": "0x5e03C123D829505F4DEa87cf679F77c9dC4627ab",
+	"symbol": "SOCKS",
+	"name": "Unisocks",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/10717/thumb/qFrcoiM.png?1582525244",
+	"sources": [
+		"uniswap"
+	]
+}

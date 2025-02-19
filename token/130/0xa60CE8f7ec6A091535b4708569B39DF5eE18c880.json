@@ -1,0 +1,12 @@
+{
+	"chain": 130,
+	"address": "0xa60CE8f7ec6A091535b4708569B39DF5eE18c880",
+	"symbol": "OGN",
+	"name": "Origin Protocol",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/3296/thumb/op.jpg?1547037878",
+	"sources": [
+		"optimism",
+		"uniswap"
+	]
+}

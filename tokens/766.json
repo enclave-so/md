@@ -1,6 +1,26 @@
 [
 	{
 		"chain": 766,
+		"address": "0xC276b91c0e8D10260af7b67009d2683bB7776308",
+		"symbol": "QL1 Bridged USDT (QL1)",
+		"name": "QL1 Bridged USDT (QL1)",
+		"coingecko": "qusdt",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 766,
+		"address": "0x63e2487E6d0fCA552774966A1AB413A0F8aba5F2",
+		"symbol": "Teh Fund",
+		"name": "Teh Fund",
+		"coingecko": "teh-fund",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 766,
 		"address": "0xa26dfBF98Dd1A32FAe56A3D2B2D60A8a41b0bDF0",
 		"symbol": "Wrapped QOM",
 		"name": "Wrapped QOM",

@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x421b05cf5ce28Cb7347E73e2278E84472F0E4a88",
+	"symbol": "SEN",
+	"name": "Sentio Protocol",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/53136/thumb/Sentio_Protocol.png?1739087341",
+	"coingecko": "sentio-protocol",
+	"sources": [
+		"coingecko"
+	]
+}

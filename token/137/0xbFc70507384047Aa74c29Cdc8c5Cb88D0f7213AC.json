@@ -1,10 +1,13 @@
 {
 	"chain": 137,
 	"address": "0xbFc70507384047Aa74c29Cdc8c5Cb88D0f7213AC",
-	"symbol": "Artificial Liquid Intelligence",
-	"name": "Artificial Liquid Intelligence",
+	"symbol": "ALI",
+	"name": "Alethea Artificial Liquid Intelligence",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/22062/thumb/alethea-logo-transparent-colored.png?1642748848",
 	"coingecko": "alethea-artificial-liquid-intelligence-token",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"uniswap"
 	]
 }

@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xc1512B7023A97d54f8Dd757B1F84e132297CA0D7",
+	"symbol": "Ballies",
+	"name": "Ballies",
+	"coingecko": "ballies",
+	"sources": [
+		"coingecko"
+	]
+}

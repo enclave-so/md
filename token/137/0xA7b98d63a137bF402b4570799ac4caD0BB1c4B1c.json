@@ -1,0 +1,11 @@
+{
+	"chain": 137,
+	"address": "0xA7b98d63a137bF402b4570799ac4caD0BB1c4B1c",
+	"symbol": "TRAC",
+	"name": "OriginTrail",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/1877/thumb/TRAC.jpg?1635134367",
+	"sources": [
+		"uniswap"
+	]
+}

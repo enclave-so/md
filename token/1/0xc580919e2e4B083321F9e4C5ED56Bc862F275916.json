@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0xc580919e2e4B083321F9e4C5ED56Bc862F275916",
+	"symbol": "SOXLD",
+	"name": "Dinari SOXL",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/54366/thumb/d-token-200.png?1739401385",
+	"coingecko": "dinari-soxl",
+	"sources": [
+		"coingecko"
+	]
+}

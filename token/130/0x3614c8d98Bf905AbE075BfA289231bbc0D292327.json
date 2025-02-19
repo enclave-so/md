@@ -1,0 +1,11 @@
+{
+	"chain": 130,
+	"address": "0x3614c8d98Bf905AbE075BfA289231bbc0D292327",
+	"symbol": "PAX",
+	"name": "PayperEx",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/1601/thumb/pax.png?1547035800",
+	"sources": [
+		"uniswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xba921e840Fb60adB0f92b2a977427fE8e5Dd208C",
+	"symbol": "Dinari ERO",
+	"name": "Dinari ERO",
+	"coingecko": "dinari-ero",
+	"sources": [
+		"coingecko"
+	]
+}

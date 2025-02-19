@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x97Ad75064b20fb2B2447feD4fa953bF7F007a706",
+	"symbol": "BERASTONE",
+	"name": "StakeStone Berachain Vault Token",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/53143/thumb/beraSTONE.png?1735377526",
+	"coingecko": "stakestone-berachain-vault-token",
+	"sources": [
+		"coingecko"
+	]
+}

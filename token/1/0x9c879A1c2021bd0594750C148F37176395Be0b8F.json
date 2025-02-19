@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x9c879A1c2021bd0594750C148F37176395Be0b8F",
+	"symbol": "SPSKD",
+	"name": "Dinari SPSK",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/54391/thumb/d-token-200.png?1739485728",
+	"coingecko": "dinari-spsk",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,10 +1,13 @@
 {
 	"chain": 137,
 	"address": "0xE3322702BEdaaEd36CdDAb233360B939775ae5f1",
-	"symbol": "Tellor Tributes",
-	"name": "Tellor Tributes",
+	"symbol": "TRB",
+	"name": "Tellor",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/9644/thumb/Blk_icon_current.png?1584980686",
 	"coingecko": "tellor",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"uniswap"
 	]
 }

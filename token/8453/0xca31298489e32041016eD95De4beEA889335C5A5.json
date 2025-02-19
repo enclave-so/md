@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xca31298489e32041016eD95De4beEA889335C5A5",
+	"symbol": "Dinari FBTC",
+	"name": "Dinari FBTC",
+	"coingecko": "dinari-fbtc",
+	"sources": [
+		"coingecko"
+	]
+}

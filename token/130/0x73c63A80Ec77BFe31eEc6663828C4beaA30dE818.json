@@ -1,0 +1,11 @@
+{
+	"chain": 130,
+	"address": "0x73c63A80Ec77BFe31eEc6663828C4beaA30dE818",
+	"symbol": "CRO",
+	"name": "Cronos",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/7310/thumb/oCw2s3GI_400x400.jpeg?1645172042",
+	"sources": [
+		"uniswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x73831E7c5577859FB0583aF97C9C68F96A43fcB6",
+	"symbol": "AIGG",
+	"name": "AIGG",
+	"coingecko": "aigg",
+	"sources": [
+		"coingecko"
+	]
+}

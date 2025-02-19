@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x95Ad53E32942C0cF9fD60208964782aF8BeDb709",
+	"symbol": "KUMA",
+	"name": "Kuma",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/53563/thumb/kumalogo.jpg?1736676694",
+	"coingecko": "kuma-2",
+	"sources": [
+		"coingecko"
+	]
+}

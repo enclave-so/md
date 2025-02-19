@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x0688977ae5b10075f46519063Fd2f03aDC052C1f",
+	"symbol": "5th Scape",
+	"name": "5th Scape",
+	"coingecko": "5th-scape",
+	"sources": [
+		"coingecko"
+	]
+}

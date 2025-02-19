@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x997A58129890bBdA032231A52eD1ddC845fc18e1",
+	"symbol": "Siren",
+	"name": "Siren",
+	"coingecko": "siren-2",
+	"sources": [
+		"coingecko"
+	]
+}

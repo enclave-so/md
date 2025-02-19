@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x8CECc2360906c812cD7353cd6B10b1dc13bbc777",
+	"symbol": "Function X",
+	"name": "Function X",
+	"coingecko": "fx-coin",
+	"sources": [
+		"coingecko"
+	]
+}

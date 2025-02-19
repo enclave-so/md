@@ -2,12 +2,13 @@
 	"chain": 137,
 	"address": "0x1B815d120B3eF02039Ee11dC2d33DE7aA4a8C603",
 	"symbol": "WOO",
-	"name": "Wootrade",
+	"name": "WOO Network",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x4691937a7508860F876c9c0a2a617E7d9E945D4B/logo.png",
+	"logo": "https://assets.coingecko.com/coins/images/12921/thumb/w2UiemF__400x400.jpg?1603670367",
 	"coingecko": "woo-network",
 	"sources": [
 		"coingecko",
-		"sushiswap"
+		"sushiswap",
+		"uniswap"
 	]
 }

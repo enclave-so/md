@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x1ACa6687a9665Fb84DEb7E3801E8e7EcbA6ec6dE",
+	"symbol": "Rain by Virtuals",
+	"name": "Rain by Virtuals",
+	"coingecko": "rain-by-virtuals",
+	"sources": [
+		"coingecko"
+	]
+}

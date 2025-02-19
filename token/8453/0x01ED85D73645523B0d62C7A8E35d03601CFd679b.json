@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x01ED85D73645523B0d62C7A8E35d03601CFd679b",
+	"symbol": "Nabla",
+	"name": "Nabla",
+	"coingecko": "nabla",
+	"sources": [
+		"coingecko"
+	]
+}

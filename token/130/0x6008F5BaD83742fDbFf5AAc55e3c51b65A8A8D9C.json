@@ -1,0 +1,11 @@
+{
+	"chain": 130,
+	"address": "0x6008F5BaD83742fDbFf5AAc55e3c51b65A8A8D9C",
+	"symbol": "CELO",
+	"name": "Celo native asset (Wormhole)",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/celo_wh.png",
+	"sources": [
+		"uniswap"
+	]
+}

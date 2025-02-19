@@ -1,0 +1,11 @@
+{
+	"chain": 130,
+	"address": "0x1E4339318EcE1d6D9d2Fb129b31C06b9F2d202A1",
+	"symbol": "TURBO",
+	"name": "Turbo",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30117/large/TurboMark-QL_200.png?1708079597",
+	"sources": [
+		"uniswap"
+	]
+}

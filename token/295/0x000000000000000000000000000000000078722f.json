@@ -1,0 +1,10 @@
+{
+	"chain": 295,
+	"address": "0x000000000000000000000000000000000078722f",
+	"symbol": "FINS",
+	"name": "FINS",
+	"coingecko": "fins",
+	"sources": [
+		"coingecko"
+	]
+}

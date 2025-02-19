@@ -1,0 +1,10 @@
+{
+	"chain": 146,
+	"address": "0x446649F0727621BDbB76644B1910be2163b62a11",
+	"symbol": "Sonic",
+	"name": "Sonic",
+	"coingecko": "sonic-4",
+	"sources": [
+		"coingecko"
+	]
+}

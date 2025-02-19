@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xb89D354AD1b0d95a48b3De4607F75a8cD710c1bA",
+	"symbol": "Loomlay",
+	"name": "Loomlay",
+	"coingecko": "loomlay",
+	"sources": [
+		"coingecko"
+	]
+}

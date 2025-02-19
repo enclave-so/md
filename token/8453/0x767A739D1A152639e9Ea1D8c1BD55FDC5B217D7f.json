@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x767A739D1A152639e9Ea1D8c1BD55FDC5B217D7f",
+	"symbol": "Veil Token",
+	"name": "Veil Token",
+	"coingecko": "veil-token",
+	"sources": [
+		"coingecko"
+	]
+}

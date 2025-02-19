@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x45f368693Eee8e3610270F82085784C1c8aC124b",
+	"symbol": "QVRS",
+	"name": "QVRS",
+	"coingecko": "qvrs",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0xFab13732ae25267A5f47F6F31660C9A82B5fA9f1",
+	"symbol": "SKIBIDI",
+	"name": "Skibidi Dop Dop",
+	"decimals": 6,
+	"logo": "https://assets.coingecko.com/coins/images/52594/thumb/skibidi-logo-coingecko.png?1733727963",
+	"coingecko": "skibidi-dop-dop",
+	"sources": [
+		"coingecko"
+	]
+}

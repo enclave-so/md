@@ -1,0 +1,10 @@
+{
+	"chain": 146,
+	"address": "0xd3DCe716f3eF535C5Ff8d041c1A41C3bd89b97aE",
+	"symbol": "Rings scUSD",
+	"name": "Rings scUSD",
+	"coingecko": "rings-scusd",
+	"sources": [
+		"coingecko"
+	]
+}

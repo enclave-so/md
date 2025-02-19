@@ -1,0 +1,11 @@
+{
+	"chain": 8453,
+	"address": "0x2d1B28672C631CC3CE556D3C7F0E78016E809fec",
+	"symbol": "NET",
+	"name": "Nektar Network",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/NET/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

@@ -1,36 +1,6 @@
 [
 	{
 		"chain": 42262,
-		"address": "0xE8A638b3B7565Ee7c5eb9755E58552aFc87b94DD",
-		"symbol": "Bridged USD Coin (Wormhole Ethereum)",
-		"name": "Bridged USD Coin (Wormhole Ethereum)",
-		"coingecko": "usd-coin-wormhole-from-ethereum",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 42262,
-		"address": "0xd43ce0aa2a29DCb75bDb83085703dc589DE6C7eb",
-		"symbol": "Wrapped BTC (Wormhole)",
-		"name": "Wrapped BTC (Wormhole)",
-		"coingecko": "wrapped-btc-wormhole",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 42262,
-		"address": "0x21C718C22D52d0F3a789b752D4c2fD5908a8A733",
-		"symbol": "Wrapped ROSE",
-		"name": "Wrapped ROSE",
-		"coingecko": "wrapped-rose",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 42262,
 		"address": "0x3223f17957Ba502cbe71401D55A0DB26E5F7c68F",
 		"symbol": "Ethereum (Wormhole)",
 		"name": "Ethereum (Wormhole)",
@@ -41,20 +11,10 @@
 	},
 	{
 		"chain": 42262,
-		"address": "0xd1dF9CE4b6159441D18BD6887dbd7320a8D52a05",
-		"symbol": "Fountain Protocol",
-		"name": "Fountain Protocol",
-		"coingecko": "fountain-protocol",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 42262,
-		"address": "0x24285C5232ce3858F00bacb950Cae1f59d1b2704",
-		"symbol": "Bridged Tether (Wormhole)",
-		"name": "Bridged Tether (Wormhole)",
-		"coingecko": "tether-usd-wormhole",
+		"address": "0xd17dDAC91670274F7ba1590a06EcA0f2FD2b12bc",
+		"symbol": "SOL (Wormhole)",
+		"name": "SOL (Wormhole)",
+		"coingecko": "sol-wormhole",
 		"sources": [
 			"coingecko"
 		]
@@ -71,10 +31,40 @@
 	},
 	{
 		"chain": 42262,
+		"address": "0xE8A638b3B7565Ee7c5eb9755E58552aFc87b94DD",
+		"symbol": "Bridged USD Coin (Wormhole Ethereum)",
+		"name": "Bridged USD Coin (Wormhole Ethereum)",
+		"coingecko": "usd-coin-wormhole-from-ethereum",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42262,
+		"address": "0x21C718C22D52d0F3a789b752D4c2fD5908a8A733",
+		"symbol": "Wrapped ROSE",
+		"name": "Wrapped ROSE",
+		"coingecko": "wrapped-rose",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42262,
 		"address": "0x32847e63E99D3a044908763056e25694490082F8",
 		"symbol": "Avalanche (Wormhole)",
 		"name": "Avalanche (Wormhole)",
 		"coingecko": "avalanche-wormhole",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42262,
+		"address": "0xd1dF9CE4b6159441D18BD6887dbd7320a8D52a05",
+		"symbol": "Fountain Protocol",
+		"name": "Fountain Protocol",
+		"coingecko": "fountain-protocol",
 		"sources": [
 			"coingecko"
 		]
@@ -91,10 +81,20 @@
 	},
 	{
 		"chain": 42262,
-		"address": "0xd17dDAC91670274F7ba1590a06EcA0f2FD2b12bc",
-		"symbol": "SOL (Wormhole)",
-		"name": "SOL (Wormhole)",
-		"coingecko": "sol-wormhole",
+		"address": "0x24285C5232ce3858F00bacb950Cae1f59d1b2704",
+		"symbol": "Bridged Tether (Wormhole)",
+		"name": "Bridged Tether (Wormhole)",
+		"coingecko": "tether-usd-wormhole",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42262,
+		"address": "0xd43ce0aa2a29DCb75bDb83085703dc589DE6C7eb",
+		"symbol": "Wrapped BTC (Wormhole)",
+		"name": "Wrapped BTC (Wormhole)",
+		"coingecko": "wrapped-btc-wormhole",
 		"sources": [
 			"coingecko"
 		]

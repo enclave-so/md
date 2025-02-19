@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0xf2536e4301a428AF9686ed73E42b50C1f9AeD517",
+	"symbol": "Akitavax",
+	"name": "Akitavax",
+	"coingecko": "akitavax",
+	"sources": [
+		"coingecko"
+	]
+}

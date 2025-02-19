@@ -1,6 +1,16 @@
 [
 	{
 		"chain": 888,
+		"address": "0xF17c59bF0f6326dA7A8cC2CE417e4F53a26707bd",
+		"symbol": "Phoenix Finance",
+		"name": "Phoenix Finance",
+		"coingecko": "phoenix-token",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 888,
 		"address": "0x11e77E27Af5539872efEd10abaA0b408cfd9fBBD",
 		"symbol": "Bridged Tether (Wanchain)",
 		"name": "Bridged Tether (Wanchain)",
@@ -11,10 +21,10 @@
 	},
 	{
 		"chain": 888,
-		"address": "0xdabD997aE5E4799BE47d6E69D9431615CBa28f48",
-		"symbol": "Wrapped Wan",
-		"name": "Wrapped Wan",
-		"coingecko": "wrapped-wan",
+		"address": "0x6e11655d6aB3781C6613db8CB1Bc3deE9a7e111F",
+		"symbol": "ZooKeeper",
+		"name": "ZooKeeper",
+		"coingecko": "zookeeper",
 		"sources": [
 			"coingecko"
 		]
@@ -31,10 +41,30 @@
 	},
 	{
 		"chain": 888,
+		"address": "0xE3aE74D1518A76715aB4C7BeDF1af73893cd435A",
+		"symbol": "wanETH",
+		"name": "wanETH",
+		"coingecko": "waneth",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 888,
 		"address": "0x8B9F9f4aA70B1B0d586BE8aDFb19c1Ac38e05E9a",
 		"symbol": "WanSwap [OLD]",
 		"name": "WanSwap [OLD]",
 		"coingecko": "wanswap",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 888,
+		"address": "0x924fd608bf30dB9B099927492FDA5997d7CFcb02",
+		"symbol": "WanSwap",
+		"name": "WanSwap",
+		"coingecko": "wanswap-2",
 		"sources": [
 			"coingecko"
 		]
@@ -61,40 +91,10 @@
 	},
 	{
 		"chain": 888,
-		"address": "0x6e11655d6aB3781C6613db8CB1Bc3deE9a7e111F",
-		"symbol": "ZooKeeper",
-		"name": "ZooKeeper",
-		"coingecko": "zookeeper",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 888,
-		"address": "0xF17c59bF0f6326dA7A8cC2CE417e4F53a26707bd",
-		"symbol": "Phoenix Finance",
-		"name": "Phoenix Finance",
-		"coingecko": "phoenix-token",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 888,
-		"address": "0xE3aE74D1518A76715aB4C7BeDF1af73893cd435A",
-		"symbol": "wanETH",
-		"name": "wanETH",
-		"coingecko": "waneth",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 888,
-		"address": "0x924fd608bf30dB9B099927492FDA5997d7CFcb02",
-		"symbol": "WanSwap",
-		"name": "WanSwap",
-		"coingecko": "wanswap-2",
+		"address": "0xdabD997aE5E4799BE47d6E69D9431615CBa28f48",
+		"symbol": "Wrapped Wan",
+		"name": "Wrapped Wan",
+		"coingecko": "wrapped-wan",
 		"sources": [
 			"coingecko"
 		]

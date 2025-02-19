@@ -1,0 +1,52 @@
+[
+	{
+		"chain": 2818,
+		"address": "0xe34c91815d7fc18A9e2148bcD4241d0a5848b693",
+		"symbol": "Morph L2 Bridged USDC (Morph L2)",
+		"name": "Morph L2 Bridged USDC (Morph L2)",
+		"coingecko": "morph-l2-bridged-usdc-morph-l2",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 2818,
+		"address": "0xc7D67A9cBB121b3b0b9c053DD9f469523243379A",
+		"symbol": "Morph L2 Bridged USDT (Morph L2)",
+		"name": "Morph L2 Bridged USDT (Morph L2)",
+		"coingecko": "morph-l2-bridged-usdt-morph-l2",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 2818,
+		"address": "0x0BEeF4B01281D85492713a015d51fEc5b6D14687",
+		"symbol": "MX",
+		"name": "MX",
+		"coingecko": "mx-token",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 2818,
+		"address": "0x55d1f1879969bdbB9960d269974564C58DBc3238",
+		"symbol": "Bitget Token",
+		"name": "Bitget Token",
+		"coingecko": "bitget-token",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 2818,
+		"address": "0x5300000000000000000000000000000000000011",
+		"symbol": "Bridged Wrapped Ether (Morph L2)",
+		"name": "Bridged Wrapped Ether (Morph L2)",
+		"coingecko": "bridged-wrapped-ether-morph-l2",
+		"sources": [
+			"coingecko"
+		]
+	}
+]

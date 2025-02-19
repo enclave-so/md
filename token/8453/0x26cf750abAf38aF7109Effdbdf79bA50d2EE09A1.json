@@ -1,0 +1,13 @@
+{
+	"chain": 8453,
+	"address": "0x26cf750abAf38aF7109Effdbdf79bA50d2EE09A1",
+	"symbol": "UCASH",
+	"name": "UCASH",
+	"decimals": 8,
+	"logo": "https://ethereum-optimism.github.io/data/UCASH/logo.svg",
+	"coingecko": "ucash",
+	"sources": [
+		"coingecko",
+		"optimism"
+	]
+}

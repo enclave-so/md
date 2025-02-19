@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xf7b0dd0B642a6ccc2fc4d8FfE2BfFb0caC8C43C8",
+	"symbol": "Gekko AI by Virtuals",
+	"name": "Gekko AI by Virtuals",
+	"coingecko": "gekko-ai",
+	"sources": [
+		"coingecko"
+	]
+}

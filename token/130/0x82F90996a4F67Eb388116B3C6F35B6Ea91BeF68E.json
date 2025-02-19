@@ -1,0 +1,11 @@
+{
+	"chain": 130,
+	"address": "0x82F90996a4F67Eb388116B3C6F35B6Ea91BeF68E",
+	"symbol": "AUCTION",
+	"name": "Bounce",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/13860/thumb/1_KtgpRIJzuwfHe0Rl0avP_g.jpeg?1612412025",
+	"sources": [
+		"uniswap"
+	]
+}

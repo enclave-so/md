@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0xc15c94F460c6a01a93b8f9Ba919FAdCEc9310f54",
+	"symbol": "XAI",
+	"name": "Xspectra Ai",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/53184/thumb/1000281371.jpg?1735563383",
+	"coingecko": "xspectra-ai",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x436b0Fe70C84402a531Fd0989ceeCF5cAa80244c",
+	"symbol": "Victorai by Virtuals",
+	"name": "Victorai by Virtuals",
+	"coingecko": "victorai-by-virtuals",
+	"sources": [
+		"coingecko"
+	]
+}

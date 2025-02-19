@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x42B08e7a9211482d3643a126a7dF1895448d3509",
+	"symbol": "HenjinAI",
+	"name": "HenjinAI",
+	"coingecko": "henjin-ai",
+	"sources": [
+		"coingecko"
+	]
+}

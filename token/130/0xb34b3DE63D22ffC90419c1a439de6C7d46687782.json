@@ -1,0 +1,12 @@
+{
+	"chain": 130,
+	"address": "0xb34b3DE63D22ffC90419c1a439de6C7d46687782",
+	"symbol": "LCX",
+	"name": "LCX",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/9985/thumb/zRPSu_0o_400x400.jpg?1574327008",
+	"sources": [
+		"optimism",
+		"uniswap"
+	]
+}

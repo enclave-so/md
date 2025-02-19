@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x3bcE5CB273F0F148010BbEa2470e7b5df84C7812",
+	"symbol": "SCETH",
+	"name": "Rings scETH",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/54461/thumb/sceth.png?1739847097",
+	"coingecko": "rings-sc-eth",
+	"sources": [
+		"coingecko"
+	]
+}

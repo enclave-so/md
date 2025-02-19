@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xb170000aeeFa790fa61D6e837d1035906839a3c8",
+	"symbol": "Pinto",
+	"name": "Pinto",
+	"coingecko": "pinto",
+	"sources": [
+		"coingecko"
+	]
+}

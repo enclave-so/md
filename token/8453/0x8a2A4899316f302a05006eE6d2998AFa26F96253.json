@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x8a2A4899316f302a05006eE6d2998AFa26F96253",
+	"symbol": "Dinari BA",
+	"name": "Dinari BA",
+	"coingecko": "dinari-ba",
+	"sources": [
+		"coingecko"
+	]
+}

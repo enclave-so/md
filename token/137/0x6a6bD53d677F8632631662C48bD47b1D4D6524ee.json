@@ -1,0 +1,11 @@
+{
+	"chain": 137,
+	"address": "0x6a6bD53d677F8632631662C48bD47b1D4D6524ee",
+	"symbol": "AGLD",
+	"name": "Adventure Gold",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/18125/thumb/lpgblc4h_400x400.jpg?1630570955",
+	"sources": [
+		"uniswap"
+	]
+}

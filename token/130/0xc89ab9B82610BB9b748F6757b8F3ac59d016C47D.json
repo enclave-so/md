@@ -1,0 +1,11 @@
+{
+	"chain": 130,
+	"address": "0xc89ab9B82610BB9b748F6757b8F3ac59d016C47D",
+	"symbol": "EIGEN",
+	"name": "EigenLayer",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/37441/large/eigen.jpg?1728023974",
+	"sources": [
+		"uniswap"
+	]
+}

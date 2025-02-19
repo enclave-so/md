@@ -1,0 +1,62 @@
+[
+	{
+		"chain": 570,
+		"address": "0x6AaEE51366F8435e1Ad527F5Ecdc276bF1dc0b86",
+		"symbol": "Luxy",
+		"name": "Luxy",
+		"coingecko": "luxy",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 570,
+		"address": "0x48023b16c3e81AA7F6eFFbdEB35Bb83f4f31a8fd",
+		"symbol": "Pegasys (Rollux)",
+		"name": "Pegasys (Rollux)",
+		"coingecko": "pegasys-rollux",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 570,
+		"address": "0x3390108E913824B8eaD638444cc52B9aBdF63798",
+		"symbol": "SuperDapp",
+		"name": "SuperDapp",
+		"coingecko": "superdapp",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 570,
+		"address": "0x4200000000000000000000000000000000000006",
+		"symbol": "Wrapped Syscoin",
+		"name": "Wrapped Syscoin",
+		"coingecko": "wrapped-syscoin",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 570,
+		"address": "0x368433CaC2A0B8D76E64681a9835502a1f2A8A30",
+		"symbol": "Bridged USDC",
+		"name": "Bridged USDC",
+		"coingecko": "bridged-usdc",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 570,
+		"address": "0x28c9c7Fb3fE3104d2116Af26cC8eF7905547349c",
+		"symbol": "Bridged USDT",
+		"name": "Bridged USDT",
+		"coingecko": "bridged-usdt",
+		"sources": [
+			"coingecko"
+		]
+	}
+]

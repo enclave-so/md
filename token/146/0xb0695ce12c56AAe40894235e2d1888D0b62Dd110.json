@@ -1,0 +1,10 @@
+{
+	"chain": 146,
+	"address": "0xb0695ce12c56AAe40894235e2d1888D0b62Dd110",
+	"symbol": "DeFive",
+	"name": "DeFive",
+	"coingecko": "defive",
+	"sources": [
+		"coingecko"
+	]
+}

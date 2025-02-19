@@ -1,0 +1,10 @@
+{
+	"chain": 747,
+	"address": "0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590",
+	"symbol": "Stargate Bridged WETH (Flow)",
+	"name": "Stargate Bridged WETH (Flow)",
+	"coingecko": "stargate-bridged-weth-flow",
+	"sources": [
+		"coingecko"
+	]
+}

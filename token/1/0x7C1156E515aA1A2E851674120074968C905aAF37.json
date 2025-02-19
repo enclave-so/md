@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x7C1156E515aA1A2E851674120074968C905aAF37",
+	"symbol": "LVLUSD",
+	"name": "Level USD",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/53150/thumb/lvlusd-logo.png?1735406507",
+	"coingecko": "level-usd",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"chain": 8453,
+	"address": "0xc7837BE3d71E00fcbE76D77602BCf353Df859664",
+	"symbol": "LEGEND",
+	"name": "Legend",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/LEGEND/logo.svg",
+	"coingecko": "legend-2",
+	"sources": [
+		"coingecko",
+		"optimism"
+	]
+}

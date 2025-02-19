@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x4eDDb15A0abfa2c349e8065aF9214E942d9A6D36",
+	"symbol": "XYRO",
+	"name": "XYRO",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/53895/thumb/xyro_logo_200px.png?1737665070",
+	"coingecko": "xyro",
+	"sources": [
+		"coingecko"
+	]
+}

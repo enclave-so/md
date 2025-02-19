@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x83AbFC4bEEC2ecf12995005d751a42df691c09c1",
+	"symbol": "H1DR4 by Virtuals",
+	"name": "H1DR4 by Virtuals",
+	"coingecko": "h1dr4-by-virtuals",
+	"sources": [
+		"coingecko"
+	]
+}

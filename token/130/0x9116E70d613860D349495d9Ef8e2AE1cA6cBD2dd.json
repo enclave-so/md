@@ -1,0 +1,11 @@
+{
+	"chain": 130,
+	"address": "0x9116E70d613860D349495d9Ef8e2AE1cA6cBD2dd",
+	"symbol": "ENA",
+	"name": "Ethena",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/36530/standard/ethena.png",
+	"sources": [
+		"uniswap"
+	]
+}

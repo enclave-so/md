@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x414562C94223A5C4Df9F278422F03228F35b8f7d",
+	"symbol": "VirtuBeauty by Virtuals",
+	"name": "VirtuBeauty by Virtuals",
+	"coingecko": "virtubeauty-by-virtuals",
+	"sources": [
+		"coingecko"
+	]
+}

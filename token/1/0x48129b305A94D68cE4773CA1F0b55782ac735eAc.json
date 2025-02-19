@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x48129b305A94D68cE4773CA1F0b55782ac735eAc",
+	"symbol": "SUDO",
+	"name": "Sudo Labs",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/52870/thumb/Sudo_Labs.png?1734551637",
+	"coingecko": "sudo-labs",
+	"sources": [
+		"coingecko"
+	]
+}

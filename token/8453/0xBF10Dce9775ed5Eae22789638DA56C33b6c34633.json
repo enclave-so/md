@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xBF10Dce9775ed5Eae22789638DA56C33b6c34633",
+	"symbol": "GENZAI by Virtuals",
+	"name": "GENZAI by Virtuals",
+	"coingecko": "genzai",
+	"sources": [
+		"coingecko"
+	]
+}

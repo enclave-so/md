@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0xf4A509313437dfC64E2EFeD14e2b607B1AED30c5",
+	"symbol": "FETS",
+	"name": "FE TECH",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/53052/thumb/FEsT.jpg?1735150240",
+	"coingecko": "fe-tech",
+	"sources": [
+		"coingecko"
+	]
+}

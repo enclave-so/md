@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x841a3083074b1a40b644bf2ba2491a731b6da277",
+	"symbol": "FATAL",
+	"name": "Fatalismftw",
+	"decimals": 12,
+	"logo": "https://assets.coingecko.com/coins/images/53836/thumb/0x841a3083074b1a40b644bf2ba2491a731b6da277.JPG?1737559153",
+	"coingecko": "fatalismftw",
+	"sources": [
+		"coingecko"
+	]
+}

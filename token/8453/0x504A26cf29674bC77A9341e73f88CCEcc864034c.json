@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x504A26cf29674bC77A9341e73f88CCEcc864034c",
+	"symbol": "Sympson by Virtuals",
+	"name": "Sympson by Virtuals",
+	"coingecko": "sympson-ai",
+	"sources": [
+		"coingecko"
+	]
+}

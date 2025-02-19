@@ -1,0 +1,11 @@
+{
+	"chain": 137,
+	"address": "0x9377Eeb7419486FD4D485671d50baa4BF77c2222",
+	"symbol": "PRQ",
+	"name": "PARSIQ",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/11973/thumb/DsNgK0O.png?1596590280",
+	"sources": [
+		"uniswap"
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"chain": 137,
+	"address": "0xe6E320b7bB22018D6CA1F4D8cea1365eF5d25ced",
+	"symbol": "LIT",
+	"name": "Litentry",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/13825/large/logo_200x200.png",
+	"sources": [
+		"uniswap"
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0xB7b37b81d4497AB317fc9d4A370CF243043d6bBe",
+	"symbol": "VAIX",
+	"name": "Vectorspace AI X",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/2063/thumb/vectorspace-ai-logo.jpeg?1696503029",
+	"coingecko": "vectorspace",
+	"sources": [
+		"coingecko"
+	]
+}

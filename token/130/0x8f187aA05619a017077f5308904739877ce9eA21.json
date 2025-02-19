@@ -1,0 +1,14 @@
+{
+	"chain": 130,
+	"address": "0x8f187aA05619a017077f5308904739877ce9eA21",
+	"symbol": "UNI",
+	"name": "Uniswap",
+	"decimals": 18,
+	"logo": "ipfs://QmXttGpZrECX5qCyXbBQiqgQNytVGeZW5Anewvh2jc4psg",
+	"coingecko": "uniswap",
+	"sources": [
+		"coingecko",
+		"optimism",
+		"uniswap"
+	]
+}

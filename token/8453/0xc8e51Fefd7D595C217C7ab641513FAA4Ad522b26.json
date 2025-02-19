@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xc8e51Fefd7D595C217C7ab641513FAA4Ad522b26",
+	"symbol": "Crappy Bird CTO",
+	"name": "Crappy Bird CTO",
+	"coingecko": "crappy-bird-cto",
+	"sources": [
+		"coingecko"
+	]
+}

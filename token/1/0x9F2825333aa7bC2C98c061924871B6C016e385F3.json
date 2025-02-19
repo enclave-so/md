@@ -2,12 +2,10 @@
 	"chain": 1,
 	"address": "0x9F2825333aa7bC2C98c061924871B6C016e385F3",
 	"symbol": "21LTC",
-	"name": "21 co Wrapped LTC",
+	"name": "21.co Wrapped Litecoin",
 	"decimals": 8,
-	"logo": "https://assets.coingecko.com/coins/images/34642/thumb/21ltc.png?1705579343",
-	"coingecko": "wrapped-ltc-21-co",
+	"logo": "https://cdn.indexcoop.com/21ltc.svg",
 	"sources": [
-		"coingecko",
 		"indexcoop"
 	]
 }

@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x3849cC93e7B71b37885237cd91a215974135cD8D",
+	"symbol": "Create",
+	"name": "Create",
+	"coingecko": "create-2",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 2741,
+	"address": "0x8041FbC255d6E6330E92a61325da515656bFD2dd",
+	"symbol": "Yup",
+	"name": "Yup",
+	"coingecko": "yup-2",
+	"sources": [
+		"coingecko"
+	]
+}

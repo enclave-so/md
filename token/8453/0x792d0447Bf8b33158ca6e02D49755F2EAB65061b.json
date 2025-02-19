@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x792d0447Bf8b33158ca6e02D49755F2EAB65061b",
+	"symbol": "Sport Bettor AI",
+	"name": "Sport Bettor AI",
+	"coingecko": "sport-bettor-ai",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -2,9 +2,9 @@
 	"chain": 1,
 	"address": "0xfd0205066521550D7d7AB19DA8F72bb004b4C341",
 	"symbol": "LIT",
-	"name": "Bunni",
+	"name": "Timeless",
 	"decimals": 18,
-	"logo": "https://assets.coingecko.com/coins/images/28714/thumb/apple-touch-icon.png?1726104276",
+	"logo": "https://assets.coingecko.com/coins/images/28714/thumb/Timeless.jpg?1739807323",
 	"coingecko": "timeless",
 	"sources": [
 		"coingecko"

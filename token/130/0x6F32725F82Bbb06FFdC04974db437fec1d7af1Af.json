@@ -1,0 +1,11 @@
+{
+	"chain": 130,
+	"address": "0x6F32725F82Bbb06FFdC04974db437fec1d7af1Af",
+	"symbol": "FX",
+	"name": "Function X",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/8186/thumb/47271330_590071468072434_707260356350705664_n.jpg?1556096683",
+	"sources": [
+		"uniswap"
+	]
+}

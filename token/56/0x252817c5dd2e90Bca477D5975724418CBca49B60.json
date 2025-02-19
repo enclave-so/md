@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x252817c5dd2e90Bca477D5975724418CBca49B60",
+	"symbol": "NEZHA",
+	"name": "NEZHA",
+	"coingecko": "nezha",
+	"sources": [
+		"coingecko"
+	]
+}

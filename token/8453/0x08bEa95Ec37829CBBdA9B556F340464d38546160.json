@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x08bEa95Ec37829CBBdA9B556F340464d38546160",
+	"symbol": "BABY DEGEN",
+	"name": "BABY DEGEN",
+	"coingecko": "baby-degen",
+	"sources": [
+		"coingecko"
+	]
+}

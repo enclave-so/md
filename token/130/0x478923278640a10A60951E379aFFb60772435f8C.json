@@ -1,0 +1,12 @@
+{
+	"chain": 130,
+	"address": "0x478923278640a10A60951E379aFFb60772435f8C",
+	"symbol": "UMA",
+	"name": "UMA Voting Token v1",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x04Fa0d235C4abf4BcF4787aF4CF447DE572eF828/logo.png",
+	"sources": [
+		"optimism",
+		"uniswap"
+	]
+}

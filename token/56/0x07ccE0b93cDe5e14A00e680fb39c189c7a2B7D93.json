@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x07ccE0b93cDe5e14A00e680fb39c189c7a2B7D93",
+	"symbol": "Best Patent Token",
+	"name": "Best Patent Token",
+	"coingecko": "best-patent-token",
+	"sources": [
+		"coingecko"
+	]
+}

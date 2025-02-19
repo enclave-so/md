@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xC438B0c0E80A8Fa1B36898d1b36A3fc2eC371C54",
+	"symbol": "Blep Super Meme",
+	"name": "Blep Super Meme",
+	"coingecko": "blep-super-meme",
+	"sources": [
+		"coingecko"
+	]
+}

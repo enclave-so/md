@@ -1,0 +1,10 @@
+{
+	"chain": 4200,
+	"address": "0x4D9882a3BB13cc086367D0aE964367e6B7ea246f",
+	"symbol": "Party",
+	"name": "Party",
+	"coingecko": "party-4",
+	"sources": [
+		"coingecko"
+	]
+}

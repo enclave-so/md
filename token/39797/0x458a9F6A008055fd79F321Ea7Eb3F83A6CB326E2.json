@@ -1,8 +1,8 @@
 {
 	"chain": 39797,
 	"address": "0x458a9F6A008055fd79F321Ea7Eb3F83A6CB326E2",
-	"symbol": "Dusk",
-	"name": "Dusk",
+	"symbol": "DUSK",
+	"name": "DUSK",
 	"coingecko": "dusk-network",
 	"sources": [
 		"coingecko"

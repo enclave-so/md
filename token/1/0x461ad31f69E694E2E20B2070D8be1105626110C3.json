@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x461ad31f69E694E2E20B2070D8be1105626110C3",
+	"symbol": "RBLXD",
+	"name": "Dinari RBLX",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/54223/thumb/d-token-200.png?1738860997",
+	"coingecko": "dinari-rblx",
+	"sources": [
+		"coingecko"
+	]
+}

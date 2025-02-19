@@ -1,0 +1,11 @@
+{
+	"chain": 130,
+	"address": "0x35C458aD1e3e68d2717C8349b985384Be85a01Ed",
+	"symbol": "CVC",
+	"name": "Civic",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/788/thumb/civic.png?1547034556",
+	"sources": [
+		"uniswap"
+	]
+}

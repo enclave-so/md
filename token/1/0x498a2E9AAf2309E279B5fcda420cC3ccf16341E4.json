@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x498a2E9AAf2309E279B5fcda420cC3ccf16341E4",
+	"symbol": "CTAX",
+	"name": "Cryptax AI",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/53522/thumb/CTAX_%281%29.jpg?1736575550",
+	"coingecko": "cryptax-ai",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x1337420dED5ADb9980CFc35f8f2B054ea86f8aB1",
+	"symbol": "SQD",
+	"name": "SQD",
+	"coingecko": "subsquid",
+	"sources": [
+		"coingecko"
+	]
+}

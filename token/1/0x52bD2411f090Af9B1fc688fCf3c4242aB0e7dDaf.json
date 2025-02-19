@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x52bD2411f090Af9B1fc688fCf3c4242aB0e7dDaf",
+	"symbol": "MELID",
+	"name": "Dinari MELI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/54363/thumb/d-token-200.png?1739401339",
+	"coingecko": "dinari-meli",
+	"sources": [
+		"coingecko"
+	]
+}

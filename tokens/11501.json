@@ -1,10 +1,30 @@
 [
 	{
 		"chain": 11501,
+		"address": "0xF2692468666E459D87052f68aE474E36C1a34fbB",
+		"symbol": "Satoshi Stablecoin",
+		"name": "Satoshi Stablecoin",
+		"coingecko": "satoshi-stablecoin",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 11501,
 		"address": "0x26bda683F874e7AE3e3A5d3fad44Bcb82a7c107C",
 		"symbol": "Bido Staked Bitcoin",
 		"name": "Bido Staked Bitcoin",
 		"coingecko": "bido-staked-bitcoin",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 11501,
+		"address": "0xa67ED736649F2958A35fd249a584151056b4b745",
+		"symbol": "Bridged Tether (BEVM)",
+		"name": "Bridged Tether (BEVM)",
+		"coingecko": "bridged-tether-bevm",
 		"sources": [
 			"coingecko"
 		]
@@ -25,16 +45,6 @@
 		"symbol": "General-Layer BTC",
 		"name": "General-Layer BTC",
 		"coingecko": "general-layer-btc",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 11501,
-		"address": "0xF2692468666E459D87052f68aE474E36C1a34fbB",
-		"symbol": "Satoshi Stablecoin",
-		"name": "Satoshi Stablecoin",
-		"coingecko": "satoshi-stablecoin",
 		"sources": [
 			"coingecko"
 		]

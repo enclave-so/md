@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0x71b14F197DBB6b937665C78120fC07f8355c2C2C",
+	"symbol": "IDRISS",
+	"name": "IDRISS",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/IDRISS/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

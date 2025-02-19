@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x769fF50fD49900a6c53b2aF049eACB83dAD52Bdf",
+	"symbol": "Dinari BITB",
+	"name": "Dinari BITB",
+	"coingecko": "dinari-bitb",
+	"sources": [
+		"coingecko"
+	]
+}

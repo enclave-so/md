@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x8feeF9f0fFa554e51220A3391e7bb7560526a72A",
+	"symbol": "0xsim by Virtuals",
+	"name": "0xsim by Virtuals",
+	"coingecko": "0xsim-by-virtuals",
+	"sources": [
+		"coingecko"
+	]
+}

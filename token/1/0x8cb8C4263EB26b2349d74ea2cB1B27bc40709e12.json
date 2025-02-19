@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x8cb8C4263EB26b2349d74ea2cB1B27bc40709e12",
+	"symbol": "EYWA",
+	"name": "EYWA",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/51242/thumb/Eywa.png?1730449129",
+	"coingecko": "eywa",
+	"sources": [
+		"coingecko"
+	]
+}

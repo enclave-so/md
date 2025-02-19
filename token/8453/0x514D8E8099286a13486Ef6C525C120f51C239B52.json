@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x514D8E8099286a13486Ef6C525C120f51C239B52",
+	"symbol": "Orbiter Finance",
+	"name": "Orbiter Finance",
+	"coingecko": "orbiter-finance",
+	"sources": [
+		"coingecko"
+	]
+}

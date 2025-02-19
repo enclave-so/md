@@ -1,0 +1,11 @@
+{
+	"chain": 130,
+	"address": "0x17f3AfE72cAa6b9090801b60607918b6D2Fa7cdc",
+	"symbol": "BIGTIME",
+	"name": "Big Time",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/32251/standard/-6136155493475923781_121.jpg?1696998691",
+	"sources": [
+		"uniswap"
+	]
+}

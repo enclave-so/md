@@ -1,26 +1,6 @@
 [
 	{
 		"chain": 4337,
-		"address": "0x0650c20D8B536dA43818578071d43CDdd8fFE854",
-		"symbol": "Moonsama",
-		"name": "Moonsama",
-		"coingecko": "exosama-network",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 4337,
-		"address": "0x7fb5a9921CF98362aA425e42f66Bf3484C2C2B5F",
-		"symbol": "Goons of Balatroon",
-		"name": "Goons of Balatroon",
-		"coingecko": "goons-of-balatroon",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 4337,
 		"address": "0x9DA978718b6Bd84Bf485b475EAb253CF76d77b59",
 		"symbol": "Nekoverse: City of Greed Anima Spirit Gem",
 		"name": "Nekoverse: City of Greed Anima Spirit Gem",
@@ -41,50 +21,10 @@
 	},
 	{
 		"chain": 4337,
-		"address": "0x00E69e0b6014d77040b28E04F2b8ac25A6EA5d34",
-		"symbol": "Beam Bridged AVAX (Beam)",
-		"name": "Beam Bridged AVAX (Beam)",
-		"coingecko": "beam-bridged-avax-beam",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 4337,
 		"address": "0x76BF5E7d2Bcb06b1444C0a2742780051D8D0E304",
 		"symbol": "Beam Bridged USDC (Beam)",
 		"name": "Beam Bridged USDC (Beam)",
 		"coingecko": "beam-bridged-usdc-beam",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 4337,
-		"address": "0x61b24C2755371E0AAfFd5f7fc75a3bc074f9a56E",
-		"symbol": "BEAMCAT",
-		"name": "BEAMCAT",
-		"coingecko": "beamcat",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 4337,
-		"address": "0x2DD1DaEd2951aEc5Ba360Acb3256473181ef9751",
-		"symbol": "CEDEN",
-		"name": "CEDEN",
-		"coingecko": "ceden",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 4337,
-		"address": "0xD51BFa777609213A653a2CD067c9A0132a2D316A",
-		"symbol": "Wrapped BEAM",
-		"name": "Wrapped BEAM",
-		"coingecko": "wrapped-merit-circle",
 		"sources": [
 			"coingecko"
 		]
@@ -101,10 +41,70 @@
 	},
 	{
 		"chain": 4337,
+		"address": "0x2DD1DaEd2951aEc5Ba360Acb3256473181ef9751",
+		"symbol": "CEDEN",
+		"name": "CEDEN",
+		"coingecko": "ceden",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 4337,
+		"address": "0x0650c20D8B536dA43818578071d43CDdd8fFE854",
+		"symbol": "Moonsama",
+		"name": "Moonsama",
+		"coingecko": "exosama-network",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 4337,
+		"address": "0x7fb5a9921CF98362aA425e42f66Bf3484C2C2B5F",
+		"symbol": "Goons of Balatroon",
+		"name": "Goons of Balatroon",
+		"coingecko": "goons-of-balatroon",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 4337,
+		"address": "0xD51BFa777609213A653a2CD067c9A0132a2D316A",
+		"symbol": "Wrapped BEAM",
+		"name": "Wrapped BEAM",
+		"coingecko": "wrapped-merit-circle",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 4337,
+		"address": "0x00E69e0b6014d77040b28E04F2b8ac25A6EA5d34",
+		"symbol": "Beam Bridged AVAX (Beam)",
+		"name": "Beam Bridged AVAX (Beam)",
+		"coingecko": "beam-bridged-avax-beam",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 4337,
 		"address": "0x989e7863f15C548ACCF7b62aD432DeFbbA2677bE",
 		"symbol": "Beam Bridged WETH (Beam)",
 		"name": "Beam Bridged WETH (Beam)",
 		"coingecko": "beam-bridged-weth-beam",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 4337,
+		"address": "0x61b24C2755371E0AAfFd5f7fc75a3bc074f9a56E",
+		"symbol": "BEAMCAT",
+		"name": "BEAMCAT",
+		"coingecko": "beamcat",
 		"sources": [
 			"coingecko"
 		]

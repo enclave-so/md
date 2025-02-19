@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0xf9Fa60EF4F23F00CCE403cc4d2c11Baf4880A0d6",
+	"symbol": "FAR",
+	"name": "FARCANA",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/34690/thumb/logo_far_black_short.png?1705853311",
+	"coingecko": "farcana",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0xAeAC3b55c3522157ecdA7EC8fcB86C832fAA28aF",
+	"symbol": "XYRO",
+	"name": "XYRO",
+	"coingecko": "xyro",
+	"sources": [
+		"coingecko"
+	]
+}

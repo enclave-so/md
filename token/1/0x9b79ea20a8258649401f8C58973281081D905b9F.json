@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x9b79ea20a8258649401f8C58973281081D905b9F",
+	"symbol": "N3",
+	"name": "Network3",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/53825/thumb/n3.jpg?1737536342",
+	"coingecko": "network3",
+	"sources": [
+		"coingecko"
+	]
+}

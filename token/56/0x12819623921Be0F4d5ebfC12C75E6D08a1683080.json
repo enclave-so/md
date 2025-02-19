@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x12819623921Be0F4d5ebfC12C75E6D08a1683080",
+	"symbol": "BROCCOLI",
+	"name": "BROCCOLI",
+	"coingecko": "broccoli-2",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x4C1c447F625fAef814566B21494013940b11C30b",
+	"symbol": "Royalty",
+	"name": "Royalty",
+	"coingecko": "royalty",
+	"sources": [
+		"coingecko"
+	]
+}

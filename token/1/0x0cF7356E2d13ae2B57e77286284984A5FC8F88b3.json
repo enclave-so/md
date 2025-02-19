@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x0cF7356E2d13ae2B57e77286284984A5FC8F88b3",
+	"symbol": "SCOT",
+	"name": "Scotcoin",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/54356/thumb/logo.png?1739384345",
+	"coingecko": "scotcoin-2",
+	"sources": [
+		"coingecko"
+	]
+}

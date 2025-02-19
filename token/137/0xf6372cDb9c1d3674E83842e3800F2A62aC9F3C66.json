@@ -1,0 +1,11 @@
+{
+	"chain": 137,
+	"address": "0xf6372cDb9c1d3674E83842e3800F2A62aC9F3C66",
+	"symbol": "IOTX",
+	"name": "IoTeX",
+	"decimals": 18,
+	"logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2777.png",
+	"sources": [
+		"uniswap"
+	]
+}

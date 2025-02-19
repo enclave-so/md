@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xACf80A4e55F5f28e1e7d261a221cA495DB5bcbB3",
+	"symbol": "XAVI by Virtuals",
+	"name": "XAVI by Virtuals",
+	"coingecko": "xavi-by-virtuals",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 80094,
+	"address": "0x36e9fE653E673FDA3857dBe5afBC884Af8A316A2",
+	"symbol": "BeraFi",
+	"name": "BeraFi",
+	"coingecko": "berafi",
+	"sources": [
+		"coingecko"
+	]
+}

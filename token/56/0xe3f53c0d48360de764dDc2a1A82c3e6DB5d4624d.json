@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xe3f53c0d48360de764dDc2a1A82c3e6DB5d4624d",
+	"symbol": "E Money Network",
+	"name": "E Money Network",
+	"coingecko": "emoneytoken",
+	"sources": [
+		"coingecko"
+	]
+}

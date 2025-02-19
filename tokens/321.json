@@ -1,6 +1,36 @@
 [
 	{
 		"chain": 321,
+		"address": "0x4A81704d8C16d9FB0d7f61B747D0B5a272badf14",
+		"symbol": "KuSwap",
+		"name": "KuSwap",
+		"coingecko": "kuswap",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 321,
+		"address": "0x2cA48b4eeA5A731c2B54e7C3944DBDB87c0CFB6F",
+		"symbol": "MojitoSwap",
+		"name": "MojitoSwap",
+		"coingecko": "mojitoswap",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 321,
+		"address": "0x00eE2d494258D6C5A30d6B6472A09b27121Ef451",
+		"symbol": "Staked KCS",
+		"name": "Staked KCS",
+		"coingecko": "staked-kcs",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 321,
 		"address": "0x4446Fc4eb47f2f6586f9fAAb68B3498F86C07521",
 		"symbol": "Wrapped KCS",
 		"name": "Wrapped KCS",
@@ -35,46 +65,6 @@
 		"symbol": "KCC Bridged USDT (Kucoin Community Chain)",
 		"name": "KCC Bridged USDT (Kucoin Community Chain)",
 		"coingecko": "kucoin-bridged-usdt-kucoin-community-chain",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 321,
-		"address": "0x4A81704d8C16d9FB0d7f61B747D0B5a272badf14",
-		"symbol": "KuSwap",
-		"name": "KuSwap",
-		"coingecko": "kuswap",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 321,
-		"address": "0x2cA48b4eeA5A731c2B54e7C3944DBDB87c0CFB6F",
-		"symbol": "MojitoSwap",
-		"name": "MojitoSwap",
-		"coingecko": "mojitoswap",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 321,
-		"address": "0x974E54266708292383C2989DCA5FDbb115666D4f",
-		"symbol": "Metaland Shares",
-		"name": "Metaland Shares",
-		"coingecko": "pikaster",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 321,
-		"address": "0x00eE2d494258D6C5A30d6B6472A09b27121Ef451",
-		"symbol": "Staked KCS",
-		"name": "Staked KCS",
-		"coingecko": "staked-kcs",
 		"sources": [
 			"coingecko"
 		]

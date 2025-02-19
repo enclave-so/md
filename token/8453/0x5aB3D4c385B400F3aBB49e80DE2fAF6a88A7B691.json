@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x5aB3D4c385B400F3aBB49e80DE2fAF6a88A7B691",
+	"symbol": "FLOCK",
+	"name": "FLOCK",
+	"coingecko": "flock-2",
+	"sources": [
+		"coingecko"
+	]
+}

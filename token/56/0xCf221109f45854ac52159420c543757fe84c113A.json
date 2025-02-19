@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xCf221109f45854ac52159420c543757fe84c113A",
+	"symbol": "ChainAware.ai",
+	"name": "ChainAware.ai",
+	"coingecko": "chainaware-ai",
+	"sources": [
+		"coingecko"
+	]
+}

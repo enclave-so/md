@@ -1,10 +1,13 @@
 {
 	"chain": 137,
 	"address": "0xfBd8A3b908e764dBcD51e27992464B4432A1132b",
-	"symbol": "Index Cooperative",
+	"symbol": "INDEX",
 	"name": "Index Cooperative",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/12729/thumb/index.png?1634894321",
 	"coingecko": "index-cooperative",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"uniswap"
 	]
 }

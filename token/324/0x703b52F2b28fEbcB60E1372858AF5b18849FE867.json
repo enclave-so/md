@@ -1,9 +1,9 @@
 {
 	"chain": 324,
 	"address": "0x703b52F2b28fEbcB60E1372858AF5b18849FE867",
-	"symbol": "Wrapped stETH",
-	"name": "Wrapped stETH",
-	"coingecko": "wrapped-steth",
+	"symbol": "txSync Bridged wstETH (zkSync)",
+	"name": "txSync Bridged wstETH (zkSync)",
+	"coingecko": "txsync-bridged-wsteth-zksync",
 	"sources": [
 		"coingecko"
 	]

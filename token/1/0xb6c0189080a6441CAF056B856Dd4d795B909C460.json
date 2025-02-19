@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0xb6c0189080a6441CAF056B856Dd4d795B909C460",
+	"symbol": "MOON",
+	"name": "Black Unicorn Corp ",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/52874/thumb/logo.png?1734552855",
+	"coingecko": "black-unicorn-corp",
+	"sources": [
+		"coingecko"
+	]
+}

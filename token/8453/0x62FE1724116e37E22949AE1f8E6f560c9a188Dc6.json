@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x62FE1724116e37E22949AE1f8E6f560c9a188Dc6",
+	"symbol": "NAIFU",
+	"name": "NAIFU",
+	"coingecko": "naifu",
+	"sources": [
+		"coingecko"
+	]
+}

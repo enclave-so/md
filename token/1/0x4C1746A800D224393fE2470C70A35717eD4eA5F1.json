@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x4C1746A800D224393fE2470C70A35717eD4eA5F1",
+	"symbol": "PLUME",
+	"name": "Plume",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/53623/thumb/plume-token.png?1736896935",
+	"coingecko": "plume",
+	"sources": [
+		"coingecko"
+	]
+}

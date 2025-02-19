@@ -1,0 +1,10 @@
+{
+	"chain": 122,
+	"address": "0xc6Bc407706B7140EE8Eef2f86F9504651b63e7f9",
+	"symbol": "Stargate Bridged USDC (Fuse)",
+	"name": "Stargate Bridged USDC (Fuse)",
+	"coingecko": "stargate-bridged-usdc-fuse",
+	"sources": [
+		"coingecko"
+	]
+}

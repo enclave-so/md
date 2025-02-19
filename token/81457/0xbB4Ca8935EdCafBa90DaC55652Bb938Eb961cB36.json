@@ -1,0 +1,10 @@
+{
+	"chain": 81457,
+	"address": "0xbB4Ca8935EdCafBa90DaC55652Bb938Eb961cB36",
+	"symbol": "Dinari ITA",
+	"name": "Dinari ITA",
+	"coingecko": "dinari-ita",
+	"sources": [
+		"coingecko"
+	]
+}

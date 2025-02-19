@@ -1,8 +1,8 @@
 {
 	"chain": 137,
 	"address": "0x94615302bCB36309371ea7454f3e99A4002105dE",
-	"symbol": "Nereus Token",
-	"name": "Nereus Token",
+	"symbol": "Nereus",
+	"name": "Nereus",
 	"coingecko": "nereus-token",
 	"sources": [
 		"coingecko"

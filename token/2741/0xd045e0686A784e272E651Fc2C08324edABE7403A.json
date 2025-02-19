@@ -1,0 +1,10 @@
+{
+	"chain": 2741,
+	"address": "0xd045e0686A784e272E651Fc2C08324edABE7403A",
+	"symbol": "Chengu",
+	"name": "Chengu",
+	"coingecko": "chengu",
+	"sources": [
+		"coingecko"
+	]
+}

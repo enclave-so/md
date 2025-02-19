@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xD34984D7bfF492dC3b2336EAbD1758cE16DDFC2D",
+	"symbol": "AVC",
+	"name": "AVC",
+	"coingecko": "avc",
+	"sources": [
+		"coingecko"
+	]
+}

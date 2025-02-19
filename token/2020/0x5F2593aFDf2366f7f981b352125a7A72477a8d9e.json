@@ -1,0 +1,10 @@
+{
+	"chain": 2020,
+	"address": "0x5F2593aFDf2366f7f981b352125a7A72477a8d9e",
+	"symbol": "KAT",
+	"name": "KAT",
+	"coingecko": "kat",
+	"sources": [
+		"coingecko"
+	]
+}

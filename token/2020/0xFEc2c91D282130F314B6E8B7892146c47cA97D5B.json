@@ -1,0 +1,10 @@
+{
+	"chain": 2020,
+	"address": "0xFEc2c91D282130F314B6E8B7892146c47cA97D5B",
+	"symbol": "Tamatest",
+	"name": "Tamatest",
+	"coingecko": "tamatest",
+	"sources": [
+		"coingecko"
+	]
+}

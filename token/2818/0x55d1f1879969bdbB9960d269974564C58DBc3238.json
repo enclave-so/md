@@ -1,0 +1,10 @@
+{
+	"chain": 2818,
+	"address": "0x55d1f1879969bdbB9960d269974564C58DBc3238",
+	"symbol": "Bitget Token",
+	"name": "Bitget Token",
+	"coingecko": "bitget-token",
+	"sources": [
+		"coingecko"
+	]
+}

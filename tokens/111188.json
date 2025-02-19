@@ -1,56 +1,6 @@
 [
 	{
 		"chain": 111188,
-		"address": "0xCE1581d7b4bA40176f0e219b2CaC30088Ad50C7A",
-		"symbol": "Pearl",
-		"name": "Pearl",
-		"coingecko": "pearl",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 111188,
-		"address": "0x83feDBc0B85c6e29B589aA6BdefB1Cc581935ECD",
-		"symbol": "Re.al US T-Bill",
-		"name": "Re.al US T-Bill",
-		"coingecko": "real-us-t-bill",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 111188,
-		"address": "0xAEC9e50e3397f9ddC635C6c429C8C7eca418a143",
-		"symbol": "Arcana arcUSD",
-		"name": "Arcana arcUSD",
-		"coingecko": "arcana-2",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 111188,
-		"address": "0xB08F026f8a096E6d92eb5BcbE102c273A7a2d51C",
-		"symbol": "Caviar",
-		"name": "Caviar",
-		"coingecko": "caviar-3",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 111188,
-		"address": "0x4644066f535Ead0cde82D209dF78d94572fCbf14",
-		"symbol": "re.al",
-		"name": "re.al",
-		"coingecko": "re-al",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 111188,
 		"address": "0x75d0cBF342060b14c2fC756fd6E717dFeb5B1B70",
 		"symbol": "Re.al Bridged DAI (Re.al)",
 		"name": "Re.al Bridged DAI (Re.al)",
@@ -61,10 +11,10 @@
 	},
 	{
 		"chain": 111188,
-		"address": "0x25ea98ac87A38142561eA70143fd44c4772A16b6",
-		"symbol": "Stack",
-		"name": "Stack",
-		"coingecko": "stack-2",
+		"address": "0x83feDBc0B85c6e29B589aA6BdefB1Cc581935ECD",
+		"symbol": "Re.al US T-Bill",
+		"name": "Re.al US T-Bill",
+		"coingecko": "real-us-t-bill",
 		"sources": [
 			"coingecko"
 		]
@@ -95,6 +45,66 @@
 		"symbol": "LayerZero Bridged USDC (re.al)",
 		"name": "LayerZero Bridged USDC (re.al)",
 		"coingecko": "bridged-usdc-re-al",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 111188,
+		"address": "0xCE1581d7b4bA40176f0e219b2CaC30088Ad50C7A",
+		"symbol": "Pearl",
+		"name": "Pearl",
+		"coingecko": "pearl",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 111188,
+		"address": "0x4644066f535Ead0cde82D209dF78d94572fCbf14",
+		"symbol": "re.al",
+		"name": "re.al",
+		"coingecko": "re-al",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 111188,
+		"address": "0x25ea98ac87A38142561eA70143fd44c4772A16b6",
+		"symbol": "Stack",
+		"name": "Stack",
+		"coingecko": "stack-2",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 111188,
+		"address": "0xAEC9e50e3397f9ddC635C6c429C8C7eca418a143",
+		"symbol": "Arcana arcUSD",
+		"name": "Arcana arcUSD",
+		"coingecko": "arcana-2",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 111188,
+		"address": "0xB08F026f8a096E6d92eb5BcbE102c273A7a2d51C",
+		"symbol": "Caviar",
+		"name": "Caviar",
+		"coingecko": "caviar-3",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 111188,
+		"address": "0xA300D6bcE36036c8239C7F457fa4F77D01e88544",
+		"symbol": "Frens.ai",
+		"name": "Frens.ai",
+		"coingecko": "frens-ai",
 		"sources": [
 			"coingecko"
 		]

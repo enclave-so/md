@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x77ED4E6d616BcD773328D61CF2690225E4Cca238",
+	"symbol": "Mars Doge",
+	"name": "Mars Doge",
+	"coingecko": "mars-doge-2",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,8 +1,8 @@
 {
 	"chain": 137,
 	"address": "0x6C0AB120dBd11BA701AFF6748568311668F63FE0",
-	"symbol": "Spectra",
-	"name": "Spectra",
+	"symbol": "Spectra [OLD]",
+	"name": "Spectra [OLD]",
 	"coingecko": "apwine",
 	"sources": [
 		"coingecko"

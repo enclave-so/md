@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0xDd1Ddd4D978ac0BaEF4bfa9C7E91853bFcE90F11",
+	"symbol": "The Lux Network",
+	"name": "The Lux Network",
+	"coingecko": "the-lux-network",
+	"sources": [
+		"coingecko"
+	]
+}

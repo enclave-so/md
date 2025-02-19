@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x50f7b76a0b888E5D7196F1a472D2E567D425C761",
+	"symbol": "Dinari TJX",
+	"name": "Dinari TJX",
+	"coingecko": "dinari-tjx",
+	"sources": [
+		"coingecko"
+	]
+}

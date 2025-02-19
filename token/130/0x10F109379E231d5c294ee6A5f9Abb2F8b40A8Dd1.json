@@ -1,0 +1,11 @@
+{
+	"chain": 130,
+	"address": "0x10F109379E231d5c294ee6A5f9Abb2F8b40A8Dd1",
+	"symbol": "MUSD",
+	"name": "mStable USD",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/11576/thumb/mStable_USD.png?1595591803",
+	"sources": [
+		"uniswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x18Ebb8a30dD304c306b5296518FCB0fD31372198",
+	"symbol": "Bscbook",
+	"name": "Bscbook",
+	"coingecko": "bscbook",
+	"sources": [
+		"coingecko"
+	]
+}

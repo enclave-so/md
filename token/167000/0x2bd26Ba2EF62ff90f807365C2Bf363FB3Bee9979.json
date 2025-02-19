@@ -1,0 +1,10 @@
+{
+	"chain": 167000,
+	"address": "0x2bd26Ba2EF62ff90f807365C2Bf363FB3Bee9979",
+	"symbol": "Minterest",
+	"name": "Minterest",
+	"coingecko": "minterest",
+	"sources": [
+		"coingecko"
+	]
+}

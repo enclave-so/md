@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x8d7c2588c365b9e98Ea464b63DBCCDf13ECd9809",
+	"symbol": "Flourishing AI",
+	"name": "Flourishing AI",
+	"coingecko": "flourishing-ai-token",
+	"sources": [
+		"coingecko"
+	]
+}

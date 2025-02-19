@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x3e2242Cb2Fc1465822a0bb81ca2fe1f633a45757",
+	"symbol": "Forky",
+	"name": "Forky",
+	"coingecko": "forky-2",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0x81e32d4652Be82AE225DEdd1bD0bf3BCba8FEE07",
+	"symbol": "XRING",
+	"name": "Darwinia Network xRING",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/54467/thumb/RING.png?1739897455",
+	"coingecko": "darwinia-network-xring",
+	"sources": [
+		"coingecko",
+		"optimism"
+	]
+}

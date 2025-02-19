@@ -1,0 +1,11 @@
+{
+	"chain": 130,
+	"address": "0xB0E4Ad2dFe3754e4a2443A7a828Eda5bB7Cd2284",
+	"symbol": "KNC",
+	"name": "Kyber Network Crystal",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdd974D5C2e2928deA5F71b9825b8b646686BD200/logo.png",
+	"sources": [
+		"uniswap"
+	]
+}

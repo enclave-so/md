@@ -1,8 +1,8 @@
 {
 	"chain": 43114,
 	"address": "0x3c780F5cBF94De3EFCec964Af928D08c4508EeBE",
-	"symbol": "Spacem Token",
-	"name": "Spacem Token",
+	"symbol": "SpaceM Token",
+	"name": "SpaceM Token",
 	"coingecko": "spacem-token",
 	"sources": [
 		"coingecko"

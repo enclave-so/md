@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x437b5acC7D6F0eacb97431E649C61e98badB3f92",
+	"symbol": "Dinari PG",
+	"name": "Dinari PG",
+	"coingecko": "dinari-pg",
+	"sources": [
+		"coingecko"
+	]
+}

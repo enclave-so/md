@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0xAEDC5e1E05c2fB8840F6D6dF4E8F63e983C32BD5",
+	"symbol": "HODLD",
+	"name": "Dinari HODL",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/54053/thumb/d-token-200.png?1738103664",
+	"coingecko": "dinari-hodl",
+	"sources": [
+		"coingecko"
+	]
+}

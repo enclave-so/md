@@ -1,0 +1,11 @@
+{
+	"chain": 130,
+	"address": "0xAdf70dc4AaeFbC6D1E7A6cF0B02b0F2138b560d2",
+	"symbol": "PUFFER",
+	"name": "Puffer Finance",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/50630/large/puffer.jpg?1728545297",
+	"sources": [
+		"uniswap"
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x0B3EAEAd748facDb9d943d3407011f16Eb17D0Cf",
+	"symbol": "PMX",
+	"name": "Primex Finance",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/28344/thumb/Primex_Finance_Updated_Logo.png?1697995403",
+	"coingecko": "primex-finance",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x8f0987DDb485219c767770e2080E5cC01ddc772a",
+	"symbol": "Base Yield Index",
+	"name": "Base Yield Index",
+	"coingecko": "base-yield-index",
+	"sources": [
+		"coingecko"
+	]
+}

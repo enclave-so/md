@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x1095AE55B62174D9EA3Bc6A4136acacaD461d7ce",
+	"symbol": "ITHACA",
+	"name": "Ithaca Protocol",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/52502/thumb/ITHACA_Icon.png?1733472382",
+	"coingecko": "ithaca-protocol",
+	"sources": [
+		"coingecko"
+	]
+}

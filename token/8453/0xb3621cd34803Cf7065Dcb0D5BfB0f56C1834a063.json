@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xb3621cd34803Cf7065Dcb0D5BfB0f56C1834a063",
+	"symbol": "DeFi Agents AI",
+	"name": "DeFi Agents AI",
+	"coingecko": "defi-agents-ai",
+	"sources": [
+		"coingecko"
+	]
+}

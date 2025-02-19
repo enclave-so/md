@@ -1,0 +1,10 @@
+{
+	"chain": 57073,
+	"address": "0x0200C29006150606B650577BBE7B6248F58470c1",
+	"symbol": "USDT0",
+	"name": "USDT0",
+	"coingecko": "usdt0",
+	"sources": [
+		"coingecko"
+	]
+}

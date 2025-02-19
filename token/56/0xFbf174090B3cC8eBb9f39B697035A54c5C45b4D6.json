@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xFbf174090B3cC8eBb9f39B697035A54c5C45b4D6",
+	"symbol": "POM",
+	"name": "POM",
+	"coingecko": "pom",
+	"sources": [
+		"coingecko"
+	]
+}

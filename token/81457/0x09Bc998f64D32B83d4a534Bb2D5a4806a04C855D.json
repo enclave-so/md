@@ -1,0 +1,10 @@
+{
+	"chain": 81457,
+	"address": "0x09Bc998f64D32B83d4a534Bb2D5a4806a04C855D",
+	"symbol": "Dinari SPWO",
+	"name": "Dinari SPWO",
+	"coingecko": "dinari-spwo",
+	"sources": [
+		"coingecko"
+	]
+}

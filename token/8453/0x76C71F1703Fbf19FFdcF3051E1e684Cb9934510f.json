@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x76C71F1703Fbf19FFdcF3051E1e684Cb9934510f",
+	"symbol": "aixCB by Virtuals",
+	"name": "aixCB by Virtuals",
+	"coingecko": "aixcb-by-virtuals",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xC3571b3f9721D07919dc42af7fce2784B56e8E3c",
+	"symbol": "Chengpang Zhoa",
+	"name": "Chengpang Zhoa",
+	"coingecko": "chengpang-zhoa",
+	"sources": [
+		"coingecko"
+	]
+}

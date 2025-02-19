@@ -1,117 +1,11 @@
 [
 	{
 		"chain": 1116,
-		"address": "0x000000000E1D682Cc39ABe9B32285fdEa1255374",
-		"symbol": "CORE ID",
-		"name": "CORE ID",
-		"coingecko": "core-id",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 1116,
-		"address": "0x900101d06A7426441Ae63e9AB3B9b0F63Be145F1",
-		"symbol": "USDT",
-		"name": "Tether USD",
-		"decimals": 6,
-		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/core/0x900101d06A7426441Ae63e9AB3B9b0F63Be145F1.jpg",
-		"coingecko": "bridged-usdt-core",
-		"sources": [
-			"coingecko",
-			"sushiswap"
-		]
-	},
-	{
-		"chain": 1116,
-		"address": "0x962D45C91e2e4f29DdC96C626976ECE600908Ba6",
-		"symbol": "ArcherSwap Hunter",
-		"name": "ArcherSwap Hunter",
-		"coingecko": "archerswap-hunter",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 1116,
-		"address": "0xB28B43209d9de61306172Af0320f4f55e50E2f29",
-		"symbol": "ASX Capital",
-		"name": "ASX Capital",
-		"coingecko": "asx-capital",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 1116,
-		"address": "0x40375C92d9FAf44d2f9db9Bd9ba41a3317a2404f",
-		"symbol": "WCORE",
-		"name": "Wrapped Core",
-		"decimals": 18,
-		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/core/0x40375C92d9FAf44d2f9db9Bd9ba41a3317a2404f.jpg",
-		"coingecko": "wrapped-core",
-		"sources": [
-			"coingecko",
-			"sushiswap"
-		]
-	},
-	{
-		"chain": 1116,
-		"address": "0x01065D48363713fA32C6cA51387E0803023C872c",
-		"symbol": "AGUS",
-		"name": "AGUS",
-		"coingecko": "agus",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 1116,
-		"address": "0x1a639e150d2210A4BE4a5F0857A9151B241E7AE4",
-		"symbol": "Archerswap BOW",
-		"name": "Archerswap BOW",
-		"coingecko": "archerswap-bow",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 1116,
-		"address": "0xb3A8F0f0da9ffC65318aA39E55079796093029AD",
-		"symbol": "CoreDAO Staked CORE",
-		"name": "CoreDAO Staked CORE",
-		"coingecko": "coredao-staked-core",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 1116,
-		"address": "0xc24B642357D7Dd1bBE33F3D8Aa0101DFA2cf6EB9",
-		"symbol": "Core Stake Token",
-		"name": "Core Stake Token",
-		"coingecko": "core-stake-token",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 1116,
-		"address": "0x5B1Fb849f1F76217246B8AAAC053b5C7b15b7dc3",
-		"symbol": "Free Bridged SolvBTC.b (Core)",
-		"name": "Free Bridged SolvBTC.b (Core)",
-		"coingecko": "free-bridged-solvbtcb-core",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 1116,
-		"address": "0xC0E5f8E2a9a2f1FBf34ab4d5FbF417ffd02Fdb79",
-		"symbol": "PEPE",
-		"name": "Pepe",
-		"decimals": 18,
-		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/core/0xC0E5f8E2a9a2f1FBf34ab4d5FbF417ffd02Fdb79.jpg",
+		"address": "0x2297aEbD383787A160DD0d9F71508148769342E3",
+		"symbol": "BTC.b",
+		"name": "Bitcoin",
+		"decimals": 8,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/core/0x2297aEbD383787A160DD0d9F71508148769342E3.jpg",
 		"sources": [
 			"sushiswap"
 		]
@@ -131,21 +25,10 @@
 	},
 	{
 		"chain": 1116,
-		"address": "0xeAB3aC417c4d6dF6b143346a46fEe1B847B50296",
-		"symbol": "WETH",
-		"name": "Wrapped Ether",
-		"decimals": 18,
-		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/core/0xeAB3aC417c4d6dF6b143346a46fEe1B847B50296.jpg",
-		"sources": [
-			"sushiswap"
-		]
-	},
-	{
-		"chain": 1116,
-		"address": "0xcfd38184c30832917A2871695F91e5e61bBD41fF",
-		"symbol": "Miidas",
-		"name": "Miidas",
-		"coingecko": "miidas",
+		"address": "0x8BB97A618211695f5a6a889faC3546D1a573ea77",
+		"symbol": "NexusBTC",
+		"name": "NexusBTC",
+		"coingecko": "nexusbtc",
 		"sources": [
 			"coingecko"
 		]
@@ -162,70 +45,23 @@
 	},
 	{
 		"chain": 1116,
-		"address": "0xF6f46BD1F85eBF00c6d7490678aD020BC73969A7",
-		"symbol": "PlayZap",
-		"name": "PlayZap",
-		"coingecko": "playzap",
+		"address": "0x900101d06A7426441Ae63e9AB3B9b0F63Be145F1",
+		"symbol": "USDT",
+		"name": "Tether USD",
+		"decimals": 6,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/core/0x900101d06A7426441Ae63e9AB3B9b0F63Be145F1.jpg",
+		"coingecko": "bridged-usdt-core",
 		"sources": [
-			"coingecko"
+			"coingecko",
+			"sushiswap"
 		]
 	},
 	{
 		"chain": 1116,
-		"address": "0xF3CABeb4A292996a451f8094E14F4806d22604d4",
-		"symbol": "OreSwap",
-		"name": "OreSwap",
-		"coingecko": "oreswap-2",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 1116,
-		"address": "0x9410e8052Bc661041e5cB27fDf7d9e9e842af2aa",
-		"symbol": "Solv Protocol SolvBTC.CORE",
-		"name": "Solv Protocol SolvBTC.CORE",
-		"coingecko": "solv-protocol-solvbtc-core",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 1116,
-		"address": "0x70727228DB8C7491bF0aD42C180dbf8D95B257e2",
-		"symbol": "XLink Bridged BTC",
-		"name": "XLink Bridged BTC",
-		"coingecko": "xlink-bridged-btc-stacks",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 1116,
-		"address": "0x191E94fa59739e188dcE837F7f6978d84727AD01",
-		"symbol": "Core",
-		"name": "Core",
-		"coingecko": "coredaoorg",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 1116,
-		"address": "0xe04d21d999FaEDf1e72AdE6629e20A11a1ed14FA",
-		"symbol": "Free Bridged SolvBTC.m (Core)",
-		"name": "Free Bridged SolvBTC.m (Core)",
-		"coingecko": "free-bridged-solvbtc-m-core",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 1116,
-		"address": "0xF7a0b80681eC935d6dd9f3Af9826E68B99897d6D",
-		"symbol": "LFGSwap Finance(CORE)",
-		"name": "LFGSwap Finance(CORE)",
-		"coingecko": "lfgswap-finance-core",
+		"address": "0x30A540B05468A250fCc17Da2D9D4aaa84B358eA7",
+		"symbol": "Colend",
+		"name": "Colend",
+		"coingecko": "colend",
 		"sources": [
 			"coingecko"
 		]
@@ -242,6 +78,57 @@
 	},
 	{
 		"chain": 1116,
+		"address": "0xda31D0d1Bc934fC34F7189E38A413ca0A5e8b44F",
+		"symbol": "BSSB",
+		"name": "BSSB",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/core/0xda31D0d1Bc934fC34F7189E38A413ca0A5e8b44F.jpg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 1116,
+		"address": "0xb3A8F0f0da9ffC65318aA39E55079796093029AD",
+		"symbol": "CoreDAO Staked CORE",
+		"name": "CoreDAO Staked CORE",
+		"coingecko": "coredao-staked-core",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1116,
+		"address": "0xcfd38184c30832917A2871695F91e5e61bBD41fF",
+		"symbol": "Miidas",
+		"name": "Miidas",
+		"coingecko": "miidas",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1116,
+		"address": "0x191E94fa59739e188dcE837F7f6978d84727AD01",
+		"symbol": "Core",
+		"name": "Core",
+		"coingecko": "coredaoorg",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1116,
+		"address": "0xB555A396446570Ac2f4a62fFfb64b4b0D43F5B74",
+		"symbol": "CoreDaoSwap",
+		"name": "CoreDaoSwap",
+		"coingecko": "coredaoswap",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1116,
 		"address": "0xb0788B601C0D712702bc829B52771199ad8E33Ff",
 		"symbol": "IceCreamSwap WCORE",
 		"name": "IceCreamSwap WCORE",
@@ -252,41 +139,31 @@
 	},
 	{
 		"chain": 1116,
-		"address": "0x04596cf36027D177d460c2D0c4235eEc0a97EcBB",
-		"symbol": "PLANET",
-		"name": "PLANET",
+		"address": "0xC0E5f8E2a9a2f1FBf34ab4d5FbF417ffd02Fdb79",
+		"symbol": "PEPE",
+		"name": "Pepe",
 		"decimals": 18,
-		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/core/0x04596cf36027D177d460c2D0c4235eEc0a97EcBB.jpg",
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/core/0xC0E5f8E2a9a2f1FBf34ab4d5FbF417ffd02Fdb79.jpg",
 		"sources": [
 			"sushiswap"
 		]
 	},
 	{
 		"chain": 1116,
-		"address": "0xB4A452e975C006619559E30069804F873475f111",
-		"symbol": "Call of Memes Yacht Club",
-		"name": "Call of Memes Yacht Club",
-		"coingecko": "call-of-memes-yacht-club",
+		"address": "0x01065D48363713fA32C6cA51387E0803023C872c",
+		"symbol": "AGUS",
+		"name": "AGUS",
+		"coingecko": "agus",
 		"sources": [
 			"coingecko"
 		]
 	},
 	{
 		"chain": 1116,
-		"address": "0xc5cd3F4029269Fe9F2d2D154594D02f13C9a5214",
-		"symbol": "Core Keeper",
-		"name": "Core Keeper",
-		"coingecko": "core-keeper",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 1116,
-		"address": "0xA20b3B97df3a02f9185175760300a06B4e0A2C05",
-		"symbol": "Staked CORE",
-		"name": "Staked CORE",
-		"coingecko": "staked-core",
+		"address": "0xB28B43209d9de61306172Af0320f4f55e50E2f29",
+		"symbol": "ASX Capital",
+		"name": "ASX Capital",
+		"coingecko": "asx-capital",
 		"sources": [
 			"coingecko"
 		]
@@ -304,6 +181,46 @@
 	},
 	{
 		"chain": 1116,
+		"address": "0xF6f46BD1F85eBF00c6d7490678aD020BC73969A7",
+		"symbol": "PlayZap",
+		"name": "PlayZap",
+		"coingecko": "playzap",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1116,
+		"address": "0x70727228DB8C7491bF0aD42C180dbf8D95B257e2",
+		"symbol": "XLink Bridged BTC",
+		"name": "XLink Bridged BTC",
+		"coingecko": "xlink-bridged-btc-stacks",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1116,
+		"address": "0x98564E70c7fCC6d947fFE6d9EfeD5ba68b306F2E",
+		"symbol": "Ignore Fud",
+		"name": "Ignore Fud",
+		"coingecko": "ignore-fud",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1116,
+		"address": "0xF7a0b80681eC935d6dd9f3Af9826E68B99897d6D",
+		"symbol": "LFGSwap Finance(CORE)",
+		"name": "LFGSwap Finance(CORE)",
+		"coingecko": "lfgswap-finance-core",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1116,
 		"address": "0x74c7b589209Ce095A219f8bDF941De117656CBd6",
 		"symbol": "Oil Token",
 		"name": "Oil Token",
@@ -314,10 +231,41 @@
 	},
 	{
 		"chain": 1116,
-		"address": "0xFd843e2eB0E5F7e652fB864477D57510a469b332",
-		"symbol": "OpenEX Network Token",
-		"name": "OpenEX Network Token",
-		"coingecko": "openex-network-token",
+		"address": "0xF3CABeb4A292996a451f8094E14F4806d22604d4",
+		"symbol": "OreSwap",
+		"name": "OreSwap",
+		"coingecko": "oreswap-2",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1116,
+		"address": "0xA20b3B97df3a02f9185175760300a06B4e0A2C05",
+		"symbol": "Staked CORE",
+		"name": "Staked CORE",
+		"coingecko": "staked-core",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1116,
+		"address": "0xeAB3aC417c4d6dF6b143346a46fEe1B847B50296",
+		"symbol": "WETH",
+		"name": "Wrapped Ether",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/core/0xeAB3aC417c4d6dF6b143346a46fEe1B847B50296.jpg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 1116,
+		"address": "0x962D45C91e2e4f29DdC96C626976ECE600908Ba6",
+		"symbol": "ArcherSwap Hunter",
+		"name": "ArcherSwap Hunter",
+		"coingecko": "archerswap-hunter",
 		"sources": [
 			"coingecko"
 		]
@@ -334,10 +282,104 @@
 	},
 	{
 		"chain": 1116,
-		"address": "0x98564E70c7fCC6d947fFE6d9EfeD5ba68b306F2E",
-		"symbol": "Ignore Fud",
-		"name": "Ignore Fud",
-		"coingecko": "ignore-fud",
+		"address": "0xB4A452e975C006619559E30069804F873475f111",
+		"symbol": "Call of Memes Yacht Club",
+		"name": "Call of Memes Yacht Club",
+		"coingecko": "call-of-memes-yacht-club",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1116,
+		"address": "0x42077e348702f13Ea80CE6a6A38b8b60fbb37B5d",
+		"symbol": "cDAO",
+		"name": "cDAO",
+		"coingecko": "cdao",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1116,
+		"address": "0x000000000E1D682Cc39ABe9B32285fdEa1255374",
+		"symbol": "CORE ID",
+		"name": "CORE ID",
+		"coingecko": "core-id",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1116,
+		"address": "0xe04d21d999FaEDf1e72AdE6629e20A11a1ed14FA",
+		"symbol": "Free Bridged SolvBTC.m (Core)",
+		"name": "Free Bridged SolvBTC.m (Core)",
+		"coingecko": "free-bridged-solvbtc-m-core",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1116,
+		"address": "0xFd843e2eB0E5F7e652fB864477D57510a469b332",
+		"symbol": "OpenEX Network Token",
+		"name": "OpenEX Network Token",
+		"coingecko": "openex-network-token",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1116,
+		"address": "0x04596cf36027D177d460c2D0c4235eEc0a97EcBB",
+		"symbol": "PLANET",
+		"name": "PLANET",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/core/0x04596cf36027D177d460c2D0c4235eEc0a97EcBB.jpg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 1116,
+		"address": "0x40375C92d9FAf44d2f9db9Bd9ba41a3317a2404f",
+		"symbol": "WCORE",
+		"name": "Wrapped Core",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/core/0x40375C92d9FAf44d2f9db9Bd9ba41a3317a2404f.jpg",
+		"coingecko": "wrapped-core",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 1116,
+		"address": "0x1a639e150d2210A4BE4a5F0857A9151B241E7AE4",
+		"symbol": "Archerswap BOW",
+		"name": "Archerswap BOW",
+		"coingecko": "archerswap-bow",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1116,
+		"address": "0xe9aece1BA8bBd429a1ed33349C61280441AC8F99",
+		"symbol": "Liquify Network",
+		"name": "Liquify Network",
+		"coingecko": "liquify-network",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1116,
+		"address": "0x9410e8052Bc661041e5cB27fDf7d9e9e842af2aa",
+		"symbol": "Solv Protocol SolvBTC.CORE",
+		"name": "Solv Protocol SolvBTC.CORE",
+		"coingecko": "solv-protocol-solvbtc-core",
 		"sources": [
 			"coingecko"
 		]
@@ -357,82 +399,20 @@
 	},
 	{
 		"chain": 1116,
-		"address": "0x2297aEbD383787A160DD0d9F71508148769342E3",
-		"symbol": "BTC.b",
-		"name": "Bitcoin",
-		"decimals": 8,
-		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/core/0x2297aEbD383787A160DD0d9F71508148769342E3.jpg",
-		"sources": [
-			"sushiswap"
-		]
-	},
-	{
-		"chain": 1116,
-		"address": "0x30A540B05468A250fCc17Da2D9D4aaa84B358eA7",
-		"symbol": "Colend",
-		"name": "Colend",
-		"coingecko": "colend",
+		"address": "0xc5cd3F4029269Fe9F2d2D154594D02f13C9a5214",
+		"symbol": "Core Keeper",
+		"name": "Core Keeper",
+		"coingecko": "core-keeper",
 		"sources": [
 			"coingecko"
 		]
 	},
 	{
 		"chain": 1116,
-		"address": "0xe9aece1BA8bBd429a1ed33349C61280441AC8F99",
-		"symbol": "Liquify Network",
-		"name": "Liquify Network",
-		"coingecko": "liquify-network",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 1116,
-		"address": "0x8BB97A618211695f5a6a889faC3546D1a573ea77",
-		"symbol": "NexusBTC",
-		"name": "NexusBTC",
-		"coingecko": "nexusbtc",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 1116,
-		"address": "0x496Bb259D0117E89B2e73433524e9838c3073e60",
-		"symbol": "UnityCore",
-		"name": "UnityCore",
-		"coingecko": "unitycore",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 1116,
-		"address": "0xda31D0d1Bc934fC34F7189E38A413ca0A5e8b44F",
-		"symbol": "BSSB",
-		"name": "BSSB",
-		"decimals": 18,
-		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/core/0xda31D0d1Bc934fC34F7189E38A413ca0A5e8b44F.jpg",
-		"sources": [
-			"sushiswap"
-		]
-	},
-	{
-		"chain": 1116,
-		"address": "0x42077e348702f13Ea80CE6a6A38b8b60fbb37B5d",
-		"symbol": "cDAO",
-		"name": "cDAO",
-		"coingecko": "cdao",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 1116,
-		"address": "0xB555A396446570Ac2f4a62fFfb64b4b0D43F5B74",
-		"symbol": "CoreDaoSwap",
-		"name": "CoreDaoSwap",
-		"coingecko": "coredaoswap",
+		"address": "0x5B1Fb849f1F76217246B8AAAC053b5C7b15b7dc3",
+		"symbol": "Free Bridged SolvBTC.b (Core)",
+		"name": "Free Bridged SolvBTC.b (Core)",
+		"coingecko": "free-bridged-solvbtcb-core",
 		"sources": [
 			"coingecko"
 		]

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xc2c28b58db223DA89b567A0A98197Fc17C115148",
+	"symbol": "Sologenic",
+	"name": "Sologenic",
+	"coingecko": "solo-coin",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0xe355De6a6043b0580Ff5A26b46051A4809B12793",
+	"symbol": "4EVER",
+	"name": "4EVERLAND",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/52783/thumb/4everland.jpg?1734287106",
+	"coingecko": "4everland",
+	"sources": [
+		"coingecko"
+	]
+}

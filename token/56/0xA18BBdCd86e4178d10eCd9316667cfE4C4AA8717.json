@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xA18BBdCd86e4178d10eCd9316667cfE4C4AA8717",
+	"symbol": "BNBXBT",
+	"name": "BNBXBT",
+	"coingecko": "bnbxbt",
+	"sources": [
+		"coingecko"
+	]
+}

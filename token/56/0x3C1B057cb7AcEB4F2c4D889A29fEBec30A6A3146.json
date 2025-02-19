@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x3C1B057cb7AcEB4F2c4D889A29fEBec30A6A3146",
+	"symbol": "PolkaBridge",
+	"name": "PolkaBridge",
+	"coingecko": "polkabridge",
+	"sources": [
+		"coingecko"
+	]
+}

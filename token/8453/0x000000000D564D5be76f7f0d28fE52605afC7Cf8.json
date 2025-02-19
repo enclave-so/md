@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x000000000D564D5be76f7f0d28fE52605afC7Cf8",
+	"symbol": "flETH",
+	"name": "flETH",
+	"coingecko": "fleth",
+	"sources": [
+		"coingecko"
+	]
+}

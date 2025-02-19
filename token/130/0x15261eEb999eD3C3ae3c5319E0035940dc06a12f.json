@@ -1,0 +1,11 @@
+{
+	"chain": 130,
+	"address": "0x15261eEb999eD3C3ae3c5319E0035940dc06a12f",
+	"symbol": "XCN",
+	"name": "Chain",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/24210/thumb/Chain_icon_200x200.png?1646895054",
+	"sources": [
+		"uniswap"
+	]
+}

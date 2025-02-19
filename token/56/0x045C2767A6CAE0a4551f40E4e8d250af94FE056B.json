@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x045C2767A6CAE0a4551f40E4e8d250af94FE056B",
+	"symbol": "TonCapy",
+	"name": "TonCapy",
+	"coingecko": "toncapy",
+	"sources": [
+		"coingecko"
+	]
+}

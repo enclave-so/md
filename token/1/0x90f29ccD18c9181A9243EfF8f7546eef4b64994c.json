@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x90f29ccD18c9181A9243EfF8f7546eef4b64994c",
+	"symbol": "SIMAI",
+	"name": "Simian AI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/52868/thumb/SIMAI.jpg?1734551415",
+	"coingecko": "simian-ai",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 1923,
+	"address": "0xA6cB988942610f6731e664379D15fFcfBf282b44",
+	"symbol": "Layerzero Bridged weETH (Swellchain)",
+	"name": "Layerzero Bridged weETH (Swellchain)",
+	"coingecko": "layerzero-bridged-weeth-swellchain",
+	"sources": [
+		"coingecko"
+	]
+}

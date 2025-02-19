@@ -1,0 +1,11 @@
+{
+	"chain": 130,
+	"address": "0x89f7C0870794103744C8042630CC1C846a858E57",
+	"symbol": "PAXG",
+	"name": "PAX Gold",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/9519/thumb/paxg.PNG?1568542565",
+	"sources": [
+		"uniswap"
+	]
+}

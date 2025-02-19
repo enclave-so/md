@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0xCA30c93B02514f86d5C86a6e375E3A330B435Fb5",
+	"symbol": "BIB01",
+	"name": "Backed IB01   Treasury Bond 0 1yr",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/31755/thumb/b-IB01-200x200.png?1696530574",
+	"coingecko": "backed-ib01-treasury-bond-0-1yr",
+	"sources": [
+		"coingecko"
+	]
+}

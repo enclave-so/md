@@ -1,0 +1,11 @@
+{
+	"chain": 130,
+	"address": "0x942fC6b61686e06fB411cB1bCf5d16DC2b9255eA",
+	"symbol": "BLUR",
+	"name": "Blur",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/28453/large/blur.png?1670745921",
+	"sources": [
+		"uniswap"
+	]
+}

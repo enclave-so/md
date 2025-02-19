@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0xa02C49Da76A085e4E1EE60A6b920dDbC8db599F4",
+	"symbol": "TREAT",
+	"name": "Shiba Inu Treat",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/53501/thumb/Treat_blk_200x200.png?1736524245",
+	"coingecko": "shiba-inu-treat",
+	"sources": [
+		"coingecko"
+	]
+}

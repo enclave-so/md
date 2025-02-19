@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0xa579472f17b6E1b6C5dED2A785067a89EC536ce8",
+	"symbol": "ADDON",
+	"name": "AddOn Ai",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/53515/thumb/addonai.jpg?1736573362",
+	"coingecko": "addon-ai",
+	"sources": [
+		"coingecko"
+	]
+}

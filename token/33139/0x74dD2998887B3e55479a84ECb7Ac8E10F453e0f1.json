@@ -1,0 +1,10 @@
+{
+	"chain": 33139,
+	"address": "0x74dD2998887B3e55479a84ECb7Ac8E10F453e0f1",
+	"symbol": "APEDOG",
+	"name": "APEDOG",
+	"coingecko": "apedog",
+	"sources": [
+		"coingecko"
+	]
+}

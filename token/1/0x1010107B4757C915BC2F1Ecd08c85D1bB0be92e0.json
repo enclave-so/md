@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x1010107B4757C915BC2F1Ecd08c85D1bB0be92e0",
+	"symbol": "BRAIN",
+	"name": "Brain Frog",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/53693/thumb/Brain_Frog.png?1737056725",
+	"coingecko": "brain-frog",
+	"sources": [
+		"coingecko"
+	]
+}

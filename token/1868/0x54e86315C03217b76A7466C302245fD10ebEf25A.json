@@ -1,0 +1,10 @@
+{
+	"chain": 1868,
+	"address": "0x54e86315C03217b76A7466C302245fD10ebEf25A",
+	"symbol": "Yay StakeStone Ether",
+	"name": "Yay StakeStone Ether",
+	"coingecko": "yay-stakestone-ether",
+	"sources": [
+		"coingecko"
+	]
+}

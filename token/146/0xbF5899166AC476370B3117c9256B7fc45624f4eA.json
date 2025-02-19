@@ -1,0 +1,10 @@
+{
+	"chain": 146,
+	"address": "0xbF5899166AC476370B3117c9256B7fc45624f4eA",
+	"symbol": "Gravity Finance",
+	"name": "Gravity Finance",
+	"coingecko": "gravity-finance-2",
+	"sources": [
+		"coingecko"
+	]
+}

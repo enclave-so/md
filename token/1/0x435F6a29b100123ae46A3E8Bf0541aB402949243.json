@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x435F6a29b100123ae46A3E8Bf0541aB402949243",
+	"symbol": "CTB",
+	"name": "Content Bitcoin",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/53252/thumb/200x200.png?1735892352",
+	"coingecko": "content-bitcoin",
+	"sources": [
+		"coingecko"
+	]
+}

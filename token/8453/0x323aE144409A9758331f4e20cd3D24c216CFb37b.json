@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x323aE144409A9758331f4e20cd3D24c216CFb37b",
+	"symbol": "Motoko",
+	"name": "Motoko",
+	"coingecko": "motoko",
+	"sources": [
+		"coingecko"
+	]
+}

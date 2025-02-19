@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xD38B305CaC06990c0887032A02C03D6839f770A8",
+	"symbol": "Legacy Token",
+	"name": "Legacy Token",
+	"coingecko": "legacy-token",
+	"sources": [
+		"coingecko"
+	]
+}

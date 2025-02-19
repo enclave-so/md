@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xe18c07D858fB1bbF8c06fD78c13b86AfD3d04e28",
+	"symbol": "Hempy",
+	"name": "Hempy",
+	"coingecko": "hempy",
+	"sources": [
+		"coingecko"
+	]
+}

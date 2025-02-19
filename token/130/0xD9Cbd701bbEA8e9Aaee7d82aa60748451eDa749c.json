@@ -1,0 +1,11 @@
+{
+	"chain": 130,
+	"address": "0xD9Cbd701bbEA8e9Aaee7d82aa60748451eDa749c",
+	"symbol": "TIME",
+	"name": "ChronoTech",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/604/thumb/time-32x32.png?1627130666",
+	"sources": [
+		"uniswap"
+	]
+}

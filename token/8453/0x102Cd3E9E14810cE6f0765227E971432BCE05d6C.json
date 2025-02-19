@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x102Cd3E9E14810cE6f0765227E971432BCE05d6C",
+	"symbol": "ZaichXBT",
+	"name": "ZaichXBT",
+	"coingecko": "zaichxbt",
+	"sources": [
+		"coingecko"
+	]
+}

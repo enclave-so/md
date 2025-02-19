@@ -1,36 +1,6 @@
 [
 	{
 		"chain": 248,
-		"address": "0xdDB07cc0f2F9fB7899DbA5a21964f3C6D2740e44",
-		"symbol": "TCG Verse",
-		"name": "TCG Verse",
-		"coingecko": "tcg-verse",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 248,
-		"address": "0x5200000000000000000000000000000000000001",
-		"symbol": "Wrapped OAS",
-		"name": "Wrapped OAS",
-		"coingecko": "wrapped-oas",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 248,
-		"address": "0x9A340A0dE81B23eCd37ba9c4845dff5850A7e7a4",
-		"symbol": "Brave Power Crystal",
-		"name": "Brave Power Crystal",
-		"coingecko": "brave-power-crystal",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 248,
 		"address": "0xDc3af65eCBD339309Ec55F109CB214E0325c5eD4",
 		"symbol": "Bridged USDT",
 		"name": "Bridged USDT",
@@ -55,6 +25,26 @@
 		"symbol": "Epic League",
 		"name": "Epic League",
 		"coingecko": "epic-league",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 248,
+		"address": "0xdDB07cc0f2F9fB7899DbA5a21964f3C6D2740e44",
+		"symbol": "TCG Verse",
+		"name": "TCG Verse",
+		"coingecko": "tcg-verse",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 248,
+		"address": "0x5200000000000000000000000000000000000001",
+		"symbol": "Wrapped OAS",
+		"name": "Wrapped OAS",
+		"coingecko": "wrapped-oas",
 		"sources": [
 			"coingecko"
 		]

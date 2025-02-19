@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x49d803d2DF2295185610f44961F2Dcd40326F25C",
+	"symbol": "Shark Cat",
+	"name": "Shark Cat",
+	"coingecko": "shark-cat",
+	"sources": [
+		"coingecko"
+	]
+}

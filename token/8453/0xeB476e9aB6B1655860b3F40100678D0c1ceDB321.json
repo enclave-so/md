@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xeB476e9aB6B1655860b3F40100678D0c1ceDB321",
+	"symbol": "Project Nostradamus",
+	"name": "Project Nostradamus",
+	"coingecko": "project-nostradamus",
+	"sources": [
+		"coingecko"
+	]
+}

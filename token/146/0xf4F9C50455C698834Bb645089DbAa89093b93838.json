@@ -1,0 +1,10 @@
+{
+	"chain": 146,
+	"address": "0xf4F9C50455C698834Bb645089DbAa89093b93838",
+	"symbol": "toona",
+	"name": "toona",
+	"coingecko": "toona",
+	"sources": [
+		"coingecko"
+	]
+}

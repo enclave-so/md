@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0xE5AD37798dAA0231279859d4699CF8f466e8b020",
+	"symbol": "COSTD",
+	"name": "Dinari COST",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/54226/thumb/d-token-200.png?1738861053",
+	"coingecko": "dinari-cost",
+	"sources": [
+		"coingecko"
+	]
+}

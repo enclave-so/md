@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0xc748673057861a797275CD8A068AbB95A902e8de",
-	"symbol": "Baby Doge Coin",
+	"symbol": "BabyDoge",
 	"name": "Baby Doge Coin",
+	"decimals": 9,
+	"logo": "https://tokens.pancakeswap.finance/images/0xc748673057861a797275CD8A068AbB95A902e8de.png",
 	"coingecko": "baby-doge-coin",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

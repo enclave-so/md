@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x27d7959CF26135d8019D0f1E4a2280a8A355c4f5",
+	"symbol": "LESTER by Virtuals",
+	"name": "LESTER by Virtuals",
+	"coingecko": "lester-by-virtuals",
+	"sources": [
+		"coingecko"
+	]
+}

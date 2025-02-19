@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x0de59c86C306B9Fead9FB67e65551E2B6897c3F6",
+	"symbol": "Kuma World",
+	"name": "Kuma World",
+	"coingecko": "kuma-world",
+	"sources": [
+		"coingecko"
+	]
+}

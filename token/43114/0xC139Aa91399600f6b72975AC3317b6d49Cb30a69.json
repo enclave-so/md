@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0xC139Aa91399600f6b72975AC3317b6d49Cb30a69",
+	"symbol": "AVAX Meme Index",
+	"name": "AVAX Meme Index",
+	"coingecko": "avax-meme-index",
+	"sources": [
+		"coingecko"
+	]
+}

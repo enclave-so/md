@@ -1,8 +1,8 @@
 {
 	"chain": 8453,
 	"address": "0x22aF33FE49fD1Fa80c7149773dDe5890D3c76F3b",
-	"symbol": "BankerCoin",
-	"name": "BankerCoin",
+	"symbol": "BankrCoin",
+	"name": "BankrCoin",
 	"coingecko": "bankercoin-2",
 	"sources": [
 		"coingecko"

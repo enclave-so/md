@@ -1,0 +1,10 @@
+{
+	"chain": 146,
+	"address": "0x9fDbC3f8Abc05Fa8f3Ad3C17D2F806c1230c4564",
+	"symbol": "GOGGLES",
+	"name": "GOGGLES",
+	"coingecko": "googles",
+	"sources": [
+		"coingecko"
+	]
+}

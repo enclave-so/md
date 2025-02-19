@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xdd28ec6b06983d01D37DbD9Ab581d8d884d95264",
+	"symbol": "Summer",
+	"name": "Summer",
+	"coingecko": "summer",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x06ABb84958029468574B28b6e7792A770CcaA2F6",
+	"symbol": "0xMonk by Virtuals",
+	"name": "0xMonk by Virtuals",
+	"coingecko": "0xmonk",
+	"sources": [
+		"coingecko"
+	]
+}

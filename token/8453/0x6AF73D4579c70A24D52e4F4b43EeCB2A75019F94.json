@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x6AF73D4579c70A24D52e4F4b43EeCB2A75019F94",
+	"symbol": "Replicat-One by Virtuals",
+	"name": "Replicat-One by Virtuals",
+	"coingecko": "replicat-one-by-virtuals",
+	"sources": [
+		"coingecko"
+	]
+}

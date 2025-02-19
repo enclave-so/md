@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0xBF358f7023D6fd0D11AC284EB47B877C1AF635Aa",
+	"symbol": "ARCA",
+	"name": "ArcheriumAi",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/53038/thumb/0xbf358f7023d6fd0d11ac284eb47b877c1af635aa.jpg?1735073519",
+	"coingecko": "archeriumai",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x53Cb59D32a8d08fC6D3f81454f150946A028A44d",
+	"symbol": "DexFi Governance",
+	"name": "DexFi Governance",
+	"coingecko": "dexfi-governance",
+	"sources": [
+		"coingecko"
+	]
+}

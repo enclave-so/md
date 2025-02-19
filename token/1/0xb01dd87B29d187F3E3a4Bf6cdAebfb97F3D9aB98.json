@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0xb01dd87B29d187F3E3a4Bf6cdAebfb97F3D9aB98",
+	"symbol": "BOLD",
+	"name": "Liquity BOLD",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/53755/thumb/BOLD_logo.png?1737183873",
+	"coingecko": "liquity-bold",
+	"sources": [
+		"coingecko"
+	]
+}

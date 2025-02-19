@@ -5,9 +5,7 @@
 	"name": "DAI Stablecoin",
 	"decimals": 18,
 	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/skale-europa/0xD05C4be5f3be302d376518c9492EC0147Fa5A718.jpg",
-	"coingecko": "skale-ima-bridged-dai",
 	"sources": [
-		"coingecko",
 		"sushiswap"
 	]
 }

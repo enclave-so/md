@@ -1,0 +1,11 @@
+{
+	"chain": 130,
+	"address": "0xc68992e0514968BfbA3Dad201fef91f6009f523c",
+	"symbol": "LOOM",
+	"name": "Loom Network",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA4e8C3Ec456107eA67d3075bF9e3DF3A75823DB0/logo.png",
+	"sources": [
+		"uniswap"
+	]
+}

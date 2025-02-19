@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0xC0041EF357B183448B235a8Ea73Ce4E4eC8c265F",
-	"symbol": "Cookie DAO",
-	"name": "Cookie DAO",
+	"symbol": "COOKIE",
+	"name": "Cookie",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0xC0041EF357B183448B235a8Ea73Ce4E4eC8c265F.png",
 	"coingecko": "cookie",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

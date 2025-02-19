@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x89CD293538C2390992CDFb3520cFb136748CD9B9",
+	"symbol": "Baron Von Whiskers",
+	"name": "Baron Von Whiskers",
+	"coingecko": "baron-von-whiskers",
+	"sources": [
+		"coingecko"
+	]
+}

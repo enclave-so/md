@@ -1,0 +1,10 @@
+{
+	"chain": 80094,
+	"address": "0xFF0a636Dfc44Bb0129b631cDd38D21B613290c98",
+	"symbol": "Holdstation",
+	"name": "Holdstation",
+	"coingecko": "holdstation",
+	"sources": [
+		"coingecko"
+	]
+}

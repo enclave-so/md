@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xd949902Af904Dc295d85cF8e9DE0Ece9D5699a8F",
+	"symbol": "MANA3",
+	"name": "MANA3",
+	"coingecko": "mana3",
+	"sources": [
+		"coingecko"
+	]
+}

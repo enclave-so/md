@@ -1,0 +1,11 @@
+{
+	"chain": 130,
+	"address": "0x5AD5d6B1AE6761Aab12066b51D21729248035703",
+	"symbol": "CELR",
+	"name": "Celer Network",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/4379/thumb/Celr.png?1554705437",
+	"sources": [
+		"uniswap"
+	]
+}

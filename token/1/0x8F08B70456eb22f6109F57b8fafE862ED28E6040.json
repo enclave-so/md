@@ -1,10 +1,10 @@
 {
 	"chain": 1,
 	"address": "0x8F08B70456eb22f6109F57b8fafE862ED28E6040",
-	"symbol": "LRT2",
-	"name": "LRT Squared",
+	"symbol": "KING",
+	"name": "King Protocol",
 	"decimals": 18,
-	"logo": "https://assets.coingecko.com/coins/images/51041/thumb/LRT2-200x200.png?1729826728",
+	"logo": "https://assets.coingecko.com/coins/images/51041/thumb/crown-circle.png?1738143389",
 	"coingecko": "lrt-squared",
 	"sources": [
 		"coingecko"

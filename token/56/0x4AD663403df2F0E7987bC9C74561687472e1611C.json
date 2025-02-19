@@ -1,0 +1,13 @@
+{
+	"chain": 56,
+	"address": "0x4AD663403df2F0E7987bC9C74561687472e1611C",
+	"symbol": "FROG",
+	"name": "Frodo the virtual samurai",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x4AD663403df2F0E7987bC9C74561687472e1611C.png",
+	"coingecko": "frodo-the-virtual-samurai",
+	"sources": [
+		"coingecko",
+		"pancakeswap"
+	]
+}

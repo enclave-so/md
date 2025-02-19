@@ -1,0 +1,11 @@
+{
+	"chain": 130,
+	"address": "0x276361c863903751771e9DabA6dDfaAf00FE358b",
+	"symbol": "MANA",
+	"name": "Decentraland",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/878/thumb/decentraland-mana.png?1550108745",
+	"sources": [
+		"uniswap"
+	]
+}

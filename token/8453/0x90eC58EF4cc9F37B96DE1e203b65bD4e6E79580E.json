@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x90eC58EF4cc9F37B96DE1e203b65bD4e6E79580E",
+	"symbol": "Alpha City",
+	"name": "Alpha City",
+	"coingecko": "alpha-city",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 9008,
+	"address": "0x8cbafFD9b658997E7bf87E98FEbF6EA6917166F7",
+	"symbol": "Wrapped Shido",
+	"name": "Wrapped Shido",
+	"coingecko": "wrapped-shido",
+	"sources": [
+		"coingecko"
+	]
+}

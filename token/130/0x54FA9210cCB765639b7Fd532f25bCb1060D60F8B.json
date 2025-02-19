@@ -1,0 +1,11 @@
+{
+	"chain": 130,
+	"address": "0x54FA9210cCB765639b7Fd532f25bCb1060D60F8B",
+	"symbol": "AEVO",
+	"name": "Aevo",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/35893/standard/aevo.png",
+	"sources": [
+		"uniswap"
+	]
+}

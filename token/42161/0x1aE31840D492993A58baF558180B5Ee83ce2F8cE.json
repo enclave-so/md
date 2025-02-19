@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x1aE31840D492993A58baF558180B5Ee83ce2F8cE",
+	"symbol": "Dinari SNOW",
+	"name": "Dinari SNOW",
+	"coingecko": "dinari-snow",
+	"sources": [
+		"coingecko"
+	]
+}

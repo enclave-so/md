@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x919E43a2CcE006710090E64BDE9E01b38Fd7f32f",
+	"symbol": "Agent YP by Virtuals",
+	"name": "Agent YP by Virtuals",
+	"coingecko": "agent-yp-by-virtuals",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"chain": 130,
+	"address": "0x4b355De6Ea44711f0353Ed89545705395a30d7Fb",
+	"symbol": "ASH",
+	"name": "ASH",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/15714/thumb/omnPqaTY.png?1622820503",
+	"sources": [
+		"uniswap"
+	]
+}

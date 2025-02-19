@@ -1,0 +1,11 @@
+{
+	"chain": 130,
+	"address": "0xb6A3E8e5715fd4c99EcEDaaAe121bDe4Ab6a1Ef1",
+	"symbol": "cbBTC",
+	"name": "Coinbase Wrapped BTC",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/40143/standard/cbbtc.webp",
+	"sources": [
+		"uniswap"
+	]
+}

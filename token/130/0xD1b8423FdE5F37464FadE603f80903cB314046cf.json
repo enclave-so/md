@@ -1,0 +1,11 @@
+{
+	"chain": 130,
+	"address": "0xD1b8423FdE5F37464FadE603f80903cB314046cf",
+	"symbol": "APE",
+	"name": "ApeCoin",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/24383/small/apecoin.jpg?1647476455",
+	"sources": [
+		"uniswap"
+	]
+}

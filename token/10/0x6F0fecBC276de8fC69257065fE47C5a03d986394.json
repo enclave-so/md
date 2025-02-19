@@ -5,9 +5,7 @@
 	"name": "Popcorn",
 	"decimals": 18,
 	"logo": "https://ethereum-optimism.github.io/data/POP/logo.svg",
-	"coingecko": "popcorn",
 	"sources": [
-		"coingecko",
 		"optimism"
 	]
 }

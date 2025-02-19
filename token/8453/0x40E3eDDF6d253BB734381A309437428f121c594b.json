@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x40E3eDDF6d253BB734381A309437428f121c594b",
+	"symbol": "Larva Lads",
+	"name": "Larva Lads",
+	"coingecko": "larva-lads",
+	"sources": [
+		"coingecko"
+	]
+}

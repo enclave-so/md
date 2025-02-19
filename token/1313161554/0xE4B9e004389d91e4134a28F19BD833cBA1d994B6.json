@@ -1,0 +1,10 @@
+{
+	"chain": 1313161554,
+	"address": "0xE4B9e004389d91e4134a28F19BD833cBA1d994B6",
+	"symbol": "Frax",
+	"name": "Frax",
+	"coingecko": "frax",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0xF0D7EE633636BAE1D502A96F1130b00DEaF06DC4",
+	"symbol": "ARKXD",
+	"name": "Dinari ARKX",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/54037/thumb/d-token-200.png?1738075900",
+	"coingecko": "dinari-arkx",
+	"sources": [
+		"coingecko"
+	]
+}

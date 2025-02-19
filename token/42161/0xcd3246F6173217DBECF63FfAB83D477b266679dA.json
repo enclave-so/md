@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0xcd3246F6173217DBECF63FfAB83D477b266679dA",
+	"symbol": "Dinari BOXX",
+	"name": "Dinari BOXX",
+	"coingecko": "dinari-boxx",
+	"sources": [
+		"coingecko"
+	]
+}

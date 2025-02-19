@@ -5,9 +5,7 @@
 	"name": "MATIC 2x Flexible Leverage Index",
 	"decimals": 18,
 	"logo": "https://cdn.indexcoop.com/matic2xflip.svg",
-	"coingecko": "index-coop-matic-2x-flexible-leverage-index",
 	"sources": [
-		"coingecko",
 		"indexcoop"
 	]
 }

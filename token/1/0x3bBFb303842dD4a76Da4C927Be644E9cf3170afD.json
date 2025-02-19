@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x3bBFb303842dD4a76Da4C927Be644E9cf3170afD",
+	"symbol": "XCREDI",
+	"name": "xCREDI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/53653/thumb/1.png?1737000185",
+	"coingecko": "xcredi",
+	"sources": [
+		"coingecko"
+	]
+}

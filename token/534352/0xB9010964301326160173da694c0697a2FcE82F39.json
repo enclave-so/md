@@ -1,8 +1,8 @@
 {
 	"chain": 534352,
 	"address": "0xB9010964301326160173da694c0697a2FcE82F39",
-	"symbol": "DackieSwap",
-	"name": "DackieSwap",
+	"symbol": "DackieSwap [OLD]",
+	"name": "DackieSwap [OLD]",
 	"coingecko": "dackieswap",
 	"sources": [
 		"coingecko"

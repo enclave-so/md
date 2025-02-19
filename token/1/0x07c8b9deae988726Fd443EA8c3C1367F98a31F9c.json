@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x07c8b9deae988726Fd443EA8c3C1367F98a31F9c",
+	"symbol": "BIOHACK",
+	"name": "BiohackerDAO",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/53677/thumb/bhdao_logo_cropped_s.jpg?1737750796",
+	"coingecko": "biohackerdao",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0xc575BD129848Ce06A460A19466c30E1D0328F52C",
+	"symbol": "RAI",
+	"name": "Reploy",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/53036/thumb/rai-icon.png?1735072446",
+	"coingecko": "reploy",
+	"sources": [
+		"coingecko"
+	]
+}

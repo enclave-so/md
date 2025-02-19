@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x79Ea4E536f598dCd67C76Ee3829f84AB9E72A558",
+	"symbol": "ai9000",
+	"name": "ai9000",
+	"coingecko": "ai9000",
+	"sources": [
+		"coingecko"
+	]
+}

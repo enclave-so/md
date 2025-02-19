@@ -1,6 +1,16 @@
 [
 	{
 		"chain": 1625,
+		"address": "0xFbDa5F676cB37624f28265A144A48B0d6e87d3b6",
+		"symbol": "Stargate Bridged USDC (Gravity)",
+		"name": "Stargate Bridged USDC (Gravity)",
+		"coingecko": "stargate-bridged-usdc-gravity",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1625,
 		"address": "0xf6f832466Cd6C21967E0D954109403f36Bc8ceaA",
 		"symbol": "Stargate Bridged WETH (Gravity)",
 		"name": "Stargate Bridged WETH (Gravity)",
@@ -35,16 +45,6 @@
 		"symbol": "Latch Staked USDT",
 		"name": "Latch Staked USDT",
 		"coingecko": "latch-staked-usdt",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 1625,
-		"address": "0xFbDa5F676cB37624f28265A144A48B0d6e87d3b6",
-		"symbol": "Stargate Bridged USDC (Gravity)",
-		"name": "Stargate Bridged USDC (Gravity)",
-		"coingecko": "stargate-bridged-usdc-gravity",
 		"sources": [
 			"coingecko"
 		]

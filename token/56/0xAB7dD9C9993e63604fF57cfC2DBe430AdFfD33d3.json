@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xAB7dD9C9993e63604fF57cfC2DBe430AdFfD33d3",
+	"symbol": "MoonPrime Games",
+	"name": "MoonPrime Games",
+	"coingecko": "moonprime-games",
+	"sources": [
+		"coingecko"
+	]
+}

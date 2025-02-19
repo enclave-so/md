@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x81cB4FDD3Edc6f5470b636D7e5914C3173110ca5",
+	"symbol": "Cora",
+	"name": "Cora",
+	"coingecko": "cora",
+	"sources": [
+		"coingecko"
+	]
+}

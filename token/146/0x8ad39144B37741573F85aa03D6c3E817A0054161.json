@@ -1,0 +1,10 @@
+{
+	"chain": 146,
+	"address": "0x8ad39144B37741573F85aa03D6c3E817A0054161",
+	"symbol": "Fate Adventure",
+	"name": "Fate Adventure",
+	"coingecko": "fate-adventure",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0xa73B792906c79509d73FDfaAa78561e195010706",
+	"symbol": "PIPO",
+	"name": "Pipo",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/54474/thumb/Pipo.jpg?1739951527",
+	"coingecko": "pipo-2",
+	"sources": [
+		"coingecko"
+	]
+}

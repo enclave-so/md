@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x43C72eA1736072f42f785E704E5244cC5B9A6779",
+	"symbol": "GLDD",
+	"name": "Dinari GLD",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/54228/thumb/d-token-200.png?1738861086",
+	"coingecko": "dinari-gld",
+	"sources": [
+		"coingecko"
+	]
+}

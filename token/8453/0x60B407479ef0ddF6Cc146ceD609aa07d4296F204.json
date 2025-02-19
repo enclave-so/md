@@ -1,0 +1,11 @@
+{
+	"chain": 8453,
+	"address": "0x60B407479ef0ddF6Cc146ceD609aa07d4296F204",
+	"symbol": "HEX",
+	"name": "HEX",
+	"decimals": 8,
+	"logo": "https://ethereum-optimism.github.io/data/HEX/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

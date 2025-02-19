@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xe12acF5BB21654195a498c2FBd49fFf801A3A02d",
+	"symbol": "Proof of Presence",
+	"name": "Proof of Presence",
+	"coingecko": "proof-of-presence",
+	"sources": [
+		"coingecko"
+	]
+}

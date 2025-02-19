@@ -1,0 +1,10 @@
+{
+	"chain": 111188,
+	"address": "0xA300D6bcE36036c8239C7F457fa4F77D01e88544",
+	"symbol": "Frens.ai",
+	"name": "Frens.ai",
+	"coingecko": "frens-ai",
+	"sources": [
+		"coingecko"
+	]
+}

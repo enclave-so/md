@@ -1,0 +1,10 @@
+{
+	"chain": 146,
+	"address": "0x068e9e009fDa970fA953E1f6a43D982cA991F4bA",
+	"symbol": "Whale Ecosystem",
+	"name": "Whale Ecosystem",
+	"coingecko": "whale-ecosystem",
+	"sources": [
+		"coingecko"
+	]
+}

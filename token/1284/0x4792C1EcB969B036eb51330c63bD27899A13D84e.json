@@ -1,9 +1,9 @@
 {
 	"chain": 1284,
 	"address": "0x4792C1EcB969B036eb51330c63bD27899A13D84e",
-	"symbol": "Wrapped AVAX",
-	"name": "Wrapped AVAX",
-	"coingecko": "wrapped-avax",
+	"symbol": "Multichain Bridged WAVAX (Moonbeam)",
+	"name": "Multichain Bridged WAVAX (Moonbeam)",
+	"coingecko": "multichain-bridged-wavax-moonbeam",
 	"sources": [
 		"coingecko"
 	]

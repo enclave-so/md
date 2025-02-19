@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xCAf76feee43a2A7DB0FBe23Ee4018757f352a1ff",
+	"symbol": "Opinion Finance",
+	"name": "Opinion Finance",
+	"coingecko": "opinion-finance",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"chain": 130,
+	"address": "0x7251d204c2e867b31096D5c7091298239B3A6a0F",
+	"symbol": "sUSD",
+	"name": "Synth sUSD",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/5013/thumb/sUSD.png?1616150765",
+	"sources": [
+		"optimism",
+		"uniswap"
+	]
+}

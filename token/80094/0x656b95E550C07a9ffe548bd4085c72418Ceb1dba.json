@@ -1,0 +1,10 @@
+{
+	"chain": 80094,
+	"address": "0x656b95E550C07a9ffe548bd4085c72418Ceb1dba",
+	"symbol": "Berachain Governance Token",
+	"name": "Berachain Governance Token",
+	"coingecko": "berachain-governance-token",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xd82109718FFf521387BfED5424EAD7e8a1cB9780",
+	"symbol": "Oncology Network",
+	"name": "Oncology Network",
+	"coingecko": "oncology-network",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"chain": 130,
+	"address": "0x8c7879bf25D678D9949F305857bD4437d74132B9",
+	"symbol": "FRAX",
+	"name": "Frax",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/13422/thumb/frax_logo.png?1608476506",
+	"sources": [
+		"optimism",
+		"uniswap"
+	]
+}

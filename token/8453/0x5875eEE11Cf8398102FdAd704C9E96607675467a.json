@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x5875eEE11Cf8398102FdAd704C9E96607675467a",
+	"symbol": "sUSDS",
+	"name": "sUSDS",
+	"coingecko": "susds",
+	"sources": [
+		"coingecko"
+	]
+}

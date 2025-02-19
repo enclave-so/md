@@ -5,7 +5,9 @@
 	"name": "Skillful AI",
 	"decimals": 18,
 	"logo": "https://ethereum-optimism.github.io/data/SKAI/logo.svg",
+	"coingecko": "skai",
 	"sources": [
+		"coingecko",
 		"optimism"
 	]
 }

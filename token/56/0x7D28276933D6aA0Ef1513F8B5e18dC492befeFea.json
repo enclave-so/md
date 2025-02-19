@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x7D28276933D6aA0Ef1513F8B5e18dC492befeFea",
+	"symbol": "MBC",
+	"name": "MBC",
+	"coingecko": "mbc",
+	"sources": [
+		"coingecko"
+	]
+}

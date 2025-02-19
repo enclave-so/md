@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xab670FDfb0060BDC6508B84a309ff41b56CCAf3f",
+	"symbol": "USD WINK",
+	"name": "USD WINK",
+	"coingecko": "usd-wink",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xBB5cBDAE23C5368557CC9A32337863eECf03cF9f",
+	"symbol": "BEPE",
+	"name": "BEPE",
+	"coingecko": "bepe-2",
+	"sources": [
+		"coingecko"
+	]
+}

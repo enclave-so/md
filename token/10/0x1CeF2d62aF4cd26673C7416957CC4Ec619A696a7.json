@@ -1,8 +1,8 @@
 {
 	"chain": 10,
 	"address": "0x1CeF2d62aF4cd26673C7416957CC4Ec619A696a7",
-	"symbol": "DexToro",
-	"name": "DexToro",
+	"symbol": "DexToro Pro",
+	"name": "DexToro Pro",
 	"coingecko": "dextoro",
 	"sources": [
 		"coingecko"

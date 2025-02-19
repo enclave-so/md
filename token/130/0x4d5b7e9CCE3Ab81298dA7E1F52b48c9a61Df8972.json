@@ -1,0 +1,12 @@
+{
+	"chain": 130,
+	"address": "0x4d5b7e9CCE3Ab81298dA7E1F52b48c9a61Df8972",
+	"symbol": "BOND",
+	"name": "BarnBridge",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/12811/thumb/barnbridge.jpg?1602728853",
+	"sources": [
+		"optimism",
+		"uniswap"
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"chain": 130,
+	"address": "0x656104f2028BbFD7144C8f71Fa15daaA8c34A28b",
+	"symbol": "HFT",
+	"name": "Hashflow",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/26136/large/hashflow-icon-cmc.png",
+	"sources": [
+		"uniswap"
+	]
+}

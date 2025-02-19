@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x43c451d8102337CCf399b0f6EbF63837075D9689",
+	"symbol": "AI VERTEX by Virtuals",
+	"name": "AI VERTEX by Virtuals",
+	"coingecko": "ai-vertex-by-virtuals",
+	"sources": [
+		"coingecko"
+	]
+}

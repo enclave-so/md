@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xb5d252578D5bf3DC870C903e94c90c547bf9C947",
+	"symbol": "iComPneT",
+	"name": "iComPneT",
+	"coingecko": "icompnet",
+	"sources": [
+		"coingecko"
+	]
+}

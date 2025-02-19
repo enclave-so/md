@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xC9Ad421f96579AcE066eC188a7Bba472fB83017F",
+	"symbol": "Book of Binance",
+	"name": "Book of Binance",
+	"coingecko": "book-of-binance",
+	"sources": [
+		"coingecko"
+	]
+}

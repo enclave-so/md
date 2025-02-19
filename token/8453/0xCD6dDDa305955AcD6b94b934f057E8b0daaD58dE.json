@@ -1,0 +1,12 @@
+{
+	"chain": 8453,
+	"address": "0xCD6dDDa305955AcD6b94b934f057E8b0daaD58dE",
+	"symbol": "PERP",
+	"name": "Perpetual Protocol",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/12381/thumb/60d18e06844a844ad75901a9_mark_only_03.png?1628674771",
+	"sources": [
+		"optimism",
+		"uniswap"
+	]
+}

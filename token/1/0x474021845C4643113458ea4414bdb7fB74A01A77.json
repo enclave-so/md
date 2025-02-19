@@ -2,9 +2,9 @@
 	"chain": 1,
 	"address": "0x474021845C4643113458ea4414bdb7fB74A01A77",
 	"symbol": "UNO",
-	"name": "Uno Re",
+	"name": "Lunos",
 	"decimals": 18,
-	"logo": "https://assets.coingecko.com/coins/images/15073/thumb/c0vbqVE.png?1696514732",
+	"logo": "https://assets.coingecko.com/coins/images/15073/thumb/Lunos-logo-200x200_%282%29.png?1739465337",
 	"coingecko": "uno-re",
 	"sources": [
 		"coingecko"

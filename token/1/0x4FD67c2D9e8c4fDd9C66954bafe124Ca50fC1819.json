@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x4FD67c2D9e8c4fDd9C66954bafe124Ca50fC1819",
+	"symbol": "RMNER",
+	"name": "Mner Club",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/52094/thumb/rmner.png?1732549755",
+	"coingecko": "mner-club",
+	"sources": [
+		"coingecko"
+	]
+}

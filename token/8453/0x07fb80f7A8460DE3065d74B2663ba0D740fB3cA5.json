@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x07fb80f7A8460DE3065d74B2663ba0D740fB3cA5",
+	"symbol": "Oxbull",
+	"name": "Oxbull",
+	"coingecko": "oxbull",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -31,10 +31,40 @@
 	},
 	{
 		"chain": 747,
+		"address": "0x2aaBea2058b5aC2D339b163C6Ab6f2b6d53aabED",
+		"symbol": "Flow Bridged PYUSD (Flow)",
+		"name": "Flow Bridged PYUSD (Flow)",
+		"coingecko": "flow-bridged-pyusd-flow",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 747,
 		"address": "0xB73BF8e6A4477a952E0338e6CC00cC0ce5AD04bA",
 		"symbol": "Froth",
 		"name": "Froth",
 		"coingecko": "froth",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 747,
+		"address": "0xF1815bd50389c46847f0Bda824eC8da914045D14",
+		"symbol": "Stargate Bridged USDC (Flow)",
+		"name": "Stargate Bridged USDC (Flow)",
+		"coingecko": "stargate-bridged-usdc-flow",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 747,
+		"address": "0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590",
+		"symbol": "Stargate Bridged WETH (Flow)",
+		"name": "Stargate Bridged WETH (Flow)",
+		"coingecko": "stargate-bridged-weth-flow",
 		"sources": [
 			"coingecko"
 		]

@@ -1,0 +1,11 @@
+{
+	"chain": 130,
+	"address": "0xe8a0078aA52ac7e93aE43818DdD64591E025BB6F",
+	"symbol": "RARE",
+	"name": "SuperRare",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/17753/thumb/RARE.jpg?1629220534",
+	"sources": [
+		"uniswap"
+	]
+}

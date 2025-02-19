@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x3E99e0890eFd6c15a295eDBcCE82D63224fd6F60",
+	"symbol": "DXAI.app by Virtuals",
+	"name": "DXAI.app by Virtuals",
+	"coingecko": "dxai-app-by-virtuals",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x0aBeaf56546A563824C96BB93d1c46F1d4cD11eB",
+	"symbol": "BAKENEKO",
+	"name": "BAKENEKO",
+	"coingecko": "bakeneko",
+	"sources": [
+		"coingecko"
+	]
+}

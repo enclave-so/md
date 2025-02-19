@@ -1,0 +1,11 @@
+{
+	"chain": 130,
+	"address": "0xd0F77df9a8f0e855F910361f5f59958118d064c6",
+	"symbol": "PIRATE",
+	"name": "Pirate Nation",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/38524/standard/_Pirate_Transparent_200x200.png",
+	"sources": [
+		"uniswap"
+	]
+}

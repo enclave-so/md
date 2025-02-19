@@ -1,9 +1,9 @@
 {
 	"chain": 1234,
 	"address": "0xd6070ae98b8069de6B494332d1A1a81B6179D960",
-	"symbol": "Wrapped AVAX",
-	"name": "Wrapped AVAX",
-	"coingecko": "wrapped-avax",
+	"symbol": "Step Bridged WAVAX (Step Network)",
+	"name": "Step Bridged WAVAX (Step Network)",
+	"coingecko": "step-bridged-wavax-step-network",
 	"sources": [
 		"coingecko"
 	]

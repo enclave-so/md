@@ -1,0 +1,11 @@
+{
+	"chain": 130,
+	"address": "0xc7bA59c95ba747a7c374DC7208a0513798BC5950",
+	"symbol": "USUAL",
+	"name": "USUAL",
+	"decimals": 18,
+	"logo": "https://coin-images.coingecko.com/coins/images/51091/large/USUAL.jpg?1730035787",
+	"sources": [
+		"uniswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x7CE4BFC3A66d0FCF5d91dD846911C15c3FF82EcC",
+	"symbol": "Chains of War",
+	"name": "Chains of War",
+	"coingecko": "chains-of-war",
+	"sources": [
+		"coingecko"
+	]
+}

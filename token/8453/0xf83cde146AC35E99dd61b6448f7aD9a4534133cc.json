@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xf83cde146AC35E99dd61b6448f7aD9a4534133cc",
+	"symbol": "EBERT",
+	"name": "EBERT",
+	"coingecko": "ebert",
+	"sources": [
+		"coingecko"
+	]
+}

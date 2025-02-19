@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x087C440F251Ff6Cfe62B86DdE1bE558B95b4bb9b",
+	"symbol": "Liquity BOLD",
+	"name": "Liquity BOLD",
+	"coingecko": "liquity-bold",
+	"sources": [
+		"coingecko"
+	]
+}

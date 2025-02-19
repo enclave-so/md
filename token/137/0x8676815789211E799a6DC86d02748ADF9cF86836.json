@@ -1,0 +1,11 @@
+{
+	"chain": 137,
+	"address": "0x8676815789211E799a6DC86d02748ADF9cF86836",
+	"symbol": "TRIBE",
+	"name": "Tribe",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14575/thumb/tribe.PNG?1617487954",
+	"sources": [
+		"uniswap"
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0xb1f8302eE205bfE27514cD7185A3FC69BbbDB284",
+	"symbol": "EKO",
+	"name": "EchoLinkV8",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/52924/thumb/EchoLinkEKOLogoTransBg.webp?1734705845",
+	"coingecko": "echolinkv8",
+	"sources": [
+		"coingecko"
+	]
+}

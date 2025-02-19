@@ -5,9 +5,7 @@
 	"name": "Perlin X",
 	"decimals": 18,
 	"logo": "https://tokens.pancakeswap.finance/images/0x0F9E4D49f25de22c2202aF916B681FBB3790497B.png",
-	"coingecko": "perlin",
 	"sources": [
-		"coingecko",
 		"pancakeswap"
 	]
 }

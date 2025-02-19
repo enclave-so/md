@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xb58f9704c7a80D2775222F7Cb2eed28BEB9a06be",
+	"symbol": "Omnis Genesis by Virtuals",
+	"name": "Omnis Genesis by Virtuals",
+	"coingecko": "omnis-genesis-by-virtuals",
+	"sources": [
+		"coingecko"
+	]
+}

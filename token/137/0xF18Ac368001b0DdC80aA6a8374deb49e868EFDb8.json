@@ -1,0 +1,11 @@
+{
+	"chain": 137,
+	"address": "0xF18Ac368001b0DdC80aA6a8374deb49e868EFDb8",
+	"symbol": "INV",
+	"name": "Inverse Finance",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14205/thumb/inverse_finance.jpg?1614921871",
+	"sources": [
+		"uniswap"
+	]
+}

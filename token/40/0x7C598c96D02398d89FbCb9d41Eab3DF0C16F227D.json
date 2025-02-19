@@ -5,7 +5,7 @@
 	"name": "Avalanche (Anyswap)",
 	"decimals": 18,
 	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/telos/0x7C598c96D02398d89FbCb9d41Eab3DF0C16F227D.jpg",
-	"coingecko": "wrapped-avax",
+	"coingecko": "multichain-bridged-wavax-telos",
 	"sources": [
 		"coingecko",
 		"sushiswap"

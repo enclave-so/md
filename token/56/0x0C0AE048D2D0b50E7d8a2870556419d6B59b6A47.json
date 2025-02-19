@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x0C0AE048D2D0b50E7d8a2870556419d6B59b6A47",
+	"symbol": "AGRI FUTURE TOKEN",
+	"name": "AGRI FUTURE TOKEN",
+	"coingecko": "agri-future-token",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x456fF1fbB87Ec74165a11460F9D1864775Dc227A",
+	"symbol": "MOXI",
+	"name": "MOX AI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/54055/thumb/moxai_copy.jpg?1738133802",
+	"coingecko": "mox-ai",
+	"sources": [
+		"coingecko"
+	]
+}

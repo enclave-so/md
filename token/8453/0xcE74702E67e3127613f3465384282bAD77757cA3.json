@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xcE74702E67e3127613f3465384282bAD77757cA3",
+	"symbol": "Social Trade",
+	"name": "Social Trade",
+	"coingecko": "social-trade",
+	"sources": [
+		"coingecko"
+	]
+}

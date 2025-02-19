@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x02f92800F57BCD74066F5709F1Daa1A4302Df875",
+	"symbol": "Peapods Finance",
+	"name": "Peapods Finance",
+	"coingecko": "peapods-finance",
+	"sources": [
+		"coingecko"
+	]
+}

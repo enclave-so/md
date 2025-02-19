@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x035098c2A3bEa5e03b1E08e7140a5369D47Bd349",
+	"symbol": "Sapiens AI",
+	"name": "Sapiens AI",
+	"coingecko": "sapiens",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xB821559455a59fc006c4869Ff97DFDf16D3c1088",
+	"symbol": "Mbridge28",
+	"name": "Mbridge28",
+	"coingecko": "mbridge28",
+	"sources": [
+		"coingecko"
+	]
+}

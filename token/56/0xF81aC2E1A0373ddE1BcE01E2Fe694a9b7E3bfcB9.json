@@ -1,0 +1,13 @@
+{
+	"chain": 56,
+	"address": "0xF81aC2E1A0373ddE1BcE01E2Fe694a9b7E3bfcB9",
+	"symbol": "XUSD",
+	"name": "XUSD",
+	"decimals": 6,
+	"logo": "https://tokens.pancakeswap.finance/images/0xF81aC2E1A0373ddE1BcE01E2Fe694a9b7E3bfcB9.png",
+	"coingecko": "straitsx-xusd",
+	"sources": [
+		"coingecko",
+		"pancakeswap"
+	]
+}

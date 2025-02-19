@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xB8Fd1438CA2aF47b940FFF34D13cF58C64ac96A1",
+	"symbol": "Space Frog X",
+	"name": "Space Frog X",
+	"coingecko": "space-frog-x",
+	"sources": [
+		"coingecko"
+	]
+}

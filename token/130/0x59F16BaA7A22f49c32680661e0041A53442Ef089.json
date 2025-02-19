@@ -1,0 +1,11 @@
+{
+	"chain": 130,
+	"address": "0x59F16BaA7A22f49c32680661e0041A53442Ef089",
+	"symbol": "ARKM",
+	"name": "Arkham",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/30929/standard/Arkham_Logo_CG.png?1696529771",
+	"sources": [
+		"uniswap"
+	]
+}

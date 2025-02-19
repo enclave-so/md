@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x51129daD3DB1C28D693616308AE1062E43280Ed7",
+	"symbol": "ZAI",
+	"name": "Zesh AI Layer",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/36617/thumb/logo-zesh.png?1712083180",
+	"coingecko": "zesh",
+	"sources": [
+		"coingecko"
+	]
+}

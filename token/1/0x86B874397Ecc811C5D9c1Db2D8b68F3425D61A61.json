@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x86B874397Ecc811C5D9c1Db2D8b68F3425D61A61",
+	"symbol": "PAUL",
+	"name": "Paul",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/52827/thumb/paul_200.jpg?1734434897",
+	"coingecko": "paul-2",
+	"sources": [
+		"coingecko"
+	]
+}

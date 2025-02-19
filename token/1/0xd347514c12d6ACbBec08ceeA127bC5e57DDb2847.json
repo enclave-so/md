@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0xd347514c12d6ACbBec08ceeA127bC5e57DDb2847",
+	"symbol": "AVER",
+	"name": "Aver AI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/53541/thumb/Aver_Dextools.png?1736598569",
+	"coingecko": "aver-ai",
+	"sources": [
+		"coingecko"
+	]
+}

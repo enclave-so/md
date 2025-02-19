@@ -1,0 +1,11 @@
+{
+	"chain": 130,
+	"address": "0xd649b9AD2104418B5b032a5899fBcd54a9a46c68",
+	"symbol": "TLM",
+	"name": "Alien Worlds",
+	"decimals": 4,
+	"logo": "https://assets.coingecko.com/coins/images/14676/thumb/kY-C4o7RThfWrDQsLCAG4q4clZhBDDfJQVhWUEKxXAzyQYMj4Jmq1zmFwpRqxhAJFPOa0AsW_PTSshoPuMnXNwq3rU7Imp15QimXTjlXMx0nC088mt1rIwRs75GnLLugWjSllxgzvQ9YrP4tBgclK4_rb17hjnusGj_c0u2fx0AvVokjSNB-v2poTj0xT9BZRCbzRE3-lF1.jpg?1617700061",
+	"sources": [
+		"uniswap"
+	]
+}

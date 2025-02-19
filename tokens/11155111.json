@@ -1,22 +1,11 @@
 [
 	{
 		"chain": 11155111,
-		"address": "0xE452027cdEF746c7Cd3DB31CB700428b16cD8E51",
-		"symbol": "STT",
-		"name": "Status Test Token",
+		"address": "0xbABedB663F3E70E6CEdb26558e8ceFB12d321Caa",
+		"symbol": "EVERY",
+		"name": "Everyrealm Token",
 		"decimals": 18,
-		"logo": "https://ethereum-optimism.github.io/data/SNT/logo.svg",
-		"sources": [
-			"optimism"
-		]
-	},
-	{
-		"chain": 11155111,
-		"address": "0xb6C690B6FA95491cb84E2fEa759C714aA740d060",
-		"symbol": "YYY",
-		"name": "YYY",
-		"decimals": 18,
-		"logo": "https://ethereum-optimism.github.io/data/YYY/logo.svg",
+		"logo": "https://ethereum-optimism.github.io/data/EVERY/logo.svg",
 		"sources": [
 			"optimism"
 		]
@@ -34,33 +23,11 @@
 	},
 	{
 		"chain": 11155111,
-		"address": "0x574338FFb9471C7a260e338478409Ed0F8900ea5",
-		"symbol": "tMASQ",
-		"name": "tMASQ",
+		"address": "0x4ed818eDd4a0c36A3F43826A60630879b8164401",
+		"symbol": "DF",
+		"name": "dForce",
 		"decimals": 18,
-		"logo": "https://ethereum-optimism.github.io/data/MASQ/logo.png",
-		"sources": [
-			"optimism"
-		]
-	},
-	{
-		"chain": 11155111,
-		"address": "0x51fe233C9c4518A84dc14eF8033d804FAe35a25D",
-		"symbol": "OPENLOOT",
-		"name": "Open Loot",
-		"decimals": 18,
-		"logo": "https://ethereum-optimism.github.io/data/OPENLOOT/logo.svg",
-		"sources": [
-			"optimism"
-		]
-	},
-	{
-		"chain": 11155111,
-		"address": "0xF01901ad15fcd248a7175E03c0ecCC0fD1D943Eb",
-		"symbol": "SEAM",
-		"name": "Seamless",
-		"decimals": 18,
-		"logo": "https://ethereum-optimism.github.io/data/SEAM/logo.svg",
+		"logo": "https://ethereum-optimism.github.io/data/DF/logo.svg",
 		"sources": [
 			"optimism"
 		]
@@ -78,6 +45,72 @@
 	},
 	{
 		"chain": 11155111,
+		"address": "0x0dBD2d894157376a4939b5B94940Acd1fD110303",
+		"symbol": "IRARA",
+		"name": "IRARA Token",
+		"decimals": 18,
+		"logo": "https://ethereum-optimism.github.io/data/IRARA/logo.svg",
+		"sources": [
+			"optimism"
+		]
+	},
+	{
+		"chain": 11155111,
+		"address": "0x72E2f504a0769458ACdCdd24236912f48342457C",
+		"symbol": "CXT",
+		"name": "Covalent X Token",
+		"decimals": 18,
+		"logo": "https://ethereum-optimism.github.io/data/CXT/logo.svg",
+		"sources": [
+			"optimism"
+		]
+	},
+	{
+		"chain": 11155111,
+		"address": "0xb6C690B6FA95491cb84E2fEa759C714aA740d060",
+		"symbol": "YYY",
+		"name": "YYY",
+		"decimals": 18,
+		"logo": "https://ethereum-optimism.github.io/data/YYY/logo.svg",
+		"sources": [
+			"optimism"
+		]
+	},
+	{
+		"chain": 11155111,
+		"address": "0x70069DBDCde634FAfc827661E579e34194B39D51",
+		"symbol": "TYBENG",
+		"name": "TYBENG",
+		"decimals": 18,
+		"logo": "https://ethereum-optimism.github.io/data/TYBENG/logo.svg",
+		"sources": [
+			"optimism"
+		]
+	},
+	{
+		"chain": 11155111,
+		"address": "0xE490c7698F2b80789Fe312162d9D0a1Bd8C9beeE",
+		"symbol": "BTRST",
+		"name": "BTRST",
+		"decimals": 18,
+		"logo": "https://ethereum-optimism.github.io/data/BTRST/logo.svg",
+		"sources": [
+			"optimism"
+		]
+	},
+	{
+		"chain": 11155111,
+		"address": "0x1391E5032b3523E6A86dDF1D85605D6180B962d8",
+		"symbol": "MCADE",
+		"name": "Metacade",
+		"decimals": 18,
+		"logo": "https://ethereum-optimism.github.io/data/MCADE/logo.svg",
+		"sources": [
+			"optimism"
+		]
+	},
+	{
+		"chain": 11155111,
 		"address": "0xfF36224B9CF97e7791D99fE19281Ff78B0b24208",
 		"symbol": "OMI",
 		"name": "OMI Token",
@@ -89,11 +122,32 @@
 	},
 	{
 		"chain": 11155111,
-		"address": "0xb7fB16053a3E3d4306791045769EC686F6EC4432",
-		"symbol": "WCT",
-		"name": "WalletConnect",
+		"address": "0x3f14920c99BEB920Afa163031c4e47a3e03B3e4A",
+		"symbol": "send",
+		"name": "Send Token",
+		"logo": "https://ethereum-optimism.github.io/data/send/logo.svg",
+		"sources": [
+			"optimism"
+		]
+	},
+	{
+		"chain": 11155111,
+		"address": "0xE452027cdEF746c7Cd3DB31CB700428b16cD8E51",
+		"symbol": "STT",
+		"name": "Status Test Token",
 		"decimals": 18,
-		"logo": "https://ethereum-optimism.github.io/data/WCT/logo.svg",
+		"logo": "https://ethereum-optimism.github.io/data/SNT/logo.svg",
+		"sources": [
+			"optimism"
+		]
+	},
+	{
+		"chain": 11155111,
+		"address": "0x19dcecf9308F058Ace0580CDc06b2932eb428d3c",
+		"symbol": "TT",
+		"name": "TT",
+		"decimals": 6,
+		"logo": "https://ethereum-optimism.github.io/data/TT/logo.svg",
 		"sources": [
 			"optimism"
 		]
@@ -111,55 +165,11 @@
 	},
 	{
 		"chain": 11155111,
-		"address": "0x10D8432B6AFE1096ee0b74F21F827F8F1ae09e96",
-		"symbol": "LOCG",
-		"name": "LOCGame",
+		"address": "0xA5a69f91E14c135727983924C671EC564739b961",
+		"symbol": "ABT",
+		"name": "ArcBlock",
 		"decimals": 18,
-		"logo": "https://ethereum-optimism.github.io/data/LOCG/logo.png",
-		"sources": [
-			"optimism"
-		]
-	},
-	{
-		"chain": 11155111,
-		"address": "0x0765C04EF390A63E8b7Bb6A5FCA2F42169C7bB19",
-		"symbol": "PRE",
-		"name": "Presearch",
-		"decimals": 18,
-		"logo": "https://ethereum-optimism.github.io/data/PRE/logo.svg",
-		"sources": [
-			"optimism"
-		]
-	},
-	{
-		"chain": 11155111,
-		"address": "0x90C9155EC3c2C4aD624Db896864fC62eb3D62626",
-		"symbol": "TRUE",
-		"name": "True",
-		"decimals": 18,
-		"logo": "https://ethereum-optimism.github.io/data/TRUE/logo.svg",
-		"sources": [
-			"optimism"
-		]
-	},
-	{
-		"chain": 11155111,
-		"address": "0x1c7D4B196Cb0C7B01d743Fbc6116a902379C7238",
-		"symbol": "USDC",
-		"name": "USDC",
-		"decimals": 6,
-		"logo": "https://ethereum-optimism.github.io/data/USDC/logo.png",
-		"sources": [
-			"optimism"
-		]
-	},
-	{
-		"chain": 11155111,
-		"address": "0xB82381A3fBD3FaFA77B3a7bE693342618240067b",
-		"symbol": "wstETH",
-		"name": "Wrapped liquid staked Ether 2.0",
-		"decimals": 18,
-		"logo": "https://ethereum-optimism.github.io/data/wstETH/logo.svg",
+		"logo": "https://ethereum-optimism.github.io/data/ABT/logo.svg",
 		"sources": [
 			"optimism"
 		]
@@ -188,33 +198,44 @@
 	},
 	{
 		"chain": 11155111,
-		"address": "0xAF9F5cC2384C33dE30a7eDB933A3fb0626eAf542",
-		"symbol": "LIZ",
-		"name": "Lizcoin",
+		"address": "0xDFcffFF1b184F2051cbeA17dF11d4e074aB5271E",
+		"symbol": "LRDS",
+		"name": "BLOCKLORDS",
 		"decimals": 18,
-		"logo": "https://ethereum-optimism.github.io/data/LIZCOIN/logo.png",
+		"logo": "https://ethereum-optimism.github.io/data/LRDS/logo.svg",
 		"sources": [
 			"optimism"
 		]
 	},
 	{
 		"chain": 11155111,
-		"address": "0xE6E15Ffc71AbDAe8D34D65bB695959fbd6c15435",
-		"symbol": "SQT",
-		"name": "SubQueryToken",
+		"address": "0x574338FFb9471C7a260e338478409Ed0F8900ea5",
+		"symbol": "tMASQ",
+		"name": "tMASQ",
 		"decimals": 18,
-		"logo": "https://ethereum-optimism.github.io/data/SQT/logo.svg",
+		"logo": "https://ethereum-optimism.github.io/data/MASQ/logo.png",
 		"sources": [
 			"optimism"
 		]
 	},
 	{
 		"chain": 11155111,
-		"address": "0x3CF66a662390e37ff260D0cBAa8Af6d426D60D43",
-		"symbol": "MORPHO",
-		"name": "Morpho Token",
+		"address": "0x12630f88B4ac181bad45089Ba1D0d5DBed708083",
+		"symbol": "OL",
+		"name": "OPENLOOT",
 		"decimals": 18,
-		"logo": "https://ethereum-optimism.github.io/data/MORPHO/logo.svg",
+		"logo": "https://ethereum-optimism.github.io/data/OL/logo.svg",
+		"sources": [
+			"optimism"
+		]
+	},
+	{
+		"chain": 11155111,
+		"address": "0x51fe233C9c4518A84dc14eF8033d804FAe35a25D",
+		"symbol": "OPENLOOT",
+		"name": "Open Loot",
+		"decimals": 18,
+		"logo": "https://ethereum-optimism.github.io/data/OPENLOOT/logo.svg",
 		"sources": [
 			"optimism"
 		]
@@ -233,66 +254,44 @@
 	},
 	{
 		"chain": 11155111,
-		"address": "0x33faF65b3DfcC6A1FccaD4531D9ce518F0FDc896",
-		"symbol": "BOBA",
-		"name": "Boba Token",
-		"decimals": 18,
-		"logo": "https://ethereum-optimism.github.io/data/BOBA/logo.svg",
+		"address": "0x1c7D4B196Cb0C7B01d743Fbc6116a902379C7238",
+		"symbol": "USDC",
+		"name": "USDC",
+		"decimals": 6,
+		"logo": "https://ethereum-optimism.github.io/data/USDC/logo.png",
 		"sources": [
 			"optimism"
 		]
 	},
 	{
 		"chain": 11155111,
-		"address": "0x16B840bA01e2b05fc2268eAf6d18892a11EC29D6",
-		"symbol": "LSK",
-		"name": "Lisk",
+		"address": "0xb7fB16053a3E3d4306791045769EC686F6EC4432",
+		"symbol": "WCT",
+		"name": "WalletConnect",
 		"decimals": 18,
-		"logo": "https://ethereum-optimism.github.io/data/LSK/logo.svg",
+		"logo": "https://ethereum-optimism.github.io/data/WCT/logo.svg",
 		"sources": [
 			"optimism"
 		]
 	},
 	{
 		"chain": 11155111,
-		"address": "0x1391E5032b3523E6A86dDF1D85605D6180B962d8",
-		"symbol": "MCADE",
-		"name": "Metacade",
+		"address": "0xF01901ad15fcd248a7175E03c0ecCC0fD1D943Eb",
+		"symbol": "SEAM",
+		"name": "Seamless",
 		"decimals": 18,
-		"logo": "https://ethereum-optimism.github.io/data/MCADE/logo.svg",
+		"logo": "https://ethereum-optimism.github.io/data/SEAM/logo.svg",
 		"sources": [
 			"optimism"
 		]
 	},
 	{
 		"chain": 11155111,
-		"address": "0x72E2f504a0769458ACdCdd24236912f48342457C",
-		"symbol": "CXT",
-		"name": "Covalent X Token",
+		"address": "0xAF9F5cC2384C33dE30a7eDB933A3fb0626eAf542",
+		"symbol": "LIZ",
+		"name": "Lizcoin",
 		"decimals": 18,
-		"logo": "https://ethereum-optimism.github.io/data/CXT/logo.svg",
-		"sources": [
-			"optimism"
-		]
-	},
-	{
-		"chain": 11155111,
-		"address": "0x466027EEA4c47DD172a3F0bdD5f9d74b230bDE10",
-		"symbol": "DOSE",
-		"name": "DOSE",
-		"decimals": 18,
-		"logo": "https://ethereum-optimism.github.io/data/DOSE/logo.svg",
-		"sources": [
-			"optimism"
-		]
-	},
-	{
-		"chain": 11155111,
-		"address": "0x12630f88B4ac181bad45089Ba1D0d5DBed708083",
-		"symbol": "OL",
-		"name": "OPENLOOT",
-		"decimals": 18,
-		"logo": "https://ethereum-optimism.github.io/data/OL/logo.svg",
+		"logo": "https://ethereum-optimism.github.io/data/LIZCOIN/logo.png",
 		"sources": [
 			"optimism"
 		]
@@ -310,11 +309,88 @@
 	},
 	{
 		"chain": 11155111,
-		"address": "0x70069DBDCde634FAfc827661E579e34194B39D51",
-		"symbol": "TYBENG",
-		"name": "TYBENG",
+		"address": "0x12608ff9dac79d8443F17A4d39D93317BAD026Aa",
+		"symbol": "OUTb",
+		"name": "OptimismUselessToken-Bridged",
 		"decimals": 18,
-		"logo": "https://ethereum-optimism.github.io/data/TYBENG/logo.svg",
+		"logo": "https://ethereum-optimism.github.io/data/OUTb/logo.svg",
+		"sources": [
+			"optimism"
+		]
+	},
+	{
+		"chain": 11155111,
+		"address": "0x33faF65b3DfcC6A1FccaD4531D9ce518F0FDc896",
+		"symbol": "BOBA",
+		"name": "Boba Token",
+		"decimals": 18,
+		"logo": "https://ethereum-optimism.github.io/data/BOBA/logo.svg",
+		"sources": [
+			"optimism"
+		]
+	},
+	{
+		"chain": 11155111,
+		"address": "0x10D8432B6AFE1096ee0b74F21F827F8F1ae09e96",
+		"symbol": "LOCG",
+		"name": "LOCGame",
+		"decimals": 18,
+		"logo": "https://ethereum-optimism.github.io/data/LOCG/logo.png",
+		"sources": [
+			"optimism"
+		]
+	},
+	{
+		"chain": 11155111,
+		"address": "0x16B840bA01e2b05fc2268eAf6d18892a11EC29D6",
+		"symbol": "LSK",
+		"name": "Lisk",
+		"decimals": 18,
+		"logo": "https://ethereum-optimism.github.io/data/LSK/logo.svg",
+		"sources": [
+			"optimism"
+		]
+	},
+	{
+		"chain": 11155111,
+		"address": "0x3CF66a662390e37ff260D0cBAa8Af6d426D60D43",
+		"symbol": "MORPHO",
+		"name": "Morpho Token",
+		"decimals": 18,
+		"logo": "https://ethereum-optimism.github.io/data/MORPHO/logo.svg",
+		"sources": [
+			"optimism"
+		]
+	},
+	{
+		"chain": 11155111,
+		"address": "0x0765C04EF390A63E8b7Bb6A5FCA2F42169C7bB19",
+		"symbol": "PRE",
+		"name": "Presearch",
+		"decimals": 18,
+		"logo": "https://ethereum-optimism.github.io/data/PRE/logo.svg",
+		"sources": [
+			"optimism"
+		]
+	},
+	{
+		"chain": 11155111,
+		"address": "0xE6E15Ffc71AbDAe8D34D65bB695959fbd6c15435",
+		"symbol": "SQT",
+		"name": "SubQueryToken",
+		"decimals": 18,
+		"logo": "https://ethereum-optimism.github.io/data/SQT/logo.svg",
+		"sources": [
+			"optimism"
+		]
+	},
+	{
+		"chain": 11155111,
+		"address": "0x90C9155EC3c2C4aD624Db896864fC62eb3D62626",
+		"symbol": "TRUE",
+		"name": "True",
+		"decimals": 18,
+		"logo": "https://ethereum-optimism.github.io/data/TRUE/logo.svg",
 		"sources": [
 			"optimism"
 		]
@@ -332,98 +408,22 @@
 	},
 	{
 		"chain": 11155111,
-		"address": "0xA5a69f91E14c135727983924C671EC564739b961",
-		"symbol": "ABT",
-		"name": "ArcBlock",
+		"address": "0x466027EEA4c47DD172a3F0bdD5f9d74b230bDE10",
+		"symbol": "DOSE",
+		"name": "DOSE",
 		"decimals": 18,
-		"logo": "https://ethereum-optimism.github.io/data/ABT/logo.svg",
+		"logo": "https://ethereum-optimism.github.io/data/DOSE/logo.svg",
 		"sources": [
 			"optimism"
 		]
 	},
 	{
 		"chain": 11155111,
-		"address": "0x0dBD2d894157376a4939b5B94940Acd1fD110303",
-		"symbol": "IRARA",
-		"name": "IRARA Token",
+		"address": "0xB82381A3fBD3FaFA77B3a7bE693342618240067b",
+		"symbol": "wstETH",
+		"name": "Wrapped liquid staked Ether 2.0",
 		"decimals": 18,
-		"logo": "https://ethereum-optimism.github.io/data/IRARA/logo.svg",
-		"sources": [
-			"optimism"
-		]
-	},
-	{
-		"chain": 11155111,
-		"address": "0xDFcffFF1b184F2051cbeA17dF11d4e074aB5271E",
-		"symbol": "LRDS",
-		"name": "BLOCKLORDS",
-		"decimals": 18,
-		"logo": "https://ethereum-optimism.github.io/data/LRDS/logo.svg",
-		"sources": [
-			"optimism"
-		]
-	},
-	{
-		"chain": 11155111,
-		"address": "0x12608ff9dac79d8443F17A4d39D93317BAD026Aa",
-		"symbol": "OUTb",
-		"name": "OptimismUselessToken-Bridged",
-		"decimals": 18,
-		"logo": "https://ethereum-optimism.github.io/data/OUTb/logo.svg",
-		"sources": [
-			"optimism"
-		]
-	},
-	{
-		"chain": 11155111,
-		"address": "0x19dcecf9308F058Ace0580CDc06b2932eb428d3c",
-		"symbol": "TT",
-		"name": "TT",
-		"decimals": 6,
-		"logo": "https://ethereum-optimism.github.io/data/TT/logo.svg",
-		"sources": [
-			"optimism"
-		]
-	},
-	{
-		"chain": 11155111,
-		"address": "0xE490c7698F2b80789Fe312162d9D0a1Bd8C9beeE",
-		"symbol": "BTRST",
-		"name": "BTRST",
-		"decimals": 18,
-		"logo": "https://ethereum-optimism.github.io/data/BTRST/logo.svg",
-		"sources": [
-			"optimism"
-		]
-	},
-	{
-		"chain": 11155111,
-		"address": "0x4ed818eDd4a0c36A3F43826A60630879b8164401",
-		"symbol": "DF",
-		"name": "dForce",
-		"decimals": 18,
-		"logo": "https://ethereum-optimism.github.io/data/DF/logo.svg",
-		"sources": [
-			"optimism"
-		]
-	},
-	{
-		"chain": 11155111,
-		"address": "0xbABedB663F3E70E6CEdb26558e8ceFB12d321Caa",
-		"symbol": "EVERY",
-		"name": "Everyrealm Token",
-		"decimals": 18,
-		"logo": "https://ethereum-optimism.github.io/data/EVERY/logo.svg",
-		"sources": [
-			"optimism"
-		]
-	},
-	{
-		"chain": 11155111,
-		"address": "0x3f14920c99BEB920Afa163031c4e47a3e03B3e4A",
-		"symbol": "send",
-		"name": "Send Token",
-		"logo": "https://ethereum-optimism.github.io/data/send/logo.svg",
+		"logo": "https://ethereum-optimism.github.io/data/wstETH/logo.svg",
 		"sources": [
 			"optimism"
 		]

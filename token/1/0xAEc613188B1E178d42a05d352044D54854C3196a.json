@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0xAEc613188B1E178d42a05d352044D54854C3196a",
+	"symbol": "DESCI",
+	"name": "SUI Desci Agents",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/53133/thumb/sui-desci-agents.jpg?1735299471",
+	"coingecko": "sui-desci-agents",
+	"sources": [
+		"coingecko"
+	]
+}

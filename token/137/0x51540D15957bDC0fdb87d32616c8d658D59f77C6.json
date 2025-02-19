@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x51540D15957bDC0fdb87d32616c8d658D59f77C6",
+	"symbol": "Winter",
+	"name": "Winter",
+	"coingecko": "winter",
+	"sources": [
+		"coingecko"
+	]
+}

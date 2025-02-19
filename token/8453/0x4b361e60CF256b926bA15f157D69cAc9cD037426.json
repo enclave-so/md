@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x4b361e60CF256b926bA15f157D69cAc9cD037426",
+	"symbol": "Clustr",
+	"name": "Clustr",
+	"coingecko": "clustr",
+	"sources": [
+		"coingecko"
+	]
+}

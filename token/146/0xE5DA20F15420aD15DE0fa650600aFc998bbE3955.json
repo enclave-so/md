@@ -1,0 +1,10 @@
+{
+	"chain": 146,
+	"address": "0xE5DA20F15420aD15DE0fa650600aFc998bbE3955",
+	"symbol": "Beets Staked Sonic",
+	"name": "Beets Staked Sonic",
+	"coingecko": "beets-staked-sonic",
+	"sources": [
+		"coingecko"
+	]
+}

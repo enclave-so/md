@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x0171ae9879C7FBCf3071B149bB4F2130daEF7457",
+	"symbol": "GPT Wars",
+	"name": "GPT Wars",
+	"coingecko": "gpt-wars",
+	"sources": [
+		"coingecko"
+	]
+}

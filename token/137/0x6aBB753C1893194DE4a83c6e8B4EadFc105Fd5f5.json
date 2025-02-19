@@ -1,0 +1,11 @@
+{
+	"chain": 137,
+	"address": "0x6aBB753C1893194DE4a83c6e8B4EadFc105Fd5f5",
+	"symbol": "SXP",
+	"name": "Swipe",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/9368/thumb/swipe.png?1566792311",
+	"sources": [
+		"uniswap"
+	]
+}

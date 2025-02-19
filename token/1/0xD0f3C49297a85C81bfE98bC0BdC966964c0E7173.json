@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0xD0f3C49297a85C81bfE98bC0BdC966964c0E7173",
+	"symbol": "VMC",
+	"name": "VMS Classic",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/53401/thumb/VMS_LOGO_200.png?1736284240",
+	"coingecko": "vms-classic",
+	"sources": [
+		"coingecko"
+	]
+}

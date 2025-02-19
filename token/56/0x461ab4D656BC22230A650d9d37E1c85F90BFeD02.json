@@ -1,8 +1,8 @@
 {
 	"chain": 56,
 	"address": "0x461ab4D656BC22230A650d9d37E1c85F90BFeD02",
-	"symbol": "Airtok",
-	"name": "Airtok",
+	"symbol": "Airtok [OLD]",
+	"name": "Airtok [OLD]",
 	"coingecko": "airtok",
 	"sources": [
 		"coingecko"

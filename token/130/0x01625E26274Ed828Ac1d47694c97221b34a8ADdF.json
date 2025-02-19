@@ -1,0 +1,12 @@
+{
+	"chain": 130,
+	"address": "0x01625E26274Ed828Ac1d47694c97221b34a8ADdF",
+	"symbol": "BAL",
+	"name": "Balancer",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xba100000625a3754423978a60c9317c58a424e3D/logo.png",
+	"sources": [
+		"optimism",
+		"uniswap"
+	]
+}

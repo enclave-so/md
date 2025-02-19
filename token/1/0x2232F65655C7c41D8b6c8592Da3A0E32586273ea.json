@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x2232F65655C7c41D8b6c8592Da3A0E32586273ea",
+	"symbol": "DRX",
+	"name": "DREYERX NETWORK",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/52775/thumb/LogoOnlyPNG.png?1734282102",
+	"coingecko": "dreyerx-network",
+	"sources": [
+		"coingecko"
+	]
+}

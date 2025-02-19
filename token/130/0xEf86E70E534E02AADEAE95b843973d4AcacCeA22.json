@@ -1,0 +1,11 @@
+{
+	"chain": 130,
+	"address": "0xEf86E70E534E02AADEAE95b843973d4AcacCeA22",
+	"symbol": "STX",
+	"name": "Stox",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/1230/thumb/stox-token.png?1547035256",
+	"sources": [
+		"uniswap"
+	]
+}

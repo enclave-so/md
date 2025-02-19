@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x4cfd8BEfDcD6bFc146FE214FA4b5Bbe731a9c269",
+	"symbol": "MARBITZ",
+	"name": "MARBITZ",
+	"coingecko": "marbitz",
+	"sources": [
+		"coingecko"
+	]
+}

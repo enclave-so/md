@@ -1,0 +1,10 @@
+{
+	"chain": 81457,
+	"address": "0xFcBe84B53fD3eD33b5Dfa82fB005603daa5204A7",
+	"symbol": "Dinari MCD",
+	"name": "Dinari MCD",
+	"coingecko": "dinari-mcd",
+	"sources": [
+		"coingecko"
+	]
+}

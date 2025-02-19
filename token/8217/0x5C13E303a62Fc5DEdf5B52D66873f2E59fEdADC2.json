@@ -1,0 +1,10 @@
+{
+	"chain": 8217,
+	"address": "0x5C13E303a62Fc5DEdf5B52D66873f2E59fEdADC2",
+	"symbol": "Kaia Bridged USDT (Kaia)",
+	"name": "Kaia Bridged USDT (Kaia)",
+	"coingecko": "kaia-bridged-usdt-kaia",
+	"sources": [
+		"coingecko"
+	]
+}

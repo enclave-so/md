@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x91dA780BC7f4B7Cf19ABE90411a2a296Ec5FF787",
+	"symbol": "Hive Intelligence",
+	"name": "Hive Intelligence",
+	"coingecko": "hive-intelligence",
+	"sources": [
+		"coingecko"
+	]
+}

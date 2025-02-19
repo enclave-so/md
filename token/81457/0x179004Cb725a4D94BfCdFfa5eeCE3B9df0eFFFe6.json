@@ -1,0 +1,10 @@
+{
+	"chain": 81457,
+	"address": "0x179004Cb725a4D94BfCdFfa5eeCE3B9df0eFFFe6",
+	"symbol": "Dinari MARA",
+	"name": "Dinari MARA",
+	"coingecko": "dinari-mara",
+	"sources": [
+		"coingecko"
+	]
+}

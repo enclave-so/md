@@ -1,9 +1,9 @@
 {
 	"chain": 53935,
 	"address": "0xB57B60DeBDB0b8172bb6316a9164bd3C695F133a",
-	"symbol": "Wrapped AVAX",
-	"name": "Wrapped AVAX",
-	"coingecko": "wrapped-avax",
+	"symbol": "Synapse Bridged wAVAX (DFK Chain)",
+	"name": "Synapse Bridged wAVAX (DFK Chain)",
+	"coingecko": "synapse-bridged-wavax-dfk-chain",
 	"sources": [
 		"coingecko"
 	]

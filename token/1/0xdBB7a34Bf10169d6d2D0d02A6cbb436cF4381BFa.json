@@ -7,6 +7,7 @@
 	"logo": "https://assets.coingecko.com/coins/images/36979/thumb/Zentry-rebrand-Primary_200px.png?1713743277",
 	"coingecko": "zentry",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"optimism"
 	]
 }

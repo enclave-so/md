@@ -1,0 +1,10 @@
+{
+	"chain": 11820,
+	"address": "0x891986cF778004c86C5f2d8C18198635F725a5ce",
+	"symbol": "Wrapped ART",
+	"name": "Wrapped ART",
+	"coingecko": "wrapped-art",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xb18c609796848C723eAcaDC0BE5b71Ceb2289a48",
+	"symbol": "ATA by Virtuals",
+	"name": "ATA by Virtuals",
+	"coingecko": "ata-by-virtuals",
+	"sources": [
+		"coingecko"
+	]
+}

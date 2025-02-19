@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xca73ed1815e5915489570014e024b7EbE65dE679",
+	"symbol": "Odos",
+	"name": "Odos",
+	"coingecko": "odos",
+	"sources": [
+		"coingecko"
+	]
+}

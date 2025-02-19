@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0xe94dB607eBA8f76A377D9bCc327C9856ed90FbDE",
+	"symbol": "NINA",
+	"name": "Nina",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/54353/thumb/1000161703.png?1739382520",
+	"coingecko": "nina",
+	"sources": [
+		"coingecko"
+	]
+}

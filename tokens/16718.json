@@ -1,10 +1,20 @@
 [
 	{
 		"chain": 16718,
-		"address": "0xFF9F502976E7bD2b4901aD7Dd1131Bb81E5567de",
-		"symbol": "AirDAO bridged USDC (AirDAO)",
-		"name": "AirDAO bridged USDC (AirDAO)",
-		"coingecko": "airdao-bridged-usdc-airdao",
+		"address": "0x5ceCBde7811aC0Ed86Be11827AE622b89Bc429DF",
+		"symbol": "Astra",
+		"name": "Astra",
+		"coingecko": "astra-2",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 16718,
+		"address": "0xC410F3EB0c0f0E1EFA188D38C366536d59a265ba",
+		"symbol": "Swiss Wine",
+		"name": "Swiss Wine",
+		"coingecko": "swiss-wine",
 		"sources": [
 			"coingecko"
 		]
@@ -15,6 +25,16 @@
 		"symbol": "Synthetic Amber",
 		"name": "Synthetic Amber",
 		"coingecko": "synthetic-amber",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 16718,
+		"address": "0xFF9F502976E7bD2b4901aD7Dd1131Bb81E5567de",
+		"symbol": "AirDAO bridged USDC (AirDAO)",
+		"name": "AirDAO bridged USDC (AirDAO)",
+		"coingecko": "airdao-bridged-usdc-airdao",
 		"sources": [
 			"coingecko"
 		]

@@ -1,0 +1,11 @@
+{
+	"chain": 130,
+	"address": "0xF8E7B485CE10D3C7Ac30B8444B98a0cC423dFb57",
+	"symbol": "CPOOL",
+	"name": "Clearpool",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/19252/large/photo_2022-08-31_12.45.02.jpeg?1696518697",
+	"sources": [
+		"uniswap"
+	]
+}

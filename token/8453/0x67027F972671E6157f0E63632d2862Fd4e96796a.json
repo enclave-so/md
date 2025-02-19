@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x67027F972671E6157f0E63632d2862Fd4e96796a",
+	"symbol": "Wrapped NETZ",
+	"name": "Wrapped NETZ",
+	"coingecko": "wrapped-netz",
+	"sources": [
+		"coingecko"
+	]
+}

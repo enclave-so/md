@@ -1,8 +1,8 @@
 {
 	"chain": 137,
 	"address": "0x41084fDc569099d9E527ccf126e12d9C7c688ec3",
-	"symbol": "IQ Protocol",
-	"name": "IQ Protocol",
+	"symbol": "QHUB",
+	"name": "QHUB",
 	"coingecko": "iq-protocol",
 	"sources": [
 		"coingecko"

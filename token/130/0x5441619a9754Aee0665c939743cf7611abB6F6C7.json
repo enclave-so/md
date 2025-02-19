@@ -1,0 +1,11 @@
+{
+	"chain": 130,
+	"address": "0x5441619a9754Aee0665c939743cf7611abB6F6C7",
+	"symbol": "PLU",
+	"name": "Pluton",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/1241/thumb/pluton.png?1548331624",
+	"sources": [
+		"uniswap"
+	]
+}

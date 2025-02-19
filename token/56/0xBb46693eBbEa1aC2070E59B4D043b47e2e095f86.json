@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0xBb46693eBbEa1aC2070E59B4D043b47e2e095f86",
-	"symbol": "BFG Token",
+	"symbol": "BFG",
 	"name": "BFG Token",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0xBb46693eBbEa1aC2070E59B4D043b47e2e095f86.png",
 	"coingecko": "bfg-token",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

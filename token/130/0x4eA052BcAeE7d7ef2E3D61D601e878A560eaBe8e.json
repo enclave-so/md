@@ -1,0 +1,11 @@
+{
+	"chain": 130,
+	"address": "0x4eA052BcAeE7d7ef2E3D61D601e878A560eaBe8e",
+	"symbol": "IDEX",
+	"name": "IDEX",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/2565/thumb/logomark-purple-286x286.png?1638362736",
+	"sources": [
+		"uniswap"
+	]
+}

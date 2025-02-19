@@ -1,0 +1,10 @@
+{
+	"chain": 2020,
+	"address": "0x3152136309fE2cd30590aF300692d663007926Be",
+	"symbol": "Metaverse Filipino Worker",
+	"name": "Metaverse Filipino Worker",
+	"coingecko": "metaverse-filipino-worker",
+	"sources": [
+		"coingecko"
+	]
+}

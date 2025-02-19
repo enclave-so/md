@@ -1,0 +1,12 @@
+{
+	"chain": 130,
+	"address": "0x6164A78F7B2aC49cf9b76c49e5B6909e89f34a66",
+	"symbol": "RAI",
+	"name": "Rai Reflex Index",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14004/thumb/RAI-logo-coin.png?1613592334",
+	"sources": [
+		"optimism",
+		"uniswap"
+	]
+}

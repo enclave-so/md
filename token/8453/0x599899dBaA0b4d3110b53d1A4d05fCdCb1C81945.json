@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x599899dBaA0b4d3110b53d1A4d05fCdCb1C81945",
+	"symbol": "MoonEdge",
+	"name": "MoonEdge",
+	"coingecko": "moonedge",
+	"sources": [
+		"coingecko"
+	]
+}

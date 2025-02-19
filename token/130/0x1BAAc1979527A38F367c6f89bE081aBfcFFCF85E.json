@@ -1,0 +1,11 @@
+{
+	"chain": 130,
+	"address": "0x1BAAc1979527A38F367c6f89bE081aBfcFFCF85E",
+	"symbol": "SYLO",
+	"name": "Sylo",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/6430/thumb/SYLO.svg?1589527756",
+	"sources": [
+		"uniswap"
+	]
+}

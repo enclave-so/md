@@ -1,25 +1,78 @@
 [
 	{
 		"chain": 42170,
-		"address": "0x4b2576BC44310D6dfb4cfCf2630f25190fc60803",
-		"symbol": "MoonsDust",
-		"name": "MoonsDust",
-		"coingecko": "moonsdust",
+		"address": "0xeFAeeE334F0Fd1712f9a8cc375f427D9Cdd40d73",
+		"symbol": "DOUBLOON",
+		"name": "DPSDoubloon",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum-nova/0xeFAeeE334F0Fd1712f9a8cc375f427D9Cdd40d73.jpg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42170,
+		"address": "0x1d05e4e72cD994cdF976181CfB0707345763564d",
+		"symbol": "WBTC",
+		"name": "Wrapped Bitcoin",
+		"decimals": 8,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/btc.jpg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42170,
+		"address": "0x000000000026839b3f4181f2cF69336af6153b99",
+		"symbol": "Reboot",
+		"name": "Reboot",
+		"coingecko": "reboot",
 		"sources": [
 			"coingecko"
 		]
 	},
 	{
 		"chain": 42170,
-		"address": "0xf823C3cD3CeBE0a1fA952ba88Dc9EEf8e0Bf46AD",
-		"symbol": "ARB",
-		"name": "Arbitrum",
+		"address": "0x223fB0CeB2C6e5310264EFe38151d7D083db91f1",
+		"symbol": "Superpower Squad",
+		"name": "Superpower Squad",
+		"coingecko": "squad",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42170,
+		"address": "0x8AFE4055Ebc86Bd2AFB3940c0095C9aca511d852",
+		"symbol": "AIUS",
+		"name": "Arbius",
 		"decimals": 18,
-		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network-logos/arbitrum.jpg",
-		"coingecko": "arbitrum",
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum-nova/0x8AFE4055Ebc86Bd2AFB3940c0095C9aca511d852.jpg",
+		"coingecko": "arbius",
 		"sources": [
 			"coingecko",
 			"sushiswap"
+		]
+	},
+	{
+		"chain": 42170,
+		"address": "0x6aB6d61428fde76768D7b45D8BFeec19c6eF91A8",
+		"symbol": "RUM",
+		"name": "DPS Rum",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum-nova/0x6aB6d61428fde76768D7b45D8BFeec19c6eF91A8.jpg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42170,
+		"address": "0xB962150760F9A3bB00e3E9Cf48297EE20AdA4A33",
+		"symbol": "Zoomer",
+		"name": "Zoomer",
+		"coingecko": "zoomer",
+		"sources": [
+			"coingecko"
 		]
 	},
 	{
@@ -50,11 +103,11 @@
 	},
 	{
 		"chain": 42170,
-		"address": "0xfe60A48a0bCf4636aFEcC9642a145D2F241A7011",
-		"symbol": "SUSHI",
-		"name": "SushiToken",
+		"address": "0x80A16016cC4A2E6a2CACA8a4a498b1699fF0f844",
+		"symbol": "TMAP",
+		"name": "TreasureMaps",
 		"decimals": 18,
-		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum-nova/0xfe60A48a0bCf4636aFEcC9642a145D2F241A7011.jpg",
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum-nova/0x80A16016cC4A2E6a2CACA8a4a498b1699fF0f844.jpg",
 		"sources": [
 			"sushiswap"
 		]
@@ -74,14 +127,32 @@
 	},
 	{
 		"chain": 42170,
-		"address": "0x8AFE4055Ebc86Bd2AFB3940c0095C9aca511d852",
+		"address": "0xb5130F4767AB0ACC579f25a76e8f9E977CB3F948",
+		"symbol": "Godcoin",
+		"name": "Godcoin",
+		"coingecko": "godcoin-2",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42170,
+		"address": "0x4b2576BC44310D6dfb4cfCf2630f25190fc60803",
+		"symbol": "MoonsDust",
+		"name": "MoonsDust",
+		"coingecko": "moonsdust",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 42170,
+		"address": "0xe3DBC4F88EAa632DDF9708732E2832EEaA6688AB",
 		"symbol": "AIUS",
 		"name": "Arbius",
 		"decimals": 18,
-		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum-nova/0x8AFE4055Ebc86Bd2AFB3940c0095C9aca511d852.jpg",
-		"coingecko": "arbius",
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum-nova/0xe3DBC4F88EAa632DDF9708732E2832EEaA6688AB.jpg",
 		"sources": [
-			"coingecko",
 			"sushiswap"
 		]
 	},
@@ -100,96 +171,22 @@
 	},
 	{
 		"chain": 42170,
+		"address": "0xfe60A48a0bCf4636aFEcC9642a145D2F241A7011",
+		"symbol": "SUSHI",
+		"name": "SushiToken",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum-nova/0xfe60A48a0bCf4636aFEcC9642a145D2F241A7011.jpg",
+		"sources": [
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42170,
 		"address": "0x52484E1ab2e2B22420a25c20FA49E173a26202Cd",
 		"symbol": "USDT",
 		"name": "Tether USD",
 		"decimals": 6,
 		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum-nova/0x52484E1ab2e2B22420a25c20FA49E173a26202Cd.jpg",
-		"sources": [
-			"sushiswap"
-		]
-	},
-	{
-		"chain": 42170,
-		"address": "0xB962150760F9A3bB00e3E9Cf48297EE20AdA4A33",
-		"symbol": "Zoomer",
-		"name": "Zoomer",
-		"coingecko": "zoomer",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 42170,
-		"address": "0x6aB6d61428fde76768D7b45D8BFeec19c6eF91A8",
-		"symbol": "RUM",
-		"name": "DPS Rum",
-		"decimals": 18,
-		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum-nova/0x6aB6d61428fde76768D7b45D8BFeec19c6eF91A8.jpg",
-		"sources": [
-			"sushiswap"
-		]
-	},
-	{
-		"chain": 42170,
-		"address": "0x80A16016cC4A2E6a2CACA8a4a498b1699fF0f844",
-		"symbol": "TMAP",
-		"name": "TreasureMaps",
-		"decimals": 18,
-		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum-nova/0x80A16016cC4A2E6a2CACA8a4a498b1699fF0f844.jpg",
-		"sources": [
-			"sushiswap"
-		]
-	},
-	{
-		"chain": 42170,
-		"address": "0x000000000026839b3f4181f2cF69336af6153b99",
-		"symbol": "Reboot",
-		"name": "Reboot",
-		"coingecko": "reboot",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 42170,
-		"address": "0x223fB0CeB2C6e5310264EFe38151d7D083db91f1",
-		"symbol": "Superpower Squad",
-		"name": "Superpower Squad",
-		"coingecko": "squad",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 42170,
-		"address": "0xe3DBC4F88EAa632DDF9708732E2832EEaA6688AB",
-		"symbol": "AIUS",
-		"name": "Arbius",
-		"decimals": 18,
-		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum-nova/0xe3DBC4F88EAa632DDF9708732E2832EEaA6688AB.jpg",
-		"sources": [
-			"sushiswap"
-		]
-	},
-	{
-		"chain": 42170,
-		"address": "0xeFAeeE334F0Fd1712f9a8cc375f427D9Cdd40d73",
-		"symbol": "DOUBLOON",
-		"name": "DPSDoubloon",
-		"decimals": 18,
-		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum-nova/0xeFAeeE334F0Fd1712f9a8cc375f427D9Cdd40d73.jpg",
-		"sources": [
-			"sushiswap"
-		]
-	},
-	{
-		"chain": 42170,
-		"address": "0x1d05e4e72cD994cdF976181CfB0707345763564d",
-		"symbol": "WBTC",
-		"name": "Wrapped Bitcoin",
-		"decimals": 8,
-		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/btc.jpg",
 		"sources": [
 			"sushiswap"
 		]
@@ -202,6 +199,19 @@
 		"decimals": 18,
 		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/eth.jpg",
 		"coingecko": "arbitrum-bridged-weth-arbitrum-nova",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 42170,
+		"address": "0xf823C3cD3CeBE0a1fA952ba88Dc9EEf8e0Bf46AD",
+		"symbol": "ARB",
+		"name": "Arbitrum",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network-logos/arbitrum.jpg",
+		"coingecko": "arbitrum",
 		"sources": [
 			"coingecko",
 			"sushiswap"

@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xB770Fad3b3d059162A357047ddcf97Fbe9fd7982",
+	"symbol": "Elon",
+	"name": "Elon",
+	"coingecko": "elon",
+	"sources": [
+		"coingecko"
+	]
+}

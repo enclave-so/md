@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x14297BE295ab922458277BE046e89f73382bDF8e",
+	"symbol": "Dinari NLY",
+	"name": "Dinari NLY",
+	"coingecko": "dinari-nly",
+	"sources": [
+		"coingecko"
+	]
+}

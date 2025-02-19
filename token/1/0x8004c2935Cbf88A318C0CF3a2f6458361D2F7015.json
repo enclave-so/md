@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x8004c2935Cbf88A318C0CF3a2f6458361D2F7015",
+	"symbol": "DRAFT",
+	"name": "Draft",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/52694/thumb/Draft.png?1734034233",
+	"coingecko": "draft",
+	"sources": [
+		"coingecko"
+	]
+}

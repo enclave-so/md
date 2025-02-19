@@ -1,0 +1,11 @@
+{
+	"chain": 130,
+	"address": "0x781CC305fCBFe7cde376C9Ef5469d5a7E5CaB8b2",
+	"symbol": "JUP",
+	"name": "Jupiter",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/10351/thumb/logo512.png?1632480932",
+	"sources": [
+		"uniswap"
+	]
+}

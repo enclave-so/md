@@ -1,0 +1,10 @@
+{
+	"chain": 2020,
+	"address": "0x1467c159680dB9255CC07FEa22E1718fEe896aAE",
+	"symbol": "Rough Love Potion",
+	"name": "Rough Love Potion",
+	"coingecko": "rough-love-potion",
+	"sources": [
+		"coingecko"
+	]
+}

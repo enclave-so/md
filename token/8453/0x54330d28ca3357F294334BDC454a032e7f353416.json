@@ -5,7 +5,9 @@
 	"name": "Autonolas",
 	"decimals": 18,
 	"logo": "https://ethereum-optimism.github.io/data/OLAS/logo.svg",
+	"coingecko": "autonolas",
 	"sources": [
+		"coingecko",
 		"optimism"
 	]
 }

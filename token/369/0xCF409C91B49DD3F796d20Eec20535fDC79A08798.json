@@ -1,0 +1,10 @@
+{
+	"chain": 369,
+	"address": "0xCF409C91B49DD3F796d20Eec20535fDC79A08798",
+	"symbol": "HEX.COM DIAMOND",
+	"name": "HEX.COM DIAMOND",
+	"coingecko": "hex-com-diamond",
+	"sources": [
+		"coingecko"
+	]
+}

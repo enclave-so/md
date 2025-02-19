@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x6Bb7a212910682DCFdbd5BCBb3e28FB4E8da10Ee",
+	"symbol": "GHO",
+	"name": "GHO",
+	"coingecko": "gho",
+	"sources": [
+		"coingecko"
+	]
+}

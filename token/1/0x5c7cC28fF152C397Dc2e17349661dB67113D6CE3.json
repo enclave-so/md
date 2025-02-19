@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x5c7cC28fF152C397Dc2e17349661dB67113D6CE3",
+	"symbol": "VRTX",
+	"name": "VORTEX",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/54104/thumb/VORTEX_%281%29.jpg?1738265602",
+	"coingecko": "vortex",
+	"sources": [
+		"coingecko"
+	]
+}

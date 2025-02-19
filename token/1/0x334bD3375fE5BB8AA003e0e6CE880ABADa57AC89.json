@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x334bD3375fE5BB8AA003e0e6CE880ABADa57AC89",
+	"symbol": "MBERRY",
+	"name": "MicroBerry",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/52838/thumb/Logom_%281%29.png?1734467919",
+	"coingecko": "microberry",
+	"sources": [
+		"coingecko"
+	]
+}

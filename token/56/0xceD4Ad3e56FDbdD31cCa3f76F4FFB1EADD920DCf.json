@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xceD4Ad3e56FDbdD31cCa3f76F4FFB1EADD920DCf",
+	"symbol": "StarSlax",
+	"name": "StarSlax",
+	"coingecko": "starslax",
+	"sources": [
+		"coingecko"
+	]
+}

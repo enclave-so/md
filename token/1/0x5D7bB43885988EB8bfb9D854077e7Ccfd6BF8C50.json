@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x5D7bB43885988EB8bfb9D854077e7Ccfd6BF8C50",
+	"symbol": "ADBED",
+	"name": "Dinari ADBE",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/53861/thumb/d-token-200.png?1737614564",
+	"coingecko": "dinari-adbe",
+	"sources": [
+		"coingecko"
+	]
+}

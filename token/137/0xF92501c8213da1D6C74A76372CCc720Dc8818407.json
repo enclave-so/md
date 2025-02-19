@@ -1,0 +1,11 @@
+{
+	"chain": 137,
+	"address": "0xF92501c8213da1D6C74A76372CCc720Dc8818407",
+	"symbol": "ROOK",
+	"name": "Rook",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/13005/thumb/keeper_dao_logo.jpg?1604316506",
+	"sources": [
+		"uniswap"
+	]
+}

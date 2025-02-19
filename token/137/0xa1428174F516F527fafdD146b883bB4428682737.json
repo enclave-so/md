@@ -1,10 +1,13 @@
 {
 	"chain": 137,
 	"address": "0xa1428174F516F527fafdD146b883bB4428682737",
-	"symbol": "SuperVerse",
-	"name": "SuperVerse",
+	"symbol": "SUPER",
+	"name": "SuperFarm",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14040/thumb/6YPdWn6.png?1613975899",
 	"coingecko": "superfarm",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"uniswap"
 	]
 }

@@ -1,0 +1,11 @@
+{
+	"chain": 137,
+	"address": "0x95c300e7740D2A88a44124B424bFC1cB2F9c3b89",
+	"symbol": "ALCX",
+	"name": "Alchemix",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14113/thumb/Alchemix.png?1614409874",
+	"sources": [
+		"uniswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x0C1dC73159e30c4b06170F2593D3118968a0DCa5",
+	"symbol": "GoPlus Security",
+	"name": "GoPlus Security",
+	"coingecko": "goplus-security",
+	"sources": [
+		"coingecko"
+	]
+}

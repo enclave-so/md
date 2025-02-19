@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x60d95823F795F1972dBDbcd886955095E36E04Cd",
+	"symbol": "GENIE",
+	"name": "GENIE AI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/53037/thumb/Genie-AIPFP_%281%29.png?1735073052",
+	"coingecko": "genie-ai",
+	"sources": [
+		"coingecko"
+	]
+}

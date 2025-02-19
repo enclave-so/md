@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xb5130F4767AB0ACC579f25a76e8f9E977CB3F948",
+	"symbol": "Godcoin",
+	"name": "Godcoin",
+	"coingecko": "godcoin-2",
+	"sources": [
+		"coingecko"
+	]
+}

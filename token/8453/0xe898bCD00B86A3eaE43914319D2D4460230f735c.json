@@ -1,0 +1,13 @@
+{
+	"chain": 8453,
+	"address": "0xe898bCD00B86A3eaE43914319D2D4460230f735c",
+	"symbol": "GLS",
+	"name": "Glacier Network",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/GLS/logo.svg",
+	"coingecko": "glacier-network",
+	"sources": [
+		"coingecko",
+		"optimism"
+	]
+}

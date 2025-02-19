@@ -1,9 +1,9 @@
 {
 	"chain": 252,
 	"address": "0xfc00000000000000000000000000000000000008",
-	"symbol": "Staked Frax",
-	"name": "Staked Frax",
-	"coingecko": "staked-frax-2",
+	"symbol": "Staked Frax USD",
+	"name": "Staked Frax USD",
+	"coingecko": "staked-frax-usd",
 	"sources": [
 		"coingecko"
 	]

@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x2eC37d45FCAE65D9787ECf71dc85a444968f6646",
+	"symbol": "BRBTC",
+	"name": "Bedrock BTC",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/53039/thumb/brBTC_200.png?1735074374",
+	"coingecko": "bedrock-btc",
+	"sources": [
+		"coingecko"
+	]
+}

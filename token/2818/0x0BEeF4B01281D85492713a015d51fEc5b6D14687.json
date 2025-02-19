@@ -1,0 +1,10 @@
+{
+	"chain": 2818,
+	"address": "0x0BEeF4B01281D85492713a015d51fEc5b6D14687",
+	"symbol": "MX",
+	"name": "MX",
+	"coingecko": "mx-token",
+	"sources": [
+		"coingecko"
+	]
+}

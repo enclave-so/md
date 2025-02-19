@@ -1,0 +1,11 @@
+{
+	"chain": 130,
+	"address": "0x45343279DefDAd803d81C06fBCf87936DDD7DFE7",
+	"symbol": "FET",
+	"name": "Fetch ai",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/5681/thumb/Fetch.jpg?1572098136",
+	"sources": [
+		"uniswap"
+	]
+}

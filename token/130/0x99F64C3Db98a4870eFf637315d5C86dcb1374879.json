@@ -1,0 +1,11 @@
+{
+	"chain": 130,
+	"address": "0x99F64C3Db98a4870eFf637315d5C86dcb1374879",
+	"symbol": "HIGH",
+	"name": "Highstreet",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/18973/thumb/logosq200200Coingecko.png?1634090470",
+	"sources": [
+		"uniswap"
+	]
+}

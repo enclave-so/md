@@ -1,0 +1,13 @@
+{
+	"chain": 56,
+	"address": "0x917AF46B3C3c6e1Bb7286B9F59637Fb7C65851Fb",
+	"symbol": "asUSDF",
+	"name": "Astherus asUSDF",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x917AF46B3C3c6e1Bb7286B9F59637Fb7C65851Fb.png",
+	"coingecko": "astherus-staked-usdf",
+	"sources": [
+		"coingecko",
+		"pancakeswap"
+	]
+}

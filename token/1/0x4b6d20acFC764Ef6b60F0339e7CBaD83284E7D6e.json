@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x4b6d20acFC764Ef6b60F0339e7CBaD83284E7D6e",
+	"symbol": "YBTC",
+	"name": "pSTAKE Staked Bitcoin",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/53716/thumb/photo_2025-01-09_22.22.19.jpeg?1737093902",
+	"coingecko": "pstake-staked-bitcoin",
+	"sources": [
+		"coingecko"
+	]
+}

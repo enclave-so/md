@@ -1,0 +1,10 @@
+{
+	"chain": 88,
+	"address": "0xb55Dd628039552a7d93A70fC8932f677499Ed479",
+	"symbol": "Arken Finance",
+	"name": "Arken Finance",
+	"coingecko": "arken-finance",
+	"sources": [
+		"coingecko"
+	]
+}

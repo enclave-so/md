@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x625Bb9Bb04BdcA51871ed6D07e2DD9034E914631",
+	"symbol": "H4CK Terminal by Virtuals",
+	"name": "H4CK Terminal by Virtuals",
+	"coingecko": "h4ck-terminal-by-virtuals",
+	"sources": [
+		"coingecko"
+	]
+}

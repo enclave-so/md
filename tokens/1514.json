@@ -1,0 +1,22 @@
+[
+	{
+		"chain": 1514,
+		"address": "0x1514000000000000000000000000000000000000",
+		"symbol": "Wrapped IP",
+		"name": "Wrapped IP",
+		"coingecko": "wrapped-ip",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1514,
+		"address": "0xF1815bd50389c46847f0Bda824eC8da914045D14",
+		"symbol": "Stargate Bridged USDC (Story)",
+		"name": "Stargate Bridged USDC (Story)",
+		"coingecko": "stargate-bridged-usdc-story",
+		"sources": [
+			"coingecko"
+		]
+	}
+]

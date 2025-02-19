@@ -1,0 +1,11 @@
+{
+	"chain": 8453,
+	"address": "0x09bE1692ca16e06f536F0038fF11D1dA8524aDB1",
+	"symbol": "TEL",
+	"name": "Telcoin",
+	"decimals": 2,
+	"logo": "https://ethereum-optimism.github.io/data/TEL/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

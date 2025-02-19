@@ -1,0 +1,10 @@
+{
+	"chain": 10,
+	"address": "0x5dF7ABe3C51c01dcf6D1f1F9A0ab4dC3759869b9",
+	"symbol": "SoonChain",
+	"name": "SoonChain",
+	"coingecko": "soonchain",
+	"sources": [
+		"coingecko"
+	]
+}

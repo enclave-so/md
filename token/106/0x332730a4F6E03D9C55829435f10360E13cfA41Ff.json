@@ -1,9 +1,9 @@
 {
 	"chain": 106,
 	"address": "0x332730a4F6E03D9C55829435f10360E13cfA41Ff",
-	"symbol": "Wrapped AVAX",
-	"name": "Wrapped AVAX",
-	"coingecko": "wrapped-avax",
+	"symbol": "Multichain Bridged WAVAX (Velas)",
+	"name": "Multichain Bridged WAVAX (Velas)",
+	"coingecko": "multichain-bridged-wavax-velas",
 	"sources": [
 		"coingecko"
 	]

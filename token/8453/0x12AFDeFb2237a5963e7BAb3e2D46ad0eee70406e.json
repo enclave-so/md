@@ -1,0 +1,11 @@
+{
+	"chain": 8453,
+	"address": "0x12AFDeFb2237a5963e7BAb3e2D46ad0eee70406e",
+	"symbol": "Re7USDC",
+	"name": "Re7 USDC",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/29837/large/2022-official-morpho-token.png",
+	"sources": [
+		"indexcoop"
+	]
+}

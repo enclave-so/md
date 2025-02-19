@@ -5,7 +5,9 @@
 	"name": "Fortune",
 	"decimals": 18,
 	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0xaF02D78F39C0002D14b95A3bE272DA02379AfF21.jpg",
+	"coingecko": "ebisusbay-fortune",
 	"sources": [
+		"coingecko",
 		"sushiswap"
 	]
 }

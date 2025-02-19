@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0xfd409Bc96d126bC8a56479d4c7672015D539F96C",
+	"symbol": "VICE",
+	"name": "VICE",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/54042/thumb/rsz_wvmrfszq_400x400.jpg?1738077431",
+	"coingecko": "vice-2",
+	"sources": [
+		"coingecko"
+	]
+}

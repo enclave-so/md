@@ -1,0 +1,10 @@
+{
+	"chain": 2020,
+	"address": "0x361D8623DC1D91E04ebC148687719AaCe282249a",
+	"symbol": "Koku The Shikoku",
+	"name": "Koku The Shikoku",
+	"coingecko": "koku-the-shikoku",
+	"sources": [
+		"coingecko"
+	]
+}

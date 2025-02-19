@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x195f5C217b96Cd3dd75D39327161B8911A42E509",
+	"symbol": "NUTS",
+	"name": "Squirrel Wallet",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/54098/thumb/NUTS.png?1738224791",
+	"coingecko": "squirrel-wallet",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xC3cE78B037DDA1B966D31EC7979d3f3a38571A8E",
+	"symbol": "Backed CSPX Core S\u0026P 500",
+	"name": "Backed CSPX Core S\u0026P 500",
+	"coingecko": "backed-cspx-core-s-p-500",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x915424Ac489433130d92B04096F3b96c82e92a9D",
+	"symbol": "PROS",
+	"name": "Prosper",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/53917/thumb/Prosper_Token_LightMode_%281%29.png?1738143554",
+	"coingecko": "prosper-2",
+	"sources": [
+		"coingecko"
+	]
+}

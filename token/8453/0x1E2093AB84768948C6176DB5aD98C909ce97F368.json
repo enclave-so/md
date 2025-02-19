@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x1E2093AB84768948C6176DB5aD98C909ce97F368",
+	"symbol": "DORA AI by Virtuals",
+	"name": "DORA AI by Virtuals",
+	"coingecko": "dora-ai-by-virtuals",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 5545,
+	"address": "0xdA65892eA771d3268610337E9964D916028B7dAD",
+	"symbol": "DuckChain Token",
+	"name": "DuckChain Token",
+	"coingecko": "duckchain-token",
+	"sources": [
+		"coingecko"
+	]
+}

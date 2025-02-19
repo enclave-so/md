@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x4F800bA0DFF2980C5006C6816F7aA3De63Ce8087",
+	"symbol": "Brilliant Crypto Token",
+	"name": "Brilliant Crypto Token",
+	"coingecko": "brilliant-crypto-token",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0xE021bAa5b70C62A9ab2468490D3f8ce0AfDd88dF",
+	"symbol": "SOR",
+	"name": "Sorra",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/52740/thumb/Sorra_logo_1_1_500x500.png?1734161366",
+	"coingecko": "sorra",
+	"sources": [
+		"coingecko"
+	]
+}

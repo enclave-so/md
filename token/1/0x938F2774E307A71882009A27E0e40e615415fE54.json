@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x938F2774E307A71882009A27E0e40e615415fE54",
+	"symbol": "OPRV",
+	"name": "Opriva AI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/53053/thumb/Logo.png?1735150345",
+	"coingecko": "opriva-ai",
+	"sources": [
+		"coingecko"
+	]
+}

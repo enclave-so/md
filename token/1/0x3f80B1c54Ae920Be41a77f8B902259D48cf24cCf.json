@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x3f80B1c54Ae920Be41a77f8B902259D48cf24cCf",
+	"symbol": "KERNEL",
+	"name": "KernelDAO",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/54326/thumb/Kernel_token_logo_2x.png?1739827205",
+	"coingecko": "kernel-2",
+	"sources": [
+		"coingecko"
+	]
+}

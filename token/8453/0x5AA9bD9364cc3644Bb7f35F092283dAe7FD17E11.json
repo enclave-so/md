@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x5AA9bD9364cc3644Bb7f35F092283dAe7FD17E11",
+	"symbol": "Dinari ETHE",
+	"name": "Dinari ETHE",
+	"coingecko": "dinari-ethe",
+	"sources": [
+		"coingecko"
+	]
+}

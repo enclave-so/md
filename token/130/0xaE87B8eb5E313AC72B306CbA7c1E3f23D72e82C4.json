@@ -1,0 +1,11 @@
+{
+	"chain": 130,
+	"address": "0xaE87B8eb5E313AC72B306CbA7c1E3f23D72e82C4",
+	"symbol": "WCFG",
+	"name": "Wrapped Centrifuge",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/17106/thumb/WCFG.jpg?1626266462",
+	"sources": [
+		"uniswap"
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"chain": 130,
+	"address": "0x51A7b9a11f10D04C16306D90dc4EC22b036DD629",
+	"symbol": "SPX",
+	"name": "SPX6900",
+	"decimals": 8,
+	"logo": "https://coin-images.coingecko.com/coins/images/31401/large/sticker_(1).jpg?1702371083",
+	"sources": [
+		"optimism",
+		"uniswap"
+	]
+}

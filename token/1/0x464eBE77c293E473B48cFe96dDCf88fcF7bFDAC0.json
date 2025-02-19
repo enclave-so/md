@@ -8,6 +8,7 @@
 	"coingecko": "kryll",
 	"sources": [
 		"coingecko",
+		"optimism",
 		"uniswap"
 	]
 }

@@ -1,0 +1,10 @@
+{
+	"chain": 2741,
+	"address": "0x3439153EB7AF838Ad19d56E1571FBD09333C2809",
+	"symbol": "L2 Standard Bridged WETH (Abstract)",
+	"name": "L2 Standard Bridged WETH (Abstract)",
+	"coingecko": "l2-standard-bridged-weth-abstract",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -2,12 +2,13 @@
 	"chain": 137,
 	"address": "0x101A023270368c0D50BFfb62780F4aFd4ea79C35",
 	"symbol": "ANKR",
-	"name": "Ankr (PoS)",
+	"name": "Ankr",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon/0x101A023270368c0D50BFfb62780F4aFd4ea79C35.jpg",
+	"logo": "https://assets.coingecko.com/coins/images/4324/thumb/U85xTl2.png?1608111978",
 	"coingecko": "ankr",
 	"sources": [
 		"coingecko",
-		"sushiswap"
+		"sushiswap",
+		"uniswap"
 	]
 }

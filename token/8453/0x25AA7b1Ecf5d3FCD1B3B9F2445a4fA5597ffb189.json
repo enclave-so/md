@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x25AA7b1Ecf5d3FCD1B3B9F2445a4fA5597ffb189",
+	"symbol": "Dinari CVX",
+	"name": "Dinari CVX",
+	"coingecko": "dinari-cvx",
+	"sources": [
+		"coingecko"
+	]
+}

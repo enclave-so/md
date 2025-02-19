@@ -1,0 +1,10 @@
+{
+	"chain": 23294,
+	"address": "0xDD629E5241CbC5919847783e6C96B2De4754e438",
+	"symbol": "Midas mTBILL",
+	"name": "Midas mTBILL",
+	"coingecko": "midas-mtbill",
+	"sources": [
+		"coingecko"
+	]
+}

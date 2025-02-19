@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x65086e9928d297Ebae6A7d24D8c3Aea6f8f6b5d7",
+	"symbol": "TOKI",
+	"name": "Toki",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/52732/thumb/Toki.png?1734103533",
+	"coingecko": "toki-2",
+	"sources": [
+		"coingecko"
+	]
+}

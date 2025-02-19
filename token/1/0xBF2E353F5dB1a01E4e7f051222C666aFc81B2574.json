@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0xBF2E353F5dB1a01E4e7f051222C666aFc81B2574",
+	"symbol": "THEDOGEFATHER",
+	"name": "DogeFather",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/52742/thumb/photo_2024-12-15_21.01.16.jpeg?1734316270",
+	"coingecko": "dogefather-3",
+	"sources": [
+		"coingecko"
+	]
+}

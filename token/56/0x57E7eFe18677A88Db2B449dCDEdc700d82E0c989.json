@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x57E7eFe18677A88Db2B449dCDEdc700d82E0c989",
+	"symbol": "MeowCat",
+	"name": "MeowCat",
+	"coingecko": "meowcat-3",
+	"sources": [
+		"coingecko"
+	]
+}

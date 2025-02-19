@@ -1,0 +1,13 @@
+{
+	"chain": 8453,
+	"address": "0x686015EbF044a1B8A4bE750346be00293a996071",
+	"symbol": "MINDS",
+	"name": "Minds",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/MINDS/logo.svg",
+	"coingecko": "minds",
+	"sources": [
+		"coingecko",
+		"optimism"
+	]
+}

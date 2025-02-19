@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0xF38DEb975D9a34BC2B8F678dE0c1D53692363851",
+	"symbol": "BRAWL",
+	"name": "Metabrawl",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/53875/thumb/photo_2024-03-30_20-46-32_%282%29.jpg?1737618512",
+	"coingecko": "metabrawl",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x8238884Ec9668Ef77B90C6dfF4D1a9F4F4823BFe",
+	"symbol": "USDO",
+	"name": "OpenEden OpenDollar",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/53750/thumb/USDO_LOGO-white.png?1737181887",
+	"coingecko": "openeden-open-dollar",
+	"sources": [
+		"coingecko"
+	]
+}

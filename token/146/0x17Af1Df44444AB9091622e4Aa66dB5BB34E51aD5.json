@@ -1,0 +1,10 @@
+{
+	"chain": 146,
+	"address": "0x17Af1Df44444AB9091622e4Aa66dB5BB34E51aD5",
+	"symbol": "TinHatCat",
+	"name": "TinHatCat",
+	"coingecko": "tinhatcat",
+	"sources": [
+		"coingecko"
+	]
+}

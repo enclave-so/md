@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0xcb1592591996765Ec0eFc1f92599A19767ee5ffA",
+	"symbol": "BIO",
+	"name": "BIO",
+	"decimals": 18,
+	"logo": "https://coin-images.coingecko.com/coins/images/53022/large/bio.jpg?1735011002",
+	"coingecko": "bio-protocol",
+	"sources": [
+		"coingecko",
+		"uniswap"
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"chain": 130,
+	"address": "0x47B72717E48Da346C3F1ED1311c8DCDe10EfD888",
+	"symbol": "SAFE",
+	"name": "Safe",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/27032/standard/Artboard_1_copy_8circle-1.png?1696526084",
+	"sources": [
+		"uniswap"
+	]
+}

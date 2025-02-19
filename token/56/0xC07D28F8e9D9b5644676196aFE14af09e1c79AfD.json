@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xC07D28F8e9D9b5644676196aFE14af09e1c79AfD",
+	"symbol": "HoldOn4DearLife",
+	"name": "HoldOn4DearLife",
+	"coingecko": "holdon4dearlife",
+	"sources": [
+		"coingecko"
+	]
+}

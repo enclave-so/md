@@ -1,0 +1,10 @@
+{
+	"chain": 81457,
+	"address": "0x8D7E838f2feaec8B6D7445bFa699F68fe8E97718",
+	"symbol": "Dinari SIVR",
+	"name": "Dinari SIVR",
+	"coingecko": "dinari-sivr",
+	"sources": [
+		"coingecko"
+	]
+}

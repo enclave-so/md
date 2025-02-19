@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x3E6A1b21bd267677Fa49BE6425aEbe2fc0f89bDE",
+	"symbol": "QBIO",
+	"name": "Quantum Biology DAO",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/53772/thumb/rqnkn3aN_400x400.jpg?1737268932",
+	"coingecko": "quantum-biology-dao",
+	"sources": [
+		"coingecko"
+	]
+}

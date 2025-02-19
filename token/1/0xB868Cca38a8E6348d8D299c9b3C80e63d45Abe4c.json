@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0xB868Cca38a8E6348d8D299c9b3C80e63d45Abe4c",
+	"symbol": "FUSION",
+	"name": "Fusion AI",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/53342/thumb/Qutj32Bf_400x400.jpg?1736154839",
+	"coingecko": "fusion-ai-2",
+	"sources": [
+		"coingecko"
+	]
+}

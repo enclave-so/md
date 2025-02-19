@@ -1,0 +1,11 @@
+{
+	"chain": 130,
+	"address": "0x70b2b785061d4c91C76CF87692f85B5c443d8675",
+	"symbol": "GAL",
+	"name": "Galxe",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/24530/thumb/GAL-Token-Icon.png?1651483533",
+	"sources": [
+		"uniswap"
+	]
+}

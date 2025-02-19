@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x33b481CbBF3c24f2B3184Ee7Cb02dAAD1C4F49A8",
+	"symbol": "D",
+	"name": "Dar Open Network",
+	"decimals": 6,
+	"logo": "https://assets.coingecko.com/coins/images/53414/thumb/dar.png?1736325510",
+	"coingecko": "dar-open-network",
+	"sources": [
+		"coingecko"
+	]
+}

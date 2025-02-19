@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x6b43732a9AE9F8654d496c0A075Aa4Aa43057A0B",
+	"symbol": "Sugarverse",
+	"name": "Sugarverse",
+	"coingecko": "sugarverse",
+	"sources": [
+		"coingecko"
+	]
+}

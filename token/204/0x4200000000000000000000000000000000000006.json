@@ -1,9 +1,9 @@
 {
 	"chain": 204,
 	"address": "0x4200000000000000000000000000000000000006",
-	"symbol": "Wrapped BNB",
-	"name": "Wrapped BNB",
-	"coingecko": "wbnb",
+	"symbol": "opBNB Bridged WBNB (opBNB)",
+	"name": "opBNB Bridged WBNB (opBNB)",
+	"coingecko": "opbnb-bridged-wbnb-opbnb",
 	"sources": [
 		"coingecko"
 	]

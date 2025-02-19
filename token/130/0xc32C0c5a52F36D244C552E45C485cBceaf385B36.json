@@ -1,0 +1,11 @@
+{
+	"chain": 130,
+	"address": "0xc32C0c5a52F36D244C552E45C485cBceaf385B36",
+	"symbol": "HOPR",
+	"name": "HOPR",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14061/thumb/Shared_HOPR_logo_512px.png?1614073468",
+	"sources": [
+		"uniswap"
+	]
+}

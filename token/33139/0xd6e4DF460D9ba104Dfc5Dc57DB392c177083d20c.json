@@ -1,0 +1,10 @@
+{
+	"chain": 33139,
+	"address": "0xd6e4DF460D9ba104Dfc5Dc57DB392c177083d20c",
+	"symbol": "WONG",
+	"name": "WONG",
+	"coingecko": "wong",
+	"sources": [
+		"coingecko"
+	]
+}

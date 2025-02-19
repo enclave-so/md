@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x65FdA84473084bA2CcA8452883E6eA3561092234",
+	"symbol": "Arkefi",
+	"name": "Arkefi",
+	"coingecko": "arkefi",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"chain": 130,
+	"address": "0x20CAb320A855b39F724131C69424240519573f81",
+	"symbol": "DAI",
+	"name": "Dai Stablecoin",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png",
+	"sources": [
+		"optimism",
+		"uniswap"
+	]
+}

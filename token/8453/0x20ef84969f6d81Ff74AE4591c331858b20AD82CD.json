@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x20ef84969f6d81Ff74AE4591c331858b20AD82CD",
+	"symbol": "AicroStrategy",
+	"name": "AicroStrategy",
+	"coingecko": "aicrostrategy",
+	"sources": [
+		"coingecko"
+	]
+}

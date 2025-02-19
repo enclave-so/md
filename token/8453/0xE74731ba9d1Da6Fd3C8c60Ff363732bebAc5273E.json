@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xE74731ba9d1Da6Fd3C8c60Ff363732bebAc5273E",
+	"symbol": "maicrotrader",
+	"name": "maicrotrader",
+	"coingecko": "maicrotrader",
+	"sources": [
+		"coingecko"
+	]
+}

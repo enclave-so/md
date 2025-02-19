@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x3F12D4607f9DF527C3bccBD16a70636a69c8FcF5",
+	"symbol": "VolatilityX",
+	"name": "VolatilityX",
+	"coingecko": "volatilityx",
+	"sources": [
+		"coingecko"
+	]
+}

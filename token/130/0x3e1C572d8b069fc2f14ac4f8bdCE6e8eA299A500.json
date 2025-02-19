@@ -1,0 +1,11 @@
+{
+	"chain": 130,
+	"address": "0x3e1C572d8b069fc2f14ac4f8bdCE6e8eA299A500",
+	"symbol": "ADX",
+	"name": "Ambire AdEx",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/847/thumb/Ambire_AdEx_Symbol_color.png?1655432540",
+	"sources": [
+		"uniswap"
+	]
+}

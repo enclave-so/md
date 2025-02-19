@@ -1,6 +1,36 @@
 [
 	{
 		"chain": 1111,
+		"address": "0xc50a55cA9d4B7804471de1E44f3C3CE8216D8Ea0",
+		"symbol": "PAPYRUS",
+		"name": "PAPYRUS",
+		"coingecko": "papyrus-2",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1111,
+		"address": "0xB3c3530C3e54914df9F4c5875fb682e547eeCbe2",
+		"symbol": "PLAY Token",
+		"name": "PLAY Token",
+		"coingecko": "play-token-2",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1111,
+		"address": "0xd1445BcbE14cE5eDf7ae887e3F3F82f7bDa12aF3",
+		"symbol": "Promote",
+		"name": "Promote",
+		"coingecko": "promote",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1111,
 		"address": "0x99618512fCE498Bebe0447C5f8BB8ea7Ad32de76",
 		"symbol": "FEATHER",
 		"name": "FEATHER",
@@ -31,30 +61,30 @@
 	},
 	{
 		"chain": 1111,
-		"address": "0xB3c3530C3e54914df9F4c5875fb682e547eeCbe2",
-		"symbol": "PLAY Token",
-		"name": "PLAY Token",
-		"coingecko": "play-token-2",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 1111,
-		"address": "0xcd47647D94ef20Ff75d112820FD44ce218441712",
-		"symbol": "Summoners League",
-		"name": "Summoners League",
-		"coingecko": "summoners-league",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 1111,
 		"address": "0xB91D37ABc99B9bbc3041e0B7646588F347aa6320",
 		"symbol": "TEAR",
 		"name": "TEAR",
 		"coingecko": "tear-2",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1111,
+		"address": "0x8E81fCc2d4A3bAa0eE9044E0D7E36F59C9BbA9c1",
+		"symbol": "WEMIX Dollar",
+		"name": "WEMIX Dollar",
+		"coingecko": "wemix-dollar",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1111,
+		"address": "0x7D72b22a74A216Af4a002a1095C8C707d6eC1C5f",
+		"symbol": "WWEMIX",
+		"name": "WWEMIX",
+		"coingecko": "wwemix",
 		"sources": [
 			"coingecko"
 		]
@@ -81,40 +111,10 @@
 	},
 	{
 		"chain": 1111,
-		"address": "0xc50a55cA9d4B7804471de1E44f3C3CE8216D8Ea0",
-		"symbol": "PAPYRUS",
-		"name": "PAPYRUS",
-		"coingecko": "papyrus-2",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 1111,
-		"address": "0xd1445BcbE14cE5eDf7ae887e3F3F82f7bDa12aF3",
-		"symbol": "Promote",
-		"name": "Promote",
-		"coingecko": "promote",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 1111,
-		"address": "0x8E81fCc2d4A3bAa0eE9044E0D7E36F59C9BbA9c1",
-		"symbol": "WEMIX Dollar",
-		"name": "WEMIX Dollar",
-		"coingecko": "wemix-dollar",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 1111,
-		"address": "0x7D72b22a74A216Af4a002a1095C8C707d6eC1C5f",
-		"symbol": "WWEMIX",
-		"name": "WWEMIX",
-		"coingecko": "wwemix",
+		"address": "0xcd47647D94ef20Ff75d112820FD44ce218441712",
+		"symbol": "Summoners League",
+		"name": "Summoners League",
+		"coingecko": "summoners-league",
 		"sources": [
 			"coingecko"
 		]

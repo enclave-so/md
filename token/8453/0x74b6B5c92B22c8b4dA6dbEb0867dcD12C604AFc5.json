@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x74b6B5c92B22c8b4dA6dbEb0867dcD12C604AFc5",
+	"symbol": "Price Ai",
+	"name": "Price Ai",
+	"coingecko": "price-ai",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 7070,
+	"address": "0xecEEEfCEE421D8062EF8d6b4D814efe4dc898265",
+	"symbol": "Bridged USDC",
+	"name": "Bridged USDC",
+	"coingecko": "bridged-usdc",
+	"sources": [
+		"coingecko"
+	]
+}

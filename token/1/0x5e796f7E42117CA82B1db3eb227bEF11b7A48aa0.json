@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x5e796f7E42117CA82B1db3eb227bEF11b7A48aa0",
+	"symbol": "WALRFD",
+	"name": "Dinari WALRF",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/54222/thumb/d-token-200.png?1738860922",
+	"coingecko": "dinari-walrf",
+	"sources": [
+		"coingecko"
+	]
+}

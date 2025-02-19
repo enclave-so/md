@@ -1,0 +1,11 @@
+{
+	"chain": 137,
+	"address": "0xdAb529f40E671A1D4bF91361c21bf9f0C9712ab7",
+	"symbol": "BUSD",
+	"name": "Binance USD",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/9576/thumb/BUSD.png?1568947766",
+	"sources": [
+		"uniswap"
+	]
+}

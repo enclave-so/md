@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x2CC7A972ebC1865B346085655f929AbFa74CD4dC",
+	"symbol": "SHIFU",
+	"name": "Shifu",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/52940/thumb/SHIFU_Transparent_200x200.png?1734721781",
+	"coingecko": "shifu",
+	"sources": [
+		"coingecko"
+	]
+}

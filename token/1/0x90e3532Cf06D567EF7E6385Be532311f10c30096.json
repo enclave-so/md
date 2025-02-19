@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x90e3532Cf06D567EF7E6385Be532311f10c30096",
+	"symbol": "RSP",
+	"name": "Reality Spiral",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/52871/thumb/Reality_Spiral.png?1734551794",
+	"coingecko": "reality-spiral",
+	"sources": [
+		"coingecko"
+	]
+}

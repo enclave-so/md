@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x81496F85AbaF8bd2e13D90379fdE86C533D8670D",
+	"symbol": "AGIXBT by Virtuals",
+	"name": "AGIXBT by Virtuals",
+	"coingecko": "agixbt-by-virtuals",
+	"sources": [
+		"coingecko"
+	]
+}

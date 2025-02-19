@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0xC7068FFf81F3a5B8C49CF6d35B3Bc524c3f045e9",
+	"symbol": "MYST",
+	"name": "MYST",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/52954/thumb/IMG_2230.jpeg?1734796848",
+	"coingecko": "myst",
+	"sources": [
+		"coingecko"
+	]
+}

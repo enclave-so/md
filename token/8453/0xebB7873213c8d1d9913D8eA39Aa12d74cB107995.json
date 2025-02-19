@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xebB7873213c8d1d9913D8eA39Aa12d74cB107995",
+	"symbol": "Venus",
+	"name": "Venus",
+	"coingecko": "venus",
+	"sources": [
+		"coingecko"
+	]
+}

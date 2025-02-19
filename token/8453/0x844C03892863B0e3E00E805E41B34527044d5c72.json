@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x844C03892863B0e3E00E805E41B34527044d5c72",
+	"symbol": "Panana",
+	"name": "Panana",
+	"coingecko": "panana",
+	"sources": [
+		"coingecko"
+	]
+}

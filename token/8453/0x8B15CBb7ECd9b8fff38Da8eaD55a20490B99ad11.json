@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x8B15CBb7ECd9b8fff38Da8eaD55a20490B99ad11",
+	"symbol": "BitBall",
+	"name": "BitBall",
+	"coingecko": "bitball-2",
+	"sources": [
+		"coingecko"
+	]
+}

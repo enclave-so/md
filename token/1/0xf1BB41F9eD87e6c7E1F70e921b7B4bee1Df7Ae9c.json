@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0xf1BB41F9eD87e6c7E1F70e921b7B4bee1Df7Ae9c",
+	"symbol": "DCOIN",
+	"name": "Dogcoin",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/53928/thumb/IMG_4806.jpeg?1737744626",
+	"coingecko": "dogcoin-2",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0xE27f31B020F95F90F0DB2AE0A5FAe3b505dF7A3e",
+	"symbol": "STEALTH",
+	"name": "Stealth AI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/52684/thumb/Stealth_AI_pfp_Twitter.png?1734028385",
+	"coingecko": "stealth-ai",
+	"sources": [
+		"coingecko"
+	]
+}

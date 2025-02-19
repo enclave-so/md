@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xe4A7b54c0A30Da69c04Dc54b89868C185Ff382bC",
+	"symbol": "Emilia",
+	"name": "Emilia",
+	"coingecko": "emilia",
+	"sources": [
+		"coingecko"
+	]
+}

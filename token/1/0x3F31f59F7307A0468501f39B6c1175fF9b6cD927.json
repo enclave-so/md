@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x3F31f59F7307A0468501f39B6c1175fF9b6cD927",
+	"symbol": "ZORA",
+	"name": "Zora AI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/53466/thumb/WaoDtBhe_400x400.jpg?1736453050",
+	"coingecko": "zora-ai",
+	"sources": [
+		"coingecko"
+	]
+}

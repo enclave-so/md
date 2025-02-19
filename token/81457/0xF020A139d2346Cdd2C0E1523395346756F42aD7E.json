@@ -1,0 +1,10 @@
+{
+	"chain": 81457,
+	"address": "0xF020A139d2346Cdd2C0E1523395346756F42aD7E",
+	"symbol": "Dinari HYMB",
+	"name": "Dinari HYMB",
+	"coingecko": "dinari-hymb",
+	"sources": [
+		"coingecko"
+	]
+}

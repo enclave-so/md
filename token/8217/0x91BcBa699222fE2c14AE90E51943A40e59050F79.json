@@ -1,0 +1,10 @@
+{
+	"chain": 8217,
+	"address": "0x91BcBa699222fE2c14AE90E51943A40e59050F79",
+	"symbol": "YULI",
+	"name": "YULI",
+	"coingecko": "yuli",
+	"sources": [
+		"coingecko"
+	]
+}

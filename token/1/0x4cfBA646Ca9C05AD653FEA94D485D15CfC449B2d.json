@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x4cfBA646Ca9C05AD653FEA94D485D15CfC449B2d",
+	"symbol": "CATD",
+	"name": "Dinari CAT",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/54051/thumb/d-token-200.png?1738103623",
+	"coingecko": "dinari-cat",
+	"sources": [
+		"coingecko"
+	]
+}

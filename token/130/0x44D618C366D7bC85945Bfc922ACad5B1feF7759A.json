@@ -1,0 +1,11 @@
+{
+	"chain": 130,
+	"address": "0x44D618C366D7bC85945Bfc922ACad5B1feF7759A",
+	"symbol": "A8",
+	"name": "Ancient8",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/39170/standard/A8_Token-04_200x200.png?1720798300",
+	"sources": [
+		"uniswap"
+	]
+}

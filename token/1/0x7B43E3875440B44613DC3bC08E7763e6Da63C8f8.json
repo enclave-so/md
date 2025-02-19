@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0x7B43E3875440B44613DC3bC08E7763e6Da63C8f8",
+	"symbol": "USDR",
+	"name": "StablR USD",
+	"decimals": 6,
+	"logo": "https://coin-images.coingecko.com/coins/images/53721/large/stablrusd-logo.png?1737126629",
+	"coingecko": "stablr-usd",
+	"sources": [
+		"coingecko",
+		"uniswap"
+	]
+}

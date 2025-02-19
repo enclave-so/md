@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x18c278Edc2ED4ed9D23A8A73A3a6eD014094B784",
+	"symbol": "BTCWD",
+	"name": "Dinari BTCW",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/54050/thumb/d-token-200.png?1738103595",
+	"coingecko": "dinari-btcw",
+	"sources": [
+		"coingecko"
+	]
+}

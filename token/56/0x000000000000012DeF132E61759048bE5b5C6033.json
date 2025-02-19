@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x000000000000012DeF132E61759048bE5b5C6033",
+	"symbol": "Cortex",
+	"name": "Cortex",
+	"coingecko": "cortex-2",
+	"sources": [
+		"coingecko"
+	]
+}

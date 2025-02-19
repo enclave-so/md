@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0xd5eaAaC47bD1993d661bc087E15dfb079a7f3C19",
-	"symbol": "Koma Inu",
+	"symbol": "KOMA",
 	"name": "Koma Inu",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0xd5eaAaC47bD1993d661bc087E15dfb079a7f3C19.png",
 	"coingecko": "koma-inu",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

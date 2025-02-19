@@ -1,0 +1,12 @@
+{
+	"chain": 130,
+	"address": "0xD17D5f0DA4200bBfd3D6626AC6aEA2eccbf9fEE0",
+	"symbol": "PRIME",
+	"name": "Prime",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/29053/large/PRIMELOGOOO.png?1676976222",
+	"sources": [
+		"optimism",
+		"uniswap"
+	]
+}

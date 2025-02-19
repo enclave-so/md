@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x3D7975EcCFc61a2102b08925CbBa0a4D4dBB6555",
+	"symbol": "USDD",
+	"name": "USDD",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/25380/thumb/UUSD.jpg?1696524513",
+	"coingecko": "usdd",
+	"sources": [
+		"coingecko"
+	]
+}

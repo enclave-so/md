@@ -1,0 +1,11 @@
+{
+	"chain": 130,
+	"address": "0x62ffD4229bb9a327412D1BE518A1dbAe6c18A07E",
+	"symbol": "YFII",
+	"name": "DFI money",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/11902/thumb/YFII-logo.78631676.png?1598677348",
+	"sources": [
+		"uniswap"
+	]
+}

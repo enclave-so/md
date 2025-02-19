@@ -1,0 +1,12 @@
+{
+	"chain": 130,
+	"address": "0x5a53B6D19D8EDCb7923F0D840EeBB3f09BBeEfB7",
+	"symbol": "LINK",
+	"name": "ChainLink Token",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x514910771AF9Ca656af840dff83E8264EcF986CA/logo.png",
+	"sources": [
+		"optimism",
+		"uniswap"
+	]
+}

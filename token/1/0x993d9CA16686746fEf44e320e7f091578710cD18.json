@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x993d9CA16686746fEf44e320e7f091578710cD18",
+	"symbol": "ITAD",
+	"name": "Dinari ITA",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/54278/thumb/d-token-200.png?1738998357",
+	"coingecko": "dinari-ita",
+	"sources": [
+		"coingecko"
+	]
+}

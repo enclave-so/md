@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x088828F0A8e2dC8511E957230f4681371451fa1d",
+	"symbol": "BOXXD",
+	"name": "Dinari BOXX",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/54359/thumb/d-token-200.png?1739401220",
+	"coingecko": "dinari-boxx",
+	"sources": [
+		"coingecko"
+	]
+}

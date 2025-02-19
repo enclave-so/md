@@ -5,9 +5,7 @@
 	"name": "MonkeyCoin",
 	"decimals": 18,
 	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xFA58c669B855b29f99374d0F160dB286849D139B.jpg",
-	"coingecko": "monkeycoin",
 	"sources": [
-		"coingecko",
 		"sushiswap"
 	]
 }

@@ -1,0 +1,52 @@
+[
+	{
+		"chain": 416,
+		"address": "0x4C882ec256823eE773B25b414d36F92ef58a7c0C",
+		"symbol": "Lunafi",
+		"name": "Lunafi",
+		"coingecko": "lunafi",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 416,
+		"address": "0x3E96B0a25d51e3Cc89C557f152797c33B839968f",
+		"symbol": "SX Network",
+		"name": "SX Network",
+		"coingecko": "sx-network-2",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 416,
+		"address": "0xe2aa35C2039Bd0Ff196A6Ef99523CC0D3972ae3e",
+		"symbol": "SX Network Bridged USDC (SX Network)",
+		"name": "SX Network Bridged USDC (SX Network)",
+		"coingecko": "sx-network-bridged-usdc-sx-network",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 416,
+		"address": "0xfa6F64DFbad14e6883321C2f756f5B22fF658f9C",
+		"symbol": "Wrapped POL",
+		"name": "Wrapped POL",
+		"coingecko": "wmatic",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 416,
+		"address": "0xaa99bE3356a11eE92c3f099BD7a038399633566f",
+		"symbol": "Wrapped SX",
+		"name": "Wrapped SX",
+		"coingecko": "wrapped-sx",
+		"sources": [
+			"coingecko"
+		]
+	}
+]

@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x00309D634d11541b857f927BE91aD2f0bD78894c",
+	"symbol": "Tevaera",
+	"name": "Tevaera",
+	"coingecko": "tevaera",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xD5e8Dc8Ba0c459A97a79D8ee2B4FeC186e4Af078",
+	"symbol": "Dinari CCL",
+	"name": "Dinari CCL",
+	"coingecko": "dinari-ccl",
+	"sources": [
+		"coingecko"
+	]
+}

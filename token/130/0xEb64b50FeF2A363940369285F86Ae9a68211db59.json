@@ -1,0 +1,12 @@
+{
+	"chain": 130,
+	"address": "0xEb64b50FeF2A363940369285F86Ae9a68211db59",
+	"symbol": "cbETH",
+	"name": "Coinbase Wrapped Staked ETH",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/27008/large/cbeth.png",
+	"sources": [
+		"optimism",
+		"uniswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 146,
+	"address": "0x131F5AE1CBfEFe8EFbDf93dA23fa4d39F14a817c",
+	"symbol": "FROQ",
+	"name": "FROQ",
+	"coingecko": "froq",
+	"sources": [
+		"coingecko"
+	]
+}

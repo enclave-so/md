@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xED166436559Fd3d7f44cb00CACDA96EB999D789e",
+	"symbol": "Loop BNB",
+	"name": "Loop BNB",
+	"coingecko": "loop-bnb",
+	"sources": [
+		"coingecko"
+	]
+}

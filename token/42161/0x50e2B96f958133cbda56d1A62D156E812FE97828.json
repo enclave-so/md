@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x50e2B96f958133cbda56d1A62D156E812FE97828",
+	"symbol": "Dinari JNJ",
+	"name": "Dinari JNJ",
+	"coingecko": "dinari-jnj",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"chain": 130,
+	"address": "0xb019a038eaDCB2F96321D236F6633C8d6Bb5eAbB",
+	"symbol": "QSP",
+	"name": "Quantstamp",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/1219/thumb/0_E0kZjb4dG4hUnoDD_.png?1604815917",
+	"sources": [
+		"uniswap"
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x0C7Ec64a7b3416bc3578E02d4b1e5763Da756183",
+	"symbol": "BTCOD",
+	"name": "Dinari BTCO",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/54048/thumb/d-token-200.png?1738103322",
+	"coingecko": "dinari-btco",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,66 +1,6 @@
 [
 	{
 		"chain": 88,
-		"address": "0x2EAA73Bd0db20c64f53fEbeA7b5F5E5Bccc7fb8b",
-		"symbol": "Bridged WETH",
-		"name": "Bridged WETH",
-		"coingecko": "bridged-weth",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 88,
-		"address": "0xe1A9a5FaE06696d314994a9d6915C12a63aD055d",
-		"symbol": "ZoidPay",
-		"name": "ZoidPay",
-		"coingecko": "zoid-pay",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 88,
-		"address": "0x503B2dDc059b81788FD1239561596614b27fAADE",
-		"symbol": "Viction Bridged WBTC (Viction)",
-		"name": "Viction Bridged WBTC (Viction)",
-		"coingecko": "viction-bridged-wbtc-viction",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 88,
-		"address": "0x111111267109489dc6f350608d5113B10c0C5cd7",
-		"symbol": "Counterfire Economic Coin",
-		"name": "Counterfire Economic Coin",
-		"coingecko": "counterfire-economic-coin",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 88,
-		"address": "0xC8E2B1e17D6C08d872Bfaf5a1C46385A086BdA5b",
-		"symbol": "Gunstar Metaverse",
-		"name": "Gunstar Metaverse",
-		"coingecko": "gunstar-metaverse",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 88,
-		"address": "0xf79A36F6f440392C63AD61252a64d5d3C43F860D",
-		"symbol": "Quack Token",
-		"name": "Quack Token",
-		"coingecko": "quack-token",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 88,
 		"address": "0xB786D9c8120D311b948cF1e5Aa48D8fBacf477E2",
 		"symbol": "Saros",
 		"name": "Saros",
@@ -71,10 +11,20 @@
 	},
 	{
 		"chain": 88,
-		"address": "0x5637991Aa4D7f016AcB7634129b0FB18c23d5D17",
-		"symbol": "Dackie USD",
-		"name": "Dackie USD",
-		"coingecko": "dackie-usd",
+		"address": "0xb3008E7156Ae2312b49B5200C3E1C3e80E529feb",
+		"symbol": "CUSD",
+		"name": "CUSD",
+		"coingecko": "stably-cusd",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 88,
+		"address": "0xCdde1f5D971A369eB952192F9a5C367f33a0A891",
+		"symbol": "deFusion Staked VIC",
+		"name": "deFusion Staked VIC",
+		"coingecko": "defusion-staked-vic",
 		"sources": [
 			"coingecko"
 		]
@@ -91,10 +41,100 @@
 	},
 	{
 		"chain": 88,
-		"address": "0xb3008E7156Ae2312b49B5200C3E1C3e80E529feb",
-		"symbol": "CUSD",
-		"name": "CUSD",
-		"coingecko": "stably-cusd",
+		"address": "0xeA478716a70DC086707E23De17965aCB5C7b7840",
+		"symbol": "MASQ",
+		"name": "MASQ",
+		"coingecko": "masq",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 88,
+		"address": "0x69B946132B4a6C74cd29Ba3ff614cEEA1eF9fF2B",
+		"symbol": "Viction Bridged USDT",
+		"name": "Viction Bridged USDT",
+		"coingecko": "viction-bridged-usdt",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 88,
+		"address": "0x9AD16B6D3E401b8dF25C985f9bEbb490dB8aFE78",
+		"symbol": "Worldwide USD",
+		"name": "Worldwide USD",
+		"coingecko": "worldwide-usd",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 88,
+		"address": "0x5637991Aa4D7f016AcB7634129b0FB18c23d5D17",
+		"symbol": "Dackie USD",
+		"name": "Dackie USD",
+		"coingecko": "dackie-usd",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 88,
+		"address": "0xBB0209E02b3Cc33EF00321E8d20b78CA1cDcc8A0",
+		"symbol": "Minterest",
+		"name": "Minterest",
+		"coingecko": "minterest",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 88,
+		"address": "0xf79A36F6f440392C63AD61252a64d5d3C43F860D",
+		"symbol": "Quack Token",
+		"name": "Quack Token",
+		"coingecko": "quack-token",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 88,
+		"address": "0xC054751BdBD24Ae713BA3Dc9Bd9434aBe2abc1ce",
+		"symbol": "Wrapped Viction",
+		"name": "Wrapped Viction",
+		"coingecko": "wrapped-viction",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 88,
+		"address": "0x0Fd0288AAAE91eaF935e2eC14b23486f86516c8C",
+		"symbol": "Coin98",
+		"name": "Coin98",
+		"coingecko": "coin98",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 88,
+		"address": "0x111111267109489dc6f350608d5113B10c0C5cd7",
+		"symbol": "Counterfire Economic Coin",
+		"name": "Counterfire Economic Coin",
+		"coingecko": "counterfire-economic-coin",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 88,
+		"address": "0xaEdc38bD52b0380b2Af4980948925734fD54FbF4",
+		"symbol": "DackieSwap [OLD]",
+		"name": "DackieSwap [OLD]",
+		"coingecko": "dackieswap",
 		"sources": [
 			"coingecko"
 		]
@@ -141,40 +181,40 @@
 	},
 	{
 		"chain": 88,
-		"address": "0x0Fd0288AAAE91eaF935e2eC14b23486f86516c8C",
-		"symbol": "Coin98",
-		"name": "Coin98",
-		"coingecko": "coin98",
+		"address": "0xe1A9a5FaE06696d314994a9d6915C12a63aD055d",
+		"symbol": "ZoidPay",
+		"name": "ZoidPay",
+		"coingecko": "zoid-pay",
 		"sources": [
 			"coingecko"
 		]
 	},
 	{
 		"chain": 88,
-		"address": "0xaEdc38bD52b0380b2Af4980948925734fD54FbF4",
-		"symbol": "DackieSwap",
-		"name": "DackieSwap",
-		"coingecko": "dackieswap",
+		"address": "0xb55Dd628039552a7d93A70fC8932f677499Ed479",
+		"symbol": "Arken Finance",
+		"name": "Arken Finance",
+		"coingecko": "arken-finance",
 		"sources": [
 			"coingecko"
 		]
 	},
 	{
 		"chain": 88,
-		"address": "0xCdde1f5D971A369eB952192F9a5C367f33a0A891",
-		"symbol": "deFusion Staked VIC",
-		"name": "deFusion Staked VIC",
-		"coingecko": "defusion-staked-vic",
+		"address": "0x2EAA73Bd0db20c64f53fEbeA7b5F5E5Bccc7fb8b",
+		"symbol": "Bridged WETH",
+		"name": "Bridged WETH",
+		"coingecko": "bridged-weth",
 		"sources": [
 			"coingecko"
 		]
 	},
 	{
 		"chain": 88,
-		"address": "0xeA478716a70DC086707E23De17965aCB5C7b7840",
-		"symbol": "MASQ",
-		"name": "MASQ",
-		"coingecko": "masq",
+		"address": "0xC8E2B1e17D6C08d872Bfaf5a1C46385A086BdA5b",
+		"symbol": "Gunstar Metaverse",
+		"name": "Gunstar Metaverse",
+		"coingecko": "gunstar-metaverse",
 		"sources": [
 			"coingecko"
 		]

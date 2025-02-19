@@ -1,10 +1,50 @@
 [
 	{
 		"chain": 361,
+		"address": "0x46fBF4487fA1B9C70d35BD761c51c360dF9459ed",
+		"symbol": "Lavita",
+		"name": "Lavita",
+		"coingecko": "lavita",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 361,
+		"address": "0xBd2949F67DcdC549c6Ebe98696449Fa79D988A9F",
+		"symbol": "Meter Governance",
+		"name": "Meter Governance",
+		"coingecko": "meter",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 361,
 		"address": "0x3674D64AaB971aB974B2035667a4B3d09B5ec2B3",
 		"symbol": "Meter Passport Bridged WETH (Theta)",
 		"name": "Meter Passport Bridged WETH (Theta)",
 		"coingecko": "meter-passport-bridged-weth-theta",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 361,
+		"address": "0x71dC74256d1acB42A216CC5c3c097B8dA71026b0",
+		"symbol": "Pog Coin",
+		"name": "Pog Coin",
+		"coingecko": "pog-digital",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 361,
+		"address": "0x3Da3D8CDE7B12CD2CBb688E2655BcaCD8946399D",
+		"symbol": "Replay",
+		"name": "Replay",
+		"coingecko": "replay",
 		"sources": [
 			"coingecko"
 		]
@@ -31,60 +71,10 @@
 	},
 	{
 		"chain": 361,
-		"address": "0x813Efb4317C66C82e9554e4F6270E3334D75Bf4D",
-		"symbol": "Ageio Stagnum",
-		"name": "Ageio Stagnum",
-		"coingecko": "ageio-stagnum",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 361,
-		"address": "0x46fBF4487fA1B9C70d35BD761c51c360dF9459ed",
-		"symbol": "Lavita",
-		"name": "Lavita",
-		"coingecko": "lavita",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 361,
-		"address": "0x3Da3D8CDE7B12CD2CBb688E2655BcaCD8946399D",
-		"symbol": "Replay",
-		"name": "Replay",
-		"coingecko": "replay",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 361,
 		"address": "0xdFf772186aCe9b5513FB46d7B05b36Efa0A4a20d",
-		"symbol": "Wrapped BNB",
-		"name": "Wrapped BNB",
-		"coingecko": "wbnb",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 361,
-		"address": "0xBd2949F67DcdC549c6Ebe98696449Fa79D988A9F",
-		"symbol": "Meter Governance",
-		"name": "Meter Governance",
-		"coingecko": "meter",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 361,
-		"address": "0x71dC74256d1acB42A216CC5c3c097B8dA71026b0",
-		"symbol": "Pog Coin",
-		"name": "Pog Coin",
-		"coingecko": "pog-digital",
+		"symbol": "Bridged WBNB",
+		"name": "Bridged WBNB",
+		"coingecko": "bridged-wbnb",
 		"sources": [
 			"coingecko"
 		]

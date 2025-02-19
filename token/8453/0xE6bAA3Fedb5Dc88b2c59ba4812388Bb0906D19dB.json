@@ -4,8 +4,9 @@
 	"symbol": "NCT",
 	"name": "PolySwarm",
 	"decimals": 18,
-	"logo": "https://ethereum-optimism.github.io/data/NCT/logo.svg",
+	"logo": "https://assets.coingecko.com/coins/images/2843/thumb/ImcYCVfX_400x400.jpg?1628519767",
 	"sources": [
-		"optimism"
+		"optimism",
+		"uniswap"
 	]
 }

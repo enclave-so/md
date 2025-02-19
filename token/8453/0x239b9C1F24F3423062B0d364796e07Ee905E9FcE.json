@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x239b9C1F24F3423062B0d364796e07Ee905E9FcE",
+	"symbol": "Wrapped Shiba Inu (Universal)",
+	"name": "Wrapped Shiba Inu (Universal)",
+	"coingecko": "wrapped-shiba-inu-universal",
+	"sources": [
+		"coingecko"
+	]
+}

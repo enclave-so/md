@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0xE7ae30C03395D66F30A26C49c91edAe151747911",
+	"symbol": "CLBTC",
+	"name": "clBTC",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/54164/thumb/clBTC.png?1738482999",
+	"coingecko": "clbtc",
+	"sources": [
+		"coingecko"
+	]
+}

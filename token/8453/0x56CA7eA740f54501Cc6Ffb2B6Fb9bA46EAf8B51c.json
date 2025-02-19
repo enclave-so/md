@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x56CA7eA740f54501Cc6Ffb2B6Fb9bA46EAf8B51c",
+	"symbol": "Generative Market eXplorer",
+	"name": "Generative Market eXplorer",
+	"coingecko": "generative-market-explorer",
+	"sources": [
+		"coingecko"
+	]
+}

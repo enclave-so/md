@@ -1,0 +1,10 @@
+{
+	"chain": 146,
+	"address": "0xf26Ff70573ddc8a90Bd7865AF8d7d70B8Ff019bC",
+	"symbol": "Eggs Finance",
+	"name": "Eggs Finance",
+	"coingecko": "eggs-finance",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x5742fE477b2afed92c25D092418BaC06CD076ceA",
+	"symbol": "FURI",
+	"name": "FURI",
+	"coingecko": "furi",
+	"sources": [
+		"coingecko"
+	]
+}

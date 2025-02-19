@@ -1,0 +1,10 @@
+{
+	"chain": 2741,
+	"address": "0x27F095d85132e08fC7a3f5d6dDE4f000C7F56515",
+	"symbol": "Chester",
+	"name": "Chester",
+	"coingecko": "chester",
+	"sources": [
+		"coingecko"
+	]
+}

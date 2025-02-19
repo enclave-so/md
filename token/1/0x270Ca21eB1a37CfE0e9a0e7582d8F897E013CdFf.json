@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x270Ca21eB1a37CfE0e9a0e7582d8F897E013CdFf",
+	"symbol": "DOGIUS",
+	"name": "Dogius Maximus",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/53336/thumb/IMG_6575.jpeg?1737095929",
+	"coingecko": "dogius-maximus",
+	"sources": [
+		"coingecko"
+	]
+}

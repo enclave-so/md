@@ -2,12 +2,13 @@
 	"chain": 137,
 	"address": "0xBbba073C31bF03b8ACf7c28EF0738DeCF3695683",
 	"symbol": "SAND",
-	"name": "SAND",
+	"name": "The Sandbox",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/sand.jpg",
+	"logo": "https://assets.coingecko.com/coins/images/12129/thumb/sandbox_logo.jpg?1597397942",
 	"coingecko": "the-sandbox",
 	"sources": [
 		"coingecko",
-		"sushiswap"
+		"sushiswap",
+		"uniswap"
 	]
 }

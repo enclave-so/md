@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x733Fd1B5Aa477d55070546922Ba1Bd3751C167C7",
+	"symbol": "ZKGPT",
+	"name": "ZKGPT",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/52893/thumb/BlackBG_%282%29.png?1734607382",
+	"coingecko": "zkgpt",
+	"sources": [
+		"coingecko"
+	]
+}

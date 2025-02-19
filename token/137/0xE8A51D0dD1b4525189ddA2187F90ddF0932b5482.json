@@ -1,0 +1,11 @@
+{
+	"chain": 137,
+	"address": "0xE8A51D0dD1b4525189ddA2187F90ddF0932b5482",
+	"symbol": "LCX",
+	"name": "LCX",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/9985/thumb/zRPSu_0o_400x400.jpg?1574327008",
+	"sources": [
+		"uniswap"
+	]
+}

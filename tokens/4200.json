@@ -1,20 +1,90 @@
 [
 	{
 		"chain": 4200,
-		"address": "0x09401c470a76Ec07512EEDDEF5477BE74bac2338",
-		"symbol": "Merlin Starter",
-		"name": "Merlin Starter",
-		"coingecko": "merlin-starter",
+		"address": "0x916addD975718D307868b814e0A9bbbEdbd7ab17",
+		"symbol": "Avalon",
+		"name": "Avalon",
+		"coingecko": "avalon-2",
 		"sources": [
 			"coingecko"
 		]
 	},
 	{
 		"chain": 4200,
-		"address": "0x9458eA21932515dd0E82543891068F065B88A98a",
-		"symbol": "Bridged LOBO•THE•WOLF•PUP (Merlin Chain)",
-		"name": "Bridged LOBO•THE•WOLF•PUP (Merlin Chain)",
-		"coingecko": "bridged-lobo-the-wolf-pup",
+		"address": "0x0A3BB08b3a15A19b4De82F8AcFc862606FB69A2D",
+		"symbol": "iZUMi Bond USD",
+		"name": "iZUMi Bond USD",
+		"coingecko": "izumi-bond-usd",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 4200,
+		"address": "0xF6D226f9Dc15d9bB51182815b320D3fBE324e1bA",
+		"symbol": "Merlin Chain Bridged Wrapped BTC (Merlin)",
+		"name": "Merlin Chain Bridged Wrapped BTC (Merlin)",
+		"coingecko": "merlin-chain-bridged-wrapped-btc-merlin",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 4200,
+		"address": "0x967aEC3276b63c5E2262da9641DB9dbeBB07dC0d",
+		"symbol": "Merlin's Seal USDT",
+		"name": "Merlin's Seal USDT",
+		"coingecko": "merlins-seal-usdt",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 4200,
+		"address": "0xbd40c74cb5cf9f9252B3298230Cb916d80430bBa",
+		"symbol": "MerlinSwap",
+		"name": "MerlinSwap",
+		"coingecko": "merlinswap",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 4200,
+		"address": "0x8Aed42735027aa6d97023D8196B084eCFbA701af",
+		"symbol": "MDBL",
+		"name": "MDBL",
+		"coingecko": "mdbl",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 4200,
+		"address": "0x7717D5BD6b20b817D6B0fF7078460fD620D3FdA9",
+		"symbol": "MerlinUniverse Egg",
+		"name": "MerlinUniverse Egg",
+		"coingecko": "merlinuniverse-egg",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 4200,
+		"address": "0x4D9882a3BB13cc086367D0aE964367e6B7ea246f",
+		"symbol": "Party",
+		"name": "Party",
+		"coingecko": "party-4",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 4200,
+		"address": "0x1760900aCA15B90Fa2ECa70CE4b4EC441c2CF6c5",
+		"symbol": "Solv Protocol SolvBTC.BBN",
+		"name": "Solv Protocol SolvBTC.BBN",
+		"coingecko": "solv-protocol-solvbtc-bbn",
 		"sources": [
 			"coingecko"
 		]
@@ -51,130 +121,10 @@
 	},
 	{
 		"chain": 4200,
-		"address": "0x0A3BB08b3a15A19b4De82F8AcFc862606FB69A2D",
-		"symbol": "iZUMi Bond USD",
-		"name": "iZUMi Bond USD",
-		"coingecko": "izumi-bond-usd",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 4200,
-		"address": "0x8Aed42735027aa6d97023D8196B084eCFbA701af",
-		"symbol": "MDBL",
-		"name": "MDBL",
-		"coingecko": "mdbl",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 4200,
-		"address": "0x1760900aCA15B90Fa2ECa70CE4b4EC441c2CF6c5",
-		"symbol": "Solv Protocol SolvBTC.BBN",
-		"name": "Solv Protocol SolvBTC.BBN",
-		"coingecko": "solv-protocol-solvbtc-bbn",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 4200,
-		"address": "0x88c618B2396C1A11A6Aabd1bf89228a08462f2d2",
-		"symbol": "Solv Protocol SolvBTC.ENA",
-		"name": "Solv Protocol SolvBTC.ENA",
-		"coingecko": "solv-protocol-solvbtc-ena",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 4200,
-		"address": "0x93919784C523f39CACaa98Ee0a9d96c3F32b593e",
-		"symbol": "Universal BTC",
-		"name": "Universal BTC",
-		"coingecko": "universal-btc",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 4200,
-		"address": "0x858d1dbd14a023A905535823a77925082507D38B",
-		"symbol": "XLink Bridged BTC",
-		"name": "XLink Bridged BTC",
-		"coingecko": "xlink-bridged-btc-stacks",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 4200,
-		"address": "0x480E158395cC5b41e5584347c495584cA2cAf78d",
-		"symbol": "Merlin Chain Bridged VOYA (Merlin)",
-		"name": "Merlin Chain Bridged VOYA (Merlin)",
-		"coingecko": "merlin-chain-bridged-voya-merlin",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 4200,
-		"address": "0xB880fd278198bd590252621d4CD071b1842E9Bcd",
-		"symbol": "Merlin's Seal BTC",
-		"name": "Merlin's Seal BTC",
-		"coingecko": "merlin-s-seal-btc",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 4200,
-		"address": "0x7717D5BD6b20b817D6B0fF7078460fD620D3FdA9",
-		"symbol": "MerlinUniverse Egg",
-		"name": "MerlinUniverse Egg",
-		"coingecko": "merlinuniverse-egg",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 4200,
-		"address": "0x41D9036454BE47d3745A823C4aaCD0e29cFB0f71",
-		"symbol": "Solv Protocol SolvBTC",
-		"name": "Solv Protocol SolvBTC",
-		"coingecko": "solv-btc",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 4200,
 		"address": "0x6b4eCAdA640F1B30dBdB68f77821A03A5f282EbE",
 		"symbol": "Merlin's Seal USDC",
 		"name": "Merlin's Seal USDC",
 		"coingecko": "merlins-seal-usdc",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 4200,
-		"address": "0x967aEC3276b63c5E2262da9641DB9dbeBB07dC0d",
-		"symbol": "Merlin's Seal USDT",
-		"name": "Merlin's Seal USDT",
-		"coingecko": "merlins-seal-usdt",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 4200,
-		"address": "0xbd40c74cb5cf9f9252B3298230Cb916d80430bBa",
-		"symbol": "MerlinSwap",
-		"name": "MerlinSwap",
-		"coingecko": "merlinswap",
 		"sources": [
 			"coingecko"
 		]
@@ -191,10 +141,30 @@
 	},
 	{
 		"chain": 4200,
-		"address": "0x761b016E08A434daceF0f43C1e73b988c1bc3Cc1",
-		"symbol": "BitGenie",
-		"name": "BitGenie",
-		"coingecko": "bitgenie",
+		"address": "0x88c618B2396C1A11A6Aabd1bf89228a08462f2d2",
+		"symbol": "Solv Protocol SolvBTC.ENA",
+		"name": "Solv Protocol SolvBTC.ENA",
+		"coingecko": "solv-protocol-solvbtc-ena",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 4200,
+		"address": "0xB5d8b1e73c79483d7750C5b8DF8db45A0d24e2cf",
+		"symbol": "StakeStone ETH",
+		"name": "StakeStone ETH",
+		"coingecko": "stakestone-ether",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 4200,
+		"address": "0x93919784C523f39CACaa98Ee0a9d96c3F32b593e",
+		"symbol": "Universal BTC",
+		"name": "Universal BTC",
+		"coingecko": "universal-btc",
 		"sources": [
 			"coingecko"
 		]
@@ -221,20 +191,50 @@
 	},
 	{
 		"chain": 4200,
-		"address": "0xF6D226f9Dc15d9bB51182815b320D3fBE324e1bA",
-		"symbol": "Merlin Chain Bridged Wrapped BTC (Merlin)",
-		"name": "Merlin Chain Bridged Wrapped BTC (Merlin)",
-		"coingecko": "merlin-chain-bridged-wrapped-btc-merlin",
+		"address": "0x480E158395cC5b41e5584347c495584cA2cAf78d",
+		"symbol": "Merlin Chain Bridged VOYA (Merlin)",
+		"name": "Merlin Chain Bridged VOYA (Merlin)",
+		"coingecko": "merlin-chain-bridged-voya-merlin",
 		"sources": [
 			"coingecko"
 		]
 	},
 	{
 		"chain": 4200,
-		"address": "0xB5d8b1e73c79483d7750C5b8DF8db45A0d24e2cf",
-		"symbol": "StakeStone ETH",
-		"name": "StakeStone ETH",
-		"coingecko": "stakestone-ether",
+		"address": "0xB880fd278198bd590252621d4CD071b1842E9Bcd",
+		"symbol": "Merlin's Seal BTC",
+		"name": "Merlin's Seal BTC",
+		"coingecko": "merlin-s-seal-btc",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 4200,
+		"address": "0x09401c470a76Ec07512EEDDEF5477BE74bac2338",
+		"symbol": "Merlin Starter",
+		"name": "Merlin Starter",
+		"coingecko": "merlin-starter",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 4200,
+		"address": "0x41D9036454BE47d3745A823C4aaCD0e29cFB0f71",
+		"symbol": "Solv Protocol SolvBTC",
+		"name": "Solv Protocol SolvBTC",
+		"coingecko": "solv-btc",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 4200,
+		"address": "0x858d1dbd14a023A905535823a77925082507D38B",
+		"symbol": "XLink Bridged BTC",
+		"name": "XLink Bridged BTC",
+		"coingecko": "xlink-bridged-btc-stacks",
 		"sources": [
 			"coingecko"
 		]

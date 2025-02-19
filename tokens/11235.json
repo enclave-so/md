@@ -1,11 +1,11 @@
 [
 	{
 		"chain": 11235,
-		"address": "0xeC8CC083787c6e5218D86f9FF5f28d4cC377Ac54",
-		"symbol": "WISLM",
-		"name": "Wrapped Islamic Coin",
-		"decimals": 18,
-		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/haqq/0xeC8CC083787c6e5218D86f9FF5f28d4cC377Ac54.jpg",
+		"address": "0xFA3C22C069B9556A4B2f7EcE1Ee3B467909f4864",
+		"symbol": "ATOM",
+		"name": "Native token CosmosHub network",
+		"decimals": 6,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/haqq/0xFA3C22C069B9556A4B2f7EcE1Ee3B467909f4864.jpg",
 		"sources": [
 			"sushiswap"
 		]
@@ -23,33 +23,24 @@
 	},
 	{
 		"chain": 11235,
-		"address": "0xFA3C22C069B9556A4B2f7EcE1Ee3B467909f4864",
-		"symbol": "ATOM",
-		"name": "Native token CosmosHub network",
-		"decimals": 6,
-		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/haqq/0xFA3C22C069B9556A4B2f7EcE1Ee3B467909f4864.jpg",
+		"address": "0x12fEFEAc0568503F7C0D934c149f29a42B05C48f",
+		"symbol": "stISLM",
+		"name": "Stride staked ISLM",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/haqq/0x12fEFEAc0568503F7C0D934c149f29a42B05C48f",
+		"coingecko": "stride-staked-islm",
 		"sources": [
+			"coingecko",
 			"sushiswap"
 		]
 	},
 	{
 		"chain": 11235,
-		"address": "0xc03345448969Dd8C00e9E4A85d2d9722d093aF8E",
-		"symbol": "OSMO",
-		"name": "Native token Osmosis network",
-		"decimals": 6,
-		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/haqq/0xc03345448969Dd8C00e9E4A85d2d9722d093aF8E.jpg",
-		"sources": [
-			"sushiswap"
-		]
-	},
-	{
-		"chain": 11235,
-		"address": "0x5aD523d94Efb56C400941eb6F34393b84c75ba39",
-		"symbol": "USDT",
-		"name": "Tether USD from KAVA",
-		"decimals": 6,
-		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/haqq/0x5aD523d94Efb56C400941eb6F34393b84c75ba39.jpg",
+		"address": "0xeC8CC083787c6e5218D86f9FF5f28d4cC377Ac54",
+		"symbol": "WISLM",
+		"name": "Wrapped Islamic Coin",
+		"decimals": 18,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/haqq/0xeC8CC083787c6e5218D86f9FF5f28d4cC377Ac54.jpg",
 		"sources": [
 			"sushiswap"
 		]
@@ -89,6 +80,19 @@
 	},
 	{
 		"chain": 11235,
+		"address": "0x4FEBDDe47Ab9a76200e57eFcC80b212a07b3e6cE",
+		"symbol": "DEEN",
+		"name": "Gold Deenar",
+		"decimals": 6,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/haqq/0x4FEBDDe47Ab9a76200e57eFcC80b212a07b3e6cE.jpg",
+		"coingecko": "deenar-gold",
+		"sources": [
+			"coingecko",
+			"sushiswap"
+		]
+	},
+	{
+		"chain": 11235,
 		"address": "0xd567B3d7B8FE3C79a1AD8dA978812cfC4Fa05e75",
 		"symbol": "axlUSDT",
 		"name": "Axelar Wrapped Tether USD",
@@ -111,27 +115,23 @@
 	},
 	{
 		"chain": 11235,
-		"address": "0x4FEBDDe47Ab9a76200e57eFcC80b212a07b3e6cE",
-		"symbol": "DEEN",
-		"name": "Gold Deenar",
+		"address": "0xc03345448969Dd8C00e9E4A85d2d9722d093aF8E",
+		"symbol": "OSMO",
+		"name": "Native token Osmosis network",
 		"decimals": 6,
-		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/haqq/0x4FEBDDe47Ab9a76200e57eFcC80b212a07b3e6cE.jpg",
-		"coingecko": "deenar-gold",
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/haqq/0xc03345448969Dd8C00e9E4A85d2d9722d093aF8E.jpg",
 		"sources": [
-			"coingecko",
 			"sushiswap"
 		]
 	},
 	{
 		"chain": 11235,
-		"address": "0x12fEFEAc0568503F7C0D934c149f29a42B05C48f",
-		"symbol": "stISLM",
-		"name": "Stride staked ISLM",
-		"decimals": 18,
-		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/haqq/0x12fEFEAc0568503F7C0D934c149f29a42B05C48f",
-		"coingecko": "stride-staked-islm",
+		"address": "0x5aD523d94Efb56C400941eb6F34393b84c75ba39",
+		"symbol": "USDT",
+		"name": "Tether USD from KAVA",
+		"decimals": 6,
+		"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/haqq/0x5aD523d94Efb56C400941eb6F34393b84c75ba39.jpg",
 		"sources": [
-			"coingecko",
 			"sushiswap"
 		]
 	}

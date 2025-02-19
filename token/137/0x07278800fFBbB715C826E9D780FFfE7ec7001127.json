@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x07278800fFBbB715C826E9D780FFfE7ec7001127",
+	"symbol": "QORBI",
+	"name": "QORBI",
+	"coingecko": "qorbi",
+	"sources": [
+		"coingecko"
+	]
+}

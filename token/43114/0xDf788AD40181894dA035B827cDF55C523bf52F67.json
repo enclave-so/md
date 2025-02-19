@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0xDf788AD40181894dA035B827cDF55C523bf52F67",
+	"symbol": "Restaked sAVAX",
+	"name": "Restaked sAVAX",
+	"coingecko": "restaked-savax",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -5,7 +5,7 @@
 	"name": "Wrapped liquid staked Ether 2.0",
 	"decimals": 18,
 	"logo": "https://ethereum-optimism.github.io/data/wstETH/logo.svg",
-	"coingecko": "wrapped-steth",
+	"coingecko": "superbridge-bridged-wsteth-optimism",
 	"sources": [
 		"coingecko",
 		"optimism",

@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x56CfC19D8cBF7D417d370844249Be9Cb2d2E19a1",
+	"symbol": "DOGECAUCUS",
+	"name": "Doge Caucus",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/54007/thumb/output-onlinepngtools_%283%29.png?1737963995",
+	"coingecko": "doge-caucus",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x6Aaeb26b663E37c4D0C995758c69d5e54bBE9984",
+	"symbol": "ONAI",
+	"name": "Onchain AI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/53690/thumb/photo_2025-01-16_00-00-25_%282%29.jpg?1737050823",
+	"coingecko": "onchain-ai-2",
+	"sources": [
+		"coingecko"
+	]
+}

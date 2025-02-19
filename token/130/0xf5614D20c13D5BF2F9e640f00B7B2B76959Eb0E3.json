@@ -1,0 +1,11 @@
+{
+	"chain": 130,
+	"address": "0xf5614D20c13D5BF2F9e640f00B7B2B76959Eb0E3",
+	"symbol": "OMNI",
+	"name": "Omni Network",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/36465/standard/Symbol-Color.png?1711511095",
+	"sources": [
+		"uniswap"
+	]
+}

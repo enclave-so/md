@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xf77d81766E42f377159a5512858aFC012809c7e6",
+	"symbol": "INFinitar Coin",
+	"name": "INFinitar Coin",
+	"coingecko": "infinitar-coin",
+	"sources": [
+		"coingecko"
+	]
+}

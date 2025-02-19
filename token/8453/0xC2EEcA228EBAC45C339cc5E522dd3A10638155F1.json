@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xC2EEcA228EBAC45C339cc5E522dd3A10638155F1",
+	"symbol": "PeacePal AI",
+	"name": "PeacePal AI",
+	"coingecko": "peacepal-ai",
+	"sources": [
+		"coingecko"
+	]
+}

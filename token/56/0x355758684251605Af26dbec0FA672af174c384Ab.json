@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x355758684251605Af26dbec0FA672af174c384Ab",
+	"symbol": "Degent",
+	"name": "Degent",
+	"coingecko": "degent",
+	"sources": [
+		"coingecko"
+	]
+}

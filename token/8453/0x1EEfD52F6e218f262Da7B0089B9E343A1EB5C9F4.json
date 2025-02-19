@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x1EEfD52F6e218f262Da7B0089B9E343A1EB5C9F4",
+	"symbol": "Shrub",
+	"name": "Shrub",
+	"coingecko": "shrub",
+	"sources": [
+		"coingecko"
+	]
+}

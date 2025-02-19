@@ -1,0 +1,12 @@
+{
+	"chain": 130,
+	"address": "0x4D6B8ecb576dF9BB4bF6E6764A469a762bBc967F",
+	"symbol": "AMP",
+	"name": "Amp",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/12409/thumb/amp-200x200.png?1599625397",
+	"sources": [
+		"optimism",
+		"uniswap"
+	]
+}

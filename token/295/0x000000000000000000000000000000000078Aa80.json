@@ -1,0 +1,10 @@
+{
+	"chain": 295,
+	"address": "0x000000000000000000000000000000000078Aa80",
+	"symbol": "DINO",
+	"name": "DINO",
+	"coingecko": "dino-2",
+	"sources": [
+		"coingecko"
+	]
+}

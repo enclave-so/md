@@ -1,0 +1,10 @@
+{
+	"chain": 81457,
+	"address": "0xa5d7512c6a3B87ad7bF2f597b93845950f738fDd",
+	"symbol": "Dinari IAU",
+	"name": "Dinari IAU",
+	"coingecko": "dinari-iau",
+	"sources": [
+		"coingecko"
+	]
+}

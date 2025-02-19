@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0xD8A2f109BEC88D9C9df6F4958c3301bd9D1929Fd",
+	"symbol": "CLX",
+	"name": "CloneX AI",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/53469/thumb/r4wEIPpx_400x400.jpg?1736456204",
+	"coingecko": "clonex-ai",
+	"sources": [
+		"coingecko"
+	]
+}

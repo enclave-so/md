@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x706987611C5d2052541D64ef8f036916807c916A",
+	"symbol": "BOYS",
+	"name": "Boys Club",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/53636/thumb/Coin200.png?1736956240",
+	"coingecko": "boys-club",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"chain": 130,
+	"address": "0x7Ad899b7C793743fDE692d982F190f443F88c889",
+	"symbol": "RLY",
+	"name": "Rally",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/12843/thumb/image.png?1611212077",
+	"sources": [
+		"uniswap"
+	]
+}

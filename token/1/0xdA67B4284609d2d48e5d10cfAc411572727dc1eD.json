@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0xdA67B4284609d2d48e5d10cfAc411572727dc1eD",
+	"symbol": "USN",
+	"name": "Noon USN",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/53948/thumb/image_%289%29.png?1737788246",
+	"coingecko": "noon-usn",
+	"sources": [
+		"coingecko"
+	]
+}

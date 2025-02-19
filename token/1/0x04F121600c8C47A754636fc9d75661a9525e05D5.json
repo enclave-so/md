@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x04F121600c8C47A754636fc9d75661a9525e05D5",
+	"symbol": "STARS",
+	"name": "STARS",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/53049/thumb/IMG_4164.jpeg?1735147709",
+	"coingecko": "stars-2",
+	"sources": [
+		"coingecko"
+	]
+}

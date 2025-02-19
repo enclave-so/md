@@ -1,0 +1,11 @@
+{
+	"chain": 8453,
+	"address": "0xDb4d83343623027B6b4C4D3354AE9FdA4A90AD67",
+	"symbol": "RSS3",
+	"name": "RSS3",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/RSS3/logo.png",
+	"sources": [
+		"optimism"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x135fa55546758cf398dA675A064F39d215AB1FF6",
+	"symbol": "4GENTIC",
+	"name": "4GENTIC",
+	"coingecko": "4gentic",
+	"sources": [
+		"coingecko"
+	]
+}

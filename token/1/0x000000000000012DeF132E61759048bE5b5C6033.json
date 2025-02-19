@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x000000000000012DeF132E61759048bE5b5C6033",
+	"symbol": "CX",
+	"name": "Cortex",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/53285/thumb/CX_Round.png?1735994730",
+	"coingecko": "cortex-2",
+	"sources": [
+		"coingecko"
+	]
+}

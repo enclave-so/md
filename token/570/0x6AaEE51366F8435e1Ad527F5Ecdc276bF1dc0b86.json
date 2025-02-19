@@ -1,0 +1,10 @@
+{
+	"chain": 570,
+	"address": "0x6AaEE51366F8435e1Ad527F5Ecdc276bF1dc0b86",
+	"symbol": "Luxy",
+	"name": "Luxy",
+	"coingecko": "luxy",
+	"sources": [
+		"coingecko"
+	]
+}

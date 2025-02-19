@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x097b1b242D3Ed90E191c5f83A62f41ABe16f6ceB",
+	"symbol": "Tokito",
+	"name": "Tokito",
+	"coingecko": "tokito",
+	"sources": [
+		"coingecko"
+	]
+}

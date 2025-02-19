@@ -1,0 +1,12 @@
+{
+	"chain": 130,
+	"address": "0x13FE2c4504f3AA18708561250e2F20E4E7D7CAa2",
+	"symbol": "PSTAKE",
+	"name": "pSTAKE Finance",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/23931/thumb/PSTAKE_Dark.png?1645709930",
+	"sources": [
+		"optimism",
+		"uniswap"
+	]
+}

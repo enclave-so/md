@@ -1,0 +1,11 @@
+{
+	"chain": 56,
+	"address": "0xC6c4575DC40aC63A5f89b5C4aE0B3A9134c52C4C",
+	"symbol": "nml",
+	"name": "zoey - your longevity coach by NetMind XYZ",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0xC6c4575DC40aC63A5f89b5C4aE0B3A9134c52C4C.png",
+	"sources": [
+		"pancakeswap"
+	]
+}

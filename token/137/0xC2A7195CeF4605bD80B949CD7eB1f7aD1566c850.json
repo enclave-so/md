@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xC2A7195CeF4605bD80B949CD7eB1f7aD1566c850",
+	"symbol": "Gamebitcoin Power",
+	"name": "Gamebitcoin Power",
+	"coingecko": "gamebitcoin-power",
+	"sources": [
+		"coingecko"
+	]
+}

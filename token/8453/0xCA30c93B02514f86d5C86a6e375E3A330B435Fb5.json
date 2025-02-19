@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xCA30c93B02514f86d5C86a6e375E3A330B435Fb5",
+	"symbol": "Backed IB01 $ Treasury Bond 0-1yr",
+	"name": "Backed IB01 $ Treasury Bond 0-1yr",
+	"coingecko": "backed-ib01-treasury-bond-0-1yr",
+	"sources": [
+		"coingecko"
+	]
+}

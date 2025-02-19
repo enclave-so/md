@@ -1,0 +1,10 @@
+{
+	"chain": 57073,
+	"address": "0xCa5f2cCBD9C40b32657dF57c716De44237f80F05",
+	"symbol": "Kraken",
+	"name": "Kraken",
+	"coingecko": "kraken-ink",
+	"sources": [
+		"coingecko"
+	]
+}

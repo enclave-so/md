@@ -1,0 +1,11 @@
+{
+	"chain": 130,
+	"address": "0xB29FddC20D5e4bacE9F54c1d9237953331BFeFF4",
+	"symbol": "MDT",
+	"name": "Measurable Data Token",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/2441/thumb/mdt_logo.png?1569813574",
+	"sources": [
+		"uniswap"
+	]
+}

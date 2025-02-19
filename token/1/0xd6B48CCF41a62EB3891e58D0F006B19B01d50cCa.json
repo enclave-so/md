@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0xd6B48CCF41a62EB3891e58D0F006B19B01d50cCa",
+	"symbol": "SERAPH",
+	"name": "Seraph",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/53325/thumb/o39aNcS6_400x400.jpg?1736092811",
+	"coingecko": "seraph",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0xaFB942E2A12aC0861Ad81b5c37682f588912c1d9",
+	"symbol": "PRIVIX",
+	"name": "Privix",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/54239/thumb/Privix.png?1738873277",
+	"coingecko": "privix-2",
+	"sources": [
+		"coingecko"
+	]
+}

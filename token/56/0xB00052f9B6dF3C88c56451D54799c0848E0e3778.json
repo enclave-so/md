@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xB00052f9B6dF3C88c56451D54799c0848E0e3778",
+	"symbol": "Ivy Live",
+	"name": "Ivy Live",
+	"coingecko": "ivy-live",
+	"sources": [
+		"coingecko"
+	]
+}

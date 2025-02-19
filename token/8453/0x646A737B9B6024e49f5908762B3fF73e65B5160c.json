@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x646A737B9B6024e49f5908762B3fF73e65B5160c",
+	"symbol": "Superbridge Bridged scrvUSD",
+	"name": "Superbridge Bridged scrvUSD",
+	"coingecko": "superbridge-bridged-scrvusd",
+	"sources": [
+		"coingecko"
+	]
+}

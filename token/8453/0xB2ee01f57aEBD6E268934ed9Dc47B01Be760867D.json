@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xB2ee01f57aEBD6E268934ed9Dc47B01Be760867D",
+	"symbol": "Agora by Virtuals",
+	"name": "Agora by Virtuals",
+	"coingecko": "agora-by-virtuals",
+	"sources": [
+		"coingecko"
+	]
+}

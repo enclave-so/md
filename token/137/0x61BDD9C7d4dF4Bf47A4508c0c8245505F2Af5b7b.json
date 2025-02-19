@@ -4,8 +4,9 @@
 	"symbol": "AXS",
 	"name": "Axie Infinity",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x61BDD9C7d4dF4Bf47A4508c0c8245505F2Af5b7b/logo.png",
+	"logo": "https://assets.coingecko.com/coins/images/13029/thumb/axie_infinity_logo.png?1604471082",
 	"sources": [
-		"sushiswap"
+		"sushiswap",
+		"uniswap"
 	]
 }

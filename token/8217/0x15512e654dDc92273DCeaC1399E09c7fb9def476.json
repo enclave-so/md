@@ -1,0 +1,10 @@
+{
+	"chain": 8217,
+	"address": "0x15512e654dDc92273DCeaC1399E09c7fb9def476",
+	"symbol": "STO Operating System Token",
+	"name": "STO Operating System Token",
+	"coingecko": "security-token-offering",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 59144,
+	"address": "0x45229ac791C56cb86Fc1972F3082dAb19385dfA2",
+	"symbol": "Foxx Of Linea",
+	"name": "Foxx Of Linea",
+	"coingecko": "foxx-of-linea",
+	"sources": [
+		"coingecko"
+	]
+}

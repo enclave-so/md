@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xf73800472abe97E92AC5ed1F9D00a3c31101B250",
+	"symbol": "MINE BTC",
+	"name": "MINE BTC",
+	"coingecko": "mine-btc",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x0341d2c2CE65B62aF8887E905245B8CfEA2a3b97",
+	"symbol": "YAYAGETH",
+	"name": "Yay Kelp DAO s Airdrop Gain ETH",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/54281/thumb/yayagETH200w.png?1739438881",
+	"coingecko": "yay-kelp-dao-s-airdrop-gain-eth",
+	"sources": [
+		"coingecko"
+	]
+}

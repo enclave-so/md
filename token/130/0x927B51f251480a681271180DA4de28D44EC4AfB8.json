@@ -1,0 +1,12 @@
+{
+	"chain": 130,
+	"address": "0x927B51f251480a681271180DA4de28D44EC4AfB8",
+	"symbol": "WBTC",
+	"name": "Wrapped BTC",
+	"decimals": 8,
+	"logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png",
+	"sources": [
+		"optimism",
+		"uniswap"
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"chain": 8453,
+	"address": "0xdf49c226ED9CF05Be0e38cdb86Df4E8A945158B1",
+	"symbol": "ZENT",
+	"name": "Zentry",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/ZENT/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

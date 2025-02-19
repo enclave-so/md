@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x77776aB9495729E0939E9bADAf7E7c3312777777",
+	"symbol": "WABBIT",
+	"name": "WABBIT",
+	"coingecko": "wabbit",
+	"sources": [
+		"coingecko"
+	]
+}

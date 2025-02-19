@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0xb8176a66c0d0A84cfD4e403c89cF3416b1e798Ad",
+	"symbol": "BITBEDR",
+	"name": "BITBEDR",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/37391/thumb/Bitbedr.png?1714287749",
+	"coingecko": "bitbedr",
+	"sources": [
+		"coingecko"
+	]
+}

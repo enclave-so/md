@@ -1,0 +1,11 @@
+{
+	"chain": 8453,
+	"address": "0x80607684aBc37b507a3412A6839DBC9755c08de0",
+	"symbol": "OMETA",
+	"name": "Open Meta Token",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/OMETA/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

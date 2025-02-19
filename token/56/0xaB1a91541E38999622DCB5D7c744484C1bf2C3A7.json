@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xaB1a91541E38999622DCB5D7c744484C1bf2C3A7",
+	"symbol": "Hachi Inu",
+	"name": "Hachi Inu",
+	"coingecko": "hachi-inu",
+	"sources": [
+		"coingecko"
+	]
+}

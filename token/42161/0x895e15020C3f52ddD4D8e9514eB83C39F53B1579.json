@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x895e15020C3f52ddD4D8e9514eB83C39F53B1579",
+	"symbol": "YieldFi yToken",
+	"name": "YieldFi yToken",
+	"coingecko": "yieldfi-ytoken",
+	"sources": [
+		"coingecko"
+	]
+}

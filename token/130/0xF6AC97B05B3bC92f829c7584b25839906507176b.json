@@ -1,0 +1,11 @@
+{
+	"chain": 130,
+	"address": "0xF6AC97B05B3bC92f829c7584b25839906507176b",
+	"symbol": "MATIC",
+	"name": "Polygon",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/4713/thumb/matic-token-icon.png?1624446912",
+	"sources": [
+		"uniswap"
+	]
+}

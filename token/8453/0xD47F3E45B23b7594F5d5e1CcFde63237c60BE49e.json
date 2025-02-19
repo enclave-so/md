@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xD47F3E45B23b7594F5d5e1CcFde63237c60BE49e",
+	"symbol": "BSX",
+	"name": "BSX",
+	"coingecko": "bsx",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x6A9A65B84843F5fD4aC9a0471C4fc11AFfFBce4a",
+	"symbol": "Lorenzo Wrapped Bitcoin",
+	"name": "Lorenzo Wrapped Bitcoin",
+	"coingecko": "lorenzo-wrapped-bitcoin",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x140007c65535AA9C3801eA3bBd3F83C378C7F457",
+	"symbol": "X",
+	"name": "Free Speech",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/53125/thumb/IMG_4117.jpeg?1735282121",
+	"coingecko": "free-speech-2",
+	"sources": [
+		"coingecko"
+	]
+}

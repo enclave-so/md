@@ -1,0 +1,11 @@
+{
+	"chain": 130,
+	"address": "0x0eb07cE7a28FF84DF132fb5ee5F56Aabc1b9E545",
+	"symbol": "DNT",
+	"name": "district0x",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/849/thumb/district0x.png?1547223762",
+	"sources": [
+		"uniswap"
+	]
+}

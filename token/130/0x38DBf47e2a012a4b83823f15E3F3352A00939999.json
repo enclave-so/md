@@ -1,0 +1,11 @@
+{
+	"chain": 130,
+	"address": "0x38DBf47e2a012a4b83823f15E3F3352A00939999",
+	"symbol": "AVT",
+	"name": "Artverse Token",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/19727/thumb/ewnektoB_400x400.png?1635767094",
+	"sources": [
+		"uniswap"
+	]
+}

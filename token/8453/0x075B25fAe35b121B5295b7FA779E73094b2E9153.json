@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x075B25fAe35b121B5295b7FA779E73094b2E9153",
+	"symbol": "CLANKTARDIO",
+	"name": "CLANKTARDIO",
+	"coingecko": "clanktardio",
+	"sources": [
+		"coingecko"
+	]
+}

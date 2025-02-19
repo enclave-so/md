@@ -1,0 +1,10 @@
+{
+	"chain": 146,
+	"address": "0x79bbF4508B1391af3A0F4B30bb5FC4aa9ab0E07C",
+	"symbol": "Hey Anon",
+	"name": "Hey Anon",
+	"coingecko": "heyanon",
+	"sources": [
+		"coingecko"
+	]
+}

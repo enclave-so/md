@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xD9E90DF21F4229249E8841580cDE7048bF935710",
+	"symbol": "Shield protocol",
+	"name": "Shield protocol",
+	"coingecko": "shield-protocol-3",
+	"sources": [
+		"coingecko"
+	]
+}

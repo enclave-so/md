@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x635d44F246156ed1080CB470877256c847673f19",
+	"symbol": "WhiteBridge Network",
+	"name": "WhiteBridge Network",
+	"coingecko": "whitebridge",
+	"sources": [
+		"coingecko"
+	]
+}

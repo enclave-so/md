@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x99FD6b95BeF16079398426f94F9fACa4d7570C61",
+	"symbol": "Aegents",
+	"name": "Aegents",
+	"coingecko": "aegents",
+	"sources": [
+		"coingecko"
+	]
+}

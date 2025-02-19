@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xcA57B8d3edd0beDc6c1087Bd35D782C3518B2A52",
+	"symbol": "Lottery Token",
+	"name": "Lottery Token",
+	"coingecko": "lottery-token-2",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"chain": 130,
+	"address": "0xe5ECB192f1aE5839eD49886F36dFA670f9500824",
+	"symbol": "BEAM",
+	"name": "Beam",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/32417/standard/chain-logo.png?1698114384",
+	"sources": [
+		"uniswap"
+	]
+}

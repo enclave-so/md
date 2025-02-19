@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x000804047791C8e0fbD04F1A9f4567114130B9a7",
+	"symbol": "Dinari KO",
+	"name": "Dinari KO",
+	"coingecko": "dinari-ko",
+	"sources": [
+		"coingecko"
+	]
+}

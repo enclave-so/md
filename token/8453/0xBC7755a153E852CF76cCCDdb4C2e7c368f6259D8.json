@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xBC7755a153E852CF76cCCDdb4C2e7c368f6259D8",
+	"symbol": "Hestia",
+	"name": "Hestia",
+	"coingecko": "hestia",
+	"sources": [
+		"coingecko"
+	]
+}

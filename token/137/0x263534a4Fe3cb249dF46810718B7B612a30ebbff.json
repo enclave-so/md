@@ -1,0 +1,11 @@
+{
+	"chain": 137,
+	"address": "0x263534a4Fe3cb249dF46810718B7B612a30ebbff",
+	"symbol": "PERP",
+	"name": "Perpetual Protocol",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/12381/thumb/60d18e06844a844ad75901a9_mark_only_03.png?1628674771",
+	"sources": [
+		"uniswap"
+	]
+}

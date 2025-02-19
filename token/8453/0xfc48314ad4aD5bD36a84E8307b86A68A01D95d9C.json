@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xfc48314ad4aD5bD36a84E8307b86A68A01D95d9C",
+	"symbol": "AION 5100",
+	"name": "AION 5100",
+	"coingecko": "aion-5100",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x7636D8722Fdf7cd34232a915E48e96aA3eB386BF",
+	"symbol": "SFI",
+	"name": "Singularity Finance",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/54242/thumb/uvrV4k4z_400x400.jpg?1738886449",
+	"coingecko": "singularity-finance",
+	"sources": [
+		"coingecko"
+	]
+}

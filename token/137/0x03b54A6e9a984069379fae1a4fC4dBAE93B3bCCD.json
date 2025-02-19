@@ -1,9 +1,9 @@
 {
 	"chain": 137,
 	"address": "0x03b54A6e9a984069379fae1a4fC4dBAE93B3bCCD",
-	"symbol": "Wrapped stETH",
-	"name": "Wrapped stETH",
-	"coingecko": "wrapped-steth",
+	"symbol": "Polygon Bridged wstETH (Polygon)",
+	"name": "Polygon Bridged wstETH (Polygon)",
+	"coingecko": "polygon-bridged-wsteth-polygon",
 	"sources": [
 		"coingecko"
 	]

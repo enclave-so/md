@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0xd17AFf8FCF7698aaBfB5f8bE90Aa2692774fa810",
+	"symbol": "Dinari COST",
+	"name": "Dinari COST",
+	"coingecko": "dinari-cost",
+	"sources": [
+		"coingecko"
+	]
+}

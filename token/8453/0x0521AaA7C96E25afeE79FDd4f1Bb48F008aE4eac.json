@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x0521AaA7C96E25afeE79FDd4f1Bb48F008aE4eac",
+	"symbol": "FDREAM",
+	"name": "FDREAM",
+	"coingecko": "fdream",
+	"sources": [
+		"coingecko"
+	]
+}

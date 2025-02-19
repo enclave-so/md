@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x0123b0a381348F3ba793091923DaeB7356ec5862",
+	"symbol": "VXXD",
+	"name": "Dinari VXX",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/54396/thumb/d-token-200.png?1739485820",
+	"coingecko": "dinari-vxx",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x6ef69Ba2d051761aFD38F218F0a3cF517D64A760",
+	"symbol": "CPAI",
+	"name": "Moontax",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/53433/thumb/Moontax.png?1736369207",
+	"coingecko": "moontax",
+	"sources": [
+		"coingecko"
+	]
+}

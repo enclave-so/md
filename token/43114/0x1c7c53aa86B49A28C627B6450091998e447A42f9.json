@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x1c7c53aa86B49A28C627B6450091998e447A42f9",
+	"symbol": "Velvet AI",
+	"name": "Velvet AI",
+	"coingecko": "velvet-ai",
+	"sources": [
+		"coingecko"
+	]
+}

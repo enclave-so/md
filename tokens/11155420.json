@@ -1,6 +1,28 @@
 [
 	{
 		"chain": 11155420,
+		"address": "0x1696baFBe18EFB141823a041E22E43d12B144407",
+		"symbol": "BOBA",
+		"name": "Boba Token",
+		"decimals": 18,
+		"logo": "https://ethereum-optimism.github.io/data/BOBA/logo.svg",
+		"sources": [
+			"optimism"
+		]
+	},
+	{
+		"chain": 11155420,
+		"address": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000",
+		"symbol": "ETH",
+		"name": "Ether",
+		"decimals": 18,
+		"logo": "https://ethereum-optimism.github.io/data/ETH/logo.svg",
+		"sources": [
+			"optimism"
+		]
+	},
+	{
+		"chain": 11155420,
 		"address": "0x819845b60A192167Ed1139040B4F8ecA31834f27",
 		"symbol": "IRARA",
 		"name": "IRARA Token",
@@ -61,28 +83,6 @@
 		"name": "Wrapped liquid staked Ether 2.0",
 		"decimals": 18,
 		"logo": "https://ethereum-optimism.github.io/data/wstETH/logo.svg",
-		"sources": [
-			"optimism"
-		]
-	},
-	{
-		"chain": 11155420,
-		"address": "0x1696baFBe18EFB141823a041E22E43d12B144407",
-		"symbol": "BOBA",
-		"name": "Boba Token",
-		"decimals": 18,
-		"logo": "https://ethereum-optimism.github.io/data/BOBA/logo.svg",
-		"sources": [
-			"optimism"
-		]
-	},
-	{
-		"chain": 11155420,
-		"address": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000",
-		"symbol": "ETH",
-		"name": "Ether",
-		"decimals": 18,
-		"logo": "https://ethereum-optimism.github.io/data/ETH/logo.svg",
 		"sources": [
 			"optimism"
 		]

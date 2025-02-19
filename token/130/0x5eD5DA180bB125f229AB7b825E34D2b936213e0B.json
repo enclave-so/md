@@ -1,0 +1,11 @@
+{
+	"chain": 130,
+	"address": "0x5eD5DA180bB125f229AB7b825E34D2b936213e0B",
+	"symbol": "TOKE",
+	"name": "Tokemak",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/17495/thumb/tokemak-avatar-200px-black.png?1628131614",
+	"sources": [
+		"uniswap"
+	]
+}

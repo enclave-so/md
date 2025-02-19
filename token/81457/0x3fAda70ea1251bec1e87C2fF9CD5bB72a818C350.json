@@ -1,0 +1,10 @@
+{
+	"chain": 81457,
+	"address": "0x3fAda70ea1251bec1e87C2fF9CD5bB72a818C350",
+	"symbol": "Dinari ADBE",
+	"name": "Dinari ADBE",
+	"coingecko": "dinari-adbe",
+	"sources": [
+		"coingecko"
+	]
+}

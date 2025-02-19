@@ -1,0 +1,11 @@
+{
+	"chain": 130,
+	"address": "0xE86B1E5613a5761D005a2D00D8a1B4ad1e72A8c4",
+	"symbol": "REPv2",
+	"name": "Reputation Augur v2",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x221657776846890989a759BA2973e427DfF5C9bB/logo.png",
+	"sources": [
+		"uniswap"
+	]
+}

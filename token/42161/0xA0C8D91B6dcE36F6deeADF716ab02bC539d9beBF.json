@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0xA0C8D91B6dcE36F6deeADF716ab02bC539d9beBF",
+	"symbol": "Gameboi",
+	"name": "Gameboi",
+	"coingecko": "gameboi",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xda52b818c1348bFee27989E2a0DF39224A3E52fA",
+	"symbol": "Blend",
+	"name": "Blend",
+	"coingecko": "blend-2",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0xb28a3778e1A78a8c327693516ed4F5B11db41306",
+	"symbol": "CTRL",
+	"name": "AltCTRL",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/35472/thumb/200x200.png?1708770112",
+	"coingecko": "altctrl",
+	"sources": [
+		"coingecko"
+	]
+}

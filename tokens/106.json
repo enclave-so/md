@@ -1,46 +1,6 @@
 [
 	{
 		"chain": 106,
-		"address": "0x72eB7CA07399Ec402c5b7aa6A65752B6A1Dc0C27",
-		"symbol": "AstroSwap",
-		"name": "AstroSwap",
-		"coingecko": "astroswap",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 106,
-		"address": "0xc9BAA8cfdDe8E328787E29b4B078abf2DaDc2055",
-		"symbol": "Bridged BUSD",
-		"name": "Bridged BUSD",
-		"coingecko": "bridged-busd",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 106,
-		"address": "0xc579D1f3CF86749E05CD06f7ADe17856c2CE3126",
-		"symbol": "Wrapped Velas",
-		"name": "Wrapped Velas",
-		"coingecko": "wrapped-velas",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 106,
-		"address": "0x7b24C63aa79ad66F34C1a8f50a1369ecD9EE43d8",
-		"symbol": "Barter",
-		"name": "Barter",
-		"coingecko": "barter",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 106,
 		"address": "0x09bcE7716D46459DF7473982Fd27A96EabD6eE4d",
 		"symbol": "BitOrbit",
 		"name": "BitOrbit",
@@ -61,16 +21,6 @@
 	},
 	{
 		"chain": 106,
-		"address": "0x639A647fbe20b6c8ac19E48E2de44ea792c62c5C",
-		"symbol": "Bridged WBTC",
-		"name": "Bridged WBTC",
-		"coingecko": "bridged-wbtc",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 106,
 		"address": "0x3557371aFEd82DD683DE278924BD0E1a790a3c49",
 		"symbol": "Staked VLX",
 		"name": "Staked VLX",
@@ -81,50 +31,10 @@
 	},
 	{
 		"chain": 106,
-		"address": "0x332730a4F6E03D9C55829435f10360E13cfA41Ff",
-		"symbol": "Wrapped AVAX",
-		"name": "Wrapped AVAX",
-		"coingecko": "wrapped-avax",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 106,
-		"address": "0x80A16016cC4A2E6a2CACA8a4a498b1699fF0f844",
-		"symbol": "Bridged USDC",
-		"name": "Bridged USDC",
-		"coingecko": "bridged-usdc",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 106,
-		"address": "0x85219708c49aa701871Ad330A94EA0f41dFf24Ca",
-		"symbol": "Bridged WETH",
-		"name": "Bridged WETH",
-		"coingecko": "bridged-weth",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 106,
-		"address": "0xa065e0858417Dfc7abC6f2BD4D0185332475C180",
-		"symbol": "VelasPad",
-		"name": "VelasPad",
-		"coingecko": "velaspad",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 106,
-		"address": "0x65e66a61D0a8F1e686C2D6083ad611a10D84D97A",
-		"symbol": "Wrapped BNB",
-		"name": "Wrapped BNB",
-		"coingecko": "wbnb",
+		"address": "0x72eB7CA07399Ec402c5b7aa6A65752B6A1Dc0C27",
+		"symbol": "AstroSwap",
+		"name": "AstroSwap",
+		"coingecko": "astroswap",
 		"sources": [
 			"coingecko"
 		]
@@ -141,10 +51,20 @@
 	},
 	{
 		"chain": 106,
-		"address": "0x8a74BC8c372bC7f0E9cA3f6Ac0df51BE15aEC47A",
-		"symbol": "PulsePad",
-		"name": "PulsePad",
-		"coingecko": "pulsepad",
+		"address": "0x65e66a61D0a8F1e686C2D6083ad611a10D84D97A",
+		"symbol": "Bridged WBNB",
+		"name": "Bridged WBNB",
+		"coingecko": "bridged-wbnb",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 106,
+		"address": "0x85219708c49aa701871Ad330A94EA0f41dFf24Ca",
+		"symbol": "Bridged WETH",
+		"name": "Bridged WETH",
+		"coingecko": "bridged-weth",
 		"sources": [
 			"coingecko"
 		]
@@ -175,6 +95,86 @@
 		"symbol": "Wrapped POL",
 		"name": "Wrapped POL",
 		"coingecko": "wmatic",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 106,
+		"address": "0xc9BAA8cfdDe8E328787E29b4B078abf2DaDc2055",
+		"symbol": "Bridged BUSD",
+		"name": "Bridged BUSD",
+		"coingecko": "bridged-busd",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 106,
+		"address": "0x7b24C63aa79ad66F34C1a8f50a1369ecD9EE43d8",
+		"symbol": "Barter",
+		"name": "Barter",
+		"coingecko": "barter",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 106,
+		"address": "0x80A16016cC4A2E6a2CACA8a4a498b1699fF0f844",
+		"symbol": "Bridged USDC",
+		"name": "Bridged USDC",
+		"coingecko": "bridged-usdc",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 106,
+		"address": "0x639A647fbe20b6c8ac19E48E2de44ea792c62c5C",
+		"symbol": "Bridged WBTC",
+		"name": "Bridged WBTC",
+		"coingecko": "bridged-wbtc",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 106,
+		"address": "0x332730a4F6E03D9C55829435f10360E13cfA41Ff",
+		"symbol": "Multichain Bridged WAVAX (Velas)",
+		"name": "Multichain Bridged WAVAX (Velas)",
+		"coingecko": "multichain-bridged-wavax-velas",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 106,
+		"address": "0x8a74BC8c372bC7f0E9cA3f6Ac0df51BE15aEC47A",
+		"symbol": "PulsePad",
+		"name": "PulsePad",
+		"coingecko": "pulsepad",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 106,
+		"address": "0xa065e0858417Dfc7abC6f2BD4D0185332475C180",
+		"symbol": "VelasPad",
+		"name": "VelasPad",
+		"coingecko": "velaspad",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 106,
+		"address": "0xc579D1f3CF86749E05CD06f7ADe17856c2CE3126",
+		"symbol": "Wrapped Velas",
+		"name": "Wrapped Velas",
+		"coingecko": "wrapped-velas",
 		"sources": [
 			"coingecko"
 		]

@@ -1,0 +1,10 @@
+{
+	"chain": 81457,
+	"address": "0x87084c981709878e3C806aD45fb01e3522E08123",
+	"symbol": "Dinari ARKK",
+	"name": "Dinari ARKK",
+	"coingecko": "dinari-arkk",
+	"sources": [
+		"coingecko"
+	]
+}

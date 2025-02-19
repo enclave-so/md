@@ -1,6 +1,16 @@
 [
 	{
 		"chain": 666666666,
+		"address": "0xEb54dACB4C2ccb64F8074eceEa33b5eBb38E5387",
+		"symbol": "Wrapped DEGEN",
+		"name": "Wrapped DEGEN",
+		"coingecko": "wrapped-degen",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 666666666,
 		"address": "0xeB1C32Ea4E392346795aED3607f37646E2a9c13F",
 		"symbol": "All Time High",
 		"name": "All Time High",
@@ -35,26 +45,6 @@
 		"symbol": "DINU",
 		"name": "DINU",
 		"coingecko": "dinu",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 666666666,
-		"address": "0x54f667dB585b7B10347429C72c36c8B59aB441cb",
-		"symbol": "Good Old Fashioned Un Registered Security",
-		"name": "Good Old Fashioned Un Registered Security",
-		"coingecko": "good-old-fashioned-un-registered-security",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 666666666,
-		"address": "0xEb54dACB4C2ccb64F8074eceEa33b5eBb38E5387",
-		"symbol": "Wrapped DEGEN",
-		"name": "Wrapped DEGEN",
-		"coingecko": "wrapped-degen",
 		"sources": [
 			"coingecko"
 		]

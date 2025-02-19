@@ -1,0 +1,10 @@
+{
+	"chain": 88,
+	"address": "0x69B946132B4a6C74cd29Ba3ff614cEEA1eF9fF2B",
+	"symbol": "Viction Bridged USDT",
+	"name": "Viction Bridged USDT",
+	"coingecko": "viction-bridged-usdt",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,20 +1,30 @@
 [
 	{
 		"chain": 388,
-		"address": "0x66b1E42B2D5bce3D701Efa3c86Cc334d80cEEfaB",
-		"symbol": "AMPLY",
-		"name": "AMPLY",
-		"coingecko": "amply",
+		"address": "0xaa5b845F8C9c047779bEDf64829601d8B264076c",
+		"symbol": "Cronos zkEVM Bridged USDC (Cronos zkEVM)",
+		"name": "Cronos zkEVM Bridged USDC (Cronos zkEVM)",
+		"coingecko": "cronos-zkevm-bridged-usdc-cronos-zkevm",
 		"sources": [
 			"coingecko"
 		]
 	},
 	{
 		"chain": 388,
-		"address": "0xaa5b845F8C9c047779bEDf64829601d8B264076c",
-		"symbol": "Cronos zkEVM Bridged USDC (Cronos zkEVM)",
-		"name": "Cronos zkEVM Bridged USDC (Cronos zkEVM)",
-		"coingecko": "cronos-zkevm-bridged-usdc-cronos-zkevm",
+		"address": "0xD65E5DbA71231D35A5802bA83dC6cB6746c9758d",
+		"symbol": "Cronos zkEVM Bridged WBTC (Cronos zkEVM)",
+		"name": "Cronos zkEVM Bridged WBTC (Cronos zkEVM)",
+		"coingecko": "cronos-zkevm-bridged-wbtc-cronos-zkevm",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 388,
+		"address": "0x96e03FA6c5aB3a7F2e7098Dd07c8935493294E26",
+		"symbol": "Fortune Token",
+		"name": "Fortune Token",
+		"coingecko": "ebisusbay-fortune",
 		"sources": [
 			"coingecko"
 		]
@@ -31,10 +41,10 @@
 	},
 	{
 		"chain": 388,
-		"address": "0x271602A97027ee1dd03b1E6e5dB153eB659A80b1",
-		"symbol": "Veno ETH",
-		"name": "Veno ETH",
-		"coingecko": "veno-eth",
+		"address": "0xb1Ece5b548766215272BAFCfa36396B06Cd9e4C9",
+		"symbol": "Veno Yield Bearing USD",
+		"name": "Veno Yield Bearing USD",
+		"coingecko": "veno-bridged-ybusd",
 		"sources": [
 			"coingecko"
 		]
@@ -61,40 +71,20 @@
 	},
 	{
 		"chain": 388,
-		"address": "0x18d40Bd95e34d1a4fcaf9027Db11F6988e5B860A",
-		"symbol": "AgentFun.AI",
-		"name": "AgentFun.AI",
-		"coingecko": "agentfun-ai",
+		"address": "0xC1bF55EE54E16229d9b369a5502Bfe5fC9F20b6d",
+		"symbol": "Wrapped zkCRO",
+		"name": "Wrapped zkCRO",
+		"coingecko": "wrapped-zkcro",
 		"sources": [
 			"coingecko"
 		]
 	},
 	{
 		"chain": 388,
-		"address": "0x447A1296AB0b8470d90a74bb90d36Aff9B3a2EbA",
-		"symbol": "zk Crolon Mars",
-		"name": "zk Crolon Mars",
-		"coingecko": "crolon-mars",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 388,
-		"address": "0x96e03FA6c5aB3a7F2e7098Dd07c8935493294E26",
-		"symbol": "Fortune Token",
-		"name": "Fortune Token",
-		"coingecko": "ebisusbay-fortune",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 388,
-		"address": "0xb1Ece5b548766215272BAFCfa36396B06Cd9e4C9",
-		"symbol": "Veno Yield Bearing USD",
-		"name": "Veno Yield Bearing USD",
-		"coingecko": "veno-bridged-ybusd",
+		"address": "0x66b1E42B2D5bce3D701Efa3c86Cc334d80cEEfaB",
+		"symbol": "AMPLY",
+		"name": "AMPLY",
+		"coingecko": "amply",
 		"sources": [
 			"coingecko"
 		]
@@ -105,6 +95,16 @@
 		"symbol": "Cronos zkEVM Bridged CRO (Cronos zkEVM)",
 		"name": "Cronos zkEVM Bridged CRO (Cronos zkEVM)",
 		"coingecko": "cronos-zkevm-bridged-cro-cronos-zkevm",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 388,
+		"address": "0x18d40Bd95e34d1a4fcaf9027Db11F6988e5B860A",
+		"symbol": "AgentFun.AI",
+		"name": "AgentFun.AI",
+		"coingecko": "agentfun-ai",
 		"sources": [
 			"coingecko"
 		]
@@ -131,10 +131,10 @@
 	},
 	{
 		"chain": 388,
-		"address": "0xD65E5DbA71231D35A5802bA83dC6cB6746c9758d",
-		"symbol": "Cronos zkEVM Bridged WBTC (Cronos zkEVM)",
-		"name": "Cronos zkEVM Bridged WBTC (Cronos zkEVM)",
-		"coingecko": "cronos-zkevm-bridged-wbtc-cronos-zkevm",
+		"address": "0x271602A97027ee1dd03b1E6e5dB153eB659A80b1",
+		"symbol": "Veno ETH",
+		"name": "Veno ETH",
+		"coingecko": "veno-eth",
 		"sources": [
 			"coingecko"
 		]
@@ -145,16 +145,6 @@
 		"symbol": "Veno USD",
 		"name": "Veno USD",
 		"coingecko": "veno-usd",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 388,
-		"address": "0xC1bF55EE54E16229d9b369a5502Bfe5fC9F20b6d",
-		"symbol": "Wrapped zkCRO",
-		"name": "Wrapped zkCRO",
-		"coingecko": "wrapped-zkcro",
 		"sources": [
 			"coingecko"
 		]

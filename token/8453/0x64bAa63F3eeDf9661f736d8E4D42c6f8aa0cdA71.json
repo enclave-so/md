@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x64bAa63F3eeDf9661f736d8E4D42c6f8aa0cdA71",
+	"symbol": "Geko Base",
+	"name": "Geko Base",
+	"coingecko": "geko-base",
+	"sources": [
+		"coingecko"
+	]
+}

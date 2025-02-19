@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x67637766495858fd3C0a0e65A1FEB91F78479753",
+	"symbol": "BAD",
+	"name": "Dinari BA",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/54038/thumb/d-token-200.png?1738075918",
+	"coingecko": "dinari-ba",
+	"sources": [
+		"coingecko"
+	]
+}

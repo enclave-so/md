@@ -2,10 +2,12 @@
 	"chain": 1,
 	"address": "0xc56c2b7e71B54d38Aab6d52E94a04Cbfa8F604fA",
 	"symbol": "ZUSD",
-	"name": "Z.com USD",
+	"name": "ZUSD",
 	"decimals": 6,
-	"logo": "https://ethereum-optimism.github.io/data/ZUSD/logo.svg",
+	"logo": "https://assets.coingecko.com/coins/images/14192/thumb/icon_zusd_200_200.png?1696513910",
+	"coingecko": "zusd",
 	"sources": [
+		"coingecko",
 		"optimism"
 	]
 }

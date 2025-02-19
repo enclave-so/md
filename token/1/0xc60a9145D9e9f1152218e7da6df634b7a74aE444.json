@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0xc60a9145D9e9f1152218e7da6df634b7a74aE444",
+	"symbol": "CGETHHASHKEY",
+	"name": "cgETH Hashkey Cloud",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/54162/thumb/Cgeth_Hashkey.png?1738482570",
+	"coingecko": "cgeth-hashkey-cloud",
+	"sources": [
+		"coingecko"
+	]
+}

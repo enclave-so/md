@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0xA608512BBC9934E4b1DDeCF0F5Fb38b6Ad93308D",
+	"symbol": "GUD",
+	"name": "Gud Tech",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/53326/thumb/Logo.png?1736127749",
+	"coingecko": "gud-tech",
+	"sources": [
+		"coingecko"
+	]
+}

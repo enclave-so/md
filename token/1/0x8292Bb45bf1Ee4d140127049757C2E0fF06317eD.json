@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x8292Bb45bf1Ee4d140127049757C2E0fF06317eD",
+	"symbol": "RLUSD",
+	"name": "Ripple USD",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/39651/thumb/RLUSD_200x200_%281%29.png?1727376633",
+	"coingecko": "ripple-usd",
+	"sources": [
+		"coingecko"
+	]
+}

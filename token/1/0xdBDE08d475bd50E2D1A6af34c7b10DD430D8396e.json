@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0xdBDE08d475bd50E2D1A6af34c7b10DD430D8396e",
+	"symbol": "CGX",
+	"name": "Forkast",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/53714/thumb/cgx.png?1737548747",
+	"coingecko": "forkast",
+	"sources": [
+		"coingecko"
+	]
+}

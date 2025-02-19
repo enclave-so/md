@@ -1,0 +1,10 @@
+{
+	"chain": 2020,
+	"address": "0xf299c912186195D02111d22C3ab863650256e05F",
+	"symbol": "Jaihoz by Virtuals",
+	"name": "Jaihoz by Virtuals",
+	"coingecko": "jaihoz",
+	"sources": [
+		"coingecko"
+	]
+}

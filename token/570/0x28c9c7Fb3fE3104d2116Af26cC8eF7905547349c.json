@@ -1,0 +1,10 @@
+{
+	"chain": 570,
+	"address": "0x28c9c7Fb3fE3104d2116Af26cC8eF7905547349c",
+	"symbol": "Bridged USDT",
+	"name": "Bridged USDT",
+	"coingecko": "bridged-usdt",
+	"sources": [
+		"coingecko"
+	]
+}

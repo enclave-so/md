@@ -1,0 +1,10 @@
+{
+	"chain": 295,
+	"address": "0x00000000000000000000000000000000007bACF4",
+	"symbol": "IVY",
+	"name": "IVY",
+	"coingecko": "ivy-2",
+	"sources": [
+		"coingecko"
+	]
+}

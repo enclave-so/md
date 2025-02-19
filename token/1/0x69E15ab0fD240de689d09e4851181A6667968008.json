@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x69E15ab0fD240de689d09e4851181A6667968008",
+	"symbol": "PEPE",
+	"name": "El Sapo Pepe",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/52841/thumb/El_Sapo_Pepe.jpg?1734469615",
+	"coingecko": "el-sapo-pepe",
+	"sources": [
+		"coingecko"
+	]
+}

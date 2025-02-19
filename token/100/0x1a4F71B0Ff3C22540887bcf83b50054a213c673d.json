@@ -1,0 +1,10 @@
+{
+	"chain": 100,
+	"address": "0x1a4F71B0Ff3C22540887bcf83b50054a213c673d",
+	"symbol": "Wrapped bMSTR",
+	"name": "Wrapped bMSTR",
+	"coingecko": "wrapped-bmstr",
+	"sources": [
+		"coingecko"
+	]
+}

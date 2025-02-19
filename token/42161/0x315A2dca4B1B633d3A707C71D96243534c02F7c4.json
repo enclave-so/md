@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x315A2dca4B1B633d3A707C71D96243534c02F7c4",
+	"symbol": "Dinari XOM",
+	"name": "Dinari XOM",
+	"coingecko": "dinari-xom",
+	"sources": [
+		"coingecko"
+	]
+}

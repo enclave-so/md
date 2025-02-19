@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xc3D64eE7056CFd33c8382679773F8d6277E5C2c9",
+	"symbol": "IAMAI",
+	"name": "IAMAI",
+	"coingecko": "iamai",
+	"sources": [
+		"coingecko"
+	]
+}

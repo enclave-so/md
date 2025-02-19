@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x49f1D4dB3ea1a64390E990C6deBEaC88EAC007Ca",
+	"symbol": "Ithaca Protocol",
+	"name": "Ithaca Protocol",
+	"coingecko": "ithaca-protocol",
+	"sources": [
+		"coingecko"
+	]
+}

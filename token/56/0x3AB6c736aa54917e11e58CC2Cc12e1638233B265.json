@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x3AB6c736aa54917e11e58CC2Cc12e1638233B265",
+	"symbol": "USD DWIN",
+	"name": "USD DWIN",
+	"coingecko": "usd-dwin",
+	"sources": [
+		"coingecko"
+	]
+}

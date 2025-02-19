@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xDFa7e9C060dc5292c881Eb48cfe26b27aeF5f0D9",
+	"symbol": "BNBGPT",
+	"name": "BNBGPT",
+	"coingecko": "bnbgpt",
+	"sources": [
+		"coingecko"
+	]
+}

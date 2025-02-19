@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x1BED98B79F8A5E32031b0d735022Fc006DB47D37",
+	"symbol": "Dinari VWO",
+	"name": "Dinari VWO",
+	"coingecko": "dinari-vwo",
+	"sources": [
+		"coingecko"
+	]
+}

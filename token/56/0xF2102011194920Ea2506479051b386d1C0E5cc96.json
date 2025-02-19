@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xF2102011194920Ea2506479051b386d1C0E5cc96",
+	"symbol": "Diamond castle",
+	"name": "Diamond castle",
+	"coingecko": "diamond-castle",
+	"sources": [
+		"coingecko"
+	]
+}

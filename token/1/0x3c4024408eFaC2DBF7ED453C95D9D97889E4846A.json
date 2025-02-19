@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x3c4024408eFaC2DBF7ED453C95D9D97889E4846A",
+	"symbol": "IBITD",
+	"name": "Dinari IBIT",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/53950/thumb/d-token-200.png?1737788536",
+	"coingecko": "dinari-ibit",
+	"sources": [
+		"coingecko"
+	]
+}

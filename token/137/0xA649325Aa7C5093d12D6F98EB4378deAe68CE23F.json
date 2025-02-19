@@ -1,9 +1,9 @@
 {
 	"chain": 137,
 	"address": "0xA649325Aa7C5093d12D6F98EB4378deAe68CE23F",
-	"symbol": "Wrapped BNB",
-	"name": "Wrapped BNB",
-	"coingecko": "wbnb",
+	"symbol": "Multichain Bridged WBNB (Polygon POS)",
+	"name": "Multichain Bridged WBNB (Polygon POS)",
+	"coingecko": "multichain-bridged-wbnb-polygon-pos",
 	"sources": [
 		"coingecko"
 	]

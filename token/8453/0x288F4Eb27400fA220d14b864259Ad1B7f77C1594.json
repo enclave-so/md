@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x288F4Eb27400fA220d14b864259Ad1B7f77C1594",
+	"symbol": "Kudai",
+	"name": "Kudai",
+	"coingecko": "kudai",
+	"sources": [
+		"coingecko"
+	]
+}

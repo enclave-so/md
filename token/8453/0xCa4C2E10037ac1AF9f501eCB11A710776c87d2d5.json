@@ -1,0 +1,13 @@
+{
+	"chain": 8453,
+	"address": "0xCa4C2E10037ac1AF9f501eCB11A710776c87d2d5",
+	"symbol": "SOVRN",
+	"name": "SOVRUN",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/SOVRN/logo.svg",
+	"coingecko": "sovrun",
+	"sources": [
+		"coingecko",
+		"optimism"
+	]
+}

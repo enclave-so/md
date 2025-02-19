@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xB757977bc882A14db86b048f2abb2F2a14D33184",
+	"symbol": "DogLibre",
+	"name": "DogLibre",
+	"coingecko": "doglibre",
+	"sources": [
+		"coingecko"
+	]
+}

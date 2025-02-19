@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x3cC96F3cB4f45b5b5CdbCE61fAEE8ae80D805C65",
+	"symbol": "AvaxMinerAI",
+	"name": "AvaxMinerAI",
+	"coingecko": "avaxminerai",
+	"sources": [
+		"coingecko"
+	]
+}

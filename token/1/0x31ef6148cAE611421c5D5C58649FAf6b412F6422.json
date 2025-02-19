@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x31ef6148cAE611421c5D5C58649FAf6b412F6422",
+	"symbol": "AGV",
+	"name": "AgentVerse",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/53344/thumb/IMG_20250104_221111_827.jpg?1736156051",
+	"coingecko": "agentverse",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x7A5f5CcD46EBd7aC30615836D988ca3BD57412b3",
+	"symbol": "TAOCat by Virtuals",
+	"name": "TAOCat by Virtuals",
+	"coingecko": "taocat-by-virtuals",
+	"sources": [
+		"coingecko"
+	]
+}

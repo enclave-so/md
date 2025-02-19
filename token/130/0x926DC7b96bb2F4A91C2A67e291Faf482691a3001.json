@@ -1,0 +1,10 @@
+{
+	"chain": 130,
+	"address": "0x926DC7b96bb2F4A91C2A67e291Faf482691a3001",
+	"symbol": "Unicorn",
+	"name": "Unicorn",
+	"coingecko": "unicorn-4",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x2f299Be3B081E8cD47Dc56c1932fCAe7a91B5dcD",
+	"symbol": "XTTA",
+	"name": "XTTA",
+	"coingecko": "xtta",
+	"sources": [
+		"coingecko"
+	]
+}

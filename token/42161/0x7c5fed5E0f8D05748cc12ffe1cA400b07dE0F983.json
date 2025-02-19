@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x7c5fed5E0f8D05748cc12ffe1cA400b07dE0F983",
+	"symbol": "Dinari AVGO",
+	"name": "Dinari AVGO",
+	"coingecko": "dinari-avgo",
+	"sources": [
+		"coingecko"
+	]
+}

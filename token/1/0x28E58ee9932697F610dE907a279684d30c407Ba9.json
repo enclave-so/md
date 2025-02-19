@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x28E58ee9932697F610dE907a279684d30c407Ba9",
+	"symbol": "DEPIN",
+	"name": "Depinet",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/52799/thumb/rvsVY54s_400x400.jpg?1734334866",
+	"coingecko": "depinet",
+	"sources": [
+		"coingecko"
+	]
+}

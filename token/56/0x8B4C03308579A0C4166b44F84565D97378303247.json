@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x8B4C03308579A0C4166b44F84565D97378303247",
+	"symbol": "Madonna del gatto",
+	"name": "Madonna del gatto",
+	"coingecko": "madonna-del-gatto",
+	"sources": [
+		"coingecko"
+	]
+}

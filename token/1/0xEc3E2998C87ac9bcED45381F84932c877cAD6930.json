@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0xEc3E2998C87ac9bcED45381F84932c877cAD6930",
+	"symbol": "MCDD",
+	"name": "Dinari MCD",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/53954/thumb/d-token-200.png?1737789312",
+	"coingecko": "dinari-mcd",
+	"sources": [
+		"coingecko"
+	]
+}

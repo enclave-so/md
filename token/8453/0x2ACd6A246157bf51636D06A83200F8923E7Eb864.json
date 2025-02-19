@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x2ACd6A246157bf51636D06A83200F8923E7Eb864",
+	"symbol": "noderzz by Virtuals",
+	"name": "noderzz by Virtuals",
+	"coingecko": "noderzz-by-virtuals",
+	"sources": [
+		"coingecko"
+	]
+}

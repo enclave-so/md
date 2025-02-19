@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x1f82284C1658Ad71C576f7230E6C2DEE7901c1FA",
+	"symbol": "Wrapped bTSLA",
+	"name": "Wrapped bTSLA",
+	"coingecko": "wrapped-btsla",
+	"sources": [
+		"coingecko"
+	]
+}

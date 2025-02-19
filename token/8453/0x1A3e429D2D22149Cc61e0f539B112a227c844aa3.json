@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x1A3e429D2D22149Cc61e0f539B112a227c844aa3",
+	"symbol": "Loky by Virtuals",
+	"name": "Loky by Virtuals",
+	"coingecko": "loky-by-virtuals",
+	"sources": [
+		"coingecko"
+	]
+}

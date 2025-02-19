@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xf09930625447d6a5f8e1217EDb5649C7314E4e96",
+	"symbol": "Skibidi Dop Dop",
+	"name": "Skibidi Dop Dop",
+	"coingecko": "skibidi-dop-dop",
+	"sources": [
+		"coingecko"
+	]
+}

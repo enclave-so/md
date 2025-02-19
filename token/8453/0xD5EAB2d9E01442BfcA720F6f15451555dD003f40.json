@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xD5EAB2d9E01442BfcA720F6f15451555dD003f40",
+	"symbol": "Dinari SQ",
+	"name": "Dinari SQ",
+	"coingecko": "dinari-sq",
+	"sources": [
+		"coingecko"
+	]
+}

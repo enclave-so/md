@@ -1,0 +1,10 @@
+{
+	"chain": 416,
+	"address": "0xaa99bE3356a11eE92c3f099BD7a038399633566f",
+	"symbol": "Wrapped SX",
+	"name": "Wrapped SX",
+	"coingecko": "wrapped-sx",
+	"sources": [
+		"coingecko"
+	]
+}

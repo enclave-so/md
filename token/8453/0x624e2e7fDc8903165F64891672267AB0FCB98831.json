@@ -1,0 +1,11 @@
+{
+	"chain": 8453,
+	"address": "0x624e2e7fDc8903165F64891672267AB0FCB98831",
+	"symbol": "SOSO",
+	"name": "SoSoValue",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/SOSO/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

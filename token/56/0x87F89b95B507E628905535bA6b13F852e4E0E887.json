@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x87F89b95B507E628905535bA6b13F852e4E0E887",
+	"symbol": "Binance Printer",
+	"name": "Binance Printer",
+	"coingecko": "binance-printer",
+	"sources": [
+		"coingecko"
+	]
+}

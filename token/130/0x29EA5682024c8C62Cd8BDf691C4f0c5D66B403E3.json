@@ -1,0 +1,11 @@
+{
+	"chain": 130,
+	"address": "0x29EA5682024c8C62Cd8BDf691C4f0c5D66B403E3",
+	"symbol": "RBC",
+	"name": "Rubic",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/12629/thumb/200x200.png?1607952509",
+	"sources": [
+		"uniswap"
+	]
+}

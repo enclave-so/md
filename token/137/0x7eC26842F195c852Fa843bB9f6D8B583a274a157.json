@@ -1,0 +1,11 @@
+{
+	"chain": 137,
+	"address": "0x7eC26842F195c852Fa843bB9f6D8B583a274a157",
+	"symbol": "ENJ",
+	"name": "Enjin Coin",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/1102/thumb/enjin-coin-logo.png?1547035078",
+	"sources": [
+		"uniswap"
+	]
+}

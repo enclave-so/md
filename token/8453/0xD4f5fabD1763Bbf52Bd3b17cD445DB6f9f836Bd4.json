@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xD4f5fabD1763Bbf52Bd3b17cD445DB6f9f836Bd4",
+	"symbol": "ISTARAI by Virtuals",
+	"name": "ISTARAI by Virtuals",
+	"coingecko": "istarai-by-virtuals",
+	"sources": [
+		"coingecko"
+	]
+}

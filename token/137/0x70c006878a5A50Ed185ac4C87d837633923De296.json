@@ -3,8 +3,11 @@
 	"address": "0x70c006878a5A50Ed185ac4C87d837633923De296",
 	"symbol": "REVV",
 	"name": "REVV",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/12373/thumb/REVV_TOKEN_Refined_2021_%281%29.png?1627652390",
 	"coingecko": "revv",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"uniswap"
 	]
 }

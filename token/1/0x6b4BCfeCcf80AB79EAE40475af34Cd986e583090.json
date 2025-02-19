@@ -1,0 +1,11 @@
+{
+	"chain": 1,
+	"address": "0x6b4BCfeCcf80AB79EAE40475af34Cd986e583090",
+	"symbol": "UOMI",
+	"name": "UOMI",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/UOMI/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

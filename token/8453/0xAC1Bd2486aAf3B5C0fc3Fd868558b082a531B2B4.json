@@ -1,10 +1,13 @@
 {
 	"chain": 8453,
 	"address": "0xAC1Bd2486aAf3B5C0fc3Fd868558b082a531B2B4",
-	"symbol": "Toshi",
+	"symbol": "TOSHI",
 	"name": "Toshi",
+	"decimals": 18,
+	"logo": "https://coin-images.coingecko.com/coins/images/31126/large/Toshi_Logo_-_Circular.png?1721677476",
 	"coingecko": "toshi",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"uniswap"
 	]
 }

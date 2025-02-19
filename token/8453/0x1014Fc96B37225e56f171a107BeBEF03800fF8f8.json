@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x1014Fc96B37225e56f171a107BeBEF03800fF8f8",
+	"symbol": "degenOS",
+	"name": "degenOS",
+	"coingecko": "degenos",
+	"sources": [
+		"coingecko"
+	]
+}

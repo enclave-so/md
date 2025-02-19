@@ -5,9 +5,7 @@
 	"name": "Wrapped Bitcoin",
 	"decimals": 8,
 	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/btc.jpg",
-	"coingecko": "multichain-bridged-wbtc-kava",
 	"sources": [
-		"coingecko",
 		"sushiswap"
 	]
 }

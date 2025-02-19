@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x0AA1e96D2a46Ec6beB2923dE1E61Addf5F5f1dce",
+	"symbol": "REG",
+	"name": "RealToken Ecosystem Governance",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/37785/thumb/REG_Logo_200x200.png?1737625372",
+	"coingecko": "realtoken-ecosystem-governance",
+	"sources": [
+		"coingecko"
+	]
+}

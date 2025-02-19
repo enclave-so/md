@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x0721b3C9f19cfeF1d622C918DcD431960f35E060",
+	"symbol": "SYNTHR",
+	"name": "SYNTHR",
+	"coingecko": "synthr",
+	"sources": [
+		"coingecko"
+	]
+}

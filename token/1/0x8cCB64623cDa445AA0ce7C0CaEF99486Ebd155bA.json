@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x8cCB64623cDa445AA0ce7C0CaEF99486Ebd155bA",
+	"symbol": "SHEZETH",
+	"name": "ShezmuETH",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/39540/thumb/shezETH.png?1722841948",
+	"coingecko": "shezmueth",
+	"sources": [
+		"coingecko"
+	]
+}

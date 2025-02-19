@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x44E1c6bc3A4d2058Ee3f290Bcb27C4dA8c5B2E3E",
+	"symbol": "The Pea Guy by Virtuals",
+	"name": "The Pea Guy by Virtuals",
+	"coingecko": "the-pea-guy-by-virtuals",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0xd8dD38cA016F3E0b3Bc545d33CcE72AF274Ce075",
+	"symbol": "SWING",
+	"name": "Swing xyz",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/28576/thumb/swing.png?1696527564",
+	"coingecko": "swing-xyz",
+	"sources": [
+		"coingecko"
+	]
+}

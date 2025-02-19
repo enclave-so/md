@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xDDf7d080C82b8048BAAe54e376a3406572429b4e",
+	"symbol": "GODDOG",
+	"name": "GODDOG",
+	"coingecko": "goddog",
+	"sources": [
+		"coingecko"
+	]
+}

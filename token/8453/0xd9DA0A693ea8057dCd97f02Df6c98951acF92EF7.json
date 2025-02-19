@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xd9DA0A693ea8057dCd97f02Df6c98951acF92EF7",
+	"symbol": "CPA by Virtuals",
+	"name": "CPA by Virtuals",
+	"coingecko": "cpa-by-virtuals",
+	"sources": [
+		"coingecko"
+	]
+}

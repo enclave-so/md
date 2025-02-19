@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x8074836637eB9cC73a01a65D5700907Fc639c4E9",
+	"symbol": "DNOW",
+	"name": "DuelNow",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/54289/thumb/token-logo-square-200.png?1739008717",
+	"coingecko": "duelnow",
+	"sources": [
+		"coingecko"
+	]
+}

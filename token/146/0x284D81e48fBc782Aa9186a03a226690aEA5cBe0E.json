@@ -1,0 +1,10 @@
+{
+	"chain": 146,
+	"address": "0x284D81e48fBc782Aa9186a03a226690aEA5cBe0E",
+	"symbol": "Atoll ETH (Sonic)",
+	"name": "Atoll ETH (Sonic)",
+	"coingecko": "atoll-eth",
+	"sources": [
+		"coingecko"
+	]
+}

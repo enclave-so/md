@@ -1,0 +1,10 @@
+{
+	"chain": 1868,
+	"address": "0xf24e57b1cb00d98C31F04f86328e22E8fcA457fb",
+	"symbol": "SONE",
+	"name": "SONE",
+	"coingecko": "sone",
+	"sources": [
+		"coingecko"
+	]
+}

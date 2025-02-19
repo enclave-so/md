@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x4737D9b4592B40d51e110b94c9C043c6654067Ae",
+	"symbol": "SLVLUSD",
+	"name": "Staked Level USD",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/54094/thumb/slvlusd.png?1738222536",
+	"coingecko": "level-staked-usd",
+	"sources": [
+		"coingecko"
+	]
+}

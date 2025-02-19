@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x104E363Ac6521E55a24AE724855362acEC3fEBe6",
+	"symbol": "ACP",
+	"name": "Arena Of Faith",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/53822/thumb/D4ixzPry_400x400.jpg?1737490883",
+	"coingecko": "arena-of-faith",
+	"sources": [
+		"coingecko"
+	]
+}

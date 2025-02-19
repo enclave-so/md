@@ -1,0 +1,11 @@
+{
+	"chain": 130,
+	"address": "0xEc42461D9BbDF4eFB6481099253bBB7324D7d72d",
+	"symbol": "EURQ",
+	"name": "Quantoz EURQ",
+	"decimals": 6,
+	"logo": "https://coin-images.coingecko.com/coins/images/51853/large/EURQ_1000px_Color.png?1732071269",
+	"sources": [
+		"uniswap"
+	]
+}

@@ -1,8 +1,8 @@
 {
 	"chain": 56,
 	"address": "0xb81408a1cC2f4be70a6a3178D351ca95A77C5A06",
-	"symbol": "Xodex",
-	"name": "Xodex",
+	"symbol": "XODEX",
+	"name": "XODEX",
 	"coingecko": "xodex",
 	"sources": [
 		"coingecko"

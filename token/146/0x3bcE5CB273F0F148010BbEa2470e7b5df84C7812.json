@@ -1,0 +1,10 @@
+{
+	"chain": 146,
+	"address": "0x3bcE5CB273F0F148010BbEa2470e7b5df84C7812",
+	"symbol": "Rings scETH",
+	"name": "Rings scETH",
+	"coingecko": "rings-sc-eth",
+	"sources": [
+		"coingecko"
+	]
+}

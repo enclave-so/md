@@ -1,0 +1,11 @@
+{
+	"chain": 130,
+	"address": "0x6319F47719b6713b1624C1b3A8e2DBf15b5D03FE",
+	"symbol": "EUL",
+	"name": "Euler",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/26149/thumb/YCvKDfl8_400x400.jpeg?1656041509",
+	"sources": [
+		"uniswap"
+	]
+}

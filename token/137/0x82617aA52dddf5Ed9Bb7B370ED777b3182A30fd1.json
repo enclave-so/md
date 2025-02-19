@@ -1,10 +1,13 @@
 {
 	"chain": 137,
 	"address": "0x82617aA52dddf5Ed9Bb7B370ED777b3182A30fd1",
-	"symbol": "Yield Guild Games",
+	"symbol": "YGG",
 	"name": "Yield Guild Games",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/17358/thumb/le1nzlO6_400x400.jpg?1632465691",
 	"coingecko": "yield-guild-games",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"uniswap"
 	]
 }

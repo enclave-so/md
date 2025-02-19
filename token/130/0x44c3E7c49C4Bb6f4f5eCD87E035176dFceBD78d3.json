@@ -1,0 +1,11 @@
+{
+	"chain": 130,
+	"address": "0x44c3E7c49C4Bb6f4f5eCD87E035176dFceBD78d3",
+	"symbol": "ALPHA",
+	"name": "Alpha Venture DAO",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/12738/thumb/AlphaToken_256x256.png?1617160876",
+	"sources": [
+		"uniswap"
+	]
+}

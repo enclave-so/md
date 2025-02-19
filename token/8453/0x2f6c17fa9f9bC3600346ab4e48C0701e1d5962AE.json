@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x2f6c17fa9f9bC3600346ab4e48C0701e1d5962AE",
+	"symbol": "Based Fartcoin",
+	"name": "Based Fartcoin",
+	"coingecko": "based-fartcoin",
+	"sources": [
+		"coingecko"
+	]
+}

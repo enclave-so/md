@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x4225658360C731a2b4c34555E45fea3b4b0181D5",
+	"symbol": "DataPort Navigator by Virtuals",
+	"name": "DataPort Navigator by Virtuals",
+	"coingecko": "dataport-navigator-by-virtuals",
+	"sources": [
+		"coingecko"
+	]
+}

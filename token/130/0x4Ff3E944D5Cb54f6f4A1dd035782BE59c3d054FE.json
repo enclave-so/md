@@ -1,0 +1,12 @@
+{
+	"chain": 130,
+	"address": "0x4Ff3E944D5Cb54f6f4A1dd035782BE59c3d054FE",
+	"symbol": "SOL",
+	"name": "SOL Wormhole ",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/22876/thumb/SOL_wh_small.png?1644224316",
+	"sources": [
+		"optimism",
+		"uniswap"
+	]
+}

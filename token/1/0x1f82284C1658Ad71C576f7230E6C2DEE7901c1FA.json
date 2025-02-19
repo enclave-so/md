@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x1f82284C1658Ad71C576f7230E6C2DEE7901c1FA",
+	"symbol": "WBTSLA",
+	"name": "Wrapped bTSLA",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/54428/thumb/bTSLA_200x200.png?1739605965",
+	"coingecko": "wrapped-btsla",
+	"sources": [
+		"coingecko"
+	]
+}

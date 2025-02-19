@@ -1,0 +1,10 @@
+{
+	"chain": 146,
+	"address": "0x7AD5935EA295c4E743e4f2f5B4CDA951f41223c2",
+	"symbol": "SACRA",
+	"name": "SACRA",
+	"coingecko": "sacra",
+	"sources": [
+		"coingecko"
+	]
+}

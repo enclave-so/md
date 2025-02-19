@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0xa6F344aBc6e2501b2B303fCbbA99CD89F136b5FB",
+	"symbol": "Dinari EZBC",
+	"name": "Dinari EZBC",
+	"coingecko": "dinari-ezbc",
+	"sources": [
+		"coingecko"
+	]
+}

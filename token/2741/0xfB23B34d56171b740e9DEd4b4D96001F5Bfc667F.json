@@ -1,0 +1,10 @@
+{
+	"chain": 2741,
+	"address": "0xfB23B34d56171b740e9DEd4b4D96001F5Bfc667F",
+	"symbol": "BWOB",
+	"name": "BWOB",
+	"coingecko": "bwob",
+	"sources": [
+		"coingecko"
+	]
+}

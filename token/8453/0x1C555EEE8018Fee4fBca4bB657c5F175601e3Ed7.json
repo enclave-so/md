@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x1C555EEE8018Fee4fBca4bB657c5F175601e3Ed7",
+	"symbol": "HUMO",
+	"name": "HUMO",
+	"coingecko": "humo",
+	"sources": [
+		"coingecko"
+	]
+}

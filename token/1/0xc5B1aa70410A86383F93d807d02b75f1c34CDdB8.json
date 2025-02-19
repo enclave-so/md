@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0xc5B1aa70410A86383F93d807d02b75f1c34CDdB8",
+	"symbol": "PULSE",
+	"name": "Pulse3D",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/53212/thumb/coinpulse200.png?1735672168",
+	"coingecko": "pulse3d",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,8 +1,8 @@
 {
 	"chain": 42161,
 	"address": "0xB59c8912c83157a955f9D715E556257F432C35D7",
-	"symbol": "Truflation",
-	"name": "Truflation",
+	"symbol": "TRUF.Network",
+	"name": "TRUF.Network",
 	"coingecko": "truflation",
 	"sources": [
 		"coingecko"

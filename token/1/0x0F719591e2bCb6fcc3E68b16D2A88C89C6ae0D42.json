@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x0F719591e2bCb6fcc3E68b16D2A88C89C6ae0D42",
+	"symbol": "EVOLVE",
+	"name": "Evolve Network",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/54171/thumb/IMG_8515.jpeg?1738560325",
+	"coingecko": "evolve-network",
+	"sources": [
+		"coingecko"
+	]
+}

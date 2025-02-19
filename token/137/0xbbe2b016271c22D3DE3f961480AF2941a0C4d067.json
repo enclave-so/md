@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xbbe2b016271c22D3DE3f961480AF2941a0C4d067",
+	"symbol": "SHUFFLE",
+	"name": "SHUFFLE",
+	"coingecko": "shuffle-by-hupayx",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0xD0623da373F754C4B6762209EA77De59B21DD667",
+	"symbol": "OXYZ",
+	"name": "Oxya Origin",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/52862/thumb/Logo_black_500x500_%281%29.png?1734677970",
+	"coingecko": "oxya-origin",
+	"sources": [
+		"coingecko"
+	]
+}

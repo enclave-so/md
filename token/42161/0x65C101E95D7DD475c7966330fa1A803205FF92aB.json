@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x65C101E95D7DD475c7966330fa1A803205FF92aB",
+	"symbol": "Hall of Legends",
+	"name": "Hall of Legends",
+	"coingecko": "hall-of-legends",
+	"sources": [
+		"coingecko"
+	]
+}

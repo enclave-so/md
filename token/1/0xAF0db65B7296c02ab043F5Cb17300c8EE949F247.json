@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0xAF0db65B7296c02ab043F5Cb17300c8EE949F247",
+	"symbol": "SHAO",
+	"name": "SHAO",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/54149/thumb/Shaolin-blackring200x200.png?1738475507",
+	"coingecko": "shao",
+	"sources": [
+		"coingecko"
+	]
+}

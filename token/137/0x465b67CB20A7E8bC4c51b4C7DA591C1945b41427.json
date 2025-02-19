@@ -1,0 +1,11 @@
+{
+	"chain": 137,
+	"address": "0x465b67CB20A7E8bC4c51b4C7DA591C1945b41427",
+	"symbol": "LOKA",
+	"name": "League of Kingdoms",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/22572/thumb/loka_64pix.png?1642643271",
+	"sources": [
+		"uniswap"
+	]
+}

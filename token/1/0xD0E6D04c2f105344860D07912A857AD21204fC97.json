@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0xD0E6D04c2f105344860D07912A857AD21204fC97",
+	"symbol": "NEOT",
+	"name": "NeoTech",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/52942/thumb/nQ79uJYv_400x400.jpg?1734722451",
+	"coingecko": "neotech",
+	"sources": [
+		"coingecko"
+	]
+}

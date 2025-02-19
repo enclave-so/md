@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0xDee6cDd28Da9f51e3A8421395973894a884F3B2D",
+	"symbol": "HOODRAT",
+	"name": "Hoodrat",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/53059/thumb/Hoodrat_CTO.png?1735159169",
+	"coingecko": "hoodrat",
+	"sources": [
+		"coingecko"
+	]
+}

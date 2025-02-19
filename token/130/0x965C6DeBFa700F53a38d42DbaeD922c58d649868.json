@@ -1,0 +1,11 @@
+{
+	"chain": 130,
+	"address": "0x965C6DeBFa700F53a38d42DbaeD922c58d649868",
+	"symbol": "RNDR",
+	"name": "Render Token",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/11636/thumb/rndr.png?1638840934",
+	"sources": [
+		"uniswap"
+	]
+}

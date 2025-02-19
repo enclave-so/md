@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x4aF1Bc87e43dDb22188bb3791ae00341586fE8fc",
+	"symbol": "CHAMP",
+	"name": "Super Champs",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/51900/thumb/CHAMP_Token_256x256.png?1732131989",
+	"coingecko": "super-champs",
+	"sources": [
+		"coingecko"
+	]
+}

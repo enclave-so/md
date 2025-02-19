@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x8C23e759cA0822BeEfF603BaCACeB16D84e9A1cF",
+	"symbol": "AAAI_agent by Virtuals",
+	"name": "AAAI_agent by Virtuals",
+	"coingecko": "aaai_agent-by-virtuals",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xbC1852F8940991d91BD2b09A5aBb5E7B8092a16C",
+	"symbol": "BasePrinter",
+	"name": "BasePrinter",
+	"coingecko": "baseprinter",
+	"sources": [
+		"coingecko"
+	]
+}

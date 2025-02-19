@@ -1,8 +1,8 @@
 {
 	"chain": 56,
 	"address": "0xde3dbBE30cfa9F437b293294d1fD64B26045C71A",
-	"symbol": "NFTb",
-	"name": "NFTb",
+	"symbol": "PixelRealm",
+	"name": "PixelRealm",
 	"coingecko": "nftb",
 	"sources": [
 		"coingecko"

@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x2893Ef551B6dD69F661Ac00F11D93E5Dc5Dc0e99",
+	"symbol": "BlackRock USD Institutional Digital Liquidity Fund",
+	"name": "BlackRock USD Institutional Digital Liquidity Fund",
+	"coingecko": "blackrock-usd-institutional-digital-liquidity-fund",
+	"sources": [
+		"coingecko"
+	]
+}

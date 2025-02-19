@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x7E8101A1C322D394b3961498c7D40d2DFA94C392",
+	"symbol": "Wrapped bNVDA",
+	"name": "Wrapped bNVDA",
+	"coingecko": "wrapped-bnvda",
+	"sources": [
+		"coingecko"
+	]
+}

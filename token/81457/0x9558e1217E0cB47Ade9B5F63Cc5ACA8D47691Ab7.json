@@ -1,0 +1,10 @@
+{
+	"chain": 81457,
+	"address": "0x9558e1217E0cB47Ade9B5F63Cc5ACA8D47691Ab7",
+	"symbol": "Dinari GBTC",
+	"name": "Dinari GBTC",
+	"coingecko": "dinari-gbtc",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -8,6 +8,7 @@
 	"coingecko": "wrapped-fantom",
 	"sources": [
 		"coingecko",
+		"pancakeswap",
 		"uniswap"
 	]
 }

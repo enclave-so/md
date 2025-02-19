@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xB22a793a81ff5b6Ad37F40d5FE1E0AC4184d52F3",
+	"symbol": "Big Tony",
+	"name": "Big Tony",
+	"coingecko": "big-tony",
+	"sources": [
+		"coingecko"
+	]
+}

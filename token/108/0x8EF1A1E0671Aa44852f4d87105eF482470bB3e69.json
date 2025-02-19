@@ -1,9 +1,9 @@
 {
 	"chain": 108,
 	"address": "0x8EF1A1E0671Aa44852f4d87105eF482470bB3e69",
-	"symbol": "Wrapped BNB",
-	"name": "Wrapped BNB",
-	"coingecko": "wbnb",
+	"symbol": "ThunderCore Bridged TT-WBNB (ThunderCore)",
+	"name": "ThunderCore Bridged TT-WBNB (ThunderCore)",
+	"coingecko": "thundercore-bridged-tt-wbnb-thundercore",
 	"sources": [
 		"coingecko"
 	]

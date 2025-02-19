@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xfbecd19292b1eFfEAA7B2e61F5101DdB6744A1Fb",
+	"symbol": "aiPump",
+	"name": "aiPump",
+	"coingecko": "aipump",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 747,
+	"address": "0x2aaBea2058b5aC2D339b163C6Ab6f2b6d53aabED",
+	"symbol": "Flow Bridged PYUSD (Flow)",
+	"name": "Flow Bridged PYUSD (Flow)",
+	"coingecko": "flow-bridged-pyusd-flow",
+	"sources": [
+		"coingecko"
+	]
+}

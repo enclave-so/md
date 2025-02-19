@@ -2,11 +2,12 @@
 	"chain": 1,
 	"address": "0x8DE5B80a0C1B02Fe4976851D030B36122dbb8624",
 	"symbol": "VANRY",
-	"name": "Vanar Chain",
+	"name": "VANRY",
 	"decimals": 18,
-	"logo": "https://assets.coingecko.com/coins/images/33466/thumb/apple-touch-icon.png?1701942541",
+	"logo": "https://coin-images.coingecko.com/coins/images/33466/large/apple-touch-icon.png?1701942541",
 	"coingecko": "vanar-chain",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"uniswap"
 	]
 }

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x18EA4dF6a9CDE2472f2321a4Ec77da106498A66E",
+	"symbol": "Singularry",
+	"name": "Singularry",
+	"coingecko": "singularry",
+	"sources": [
+		"coingecko"
+	]
+}

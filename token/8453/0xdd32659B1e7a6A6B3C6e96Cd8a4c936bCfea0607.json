@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xdd32659B1e7a6A6B3C6e96Cd8a4c936bCfea0607",
+	"symbol": "Trackgood AI",
+	"name": "Trackgood AI",
+	"coingecko": "trackgood-ai",
+	"sources": [
+		"coingecko"
+	]
+}

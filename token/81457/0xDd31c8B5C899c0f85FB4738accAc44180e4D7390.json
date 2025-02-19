@@ -1,0 +1,10 @@
+{
+	"chain": 81457,
+	"address": "0xDd31c8B5C899c0f85FB4738accAc44180e4D7390",
+	"symbol": "Dinari SOXL",
+	"name": "Dinari SOXL",
+	"coingecko": "dinari-soxl",
+	"sources": [
+		"coingecko"
+	]
+}

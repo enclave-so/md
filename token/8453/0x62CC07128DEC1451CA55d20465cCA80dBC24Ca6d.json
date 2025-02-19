@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x62CC07128DEC1451CA55d20465cCA80dBC24Ca6d",
+	"symbol": "Dinari SONY",
+	"name": "Dinari SONY",
+	"coingecko": "dinari-sony",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x05feD61F7a3eCA96Dc7F9A41b38fa7C5f0e62158",
+	"symbol": "KOD",
+	"name": "Dinari KO",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/54185/thumb/d-token-200.png?1738682465",
+	"coingecko": "dinari-ko",
+	"sources": [
+		"coingecko"
+	]
+}

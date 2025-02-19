@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x25c31B1F93F846C7c8debfD05898F162740A4581",
+	"symbol": "WANDER",
+	"name": "WANDER",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/53471/thumb/WanderCoin_Logo_Svg_%281%29.png?1736475063",
+	"coingecko": "wander",
+	"sources": [
+		"coingecko"
+	]
+}

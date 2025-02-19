@@ -1,0 +1,11 @@
+{
+	"chain": 1135,
+	"address": "0x76D8de471F54aAA87784119c60Df1bbFc852C415",
+	"symbol": "wstETH",
+	"name": "Wrapped liquid staked Ether 2.0",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/wstETH/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

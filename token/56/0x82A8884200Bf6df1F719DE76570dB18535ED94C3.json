@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x82A8884200Bf6df1F719DE76570dB18535ED94C3",
+	"symbol": "Smart Layer Network",
+	"name": "Smart Layer Network",
+	"coingecko": "smart-layer-network",
+	"sources": [
+		"coingecko"
+	]
+}

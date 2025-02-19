@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x893fF58CD1E34eac0c8Ce4fA92B30aDEe4E14986",
+	"symbol": "Dinari LMT",
+	"name": "Dinari LMT",
+	"coingecko": "dinari-lmt",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -101,15 +101,6 @@
     {
         "chain": 81457,
         "address": "0x0000000000000000000000000000000000000000",
-        "symbol": "POL",
-        "name": "Polygon Ecosystem Token",
-        "decimals": 18,
-        "logo": "https://coin-images.coingecko.com/coins/images/32440/large/polygon.png?1698233684",
-        "coingecko": "matic-network"
-    },
-    {
-        "chain": 81457,
-        "address": "0x0000000000000000000000000000000000000000",
         "symbol": "ETH",
         "name": "Ethereum",
         "decimals": 18,

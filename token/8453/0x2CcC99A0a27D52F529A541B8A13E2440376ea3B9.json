@@ -1,0 +1,11 @@
+{
+	"chain": 8453,
+	"address": "0x2CcC99A0a27D52F529A541B8A13E2440376ea3B9",
+	"symbol": "FEAR",
+	"name": "FEAR",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/FEAR/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

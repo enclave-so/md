@@ -1,0 +1,12 @@
+{
+	"chain": 130,
+	"address": "0xcDfcE5eb357E8976A80Be84E94a03BA963b9e379",
+	"symbol": "APU",
+	"name": "Apu Apustaja",
+	"decimals": 18,
+	"logo": "https://coin-images.coingecko.com/coins/images/35986/large/200x200.png?1710308147",
+	"sources": [
+		"optimism",
+		"uniswap"
+	]
+}

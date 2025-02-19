@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x0fC036CFD300519170F90b21b92A4349D2DAbbAE",
+	"symbol": "TrinityPad",
+	"name": "TrinityPad",
+	"coingecko": "trinitypad",
+	"sources": [
+		"coingecko"
+	]
+}

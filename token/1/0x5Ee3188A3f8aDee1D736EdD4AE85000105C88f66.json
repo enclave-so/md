@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x5Ee3188A3f8aDee1D736EdD4AE85000105C88f66",
+	"symbol": "PEN",
+	"name": "Pentagon Games",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/52921/thumb/Pentagon_Games.png?1734770253",
+	"coingecko": "pentagon-games",
+	"sources": [
+		"coingecko"
+	]
+}

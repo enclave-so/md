@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xe52A85F67D5A55A77D35193D963b7E1d94D1F2eB",
+	"symbol": "Athena DexFi",
+	"name": "Athena DexFi",
+	"coingecko": "athena-dexfi",
+	"sources": [
+		"coingecko"
+	]
+}

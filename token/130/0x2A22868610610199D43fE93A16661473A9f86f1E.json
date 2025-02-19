@@ -1,0 +1,11 @@
+{
+	"chain": 130,
+	"address": "0x2A22868610610199D43fE93A16661473A9f86f1E",
+	"symbol": "USDG",
+	"name": "Global Dollar",
+	"decimals": 6,
+	"logo": "https://assets.coingecko.com/coins/images/51281/large/GDN_USDG_Token_200x200.png",
+	"sources": [
+		"uniswap"
+	]
+}

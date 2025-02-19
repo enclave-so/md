@@ -1,0 +1,10 @@
+{
+	"chain": 841,
+	"address": "0x69D411CbF6dBaD54Bfe36f81d0a39922625bC78c",
+	"symbol": "Taraxa Bridged USDT (Taraxa)",
+	"name": "Taraxa Bridged USDT (Taraxa)",
+	"coingecko": "taraxa-bridged-usdt-taraxa",
+	"sources": [
+		"coingecko"
+	]
+}

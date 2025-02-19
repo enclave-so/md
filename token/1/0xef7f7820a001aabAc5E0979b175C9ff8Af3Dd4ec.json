@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0xef7f7820a001aabAc5E0979b175C9ff8Af3Dd4ec",
+	"symbol": "XED",
+	"name": "Exeedme",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/53601/thumb/exeed.jpg?1736846185",
+	"coingecko": "exeedme-2",
+	"sources": [
+		"coingecko"
+	]
+}

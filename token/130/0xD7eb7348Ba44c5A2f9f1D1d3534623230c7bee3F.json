@@ -1,0 +1,12 @@
+{
+	"chain": 130,
+	"address": "0xD7eb7348Ba44c5A2f9f1D1d3534623230c7bee3F",
+	"symbol": "LRDS",
+	"name": "BLOCKLORDS",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/34775/standard/LRDS_PNG.png",
+	"sources": [
+		"optimism",
+		"uniswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 81457,
+	"address": "0x0E576B0C554FbAef9893A2Cd7B866Af516Bab581",
+	"symbol": "Dinari SPSK",
+	"name": "Dinari SPSK",
+	"coingecko": "dinari-spsk",
+	"sources": [
+		"coingecko"
+	]
+}

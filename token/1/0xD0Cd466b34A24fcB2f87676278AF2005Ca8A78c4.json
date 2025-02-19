@@ -4,10 +4,8 @@
 	"symbol": "POP",
 	"name": "Popcorn",
 	"decimals": 18,
-	"logo": "https://assets.coingecko.com/coins/images/21438/thumb/pop-1_200_x_200.png?1696520801",
-	"coingecko": "popcorn",
+	"logo": "https://ethereum-optimism.github.io/data/POP/logo.svg",
 	"sources": [
-		"coingecko",
 		"optimism"
 	]
 }

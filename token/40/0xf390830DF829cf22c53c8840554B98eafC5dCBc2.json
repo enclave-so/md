@@ -5,9 +5,7 @@
 	"name": "Bitcoin (Anyswap)",
 	"decimals": 8,
 	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/telos/0xf390830DF829cf22c53c8840554B98eafC5dCBc2.jpg",
-	"coingecko": "multichain-bridged-wbtc-telos",
 	"sources": [
-		"coingecko",
 		"sushiswap"
 	]
 }

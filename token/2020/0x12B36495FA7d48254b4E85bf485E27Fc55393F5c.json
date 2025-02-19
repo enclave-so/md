@@ -1,0 +1,10 @@
+{
+	"chain": 2020,
+	"address": "0x12B36495FA7d48254b4E85bf485E27Fc55393F5c",
+	"symbol": "Ronout",
+	"name": "Ronout",
+	"coingecko": "ronout",
+	"sources": [
+		"coingecko"
+	]
+}

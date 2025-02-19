@@ -1,0 +1,11 @@
+{
+	"chain": 130,
+	"address": "0xc1C06527E810C4A198D8C5d35e1dDBc987696276",
+	"symbol": "Neiro",
+	"name": "Neiro",
+	"decimals": 9,
+	"logo": "https://coin-images.coingecko.com/coins/images/39488/large/neiro.jpg?1731449567",
+	"sources": [
+		"uniswap"
+	]
+}

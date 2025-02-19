@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x80Eede496655FB9047dd39d9f418d5483ED600df",
+	"symbol": "Frax USD",
+	"name": "Frax USD",
+	"coingecko": "frax-usd",
+	"sources": [
+		"coingecko"
+	]
+}

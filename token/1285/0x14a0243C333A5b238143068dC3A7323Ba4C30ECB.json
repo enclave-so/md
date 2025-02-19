@@ -5,7 +5,7 @@
 	"name": "Avax - AnySwap",
 	"decimals": 18,
 	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/avax.jpg",
-	"coingecko": "wrapped-avax",
+	"coingecko": "relaychain-bridged-wavax-moonriver",
 	"sources": [
 		"coingecko",
 		"sushiswap"

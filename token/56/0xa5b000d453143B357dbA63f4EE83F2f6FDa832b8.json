@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xa5b000d453143B357dbA63f4EE83F2f6FDa832b8",
+	"symbol": "MetYa",
+	"name": "MetYa",
+	"coingecko": "metya",
+	"sources": [
+		"coingecko"
+	]
+}

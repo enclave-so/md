@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x2a92525fDA8D3AB481f8E2a913B64B64bD1c9fdD",
+	"symbol": "WELF",
+	"name": "WELF",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/52927/thumb/Untitled-1-02_%285%29.png?1736306981",
+	"coingecko": "welf",
+	"sources": [
+		"coingecko"
+	]
+}

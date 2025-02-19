@@ -1,0 +1,10 @@
+{
+	"chain": 8668,
+	"address": "0x3a035615e101373FA9BA21c5bEa7FE4026fc40b4",
+	"symbol": "Wrapped HLUSD",
+	"name": "Wrapped HLUSD",
+	"coingecko": "wrapped-hlusd",
+	"sources": [
+		"coingecko"
+	]
+}

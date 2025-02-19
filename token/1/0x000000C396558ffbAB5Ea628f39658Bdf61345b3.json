@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x000000C396558ffbAB5Ea628f39658Bdf61345b3",
+	"symbol": "BUNNI",
+	"name": "Bunni",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/54148/thumb/bunni_logo_v2_square.png?1738468465",
+	"coingecko": "bunni",
+	"sources": [
+		"coingecko"
+	]
+}

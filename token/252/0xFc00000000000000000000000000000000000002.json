@@ -1,9 +1,9 @@
 {
 	"chain": 252,
 	"address": "0xFc00000000000000000000000000000000000002",
-	"symbol": "L2 Standard Bridged FXS (Fraxtal)",
-	"name": "L2 Standard Bridged FXS (Fraxtal)",
-	"coingecko": "l2-standard-bridged-fxs-fraxtal",
+	"symbol": "Frax Share",
+	"name": "Frax Share",
+	"coingecko": "frax-share",
 	"sources": [
 		"coingecko"
 	]

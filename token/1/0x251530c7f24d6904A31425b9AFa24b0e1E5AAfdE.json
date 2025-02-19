@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x251530c7f24d6904A31425b9AFa24b0e1E5AAfdE",
+	"symbol": "PHOD",
+	"name": "Dinari PHO",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/54187/thumb/d-token-200.png?1738682583",
+	"coingecko": "dinari-pho",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0xfe3F988a90dEa3eE537BB43eC1aCa7337A15D002",
+	"symbol": "PHX",
+	"name": "PHOENIX",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/52760/thumb/PNGlogo200x200.png?1734247590",
+	"coingecko": "phoenix-2",
+	"sources": [
+		"coingecko"
+	]
+}

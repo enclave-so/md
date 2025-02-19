@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xC841b4eaD3F70bE99472FFdB88E5c3C7aF6A481a",
+	"symbol": "$TRUST ME BROs by Virtuals",
+	"name": "$TRUST ME BROs by Virtuals",
+	"coingecko": "trust-me-bros-by-virtuals",
+	"sources": [
+		"coingecko"
+	]
+}

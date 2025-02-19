@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x77734e70b6E88b4d82fE632a168EDf6e700912b6",
+	"symbol": "Astherus Staked BNB",
+	"name": "Astherus Staked BNB",
+	"coingecko": "astherus-staked-bnb",
+	"sources": [
+		"coingecko"
+	]
+}

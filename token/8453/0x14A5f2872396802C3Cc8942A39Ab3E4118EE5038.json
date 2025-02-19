@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x14A5f2872396802C3Cc8942A39Ab3E4118EE5038",
+	"symbol": "Backed Tesla",
+	"name": "Backed Tesla",
+	"coingecko": "backed-tesla",
+	"sources": [
+		"coingecko"
+	]
+}

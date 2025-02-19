@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xaDCDBCb0db9EDF31509971f64F0A8E0Fc53B384D",
+	"symbol": "Casper AI",
+	"name": "Casper AI",
+	"coingecko": "casper-ai",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 88,
+	"address": "0x9AD16B6D3E401b8dF25C985f9bEbb490dB8aFE78",
+	"symbol": "Worldwide USD",
+	"name": "Worldwide USD",
+	"coingecko": "worldwide-usd",
+	"sources": [
+		"coingecko"
+	]
+}

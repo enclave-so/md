@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x808167eA744E02C6Fec3f56636d19f3448b72981",
+	"symbol": "Dinari HUT",
+	"name": "Dinari HUT",
+	"coingecko": "dinari-hut",
+	"sources": [
+		"coingecko"
+	]
+}

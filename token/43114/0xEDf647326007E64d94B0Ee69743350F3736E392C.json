@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0xEDf647326007E64d94B0Ee69743350F3736E392C",
+	"symbol": "Tico",
+	"name": "Tico",
+	"coingecko": "tico",
+	"sources": [
+		"coingecko"
+	]
+}

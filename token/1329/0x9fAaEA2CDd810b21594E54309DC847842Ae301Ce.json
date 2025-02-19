@@ -1,0 +1,10 @@
+{
+	"chain": 1329,
+	"address": "0x9fAaEA2CDd810b21594E54309DC847842Ae301Ce",
+	"symbol": "seiyanETH",
+	"name": "seiyanETH",
+	"coingecko": "seiyaneth",
+	"sources": [
+		"coingecko"
+	]
+}

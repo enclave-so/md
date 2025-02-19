@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x370F01c998B583E7CC9A7ee79BE8Ed0bB27345e7",
+	"symbol": "EchoLinkV8",
+	"name": "EchoLinkV8",
+	"coingecko": "echolinkv8",
+	"sources": [
+		"coingecko"
+	]
+}

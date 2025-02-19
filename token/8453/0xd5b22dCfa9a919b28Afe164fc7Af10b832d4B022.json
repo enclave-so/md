@@ -5,7 +5,9 @@
 	"name": "Lords",
 	"decimals": 18,
 	"logo": "https://ethereum-optimism.github.io/data/LORDS/logo.png",
+	"coingecko": "lords",
 	"sources": [
+		"coingecko",
 		"optimism"
 	]
 }

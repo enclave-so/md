@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x5C5b196aBE0d54485975D1Ec29617D42D9198326",
+	"symbol": "SDEUSD",
+	"name": "Elixir Staked deUSD",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/52847/thumb/Staked_deUSD_%28sdeUSD%29_Logo.png?1734473339",
+	"coingecko": "elixir-staked-deusd",
+	"sources": [
+		"coingecko"
+	]
+}

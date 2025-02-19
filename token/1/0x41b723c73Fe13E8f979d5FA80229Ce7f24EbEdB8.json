@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x41b723c73Fe13E8f979d5FA80229Ce7f24EbEdB8",
+	"symbol": "ONTACT",
+	"name": "OnTact",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/52812/thumb/ontact.jpg?1734366769",
+	"coingecko": "ontact",
+	"sources": [
+		"coingecko"
+	]
+}

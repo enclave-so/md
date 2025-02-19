@@ -1,0 +1,10 @@
+{
+	"chain": 1514,
+	"address": "0x1514000000000000000000000000000000000000",
+	"symbol": "Wrapped IP",
+	"name": "Wrapped IP",
+	"coingecko": "wrapped-ip",
+	"sources": [
+		"coingecko"
+	]
+}

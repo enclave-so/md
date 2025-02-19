@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x5d19d39852BF99Bc4344483CbCe3C9fF8f026B43",
+	"symbol": "AURA",
+	"name": "Aura AI",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/52896/thumb/AURA_%281%29.jpg?1734619401",
+	"coingecko": "aura-ai",
+	"sources": [
+		"coingecko"
+	]
+}

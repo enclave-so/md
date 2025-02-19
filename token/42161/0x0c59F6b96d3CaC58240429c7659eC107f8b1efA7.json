@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x0c59F6b96d3CaC58240429c7659eC107f8b1efA7",
+	"symbol": "Dinari HODL",
+	"name": "Dinari HODL",
+	"coingecko": "dinari-hodl",
+	"sources": [
+		"coingecko"
+	]
+}

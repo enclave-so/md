@@ -1,0 +1,10 @@
+{
+	"chain": 324,
+	"address": "0x3E9C747db47602210EA7513c9D00abf356b53880",
+	"symbol": "aiws",
+	"name": "aiws",
+	"coingecko": "aiws",
+	"sources": [
+		"coingecko"
+	]
+}

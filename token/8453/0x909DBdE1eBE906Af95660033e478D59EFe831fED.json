@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x909DBdE1eBE906Af95660033e478D59EFe831fED",
+	"symbol": "Bridged FRAX",
+	"name": "Bridged FRAX",
+	"coingecko": "bridged-frax",
+	"sources": [
+		"coingecko"
+	]
+}

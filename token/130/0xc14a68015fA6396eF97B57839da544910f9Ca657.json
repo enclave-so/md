@@ -1,0 +1,11 @@
+{
+	"chain": 130,
+	"address": "0xc14a68015fA6396eF97B57839da544910f9Ca657",
+	"symbol": "REVV",
+	"name": "REVV",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/12373/thumb/REVV_TOKEN_Refined_2021_%281%29.png?1627652390",
+	"sources": [
+		"uniswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x885129e35D247b01C4485Ef6B48564d0Ebc8C362",
+	"symbol": "Brett 2.0",
+	"name": "Brett 2.0",
+	"coingecko": "brett-2-0",
+	"sources": [
+		"coingecko"
+	]
+}

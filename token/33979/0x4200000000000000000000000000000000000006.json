@@ -1,0 +1,10 @@
+{
+	"chain": 33979,
+	"address": "0x4200000000000000000000000000000000000006",
+	"symbol": "Funki Bridged WETH (Funki)",
+	"name": "Funki Bridged WETH (Funki)",
+	"coingecko": "funki-bridged-weth-funki",
+	"sources": [
+		"coingecko"
+	]
+}

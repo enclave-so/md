@@ -1,0 +1,10 @@
+{
+	"chain": 2818,
+	"address": "0x5300000000000000000000000000000000000011",
+	"symbol": "Bridged Wrapped Ether (Morph L2)",
+	"name": "Bridged Wrapped Ether (Morph L2)",
+	"coingecko": "bridged-wrapped-ether-morph-l2",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0xDd89a4D3362828e601df52208302A741F08E46c5",
+	"symbol": "O3",
+	"name": "O3",
+	"coingecko": "o3",
+	"sources": [
+		"coingecko"
+	]
+}

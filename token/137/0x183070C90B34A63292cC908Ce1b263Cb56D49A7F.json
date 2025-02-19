@@ -1,0 +1,11 @@
+{
+	"chain": 137,
+	"address": "0x183070C90B34A63292cC908Ce1b263Cb56D49A7F",
+	"symbol": "IMX",
+	"name": "Immutable X",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/17233/thumb/imx.png?1636691817",
+	"sources": [
+		"uniswap"
+	]
+}

@@ -1,16 +1,6 @@
 [
 	{
 		"chain": 7171,
-		"address": "0xE4bDa992ecad56986704E21f1622E5f8acEADDB1",
-		"symbol": "Rockstar",
-		"name": "Rockstar",
-		"coingecko": "rockstar",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 7171,
 		"address": "0x826628622a8B55F4AF6aC2A1DD1273bF837e651a",
 		"symbol": "Rockswap",
 		"name": "Rockswap",
@@ -55,6 +45,16 @@
 		"symbol": "Milestone Millions",
 		"name": "Milestone Millions",
 		"coingecko": "milestone-millions",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 7171,
+		"address": "0xE4bDa992ecad56986704E21f1622E5f8acEADDB1",
+		"symbol": "Rockstar",
+		"name": "Rockstar",
+		"coingecko": "rockstar",
 		"sources": [
 			"coingecko"
 		]

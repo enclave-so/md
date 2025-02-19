@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x47E316d1951568B4FbC7A1BCD641C5624a756A05",
+	"symbol": "Wrapped AGC",
+	"name": "Wrapped AGC",
+	"coingecko": "argocoin",
+	"sources": [
+		"coingecko"
+	]
+}

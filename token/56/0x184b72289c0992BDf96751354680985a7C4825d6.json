@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x184b72289c0992BDf96751354680985a7C4825d6",
+	"symbol": "Astherus Staked BTC",
+	"name": "Astherus Staked BTC",
+	"coingecko": "astherus-staked-btc",
+	"sources": [
+		"coingecko"
+	]
+}

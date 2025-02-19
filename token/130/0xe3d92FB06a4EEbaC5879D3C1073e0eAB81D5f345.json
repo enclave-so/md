@@ -1,0 +1,11 @@
+{
+	"chain": 130,
+	"address": "0xe3d92FB06a4EEbaC5879D3C1073e0eAB81D5f345",
+	"symbol": "MUSE",
+	"name": "Muse DAO",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/13230/thumb/muse_logo.png?1606460453",
+	"sources": [
+		"uniswap"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 100,
+	"address": "0x420CA0f9B9b604cE0fd9C18EF134C705e5Fa3430",
+	"symbol": "Monerium EUR emoney",
+	"name": "Monerium EUR emoney",
+	"coingecko": "monerium-eur-money-2",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x3774a2E7C66BC9371424c3edC67503CADd7C882B",
+	"symbol": "Dinari PPLT",
+	"name": "Dinari PPLT",
+	"coingecko": "dinari-pplt",
+	"sources": [
+		"coingecko"
+	]
+}

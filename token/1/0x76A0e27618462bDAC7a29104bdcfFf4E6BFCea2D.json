@@ -1,0 +1,13 @@
+{
+	"chain": 1,
+	"address": "0x76A0e27618462bDAC7a29104bdcfFf4E6BFCea2D",
+	"symbol": "SOSO",
+	"name": "SoSoValue",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/53919/thumb/soso.jpg?1737717378",
+	"coingecko": "sosovalue",
+	"sources": [
+		"coingecko",
+		"optimism"
+	]
+}

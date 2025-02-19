@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x3a46ed8FCeb6eF1ADA2E4600A522AE7e24D2Ed18",
+	"symbol": "USSI",
+	"name": "USSI",
+	"coingecko": "ussi",
+	"sources": [
+		"coingecko"
+	]
+}

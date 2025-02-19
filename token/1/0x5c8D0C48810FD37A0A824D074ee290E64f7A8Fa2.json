@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x5c8D0C48810FD37A0A824D074ee290E64f7A8Fa2",
+	"symbol": "AVL",
+	"name": "Avalon",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/54119/thumb/AV.png?1738314011",
+	"coingecko": "avalon-2",
+	"sources": [
+		"coingecko"
+	]
+}

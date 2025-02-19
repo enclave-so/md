@@ -1,0 +1,10 @@
+{
+	"chain": 122,
+	"address": "0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590",
+	"symbol": "Stargate Bridged WETH (Fuse)",
+	"name": "Stargate Bridged WETH (Fuse)",
+	"coingecko": "stargate-bridged-weth-fuse",
+	"sources": [
+		"coingecko"
+	]
+}

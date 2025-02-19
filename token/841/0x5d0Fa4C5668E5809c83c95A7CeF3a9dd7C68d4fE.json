@@ -1,0 +1,10 @@
+{
+	"chain": 841,
+	"address": "0x5d0Fa4C5668E5809c83c95A7CeF3a9dd7C68d4fE",
+	"symbol": "Wrapped Tara",
+	"name": "Wrapped Tara",
+	"coingecko": "wrapped-tara",
+	"sources": [
+		"coingecko"
+	]
+}

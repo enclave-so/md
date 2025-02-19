@@ -1,0 +1,11 @@
+{
+	"chain": 130,
+	"address": "0xAe6065FB0244A68036C82deC9a8dE5501c7A1087",
+	"symbol": "MONA",
+	"name": "Monavale",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/13298/thumb/monavale_logo.jpg?1607232721",
+	"sources": [
+		"uniswap"
+	]
+}

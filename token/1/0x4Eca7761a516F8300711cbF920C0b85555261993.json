@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x4Eca7761a516F8300711cbF920C0b85555261993",
+	"symbol": "GOATX",
+	"name": "GOATX",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/53313/thumb/GoatXCG.png?1736083740",
+	"coingecko": "goatx",
+	"sources": [
+		"coingecko"
+	]
+}

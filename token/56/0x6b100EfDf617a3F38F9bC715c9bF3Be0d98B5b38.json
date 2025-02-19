@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x6b100EfDf617a3F38F9bC715c9bF3Be0d98B5b38",
+	"symbol": "Ton Tycoon",
+	"name": "Ton Tycoon",
+	"coingecko": "ton-tycoon",
+	"sources": [
+		"coingecko"
+	]
+}

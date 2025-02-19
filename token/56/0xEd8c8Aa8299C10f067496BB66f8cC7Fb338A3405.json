@@ -1,8 +1,8 @@
 {
 	"chain": 56,
 	"address": "0xEd8c8Aa8299C10f067496BB66f8cC7Fb338A3405",
-	"symbol": "PROS",
-	"name": "Prosper",
+	"symbol": "PROS (old)",
+	"name": "Prosper (old)",
 	"decimals": 18,
 	"logo": "https://tokens.pancakeswap.finance/images/0xEd8c8Aa8299C10f067496BB66f8cC7Fb338A3405.png",
 	"coingecko": "prosper",

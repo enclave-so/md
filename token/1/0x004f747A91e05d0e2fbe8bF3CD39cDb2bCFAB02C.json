@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x004f747A91e05d0e2fbe8bF3CD39cDb2bCFAB02C",
+	"symbol": "TWEET",
+	"name": "TWEET",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/52795/thumb/logo1_glow.jpg?1734313659",
+	"coingecko": "tweet",
+	"sources": [
+		"coingecko"
+	]
+}

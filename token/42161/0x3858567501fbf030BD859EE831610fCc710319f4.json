@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x3858567501fbf030BD859EE831610fCc710319f4",
+	"symbol": "Nexade",
+	"name": "Nexade",
+	"coingecko": "nexade",
+	"sources": [
+		"coingecko"
+	]
+}

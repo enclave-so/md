@@ -1,26 +1,6 @@
 [
 	{
 		"chain": 8822,
-		"address": "0xBc51E6807F31C3E4E21Df7fB8e4F94a500D27E8b",
-		"symbol": "Cyberperp",
-		"name": "Cyberperp",
-		"coingecko": "cyberperp",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 8822,
-		"address": "0x4Eb8E03461360C2AcBb4B5963a18b8f9faEE8221",
-		"symbol": "DEEPR",
-		"name": "DEEPR",
-		"coingecko": "deepr",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 8822,
 		"address": "0xF5755e48B6F2F06F8ea904bdA26177CB3ca06Ff0",
 		"symbol": "Iolend",
 		"name": "Iolend",
@@ -31,20 +11,40 @@
 	},
 	{
 		"chain": 8822,
-		"address": "0x892aD291737249abe79C657C4A5a57e11C174566",
-		"symbol": "Iota Velocimeter",
-		"name": "Iota Velocimeter",
-		"coingecko": "iota-velocimeter",
+		"address": "0xA87666b0Cb3631c49f96CBf1e6A52EBac79A6143",
+		"symbol": "Magic LUM",
+		"name": "Magic LUM",
+		"coingecko": "magic-lum",
 		"sources": [
 			"coingecko"
 		]
 	},
 	{
 		"chain": 8822,
-		"address": "0xA87666b0Cb3631c49f96CBf1e6A52EBac79A6143",
-		"symbol": "Magic LUM",
-		"name": "Magic LUM",
-		"coingecko": "magic-lum",
+		"address": "0xC1B8045A6ef2934Cf0f78B0dbD489969Fa9Be7E4",
+		"symbol": "Stargate Bridged USDT (Iota EVM)",
+		"name": "Stargate Bridged USDT (Iota EVM)",
+		"coingecko": "stargate-bridged-usdc-iota-evm",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 8822,
+		"address": "0x160345fC359604fC6e70E3c5fAcbdE5F7A9342d8",
+		"symbol": "Stargate Bridged WETH (Iota EVM)",
+		"name": "Stargate Bridged WETH (Iota EVM)",
+		"coingecko": "stargate-bridged-weth-iota-evm",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 8822,
+		"address": "0x159366809b6062960c97BC4eDd548BAFCd7812D8",
+		"symbol": "Audit",
+		"name": "Audit",
+		"coingecko": "audit",
 		"sources": [
 			"coingecko"
 		]
@@ -71,30 +71,30 @@
 	},
 	{
 		"chain": 8822,
-		"address": "0xC1B8045A6ef2934Cf0f78B0dbD489969Fa9Be7E4",
-		"symbol": "Stargate Bridged USDT (Iota EVM)",
-		"name": "Stargate Bridged USDT (Iota EVM)",
-		"coingecko": "stargate-bridged-usdc-iota-evm",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 8822,
-		"address": "0xaf20f5f19698f1D19351028cd7103B63D30DE7d7",
-		"symbol": "Wagmi",
-		"name": "Wagmi",
-		"coingecko": "wagmi-2",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 8822,
 		"address": "0x6e47f8d48a01b44DF3fFF35d258A10A3AEdC114c",
 		"symbol": "Wrapped IOTA",
 		"name": "Wrapped IOTA",
 		"coingecko": "wrapped-iota",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 8822,
+		"address": "0xBc51E6807F31C3E4E21Df7fB8e4F94a500D27E8b",
+		"symbol": "Cyberperp",
+		"name": "Cyberperp",
+		"coingecko": "cyberperp",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 8822,
+		"address": "0x4Eb8E03461360C2AcBb4B5963a18b8f9faEE8221",
+		"symbol": "DEEPR",
+		"name": "DEEPR",
+		"coingecko": "deepr",
 		"sources": [
 			"coingecko"
 		]
@@ -111,6 +111,26 @@
 	},
 	{
 		"chain": 8822,
+		"address": "0x79bbF4508B1391af3A0F4B30bb5FC4aa9ab0E07C",
+		"symbol": "Hey Anon",
+		"name": "Hey Anon",
+		"coingecko": "heyanon",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 8822,
+		"address": "0x892aD291737249abe79C657C4A5a57e11C174566",
+		"symbol": "Iota Velocimeter",
+		"name": "Iota Velocimeter",
+		"coingecko": "iota-velocimeter",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 8822,
 		"address": "0x34a85ddc4E30818e44e6f4A8ee39d8CBA9A60fB3",
 		"symbol": "ShimmerSea Lum",
 		"name": "ShimmerSea Lum",
@@ -121,10 +141,10 @@
 	},
 	{
 		"chain": 8822,
-		"address": "0x160345fC359604fC6e70E3c5fAcbdE5F7A9342d8",
-		"symbol": "Stargate Bridged WETH (Iota EVM)",
-		"name": "Stargate Bridged WETH (Iota EVM)",
-		"coingecko": "stargate-bridged-weth-iota-evm",
+		"address": "0xaf20f5f19698f1D19351028cd7103B63D30DE7d7",
+		"symbol": "Wagmi",
+		"name": "Wagmi",
+		"coingecko": "wagmi-2",
 		"sources": [
 			"coingecko"
 		]

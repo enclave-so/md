@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x7404AC09aDf614603D9c16a7CE85A1101F3514ba",
+	"symbol": "PLAY",
+	"name": "PLAY",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/52562/thumb/play_token.png?1733669740",
+	"coingecko": "play-2",
+	"sources": [
+		"coingecko"
+	]
+}

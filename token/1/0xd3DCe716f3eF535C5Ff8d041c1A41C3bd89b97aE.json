@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0xd3DCe716f3eF535C5Ff8d041c1A41C3bd89b97aE",
+	"symbol": "SCUSD",
+	"name": "Rings scUSD",
+	"decimals": 6,
+	"logo": "https://assets.coingecko.com/coins/images/53456/thumb/scusd_%281%29.png?1736404738",
+	"coingecko": "rings-scusd",
+	"sources": [
+		"coingecko"
+	]
+}

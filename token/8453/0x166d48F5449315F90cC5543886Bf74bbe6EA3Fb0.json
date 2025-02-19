@@ -1,0 +1,11 @@
+{
+	"chain": 8453,
+	"address": "0x166d48F5449315F90cC5543886Bf74bbe6EA3Fb0",
+	"symbol": "xKTON",
+	"name": "Darwinia Commitment xKTON",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/XKTON/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

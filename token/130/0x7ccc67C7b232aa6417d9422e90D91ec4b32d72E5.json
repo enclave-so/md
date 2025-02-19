@@ -1,0 +1,11 @@
+{
+	"chain": 130,
+	"address": "0x7ccc67C7b232aa6417d9422e90D91ec4b32d72E5",
+	"symbol": "SD",
+	"name": "Stader",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/20658/standard/SD_Token_Logo.png",
+	"sources": [
+		"uniswap"
+	]
+}

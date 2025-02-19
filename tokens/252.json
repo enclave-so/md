@@ -1,20 +1,20 @@
 [
 	{
 		"chain": 252,
-		"address": "0xc84c0f36e42D0100c6FF5e1D04e2978f0A5B63Cf",
-		"symbol": "Real World Abs",
-		"name": "Real World Abs",
-		"coingecko": "real-world-abs",
+		"address": "0xFc00000000000000000000000000000000000003",
+		"symbol": "Frax Price Index",
+		"name": "Frax Price Index",
+		"coingecko": "frax-price-index",
 		"sources": [
 			"coingecko"
 		]
 	},
 	{
 		"chain": 252,
-		"address": "0xfc00000000000000000000000000000000000008",
-		"symbol": "Staked Frax",
-		"name": "Staked Frax",
-		"coingecko": "staked-frax-2",
+		"address": "0xDcc0F2D8F90FDe85b10aC1c8Ab57dc0AE946A543",
+		"symbol": "Fraxtal Bridged USDC (Fraxtal)",
+		"name": "Fraxtal Bridged USDC (Fraxtal)",
+		"coingecko": "fraxtal-bridged-usdc-fraxtal",
 		"sources": [
 			"coingecko"
 		]
@@ -25,6 +25,16 @@
 		"symbol": "Krypto Fraxtal Chicken",
 		"name": "Krypto Fraxtal Chicken",
 		"coingecko": "krypto-fraxtal-chicken",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 252,
+		"address": "0xfc00000000000000000000000000000000000008",
+		"symbol": "Staked Frax USD",
+		"name": "Staked Frax USD",
+		"coingecko": "staked-frax-usd",
 		"sources": [
 			"coingecko"
 		]
@@ -51,10 +61,10 @@
 	},
 	{
 		"chain": 252,
-		"address": "0x3Ec67133bB7d9D2d93D40FBD9238f1Fb085E01eE",
-		"symbol": "FRAX Bullas",
-		"name": "FRAX Bullas",
-		"coingecko": "frax-bullas",
+		"address": "0xFc00000000000000000000000000000000000002",
+		"symbol": "Frax Share",
+		"name": "Frax Share",
+		"coingecko": "frax-share",
 		"sources": [
 			"coingecko"
 		]
@@ -71,20 +81,10 @@
 	},
 	{
 		"chain": 252,
-		"address": "0xFC00000000000000000000000000000000000006",
-		"symbol": "Wrapped frxETH",
-		"name": "Wrapped frxETH",
-		"coingecko": "wrapped-frxeth",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 252,
-		"address": "0xdeBb8a79B025B2Fc2CA506F0c69497B60B91235C",
-		"symbol": "Frax Doge",
-		"name": "Frax Doge",
-		"coingecko": "frax-doge",
+		"address": "0x788D96f655735f52c676A133f4dFC53cEC614d4A",
+		"symbol": "dTRINITY USD",
+		"name": "dTRINITY USD",
+		"coingecko": "dtrinity-usd",
 		"sources": [
 			"coingecko"
 		]
@@ -101,10 +101,50 @@
 	},
 	{
 		"chain": 252,
-		"address": "0xDcc0F2D8F90FDe85b10aC1c8Ab57dc0AE946A543",
-		"symbol": "Fraxtal Bridged USDC (Fraxtal)",
-		"name": "Fraxtal Bridged USDC (Fraxtal)",
-		"coingecko": "fraxtal-bridged-usdc-fraxtal",
+		"address": "0xc84c0f36e42D0100c6FF5e1D04e2978f0A5B63Cf",
+		"symbol": "Real World Abs",
+		"name": "Real World Abs",
+		"coingecko": "real-world-abs",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 252,
+		"address": "0xFC00000000000000000000000000000000000006",
+		"symbol": "Wrapped frxETH",
+		"name": "Wrapped frxETH",
+		"coingecko": "wrapped-frxeth",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 252,
+		"address": "0x211Cc4DD073734dA055fbF44a2b4667d5E5fE5d2",
+		"symbol": "Ethena Staked USDe (Fraxtal)",
+		"name": "Ethena Staked USDe (Fraxtal)",
+		"coingecko": "ethena-stake-usde-fraxtal",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 252,
+		"address": "0x3Ec67133bB7d9D2d93D40FBD9238f1Fb085E01eE",
+		"symbol": "FRAX Bullas",
+		"name": "FRAX Bullas",
+		"coingecko": "frax-bullas",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 252,
+		"address": "0xdeBb8a79B025B2Fc2CA506F0c69497B60B91235C",
+		"symbol": "Frax Doge",
+		"name": "Frax Doge",
+		"coingecko": "frax-doge",
 		"sources": [
 			"coingecko"
 		]
@@ -121,30 +161,10 @@
 	},
 	{
 		"chain": 252,
-		"address": "0xFc00000000000000000000000000000000000002",
-		"symbol": "L2 Standard Bridged FXS (Fraxtal)",
-		"name": "L2 Standard Bridged FXS (Fraxtal)",
-		"coingecko": "l2-standard-bridged-fxs-fraxtal",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 252,
-		"address": "0xFc00000000000000000000000000000000000003",
-		"symbol": "Frax Price Index",
-		"name": "Frax Price Index",
-		"coingecko": "frax-price-index",
-		"sources": [
-			"coingecko"
-		]
-	},
-	{
-		"chain": 252,
 		"address": "0xFc00000000000000000000000000000000000001",
-		"symbol": "Fraxtal Bridged FRAX (Fraxtal)",
-		"name": "Fraxtal Bridged FRAX (Fraxtal)",
-		"coingecko": "fraxtal-bridged-frax-fraxtal",
+		"symbol": "L2 Standard Bridged frxUSD",
+		"name": "L2 Standard Bridged frxUSD",
+		"coingecko": "l2-standard-bridged-frxusd",
 		"sources": [
 			"coingecko"
 		]

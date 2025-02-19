@@ -1,0 +1,10 @@
+{
+	"chain": 80094,
+	"address": "0xAc611438AE5F3953DeDB47c2ea8d6650D601C1B4",
+	"symbol": "Amped Finance",
+	"name": "Amped Finance",
+	"coingecko": "amped-finance",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xEc3d2537a03Fc4D790Aa1FC66fa7dfadC6B245FB",
+	"symbol": "WARS by wow.ai",
+	"name": "WARS by wow.ai",
+	"coingecko": "wars-by-wow-ai",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0xDF4Ef6EE483953fE3B84ABd08C6A060445c01170",
+	"symbol": "Wrapped Accumulate",
+	"name": "Wrapped Accumulate",
+	"coingecko": "wrapped-accumulate",
+	"sources": [
+		"coingecko"
+	]
+}

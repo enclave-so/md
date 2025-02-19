@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x815269D17C10f0F3dF7249370E0c1B9efe781aa8",
+	"symbol": "SANTA by Virtuals",
+	"name": "SANTA by Virtuals",
+	"coingecko": "santa-by-virtuals",
+	"sources": [
+		"coingecko"
+	]
+}

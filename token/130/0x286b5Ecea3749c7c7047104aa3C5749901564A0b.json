@@ -1,0 +1,11 @@
+{
+	"chain": 130,
+	"address": "0x286b5Ecea3749c7c7047104aa3C5749901564A0b",
+	"symbol": "VANRY",
+	"name": "VANRY",
+	"decimals": 18,
+	"logo": "https://coin-images.coingecko.com/coins/images/33466/large/apple-touch-icon.png?1701942541",
+	"sources": [
+		"uniswap"
+	]
+}

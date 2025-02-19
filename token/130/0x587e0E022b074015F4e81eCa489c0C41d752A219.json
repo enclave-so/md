@@ -1,0 +1,11 @@
+{
+	"chain": 130,
+	"address": "0x587e0E022b074015F4e81eCa489c0C41d752A219",
+	"symbol": "MPL",
+	"name": "Maple",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14097/thumb/photo_2021-05-03_14.20.41.jpeg?1620022863",
+	"sources": [
+		"uniswap"
+	]
+}

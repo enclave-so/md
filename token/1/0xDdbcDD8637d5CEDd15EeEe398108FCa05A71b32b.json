@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0xDdbcDD8637d5CEDd15EeEe398108FCa05A71b32b",
+	"symbol": "CRAI",
+	"name": "Cryptify AI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/50455/thumb/cryptify-ai-logo-200x200.png?1727781104",
+	"coingecko": "cryptify-ai",
+	"sources": [
+		"coingecko"
+	]
+}

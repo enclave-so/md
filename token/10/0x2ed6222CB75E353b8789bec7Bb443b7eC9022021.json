@@ -1,0 +1,14 @@
+{
+	"chain": 10,
+	"address": "0x2ed6222CB75E353b8789bec7Bb443b7eC9022021",
+	"symbol": "KRL",
+	"name": "KRYLL",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/2807/thumb/krl.png?1547036979",
+	"coingecko": "kryll",
+	"sources": [
+		"coingecko",
+		"optimism",
+		"uniswap"
+	]
+}

@@ -1,8 +1,8 @@
 {
 	"chain": 56,
 	"address": "0xd9483EA7214FCfd89B4Fb8f513B544920E315A52",
-	"symbol": "AVA Foundation Bridged AVA (BSC)",
-	"name": "AVA Foundation Bridged AVA (BSC)",
+	"symbol": "AVA (Travala) Bridged AVA (BSC)",
+	"name": "AVA (Travala) Bridged AVA (BSC)",
 	"coingecko": "ava-foundation-bridged-ava-bsc",
 	"sources": [
 		"coingecko"

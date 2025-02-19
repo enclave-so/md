@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x291A50E611035b6562a2374B8B44dE70aA8d7896",
+	"symbol": "Pentagon Games",
+	"name": "Pentagon Games",
+	"coingecko": "pentagon-games",
+	"sources": [
+		"coingecko"
+	]
+}

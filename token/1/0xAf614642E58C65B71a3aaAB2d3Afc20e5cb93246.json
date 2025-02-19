@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0xAf614642E58C65B71a3aaAB2d3Afc20e5cb93246",
+	"symbol": "WEATD",
+	"name": "Dinari WEAT",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/53872/thumb/d-token-200.png?1737617091",
+	"coingecko": "dinari-weat",
+	"sources": [
+		"coingecko"
+	]
+}

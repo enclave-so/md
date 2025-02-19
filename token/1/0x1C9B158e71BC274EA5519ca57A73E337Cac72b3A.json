@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x1C9B158e71BC274EA5519ca57A73E337Cac72b3A",
+	"symbol": "GROWAI",
+	"name": "SocialGrowAI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/53977/thumb/sgailogo.jpg?1737870773",
+	"coingecko": "socialgrowai",
+	"sources": [
+		"coingecko"
+	]
+}

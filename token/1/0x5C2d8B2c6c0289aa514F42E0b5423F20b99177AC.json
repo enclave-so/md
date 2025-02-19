@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x5C2d8B2c6c0289aa514F42E0b5423F20b99177AC",
+	"symbol": "MEGA",
+	"name": "MEGAonEth",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/53577/thumb/eu-logov2.png?1736748985",
+	"coingecko": "megaoneth",
+	"sources": [
+		"coingecko"
+	]
+}

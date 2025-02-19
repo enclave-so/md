@@ -1,0 +1,12 @@
+{
+	"chain": 130,
+	"address": "0xef22b9df2dDf4246A827575C4Aa46BDaeFd89E62",
+	"symbol": "WOO",
+	"name": "WOO Network",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/12921/thumb/w2UiemF__400x400.jpg?1603670367",
+	"sources": [
+		"optimism",
+		"uniswap"
+	]
+}

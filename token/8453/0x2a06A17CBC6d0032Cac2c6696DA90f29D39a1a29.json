@@ -4,10 +4,11 @@
 	"symbol": "BITCOIN",
 	"name": "HarryPotterObamaSonic10Inu",
 	"decimals": 8,
-	"logo": "https://ethereum-optimism.github.io/data/BITCOIN/logo.svg",
+	"logo": "https://coin-images.coingecko.com/coins/images/30323/large/hpos10i_logo_casino_night-dexview.png?1696529224",
 	"coingecko": "harrypotterobamasonic10in",
 	"sources": [
 		"coingecko",
-		"optimism"
+		"optimism",
+		"uniswap"
 	]
 }

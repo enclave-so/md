@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x90fA6faf82dDcBBBD48f66ee70B8515a7A626AC3",
+	"symbol": "TJXD",
+	"name": "Dinari TJX",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/54397/thumb/d-token-200.png?1739485840",
+	"coingecko": "dinari-tjx",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x5F2AD0a281Ea15515C8feFf8421cb968Cbfe9ae4",
+	"symbol": "SETAI Agents",
+	"name": "SETAI Agents",
+	"coingecko": "sentient-ai",
+	"sources": [
+		"coingecko"
+	]
+}

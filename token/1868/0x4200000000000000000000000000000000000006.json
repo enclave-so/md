@@ -1,0 +1,10 @@
+{
+	"chain": 1868,
+	"address": "0x4200000000000000000000000000000000000006",
+	"symbol": "Superbridge Bridged WETH (Soneium)",
+	"name": "Superbridge Bridged WETH (Soneium)",
+	"coingecko": "superbridge-bridged-weth-soneium",
+	"sources": [
+		"coingecko"
+	]
+}

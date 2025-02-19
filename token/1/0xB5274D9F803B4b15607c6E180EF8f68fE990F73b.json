@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0xB5274D9F803B4b15607c6E180EF8f68fE990F73b",
+	"symbol": "VOX",
+	"name": "Neuravox",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/53940/thumb/logo_vox_.png?1737785787",
+	"coingecko": "neuravox",
+	"sources": [
+		"coingecko"
+	]
+}

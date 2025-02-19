@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0xcFf252a3299bE44Fa73402966F30a0159308B2Ad",
+	"symbol": "ENVOY",
+	"name": "Envoy A I",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/52749/thumb/Ao1dYC8L_400x400.jpg?1734187970",
+	"coingecko": "envoy-a-i",
+	"sources": [
+		"coingecko"
+	]
+}

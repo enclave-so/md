@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x698A8B4bA48c2ee8D468A3A530c83ef422d54857",
+	"symbol": "SAINO",
+	"name": "SAINO",
+	"coingecko": "saino",
+	"sources": [
+		"coingecko"
+	]
+}

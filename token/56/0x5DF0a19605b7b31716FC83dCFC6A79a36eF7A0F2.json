@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x5DF0a19605b7b31716FC83dCFC6A79a36eF7A0F2",
+	"symbol": "Joi",
+	"name": "Joi",
+	"coingecko": "joi",
+	"sources": [
+		"coingecko"
+	]
+}

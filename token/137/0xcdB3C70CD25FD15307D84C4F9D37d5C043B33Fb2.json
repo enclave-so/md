@@ -1,0 +1,11 @@
+{
+	"chain": 137,
+	"address": "0xcdB3C70CD25FD15307D84C4F9D37d5C043B33Fb2",
+	"symbol": "SPELL",
+	"name": "Spell Token",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/15861/thumb/abracadabra-3.png?1622544862",
+	"sources": [
+		"uniswap"
+	]
+}

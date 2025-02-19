@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xF598797d9C160aeF2A14712C20b7731cBe5861da",
+	"symbol": "Perion",
+	"name": "Perion",
+	"coingecko": "perion",
+	"sources": [
+		"coingecko"
+	]
+}

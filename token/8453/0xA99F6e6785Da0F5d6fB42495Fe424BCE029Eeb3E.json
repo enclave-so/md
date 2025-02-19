@@ -5,7 +5,9 @@
 	"name": "Pendle",
 	"decimals": 18,
 	"logo": "https://ethereum-optimism.github.io/data/PENDLE/logo.png",
+	"coingecko": "pendle",
 	"sources": [
+		"coingecko",
 		"optimism"
 	]
 }

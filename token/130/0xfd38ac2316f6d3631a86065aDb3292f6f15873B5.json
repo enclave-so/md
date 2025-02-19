@@ -1,0 +1,11 @@
+{
+	"chain": 130,
+	"address": "0xfd38ac2316f6d3631a86065aDb3292f6f15873B5",
+	"symbol": "AERGO",
+	"name": "Aergo",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/4490/thumb/aergo.png?1647696770",
+	"sources": [
+		"uniswap"
+	]
+}

@@ -2,9 +2,12 @@
 	"chain": 56,
 	"address": "0x73a325103935b0B5E7AA3acA6dba74AD22f82B03",
 	"symbol": "sUSDa",
-	"name": "sUSDa",
+	"name": "USDa saving token",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x73a325103935b0B5E7AA3acA6dba74AD22f82B03.png",
 	"coingecko": "susda",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

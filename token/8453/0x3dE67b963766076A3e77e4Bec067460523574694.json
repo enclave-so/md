@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x3dE67b963766076A3e77e4Bec067460523574694",
+	"symbol": "hardwAIre DAO",
+	"name": "hardwAIre DAO",
+	"coingecko": "hardwaire-dao",
+	"sources": [
+		"coingecko"
+	]
+}

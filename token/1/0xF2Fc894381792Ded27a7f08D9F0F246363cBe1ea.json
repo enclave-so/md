@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0xF2Fc894381792Ded27a7f08D9F0F246363cBe1ea",
+	"symbol": "MATRIX",
+	"name": "Matrix Win",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/53327/thumb/matrix_%281%29.png?1736129151",
+	"coingecko": "matrix-win",
+	"sources": [
+		"coingecko"
+	]
+}

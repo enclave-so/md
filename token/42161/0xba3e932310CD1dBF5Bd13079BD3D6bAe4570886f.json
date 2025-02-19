@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0xba3e932310CD1dBF5Bd13079BD3D6bAe4570886f",
+	"symbol": "Umoja yBTC",
+	"name": "Umoja yBTC",
+	"coingecko": "umoja-ybtc",
+	"sources": [
+		"coingecko"
+	]
+}

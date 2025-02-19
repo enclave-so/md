@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x8e306E02ec1EFFC4fDAd3f952fbEEebf3730ae19",
+	"symbol": "AthenaX9",
+	"name": "AthenaX9",
+	"coingecko": "athenax9",
+	"sources": [
+		"coingecko"
+	]
+}

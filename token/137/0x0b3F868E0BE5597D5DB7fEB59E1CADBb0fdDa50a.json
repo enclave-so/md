@@ -2,12 +2,13 @@
 	"chain": 137,
 	"address": "0x0b3F868E0BE5597D5DB7fEB59E1CADBb0fdDa50a",
 	"symbol": "SUSHI",
-	"name": "SushiToken",
+	"name": "Sushi",
 	"decimals": 18,
-	"logo": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/sushi.jpg",
+	"logo": "https://assets.coingecko.com/coins/images/12271/thumb/512x512_Logo_no_chop.png?1606986688",
 	"coingecko": "sushi",
 	"sources": [
 		"coingecko",
-		"sushiswap"
+		"sushiswap",
+		"uniswap"
 	]
 }

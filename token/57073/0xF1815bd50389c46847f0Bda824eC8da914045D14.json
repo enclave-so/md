@@ -1,0 +1,10 @@
+{
+	"chain": 57073,
+	"address": "0xF1815bd50389c46847f0Bda824eC8da914045D14",
+	"symbol": "Stargate Bridged USDC (Ink)",
+	"name": "Stargate Bridged USDC (Ink)",
+	"coingecko": "stargate-bridged-usdc-ink",
+	"sources": [
+		"coingecko"
+	]
+}

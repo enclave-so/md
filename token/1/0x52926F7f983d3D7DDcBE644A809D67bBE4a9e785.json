@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x52926F7f983d3D7DDcBE644A809D67bBE4a9e785",
+	"symbol": "XOMD",
+	"name": "Dinari XOM",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/54189/thumb/d-token-200.png?1738682617",
+	"coingecko": "dinari-xom",
+	"sources": [
+		"coingecko"
+	]
+}

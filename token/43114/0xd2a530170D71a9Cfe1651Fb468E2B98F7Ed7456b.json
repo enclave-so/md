@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0xd2a530170D71a9Cfe1651Fb468E2B98F7Ed7456b",
+	"symbol": "Forte AUD",
+	"name": "Forte AUD",
+	"coingecko": "forte-aud",
+	"sources": [
+		"coingecko"
+	]
+}

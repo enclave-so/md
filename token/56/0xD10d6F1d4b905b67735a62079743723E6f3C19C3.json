@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xD10d6F1d4b905b67735a62079743723E6f3C19C3",
+	"symbol": "BullDogito",
+	"name": "BullDogito",
+	"coingecko": "bulldogito",
+	"sources": [
+		"coingecko"
+	]
+}

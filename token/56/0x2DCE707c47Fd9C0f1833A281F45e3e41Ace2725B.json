@@ -1,0 +1,11 @@
+{
+	"chain": 56,
+	"address": "0x2DCE707c47Fd9C0f1833A281F45e3e41Ace2725B",
+	"symbol": "WIF",
+	"name": "dogwifhat",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x2DCE707c47Fd9C0f1833A281F45e3e41Ace2725B.png",
+	"sources": [
+		"pancakeswap"
+	]
+}

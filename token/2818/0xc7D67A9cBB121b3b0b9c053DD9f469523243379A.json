@@ -1,0 +1,10 @@
+{
+	"chain": 2818,
+	"address": "0xc7D67A9cBB121b3b0b9c053DD9f469523243379A",
+	"symbol": "Morph L2 Bridged USDT (Morph L2)",
+	"name": "Morph L2 Bridged USDT (Morph L2)",
+	"coingecko": "morph-l2-bridged-usdt-morph-l2",
+	"sources": [
+		"coingecko"
+	]
+}

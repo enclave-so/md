@@ -1,0 +1,12 @@
+{
+	"chain": 130,
+	"address": "0xa7073F530856cD32c2037150dd9763B9BAaED2C5",
+	"symbol": "CTSI",
+	"name": "Cartesi",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/11038/thumb/cartesi.png?1592288021",
+	"sources": [
+		"optimism",
+		"uniswap"
+	]
+}

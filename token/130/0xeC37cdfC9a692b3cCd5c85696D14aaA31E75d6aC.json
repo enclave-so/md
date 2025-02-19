@@ -1,0 +1,11 @@
+{
+	"chain": 130,
+	"address": "0xeC37cdfC9a692b3cCd5c85696D14aaA31E75d6aC",
+	"symbol": "PDA",
+	"name": "PlayDapp",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/14316/standard/PDA-symbol.png?1710234068",
+	"sources": [
+		"uniswap"
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0xF373C3d96996EDe40eA161f6929FD457cda8111C",
+	"symbol": "DALD",
+	"name": "Dinari DAL",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/54227/thumb/d-token-200.png?1738861070",
+	"coingecko": "dinari-dal",
+	"sources": [
+		"coingecko"
+	]
+}

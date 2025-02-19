@@ -1,0 +1,11 @@
+{
+	"chain": 130,
+	"address": "0x71d69d07914d087f1C3536F7A5006a256CfAd9Ea",
+	"symbol": "MTL",
+	"name": "Metal",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/763/thumb/Metal.png?1592195010",
+	"sources": [
+		"uniswap"
+	]
+}

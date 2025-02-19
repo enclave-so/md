@@ -1,10 +1,13 @@
 {
 	"chain": 56,
 	"address": "0xba0Dda8762C24dA9487f5FA026a9B64b695A07Ea",
-	"symbol": "OX Coin",
+	"symbol": "OX",
 	"name": "OX Coin",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0xba0Dda8762C24dA9487f5FA026a9B64b695A07Ea.png",
 	"coingecko": "ox-fun",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"pancakeswap"
 	]
 }

@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x660687e0E0E5283656909a71B59491EaC3672A8F",
+	"symbol": "Parad DAO",
+	"name": "Parad DAO",
+	"coingecko": "parad-dao",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0x8c3441E7B9aA8A30a542DDE048dd067DE2802E9B",
+	"symbol": "WINK",
+	"name": "WINK",
+	"coingecko": "wink-2",
+	"sources": [
+		"coingecko"
+	]
+}

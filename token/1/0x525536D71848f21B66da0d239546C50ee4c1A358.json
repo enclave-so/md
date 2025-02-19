@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x525536D71848f21B66da0d239546C50ee4c1A358",
+	"symbol": "CTF",
+	"name": "Crypto Task Force",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/54096/thumb/Crypto_Task_Force.png?1738224085",
+	"coingecko": "crypto-task-force",
+	"sources": [
+		"coingecko"
+	]
+}

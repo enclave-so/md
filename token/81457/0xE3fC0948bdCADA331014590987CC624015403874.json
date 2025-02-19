@@ -1,0 +1,10 @@
+{
+	"chain": 81457,
+	"address": "0xE3fC0948bdCADA331014590987CC624015403874",
+	"symbol": "Dinari RBLX",
+	"name": "Dinari RBLX",
+	"coingecko": "dinari-rblx",
+	"sources": [
+		"coingecko"
+	]
+}

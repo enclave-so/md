@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x786Ad7b4e3f785C1d429084Ca110A7647c7d3011",
+	"symbol": "Artificial Neural Network",
+	"name": "Artificial Neural Network",
+	"coingecko": "artificial-neural-network",
+	"sources": [
+		"coingecko"
+	]
+}

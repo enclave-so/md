@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x157a6df6B74F4E5E45af4E4615FDe7B49225a662",
+	"symbol": "ISLAND",
+	"name": "ISLAND Token",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/52797/thumb/ISLAND_200x200.jpg?1734330930",
+	"coingecko": "island-token",
+	"sources": [
+		"coingecko"
+	]
+}

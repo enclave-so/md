@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0xbC68Ff3b062bc588603D71EC8d4273391EdF152c",
+	"symbol": "OWCT",
+	"name": "One World Chain",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/38585/thumb/1000123546.png?1718088756",
+	"coingecko": "one-world-chain",
+	"sources": [
+		"coingecko"
+	]
+}

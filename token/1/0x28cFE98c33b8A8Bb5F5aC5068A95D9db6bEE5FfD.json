@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x28cFE98c33b8A8Bb5F5aC5068A95D9db6bEE5FfD",
+	"symbol": "SOUP",
+	"name": "soup game",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/54298/thumb/SOUP_LOGO_200x200_.jpg?1739164200",
+	"coingecko": "soup-game",
+	"sources": [
+		"coingecko"
+	]
+}

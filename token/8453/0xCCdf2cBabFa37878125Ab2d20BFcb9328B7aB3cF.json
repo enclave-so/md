@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xCCdf2cBabFa37878125Ab2d20BFcb9328B7aB3cF",
+	"symbol": "BaseHoundBot by Virtuals",
+	"name": "BaseHoundBot by Virtuals",
+	"coingecko": "basehoundbot-by-virtuals",
+	"sources": [
+		"coingecko"
+	]
+}

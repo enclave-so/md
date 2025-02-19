@@ -1,0 +1,12 @@
+{
+	"chain": 130,
+	"address": "0x592620d454a10c47274dBfe3BD922b9a8fE5cf48",
+	"symbol": "GTC",
+	"name": "Gitcoin",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/15810/thumb/gitcoin.png?1621992929",
+	"sources": [
+		"optimism",
+		"uniswap"
+	]
+}

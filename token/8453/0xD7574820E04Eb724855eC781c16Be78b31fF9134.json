@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xD7574820E04Eb724855eC781c16Be78b31fF9134",
+	"symbol": "SOX",
+	"name": "SOX",
+	"coingecko": "sox",
+	"sources": [
+		"coingecko"
+	]
+}

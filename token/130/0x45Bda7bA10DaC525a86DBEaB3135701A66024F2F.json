@@ -1,0 +1,11 @@
+{
+	"chain": 130,
+	"address": "0x45Bda7bA10DaC525a86DBEaB3135701A66024F2F",
+	"symbol": "SHPING",
+	"name": "Shping",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/2588/thumb/r_yabKKi_400x400.jpg?1639470164",
+	"sources": [
+		"uniswap"
+	]
+}

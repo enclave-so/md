@@ -1,0 +1,10 @@
+{
+	"chain": 130,
+	"address": "0x4200000000000000000000000000000000000006",
+	"symbol": "Unichain Bridged WETH (Unichain)",
+	"name": "Unichain Bridged WETH (Unichain)",
+	"coingecko": "unichain-bridged-weth-unichain",
+	"sources": [
+		"coingecko"
+	]
+}

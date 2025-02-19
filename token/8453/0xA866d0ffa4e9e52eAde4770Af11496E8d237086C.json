@@ -1,0 +1,11 @@
+{
+	"chain": 8453,
+	"address": "0xA866d0ffa4e9e52eAde4770Af11496E8d237086C",
+	"symbol": "MAX",
+	"name": "Matr1x",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/MAX/logo.png",
+	"sources": [
+		"optimism"
+	]
+}

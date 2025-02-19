@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x1DE6289894E1763B6ea01401eD638DC1184B0E9b",
+	"symbol": "INFY",
+	"name": "Infinity AI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/54453/thumb/infy.jpg?1739783440",
+	"coingecko": "infinity-ai",
+	"sources": [
+		"coingecko"
+	]
+}

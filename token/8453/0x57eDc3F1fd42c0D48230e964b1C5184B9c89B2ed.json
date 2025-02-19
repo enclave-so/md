@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x57eDc3F1fd42c0D48230e964b1C5184B9c89B2ed",
+	"symbol": "draiftking",
+	"name": "draiftking",
+	"coingecko": "draiftking",
+	"sources": [
+		"coingecko"
+	]
+}

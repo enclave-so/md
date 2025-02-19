@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x675B68AA4d9c2d3BB3F0397048e62E6B7192079c",
+	"symbol": "FUEL",
+	"name": "Fuel Network",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/29577/thumb/fuel.png?1696528516",
+	"coingecko": "fuel-network",
+	"sources": [
+		"coingecko"
+	]
+}

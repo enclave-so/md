@@ -5,9 +5,7 @@
 	"name": "SuperFarm",
 	"decimals": 18,
 	"logo": "https://assets.coingecko.com/coins/images/14040/thumb/6YPdWn6.png?1613975899",
-	"coingecko": "superfarm",
 	"sources": [
-		"coingecko",
 		"uniswap"
 	]
 }

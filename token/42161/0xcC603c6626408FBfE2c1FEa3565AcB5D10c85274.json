@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0xcC603c6626408FBfE2c1FEa3565AcB5D10c85274",
+	"symbol": "Dinari DAL",
+	"name": "Dinari DAL",
+	"coingecko": "dinari-dal",
+	"sources": [
+		"coingecko"
+	]
+}

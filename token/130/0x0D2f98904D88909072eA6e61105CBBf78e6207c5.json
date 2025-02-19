@@ -1,0 +1,11 @@
+{
+	"chain": 130,
+	"address": "0x0D2f98904D88909072eA6e61105CBBf78e6207c5",
+	"symbol": "PYUSD",
+	"name": "PayPal USD",
+	"decimals": 6,
+	"logo": "https://assets.coingecko.com/coins/images/31212/large/PYUSD_Logo_%282%29.png?1691458314",
+	"sources": [
+		"uniswap"
+	]
+}

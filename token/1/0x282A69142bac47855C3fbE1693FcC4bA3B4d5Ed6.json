@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x282A69142bac47855C3fbE1693FcC4bA3B4d5Ed6",
+	"symbol": "CARROT",
+	"name": "Carrot by Puffer",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/54106/thumb/CARROT__200x200.png?1739002309",
+	"coingecko": "carrot-by-puffer",
+	"sources": [
+		"coingecko"
+	]
+}

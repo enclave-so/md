@@ -1,0 +1,10 @@
+{
+	"chain": 2020,
+	"address": "0x1B918543B518E34902e1E8dd76052BeE43C762Ff",
+	"symbol": "Berry",
+	"name": "Berry",
+	"coingecko": "berry-pixels",
+	"sources": [
+		"coingecko"
+	]
+}

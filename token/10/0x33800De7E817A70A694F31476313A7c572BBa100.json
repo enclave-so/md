@@ -1,0 +1,10 @@
+{
+	"chain": 10,
+	"address": "0x33800De7E817A70A694F31476313A7c572BBa100",
+	"symbol": "Derive",
+	"name": "Derive",
+	"coingecko": "derive",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x0ED151c9749d39C3CA8E537125fB4053E0c9b55f",
+	"symbol": "Dawae",
+	"name": "Dawae",
+	"coingecko": "dawae-2",
+	"sources": [
+		"coingecko"
+	]
+}

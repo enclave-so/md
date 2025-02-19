@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x1035AE3F87A91084C6C5084d0615Cc6121c5e228",
+	"symbol": "Based Fwog",
+	"name": "Based Fwog",
+	"coingecko": "based-fwog",
+	"sources": [
+		"coingecko"
+	]
+}

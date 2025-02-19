@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x399Ef659FDeAD53B3E7f97E9491E727925667945",
+	"symbol": "L1X",
+	"name": "Layer One X",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/53826/thumb/l1x-logo-coingecko.png?1737542721",
+	"coingecko": "layer-one-x-2",
+	"sources": [
+		"coingecko"
+	]
+}

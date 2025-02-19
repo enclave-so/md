@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x09De9C8FBE90271E8886b55d66E3b37130E3A3da",
+	"symbol": "CCLD",
+	"name": "Dinari CCL",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/54275/thumb/d-token-200.png?1738998063",
+	"coingecko": "dinari-ccl",
+	"sources": [
+		"coingecko"
+	]
+}

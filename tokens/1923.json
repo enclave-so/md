@@ -1,0 +1,72 @@
+[
+	{
+		"chain": 1923,
+		"address": "0xA6cB988942610f6731e664379D15fFcfBf282b44",
+		"symbol": "Layerzero Bridged weETH (Swellchain)",
+		"name": "Layerzero Bridged weETH (Swellchain)",
+		"coingecko": "layerzero-bridged-weeth-swellchain",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1923,
+		"address": "0xf6718b2701D4a6498eF77D7c152b2137Ab28b8A3",
+		"symbol": "Lorenzo stBTC",
+		"name": "Lorenzo stBTC",
+		"coingecko": "lorenzo-stbtc",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1923,
+		"address": "0xEa34479f7d95341E5fd49b89936366D6da710824",
+		"symbol": "Neptune Finance",
+		"name": "Neptune Finance",
+		"coingecko": "neptune-finance",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1923,
+		"address": "0x18d33689AE5d02649a859A1CF16c9f0563975258",
+		"symbol": "Layerzero Bridged rswETH (Swellchain)",
+		"name": "Layerzero Bridged rswETH (Swellchain)",
+		"coingecko": "layerzero-bridged-rsweth-swellchain",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1923,
+		"address": "0x1cf7b5f266A0F39d6f9408B90340E3E71dF8BF7B",
+		"symbol": "Layerzero Bridged swBTC (Swellchain)",
+		"name": "Layerzero Bridged swBTC (Swellchain)",
+		"coingecko": "layerzero-bridged-swbtc-swellchain",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1923,
+		"address": "0x2826D136F5630adA89C1678b64A61620Aab77Aea",
+		"symbol": "Layerzero Bridged Swell",
+		"name": "Layerzero Bridged Swell",
+		"coingecko": "layerzero-bridged-swell",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1923,
+		"address": "0x09341022ea237a4DB1644DE7CCf8FA0e489D85B7",
+		"symbol": "Layerzero Bridged swETH",
+		"name": "Layerzero Bridged swETH",
+		"coingecko": "layerzero-bridged-sweth",
+		"sources": [
+			"coingecko"
+		]
+	}
+]

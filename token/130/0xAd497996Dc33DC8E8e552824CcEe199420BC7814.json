@@ -1,0 +1,12 @@
+{
+	"chain": 130,
+	"address": "0xAd497996Dc33DC8E8e552824CcEe199420BC7814",
+	"symbol": "tBTC",
+	"name": "tBTC",
+	"decimals": 18,
+	"logo": "https://raw.githubusercontent.com/uniswap/assets/master/blockchains/ethereum/assets/0x18084fbA666a33d37592fA2633fD49a74DD93a88/logo.png",
+	"sources": [
+		"optimism",
+		"uniswap"
+	]
+}

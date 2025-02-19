@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0xde6AcEAF7F2dCEB3d425643C5F85351f2B38FcdE",
+	"symbol": "HQ",
+	"name": "HQ",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/53766/thumb/_HQ_TOKEN_FINAL_200x200_small_%281%29.png?1737193051",
+	"coingecko": "hq",
+	"sources": [
+		"coingecko"
+	]
+}

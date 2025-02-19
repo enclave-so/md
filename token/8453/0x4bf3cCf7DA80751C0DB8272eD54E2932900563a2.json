@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x4bf3cCf7DA80751C0DB8272eD54E2932900563a2",
+	"symbol": "Citadel by Virtuals",
+	"name": "Citadel by Virtuals",
+	"coingecko": "citadel-by-virtuals",
+	"sources": [
+		"coingecko"
+	]
+}

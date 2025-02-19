@@ -1,0 +1,10 @@
+{
+	"chain": 295,
+	"address": "0x00000000000000000000000000000000005B665A",
+	"symbol": "Kabila",
+	"name": "Kabila",
+	"coingecko": "kabila",
+	"sources": [
+		"coingecko"
+	]
+}

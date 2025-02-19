@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x4e99472385a2522aa292b008Da294a78F420A367",
+	"symbol": "TCAP",
+	"name": "TCAP",
+	"coingecko": "tcap",
+	"sources": [
+		"coingecko"
+	]
+}

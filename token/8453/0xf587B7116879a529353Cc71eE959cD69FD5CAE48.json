@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xf587B7116879a529353Cc71eE959cD69FD5CAE48",
+	"symbol": "cgETH Hashkey Cloud",
+	"name": "cgETH Hashkey Cloud",
+	"coingecko": "cgeth-hashkey-cloud",
+	"sources": [
+		"coingecko"
+	]
+}

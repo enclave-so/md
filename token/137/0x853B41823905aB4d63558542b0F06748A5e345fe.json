@@ -1,0 +1,11 @@
+{
+	"chain": 137,
+	"address": "0x853B41823905aB4d63558542b0F06748A5e345fe",
+	"symbol": "FLOKI",
+	"name": "FLOKI",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/16746/standard/PNG_image.png?1696516318",
+	"sources": [
+		"uniswap"
+	]
+}

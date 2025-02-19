@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x6E401189c8A68D05562c9Bab7f674f910821EAcF",
+	"symbol": "KernelDAO",
+	"name": "KernelDAO",
+	"coingecko": "kernel-2",
+	"sources": [
+		"coingecko"
+	]
+}

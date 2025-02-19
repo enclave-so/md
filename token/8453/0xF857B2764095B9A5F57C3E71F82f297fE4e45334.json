@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xF857B2764095B9A5F57C3E71F82f297fE4e45334",
+	"symbol": "DeFAI",
+	"name": "DeFAI",
+	"coingecko": "defai",
+	"sources": [
+		"coingecko"
+	]
+}

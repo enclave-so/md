@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x85cf87e35Bf9D20380889016bac20e519324d928",
+	"symbol": "Skimask Pnut",
+	"name": "Skimask Pnut",
+	"coingecko": "skimask-pnut",
+	"sources": [
+		"coingecko"
+	]
+}

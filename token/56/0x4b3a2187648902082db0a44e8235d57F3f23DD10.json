@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x4b3a2187648902082db0a44e8235d57F3f23DD10",
+	"symbol": "PinEye",
+	"name": "PinEye",
+	"coingecko": "pineye",
+	"sources": [
+		"coingecko"
+	]
+}

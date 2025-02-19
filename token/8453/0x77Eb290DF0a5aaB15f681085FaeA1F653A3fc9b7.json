@@ -1,0 +1,11 @@
+{
+	"chain": 8453,
+	"address": "0x77Eb290DF0a5aaB15f681085FaeA1F653A3fc9b7",
+	"symbol": "xRING",
+	"name": "Darwinia Network xRING",
+	"decimals": 18,
+	"logo": "https://ethereum-optimism.github.io/data/XRING/logo.svg",
+	"sources": [
+		"optimism"
+	]
+}

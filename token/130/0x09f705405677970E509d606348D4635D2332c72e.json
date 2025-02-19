@@ -1,0 +1,11 @@
+{
+	"chain": 130,
+	"address": "0x09f705405677970E509d606348D4635D2332c72e",
+	"symbol": "STRK",
+	"name": "Starknet",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/26433/standard/starknet.png?1696525507",
+	"sources": [
+		"uniswap"
+	]
+}

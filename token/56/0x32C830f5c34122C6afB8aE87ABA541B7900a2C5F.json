@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x32C830f5c34122C6afB8aE87ABA541B7900a2C5F",
+	"symbol": "ynBNB MAX",
+	"name": "ynBNB MAX",
+	"coingecko": "ynbnb-max",
+	"sources": [
+		"coingecko"
+	]
+}

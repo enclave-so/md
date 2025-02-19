@@ -1,0 +1,92 @@
+[
+	{
+		"chain": 1868,
+		"address": "0xA0aeBd4Ae5F256B72B7D43f67eD934237Adb1AeE",
+		"symbol": "Bonsai Coin",
+		"name": "Bonsai Coin",
+		"coingecko": "bonsai-coin",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1868,
+		"address": "0xf24e57b1cb00d98C31F04f86328e22E8fcA457fb",
+		"symbol": "SONE",
+		"name": "SONE",
+		"coingecko": "sone",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1868,
+		"address": "0x2CAE934a1e84F693fbb78CA5ED3B0A6893259441",
+		"symbol": "Soneium Bridged Astar (Soneium)",
+		"name": "Soneium Bridged Astar (Soneium)",
+		"coingecko": "soneium-bridged-astar-soneium",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1868,
+		"address": "0x4200000000000000000000000000000000000006",
+		"symbol": "Superbridge Bridged WETH (Soneium)",
+		"name": "Superbridge Bridged WETH (Soneium)",
+		"coingecko": "superbridge-bridged-weth-soneium",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1868,
+		"address": "0xc67476893C166c537afd9bc6bc87b3f228b44337",
+		"symbol": "Neemo Staked Astar",
+		"name": "Neemo Staked Astar",
+		"coingecko": "neemo-staked-astar",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1868,
+		"address": "0xbA9986D2381edf1DA03B0B9c1f8b00dc4AacC369",
+		"symbol": "Soneium Bridged USDC (Soneium)",
+		"name": "Soneium Bridged USDC (Soneium)",
+		"coingecko": "soneium-bridged-usdc-soneium",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1868,
+		"address": "0x3A337a6adA9d885b6Ad95ec48F9b75f197b5AE35",
+		"symbol": "Soneium Bridged USDT (Soneium)",
+		"name": "Soneium Bridged USDT (Soneium)",
+		"coingecko": "soneium-bridged-usdt-soneium",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1868,
+		"address": "0xda14b3B7aEF494b8c37ed9710d14e44D490316fa",
+		"symbol": "Yay Kelp DAO’s Airdrop Gain ETH",
+		"name": "Yay Kelp DAO’s Airdrop Gain ETH",
+		"coingecko": "yay-kelp-dao-s-airdrop-gain-eth",
+		"sources": [
+			"coingecko"
+		]
+	},
+	{
+		"chain": 1868,
+		"address": "0x54e86315C03217b76A7466C302245fD10ebEf25A",
+		"symbol": "Yay StakeStone Ether",
+		"name": "Yay StakeStone Ether",
+		"coingecko": "yay-stakestone-ether",
+		"sources": [
+			"coingecko"
+		]
+	}
+]

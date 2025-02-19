@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x0575BF910466B306afb07E4544203D9E21413C56",
+	"symbol": "NOAI",
+	"name": "Nord Ai",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/53040/thumb/DEXTOOLS_logo.png?1735074594",
+	"coingecko": "nord-ai",
+	"sources": [
+		"coingecko"
+	]
+}

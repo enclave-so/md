@@ -1,0 +1,10 @@
+{
+	"chain": 42793,
+	"address": "0x9121B153bbCF8C23F20eE43b494F08760B91aD64",
+	"symbol": "Tezos Pepe",
+	"name": "Tezos Pepe",
+	"coingecko": "tezos-pepe-2",
+	"sources": [
+		"coingecko"
+	]
+}

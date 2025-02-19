@@ -1,0 +1,11 @@
+{
+	"chain": 130,
+	"address": "0x1e196D83e2c562de0b1f270Eb72220335bA0ADa7",
+	"symbol": "ASM",
+	"name": "Assemble Protocol",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/11605/thumb/gpvrlkSq_400x400_%281%29.jpg?1591775789",
+	"sources": [
+		"uniswap"
+	]
+}

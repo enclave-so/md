@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xD9eA811a51D6fe491d27c2a0442b3F577852874d",
+	"symbol": "Breakout Bro by Virtuals",
+	"name": "Breakout Bro by Virtuals",
+	"coingecko": "breakout-bro-by-virtuals",
+	"sources": [
+		"coingecko"
+	]
+}

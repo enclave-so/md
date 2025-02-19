@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x3bf9a2A798c9b122747344DA0276D30a267a80dC",
+	"symbol": "Fear of Missing Out",
+	"name": "Fear of Missing Out",
+	"coingecko": "fear-of-missing-out",
+	"sources": [
+		"coingecko"
+	]
+}

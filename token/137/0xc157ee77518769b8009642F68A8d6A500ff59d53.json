@@ -1,0 +1,10 @@
+{
+	"chain": 137,
+	"address": "0xc157ee77518769b8009642F68A8d6A500ff59d53",
+	"symbol": "NoLimitCoin",
+	"name": "NoLimitCoin",
+	"coingecko": "nolimitcoin",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 324,
+	"address": "0x0469d9d1dE0ee58fA1153ef00836B9BbCb84c0B6",
+	"symbol": "Noon USN",
+	"name": "Noon USN",
+	"coingecko": "noon-usn",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x32f4768FC4A238A58fc9da408d9a0Da4333012E4",
+	"symbol": "NAI",
+	"name": "Nimbus AI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/53697/thumb/Nimbus_AI.png?1737064616",
+	"coingecko": "nimbus-ai",
+	"sources": [
+		"coingecko"
+	]
+}

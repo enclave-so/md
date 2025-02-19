@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x35bfE9427d37cEc78ea1EB9fa922f12Ae8A32547",
+	"symbol": "ETH Printer",
+	"name": "ETH Printer",
+	"coingecko": "eth-printer",
+	"sources": [
+		"coingecko"
+	]
+}

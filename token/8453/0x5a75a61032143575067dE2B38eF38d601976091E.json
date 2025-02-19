@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x5a75a61032143575067dE2B38eF38d601976091E",
+	"symbol": "Sharbi",
+	"name": "Sharbi",
+	"coingecko": "sharbi",
+	"sources": [
+		"coingecko"
+	]
+}

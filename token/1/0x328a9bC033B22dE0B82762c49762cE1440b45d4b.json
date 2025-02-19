@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x328a9bC033B22dE0B82762c49762cE1440b45d4b",
+	"symbol": "PALLD",
+	"name": "Dinari PALL",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/54270/thumb/d-token-200.png?1738994765",
+	"coingecko": "dinari-pall",
+	"sources": [
+		"coingecko"
+	]
+}

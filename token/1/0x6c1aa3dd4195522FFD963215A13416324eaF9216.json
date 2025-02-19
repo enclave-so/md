@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x6c1aa3dd4195522FFD963215A13416324eaF9216",
+	"symbol": "BACD",
+	"name": "Dinari BAC",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/54049/thumb/d-token-200.png?1738103338",
+	"coingecko": "dinari-bac",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xB8Ebc0fc2453A1Be3AB48Db2dE6237Ce56e00C48",
+	"symbol": "Dinari WOOD",
+	"name": "Dinari WOOD",
+	"coingecko": "dinari-wood",
+	"sources": [
+		"coingecko"
+	]
+}

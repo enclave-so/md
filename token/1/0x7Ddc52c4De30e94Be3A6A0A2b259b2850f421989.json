@@ -2,7 +2,7 @@
 	"chain": 1,
 	"address": "0x7Ddc52c4De30e94Be3A6A0A2b259b2850f421989",
 	"symbol": "GOMINING",
-	"name": "Gomining Token",
+	"name": "GoMining Token",
 	"decimals": 18,
 	"logo": "https://assets.coingecko.com/coins/images/15662/thumb/GoMining_Logo.png?1714757256",
 	"coingecko": "gmt-token",

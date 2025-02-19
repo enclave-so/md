@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x53afF1d59Ea64f7f836670E33e99A0443f0eF25C",
+	"symbol": "AVGOD",
+	"name": "Dinari AVGO",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/53862/thumb/d-token-200.png?1737614626",
+	"coingecko": "dinari-avgo",
+	"sources": [
+		"coingecko"
+	]
+}

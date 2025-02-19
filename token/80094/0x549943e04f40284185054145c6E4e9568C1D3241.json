@@ -1,0 +1,10 @@
+{
+	"chain": 80094,
+	"address": "0x549943e04f40284185054145c6E4e9568C1D3241",
+	"symbol": "Stargate Bridged USDC (Berachain)",
+	"name": "Stargate Bridged USDC (Berachain)",
+	"coingecko": "stargate-bridged-usdc-berachain",
+	"sources": [
+		"coingecko"
+	]
+}

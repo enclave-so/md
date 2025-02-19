@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0xabAb3B0DB38f2303ACbCAB672905E41A18e396d8",
+	"symbol": "APEMAN",
+	"name": "Ape Man",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/53603/thumb/2025-01-14_09.43.33.jpg?1736852368",
+	"coingecko": "ape-man",
+	"sources": [
+		"coingecko"
+	]
+}

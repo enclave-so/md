@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x513D3246A54148192d6bEf4de81885c8F4bFE96c",
+	"symbol": "GON",
+	"name": "GOLFIN",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/52957/thumb/Golfin_CMC_Logo.png?1734798386",
+	"coingecko": "golfin",
+	"sources": [
+		"coingecko"
+	]
+}

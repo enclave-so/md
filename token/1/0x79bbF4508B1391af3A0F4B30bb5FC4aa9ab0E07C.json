@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x79bbF4508B1391af3A0F4B30bb5FC4aa9ab0E07C",
+	"symbol": "ANON",
+	"name": "Hey Anon",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/52961/thumb/ICON.png?1734862960",
+	"coingecko": "heyanon",
+	"sources": [
+		"coingecko"
+	]
+}

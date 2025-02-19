@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x9E6A46f294bB67c20F1D1E7AfB0bBEf614403B55",
+	"symbol": "MAG7.ssi",
+	"name": "MAG7.ssi",
+	"coingecko": "mag7-ssi",
+	"sources": [
+		"coingecko"
+	]
+}

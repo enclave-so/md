@@ -1,0 +1,10 @@
+{
+	"chain": 1868,
+	"address": "0x2CAE934a1e84F693fbb78CA5ED3B0A6893259441",
+	"symbol": "Soneium Bridged Astar (Soneium)",
+	"name": "Soneium Bridged Astar (Soneium)",
+	"coingecko": "soneium-bridged-astar-soneium",
+	"sources": [
+		"coingecko"
+	]
+}

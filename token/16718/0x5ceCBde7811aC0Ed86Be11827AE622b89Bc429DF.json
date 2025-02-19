@@ -1,0 +1,10 @@
+{
+	"chain": 16718,
+	"address": "0x5ceCBde7811aC0Ed86Be11827AE622b89Bc429DF",
+	"symbol": "Astra",
+	"name": "Astra",
+	"coingecko": "astra-2",
+	"sources": [
+		"coingecko"
+	]
+}

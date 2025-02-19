@@ -1,0 +1,11 @@
+{
+	"chain": 130,
+	"address": "0x757dCF360f2FE999FAEEBcc6E80f5Eceb3cb3CA4",
+	"symbol": "Zeta",
+	"name": "Zetachain",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/26718/standard/Twitter_icon.png?1696525788",
+	"sources": [
+		"uniswap"
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x9E456714F6D4101d230b1F0Aa9d9A25F72780CA6",
+	"symbol": "OMAGENT",
+	"name": "OmniAgent",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/52737/thumb/IMG_20241213_011935_730.jpg?1734105833",
+	"coingecko": "omniagent",
+	"sources": [
+		"coingecko"
+	]
+}

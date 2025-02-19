@@ -1,9 +1,9 @@
 {
 	"chain": 59144,
 	"address": "0xB5beDd42000b71FddE22D3eE8a79Bd49A568fC8F",
-	"symbol": "Wrapped stETH",
-	"name": "Wrapped stETH",
-	"coingecko": "wrapped-steth",
+	"symbol": "Linea Bridged wstETH (Linea)",
+	"name": "Linea Bridged wstETH (Linea)",
+	"coingecko": "linea-bridged-wsteth-linea",
 	"sources": [
 		"coingecko"
 	]

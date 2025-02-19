@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xd403D1624DAEF243FbcBd4A80d8A6F36afFe32b2",
+	"symbol": "Wrapped Chainlink (Universal)",
+	"name": "Wrapped Chainlink (Universal)",
+	"coingecko": "wrapped-chainlink-universal",
+	"sources": [
+		"coingecko"
+	]
+}

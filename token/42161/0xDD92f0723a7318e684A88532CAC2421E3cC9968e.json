@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0xDD92f0723a7318e684A88532CAC2421E3cC9968e",
+	"symbol": "Dinari DEFI",
+	"name": "Dinari DEFI",
+	"coingecko": "dinari-defi",
+	"sources": [
+		"coingecko"
+	]
+}

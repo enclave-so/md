@@ -4,9 +4,10 @@
 	"symbol": "SWELL",
 	"name": "Swell",
 	"decimals": 18,
-	"logo": "https://assets.coingecko.com/coins/images/28777/thumb/swell1.png?1727899715",
+	"logo": "https://coin-images.coingecko.com/coins/images/28777/large/swell1.png?1727899715",
 	"coingecko": "swell-network",
 	"sources": [
-		"coingecko"
+		"coingecko",
+		"uniswap"
 	]
 }

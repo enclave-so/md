@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0xca76BF98B6e44DF7360Da8650E701f6D9D94Bb58",
+	"symbol": "MK",
+	"name": "Memelinked",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/54072/thumb/IMG_2882.jpeg?1738151752",
+	"coingecko": "memelinked",
+	"sources": [
+		"coingecko"
+	]
+}

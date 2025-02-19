@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x2CAD08360009226261ab4d32684aacDbBeC3F8dA",
+	"symbol": "NLYD",
+	"name": "Dinari NLY",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/53869/thumb/d-token-200.png?1737615761",
+	"coingecko": "dinari-nly",
+	"sources": [
+		"coingecko"
+	]
+}

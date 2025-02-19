@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x0781552E3c597B14e146B8589F322a751e90E904",
+	"symbol": "Fuxi Dragon",
+	"name": "Fuxi Dragon",
+	"coingecko": "fuxi-dragon",
+	"sources": [
+		"coingecko"
+	]
+}

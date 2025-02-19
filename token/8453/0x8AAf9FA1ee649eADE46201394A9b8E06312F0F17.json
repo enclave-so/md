@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x8AAf9FA1ee649eADE46201394A9b8E06312F0F17",
+	"symbol": "Boofus by Virtuals",
+	"name": "Boofus by Virtuals",
+	"coingecko": "boofus-by-virtuals",
+	"sources": [
+		"coingecko"
+	]
+}

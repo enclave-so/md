@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0xaF04f0912E793620824F4442b03F4d984Af29853",
+	"symbol": "HYDRA",
+	"name": "HydraDAO",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/54421/thumb/hydra-icon.png?1739603226",
+	"coingecko": "hydradao",
+	"sources": [
+		"coingecko"
+	]
+}

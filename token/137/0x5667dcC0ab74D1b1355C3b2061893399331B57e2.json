@@ -1,0 +1,11 @@
+{
+	"chain": 137,
+	"address": "0x5667dcC0ab74D1b1355C3b2061893399331B57e2",
+	"symbol": "TVK",
+	"name": "The Virtua Kolect",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/13330/thumb/virtua_original.png?1656043619",
+	"sources": [
+		"uniswap"
+	]
+}

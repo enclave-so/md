@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x77184100237e46b06cd7649aBf37435F5D5e678B",
+	"symbol": "SuperMeme",
+	"name": "SuperMeme",
+	"coingecko": "supermeme",
+	"sources": [
+		"coingecko"
+	]
+}

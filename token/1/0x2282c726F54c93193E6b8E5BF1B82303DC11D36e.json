@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x2282c726F54c93193E6b8E5BF1B82303DC11D36e",
+	"symbol": "DAY",
+	"name": "Dayhub",
+	"decimals": 6,
+	"logo": "https://assets.coingecko.com/coins/images/52722/thumb/dayhub_logo_bc_200x200.jpg?1734168433",
+	"coingecko": "dayhyb",
+	"sources": [
+		"coingecko"
+	]
+}

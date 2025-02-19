@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x2C2f0FFbFA1B8b9C85400f1726e1bc0892e63D9F",
+	"symbol": "RFSTETH",
+	"name": "Return Finance Lido stETH",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/52934/thumb/download.png?1734711094",
+	"coingecko": "return-finance-lido-steth",
+	"sources": [
+		"coingecko"
+	]
+}

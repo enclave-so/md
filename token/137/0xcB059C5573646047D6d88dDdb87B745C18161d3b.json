@@ -1,0 +1,11 @@
+{
+	"chain": 137,
+	"address": "0xcB059C5573646047D6d88dDdb87B745C18161d3b",
+	"symbol": "POLY",
+	"name": "Polymath",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/2784/thumb/inKkF01.png?1605007034",
+	"sources": [
+		"uniswap"
+	]
+}

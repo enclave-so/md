@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0xBBBB2D4d765c1e455E4896A64BA3883e914ABBBB",
+	"symbol": "BMP",
+	"name": "BitmapPunks",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/53387/thumb/logo_200x200.png?1736275823",
+	"coingecko": "bitmappunks",
+	"sources": [
+		"coingecko"
+	]
+}

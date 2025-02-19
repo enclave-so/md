@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x441F06c76fd62b8A243FcEC2Fc3b6B4de34E875C",
+	"symbol": "Fullhouse.gg",
+	"name": "Fullhouse.gg",
+	"coingecko": "fullhouse-gg",
+	"sources": [
+		"coingecko"
+	]
+}

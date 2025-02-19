@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x0709f6CAceeFD70B867ED3ea278b911238Eb7F6f",
+	"symbol": "Dinari EEM",
+	"name": "Dinari EEM",
+	"coingecko": "dinari-eem",
+	"sources": [
+		"coingecko"
+	]
+}

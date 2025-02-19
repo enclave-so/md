@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x140284d383918c522ACA8F1CC6Df49043b562e9b",
+	"symbol": "BLAP",
+	"name": "BLAP",
+	"coingecko": "blap",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"chain": 130,
+	"address": "0xb8A8e137A2dAa25EF1B3577b6598fE8Be66Ecf77",
+	"symbol": "ACH",
+	"name": "Alchemy Pay",
+	"decimals": 8,
+	"logo": "https://assets.coingecko.com/coins/images/12390/thumb/ACH_%281%29.png?1599691266",
+	"sources": [
+		"uniswap"
+	]
+}

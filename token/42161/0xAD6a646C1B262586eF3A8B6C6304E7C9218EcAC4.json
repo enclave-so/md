@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0xAD6a646C1B262586eF3A8B6C6304E7C9218EcAC4",
+	"symbol": "Dinari PHO",
+	"name": "Dinari PHO",
+	"coingecko": "dinari-pho",
+	"sources": [
+		"coingecko"
+	]
+}

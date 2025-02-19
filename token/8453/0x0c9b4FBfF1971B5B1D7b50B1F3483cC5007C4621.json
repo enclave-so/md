@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x0c9b4FBfF1971B5B1D7b50B1F3483cC5007C4621",
+	"symbol": "Dinari HOOD",
+	"name": "Dinari HOOD",
+	"coingecko": "dinari-hood",
+	"sources": [
+		"coingecko"
+	]
+}

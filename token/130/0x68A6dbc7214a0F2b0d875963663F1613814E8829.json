@@ -1,0 +1,12 @@
+{
+	"chain": 130,
+	"address": "0x68A6dbc7214a0F2b0d875963663F1613814E8829",
+	"symbol": "LDO",
+	"name": "Lido DAO",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/13573/thumb/Lido_DAO.png?1609873644",
+	"sources": [
+		"optimism",
+		"uniswap"
+	]
+}

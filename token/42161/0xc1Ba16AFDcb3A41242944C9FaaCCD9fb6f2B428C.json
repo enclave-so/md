@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0xc1Ba16AFDcb3A41242944C9FaaCCD9fb6f2B428C",
+	"symbol": "Dinari IBIT",
+	"name": "Dinari IBIT",
+	"coingecko": "dinari-ibit",
+	"sources": [
+		"coingecko"
+	]
+}

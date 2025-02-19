@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xE87739E3494aE2AFe555CDD46Df45050Cc709522",
+	"symbol": "MIAOCoin",
+	"name": "MIAOCoin",
+	"coingecko": "miaocoin",
+	"sources": [
+		"coingecko"
+	]
+}

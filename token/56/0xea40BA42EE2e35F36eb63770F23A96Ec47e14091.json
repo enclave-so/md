@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xea40BA42EE2e35F36eb63770F23A96Ec47e14091",
+	"symbol": "Verb Ai",
+	"name": "Verb Ai",
+	"coingecko": "verb-ai",
+	"sources": [
+		"coingecko"
+	]
+}

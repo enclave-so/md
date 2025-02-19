@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0x3Ab1A5f76E12202d1AD1548A08a799501581Da4E",
+	"symbol": "DIN",
+	"name": "DIN",
+	"coingecko": "din",
+	"sources": [
+		"coingecko"
+	]
+}

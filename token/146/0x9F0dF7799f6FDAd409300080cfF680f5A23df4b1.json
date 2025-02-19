@@ -1,0 +1,10 @@
+{
+	"chain": 146,
+	"address": "0x9F0dF7799f6FDAd409300080cfF680f5A23df4b1",
+	"symbol": "Wrapped Origin Sonic",
+	"name": "Wrapped Origin Sonic",
+	"coingecko": "wrapped-sonic-origin",
+	"sources": [
+		"coingecko"
+	]
+}

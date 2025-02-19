@@ -1,0 +1,10 @@
+{
+	"chain": 2020,
+	"address": "0xC6046fa4B8961B0E9d823BB3F2dDE8FE161D547D",
+	"symbol": "KDR",
+	"name": "KDR",
+	"coingecko": "kdr",
+	"sources": [
+		"coingecko"
+	]
+}

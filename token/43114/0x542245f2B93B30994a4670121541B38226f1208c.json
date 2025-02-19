@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x542245f2B93B30994a4670121541B38226f1208c",
+	"symbol": "Balanced",
+	"name": "Balanced",
+	"coingecko": "balance-tokens",
+	"sources": [
+		"coingecko"
+	]
+}

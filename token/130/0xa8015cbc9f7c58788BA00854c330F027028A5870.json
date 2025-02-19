@@ -1,0 +1,11 @@
+{
+	"chain": 130,
+	"address": "0xa8015cbc9f7c58788BA00854c330F027028A5870",
+	"symbol": "SWELL",
+	"name": "Swell",
+	"decimals": 18,
+	"logo": "https://coin-images.coingecko.com/coins/images/28777/large/swell1.png?1727899715",
+	"sources": [
+		"uniswap"
+	]
+}

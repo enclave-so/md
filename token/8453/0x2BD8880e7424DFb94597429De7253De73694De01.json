@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x2BD8880e7424DFb94597429De7253De73694De01",
+	"symbol": "Gia by DexFi",
+	"name": "Gia by DexFi",
+	"coingecko": "gia-by-dexfi",
+	"sources": [
+		"coingecko"
+	]
+}

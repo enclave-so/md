@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0x63db244bC895b3AcCEC6698cE11b0dbD1d3e1C44",
+	"symbol": "TRUST AI",
+	"name": "TRUST AI",
+	"coingecko": "trust-ai",
+	"sources": [
+		"coingecko"
+	]
+}

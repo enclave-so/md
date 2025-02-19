@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0xdF36186772a8fDA4bE100dbaCc0B48EF00C53089",
+	"symbol": "Strawberry AI",
+	"name": "Strawberry AI",
+	"coingecko": "strawberry-ai",
+	"sources": [
+		"coingecko"
+	]
+}

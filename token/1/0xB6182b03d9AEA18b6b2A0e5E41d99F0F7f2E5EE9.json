@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0xB6182b03d9AEA18b6b2A0e5E41d99F0F7f2E5EE9",
+	"symbol": "DEXED",
+	"name": "DEXED",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/35617/thumb/dexed-com-logo-coingecko.png?1735658515",
+	"coingecko": "dexed",
+	"sources": [
+		"coingecko"
+	]
+}

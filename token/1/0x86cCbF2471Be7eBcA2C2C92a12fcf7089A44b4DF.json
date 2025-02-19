@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x86cCbF2471Be7eBcA2C2C92a12fcf7089A44b4DF",
+	"symbol": "SBUXD",
+	"name": "Dinari SBUX",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/54364/thumb/d-token-200.png?1739401368",
+	"coingecko": "dinari-sbux",
+	"sources": [
+		"coingecko"
+	]
+}

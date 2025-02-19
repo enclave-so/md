@@ -1,0 +1,10 @@
+{
+	"chain": 56,
+	"address": "0xE1711feadC3b16A3071F99594cbCf38D2fC117d4",
+	"symbol": "NANA Coin",
+	"name": "NANA Coin",
+	"coingecko": "nana-coin",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x0B3EAEAd748facDb9d943d3407011f16Eb17D0Cf",
+	"symbol": "Primex Finance",
+	"name": "Primex Finance",
+	"coingecko": "primex-finance",
+	"sources": [
+		"coingecko"
+	]
+}

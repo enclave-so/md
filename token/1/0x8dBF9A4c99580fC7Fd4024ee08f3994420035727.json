@@ -2,12 +2,10 @@
 	"chain": 1,
 	"address": "0x8dBF9A4c99580fC7Fd4024ee08f3994420035727",
 	"symbol": "ECO",
-	"name": "ECO",
+	"name": "Eco",
 	"decimals": 18,
-	"logo": "https://assets.coingecko.com/coins/images/27961/thumb/_ECO.png?1696526980",
-	"coingecko": "eco",
+	"logo": "https://ethereum-optimism.github.io/data/ECO/logo.svg",
 	"sources": [
-		"coingecko",
 		"optimism"
 	]
 }

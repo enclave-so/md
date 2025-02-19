@@ -1,0 +1,13 @@
+{
+	"chain": 56,
+	"address": "0x9817F4c9f968a553fF6caEf1a2ef6cF1386F16F7",
+	"symbol": "asCAKE",
+	"name": "Astherus CAKE",
+	"decimals": 18,
+	"logo": "https://tokens.pancakeswap.finance/images/0x9817F4c9f968a553fF6caEf1a2ef6cF1386F16F7.png",
+	"coingecko": "astherus-staked-cake",
+	"sources": [
+		"coingecko",
+		"pancakeswap"
+	]
+}

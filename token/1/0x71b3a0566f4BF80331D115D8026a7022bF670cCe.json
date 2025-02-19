@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x71b3a0566f4BF80331D115D8026a7022bF670cCe",
+	"symbol": "DD",
+	"name": "Diment Dollar",
+	"decimals": 6,
+	"logo": "https://assets.coingecko.com/coins/images/37047/thumb/200x200_DD.png?1713296168",
+	"coingecko": "diment-dollar",
+	"sources": [
+		"coingecko"
+	]
+}

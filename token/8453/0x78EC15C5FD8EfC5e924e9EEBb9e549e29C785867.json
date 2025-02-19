@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x78EC15C5FD8EfC5e924e9EEBb9e549e29C785867",
+	"symbol": "Torus",
+	"name": "Torus",
+	"coingecko": "torus",
+	"sources": [
+		"coingecko"
+	]
+}

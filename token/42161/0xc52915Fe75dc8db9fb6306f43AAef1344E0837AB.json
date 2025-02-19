@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0xc52915Fe75dc8db9fb6306f43AAef1344E0837AB",
+	"symbol": "Dinari BTCW",
+	"name": "Dinari BTCW",
+	"coingecko": "dinari-btcw",
+	"sources": [
+		"coingecko"
+	]
+}

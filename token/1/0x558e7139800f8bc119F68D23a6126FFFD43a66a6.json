@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x558e7139800f8bc119F68D23a6126FFFD43a66a6",
+	"symbol": "U2U",
+	"name": "U2U Network",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/32963/thumb/Logo_U2U.jpeg?1734261244",
+	"coingecko": "unicorn-ultra",
+	"sources": [
+		"coingecko"
+	]
+}

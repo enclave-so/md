@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x5E3D723c0CB363127D4a6ab5D43d504A17a5c05D",
+	"symbol": "ERC-AI",
+	"name": "Euruka Tech",
+	"decimals": 9,
+	"logo": "https://assets.coingecko.com/coins/images/53758/thumb/0B23D6E9-3239-4F57-B3B2-2085D1BF8457.jpeg?1737187205",
+	"coingecko": "euruka-tech",
+	"sources": [
+		"coingecko"
+	]
+}

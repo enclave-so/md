@@ -1,0 +1,11 @@
+{
+	"chain": 137,
+	"address": "0x594C984E3318e91313f881B021A0C4203fF5E59F",
+	"symbol": "CHR",
+	"name": "Chromia",
+	"decimals": 6,
+	"logo": "https://assets.coingecko.com/coins/images/5000/thumb/Chromia.png?1559038018",
+	"sources": [
+		"uniswap"
+	]
+}

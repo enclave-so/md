@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x6499999951f0B5ba8B9187958884F9F5b50e45Fd",
+	"symbol": "ORBIT",
+	"name": "OrbitAI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/52698/thumb/IMG_2775.jpeg?1734038985",
+	"coingecko": "orbitai",
+	"sources": [
+		"coingecko"
+	]
+}

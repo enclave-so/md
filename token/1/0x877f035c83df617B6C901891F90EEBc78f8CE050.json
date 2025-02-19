@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x877f035c83df617B6C901891F90EEBc78f8CE050",
+	"symbol": "SENTAI",
+	"name": "SentAI",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/52964/thumb/pfp.jpg?1734879867",
+	"coingecko": "sentai",
+	"sources": [
+		"coingecko"
+	]
+}

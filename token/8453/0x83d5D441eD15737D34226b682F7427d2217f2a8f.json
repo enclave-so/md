@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x83d5D441eD15737D34226b682F7427d2217f2a8f",
+	"symbol": "REM Token",
+	"name": "REM Token",
+	"coingecko": "rem-token",
+	"sources": [
+		"coingecko"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"chain": 8453,
+	"address": "0x946F8B0eF009F3F5B1b35E6511a82A58b09d8d4e",
+	"symbol": "DexKit",
+	"name": "DexKit",
+	"coingecko": "dexkit",
+	"sources": [
+		"coingecko"
+	]
+}

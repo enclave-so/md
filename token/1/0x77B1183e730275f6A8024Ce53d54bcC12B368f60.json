@@ -1,0 +1,12 @@
+{
+	"chain": 1,
+	"address": "0x77B1183e730275f6A8024Ce53d54bcC12B368f60",
+	"symbol": "EZREZ",
+	"name": "Renzo Restaked REZ",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/52730/thumb/REZ.png?1734102389",
+	"coingecko": "renzo-restaked-rez",
+	"sources": [
+		"coingecko"
+	]
+}

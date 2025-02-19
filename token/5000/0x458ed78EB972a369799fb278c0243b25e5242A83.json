@@ -1,9 +1,9 @@
 {
 	"chain": 5000,
 	"address": "0x458ed78EB972a369799fb278c0243b25e5242A83",
-	"symbol": "Wrapped stETH",
-	"name": "Wrapped stETH",
-	"coingecko": "wrapped-steth",
+	"symbol": "Mantle Bridged wstETH (Mantle)",
+	"name": "Mantle Bridged wstETH (Mantle)",
+	"coingecko": "mantle-bridged-wsteth-mantle",
 	"sources": [
 		"coingecko"
 	]

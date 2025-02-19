@@ -1,0 +1,10 @@
+{
+	"chain": 42161,
+	"address": "0xF18e4466F26B4cA55bbAb890b314a54976E45B17",
+	"symbol": "Game7",
+	"name": "Game7",
+	"coingecko": "game7",
+	"sources": [
+		"coingecko"
+	]
+}

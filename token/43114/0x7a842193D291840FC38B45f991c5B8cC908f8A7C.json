@@ -1,0 +1,10 @@
+{
+	"chain": 43114,
+	"address": "0x7a842193D291840FC38B45f991c5B8cC908f8A7C",
+	"symbol": "PULSAR",
+	"name": "PULSAR",
+	"coingecko": "pulsar",
+	"sources": [
+		"coingecko"
+	]
+}

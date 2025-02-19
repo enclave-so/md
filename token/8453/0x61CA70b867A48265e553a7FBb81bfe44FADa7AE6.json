@@ -5,7 +5,9 @@
 	"name": "ARC",
 	"decimals": 18,
 	"logo": "https://ethereum-optimism.github.io/data/ARC/logo.svg",
+	"coingecko": "arc",
 	"sources": [
+		"coingecko",
 		"optimism"
 	]
 }

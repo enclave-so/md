@@ -1,0 +1,11 @@
+{
+	"chain": 130,
+	"address": "0xbF678793522638F7439aFE3B94d2D2A3a4cBF2C9",
+	"symbol": "AXL",
+	"name": "Axelar",
+	"decimals": 6,
+	"logo": "https://assets.coingecko.com/coins/images/27277/large/V-65_xQ1_400x400.jpeg",
+	"sources": [
+		"uniswap"
+	]
+}

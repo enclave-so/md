@@ -1,8 +1,8 @@
 {
 	"chain": 137,
 	"address": "0x2fe8733dcb25BFbbA79292294347415417510067",
-	"symbol": "Exeedme",
-	"name": "Exeedme",
+	"symbol": "Exeedme [OLD]",
+	"name": "Exeedme [OLD]",
 	"coingecko": "exeedme",
 	"sources": [
 		"coingecko"

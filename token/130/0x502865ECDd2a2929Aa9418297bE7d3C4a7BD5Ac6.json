@@ -1,0 +1,11 @@
+{
+	"chain": 130,
+	"address": "0x502865ECDd2a2929Aa9418297bE7d3C4a7BD5Ac6",
+	"symbol": "TONE",
+	"name": "TE FOOD",
+	"decimals": 18,
+	"logo": "https://assets.coingecko.com/coins/images/2325/thumb/tec.png?1547036538",
+	"sources": [
+		"uniswap"
+	]
+}
